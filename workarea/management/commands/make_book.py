@@ -6,7 +6,7 @@ import re
 from books.models import *
 
 def make_verse(book, verse):
-    verse_num = re.findall(r'\[\d+:\d+[A-z]?\]?.', verse);
+    verse_num = re.findall(r'\[\d+[A-z]?:\d+[A-z]?\]?.', verse);
     verse = verse.replace(verse_num[0], '')
     
     chapter_verse = [v.strip() for v in verse_num[0].replace('[', '').replace(']','').split(':')]
@@ -19,6 +19,7 @@ def make_verse(book, verse):
     v.verse_str = chapter_verse[1]
     v.text = verse
     v.save()
+    print("\n\n")
     print(v.book, v.chapter_str, v.verse_str, v.text)
 
 class Command(BaseCommand):
@@ -40,7 +41,7 @@ class Command(BaseCommand):
         
         Verse.objects.filter(book=book).delete()
         
-        verses = re.findall("\[\d+:\d+[A-z]?\][\s\S]*?(?=\[\d+:\d+[A-z]?\]|$)", text)
+        verses = re.findall("\[\d+[A-z]?:\d+[A-z]?\][\s\S]*?(?=\[\d+[A-z]?:\d+[A-z]?\]|$)", text)
                 
         for v in verses:
             make_verse(book, v)
