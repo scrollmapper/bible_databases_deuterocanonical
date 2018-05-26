@@ -17,6 +17,9 @@ Future books will include:
 - The Sheperd of Hermas
 - Apocolypse of Peter
 - ...and more like these.
+
+NOTE: If you are not a coder and would simply prefer some nicely formatted versions of these books, then get them here: https://github.com/scrollmapper/bible_databases_deuterocanonical/tree/master/book_sources
+
 ---------------
 # To Get Started
 
