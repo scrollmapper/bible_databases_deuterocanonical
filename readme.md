@@ -1,5 +1,7 @@
 # Scrollmapper :: Deuterocanonical Project
 
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W8RKPHPUF398G)
+
 Based on the Scrollmapper bible databases: https://github.com/scrollmapper/bible_databases
 
 This is a Python / Django project for committing Deuterocanonical the books to database for study and research. 
@@ -9,11 +11,12 @@ Deuterocanonical books included thus far:
 - 2nd Enoch ("Slavonic" "Secrets of Enoch")
 - 3nd Enoch ("Hebrew" Book of Enoch)
 - 2nd Esdras (also called 4 Esdras, Latin Esdras, or Latin Ezra)
+- 1st Book of Adam and Eve
 
 Future books will include:
 
 - The traditional "Apocryphal" books.
-- The Books of Adam and Eve
+- The Second Book of Adam and Eve
 - The Sheperd of Hermas
 - Apocolypse of Peter
 - ...and more like these.
