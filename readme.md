@@ -16,7 +16,8 @@ Deuterocanonical books included thus far:
 Future books will include:
 
 - The traditional "Apocryphal" books.
-- The Second Book of Adam and Eve
+- Jubilees
+- Jashar
 - The Sheperd of Hermas
 - Apocolypse of Peter
 - ...and more like these.
