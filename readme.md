@@ -11,7 +11,7 @@ Deuterocanonical books included thus far:
 - 2nd Enoch ("Slavonic" "Secrets of Enoch")
 - 3nd Enoch ("Hebrew" Book of Enoch)
 - 2nd Esdras (also called 4 Esdras, Latin Esdras, or Latin Ezra)
-- 1st Book of Adam and Eve
+- 1st and 2nd Book of Adam and Eve
 
 Future books will include:
 
