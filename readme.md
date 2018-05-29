@@ -14,10 +14,23 @@ Deuterocanonical books included thus far:
 - 1st and 2nd Book of Adam and Eve
 - Jashar
 - Jubilees
+- Tobit
+- Judith
+- Esther (Greek)
+- Wisdom
+- Ecclesiasticus
+- Baruch
+- Song of Three
+- Susanna
+- Bel and the Dragon
+- 1 Maccabees
+- 2 Maccabees
+- 1 Esdras
+- 2 Esdras
+- Manasseh
 
 Future books will include:
 
-- The traditional "Apocryphal" books.
 - The Sheperd of Hermas
 - Apocolypse of Peter
 - ...and more like these.
