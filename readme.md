@@ -13,11 +13,11 @@ Deuterocanonical books included thus far:
 - 2nd Esdras (also called 4 Esdras, Latin Esdras, or Latin Ezra)
 - 1st and 2nd Book of Adam and Eve
 - Jashar
+- Jubilees
 
 Future books will include:
 
 - The traditional "Apocryphal" books.
-- Jubilees
 - The Sheperd of Hermas
 - Apocolypse of Peter
 - ...and more like these.
