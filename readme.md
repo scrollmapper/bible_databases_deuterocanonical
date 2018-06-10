@@ -2,23 +2,13 @@
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W8RKPHPUF398G)
 
-From 2 Esdras:
-
->> [14:38] And the next day, behold, a voice called me, saying, Esdras, open thy mouth, and drink that I give thee to drink.
->> [14:39] Then opened I my mouth, and, behold, he reached me a full cup, which was full as it were with water, but the colour of it was like fire.
->> [14:40] And I took it, and drank: and when I had drunk of it, my heart uttered understanding, and wisdom grew in my breast, for my spirit strengthened my memory:
->> [14:41] And my mouth was opened, and shut no more.
->> [14:42] The Highest gave understanding unto the five men, and they wrote the wonderful visions of the night that were told, which they knew not: and they sat forty days, and they wrote in the day, and at night they ate bread.
->> [14:43] As for me. I spake in the day, and I held not my tongue by night.
->> [14:44] In forty days they wrote two hundred and four books.
->> [14:45] And it came to pass, when the forty days were filled, that the Highest spake, saying, The first that thou hast written publish openly, that the worthy and unworthy may read it:
->> [14:46] But keep the seventy last, that thou mayest deliver them only to such as be wise among the people:
->> [14:47] For in them is the spring of understanding, the fountain of wisdom, and the stream of knowledge.
->> [14:48] And I did so.
-
 Based on the Scrollmapper bible databases: https://github.com/scrollmapper/bible_databases
 
 This is a Python / Django project for committing Deuterocanonical the books to database for study and research. 
+
+This is a database collection of Christian or Hebrew texts commonly classified as deuterocanonical, pseudepigraphal, or apocryphal. Rather than make assumptions on the authenticity of the books by labeling them as such, they are simply included in the database as-is from public domain sources. This provides a system for cross-referencing their content with the commonly accepted canonical scriptures. 
+
+This is a work in progress. 
 
 Deuterocanonical books included thus far:
 - 1st Enoch ("Ethiopic" Book of Enoch)
@@ -44,11 +34,12 @@ Deuterocanonical books included thus far:
 - 1 Hermas
 - 2 Hermas 
 - 3 Hermas
+- Testament of Solomon
 
 Future books will include:
 
 - Apocolypse of Peter
-- Testament of Solomon
+- Gospel of Nicodemus
 - ...and more like these.
 
 NOTE: If you are not a coder and would simply prefer some nicely formatted versions of these books, then get them here: https://github.com/scrollmapper/bible_databases_deuterocanonical/tree/master/book_sources
