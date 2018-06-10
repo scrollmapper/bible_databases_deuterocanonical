@@ -4,7 +4,7 @@
 
 Based on the Scrollmapper bible databases: https://github.com/scrollmapper/bible_databases
 
-This is a Python / Django project for committing Deuterocanonical the books to database for study and research. 
+This is a Python / Django project for committing deuterocanonical books to database for study and research. 
 
 This is a database collection of Christian or Hebrew texts commonly classified as deuterocanonical, pseudepigraphal, or apocryphal. Rather than make assumptions on the authenticity of the books by labeling them as such, they are simply included in the database as-is from public domain sources. This provides a system for cross-referencing their content with the commonly accepted canonical scriptures. 
 
