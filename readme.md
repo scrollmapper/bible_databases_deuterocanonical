@@ -35,10 +35,10 @@ Deuterocanonical books included thus far:
 - 2 Hermas 
 - 3 Hermas
 - Testament of Solomon
+- Apocalypse of Peter
 
 Future books will include:
 
-- Apocolypse of Peter
 - Gospel of Nicodemus
 - ...and more like these.
 
