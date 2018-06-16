@@ -41,7 +41,7 @@ INSTALLED_APPS = [
     #scrollmapper
     'workarea',
     'books',
-    'website',
+    #'website',
 ]
 
 MIDDLEWARE = [
