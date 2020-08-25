@@ -1,4 +1,4 @@
-#2 Maccabees
+# 2 Maccabees
 
 **[1:1]** The brethren, the Jews that be at Jerusalem and in the land of Judea, wish unto the brethren, the Jews that are throughout Egypt health and peace:
 **[1:2]** God be gracious unto you, and remember his covenant that he made with Abraham, Isaac, and Jacob, his faithful servants;

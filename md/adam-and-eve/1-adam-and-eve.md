@@ -1,4 +1,4 @@
-#1 Adam and Eve
+# 1 Adam and Eve
 
 **[1:1]** On the third day, God planted the garden in the east of the earth, on
 the border of the world eastward, beyond which, towards the sun-rising,
@@ -125,7 +125,7 @@ and a half days, I will send my Word and save you.
 of which I have before spoken to you."
 
 **[3:18]** And when Adam heard this Word from God, he was comforted with that
-which God had told him.  For He had told him how He would save him. 
+which God had told him.  For He had told him how He would save him.
 
 **[4:1]** But Adam and Eve cried for having come out of the garden, their first
 home.
@@ -683,7 +683,7 @@ your hearts.
 it come near you with the other beasts.
 
 **[19:6]** But now strengthen your heart and fear not.  I am with you to the end
-of the days I have determined on you." 
+of the days I have determined on you."
 
 **[20:1]** Then Adam cried and said, "O God, take us away to some other place,
 where the serpent can not come near us again, and rise against us.  For
@@ -695,7 +695,7 @@ not let it come near you; I have driven it away from you, from this
 mountain; neither will I leave in it the ability to hurt you."
 
 **[20:3]** Then Adam and Eve worshipped before God and gave Him thanks, and
-praised Him for having delivered them from death. 
+praised Him for having delivered them from death.
 
 **[21:1]** Then Adam and Eve went in search of the garden.
 
@@ -840,7 +840,7 @@ and covenanted with him, that He would save him at the end of the days
 determined for him.
 
 **[25:8]** This, then, was the first offering Adam made to God; and so it became
-his custom to do. 
+his custom to do.
 
 **[26:1]** Then Adam took Eve, and they began to return to the Cave of Treasures
 where they lived.  But when they got closer to it and saw it from a
@@ -915,7 +915,7 @@ their body.
 **[26:18]** And Adam and Eve stood praying until the darkness of night came over
 them, and Adam was hid from Eve, and she from him.
 
-**[26:19]** And they remained standing in prayer. 
+**[26:19]** And they remained standing in prayer.
 
 **[27:1]** When Satan, the hater of all good, saw how they continued in prayer,
 and how God communed with them, and comforted them, and how He had
@@ -988,7 +988,7 @@ to them; they divided in their thoughts.
 
 **[27:18]** And when it was morning they prayed; and then went out to seek the
 garden.  For their hearts were towards it, and they could get no
-consolation for having left it. 
+consolation for having left it.
 
 **[28:1]** But when the crafty Satan saw them, that they were going to the
 garden, he gathered together his host, and came in appearance on a
@@ -1025,7 +1025,7 @@ very high mountain, without any steps to the top of it, the Devil drew
 near to Adam and Eve, and made them go up to the top in reality, and
 not in a vision; wishing, as he did, to throw them down and kill them,
 and to wipe off their name from the earth; so that this earth should
-remain to him and his hosts alone. 
+remain to him and his hosts alone.
 
 **[29:1]** But when the merciful God saw that Satan wished to kill Adam with his
 many tricks, and saw that Adam was meek and without guile, God spoke to
@@ -1056,7 +1056,7 @@ with Adam in the cave, should shine forth with light in the night
 around him, and put an end to his fear of the darkness.
 
 **[29:8]** Then the angel Michael went down by God's order, took golden rods, as
-God had commanded him, and brought them to God. 
+God had commanded him, and brought them to God.
 
 **[30:1]** After these things, God commanded the angel Gabriel to go down to the
 garden, and say to the cherub who kept it, "Behold, God has commanded
@@ -1095,7 +1095,7 @@ placed them, when he sought to make an end of them.
 rejoiced and cried because he thought that the gold was a token of the
 kingdom from where he had come, that the incense was a token of the
 bright light which had been taken from him, and that the myrrh was a
-token of the sorrow in which he was. 
+token of the sorrow in which he was.
 
 **[31:1]** After these things God said to Adam, "You asked Me for something from
 the garden, to be comforted therewith, and I have given you these three
@@ -1228,7 +1228,7 @@ her and they both returned to the cave.
 water, seven days after their coming out of the garden.
 
 **[33:16]** They fasted in the water thirty-five days; altogether forty-two days
-since they had left the garden. 
+since they had left the garden.
 
 **[34:1]** And on the morning of the forty-third day, they came out of the cave,
 sorrowful and crying.  Their bodies were lean, and they were parched
@@ -1330,7 +1330,7 @@ You to give us some fruit from the garden, that we may be satisfied
 with it.
 
 **[34:24]** For we desire the fruit that is on the earth, and all else that we
-lack in it." 
+lack in it."
 
 **[35:1]** Then God looked again at Adam and his crying and groaning, and the
 Word of God came to him, and said to him:--
@@ -1611,7 +1611,7 @@ their trust in God, and make them deny Him.
 angel around the cave to guard it from such a fire, until it went out.
 
 **[43:17]** And this fire lasted from noon-day until the break of day.  That was
-the forty-fifth day. 
+the forty-fifth day.
 
 **[44:1]** Yet Adam and Eve were standing and looking at the fire, and unable to
 come near the cave from their dread of the fire.
@@ -1651,7 +1651,7 @@ us:  which formerly yielded to us, but no longer does so, now that we
 have transgressed the limit of creation, and changed our condition, and
 our nature is altered.  But the fire is not changed in its nature, nor
 altered from its creation.  Therefore it now has power over us; and
-when we come near it, it scorches our flesh." 
+when we come near it, it scorches our flesh."
 
 **[45:1]** Then Adam rose and prayed to God, saying, "See, this fire has
 separated us from the cave in which You have commanded us to live; but
@@ -1738,7 +1738,7 @@ Satan.  But as to the Godhead he cannot give it to you, neither fulfil
 his speech to you.  No, he was bitter against you and your descendants,
 that will come after you."
 
-**[46:8]** And God withdrew His Word form them. 
+**[46:8]** And God withdrew His Word form them.
 
 **[47:1]** Then Adam and Eve came into the cave, yet trembling at the fire that
 had scorched their bodies.  So Adam said to Eve:--
@@ -1774,7 +1774,7 @@ Adam.
 **[47:8]** The earth shall be rid of him; and shall be left to me alone; so that
 when he is dead he may not have any descendants left to inherit the
 kingdom that shall remain my own realm; God will then be wanting me,
-and He will restore it to me and my hosts." 
+and He will restore it to me and my hosts."
 
 **[48:1]** After this Satan called to his hosts, all of which came to him, and
 said to him:--
@@ -1830,7 +1830,7 @@ this rock is that is spread over us like a tent."
 
 **[48:15]** Then Adam stood up and prayed before the Lord, to let him know what
 had brought about this difficult time.  And Adam stood praying like
-that until the morning. 
+that until the morning.
 
 **[49:1]** Then the Word of God came and said:--
 
@@ -1900,7 +1900,7 @@ cover their bodies.
 **[50:7]** Then came the Word of God and said to him, "O Adam, take Eve and come
 to the seashore where you fasted before.  There you will find skins of
 sheep that were left after lions ate the carcasses.  Take them and make
-garments for yourselves, and clothe yourselves with them. 
+garments for yourselves, and clothe yourselves with them.
 
 **[51:1]** When Adam heard these words from God, he took Eve and went from the
 northern end of the garden to the south of it, by the river of water
@@ -1988,7 +1988,7 @@ their prayers after their custom; and then went out of the cave.
 
 **[52:13]** And Adam said to Eve, "Since we don't know what there is to the west
 of this cave, let us go out and see it today." Then they came forth and
-went toward the western border. 
+went toward the western border.
 
 **[53:1]** They were not very far from the cave, when Satan came towards them,
 and hid himself between them and the cave, under the form of two
@@ -2020,7 +2020,7 @@ now shall remain desolate and without one inhabitant in it.
 **[53:8]** After God had thus spoken to them, they went back to the Cave of
 Treasures.  But their flesh was dried up, and they were weak from
 fasting and praying, and from the sorrow they felt at having trespassed
-against God. 
+against God.
 
 **[54:1]** Then Adam and Eve stood up in the cave and prayed the whole of that
 night until the morning dawned.  And when the sun was risen they both
@@ -2073,7 +2073,7 @@ the gladness he once enjoyed.
 **[54:12]** But they sorrowed over Adam, because he was fallen like a dead man,
 he and Eve; and they said in their thoughts, "Adam has not died in this
 place; but God has put him to death, for his having come to this place,
-and wishing to get into the garden without His permission." 
+and wishing to get into the garden without His permission."
 
 **[55:1]** Then came the Word of God to Adam and Eve, and raised them from their
 dead state, saying to them, "Why did you come up here?  Do you intend
@@ -2141,7 +2141,7 @@ trespassed against God."
 **[55:16]** Then all the angels rejoiced and praised God, and asked Him not to
 destroy Adam this time, for his having sought to enter the garden; but
 to bear with him until the fulfillment of the promise; and to help him
-in this world until he was free from Satan's hand. 
+in this world until he was free from Satan's hand.
 
 **[56:1]** Then came the Word of God to Adam, and said to him:--
 
@@ -2262,7 +2262,7 @@ here, He will save us."
 
 **[58:6]** They continued praying like this in the cave; neither did they come
 out of it, by night or by day, until their prayers went up out of their
-mouths, like a flame of fire. 
+mouths, like a flame of fire.
 
 **[59:1]** But Satan, the hater of all good, did not allow them to finish their
 prayers.  For he called to his hosts, and they came, all of them.  Then
@@ -2315,7 +2315,7 @@ either food or drink since they left the garden; nor were the functions
 of their bodies yet settled; and they had no strength left to continue
 in prayer from hunger, until the end of the next day to the fortieth.
 They were fallen down in the cave; yet what speech escaped from their
-mouths, was only in praises. 
+mouths, was only in praises.
 
 **[60:1]** Then on the eighty-ninth day, Satan came to the cave, clad in a
 garment of light, and girt about with a bright girdle.
@@ -2423,7 +2423,7 @@ his sweet talk, their hearts softened towards him; they obeyed him, for
 they believed he was true.
 
 **[60:29]** And it seemed to them that they were really his offspring, when they
-saw that his face was like their own; and they trusted him. 
+saw that his face was like their own; and they trusted him.
 
 **[61:1]** Then he took Adam and Eve by the hand, and began to bring them out of
 the cave.
@@ -2490,7 +2490,7 @@ strengthen them, and to send them something to satisfy their hunger.
 **[61:18]** Then came the Word of God again, and said to them, "O Adam, get up,
 go and bring the two figs here."
 
-**[61:19]** Then Adam and Eve got up, and went until they came near to the cave. 
+**[61:19]** Then Adam and Eve got up, and went until they came near to the cave.
 
 **[62:1]** But Satan the wicked was envious, because of the consolation God had
 given them.
@@ -2516,7 +2516,7 @@ fruit should perish; and He has made plain my intention, and has
 defeated the counsel I had formed against His servants."
 
 **[62:6]** Then Satan went away ashamed because he hadn't thought his plans all
-the way through. 
+the way through.
 
 **[63:1]** But Adam and Eve, as they got closer to the cave, saw two fig trees,
 covered with fruit, and overshadowing the cave.
@@ -2576,7 +2576,7 @@ of thirst.
 **[63:14]** For we know Your marvelous works, O God, that they are great, and
 that by Your power You can bring one thing out of another, without
 one's wish.  For Your power can make rocks to become trees, and trees
-to become rocks." 
+to become rocks."
 
 **[64:1]** Then God looked at Adam and at his strength of mind, at his endurance
 of hunger and thirst, and of the heat.  And He changed the two fig
@@ -2612,7 +2612,7 @@ the power of God, the figs became whole again, because God blessed them.
 
 **[64:9]** After this Adam and Eve got up, and prayed with a joyful heart and
 renewed strength, and praised and rejoiced abundantly the whole of that
-night.  And this was the end of the eighty-third day. 
+night.  And this was the end of the eighty-third day.
 
 **[65:1]** And when it was day, they got up and prayed, after their custom, and
 then went out of the cave.
@@ -2658,7 +2658,7 @@ the garden, as He promised us."
 which, their mind was quieted, their hearts were broken, and their
 longing was cooled down; and they were like strangers on earth.  That
 night Adam and Eve spent in the cave, where they slept heavily by
-reason of the food they had eaten. 
+reason of the food they had eaten.
 
 **[66:1]** When it was morning, the day after they had eaten food, Adam and Eve
 prayed in the cave, and Adam said to Eve, "Look, we asked for food of
@@ -2703,7 +2703,7 @@ corn until it became bread.
 
 **[66:10]** Adam accomplished all that, until he grew very faint and weary.  He
 then returned to the cave; rejoicing at what he had learned of what is
-done with wheat, until it is made into bread for one's use. 
+done with wheat, until it is made into bread for one's use.
 
 **[67:1]** When Adam and Eve went down to the land of black mud and came near to
 the wheat God had showed them and saw that it was ripe and ready for
@@ -2754,7 +2754,7 @@ with him; and he went back with them.
 
 **[67:12]** Then Satan began to lead astray Adam and Eve eight days, until they
 both fell down as if dead, from hunger, thirst, and faintness.  Then he
-fled with his hosts, and left them. 
+fled with his hosts, and left them.
 
 **[68:1]** Then God looked at Adam and Eve, and at what had come over them from
 Satan, and how he had made them perish.
@@ -2861,7 +2861,7 @@ this offering, all the days of your life."
 **[68:25]** But Adam continued to offer this offering thus, every week three
 times, until the end of seven weeks.  And on the first day, which is
 the fiftieth, Adam made an offering as he was accustomed, and he and
-Eve took it and came to the altar before God, as He had taught them. 
+Eve took it and came to the altar before God, as He had taught them.
 
 **[69:1]** Then Satan, the hater of all good, envious of Adam and of his
 offering through which he found favor with God, hastened and took a
@@ -2906,7 +2906,7 @@ tree, as they were accustomed.
 
 **[69:11]** But when there a multitude of beasts came all around them.  It was
 Satan's doing, in his wickedness; in order to wage war against Adam
-through marriage. 
+through marriage.
 
 **[70:1]** After this Satan, the hater of all good, took the form of an angel,
 and with him two others, so that they looked like the three angels who
@@ -2974,7 +2974,7 @@ out of the garden, and you know neither wickedness nor evil.  But now
 God says to you, to take Eve who came out of your side, and to marry
 her so that she will bear you children, to comfort you, and to drive
 from you trouble and sorrow; now this thing is not difficult, neither
-is there any scandal in it to you. 
+is there any scandal in it to you.
 
 **[71:1]** But when Adam heard these words from Satan, he sorrowed much, because
 of his oath and of his promise, and said, "Shall I commit adultery with
@@ -3026,7 +3026,7 @@ afraid that if he was to do it, God would be angry with him.
 **[71:13]** Then Adam and Eve went to the river of water, and sat on the bank,
 as people do when they enjoy themselves.
 
-**[71:14]** But Satan was jealous of them; and planned to destroy them. 
+**[71:14]** But Satan was jealous of them; and planned to destroy them.
 
 **[72:1]** Then Satan, and ten from his hosts, transformed themselves into
 maidens, unlike any others in the whole world for grace.
@@ -3126,7 +3126,7 @@ will deceive us with their apparitions that resemble us, and destroy
 our hearts, and defile our thoughts towards each other.  Yet if it is
 not each of us towards the other, it will, at all events, be through
 their appearance when the devils come to us in our likeness." Here Adam
-ended his prayer. 
+ended his prayer.
 
 **[73:1]** Then God considered the words of Adam that they were true, and that
 he could long await His order, respecting the counsel of Satan.
@@ -3162,7 +3162,7 @@ them.  And from the time Adam left the garden until he wedded Eve, were
 two hundred and twenty-three days, that is seven months and thirteen
 days.
 
-**[73:9]** Thus was Satan's war with Adam defeated. 
+**[73:9]** Thus was Satan's war with Adam defeated.
 
 **[74:1]** And they lived on the earth working in order to keep their bodies in
 good health; and they continued so until the nine months of Eve's
@@ -3205,7 +3205,7 @@ old, when Adam said to Eve, "We will make an offering and offer it up
 in behalf of the children."
 
 **[74:10]** And Eve said, "We will make one offering for the first-born son and
-then later we shall make one for the daughter." 
+then later we shall make one for the daughter."
 
 **[75:1]** Then Adam prepared an offering, and he and Eve offered it up for
 their children, and brought it to the altar they had built at first.
@@ -3260,7 +3260,7 @@ sister Luluwa.
 
 **[75:13]** He brought them to the Cave of Treasures, where they received a
 blessing, and then returned to the cave where they were born.  After
-these children were born, Eve stopped having children. 
+these children were born, Eve stopped having children.
 
 **[76:1]** And the children began to grow stronger and taller; but Cain was
 hard-hearted, and ruled over his younger brother.
@@ -3312,7 +3312,7 @@ brother. That way your sister will be left for you, and his sister will
 be cast away."
 
 **[76:12]** And Satan departed from him.  But the devil remained behind in
-Cain's heart, and frequently aspired to kill his brother. 
+Cain's heart, and frequently aspired to kill his brother.
 
 **[77:1]** But when Adam saw that the older brother hated the younger, he
 endeavored to soften their hearts, and said to Cain, "O my son, take of
@@ -3349,7 +3349,7 @@ eyes were on the lamb.
 of murderous thoughts.
 
 **[77:9]** And they all thus lived together in the cave in which Eve had brought
-forth, until Cain was fifteen years old, and Abel twelve years old. 
+forth, until Cain was fifteen years old, and Abel twelve years old.
 
 **[78:1]** Then Adam said to Eve, "Behold the children are grown up; we must
 think of finding wives for them."
@@ -3489,7 +3489,7 @@ a staff, because of wild beasts."
 fetched a staff and went out.
 
 **[78:39]** And they began, Cain and his brother Abel, to walk in the way; Cain
-talking to him, and comforting him, to make him forget everything. 
+talking to him, and comforting him, to make him forget everything.
 
 **[79:1]** And so they went on, until they came to a lonely place, where there
 were no sheep; then Abel said to Cain, "Behold, my brother, we are

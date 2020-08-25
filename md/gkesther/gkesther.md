@@ -1,4 +1,4 @@
-#Additions to Esther 10
+# Additions to Esther 10
 
 **[10:4]** Then Mardocheus said, God hath done these things.
 **[10:5]** For I remember a dream which I saw concerning these matters, and nothing thereof hath failed.

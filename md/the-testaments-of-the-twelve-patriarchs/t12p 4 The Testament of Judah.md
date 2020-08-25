@@ -1,4 +1,4 @@
-#Testaments of the Twelve Patriarchs / The Testament of Judah
+# Testaments of the Twelve Patriarchs / The Testament of Judah
 
 **[1:1]** THE copy of the words of Judah, what things he spake to his sons before he died.
 **[1:2]** They gathered themselves together, therefore, and came to him, and he said to them: Hearken, my children, to Judah your father.

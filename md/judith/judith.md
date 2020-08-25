@@ -1,4 +1,4 @@
-#Judith
+# Judith
 
 **[1:1]** In the twelfth year of the reign of Nabuchodonosor, who reigned in Nineve, the great city; in the days of Arphaxad, which reigned over the Medes in Ecbatane,
 **[1:2]** And built in Ecbatane walls round about of stones hewn three cubits broad and six cubits long, and made the height of the wall seventy cubits, and the breadth thereof fifty cubits:

@@ -1,4 +1,4 @@
-#2 Adam and Eve
+# 2 Adam and Eve
 
 **[1:1]** When Luluwa heard Cain's words, she wept and went to call her father and mother, and told them how that Cain had killed his brother Abel.
 
@@ -645,4 +645,3 @@
 **[22:9]** Thus, because Enoch was in the light of God, he found himself out of the reach of death; until God would have him die.
 
 **[22:10]** Altogether, not one of our fathers or of their children, remained on that holy mountain, except those three, Methuselah, Lamech, and Noah. For all the rest went down from the mountain and fell into sin with the children of Cain. Therefore were they forbidden that mountain, and none remained on it but those three men.
-

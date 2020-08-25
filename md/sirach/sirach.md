@@ -1,4 +1,4 @@
-#Sirach
+# Sirach
 
 **[1:1]** All wisdom cometh from the Lord, and is with him for ever.
 **[1:2]** Who can number the sand of the sea, and the drops of rain, and the days of eternity?

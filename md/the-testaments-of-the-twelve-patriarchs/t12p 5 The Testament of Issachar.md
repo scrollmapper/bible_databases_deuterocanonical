@@ -1,4 +1,4 @@
-#Testaments of the Twelve Patriarchs / The Testament of Issachar
+# Testaments of the Twelve Patriarchs / The Testament of Issachar
 
 **[1:1]** THE copy of the words of Issachar.
 **[1:2]** For he called his sons and said to them: Hearken, my children, to Issachar your father; give ear to the words of him who is beloved of the Lord.

@@ -1,4 +1,4 @@
-#Bel and the Dragon
+# Bel and the Dragon
 
 **[1:1]** And king Astyages was gathered to his fathers, and Cyrus of Persia received his kingdom.
 **[1:2]** And Daniel conversed with the king, and was honoured above all his friends.

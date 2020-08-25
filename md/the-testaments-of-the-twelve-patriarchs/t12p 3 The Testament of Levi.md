@@ -1,4 +1,4 @@
-#Testaments of the Twelve Patriarchs / The Testament of Levi
+# Testaments of the Twelve Patriarchs / The Testament of Levi
 
 **[1:1]** THE copy of the words of Levi, the things which he ordained unto his sons, according to all that they should do, and what things should befall them until the day of judgement.
 **[1:2]** He was sound in health when he called them to him; for it had been revealed to him that he should die.

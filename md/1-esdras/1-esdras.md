@@ -1,4 +1,4 @@
-#1 Esdras
+# 1 Esdras
 
 **[1:1]** And Josias held the feast of the passover in Jerusalem unto his Lord, and offered the passover the fourteenth day of the first month;
 **[1:2]** Having set the priests according to their daily courses, being arrayed in long garments, in the temple of the Lord.

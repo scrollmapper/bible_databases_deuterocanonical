@@ -1,4 +1,4 @@
-#1 Maccabees
+# 1 Maccabees
 
 **[1:1]** And it happened, after that Alexander son of Philip, the Macedonian, who came out of the land of Chettiim, had smitten Darius king of the Persians and Medes, that he reigned in his stead, the first over Greece,
 **[1:2]** And made many wars, and won many strong holds, and slew the kings of the earth,

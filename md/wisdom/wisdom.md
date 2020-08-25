@@ -1,4 +1,4 @@
-#Wisdom
+# Wisdom
 
 **[1:1]** Love righteousness, ye that be judges of the earth: think of the Lord with a good (heart,) and in simplicity of heart seek him.
 **[1:2]** For he will be found of them that tempt him not; and sheweth himself unto such as do not distrust him.

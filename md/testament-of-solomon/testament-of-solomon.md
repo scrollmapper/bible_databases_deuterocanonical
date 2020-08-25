@@ -1,4 +1,4 @@
-#Testament of Solomon
+# Testament of Solomon
 
 **[1:1]** Testament of Solomon, son of David, who was king in Jerusalem, and mastered and controlled all spirits of the air, on the earth, and under the earth. By means of them also he wrought all the transcendent works of the Temple. Telling also of the authorities they wield against men, and by what angels these demons are brought to naught. Of the sage Solomon. Blessed art thou, O Lord God, who didst give Solomon such authority. Glory to thee and might unto the ages. Amen.
 **[1:2]** And behold, when the Temple of the city of Jerusalem was being builded, and the artificers were working thereat, Ornias the demon came among them toward sunset; and he took away half of the pay of the chief-deviser's (?) little boy, as well as half his food. He also continued to suck the thumb of his right hand every day. And the child grew thin, although he was very much loved by the king.
