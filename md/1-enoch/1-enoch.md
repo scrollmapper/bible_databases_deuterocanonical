@@ -1,4 +1,4 @@
-#1 Enoch
+# 1 Enoch
 
 **[1:1]** The words of the blessing of Enoch, wherewith he blessed the elect ⌈⌈and⌉⌉ righteous, who will be living in the day of tribulation, when all the wicked ⌈⌈and godless⌉⌉ are to be removed. **[1:2]** And he took up his parable and said--Enoch a righteous man, whose eyes were opened by God, saw the vision of the Holy One in the heavens, ⌈which⌉ the angels showed me, and from them I heard everything, and from them I understood as I saw, but not for this generation, but for a remote one which is for to come. **[1:3]** Concerning the elect I said, and took up my parable concerning them: 
 The Holy Great One will come forth from His dwelling, **[1:4]** And the eternal God will tread upon the earth, (even) on Mount Sinai, ⌈And appear from His camp⌉ And appear in the strength of His might from the heaven of heavens.
