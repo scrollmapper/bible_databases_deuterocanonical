@@ -1,0 +1,450 @@
+#1 Esdras
+
+**[1:1]** And Josias held the feast of the passover in Jerusalem unto his Lord, and offered the passover the fourteenth day of the first month;
+**[1:2]** Having set the priests according to their daily courses, being arrayed in long garments, in the temple of the Lord.
+**[1:3]** And he spake unto the Levites, the holy ministers of Israel, that they should hallow themselves unto the Lord, to set the holy ark of the Lord in the house that king Solomon the son of David had built:
+**[1:4]** And said, Ye shall no more bear the ark upon your shoulders: now therefore serve the Lord your God, and minister unto his people Israel, and prepare you after your families and kindreds,
+**[1:5]** According as David the king of Israel prescribed, and according to the magnificence of Solomon his son: and standing in the temple according to the several dignity of the families of you the Levites, who minister in the presence of your brethren the children of Israel,
+**[1:6]** Offer the passover in order, and make ready the sacrifices for your brethren, and keep the passover according to the commandment of the Lord, which was given unto Moses.
+**[1:7]** And unto the people that was found there Josias gave thirty thousand lambs and kids, and three thousand calves: these things were given of the king’s allowance, according as he promised, to the people, to the priests, and to the Levites.
+**[1:8]** And Helkias, Zacharias, and Syelus, the governors of the temple, gave to the priests for the passover two thousand and six hundred sheep, and three hundred calves.
+**[1:9]** And Jeconias, and Samaias, and Nathanael his brother, and Assabias, and Ochiel, and Joram, captains over thousands, gave to the Levites for the passover five thousand sheep, and seven hundred calves.
+**[1:10]** And when these things were done, the priests and Levites, having the unleavened bread, stood in very comely order according to the kindreds,
+**[1:11]** And according to the several dignities of the fathers, before the people, to offer to the Lord, as it is written in the book of Moses: and thus did they in the morning.
+**[1:12]** And they roasted the passover with fire, as appertaineth: as for the sacrifices, they sod them in brass pots and pans with a good savour,
+**[1:13]** And set them before all the people: and afterward they prepared for themselves, and for the priests their brethren, the sons of Aaron.
+**[1:14]** For the priests offered the fat until night: and the Levites prepared for themselves, and the priests their brethren, the sons of Aaron.
+**[1:15]** The holy singers also, the sons of Asaph, were in their order, according to the appointment of David, to wit, Asaph, Zacharias, and Jeduthun, who was of the king’s retinue.
+**[1:16]** Moreover the porters were at every gate; it was not lawful for any to go from his ordinary service: for their brethren the Levites prepared for them.
+**[1:17]** Thus were the things that belonged to the sacrifices of the Lord accomplished in that day, that they might hold the passover,
+**[1:18]** And offer sacrifices upon the altar of the Lord, according to the commandment of king Josias.
+**[1:19]** So the children of Israel which were present held the passover at that time, and the feast of sweet bread seven days.
+**[1:20]** And such a passover was not kept in Israel since the time of the prophet Samuel.
+**[1:21]** Yea, all the kings of Israel held not such a passover as Josias, and the priests, and the Levites, and the Jews, held with all Israel that were found dwelling at Jerusalem.
+**[1:22]** In the eighteenth year of the reign of Josias was this passover kept.
+**[1:23]** And the works or Josias were upright before his Lord with an heart full of godliness.
+**[1:24]** As for the things that came to pass in his time, they were written in former times, concerning those that sinned, and did wickedly against the Lord above all people and kingdoms, and how they grieved him exceedingly, so that the words of the Lord rose up against Israel.
+**[1:25]** Now after all these acts of Josias it came to pass, that Pharaoh the king of Egypt came to raise war at Carchamis upon Euphrates: and Josias went out against him.
+**[1:26]** But the king of Egypt sent to him, saying, What have I to do with thee, O king of Judea?
+**[1:27]** I am not sent out from the Lord God against thee; for my war is upon Euphrates: and now the Lord is with me, yea, the Lord is with me hasting me forward: depart from me, and be not against the Lord.
+**[1:28]** Howbeit Josias did not turn back his chariot from him, but undertook to fight with him, not regarding the words of the prophet Jeremy spoken by the mouth of the Lord:
+**[1:29]** But joined battle with him in the plain of Magiddo, and the princes came against king Josias.
+**[1:30]** Then said the king unto his servants, Carry me away out of the battle; for I am very weak. And immediately his servants took him away out of the battle.
+**[1:31]** Then gat he up upon his second chariot; and being brought back to Jerusalem died, and was buried in his father’s sepulchre.
+**[1:32]** And in all Jewry they mourned for Josias, yea, Jeremy the prophet lamented for Josias, and the chief men with the women made lamentation for him unto this day: and this was given out for an ordinance to be done continually in all the nation of Israel.
+**[1:33]** These things are written in the book of the stories of the kings of Judah, and every one of the acts that Josias did, and his glory, and his understanding in the law of the Lord, and the things that he had done before, and the things now recited, are reported in the book of the kings of Israel and Judea.
+**[1:34]** And the people took Joachaz the son of Josias, and made him king instead of Josias his father, when he was twenty and three years old.
+**[1:35]** And he reigned in Judea and in Jerusalem three months: and then the king of Egypt deposed him from reigning in Jerusalem.
+**[1:36]** And he set a tax upon the land of an hundred talents of silver and one talent of gold.
+**[1:37]** The king of Egypt also made king Joacim his brother king of Judea and Jerusalem.
+**[1:38]** And he bound Joacim and the nobles: but Zaraces his brother he apprehended, and brought him out of Egypt.
+**[1:39]** Five and twenty years old was Joacim when he was made king in the land of Judea and Jerusalem; and he did evil before the Lord.
+**[1:40]** Wherefore against him Nabuchodonosor the king of Babylon came up, and bound him with a chain of brass, and carried him into Babylon.
+**[1:41]** Nabuchodonosor also took of the holy vessels of the Lord, and carried them away, and set them in his own temple at Babylon.
+**[1:42]** But those things that are recorded of him, and of his uncleaness and impiety, are written in the chronicles of the kings.
+**[1:43]** And Joacim his son reigned in his stead: he was made king being eighteen years old;
+**[1:44]** And reigned but three months and ten days in Jerusalem; and did evil before the Lord.
+**[1:45]** So after a year Nabuchodonosor sent and caused him to be brought into Babylon with the holy vessels of the Lord;
+**[1:46]** And made Zedechias king of Judea and Jerusalem, when he was one and twenty years old; and he reigned eleven years:
+**[1:47]** And he did evil also in the sight of the Lord, and cared not for the words that were spoken unto him by the prophet Jeremy from the mouth of the Lord.
+**[1:48]** And after that king Nabuchodonosor had made him to swear by the name of the Lord, he forswore himself, and rebelled; and hardening his neck, his heart, he transgressed the laws of the Lord God of Israel.
+**[1:49]** The governors also of the people and of the priests did many things against the laws, and passed all the pollutions of all nations, and defiled the temple of the Lord, which was sanctified in Jerusalem.
+**[1:50]** Nevertheless the God of their fathers sent by his messenger to call them back, because he spared them and his tabernacle also.
+**[1:51]** But they had his messengers in derision; and, look, when the Lord spake unto them, they made a sport of his prophets:
+**[1:52]** So far forth, that he, being wroth with his people for their great ungodliness, commanded the kings of the Chaldees to come up against them;
+**[1:53]** Who slew their young men with the sword, yea, even within the compass of their holy temple, and spared neither young man nor maid, old man nor child, among them; for he delivered all into their hands.
+**[1:54]** And they took all the holy vessels of the Lord, both great and small, with the vessels of the ark of God, and the king’s treasures, and carried them away into Babylon.
+**[1:55]** As for the house of the Lord, they burnt it, and brake down the walls of Jerusalem, and set fire upon her towers:
+**[1:56]** And as for her glorious things, they never ceased till they had consumed and brought them all to nought: and the people that were not slain with the sword he carried unto Babylon:
+**[1:57]** Who became servants to him and his children, till the Persians reigned, to fulfil the word of the Lord spoken by the mouth of Jeremy:
+**[1:58]** Until the land had enjoyed her sabbaths, the whole time of her desolation shall she rest, until the full term of seventy years.
+**[2:1]** In the first year of Cyrus king of the Persians, that the word of the Lord might be accomplished, that he had promised by the mouth of Jeremy;
+**[2:2]** The Lord raised up the spirit of Cyrus the king of the Persians, and he made proclamation through all his kingdom, and also by writing,
+**[2:3]** Saying, Thus saith Cyrus king of the Persians; The Lord of Israel, the most high Lord, hath made me king of the whole world,
+**[2:4]** And commanded me to build him an house at Jerusalem in Jewry.
+**[2:5]** If therefore there be any of you that are of his people, let the Lord, even his Lord, be with him, and let him go up to Jerusalem that is in Judea, and build the house of the Lord of Israel: for he is the Lord that dwelleth in Jerusalem.
+**[2:6]** Whosoever then dwell in the places about, let them help him, those, I say, that are his neighbours, with gold, and with silver,
+**[2:7]** With gifts, with horses, and with cattle, and other things, which have been set forth by vow, for the temple of the Lord at Jerusalem.
+**[2:8]** Then the chief of the families of Judea and of the tribe of Benjamin stood up; the priests also, and the Levites, and all they whose mind the Lord had moved to go up, and to build an house for the Lord at Jerusalem,
+**[2:9]** And they that dwelt round about them, and helped them in all things with silver and gold, with horses and cattle, and with very many free gifts of a great number whose minds were stirred up thereto.
+**[2:10]** King Cyrus also brought forth the holy vessels, which Nabuchodonosor had carried away from Jerusalem, and had set up in his temple of idols.
+**[2:11]** Now when Cyrus king of the Persians had brought them forth, he delivered them to Mithridates his treasurer:
+**[2:12]** And by him they were delivered to Sanabassar the governor of Judea.
+**[2:13]** And this was the number of them; A thousand golden cups, and a thousand of silver, censers of silver twenty nine, vials of gold thirty, and of silver two thousand four hundred and ten, and a thousand other vessels.
+**[2:14]** So all the vessels of gold and of silver, which were carried away, were five thousand four hundred threescore and nine.
+**[2:15]** These were brought back by Sanabassar, together with them of the captivity, from Babylon to Jerusalem.
+**[2:16]** But in the time of Artexerxes king of the Persians Belemus, and Mithridates, and Tabellius, and Rathumus, and Beeltethmus, and Semellius the secretary, with others that were in commission with them, dwelling in Samaria and other places, wrote unto him against them that dwelt in Judea and Jerusalem these letters following;
+**[2:17]** To king Artexerxes our lord, Thy servants, Rathumus the storywriter, and Semellius the scribe, and the rest of their council, and the judges that are in Celosyria and Phenice.
+**[2:18]** Be it now known to the lord king, that the Jews that are up from you to us, being come into Jerusalem, that rebellious and wicked city, do build the marketplaces, and repair the walls of it and do lay the foundation of the temple.
+**[2:19]** Now if this city and the walls thereof be made up again, they will not only refuse to give tribute, but also rebel against kings.
+**[2:20]** And forasmuch as the things pertaining to the temple are now in hand, we think it meet not to neglect such a matter,
+**[2:21]** But to speak unto our lord the king, to the intent that, if it be thy pleasure it may be sought out in the books of thy fathers:
+**[2:22]** And thou shalt find in the chronicles what is written concerning these things, and shalt understand that that city was rebellious, troubling both kings and cities:
+**[2:23]** And that the Jews were rebellious, and raised always wars therein; for the which cause even this city was made desolate.
+**[2:24]** Wherefore now we do declare unto thee, O lord the king, that if this city be built again, and the walls thereof set up anew, thou shalt from henceforth have no passage into Celosyria and Phenice.
+**[2:25]** Then the king wrote back again to Rathumus the storywriter, to Beeltethmus, to Semellius the scribe, and to the rest that were in commission, and dwellers in Samaria and Syria and Phenice, after this manner;
+**[2:26]** I have read the epistle which ye have sent unto me: therefore I commanded to make diligent search, and it hath been found that that city was from the beginning practising against kings;
+**[2:27]** And the men therein were given to rebellion and war: and that mighty kings and fierce were in Jerusalem, who reigned and exacted tributes in Celosyria and Phenice.
+**[2:28]** Now therefore I have commanded to hinder those men from building the city, and heed to be taken that there be no more done in it;
+**[2:29]** And that those wicked workers proceed no further to the annoyance of kings,
+**[2:30]** Then king Artexerxes his letters being read, Rathumus, and Semellius the scribe, and the rest that were in commission with them, removing in haste toward Jerusalem with a troop of horsemen and a multitude of people in battle array, began to hinder the builders; and the building of the temple in Jerusalem ceased until the second year of the reign of Darius king of the Persians.
+**[3:1]** Now when Darius reigned, he made a great feast unto all his subjects, and unto all his household, and unto all the princes of Media and Persia,
+**[3:2]** And to all the governors and captains and lieutenants that were under him, from India unto Ethiopia, of an hundred twenty and seven provinces.
+**[3:3]** And when they had eaten and drunken, and being satisfied were gone home, then Darius the king went into his bedchamber, and slept, and soon after awaked.
+**[3:4]** Then three young men, that were of the guard that kept the king’s body, spake one to another;
+**[3:5]** Let every one of us speak a sentence: he that shall overcome, and whose sentence shall seem wiser than the others, unto him shall the king Darius give great gifts, and great things in token of victory:
+**[3:6]** As, to be clothed in purple, to drink in gold, and to sleep upon gold, and a chariot with bridles of gold, and an headtire of fine linen, and a chain about his neck:
+**[3:7]** And he shall sit next to Darius because of his wisdom, and shall be called Darius his cousin.
+**[3:8]** And then every one wrote his sentence, sealed it, and laid it under king Darius his pillow;
+**[3:9]** And said that, when the king is risen, some will give him the writings; and of whose side the king and the three princes of Persia shall judge that his sentence is the wisest, to him shall the victory be given, as was appointed.
+**[3:10]** The first wrote, Wine is the strongest.
+**[3:11]** The second wrote, The king is strongest.
+**[3:12]** The third wrote, Women are strongest: but above all things Truth beareth away the victory.
+**[3:13]** Now when the king was risen up, they took their writings, and delivered them unto him, and so he read them:
+**[3:14]** And sending forth he called all the princes of Persia and Media, and the governors, and the captains, and the lieutenants, and the chief officers;
+**[3:15]** And sat him down in the royal seat of judgment; and the writings were read before them.
+**[3:16]** And he said, Call the young men, and they shall declare their own sentences. So they were called, and came in.
+**[3:17]** And he said unto them, Declare unto us your mind concerning the writings. Then began the first, who had spoken of the strength of wine;
+**[3:18]** And he said thus, O ye men, how exceeding strong is wine! it causeth all men to err that drink it:
+**[3:19]** It maketh the mind of the king and of the fatherless child to be all one; of the bondman and of the freeman, of the poor man and of the rich:
+**[3:20]** It turneth also every thought into jollity and mirth, so that a man remembereth neither sorrow nor debt:
+**[3:21]** And it maketh every heart rich, so that a man remembereth neither king nor governor; and it maketh to speak all things by talents:
+**[3:22]** And when they are in their cups, they forget their love both to friends and brethren, and a little after draw out swords:
+**[3:23]** But when they are from the wine, they remember not what they have done.
+**[3:24]** O ye men, is not wine the strongest, that enforceth to do thus? And when he had so spoken, he held his peace.
+**[4:1]** Then the second, that had spoken of the strength of the king, began to say,
+**[4:2]** O ye men, do not men excel in strength that bear rule over sea and land and all things in them?
+**[4:3]** But yet the king is more mighty: for he is lord of all these things, and hath dominion over them; and whatsoever he commandeth them they do.
+**[4:4]** If he bid them make war the one against the other, they do it: if he send them out against the enemies, they go, and break down mountains walls and towers.
+**[4:5]** They slay and are slain, and transgress not the king’s commandment: if they get the victory, they bring all to the king, as well the spoil, as all things else.
+**[4:6]** Likewise for those that are no soldiers, and have not to do with wars, but use husbundry, when they have reaped again that which they had sown, they bring it to the king, and compel one another to pay tribute unto the king.
+**[4:7]** And yet he is but one man: if he command to kill, they kill; if he command to spare, they spare;
+**[4:8]** If he command to smite, they smite; if he command to make desolate, they make desolate; if he command to build, they build;
+**[4:9]** If he command to cut down, they cut down; if he command to plant, they plant.
+**[4:10]** So all his people and his armies obey him: furthermore he lieth down, he eateth and drinketh, and taketh his rest:
+**[4:11]** And these keep watch round about him, neither may any one depart, and do his own business, neither disobey they him in any thing.
+**[4:12]** O ye men, how should not the king be mightiest, when in such sort he is obeyed? And he held his tongue.
+**[4:13]** Then the third, who had spoken of women, and of the truth, (this was Zorobabel) began to speak.
+**[4:14]** O ye men, it is not the great king, nor the multitude of men, neither is it wine, that excelleth; who is it then that ruleth them, or hath the lordship over them? are they not women?
+**[4:15]** Women have borne the king and all the people that bear rule by sea and land.
+**[4:16]** Even of them came they: and they nourished them up that planted the vineyards, from whence the wine cometh.
+**[4:17]** These also make garments for men; these bring glory unto men; and without women cannot men be.
+**[4:18]** Yea, and if men have gathered together gold and silver, or any other goodly thing, do they not love a woman which is comely in favour and beauty?
+**[4:19]** And letting all those things go, do they not gape, and even with open mouth fix their eyes fast on her; and have not all men more desire unto her than unto silver or gold, or any goodly thing whatsoever?
+**[4:20]** A man leaveth his own father that brought him up, and his own country, and cleaveth unto his wife.
+**[4:21]** He sticketh not to spend his life with his wife. and remembereth neither father, nor mother, nor country.
+**[4:22]** By this also ye must know that women have dominion over you: do ye not labour and toil, and give and bring all to the woman?
+**[4:23]** Yea, a man taketh his sword, and goeth his way to rob and to steal, to sail upon the sea and upon rivers;
+**[4:24]** And looketh upon a lion, and goeth in the darkness; and when he hath stolen, spoiled, and robbed, he bringeth it to his love.
+**[4:25]** Wherefore a man loveth his wife better than father or mother.
+**[4:26]** Yea, many there be that have run out of their wits for women, and become servants for their sakes.
+**[4:27]** Many also have perished, have erred, and sinned, for women.
+**[4:28]** And now do ye not believe me? is not the king great in his power? do not all regions fear to touch him?
+**[4:29]** Yet did I see him and Apame the king’s concubine, the daughter of the admirable Bartacus, sitting at the right hand of the king,
+**[4:30]** And taking the crown from the king’s head, and setting it upon her own head; she also struck the king with her left hand.
+**[4:31]** And yet for all this the king gaped and gazed upon her with open mouth: if she laughed upon him, he laughed also: but if she took any displeasure at him, the king was fain to flatter, that she might be reconciled to him again.
+**[4:32]** O ye men, how can it be but women should be strong, seeing they do thus?
+**[4:33]** Then the king and the princes looked one upon another: so he began to speak of the truth.
+**[4:34]** O ye men, are not women strong? great is the earth, high is the heaven, swift is the sun in his course, for he compasseth the heavens round about, and fetcheth his course again to his own place in one day.
+**[4:35]** Is he not great that maketh these things? therefore great is the truth, and stronger than all things.
+**[4:36]** All the earth crieth upon the truth, and the heaven blesseth it: all works shake and tremble at it, and with it is no unrighteous thing.
+**[4:37]** Wine is wicked, the king is wicked, women are wicked, all the children of men are wicked, and such are all their wicked works; and there is no truth in them; in their unrighteousness also they shall perish.
+**[4:38]** As for the truth, it endureth, and is alwaYs strong; it liveth and conquereth for evermore.
+**[4:39]** With her there is no accepting of persons or rewards; but she doeth the things that are just, and refraineth from all unjust and wicked things; and all men do well like of her works.
+**[4:40]** Neither in her judgment is any unrighteousness; and she is the strength, kingdom, power, and majesty, of all ages. Blessed be the God of truth.
+**[4:41]** And with that he held his peace. And all the people then shouted, and said, Great is Truth, and mighty above all things.
+**[4:42]** Then said the king unto him, Ask what thou wilt more than is appointed in the writing, and we will give it thee, because thou art found wisest; and thou shalt sit next me, and shalt be called my cousin.
+**[4:43]** Then said he unto the king, Remember thy vow, which thou hast vowed to build Jerusalem, in the day when thou camest to thy kingdom,
+**[4:44]** And to send away all the vessels that were taken away out of Jerusalem, which Cyrus set apart, when he vowed to destroy Babylon, and to send them again thither.
+**[4:45]** Thou also hast vowed to build up the temple, which the Edomites burned when Judea was made desolate by the Chaldees.
+**[4:46]** And now, O lord the king, this is that which I require, and which I desire of thee, and this is the princely liberality proceeding from thyself: I desire therefore that thou make good the vow, the performance whereof with thine own mouth thou hast vowed to the King of heaven.
+**[4:47]** Then Darius the king stood up, and kissed him, and wrote letters for him unto all the treasurers and lieutenants and captains and governors, that they should safely convey on their way both him, and all those that go up with him to build Jerusalem.
+**[4:48]** He wrote letters also unto the lieutenants that were in Celosyria and Phenice, and unto them in Libanus, that they should bring cedar wood from Libanus unto Jerusalem, and that they should build the city with him.
+**[4:49]** Moreover he wrote for all the Jews that went out of his realm up into Jewry, concerning their freedom, that no officer, no ruler, no lieutenant, nor treasurer, should forcibly enter into their doors;
+**[4:50]** And that all the country which they hold should be free without tribute; and that the Edomites should give over the villages of the Jews which then they held:
+**[4:51]** Yea, that there should be yearly given twenty talents to the building of the temple, until the time that it were built;
+**[4:52]** And other ten talents yearly, to maintain the burnt offerings upon the altar every day, as they had a commandment to offer seventeen:
+**[4:53]** And that all they that went from Babylon to build the city should have free liberty, as well they as their posterity, and all the priests that went away.
+**[4:54]** He wrote also concerning. the charges, and the priests’ vestments wherein they minister;
+**[4:55]** And likewise for the charges of the Levites, to be given them until the day that the house were finished, and Jerusalem builded up.
+**[4:56]** And he commanded to give to all that kept the city pensions and wages.
+**[4:57]** He sent away also all the vessels from Babylon, that Cyrus had set apart; and all that Cyrus had given in commandment, the same charged he also to be done, and sent unto Jerusalem.
+**[4:58]** Now when this young man was gone forth, he lifted up his face to heaven toward Jerusalem, and praised the King of heaven,
+**[4:59]** And said, From thee cometh victory, from thee cometh wisdom, and thine is the glory, and I am thy servant.
+**[4:60]** Blessed art thou, who hast given me wisdom: for to thee I give thanks, O Lord of our fathers.
+**[4:61]** And so he took the letters, and went out, and came unto Babylon, and told it all his brethren.
+**[4:62]** And they praised the God of their fathers, because he had given them freedom and liberty
+**[4:63]** To go up, and to build Jerusalem, and the temple which is called by his name: and they feasted with instruments of musick and gladness seven days.
+**[5:1]** After this were the principal men of the families chosen according to their tribes, to go up with their wives and sons and daughters, with their menservants and maidservants, and their cattle.
+**[5:2]** And Darius sent with them a thousand horsemen, till they had brought them back to Jerusalem safely, and with musical instruments tabrets and flutes.
+**[5:3]** And all their brethren played, and he made them go up together with them.
+**[5:4]** And these are the names of the men which went up, according to their families among their tribes, after their several heads.
+**[5:5]** The priests, the sons of Phinees the son of Aaron: Jesus the son of Josedec, the son of Saraias, and Joacim the son of Zorobabel, the son of Salathiel, of the house of David, out of the kindred of Phares, of the tribe of Judah;
+**[5:6]** Who spake wise sentences before Darius the king of Persia in the second year of his reign, in the month Nisan, which is the first month.
+**[5:7]** And these are they of Jewry that came up from the captivity, where they dwelt as strangers, whom Nabuchodonosor the king of Babylon had carried away unto Babylon.
+**[5:8]** And they returned unto Jerusalem, and to the other parts of Jewry, every man to his own city, who came with Zorobabel, with Jesus, Nehemias, and Zacharias, and Reesaias, Enenius, Mardocheus. Beelsarus, Aspharasus, Reelius, Roimus, and Baana, their guides.
+**[5:9]** The number of them of the nation, and their governors, sons of Phoros, two thousand an hundred seventy and two; the sons of Saphat, four hundred seventy and two:
+**[5:10]** The sons of Ares, seven hundred fifty and six:
+**[5:11]** The sons of Phaath Moab, two thousand eight hundred and twelve:
+**[5:12]** The sons of Elam, a thousand two hundred fifty and four: the sons of Zathul, nine hundred forty and five: the sons of Corbe, seven hundred and five: the sons of Bani, six hundred forty and eight:
+**[5:13]** The sons of Bebai, six hundred twenty and three: the sons of Sadas, three thousand two hundred twenty and two:
+**[5:14]** The sons of Adonikam, six hundred sixty and seven: the sons of Bagoi, two thousand sixty and six: the sons of Adin, four hundred fifty and four:
+**[5:15]** The sons of Aterezias, ninety and two: the sons of Ceilan and Azetas threescore and seven: the sons of Azuran, four hundred thirty and two:
+**[5:16]** The sons of Ananias, an hundred and one: the sons of Arom, thirty two: and the sons of Bassa, three hundred twenty and three: the sons of Azephurith, an hundred and two:
+**[5:17]** The sons of Meterus, three thousand and five: the sons of Bethlomon, an hundred twenty and three:
+**[5:18]** They of Netophah, fifty and five: they of Anathoth, an hundred fifty and eight: they of Bethsamos, forty and two:
+**[5:19]** They of Kiriathiarius, twenty and five: they of Caphira and Beroth, seven hundred forty and three: they of Pira, seven hundred:
+**[5:20]** They of Chadias and Ammidoi, four hundred twenty and two: they of Cirama and Gabdes, six hundred twenty and one:
+**[5:21]** They of Macalon, an hundred twenty and two: they of Betolius, fifty and two: the sons of Nephis, an hundred fifty and six:
+**[5:22]** The sons of Calamolalus and Onus, seven hundred twenty and five: the sons of Jerechus, two hundred forty and five:
+**[5:23]** The sons of Annas, three thousand three hundred and thirty.
+**[5:24]** The priests: the sons of Jeddu, the son of Jesus among the sons of Sanasib, nine hundred seventy and two: the sons of Meruth, a thousand fifty and two:
+**[5:25]** The sons of Phassaron, a thousand forty and seven: the sons of Carme, a thousand and seventeen.
+**[5:26]** The Levites: the sons of Jessue, and Cadmiel, and Banuas, and Sudias, seventy and four.
+**[5:27]** The holy singers: the sons of Asaph, an hundred twenty and eight.
+**[5:28]** The porters: the sons of Salum, the sons of Jatal, the sons of Talmon, the sons of Dacobi, the sons of Teta, the sons of Sami, in all an hundred thirty and nine.
+**[5:29]** The servants of the temple: the sons of Esau, the sons of Asipha, the sons of Tabaoth, the sons of Ceras, the sons of Sud, the sons of Phaleas, the sons of Labana, the sons of Graba,
+**[5:30]** The sons of Acua, the sons of Uta, the sons of Cetab, the sons of Agaba, the sons of Subai, the sons of Anan, the sons of Cathua, the sons of Geddur,
+**[5:31]** The sons of Airus, the sons of Daisan, the sons of Noeba, the sons of Chaseba, the sons of Gazera, the sons of Azia, the sons of Phinees, the sons of Azare, the sons of Bastai, the sons of Asana, the sons of Meani, the sons of Naphisi, the sons of Acub, the sons of Acipha, the sons of Assur, the sons of Pharacim, the sons of Basaloth,
+**[5:32]** The sons of Meeda, the sons of Coutha, the sons of Charea, the sons of Charcus, the sons of Aserer, the sons of Thomoi, the sons of Nasith, the sons of Atipha.
+**[5:33]** The sons of the servants of Solomon: the sons of Azaphion, the sons of Pharira, the sons of Jeeli, the sons of Lozon, the sons of Israel, the sons of Sapheth,
+**[5:34]** The sons of Hagia, the sons of Pharacareth, the sons of Sabi, the sons of Sarothie, the sons of Masias, the sons of Gar, the sons of Addus, the sons of Suba, the sons of Apherra, the sons of Barodis, the sons of Sabat, the sons of Allom.
+**[5:35]** All the ministers of the temple, and the sons of the servants of Solomon, were three hundred seventy and two.
+**[5:36]** These came up from Thermeleth and Thelersas, Charaathalar leading them, and Aalar;
+**[5:37]** Neither could they shew their families, nor their stock, how they were of Israel: the sons of Ladan, the son of Ban, the sons of Necodan, six hundred fifty and two.
+**[5:38]** And of the priests that usurped the office of the priesthood, and were not found: the sons of Obdia, the sons of Accoz, the sons of Addus, who married Augia one of the daughters of Barzelus, and was named after his name.
+**[5:39]** And when the description of the kindred of these men was sought in the register, and was not found, they were removed from executing the office of the priesthood:
+**[5:40]** For unto them said Nehemias and Atharias, that they should not be partakers of the holy things, till there arose up an high priest clothed with doctrine and truth.
+**[5:41]** So of Israel, from them of twelve years old and upward, they were all in number forty thousand, beside menservants and womenservants two thousand three hundred and sixty.
+**[5:42]** Their menservants and handmaids were seven thousand three hundred forty and seven: the singing men and singing women, two hundred forty and five:
+**[5:43]** Four hundred thirty and five camels, seven thousand thirty and six horses, two hundred forty and five mules, five thousand five hundred twenty and five beasts used to the yoke.
+**[5:44]** And certain of the chief of their families, when they came to the temple of God that is in Jerusalem, vowed to set up the house again in his own place according to their ability,
+**[5:45]** And to give into the holy treasury of the works a thousand pounds of gold, five thousand of silver, and an hundred priestly vestments.
+**[5:46]** And so dwelt the priests and the Levites and the people in Jerusalem, and in the country, the singers also and the porters; and all Israel in their villages.
+**[5:47]** But when the seventh month was at hand, and when the children of Israel were every man in his own place, they came all together with one consent into the open place of the first gate which is toward the east.
+**[5:48]** Then stood up Jesus the son of Josedec, and his brethren the priests and Zorobabel the son of Salathiel, and his brethren, and made ready the altar of the God of Israel,
+**[5:49]** To offer burnt sacrifices upon it, according as it is expressly commanded in the book of Moses the man of God.
+**[5:50]** And there were gathered unto them out of the other nations of the land, and they erected the altar upon his own place, because all the nations of the land were at enmity with them, and oppressed them; and they offered sacrifices according to the time, and burnt offerings to the Lord both morning and evening.
+**[5:51]** Also they held the feast of tabernacles, as it is commanded in the law, and offered sacrifices daily, as was meet:
+**[5:52]** And after that, the continual oblations, and the sacrifice of the sabbaths, and of the new moons, and of all holy feasts.
+**[5:53]** And all they that had made any vow to God began to offer sacrifices to God from the first day of the seventh month, although the temple of the Lord was not yet built.
+**[5:54]** And they gave unto the masons and carpenters money, meat, and drink, with cheerfulness.
+**[5:55]** Unto them of Zidon also and Tyre they gave carrs, that they should bring cedar trees from Libanus, which should be brought by floats to the haven of Joppa, according as it was commanded them by Cyrus king of the Persians.
+**[5:56]** And in the second year and second month after his coming to the temple of God at Jerusalem began Zorobabel the son of Salathiel, and Jesus the son of Josedec, and their brethren, and the priests, and the Levites, and all they that were come unto Jerusalem out of the captivity:
+**[5:57]** And they laid the foundation of the house of God in the first day of the second month, in the second year after they were come to Jewry and Jerusalem.
+**[5:58]** And they appointed the Levites from twenty years old over the works of the Lord. Then stood up Jesus, and his sons and brethren, and Cadmiel his brother, and the sons of Madiabun, with the sons of Joda the son of Eliadun, with their sons and brethren, all Levites, with one accord setters forward of the business, labouring to advance the works in the house of God. So the workmen built the temple of the Lord.
+**[5:59]** And the priests stood arrayed in their vestments with musical instruments and trumpets; and the Levites the sons of Asaph had cymbals,
+**[5:60]** Singing songs of thanksgiving, and praising the Lord, according as David the king of Israel had ordained.
+**[5:61]** And they sung with loud voices songs to the praise of the Lord, because his mercy and glory is for ever in all Israel.
+**[5:62]** And all the people sounded trumpets, and shouted with a loud voice, singing songs of thanksgiving unto the Lord for the rearing up of the house of the Lord.
+**[5:63]** Also of the priests and Levites, and of the chief of their families, the ancients who had seen the former house came to the building of this with weeping and great crying.
+**[5:64]** But many with trumpets and joy shouted with loud voice,
+**[5:65]** Insomuch that the trumpets might not be heard for the weeping of the people: yet the multitude sounded marvellously, so that it was heard afar off.
+**[5:66]** Wherefore when the enemies of the tribe of Judah and Benjamin heard it, they came to know what that noise of trumpets should mean.
+**[5:67]** And they perceived that they that were of the captivity did build the temple unto the Lord God of Israel.
+**[5:68]** So they went to Zorobabel and Jesus, and to the chief of the families, and said unto them, We will build together with you.
+**[5:69]** For we likewise, as ye, do obey your Lord, and do sacrifice unto him from the days of Azbazareth the king of the Assyrians, who brought us hither.
+**[5:70]** Then Zorobabel and Jesus and the chief of the families of Israel said unto them, It is not for us and you to build together an house unto the Lord our God.
+**[5:71]** We ourselves alone will build unto the Lord of Israel, according as Cyrus the king of the Persians hath commanded us.
+**[5:72]** But the heathen of the land lying heavy upon the inhabitants of Judea, and holding them strait, hindered their building;
+**[5:73]** And by their secret plots, and popular persuasions and commotions, they hindered the finishing of the building all the time that king Cyrus lived: so they were hindered from building for the space of two years, until the reign of Darius.
+**[6:1]** Now in the second year of the reign of Darius Aggeus and Zacharias the son of Addo, the prophets, prophesied unto the Jews in Jewry and Jerusalem in the name of the Lord God of Israel, which was upon them.
+**[6:2]** Then stood up Zorobabel the son of Salatiel, and Jesus the son of Josedec, and began to build the house of the Lord at Jerusalem, the prophets of the Lord being with them, and helping them.
+**[6:3]** At the same time came unto them Sisinnes the governor of Syria and Phenice, with Sathrabuzanes and his companions, and said unto them,
+**[6:4]** By whose appointment do ye build this house and this roof, and perform all the other things? and who are the workmen that perform these things?
+**[6:5]** Nevertheless the elders of the Jews obtained favour, because the Lord had visited the captivity;
+**[6:6]** And they were not hindered from building, until such time as signification was given unto Darius concerning them, and an answer received.
+**[6:7]** The copy of the letters which Sisinnes, governor of Syria and Phenice, and Sathrabuzanes, with their companions, rulers in Syria and Phenice, wrote and sent unto Darius; To king Darius, greeting:
+**[6:8]** Let all things be known unto our lord the king, that being come into the country of Judea, and entered into the city of Jerusalem we found in the city of Jerusalem the ancients of the Jews that were of the captivity
+**[6:9]** Building an house unto the Lord, great and new, of hewn and costly stones, and the timber already laid upon the walls.
+**[6:10]** And those works are done with great speed, and the work goeth on prosperously in their hands, and with all glory and diligence is it made.
+**[6:11]** Then asked we these elders, saying, By whose commandment build ye this house, and lay the foundations of these works?
+**[6:12]** Therefore to the intent that we might give knowledge unto thee by writing, we demanded of them who were the chief doers, and we required of them the names in writing of their principal men.
+**[6:13]** So they gave us this answer, We are the servants of the Lord which made heaven and earth.
+**[6:14]** And as for this house, it was builded many years ago by a king of Israel great and strong, and was finished.
+**[6:15]** But when our fathers provoked God unto wrath, and sinned against the Lord of Israel which is in heaven, he gave them over into the power of Nabuchodonosor king of Babylon, of the Chaldees;
+**[6:16]** Who pulled down the house, and burned it, and carried away the people captives unto Babylon.
+**[6:17]** But in the first year that king Cyrus reigned over the country of Babylon Cyrus the king wrote to build up this house.
+**[6:18]** And the holy vessels of gold and of silver, that Nabuchodonosor had carried away out of the house at Jerusalem, and had set them in his own temple those Cyrus the king brought forth again out of the temple at Babylon, and they were delivered to Zorobabel and to Sanabassarus the ruler,
+**[6:19]** With commandment that he should carry away the same vessels, and put them in the temple at Jerusalem; and that the temple of the Lord should be built in his place.
+**[6:20]** Then the same Sanabassarus, being come hither, laid the foundations of the house of the Lord at Jerusalem; and from that time to this being still a building, it is not yet fully ended.
+**[6:21]** Now therefore, if it seem good unto the king, let search be made among the records of king Cyrus:
+**[6:22]** And if it be found that the building of the house of the Lord at Jerusalem hath been done with the consent of king Cyrus, and if our lord the king be so minded, let him signify unto us thereof.
+**[6:23]** Then commanded king Darius to seek among the records at Babylon: and so at Ecbatane the palace, which is in the country of Media, there was found a roll wherein these things were recorded.
+**[6:24]** In the first year of the reign of Cyrus king Cyrus commanded that the house of the Lord at Jerusalem should be built again, where they do sacrifice with continual fire:
+**[6:25]** Whose height shall be sixty cubits and the breadth sixty cubits, with three rows of hewn stones, and one row of new wood of that country; and the expences thereof to be given out of the house of king Cyrus:
+**[6:26]** And that the holy vessels of the house of the Lord, both of gold and silver, that Nabuchodonosor took out of the house at Jerusalem, and brought to Babylon, should be restored to the house at Jerusalem, and be set in the place where they were before.
+**[6:27]** And also he commanded that Sisinnes the governor of Syria and Phenice, and Sathrabuzanes, and their companions, and those which were appointed rulers in Syria and Phenice, should be careful not to meddle with the place, but suffer Zorobabel, the servant of the Lord, and governor of Judea, and the elders of the Jews, to build the house of the Lord in that place.
+**[6:28]** I have commanded also to have it built up whole again; and that they look diligently to help those that be of the captivity of the Jews, till the house of the Lord be finished:
+**[6:29]** And out of the tribute of Celosyria and Phenice a portion carefully to be given these men for the sacrifices of the Lord, that is, to Zorobabel the governor, for bullocks, and rams, and lambs;
+**[6:30]** And also corn, salt, wine, and oil, and that continually every year without further question, according as the priests that be in Jerusalem shall signify to be daily spent:
+**[6:31]** That offerings may be made to the most high God for the king and for his children, and that they may pray for their lives.
+**[6:32]** And he commanded that whosoever should transgress, yea, or make light of any thing afore spoken or written, out of his own house should a tree be taken, and he thereon be hanged, and all his goods seized for the king.
+**[6:33]** The Lord therefore, whose name is there called upon, utterly destroy every king and nation, that stretcheth out his hand to hinder or endamage that house of the Lord in Jerusalem.
+**[6:34]** I Darius the king have ordained that according unto these things it be done with diligence.
+**[7:1]** Then Sisinnes the governor of Celosyria and Phenice, and Sathrabuzanes, with their companions following the commandments of king Darius,
+**[7:2]** Did very carefully oversee the holy works, assisting the ancients of the Jews and governors of the temple.
+**[7:3]** And so the holy works prospered, when Aggeus and Zacharias the prophets prophesied.
+**[7:4]** And they finished these things by the commandment of the Lord God of Israel, and with the consent of Cyrus, Darius, and Artexerxes, kings of Persia.
+**[7:5]** And thus was the holy house finished in the three and twentieth day of the month Adar, in the sixth year of Darius king of the Persians
+**[7:6]** And the children of Israel, the priests, and the Levites, and others that were of the captivity, that were added unto them, did according to the things written in the book of Moses.
+**[7:7]** And to the dedication of the temple of the Lord they offered an hundred bullocks two hundred rams, four hundred lambs;
+**[7:8]** And twelve goats for the sin of all Israel, according to the number of the chief of the tribes of Israel.
+**[7:9]** The priests also and the Levites stood arrayed in their vestments, according to their kindreds, in the service of the Lord God of Israel, according to the book of Moses: and the porters at every gate.
+**[7:10]** And the children of Israel that were of the captivity held the passover the fourteenth day of the first month, after that the priests and the Levites were sanctified.
+**[7:11]** They that were of the captivity were not all sanctified together: but the Levites were all sanctified together.
+**[7:12]** And so they offered the passover for all them of the captivity, and for their brethren the priests, and for themselves.
+**[7:13]** And the children of Israel that came out of the captivity did eat, even all they that had separated themselves from the abominations of the people of the land, and sought the Lord.
+**[7:14]** And they kept the feast of unleavened bread seven days, making merry before the Lord,
+**[7:15]** For that he had turned the counsel of the king of Assyria toward them, to strengthen their hands in the works of the Lord God of Israel.
+**[8:1]** And after these things, when Artexerxes the king of the Persians reigned came Esdras the son of Saraias, the son of Ezerias, the son of Helchiah, the son of Salum,
+**[8:2]** The son of Sadduc, the son of Achitob, the son of Amarias, the son of Ezias, the son of Meremoth, the son of Zaraias, the son of Savias, the son of Boccas, the son of Abisum, the son of Phinees, the son of Eleazar, the son of Aaron the chief priest.
+**[8:3]** This Esdras went up from Babylon, as a scribe, being very ready in the law of Moses, that was given by the God of Israel.
+**[8:4]** And the king did him honour: for he found grace in his sight in all his requests.
+**[8:5]** There went up with him also certain of the children of Israel, of the priest of the Levites, of the holy singers, porters, and ministers of the temple, unto Jerusalem,
+**[8:6]** In the seventh year of the reign of Artexerxes, in the fifth month, this was the king’s seventh year; for they went from Babylon in the first day of the first month, and came to Jerusalem, according to the prosperous journey which the Lord gave them.
+**[8:7]** For Esdras had very great skill, so that he omitted nothing of the law and commandments of the Lord, but taught all Israel the ordinances and judgments.
+**[8:8]** Now the copy of the commission, which was written from Artexerxes the king, and came to Esdras the priest and reader of the law of the Lord, is this that followeth;
+**[8:9]** King Artexerxes unto Esdras the priest and reader of the law of the Lord sendeth greeting:
+**[8:10]** Having determined to deal graciously, I have given order, that such of the nation of the Jews, and of the priests and Levites being within our realm, as are willing and desirous should go with thee unto Jerusalem.
+**[8:11]** As many therefore as have a mind thereunto, let them depart with thee, as it hath seemed good both to me and my seven friends the counsellors;
+**[8:12]** That they may look unto the affairs of Judea and Jerusalem, agreeably to that which is in the law of the Lord;
+**[8:13]** And carry the gifts unto the Lord of Israel to Jerusalem, which I and my friends have vowed, and all the gold and silver that in the country of Babylon can be found, to the Lord in Jerusalem,
+**[8:14]** With that also which is given of the people for the temple of the Lord their God at Jerusalem: and that silver and gold may be collected for bullocks, rams, and lambs, and things thereunto appertaining;
+**[8:15]** To the end that they may offer sacrifices unto the Lord upon the altar of the Lord their God, which is in Jerusalem.
+**[8:16]** And whatsoever thou and thy brethren will do with the silver and gold, that do, according to the will of thy God.
+**[8:17]** And the holy vessels of the Lord, which are given thee for the use of the temple of thy God, which is in Jerusalem, thou shalt set before thy God in Jerusalem.
+**[8:18]** And whatsoever thing else thou shalt remember for the use of the temple of thy God, thou shalt give it out of the king’s treasury.
+**[8:19]** And I king Artexerxes have also commanded the keepers of the treasures in Syria and Phenice, that whatsoever Esdras the priest and the reader of the law of the most high God shall send for, they should give it him with speed,
+**[8:20]** To the sum of an hundred talents of silver, likewise also of wheat even to an hundred cors, and an hundred pieces of wine, and other things in abundance.
+**[8:21]** Let all things be performed after the law of God diligently unto the most high God, that wrath come not upon the kingdom of the king and his sons.
+**[8:22]** I command you also, that ye require no tax, nor any other imposition, of any of the priests, or Levites, or holy singers, or porters, or ministers of the temple, or of any that have doings in this temple, and that no man have authority to impose any thing upon them.
+**[8:23]** And thou, Esdras, according to the wisdom of God ordain judges and justices, that they may judge in all Syria and Phenice all those that know the law of thy God; and those that know it not thou shalt teach.
+**[8:24]** And whosoever shall transgress the law of thy God, and of the king, shall be punished diligently, whether it be by death, or other punishment, by penalty of money, or by imprisonment.
+**[8:25]** Then said Esdras the scribe, Blessed be the only Lord God of my fathers, who hath put these things into the heart of the king, to glorify his house that is in Jerusalem:
+**[8:26]** And hath honoured me in the sight of the king, and his counsellors, and all his friends and nobles.
+**[8:27]** Therefore was I encouraged by the help of the Lord my God, and gathered together men of Israel to go up with me.
+**[8:28]** And these are the chief according to their families and several dignities, that went up with me from Babylon in the reign of king Artexerxes:
+**[8:29]** Of the sons of Phinees, Gerson: of the sons of Ithamar, Gamael: of the sons of David, Lettus the son of Sechenias:
+**[8:30]** Of the sons of Pharez, Zacharias; and with him were counted an hundred and fifty men:
+**[8:31]** Of the sons of Pahath Moab, Eliaonias, the son of Zaraias, and with him two hundred men:
+**[8:32]** Of the sons of Zathoe, Sechenias the son of Jezelus, and with him three hundred men: of the sons of Adin, Obeth the son of Jonathan, and with him two hundred and fifty men:
+**[8:33]** Of the sons of Elam, Josias son of Gotholias, and with him seventy men:
+**[8:34]** Of the sons of Saphatias, Zaraias son of Michael, and with him threescore and ten men:
+**[8:35]** Of the sons of Joab, Abadias son of Jezelus, and with him two hundred and twelve men:
+**[8:36]** Of the sons of Banid, Assalimoth son of Josaphias, and with him an hundred and threescore men:
+**[8:37]** Of the sons of Babi, Zacharias son of Bebai, and with him twenty and eight men:
+**[8:38]** Of the sons of Astath, Johannes son of Acatan, and with him an hundred and ten men:
+**[8:39]** Of the sons of Adonikam the last, and these are the names of them, Eliphalet, Jewel, and Samaias, and with them seventy men:
+**[8:40]** Of the sons of Bago, Uthi the son of Istalcurus, and with him seventy men.
+**[8:41]** And these I gathered together to the river called Theras, where we pitched our tents three days: and then I surveyed them.
+**[8:42]** But when I had found there none of the priests and Levites,
+**[8:43]** Then sent I unto Eleazar, and Iduel, and Masman,
+**[8:44]** And Alnathan, and Mamaias, and Joribas, and Nathan, Eunatan, Zacharias, and Mosollamon, principal men and learned.
+**[8:45]** And I bade them that they should go unto Saddeus the captain, who was in the place of the treasury:
+**[8:46]** And commanded them that they should speak unto Daddeus, and to his brethren, and to the treasurers in that place, to send us such men as might execute the priests’ office in the house of the Lord.
+**[8:47]** And by the mighty hand of our Lord they brought unto us skilful men of the sons of Moli the son of Levi, the son of Israel, Asebebia, and his sons, and his brethren, who were eighteen.
+**[8:48]** And Asebia, and Annus, and Osaias his brother, of the sons of Channuneus, and their sons, were twenty men.
+**[8:49]** And of the servants of the temple whom David had ordained, and the principal men for the service of the Levites to wit, the servants of the temple two hundred and twenty, the catalogue of whose names were shewed.
+**[8:50]** And there I vowed a fast unto the young men before our Lord, to desire of him a prosperous journey both for us and them that were with us, for our children, and for the cattle:
+**[8:51]** For I was ashamed to ask the king footmen, and horsemen, and conduct for safeguard against our adversaries.
+**[8:52]** For we had said unto the king, that the power of the Lord our God should be with them that seek him, to support them in all ways.
+**[8:53]** And again we besought our Lord as touching these things, and found him favourable unto us.
+**[8:54]** Then I separated twelve of the chief of the priests, Esebrias, and Assanias, and ten men of their brethren with them:
+**[8:55]** And I weighed them the gold, and the silver, and the holy vessels of the house of our Lord, which the king, and his council, and the princes, and all Israel, had given.
+**[8:56]** And when I had weighed it, I delivered unto them six hundred and fifty talents of silver, and silver vessels of an hundred talents, and an hundred talents of gold,
+**[8:57]** And twenty golden vessels, and twelve vessels of brass, even of fine brass, glittering like gold.
+**[8:58]** And I said unto them, Both ye are holy unto the Lord, and the vessels are holy, and the gold and the silver is a vow unto the Lord, the Lord of our fathers.
+**[8:59]** Watch ye, and keep them till ye deliver them to the chief of the priests and Levites, and to the principal men of the families of Israel, in Jerusalem, into the chambers of the house of our God.
+**[8:60]** So the priests and the Levites, who had received the silver and the gold and the vessels, brought them unto Jerusalem, into the temple of the Lord.
+**[8:61]** And from the river Theras we departed the twelfth day of the first month, and came to Jerusalem by the mighty hand of our Lord, which was with us: and from the beginning of our journey the Lord delivered us from every enemy, and so we came to Jerusalem.
+**[8:62]** And when we had been there three days, the gold and silver that was weighed was delivered in the house of our Lord on the fourth day unto Marmoth the priest the son of Iri.
+**[8:63]** And with him was Eleazar the son of Phinees, and with them were Josabad the son of Jesu and Moeth the son of Sabban, Levites: all was delivered them by number and weight.
+**[8:64]** And all the weight of them was written up the same hour.
+**[8:65]** Moreover they that were come out of the captivity offered sacrifice unto the Lord God of Israel, even twelve bullocks for all Israel, fourscore and sixteen rams,
+**[8:66]** Threescore and twelve lambs, goats for a peace offering, twelve; all of them a sacrifice to the Lord.
+**[8:67]** And they delivered the king’s commandments unto the king’s stewards’ and to the governors of Celosyria and Phenice; and they honoured the people and the temple of God.
+**[8:68]** Now when these things were done, the rulers came unto me, and said,
+**[8:69]** The nation of Israel, the princes, the priests and Levites, have not put away from them the strange people of the land, nor the pollutions of the Gentiles to wit, of the Canaanites, Hittites, Pheresites, Jebusites, and the Moabites, Egyptians, and Edomites.
+**[8:70]** For both they and their sons have married with their daughters, and the holy seed is mixed with the strange people of the land; and from the beginning of this matter the rulers and the great men have been partakers of this iniquity.
+**[8:71]** And as soon as I had heard these things, I rent my clothes, and the holy garment, and pulled off the hair from off my head and beard, and sat me down sad and very heavy.
+**[8:72]** So all they that were then moved at the word of the Lord God of Israel assembled unto me, whilst I mourned for the iniquity: but I sat still full of heaviness until the evening sacrifice.
+**[8:73]** Then rising up from the fast with my clothes and the holy garment rent, and bowing my knees, and stretching forth my hands unto the Lord,
+**[8:74]** I said, O Lord, I am confounded and ashamed before thy face;
+**[8:75]** For our sins are multiplied above our heads, and our ignorances have reached up unto heaven.
+**[8:76]** For ever since the time of our fathers we have been and are in great sin, even unto this day.
+**[8:77]** And for our sins and our fathers’ we with our brethren and our kings and our priests were given up unto the kings of the earth, to the sword, and to captivity, and for a prey with shame, unto this day.
+**[8:78]** And now in some measure hath mercy been shewed unto us from thee, O Lord, that there should be left us a root and a name in the place of thy sanctuary;
+**[8:79]** And to discover unto us a light in the house of the Lord our God, and to give us food in the time of our servitude.
+**[8:80]** Yea, when we were in bondage, we were not forsaken of our Lord; but he made us gracious before the kings of Persia, so that they gave us food;
+**[8:81]** Yea, and honoured the temple of our Lord, and raised up the desolate Sion, that they have given us a sure abiding in Jewry and Jerusalem.
+**[8:82]** And now, O Lord, what shall we say, having these things? for we have transgressed thy commandments, which thou gavest by the hand of thy servants the prophets, saying,
+**[8:83]** That the land, which ye enter into to possess as an heritage, is a land polluted with the pollutions of the strangers of the land, and they have filled it with their uncleanness.
+**[8:84]** Therefore now shall ye not join your daughters unto their sons, neither shall ye take their daughters unto your sons.
+**[8:85]** Moreover ye shall never seek to have peace with them, that ye may be strong, and eat the good things of the land, and that ye may leave the inheritance of the land unto your children for evermore.
+**[8:86]** And all that is befallen is done unto us for our wicked works and great sins; for thou, O Lord, didst make our sins light,
+**[8:87]** And didst give unto us such a root: but we have turned back again to transgress thy law, and to mingle ourselves with the uncleanness of the nations of the land.
+**[8:88]** Mightest not thou be angry with us to destroy us, till thou hadst left us neither root, seed, nor name?
+**[8:89]** O Lord of Israel, thou art true: for we are left a root this day.
+**[8:90]** Behold, now are we before thee in our iniquities, for we cannot stand any longer by reason of these things before thee.
+**[8:91]** And as Esdras in his prayer made his confession, weeping, and lying flat upon the ground before the temple, there gathered unto him from Jerusalem a very great multitude of men and women and children: for there was great weeping among the multitude.
+**[8:92]** Then Jechonias the son of Jeelus, one of the sons of Israel, called out, and said, O Esdras, we have sinned against the Lord God, we have married strange women of the nations of the land, and now is all Israel aloft.
+**[8:93]** Let us make an oath to the Lord, that we will put away all our wives, which we have taken of the heathen, with their children,
+**[8:94]** Like as thou hast decreed, and as many as do obey the law of the Lord.
+**[8:95]** Arise and put in execution: for to thee doth this matter appertain, and we will be with thee: do valiantly.
+**[8:96]** So Esdras arose, and took an oath of the chief of the priests and Levites of all Israel to do after these things; and so they sware.
+**[9:1]** Then Esdras rising from the court of the temple went to the chamber of Joanan the son of Eliasib,
+**[9:2]** And remained there, and did eat no meat nor drink water, mourning for the great iniquities of the multitude.
+**[9:3]** And there was a proclamation in all Jewry and Jerusalem to all them that were of the captivity, that they should be gathered together at Jerusalem:
+**[9:4]** And that whosoever met not there within two or three days according as the elders that bare rule appointed, their cattle should be seized to the use of the temple, and himself cast out from them that were of the captivity.
+**[9:5]** And in three days were all they of the tribe of Judah and Benjamin gathered together at Jerusalem the twentieth day of the ninth month.
+**[9:6]** And all the multitude sat trembling in the broad court of the temple because of the present foul weather.
+**[9:7]** So Esdras arose up, and said unto them, Ye have transgressed the law in marrying strange wives, thereby to increase the sins of Israel.
+**[9:8]** And now by confessing give glory unto the Lord God of our fathers,
+**[9:9]** And do his will, and separate yourselves from the heathen of the land, and from the strange women.
+**[9:10]** Then cried the whole multitude, and said with a loud voice, Like as thou hast spoken, so will we do.
+**[9:11]** But forasmuch as the people are many, and it is foul weather, so that we cannot stand without, and this is not a work of a day or two, seeing our sin in these things is spread far:
+**[9:12]** Therefore let the rulers of the multitude stay, and let all them of our habitations that have strange wives come at the time appointed,
+**[9:13]** And with them the rulers and judges of every place, till we turn away the wrath of the Lord from us for this matter.
+**[9:14]** Then Jonathan the son of Azael and Ezechias the son of Theocanus accordingly took this matter upon them: and Mosollam and Levis and Sabbatheus helped them.
+**[9:15]** And they that were of the captivity did according to all these things.
+**[9:16]** And Esdras the priest chose unto him the principal men of their families, all by name: and in the first day of the tenth month they sat together to examine the matter.
+**[9:17]** So their cause that held strange wives was brought to an end in the first day of the first month.
+**[9:18]** And of the priests that were come together, and had strange wives, there were found:
+**[9:19]** Of the sons of Jesus the son of Josedec, and his brethren; Matthelas and Eleazar, and Joribus and Joadanus.
+**[9:20]** And they gave their hands to put away their wives and to offer rams to make reconcilement for their errors.
+**[9:21]** And of the sons of Emmer; Ananias, and Zabdeus, and Eanes, and Sameius, and Hiereel, and Azarias.
+**[9:22]** And of the sons of Phaisur; Elionas, Massias Israel, and Nathanael, and Ocidelus and Talsas.
+**[9:23]** And of the Levites; Jozabad, and Semis, and Colius, who was called Calitas, and Patheus, and Judas, and Jonas.
+**[9:24]** Of the holy singers; Eleazurus, Bacchurus.
+**[9:25]** Of the porters; Sallumus, and Tolbanes.
+**[9:26]** Of them of Israel, of the sons of Phoros; Hiermas, and Eddias, and Melchias, and Maelus, and Eleazar, and Asibias, and Baanias.
+**[9:27]** Of the sons of Ela; Matthanias, Zacharias, and Hierielus, and Hieremoth, and Aedias.
+**[9:28]** And of the sons of Zamoth; Eliadas, Elisimus, Othonias, Jarimoth, and Sabatus, and Sardeus.
+**[9:29]** Of the sons of Babai; Johannes, and Ananias and Josabad, and Amatheis.
+**[9:30]** Of the sons of Mani; Olamus, Mamuchus, Jedeus, Jasubus, Jasael, and Hieremoth.
+**[9:31]** And of the sons of Addi; Naathus, and Moosias, Lacunus, and Naidus, and Mathanias, and Sesthel, Balnuus, and Manasseas.
+**[9:32]** And of the sons of Annas; Elionas and Aseas, and Melchias, and Sabbeus, and Simon Chosameus.
+**[9:33]** And of the sons of Asom; Altaneus, and Matthias, and Baanaia, Eliphalet, and Manasses, and Semei.
+**[9:34]** And of the sons of Maani; Jeremias, Momdis, Omaerus, Juel, Mabdai, and Pelias, and Anos, Carabasion, and Enasibus, and Mamnitanaimus, Eliasis, Bannus, Eliali, Samis, Selemias, Nathanias: and of the sons of Ozora; Sesis, Esril, Azaelus, Samatus, Zambis, Josephus.
+**[9:35]** And of the sons of Ethma; Mazitias, Zabadaias, Edes, Juel, Banaias.
+**[9:36]** All these had taken strange wives, and they put them away with their children.
+**[9:37]** And the priests and Levites, and they that were of Israel, dwelt in Jerusalem, and in the country, in the first day of the seventh month: so the children of Israel were in their habitations.
+**[9:38]** And the whole multitude came together with one accord into the broad place of the holy porch toward the east:
+**[9:39]** And they spake unto Esdras the priest and reader, that he would bring the law of Moses, that was given of the Lord God of Israel.
+**[9:40]** So Esdras the chief priest brought the law unto the whole multitude from man to woman, and to all the priests, to hear law in the first day of the seventh month.
+**[9:41]** And he read in the broad court before the holy porch from morning unto midday, before both men and women; and the multitude gave heed unto the law.
+**[9:42]** And Esdras the priest and reader of the law stood up upon a pulpit of wood, which was made for that purpose.
+**[9:43]** And there stood up by him Mattathias, Sammus, Ananias, Azarias, Urias, Ezecias, Balasamus, upon the right hand:
+**[9:44]** And upon his left hand stood Phaldaius, Misael, Melchias, Lothasubus, and Nabarias.
+**[9:45]** Then took Esdras the book of the law before the multitude: for he sat honourably in the first place in the sight of them all.
+**[9:46]** And when he opened the law, they stood all straight up. So Esdras blessed the Lord God most High, the God of hosts, Almighty.
+**[9:47]** And all the people answered, Amen; and lifting up their hands they fell to the ground, and worshipped the Lord.
+**[9:48]** Also Jesus, Anus, Sarabias, Adinus, Jacubus, Sabateas, Auteas, Maianeas, and Calitas, Asrias, and Joazabdus, and Ananias, Biatas, the Levites, taught the law of the Lord, making them withal to understand it.
+**[9:49]** Then spake Attharates unto Esdras the chief priest. and reader, and to the Levites that taught the multitude, even to all, saying,
+**[9:50]** This day is holy unto the Lord; (for they all wept when they heard the law:)
+**[9:51]** Go then, and eat the fat, and drink the sweet, and send part to them that have nothing;
+**[9:52]** For this day is holy unto the Lord: and be not sorrowful; for the Lord will bring you to honour.
+**[9:53]** So the Levites published all things to the people, saying, This day is holy to the Lord; be not sorrowful.
+**[9:54]** Then went they their way, every one to eat and drink, and make merry, and to give part to them that had nothing, and to make great cheer;
+**[9:55]** Because they understood the words wherein they were instructed, and for the which they had been assembled.
