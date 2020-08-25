@@ -1,5 +1,8 @@
 # Scrollmapper :: Deuterocanonical Project
 
+Extra-biblical and bible-related books in simple .txt and .md format. 
+This project aids to make digital access and distribution of these books easier.
+
 - 1st Enoch ("Ethiopic" Book of Enoch)
 - 2nd Enoch ("Slavonic" "Secrets of Enoch")
 - 3nd Enoch ("Hebrew" Book of Enoch)
@@ -27,7 +30,7 @@
 - Apocalypse of Peter
 - Testaments of the Twelve Patriarchs
 
-
+Looking for canonical bible books? Find them here: https://github.com/scrollmapper/bible_databases
 
 
 
