@@ -1,6 +1,6 @@
 # Scrollmapper :: Deuterocanonical Project
 
-Extra-biblical and bible-related books in simple .txt and .md format. 
+Extra-biblical and bible-related books in simple .txt and .md format.
 This project aids to make digital access and distribution of these books easier.
 
 - 1st Enoch ("Ethiopic" Book of Enoch)
@@ -24,13 +24,11 @@ This project aids to make digital access and distribution of these books easier.
 - 2 Esdras
 - Manasseh
 - 1 Hermas
-- 2 Hermas 
+- 2 Hermas
 - 3 Hermas
 - Testament of Solomon
 - Apocalypse of Peter
 - Testaments of the Twelve Patriarchs
+- The Ascension of Isaiah
 
 Looking for canonical bible books? Find them here: https://github.com/scrollmapper/bible_databases
-
-
-
