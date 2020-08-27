@@ -32,5 +32,6 @@ This project aids to make digital access and distribution of these books easier.
 - Apocalypse of Peter
 - Testaments of the Twelve Patriarchs
 - The Ascension of Isaiah
+- The Apocalipse of Sedrach 
 
 Looking for canonical bible books? Find them here: https://github.com/scrollmapper/bible_databases
