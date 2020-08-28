@@ -39,7 +39,7 @@ This project has been established to make digital access and distribution of the
 
 ---
 
-The *lost books* have not been as zealously preserved as the mainstream canonical scriptures (The Bible) we know today. Therefore, in digitally transcribing these to a simple and redistributable text format. Many of these are translations of translations, copies of copies, in most cases, and parts of the books may have additions or subtractions that occurred in history as they were transmitted and copied by the ancients and modern methods.
+The *lost books* have not been as zealously preserved as the mainstream canonical scriptures (The Bible) we know today. Many of these are translations of translations, copies of copies, in most cases, and parts of the books may have additions or subtractions that occurred in history as they were transmitted and copied by the ancients and modern methods.
  
 Some of these books are the product of digital copying and may have small errors in them (such as the use of *0 zero* where *O letter O* should be). If you detect these, feel free to submit changes. 
 
