@@ -69,10 +69,15 @@ All books are listed in the `book_key` table:
 +-----------+-----------------+------+-----+---------+----------------+
 ```
 **id:** Book ID
+
 **weight:** Book listing priority. Lower numbers = higher priority.
+
 **name:** Name of book.
+
 **info_text:** Information on the book.
+
 **info_url:** Wikipedia url regarding book.
+
 **path:** The slug path within the md or txt directory, excluding the .txt or .md extension.
 
 All books are contained in the `books` table, where `b` is the `id` field of `book_key`.
@@ -91,10 +96,15 @@ All books are contained in the `books` table, where `b` is the `id` field of `bo
 ```
 
 **b:** Book ID that links to book_key.id
+
 **c:** Chapter of the book.
-**cs:** Chapter String ***(such as 1a or 1b type verses, where translators listed multiple variants of a verse or chapter)***
+
+**cs:** Chapter String *(such as 1a or 1b type verses, where translators listed multiple variants of a verse or chapter)*
+
 **v:** The verse.
-**vs:** Verse String ***(such as 1a or 1b type verses, where translators listed multiple variants of a verse or chapter)***
+
+**vs:** Verse String *(such as 1a or 1b type verses, where translators listed multiple variants of a verse or chapter)*
+
 **t:** Text, or actual content of the verse. 
 
 
