@@ -118,7 +118,9 @@
 
 **[10:12]** And do thou, O sun, withhold the light of thy rays. And do thou, O moon, extinguish the multitude of thy light; For why should light rise again Where the light of Zion is darkened?
 
-**[10:13]** And you, ye bridegrooms, enter not in, And let not the brides adorn themselves with garlands 14 And, ye women, pray not that ye may bear. For the barren shall above all rejoice, And those who have no sons shall be glad, And those who have sons shall have anguish.
+**[10:13]** And you, ye bridegrooms, enter not in, And let not the brides adorn themselves with garlands
+
+**[10:14]** And, ye women, pray not that ye may bear. For the barren shall above all rejoice, And those who have no sons shall be glad, And those who have sons shall have anguish.
 
 **[10:15]** For why should they bear in pain, Only to bury in grief?
 
