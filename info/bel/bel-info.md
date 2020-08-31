@@ -1,0 +1,4 @@
+id: 37
+info_url: https://en.wikipedia.org/wiki/Bel_and_the_Dragon
+name: Bel and the Dragon
+weight: 37.0

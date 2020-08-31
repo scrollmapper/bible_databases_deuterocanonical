@@ -1,0 +1,4 @@
+id: 43
+info_url: https://en.wikipedia.org/wiki/Ascension_of_Isaiah
+name: The Ascension of Isaiah
+weight: 43.0
