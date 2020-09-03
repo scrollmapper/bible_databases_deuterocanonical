@@ -1,5 +1,7 @@
 # 1 Esdras
 
+
+
 **[1:1]** And Josias held the feast of the passover in Jerusalem unto his Lord, and offered the passover the fourteenth day of the first month;
 
 **[1:2]** Having set the priests according to their daily courses, being arrayed in long garments, in the temple of the Lord.
@@ -895,3 +897,4 @@
 **[9:54]** Then went they their way, every one to eat and drink, and make merry, and to give part to them that had nothing, and to make great cheer;
 
 **[9:55]** Because they understood the words wherein they were instructed, and for the which they had been assembled.
+

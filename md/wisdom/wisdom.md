@@ -1,5 +1,7 @@
 # Wisdom
 
+
+
 **[1:1]** Love righteousness, ye that be judges of the earth: think of the Lord with a good (heart,) and in simplicity of heart seek him.
 
 **[1:2]** For he will be found of them that tempt him not; and sheweth himself unto such as do not distrust him.
@@ -871,3 +873,4 @@
 **[19:21]** On the other side, the flames wasted not the flesh of the corruptible living things, though they walked therein; neither melted they the icy kind of heavenly meat that was of nature apt to melt.
 
 **[19:22]** For in all things, O Lord, thou didst magnify thy people, and glorify them, neither didst thou lightly regard them: but didst assist them in every time and place.
+

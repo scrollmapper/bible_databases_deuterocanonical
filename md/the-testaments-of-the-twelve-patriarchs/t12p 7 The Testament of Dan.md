@@ -1,4 +1,6 @@
-# Testaments of the Twelve Patriarchs / The Testament of Dan
+# The Testament of Dan / Testaments of the Twelve Patriarchs
+
+
 
 **[1:1]** THE copy of the words of Dan, which he spake to his sons in his last days, in the hundred and twenty-fifth year of his life.
 
@@ -54,7 +56,10 @@
 
 **[1:27]** Moreover, a twofold mischief is wrath with lying; and they assist one another in order to disturb the heart; and when the soul is continually disturbed, the Lord departeth from it, and Beliar ruleth over it.
 
+
+
 ---
+
 
 
 **[2:1]** OBSERVE, therefore, my children, the commandments of the Lord, and keep His law; depart from wrath, and hate lying, that the Lord may dwell among you, and Beliar may flee from you.
@@ -110,3 +115,4 @@
 **[2:26]** And his sons buried him, and after that they carried up his bones, and placed them near Abraham, and Isaac, and Jacob.
 
 **[2:27]** Nevertheless, Dan prophesied unto them that they should forget their God, and should be alienated from the land of their inheritance and from the race of Israel, and from the family of their seed.
+

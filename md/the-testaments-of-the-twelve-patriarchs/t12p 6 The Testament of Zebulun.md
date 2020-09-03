@@ -1,4 +1,6 @@
-# Testaments of the Twelve Patriarchs / The Testament of Zebulun
+# The Testament of Zebulun / Testaments of the Twelve Patriarchs
+
+
 
 **[1:1]** THE copy of the words of Zebulun, which he enjoined on his sons before he died in the hundred and fourteenth year of his life, two years after the death of Joseph.
 
@@ -74,7 +76,10 @@
 
 **[1:37]** And so he gave it unto them, and they did even as Dan had said.
 
+
+
 ---
+
 
 
 **[2:1]** AND now children, I bid you to keep the commands of the Lord, and to show mercy to your neighbours, and to have compassion towards all, not towards men only, but also towards beasts.
@@ -160,3 +165,4 @@
 **[2:41]** And when he had said these things he fell asleep, at a good old age.
 
 **[2:42]** And his sons laid him in a wooden coffin. And afterwards they carried him up and buried him in Hebron, with his fathers.
+

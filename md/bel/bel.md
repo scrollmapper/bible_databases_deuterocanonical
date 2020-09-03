@@ -1,5 +1,7 @@
 # Bel and the Dragon
 
+
+
 **[1:1]** And king Astyages was gathered to his fathers, and Cyrus of Persia received his kingdom.
 
 **[1:2]** And Daniel conversed with the king, and was honoured above all his friends.
@@ -83,3 +85,4 @@
 **[1:41]** Then cried the king with a loud voice, saying, Great art Lord God of Daniel, and there is none other beside thee.
 
 **[1:42]** And he drew him out, and cast those that were the cause of his destruction into the den: and they were devoured in a moment before his face.
+

@@ -239,7 +239,7 @@ Second Baruch
 [33:1] 'Are these the commands which thy companion, Jeremiah the prophet, commanded thee, and said unto thee:
 [33:2] "Look to this people till I go and make ready the rest of the brethren in Babylon, against whom has gone forth the sentence that they should be led into captivity"?
 [33:3] And now if thou also forsakest us, it were good for us all to die before thee, and then that thou shouldst withdraw from us.'
-[34:And] I answered and said unto the people: 'Far be it from me to forsake you or to withdraw from you, but I will only go unto the Holy of Holies to inquire of the Mighty One concerning you and concerning Zion, if in some respect I should receive more illumination: and after these things I will return to you.'
+[34:4] And I answered and said unto the people: 'Far be it from me to forsake you or to withdraw from you, but I will only go unto the Holy of Holies to inquire of the Mighty One concerning you and concerning Zion, if in some respect I should receive more illumination: and after these things I will return to you.'
 [35:1] And I, Baruch, went to the holy place, and sat down upon the ruins and wept, and said:
 [35:2] 'O that mine eyes were springs, And mine eyelids a fount of tears.
 [35:3] For how shall I lament for Zion, And how shall I mourn for Jerusalem?
@@ -256,7 +256,8 @@ Second Baruch
 [36:9] But now thy time has sped and thine hour is come.
 [36:10] Do thou also therefore depart O cedar, after the forest. which departed before thee, and become dust with it. And let your ashes be mingled together,
 [36:11] And now recline in anguish and rest in torment till thy last time come, in which thou wilt come again, and be tormented still more.'
-[37:And] after these things I saw that cedar burning, and the vine glowing, itself and all around it, the plain full of unfading flowers. [37:And] I indeed awoke and arose.
+[37:12] And after these things I saw that cedar burning, and the vine glowing, itself and all around it, the plain full of unfading flowers. 
+[37:13] And I indeed awoke and arose.
 [38:1] And I prayed and said: 'O LORD, my Lord, Thou dost always enlighten those who are led by understanding.
 [38:2] Thy law is life, and Thy wisdom is right guidance.
 [38:3] Make known to me therefore the interpretation of this vision.
@@ -274,8 +275,8 @@ Second Baruch
 [40:3] And his principate will stand for ever, until the world of corruption is at an end, and until the times aforesaid are fulfilled.
 [40:4] This is thy vision, and this is its interpretation.'
 [41:1] And I answered and said: 'For whom and for how many shall these things be? or who will be worthy to live at that time?
-[41:2] For I will. speak before thee everything that I think, and I will ask of Thee regarding those things which I meditate.
-[41:3] For lo! I see many of Thy people who have with drawn from Thy covenant, and cast from them the yoke of Thy law.
+[41:2] For I will speak before thee everything that I think, and I will ask of Thee regarding those things which I meditate.
+[41:3] For lo! I see many of Thy people who have withdrawn from Thy covenant, and cast from them the yoke of Thy law.
 [41:4] But others again I have seen who have forsaken their vanity, and fled for refuge beneath Thy wings.
 [41:5] What therefore will be to them? or how will the last time receive them?
 [41:6] Or perhaps the time of these will assuredly be weighed, and as the beam inclines will they be judged accordingly?'

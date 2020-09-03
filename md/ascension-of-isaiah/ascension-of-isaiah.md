@@ -1,5 +1,7 @@
 # The Ascension of Isaiah
 
+
+
 **[1:1]** And it came to pass in the twenty-sixth year of the reign of Hezediah king of Judah that he called Manasseh his son. Now he was his only one.
 
 **[1:2]** And he called him into the presence of Isaiah the son of Amoz the prophet, and into the presence of Josab the son of Isaiah, in order to deliver unto him the words of righteousness which the king himself had seen:

@@ -1,4 +1,6 @@
-# Testaments of the Twelve Patriarchs / The Testament of Joseph
+# The Testament of Joseph / Testaments of the Twelve Patriarchs 
+
+
 
 **[1:1]** THE copy of the Testament of Joseph.
 
@@ -162,7 +164,10 @@
 
 **[1:81]** And the Lord guarded me from her devices.
 
+
+
 ---
+
 
 
 **[2:1]** YE see, therefore, my children, how great things patience worketh, and prayer with fasting.
@@ -332,3 +337,4 @@
 **[2:83]** And all Israel mourned for him, and all Egypt, with a great mourning.
 
 **[2:84]** And when the children of Israel went out of Egypt, they took with them the bones of Joseph, and they buried him in Hebron with his fathers, and the years of his life were one hundred and ten years.
+

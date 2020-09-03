@@ -1,5 +1,7 @@
 # Testament of Solomon
 
+
+
 **[1:1]** Testament of Solomon, son of David, who was king in Jerusalem, and mastered and controlled all spirits of the air, on the earth, and under the earth. By means of them also he wrought all the transcendent works of the Temple. Telling also of the authorities they wield against men, and by what angels these demons are brought to naught. Of the sage Solomon. Blessed art thou, O Lord God, who didst give Solomon such authority. Glory to thee and might unto the ages. Amen.
 
 **[1:2]** And behold, when the Temple of the city of Jerusalem was being builded, and the artificers were working thereat, Ornias the demon came among them toward sunset; and he took away half of the pay of the chief-deviser's (?) little boy, as well as half his food. He also continued to suck the thumb of his right hand every day. And the child grew thin, although he was very much loved by the king.
@@ -257,3 +259,4 @@
 **[1:129]** And when I answered that I would on no account worship strange gods, they told the maiden not to sleep with me until I complied and sacrificed to the gods. I then was moved, but crafty Eros brought and laid by her for me five grasshoppers, saying: "Take these grasshoppers, and crush them together in the name of the god Moloch; and then will I sleep with you." And this I actually did. And at once the Spirit of God departed from me, and I became weak as well as foolish in my words. And after that I was obliged by her to build a temple of idols to Baal, and to Rapha, and to Moloch, and to the other idols.
 
 **[1:130]** I then, wretch that I am, followed her advice, and the glory of God quite departed from me; and my spirit was darkened, and I became the sport of idols and demons. Wherefore I wrote out this Testament, that ye who get possession of it may pity, and attend to the last things, and not to the first. So that ye may find grace for ever and ever. Amen.
+

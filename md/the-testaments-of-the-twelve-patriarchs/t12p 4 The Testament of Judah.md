@@ -1,4 +1,6 @@
-# Testaments of the Twelve Patriarchs / The Testament of Judah
+# The Testament of Judah / Testaments of the Twelve Patriarchs
+
+
 
 **[1:1]** THE copy of the words of Judah, what things he spake to his sons before he died.
 
@@ -108,7 +110,10 @@
 
 **[1:54]** She bare me Er, and Onan and Shelah; and two of them the Lord smote: for Shelah lived, and his children are ye.
 
+
+
 ---
+
 
 
 **[2:1]** AND eighteen years my father abode in peace with his brother Esau, and his sons with us, after that we came from Mesopotamia, from Laban.
@@ -181,7 +186,10 @@
 
 **[2:35]** And I was forty and six years old, and seventy and three years lived I in Egypt.
 
+
+
 ---
+
 
 
 **[3:1]** AND now I command you, my children, hearken to Judah your father, and keep my sayings to perform all the ordinances of the Lord, and to obey the commands of God.
@@ -284,7 +292,10 @@
 
 **[3:50]** And the spirit of truth testifieth all things, and accuseth all; and the sinner is burnt up by his own heart, and cannot raise his face to the judge.
 
+
+
 ---
+
 
 
 **[4:1]** AND now, my children, I command you, love Levi, that ye may abide, and exalt not yourselves against him, lest ye be utterly destroyed.
@@ -358,3 +369,4 @@
 **[4:35]** Let no one bury me in costly apparel, nor tear open my bowels, for this shall they who are kings do; and carry me up to Hebron with you.
 
 **[4:36]** And Judah, when he had said these things, fell asleep; and his sons did according to all whatsoever he commanded them, and they buried him in Hebron, with his fathers.
+

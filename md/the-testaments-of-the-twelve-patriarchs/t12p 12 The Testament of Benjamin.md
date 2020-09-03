@@ -1,4 +1,6 @@
-# Testaments of the Twelve Patriarchs / The Testament of Benjamin
+# The Testament of Benjamin / Testaments of the Twelve Patriarchs
+
+
 
 **[1:1]** THE copy of the words of Benjamin, which he commanded his sons to observe, after he had lived a hundred and twenty-five years.
 
@@ -92,7 +94,10 @@
 
 **[1:46]** Because for ever those, who are like Cain in envy and hatred of brethren, shall be punished with the same judgement.
 
+
+
 ---
+
 
 
 **[2:1]** AND do ye, my children, flee evil-doing, envy, and hatred of brethren, and cleave to goodness and love.
@@ -160,3 +165,4 @@
 **[2:32]** And his sons did as he had enjoined them, and they took up his body and buried it in Hebron with his fathers.
 
 **[2:33]** And the number of the days of his life was a hundred and twenty-five years.
+

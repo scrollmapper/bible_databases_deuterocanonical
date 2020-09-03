@@ -1,4 +1,6 @@
-# Testaments of the Twelve Patriarchs / The Testament of Simeon
+# The Testament of Simeon / Testaments of the Twelve Patriarchs
+
+
 
 **[1:1]** THE copy of the words of Simeon, the things which he spake to his sons before he died, in the hundred and twentieth year of his life, at which time Joseph, his brother, died.
 
@@ -40,7 +42,10 @@
 
 **[1:20]** And henceforward he sympathiseth with him whom he envied and forgiveth those who are hostile to him, and so ceaseth from his envy.
 
+
+
 ---
+
 
 
 **[2:1]** AND my father asked concerning me, because he saw that I was sad; and I said unto him, I am pained in my liver.
@@ -73,7 +78,10 @@
 
 **[2:15]** And they shall be few in number, divided in Levi and Judah, and there shall be none of you for sovereignty, even as also our father prophesied in his blessings.
 
+
+
 ---
+
 
 
 **[3:1]** BEHOLD I have told you all things, that I may be acquitted of your sin.
@@ -109,3 +117,4 @@
 **[3:16]** And the sons of Simeon bewailed their father.
 
 **[3:17]** And they were in Egypt until the day of their departure by the hand of Moses.
+

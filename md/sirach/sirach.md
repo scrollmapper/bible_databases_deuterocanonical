@@ -1,5 +1,7 @@
 # Sirach
 
+
+
 **[1:1]** All wisdom cometh from the Lord, and is with him for ever.
 
 **[1:2]** Who can number the sand of the sea, and the drops of rain, and the days of eternity?
@@ -2989,3 +2991,4 @@
 **[51:29]** Let your soul rejoice in his mercy, and be not ashamed of his praise.
 
 **[51:30]** Work your work betimes, and in his time he will give you your reward.
+

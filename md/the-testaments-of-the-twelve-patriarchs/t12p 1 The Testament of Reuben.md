@@ -1,4 +1,6 @@
-# Testaments of the Twelve Patriarchs / The Testament of Reuben
+# The Testament of Reuben / Testaments of the Twelve Patriarchs
+
+
 
 **[1:1]** THE Copy of the Testament of Reuben, even the commands which he gave his sons before he died in the hundred and twenty-fifth year of his life.
 
@@ -82,7 +84,10 @@
 
 **[1:41]** And forthwith an angel of God revealed to my father concerning my impiety, and he came and mourned over me, and touched her no more.
 
+
+
 ---
+
 
 
 **[2:1]** PAY no heed, therefore, my children, to the beauty of women, nor set your mind--on their affairs; but walk in singleness of heart in the fear of the Lord, and expend labour on good works, and on study and on your flocks, until the Lord give you a wife, whom He will, that ye suffer not as I did.
@@ -146,3 +151,4 @@
 **[2:30]** And bow down before his seed, for on our behalf it will die in wars visible and invisible, and will be among you an eternal king.
 
 **[2:31]** And Reuben died, having given these commands to his sons. And they placed him in a coffin until they carried him up from Egypt, and buried him in Hebron in the cave where his father was.
+

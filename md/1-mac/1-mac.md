@@ -1,5 +1,7 @@
 # 1 Maccabees
 
+
+
 **[1:1]** And it happened, after that Alexander son of Philip, the Macedonian, who came out of the land of Chettiim, had smitten Darius king of the Persians and Medes, that he reigned in his stead, the first over Greece,
 
 **[1:2]** And made many wars, and won many strong holds, and slew the kings of the earth,
@@ -1847,3 +1849,4 @@
 **[16:23]** As concerning the rest of the acts of John, and his wars, and worthy deeds which he did, and the building of the walls which he made, and his doings,
 
 **[16:24]** Behold, these are written in the chronicles of his priesthood, from the time he was made high priest after his father.
+

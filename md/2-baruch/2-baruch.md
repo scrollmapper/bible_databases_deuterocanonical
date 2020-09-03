@@ -1,5 +1,7 @@
 # Second Baruch
 
+
+
 **[1:1]** And it came to pass in the twenty-fifth year of Jeconiah, king of Judah, that the word of the Lord came to Baruch, the son of Neriah,
 
 **[1:2]** and said to him: 'Hast thou seen all that this people are doing to Me, that the evils which these two tribes which remained have done are greater than (those of) the ten tribes which were carried away captive?
@@ -478,7 +480,7 @@
 
 **[33:3]** And now if thou also forsakest us, it were good for us all to die before thee, and then that thou shouldst withdraw from us.'
 
-[34:And] I answered and said unto the people: 'Far be it from me to forsake you or to withdraw from you, but I will only go unto the Holy of Holies to inquire of the Mighty One concerning you and concerning Zion, if in some respect I should receive more illumination: and after these things I will return to you.'
+**[34:4]** And I answered and said unto the people: 'Far be it from me to forsake you or to withdraw from you, but I will only go unto the Holy of Holies to inquire of the Mighty One concerning you and concerning Zion, if in some respect I should receive more illumination: and after these things I will return to you.'
 
 **[35:1]** And I, Baruch, went to the holy place, and sat down upon the ruins and wept, and said:
 
@@ -512,7 +514,9 @@
 
 **[36:11]** And now recline in anguish and rest in torment till thy last time come, in which thou wilt come again, and be tormented still more.'
 
-[37:And] after these things I saw that cedar burning, and the vine glowing, itself and all around it, the plain full of unfading flowers. [37:And] I indeed awoke and arose.
+**[37:12]** And after these things I saw that cedar burning, and the vine glowing, itself and all around it, the plain full of unfading flowers. 
+
+**[37:13]** And I indeed awoke and arose.
 
 **[38:1]** And I prayed and said: 'O LORD, my Lord, Thou dost always enlighten those who are led by understanding.
 
@@ -548,9 +552,9 @@
 
 **[41:1]** And I answered and said: 'For whom and for how many shall these things be? or who will be worthy to live at that time?
 
-**[41:2]** For I will. speak before thee everything that I think, and I will ask of Thee regarding those things which I meditate.
+**[41:2]** For I will speak before thee everything that I think, and I will ask of Thee regarding those things which I meditate.
 
-**[41:3]** For lo! I see many of Thy people who have with drawn from Thy covenant, and cast from them the yoke of Thy law.
+**[41:3]** For lo! I see many of Thy people who have withdrawn from Thy covenant, and cast from them the yoke of Thy law.
 
 **[41:4]** But others again I have seen who have forsaken their vanity, and fled for refuge beneath Thy wings.
 

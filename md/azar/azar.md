@@ -1,5 +1,7 @@
 # Prayer of Azariah
 
+
+
 **[1:1]** And they walked in the midst of the fire, praising God, and blessing the Lord.
 
 **[1:2]** Then Azarias stood up, and prayed on this manner; and opening his mouth in the midst of the fire said,
@@ -135,3 +137,4 @@
 **[1:67]** O give thanks unto the Lord, because he is gracious: for his mercy endureth for ever.
 
 **[1:68]** O all ye that worship the Lord, bless the God of gods, praise him, and give him thanks: for his mercy endureth for ever.
+

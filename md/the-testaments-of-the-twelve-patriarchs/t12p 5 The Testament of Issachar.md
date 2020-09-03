@@ -1,4 +1,6 @@
-# Testaments of the Twelve Patriarchs / The Testament of Issachar
+# The Testament of Issachar / Testaments of the Twelve Patriarchs
+
+
 
 **[1:1]** THE copy of the words of Issachar.
 
@@ -88,7 +90,10 @@
 
 **[1:44]** And do ye therefore obey them, and walk in the singleness of your father; for unto Gad hath it been given to destroy the troops that are coming upon Israel.
 
+
+
 ---
+
 
 
 **[2:1]** KNOW ye therefore, my children, that in the last times your sons will forsake singleness, and will cleave unto insatiable desire.
@@ -126,3 +131,4 @@
 **[2:17]** And having said these things, he commanded his sons that they should carry him up to Hebron, and bury him there in the cave with his fathers.
 
 **[2:18]** And he stretched out his feet and died, at a good old age; with every limb sound, and with strength unabated, he slept the eternal sleep.
+

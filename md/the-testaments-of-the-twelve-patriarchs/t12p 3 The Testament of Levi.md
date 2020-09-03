@@ -1,4 +1,6 @@
-# Testaments of the Twelve Patriarchs / The Testament of Levi
+# The Testament of Levi / Testaments of the Twelve Patriarchs
+
+
 
 **[1:1]** THE copy of the words of Levi, the things which he ordained unto his sons, according to all that they should do, and what things should befall them until the day of judgement.
 
@@ -54,7 +56,10 @@
 
 **[1:27]** But the sons of men, having no perception of these things, sin and provoke the Most High.
 
+
+
 ---
+
 
 
 **[2:1]** NOW, therefore, know that the Lord shall execute judgement upon the sons of men.
@@ -87,7 +92,10 @@
 
 **[2:15]** And after these things I awaked, and blessed the Most High, and the angel who intercedeth for the nation of Israel and for all the righteous.
 
+
+
 ---
+
 
 
 **[3:1]** AND when I was going to my father, I found a brazen shield; wherefore also the name of the mountain is Aspis, which is near Gebal, to the south of Abila.
@@ -208,7 +216,10 @@
 
 **[3:59]** And behold, my children, ye are a third generation. In my hundred and eighteenth year Joseph died.
 
+
+
 ---
+
 
 
 **[4:1]** AND now, my children, I command you: Fear the Lord your God with your whole heart, and walk in simplicity according to all His law.
@@ -269,7 +280,10 @@
 
 **[4:29]** And ye shall have no place that is clean; but ye shall be among the Gentiles a curse and a dispersion until He shall again visit you, and in pity shall receive you through faith and water.
 
+
+
 ---
+
 
 
 **[5:1]** AND whereas ye have heard concerning the seventy weeks, hear also concerning the priesthood. For in each jubilee there shall be a priesthood.
@@ -341,3 +355,4 @@
 **[5:34]** And thus Levi ceased commanding his sons; and he stretched out his feet on the bed, and was gathered to his fathers, after he had lived a hundred and thirty-seven years.
 
 **[5:35]** And they laid him in a coffin, and afterwards they buried him in Hebron, with I Abraham, Isaac, and Jacob.
+

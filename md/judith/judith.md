@@ -1,5 +1,7 @@
 # Judith
 
+
+
 **[1:1]** In the twelfth year of the reign of Nabuchodonosor, who reigned in Nineve, the great city; in the days of Arphaxad, which reigned over the Medes in Ecbatane,
 
 **[1:2]** And built in Ecbatane walls round about of stones hewn three cubits broad and six cubits long, and made the height of the wall seventy cubits, and the breadth thereof fifty cubits:
@@ -677,3 +679,4 @@
 **[16:24]** And the house of Israel lamented her seven days: and before she died, she did distribute her goods to all them that were nearest of kindred to Manasses her husband, and to them that were the nearest of her kindred.
 
 **[16:25]** And there was none that made the children of Israel any more afraid in the days of Judith, nor a long time after her death.
+

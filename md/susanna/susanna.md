@@ -1,5 +1,7 @@
 # Susanna
 
+
+
 **[1:1]** There dwelt a man in Babylon, called Joacim:
 
 **[1:2]** And he took a wife, whose name was Susanna, the daughter of Chelcias, a very fair woman, and one that feared the Lord.
@@ -127,3 +129,4 @@
 **[1:63]** Therefore Chelcias and his wife praised God for their daughter Susanna, with Joacim her husband, and all the kindred, because there was no dishonesty found in her.
 
 **[1:64]** From that day forth was Daniel had in great reputation in the sight of the people.
+

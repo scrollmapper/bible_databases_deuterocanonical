@@ -1,5 +1,7 @@
 # Jubilees
 
+
+
 **[1:1]** And it came to pass in the first year of the exodus of the children of Israel out of Egypt, in the third month, on the sixteenth day of the month, [2450 Anno Mundi] that God spake to Moses, saying: 'Come up to Me on the Mount, and I will give thee two tables of stone of the law and of the commandment, which I have written, that thou mayst teach them.'
 
 **[1:2]** And Moses went up into the mount of God, and the glory of the Lord abode on Mount Sinai, and a cloud overshadowed it six days.
@@ -2609,3 +2611,4 @@
 **[50:12]** And every man who does any work thereon, or goes a journey, or tills (his) farm, whether in his house or any other place, and whoever lights a fire, or rides on any beast, or travels by ship on the sea, and whoever strikes or kills anything, or slaughters a beast or a bird, or whoever catches an animal or a bird or a fish, or whoever fasts or makes war on the Sabbaths:
 
 **[50:13]** The man who does any of these things on the Sabbath shall die, so that the children of Israel shall observe the Sabbaths according to the commandments regarding the Sabbaths of the land, as it is written in the tablets, which He gave into my hands that I should write out for thee the laws of the seasons, and the seasons according to the division of their days. Herewith is completed the account of the division of the days.
+

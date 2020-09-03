@@ -1,4 +1,6 @@
-# Testaments of the Twelve Patriarchs / The Testament of Gad
+# The Testament of Gad / Testaments of the Twelve Patriarchs 
+
+
 
 **[1:1]** THE copy of the testament of Gad, what things he spake unto his sons, in the hundred and twenty-fifth year of his life, saying unto them:
 
@@ -72,7 +74,10 @@
 
 **[1:36]** Since, therefore, my liver was set mercilessly against Joseph, in my liver too I suffered mercilessly, and was judged for eleven months, for so long a time as I had been angry against Joseph.
 
+
+
 ---
+
 
 
 **[2:1]** AND now, my children, I exhort you, love ye each one his brother, and put away hatred from your hearts, love one another in deed, and in word, and in the inclination of the soul.
@@ -116,3 +121,4 @@
 **[2:20]** And he drew up his feet, and fell asleep in peace.
 
 **[2:21]** And after five years they carried him up to Hebron, and laid him with his fathers.
+

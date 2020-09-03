@@ -1,5 +1,7 @@
 # Baruch
 
+
+
 **[1:1]** And these are the words of the book, which Baruch the son of Nerias, the son of Maasias, the son of Sedecias, the son of Asadias, the son of Chelcias, wrote in Babylon,
 
 **[1:2]** In the fifth year, and in the seventh day of the month, what time as the Chaldeans took Jerusalem, and burnt it with fire.
@@ -279,3 +281,4 @@
 **[5:8]** Moreover even the woods and every sweetsmelling tree shall overshadow Israel by the commandment of God.
 
 **[5:9]** For God shall lead Israel with joy in the light of his glory with the mercy and righteousness that cometh from him.
+

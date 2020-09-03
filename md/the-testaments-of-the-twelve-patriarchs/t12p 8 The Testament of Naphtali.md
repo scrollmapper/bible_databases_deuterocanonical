@@ -1,4 +1,6 @@
-# Testaments of the Twelve Patriarchs / The Testament of Naphtali
+# The Testament of Naphtali / Testaments of the Twelve Patriarchs
+
+
 
 **[1:1]** THE copy of, the testament of Naphtali, which he ordained at the time of his death in the hundred and thirtieth year of his life.
 
@@ -64,7 +66,10 @@
 
 **[1:32]** And the Lord shall scatter them upon the face of all the earth, until the compassion of the Lord shall come, a man working righteousness and working mercy unto all them that are afar off, and to them that are near.
 
+
+
 ---
+
 
 
 **[2:1]** FOR in the fortieth year of my life, I saw a vision on the Mount of Olives, on the east of Jerusalem, that the sun and the moon were standing still.
@@ -138,3 +143,4 @@
 **[2:35]** And when he had eaten and drunken with a merry heart, he covered his face and died.
 
 **[2:36]** And his sons did according to all that Naphtali their Father had commanded them.
+

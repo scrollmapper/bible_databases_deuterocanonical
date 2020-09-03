@@ -1,5 +1,7 @@
 # 2 Maccabees
 
+
+
 **[1:1]** The brethren, the Jews that be at Jerusalem and in the land of Judea, wish unto the brethren, the Jews that are throughout Egypt health and peace:
 
 **[1:2]** God be gracious unto you, and remember his covenant that he made with Abraham, Isaac, and Jacob, his faithful servants;
@@ -1109,3 +1111,4 @@
 **[15:38]** And if I have done well, and as is fitting the story, it is that which I desired: but if slenderly and meanly, it is that which I could attain unto.
 
 **[15:39]** For as it is hurtful to drink wine or water alone; and as wine mingled with water is pleasant, and delighteth the taste: even so speech finely framed delighteth the ears of them that read the story. And here shall be an end.
+

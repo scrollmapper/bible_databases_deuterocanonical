@@ -1,4 +1,6 @@
-# Testaments of the Twelve Patriarchs / The Testament of Asher
+# The Testament of Asher / Testaments of the Twelve Patriarchs
+
+
 
 **[1:1]** THE copy of the Testament To Asher, what things he spake to his sons in the hundred and twenty-fifth year of his life.
 
@@ -95,3 +97,4 @@
 **[1:47]** And he fell asleep and died at a good old age.
 
 **[1:48]** And his sons did as he had commanded them, and they carried him up to Hebron, and buried him with his fathers.
+

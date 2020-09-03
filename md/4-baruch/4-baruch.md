@@ -1,5 +1,7 @@
 # Fourth Baruch
 
+
+
 **[1:1]** It came to pass, when the children of Israel were taken captive by the king of the Chaldeans, that God spoke to Jeremiah saying: Jeremiah, my chosen one, arise and depart from this city, you and Baruch, since I am going to destroy it because of the multitude of the sins of those who dwell in it.
 
 **[1:2]** For your prayers are like a solid pillar in its midst, and like an indestructible wall surrounding it.

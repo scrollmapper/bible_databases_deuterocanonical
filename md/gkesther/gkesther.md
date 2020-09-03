@@ -1,5 +1,7 @@
 # Additions to Esther 10
 
+
+
 **[10:4]** Then Mardocheus said, God hath done these things.
 
 **[10:5]** For I remember a dream which I saw concerning these matters, and nothing thereof hath failed.
@@ -209,3 +211,4 @@
 **[16:23]** That both now and hereafter there may be safety to us and the well affected Persians; but to those which do conspire against us a memorial of destruction.
 
 **[16:24]** Therefore every city and country whatsoever, which shall not do according to these things, shall be destroyed without mercy with fire and sword, and shall be made not only unpassable for men, but also most hateful to wild beasts and fowls for ever.
+

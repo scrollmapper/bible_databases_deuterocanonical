@@ -1,5 +1,7 @@
 # 2 Esdras
 
+
+
 **[1:1]** The second book of the prophet Esdras, the son of Saraias, the son of Azarias, the son of Helchias, the son of Sadamias, the sou of Sadoc, the son of Achitob,
 
 **[1:2]** The son of Achias, the son of Phinees, the son of Heli, the son of Amarias, the son of Aziei, the son of Marimoth, the son of And he spake unto the of Borith, the son of Abisei, the son of Phinees, the son of Eleazar,
@@ -1747,3 +1749,4 @@
 **[16:77]** Woe be unto them that are bound with their sins, and covered with their iniquities like as a field is covered over with bushes, and the path thereof covered with thorns, that no man may travel through!
 
 **[16:78]** It is left undressed, and is cast into the fire to be consumed therewith.
+
