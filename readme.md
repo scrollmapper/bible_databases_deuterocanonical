@@ -1,4 +1,4 @@
-> ⚠️ **Alert:** *This is the final state of Scrollmapper Deuterocanonical Project as of 2024. For 2025 and onward, the project structure is made to mirror the main project at https://github.com/scrollmapper/bible_databases. 
+> ⚠️ **Alert:** This is the final state of Scrollmapper Deuterocanonical Project as of 2024. For 2025 and onward, the project structure is made to mirror the main project at https://github.com/scrollmapper/bible_databases. 
 
 # Scrollmapper :: Deuterocanonical Project
 
