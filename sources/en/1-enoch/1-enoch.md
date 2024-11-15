@@ -4,33 +4,48 @@
 
 **[1:1]** The words of the blessing of Enoch, wherewith he blessed the elect and righteous, who will be living in the day of tribulation, when all the wicked and godless are to be removed. **[1:2]** And he took up his parable and said--Enoch a righteous man, whose eyes were opened by God, saw the vision of the Holy One in the heavens, which the angels showed me, and from them I heard everything, and from them I understood as I saw, but not for this generation, but for a remote one which is for to come. **[1:3]** Concerning the elect I said, and took up my parable concerning them: 
 
-The Holy Great One will come forth from His dwelling, **[1:4]** And the eternal God will tread upon the earth, (even) on Mount Sinai, ⌈And appear from His camp⌉ And appear in the strength of His might from the heaven of heavens.
+The Holy Great One will come forth from His dwelling, **[1:4]** And the eternal God will tread upon the earth, (even) on Mount Sinai, And appear from His camp 
+And appear in the strength of His might from the heaven of heavens.
 
-**[1:5]** And all shall be smitten with fear And the Watchers shall quake, And great fear and trembling shall seize them unto the ends of the earth.
+**[1:5]** And all shall be smitten with fear 
+And the Watchers shall quake, 
+And great fear and trembling shall seize them unto the ends of the earth.
 
-**[1:6]** And the high mountains shall be shaken, And the high hills shall be made low, And shall melt like wax before the flame
+**[1:6]** And the high mountains shall be shaken, 
+And the high hills shall be made low, 
+And shall melt like wax before the flame
 
-**[1:7]** And the earth shall be wholly rent in sunder, And all that is upon the earth shall perish, And there shall be a judgement upon all (men).
+**[1:7]** And the earth shall be wholly rent in sunder, 
+And all that is upon the earth shall perish, 
+And there shall be a judgement upon all (men).
 
 **[1:8]** But with the righteous He will make peace.
+And will protect the elect, 
+And mercy shall be upon them.
 
-And will protect the elect, And mercy shall be upon them.
+And they shall all belong to God, 
+And they shall be prospered, 
+And they shall all be blessed.
 
-And they shall all belong to God, And they shall be prospered, And they shall ⌈all⌉ be blessed.
+And He will help them all, 
+And light shall appear unto them, 
+And He will make peace with them.
 
-⌈And He will help them all⌉, And light shall appear unto them, ⌈And He will make peace with them⌉.
+**[1:9]** And behold! He cometh with ten thousands of His holy ones 
+To execute judgement upon all, 
+And to destroy all the ungodly:
 
-**[1:9]** And behold! He cometh with ten thousands of ⌈His⌉ holy ones To execute judgement upon all, And to destroy ⌈all⌉ the ungodly:
-
-And to convict all flesh Of all the works ⌈of their ungodliness⌉ which they have ungodly committed, And of all the hard things which ungodly sinners ⌈have spoken⌉ against Him.
-
-
-
-**[2:1]** Observe ye everything that takes place in the heaven, how they do not change their orbits, ⌈and⌉ the luminaries which are in the heaven, how they all rise and set in order each in its season, and transgress not against their appointed order. **[2:2]** Behold ye the earth, and give heed to the things which take place upon it from first to last, ⌈how steadfast they are⌉, how ⌈none of the things upon earth⌉ change, ⌈but⌉ all the works of God appear ⌈to you⌉. **[2:3]** Behold the summer and the winter, ⌈⌈how the whole earth is filled with water, and clouds and dew and rain lie upon it⌉⌉.
+And to convict all flesh 
+Of all the works of their ungodliness which they have ungodly committed, 
+And of all the hard things which ungodly sinners have spoken against Him.
 
 
 
-**[3:1]** Observe and see how (in the winter) all the trees ⌈⌈seem as though they had withered and shed all their leaves, except fourteen trees, which do not lose their foliage but retain the old foliage from two to three years till the new comes.
+**[2:1]** Observe ye everything that takes place in the heaven, how they do not change their orbits, and the luminaries which are in the heaven, how they all rise and set in order each in its season, and transgress not against their appointed order. **[2:2]** Behold ye the earth, and give heed to the things which take place upon it from first to last, how steadfast they are, how none of the things upon earth change, but all the works of God appear to you. **[2:3]** Behold the summer and the winter, how the whole earth is filled with water, and clouds and dew and rain lie upon it.
+
+
+
+**[3:1]** Observe and see how (in the winter) all the trees seem as though they had withered and shed all their leaves, except fourteen trees, which do not lose their foliage but retain the old foliage from two to three years till the new comes.
 
 
 
@@ -38,27 +53,50 @@ And to convict all flesh Of all the works ⌈of their ungodliness⌉ which they 
 
 
 
-**[5:1]** Observe ⌈⌈ye⌉⌉ how the trees cover themselves with green leaves and bear fruit: wherefore give ye heed ⌈and know⌉ with regard to all ⌈His works⌉, and recognize how He that liveth for ever hath made them so.
+**[5:1]** Observe ye how the trees cover themselves with green leaves and bear fruit: wherefore give ye heed and know with regard to all His works, and recognize how He that liveth for ever hath made them so.
 
-**[5:2]** And ⌈all⌉ His works go on ⌈thus⌉ from year to year for ever, and all the tasks ⌈which⌉ they accomplish for Him, and ⌈their tasks⌉ change not, but according as ⌈⌈God⌉⌉ hath ordained so is it done.
+**[5:2]** And all His works go on thus from year to year for ever, and all the tasks which they accomplish for Him, and ⌈their tasks⌉ change not, but according as ⌈⌈God⌉⌉ hath ordained so is it done.
 
-**[5:3]** And behold how the sea and the rivers in like manner accomplish and ⌈change not⌉ their tasks ⌈from His commandments⌉. 
+**[5:3]** And behold how the sea and the rivers in like manner accomplish and change not their tasks from His commandments. 
 
-**[5:4]** But ye--ye have not been steadfast, nor done the commandments of the Lord, But ye have turned away and spoken proud and hard words With your impure mouths against His greatness. Oh, ye hard-hearted, ye shall find no peace.
+**[5:4]** But ye--ye have not been steadfast, nor done the commandments of the Lord, 
+But ye have turned away and spoken proud and hard words 
+With your impure mouths against His greatness. Oh, ye hard-hearted, ye shall find no peace.
 
-**[5:5]** Therefore shall ye execrate your days, And the years of your life shall perish, And ⌈the years of your destruction⌉ shall be multiplied in eternal execration, And ye shall find no mercy.
+**[5:5]** Therefore shall ye execrate your days, 
+And the years of your life shall perish, 
+And the years of your destruction shall be multiplied in eternal execration, 
+And ye shall find no mercy.
 
-[5:6a] In those days ye shall make your names an eternal execration unto all the righteous, b. And by you shall ⌈all⌉ who curse, curse, And all the sinners ⌈and godless⌉ shall imprecate by you, [5:7c] And for you the godless there shall be a curse.
+[5:6a] In those days ye shall make your names an eternal execration unto all the righteous, 
+b. And by you shall all who curse, curse, 
+And all the sinners and godless shall imprecate by you, 
+[5:7c] And for you the godless there shall be a curse.
 
-[5:6d] And all the . . . shall rejoice, e. And there shall be forgiveness of sins, f. And every mercy and peace and forbearance: g. There shall be salvation unto them, a goodly light. 
+[5:6d] And all the . . . shall rejoice, 
+e. And there shall be forgiveness of sins, 
+f. And every mercy and peace and forbearance: 
+g. There shall be salvation unto them, a goodly light. 
 
-i. And for all of you sinners there shall be no salvation, j But on you all shall abide a curse. [5:7a] But for the elect there shall be light and joy and peace, b. And they shall inherit the earth.
+i. And for all of you sinners there shall be no salvation, 
+j But on you all shall abide a curse. 
+[5:7a] But for the elect there shall be light and joy and peace, 
+b. And they shall inherit the earth.
 
-**[5:8]** And then there shall be bestowed upon the elect wisdom, And they shall all live and never again sin, Either through ungodliness or through pride: But they who are wise shall be humble.
+**[5:8]** And then there shall be bestowed upon the elect wisdom, 
+And they shall all live and never again sin, 
+Either through ungodliness or through pride: 
+But they who are wise shall be humble.
 
-**[5:9]** And they shall not again transgress, Nor shall they sin all the days of their life, Nor shall they die of (the divine) anger or wrath, But they shall complete the number of the days of their life.
+**[5:9]** And they shall not again transgress, 
+Nor shall they sin all the days of their life, 
+Nor shall they die of (the divine) anger or wrath, 
+But they shall complete the number of the days of their life.
 
-And their lives shall be increased in peace, And the years of their joy shall be multiplied, In eternal gladness and peace, All the days of their life.
+And their lives shall be increased in peace, 
+And the years of their joy shall be multiplied, 
+In eternal gladness and peace, 
+All the days of their life.
 
 
 
