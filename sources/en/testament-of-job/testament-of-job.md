@@ -1,4 +1,4 @@
-# **The Testament of Job**
+# The Testament of Job
 
 **[1:1]** On the day he became sick and (he) knew that he would have to leave his bodily abode, he called his seven sons and his three daughters together and spake to them as follows:
 **[1:2]** "Form a circle around me, children, and hear, and I shall relate to you what the Lord did for me and all that happened to me.

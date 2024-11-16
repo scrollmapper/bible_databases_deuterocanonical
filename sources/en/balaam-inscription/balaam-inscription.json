@@ -1,8 +1,183 @@
 {
     "books": [
         {
-            "name": "**The Balaam Inscription - The Deir Alla Inscription - Book of the words of Balaam**",
-            "chapters": []
+            "name": "The Balaam Inscription",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "The Balaam Inscription 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "The Balaam Inscription 1:1",
+                            "text": "The misfortunes of the Book of Balaam, son of Beor. A divine seer was he."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "The Balaam Inscription 1:2",
+                            "text": "The gods came to him at night. And he beheld a vision in accordance with El's utterance. They said to Balaam, son of Beor:"
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "The Balaam Inscription 1:5",
+                            "text": "Balaam arose on the morrow;"
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "The Balaam Inscription 1:6",
+                            "text": "And for two days he fasted and wept bitterly."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "The Balaam Inscription 1:7",
+                            "text": "Then he said to them:"
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 1,
+                            "name": "The Balaam Inscription 1:8",
+                            "text": "The Shaddai gods have established a council,"
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 1,
+                            "name": "The Balaam Inscription 1:9",
+                            "text": "So that you instill dread in dense darkness."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 1,
+                            "name": "The Balaam Inscription 1:10",
+                            "text": "It shall be that the swift and crane will shriek insult to the eagle,"
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 1,
+                            "name": "The Balaam Inscription 1:11",
+                            "text": "The chicks of the heron, sparrow and cluster of eagles;"
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 1,
+                            "name": "The Balaam Inscription 1:12",
+                            "text": "Heed the admonition, adversaries of Sha[gar-and-Ištar]!"
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 1,
+                            "name": "The Balaam Inscription 1:14",
+                            "text": "To a perfumer of myrrh and a priestess."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 1,
+                            "name": "The Balaam Inscription 1:15",
+                            "text": "They heard incantations from afar"
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 1,
+                            "name": "The Balaam Inscription 1:16",
+                            "text": "And all beheld acts of distress."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 1,
+                            "name": "The Balaam Inscription 1:17",
+                            "text": "The piglet [drove out] the leopard"
+                        }
+                    ]
+                },
+                {
+                    "chapter": 2,
+                    "name": "The Balaam Inscription 2",
+                    "verses": [
+                        {
+                            "verse": 4,
+                            "chapter": 2,
+                            "name": "The Balaam Inscription 2:4",
+                            "text": ".. a girl those who were used? to be saturated with love ..."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 2,
+                            "name": "The Balaam Inscription 2:5",
+                            "text": ".. a blinded one and the whole moistened? soil? ..."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 2,
+                            "name": "The Balaam Inscription 2:6",
+                            "text": "El satisfied himself with [lovemaking]"
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 2,
+                            "name": "The Balaam Inscription 2:7",
+                            "text": "A house where no traveler enters"
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 2,
+                            "name": "The Balaam Inscription 2:8",
+                            "text": "Worm rot from a grave."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 2,
+                            "name": "The Balaam Inscription 2:9",
+                            "text": "If it is for counsel, one will not counsel with you!"
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 2,
+                            "name": "The Balaam Inscription 2:10",
+                            "text": "From the bed they cover themselves with a wrap."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 2,
+                            "name": "The Balaam Inscription 2:12",
+                            "text": "all ... in their heart."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 2,
+                            "name": "The Balaam Inscription 2:13",
+                            "text": "There is no mercy when Death seizes an infant."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 2,
+                            "name": "The Balaam Inscription 2:14",
+                            "text": "The heart of the corpse is desolate"
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 2,
+                            "name": "The Balaam Inscription 2:15",
+                            "text": "\"The quest of a king becomes his moth (rot),"
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 2,
+                            "name": "The Balaam Inscription 2:16",
+                            "text": "Your quest is distant from you."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 2,
+                            "name": "The Balaam Inscription 2:17",
+                            "text": "And [banned] from pronouncing words of execration."
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

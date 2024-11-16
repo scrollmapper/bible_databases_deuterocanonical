@@ -1,3 +1,5 @@
+# Visions of Amram
+
 **[1:1]** This is the copy of the words of the vision of Amram, the son of Kohath, the son of Levi, everything that he told to his sons and commanded them on the day of his death in the 137th year of his life, which is the year of the [death of Levi in the 152nd year of the exile of Israel to Egypt].
 
 **[1:2]** [Amram called to his brother Uzziel and he brought to] him Miriam, his daughter, to be his wife. [She was thirty years old].
