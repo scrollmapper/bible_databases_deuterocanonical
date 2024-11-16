@@ -1,0 +1,423 @@
+{
+    "books": [
+        {
+            "name": "Prayer of Azariah",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Prayer of Azariah 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:1",
+                            "text": "And they walked in the midst of the fire, praising God, and blessing the Lord."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:2",
+                            "text": "Then Azarias stood up, and prayed on this manner; and opening his mouth in the midst of the fire said,"
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:3",
+                            "text": "Blessed art thou, O Lord God of our fathers: thy name is worthy to be praised and glorified for evermore:"
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:4",
+                            "text": "For thou art righteous in all the things that thou hast done to us: yea, true are all thy works, thy ways are right, and all thy judgments truth."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:5",
+                            "text": "In all the things that thou hast brought upon us, and upon the holy city of our fathers, even Jerusalem, thou hast executed true judgment: for according to truth and judgment didst thou bring all these things upon us because of our sins."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:6",
+                            "text": "For we have sinned and committed iniquity, departing from thee."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:7",
+                            "text": "In all things have we trespassed, and not obeyed thy commandments, nor kept them, neither done as thou hast commanded us, that it might go well with us."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:8",
+                            "text": "Wherefore all that thou hast brought upon us, and every thing that thou hast done to us, thou hast done in true judgment."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:9",
+                            "text": "And thou didst deliver us into the hands of lawless enemies, most hateful forsakers of God, and to an unjust king, and the most wicked in all the world."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:10",
+                            "text": "And now we cannot open our mouths, we are become a shame and reproach to thy servants; and to them that worship thee."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:11",
+                            "text": "Yet deliver us not up wholly, for thy name’s sake, neither disannul thou thy covenant:"
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:12",
+                            "text": "And cause not thy mercy to depart from us, for thy beloved Abraham’s sake, for thy servant Issac’s sake, and for thy holy Israel’s sake;"
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:13",
+                            "text": "To whom thou hast spoken and promised, that thou wouldest multiply their seed as the stars of heaven, and as the sand that lieth upon the seashore."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:14",
+                            "text": "For we, O Lord, are become less than any nation, and be kept under this day in all the world because of our sins."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:15",
+                            "text": "Neither is there at this time prince, or prophet, or leader, or burnt offering, or sacrifice, or oblation, or incense, or place to sacrifice before thee, and to find mercy."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:16",
+                            "text": "Nevertheless in a contrite heart and an humble spirit let us be accepted."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:17",
+                            "text": "Like as in the burnt offerings of rams and bullocks, and like as in ten thousands of fat lambs: so let our sacrifice be in thy sight this day, and grant that we may wholly go after thee: for they shall not be confounded that put their trust in thee."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:18",
+                            "text": "And now we follow thee with all our heart, we fear thee, and seek thy face."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:19",
+                            "text": "Put us not to shame: but deal with us after thy lovingkindness, and according to the multitude of thy mercies."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:20",
+                            "text": "Deliver us also according to thy marvellous works, and give glory to thy name, O Lord: and let all them that do thy servants hurt be ashamed;"
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:21",
+                            "text": "And let them be confounded in all their power and might, and let their strength be broken;"
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:22",
+                            "text": "And let them know that thou art God, the only God, and glorious over the whole world."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:23",
+                            "text": "And the king’s servants, that put them in, ceased not to make the oven hot with rosin, pitch, tow, and small wood;"
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:24",
+                            "text": "So that the flame streamed forth above the furnace forty and nine cubits."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:25",
+                            "text": "And it passed through, and burned those Chaldeans it found about the furnace."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:26",
+                            "text": "But the angel of the Lord came down into the oven together with Azarias and his fellows, and smote the flame of the fire out of the oven;"
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:27",
+                            "text": "And made the midst of the furnace as it had been a moist whistling wind, so that the fire touched them not at all, neither hurt nor troubled them."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:28",
+                            "text": "Then the three, as out of one mouth, praised, glorified, and blessed, God in the furnace, saying,"
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:29",
+                            "text": "Blessed art thou, O Lord God of our fathers: and to be praised and exalted above all for ever."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:30",
+                            "text": "And blessed is thy glorious and holy name: and to be praised and exalted above all for ever."
+                        },
+                        {
+                            "verse": 31,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:31",
+                            "text": "Blessed art thou in the temple of thine holy glory: and to be praised and glorified above all for ever."
+                        },
+                        {
+                            "verse": 32,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:32",
+                            "text": "Blessed art thou that beholdest the depths, and sittest upon the cherubims: and to be praised and exalted above all for ever."
+                        },
+                        {
+                            "verse": 33,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:33",
+                            "text": "Blessed art thou on the glorious throne of thy kingdom: and to be praised and glorified above all for ever."
+                        },
+                        {
+                            "verse": 34,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:34",
+                            "text": "Blessed art thou in the firmament of heaven: and above all to be praised and glorified for ever."
+                        },
+                        {
+                            "verse": 35,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:35",
+                            "text": "O all ye works of the Lord, bless ye the Lord : praise and exalt him above all for ever,"
+                        },
+                        {
+                            "verse": 36,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:36",
+                            "text": "O ye heavens, bless ye the Lord : praise and exalt him above all for ever."
+                        },
+                        {
+                            "verse": 37,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:37",
+                            "text": "O ye angels of the Lord, bless ye the Lord: praise and exalt him above all for ever."
+                        },
+                        {
+                            "verse": 38,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:38",
+                            "text": "O all ye waters that be above the heaven, bless ye the Lord: praise and exalt him above all for ever."
+                        },
+                        {
+                            "verse": 39,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:39",
+                            "text": "O all ye powers of the Lord, bless ye the Lord: praise and exalt him above all for ever."
+                        },
+                        {
+                            "verse": 40,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:40",
+                            "text": "O ye sun and moon, bless ye the Lord: praise and exalt him above all for ever."
+                        },
+                        {
+                            "verse": 41,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:41",
+                            "text": "O ye stars of heaven, bless ye the Lord: praise and exalt him above all for ever."
+                        },
+                        {
+                            "verse": 42,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:42",
+                            "text": "O every shower and dew, bless ye the Lord: praise and exalt him above all for ever."
+                        },
+                        {
+                            "verse": 43,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:43",
+                            "text": "O all ye winds, bless ye the Lord: praise and exalt him above all for ever,"
+                        },
+                        {
+                            "verse": 44,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:44",
+                            "text": "O ye fire and heat, bless ye the Lord: praise and exalt him above all for ever."
+                        },
+                        {
+                            "verse": 45,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:45",
+                            "text": "O ye winter and summer, bless ye the Lord: praise and exalt him above all for ever."
+                        },
+                        {
+                            "verse": 46,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:46",
+                            "text": "0 ye dews and storms of snow, bless ye the Lord: praise and exalt him above all for ever."
+                        },
+                        {
+                            "verse": 47,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:47",
+                            "text": "O ye nights and days, bless ye the Lord: bless and exalt him above all for ever."
+                        },
+                        {
+                            "verse": 48,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:48",
+                            "text": "O ye light and darkness, bless ye the Lord: praise and exalt him above all for ever."
+                        },
+                        {
+                            "verse": 49,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:49",
+                            "text": "O ye ice and cold, bless ye the Lord: praise and exalt him above all for ever."
+                        },
+                        {
+                            "verse": 50,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:50",
+                            "text": "O ye frost and snow, bless ye the Lord: praise and exalt him above all for ever."
+                        },
+                        {
+                            "verse": 51,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:51",
+                            "text": "O ye lightnings and clouds, bless ye the Lord: praise and exalt him above all for ever."
+                        },
+                        {
+                            "verse": 52,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:52",
+                            "text": "O let the earth bless the Lord: praise and exalt him above all for ever."
+                        },
+                        {
+                            "verse": 53,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:53",
+                            "text": "O ye mountains and little hills, bless ye the Lord: praise and exalt him above all for ever."
+                        },
+                        {
+                            "verse": 54,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:54",
+                            "text": "O all ye things that grow in the earth, bless ye the Lord: praise and exalt him above all for ever."
+                        },
+                        {
+                            "verse": 55,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:55",
+                            "text": "O ye mountains, bless ye the Lord: Praise and exalt him above all for ever."
+                        },
+                        {
+                            "verse": 56,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:56",
+                            "text": "O ye seas and rivers, bless ye the Lord: praise and exalt him above all for ever."
+                        },
+                        {
+                            "verse": 57,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:57",
+                            "text": "O ye whales, and all that move in the waters, bless ye the Lord: praise and exalt him above all for ever."
+                        },
+                        {
+                            "verse": 58,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:58",
+                            "text": "O all ye fowls of the air, bless ye the Lord: praise and exalt him above all for ever."
+                        },
+                        {
+                            "verse": 59,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:59",
+                            "text": "O all ye beasts and cattle, bless ye the Lord: praise and exalt him above all for ever."
+                        },
+                        {
+                            "verse": 60,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:60",
+                            "text": "O ye children of men, bless ye the Lord: praise and exalt him above all for ever."
+                        },
+                        {
+                            "verse": 61,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:61",
+                            "text": "O Israel, bless ye the Lord: praise and exalt him above all for ever."
+                        },
+                        {
+                            "verse": 62,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:62",
+                            "text": "O ye priests of the Lord, bless ye the Lord: praise and exalt him above all for ever."
+                        },
+                        {
+                            "verse": 63,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:63",
+                            "text": "O ye servants of the Lord, bless ye the Lord: praise and exalt him above all for ever."
+                        },
+                        {
+                            "verse": 64,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:64",
+                            "text": "O ye spirits and souls of the righteous, bless ye the Lord: praise and exalt him above all for ever."
+                        },
+                        {
+                            "verse": 65,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:65",
+                            "text": "O ye holy and humble men of heart, bless ye the Lord: praise and exalt him above all for ever."
+                        },
+                        {
+                            "verse": 66,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:66",
+                            "text": "O Ananias, Azarias, and Misael, bless ye the Lord: praise and exalt him above all for ever: far he hath delivered us from hell, and saved us from the hand of death, and delivered us out of the midst of the furnace and burning flame: even out of the midst of the fire hath he delivered us."
+                        },
+                        {
+                            "verse": 67,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:67",
+                            "text": "O give thanks unto the Lord, because he is gracious: for his mercy endureth for ever."
+                        },
+                        {
+                            "verse": 68,
+                            "chapter": 1,
+                            "name": "Prayer of Azariah 1:68",
+                            "text": "O all ye that worship the Lord, bless the God of gods, praise him, and give him thanks: for his mercy endureth for ever."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

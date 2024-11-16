@@ -1,0 +1,81 @@
+{
+    "books": [
+        {
+            "name": "",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": " 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": " 1:1",
+                            "text": "This is the copy of the words of the vision of Amram, the son of Kohath, the son of Levi, everything that he told to his sons and commanded them on the day of his death in the 137th year of his life, which is the year of the [death of Levi in the 152nd year of the exile of Israel to Egypt]."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": " 1:2",
+                            "text": "[Amram called to his brother Uzziel and he brought to] him Miriam, his daughter, to be his wife. [She was thirty years old]."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": " 1:3",
+                            "text": "He held a banquet for seven days."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": " 1:4",
+                            "text": "He ate and drank at the banquet and rejoiced."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": " 1:5",
+                            "text": "Then, when the days of the banquet were over, he called to Aaron, his son, [who was twenty years old], and he said to him: \"Call my son, the angel of my brother, from the house [of Pharaoh].\""
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": " 1:6",
+                            "text": "[The angel] came up to him [and said] to him: \"I am the angel of your father.\""
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": " 1:7",
+                            "text": "[And he said], \"Behold, I will [return to the house of Pharaoh].\""
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 1,
+                            "name": " 1:8",
+                            "text": "[And Amram] said, \"Do not go, [stay] here with me until I finish my speaking.\""
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 1,
+                            "name": " 1:9",
+                            "text": "[The angel replied], \"I will not leave you until I bring to you the message of your father.\""
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 1,
+                            "name": " 1:10",
+                            "text": "[Amram said, \"Speak the message of my father, for he commanded me to hear it.]"
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 1,
+                            "name": " 1:11",
+                            "text": "[The angel said], \"This message is from the house of Pharaoh.\""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
