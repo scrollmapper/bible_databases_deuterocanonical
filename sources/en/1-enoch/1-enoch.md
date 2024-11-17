@@ -1,7 +1,6 @@
 # 1 Enoch
 
 
-
 **[1:1]** The words of the blessing of Enoch, wherewith he blessed the elect and righteous, who will be living in the day of tribulation, when all the wicked and godless are to be removed. **[1:2]** And he took up his parable and said--Enoch a righteous man, whose eyes were opened by God, saw the vision of the Holy One in the heavens, which the angels showed me, and from them I heard everything, and from them I understood as I saw, but not for this generation, but for a remote one which is for to come. **[1:3]** Concerning the elect I said, and took up my parable concerning them: 
 
 The Holy Great One will come forth from His dwelling, **[1:4]** And the eternal God will tread upon the earth, (even) on Mount Sinai, And appear from His camp 
@@ -170,131 +169,126 @@ All the days of their life.
 
 
 
-**[22:1]** And thence I went to another place, and he showed me in the west ⌈another⌉ great and high mountain [and] of hard rock. 
+**[22:1]** And thence I went to another place, and he showed me in the west another great and high mountain and of hard rock. 
 
- E 
+ **E**
 
-**[22:2]** And there was in it †four† hollow places, deep and wide and very smooth. †How† smooth are the hollow places and deep and dark to look at. 
+**[22:2]** And there was in it four hollow places, deep and wide and very smooth. How smooth are the hollow places and deep and dark to look at. 
 
-Gg 
+**Gg** 
 
-**[22:2]** And there were †four† hollow places in it, deep and very smooth: †three† of them were dark and one bright; and there was a fountain of water in its midst. And I said: '†How† smooth are these hollow places, and deep and dark to view.' 
+**[22:2]** And there were four hollow places in it, deep and very smooth: three of them were dark and one bright; and there was a fountain of water in its midst. And I said: 'How smooth are these hollow places, and deep and dark to view.' 
 
- 
+ 
 
 **[22:3]** Then Raphael answered, one of the holy angels who was with me, and said unto me: 'These hollow places have been created for this very purpose, that the spirits of the souls of the dead should assemble therein, yea that all the souls of the children of men should assemble here. And these places have been made to receive them till the day of their judgement and till their appointed period ⌈till the period appointed⌉, till the great judgement (comes) upon them.' 
 
- E 
+ **E** 
 
 **[22:5]** I saw the spirits of the children of men who were dead, and their voice went forth to heaven and made suit. **[22:6]** Then I asked Raphael the angel who was with me, and I said unto him: 'This spirit--whose is it whose voice goeth forth and maketh suit?' 
 
- Gg 
+ **Gg** 
 
 **[22:5]** I saw (the spirit of) a dead man making suit, and his voice went forth to heaven and made suit. **[22:6]** And I asked Raphael the angel who was with me, and I said unto him: 'This spirit which maketh suit, whose is it, whose voice goeth forth and maketh suit to heaven?' 
 
- 
+ 
 
 **[22:7]** And he answered me saying: 'This is the spirit which went forth from Abel, whom his brother Cain slew, and he makes his suit against him till his seed is destroyed from the face of the earth, and his seed is annihilated from amongst the seed of men.' 
 
-E 
+**E** 
 
-**[22:8]** Then I asked regarding it, and regarding all the hollow places: 'Why as one separated from the other?'
+**[22:8]** Then I asked regarding it, and regarding all the hollow places: 'Why is one separated from the other?'
 
-**[22:9]** And he answered me and said unto me: 'These three have been made that the spirits of the dead might be separated. And such a division has been made 〈for〉 the spirits of the righteous, in which there as the bright spring of water. **[22:10]** And such has 
+**[22:9]** And he answered me and said unto me: 'These three have been made that the spirits of the dead might be separated. And such a division has been made for the spirits of the righteous, in which there is the bright spring of water. **[22:10]** And such has been made for sinners when they die and are buried in the earth and judgement has not been executed on them in their lifetime. **[22:11]** Here their spirits shall be set apart in this great pain till the great day of judgement and punishment and torment of those who curse for ever, and retribution for their spirits. There He shall bind them for ever. **[22:12]** And such a division has been made for the spirits of those who make their suit, who make disclosures concerning their destruction, when they were slain in the days of the sinners. **[22:13]** Such has been made for the spirits of men who were not righteous but sinners, who were complete in transgression, and of the transgressors. they shall be companions: but their spirits shall not be slain in the day of judgement nor shall they be raised from thence. **[22:14]** Then I blessed the Lord of glory and said: 'Blessed be my Lord, the Lord of righteousness, who ruleth for ever.' 
 
-Gg 
+**Gg** 
 
 **[22:8]** Then I asked regarding all the hollow places: 'Why is one separated from the other?'
 
-**[22:9]** And he answered me saying: 'These three have been made that the spirits of the dead might be separated. And this division has been made for the spirits of the righteous, in which there is the bright spring of water. **[22:10]** And this has been made for sinners 
+**[22:9]** And he answered me saying: 'These three have been made that the spirits of the dead might be separated. And this division has been made for the spirits of the righteous, in which there is the bright spring of water. **[22:10]** And this has been made for sinners when they die and are buried in the earth and judgement has not been executed upon them in their lifetime. **[22:11]** Here their spirits shall be set apart in this great pain, till the great day of judgement, scourgings, and torments of the accursed for ever, so that (there maybe) retribution for their spirits. There He shall bind them for ever. **[22:12]** And this division has been made for the spirits of those who make their suit, who make disclosures concerning their destruction, when they were slain in the days of the sinners. **[22:13]** And this has been made for the spirits of men who shall not be righteous but sinners, who are godless, and of the lawless they shall be companions: but their spirits shall not be punished in the day of judgement nor shall they be raised from thence. **[22:14]** Then I blessed the Lord of Glory and said: 'Blessed art Thou, Lord of righteousness, who rulest over the world.'
 
 
 
-   
-
-E 
-
-been made for sinners when they die and are buried in the earth and judgement has not been executed on them in their lifetime. **[22:11]** Here their spirits shall be set apart in this great pain till the great day of judgement and punishment and torment of those who †curse† for ever, and retribution for their spirits. There He shall bind them for ever. **[22:12]** And such a division has been made for the spirits of those who make their suit, who make disclosures concerning their destruction, when they were slain in the days of the sinners. **[22:13]** Such has been made for the spirits of men who were not righteous but sinners, who were complete in transgression, and of the transgressors. they shall be companions: but their spirits shall not be slain in the day of judgement nor shall they be raised from thence. **[22:14]** Then I blessed the Lord of glory and said: 'Blessed be my Lord, the Lord of righteousness, who ruleth for ever.' 
-
-Gg 
-
-when they die and are buried in the earth and judgement has not been executed upon them in their lifetime. **[22:11]** Here their spirits shall be set apart in this great pain, till the great day of judgement, scourgings, and torments of the accursed for ever, so that (there maybe) retribution for their spirits. There He shall bind them for ever. **[22:12]** And this division has been made for the spirits of those who make their suit, who make disclosures concerning their destruction, when they were slain in the days of the sinners. **[22:13]** And this has been made for the spirits of men who shall not be righteous but sinners, who are godless, and of the lawless they shall be companions: but their spirits shall not be punished in the day of judgement nor shall they be raised from thence. **[22:14]** Then I blessed the Lord of Glory and said: 'Blessed art Thou, Lord of righteousness, who rulest over the world.'
+**[23:1]** From thence I went to another place to the west of the ends of the earth. **[23:2]** And I saw a burning fire which ran without resting, and paused not from its course day or night but (ran) regularly. **[23:3]** And I asked saying: 'What is this which rests not?' **[23:4]** Then Raguel, one of the holy angels who was with me, answered me and said unto me: 'This course of fire which thou hast seen is the fire in the west which persecutes all the luminaries of heaven.'
 
 
 
-**[23:1]** From thence I went to another place to the west of the ends of the earth. **[23:2]** And I saw a ⌈⌈burning⌉⌉ fire which ran without resting, and paused not from its course day or night but (ran) regularly. **[23:3]** And I asked saying: 'What is this which rests not?' **[23:4]** Then Raguel, one of the holy angels who was with me, answered me ⌈⌈and said unto me⌉⌉: 'This course ⌈of fire⌉ ⌈⌈which thou hast seen⌉⌉ is the fire in the west which †persecutes† all the luminaries of heaven.'
+**[24:1]** And from thence I went to another place of the earth, and he showed me a mountain range of fire which burnt day and night. **[24:2]** And I went beyond it and saw seven magnificent mountains all differing each from the other, and the stones (thereof) were magnificent and beautiful, magnificent as a whole, of glorious appearance and fair exterior: three towards the east, one founded on the other, and three towards the south, one upon the other, and deep rough ravines, no one of which joined with any other. **[24:3]** And the seventh mountain was in the midst of these, and it excelled them in height, resembling the seat of a throne: and fragrant trees encircled the throne. **[24:4]** And amongst them was a tree such as I had never yet smelt, neither was any amongst them nor were others like it: it had a fragrance beyond all fragrance, and its leaves and blooms and wood wither not for ever: and its fruit is beautiful, and its fruit resembles the dates of a palm. **[24:5]** Then I said: 'How beautiful is this tree, and fragrant, and its leaves are fair, and its blooms very delightful in appearance.' **[24:6]** Then answered Michael, one of the holy and honoured angels who was with me, and was their leader.
 
 
 
-**[24:1]** ⌈⌈And from thence I went to another place of the earth⌉⌉, and he showed me a mountain range of fire which burnt ⌈⌈day and night⌉⌉. **[24:2]** And I went beyond it and saw seven magnificent mountains all differing each from the other, and the stones (thereof) were magnificent and beautiful, magnificent as a whole, of glorious appearance and fair exterior: ⌈⌈three towards⌉⌉ the east, ⌈⌈one⌉⌉ founded on the other, and three towards the south, one upon the other, and deep rough ravines, no one of which joined with any other. **[24:3]** And the seventh mountain was in the midst of these, and it excelled them in height, resembling the seat of a throne: and fragrant trees encircled the throne. **[24:4]** And amongst them was a tree such as I had never yet smelt, neither was any amongst them nor were others like it: it had a fragrance beyond all fragrance, and its leaves and blooms and wood wither not for ever: and its fruit ⌈⌈is beautiful, and its fruit⌉⌉ resembles the dates of a palm. **[24:5]** Then I said: '⌈How⌉ beautiful is this tree, and fragrant, and its leaves are fair, and its blooms ⌈⌈very⌉⌉ delightful in appearance.' **[24:6]** Then answered Michael, one of the holy ⌈⌈and honoured⌉⌉ angels who was with me, and was their leader.
+**[25:1]** And he said unto me: 'Enoch, why dost thou ask me regarding the fragrance of the tree, and why dost thou wish to learn the truth?' Then I answered him saying: 'I wish to know about everything, but especially about this tree.' And he answered saying: 'This high mountain which thou hast seen, whose summit is like the throne of God, is His throne, where the Holy Great One, the Lord of Glory, the Eternal King, will sit, when He shall come down to visit the earth with goodness. **[25:4]** And as for this fragrant tree no mortal is permitted to touch it till the great judgement, when He shall take vengeance on all and bring (everything) to its consummation for ever. It shall then be given to the righteous and holy. **[25:5]** Its fruit shall be for food to the elect: it shall be transplanted to the holy place, to the temple of the Lord, the Eternal King. 
 
-
-
-**[25:1]** And he said unto me: 'Enoch, why dost thou ask me regarding the fragrance of the tree, and ⌈why⌉ dost thou wish to learn the truth?' Then I answered him ⌈⌈saying⌉⌉: 'I wish to know about everything, but especially about this tree.' And he answered saying: 'This high mountain ⌈⌈which thou hast seen⌉⌉, whose summit is like the throne of God, is His throne, where the Holy Great One, the Lord of Glory, the Eternal King, will sit, when He shall come down to visit the earth with goodness. **[25:4]** And as for this fragrant tree no mortal is permitted to touch it till the great judgement, when He shall take vengeance on all and bring (everything) to its consummation for ever. It shall then be given to the righteous and holy. **[25:5]** Its fruit shall be for food to the elect: it shall be transplanted to the holy place, to the temple of the Lord, the Eternal King. 
-
-**[25:6]** Then shall they rejoice with joy and be glad, And into the holy place shall they enter; And its fragrance shall be in their bones, And they shall live a long life on earth, Such as thy fathers lived: And in their days shall no ⌈⌈sorrow or⌉⌉ plague Or torment or calamity touch them.' 
+**[25:6]** Then shall they rejoice with joy and be glad, 
+And into the holy place shall they enter; 
+And its fragrance shall be in their bones, 
+And they shall live a long life on earth, 
+Such as thy fathers lived: 
+And in their days shall no sorrow or plague 
+Or torment or calamity touch them.' 
 
 **[25:7]** Then blessed I the God of Glory, the Eternal King, who hath prepared such things for the righteous, and hath created them and promised to give to them.
 
 
 
-**[26:1]** And I went from thence to the middle of the earth, and I saw a blessed place ⌈in which there were trees⌉ with branches abiding and blooming [of a dismembered tree]. **[26:2]** And there I saw a holy mountain, ⌈⌈and⌉⌉ underneath the mountain to the east there was a stream and it flowed towards the south. **[26:3]** And I saw towards the east another mountain higher than this, and between them a deep and narrow ravine: in it also ran a stream ⌈underneath⌉ the mountain. **[26:4]** And to the west thereof there was another mountain, lower than the former and of small elevation, and a ravine ⌈deep and dry⌉ between them: and another deep and dry ravine was at the extremities of the three ⌈mountains⌉. **[26:5]** And all the ravines were deep ⌈⌈and narrow⌉⌉, (being formed) of hard rock, and trees were not planted upon them. **[26:6]** And I marveled ⌈⌈at the rocks, and I marveled⌉⌉ at the ravine, yea, I marveled very much.
+**[26:1]** And I went from thence to the middle of the earth, and I saw a blessed place in which there were trees with branches abiding and blooming of a dismembered tree. **[26:2]** And there I saw a holy mountain, ⌈⌈and⌉⌉ underneath the mountain to the east there was a stream and it flowed towards the south. **[26:3]** And I saw towards the east another mountain higher than this, and between them a deep and narrow ravine: in it also ran a stream underneath the mountain. **[26:4]** And to the west thereof there was another mountain, lower than the former and of small elevation, and a ravine ⌈deep and dry⌉ between them: and another deep and dry ravine was at the extremities of the three mountains. **[26:5]** And all the ravines were deep and narrow, (being formed) of hard rock, and trees were not planted upon them. **[26:6]** And I marvelled at the rocks, and I marvelled at the ravine, yea, I marvelled very much.
 
 
 
-**[27:1]** Then said I: 'For what object is this blessed land, which is entirely filled with trees, and this accursed valley ⌈⌈between⌉⌉?' **[27:2]** ⌈⌈Then Uriel, one of the holy angels who was with me, answered and said: 'This⌉⌉ accursed valley is for those who are accursed for ever: Here shall all ⌈the accursed⌉ be gathered together who utter with their lips against the Lord unseemly words and of His glory speak hard things. 
+**[27:1]** Then said I: 'For what object is this blessed land, which is entirely filled with trees, and this accursed valley between?' **[27:2]** Then Uriel, one of the holy angels who was with me, answered and said: 'This accursed valley is for those who are accursed for ever: here shall all the accursed be gathered together who utter with their lips against the Lord unseemly words and of His glory speak hard things. 
 
-E 
+**E** 
 
 Here shall they be gathered together, and here shall be their place of judgement. **[27:3]** In the last days there shall be upon them the spectacle of righteous judgement in the presence of the righteous for ever: here shall the merciful bless the Lord of glory, the Eternal King. 
 
-Gg 
+**Gg** 
 
-Here shall they be gathered together, and here shall be the place of their habitation. **[27:3]** In the last times, in the days of the true judgement in the presence of the righteous for ever: here shall the godly bless the Lord of Glory, the Eternal Kin. 
+Here shall they be gathered together, and here shall be the place of their habitation. **[27:3]** In the last times, in the days of the true judgement in the presence of the righteous for ever: here shall the godly bless the Lord of Glory, the Eternal King. 
 
- 
+ 
 
-**[27:4]** In the days of judgement over the former, they shall bless Him for the mercy in accordance with which He has assigned them (their lot).' **[27:5]** Then I blessed the Lord of Glory and set forth His ⌈glory⌉ and lauded Him gloriously.
-
-
-
-**[28:1]** And thence I went ⌈⌈towards the east⌉⌉, into the midst ⌈⌈of the mountain range of the desert⌉⌉, and I saw a wilderness and it was solitary, full of trees and plants. **[28:2]** ⌈⌈And⌉⌉ water gushed forth from above. **[28:3]** Rushing like a copious watercourse [which flowed] towards the north-west it caused clouds and dew to ascend on every side.
+**[27:4]** In the days of judgement over the former, they shall bless Him for the mercy in accordance with which He has assigned them (their lot).' **[27:5]** Then I blessed the Lord of Glory and set forth His glory and lauded Him gloriously.
 
 
 
-**[29:1]** And thence I went to another place in the desert, and approached to the east of this mountain range. **[29:2]** And ⌈⌈there⌉⌉ I saw aromatic trees exhaling the fragrance of frankincense and myrrh, and the trees also were similar to the almond tree.
+**[28:1]** And thence I went towards the east, into the midst of the mountain range of the desert, and I saw a wilderness and it was solitary, full of trees and plants. **[28:2]** And water gushed forth from above. **[28:3]** Rushing like a copious watercourse which flowed towards the north-west it caused clouds and dew to ascend on every side.
 
 
 
-**[30:1]** .And beyond these, I went afar to the east, and I saw another place, a valley (full) of water. **[30:2]** And ⌈therein there was⌉ a tree, the colour (?) of fragrant trees such as the mastic. **[30:3]** And on the sides of those valleys I saw fragrant cinnamon. And beyond these I proceeded to the east.
+**[29:1]** And thence I went to another place in the desert, and approached to the east of this mountain range. **[29:2]** And there I saw aromatic trees exhaling the fragrance of frankincense and myrrh, and the trees also were similar to the almond tree.
 
 
 
-**[31:1]** And I saw other mountains, and amongst them were ⌈groves of⌉ trees, and there flowed forth from them nectar, which is named sarara and galbanum. **[31:2]** And beyond these mountains I saw another mountain ⌈to the east of the ends of the earth⌉, ⌈⌈whereon were aloe trees⌉⌉, and all the trees were full of stacte, being like almond-trees. **[31:3]** And when one burnt it, it smelt sweeter than any fragrant odour.
+**[30:1]** .And beyond these, I went afar to the east, and I saw another place, a valley (full) of water. **[30:2]** And therein there was a tree, the colour (?) of fragrant trees such as the mastic. **[30:3]** And on the sides of those valleys I saw fragrant cinnamon. And beyond these I proceeded to the east.
 
 
+
+**[31:1]** And I saw other mountains, and amongst them were ⌈groves of⌉ trees, and there flowed forth from them nectar, which is named sarara and galbanum. **[31:2]** And beyond these mountains I saw another mountain to the east of the ends of the earth, whereon were aloe trees, and all the trees were full of stacte, being like almond-trees. **[31:3]** And when one burnt it, it smelt sweeter than any fragrant odour.
+
+
+**E**
 
 **[32:1]** And after these fragrant odours, as I looked towards the north over the mountains I saw seven mountains full of choice nard and fragrant trees and cinnamon and pepper. 
 
-Gg 
+**Gg** 
 
 **[32:1]** To the north-east I beheld seven mountains full of choice nard and mastic and cinnamon and pepper. 
 
- 
+ 
 
-**[32:2]** And thence I went over the summits of ⌈all⌉ these mountains, far towards the east ⌈of the earth⌉, and passed above the Erythraean sea and went far from it, and passed over ⌈⌈the angel⌉⌉ Zotîêl.
+**[32:2]** And thence I went over the summits of all these mountains, far towards the east ⌈of the earth⌉, and passed above the Erythraean sea and went far from it, and passed over the angel Zotîêl.
 
-E 
+**E** 
 
 **[32:3]** And I came to the Garden of Righteousness, and saw beyond those trees many large trees growing there and of goodly fragrance, large, very beautiful and glorious, and the tree of wisdom whereof they eat and know great wisdom. 
 
-Gg 
+**Gg** 
 
-**[32:3]** And I came to the Garden of Righteousness, and from afar off trees more numerous than these trees and great--†two† trees there, very great, beautiful, and glorious, and magnificent, and the tree of knowledge, whose holy fruit they eat and know great wisdom. 
+**[32:3]** And I came to the Garden of Righteousness, and from afar off trees more numerous than these trees and great--two trees there, very great, beautiful, and glorious, and magnificent, and the tree of knowledge, whose holy fruit they eat and know great wisdom. 
 
- 
+ 
 
-**[32:4]** ⌈That tree is in height like the fir, and its leaves are⌉ like (those of) the Carob tree: and its fruit is like the clusters of the vine, very beautiful: and the fragrance of the tree penetrates afar. **[32:5]** Then I said: '⌈How⌉ beautiful is the tree, and how attractive is its look!' **[32:6]** Then Raphael the holy angel, who was with me, answered me ⌈⌈and said⌉⌉: 'This is the tree of wisdom, of which thy father old (in years) and thy aged mother, who were before thee, have eaten, and they learnt wisdom and their eyes were opened, and they knew that they were naked and they were driven out of the garden.'
+**[32:4]** That tree is in height like the fir, and its leaves are like (those of) the Carob tree: and its fruit is like the clusters of the vine, very beautiful: and the fragrance of the tree penetrates afar. **[32:5]** Then I said: 'How beautiful is the tree, and how attractive is its look!' **[32:6]** Then Raphael the holy angel, who was with me, answered me and said: 'This is the tree of wisdom, of which thy father old (in years) and thy aged mother, who were before thee, have eaten, and they learnt wisdom and their eyes were opened, and they knew that they were naked and they were driven out of the garden.'
 
 
 
@@ -306,11 +300,11 @@ Gg 
 
 
 
-**[35:1]** And from thence I went towards the west to the ends of the earth, and saw there three portals of the heaven open such as I had seen in the †east†, the same number of portals, and the same number of outlets.
+**[35:1]** And from thence I went towards the west to the ends of the earth, and saw there three portals of the heaven open such as I had seen in the east, the same number of portals, and the same number of outlets.
 
 
 
-**[36:1]** And from thence I went to the south to the ends of the earth, and saw there three open portals of the heaven: and thence there come dew, rain, †and wind†. **[36:2]** And from thence I went to the east to the ends of the heaven, and saw here the three eastern portals of heaven open and small portals above them. **[36:3]** Through each of these small portals pass the stars of heaven and run their course to the west on the path which is shown to them. **[36:4]** And as often as I saw I blessed always the Lord of Glory, and I continued to bless the Lord of Glory who has wrought great and glorious wonders, to show the greatness of His work to the angels and to spirits and to men, that they might praise His work and all His creation: that they might see the work of His might and praise the great work of His hands and bless Him for ever.
+**[36:1]** And from thence I went to the south to the ends of the earth, and saw there three open portals of the heaven: and thence there come dew, rain, and wind. **[36:2]** And from thence I went to the east to the ends of the heaven, and saw here the three eastern portals of heaven open and small portals above them. **[36:3]** Through each of these small portals pass the stars of heaven and run their course to the west on the path which is shown to them. **[36:4]** And as often as I saw I blessed always the Lord of Glory, and I continued to bless the Lord of Glory who has wrought great and glorious wonders, to show the greatness of His work to the angels and to spirits and to men, that they might praise His work and all His creation: that they might see the work of His might and praise the great work of His hands and bless Him for ever.
 
 
 
@@ -318,35 +312,66 @@ Gg 
 
 
 
-**[38:1]** The First Parable. When the congregation of the righteous shall appear, And sinners shall be judged for their sins, And shall be driven from the face of the earth:
+**[38:1]** The First Parable. 
+When the congregation of the righteous shall appear,
+And sinners shall be judged for their sins, 
+And shall be driven from the face of the earth:
 
-**[38:2]** And when the Righteous One shall appear before the eyes of the righteous, Whose elect works hang upon the Lord of Spirits, And light shall appear to the righteous and the elect who dwell on the earth, Where then will be the dwelling of the sinners, And where the resting-place of those who have denied the Lord of Spirits? It had been good for them if they had not been born.
+**[38:2]** And when the Righteous One shall appear before the eyes of the righteous, 
+Whose elect works hang upon the Lord of Spirits,
+And light shall appear to the righteous and the elect who dwell on the earth, 
+Where then will be the dwelling of the sinners, 
+And where the resting-place of those who have denied the Lord of Spirits? 
+It had been good for them if they had not been born.
 
-**[38:3]** When the secrets of the righteous shall be revealed and the sinners judged, And the godless driven from the presence of the righteous and elect, **[38:4]** From that time those that possess the earth shall no longer be powerful and exalted:
+**[38:3]** When the secrets of the righteous shall be revealed and the sinners judged, 
+And the godless driven from the presence of the righteous and elect, 
+**[38:4]** From that time those that possess the earth shall no longer be powerful and exalted:
 
-And they shall not be able to behold the face of the holy, For the Lord of Spirits has caused His light to appear On the face of the holy, righteous, and elect.
+And they shall not be able to behold the face of the holy, 
+For the Lord of Spirits has caused His light to appear 
+On the face of the holy, righteous, and elect.
 
-**[38:5]** Then shall the kings and the mighty perish And be given into the hands of the righteous and holy. **[38:6]** And thenceforward none shall seek for themselves mercy from the Lord of Spirits For their life is at an end.
+**[38:5]** Then shall the kings and the mighty perish 
+And be given into the hands of the righteous and holy. 
+**[38:6]** And thenceforward none shall seek for themselves mercy from the Lord of Spirits 
+For their life is at an end.
 
 
 
-**[39:1]** [And it †shall come to pass in those days that elect and holy children †will descend from the high heaven, and their seed †will become one with the children of men. **[39:2]** And in those days Enoch received books of zeal and wrath, and books of disquiet and expulsion.] 
+**[39:1]** And it †shall come to pass in those days that elect and holy children will descend from the high heaven, and their seed will become one with the children of men. **[39:2]** And in those days Enoch received books of zeal and wrath, and books of disquiet and expulsion.
 
-And mercy shall not be accorded to them, saith the Lord of Spirits. **[39:3]** And in those days a whirlwind carried me off from the earth, And set me down at the end of the heavens. 
+And mercy shall not be accorded to them, saith the Lord of Spirits. 
+**[39:3]** And in those days a whirlwind carried me off from the earth, 
+And set me down at the end of the heavens. 
 
-**[39:4]** And there I saw another vision, the dwelling-places of the holy, And the resting-places of the righteous.
+**[39:4]** And there I saw another vision, the dwelling-places of the holy, 
+And the resting-places of the righteous.
 
-**[39:5]** Here mine eyes saw their dwellings with His righteous angels, And their resting-places with the holy.
+**[39:5]** Here mine eyes saw their dwellings with His righteous angels, 
+And their resting-places with the holy.
 
-And they petitioned and interceded and prayed for the children of men, And righteousness flowed before them as water,
+And they petitioned and interceded and prayed for the children of men, 
+And righteousness flowed before them as water,
 
-And mercy like dew upon the earth: Thus it is amongst them for ever and ever.
+And mercy like dew upon the earth: 
+Thus it is amongst them for ever and ever.
 
-[39:6a] And in that place mine eyes saw the Elect One of righteousness and of faith, [39:7a] And I saw his dwelling-place under the wings of the Lord of Spirits. [39:6b] And righteousness shall prevail in his days, And the righteous and elect shall be without number before Him for ever and ever. [39:7b] And all the righteous and elect before Him shall be †strong† as fiery lights, And their mouth shall be full of blessing,
+[39:6a] And in that place mine eyes saw the Elect One of righteousness and of faith, 
+[39:7a] And I saw his dwelling-place under the wings of the Lord of Spirits. 
+[39:6b] And righteousness shall prevail in his days, 
+And the righteous and elect shall be without number before Him for ever and ever. 
+[39:7b] And all the righteous and elect before Him shall be strong as fiery lights, 
+And their mouth shall be full of blessing,
 
-And their lips extol the name of the Lord of Spirits, And righteousness before Him shall never fail, [And uprightness shall never fail before Him.] **[39:8]** There I wished to dwell, And my spirit longed for that dwelling-place:
+And their lips extol the name of the Lord of Spirits, 
+And righteousness before Him shall never fail, 
+And uprightness shall never fail before Him. 
+**[39:8]** There I wished to dwell, 
+And my spirit longed for that dwelling-place:
 
-And there heretofore hath been my portion, For so has it been established concerning me before the Lord of Spirits. 
+And there heretofore hath been my portion, 
+For so has it been established concerning me before the Lord of Spirits. 
 
 **[39:9]** In those days I praised and extolled the name of the Lord of Spirits with blessings and praises, because He hath destined me for blessing and glory according to the good pleasure of the Lord of Spirits. **[39:10]** For a long time my eyes regarded that place, and I blessed Him and praised Him, saying: 'Blessed is He, and may He be blessed from the beginning and for evermore. **[39:11]** And before Him there is no ceasing. He knows before the world was created what is for ever and what will be from generation unto generation. **[39:12]** Those who sleep not bless Thee: they stand before Thy glory and bless, praise, and extol, saying: "Holy, holy, holy, is the Lord of Spirits: He filleth the earth with spirits."' **[39:13]** And here my eyes saw all those who sleep not: they stand before Him and bless and say: 'Blessed be Thou, and blessed be the name of the Lord for ever and ever.' **[39:14]** And my face was changed; for I could no longer behold.
 
@@ -362,25 +387,37 @@ And there heretofore hath been my portion, For so has it been established concer
 
 **[41:3]** And there mine eyes saw the secrets of the lightning and of the thunder, and the secrets of the winds, how they are divided to blow over the earth, and the secrets of the clouds and dew, and there I saw from whence they proceed in that place and from whence they saturate the dusty earth. **[41:4]** And there I saw closed chambers out of which the winds are divided, the chamber of the hail and winds, the chamber of the mist, and of the clouds, and the cloud thereof hovers over the earth from the beginning of the world. **[41:5]** And I saw the chambers of the sun and moon, whence they proceed and whither they come again, and their glorious return, and how one is superior to the other, and their stately orbit, and how they do not leave their orbit, and they add nothing to their orbit and they take nothing from it, and they keep faith with each other, in accordance with the oath by which they are bound together. **[41:6]** And first the sun goes forth and traverses his path according to the commandment of the Lord of Spirits, and mighty is His name for ever and ever.  **[41:7]** And after that I saw the hidden and the visible path of the moon, and she accomplishes the course of her path in that place by day and by night--the one holding a position opposite to the other before the Lord of Spirits. 
 
-And they give thanks and praise and rest not; For unto them is their thanksgiving rest. **[41:8]** For the sun changes oft for a blessing or a curse, And the course of the path of the moon is light to the righteous And darkness to the sinners in the name of the Lord,
+And they give thanks and praise and rest not; 
+For unto them is their thanksgiving rest. 
+**[41:8]** For the sun changes oft for a blessing or a curse, 
+And the course of the path of the moon is light to the righteous 
+And darkness to the sinners in the name of the Lord,
 
-Who made a separation between the light and the darkness, And divided the spirits of men,
+Who made a separation between the light and the darkness, 
+And divided the spirits of men,
 
-And strengthened the spirits of the righteous, In the name of His righteousness. 
+And strengthened the spirits of the righteous, 
+In the name of His righteousness. 
 
 **[41:9]** For no angel hinders and no power is able to hinder; for He appoints a judge for them all and He judges them all before Him.
 
 
 
-**[42:1]** Wisdom found no place where she might dwell; Then a dwelling-place was assigned her in the heavens.
+**[42:1]** Wisdom found no place where she might dwell; 
+Then a dwelling-place was assigned her in the heavens.
 
-**[42:2]** Wisdom went forth to make her dwelling among the children of men, And found no dwelling-place:
+**[42:2]** Wisdom went forth to make her dwelling among the children of men, 
+And found no dwelling-place:
 
-Wisdom returned to her place, And took her seat among the angels.
+Wisdom returned to her place, 
+And took her seat among the angels.
 
-**[42:3]** And unrighteousness went forth from her chambers: Whom she sought not she found, And dwelt with them, 
+**[42:3]** And unrighteousness went forth from her chambers: 
+Whom she sought not she found, 
+And dwelt with them, 
 
-As rain in a desert And dew on a thirsty land.
+As rain in a desert 
+And dew on a thirsty land.
 
 
 
@@ -390,91 +427,191 @@ As rain in a desert And dew on a thirsty land.
 
 **[45:1]** And this is the Second Parable concerning those who deny the name of the dwelling of the holy ones and the Lord of Spirits. 
 
-**[45:2]** And into the heaven they shall not ascend, And on the earth they shall not come: Such shall be the lot of the sinners Who have denied the name of the Lord of Spirits, Who are thus preserved for the day of suffering and tribulation.
+**[45:2]** And into the heaven they shall not ascend, 
+And on the earth they shall not come: 
+Such shall be the lot of the sinners 
+Who have denied the name of the Lord of Spirits, 
+Who are thus preserved for the day of suffering and tribulation.
 
-**[45:3]** On that day Mine Elect One shall sit on the throne of glory And shall try their works, And their places of rest shall be innumerable.
+**[45:3]** On that day Mine Elect One shall sit on the throne of glory 
+And shall try their works, 
+And their places of rest shall be innumerable.
 
-And their souls shall grow strong within them when they see Mine Elect Ones, And those who have called upon My glorious name: **[45:4]** Then will I cause Mine Elect One to dwell among them.
+And their souls shall grow strong within them when they see Mine Elect Ones, 
+And those who have called upon My glorious name: 
+**[45:4]** Then will I cause Mine Elect One to dwell among them.
 
-And I will transform the heaven and make it an eternal blessing and light **[45:5]** And I will transform the earth and make it a blessing:
+And I will transform the heaven and make it an eternal blessing and light, 
+**[45:5]** And I will transform the earth and make it a blessing:
 
-And I will cause Mine elect ones to dwell upon it: But the sinners and evil-doers shall not set foot thereon.
+And I will cause Mine elect ones to dwell upon it: 
+But the sinners and evil-doers shall not set foot thereon.
 
-**[45:6]** For I have provided and satisfied with peace My righteous ones And have caused them to dwell before Me:
+**[45:6]** For I have provided and satisfied with peace My righteous ones 
+And have caused them to dwell before Me:
 
-But for the sinners there is judgement impending with Me, So that I shall destroy them from the face of the earth.
-
-
-
-**[46:1]** And there I saw One who had a head of days, And His head was white like wool, And with Him was another being whose countenance had the appearance of a man, And his face was full of graciousness, like one of the holy angels. 
-
-**[46:2]** And I asked the angel who went with me and showed me all the hidden things, concerning that Son of Man, who he was, and whence he was, (and) why he went with the Head of Days? And he answered and said unto me: 
-
-This is the son of Man who hath righteousness, With whom dwelleth righteousness, And who revealeth all the treasures of that which is hidden,
-
-Because the Lord of Spirits hath chosen him, And whose lot hath the pre-eminence before the Lord of Spirits in uprightness for ever.
-
-**[46:4]**, And this Son of Man whom thou hast seen Shall †raise up† the kings and the mighty from their seats, [And the strong from their thrones]
-
-And shall loosen the reins of the strong, And break the teeth of the sinners.
-
-**[46:5]** [And he shall put down the kings from their thrones and kingdoms] Because they do not extol and praise Him, Nor humbly acknowledge whence the kingdom was bestowed upon them. **[46:6]** And he shall put down the countenance of the strong, And shall fill them with shame.
-
-And darkness shall be their dwelling, And worms shall be their bed, And they shall have no hope of rising from their beds, Because they do not extol the name of the Lord of Spirits.
-
-**[46:7]** And these are they who †judge† the stars of heaven, [And raise their hands against the Most High], †And tread upon the earth and dwell upon it†.
-
-And all their deeds manifest unrighteousness, And their power rests upon their riches, And their faith is in the †gods† which they have made with their hands, And they deny the name of the Lord of Spirits,
-
-**[46:8]** And they persecute the houses of His congregations, And the faithful who hang upon the name of the Lord of Spirits.
+But for the sinners there is judgement impending with Me, 
+So that I shall destroy them from the face of the earth.
 
 
 
-**[47:1]** And in those days shall have ascended the prayer of the righteous, And the blood of the righteous from the earth before the Lord of Spirits. **[47:2]** In those days the holy ones who dwell above in the heavens Shall unite with one voice And supplicate and pray [and praise, And give thanks and bless the name of the Lord of Spirits] On behalf of the blood of the righteous which has been shed, And that the prayer of the righteous may not be in vain before the Lord of Spirits, That judgement may be done unto them, And that they may not have to suffer for ever. **[47:3]** In those days I saw the Head of Days when He seated himself upon the throne of His glory, And the books of the living were opened before Him: And all His host which is in heaven above and His counselors stood before Him, **[47:4]** And the hearts of the holy were filled with joy; Because the number of the righteous had been offered, And the prayer of the righteous had been heard, And the blood of the righteous been required before the Lord of Spirits.
+**[46:1]** And there I saw One who had a head of days, 
+And His head was white like wool, 
+And with Him was another being whose countenance had the appearance of a man, 
+And his face was full of graciousness, like one of the holy angels. 
+
+**[46:2]** And I asked the angel who went with me and showed me all the hidden things, concerning that Son of Man, who he was, and whence he was, (and) why he went with the Head of Days? 
+**[46:3]** And he answered and said unto me: 
+
+This is the son of Man who hath righteousness, 
+With whom dwelleth righteousness, 
+And who revealeth all the treasures of that which is hidden,
+
+Because the Lord of Spirits hath chosen him, 
+And whose lot hath the pre-eminence before the Lord of Spirits in uprightness for ever.
+
+**[46:4]**, And this Son of Man whom thou hast seen 
+Shall raise up the kings and the mighty from their seats, 
+And the strong from their thrones
+
+And shall loosen the reins of the strong, 
+And break the teeth of the sinners.
+
+**[46:5]** And he shall put down the kings from their thrones and kingdoms 
+Because they do not extol and praise Him, 
+Nor humbly acknowledge whence the kingdom was bestowed upon them. 
+**[46:6]** And he shall put down the countenance of the strong, 
+And shall fill them with shame.
+
+And darkness shall be their dwelling, 
+And worms shall be their bed, 
+And they shall have no hope of rising from their beds, 
+Because they do not extol the name of the Lord of Spirits.
+
+**[46:7]** And these are they who judge the stars of heaven, 
+And raise their hands against the Most High, 
+And tread upon the earth and dwell upon it.
+
+And all their deeds manifest unrighteousness, 
+And their power rests upon their riches, 
+And their faith is in the gods which they have made with their hands, 
+And they deny the name of the Lord of Spirits,
+
+**[46:8]** And they persecute the houses of His congregations, 
+And the faithful who hang upon the name of the Lord of Spirits.
 
 
 
-**[48:1]** And in that place I saw the fountain of righteousness Which was inexhaustible: And around it were many fountains of wisdom;
-
-And all the thirsty drank of them, And were filled with wisdom, And their dwellings were with the righteous and holy and elect. **[48:2]** And at that hour that Son of Man was named In the presence of the Lord of Spirits, And his name before the Head of Days.
-
-**[48:3]** Yea, before the sun and the signs were created, Before the stars of the heaven were made, His name was named before the Lord of Spirits.
-
-**[48:4]** He shall be a staff to the righteous whereon to stay themselves and not fall, And he shall be the light of the Gentiles, And the hope of those who are troubled of heart.
-
-**[48:5]** All who dwell on earth shall fall down and worship before him, And will praise and bless and celebrate with song the Lord of Spirits.
-
-**[48:6]** And for this reason hath he been chosen and hidden before Him, Before the creation of the world and for evermore.
-
-**[48:7]** And the wisdom of the Lord of Spirits hath revealed him to the holy and righteous; For he hath preserved the lot of the righteous, Because they have hated and despised this world of unrighteousness, And have hated all its works and ways in the name of the Lord of Spirits: For in his name they are saved, And according to his good pleasure hath it been in regard to their life.
-
-**[48:8]** In these days downcast in countenance shall the kings of the earth have become, And the strong who possess the land because of the works of their hands;
-
-For on the day of their anguish and affliction they shall not (be able to) save themselves. **[48:9]** And I will give them over into the hands of Mine elect:
-
-As straw in the fire so shall they burn before the face of the holy: As lead in the water shall they sink before the face of the righteous, And no trace of them shall any more be found.
-
-**[48:10]** And on the day of their affliction there shall be rest on the earth, And before them they shall fall and not rise again:
-
-And there shall be no one to take them with his hands and raise them: For they have denied the Lord of Spirits and His Anointed. The name of the Lord of Spirits be blessed.
+**[47:1]** And in those days shall have ascended the prayer of the righteous, 
+And the blood of the righteous from the earth before the Lord of Spirits. 
+**[47:2]** In those days the holy ones who dwell above in the heavens 
+Shall unite with one voice 
+And supplicate and pray and praise, 
+And give thanks and bless the name of the Lord of Spirits 
+On behalf of the blood of the righteous which has been shed, 
+And that the prayer of the righteous may not be in vain before the Lord of Spirits, 
+That judgement may be done unto them, 
+And that they may not have to suffer for ever. 
+**[47:3]** In those days I saw the Head of Days when He seated himself upon the throne of His glory, 
+And the books of the living were opened before Him: 
+And all His host which is in heaven above and His counselors stood before Him, 
+**[47:4]** And the hearts of the holy were filled with joy; 
+Because the number of the righteous had been offered, 
+And the prayer of the righteous had been heard, 
+And the blood of the righteous been required before the Lord of Spirits.
 
 
 
-**[49:1]** For wisdom is poured out like water, And glory faileth not before him for evermore.
+**[48:1]** And in that place I saw the fountain of righteousness 
+Which was inexhaustible: 
+And around it were many fountains of wisdom;
 
-**[49:2]** For he is mighty in all the secrets of righteousness, And unrighteousness shall disappear as a shadow, And have no continuance; Because the Elect One standeth before the Lord of Spirits, And his glory is for ever and ever, And his might unto all generations.
+And all the thirsty drank of them, 
+And were filled with wisdom, 
+And their dwellings were with the righteous and holy and elect. 
+**[48:2]** And at that hour that Son of Man was named 
+In the presence of the Lord of Spirits, 
+And his name before the Head of Days.
 
-**[49:3]** And in him dwells the spirit of wisdom, And the spirit which gives insight, And the spirit of understanding and of might, And the spiritopt of those who have fallen asleep in righteousness.
+**[48:3]** Yea, before the sun and the signs were created, 
+Before the stars of the heaven were made, 
+His name was named before the Lord of Spirits.
 
-**[49:4]** And he shall judge the secret things, And none shall be able to utter a lying word before him; For he is the Elect One before the Lord of Spirits according to His good pleasure.
+**[48:4]** He shall be a staff to the righteous whereon to stay themselves and not fall, 
+And he shall be the light of the Gentiles, 
+And the hope of those who are troubled of heart.
+
+**[48:5]** All who dwell on earth shall fall down and worship before him, 
+And will praise and bless and celebrate with song the Lord of Spirits.
+
+**[48:6]** And for this reason hath he been chosen and hidden before Him, 
+Before the creation of the world and for evermore.
+
+**[48:7]** And the wisdom of the Lord of Spirits hath revealed him to the holy and righteous; 
+For he hath preserved the lot of the righteous, 
+Because they have hated and despised this world of unrighteousness, 
+And have hated all its works and ways in the name of the Lord of Spirits: 
+For in his name they are saved, 
+And according to his good pleasure hath it been in regard to their life.
+
+**[48:8]** In these days downcast in countenance shall the kings of the earth have become, 
+And the strong who possess the land because of the works of their hands;
+
+For on the day of their anguish and affliction they shall not (be able to) save themselves, 
+**[48:9]** And I will give them over into the hands of Mine elect:
+
+As straw in the fire so shall they burn before the face of the holy: 
+As lead in the water shall they sink before the face of the righteous,
+And no trace of them shall any more be found.
+
+**[48:10]** And on the day of their affliction there shall be rest on the earth,
+And before them they shall fall and not rise again:
+
+And there shall be no one to take them with his hands and raise them: 
+For they have denied the Lord of Spirits and His Anointed. 
+The name of the Lord of Spirits be blessed.
 
 
 
-**[50:1]** And in those days a change shall take place for the holy and elect, And the light of days shall abide upon them, And glory and honour shall turn to the holy, **[50:2]** On the day of affliction on which evil shall have been treasured up against the sinners.
+**[49:1]** For wisdom is poured out like water,
+And glory faileth not before him for evermore.
 
-And the righteous shall be victorious in the name of the Lord of Spirits: And He will cause the others to witness (this) That they may repent And forgo the works of their hands.
+**[49:2]** For he is mighty in all the secrets of righteousness, 
+And unrighteousness shall disappear as a shadow, 
+And have no continuance; 
+Because the Elect One standeth before the Lord of Spirits, 
+And his glory is for ever and ever, 
+And his might unto all generations.
 
-**[50:3]** They shall have no honour through the name of the Lord of Spirits, Yet through His name shall they be saved, And the Lord of Spirits will have compassion on them, For His compassion is great. **[50:4]** And He is righteous also in His judgement, And in the presence of His glory unrighteousness also shall not maintain itself: At His judgement the unrepentant shall perish before Him. **[50:5]** And from henceforth I will have no mercy on them, saith the Lord of Spirits.
+**[49:3]** And in him dwells the spirit of wisdom, 
+And the spirit which gives insight, 
+And the spirit of understanding and of might,
+And the spirit of those who have fallen asleep in righteousness.
+
+**[49:4]** And he shall judge the secret things, 
+And none shall be able to utter a lying word before him; 
+For he is the Elect One before the Lord of Spirits according to His good pleasure.
+
+
+
+**[50:1]** And in those days a change shall take place for the holy and elect, 
+And the light of days shall abide upon them, 
+And glory and honour shall turn to the holy, 
+**[50:2]** On the day of affliction on which evil shall have been treasured up against the sinners.
+
+And the righteous shall be victorious in the name of the Lord of Spirits: 
+And He will cause the others to witness (this)
+That they may repent 
+And forgo the works of their hands.
+
+**[50:3]** They shall have no honour through the name of the Lord of Spirits,
+Yet through His name shall they be saved, 
+And the Lord of Spirits will have compassion on them,
+For His compassion is great. 
+**[50:4]** And He is righteous also in His judgement,
+And in the presence of His glory unrighteousness also shall not maintain itself: 
+At His judgement the unrepentant shall perish before Him. 
+**[50:5]** And from henceforth I will have no mercy on them, saith the Lord of Spirits.
 
 
 
@@ -716,7 +853,7 @@ Close of the Third Parable.
 
 **[69:26]** And there was great joy amongst them, And they blessed and glorified and extolled Because the name of that Son of Man had been revealed unto them. **[69:27]** And he sat on the throne of his glory, And the sum of judgement was given unto the Son of Man, And he caused the sinners to pass away and be destroyed from off the face of the earth, And those who have led the world astray. **[69:28]** With chains shall they be bound, And in their assemblage-place of destruction shall they be imprisoned, And all their works vanish from the face of the earth. **[69:29]** And from henceforth there shall be nothing corruptible; For that Son of Man has appeared, And has seated himself on the throne of his glory, And all evil shall pass away before his face, And the word of that Son of Man shall go forth And be strong before the Lord of Spirits.
 
-  
+  
 
 This is the Third Parable of Enoch.
 
@@ -922,7 +1059,7 @@ And Thy power and kingship and greatness abide for ever and ever, And throughout
 
 **[90:16]** All the eagles and vultures and ravens and kites were gathered together, and there came with them all the sheep of the field, yea, they all came together, and helped each other to break that horn of the ram. 
 
- 
+ 
 
 **[90:19]** And I saw till a great sword was given to the sheep, and the sheep proceeded against all the beasts of the field to slay them, and all the beasts and the birds of the heaven fled before their face. 
 
@@ -934,7 +1071,7 @@ And Thy power and kingship and greatness abide for ever and ever, And throughout
 
 **[90:18]** And I saw till the Lord of the sheep came unto them and took in His hand the staff of His wrath, and smote the earth, and the earth clave asunder, and all the beasts and all the birds of the heaven fell from among those sheep, and were swallowed up in the earth and it covered them. 
 
- 
+ 
 
 **[90:20]** And I saw till a throne was erected in the pleasant land, and the Lord of the sheep sat Himself thereon, and the other took the sealed books and opened those books before the Lord of the sheep. **[90:21]** And the Lord called those men the seven first white ones, and commanded that they should bring before Him, beginning with the first star which led the way, all the stars whose privy members were like those of horses, and they brought them all before Him. **[90:22]** And He said to that man who wrote before Him, being one of those seven white ones, and said unto him: "Take those seventy shepherds to whom I delivered the sheep, and who taking them on their own authority slew more than I commanded them." **[90:23]** And behold they were all bound, I saw, and they all stood before Him. **[90:24]** And the judgement was held first over the stars, and they were judged and found guilty, and went to the place of condemnation, and they were cast into an abyss, full of fire and flaming, and full of pillars of fire. **[90:25]** And those seventy shepherds were judged and found guilty, and they were cast into that fiery abyss. **[90:26]** And I saw at that time how a like abyss was opened in the midst of the earth, full of fire, and they brought those blinded sheep, and they were all judged and found guilty and cast into this fiery abyss, and they burned; now this abyss was to the right of that house. **[90:27]** And I saw those sheep burning †and their bones burning†.
 
@@ -1262,7 +1399,7 @@ For ye have acquired it all in unrighteousness, And ye shall be given over to a 
 
 **[108:1]** Another book which Enoch wrote for his son Methuselah and for those who will come after him, and keep the law in the last days. **[108:2]** Ye who have done good shall wait for those days till an end is made of those who work evil; and an end of the might of the transgressors. **[108:3]** And wait ye indeed till sin has passed away, for their names shall be blotted out of the book of life and out of the holy books, and their seed shall be destroyed for ever, and their spirits shall be slain, and they shall cry and make lamentation in a place that is a chaotic wilderness, and in the fire shall they burn; for there is no earth there. **[108:4]** And I saw there something like an invisible cloud; for by reason of its depth I could not look over, and I saw a flame of fire blazing brightly, and things like shining mountains circling and sweeping to and fro. **[108:5]** And I asked one of the holy angels who was with me and said unto him: 'What is this shining thing? for it is not a heaven but only the flame of a blazing fire, and the voice of weeping and crying and lamentation and strong pain.' **[108:6]** And he said unto me: 'This place which thou seest--here are cast the spirits of sinners and blasphemers, and of those who work wickedness, and of those who pervert everything that the Lord hath spoken through the mouth of the prophets--(even) the things that shall be. **[108:7]** For some of them are written and inscribed above in the heaven, in order that the angels may read them and know that which shall befall the sinners, and the spirits of the humble, and of those who have afflicted their bodies, and been recompensed by God; and of those who have been put to shame by wicked men: **[108:8]** Who love God and loved neither gold nor silver nor any of the good things which are in the world, but gave over their bodies to torture. **[108:9]** Who, since they came into being, longed not after earthly food, but regarded everything as a passing breath, and lived accordingly, and the Lord tried them much, and their spirits were found pure so that they should bless His name. **[108:10]** And all the blessings destined for them I have recounted in the books. And he hath assigned them their recompense, because they have been found to be such as loved heaven more than their life in the world, and though they were trodden under foot of wicked men, and experienced abuse and reviling from them and were put to shame, yet they blessed Me. **[108:11]** And now I will summon the spirits of the good who belong to the generation of light, and I will transform those who were born in darkness, who in the flesh were not recompensed with such honour as their faithfulness deserved. **[108:12]** And I will bring forth in shining light those who have loved My holy name, and I will seat each on the throne of his honour. **[108:13]** And they shall be resplendent for times without number; for righteousness is the judgement of God; for to the faithful He will give faithfulness in the habitation of upright paths. **[108:14]** And they shall see those who were, born in darkness led into darkness, while the righteous shall be resplendent. **[108:15]** And the sinners shall cry aloud and see them resplendent, and they indeed will go where days and seasons are prescribed for them.'
 
- 
+ 
 
 
 
