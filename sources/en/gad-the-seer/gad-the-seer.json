@@ -245,7 +245,7 @@
                             "verse": 40,
                             "chapter": 1,
                             "name": "Gad the Seer 1:40",
-                            "text": "“My help cometh from the Lord who made heaven and earth.” Psalm **[121:2]**"
+                            "text": "“My help cometh from the Lord who made heaven and earth.” Psalm"
                         },
                         {
                             "verse": 41,
@@ -347,7 +347,7 @@
                             "verse": 58,
                             "chapter": 1,
                             "name": "Gad the Seer 1:58",
-                            "text": "‘And yet for all that, when they are in the land of their enemies, I will not reject them, neither will I abhor them, to destroy them utterly, and to break My covenant with them; for I am the LORD their God.’ Leviticus **[26:44]**"
+                            "text": "‘And yet for all that, when they are in the land of their enemies, I will not reject them, neither will I abhor them, to destroy them utterly, and to break My covenant with them; for I am the LORD their God.’ Leviticus"
                         },
                         {
                             "verse": 59,
@@ -569,8 +569,26 @@
                             "verse": 2,
                             "chapter": 3,
                             "name": "Gad the Seer 3:2",
-                            "text": "And David said: “the LORD does not want your people, and He commanded, ‘An Ammonite or a Moabite shall not enter into the assembly of the LORD forever.’ Deuteronomy **[23:3]** And we cannot seek your peace nor your prosperity; but how can I help you today?”"
-                        },
+                            "text": "And David said: “the LORD does not want your people, and He commanded, ‘An Ammonite or a Moabite shall not enter into the assembly of the LORD forever.’ Deuteronomy"
+                        }
+                    ]
+                },
+                {
+                    "chapter": 23,
+                    "name": "Gad the Seer 23",
+                    "verses": [
+                        {
+                            "verse": 3,
+                            "chapter": 23,
+                            "name": "Gad the Seer 23:3",
+                            "text": "And we cannot seek your peace nor your prosperity; but how can I help you today?”"
+                        }
+                    ]
+                },
+                {
+                    "chapter": 3,
+                    "name": "Gad the Seer 3",
+                    "verses": [
                         {
                             "verse": 3,
                             "chapter": 3,
@@ -1013,7 +1031,7 @@
                             "verse": 23,
                             "chapter": 7,
                             "name": "Gad the Seer 7:23",
-                            "text": "For a broken or a contrite heart I shall not despise forever.” Psalm **[51:17]**"
+                            "text": "For a broken or a contrite heart I shall not despise forever.” Psalm"
                         },
                         {
                             "verse": 24,
@@ -1277,7 +1295,7 @@
                             "verse": 9,
                             "chapter": 9,
                             "name": "Gad the Seer 9:9",
-                            "text": "We must therefore obey the whole Law that HaShem commands of us, saying: ‘And you shall be unto Me a kingdom of priests, and an holy nation. These are the words which you shall speak unto the children of Israel.’ Exodus **[19:6]**"
+                            "text": "We must therefore obey the whole Law that HaShem commands of us, saying: ‘And you shall be unto Me a kingdom of priests, and an holy nation. These are the words which you shall speak unto the children of Israel.’ Exodus"
                         },
                         {
                             "verse": 10,
@@ -1325,7 +1343,7 @@
                             "verse": 17,
                             "chapter": 9,
                             "name": "Gad the Seer 9:17",
-                            "text": "And Hiram lifted up his voice and said: “I have seen, but not now, I have beheld, but not nigh: there shall step forth a sun from David, and a moon shall rise out of the house of Judah, and shall smite all the children of Ham, and break down all the children of Japheth, and he will possess all the kingdoms of the world.” Variant of Numbers **[24:17]**-18"
+                            "text": "And Hiram lifted up his voice and said: “I have seen, but not now, I have beheld, but not nigh: there shall step forth a sun from David, and a moon shall rise out of the house of Judah, and shall smite all the children of Ham, and break down all the children of Japheth, and he will possess all the kingdoms of the world.” Variant of Numbers"
                         },
                         {
                             "verse": 18,

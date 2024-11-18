@@ -5,18 +5,18 @@ import re
 def parse_md_to_json(md_content):
     book = {"name": "", "chapters": []}
     current_chapter = None
-    verse_pattern = re.compile(r"\*\*\[(\d+):(\d+)\]\*\* (.+)")
+    verse_pattern = re.compile(r"\*\*\[(\d+):(\d+)\]\*\* (.+?)(?=\*\*\[\d+:\d+\]\*\*|$)")
     
     lines = md_content.split("\n")
     for line in lines:
         if line.startswith("# "):
             book["name"] = line[2:].strip()
         else:
-            match = verse_pattern.match(line)
-            if match:
-                chapter_number = int(match.group(1))
-                verse_number = int(match.group(2))
-                verse_text = match.group(3).strip()
+            matches = verse_pattern.findall(line)
+            for match in matches:
+                chapter_number = int(match[0])
+                verse_number = int(match[1])
+                verse_text = match[2].strip()
                 
                 if current_chapter is None or current_chapter["chapter"] != chapter_number:
                     if current_chapter is not None:
