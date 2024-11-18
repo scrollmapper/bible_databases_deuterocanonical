@@ -615,7 +615,9 @@ At His judgement the unrepentant shall perish before Him.
 
 
 
-**[51:1]** And in those days shall the earth also give back that which has been entrusted to it, And Sheol also shall give back that which it has received, And hell shall give back that which it owes.
+**[51:1]** And in those days shall the earth also give back that which has been entrusted to it, 
+And Sheol also shall give back that which it has received, 
+And hell shall give back that which it owes.
 
 [51:5a] For in those days the Elect One shall arise, **[51:2]** And he shall choose the righteous and holy from among them: For the day has drawn nigh that they should be saved.
 
