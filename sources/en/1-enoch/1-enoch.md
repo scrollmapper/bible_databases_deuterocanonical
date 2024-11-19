@@ -723,81 +723,166 @@ And their destruction shall be at an end; Sheol shall devour the sinners in the 
 
 **[61:2]** And I asked the angel, saying unto him: 'Why have those (angels) taken these cords and gone off?' And he said unto me: 'They have gone to measure.' 
 
-**[61:3]** And the angel who went with me said unto me: 'These shall bring the measures of the righteous, And the ropes of the righteous to the righteous, That they may stay themselves on the name of the Lord of Spirits for ever and ever.
+**[61:3]** And the angel who went with me said unto me: 
+'These shall bring the measures of the righteous, 
+And the ropes of the righteous to the righteous, 
+That they may stay themselves on the name of the Lord of Spirits for ever and ever.
 
-**[61:4]** The elect shall begin to dwell with the elect, And those are the measures which shall be given to faith And which shall strengthen righteousness.
+**[61:4]** The elect shall begin to dwell with the elect,
+And those are the measures which shall be given to faith 
+And which shall strengthen righteousness.
 
-**[61:5]** And these measures shall reveal all the secrets of the depths of the earth, And those who have been destroyed by the desert, And those who have been devoured by the beasts, And those who have been devoured by the fish of the sea,
+**[61:5]** And these measures shall reveal all the secrets of the depths of the earth, 
+And those who have been destroyed by the desert, 
+And those who have been devoured by the beasts, 
+And those who have been devoured by the fish of the sea,
 
-That they may return and stay themselves On the day of the Elect One; For none shall be destroyed before the Lord of Spirits, And none can be destroyed. 
+That they may return and stay themselves 
+On the day of the Elect One; 
+For none shall be destroyed before the Lord of Spirits,
+And none can be destroyed. 
 
 **[61:6]** And all who dwell above in the heaven received a command and power and one voice and one light like unto fire. 
 
-**[61:7]** And that One (with) their first words they blessed, And extolled and lauded with wisdom, And they were wise in utterance and in the spirit of life.
+**[61:7]** And that One (with) their first words they blessed, 
+And extolled and lauded with wisdom, 
+And they were wise in utterance and in the spirit of life.
 
-**[61:8]** And the Lord of Spirits placed the Elect one on the throne of glory. And he shall judge all the works of the holy above in the heaven, And in the balance shall their deeds be weighed
+**[61:8]** And the Lord of Spirits placed the Elect one on the throne of glory. 
+And he shall judge all the works of the holy above in the heaven, 
+And in the balance shall their deeds be weighed
 
-**[61:9]** And when he shall lift up his countenance To judge their secret ways according to the word of the name of the Lord of Spirits, And their path according to the way of the righteous judgement of the Lord of Spirits, Then shall they all with one voice speak and bless, And glorify and extol and sanctify the name of the Lord of Spirits. 
+**[61:9]** And when he shall lift up his countenance 
+To judge their secret ways according to the word of the name of the Lord of Spirits, 
+And their path according to the way of the righteous judgement of the Lord of Spirits, 
+Then shall they all with one voice speak and bless, 
+And glorify and extol and sanctify the name of the Lord of Spirits. 
 
-**[61:10]** And He will summon all the host of the heavens, and all the holy ones above, and the host of God, the Cherubic, Seraphin and Ophannin, and all the angels of power, and all the angels of principalities, and the Elect One, and the other powers on the earth (and) over the water. **[61:11]** On that day shall raise one voice, and bless and glorify and exalt in the spirit of faith, and in the spirit of wisdom, and in the spirit of patience, and in the spirit of mercy, and in the spirit of judgement and of peace, and in the spirit of goodness, and shall all say with one voice: "Blessed is He, and may the name of the Lord of Spirits be blessed for ever and ever." 
+**[61:10]** And He will summon all the host of the heavens, and all the holy ones above, and the host of God, the Cherubin, Seraphin and Ophannin, and all the angels of power, and all the angels of principalities, and the Elect One, and the other powers on the earth (and) over the water. **[61:11]** On that day shall raise one voice, and bless and glorify and exalt in the spirit of faith, and in the spirit of wisdom, and in the spirit of patience, and in the spirit of mercy, and in the spirit of judgement and of peace, and in the spirit of goodness, and shall all say with one voice: "Blessed is He, and may the name of the Lord of Spirits be blessed for ever and ever." 
 
-**[61:12]** All who sleep not above in heaven shall bless Him: All the holy ones who are in heaven shall bless Him, And all the elect who dwell in the garden of life:
+**[61:12]** All who sleep not above in heaven shall bless Him: 
+All the holy ones who are in heaven shall bless Him, 
+And all the elect who dwell in the garden of life:
 
-And every spirit of light who is able to bless, and glorify, and extol, and hallow Thy blessed name, And all flesh shall beyond measure glorify and bless Thy name for ever and ever.
+And every spirit of light who is able to bless, and glorify, and extol, and hallow Thy blessed name, 
+And all flesh shall beyond measure glorify and bless Thy name for ever and ever.
 
-**[61:13]** For great is the mercy of the Lord of Spirits, and He is long-suffering, And all His works and all that He has created He has revealed to the righteous and elect In the name of the Lord of Spirits.
+**[61:13]** For great is the mercy of the Lord of Spirits, and He is long-suffering, 
+And all His works and all that
+He has created He has revealed to the righteous and elect 
+In the name of the Lord of Spirits.
 
 
 
 **[62:1]** And thus the Lord commanded the kings and the mighty and the exalted, and those who dwell on the earth, and said: 'Open your eyes and lift up your horns if ye are able to recognize the Elect One.' 
 
-**[62:2]** And the Lord of Spirits seated him on the throne of His glory, And the spirit of righteousness was poured out upon him, And the word of his mouth slays all the sinners, And all the unrighteous are destroyed from before his face. **[62:3]** And there shall stand up in that day all the kings and the mighty, And the exalted and those who hold the earth, And they shall see and recognize How he sits on the throne of his glory, And righteousness is judged before him, And no lying word is spoken before him.
+**[62:2]** And the Lord of Spirits seated him on the throne of His glory, 
+And the spirit of righteousness was poured out upon him, 
+And the word of his mouth slays all the sinners, 
+And all the unrighteous are destroyed from before his face. 
+**[62:3]** And there shall stand up in that day all the kings and the mighty, 
+And the exalted and those who hold the earth,
+And they shall see and recognize 
+How he sits on the throne of his glory,
+And righteousness is judged before him, 
+And no lying word is spoken before him.
 
-**[62:4]** Then shall pain come upon them as on a woman in travail, [And she has pain in bringing forth] When her child enters the mouth of the womb, And she has pain in bringing forth.
+**[62:4]** Then shall pain come upon them as on a woman in travail,
+And she has pain in bringing forth 
+When her child enters the mouth of the womb, 
+And she has pain in bringing forth.
 
-**[62:5]** And one portion of them shall look on the other, And they shall be terrified, And they shall be downcast of countenance, And pain shall seize them, When they see that Son of Man Sitting on the throne of his glory. **[62:6]** And the kings and the mighty and all who possess the earth shall bless and glorify and extol him who rules over all, who was hidden. 
+**[62:5]** And one portion of them shall look on the other, 
+And they shall be terrified, 
+And they shall be downcast of countenance, 
+And pain shall seize them, 
+When they see that Son of Man 
+Sitting on the throne of his glory. 
+**[62:6]** And the kings and the mighty and all who possess the earth shall bless and glorify and extol him who rules over all, who was hidden. 
 
-**[62:7]** For from the beginning the Son of Man was hidden, And the Most High preserved him in the presence of His might, And revealed him to the elect.
+**[62:7]** For from the beginning the Son of Man was hidden,
+And the Most High preserved him in the presence of His might, 
+And revealed him to the elect.
 
-**[62:8]** And the congregation of the elect and holy shall be sown, And all the elect shall stand before him on that day.
+**[62:8]** And the congregation of the elect and holy shall be sown, 
+And all the elect shall stand before him on that day.
 
-**[62:9]** And all the kings and the mighty and the exalted and those who rule the earth Shall fall down before him on their faces, And worship and set their hope upon that Son of Man, And petition him and supplicate for mercy at his hands.
+**[62:9]** And all the kings and the mighty and the exalted and those who rule the earth 
+Shall fall down before him on their faces, 
+And worship and set their hope upon that Son of Man, 
+And petition him and supplicate for mercy at his hands.
 
-**[62:10]** Nevertheless that Lord of Spirits will so press them That they shall hastily go forth from His presence, And their faces shall be filled with shame, And the darkness grow deeper on their faces. **[62:11]** And He will deliver them to the angels for punishment, To execute vengeance on them because they have oppressed His children and His elect **[62:12]** And they shall be a spectacle for the righteous and for His elect: They shall rejoice over them, Because the wrath of the Lord of Spirits resteth upon them, And His sword is drunk with their blood. **[62:13]** And the righteous and elect shall be saved on that day, And they shall never thenceforward see the face of the sinners and unrighteous.
+**[62:10]** Nevertheless that Lord of Spirits will so press them 
+That they shall hastily go forth from His presence, 
+And their faces shall be filled with shame, 
+And the darkness grow deeper on their faces. 
+**[62:11]** And He will deliver them to the angels for punishment, 
+To execute vengeance on them because they have oppressed His children and His elect **[62:12]** And they shall be a spectacle for the righteous and for His elect: 
+They shall rejoice over them, 
+Because the wrath of the Lord of Spirits resteth upon them, 
+And His sword is drunk with their blood. 
+**[62:13]** And the righteous and elect shall be saved on that day, 
+And they shall never thenceforward see the face of the sinners and unrighteous.
 
-**[62:14]** And the Lord of Spirits will abide over them, And with that Son of Man shall they eat And lie down and rise up for ever and ever.
+**[62:14]** And the Lord of Spirits will abide over them, 
+And with that Son of Man shall they eat 
+And lie down and rise up for ever and ever.
 
-**[62:15]** And the righteous and elect shall have risen from the earth, And ceased to be of downcast countenance.
+**[62:15]** And the righteous and elect shall have risen from the earth, 
+And ceased to be of downcast countenance.
 
-And they shall have been clothed with garments of glory, **[62:16]** And these shall be the garments of life from the Lord of Spirits: And your garments shall not grow old, Nor your glory pass away before the Lord of Spirits.
+**[62:16]** And they shall have been clothed with garments of glory, 
+And these shall be the garments of life from the Lord of Spirits: 
+And your garments shall not grow old, 
+Nor your glory pass away before the Lord of Spirits.
 
 
 
 **[63:1]** In those days shall the mighty and the kings who possess the earth implore (Him) to grant them a little respite from His angels of punishment to whom they were delivered, that they might fall down and worship before the Lord of Spirits, and confess their sins before Him. **[63:2]** And they shall bless and glorify the Lord of Spirits, and say: 
 
-'Blessed is the Lord of Spirits and the Lord of kings, And the Lord of the mighty and the Lord of the rich, And the Lord of glory and the Lord of wisdom, **[63:3]** And splendid in every secret thing is Thy power from generation to generation, And Thy glory for ever and ever:
+'Blessed is the Lord of Spirits and the Lord of kings, 
+And the Lord of the mighty and the Lord of the rich, 
+And the Lord of glory and the Lord of wisdom, 
+**[63:3]** And splendid in every secret thing is Thy power from generation to generation, 
+And Thy glory for ever and ever:
 
-Deep are all Thy secrets and innumerable, And Thy righteousness is beyond reckoning.
+Deep are all Thy secrets and innumerable, 
+And Thy righteousness is beyond reckoning.
 
-**[63:4]** We have now learnt that we should glorify And bless the Lord of kings and Him who is king over all kings.' **[63:5]** And they shall say: 'Would that we had rest to glorify and give thanks And confess our faith before His glory!
+**[63:4]** We have now learnt that we should glorify 
+And bless the Lord of kings and Him who is king over all kings.' 
+**[63:5]** And they shall say: 
+'Would that we had rest to glorify and give thanks 
+And confess our faith before His glory!
 
-**[63:6]** And now we long for a little rest but find it not: We follow hard upon and obtain (it) not:
+**[63:6]** And now we long for a little rest but find it not: 
+We follow hard upon and obtain (it) not:
 
-And light has vanished from before us, And darkness is our dwelling-place for ever and ever:
+And light has vanished from before us,
+And darkness is our dwelling-place for ever and ever:
 
-**[63:7]** For we have not believed before Him Nor glorified the name of the Lord of Spirits, [nor glorified our Lord]
+**[63:7]** For we have not believed before Him 
+Nor glorified the name of the Lord of Spirits, nor glorified our Lord
 
-But our hope was in the sceptre of our kingdom, And in our glory.
+But our hope was in the sceptre of our kingdom, 
+And in our glory.
 
-**[63:8]** And in the day of our suffering and tribulation He saves us not, And we find no respite for confession
+**[63:8]** And in the day of our suffering and tribulation 
+He saves us not, 
+And we find no respite for confession
 
-That our Lord is true in all His works, and in His judgements and His justice, And His judgements have no respect of persons.
+That our Lord is true in all His works, and in His judgements and His justice, 
+And His judgements have no respect of persons.
 
-**[63:9]** And we pass away from before His face on account of our works, And all our sins are reckoned up in righteousness.' 
+**[63:9]** And we pass away from before His face on account of our works, 
+And all our sins are reckoned up in righteousness.' 
 
-**[63:10]** Now they shall say unto themselves: 'Our souls are full of unrighteous gain, but it does not prevent us from descending from the midst thereof into the †burden† of Sheol.' 
+**[63:10]** Now they shall say unto themselves: 'Our souls are full of unrighteous gain, but it does not prevent us from descending from the midst thereof into the burden of Sheol.' 
 
-**[63:11]** And after that their faces shall be filled with darkness And shame before that Son of Man, And they shall be driven from his presence, And the sword shall abide before his face in their midst. 
+**[63:11]** And after that their faces shall be filled with darkness 
+And shame before that Son of Man, 
+And they shall be driven from his presence, 
+And the sword shall abide before his face in their midst. 
 
 **[63:12]** Thus spake the Lord of Spirits: 'This is the ordinance and judgement with respect to the mighty and the kings and the exalted and those who possess the earth before the Lord of Spirits.'
 
@@ -807,21 +892,24 @@ That our Lord is true in all His works, and in His judgements and His justice, A
 
 
 
-**[65:1]** And in those days Noah saw the earth that it had sunk down and its destruction was nigh. **[65:2]** And he arose from thence and went to the ends of the earth, and cried aloud to his grandfather Enoch: and Noah said three times with an embittered voice: Hear me, hear me, hear me.' **[65:3]** And I said unto him: 'Tell me what it is that is falling out on the earth that the earth is in such evil plight and shaken, lest perchance I shall perish with it?' **[65:4]** And thereupon there was a great commotion, on the earth, and a voice was heard from heaven, and I fell on my face. **[65:5]** And Enoch my grandfather came and stood by me, and said unto me: 'Why hast thou cried unto me with a bitter cry and weeping?
+**[65:1]** And in those days Noah saw the earth that it had sunk down and its destruction was nigh. **[65:2]** And he arose from thence and went to the ends of the earth, and cried aloud to his grandfather Enoch: and Noah said three times with an embittered voice: Hear me, hear me, hear me.' **[65:3]** And I said unto him: 'Tell me what it is that is falling out on the earth that the earth is in such evil plight and shaken, lest perchance I shall perish with it?' **[65:4]** And thereupon there was a great commotion on the earth, and a voice was heard from heaven, and I fell on my face. **[65:5]** And Enoch my grandfather came and stood by me, and said unto me: 'Why hast thou cried unto me with a bitter cry and weeping?
 
 **[65:6]** And a command has gone forth from the presence of the Lord concerning those who dwell on the earth that their ruin is accomplished because they have learnt all the secrets of the angels, and all the violence of the Satans, and all their powers--the most secret ones--and all the power of those who practice sorcery, and the power of witchcraft, and the power of those who make molten images for the whole earth: **[65:7]** And how silver is produced from the dust of the earth, and how soft metal originates in the earth. **[65:8]** For lead and tin are not produced from the earth like the first: it is a fountain that produces them, and an angel stands therein, and that angel is pre-eminent.' **[65:9]** And after that my grandfather Enoch took hold of me by my hand and raised me up, and said unto me: 'Go, for I have asked the Lord of Spirits as touching this commotion on the earth. **[65:10]** And He said unto me: "Because of their unrighteousness their judgement has been determined upon and shall not be withheld by Me for ever. Because of the sorceries which they have searched out and learnt, the earth and those who dwell upon it shall be destroyed." **[65:11]** And these--they have no place of repentance for ever, because they have shown them what was hidden, and they are the damned: but as for thee, my son, the Lord of Spirits knows that thou art pure, and guiltless of this reproach concerning the secrets. 
 
-**[65:12]** And He has destined thy name to be among the holy, And will preserve thee amongst those who dwell on the earth, And has destined thy righteous seed both for kingship and for great honours, And from thy seed shall proceed a fountain of the righteous and holy without number for ever.
+**[65:12]** And He has destined thy name to be among the holy, 
+And will preserve thee amongst those who dwell on the earth, 
+And has destined thy righteous seed both for kingship and for great honours, 
+And from thy seed shall proceed a fountain of the righteous and holy without number for ever.
 
 
 
-**[66:1]** And after that he showed me the angels of punishment who are prepared to come and let loose all the powers of the waters which are beneath in the earth in order to bring judgement and destruction on all who [abide and] dwell on the earth. **[66:2]** And the Lord of Spirits gave commandment to the angels who were going forth, that they should not cause the waters to rise but should hold them in check; for those angels were over the powers of the waters. **[66:3]** And I went away from the presence of Enoch.
+**[66:1]** And after that he showed me the angels of punishment who are prepared to come and let loose all the powers of the waters which are beneath in the earth in order to bring judgement and destruction on all who abide and dwell on the earth. **[66:2]** And the Lord of Spirits gave commandment to the angels who were going forth, that they should not cause the waters to rise but should hold them in check; for those angels were over the powers of the waters. **[66:3]** And I went away from the presence of Enoch.
 
 
 
-**[67:1]** And in those days the word of God came unto me, and He said unto me: 'Noah, thy lot has come up before Me, a lot without blame, a lot of love and uprightness. **[67:2]** And now the angels are making a wooden (building), and when they have completed that task I will place My hand upon it and preserve it, and there shall come forth from it the seed of life, and a change shall set in so that the earth will not remain without inhabitant. **[67:3]** And I will make fast thy seed before me for ever and ever, and I will spread abroad those who dwell with thee: it shall not be unfruitful on the face of the earth, but it shall be blessed and multiply on the earth in the name of the Lord.'
+**[67:1]** And in those days the word of God came unto me, and He said unto me: 'Noah, thy lot has come up before Me, a lot without blame, a lot of love and uprightness. **[67:2]** And now the angels are making a wooden building, and when they have completed that task I will place My hand upon it and preserve it, and there shall come forth from it the seed of life, and a change shall set in so that the earth will not remain without inhabitant. **[67:3]** And I will make fast thy seed before me for ever and ever, and I will spread abroad those who dwell with thee: it shall not be unfruitful on the face of the earth, but it shall be blessed and multiply on the earth in the name of the Lord.'
 
-**[67:4]** And He will imprison those angels, who have shown unrighteousness, in that burning valley which my grandfather Enoch had formerly shown to me in the west among the mountains of gold and silver and iron and soft metal and tin. **[67:5]** And I saw that valley in which there was a great convulsion and a convulsion of the waters. **[67:6]** And when all this took place, from that fiery molten metal and from the convulsion thereof in that place, there was produced a smell of sulphur, and it was connected with those waters, and that valley of the angels who had led astray (mankind) burned beneath that land. **[67:7]** And through its valleys proceed streams of fire, where these angels are punished who had led astray those who dwell upon the earth.
+**[67:4]** And He will imprison those angels, who have shown unrighteousness, in that burning valley which my grandfather Enoch had formerly shown to me in the west among the mountains of gold and silver and iron and soft metal and tin. **[67:5]** And I saw that valley in which there was a great convulsion and a convulsion of the waters. **[67:6]** And when all this took place, from that fiery molten metal and from the convulsion thereof in that place, there was produced a smell of sulphur, and it was connected with those waters, and that valley of the angels who had led astray mankind burned beneath that land. **[67:7]** And through its valleys proceed streams of fire, where these angels are punished who had led astray those who dwell upon the earth.
 
 **[67:8]** But those waters shall in those days serve for the kings and the mighty and the exalted, and those who dwell on the earth, for the healing of the body, but for the punishment of the spirit; now their spirit is full of lust, that they may be punished in their body, for they have denied the Lord of Spirits and see their punishment daily, and yet believe not in His name. **[67:9]** And in proportion as the burning of their bodies becomes severe, a corresponding change shall take place in their spirit for ever and ever; for before the Lord of Spirits none shall utter an idle word. **[67:10]** For the judgement shall come upon them, because they believe in the lust of their body and deny the Spirit of the Lord. **[67:11]** And those same waters will undergo a change in those days; for when those angels are punished in these waters, these water-springs shall change their temperature, and when the angels ascend, this water of the springs shall change and become cold. **[67:12]** And I heard Michael answering and saying: 'This judgement wherewith the angels are judged is a testimony for the kings and the mighty who possess the earth.' **[67:13]** Because these waters of judgement minister to the healing of the body of the kings and the lust of their body; therefore they will not see and will not believe that those waters will change and become a fire which burns for ever.
 
@@ -833,25 +921,54 @@ That our Lord is true in all His works, and in His judgements and His justice, A
 
 **[69:1]** And after this judgement they shall terrify and make them to tremble because they have shown this to those who dwell on the earth.
 
-**[69:2]** And behold the names of those angels [and these are their names: the first of them is Samjâzâ, the second Artâqîfâ, and the third Armên, the fourth Kôkabêl, the fifth †Tûrâêl†, the sixth Rûmjâl, the seventh Dânjâl, the eighth †Nêqâêl†, the ninth Barâqêl, the tenth Azâzêl, the eleventh Armârôs, the twelfth Batarjâl, the thirteenth †Busasêjal†, the fourteenth Hanânêl, the fifteenth †Tûrêl†, and the sixteenth Sîmâpêsîêl, the seventeenth Jetrêl, the eighteenth Tûmâêl, the nineteenth Tûrêl, the twentieth †Rumâêl†, the twenty-first †Azâzêl†. **[69:3]** And these are the chiefs of their angels and their names, and their chief ones over hundreds and over fifties and over tens].
+**[69:2]** And behold the names of those angels and these are their names: the first of them is Samjâzâ, the second Artâqîfâ, and the third Armên, the fourth Kôkabêl, the fifth Tûrâêl, the sixth Rûmjâl, the seventh Dânjâl, the eighth Nêqâêl, the ninth Barâqêl, the tenth Azâzêl, the eleventh Armârôs, the twelfth Batarjâl, the thirteenth Busasêjal, the fourteenth Hanânêl, the fifteenth Tûrêl, and the sixteenth Sîmâpêsîêl, the seventeenth Jetrêl, the eighteenth Tûmâêl, the nineteenth Tûrêl, the twentieth Rumâêl, the twenty-first Azâzêl. **[69:3]** And these are the chiefs of their angels and their names, and their chief ones over hundreds and over fifties and over tens.
 
-**[69:4]** The name of the first Jeqôn: that is, the one who led astray ⌈all⌉ the sons of God, and brought them down to the earth, and led them astray through the daughters of men. **[69:5]** And the second was named Asbeêl: he imparted to the holy sons of God evil counsel, and led them astray so that they defiled their bodies with the daughters of men. **[69:6]** And the third was named Gâdreêl: he it is who showed the children of men all the blows of death, and he led astray Eve, and showed ⌈the weapons of death to the sons of men⌉ the shield and the coat of mail, and the sword for battle, and all the weapons of death to the children of men. **[69:7]** And from his hand they have proceeded against those who dwell on the earth from that day and for evermore. **[69:8]** And the fourth was named Pênêmûe: he taught the children of men the bitter and the sweet, and he taught them all the secrets of their wisdom. **[69:9]** And he instructed mankind in writing with ink and paper, and thereby many sinned from eternity to eternity and until this day. **[69:10]** For men were not created for such a purpose, to give confirmation to their good faith with pen and ink. **[69:11]** For men were created exactly like the angels, to the intent that they should continue pure and righteous, and death, which destroys everything, could not have taken hold of them, but through this their knowledge they are perishing, and through this power it is consuming me†. **[69:12]** And the fifth was named Kâsdejâ: this is he who showed the children of men all the wicked smitings of spirits and demons, and the smitings of the embryo in the womb, that it may pass away, and [the smitings of the soul] the bites of the serpent, and the smitings which befall through the noontide heat, the son of the serpent named Tabââĕt. **[69:13]** And this is the task of Kâsbeêl, the chief of the oath which he showed to the holy ones when he dwelt high above in glory, and its name is Bîqâ. **[69:14]** This (angel) requested Michael to show him the hidden name, that he might enunciate it in the oath, so that those might quake before that name and oath who revealed all that was in secret to the children of men. **[69:15]** And this is the power of this oath, for it is powerful and strong, and he placed this oath Akâe in the hand of Michael. **[69:16]** And these are the secrets of this oath . . . 
+**[69:4]** The name of the first Jeqôn: that is, the one who led astray all the sons of God, and brought them down to the earth, and led them astray through the daughters of men. **[69:5]** And the second was named Asbeêl: he imparted to the holy sons of God evil counsel, and led them astray so that they defiled their bodies with the daughters of men. **[69:6]** And the third was named Gâdreêl: he it is who showed the children of men all the blows of death, and he led astray Eve, and showed the weapons of death to the sons of men the shield and the coat of mail, and the sword for battle, and all the weapons of death to the children of men. **[69:7]** And from his hand they have proceeded against those who dwell on the earth from that day and for evermore. **[69:8]** And the fourth was named Pênêmûe: he taught the children of men the bitter and the sweet, and he taught them all the secrets of their wisdom. **[69:9]** And he instructed mankind in writing with ink and paper, and thereby many sinned from eternity to eternity and until this day. **[69:10]** For men were not created for such a purpose, to give confirmation to their good faith with pen and ink. **[69:11]** For men were created exactly like the angels, to the intent that they should continue pure and righteous, and death, which destroys everything, could not have taken hold of them, but through this their knowledge they are perishing, and through this power it is consuming me. **[69:12]** And the fifth was named Kâsdejâ: this is he who showed the children of men all the wicked smitings of spirits and demons, and the smitings of the embryo in the womb, that it may pass away, and the smitings of the soul the bites of the serpent, and the smitings which befall through the noontide heat, the son of the serpent named Tabââĕt. **[69:13]** And this is the task of Kâsbeêl, the chief of the oath which he showed to the holy ones when he dwelt high above in glory, and its name is Bîqâ. **[69:14]** This (angel) requested Michael to show him the hidden name, that he might enunciate it in the oath, so that those might quake before that name and oath who revealed all that was in secret to the children of men. **[69:15]** And this is the power of this oath, for it is powerful and strong, and he placed this oath Akâe in the hand of Michael. **[69:16]** And these are the secrets of this oath . . . 
 
-And they are strong through his oath: And the heaven was suspended before the world was created, And for ever.
+And they are strong through his oath:
+And the heaven was suspended before the world was created, 
+And for ever.
 
-**[69:17]** And through it the earth was founded upon the water, And from the secret recesses of the mountains come beautiful waters, From the creation of the world and unto eternity.
+**[69:17]** And through it the earth was founded upon the water, 
+And from the secret recesses of the mountains come beautiful waters,
+From the creation of the world and unto eternity.
 
-**[69:18]** And through that oath the sea was created, And †as its foundation† He set for it the sand against the time of (its) anger, And it dare not pass beyond it from the creation of the world unto eternity.
+**[69:18]** And through that oath the sea was created, 
+And as its foundation He set for it the sand against the time of (its) anger, 
+And it dare not pass beyond it from the creation of the world unto eternity.
 
-**[69:19]** And through that oath are the depths made fast, And abide and stir not from their place from eternity to eternity. **[69:20]** And through that oath the sun and moon complete their course, And deviate not from their ordinance from eternity to eternity. **[69:21]** And through that oath the stars complete their course, And He calls them by their names, And they answer Him from eternity to eternity. 
+**[69:19]** And through that oath are the depths made fast, 
+And abide and stir not from their place from eternity to eternity. 
+**[69:20]** And through that oath the sun and moon complete their course, 
+And deviate not from their ordinance from eternity to eternity. 
+**[69:21]** And through that oath the stars complete their course, 
+And He calls them by their names, 
+And they answer Him from eternity to eternity. 
 
-⌈**[69:22]** And in like manner the spirits of the water, and of the winds, and of all zephyrs, and (their) paths from all the quarters of the winds. **[69:23]** And there are preserved the voices of the thunder and the light of the lightnings: and there are preserved the chambers of the hail and the chambers of the hoarfrost, and the chambers of the mist, and the chambers of the rain and the dew. **[69:24]** And all these believe and give thanks before the Lord of Spirits, and glorify (Him) with all their power, and their food is in every act of thanksgiving: they thank and glorify and extol the name of the Lord of Spirits for ever and ever.⌉ 
+**[69:22]** And in like manner the spirits of the water, and of the winds, and of all zephyrs, and (their) paths from all the quarters of the winds. **[69:23]** And there are preserved the voices of the thunder and the light of the lightnings: and there are preserved the chambers of the hail and the chambers of the hoarfrost, and the chambers of the mist, and the chambers of the rain and the dew. **[69:24]** And all these believe and give thanks before the Lord of Spirits, and glorify (Him) with all their power, and their food is in every act of thanksgiving: they thank and glorify and extol the name of the Lord of Spirits for ever and ever.
 
-**[69:25]** And this oath is mighty over them And through it ⌈they are preserved and⌉ their paths are preserved, And their course is not destroyed. 
+**[69:25]** And this oath is mighty over them 
+And through it they are preserved and their paths are preserved, 
+And their course is not destroyed. 
 
 Close of the Third Parable. 
 
-**[69:26]** And there was great joy amongst them, And they blessed and glorified and extolled Because the name of that Son of Man had been revealed unto them. **[69:27]** And he sat on the throne of his glory, And the sum of judgement was given unto the Son of Man, And he caused the sinners to pass away and be destroyed from off the face of the earth, And those who have led the world astray. **[69:28]** With chains shall they be bound, And in their assemblage-place of destruction shall they be imprisoned, And all their works vanish from the face of the earth. **[69:29]** And from henceforth there shall be nothing corruptible; For that Son of Man has appeared, And has seated himself on the throne of his glory, And all evil shall pass away before his face, And the word of that Son of Man shall go forth And be strong before the Lord of Spirits.
+**[69:26]** And there was great joy amongst them, 
+And they blessed and glorified and extolled 
+Because the name of that Son of Man had been revealed unto them. 
+**[69:27]** And he sat on the throne of his glory, 
+And the sum of judgement was given unto the Son of Man, 
+And he caused the sinners to pass away and be destroyed from off the face of the earth, 
+And those who have led the world astray. 
+**[69:28]** With chains shall they be bound, 
+And in their assemblage-place of destruction shall they be imprisoned, 
+And all their works vanish from the face of the earth. 
+**[69:29]** And from henceforth there shall be nothing corruptible; 
+For that Son of Man has appeared, 
+And has seated himself on the throne of his glory, 
+And all evil shall pass away before his face, 
+And the word of that Son of Man shall go forth 
+And be strong before the Lord of Spirits.
 
   
 
