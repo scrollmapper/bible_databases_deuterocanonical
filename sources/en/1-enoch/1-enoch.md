@@ -980,33 +980,61 @@ This is the Third Parable of Enoch.
 
 
 
-**[71:1]** And it came to pass after this that my spirit was translated And it ascended into the heavens: And I saw the holy sons of God.
+**[71:1]** And it came to pass after this that my spirit was translated 
+And it ascended into the heavens:
+And I saw the holy sons of God.
 
-They were stepping on flames of fire: Their garments were white [and their raiment], And their faces shone like snow.
+They were stepping on flames of fire: 
+Their garments were white and their raiment, 
+And their faces shone like snow.
 
-**[71:2]** And I saw two streams of fire, And the light of that fire shone like hyacinth, And I fell on my face before the Lord of Spirits.
+**[71:2]** And I saw two streams of fire, 
+And the light of that fire shone like hyacinth, 
+And I fell on my face before the Lord of Spirits.
 
-**[71:3]** And the angel Michael [one of the archangels] seized me by my right hand, And lifted me up and led me forth into all the secrets, And he showed me all the secrets of righteousness.
+**[71:3]** And the angel Michael one of the archangels seized me by my right hand, 
+And lifted me up and led me forth into all the secrets, 
+And he showed me all the secrets of righteousness.
 
-**[71:4]** And he showed me all the secrets of the ends of the heaven, And all the chambers of all the stars, and all the luminaries, Whence they proceed before the face of the holy ones.
+**[71:4]** And he showed me all the secrets of the ends of the heaven, 
+And all the chambers of all the stars, and all the luminaries, 
+Whence they proceed before the face of the holy ones.
 
-**[71:5]** And he translated my spirit into the heaven of heavens, And I saw there as it were a structure built of crystals, And between those crystals tongues of living fire.
+**[71:5]** And he translated my spirit into the heaven of heavens,
+And I saw there as it were a structure built of crystals, 
+And between those crystals tongues of living fire.
 
-**[71:6]** And my spirit saw the girdle which girt that house of fire, And on its four sides were streams full of living fire, And they girt that house.
+**[71:6]** And my spirit saw the girdle which girt that house of fire, 
+And on its four sides were streams full of living fire, 
+And they girt that house.
 
-**[71:7]** And round about were Seraphin, Cherubic, and Ophannin: And these are they who sleep not And guard the throne of His glory.
+**[71:7]** And round about were Seraphin, Cherubic, and Ophannin: 
+And these are they who sleep not 
+And guard the throne of His glory.
 
-**[71:8]** And I saw angels who could not be counted, A thousand thousands, and ten thousand times ten thousand, Encircling that house.
+**[71:8]** And I saw angels who could not be counted,
+A thousand thousands, and ten thousand times ten thousand, 
+Encircling that house.
 
-And Michael, and Raphael, and Gabriel, and Phanuel, And the holy angels who are above the heavens, Go in and out of that house.
+And Michael, and Raphael, and Gabriel, and Phanuel, 
+And the holy angels who are above the heavens, 
+Go in and out of that house.
 
-**[71:9]** And they came forth from that house, And Michael and Gabriel, Raphael and Phanuel, And many holy angels without number.
+**[71:9]** And they came forth from that house, 
+And Michael and Gabriel, Raphael and Phanuel, 
+And many holy angels without number.
 
-**[71:10]** And with them the Head of Days, His head white and pure as wool, And His raiment indescribable.
+**[71:10]** And with them the Head of Days, 
+His head white and pure as wool, 
+And His raiment indescribable.
 
-**[71:11]** And I fell on my face, And my whole body became relaxed, And my spirit was transfigured;
+**[71:11]** And I fell on my face, 
+And my whole body became relaxed, 
+And my spirit was transfigured;
 
-And I cried with a loud voice, . . .with the spirit of power, And blessed and glorified and extolled. 
+And I cried with a loud voice, 
+. . .with the spirit of power, 
+And blessed and glorified and extolled. 
 
 **[71:12]** And these blessings which went forth out of my mouth were well pleasing before that Head of Days. **[71:13]** And that Head of Days came with Michael and Gabriel, Raphael and Phanuel, thousands and ten thousands of angels without number.
 
@@ -1014,15 +1042,24 @@ And I cried with a loud voice, . . .with the spirit of power, And blessed and gl
 
 **[71:14]** And he (i.e. the angel) came to me and greeted me with His voice, and said unto me: 
 
-'This is the Son of Man who is born unto righteousness; And righteousness abides over him, And the righteousness of the Head of Days forsakes him not.' **[71:15]** And he said unto me: 'He proclaims unto thee peace in the name of the world to come; For from hence has proceeded peace since the creation of the world, And so shall it be unto thee for ever and for ever and ever.
+'This is the Son of Man who is born unto righteousness; 
+And righteousness abides over him, 
+And the righteousness of the Head of Days forsakes him not.'
+**[71:15]** And he said unto me: 'He proclaims unto thee peace in the name of the world to come; 
+For from hence has proceeded peace since the creation of the world, 
+And so shall it be unto thee for ever and for ever and ever.
 
-**[71:16]** And all shall walk in his ways since righteousness never forsaketh him: With him will be their dwelling-places, and with him their heritage, And they shall not be separated from him for ever and ever and ever.
+**[71:16]** And all shall walk in his ways since righteousness never forsaketh him:
+With him will be their dwelling-places, and with him their heritage, 
+And they shall not be separated from him for ever and ever and ever.
 
-**[71:17]** And so there shall be length of days with that Son of Man, And the righteous shall have peace and an upright way In the name of the Lord of Spirits for ever and ever.'
+**[71:17]** And so there shall be length of days with that Son of Man, 
+And the righteous shall have peace and an upright way 
+In the name of the Lord of Spirits for ever and ever.'
 
 
 
-**[72:1]** The book of the courses of the luminaries of the heaven, the relations of each, according to their classes, their dominion and their seasons, according to their names and places of origin, and according to their months, which Uriel, the holy angel, who was with me, who is their guide, showed me; and he showed me all their laws exactly as they are, and how it is with regard to all the years of the world and unto eternity, till the new creation is accomplished which dureth till eternity. **[72:2]** And this is the first law of the luminaries: the luminary the Sun has its rising in the eastern portals of the heaven, and its setting in the western portals of the heaven. **[72:3]** And I saw six portals in which the sun rises, and six portals in which the sun sets and the moon rises and sets in these portals, and the leaders of the stars and those whom they lead: six in the east and six in the west, and all following each other in accurately corresponding order: also many windows to the right and left of these portals. **[72:4]** And first there goes forth the great luminary, named the Sun, and his circumference is like the circumference of the heaven, and he is quite filled with illuminating and heating fire. **[72:5]** The chariot on which he ascends, the wind drives, and the sun goes down from the heaven and returns through the north in order to reach the east, and is so guided that he comes to the appropriate (lit. 'that') portal and shines in the face of the heaven. **[72:6]** In this way he rises in the first month in the great portal, which is the fourth ⌈those six portals in the cast⌉. **[72:7]** And in that fourth portal from which the sun rises in the first month are twelve window-openings, from which proceed a flame when they are opened in their season. **[72:8]** When the sun rises in the heaven, he comes forth through that fourth portal thirty mornings in succession, and sets accurately in the fourth portal in the west of the heaven. **[72:9]** And during this period the day becomes daily longer and the night nightly shorter to the thirtieth morning. **[72:10]** On that day the day is longer than the night by a ninth part, and the day amounts exactly to ten parts and the night to eight parts. **[72:11]** And the sun rises from that fourth portal, and sets in the fourth and returns to the fifth portal of the east thirty mornings, and rises from it and sets in the fifth portal. **[72:12]** And then the day becomes longer by †two† parts and amounts to eleven parts, and the night becomes shorter and amounts to seven parts. **[72:13]** And it returns to the east and enters into the sixth portal, and rises and sets in the sixth portal one-and-thirty mornings on account of its sign. **[72:14]** On that day the day becomes longer than the night, and the day becomes double the night, and the day becomes twelve parts, and the night is shortened and becomes six parts. **[72:15]** And the sun mounts up to make the day shorter and the night longer, and the sun returns to the east and enters into the sixth portal, and rises from it and sets thirty mornings. **[72:16]** And when thirty mornings are accomplished, the day decreases by exactly one part, and becomes eleven parts, and the night seven. **[72:17]** And the sun goes forth from that sixth portal in the west, and goes to the east and rises in the fifth portal for thirty mornings, and sets in the west again in the fifth western portal. **[72:18]** On that day the day decreases by †two† parts, and amounts to ten parts and the night to eight parts. **[72:19]** And the sun goes forth from that fifth portal and sets in the fifth portal of the west, and rises in the fourth portal for one-and-thirty mornings on account of its sign, and sets in the west. **[72:20]** On that day the day is equalized with the night, [and becomes of equal length], and the night amounts to nine parts and the day to nine parts. **[72:21]** And the sun rises from that portal and sets in the west, and returns to the east and rises thirty mornings in the third portal and sets in the west in the third portal. **[72:22]** And on that day the night becomes longer than the day, and night becomes longer than night, and day shorter than day till the thirtieth morning, and the night amounts exactly to ten parts and the day to eight parts. **[72:23]** And the sun rises from that third portal and sets in the third portal in the west and returns to the east, and for thirty mornings rises in the second portal in the east, and in like manner sets in the second portal in the west of the heaven. **[72:24]** And on that day the night amounts to eleven parts and the day to seven parts. **[72:25]** And the sun rises on that day from that second portal and sets in the west in the second portal, and returns to the east into the first portal for one-and-thirty mornings, and sets in the first portal in the west of the heaven. **[72:26]** And on that day the night becomes longer and amounts to the double of the day: and the night amounts exactly to twelve parts and the day to six. **[72:27]** And the sun has (therewith) traversed the divisions of his orbit and turns again on those divisions of his orbit, and enters that portal thirty mornings and sets also in the west opposite to it. **[72:28]** And on that night has the night decreased in length by a †ninth† part, and the night has become eleven parts and the day seven parts. **[72:29]** And the sun has returned and entered into the second portal in the east, and returns on those his divisions of his orbit for thirty mornings, rising and setting. **[72:30]** And on that day the night decreases in length, and the night amounts to ten parts and the day to eight. **[72:31]** And on that day the sun rises from that portal, and sets in the west, and returns to the east, and rises in the third portal for one-and-thirty mornings, and sets in the west of the heaven. **[72:32]** On that day the night decreases and amounts to nine parts, and the day to nine parts, and the night is equal to the day and the year is exactly as to its days three hundred and sixty-four. **[72:33]** And the length of the day and of the night, and the shortness of the day and of the night arise--through the course of the sun these distinctions are made (lit. 'they are separated'). **[72:34]** So it comes that its course becomes daily longer, and its course nightly shorter. **[72:35]** And this is the law and the course of the sun, and his return as often as he returns sixty times and rises, i.e. the great luminary which is named the sun, for ever and ever. **[72:36]** And that which (thus) rises is the great luminary, and is so named according to its appearance, according as the Lord commanded. **[72:37]** As he rises, so he sets and decreases not, and rests not, but runs day and night, and his light is sevenfold brighter than that of the moon; but as regards size they are both equal.
+**[72:1]** The book of the courses of the luminaries of the heaven, the relations of each, according to their classes, their dominion and their seasons, according to their names and places of origin, and according to their months, which Uriel, the holy angel, who was with me, who is their guide, showed me; and he showed me all their laws exactly as they are, and how it is with regard to all the years of the world and unto eternity, till the new creation is accomplished which dureth till eternity. **[72:2]** And this is the first law of the luminaries: the luminary the Sun has its rising in the eastern portals of the heaven, and its setting in the western portals of the heaven. **[72:3]** And I saw six portals in which the sun rises, and six portals in which the sun sets: and the moon rises and sets in these portals, and the leaders of the stars and those whom they lead: six in the east and six in the west, and all following each other in accurately corresponding order: also many windows to the right and left of these portals. **[72:4]** And first there goes forth the great luminary, named the Sun, and his circumference is like the circumference of the heaven, and he is quite filled with illuminating and heating fire. **[72:5]** The chariot on which he ascends, the wind drives, and the sun goes down from the heaven and returns through the north in order to reach the east, and is so guided that he comes to the appropriate (lit. 'that') portal and shines in the face of the heaven. **[72:6]** In this way he rises in the first month in the great portal, which is the fourth those six portals in the east. **[72:7]** And in that fourth portal from which the sun rises in the first month are twelve window-openings, from which proceed a flame when they are opened in their season. **[72:8]** When the sun rises in the heaven, he comes forth through that fourth portal thirty mornings in succession, and sets accurately in the fourth portal in the west of the heaven. **[72:9]** And during this period the day becomes daily longer and the night nightly shorter to the thirtieth morning. **[72:10]** On that day the day is longer than the night by a ninth part, and the day amounts exactly to ten parts and the night to eight parts. **[72:11]** And the sun rises from that fourth portal, and sets in the fourth and returns to the fifth portal of the east thirty mornings, and rises from it and sets in the fifth portal. **[72:12]** And then the day becomes longer by two parts and amounts to eleven parts, and the night becomes shorter and amounts to seven parts. **[72:13]** And it returns to the east and enters into the sixth portal, and rises and sets in the sixth portal one and thirty mornings on account of its sign. **[72:14]** On that day the day becomes longer than the night, and the day becomes double the night, and the day becomes twelve parts, and the night is shortened and becomes six parts. **[72:15]** And the sun mounts up to make the day shorter and the night longer, and the sun returns to the east and enters into the sixth portal, and rises from it and sets thirty mornings. **[72:16]** And when thirty mornings are accomplished, the day decreases by exactly one part, and becomes eleven parts, and the night seven. **[72:17]** And the sun goes forth from that sixth portal in the west, and goes to the east and rises in the fifth portal for thirty mornings, and sets in the west again in the fifth western portal. **[72:18]** On that day the day decreases by two parts, and amounts to ten parts and the night to eight parts. **[72:19]** And the sun goes forth from that fifth portal and sets in the fifth portal of the west, and rises in the fourth portal for one and thirty mornings on account of its sign, and sets in the west. **[72:20]** On that day the day is equalized with the night, and becomes of equal length, and the night amounts to nine parts and the day to nine parts. **[72:21]** And the sun rises from that portal and sets in the west, and returns to the east and rises thirty mornings in the third portal and sets in the west in the third portal. **[72:22]** And on that day the night becomes longer than the day, and night becomes longer than night, and day shorter than day till the thirtieth morning, and the night amounts exactly to ten parts and the day to eight parts. **[72:23]** And the sun rises from that third portal and sets in the third portal in the west and returns to the east, and for thirty mornings rises in the second portal in the east, and in like manner sets in the second portal in the west of the heaven. **[72:24]** And on that day the night amounts to eleven parts and the day to seven parts. **[72:25]** And the sun rises on that day from that second portal and sets in the west in the second portal, and returns to the east into the first portal for one and thirty mornings, and sets in the first portal in the west of the heaven. **[72:26]** And on that day the night becomes longer and amounts to the double of the day: and the night amounts exactly to twelve parts and the day to six. **[72:27]** And the sun has (therewith) traversed the divisions of his orbit and turns again on those divisions of his orbit, and enters that portal thirty mornings and sets also in the west opposite to it. **[72:28]** And on that night has the night decreased in length by a ninth part, and the night has become eleven parts and the day seven parts. **[72:29]** And the sun has returned and entered into the second portal in the east, and returns on those his divisions of his orbit for thirty mornings, rising and setting. **[72:30]** And on that day the night decreases in length, and the night amounts to ten parts and the day to eight. **[72:31]** And on that day the sun rises from that portal, and sets in the west, and returns to the east, and rises in the third portal for one and thirty mornings, and sets in the west of the heaven. **[72:32]** On that day the night decreases and amounts to nine parts, and the day to nine parts, and the night is equal to the day and the year is exactly as to its days three hundred and sixty-four. **[72:33]** And the length of the day and of the night, and the shortness of the day and of the night arise--through the course of the sun these distinctions are made (lit. 'they are separated'). **[72:34]** So it comes that its course becomes daily longer, and its course nightly shorter. **[72:35]** And this is the law and the course of the sun, and his return as often as he returns sixty times and rises, i.e. the great luminary which is named the Sun, for ever and ever. **[72:36]** And that which (thus) rises is the great luminary, and is so named according to its appearance, according as the Lord commanded. **[72:37]** As he rises, so he sets and decreases not, and rests not, but runs day and night, and his light is sevenfold brighter than that of the moon; but as regards size they are both equal.
 
 
 
