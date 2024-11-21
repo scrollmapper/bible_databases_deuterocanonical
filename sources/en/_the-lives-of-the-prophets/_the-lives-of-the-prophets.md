@@ -1,6 +1,6 @@
-#The Lives of the Prophets
+# The Lives of the Prophets
 
-### The Names of the Prophets, and whence they were, where they died, and how and where they were buried
+**[0:0]** The Names of the Prophets, and whence they were, where they died, and how and where they were buried
 
 **[1:0]** Isaiah
 
