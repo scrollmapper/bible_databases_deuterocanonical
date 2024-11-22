@@ -1,16 +1,24 @@
-# 2 Esdras
+# The King James Bible — 2 Esdras
 
 
 
-**[1:1]** The second book of the prophet Esdras, the son of Saraias, the son of Azarias, the son of Helchias, the son of Sadamias, the sou of Sadoc, the son of Achitob,
 
-**[1:2]** The son of Achias, the son of Phinees, the son of Heli, the son of Amarias, the son of Aziei, the son of Marimoth, the son of And he spake unto the of Borith, the son of Abisei, the son of Phinees, the son of Eleazar,
 
-**[1:3]** The son of Aaron, of the tribe of Levi; which was captive in the land of the Medes, in the reign of Artexerxes king of the Persians.
+(Exported from Wikisource on November 22, 2024)
+
+
+
+
+
+**[1:1]** The second book of the prophet Esdras, the son of Saraias, the son of Azarias, the son of Helchias, the son of Sadamias, the son of Sadoc, the son of Achitob,
+
+**[1:2]** The son of Achias, the son of Phinees, the son of Heli, the son of Amarias, the son of Aziei, the son of Marimoth, the son of Arna, the son of Ozias, the son of Borith, the son of Abisei, the son of Phinees, the son of Eleazar,
+
+**[1:3]** The son of Aaron, of the tribe of Levi; which was captive in the land of the Medes, in the reign of Artaxerxes king of the Persians.
 
 **[1:4]** And the word of the Lord came unto me, saying,
 
-**[1:5]** Go thy way, and shew my people their sinful deeds, and their children their wickedness which they have done against me; that they may tell their children’s children:
+**[1:5]** Go thy way, and shew my people their sinful deeds, and their children their wickedness which they have done against me; that they may tell their children's children:
 
 **[1:6]** Because the sins of their fathers are increased in them: for they have forgotten me, and have offered unto strange gods.
 
@@ -18,7 +26,7 @@
 
 **[1:8]** Pull thou off then the hair of thy head, and cast all evil upon them, for they have not been obedient unto my law, but it is a rebellious people.
 
-**[1:9]** How long shall I forbear them, into whom I have done so much good?
+**[1:9]** How long shall I forbear them, unto whom I have done so much good?
 
 **[1:10]** Many kings have I destroyed for their sakes; Pharaoh with his servants and all his power have I smitten down.
 
@@ -26,7 +34,7 @@
 
 **[1:12]** Speak thou therefore unto them, saying, Thus saith the Lord,
 
-**[1:13]** I led you through the sea and in the beginning gave you a large and safe passage; I gave you Moses for a leader, and Aaron for a priest.
+**[1:13]** I led you through the sea, and in the beginning gave you a large and safe passage; I gave you Moses for a leader, and Aaron for a priest.
 
 **[1:14]** I gave you light in a pillar of fire, and great wonders have I done among you; yet have ye forgotten me, saith the Lord.
 
@@ -38,7 +46,7 @@
 
 **[1:18]** Saying, Why hast thou brought us into this wilderness to kill us? it had been better for us to have served the Egyptians, than to die in this wilderness.
 
-**[1:19]** Then had I pity upon your mournings, and gave you manna to eat; so ye did eat angels’ bread.
+**[1:19]** Then had I pity upon your mournings, and gave you manna to eat; so ye did eat angels' bread.
 
 **[1:20]** When ye were thirsty, did I not cleave the rock, and waters flowed out to your fill? for the heat I covered you with the leaves of the trees.
 
@@ -62,13 +70,13 @@
 
 **[1:30]** I gathered you together, as a hen gathereth her chickens under her wings: but now, what shall I do unto you? I will cast you out from my face.
 
-**[1:31]** When ye offer unto me, I will turn my face from you: for your solemn feastdays, your new moons, and your circumcisions, have I forsaken.
+**[1:31]** When ye offer unto me, I will turn my face from you: for your solemn feast-days, your new moons, and your circumcisions, have I forsaken.
 
 **[1:32]** I sent unto you my servants the prophets, whom ye have taken and slain, and torn their bodies in pieces, whose blood I will require of your hands, saith the Lord.
 
 **[1:33]** Thus saith the Almighty Lord, Your house is desolate, I will cast you out as the wind doth stubble.
 
-**[1:34]** And your children shall not be fruitful; for they have despised my commandment, and done the thing that is an evil before me.
+**[1:34]** And your children shall not be fruitful; for they have despised my commandment, and done the thing that is evil before me.
 
 **[1:35]** Your houses will I give to a people that shall come; which not having heard of me yet shall believe me; to whom I have shewed no signs, yet they shall do that I have commanded them.
 
@@ -76,13 +84,15 @@
 
 **[1:37]** I take to witness the grace of the people to come, whose little ones rejoice in gladness: and though they have not seen me with bodily eyes, yet in spirit they believe the thing that I say.
 
-**[1:38]** And now, brother, behold what glory; and see the people that come from the east:
+**[1:38]** And now, brother, behold what glory; and see the people that cometh from the east:
 
 **[1:39]** Unto whom I will give for leaders, Abraham, Isaac, and Jacob, Oseas, Amos, and Micheas, Joel, Abdias, and Jonas,
 
 **[1:40]** Nahum, and Abacuc, Sophonias, Aggeus, Zachary, and Malachy, which is called also an angel of the Lord.
 
-**[2:1]** Thus saith the Lord, I brought this people out of bondage, and I gave them my commandments by menservants the prophets; whom they would not hear, but despised my counsels.
+
+
+**[2:1]** Thus saith the Lord, I brought this people out of bondage, and I gave them my commandments by my servants the prophets; whom they would not hear, but despised my counsels.
 
 **[2:2]** The mother that bare them saith unto them, Go your way, ye children; for I am a widow and forsaken.
 
@@ -116,7 +126,7 @@
 
 **[2:17]** Fear not, thou mother of the children: for I have chosen thee, saith the Lord.
 
-**[2:18]** For thy help will I send my servants Esau and Jeremy, after whose counsel I have sanctified and prepared for thee twelve trees laden with divers fruits,
+**[2:18]** For thy help will I send my servants Esay and Jeremy, after whose counsel I have sanctified and prepared for thee twelve trees laden with divers fruits,
 
 **[2:19]** And as many fountains flowing with milk and honey, and seven mighty mountains, whereupon there grow roses and lilies, whereby I will fill thy children with joy.
 
@@ -128,7 +138,7 @@
 
 **[2:23]** Wheresoever thou findest the dead, take them and bury them, and I will give thee the first place in my resurrection.
 
-**[2:24]** Abide still, O my people, and take thy rest, for thy quietness still come.
+**[2:24]** Abide still, O my people, and take thy rest, for thy quietness shall come.
 
 **[2:25]** Nourish thy children, O thou good nurse; stablish their feet.
 
@@ -154,7 +164,7 @@
 
 **[2:36]** Flee the shadow of this world, receive the joyfulness of your glory: I testify my Saviour openly.
 
-**[2:37]** O receive the gift that is given you, and be glad, giving thanks unto him that hath led you to the heavenly kingdom.
+**[2:37]** O receive the gift that is given you, and be glad, giving thanks unto him that hath called you to the heavenly kingdom.
 
 **[2:38]** Arise up and stand, behold the number of those that be sealed in the feast of the Lord;
 
@@ -178,6 +188,8 @@
 
 **[2:48]** Then the angel said unto me, Go thy way, and tell my people what manner of things, and how great wonders of the Lord thy God, thou hast seen.
 
+
+
 **[3:1]** In the thirtieth year after the ruin of the city I was in Babylon, and lay troubled upon my bed, and my thoughts came up over my heart:
 
 **[3:2]** For I saw the desolation of Sion, and the wealth of them that dwelt at Babylon.
@@ -188,7 +200,7 @@
 
 **[3:5]** And gavest a body unto Adam without soul, which was the workmanship of thine hands, and didst breathe into him the breath of life, and he was made living before thee.
 
-**[3:6]** And thou leadest him into paradise, which thy right hand had planted, before ever the earth came forward.
+**[3:6]** And thou leddest him into paradise, which thy right hand had planted, before ever the earth came forward.
 
 **[3:7]** And unto him thou gavest commandment to love thy way: which he transgressed, and immediately thou appointedst death in him and in his generations, of whom came nations, tribes, people, and kindreds, out of number.
 
@@ -210,7 +222,7 @@
 
 **[3:16]** And unto him thou gavest Isaac, and unto Isaac also thou gavest Jacob and Esau. As for Jacob, thou didst choose him to thee, and put by Esau: and so Jacob became a great multitude.
 
-**[3:17]** And it came to pass, that when thou leadest his seed out of Egypt, thou broughtest them up to the mount Sinai.
+**[3:17]** And it came to pass, that when thou leddest his seed out of Egypt, thou broughtest them up to the mount Sinai.
 
 **[3:18]** And bowing the heavens, thou didst set fast the earth, movedst the whole world, and madest the depths to tremble, and troubledst the men of that age.
 
@@ -244,15 +256,17 @@
 
 **[3:33]** And yet their reward appeareth not, and their labour hath no fruit: for I have gone here and there through the heathen, and I see that they flow in wealth, and think not upon thy commandments.
 
-**[3:34]** Weigh thou therefore our wickedness now in the balance, and their’s also that dwell the world; and so shall thy name no where be found but in Israel.
+**[3:34]** Weigh thou therefore our wickedness now in the balance, and theirs also that dwell in the world; and so shall thy name no where be found but in Israel.
 
 **[3:35]** Or when was it that they which dwell upon the earth have not sinned in thy sight? or what people have so kept thy commandments?
 
 **[3:36]** Thou shalt find that Israel by name hath kept thy precepts; but not the heathen.
 
+
+
 **[4:1]** And the angel that was sent unto me, whose name was Uriel, gave me an answer,
 
-**[4:2]** And said, Thy heart hath gone to far in this world, and thinkest thou to comprehend the way of the most High?
+**[4:2]** And said, Thy heart hath gone too far in this world, and thinkest thou to comprehend the way of the most High?
 
 **[4:3]** Then said I, Yea, my lord. And he answered me, and said, I am sent to shew thee three ways, and to set forth three similitudes before thee:
 
@@ -270,13 +284,13 @@
 
 **[4:10]** He said moreover unto me, Thine own things, and such as are grown up with thee, canst thou not know;
 
-**[4:11]** How should thy vessel then be able to comprehend the way of the Highest, and, the world being now outwardly corrupted to understand the corruption that is evident in my sight?
+**[4:11]** How should thy vessel then be able to comprehend the way of the Highest, and, the world being now outwardly corrupted, to understand the corruption that is evident in my sight?
 
 **[4:12]** Then said I unto him, It were better that we were not at all, than that we should live still in wickedness, and to suffer, and not to know wherefore.
 
 **[4:13]** He answered me, and said, I went into a forest into a plain, and the trees took counsel,
 
-**[4:14]** And said, Come, let us go and make war against the sea that it may depart away before us, and that we may make us more woods.
+**[4:14]** And said, Come, let us go and make war against the sea, that it may depart away before us, and that we may make us more woods.
 
 **[4:15]** The floods of the sea also in like manner took counsel, and said, Come, let us go up and subdue the woods of the plain, that there also we may make us another country.
 
@@ -322,7 +336,7 @@
 
 **[4:36]** And unto these things Uriel the archangel gave them answer, and said, Even when the number of seeds is filled in you: for he hath weighed the world in the balance.
 
-**[4:37]** By measure hath he measured the times; and by number hath he numbered the times; and he doth not move nor stir them, until the said measure be fulfilled.
+**[4:37]** By measure hath he measured the times, and by number hath he numbered the times; and he doth not move nor stir them, until the said measure be fulfilled.
 
 **[4:38]** Then answered I and said, O Lord that bearest rule, even we all are full of impiety.
 
@@ -344,7 +358,7 @@
 
 **[4:47]** And he said unto me, Stand up upon the right side, and I shall expound the similitude unto thee.
 
-**[4:48]** So I stood, and saw, and, behold, an hot burning oven passed by before me: and it happened that when the flame was gone by I looked, and, behold, the smoke remained still.
+**[4:48]** So I stood, and saw, and, behold, an hot burning oven passed by before me: and it happened, that when the flame was gone by I looked, and, behold, the smoke remained still.
 
 **[4:49]** After this there passed by before me a watery cloud, and sent down much rain with a storm; and when the stormy rain was past, the drops remained still.
 
@@ -354,7 +368,9 @@
 
 **[4:52]** He answered me, and said, As for the tokens whereof thou askest me, I may tell thee of them in part: but as touching thy life, I am not sent to shew thee; for I do not know it.
 
-**[5:1]** Nevertheless as coming the tokens, behold, the days shall come, that they which dwell upon earth shall be taken in a great number, and the way of truth shall be hidden, and the land shall be barren of faith.
+
+
+**[5:1]** Nevertheless as concerning the tokens, behold, the days shall come, that they which dwell upon earth shall be taken in a great number, and the way of truth shall be hidden, and the land shall be barren of faith.
 
 **[5:2]** But iniquity shall be increased above that which now thou seest, or that thou hast heard long ago.
 
@@ -378,7 +394,7 @@
 
 **[5:12]** At the same time shall men hope, but nothing obtain: they shall labour, but their ways shall not prosper.
 
-**[5:13]** To shew thee such tokens I have leave; and if thou wilt pray again, and weep as now, and fast even days, thou shalt hear yet greater things.
+**[5:13]** To shew thee such tokens I have leave; and if thou wilt pray again, and weep as now, and fast seven days, thou shalt hear yet greater things.
 
 **[5:14]** Then I awaked, and an extreme fearfulness went through all my body, and my mind was troubled, so that it fainted.
 
@@ -418,13 +434,13 @@
 
 **[5:32]** And said unto me, Hear me, and I will instruct thee; hearken to the thing that I say, and I shall tell thee more.
 
-**[5:33]** And I said, Speak on, my Lord. Then said he unto me, Thou art sore troubled in mind for Israel’s sake: lovest thou that people better than he that made them?
+**[5:33]** And I said, Speak on, my Lord. Then said he unto me, Thou art sore troubled in mind for Israel's sake: lovest thou that people better than he that made them?
 
 **[5:34]** And I said, No, Lord: but of very grief have I spoken: for my reins pain me every hour, while I labour to comprehend the way of the most High, and to seek out part of his judgment.
 
-**[5:35]** And he said unto me, Thou canst not. And I said, Wherefore, Lord? whereunto was I born then? or why was not my mother’s womb then my grave, that I might not have seen the travail of Jacob, and the wearisome toil of the stock of Israel?
+**[5:35]** And he said unto me, Thou canst not. And I said, Wherefore, Lord? whereunto was I born then? or why was not my mother's womb then my grave, that I might not have seen the travail of Jacob, and the wearisome toil of the stock of Israel?
 
-**[5:36]** And he said unto me, Number me the things that are not yet come, gather me together the dross that are scattered abroad, make me the flowers green again that are withered,
+**[5:36]** And he said unto me, Number me the things that are not yet come, gather me together the drops that are scattered abroad, make me the flowers green again that are withered,
 
 **[5:37]** Open me the places that are closed, and bring me forth the winds that in them are shut up, shew me the image of a voice: and then I will declare to thee the thing that thou labourest to know.
 
@@ -456,15 +472,17 @@
 
 **[5:51]** He answered me, and said, Ask a woman that beareth children, and she shall tell thee.
 
-**[5:52]** Say unto her, Wherefore are unto they whom thou hast now brought forth like those that were before, but less of stature?
+**[5:52]** Say unto her, Wherefore are not they whom thou hast now brought forth like those that were before, but less of stature?
 
-**[5:53]** And she shall answer thee, They that be born in the the strength of youth are of one fashion, and they that are born in the time of age, when the womb faileth, are otherwise.
+**[5:53]** And she shall answer thee, They that be born in the strength of youth are of one fashion, and they that are born in the time of age, when the womb faileth, are otherwise.
 
 **[5:54]** Consider thou therefore also, how that ye are less of stature than those that were before you.
 
 **[5:55]** And so are they that come after you less than ye, as the creatures which now begin to be old, and have passed over the strength of youth.
 
 **[5:56]** Then said I, Lord, I beseech thee, if I have found favour in thy sight, shew thy servant by whom thou visitest thy creature.
+
+
 
 **[6:1]** And he said unto me, In the beginning, when the earth was made, before the borders of the world stood, or ever the winds blew,
 
@@ -480,7 +498,7 @@
 
 **[6:7]** Then answered I and said, What shall be the parting asunder of the times? or when shall be the end of the first, and the beginning of it that followeth?
 
-**[6:8]** And he said unto me, From Abraham unto Isaac, when Jacob and Esau were born of him, Jacob’s hand held first the heel of Esau.
+**[6:8]** And he said unto me, From Abraham unto Isaac, when Jacob and Esau were born of him, Jacob's hand held first the heel of Esau.
 
 **[6:9]** For Esau is the end of the world, and Jacob is the beginning of it that followeth.
 
@@ -510,7 +528,7 @@
 
 **[6:22]** And suddenly shall the sown places appear unsown, the full storehouses shall suddenly be found empty:
 
-**[6:23]** And tha trumpet shall give a sound, which when every man heareth, they shall be suddenly afraid.
+**[6:23]** And the trumpet shall give a sound, which when every man heareth, they shall be suddenly afraid.
 
 **[6:24]** At that time shall friends fight one against another like enemies, and the earth shall stand in fear with those that dwell therein, the springs of the fountains shall stand still, and in three hours they shall not run.
 
@@ -530,7 +548,7 @@
 
 **[6:32]** For thy voice is heard before the most High: for the Mighty hath seen thy righteous dealing, he hath seen also thy chastity, which thou hast had ever since thy youth.
 
-**[6:33]** And therefore hath he sent me to shew thee all these things, and to say unto thee, Be of good comfort and fear not
+**[6:33]** And therefore hath he sent me to shew thee all these things, and to say unto thee, Be of good comfort, and fear not.
 
 **[6:34]** And hasten not with the times that are past, to think vain things, that thou mayest not hasten from the latter times.
 
@@ -542,13 +560,13 @@
 
 **[6:38]** And I said, O Lord, thou spakest from the beginning of the creation, even the first day, and saidst thus; Let heaven and earth be made; and thy word was a perfect work.
 
-**[6:39]** And then was the spirit, and darkness and silence were on every side; the sound of man’s voice was not yet formed.
+**[6:39]** And then was the spirit, and darkness and silence were on every side; the sound of man's voice was not yet formed.
 
 **[6:40]** Then commandedst thou a fair light to come forth of thy treasures, that thy work might appear.
 
 **[6:41]** Upon the second day thou madest the spirit of the firmament, and commandedst it to part asunder, and to make a division betwixt the waters, that the one part might go up, and the other remain beneath.
 
-**[6:42]** Upon the third day thou didst command that the waters should be gathered in the seventh part of the earth: six pats hast thou dried up, and kept them, to the intent that of these some being planted of God and tilled might serve thee.
+**[6:42]** Upon the third day thou didst command that the waters should be gathered in the seventh part of the earth: six parts hast thou dried up, and kept them, to the intent that of these some being planted of God and tilled might serve thee.
 
 **[6:43]** For as soon as thy word went forth the work was made.
 
@@ -558,7 +576,7 @@
 
 **[6:46]** And gavest them a charge to do service unto man, that was to be made.
 
-**[6:47]** Upon the fifth day thou saidst unto the seventh part, where the waters were gathered that it should bring forth living creatures, fowls and fishes: and so it came to pass.
+**[6:47]** Upon the fifth day thou saidst unto the seventh part, where the waters were gathered, that it should bring forth living creatures, fowls and fishes: and so it came to pass.
 
 **[6:48]** For the dumb water and without life brought forth living things at the commandment of God, that all people might praise thy wondrous works.
 
@@ -574,7 +592,7 @@
 
 **[6:54]** And after these, Adam also, whom thou madest lord of all thy creatures: of him come we all, and the people also whom thou hast chosen.
 
-**[6:55]** All this have I spoken before thee, O Lord, because thou madest the world for our sakes
+**[6:55]** All this have I spoken before thee, O Lord, because thou madest the world for our sakes.
 
 **[6:56]** As for the other people, which also come of Adam, thou hast said that they are nothing, but be like unto spittle: and hast likened the abundance of them unto a drop that falleth from a vessel.
 
@@ -583,6 +601,8 @@
 **[6:58]** But we thy people, whom thou hast called thy firstborn, thy only begotten, and thy fervent lover, are given into their hands.
 
 **[6:59]** If the world now be made for our sakes, why do we not possess an inheritance with the world? how long shall this endure?
+
+
 
 **[7:1]** And when I had made an end of speaking these words, there was sent unto me the angel which had been sent unto me the nights afore:
 
@@ -602,11 +622,11 @@
 
 **[7:9]** If this city now were given unto a man for an inheritance, if he never shall pass the danger set before it, how shall he receive this inheritance?
 
-**[7:10]** And I said, It is so, Lord. Then said he unto me, Even so also is Israel’s portion.
+**[7:10]** And I said, It is so, Lord. Then said he unto me, Even so also is Israel's portion.
 
 **[7:11]** Because for their sakes I made the world: and when Adam transgressed my statutes, then was decreed that now is done.
 
-**[7:12]** Then were the entrances of this world made narrow, full of sorrow and travail: they are but few and evil, full of perils,: and very painful.
+**[7:12]** Then were the entrances of this world made narrow, full of sorrow and travail: they are but few and evil, full of perils, and very painful.
 
 **[7:13]** For the entrances of the elder world were wide and sure, and brought immortal fruit.
 
@@ -620,7 +640,7 @@
 
 **[7:18]** Nevertheless the righteous shall suffer strait things, and hope for wide: for they that have done wickedly have suffered the strait things, and yet shall not see the wide.
 
-**[7:19]** And he said unto me. There is no judge above God, and none that hath understanding above the Highest.
+**[7:19]** And he said unto me, There is no judge above God, and none that hath understanding above the Highest.
 
 **[7:20]** For there be many that perish in this life, because they despise the law of God that is set before them.
 
@@ -644,7 +664,7 @@
 
 **[7:30]** And the world shall be turned into the old silence seven days, like as in the former judgments: so that no man shall remain.
 
-**[7:31]** And after seven days the world, that yet awaketh not, shall be raised up, and that shall die that is corrupt
+**[7:31]** And after seven days the world, that yet awaketh not, shall be raised up, and that shall die that is corrupt.
 
 **[7:32]** And the earth shall restore those that are asleep in her, and so shall the dust those that dwell in silence, and the secret places shall deliver those souls that were committed unto them.
 
@@ -724,6 +744,8 @@
 
 **[7:70]** There should be very few left peradventure in an innumerable multitude.
 
+
+
 **[8:1]** And he answered me, saying, The most High hath made this world for many, but the world to come for few.
 
 **[8:2]** I will tell thee a similitude, Esdras; As when thou askest the earth, it shall say unto thee, that it giveth much mould whereof earthen vessels are made, but little dust that gold cometh of: even so is the course of this present world.
@@ -738,7 +760,7 @@
 
 **[8:7]** For thou art alone, and we all one workmanship of thine hands, like as thou hast said.
 
-**[8:8]** For when the body is fashioned now in the mother’s womb, and thou givest it members, thy creature is preserved in fire and water, and nine months doth thy workmanship endure thy creature which is created in her.
+**[8:8]** For when the body is fashioned now in the mother's womb, and thou givest it members, thy creature is preserved in fire and water, and nine months doth thy workmanship endure thy creature which is created in her.
 
 **[8:9]** But that which keepeth and is kept shall both be preserved: and when the time cometh, the womb preserved delivereth up the things that grew in it.
 
@@ -762,7 +784,7 @@
 
 **[8:19]** Therefore hear my voice, and understand my words, and I shall speak before thee. This is the beginning of the words of Esdras, before he was taken up: and I said,
 
-**[8:20]** O Lord, thou that dwellest in everlastingness which beholdest from above things in the heaven and in the air;
+**[8:20]** O Lord, thou that dwellest in everlastingness, which beholdest from above things in the heaven and in the air;
 
 **[8:21]** Whose throne is inestimable; whose glory may not be comprehended; before whom the hosts of angels stand with trembling,
 
@@ -782,7 +804,7 @@
 
 **[8:29]** Let it not be thy will to destroy them which have lived like beasts; but to look upon them that have clearly taught thy law.
 
-**[8:30]** Take thou no indignation at them which are deemed worse than beasts; but love them that always put their trust in thy righteousness and glory.
+**[8:30]** Take thou no indignation at them which are deemed worse than beasts; but love them that alway put their trust in thy righteousness and glory.
 
 **[8:31]** For we and our fathers do languish of such diseases: but because of us sinners thou shalt be called merciful.
 
@@ -792,7 +814,7 @@
 
 **[8:34]** For what is man, that thou shouldest take displeasure at him? or what is a corruptible generation, that thou shouldest be so bitter toward it?
 
-**[8:35]** For in truth them is no man among them that be born, but he hath dealt wickedly; and among the faithful there is none which hath not done amiss.
+**[8:35]** For in truth there is no man among them that be born, but he hath dealt wickedly; and among the faithful there is none which hath not done amiss.
 
 **[8:36]** For in this, O Lord, thy righteousness and thy goodness shall be declared, if thou be merciful unto them which have not the confidence of good works.
 
@@ -808,13 +830,13 @@
 
 **[8:42]** I answered then and said, If I have found grace, let me speak.
 
-**[8:43]** Like as the husbandman’s seed perisheth, if it come not up, and receive not thy rain in due season; or if there come too much rain, and corrupt it:
+**[8:43]** Like as the husbandman's seed perisheth, if it come not up, and receive not thy rain in due season; or if there come too much rain, and corrupt it:
 
-**[8:44]** Even so perisheth man also, which is formed with thy hands, and is called thine own image, because thou art like unto him, for whose sake thou hast made all things, and likened him unto the husbandman’s seed.
+**[8:44]** Even so perisheth man also, which is formed with thy hands, and is called thine own image, because thou art like unto him, for whose sake thou hast made all things, and likened him unto the husbandman's seed.
 
-**[8:45]** Be not wroth with us but spare thy people, and have mercy upon thine own inheritance: for thou art merciful unto thy creature.
+**[8:45]** Be not wroth with us, but spare thy people, and have mercy upon thine own inheritance: for thou art merciful unto thy creature.
 
-**[8:46]** Then answered he me, and said, Things present are for the present, and things to cometh for such as be to come.
+**[8:46]** Then answered he me, and said, Things present are for the present, and things to come for such as be to come.
 
 **[8:47]** For thou comest far short that thou shouldest be able to love my creature more than I: but I have ofttimes drawn nigh unto thee, and unto it, but never to the unrighteous.
 
@@ -840,7 +862,7 @@
 
 **[8:58]** And said in their heart, that there is no God; yea, and that knowing they must die.
 
-**[8:59]** For as the things aforesaid shalt receive you, so thirst and pain are prepared for them: for it was not his will that men should come to nought:
+**[8:59]** For as the things aforesaid shall receive you, so thirst and pain are prepared for them: for it was not his will that men should come to nought:
 
 **[8:60]** But they which be created have defiled the name of him that made them, and were unthankful unto him which prepared life for them.
 
@@ -849,6 +871,8 @@
 **[8:62]** These things have I not shewed unto all men, but unto thee, and a few like thee. Then answered I and said,
 
 **[8:63]** Behold, O Lord, now hast thou shewed me the multitude of the wonders, which thou wilt begin to do in the last times: but at what time, thou hast not shewed me.
+
+
 
 **[9:1]** He answered me then, and said, Measure thou the time diligently in itself: and when thou seest part of the signs past, which I have told thee before,
 
@@ -860,7 +884,7 @@
 
 **[9:5]** For like as all that is made in the world hath a beginning and an end, and the end is manifest:
 
-**[9:6]** Even so the times also of the Highest have plain beginnings in wonder and powerful works, and endings in effects and signs.
+**[9:6]** Even so the times also of the Highest have plain beginnings in wonders and powerful works, and endings in effects and signs.
 
 **[9:7]** And every one that shall be saved, and shall be able to escape by his works, and by faith, whereby ye have believed,
 
@@ -870,7 +894,7 @@
 
 **[9:10]** For such as in their life have received benefits, and have not known me;
 
-**[9:11]** And they that have loathed my law, while they had yet liberty, and, when as yet place of repentance was open unto them, understood not, but despised it;
+**[9:11]** And they that have lothed my law, while they had yet liberty, and, when as yet place of repentance was open unto them, understood not, but despised it;
 
 **[9:12]** The same must know it after death by pain.
 
@@ -882,7 +906,7 @@
 
 **[9:16]** Like as a wave is greater than a drop.
 
-**[9:17]** And he answered me, saying, Like as the field is, so is also the seed; as the flowers be, such are the colours also; such as the workman is, such also is the work; and as the husbandman ls himself, so is his husbandry also: for it was the time of the world.
+**[9:17]** And he answered me, saying, Like as the field is, so is also the seed; as the flowers be, such are the colours also; such as the workman is, such also is the work; and as the husbandman is himself, so is his husbandry also: for it was the time of the world.
 
 **[9:18]** And now when I prepared the world, which was not yet made, even for them to dwell in that now live, no man spake against me.
 
@@ -908,7 +932,7 @@
 
 **[9:29]** O Lord, thou that shewest thyself unto us, thou wast shewed unto our fathers in the wilderness, in a place where no man treadeth, in a barren place, when they came out of Egypt.
 
-**[9:30]** And thou spakest saying, Hear me, O Israel; and mark my words, thou seed of Jacob.
+**[9:30]** And thou spakest, saying, Hear me, O Israel; and mark my words, thou seed of Jacob.
 
 **[9:31]** For, behold, I sow my law in you, and it shall bring fruit in you, and ye shall be honoured in it for ever.
 
@@ -916,11 +940,11 @@
 
 **[9:33]** Yet they that received it perished, because they kept not the thing that was sown in them.
 
-**[9:34]** And, lo, it ls a custom, when the ground hath received seed, or the sea a ship, or any vessel meat or drink, that, that being perished wherein it was sown or cast into,
+**[9:34]** And, lo, it is a custom, when the ground hath received seed, or the sea a ship, or any vessel meat or drink, that, that being perished wherein it was sown or cast into,
 
 **[9:35]** That thing also which was sown, or cast therein, or received, doth perish, and remaineth not with us: but with us it hath not happened so.
 
-**[9:36]** For we that have received the law perish by sin, and our heart also which received it
+**[9:36]** For we that have received the law perish by sin, and our heart also which received it.
 
 **[9:37]** Notwithstanding the law perisheth not, but remaineth in his force.
 
@@ -934,9 +958,9 @@
 
 **[9:42]** And I said unto her, What aileth thee? tell me.
 
-**[9:43]** She said unto me, I thy servant have been barren, and had no child, though I had an husband thirty years,
+**[9:43]** She said unto me, I thy servant have been barren, and had no child, though I had an husband thirty years.
 
-**[9:44]** And those thirty years I did nothing else day and night, and every hour, but make my, prayer to the Highest.
+**[9:44]** And those thirty years I did nothing else day and night, and every hour, but make my prayer to the Highest.
 
 **[9:45]** After thirty years God heard me thine handmaid, looked upon my misery, considered my trouble, and gave me a son: and I was very glad of him, so was my husband also, and all my neighbours: and we gave great honour unto the Almighty.
 
@@ -944,11 +968,13 @@
 
 **[9:47]** So when he grew up, and came to the time that he should have a wife, I made a feast.
 
+
+
 **[10:1]** And it so came to pass, that when my son was entered into his wedding chamber, he fell down, and died.
 
 **[10:2]** Then we all overthrew the lights, and all my neighbours rose up to comfort me: so I took my rest unto the second day at night.
 
-**[10:3]** And it came to pass, when they had all left off to comfort me, to the end I might be quiet; then rose I up by night and fled, and came hither into this field, as thou seest.
+**[10:3]** And it came to pass, when they had all left off to comfort me, to the end I might be quiet; then rose I up by night, and fled, and came hither into this field, as thou seest.
 
 **[10:4]** And I do now purpose not to return into the city, but here to stay, and neither to eat nor drink, but continually to mourn and to fast until I die.
 
@@ -966,7 +992,7 @@
 
 **[10:11]** Who then should make more mourning than she, that hath lost so great a multitude; and not thou, which art sorry but for one?
 
-**[10:12]** But if thou sayest unto me, My lamentation is not like the earth’s, because I have lost the fruit of my womb, which I brought forth with pains, and bare with sorrows;
+**[10:12]** But if thou sayest unto me, My lamentation is not like the earth's, because I have lost the fruit of my womb, which I brought forth with pains, and bare with sorrows;
 
 **[10:13]** But the earth not so: for the multitude present in it according to the course of the earth is gone, as it came:
 
@@ -982,7 +1008,7 @@
 
 **[10:19]** So I proceeded to speak further unto her, and said,
 
-**[10:20]** Do not so, but be counselled. by me: for how many are the adversities of Sion? be comforted in regard of the sorrow of Jerusalem.
+**[10:20]** Do not so, but be counselled by me: for how many are the adversities of Sion? be comforted in regard of the sorrow of Jerusalem.
 
 **[10:21]** For thou seest that our sanctuary is laid waste, our altar broken down, our temple destroyed;
 
@@ -992,7 +1018,7 @@
 
 **[10:24]** And therefore shake off thy great heaviness, and put away the multitude of sorrows, that the Mighty may be merciful unto thee again, and the Highest shall give thee rest and ease from thy labour.
 
-**[10:25]** And it came to pass while I was talking with her, behold, her face upon a sudden shined exceedingly, and her countenance glistered, so that I was afraid of her, and mused what it might be.
+**[10:25]** And it came to pass, while I was talking with her, behold, her face upon a sudden shined exceedingly, and her countenance glistered, so that I was afraid of her, and mused what it might be.
 
 **[10:26]** And, behold, suddenly she made a great cry very fearful: so that the earth shook at the noise of the woman.
 
@@ -1000,7 +1026,7 @@
 
 **[10:28]** Where is Uriel the angel, who came unto me at the first? for he hath caused me to fall into many trances, and mine end is turned into corruption, and my prayer to rebuke.
 
-**[10:29]** And as I was speaking these words behold, he came unto me, and looked upon me.
+**[10:29]** And as I was speaking these words, behold, he came unto me, and looked upon me.
 
 **[10:30]** And, lo, I lay as one that had been dead, and mine understanding was taken from me: and he took me by the right hand, and comforted me, and set me upon my feet, and said unto me,
 
@@ -1030,15 +1056,15 @@
 
 **[10:43]** And whereas she told thee of the death of her son, this is the solution:
 
-**[10:44]** This woman, whom thou sawest is Sion: and whereas she said unto thee, even she whom thou seest as a city builded,
+**[10:44]** This woman, whom thou sawest, is Sion: and whereas she said unto thee, even she whom thou seest as a city builded,
 
 **[10:45]** Whereas, I say, she said unto thee, that she hath been thirty years barren: those are the thirty years wherein there was no offering made in her.
 
-**[10:46]** But after thirty years Solomon builded the city and offered offerings: and then bare the barren a son.
+**[10:46]** But after thirty years Solomon builded the city, and offered offerings: and then bare the barren a son.
 
 **[10:47]** And whereas she told thee that she nourished him with labour: that was the dwelling in Jerusalem.
 
-**[10:48]** But whereas she said unto thee, That my son coming into his marriage chamber happened to have a fail, and died: this was the destruction that came to Jerusalem.
+**[10:48]** But whereas she said unto thee, That my son coming into his marriage chamber happened to have a fall, and died: this was the destruction that came to Jerusalem.
 
 **[10:49]** And, behold, thou sawest her likeness, and because she mourned for her son, thou begannest to comfort her: and of these things which have chanced, these are to be opened unto thee.
 
@@ -1050,7 +1076,7 @@
 
 **[10:53]** Therefore I commanded thee to go into the field, where no foundation of any building was.
 
-**[10:54]** For in the place wherein the Highest beginneth to shew his city, there can no man’s building be able to stand.
+**[10:54]** For in the place wherein the Highest beginneth to shew his city, there can no man's building be able to stand.
 
 **[10:55]** And therefore fear not, let not thine heart be affrighted, but go thy way in, and see the beauty and greatness of the building, as much as thine eyes be able to see:
 
@@ -1060,7 +1086,8 @@
 
 **[10:58]** But to morrow at night thou shalt remain here;
 
-**[10:59]** And so shall the Highest shew thee visions of the high things, which the most High will do unto them that dwell upon the earth in the last days. So I slept that night and another, like as he commanded me.
+**[10:59]** And so shall the Highest shew thee visions of the high things, which the most High will do unto them that dwell upon earth in the last days. So I slept that night and another, like as he commanded me.
+
 
 **[11:1]** Then saw I a dream, and, behold, there came up from the sea an eagle, which had twelve feathered wings, and three heads.
 
@@ -1086,7 +1113,7 @@
 
 **[11:12]** And I looked, and, behold, on the right side there arose one feather, and reigned over all the earth;
 
-**[11:13]** And so it was, that when it reigned, the end of it came, and the place thereof appeared no more: so the next following stood up. and reigned, and had a great time;
+**[11:13]** And so it was, that when it reigned, the end of it came, and the place thereof appeared no more: so the next following stood up, and reigned, and had a great time;
 
 **[11:14]** And it happened, that when it reigned, the end of it came also, like as the first, so that it appeared no more.
 
@@ -1106,11 +1133,11 @@
 
 **[11:22]** After this I looked, and, behold, the twelve feathers appeared no more, nor the two little feathers:
 
-**[11:23]** And there was no more upon the eagle’s body, but three heads that rested, and six little wings.
+**[11:23]** And there was no more upon the eagle's body, but three heads that rested, and six little wings.
 
 **[11:24]** Then saw I also that two little feathers divided themselves from the six, and remained under the head that was upon the right side: for the four continued in their place.
 
-**[11:25]** And I beheld, and, lo, the feathers that were under the wing thought to set up themselves and to have the rule.
+**[11:25]** And I beheld, and, lo, the feathers that were under the wing thought to set up themselves, and to have the rule.
 
 **[11:26]** And I beheld, and, lo, there was one set up, but shortly it appeared no more.
 
@@ -1132,9 +1159,9 @@
 
 **[11:35]** And I beheld, and, lo, the head upon the right side devoured it that was upon the left side.
 
-**[11:36]** Then I head a voice, which said unto me, Look before thee, and consider the thing that thou seest.
+**[11:36]** Then I heard a voice, which said unto me, Look before thee, and consider the thing that thou seest.
 
-**[11:37]** And I beheld, and lo, as it were a roaring lion chased out of the wood: and I saw that he sent out a man’s voice unto the eagle, and said,
+**[11:37]** And I beheld, and lo as it were a roaring lion chased out of the wood: and I saw that he sent out a man's voice unto the eagle, and said,
 
 **[11:38]** Hear thou, I will talk with thee, and the Highest shall say unto thee,
 
@@ -1150,19 +1177,20 @@
 
 **[11:44]** The Highest also hath looked upon the proud times, and, behold, they are ended, and his abominations are fulfilled.
 
-**[11:45]** And therefore appear no more, thou eagle, nor thy horrible wings, nor thy wicked feathers nor thy malicious heads, nor thy hurtful claws, nor all thy vain body:
+**[11:45]** And therefore appear no more, thou eagle, nor thy horrible wings, nor thy wicked feathers, nor thy malicious heads, nor thy hurtful claws, nor all thy vain body:
 
 **[11:46]** That all the earth may be refreshed, and may return, being delivered from thy violence, and that she may hope for the judgment and mercy of him that made her.
 
+
 **[12:1]** And it came to pass, whiles the lion spake these words unto the eagle, I saw,
 
-**[12:2]** And, behold, the head that remained and the four wings appeared no more, and the two went unto it and set themselves up to reign, and their kingdom was small, and fill of uproar.
+**[12:2]** And, behold, the head that remained and the four wings appeared no more, and the two went unto it, and set themselves up to reign, and their kingdom was small, and full of uproar.
 
-**[12:3]** And I saw, and, behold, they appeared no more, and the whole body of the eagle was burnt so that the earth was in great fear: then awaked I out of the trouble and trance of my mind, and from great fear, and said unto my spirit,
+**[12:3]** And I saw, and, behold, they appeared no more, and the whole body of the eagle was burnt, so that the earth was in great fear: then awaked I out of the trouble and trance of my mind, and from great fear, and said unto my spirit,
 
 **[12:4]** Lo, this hast thou done unto me, in that thou searchest out the ways of the Highest.
 
-**[12:5]** Lo, yet am I weary in my mind, and very weak in my spirit; and little strength is there in me, for the great fear wherewith I was afflicted this night.
+**[12:5]** Lo, yet am I weary in my mind, and very weak in my spirit; and little strength is there in me, for the great fear wherewith I was affrighted this night.
 
 **[12:6]** Therefore will I now beseech the Highest, that he will comfort me unto the end.
 
@@ -1186,9 +1214,9 @@
 
 **[12:16]** And this do the twelve wings signify, which thou sawest.
 
-**[12:17]** As for the voice which thou heardest speak, and that thou sawest not to go out from the heads but from the midst of the body thereof, this is the interpretation:
+**[12:17]** As for the voice which thou heardest speak, and that thou sawest not to go out from the heads, but from the midst of the body thereof, this is the interpretation:
 
-**[12:18]** That after the time of that kingdom there shall arise great strivings, and it shall stand in peril of failing: nevertheless it shall not then fall, but shall be restored again to his beginning.
+**[12:18]** That after the time of that kingdom there shall arise great strivings, and it shall stand in peril of falling: nevertheless it shall not then fall, but shall be restored again to his beginning.
 
 **[12:19]** And whereas thou sawest the eight small under feathers sticking to her wings, this is the interpretation:
 
@@ -1220,7 +1248,7 @@
 
 **[12:33]** For he shall set them before him alive in judgment, and shall rebuke them, and correct them.
 
-**[12:34]** For the rest of my people shall he deliver with mercy, those that have been pressed upon my borders, and he shall make them joyful until the coming of the day of judgment, whereof I have spoken unto thee from the the beginning.
+**[12:34]** For the rest of my people shall he deliver with mercy, those that have been preserved upon my borders, and he shall make them joyful until the coming of the day of judgment, whereof I have spoken unto thee from the beginning.
 
 **[12:35]** This is the dream that thou sawest, and these are the interpretations.
 
@@ -1254,7 +1282,8 @@
 
 **[12:50]** So the people went their way into the city, like as I commanded them:
 
-**[12:51]** But I remained still in the field seven days, as the angel commanded me; and did eat only in those days of the flowers of the field, and had my meat of the herbs
+**[12:51]** But I remained still in the field seven days, as the angel commanded me; and did eat only in those days of the flowers of the field, and had my meat of the herbs.
+
 
 **[13:1]** And it came to pass after seven days, I dreamed a dream by night:
 
@@ -1264,7 +1293,7 @@
 
 **[13:4]** And whensoever the voice went out of his mouth, all they burned that heard his voice, like as the earth faileth when it feeleth the fire.
 
-**[13:5]** And after this I beheld, and, lo, there was gathered together a multitude of men, out of number, from the four winds of the heaven, to subdue the man that came out of the sea
+**[13:5]** And after this I beheld, and, lo, there was gathered together a multitude of men, out of number, from the four winds of the heaven, to subdue the man that came out of the sea.
 
 **[13:6]** But I beheld, and, lo, he had graved himself a great mountain, and flew up upon it.
 
@@ -1278,15 +1307,15 @@
 
 **[13:11]** And they were all mixed together; the blast of fire, the flaming breath, and the great tempest; and fell with violence upon the multitude which was prepared to fight, and burned them up every one, so that upon a sudden of an innumerable multitude nothing was to be perceived, but only dust and smell of smoke: when I saw this I was afraid.
 
-**[13:12]** Afterward saw I the same man come down from the mountain, and call unto him another peaceable Multitude.
+**[13:12]** Afterward saw I the same man come down from the mountain, and call unto him another peaceable multitude.
 
-**[13:13]** And there came much people unto him, whereof some were glad, some were sorry, and some of them were bound, and other some brought of them that were offered: then was I sick through great fear, and I awaked, and said,
+**[13:13]** And there came much people unto him, whereof some were glad, some were sorry, some of them were bound, and other some brought of them that were offered: then was I sick through great fear, and I awaked, and said,
 
 **[13:14]** Thou hast shewed thy servant these wonders from the beginning, and hast counted me worthy that thou shouldest receive my prayer:
 
 **[13:15]** Shew me now yet the interpretation of this dream.
 
-**[13:16]** For as I conceive in mine understanding, woe unto them that shall be left in those days and much more woe unto them that are not left behind!
+**[13:16]** For as I conceive in mine understanding, woe unto them that shall be left in those days! and much more woe unto them that are not left behind!
 
 **[13:17]** For they that were not left were in heaviness.
 
@@ -1330,7 +1359,7 @@
 
 **[13:37]** And this my Son shall rebuke the wicked inventions of those nations, which for their wicked life are fallen into the tempest;
 
-**[13:38]** And shall lay before them their evil thoughts, and the torments wherewith they shall begin to be tormented, which are like unto a flame: and he shall destroy them without labour by the law which is like unto me.
+**[13:38]** And shall lay before them their evil thoughts, and the torments wherewith they shall begin to be tormented, which are like unto a flame: and he shall destroy them without labour by the law which is like unto fire.
 
 **[13:39]** And whereas thou sawest that he gathered another peaceable multitude unto him;
 
@@ -1340,7 +1369,7 @@
 
 **[13:42]** That they might there keep their statutes, which they never kept in their own land.
 
-**[13:43]** And they entered into Euphrates by the narrow places of the river.
+**[13:43]** And they entered into Euphrates by the narrow passages of the river.
 
 **[13:44]** For the most High then shewed signs for them, and held still the flood, till they were passed over.
 
@@ -1368,17 +1397,18 @@
 
 **[13:56]** And therefore have I shewed thee the treasures of the Highest: after other three days I will speak other things unto thee, and declare unto thee mighty and wondrous things.
 
-**[13:57]** Then went I forth into the field, giving praise and thanks greatly unto the most High because of his wonders which he did in time;
+**[13:57]** Then went I forth into the field, giving praise and thanks greatly unto the most High because of his wonders, which he did in time;
 
 **[13:58]** And because he governeth the same, and such things as fall in their seasons: and there I sat three days.
 
+
 **[14:1]** And it came to pass upon the third day, I sat under an oak, and, behold, there came a voice out of a bush over against me, and said, Esdras, Esdras.
 
-**[14:2]** And I said, Here am I, Lord And I stood up upon my feet.
+**[14:2]** And I said, Here am I, Lord. And I stood up upon my feet.
 
 **[14:3]** Then said he unto me, In the bush I did manifestly reveal myself unto Moses, and talked with him, when my people served in Egypt:
 
-**[14:4]** And I sent him and led my people out of Egypt, and brought him up to the mount of where I held him by me a long season,
+**[14:4]** And I sent him, and led my people out of Egypt, and brought him up to the mount of Sinai, where I held him by me a long season,
 
 **[14:5]** And told him many wondrous things, and shewed him the secrets of the times, and the end; and commanded him, saying,
 
@@ -1406,13 +1436,13 @@
 
 **[14:17]** For look how much the world shall be weaker through age, so much the more shall evils increase upon them that dwell therein.
 
-**[14:18]** For the time is fled far away, and leasing is hard at hand: for now hasteth the vision to come, which thou hast seen.
+**[14:18]** For the truth is fled far away, and leasing is hard at hand: for now hasteth the vision to come, which thou hast seen.
 
 **[14:19]** Then answered I before thee, and said,
 
 **[14:20]** Behold, Lord, I will go, as thou hast commanded me, and reprove the people which are present: but they that shall be born afterward, who shall admonish them? thus the world is set in darkness, and they that dwell therein are without light.
 
-**[14:21]** For thy law is burnt, therefore no man knoweth the things that are done of thee, or the work that shall begin.
+**[14:21]** For thy law is burnt, therefore no man knoweth the things that are done of thee, or the works that shall begin.
 
 **[14:22]** But if I have found grace before thee, send the Holy Ghost into me, and I shall write all that hath been done in the world since the beginning, which were written in thy law, that men may find thy path, and that they which will live in the latter days may live.
 
@@ -1438,7 +1468,7 @@
 
 **[14:33]** And now are ye here, and your brethren among you.
 
-**[14:34]** Therefore if so be that ye will subdue your own understanding, and reform your hearts, ye shall be kept alive and after death ye shall obtain mercy.
+**[14:34]** Therefore if so be that ye will subdue your own understanding, and reform your hearts, ye shall be kept alive, and after death ye shall obtain mercy.
 
 **[14:35]** For after death shall the judgment come, when we shall live again: and then shall the names of the righteous be manifest, and the works of the ungodly shall be declared.
 
@@ -1456,17 +1486,18 @@
 
 **[14:42]** The Highest gave understanding unto the five men, and they wrote the wonderful visions of the night that were told, which they knew not: and they sat forty days, and they wrote in the day, and at night they ate bread.
 
-**[14:43]** As for me. I spake in the day, and I held not my tongue by night.
+**[14:43]** As for me, I spake in the day, and I held not my tongue by night.
 
 **[14:44]** In forty days they wrote two hundred and four books.
 
-**[14:45]** And it came to pass, when the forty days were filled, that the Highest spake, saying, The first that thou hast written publish openly, that the worthy and unworthy may read it:
+**[14:45]** And it came to pass, when the forty days were fulfilled, that the Highest spake, saying, The first that thou hast written publish openly, that the worthy and unworthy may read it:
 
 **[14:46]** But keep the seventy last, that thou mayest deliver them only to such as be wise among the people:
 
 **[14:47]** For in them is the spring of understanding, the fountain of wisdom, and the stream of knowledge.
 
 **[14:48]** And I did so.
+
 
 **[15:1]** Behold, speak thou in the ears of my people the words of prophecy, which I will put in thy mouth, saith the Lord:
 
@@ -1496,7 +1527,7 @@
 
 **[15:14]** Woe to the world and them that dwell therein!
 
-**[15:15]** For the sword and their destruction draweth nigh, and one people shall stand up and fight against another, and swords in their hands.
+**[15:15]** For the sword and their destruction draweth nigh, and one people shall stand up to fight against another, and swords in their hands.
 
 **[15:16]** For there shall be sedition among men, and invading one another; they shall not regard their kings nor princes, and the course of their actions shall stand in their power.
 
@@ -1520,7 +1551,7 @@
 
 **[15:26]** For the Lord knoweth all them that sin against him, and therefore delivereth he them unto death and destruction.
 
-**[15:27]** For now are the plagues come upon the whole earth and ye shall remain in them: for God shall not deliver you, because ye have sinned against him.
+**[15:27]** For now are the plagues come upon the whole earth, and ye shall remain in them: for God shall not deliver you, because ye have sinned against him.
 
 **[15:28]** Behold an horrible vision, and the appearance thereof from the east:
 
@@ -1530,7 +1561,7 @@
 
 **[15:31]** And then shall the dragons have the upper hand, remembering their nature; and if they shall turn themselves, conspiring together in great power to persecute them,
 
-**[15:32]** Then these shall be troubled bled, and keep silence through their power, and shall flee.
+**[15:32]** Then these shall be troubled, and keep silence through their power, and shall flee.
 
 **[15:33]** And from the land of the Assyrians shall the enemy besiege them, and consume some of them, and in their host shall be fear and dread, and strife among their kings.
 
@@ -1538,7 +1569,7 @@
 
 **[15:35]** They shall smite one upon another, and they shall smite down a great multitude of stars upon the earth, even their own star; and blood shall be from the sword unto the belly,
 
-**[15:36]** And dung of men unto the camel’s hough.
+**[15:36]** And dung of men unto the camel's hough.
 
 **[15:37]** And there shall be great fearfulness and trembling upon earth: and they that see the wrath shall be afraid, and trembling shall come upon them.
 
@@ -1546,7 +1577,7 @@
 
 **[15:39]** And strong winds shall arise from the east, and shall open it; and the cloud which he raised up in wrath, and the star stirred to cause fear toward the east and west wind, shall be destroyed.
 
-**[15:40]** The great and mighty clouds shall be puffed up full of wrath, and the star, that they may make all the earth afraid, and them that dwell therein; and they shall pour out over every high and eminent place an horrible star,
+**[15:40]** The great and mighty clouds shall be lifted up full of wrath, and the star, that they may make all the earth afraid, and them that dwell therein; and they shall pour out over every high and eminent place an horrible star,
 
 **[15:41]** Fire, and hail, and flying swords, and many waters, that all fields may be full, and all rivers, with the abundance of great waters.
 
@@ -1560,13 +1591,13 @@
 
 **[15:46]** And thou, Asia, that art partaker of the hope of Babylon, and art the glory of her person:
 
-**[15:47]** Woe be unto thee, thou wretch, because thou hast made thyself like unto her; and hast decked thy daughters in whoredom, that they might please and glory in thy lovers, which have always desired to commit whoredom with thee.
+**[15:47]** Woe be unto thee, thou wretch, because thou hast made thyself like unto her; and hast decked thy daughters in whoredom, that they might please and glory in thy lovers, which have alway desired to commit whoredom with thee!
 
 **[15:48]** Thou hast followed her that is hated in all her works and inventions: therefore saith God,
 
 **[15:49]** I will send plagues upon thee; widowhood, poverty, famine, sword, and pestilence, to waste thy houses with destruction and death.
 
-**[15:50]** And the glory of thy Power shall be dried up as a flower, the heat shall arise that is sent over thee.
+**[15:50]** And the glory of thy power shall be dried up as a flower, when the heat shall arise that is sent over thee.
 
 **[15:51]** Thou shalt be weakened as a poor woman with stripes, and as one chastised with wounds, so that the mighty and lovers shall not be able to receive thee.
 
@@ -1578,7 +1609,7 @@
 
 **[15:55]** The reward of thy whoredom shall be in thy bosom, therefore shalt thou receive recompence.
 
-**[15:56]** Like as thou hast done unto my chosen, saith the Lord, even so shall God do unto thee, and shall deliver thee into mischief
+**[15:56]** Like as thou hast done unto my chosen, saith the Lord, even so shall God do unto thee, and shall deliver thee into mischief.
 
 **[15:57]** Thy children shall die of hunger, and thou shalt fall through the sword: thy cities shall be broken down, and all thine shall perish with the sword in the field.
 
@@ -1594,7 +1625,8 @@
 
 **[15:63]** Thy children shall they carry away captive, and, look, what thou hast, they shall spoil it, and mar the beauty of thy face.
 
-**[16:1]** Woe be unto thee, Babylon, and Asia! woe be unto thee, Egypt and Syria!
+
+**[16:1]** Woe be unto thee, Babylon, and Asia! woe be unto thee, Egypt, and Syria!
 
 **[16:2]** Gird up yourselves with cloths of sack and hair, bewail your children, and be sorry; for your destruction is at hand.
 
@@ -1608,7 +1640,7 @@
 
 **[16:7]** May one turn again the arrow that is shot of a strong archer?
 
-**[16:8]** The mighty Lord sendeth the plagues and who is he that can drive them away?
+**[16:8]** The mighty Lord sendeth the plagues, and who is he that can drive them away?
 
 **[16:9]** A fire shall go forth from his wrath, and who is he that may quench it?
 
@@ -1632,7 +1664,7 @@
 
 **[16:19]** Behold, famine and plague, tribulation and anguish, are sent as scourges for amendment.
 
-**[16:20]** But for all these things they shall not turn from their wickedness, nor be always mindful of the scourges.
+**[16:20]** But for all these things they shall not turn from their wickedness, nor be alway mindful of the scourges.
 
 **[16:21]** Behold, victuals shall be so good cheap upon earth, that they shall think themselves to be in good case, and even then shall evils grow upon earth, sword, famine, and great confusion.
 
@@ -1640,7 +1672,7 @@
 
 **[16:23]** And the dead shall be cast out as dung, and there shall be no man to comfort them: for the earth shall be wasted, and the cities shall be cast down.
 
-**[16:24]** There shall be no man left to till the earth, and to sow it
+**[16:24]** There shall be no man left to till the earth, and to sow it.
 
 **[16:25]** The trees shall give fruit, and who shall gather them?
 
@@ -1650,7 +1682,7 @@
 
 **[16:28]** For of a city there shall be ten left, and two of the field, which shall hide themselves in the thick groves, and in the clefts of the rocks.
 
-**[16:29]** As in an orchard of Olives upon every tree there are left three or four olives;
+**[16:29]** As in an orchard of olives upon every tree there are left three or four olives;
 
 **[16:30]** Or as when a vineyard is gathered, there are left some clusters of them that diligently seek through the vineyard:
 
@@ -1662,17 +1694,17 @@
 
 **[16:34]** In the wars shall their bridegrooms be destroyed, and their husbands shall perish of famine.
 
-**[16:35]** Hear now these things and understand them, ye servants of the Lord.
+**[16:35]** Hear now these things, and understand them, ye servants of the Lord.
 
-**[16:36]** Behold, the word of the Lord, receive it: believe not the gods of whom the Lord spake.
+**[16:36]** Behold the word of the Lord, receive it: believe not the gods of whom the Lord spake.
 
 **[16:37]** Behold, the plagues draw nigh, and are not slack.
 
-**[16:38]** As when a woman with child in the ninth month bringeth forth her son, with two or three hours of her birth great pains compass her womb, which pains, when the child cometh forth, they slack not a moment:
+**[16:38]** As when a woman with child in the ninth month bringeth forth her son, within two or three hours of her birth great pains compass her womb, which pains, when the child cometh forth, they slack not a moment:
 
 **[16:39]** Even so shall not the plagues be slack to come upon the earth, and the world shall mourn, and sorrows shall come upon it on every side.
 
-**[16:40]** O my people, hear my word: make you ready to thy battle, and in those evils be even as pilgrims upon the earth.
+**[16:40]** O my people, hear my word: make you ready to the battle, and in those evils be even as pilgrims upon the earth.
 
 **[16:41]** He that selleth, let him be as he that fleeth away: and he that buyeth, as one that will lose:
 
@@ -1682,7 +1714,7 @@
 
 **[16:44]** They that marry, as they that shall get no children; and they that marry not, as the widowers.
 
-**[16:45]** And therefore they that labour labour in vain:
+**[16:45]** And therefore they that labour, labour in vain:
 
 **[16:46]** For strangers shall reap their fruits, and spoil their goods, overthrow their houses, and take their children captives, for in captivity and famine shall they get children.
 
@@ -1716,7 +1748,7 @@
 
 **[16:61]** He made man, and put his heart in the midst of the body, and gave him breath, life, and understanding.
 
-**[16:62]** Yea and the Spirit of Almighty God, which made all things, and searcheth out all hidden things in the secrets of the earth,
+**[16:62]** Yea, and the Spirit of Almighty God, which made all things, and searcheth out all hidden things in the secrets of the earth,
 
 **[16:63]** Surely he knoweth your inventions, and what ye think in your hearts, even them that sin, and would hide their sin.
 
@@ -1742,11 +1774,10 @@
 
 **[16:74]** Hear, O ye my beloved, saith the Lord: behold, the days of trouble are at hand, but I will deliver you from the same.
 
-**[16:75]** Be ye not afraid neither doubt; for God is your guide,
+**[16:75]** Be ye not afraid, neither doubt; for God is your guide,
 
 **[16:76]** And the guide of them who keep my commandments and precepts, saith the Lord God: let not your sins weigh you down, and let not your iniquities lift up themselves.
 
-**[16:77]** Woe be unto them that are bound with their sins, and covered with their iniquities like as a field is covered over with bushes, and the path thereof covered with thorns, that no man may travel through!
+**[16:77]** Woe be unto them that are bound with their sins, and covered with their iniquities, like as a field is covered over with bushes, and the path thereof covered with thorns, that no man may travel through!
 
 **[16:78]** It is left undressed, and is cast into the fire to be consumed therewith.
-
