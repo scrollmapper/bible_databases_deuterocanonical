@@ -18,16 +18,6 @@ The list of commonly accepted biblical books has shrunk over the centuries. Many
 
 This collection puts aside the labels of Apocryphal, Pseudepigraphical, etc., and simply accepts the concept of "extra-biblical," or rather, books that did not get included into the common canon of the scriptures although they were at one time relevant to Christians and Jews. 
 
-## Next to be included: 
-
-- Lives of the Prophets
-- Ladder of Jacob
-- History of the Rechabites
-- Psalms of Solomon
-- Book of Barnabas
-- Fourth Book of Ezra
-- Apocalypse of Baruch
-
 ## NOTICE:
 
 Please note that this project is currently undergoing reconstruction. We invite you to check back periodically for updates.
