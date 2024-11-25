@@ -1352,143 +1352,252 @@ And hide not Thy face from the prayer of Thy servant, O Lord.'
 
 **[90:28]** And I stood up to see till they folded up that old house; and carried off all the pillars, and all the beams and ornaments of the house were at the same time folded up with it, and they carried it off and laid it in a place in the south of the land. **[90:29]** And I saw till the Lord of the sheep brought a new house greater and loftier than that first, and set it up in the place of the first which had beer folded up: all its pillars were new, and its ornaments were new and larger than those of the first, the old one which He had taken away, and all the sheep were within it.
 
-**[90:30]** And I saw all the sheep which had been left, and all the beasts on the earth, and all the birds of the heaven, falling down and doing homage to those sheep and making petition to and obeying them in every thing. **[90:31]** And thereafter those three who were clothed in white and had seized me by my hand [who had taken me up before], and the hand of that ram also seizing hold of me, they took me up and set me down in the midst of those sheep before the judgement took place†. **[90:32]** And those sheep were all white, and their wool was abundant and clean. **[90:33]** And all that had been destroyed and dispersed, and all the beasts of the field, and all the birds of the heaven, assembled in that house, and the Lord of the sheep rejoiced with great joy because they were all good and had returned to His house. **[90:34]** And I saw till they laid down that sword, which had been given to the sheep, and they brought it back into the house, and it was sealed before the presence of the Lord, and all the sheep were invited into that house, but it held them not. **[90:35]** And the eyes of them all were opened, and they saw the good, and there was not one among them that did not see. **[90:36]** And I saw that that house was large and broad and very full.
+**[90:30]** And I saw all the sheep which had been left, and all the beasts on the earth, and all the birds of the heaven, falling down and doing homage to those sheep and making petition to and obeying them in every thing. **[90:31]** And thereafter those three who were clothed in white and had seized me by my hand who had taken me up before, and the hand of that ram also seizing hold of me, they took me up and set me down in the midst of those sheep before the judgement took place. **[90:32]** And those sheep were all white, and their wool was abundant and clean. **[90:33]** And all that had been destroyed and dispersed, and all the beasts of the field, and all the birds of the heaven, assembled in that house, and the Lord of the sheep rejoiced with great joy because they were all good and had returned to His house. **[90:34]** And I saw till they laid down that sword, which had been given to the sheep, and they brought it back into the house, and it was sealed before the presence of the Lord, and all the sheep were invited into that house, but it held them not. **[90:35]** And the eyes of them all were opened, and they saw the good, and there was not one among them that did not see. **[90:36]** And I saw that that house was large and broad and very full.
 
 **[90:37]** And I saw that a white bull was born, with large horns and all the beasts of the field and all the birds of the air feared him and made petition to him all the time. **[90:38]** And I saw till all their generations were transformed, and they all became white bulls; and the first among them became a lamb, and that lamb became a great animal and had great black horns on its head; and the Lord of the sheep rejoiced over it and over all the oxen. **[90:39]** And I slept in their midst: and I awoke and saw everything. **[90:40]** This is the vision which I saw while I slept, and I awoke and blessed the Lord of righteousness and gave Him glory. **[90:41]** Then I wept with a great weeping and my tears stayed not till I could no longer endure it: when I saw, they flowed on account of what I had seen; for everything shall come and be fulfilled, and all the deeds of men in their order were shown to me. **[90:42]** On that night I remembered the first dream, and because of it I wept and was troubled--because I had seen that vision.'
 
 
 
-**[92:1]** The book written by Enoch--[Enoch indeed wrote this complete doctrine of wisdom, (which is) praised of all men and a judge of all the earth] for all my children who shall dwell on the earth. And for the future generations who shall observe uprightness and peace. 
+**[92:1]** The book written by Enoch--Enoch indeed wrote this complete doctrine of wisdom, (which is) praised of all men and a judge of all the earth for all my children who shall dwell on the earth. And for the future generations who shall observe uprightness and peace. 
 
-**[92:2]** Let not your spirit be troubled on account of the times; For the Holy and Great One has appointed days for all things.
+**[92:2]** Let not your spirit be troubled on account of the times; 
+For the Holy and Great One has appointed days for all things.
 
-**[92:3]** And the righteous one shall arise from sleep, [Shall arise] and walk in the paths of righteousness, And all his path and conversation shall be in eternal goodness and grace.
+**[92:3]** And the righteous one shall arise from sleep, 
+Shall arise and walk in the paths of righteousness, 
+And all his path and conversation shall be in eternal goodness and grace.
 
-**[92:4]** He will be gracious to the righteous and give him eternal uprightness, And He will give him power so that he shall be (endowed) with goodness and righteousness. And he shall walk in eternal light.
+**[92:4]** He will be gracious to the righteous and give him eternal uprightness, 
+And He will give him power so that he shall be (endowed) with goodness and righteousness. 
+And he shall walk in eternal light.
 
-**[92:5]** And sin shall perish in darkness for ever, And shall no more be seen from that day for evermore.
+**[92:5]** And sin shall perish in darkness for ever, 
+And shall no more be seen from that day for evermore.
 
 
 
-**[91:1]** 'And now, my son Methuselah, call to me all thy brothers And gather together to me all the sons of thy mother; For the word calls me, And the spirit is poured out upon me, That I may show you everything That shall befall you for ever.' 
+**[91:1]** 'And now, my son Methuselah, call to me all thy brothers 
+And gather together to me all the sons of thy mother; 
+For the word calls me, 
+And the spirit is poured out upon me, 
+That I may show you everything 
+That shall befall you for ever.' 
 
 **[91:2]** And there upon Methuselah went and summoned to him all his brothers and assembled his relatives. **[91:3]** And he spake unto all the children of righteousness and said: 
 
-'Hear, ye sons of Enoch, all the words of your father, And hearken aright to the voice of my mouth; For I exhort you and say unto you, beloved:
+'Hear, ye sons of Enoch, all the words of your father, 
+And hearken aright to the voice of my mouth; 
+For I exhort you and say unto you, beloved:
 
-Love uprightness and walk therein. **[91:4]** And draw not nigh to uprightness with a double heart, And associate not with those of a double heart, But walk in righteousness, my sons. And it shall guide you on good paths, And righteousness shall be your companion.
+Love uprightness and walk therein. 
+**[91:4]** And draw not nigh to uprightness with a double heart,
+And associate not with those of a double heart, 
+But walk in righteousness, my sons. 
+And it shall guide you on good paths,
+And righteousness shall be your companion.
 
-**[91:5]** For I know that violence must increase on the earth, And a great chastisement be executed on the earth, And all unrighteousness come to an end:
+**[91:5]** For I know that violence must increase on the earth, 
+And a great chastisement be executed on the earth, 
+And all unrighteousness come to an end:
 
-Yea, it shall be cut off from its roots, And its whole structure be destroyed.
+Yea, it shall be cut off from its roots, 
+And its whole structure be destroyed.
 
-**[91:6]** And unrighteousness shall again be consummated on the earth, And all the deeds of unrighteousness and of violence And transgression shall prevail in a twofold degree.
+**[91:6]** And unrighteousness shall again be consummated on the earth, 
+And all the deeds of unrighteousness and of violence 
+And transgression shall prevail in a twofold degree.
 
-**[91:7]** And when sin and unrighteousness and blasphemy And violence in all kinds of deeds increase, And apostasy and transgression and uncleanness increase, 
+**[91:7]** And when sin and unrighteousness and blasphemy 
+And violence in all kinds of deeds increase, 
+And apostasy and transgression and uncleanness increase, 
 
-A great chastisement shall come from heaven upon all these, And the holy Lord will come forth with wrath and chastisement To execute judgement on earth.
+A great chastisement shall come from heaven upon all these, 
+And the holy Lord will come forth with wrath and chastisement 
+To execute judgement on earth.
 
-**[91:8]** In those days violence shall be cut off from its roots, And the roots of unrighteousness together with deceit, And they shall be destroyed from under heaven.
+**[91:8]** In those days violence shall be cut off from its roots, 
+And the roots of unrighteousness together with deceit, 
+And they shall be destroyed from under heaven.
 
-**[91:9]** And all the idols of the heathen shall be abandoned, And the temples burned with fire, And they shall remove them from the whole earth,
+**[91:9]** And all the idols of the heathen shall be abandoned,
+And the temples burned with fire, 
+And they shall remove them from the whole earth,
 
-And they (i.e. the heathen) shall be cast into the judgement of fire, And shall perish in wrath and in grievous judgement for ever.
+And they (i.e. the heathen) shall be cast into the judgement of fire, 
+And shall perish in wrath and in grievous judgement for ever.
 
-**[91:10]** And the righteous shall arise from their sleep, And wisdom shall arise and be given unto them. 
+**[91:10]** And the righteous shall arise from their sleep, 
+And wisdom shall arise and be given unto them. 
 
-[**[91:11]** And after that the roots of unrighteousness shall be cut off, and the sinners shall be destroyed by the sword . . . shall be cut off from the blasphemers in every place, and those who plan violence and those who commit blasphemy shall perish by the sword.] 
+**[91:11]** And after that the roots of unrighteousness shall be cut off, and the sinners shall be destroyed by the sword . . . shall be cut off from the blasphemers in every place, and those who plan violence and those who commit blasphemy shall perish by the sword.
 
-**[91:18]** And now I tell you, my sons, and show you The paths of righteousness and the paths of violence. Yea, I will show them to you again That ye may know what will come to pass.
+**[91:18]** And now I tell you, my sons, and show you 
+The paths of righteousness and the paths of violence. 
+Yea, I will show them to you again 
+That ye may know what will come to pass.
 
-**[91:19]** And now, hearken unto me, my sons, And walk in the paths of righteousness, And walk not in the paths of violence; For all who walk in the paths of unrighteousness shall perish for ever.'
-
-
-
-**[93:1]** And after that Enoch both †gave† and began to recount from the books. And Enoch said: 
-
-'Concerning the children of righteousness and concerning the elect of the world, And concerning the plant of uprightness, I will speak these things, Yea, I Enoch will declare (them) unto you, my sons:
-
-According to that which appeared to me in the heavenly vision, And which I have known through the word of the holy angels, And have learnt from the heavenly tablets.'
-
-**[93:3]** And Enoch began to recount from the books and said: 'I was born the seventh in the first week, While judgement and righteousness still endured.
-
-**[93:4]** And after me there shall arise in the second week great wickedness, And deceit shall have sprung up; And in it there shall be the first end.
-
-And in it a man shall be saved; And after it is ended unrighteousness shall grow up, And a law shall be made for the sinners.
-
-**[93:5]** And after that in the third week at its close A man shall be elected as the plant of righteous judgement, And his posterity shall become the plant of righteousness for evermore.
-
-**[93:6]** And after that in the fourth week, at its close, Visions of the holy and righteous shall be seen, And a law for all generations and an enclosure shall be made for them.
-
-**[93:7]** And after that in the fifth week, at its close, The house of glory and dominion shall be built for ever. 
-
-**[93:8]** And after that in the sixth week all who live in it shall be blinded, And the hearts of all of them shall godlessly forsake wisdom.
-
-And in it a man shall ascend; And at its close the house of dominion shall be burnt with fire, And the whole race of the chosen root shall be dispersed.
-
-**[93:9]** And after that in the seventh week shall an apostate generation arise, And many shall be its deeds, And all its deeds shall be apostate.
-
-**[93:10]** And at its close shall be elected The elect righteous of the eternal plant of righteousness, To receive sevenfold instruction concerning all His creation. 
-
-[**[93:11]** For who is there of all the children of men that is able to hear the voice of the Holy One without being troubled? And who can think His thoughts? and who is there that can behold all the works of heaven? **[93:12]** And how should there be one who could behold the heaven, and who is there that could understand the things of heaven and see a soul or a spirit and could tell thereof, or ascend and see all their ends and think them or do like them? **[93:13]** And who is there of all men that could know what is the breadth and the length of the earth, and to whom has been shown the measure of all of them? **[93:14]** Or is there any one who could discern the length of the heaven and how great is its height, and upon what it is founded, and how great is the number of the stars, and where all the luminaries rest?]
+**[91:19]** And now, hearken unto me, my sons, 
+And walk in the paths of righteousness, 
+And walk not in the paths of violence; 
+For all who walk in the paths of unrighteousness shall perish for ever.'
 
 
 
-**[91:12]** And after that there shall be another, the eighth week, that of righteousness, And a sword shall be given to it that a righteous judgement may be executed on the oppressors, And sinners shall be delivered into the hands of the righteous. 
+**[93:1]** And after that Enoch both gave and began to recount from the books. And Enoch said: 
 
-**[91:13]** And at its close they shall acquire houses through their righteousness, And a house shall be built for the Great King in glory for evermore, [91:14d] And all mankind shall look to the path of uprightness.
+'Concerning the children of righteousness and concerning the elect of the world, 
+And concerning the plant of uprightness, I will speak these things, 
+Yea, I Enoch will declare (them) unto you, my sons:
 
-[91:14a] And after that, in the ninth week, the righteous judgement shall be revealed to the whole world, b. And all the works of the godless shall vanish from all the earth, c. And the world shall be written down for destruction.
+According to that which appeared to me in the heavenly vision, 
+And which I have known through the word of the holy angels, 
+And have learnt from the heavenly tablets.'
 
-**[91:15]** And after this, in the tenth week in the seventh part, There shall be the great eternal judgement, In which He will execute vengeance amongst the angels.
+**[93:3]** And Enoch began to recount from the books and said: 
+'I was born the seventh in the first week, 
+While judgement and righteousness still endured.
 
-**[91:16]** And the first heaven shall depart and pass away, And a new heaven shall appear, And all the powers of the heavens shall give sevenfold light.
+**[93:4]** And after me there shall arise in the second week great wickedness, 
+And deceit shall have sprung up; 
+And in it there shall be the first end.
 
-**[91:17]** And after that there will be many weeks without number for ever, And all shall be in goodness and righteousness, And sin shall no more be mentioned for ever.
+And in it a man shall be saved; 
+And after it is ended unrighteousness shall grow up, 
+And a law shall be made for the sinners.
+
+**[93:5]** And after that in the third week at its close 
+A man shall be elected as the plant of righteous judgement,
+And his posterity shall become the plant of righteousness for evermore.
+
+**[93:6]** And after that in the fourth week, at its close, 
+Visions of the holy and righteous shall be seen, 
+And a law for all generations and an enclosure shall be made for them.
+
+**[93:7]** And after that in the fifth week, at its close, 
+The house of glory and dominion shall be built for ever. 
+
+**[93:8]** And after that in the sixth week all who live in it shall be blinded, 
+And the hearts of all of them shall godlessly forsake wisdom.
+
+And in it a man shall ascend; 
+And at its close the house of dominion shall be burnt with fire, 
+And the whole race of the chosen root shall be dispersed.
+
+**[93:9]** And after that in the seventh week shall an apostate generation arise, 
+And many shall be its deeds, 
+And all its deeds shall be apostate.
+
+**[93:10]** And at its close shall be elected 
+The elect righteous of the eternal plant of righteousness, 
+To receive sevenfold instruction concerning all His creation. 
+
+**[93:11]** For who is there of all the children of men that is able to hear the voice of the Holy One without being troubled? And who can think His thoughts? and who is there that can behold all the works of heaven? **[93:12]** And how should there be one who could behold the heaven, and who is there that could understand the things of heaven and see a soul or a spirit and could tell thereof, or ascend and see all their ends and think them or do like them? **[93:13]** And who is there of all men that could know what is the breadth and the length of the earth, and to whom has been shown the measure of all of them? **[93:14]** Or is there any one who could discern the length of the heaven and how great is its height, and upon what it is founded, and how great is the number of the stars, and where all the luminaries rest?
 
 
 
-**[94:1]** And now I say unto you, my sons, love righteousness and walk therein; For the paths of righteousness are worthy of acceptation, But the paths of unrighteousness shall suddenly be destroyed and vanish.
+**[91:12]** And after that there shall be another, the eighth week, that of righteousness, 
+And a sword shall be given to it that a righteous judgement may be executed on the oppressors, 
+And sinners shall be delivered into the hands of the righteous. 
 
-**[94:2]** And to certain men of a generation shall the paths of violence and of death be revealed, And they shall hold themselves afar from them, And shall not follow them. 
+**[91:13]** And at its close they shall acquire houses through their righteousness,
+And a house shall be built for the Great King in glory for evermore, 
+[91:14d] And all mankind shall look to the path of uprightness.
 
-**[94:3]** And now I say unto you the righteous: Walk not in the paths of wickedness, nor in the paths of death, And draw not nigh to them, lest ye be destroyed.
+[91:14a] And after that, in the ninth week, the righteous judgement shall be revealed to the whole world, 
+b. And all the works of the godless shall vanish from all the earth, 
+c. And the world shall be written down for destruction.
 
-**[94:4]** But seek and choose for yourselves righteousness and an elect life, And walk in the paths of peace, And ye shall live and prosper.
+**[91:15]** And after this, in the tenth week in the seventh part, 
+There shall be the great eternal judgement, 
+In which He will execute vengeance amongst the angels.
 
-**[94:5]** And hold fast my words in the thoughts of your hearts, And suffer them not to be effaced from your hearts;
+**[91:16]** And the first heaven shall depart and pass away, 
+And a new heaven shall appear, 
+And all the powers of the heavens shall give sevenfold light.
 
-For I know that sinners will tempt men to evilly-entreat wisdom, So that no place may be found for her, And no manner of temptation may minish. 
-
-**[94:6]** Woe to those who build unrighteousness and oppression And lay deceit as a foundation; For they shall be suddenly overthrown, And they shall have no peace.
-
-**[94:7]** Woe to those who build their houses with sin; For from all their foundations shall they be overthrown, And by the sword shall they fall.
-
-[And those who acquire gold and silver in judgement suddenly shall perish.]
-
-**[94:8]** Woe to you, ye rich, for ye have trusted in your riches, And from your riches shall ye depart, Because ye have not remembered the Most High in the days of your riches.
-
-**[94:9]** Ye have committed blasphemy and unrighteousness, And have become ready for the day of slaughter, And the day of darkness and the day of the great judgement.
-
-**[94:10]** Thus I speak and declare unto you: He who hath created you will overthrow you, And for your fall there shall be no compassion, And your Creator will rejoice at your destruction.
-
-**[94:11]** And your righteous ones in those days shall be A reproach to the sinners and the godless.
+**[91:17]** And after that there will be many weeks without number for ever, 
+And all shall be in goodness and righteousness,
+And sin shall no more be mentioned for ever.
 
 
 
-**[95:1]** Oh that mine eyes were [a cloud of] waters That I might weep over you, And pour down my tears as a cloud †of† waters: That so I might rest from my trouble of heart!
+**[94:1]** And now I say unto you, my sons, love righteousness and walk therein; 
+For the paths of righteousness are worthy of acceptation, 
+But the paths of unrighteousness shall suddenly be destroyed and vanish.
 
-**[95:2]** †Who has permitted you to practice reproaches and wickedness? And so judgement shall overtake you, sinners. †
+**[94:2]** And to certain men of a generation shall the paths of violence and of death be revealed,
+And they shall hold themselves afar from them, 
+And shall not follow them. 
 
-**[95:3]** Fear not the sinners, ye righteous; For again will the Lord deliver them into your hands, That ye may execute judgement upon them according to your desires.
+**[94:3]** And now I say unto you the righteous: 
+Walk not in the paths of wickedness, nor in the paths of death, 
+And draw not nigh to them, lest ye be destroyed.
 
-**[95:4]** Woe to you who fulminate anathemas which cannot be reversed: Healing shall therefore be far from you because of your sins.
+**[94:4]** But seek and choose for yourselves righteousness and an elect life, 
+And walk in the paths of peace, 
+And ye shall live and prosper.
 
-**[95:5]** Woe to you who requite your neighbour with evil; For ye shall be requited according to your works.
+**[94:5]** And hold fast my words in the thoughts of your hearts, 
+And suffer them not to be effaced from your hearts;
 
-**[95:6]** Woe to you, lying witnesses, And to those who weigh out injustice, For suddenly shall ye perish.
+For I know that sinners will tempt men to evilly-entreat wisdom, 
+So that no place may be found for her, 
+And no manner of temptation may minish. 
 
-**[95:7]** Woe to you, sinners, for ye persecute the righteous; For ye shall be delivered up and persecuted because of injustice, And heavy shall its yoke be upon you.
+**[94:6]** Woe to those who build unrighteousness and oppression 
+And lay deceit as a foundation; 
+For they shall be suddenly overthrown,
+And they shall have no peace.
+
+**[94:7]** Woe to those who build their houses with sin; 
+For from all their foundations shall they be overthrown, 
+And by the sword shall they fall.
+
+And those who acquire gold and silver in judgement suddenly shall perish.
+
+**[94:8]** Woe to you, ye rich, for ye have trusted in your riches, 
+And from your riches shall ye depart, 
+Because ye have not remembered the Most High in the days of your riches.
+
+**[94:9]** Ye have committed blasphemy and unrighteousness, 
+And have become ready for the day of slaughter, 
+And the day of darkness and the day of the great judgement.
+
+**[94:10]** Thus I speak and declare unto you: 
+He who hath created you will overthrow you, 
+And for your fall there shall be no compassion, 
+And your Creator will rejoice at your destruction.
+
+**[94:11]** And your righteous ones in those days shall be 
+A reproach to the sinners and the godless.
+
+
+
+**[95:1]** Oh that mine eyes were a cloud of waters 
+That I might weep over you, 
+And pour down my tears as a cloud of waters: 
+That so I might rest from my trouble of heart!
+
+**[95:2]** Who has permitted you to practice reproaches and wickedness? 
+And so judgement shall overtake you, sinners. 
+
+**[95:3]** Fear not the sinners, ye righteous; 
+For again will the Lord deliver them into your hands, 
+That ye may execute judgement upon them according to your desires.
+
+**[95:4]** Woe to you who fulminate anathemas which cannot be reversed: 
+Healing shall therefore be far from you because of your sins.
+
+**[95:5]** Woe to you who requite your neighbour with evil; 
+For ye shall be requited according to your works.
+
+**[95:6]** Woe to you, lying witnesses, 
+And to those who weigh out injustice, 
+For suddenly shall ye perish.
+
+**[95:7]** Woe to you, sinners, for ye persecute the righteous; 
+For ye shall be delivered up and persecuted because of injustice, 
+And heavy shall its yoke be upon you.
 
 
 
