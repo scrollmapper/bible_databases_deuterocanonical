@@ -1601,113 +1601,224 @@ And heavy shall its yoke be upon you.
 
 
 
-**[96:1]** Be hopeful, ye righteous; for suddenly shall the sinners perish before you, And ye shall have lordship over them according to your desires.
+**[96:1]** Be hopeful, ye righteous; for suddenly shall the sinners perish before you, 
+And ye shall have lordship over them according to your desires.
 
-[**[96:2]** And in the day of the tribulation of the sinners, Your children shall mount and rise as eagles, And higher than the vultures will be your nest, And ye shall ascend and enter the crevices of the earth, And the clefts of the rock for ever as coneys before the unrighteous, And the sirens shall sigh because of you-and weep.]
+**[96:2]** And in the day of the tribulation of the sinners, 
+Your children shall mount and rise as eagles, 
+And higher than the vultures will be your nest, 
+And ye shall ascend and enter the crevices of the earth, 
+And the clefts of the rock for ever as coneys before the unrighteous, 
+And the sirens shall sigh because of you and weep.
 
-**[96:3]** Wherefore fear not, ye that have suffered; For healing shall be your portion, And a bright light shall enlighten you, And the voice of rest ye shall hear from heaven.
+**[96:3]** Wherefore fear not, ye that have suffered; 
+For healing shall be your portion,
+And a bright light shall enlighten you, 
+And the voice of rest ye shall hear from heaven.
 
-**[96:4]** Woe unto you, ye sinners, for your riches make you appear like the righteous, But your hearts convict you of being sinners, And this fact shall be a testimony against you for a memorial of (your) evil deeds.
+**[96:4]** Woe unto you, ye sinners, for your riches make you appear like the righteous, 
+But your hearts convict you of being sinners, 
+And this fact shall be a testimony against you for a memorial of (your) evil deeds.
 
-**[96:5]** Woe to you who devour the finest of the wheat, And drink wine in large bowls, And tread under foot the lowly with your might.
+**[96:5]** Woe to you who devour the finest of the wheat, 
+And drink wine in large bowls, 
+And tread under foot the lowly with your might.
 
-**[96:6]** Woe to you who drink water from every fountain, For suddenly shall ye be consumed and wither away, Because ye have forsaken the fountain of life.
+**[96:6]** Woe to you who drink water from every fountain, 
+For suddenly shall ye be consumed and wither away, 
+Because ye have forsaken the fountain of life.
 
-**[96:7]** Woe to you who work unrighteousness And deceit and blasphemy: It shall be a memorial against you for evil.
+**[96:7]** Woe to you who work unrighteousness 
+And deceit and blasphemy: 
+It shall be a memorial against you for evil.
 
-**[96:8]** Woe to you, ye mighty, Who with might oppress the righteous; For the day of your destruction is coming. In those days many and good days shall come to the righteous--in the day of your judgement.
+**[96:8]** Woe to you, ye mighty, 
+Who with might oppress the righteous; 
+For the day of your destruction is coming. 
 
-
-
-**[97:1]** Believe, ye righteous, that the sinners will become a shame And perish in the day of unrighteousness. **[97:2]** Be it known unto you (ye sinners) that the Most High is mindful of your destruction, And the angels of heaven rejoice over your destruction.
-
-**[97:3]** What will ye do, ye sinners, And whither will ye flee on that day of judgement, When ye hear the voice of the prayer of the righteous?
-
-**[97:4]** Yea, ye shall fare like unto them, Against whom this word shall be a testimony: "Ye have been companions of sinners."
-
-**[97:5]** And in those days the prayer of the righteous shall reach unto the Lord, And for you the days of your judgement shall come.
-
-**[97:6]** And all the words of your unrighteousness shall be read out before the Great Holy One, And your faces shall be covered with shame, And He will reject every work which is grounded on unrighteousness.
-
-**[97:7]** Woe to you, ye sinners, who live on the mid ocean and on the dry land, Whose remembrance is evil against you.
-
-**[97:8]** Woe to you who acquire silver and gold in unrighteousness and say: "We have become rich with riches and have possessions; And have acquired everything we have desired.
-
-**[97:9]** And now let us do what we purposed: For we have gathered silver, [97:9d] And many are the husbandmen in our houses." [97:9e] And our granaries are (brim) full as with water,
-
-**[97:10]** Yea and like water your lies shall flow away; For your riches shall not abide But speedily ascend from you;
-
-For ye have acquired it all in unrighteousness, And ye shall be given over to a great curse.
-
+In those days many and good days shall come to the righteous--in the day of your judgement.
 
 
-**[98:1]** And now I swear unto you, to the wise and to the foolish, For ye shall have manifold experiences on the earth.
 
-**[98:2]** For ye men shall put on more adornments than a woman, And coloured garments more than a virgin: In royalty and in grandeur and in power, And in silver and in gold and in purple, And in splendour and in food they shall be poured out as water.
+**[97:1]** Believe, ye righteous, that the sinners will become a shame 
+And perish in the day of unrighteousness. 
+**[97:2]** Be it known unto you (ye sinners) that the Most High is mindful of your destruction, 
+And the angels of heaven rejoice over your destruction.
 
-**[98:3]** Therefore they shall be wanting in doctrine and wisdom, And they shall perish thereby together with their possessions; And with all their glory and their splendour, And in shame and in slaughter and in great destitution, Their spirits shall be cast into the furnace of fire.
+**[97:3]** What will ye do, ye sinners, 
+And whither will ye flee on that day of judgement, 
+When ye hear the voice of the prayer of the righteous?
 
-**[98:4]** I have sworn unto you, ye sinners, as a mountain has not become a slave, And a hill does not become the handmaid of a woman, Even so sin has not been sent upon the earth, But man of himself has created it, And under a great curse shall they fall who commit it.
+**[97:4]** Yea, ye shall fare like unto them, 
+Against whom this word shall be a testimony: 
+"Ye have been companions of sinners."
 
-**[98:5]** And barrenness has not been given to the woman, But on account of the deeds of her own hands she dies without children.
+**[97:5]** And in those days the prayer of the righteous shall reach unto the Lord, 
+And for you the days of your judgement shall come.
 
-**[98:6]** I have sworn unto you, ye sinners, by the Holy Great One, That all your evil deeds are revealed in the heavens, And that none of your deeds of oppression are covered and hidden. 
+**[97:6]** And all the words of your unrighteousness shall be read out before the Great Holy One, 
+And your faces shall be covered with shame, 
+And He will reject every work which is grounded on unrighteousness.
+
+**[97:7]** Woe to you, ye sinners, who live on the mid ocean and on the dry land, 
+Whose remembrance is evil against you.
+
+**[97:8]** Woe to you who acquire silver and gold in unrighteousness and say: 
+"We have become rich with riches and have possessions; 
+And have acquired everything we have desired.
+
+**[97:9]** And now let us do what we purposed: 
+For we have gathered silver,
+[97:9d] And many are the husbandmen in our houses." 
+[97:9e] And our granaries are (brim) full as with water,
+
+**[97:10]** Yea and like water your lies shall flow away; 
+For your riches shall not abide 
+But speedily ascend from you;
+
+For ye have acquired it all in unrighteousness,
+And ye shall be given over to a great curse.
+
+
+
+**[98:1]** And now I swear unto you, to the wise and to the foolish, 
+For ye shall have manifold experiences on the earth.
+
+**[98:2]** For ye men shall put on more adornments than a woman, 
+And coloured garments more than a virgin: 
+In royalty and in grandeur and in power, 
+And in silver and in gold and in purple, 
+And in splendour and in food they shall be poured out as water.
+
+**[98:3]** Therefore they shall be wanting in doctrine and wisdom, 
+And they shall perish thereby together with their possessions; 
+And with all their glory and their splendour, 
+And in shame and in slaughter and in great destitution, 
+Their spirits shall be cast into the furnace of fire.
+
+**[98:4]** I have sworn unto you, ye sinners, as a mountain has not become a slave, 
+And a hill does not become the handmaid of a woman, 
+Even so sin has not been sent upon the earth,
+But man of himself has created it, 
+And under a great curse shall they fall who commit it.
+
+**[98:5]** And barrenness has not been given to the woman, 
+But on account of the deeds of her own hands she dies without children.
+
+**[98:6]** I have sworn unto you, ye sinners, by the Holy Great One,
+That all your evil deeds are revealed in the heavens, 
+And that none of your deeds of oppression are covered and hidden. 
 
 **[98:7]** And do not think in your spirit nor say in your heart that ye do not know and that ye do not see that every sin is every day recorded in heaven in the presence of the Most High. **[98:8]** From henceforth ye know that all your oppression wherewith ye oppress is written down every day till the day of your judgement.
 
 **[98:9]** Woe to you, ye fools, for through your folly shall ye perish: and ye transgress against the wise, and so good hap shall not be your portion. **[98:10]** And now, know ye that ye are prepared for the day of destruction: wherefore do not hope to live, ye sinners, but ye shall depart and die; for ye know no ransom; for ye are prepared for the day of the great judgement, for the day of tribulation and great shame for your spirits. 
 
-**[98:11]** Woe to you, ye obstinate of heart, who work wickedness and eat blood: Whence have ye good things to eat and to drink and to be filled? 
+**[98:11]** Woe to you, ye obstinate of heart, who work wickedness and eat blood: 
+Whence have ye good things to eat and to drink and to be filled? 
 
  From all the good things which the Lord the Most High has placed in abundance on the earth; therefore ye shall have no peace. **[98:12]** Woe to you who love the deeds of unrighteousness: wherefore do ye hope for good hap unto yourselves? know that ye shall be delivered into the hands of the righteous, and they shall cut off your necks and slay you, and have no mercy upon you. **[98:13]** Woe to you who rejoice in the tribulation of the righteous; for no grave shall be dug for you. **[98:14]** Woe to you who set at nought the words of the righteous; for ye shall have no hope of life. **[98:15]** Woe to you who write down lying and godless words; for they write down their lies that men may hear them and act godlessly towards (their) neighbour. **[98:16]** Therefore they shall have no peace but die a sudden death.
 
 
 
-**[99:1]** Woe to you who work godlessness, And glory in lying and extol them: Ye shall perish, and no happy life shall be yours.
+**[99:1]** Woe to you who work godlessness, 
+And glory in lying and extol them: 
+Ye shall perish, and no happy life shall be yours.
 
-**[99:2]** Woe to them who pervert the words of uprightness, And transgress the eternal law, And transform themselves into what they were not [into sinners]: They shall be trodden under foot upon the earth.
+**[99:2]** Woe to them who pervert the words of uprightness, 
+And transgress the eternal law, 
+And transform themselves into what they were not into sinners: 
+They shall be trodden under foot upon the earth.
 
-**[99:3]** In those days make ready, ye righteous, to raise your prayers as a memorial, And place them as a testimony before the angels, That they may place the sin of the sinners for a memorial before the Most High.
+**[99:3]** In those days make ready, ye righteous, to raise your prayers as a memorial, 
+And place them as a testimony before the angels, 
+That they may place the sin of the sinners for a memorial before the Most High.
 
-**[99:4]** In those days the nations shall be stirred up, And the families of the nations shall arise on the day of destruction.
+**[99:4]** In those days the nations shall be stirred up, 
+And the families of the nations shall arise on the day of destruction.
 
-**[99:5]** And in those days the destitute shall go forth and carry off their children, And they shall abandon them, so that their children shall perish through them: Yea, they shall abandon their children (that are still) sucklings, and not return to them, And shall have no pity on their beloved ones. 
+**[99:5]** And in those days the destitute shall go forth and carry off their children, 
+And they shall abandon them, so that their children shall perish through them:
+Yea, they shall abandon their children (that are still) sucklings, and not return to them,
+And shall have no pity on their beloved ones. 
 
-**[99:6]** And again I swear to you, ye sinners, that sin is prepared for a day of unceasing bloodshed. **[99:7]** And they who worship stones, and grave images of gold and silver and wood 〈and stone〉 and clay, and those who worship impure spirits and demons, and all kinds of idols not according to knowledge, shall get no manner of help from them. 
+**[99:6]** And again I swear to you, ye sinners, that sin is prepared for a day of unceasing bloodshed. **[99:7]** And they who worship stones, and grave images of gold and silver and wood and stone and clay, and those who worship impure spirits and demons, and all kinds of idols not according to knowledge, shall get no manner of help from them. 
 
-**[99:8]** And they shall become godless by reason of the folly of their hearts, And their eyes shall be blinded through the fear of their hearts And through visions in their dreams. **[99:9]** Through these they shall become godless and fearful; For they shall have wrought all their work in a lie, And shall have worshiped a stone: Therefore in an instant shall they perish.
+**[99:8]** And they shall become godless by reason of the folly of their hearts, 
+And their eyes shall be blinded through the fear of their hearts 
+And through visions in their dreams. 
+**[99:9]** Through these they shall become godless and fearful;
+For they shall have wrought all their work in a lie,
+And shall have worshiped a stone: 
+Therefore in an instant shall they perish.
 
-**[99:10]** But in those days blessed are all they who accept the words of wisdom, and understand them, And observe the paths of the Most High, and walk in the path of His righteousness, And become not godless with the godless; For they shall be saved.
+**[99:10]** But in those days blessed are all they who accept the words of wisdom, and understand them, 
+And observe the paths of the Most High, and walk in the path of His righteousness, 
+And become not godless with the godless; 
+For they shall be saved.
 
-**[99:11]** Woe to you who spread evil to your neighbours; For you shall be slain in Sheol. **[99:12]** Woe to you who make deceitful and false measures, And (to them) who cause bitterness on the earth; For they shall thereby be utterly consumed.
+**[99:11]** Woe to you who spread evil to your neighbours; 
+For you shall be slain in Sheol. 
+**[99:12]** Woe to you who make deceitful and false measures, 
+And (to them) who cause bitterness on the earth; 
+For they shall thereby be utterly consumed.
 
-**[99:13]** Woe to you who build your houses through the grievous toil of others, And all their building materials are the bricks and stones of sin; I tell you ye shall have no peace.
+**[99:13]** Woe to you who build your houses through the grievous toil of others, 
+And all their building materials are the bricks and stones of sin; 
+I tell you ye shall have no peace.
 
-**[99:14]** Woe to them who reject the measure and eternal heritage of their fathers And whose souls follow after idols; For they shall have no rest.
+**[99:14]** Woe to them who reject the measure and eternal heritage of their fathers 
+And whose souls follow after idols; 
+For they shall have no rest.
 
-**[99:15]** Woe to them who work unrighteousness and help oppression, And slay their neighbours until the day of the great judgement.
+**[99:15]** Woe to them who work unrighteousness and help oppression, 
+And slay their neighbours until the day of the great judgement.
 
-**[99:16]** For He shall cast down your glory, And bring affliction on your hearts, And shall arouse His fierce indignation, And destroy you all with the sword; And all the holy and righteous shall remember your sins.
+**[99:16]** For He shall cast down your glory, 
+And bring affliction on your hearts, 
+And shall arouse His fierce indignation, 
+And destroy you all with the sword; 
+And all the holy and righteous shall remember your sins.
 
 
 
-**[100:1]** And in those days in one place the fathers together with their sons shall be smitten And brothers one with another shall fall in death Till the streams flow with their blood.
+**[100:1]** And in those days in one place the fathers together with their sons shall be smitten 
+And brothers one with another shall fall in death 
+Till the streams flow with their blood.
 
-**[100:2]** .For a man shall not withhold his hand from slaying his sons and his sons' sons, And the sinner shall not withhold his hand from his honoured brother: From dawn till sunset they shall slay one another.
+**[100:2]** For a man shall not withhold his hand from slaying his sons and his sons' sons, 
+And the sinner shall not withhold his hand from his honoured brother:
+From dawn till sunset they shall slay one another.
 
-**[100:3]** And the horse shall walk up to the breast in the blood of sinners, And the chariot shall be submerged to its height.
+**[100:3]** And the horse shall walk up to the breast in the blood of sinners, 
+And the chariot shall be submerged to its height.
 
-**[100:4]** In those days the angels shall descend into the secret places And gather together into one place all those who brought down sin And the Most High will arise on that day of judgement To execute great judgement amongst sinners.
+**[100:4]** In those days the angels shall descend into the secret places 
+And gather together into one place all those who brought down sin 
+And the Most High will arise on that day of judgement 
+To execute great judgement amongst sinners.
 
-**[100:5]** And over all the righteous and holy He will appoint guardians from amongst the holy angels To guard them as the apple of an eye, Until He makes an end of all wickedness and all sin, And though the righteous sleep a long sleep, they have nought to fear.
+**[100:5]** And over all the righteous and holy He will appoint guardians from amongst the holy angels 
+To guard them as the apple of an eye, 
+Until He makes an end of all wickedness and all sin, 
+And though the righteous sleep a long sleep, they have nought to fear.
 
-**[100:6]** And (then) the children of the earth shall see the wise in security, And shall understand all the words of this book, And recognize that their riches shall not be able to save them In the overthrow of their sins.
+**[100:6]** And (then) the children of the earth shall see the wise in security, 
+And shall understand all the words of this book, 
+And recognize that their riches shall not be able to save them 
+In the overthrow of their sins.
 
-**[100:7]** Woe to you, Sinners, on the day of strong anguish, Ye who afflict the righteous and burn them with fire: Ye shall be requited according to your works.
+**[100:7]** Woe to you, sinners, on the day of strong anguish, 
+Ye who afflict the righteous and burn them with fire: 
+Ye shall be requited according to your works.
 
-**[100:8]** Woe to you, ye obstinate of heart, Who watch in order to devise wickedness: Therefore shall fear come upon you And there shall be none to help you.
+**[100:8]** Woe to you, ye obstinate of heart,
+Who watch in order to devise wickedness: 
+Therefore shall fear come upon you 
+And there shall be none to help you.
 
-**[100:9]** Woe to you, ye sinners, on account of the words of your mouth, And on account of the deeds of your hands which your godlessness as wrought, In blazing flames burning worse than fire shall ye burn. 
+**[100:9]** Woe to you, ye sinners, on account of the words of your mouth, 
+And on account of the deeds of your hands which your godlessness as wrought, 
+In blazing flames burning worse than fire shall ye burn. 
 
 **[100:10]** And now, know ye that from the angels He will inquire as to your deeds in heaven, from the sun and from the moon and from the stars in reference to your sins because upon the earth ye execute judgement on the righteous. **[100:11]** And He will summon to testify against you every cloud and mist and dew and rain; for they shall all be withheld because of you from descending upon you, and they shall be mindful of your sins. **[100:12]** And now give presents to the rain that it be not withheld from descending upon you, nor yet the dew, when it has received gold and silver from you that it may descend. **[100:13]** When the hoar-frost and snow with their chilliness, and all the snow-storms with all their plagues fall upon you, in those days ye shall not be able to stand before them.
 
@@ -1715,23 +1826,42 @@ For ye have acquired it all in unrighteousness, And ye shall be given over to a 
 
 **[101:1]** Observe the heaven, ye children of heaven, and every work of the Most High, and fear ye Him and work no evil in His presence. **[101:2]** If He closes the windows of heaven, and withholds the rain and the dew from descending on the earth on your account, what will ye do then? **[101:3]** And if He sends His anger upon you because of your deeds, ye cannot petition Him; for ye spake proud and insolent words against His righteousness: therefore ye shall have no peace. **[101:4]** And see ye not the sailors of the ships, how their ships are tossed to and fro by the waves, and are shaken by the winds, and are in sore trouble? **[101:5]** And therefore do they fear because all their goodly possessions go upon the sea with them, and they have evil forebodings of heart that the sea will swallow them and they will perish therein.
 
-**[101:6]** Are not the entire sea and all its waters, and all its movements, the work of the Most High, and has He not set limits to its doings, and confined it throughout by the sand? **[101:7]** And at His reproof it is afraid and dries up, and all its fish die and all that is in it; But ye sinners that are on the earth fear Him not. **[101:8]** Has He not made the heaven and the earth, and all that is therein? Who has given understanding and wisdom to everything that moves on the earth and in the sea. **[101:9]** Do not the sailors of the ships fear the sea? Yet sinners fear not the Most High.
+**[101:6]** Are not the entire sea and all its waters, and all its movements, the work of the Most High, and has He not set limits to its doings, and confined it throughout by the sand? **[101:7]** And at His reproof it is afraid and dries up, and all its fish die and all that is in it; But ye sinners that are on the earth fear Him not. **[101:8]** Has He not made the heaven and the earth, and all that is therein? Who has given understanding and wisdom to everything that moves on the earth and in the sea? **[101:9]** Do not the sailors of the ships fear the sea? Yet sinners fear not the Most High.
 
 
 
-**[102:1]** In those days when He hath brought a grievous fire upon you, Whither will ye flee, and where will ye find deliverance? And when He launches forth His Word against you Will you not be affrighted and fear?
+**[102:1]** In those days when He hath brought a grievous fire upon you, 
+Whither will ye flee, and where will ye find deliverance? 
+And when He launches forth His Word against you 
+Will you not be affrighted and fear?
 
-**[102:2]** And all the luminaries shall be affrighted with great fear, And all the earth shall be affrighted and tremble and be alarmed.
+**[102:2]** And all the luminaries shall be affrighted with great fear, 
+And all the earth shall be affrighted and tremble and be alarmed.
 
-**[102:3]** And all the †angels shall execute their commands† And shall seek to hide themselves from the presence of the Great Glory, And the children of earth shall tremble and quake; And ye sinners shall be cursed for ever, And ye shall have no peace. **[102:4]** Fear ye not, ye souls of the righteous, And be hopeful ye that have died in righteousness.
+**[102:3]** And all the angels shall execute their commands 
+And shall seek to hide themselves from the presence of the Great Glory, 
+And the children of earth shall tremble and quake; 
+And ye sinners shall be cursed for ever, 
+And ye shall have no peace. 
+**[102:4]** Fear ye not, ye souls of the righteous, 
+And be hopeful ye that have died in righteousness.
 
-**[102:5]** And grieve not if your soul into Sheol has descended in grief, And that in your life your body fared not according to your goodness, But wait for the day of the judgement of sinners And for the day of cursing and chastisement.
+**[102:5]** And grieve not if your soul into Sheol has descended in grief, 
+And that in your life your body fared not according to your goodness, 
+But wait for the day of the judgement of sinners 
+And for the day of cursing and chastisement.
 
-**[102:6]** And yet when ye die the sinners speak over you: "As we die, so die the righteous, And what benefit do they reap for their deeds?
+**[102:6]** And yet when ye die the sinners speak over you:
+"As we die, so die the righteous,
+And what benefit do they reap for their deeds?
 
-**[102:7]** Behold, even as we, so do they die in grief and darkness, And what have they more than we? From henceforth we are equal.
+**[102:7]** Behold, even as we, so do they die in grief and darkness, 
+And what have they more than we? 
+From henceforth we are equal.
 
-**[102:8]** And what will they receive and what will they see for ever? Behold, they too have died, And henceforth for ever shall they see no light." 
+**[102:8]** And what will they receive and what will they see for ever?
+Behold, they too have died, 
+And henceforth for ever shall they see no light." 
 
 **[102:9]** I tell you, ye sinners, ye are content to eat and drink, and rob and sin, and strip men naked, and acquire wealth and see good days. **[102:10]** Have ye seen the righteous how their end falls out, that no manner of violence is found in them till their death? **[102:11]** "Nevertheless they perished and became as though they had not been, and their spirits descended into Sheol in tribulation."
 
@@ -1739,27 +1869,59 @@ For ye have acquired it all in unrighteousness, And ye shall be given over to a 
 
 **[103:1]** Now, therefore, I swear to you, the righteous, by the glory of the Great and Honoured and Mighty One in dominion, and by His greatness I swear to you: 
 
-**[103:2]** I know a mystery And have read the heavenly tablets, And have seen the holy books, And have found written therein and inscribed regarding them: **[103:3]** That all goodness and joy and glory are prepared for them, And written down for the spirits of those who have died in righteousness, And that manifold good shall be given to you in recompense for your labours, And that your lot is abundantly beyond the lot of the living.
+**[103:2]** I know a mystery 
+And have read the heavenly tablets, 
+And have seen the holy books, 
+And have found written therein and inscribed regarding them: 
+**[103:3]** That all goodness and joy and glory are prepared for them, 
+And written down for the spirits of those who have died in righteousness, 
+And that manifold good shall be given to you in recompense for your labours,
+And that your lot is abundantly beyond the lot of the living.
 
-**[103:4]** And the spirits of you who have died in righteousness shall live and rejoice, And their spirits shall not perish, nor their memorial from before the face of the Great One Unto all the generations of the world: wherefore no longer fear their contumely.
+**[103:4]** And the spirits of you who have died in righteousness shall live and rejoice, 
+And their spirits shall not perish, nor their memorial from before the face of the Great One 
+Unto all the generations of the world: wherefore no longer fear their contumely.
 
-**[103:5]** Woe to you, ye sinners, when ye have died, If ye die in the wealth of your sins, And those who are like you say regarding you: 'Blessed are the sinners: they have seen all their days. **[103:6]** And how they have died in prosperity and in wealth, And have not seen tribulation or murder in their life; And they have died in honour, And judgement has not been executed on them during their life."
+**[103:5]** Woe to you, ye sinners, when ye have died, 
+If ye die in the wealth of your sins, 
+And those who are like you say regarding you: 
+'Blessed are the sinners: they have seen all their days. 
+**[103:6]** And how they have died in prosperity and in wealth, 
+And have not seen tribulation or murder in their life; 
+And they have died in honour, 
+And judgement has not been executed on them during their life."
 
-**[103:7]** Know ye, that their souls will be made to descend into Sheol And they shall be wretched in their great tribulation.
+**[103:7]** Know ye, that their souls will be made to descend into Sheol 
+And they shall be wretched in their great tribulation.
 
-**[103:8]** And into darkness and chains and a burning flame where there is grievous judgement shall your spirits enter; And the great judgement shall be for all the generations of the world. Woe to you, for ye shall have no peace.
+**[103:8]** And into darkness and chains and a burning flame where there is grievous judgement shall your spirits enter; 
+And the great judgement shall be for all the generations of the world. 
+Woe to you, for ye shall have no peace.
 
-**[103:9]** Say not in regard to the righteous and good who are in life: "In our troubled days we have toiled laboriously and experienced every trouble, And met with much evil and been consumed, And have become few and our spirit small.
+**[103:9]** Say not in regard to the righteous and good who are in life: 
+"In our troubled days we have toiled laboriously and experienced every trouble, 
+And met with much evil and been consumed,
+And have become few and our spirit small.
 
-**[103:10]** And we have been destroyed and have not found any to help us even with a word: We have been tortured ⌈and destroyed⌉, and not hoped to see life from day to day.
+**[103:10]** And we have been destroyed and have not found any to help us even with a word: 
+We have been tortured ⌈and destroyed⌉, and not hoped to see life from day to day.
 
-**[103:11]** We hoped to be the head and have become the tail: We have toiled laboriously and had no satisfaction in our toil; And we have become the food of the sinners and the unrighteous, And they have laid their yoke heavily upon us.
+**[103:11]** We hoped to be the head and have become the tail: 
+We have toiled laboriously and had no satisfaction in our toil; 
+And we have become the food of the sinners and the unrighteous,
+And they have laid their yoke heavily upon us.
 
-**[103:12]** They have had dominion over us that hated us †and smote us; And to those that hated us† we have bowed our necks But they pitied us not.
+**[103:12]** They have had dominion over us that hated us and smote us; 
+And to those that hated us we have bowed our necks 
+But they pitied us not.
 
-**[103:13]** We desired to get away from them that we might escape and be at rest, But found no place whereunto we should flee and be safe from them. 
+**[103:13]** We desired to get away from them that we might escape and be at rest, 
+But found no place whereunto we should flee and be safe from them. 
 
-**[103:14]** And are complained to the rulers in our tribulation, And cried out against those who devoured us, But they did not attend to our cries And would not hearken to our voice. 
+**[103:14]** And are complained to the rulers in our tribulation, 
+And cried out against those who devoured us, 
+But they did not attend to our cries
+And would not hearken to our voice. 
 
 **[103:15]** And they helped those who robbed us and devoured us and those who made us few; and they concealed their oppression, and they did not remove from us the yoke of those that devoured us and dispersed us and murdered us, and they concealed their murder, and remembered not that they had lifted up their hands against us.
 
@@ -1773,7 +1935,7 @@ For ye have acquired it all in unrighteousness, And ye shall be given over to a 
 
 
 
-**[106:1]** And after some days my son Methuselah took a wife for his son Lamech, and she became pregnant by him and bore a son. **[106:2]** And his body was white as snow and red as the blooming of a rose, and the hair of his head and his long locks were white as wool, and his eyes beautiful. And when he opened his eyes, he lighted up the whole house like the sun, and the whole house was very bright. **[106:3]** And thereupon he arose in the hands of the midwife, opened his mouth, and †conversed with† the Lord of righteousness. **[106:4]** And his father Lamech was afraid of him and fled, and came to his father Methuselah. **[106:5]** And he said unto him: 'I have begotten a strange son, diverse from and unlike man, and resembling the sons of the God of heaven; and his nature is different and he is not like us, and his eyes are as the rays of the sun, and his countenance is glorious. **[106:6]** And it seems to me that he is not sprung from me but from the angels, and I fear that in his days a wonder may be wrought on the earth. **[106:7]** And now, my father, I am here to petition thee and implore thee that thou mayest go to Enoch, our father, and learn from him the truth, for his dwelling-place is amongst the angels.' **[106:8]** And when Methuselah heard the words of his son, he came to me to the ends of the earth; for he had heard that I was there, and he cried aloud, and I heard his voice and I came to him. And I said unto him: 'Behold, here am I, my son, wherefore hast thou come to me?' **[106:9]** And he answered and said: 'Because of a great cause of anxiety have I come to thee, and because of a disturbing vision have I approached. **[106:10]** And now, my father, hear me: unto Lamech my son there hath been born a son, the like of whom there is none, and his nature is not like man's nature, and the colour of his body is whiter than snow and redder than the bloom of a rose, and the hair of his head is whiter than white wool, and his eyes are like the rays of the sun, and he opened his eyes and thereupon lighted up the whole house. **[106:11]** And he arose in the hands of the midwife, and opened his mouth and blessed the Lord of heaven. **[106:12]** And his father Lamech became afraid and fled to me, and did not believe that he was sprung from him, but that he was in the likeness of the angels of heaven; and behold I have come to thee that thou mayest make known to me the truth.' **[106:13]** And I, Enoch, answered and said unto him: 'The Lord will do a new thing on the earth, and this I have already seen in a vision, and make known to thee that in the generation of my father Jared some of the angels of heaven transgressed the word of the Lord. **[106:14]** And behold they commit sin and transgress the law, and have united themselves with women and commit sin with them, and have married some of them, and have begot children by them. **[106:17]** And they shall produce on the earth giants not according to the spirit, but according to the flesh, and there shall be a great punishment on the earth, and the earth shall be cleansed from all impurity. **[106:15]** Yea, there shall come a great destruction over the whole earth, and there shall be a deluge and a great destruction for one year. **[106:16]** And this son who has been born unto you shall be left on the earth, and his three children shall be saved with him: when all mankind that are on the earth shall die he and his sons shall be saved. **[106:18]** And now make known to thy son Lamech that he who has been born is in truth his son, and call his name Noah; for he shall be left to you, and he and his sons shall be saved from the destruction, which shall come upon the earth on account of all the sin and all the unrighteousness, which shall be consummated on the earth in his days. **[106:19]** And after that there shall be still more unrighteousness than that which was first consummated on the earth; for I know the mysteries of the holy ones; for He, the Lord, has showed me and informed me, and I have read (them) in the heavenly tablets.
+**[106:1]** And after some days my son Methuselah took a wife for his son Lamech, and she became pregnant by him and bore a son. **[106:2]** And his body was white as snow and red as the blooming of a rose, and the hair of his head and his long locks were white as wool, and his eyes beautiful. And when he opened his eyes, he lighted up the whole house like the sun, and the whole house was very bright. **[106:3]** And thereupon he arose in the hands of the midwife, opened his mouth, and conversed with the Lord of righteousness. **[106:4]** And his father Lamech was afraid of him and fled, and came to his father Methuselah. **[106:5]** And he said unto him: 'I have begotten a strange son, diverse from and unlike man, and resembling the sons of the God of heaven; and his nature is different and he is not like us, and his eyes are as the rays of the sun, and his countenance is glorious. **[106:6]** And it seems to me that he is not sprung from me but from the angels, and I fear that in his days a wonder may be wrought on the earth. **[106:7]** And now, my father, I am here to petition thee and implore thee that thou mayest go to Enoch, our father, and learn from him the truth, for his dwelling-place is amongst the angels.' **[106:8]** And when Methuselah heard the words of his son, he came to me to the ends of the earth; for he had heard that I was there, and he cried aloud, and I heard his voice and I came to him. And **[106:1]** said unto him: 'Behold, here am I, my son, wherefore hast thou come to me?' **[106:9]** And he answered and said: 'Because of a great cause of anxiety have I come to thee, and because of a disturbing vision have I approached. **[106:10]** And now, my father, hear me: unto Lamech my son there hath been born a son, the like of whom there is none, and his nature is not like man's nature, and the colour of his body is whiter than snow and redder than the bloom of a rose, and the hair of his head is whiter than white wool, and his eyes are like the rays of the sun, and he opened his eyes and thereupon lighted up the whole house. **[106:11]** And he arose in the hands of the midwife, and opened his mouth and blessed the Lord of heaven. **[106:12]** And his father Lamech became afraid and fled to me, and did not believe that he was sprung from him, but that he was in the likeness of the angels of heaven; and behold I have come to thee that thou mayest make known to me the truth.' **[106:13]** And I, Enoch, answered and said unto him: 'The Lord will do a new thing on the earth, and this I have already seen in a vision, and make known to thee that in the generation of my father Jared some of the angels of heaven transgressed the word of the Lord. **[106:14]** And behold they commit sin and transgress the law, and have united themselves with women and commit sin with them, and have married some of them, and have begot children by them. **[106:17]** And they shall produce on the earth giants not according to the spirit, but according to the flesh, and there shall be a great punishment on the earth, and the earth shall be cleansed from all impurity. **[106:15]** Yea, there shall come a great destruction over the whole earth, and there shall be a deluge and a great destruction for one year. **[106:16]** And this son who has been born unto you shall be left on the earth, and his three children shall be saved with him: when all mankind that are on the earth shall die [he and his sons shall be saved]. **[106:18]** And now make known to thy son Lamech that he who has been born is in truth his son, and call his name Noah; for he shall be left to you, and he and his sons shall be saved from the destruction, which shall come upon the earth on account of all the sin and all the unrighteousness, which shall be consummated on the earth in his days. **[106:19]** And after that there shall be still more unrighteousness than that which was first consummated on the earth; for I know the mysteries of the holy ones; for He, the Lord, has showed me and informed me, and I have read (them) in the heavenly tablets.
 
 
 
