@@ -326,7 +326,7 @@
 
 **[8:6]** And if prudence work; who of all that are is a more cunning workman than she?
 
-**[8:7]** And if a man love righteousness her labours are virtues: for she teacheth temperance and prudence, justice and fortitude: which are such things, as en can have nothing more profitable in their life.
+**[8:7]** And if a man love righteousness her labours are virtues: for she teacheth temperance and prudence, justice and fortitude: which are such things, as men can have nothing more profitable in their life.
 
 **[8:8]** If a man desire much experience, she knoweth things of old, and conjectureth aright what is to come: she knoweth the subtilties of speeches, and can expound dark sentences: she foreseeth signs and wonders, and the events of seasons and times.
 
