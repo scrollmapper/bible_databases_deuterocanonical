@@ -74,7 +74,7 @@
 
 **[2:21]** Such things they did imagine, and were deceived: for their own wickedness hath blinded them.
 
-**[2:22]** As for the mysteries of God, they kn ew them not: neither hoped they for the wages of righteousness, nor discerned a reward for blameless souls.
+**[2:22]** As for the mysteries of God, they knew them not: neither hoped they for the wages of righteousness, nor discerned a reward for blameless souls.
 
 **[2:23]** For God created man to be immortal, and made him to be an image of his own eternity.
 
@@ -184,7 +184,7 @@
 
 **[5:13]** Even so we in like manner, as soon as we were born, began to draw to our end, and had no sign of virtue to shew; but were consumed in our own wickedness.
 
-**[5:14]** For the hope of the Godly is like dust that is blown away with the wind; like a thin froth that is driven away with the storm; like as the smoke which is dispersed here and there with a tempest, and passeth away as the remembrance of a guest that tarrieth but a day.
+**[5:14]** For the hope of the ungodly is like dust that is blown away with the wind; like a thin froth that is driven away with the storm; like as the smoke which is dispersed here and there with a tempest, and passeth away as the remembrance of a guest that tarrieth but a day.
 
 **[5:15]** But the righteous live for evermore; their reward also is with the Lord, and the care of them is with the most High.
 
