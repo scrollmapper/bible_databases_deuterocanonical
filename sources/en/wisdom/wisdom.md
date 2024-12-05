@@ -538,7 +538,7 @@
 
 **[12:26]** But they that would not be reformed by that correction, wherein he dallied with them, shall feel a judgment worthy of God.
 
-**[12:27]** For, look, for what things they grudged, when they were punished, that is, for them whom they thought to be gods; now being punished in them, when they saw it, they acknowledged him to be the true God, whom before they denied to know: and therefore came extreme damnation upon them.
+**[12:27]** For, look, for what things they grudged, when they were punished, that is, for them whom they thought to be gods; *now* being punished in them, when they saw it, they acknowledged him to be the true God, whom before they denied to know: and therefore came extreme damnation upon them.
 
 **[13:1]** Surely vain are all men by nature, who are ignorant of God, and could not out of the good things that are seen know him that is: neither by considering the works did they acknowledge the workmaster;
 
@@ -738,11 +738,11 @@
 
 **[17:1]** For great are thy judgments, and cannot be expressed: therefore unnurtured souls have erred.
 
-**[17:2]** For when unrighteous men thought to oppress the holy nation; they being shut up in their houses, the prisoners of darkness, and fettered with the bonds of a long night, lay there exiled from the eternal providence.
+**[17:2]** For when unrighteous men thought to oppress the holy nation; they being shut up in their houses, the prisoners of darkness, and fettered with the bonds of a long night, lay *there* exiled from the eternal providence.
 
-**[17:3]** For while they supposed to lie hid in their secret sins, they were scattered under a dark veil of forgetfulness, being horribly astonished, and troubled with strange apparitions.
+**[17:3]** For while they supposed to lie hid in their secret sins, they were scattered under a dark veil of forgetfulness, being horribly astonished, and troubled with *strange* apparitions.
 
-**[17:4]** For neither might the corner that held them keep them from fear: but noises as of waters falling down sounded about them, and sad visions appeared unto them with heavy countenances.
+**[17:4]** For neither might the corner that held them keep them from fear: but noises *as of waters* falling down sounded about them, and sad visions appeared unto them with heavy countenances.
 
 **[17:5]** No power of the fire might give them light: neither could the bright flames of the stars endure to lighten that horrible night.
 
