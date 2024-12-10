@@ -2,94 +2,139 @@
 
 
 
-**[1:1]** And it came to pass in the twenty-fifth year of Jeconiah, king of Judah, that the word of the Lord came to Baruch, the son of Neriah, and said to him: **[1:2]** 'Hast thou seen all that this people are doing to Me, that the evils which these two tribes which remained have done are greater than (those of) the ten tribes which were carried away captive? **[1:3]** For the former tribes were forced by their kings to commit sin, but these two of themselves have been forcing and compelling their kings to commit sin. **[1:4]** For this reason, behold I bring evil upon this city, and upon its inhabitants, and it shall be removed from before Me for a time, and I will scatter this people among the Gentiles that they may do good to the Gentiles. **[1:5]** And My people shall be chastened, and the time shall come when they will seek for the prosperity of their times.
+**[1:1]** And it came to pass in the twenty-fifth year of Jeconiah, king of Judah, that the word of the Lord came to Baruch, the son of Neriah,
 
-**[2:1]** For I have said these things to thee that thou mayst bid Jeremiah, and all those that are like you, to retire from this city. Because your works are to this city as a firm pillar, and your prayers as a strong wall.'
+**[1:2]** and said to him: 'Hast thou seen all that this people are doing to Me, that the evils which these two tribes which remained have done are greater than (those of) the ten tribes which were carried away captive?
 
-**[3:1]** And I said: 'O Lord, my Lord, have I come into the world for this purpose that I might see the evils of my mother? not (so) my Lord. **[3:2]** If I have found grace in Thy sight, first take my spirit that I may go to my fathers and not behold the destruction of my mother. **[3:3]** For two things vehemently constrain me: for I cannot resist Thee, and my soul, moreover, cannot behold the evils of my mother. 
+**[1:3]** For the former tribes were forced by their kings to commit sin, but these two of themselves have been forcing and compelling their kings to commit sin.
 
-**[3:4]** But one thing I will say in Thy presence, O Lord. **[3:5]** What, therefore, will there be after these things? for if Thou destroyest Thy city, and deliverest up Thy land to those that hate us, how shall the name of Israel be again remembered? **[3:6]** Or how shall one speak of Thy praises? or to whom shall that which is in Thy law be explained? **[3:7]** Or shall the world return to its nature (of aforetime), and the age revert to primeval silence? **[3:8]** And shall the multitude of souls be taken away, and the nature of man not again be named? **[3:9]** And where is all that which Thou didst say to Moses regarding us?'
+**[1:4]** For this reason, behold I bring evil upon this city, and upon its inhabitants, and it shall be removed from before Me for a time, and I will scatter this people among the Gentiles that they may do good to the Gentiles.
 
-**[4:1]** And the Lord said unto me: 'This city shall be delivered up for a time, and the people will be chastened during a time, and the world will not be given over to oblivion.
-**[4:2]** [Dost thou think that this is that city of which I said: "On the palms of My hands have I graven thee"?**[4:3]** It is not this building which is now built in your midst; (it is) that which will be reveald with Me, that which was prepared beforehand here from the time when I took counsel to make Paradise, and showed it to Adam before he sinned, but when he transgressed the commandment, it was removed from him, as also Paradise.**[4:4]** And after these things I showed it to My servant Abraham by night among the portions of the victims.**[4:5]** And again also I showed it to Moses on Mount Sinai when I showed to him the likeness of the tabernacle and all its vessels. **[4:6]** And now, behold, it is preserved with Me, as also Paradise. **[4:7]** Go. therefore, and do as I command thee.']
+**[1:5]** And My people shall be chastened, and the time shall come when they will seek for the prosperity of their times.
 
-**[5:1]** And I answered and said: "I shall, therefore, be in great straits in Zion, because Thine enemies will come to that place and pollute Thy sanctuary, and lead Thine inheritance into captivity, and will lord it over those whom Thou hast loved, and they will depart again to the place of their idols, and will boast before them. And what will thou do for Thy great name?"
+**[2:1]** For I have said these things to thee that thou mayst bid Jeremiah, and all those that are like you, to retire from this city. For your works are to this city as a firm pillar, And your prayers as a strong wall.'
 
-**[5:2]** And the Lord said unto me: "My name and My glory have an eternal duration; My judgement, moreover, will preserve its rights in its own time. **[5:3]** And thou wilt see with thine eyes that the enemy will not overthrow Zion, nor burn Jerusalem, but be subservient to the judge for a time. **[5:4]** But do thou go and do whatsoever I have said unto thee.' **[5:5]** And I went and took Jeremiah, and Adu, and Seriah, and Jabish, and Gedaliah, and all the honourable men of the people, and I led them to the valley of Cedron, and I narrated to them all that had been said to me. **[5:6]** And they lifted up their voice, and they all wept. **[5:7]** And we sat there and fasted until the evening.
+**[3:1]** And I said:
 
-**[6:1]** And it came to pass on the morrow that, lo! the army of the Chaldees surrounded the city, and at the time of the evening, I, Baruch, left the people, and I went forth and stood by the oak.
+**[3:2]** 'O Lord, my Lord, have I come into the world for this purpose that I might see the evils of my mother?
 
-**[6:2]** And I was grieving over Zion, and lamenting over the captivity which had come upon the people.
+**[3:3]** Not (so) my Lord. If I have found grace in Thy sight, first take my spirit that I may go to my fathers and not behold the destruction of my mother.
 
-**[6:3]** And lo! suddenly a strong spirit raised me, and bore me aloft over the wall of Jerusalem.
+**[3:4]** For two things vehemently constrain me: for I cannot resist Thee, and my soul, moreover, cannot behold the evils of my mother. But one thing I will say in Thy presence, O Lord. What, therefore, will there be after these things?
 
-**[6:4]** And I beheld, and lo! four angels standing at the four corners of the city, each of them holding a torch of fire in his hands.
+**[3:5]** for if Thou destroyest Thy city, and deliverest up Thy land to those that hate us, how shall the name of Israel be again remembered?
 
-**[6:5]** And another angel began to descend from heaven, and said unto them: 'Hold your lamps, and do not light them till I tell you.
+**[3:6]** Or how shall one speak of Thy praises? or to whom shall that which is in Thy law be explained?
 
-**[6:6]** For I am first sent to speak a word to the earth, and to place in it what the Lord the Most High has commanded me
+**[3:7]** Or shall the world return to its nature (of), aforetime and the age revert to primeval silence?
 
-**[6:7]** And I saw him descend into the Holy of holies, and take from thence the veil, and the holy ark, and the mercy-seat, and the two tables, and the holy raiment of the priests, and the altar of incense, and the forty-eight precious stones, wherewith the priest was adorned and all the holy vessels of the tabernacle.
+**[3:8]** And shall the multitude of souls be taken away, and the nature of man not again be named?
 
-**[6:8]** And he spake to the earth with a loud voice: 'Earth, earth, earth, hear the word of the mighty God, And receive what I commit to thee, And guard them until the last times, So that, when thou art ordered, thou mayst restore them, So that strangers may not get possession of them.
+**[3:9]** And where is all that which Thou didst say to Moses regarding us?'
 
-**[6:9]** For the time comes when Jerusalem also will be delivered for a time, Until it is said, that it is again restored for ever.'
+**[4:1]** And the Lord said unto me: 'This city shall be delivered up for a time, And the people shall be chastened during a time, And the world will not be given over to oblivion.
 
-**[6:10]** And the earth opened its mouth and swallowed them up.
+**[4:2]** [Dost thou think that this is that city of which I said: "On the palms of My hands have I graven thee"?
 
-**[7:1]** And after these things I heard that angel saying unto those angels who held the lamps:
+**[4:3]** This building now built in your midst is not that which is revealed with Me, that which was prepared beforehand here from the time when I took counsel to make Paradise, and showed it to Adam before he sinned, but when he transgressed the commandment it was removed from him, as also Paradise.
 
-**[7:2]** Destroy, therefore, and overthrow its wall to its foundations, lest the enemy should boast and say: "We have overthrown the wall of Zion, And we have burnt the place of the mighty God." And ye have seized the place where I had been standing before.
+**[4:4]** And after these things I showed it to My servant Abraham by night among the portions of the victims.
 
-**[8:1]** Now the angels did as he had commanded them, and when they had broken up the corners of the walls, a voice was heard from the interior of the temple, after the wall had fallen, saying:
+**[4:5]** And again also I showed it to Moses on Mount Sinai when I showed to him the likeness of the tabernacle and all its vessels.
 
-**[8:2]** 'Enter, ye enemies, And come, ye adversaries; For he who kept the house has forsaken (it).'
+**[4:6]** And now, behold, it is preserved with Me, as also
+
+**[4:7]** Paradise. Go. therefore, and do as I command thee.']
+
+**[5:1]** And I answered and said: So then I am destined to grieve for Zion, For Thine enemies will come to this place and pollute Thy sanctuary, And lead Thine inheritance into captivity, And make themselves masters of those whom Thou hast loved. And they will depart again to the place of their idols, And will boast before them: And what wilt Thou do for Thy great name?'
+
+**[5:2]** And the Lord said unto me: My name and My glory are unto all eternity; And My judgement shall maintain its right in its own time.
+
+**[5:3]** And thou shalt see with thine eyes That the enemy will not overthrow Zion, Nor shall they burn Jerusalem, But be the ministers of the Judge for the time.
+
+**[5:4]** But do thou go and do whatsoever I have said unto thee.'
+
+**[5:5]** And I went and took Jeremiah, and Adu, and Seriah, and Jabish, and Gedaliah, and all the honourable men of the people, and I led them to the valley of Cedron, and I narrated to them all that had been said to me.
+
+**[5:6]** And they lifted up their voice, and they all wept.
+
+**[5:7]** And we sat there and fasted until the evening.
+
+**[6:1]** And it came to pass on the morrow that, lo! the army of the Chaldees surrounded the city, and at the time of the evening I, Baruch, left the people, and I went forth and stood by the oak.
+
+**[6:2]** And I was grieving over Zion, and lamenting over the captivity which had come upon the people. 
+
+**[6:3]** And lo! suddenly a strong spirit raised me, and bore me aloft over the wall of Jerusalem. 
+
+**[6:4]** And I beheld, and lo! four angels standing at the four angles of the city, each of them holding a lamp of fire in his hands. 
+
+**[6:5]** And another angel began to descend from heaven, and said unto them: 'Hold your lamps, and do not light them till I tell you. 
+
+**[6:6]** For I am first sent to speak a word to the earth, and to place in it what the Lord the Most High has commanded me." 
+
+**[6:7]** And I saw him descend into the Holy of Holies, and take from thence the veil, and the holy ephod, and the mercy-seat, and the two tables, and the holy raiment of the priests, and the altar of incense, and the forty-eight precious stones, wherewith the priest was adorned, and all the holy vessels of the tabernacle. 
+
+**[6:8]** And he spake to the earth with a loud voice: "Earth, earth, earth, hear the word of the mighty God, and receive what I commit to thee, and guard them until the last times, so that, when thou art ordered, thou mayst restore them, so that strangers may not get possession of them.
+
+**[6:9]** For the time comes when Jerusalem also will be delivered for a time, until it is said, that it is again restored for ever.
+
+**[6:10]** And the earth opened its mouth and swallowed them up."
+
+**[7:1]** And after these things I heard that angel saying unto those angels who held the lamps:"Destroy, therefore, and overthrow its wall to its foundations, lest the enemy should boast and say: 'We have overthrown the wall of Zion, and we have burnt the place of the mighty God.'" 
+
+**[7:2]** And the Spirit restored me to the place where I had been standing before.
+
+**[8:1]** Now the angels did as he had commanded them, and when they had broken up the angles of the walls, a voice was heard from the interior of the temple, after the wall had fallen, saying:
+
+**[8:2]** "Enter ye enemies, and come ye adversaries; for He who kept the house has forsaken (it)."
 
 **[8:3]** And I, Baruch, departed.
 
-**[8:4]** And it came to pass after these things that the army of the Chaldees entered and seized the house,
+**[8:4]** And it came to pass after these things that the army of the Chaldees entered and seized the house, and all that was around it.
 
-**[8:5]** and all that was around it. And they led the people away captive, and slew some of them, and bound Zedekiah the king, and sent him to the king of Babylon.
+**[8:5]** And they led the people away captive, and slew some of them, and bound Zedekiah the king, and sent him to the king of Babylon.
 
 **[9:1]** And I, Baruch, came, and Jeremiah, whose heart was found pure from sins, who had not been captured in the seizure of the city.
 
-**[9:2]** And we rent our garments, we wept, and mourned, and fasted seven days.
+**[9:2]** And we rent our garments, and wept, and mourned, and fasted seven days.
 
-**[10:1]** And it came to pass after seven days, that the word of God came to me, and said unto me:
+**[10:1]** And it came to pass after seven days, that the word of the Lord was upon me, and said unto me:
 
-**[10:2]** 'Tell Jeremiah to go and support the captivity of the people unto Babylon,
+**[10:2]** "Tell Jeremiah to go and support the captivity of the people unto Babylon.
 
-**[10:3]** But do thou remain here amid the desolation of Zion, and I will show to thee after these days' what will befall at the end of days.'
+**[10:3]** But do thou remain here amid the desolation of Zion, and I will show to thee after these days what will befall at the end of days.'
 
-**[10:5]** And I said to Jeremiah as the Lord commanded me. And he, indeed, departed with the people, but I, Baruch, returned and sat before the gates of the temple, and I lamented with the following lamentation over Zion and said:
+**[10:4]** And I said to Jeremiah as the Lord commanded me. 
 
-**[10:6]** 'Blessed is he who was not born, Or he, who having been born, has died.
+**[10:5]** And he, indeed, departed with the people, but I, Baruch, returned and sat before the gates of the temple, and I lamented with that lamentation over Zion and said:
 
-**[10:7]** But as for us who live, woe unto us, Because we see the afflictions of Zion, And what has befallen Jerusalem.
+**[10:6]** 'Blessed is he who was not born, or being born, has died.
 
-**[10:8]** I will call the Sirens from the sea, And ye Lilin, come ye from the desert, And ye Shedim and dragons from the forests: Awake and gird up your loins unto mourning, And take up with me the dirges, And make lamentation with me.
+**[10:7]** But as for us who live, woe unto us, because we see the afflictions of Zion, and what has befallen Jerusalem.
 
-**[10:9]** Ye husbandmen, sow not again; And, O earth, wherefore givest thou thy harvest fruits? Keep within thee the sweets of thy sustenance.
+**[10:8]** I will call the Sirens from the sea, and ye Lilin, come ye from the desert, and ye Shedim and dragons from the forests: awake and bind your loins unto mourning, and take up with me lamentation, and mourn with me.
 
-**[10:10]** And thou, vine, why further dost thou give thy wine; For an offering will not again be made therefrom in Zion. Nor will the first-fruits again be offered.
+**[10:9]** Ye husbandmen, sow not again; and thou, earth, wherefore givest thou the fruits of thy produce? keep within thee the sweets of thy sustenance.
 
-**[10:11]** And do ye, O heavens, withhold your dew, And open not the treasuries of rain:
+**[10:10]** And thou, vine, why further dost thou give thy wine? for an offering will not again be made therefrom in Zion, nor will the first-fruits again be offered.
 
-**[10:12]** And do thou, O sun, withhold the light of thy rays. And do thou, O moon, extinguish the multitude of thy light; For why should light rise again Where the light of Zion is darkened?
+**[10:11]** And do ye, O heavens, withhold your dew, and open not the treasuries of rain:
 
-**[10:13]** And you, ye bridegrooms, enter not in, And let not the brides adorn themselves with garlands
+**[10:12]** And do thou, O sun, withhold the light of thy rays; and do thou, O moon, extinguish the multitude of thy light; for why should light rise again where the light of Zion is darkened?
 
-**[10:14]** And, ye women, pray not that ye may bear. For the barren shall above all rejoice, And those who have no sons shall be glad, And those who have sons shall have anguish.
+**[10:13]** And you, ye bridegrooms, enter not in, and let not the brides adorn themselves with garlands; and, ye women, pray not that ye may bear. 
 
-**[10:15]** For why should they bear in pain, Only to bury in grief?
+**[10:14]** For the barren shall rejoice more, and those who have no sons shall be glad, and those who have sons shall have anguish.
 
-**[10:16]** Or why, again, should mankind have sons? Or why should the seed of their kind again be named, Where this mother is desolate, And her sons are led into captivity?
+**[10:15]** For why should they bear in pain and bury in grief?
 
-**[10:17]** From this time forward speak not of beauty, And discourse not of gracefulness.
+**[10:16]** Or wherefore, again, should mankind have sons; or wherefore should the seed of their nature again be named, where that mother is desolate, and her sons are led into captivity?
 
-**[10:18]** Moreover, ye priests, take ye the keys of the sanctuary And cast them into the height of heaven, And give them to the Lord and say: "Guard Thy house Thyself. For lo! we are found false stewards."
+**[10:17]** From this time forward speak not of beauty and discourse not of gracefulness.
 
-**[10:19]** And you, ye virgins; who weave fine linen And silk with gold of Ophir, Take with haste all (these) things And cast (them) into the fire, That it may bear them to Him who made them, And the flame send them to Him who created them, Lest the enemy get possession of them.'
+**[10:18]** Moreover, ye priests, take ye the keys of the sanctuary and cast them into the height of heaven, and give them to the Lord and say: 'Guard Thy house Thyself, for lo! we are found false stewards.'
+
+**[10:19]** And you, ye virgins; who spin fine linen and silk with gold of Ophir, hasten and take all things and cast (them) into the fire, that it may bear them to Him who made them, and the flame send them to Him who created them, lest the enemy get possession of them.'
 
 **[11:1]** Moreover, I, Baruch, say this against thee, Babylon: If thou hadst prospered, And Zion had dwelt in her glory, Yet the grief to us had been great That thou shouldst be equal to Zion.
 
