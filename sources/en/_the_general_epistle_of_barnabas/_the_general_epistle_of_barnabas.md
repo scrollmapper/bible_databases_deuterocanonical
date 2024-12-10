@@ -1,595 +1,409 @@
 # The General Epistle of Barnabas
 
 
+**[1:1]** Hail, my sons and daughters, in the name of our Lord Jesus Christ, who hath loved us in peace.
 
-**[1:0]** Preface to the Epistle
+**[1:2]** I rejoice exceedingly and beyond measure at your happy and glorious spirit, since the ordinances of God are great and rich towards you, who have received the engrafted grace of the spiritual gift.
 
-**[1:1]** ALL happiness to you my sons and daughters, in the name of our Lord Jesus Christ, who loved us, in peace.
+**[1:3]** Wherefore, I congratulate myself the more, hoping to be saved, because I see of a truth the Spirit poured out upon you from the rich Lord of love. So greatly hath your longed-for appearance stricken me with amazement.
 
-**[1:2]** Having perceived abundance of knowledge of the great and excellent laws of God to be in you, I exceedingly rejoice in your blessed and admirable souls, because ye have so worthily received the grace which was grafted in you.
+**[1:4]** Being persuaded, therefore, of this, and knowing in myself that since I spake among you the Lord hath helped me in many things in the way of righteousness, I am altogether compelled to love you even beyond my own soul, because great faith and love dwelleth in you in the hope of his life.
 
-**[1:3]** For which cause I am full of joy, hoping the rather to he saved; inasmuch as I truly see a spirit infused into you, from the pure fountain of God:
+**[1:5]** Considering also this, that if I take care to communicate to you a part of that which I have received, it shall turn to my reward to have assisted such spirits as ye are, I gave diligence to write unto you in few words, in order that together with your faith, ye might have your knowledge perfect also.
 
-**[1:4]** Having this persuasion, and being fully convinced thereof, because that since I have begun to speak unto you, I have had a more than ordinary good success in the way of the law of the Lord which is in Christ.
+**[1:6]** For there are three doctrines ordained of the Lord: the hope of life, the beginning, and the end.
 
-**[1:5]** For which cause brethren, I also think verily that I love you above my own soul: because that therein dwelleth the greatness of faith and charity, as also the hope of that life which is to come.
+**[1:7]** For the Master hath made known unto us by the prophets the things which are past, and the things which are at hand, and hath given us the firstfruits of the knowledge of the things that are to come. Since, therefore, we see all these things severally working as he has spoken, we ought the more fully and loftily to approach to his altar;
 
-**[1:6]** Wherefore considering this, that if I shall take care to communicate to you a part of what I have received, it shall turn to my reward, that I have served such good souls; I gave diligence to write in a few words unto you; that together with your faith, knowledge also may be perfect.
+**[1:8]** but I, not as a master, but as one of yourselves, will show to you a few things, by means of which ye may even in this present rejoice.
 
-**[1:7]** There are therefore three things ordained by the Lord; the hope of life; the beginning and the completion of it.
 
-**[1:8]** For the Lord hath both declared unto us, by the prophets those things that are past; and opened to us the beginnings of those that are to come.
+**[2:1]** Since, therefore, the days are evil, and the adversary hath the authority, we ought to take heed to ourselves and seek out the ordinances of the Lord.
 
-**[1:9]** Wherefore, it will behoove us, as he has spoken, to come more holily, and nearer to his altar.
+**[2:2]** For the helpers of our faith are fear and patience, and they that fight on our side are long-suffering and continence.
 
-**[1:10]** I therefore, not as a teacher, but as one of you, will endeavour to lay before you a few things by which you may, on many accounts, become the more joyful.
+**[2:3]** While these, therefore, remain pure in things relating to the Lord, wisdom and understanding, science and knowledge, rejoice together with them.
 
+**[2:4]** For God hath made known unto us through all the prophets, that he desireth neither sacrifices nor whole burnt offerings, nor oblations; for he saith in a certain place,
 
-**[2:0]** That God has abolished the legal sacrifices to introduce the spiritual righteousness of the Gospel
+**[2:5]** To what purpose is the multitude of your sacrifices? saith the Lord. I am full of the whole burnt offerings of rams; I desire not the fat of lambs, nor the blood of bulls and goats, nor need ye come to be seen of me. For who hath required these things at your hands? Ye shall not add thereto to tread my court. If ye bring the fine flour, it is vain; incense is an abomination unto me; your new moons and sabbaths I cannot endure; your fastings and holidays and feasts my soul hateth.
 
-**[2:1]** SEEING then the days are exceeding evil, and the adversary has got the power of this present world we ought to give the more diligence to inquire into the righteous judgments of the Lord.
+**[2:6]** These things, therefore, he hath made of none effect, that the new law of our Lord Jesus Christ, being free from the yoke of necessity, might have an offering not made with hands.
 
-**[2:2]** Now the assistants of our faith are fear and patience; our fellow-combatants, long-suffering and continence.
+**[2:7]** Again, he saith unto them, Did I command your fathers, when ye came out of the land of Egypt, offer unto me whole burnt offerings and sacrifices? --
 
-**[2:3]** Whilst these remain pure in what relates unto the Lord, wisdom, and understanding, and science, and knowledge, rejoice together with them.
+**[2:8]** did I not rather command them this? -- Let each of you bear no malice against his neighbour in his heart, and love not a false oath.
 
-**[2:4]** For God has manifested to us by all the prophets, that he has no occasion for our sacrifices, or burnt-offerings, or oblations: saying thus; To what purpose is the multitude of your sacrifices unto me, saith the Lord.
+**[2:9]** We ought to perceive, since we are not void of understanding the meaning of the goodness of God our Father, because he telleth us, wishing to seek us who are wandering even as sheep, how we ought to approach him.
 
-**[2:5]** I am full of the burnt-offerings of rams, and the fat of fed beasts; and I delight not in the blood of bullocks, or of he-goats.
+**[2:10]** He therefore speaketh unto us in this wise: The sacrifice unto God is a broken heart; a smell of sweet savour unto the Lord is a heart that glorifieth him that made it. We ought, therefore, brethren, to examine accurately concerning our salvation, lest the evil one, making an entrance among us, should draw us away from our life.
 
-**[2:6]** When ye come to appear before me; who hath required this at your hands? Ye shall no more tread my courts.
+**[3:1]** Therefore, he saith again, concerning these things, unto them, Why fast ye unto me, saith the Lord, so that your voice is heard to-day in its crying? This is not the fast that I have chosen, saith the Lord, for a man to humiliate his soul;
 
-**[2:7]** Bring no more vain oblations, incense is an abomination unto me; your new moons and sabbaths; the calling of assemblies I cannot away with, it is iniquity, even the solemn meeting; your new moons and your appointed feasts my soul hateth.
+**[3:2]** nor if ye bend your neck as a ring, and put under you sackcloth and ashes -- not even then will ye call it an acceptable fast.
 
-**[2:8]** These things therefore hath God abolished, that the new law of our Lord Jesus Christ, which is without the yoke of any such necessity, might have the spiritual offering of men themselves.
+**[3:3]** But unto us he saith, Behold the fast which I have chosen, saith the Lord, not that a man should humiliate his soul, but that he should loose every bond of unrighteousness, and untie the knots of the compacts of violence; set at liberty them that are bruised, and cancel every agreement of unrighteousness; break thy bread with the hungry, and if thou seest the naked, clothe him; bring them that are houseless into thy dwelling, and if thou seest a man that is lowly, despise him not, and turn not away from those of thy family;
 
-**[2:9]** For so the Lord saith again to those heretofore; Did I at all command your fathers when they came out of the land of Egypt concerning burnt-offerings of sacrifices?
+**[3:4]** then shall thy light break forth early, and thy garments shall spring up quickly, and justice shall go before thee, and the glory of the Lord shall surround thee;
 
-**[2:10]** But this I commanded them, saying, Let none of you imagine evil in your hearts against his neighbour, and love no false oath.
+**[3:5]** then shalt thou cry, and the Lord shall hearken unto thee; while thou art yet speaking he shall say, Lo, I am here: if thou put away from thee the league and the conspiracy, and the word of murmuring, and givest thy bread unto the hungry with all thine heart, and hast compassion upon the soul that is lowly.
 
-**[2:11]** Forasmuch then as we are not without understanding, we ought to apprehend the design of our merciful Father. For he speaks to us, being willing that we who have been in the same error about the sacrifices, should seek and find how to approach unto him.
+**[3:6]** The long-suffering God therefore having seen beforehand that the people whom he had prepared for his beloved would believe in simplicity, showed to us beforehand concerning all these things, that we should not come as strangers to their law.
 
-**[2:12]** And therefore he thus bespeaks us, The sacrifice of God (is a broken spirit,) a broken and contrite heart God will not despise.
 
-**[2:13]** Wherefore brethren, we ought the more diligently to inquire after these things that belong to our salvation, that the adversary may not have any entrance into us, and deprive us of our spiritual life.
+**[4:1]** It behoveth, therefore, that we, searching much concerning the things that are at hand, should seek out the things that are able to save us. Let us fly, therefore, utterly from all the work of unrighteousness, and let us hate the error of the time that now is, that we may be loved in that which is to come.
 
-**[2:14]** Wherefore he again speaketh to them, concerning these things; Ye shall not fast as ye do this day, to make your voice to be heard on high.
+**[4:2]** Let us not give liberty unto our soul that it should have leave to run with sinners and evil men, neither let us be made like unto them.
 
-**[2:15]** Is it such a fast that I have chosen? a day for a man to afflict his soul? Is it to bow down his head like a bulrush, and to spread sackcloth and ashes under him? Wilt thou call this a fast, and an acceptable day to the Lord?
+**[4:3]** The tribulation being made perfect is at hand, concerning which it is written, as Enoch saith, For to this purpose the Lord hath cut short the times and the days, that his beloved might make haste and come into his inheritance.
 
-**[2:16]** But to us he saith on this wise. Is not this the fast that I have chosen, to loose the bands of wickedness, to undo the heavy burdens, and to let the oppressed go free; and that ye break every yoke?
+**[4:4]** The prophet also speaketh in this wise: Ten kingdoms shall reign upon the earth; and there shall rise up after them a little king who shall humble three of the kings under one.
 
-**[2:17]** Is it not to deal thy bread to the hungry, and that thou bring the poor that are cast out to thy house? When thou seest the naked that thou cover him, and that thou hide not thyself from thine own flesh.
+**[4:5]** And in like manner Daniel speaketh concerning him: And I saw the fourth beast, evil and strong and harder than all the beasts of the earth; and I saw how there grew up from him ten horns, and from among them a little horn, growing up beside, and how it humbled under one three of the great horns.
 
-**[2:18]** Then shall thy light break forth as the morning, and thy health shall spring forth speedily; and thy righteousness shall go before thee, the glory of the Lord shall be thy reward.
+**[4:6]** Ye ought, therefore, to understand. And moreover I ask this of you, as being one among you, loving you especially and altogether, even above my own soul, that ye should take heed unto yourselves, and not be like unto certain men, by adding to your sins and saying that their covenant is also ours. Ours, indeed, it is; but they have lost it for ever, in this wise, after that Moses had already received it.
 
-**[2:19]** Then shalt thou call and the Lord shall answer; thou shalt cry and he shall say, Here I am. If thou put away from the midst of thee the yoke, the putting forth of the finger, and speaking vanity; and if thou draw out thy soul to the hungry; and satisfy the afflicted soul.
+**[4:7]** For the scripture saith, And Moses was in the mount fasting forty days and nights, and he received the covenant from the Lord; even tables of stone written with the finger of the hand of the Lord. But when they turned unto idols they lost it.
 
-**[2:20]** In this therefore brethren, God has manifested his foreknowledge and love for us; because the people which he has purchased to his beloved Son were to believe in sincerity; and therefore he has shewn these things to all of us, that we should not run as proselytes to the Jewish law.
+**[4:8]** For the Lord saith thus unto Moses, Moses, get thee down quickly, for thy people, whom thou broughtest out of the land of Egypt, have done unlawfully. And Moses understood, and cast the two tables from his hands, and the covenant that was on them was broken; to the end that that of the beloved Jesus might be sealed in our hearts in the hope of his faith.
 
+**[4:9]** Now, though I wished to write many things unto you, not as a master, but even as suiteth one that loveth you, not to fall short of the things that we have, I have been zealous to write unto you as though I were the offscouring of you. Let us, therefore, give heed unto the last days; for the whole time of our faith will profit us nothing unless now, in the season of iniquity and among the stumbling-blocks that are coming, we resist as becometh the sons of God,
 
+**[4:10]** that the evil one may not have entrance unawares. Let us fly all vanity and hate perfectly the deeds of the evil way. Do not, entering into your own houses, dwell alone, as though ye were already justified, but coming together, inquire one with another concerning the common advantage.
 
-**[3:0]** The prophecies of Daniel, concerning the ten kings, and the coming of Christ
+**[4:11]** For the scripture saith, Woe unto them that are wise in their own conceit and learned in their own eyes. Let us be spiritual: let us be a perfect temple unto God. So far as in you lieth, let us practise the fear of God, and strive to keep his commandments, that we may be glad in his ordinances.
 
-**[3:1]** WHEREFORE it is necessary that searching diligently into those things which are near to come to pass, we should write to you what may serve to keep you whole.
+**[4:12]** The Lord shall judge the world without respect of persons; each shall receive according as he hath done; if he be good, righteousness shall go before him, but if he be evil, the reward of wickedness shall be before him.
 
-**[3:2]** To which end let us flee from every evil work and hate the errors of the present time, that we may be happy in that which is to come:
+**[4:13]** Let us give heed that we do not, as being already elect, take rest, and sleep in our sins, lest the ruler of wickedness, getting the mastery over us, thrust us from the kingdom of the Lord.
 
-**[3:3]** Let us not give ourselves the liberty of disputing with the wicked and sinners; lest we should chance in time to become like unto them.
+**[4:14]** And, moreover, my brethren, consider this. When ye see that after so many signs and wonders that have happened in Israel, even then they have been abandoned, let us take heed lest, as it is written, many of us be called but few chosen.
 
-**[3:4]** For the consummation of sin is come, as it is written, as the prophet Daniel says. And for this end the Lord hath shortened the times and the days, that his beloved might hasten his coming to his inheritance.
 
-**[3:5]** For so the prophet speaks; There shall ten kings reign in the heart, and there shall rise last of all another little one, and he shall humble three kings.
+**[5:1]** For on this account the Lord endured to give his flesh unto corruption, that we might be sanctified by the remission of sins, which is by the sprinkling of his blood.
 
-**[3:6]** And again Daniel speaks in like manner concerning the kingdoms; and I saw the fourth beast dreadful and terrible, and strong exceedingly; and it had ten horns. I considered the horns, and behold there came up among them another little horn, before which were three of the first horns plucked up by the roots.
+**[5:2]** For there are written concerning him certain things that pertain unto Israel, and certain other that pertain unto us. For he speaketh thus, He was wounded for our iniquities, and vexed for our sins; by his stripes we are healed. He was led as a sheep unto the slaughter, and like a lamb dumb before him that sheareth it.
 
-**[3:7]** We ought therefore to understand this also: And I beseech you as one of your own brethren, loving you all beyond my own life, that you look well to yourselves, and be not like to those who add sin to sin, and say: That their covenant is ours also. Nay, but it is ours only: for they have for ever lost that which Moses received.
+**[5:3]** We ought, therefore, to give especial thanks unto the Lord because he hath made known unto us the things that are past, and hath made us wise with regard to those that are at hand, neither are we without understanding as regards the future.
 
-**[3:8]** For thus saith the Scripture: And Moses continued fasting forty days and forty nights in the Mount; and he received the covenant from the Lord, even the two tables of stone, written by the hand of God.
+**[5:4]** For the scripture saith, Not unjustly is the net stretched for the birds. Now this meaneth that a man will perish justly who, having a knowledge of the path of righteousness, shutteth himself up into the way of darkness.
 
-**[3:9]** But having turned themselves to idols they lost it; as the Lord also said to Moses; Moses, go down quickly, for thy people which thou hast brought forth out of Egypt, have corrupted themselves, and turned aside from the way which I commanded them. And Moses cast the two tables out of his hands: and their covenant was broken; that the love of Jesus might be sealed in your hearts, unto the hope of his faith.
+**[5:5]** Consider this too, my brethren; if the Lord endured to suffer for our souls, though he were the Lord of the whole world, to whom God said from the foundation of the world, Let us make man according to our image and according to our likeness, how then did he endure to suffer at the hands of men? Learn ye!
 
-**[3:10]** Wherefore let us give heed unto the last times. For all the time past of our life, and our faith will profit us nothing; unless we continue to hate what is evil, and to withstand the future temptations. So the Son of God tells us; Let us resist all iniquity and hate it.
+**[5:6]** The prophets having received the grace from him prophesied with regard to him. But he, that he might make death of none effect and bring to light the resurrection from the dead, because it behoved him to be made manifest in the flesh,
 
-**[3:11]** Wherefore consider the works of the evil way. Do not withdraw yourselves from others, as if you were already justified; but coming altogether into one place, inquire what is agreeable to and profitable for the beloved of God. For the Scripture saith; Wo unto them that are wise in their own eyes, and prudent in their sight.
+**[5:7]** endured it, that he might give unto our fathers the promise, and by preparing for himself a new people, might show, while upon earth, that he will raise the dead and himself execute judgment.
 
-**[3:12]** Let us become spiritual, a perfect temple to God. As much as in us lies let us meditate upon the fear of God; and strive to the utmost of our power to keep his commandments; that we may rejoice in his righteous judgments.
+**[5:8]** Yea, further; though he taught Israel and did so many signs and wonders among them, yet they loved him not.
 
-**[3:13]** For God will judge the world without respect of persons: and every one shall receive according to his works.
+**[5:9]** But when he chose out his own Apostles, who were about to preach his gospel, they were men unrighteous beyond all sin, that he might show that he came not to call the righteous but sinners to repentance; then made he himself manifest that he was the Son of God.
 
-**[3:14]** If a man shall be good, his righteousness shall go before him; if wicked, the reward of his wickedness shall follow him.
+**[5:10]** For if he had not come in the flesh how could men have looked upon him and have been saved, since they cannot endure to look at the rays of the sun which must one day perish, and which is the work of his hands?
 
-**[3:15]** Take heed therefore lest sitting still, now that we are called, we fall asleep in our sins; and the wicked one getting the dominion over us, stir us up, and shut us out of the kingdom of the Lord.
+**[5:11]** For this purpose did the Son of God come in the flesh, that he might sum up and finish the sin of them who persecuted his prophets unto death;
 
-**[3:16]** Consider this also: although you have seen so great signs and wonders done among the people of the Jews, yet this notwithstanding the Lord hath forsaken them.
+**[5:12]** therefore he endured even unto this. For God saith that the smiting of his flesh it was from them. When they shall smite their shepherd, then shall the sheep of the flock be scattered.
 
-**[3:17]** Beware therefore, lest it happen to us; as it is written. There may be many called, but few chosen.
+**[5:13]** But he himself wished thus to suffer, for it was necessary that he should suffer upon the cross; for he who prophesieth about him saith, Spare my soul from the sword, and again, Drive nails into my flesh, for the synagogues of evil men have risen against me.
 
+**[5:14]** And again he saith, Behold, I have given my back unto the scourging and my cheeks unto buffetings; my face also have I set as a hard rock.
 
-**[4:0]** That Christ was to suffer: proved from the prophecies concerning him
 
-**[4:1]** FOR this cause did our Lord vouchsafe to give up his body to destruction, that through the forgiveness of our sins we might be sanctified; that is, by the sprinkling of his blood.
+**[6:1]** When, therefore, he made the commandment what sayeth he? Who is he that disputeth with me? let him resist me; or who is he that contendeth with me? let him draw nigh unto the Son of the Lord.
 
-**[4:2]** Now for what concerns the things that are written about him, some belong to the people of the Jews, and some to us.
+**[6:2]** Woe unto you, for you shall all wax old as a garment, and the moth shall devour you. And again the prophet saith, Since he hath been placed, as a strong stone, for crushing; behold I will place on the foundation of Zion a stone precious, elect, a chief corner stone of great price.
 
-**[4:3]** For thus saith the Scripture: He was wounded for our transgressions, he was bruised for our iniquities, and by his blood we are healed. He was led as a lamb to the slaughter, and as a sheep before his shearers is dumb, so he opened not his mouth.
+**[6:3]** And then what saith he? And he that believeth in him shall live for ever. Is then our hope in a stone? God forbid. But it is thus said because the Lord hath made strong his flesh, for he saith, And he made me as it were a hard rock.
 
-**[4:4]** Wherefore we ought the more to give thanks unto God, for that he hath both declared unto us what is passed, and not suffered us to be without understanding of those things that are to come.
+**[6:4]** And again, The stone which the builders rejected hath become the head of the corner. And again he saith, This is the day, great and wonderful, which the Lord hath made.
 
-**[4:5]** But to them he saith; The nests are not unjustly spread for the birds.
+**[6:5]** I write unto you the more simply that ye may understand. I am the offscouring of your love.
 
-**[4:6]** This he spake, because a man will justly perish, if having the knowledge of the way of truth, he shall nevertheless not refrain himself from the way of darkness.
+**[6:6]** What then saith the prophet again? The synagogue of the wicked came around me; they surrounded me as bees do an honey-comb, and, over my garment they cast lots.
 
-**[4:7]** And for this cause the Lord was content to suffer for our souls, although he be the Lord of the whole earth; to whom God said before the beginning of the world, Let us make man after our own image and likeness.
+**[6:7]** Since, therefore, he was about to be made manifest and to suffer in the flesh, his suffering was showed beforehand. For the prophet saith unto Israel, Woe unto their soul, for they have counselled an evil counsel among themselves, saying, Let us bind the righteous because he is an encumbrance unto us.
 
-**[4:8]** Now how he suffered for us, seeing it was by men that he underwent it, I will shew you.
+**[6:8]** And what saith the other prophet, even Moses, unto them? Behold, thus saith the Lord God: Enter into the good land which the Lord sware unto Abraham and Isaac and Jacob, and inherit it, even a land flowing with milk and honey.
 
-**[4:9]** The prophets having received from him the gift of prophecy, spake before concerning him:
+**[6:9]** What saith the knowledge? Learn ye. Hope, it saith, upon Jesus, who is about to be manifested unto you in the flesh. For man is but earth which suffers; for, from the face of the ground was made the moulding of Adam.
 
-**[4:10]** But he, that he might abolish death, and make known the resurrection from the dead, was content, as it was necessary, to appear in the flesh, that he might make good the promise before given to our fathers, and preparing himself a new people, might demonstrate to them whilst he was upon earth, that after the resurrection he would judge the world.
+**[6:10]** What then meaneth he when he saith, Into the good land which floweth with milk and honey? Blessed be the Lord, brethren, who hath put into you wisdom and knowledge of his secret things. For the prophet speaketh a parable from the Lord. Who shall understand, except he that is wise and skilful and that loveth his Lord?
 
-**[4:11]** And finally teaching the people of Israel, and doing many wonders and signs among them, he preached to them, and shewed the exceeding great love which he bare towards them.
+**[6:11]** Since, therefore, having renewed us by the remission of our sins, he hath made us of a new character, he willeth that we should have the souls of children, inasmuch as it is indeed he who hath formed us anew.
 
-**[4:12]** And when he chose his apostles, which were afterwards to publish his Gospel, he took men who had been very great sinners; that thereby he might plainly shew, That he came not to call the righteous but sinners to repentance.
+**[6:12]** For the scripture saith concerning us, that he saith unto the Son, Let us make man after our own image and according to our likeness; and let them rule over the beasts of the earth, and the fowls of heaven, and the fishes of the sea. And the Lord said, when he saw how excellent our form was, Increase and multiply and replenish the earth. These things he saith unto the Son.
 
-**[4:13]** Then he clearly manifested himself to be the Son of God. For had he not come in the flesh, how should men have been able to look upon him, that they might be saved?
+**[6:13]** Again I will show unto thee how the Lord speaketh unto us, since he hath made a second fashioning in these last days; the Lord saith, Behold I make the last even as the first. For to this purpose did the prophet preach. Enter ye into the land flowing with milk and honey, and have dominion over it.
 
-**[4:14]** Seeing if they beheld only the sun, which was the work of his hands, and shall hereafter cease to be, they are not able to endure steadfastly to look against the rays of it.
+**[6:14]** Behold now we have been formed again, even as he saith again in another prophet: Behold, saith the Lord, I will take out from these, that is out of those whom the Spirit of the Lord foresaw, the hearts of stone, and will put into them hearts of flesh, because he himself was about to be manifested in the flesh and to dwell among us.
 
-**[4:15]** Wherefore the Son of God came in the flesh for this cause, that he might fill up the measure of their iniquity, who have persecuted his prophets unto death. And for the same reason also he suffered.
+**[6:15]** For the habitation of our heart is a temple holy unto the Lord.
 
-**[4:16]** For God hath said of the stripes of his flesh, that they were from them. And, I will smite the shepherd, and the sheep of the flock shall be scattered.
+**[6:16]** For the Lord saith again, Whereby shall I appear before the Lord my God and be glorified? He saith too, I will give thanks unto thee in the assembly, in the midst of my brethren; I will sing unto thee in the midst of the assembly of the saints. We are, therefore, those whom he brought into the good land.
 
-**[4:17]** Thus he would suffer, because it behooved him to suffer upon the cross.
+**[6:17]** What, then, meaneth the milk and honey? It is because a child is kept alive, first with honey, afterwards with milk. So we, too, being quickened by faith in his promise and by his word, shall live and rule over the earth.
 
-**[4:18]** For thus one saith, prophesying concerning him; Spare my soul from the sword. And again, Pierce my flesh from thy fear.
+**[6:18]** And we said previously, And let them increase and multiply and rule over the fish. Who then is he who is able to rule over the beasts, the fish, and fowls of heaven? For we ought to perceive that to rule belongeth to authority, so that a man by giving commands may exercise lordship.
 
-**[4:19]** And again, the congregation of wicked doers rose up against me, (They have pierced my hands and my feet).
+**[6:19]** If, therefore, this doth not take place now, he hath told us when it will; even when we ourselves have been made perfect, so that we become heirs of the covenant of the Lord.
 
-**[4:20]** And again he saith, I gave my back to the smiters, and my face I set as an hard rock.
 
+**[7:1]** Ye perceive, therefore, beloved children, that our good Lord hath manifested unto us all things beforehand, to the end that we should know whom we ought to praise, returning thanks for all things.
 
+**[7:2]** If, therefore, the Son of God, being he who is the Lord and who is about to judge the quick and the dead, suffered, to the end that his stripes might make us live, let us believe that the Son of God could not suffer except on our account.
 
-**[5:0]** The subject continued
+**[7:3]** But being crucified, he was given to drink of vinegar and gall. How, then, did the priests of the temple signify concerning this? Now, the commandment is written in this wise: Whosoever shall not fast on the fast, he shall die the death, the Lord hath commanded it. Since he also was about to offer the vessel that contained his spirit as a sacrifice, in order that the type might be fulfilled which was given by the offering of Isaac at the altar,
 
-**[5:1]** AND when he had fulfilled the commandment of God, What says he? Who will contend with me? Let him stand against me: or who is he that will impede me? Let him draw near to the servant of the Lord. Wo be to you! Because ye shall all wax old as a garment, the moth shall eat you up.
+**[7:4]** what saith he in the book of the prophet? And let them eat of the goat which is offered on the fast for the sins of all. Attend ye diligently thereto. And let the priests alone eat of the unwashed entrails with vinegar.
 
-**[5:2]** And again the prophet adds, He is put for a stone for stumbling. Behold I lay in Zion for a foundation, a precious stone, a choice corner stone; an honourable stone. And what follows? And he that hopeth in him shall live for ever.
+**[7:5]** With what signification? Because ye will one day give me to drink of vinegar and gall, when I am about to offer up my flesh for my new people, eat ye it alone, while the people fast and lament in sackcloth and ashes. He commanded this in order that he might show that he must needs suffer at their hands.
 
-**[5:3]** What then? Is our hope built upon a stone? God forbid. But because the Lord hath hardened his flesh against sufferings, he saith, I have put me as a firm rock.
+**[7:6]** How, then, did he give his commands? Attend ye. Take ye two goats, fair and like each other, and offer them up. And let the priest take one of them as a whole burnt offering for sin.
 
-**[5:4]** And again the prophet adds; The stone which the builders refused has become the head of the corner. And again he saith; This is the great and wonderful day which the Lord hath made. I write these things the more plainly to you that ye may understand: For indeed I could be content even to die for your sakes.
+**[7:7]** But what shall they do with the other? Let the other, he saith, be accursed. Now attend ye, how the type of Jesus is made manifest.
 
-**[5:5]** But what saith the prophet again? The counsel of the wicked encompassed me about. They came about me, as bees about the honey-comb: and, Upon my vesture they cast lots.
+**[7:8]** And do ye all spit upon it and pierce it, and put scarlet wool around its head, and so let it be cast out into the wilderness. And when this hath been done, he who beareth the goat leadeth it out into the wilderness, and taketh away the wool and placeth it upon a bush, which is called rachel, the shoots of which we are accustomed to eat when we find them in the fields. Thus the fruit of the rachel only is sweet.
 
-**[5:6]** Forasmuch then as our Saviour was to appear in the flesh and suffer, his passion was hereby foretold.
+**[7:9]** What, therefore, meaneth this? Attend ye. One is brought to the altar, the other is accursed, and the accursed one is crowned, because they shall see him in that day, who had the scarlet robe about his flesh, and they shall say, Is not this he whom once we set at naught and crucified, and spat upon and pierced? Truly this was he who at that time said that he was the Son of God.
 
-**[5:7]** For thus saith the prophet against Israel: Wo be to their soul, because they have taken wicked counsel against themselves, saying, let us lay snares for the righteous, because he is unprofitable to us.
+**[7:10]** How then was the one like to the other? In this respect were the goats like him: they were fair and equal, so that when they saw him coming they were astonished at the likeness to the goat. Therefore, behold here the type of Jesus, who was about to suffer.
 
-**[5:8]** Moses also in like manner speaketh to them; Behold thus saith the Lord God; Enter ye into the good land of which the Lord hath sworn to Abraham, and Isaac, and Jacob, that he would give it you, and possess it; a land flowing with milk and honey.
+**[7:11]** And what meaneth the wool placed in the midst of thorns? It is a type of Jesus, which hath been placed in the church. For he who wisheth to take the scarlet wool must suffer many things, because the thorn is terrible, and must after tribulation gain possession of it. So he saith, They who wish to see me and to take hold of my kingdom must through trouble and suffering receive me.
 
-**[5:9]** Now what the spiritual meaning of this is, learn; It is as if it had been said, Put your trust in Jesus, who shall be manifested to you in the flesh. For man is the earth which suffers: forasmuch as out of the substance of the earth Adam was formed.
 
-**[5:10]** What therefore does he mean when he says, Into a good land flowing with milk and honey? Blessed be our Lord, who has given us wisdom, and a heart to understand his secrets. For so says the prophet, Who shall understand the hard sayings of the Lord? But he that is wise, and intelligent, and that loves his Lord.
+**[8:1]** And what type, think ye, was the commandment unto Israel, that the men in whom sin had been accomplished should offer a heifer, and after they had slaughtered it should burn it, and that children should then take the ashes and cast them into vessels, and place scarlet wool and hyssop around a stick -- behold, again, the type of the cross and the scarlet wool, -- and so the children should sprinkle the people one by one, that they might be purged from their sins?
 
-**[5:11]** Seeing therefore he has renewed us by the remission of our sins, he has put us into another frame, that we should have souls like those of children, forming us again himself by the spirit.
+**[8:2]** Behold, therefore, in what way he speaketh unto you with simplicity. The heifer signifieth Jesus; the sinful men who offer it are the men who brought him unto the slaughter. But now the men are no longer before us, no longer doth the glory belong to sinners.
 
-**[5:12]** For thus the Scripture saith concerning us, where it introduceth the Father speaking to the Son; Let us make man after our likeness and similitude; and let them have dominion over the beasts of the earth, and over the fowls of the air, and the fish of the sea.
+**[8:3]** The children who sprinkled are they who brought us the good news of the forgiveness of sins and purification of heart, to whom he hath given the authority of the gospel for the purpose of preaching, being twelve in number, for a testimony unto the tribes, for twelve were the tribes of Israel.
 
-**[5:13]** And when the Lord saw the man which he had formed, that behold he was very good; he said, Increase and multiply, and replenish the earth. And this he spake to his son.
+**[8:4]** And why, then, were the children who sprinkled three in number? For a testimony unto Abraham, Isaac, and Jacob, because these are great before God.
 
-**[5:14]** I will now shew you, how he made us a new creature, in the latter days.
+**[8:5]** And what signifieth the wool upon the stick? Because the kingdom of Jesus is upon the cross, and because they who hope upon him shall live for ever.
 
-**[5:15]** The Lord saith; Behold I will make the last as the first. Wherefore the prophet thus spake, Enter into the land flowing with milk and honey, and have dominion over it.
+**[8:6]** And why are there at the same time the wool and the hyssop? Because in his kingdom the days in which we shall be saved shall be evil and filthy, because also he that grieveth his flesh is healed through the purifying of the hyssop.
 
-**[5:16]** Wherefore ye see how we are again formed anew; as also he speaks by another prophet; Behold saith the Lord, I will take from them, that is, from those whom the spirit of the Lord foresaw, their hearts of stone, and I will put into them hearts of flesh.
+**[8:7]** And these things having happened on this account are manifest unto us, but obscure unto them, because they hearkened not unto the voice of the Lord.
 
-**[5:17]** Because he was about to be made manifest in the flesh and to dwell in us.
 
-**[5:18]** For, my brethren, the habitation of our heart is a holy temple unto the Lord. For the Lord saith again. In what place shall I appear before the Lord my God, and be glorified?
+**[9:1]** He saith also again concerning our ears how he hath circumcised our heart. The Lord saith in the prophet, They have hearkened unto me with the hearing of their ears; and again, he saith, They that are afar off shall hear with their ears; they shall know what I have done; and be ye circumcised, saith the Lord, in your heart;
 
-**[5:19]** He answers I will confess unto thee in the congregation in the midst of my brethren; and will sing unto thee in the church of the saints.
+**[9:2]** and again, Hear, O Israel, for thus saith the Lord thy God; and again the Spirit of the Lord prophesied, Who is he that wisheth to live for ever? let him hearken unto the voice of my Son.
 
-**[5:20]** Wherefore we are they whom he has brought into that good land.
+**[9:3]** And again he saith, Hear, O heaven, and give ear, O earth, for the Lord hath spoken these things for a testimony. And again he saith, Hearken unto the voice of the Lord, ye rulers of this people. And again he saith, Hearken ye children unto the voice of one crying in the wilderness.
 
-**[5:21]** But what signifies the milk and honey? Because as the child is nourished first with milk, and then with honey; so we being kept alive by the belief of his promises, and his word, shall live and have dominion over the land.
+**[9:4]** To this end, therefore, hath he circumcised our hearing, that when we hear his word, we should believe; for the circumcision in which they trust is done away with. For he hath said that circumcision is not that which was made in the flesh; but they have transgressed, for an evil angel hath deluded them.
 
-**[5:22]** For he foretold above, saying, increase and multiply, and have dominion over the fishes, etc.
+**[9:5]** He saith unto them, These things saith the Lord your God, -- here I find a new commandment -- Sow not among thorns, but be ye circumcised unto your Lord. And what saith he? Circumcise the hardness of your hearts, and harden not your neck. And again, Behold, saith the Lord, all the Gentiles are uncircumcised in their foreskin, but this people is uncircumcised in their hearts.
 
-**[5:23]** But who is there that is now able to have this dominion over the wild beasts, or fishes, or fowls of the air? For you know that to rule is to have power, that a man should be set over what he rules.
+**[9:6]** But he will say, Of a truth the people have been circumcised for a seal unto them; but so, also, hath every Syrian and Arabian, and all the priests of idols. Do they also belong to the covenant? But the Egyptians also are in circumcision.
 
-**[5:24]** But forasmuch as this we have not now, he tells us when we shall have it; namely, when we shall become perfect, that we may be made the inheritors of the covenant of the Lord.
+**[9:7]** Learn, therefore, children of love, richly concerning all things, that Abraham, who first gave circumcision, circumcised, looking forward in the spirit unto Jesus, having received the doctrines of the three letters.
 
+**[9:8]** For he saith, And Abraham circumcised out of his household eighteen and three hundred. What, then, was the knowledge that was given by this? Learn ye, that he mentioneth the eighteen first, and then, having made an interval, he mentioneth the three hundred. In the eighteen, IH, you have Jesus; and because the cross in the letter T was about to convey the grace of redemption, he mentioneth also the three hundred. Therefore, he showeth Jesus in the two letters, IH, and the cross in the one, T.
 
+**[9:9]** He knoweth this who hath placed the engrafted gift of his teaching in us. No one hath had from me a more true account than this; but I know that ye are worthy.
 
-**[6:0]** The scape-goat an evident type of this
 
-**[6:1]** UNDERSTAND then my beloved children, that the good God hath before manifested all things unto us, that we might know to whom we ought always to give thanks and praise.
+**[10:1]** But in that Moses said, Thou shalt not eat the swine, nor the eagle, nor the hawk, nor the crow, nor any fish that hath not scales in itself, he had in his mind three doctrines.
 
-**[6:2]** If therefore the Son of God whet is the Lord of all, and shall come to judge both the quick and dead, hath suffered, that by his stripes we might live: let us believe that the Son of God could not have suffered but for us. But being crucified, they gave him vinegar and gall to drink.
+**[10:2]** For in the end he saith unto them in Deuteronomy, And I will arrange before this people my ordinances. The commandment of God is not, therefore, that they should not eat; but Moses spake in a spiritual sense.
 
-**[6:3]** Hear therefore how the priests of the temple did foreshew this also: the Lord by his command which was written, declared that whosoever did not fast the appointed fast he should die the death: because he also was himself one day to offer up his body for our sins; that so the type of what was done in Isaac might be fulfilled, who was offered upon the altar.
+**[10:3]** He spake of the swine with this meaning: Thou shalt not cleave, he meaneth, unto men of this sort, who are like unto swine, for when they become wanton they forget their Lord, but when they are in want they think upon the Lord; even as the swine when it eateth knoweth not its lord, but when it is hungry it crieth, and when it hath received it is again silent.
 
-**[6:4]** What therefore is it that he says by the prophet? And let them eat of the goat which is offered in the day of the fast for all their sins. Hearken diligently (my brethren,) and all the priests, and they only shall eat the inwards not washed with vinegar.
+**[10:4]** Nor shalt thou eat of the eagle, nor of the hawk, nor of the kite, nor of the crow. Thou shalt not, he meaneth, cleave to, nor be like to men of this sort, who know not how to provide sustenance for themselves by labour and sweat, but in their iniquity seize the property of others, and, as though they walked in innocence, watch and observe whom they shall plunder, through their covetousness; even as these birds alone provide not sustenance for themselves by means of toil, but, sitting idle, seek out how they may eat the flesh of others, being destructive by reason of their wickedness.
 
-**[6:5]** Why so? because I know that when I shall hereafter offer my flesh for the sins of a new people, ye will give me vinegar to drink mixed with gall; therefore do ye only eat, the people fasting the while, and lamenting in sackcloth and ashes.
+**[10:5]** And thou shalt not eat, he saith, of the lamprey, or the polypus, or the cuttle-fish. Thou shalt not, he meaneth, cleave to or become like unto men of this sort, who are impious unto the end, and have been already condemned to death, even as these accursed fish alone swim in the depth, not floating as the others do, but dwelling in the earth below the depth of the sea.
 
-**[6:6]** And that he might foreshew that he was to suffer for them, hear then how he appointed it.
+**[10:6]** Thus, he saith, Thou shalt not eat the hare, meaning thou shalt not indulge in unnatural lusts;
 
-**[6:7]** Take, says he, two goats, fair and alike, and offer them, and let the high priest take one of them for a burnt offering. And what must be done with the other? Let it says he be accursed.
+**[10:7]** nor shalt thou eat the hyaena, meaning thou shalt not be an adulterer;
 
-**[6:8]** Consider how exactly this appears to have been a type of Jesus. And let all the congregation spit upon it, and prick it; and put the scarlet wool about its head, and thus let it be carried forth into the wilderness.
+**[10:8]** nor shalt thou eat the weazel, meaning thou shalt not do uncleanness with thy mouth concerning food;
 
-**[6:9]** And this being done, he that was appointed to convey the goat, led it into the wilderness, and took away the scarlet wool, and put it upon a thorn bush, whose young sprouts when we find them in the field we are wont to eat: so the fruit of that thorn only is sweet.
+**[10:9]** therefore Moses spake in the spirit these three doctrines. But they, according to the lusts of their flesh, received them as being about meat.
 
-**[6:10]** And to what end was this ceremony? Consider; one was offered upon the altar, the other was accursed.
+**[10:10]** And David receiveth knowledge concerning the same three doctrines, and saith in like manner, Blessed is the man who hath not walked in the counsel of the ungodly, even as the fish walk in darkness into the depths of the sea, and hath not stood in the way of sinners, even as they who pretend to fear the Lord sin as doth the swine, and hath not sat in the seat of the destroyers, even as the birds that sit for prey. Ye have also in the end a commandment concerning food;
 
-**[6:11]** And why was that which was accursed crowned? Because they shall see Christ in that day having a scarlet garment about his body; and shall say: Is not this he whom we crucified; having despised him, pierced him, mocked him? Certainly, this is he, who then said, that he was the Son of God.
+**[10:11]** but Moses said, Eat ye everything that is cloven-footed and that cheweth the cud. What meaneth he? He that taketh food knoweth him that feedeth him, and, resting upon him, seemeth to be glad. He therefore saith well, having regard to the commandment. What then meaneth he? Cleave ye unto them that fear the Lord, who walk in his commandments, which they have received in their hearts; unto them that speak of the ordinances of the Lord, and observe them, unto them who know that the practice of them is a work of gladness, and who meditate on the word of the Lord. But what meaneth that which cleaveth the hoof? It meaneth that the just walketh even in this world, and expecteth the holy life. Behold how well Moses hath made these laws;
 
-**[6:12]** As therefore he shall be then like to what he was on earth, so were the Jews heretofore commanded, to take two goats fair and equal. That when they shall see (our Saviour) hereafter coming (in the clouds of heaven), they may be amazed at the likeness of the goats.
+**[10:12]** but how was it possible for them to perceive or understand these things? But we, having rightly understood the commandments, speak them even as the Lord hath willed. On this account hath he circumcised our ears and hearts, that we should understand these things.
 
-**[6:13]** Wherefore ye here again see a type of Jesus who was to suffer for us.
 
-**[6:14]** But what then signifies this. That the wool was to be put into the midst of the thorns?
+**[11:1]** Let us inquire, therefore, if the Lord cared to show us beforehand concerning the water and concerning the cross. Concerning the water it is written, with respect to Israel, how that they will not receive the baptism that bringeth remission of sins, but will establish one for themselves.
 
-**[6:15]** This also is a figure of Jesus, sent out to the church. For as he who would take away the scarlet wool must undergo many difficulties, because that thorn was very sharp, and with difficulty get it: So they, says Christ, that will see me, and come to my kingdom, must through many afflictions and troubles attain unto me.
+**[11:2]** The prophet therefore speaketh in this wise, Be astonished, O heaven! and let the earth be afraid still more at this, because this people hath done two great and evil things: they have abandoned me who am the fountain of life, and have dug for themselves broken cisterns.
 
+**[11:3]** Is my holy mountain of Zion a deserted rock? ye shall be as the young of a bird which have flown when the nest has been taken away.
 
+**[11:4]** And again the prophet saith, I will go before thee and will lay low the mountains. And I will break the doors of brass and burst the bars of iron; and I will give unto thee the treasures of darkness hidden and unseen, that they may know that I am the Lord God; and, He shall dwell in the lofty cave of the strong rock.
 
-**[7:0]** The red heifer, another type of Christ
+**[11:5]** Then what saith he of the Son? His water is faithful. Ye shall behold the king in his glory, and your soul shall practise the fear of the Lord.
 
-**[7:1]** BUT what type do ye suppose it to have been, where it is commanded to the people of Israel, that grown persons in whom sins are come to perfection, should offer an heifer, and after they had killed it should burn the same.
+**[11:6]** And again, in another prophet, he saith, He that doeth these things shall be as a tree that groweth beside the watercourses, which giveth his fruit in his season; and his leaf shall not fall off, and whatever he doeth shall prosper.
 
-**[7:2]** But then young men should take up the ashes and put them in vessels; and tie a piece of scarlet wool and hyssop upon a stick, and so the young men should sprinkle every one of the people, and they should be clear from their sins.
+**[11:7]** Not so are the ungodly, not so; they are like the dust which the wind carrieth away from the face of the earth, wherefore the ungodly shall not rise up in judgment, nor sinners in the congregation of the just: for the Lord knoweth the way of the just, but the way of the ungodly shall perish.
 
-**[7:3]** Consider how all these are delivered in a figure to us.
+**[11:8]** Ye perceive how he hath put together the water and the cross. For what he meaneth is this, Blessed are they who having hoped on the cross have gone down into the water. For he speaketh of a reward to be given at the due season; then, saith he, I will render what is due unto you. But now in that he saith, Their leaves shall not fall off, he meaneth this, That every word that goeth out from your mouth in faith and love shall be for a refuge and a hope unto many.
 
-**[7:4]** This heifer is Jesus Christ; the wicked men that were to offer it are those sinners who brought him to death: who afterwards have no more to do with it; the sinners have no more the honour of handling of it:
+**[11:9]** And again another prophet saith, And the land of Jacob was praised beyond the whole earth. By so saying he meaneth this, He shall glorify the vessel that containeth his Spirit.
 
-**[7:5]** But the young men that performed the sprinkling, signified those who preach to us the forgiveness of sins and the purification of the heart, to whom the Lord gave authority to preach his Gospel: being at the beginning twelve, to signify the tribes, because there were twelve tribes of Israel.
+**[11:10]** And what sayeth he afterwards? There was a river flowing on the right, and there grew up on its banks fair trees, and whosoever eateth of them shall live for ever.
 
-**[7:6]** But why were there three young men appointed to sprinkle? To denote Abraham, and Isaac, and Jacob, because they were great before God.
+**[11:11]** By this he meaneth that we go down into the water full of sin and pollution, and go up bearing fruit in the heart, having in the spirit fear and hope toward Jesus. And whoever shall eat of them shall live for ever. He meaneth this, Whoever, he saith, shall hear these words spoken and believe them shall live for ever.
 
-**[7:7]** And why was the wool put upon a stick? Because the kingdom of Jesus was founded upon the cross; and therefore they that put their trust in him, shall live for ever.
 
-**[7:8]** But why was the wool and hyssop put together? To signify that in the kingdom of Christ there shall be evil and filthy days, in which however we shall be saved; and because he that has any disease in the flesh by some filthy humours is cured by hyssop.
+**[12:1]** In like manner again he signifieth concerning the cross in another prophet, who saith, And when shall these things be fulfilled? The Lord saith, When the tree hath been bent and shall rise up again, and when blood shall flow from the tree. You have again a prophecy concerning the cross and about him who is about to be crucified.
 
-**[7:9]** Wherefore these things being thus done, are to us indeed evident, but to the Jews they are obscure; because they hearkened not unto the voice of the Lord.
+**[12:2]** And he saith again in Moses, when Israel was being made war upon by aliens, even that he might remind them while they were being made war upon, that for their sins they were being delivered over unto death, the Spirit saith unto the heart of Moses, that he should make the form of a cross, and of him who was about to suffer, for if, he says, they shall not hope upon him, they will be made war upon for ever. Moses, therefore, arranges weapon against weapon in the midst of the battle, and standing higher than all, stretched out his hands, and so again Israel conquered; then, when he let them down, they were again slaughtered.
 
+**[12:3]** Wherefore? that they might know that they are not to be saved except they hope upon him.
 
+**[12:4]** And again, in another prophet, he saith, All day long have I stretched out my hands unto a people who are disobedient, and who speak against my righteous way.
 
-**[8:0]** Of the circumcision of the ears; and how in the first institution of circumcision Abraham, mystically foretold Christ by name
+**[12:5]** Again, Moses maketh another type of Jesus, that it behoveth that he should suffer, and cause others to live, whom they thought that they had destroyed in figure when Israel was falling: For the Lord made every kind of serpent to bite them, and they died, since the transgression happened to Eve by means of the serpent, to the end that he might convince them that through their transgression they should be given over to the pangs of death.
 
-**[8:1]** AND therefore the Scripture again speaks concerning our ears, that God has circumcised them, together with our hearts For thus saith the Lord by the holy prophets: By the hearing of the ear they obeyed me.
+**[12:6]** For in the end Moses himself, after that he had given commandment, There shall not be among you a molten image or a graven image for a god, maketh one himself, that he might show a type of Jesus. Moses, therefore, maketh a brazen serpent, and setteth it aloft, and calleth the people by a proclamation.
 
-**[8:2]** And again, whey who are afar off, shall hear and understand what things I have done. And again, Circumcise your hearts, saith the Lord.
+**[12:7]** When, therefore, they had come together they besought Moses, that he should offer supplication for them concerning their healing. Moses therefore said unto them, When any of you is bitten let him come unto the dead serpent, that is placed upon the tree, and let him believe and hope that, though it is dead, it is able to make him live, and immediately he shall be saved; and so did they. You have, therefore, again in these things also, the glory of Jesus, that in him and to him are all things.
 
-**[8:3]** And again he saith, Hear O Israel! For thus saith the Lord thy God. And again the Spirit of God prophesieth, saying: Who is there that would live for ever, let him hear the voice of my Son.
+**[12:8]** What again saith Moses unto Jesus the son of Nun, after he had given this name to him, being a prophet, to this end alone, that all the people might hear that the Father revealeth all things concerning the Son, Jesus?
 
-**[8:4]** And again, Hear, O Heaven and give ear O Earth! Because the Lord has spoken these things for a witness.
+**[12:9]** Moses therefore saith unto Jesus the son of Nun, having given him this name, when he sent him to spy out the land, Take the book into thy hands and write what the Lord saith, even that the Son of God, in the last days, will cut off the whole house of Amalek from the roots.
 
-**[8:5]** And again he saith Hear the word of the Lord, ye princes of the people. And again Hear O Children! The voice of one crying in the wilderness.
+**[12:10]** Behold, therefore, again Jesus, not the son of man but the Son of God, and by a type made manifest in the flesh. Since, therefore, they should one day say that Christ is the son of David, David himself prophesieth, being in fear and understanding the deceitfulness of sinners, The Lord said unto my Lord, Sit on my right hand until I make thy enemies thy footstool.
 
-**[8:6]** Wherefore he has circumcised our ears that we should hear his word, and believe. But as for that circumcision, in which the Jews trust, it is abolished. For the circumcision of which God spake, was not of the flesh;
+**[12:11]** And again Esaias speaketh in this wise, The Lord said unto Christ, my Lord, whose right hand I have held, that the Gentiles should hearken before him, and I will break the strength of kings. Behold how David calleth him Lord, and doth not call him son.
 
-**[8:7]** But they have transgressed his commands, because the evil one hath deceived them. For thus God bespeaks them; Thus saith the Lord your God (Here I find the new law) Sow not among thorns; but circumcise yourselves to the Lord your God. And what doth he mean by this saying? Hearken unto your Lord.
 
-**[8:8]** And again he saith, Circumcise the hardness of your heart, and harden not your neck. And again, Behold, saith the Lord, all the nations are uncircumcised, (they have not lost their fore-skin): but this people is uncircumcised in heart.
+**[13:1]** Let us inquire, therefore, whether this people or the first people inheriteth, and whether the covenant is unto us or unto them.
 
-**[8:9]** But you will say the Jews were circumcised for a sign. And so are all the Syrians and Arabians, and all the idolatrous priests: but are they therefore of the covenant of Israel? And even the Egyptians themselves are circumcised.
+**[13:2]** Hear, now, what the scripture saith concerning the people. But Isaac prayed for Rebecca his wife because she was barren, and she conceived. Then went forth Rebecca to inquire of the Lord, and the Lord said unto her, Two nations are in thy womb, and two peoples are in thy bowels, and the one people shall surpass the other, and the elder shall serve the younger.
 
-**[8:10]** Understand therefore, children, these things more fully, that Abraham, who was the first that brought in circumcision, looking forward in the Spirit to Jesus, circumcised, having received the mystery of three letters.
+**[13:3]** We ought to understand who was Isaac and who was Rebecca, and concerning whom he declared that the one people was greater than the other.
 
-**[8:11]** For the Scripture says that Abraham circumcised three hundred and eighteen men of his house. But what therefore was the mystery that was made known unto him?
+**[13:4]** And in another prophecy Jacob speaketh yet more clearly to Joseph his son, saying, Behold the Lord hath not deprived me of thy face; bring unto me thy sons, that I may bless them.
 
-**[8:12]** Mark, first the eighteen, and next the three hundred. For the numeral letters of ten and eight are I H. And these denote Jesus.
+**[13:5]** And he brought unto him Ephraim and Manasseh, wishing that he should bless Manasseh, because he was the elder. Joseph, therefore, brought him to the right hand of his father Jacob. But Jacob saw in spirit a figure of the people that should be hereafter. And what saith the Scriptures? And Jacob crossed his hands, and placed his right hand on the head of Ephraim, the second and youngest, and blessed him. And Joseph said unto Jacob, Change thy right hand unto the head of Manasseh, because he is my firstborn son. And Jacob said unto Joseph, I know, my child, I know; but the elder shall serve the younger; but this one also shall be blessed.
 
-**[8:13]** And because the cross was that by which we were to find grace; therefore he adds, three hundred; the note of which is T (the figure of his cross). Wherefore by two letters he signified Jesus, and by the third his cross.
+**[13:6]** Behold in what way he appointed that this people should be the first and heir of the covenant.
 
-**[8:14]** He who has put the engrafted gift of his doctrine within us, knows that I never taught to any one a more certain truth; but I trust that ye are worthy of it.
+**[13:7]** If, therefore, it were moreover mentioned through Abraham also, we have the perfecting of our knowledge. What, therefore, saith he unto Abraham, when he alone believed, and it was counted unto him for righteousness? Behold I have made thee, Abraham, a father of the nations who in uncircumcision believe in the Lord.
 
 
+**[14:1]** Yea; but let us inquire whether he hath given the covenant that he swear unto the fathers that he would give unto the people. Verily he hath given it; but they were not worthy to receive it on account of their sins.
 
-**[9:0]** That the commands of Moses concerning clean and unclean beasts, &c., were all designed for a spiritual signification
+**[14:2]** For the prophet saith, And Moses was fasting in Mount Sinai forty days and forty nights, that he might receive the covenant which the Lord hath made with his people. And he received from the Lord the two tables that were written in the spirit with the finger of the hand of the Lord. And Moses, when he had received them, was bringing them down to the people for to give them.
 
-**[9:1]** BUT why did Moses say Ye shall not eat of the swine, neither the eagle nor the hawk; nor the crow; nor any fish that has not a scale upon him?—answer, that in the spiritual sense, he comprehended three doctrines, that were to be gathered from thence.
+**[14:3]** And the Lord said unto Moses, Moses, Moses, get thee down quickly, for thy people, whom thou broughtest out of the land of Egypt, have done unlawfully. And Moses perceived that they had again made molten images, and he cast the tables from his hands, and the tables of the covenant of the Lord were broken.
 
-**[9:2]** Besides which he says to them in the book of Deuteronomy, And I will give my statutes unto this people. Wherefore it is not the command of God that they should not eat these things; but Moses in the spirit spake unto them.
+**[14:4]** Moses indeed received them, but the people were not worthy. Hearken ye, therefore, how we have received them. Moses received them being a servant, but the Lord himself gave unto us to be a people of inheritance, having suffered for our sake.
 
-**[9:3]** Now the sow he forbade them to eat; meaning thus much; thou shalt not join thyself to such persons as are like unto swine; who whilst they live in pleasure, forget their God; but when any want pinches them, then they know the Lord; as the sow when she is full knows not her master; but when she is hungry she makes a noise; and being again fed, is silent.
+**[14:5]** And he was made manifest, that both they might be made perfect in their sins, and that we, through him that inherited, might receive the covenant of the Lord Jesus, who, for this purpose was prepared, that by appearing himself and redeeming from darkness our hearts, which were already lavished on death, and given over to the iniquity of deceit, he might place in us the covenant of his people.
 
-**[9:4]** Neither, says he, shalt thou eat the eagle, nor the hawk, nor the kite, nor the crow; that is thou shalt not keep company with such kind of men as know not how by their labour and sweat to get themselves food: but injuriously ravish away the things of others; and watch how, to lay snares for them; when at the same time they appear to live in perfect innocence.
+**[14:6]** For it is written how the Father giveth commandment unto him, that having redeemed us from darkness, he should prepare for himself a holy people.
 
-**[9:5]** So these birds alone seek not food for themselves, but sitting idle seek how they may eat of the flesh others have provided; being destructive through their wickedness.
+**[14:7]** Therefore the prophet saith, I, the Lord thy God, have called thee in righteousness, and I will hold thy hand and make thee strong; and I have given thee for a covenant to the nation, for a light unto the Gentiles, to open the eyes of the blind, and to bring out of chains them that are bound, and from the house of prison them that sit in darkness. We know from whence we were redeemed.
 
-**[9:6]** Neither, says he, shalt thou eat the lamprey, nor the polypus, nor the cuttle-fish; that is, thou shalt not be like such men, by using to converse with them; who are altogether wicked and adjudged to death. For so those fishes are alone accursed, and wallow in the mire, nor swim as other fishes, but tumble in the dirt at the bottom of the deep.
+**[14:8]** And again, the prophet saith, Behold, I have placed thee for a light unto the Gentiles, that thou shouldst be for a salvation even unto the end of the earth; thus saith the Lord God who hath redeemed thee.
 
-**[9:7]** But he adds, neither shalt thou eat of the hare. To what end?—To signify this to us; Thou shalt not be an adulterer; nor liken thyself to such persons. For the hare every year multiplies the places of its conception; and so many years as it lives, so many it has.
+**[14:9]** And again, the prophet saith, The Spirit of the Lord is upon me, because he hath anointed me to preach the gospel unto the poor, he hath sent me to heal those that are broken in heart, to preach deliverance to the captives, and the recovery of sight to the blind, to tell of the acceptable year of the Lord, and the day of recompense, to comfort all that mourn.
 
-**[9:8]** Neither shalt thou eat of the hyena; that is, again, be not an adulterer, nor a corruptor of others; neither be like to such. And wherefore so?—Because that creature every year changes its kind, and is sometimes male and sometimes female.
 
-**[9:9]** For which cause also he justly hated the weasel; to the end that they should not be like such persons who with their mouths commit wickedness by reason of their uncleanness; nor join themselves with those impure women, who with their mouths commit wickedness. Because that animal conceives with its mouth.
+**[15:1]** And, moreover, concerning the sabbath it is written in the ten commandments, in which he spake on Mount Sinai unto Moses face to face: Sanctify ye the sabbath of the Lord with pure hands and a pure heart.
 
-**[9:10]** Moses, therefore, speaking as concerning meats, delivered indeed three great precepts to them in the spiritual signification of those commands. But they according to the desires of the flesh, understood him as if he had only meant it of meats.
+**[15:2]** And in another place he saith, If my sons shall keep my sabbath, then will I place my mercy upon them.
 
-**[9:11]** And therefore David took aright the knowledge of his threefold command, saying in like manner.
+**[15:3]** He speaketh, too, of the sabbath in the beginning of the creation: And God made in six days the works of his hands, and finished them on the seventh day, and rested in it and sanctified it.
 
-**[9:12]** Blessed is the man that hath not walked in the counsel of the ungodly; as the fishes before mentioned in the bottom of the deep in darkness.
+**[15:4]** Consider, my children, what signify the words, He finished them in six days. They mean this: that in six thousand years the Lord will make an end of all things, for a day is with him as a thousand years. And he himself beareth witness unto me, saying: Behold this day a day shall be as a thousand years. Therefore, my children, in six days, that is in six thousand years, shall all things be brought to an end.
 
-**[9:13]** Nor stood in the way of sinners, as they who seem to fear the Lord, but yet sin, as the sow.
+**[15:5]** And the words, He rested on the seventh day, signify this: After that his Son hath come, and hath caused to cease the time of the wicked one, and hath judged the ungodly, and changed the sun and the moon and the stars, then shall he rest well on the seventh day.
 
-**[9:14]** And hath not sat in the seat of the scorners; as those birds who sit and watch that they may devour.
+**[15:6]** And further he saith, Thou shalt sanctify it with pure hands and a pure heart. Who, therefore, can sanctify the day which the Lord hath sanctified, unless he be pure of heart? in all things have we been deceived.
 
-**[9:15]** Here you have the law concerning meat perfectly set forth, and according to the true knowledge of it.
+**[15:7]** Behold, that then indeed we shall be able to rest well and sanctify; even when we ourselves, having been justified, and having received the promise, when iniquity exists no longer, but all things have been made new by the Lord, we shall then be able to sanctify it, having been first sanctified ourselves.
 
-**[9:16]** But, says Moses, ye shall eat all that divideth the hoof, and cheweth the cud. Signifying thereby such an one as having taken his food, knows him that nourisheth him; and resting upon him, rejoiceth in him.
+**[15:8]** And, further, he saith unto them, Your new moons and your sabbaths I cannot endure. See, now, what he meaneth. The sabbaths, that now are, are not acceptable unto me, but that which I have made is, even that in which, after that I have brought all things to an end, I shall make a beginning of the eighth day, which thing is the beginning of another world.
 
-**[9:17]** And in this he spake well, having respect to the commandment. What, therefore, is it that he says?—That we should hold fast to them that fear the Lord; with those who meditate on the command of the word which they have received in their heart; with those that declare the righteous judgments of the Lord, and keep his commandments;
+**[15:9]** Wherefore we keep the eighth day as a day of gladness, on which also Jesus rose from the dead, and after he had appeared ascended unto heaven.
 
-**[9:18]** In short, with those who know that to meditate is a work of pleasure, and therefore exercise themselves in the word of the Lord.
 
-**[9:19]** But why might they eat those that clave the hoof?—Because the righteous liveth in this present world; but his expectation is fixed upon the other. See, brethren, how admirably Moses commanded these things.
+**[16:1]** And I will, moreover, tell you concerning the temple, how these wretched men, being deceived, placed their hopes in the building as if it were the habitation of God, and not on the God who hath made them.
 
-**[9:20]** But how should we thus know all this, and understand it? We, therefore, understanding aright the commandments, speak as the Lord would have us. Wherefore he has circumcised our ears and our hearts, that we might know these things.
+**[16:2]** For almost after the manner of the Gentiles did they consecrate him in the temple. But what saith the Lord, making it of none effect? Hearken ye: Who hath measured out the heaven with his palm, or the earth with the flat of his hand, is it not I? saith the Lord. Heaven is my throne, and earth the footstool of my feet. What house will ye build for me, or what shall be the place of my rest? Ye have known that their hope was vain.
 
+**[16:3]** And, yet further, he saith again, Behold they that have destroyed this temple shall rebuild it.
 
+**[16:4]** And so doth it happen, for through their war it has been destroyed by the enemy, and now both they themselves and the servants of their enemies shall rebuild it.
 
-**[10:0]** Baptism and the Cross of Christ foretold in figures under the law
+**[16:5]** And again it was made manifest how the temple and the people of Israel should be given up to their enemies. For the scripture saith, And it shall come to pass in the last days that the Lord shall deliver up the sheep of his pasture, and their fold and their tower shall he give up to destruction; and it happened according to that which the Lord had spoken.
 
-**[10:1]** LET us now inquire whether the Lord took care to manifest anything beforehand concerning water and the cross.
+**[16:6]** Let us inquire, therefore, whether there be any temple of God. There is; even where he himself hath declared that he would make and perfect it. For it is written, And it shall be when the week is completed that the temple of God shall be built gloriously in the name of the Lord.
 
-**[10:2]** Now for the former of these, it is written to the people of Israel how they shall not receive that baptism which brings to forgiveness of sins; but shall institute another to themselves that cannot.
+**[16:7]** I find, therefore, that there is a temple; how then shall it be built in the name of the Lord? Learn ye. Before that we believed in God the habitation of our heart was corrupt and feeble, as being of a truth a temple built by hands. For it was full of idolatry, and was a habitation of devils, because we did such things as were contrary to God;
 
-**[10:3]** For thus saith the prophet: Be astonished, O Heaven! and let the earth tremble at it, because this people have done two great and wicked things; they have left me, the fountain of living water, and have digged for themselves broken cisterns, that can hold no water.
+**[16:8]** but it shall be built in the name of the Lord. Attend ye: that the temple of the Lord may be built gloriously. But in what manner? Learn ye: having received the remission of our sins, and having hoped upon the name of the Lord, we have become new, having been again created entirely. Wherefore God of a truth dwelleth in us as in an habitation.
 
-**[10:4]** Is my holy mountain a Zion, a desolate wilderness? For ye shall be as a young bird when its nest is taken away.
+**[16:9]** How? The word of his faith, the calling of his promise, the wisdom of his ordinances, the commandments of his doctrine, he himself prophesying in us, he himself dwelling in us. To us, who were enslaved by death, he openeth the gate of the temple, which is his mouth, and, giving us repentance, leadeth us into the temple incorruptible.
 
-**[10:5]** And again the prophet saith, I will go before thee, and will make plain the mountains, and will break the gates of brass, and will snap in sunder the bars of iron; and will give thee dark, and hidden, and invisible treasures, that they may know that I am the Lord God.
+**[16:10]** For he who desireth to be saved looketh not unto the man, but unto him that dwelleth in him and speaketh in him, wondering that he had never before heard him speaking such words out of his mouth, or even desired to hear. This is the spiritual temple built by the Lord.
 
-**[10:6]** And again: He shall dwell in the high den of the strong rock. And then, what follows in the same prophet? His water is faithful; ye shall see the king with glory, and your soul shall learn the fear of the Lord.
 
-**[10:7]** And again he saith in another prophet: He that does these things; shall be like a tree, planted by the currents of water, which shall give its fruit in its season. Its leaf also shall not wither, and whatsoever he doth it shall prosper.
+**[17:1]** So far as it is possible for me to show you these things with simplicity, my mind and soul hopeth that I have not omitted any of the things that pertain unto salvation;
 
-**[10:8]** As for the wicked it is not so with them; but they are as the dust which the wind scattereth away from the face of the earth.
+**[17:2]** for if I write unto you concerning the things that are at hand, or the things that will be hereafter, ye would not be able to understand them, because they are couched in parables. These things, therefore, are thus.
 
-**[10:9]** Therefore the ungodly shall not stand in the judgment, neither the sinners in the council of the righteous. For the Lord knoweth the way of the righteous and the way of the ungodly shall perish.
 
-**[10:10]** Consider how he has joined both the cross and the water together.
+**[18:1]** Let us pass on now to another kind of knowledge and instruction. There are two paths of instruction and authority -- the one that of light, and the other that of darkness. But there is a great difference between the two paths. For over the one are appointed as illuminators the angels of God, over the other the angels of Satan;
 
-**[10:11]** For thus he saith: Blessed are they who put their trust in the cross, descend into the water; for they shall have their reward in due time; then, saith he, will I give it them.
+**[18:2]** on the one side is he who is Lord from everlasting to everlasting, on the other is the ruler of the world that now lieth in wickedness.
 
-**[10:12]** But as concerning the present time, he saith, their leaves shall not fall; meaning thereby that every word that shall go out of your mouth, shall through faith and charity be to the conversion and hope of many.
 
-**[10:13]** In like manner doth another prophet speak. And the land of Jacob was the praise of all the earth; magnifying thereby the vessel of his spirit.
+**[19:1]** Now, the path of life is this: If any one wishes to travel to the appointed place, let him hasten by means of his works. Now, the knowledge of walking in it that is given unto us is of this kind:
 
-**[10:14]** And what follows?—And there was a river running on the right hand, and beautiful trees grew up by it; and he that shall eat of them shall live for ever. The signification of which is this: that we go down into the water full of sins and pollutions; but come up again, bringing forth fruit; having in our hearts the fear and hope which is in Jesus, by the spirit. And whosoever shall eat of them shall live for ever.
+**[19:2]** Thou shalt love him that made thee, thou shalt fear him that formed thee, thou shalt glorify him that redeemed thee from death. Thou shalt be simple in heart, and rich in spirit; thou shalt not cleave unto them that go in the path of death. Thou shalt hate whatever is not pleasing unto God; thou shalt hate all hypocrisy; thou shalt not abandon the commandments of the Lord;
 
-**[10:15]** That is, whosoever shall hearken to those who call them, and shall believe, shall live for ever.
+**[19:3]** thou shalt not exalt thyself; thou shalt be humble in all things; thou shalt not take glory unto thyself; thou shalt not take evil counsel against thy neighbour; thou shalt not take audacity into thy soul.
 
+**[19:4]** Thou shalt not commit fornication, thou shalt not commit adultery. Thou shalt not pollute thyself with mankind: let not the word of God go forth from thee in corruption. Thou shalt not accept the person of any to reprove any man for transgression. Thou shalt be gentle, thou shalt be quiet; thou shalt tremble at the words that thou hast heard; thou shalt not bear malice against thy brother;
 
+**[19:5]** thou shalt not doubt whether a thing shall be or not; thou shalt not take the name of the Lord in vain. Thou shalt love thy neighbour beyond thine own soul; thou shalt not kill a child by abortion, neither shalt thou destroy it after it is born. Thou shalt not remove thy hand from thy son or thy daughter, but shalt teach them from their youth the fear of the Lord.
 
-**[11:0]** The subject continued
+**[19:6]** Thou shalt not covet thy neighbour's goods; thou shalt not be an extortioner; thou shalt not cleave with thy soul unto the proud, but thou shalt have thy conversation with the lowly and the just. Receive as blessings the troubles that come unto thee, knowing that without God nothing happens.
 
-**[11:1]** IN like manner he determines concerning the cross in another prophet, saying: And when shall these things be fulfilled?
+**[19:7]** Thou shalt not be double-minded nor double-tongued, for to be double-tongued is the snare of death. Thou shalt submit thyself to thy masters as to the image of God, with shame and fear. Thou shalt not give commands with bitterness to thy servant and thy handmaid, who hope in the same God as thou dost, lest, perchance, thou cease to fear God, who is over both. For he came not to call men with respect of persons, but to call those whom the Spirit had prepared.
 
-**[11:2]** The Lord answers; When the tree that has fallen shall rise, and when blood shall drop down from the tree. Here you have again mention made, both of the cross, and of him that was to be crucified upon it.
+**[19:8]** Thou shalt communicate in all things with thy neighbour, and shalt not say that things are thine own. For if ye be partners in that which is incorruptible, how much more in the things that are corruptible? Thou shalt not be hasty of speech, for the mouth is a snare of death. As far as thou art able, thou shalt be pure concerning thy soul.
 
-**[11:3]** And yet farther he saith by Moses; (when Israel was fighting with, and beaten by, a strange people; to the end that God might put them in mind how that for their sins they were delivered unto death) yea, the holy spirit put it into the heart of Moses, to represent both the sign of the cross, and of him that was to suffer; that so they might know that if they did not believe in him, they should be overcome for ever.
+**[19:9]** Be not a stretcher forth of thy hand in receiving, and a drawer back of it in giving. Thou shalt love, as the apple of thine eye, every one that speaketh unto thee the word of the Lord.
 
-**[11:4]** Moses therefore piled up armour upon armour in the middle of a rising ground, and standing up high above all of them, stretched forth his arms, and so Israel again conquered.
+**[19:10]** Thou shalt remember the day of judgment by night and by day; and thou shalt seek out every day the persons of the saints.
 
-**[11:5]** But no sooner did he let down his hands, but they were again slain. And why so?—To the end they might know, that except they trust in him they cannot be saved.
+**[19:11]** Thou shalt not doubt to give, nor shalt thou murmur in giving. Give to every one that asketh thee, and thou shalt know who is the good recompenser of the reward. Thou shalt take care of that which thou hast received, neither adding thereto, nor taking therefrom. Thou shalt hate the evil man unto the end, and shalt judge justly.
 
-**[11:6]** And in another prophet, he saith, I have stretched out my hands all the day long to a people disobedient, and speaking against my righteous way.
+**[19:12]** Thou shalt not make a schism, but shalt make peace by bringing adversaries together. Thou shalt make confession of thy sins. Thou shalt not go unto prayer with an evil conscience. This is the way of life, either labouring by means of the word and proceeding to exhort, and practising to save the soul by the word, or thou shalt work by thy hands for the redemption of thy sins.
 
-**[11:7]** And again Moses makes a type of Jesus, to show that he was to die, and then that he, whom they thought to be dead, was to give life to others; in the type of those that fell in Israel.
 
-**[11:8]** For God caused all sorts of serpents to bite them, and they died; forasmuch as by a serpent transgression began in Eve: that so he might convince them that for their transgressions they shall be delivered into the pain of death.
+**[20:1]** But the path of darkness is crooked and full of cursing, for it is the path of eternal death and punishment, in which way are the things that destroy the soul. Idolatry, boldness, the pride of power, hypocrisy, double-heartedness, adultery, murder, rape, haughtiness, transgression, deceit, malice, self-will, witchcraft, sorcery, covetousness, want of the fear of God.
 
-**[11:9]** Moses then himself, who had commanded them, saying, Ye shall not make to yourselves any graven or molten image, to be your God; yet now did so himself, that he might represent to them the figure of the Lord Jesus.
+**[20:2]** Here are they who are persecutors of the good, haters of truth, lovers of lies; they who know not the reward of righteousness, who cleave not to what is good nor unto just judgment; who attend not to the widow and the orphan; who are awake not unto the fear of God, but unto evil; from whom meekness and patience are afar off; who love the things that are vain, who follow after recompense, who pity not the poor, who labour not for him who is in trouble; who are prompt to evil-speaking, who know not him that made them; murderers of children, corruptors of the image of God; who turn away from the poor man and oppress the afflicted; advocates of the rich, unjust judges of the poor, sinners in all things.
 
-**[11:10]** For he made a brazen serpent, and set it up on high, and called the people together by a proclamation; where being come, they entreated Moses that he would make an atonement for them, and pray that they might be healed.
 
-**[11:11]** Then Moses spake unto them, saying: when any one among you shall be bitten, let him come unto the serpent that is set upon the pole; and let him assuredly trust in him, that though he be dead, yet he is able to give life, and presently he shall be saved; and so they did. See therefore how here also you have in this the glory of Jesus; and that in him and to him are all things.
+**[21:1]** It is therefore right that he who has learned the ordinances of the Lord, even as many as have been written beforehand, should walk in them. For he who doeth these things shall be glorified in the Kingdom of God, but he who chooseth the contrary things shall perish together with his works. On this account is the resurrection; on this account is the retribution.
 
-**[11:12]** Again; What says Moses to Jesus the son of Nun, when he gave that name unto him, as being a prophet that all the people might hear him alone, because the father did manifest all things concerning his son Jesus, in Jesus the Son of Nun; and gave him that name when he sent him to spy out the land of Canaan; he said: Take a book in thine hands, and write what the Lord saith: Forasmuch as Jesus the Son of God shall in the last days cut off by the roots all the house of Amalek. See here again Jesus, not the son of man, but the Son of God, made manifest in a type and in the flesh.
+**[21:2]** I ask those who are of high estate among you, if ye will receive any friendly advice from me, keep those with you toward whom ye may do what is honourable. Fail not in so doing.
 
-**[11:13]** But because it might hereafter be said, that Christ was the Son of David; therefore David fearing and well knowing the errors of the wicked, saith; the Lord saith unto my Lord, sit thou on my right hand until I make thine enemies thy footstool.
+**[21:3]** The day is at hand in which everything shall perish together with the evil one; the Lord is nigh at hand, and his reward also.
 
-**[11:14]** And again Isaiah speaketh on this wise. The Lord said unto Christ my Lord, I have laid hold on his right hand, that the nations should obey before him, and I will break the strength of kings.
+**[21:4]** Again and again do I ask you, be ye good lawgivers over yourselves, be ye good advisers of yourselves. Abide faithful counsellors of one another; take out of the midst of you all hypocrisy,
 
-**[11:15]** Behold, how doth David and Isaiah call him Lord, and the Son of God.
+**[21:5]** and may God, who ruleth the whole world, give you wisdom, understanding, science, knowledge of his ordinances, and patience.
 
+**[21:6]** And be ye taught of God, inquiring what the Lord seeketh of you, and so work that ye may be found saved in the day of judgment.
 
+**[21:7]** But if there is any memory of that which is good, remember me while ye practise these things, that both your desire and your watching may turn unto some good.
 
-**[12:0]** The promise of God not made to the Jews only, but to the Gentiles also, and fulfilled to us by Jesus Christ
+**[21:8]** I beseech you this, asking it as a favour. So long as the good vessel is with you, fail not in any of these things, but seek them out without ceasing, and fulfil all the commandments, for these things are worthy.
 
-**[12:1]** BUT let us go yet farther, and inquire whether this people be the heir, or the former; and whether the covenant be with us or with them.
-
-**[12:2]** And first, as concerning the people, hear now what the Scripture saith.
-
-**[12:3]** Isaac prayed for his wife Rebekah, because she was barren; and she conceived. Afterwards Rebekah went forth to inquire of the Lord.
-
-**[12:4]** And the Lord said unto her; There are two nations in thy womb, and two people shall come from thy body; and the one shall have power over the other, and the greater shall serve the lesser. Understand here who was Isaac; who Rebekah; and of whom it was foretold, this people shall be greater than that.
-
-**[12:5]** And in another prophecy Jacob speaketh more clearly to his son Joseph saying; Behold the Lord hath not deprived me of seeing thy face, bring me thy sons that I may bless them. And he brought unto his father Manasseh and Ephraim, desiring that he should bless Manasseh, because he was the elder.
-
-**[12:6]** Therefore Joseph brought him to the right hand of his father Jacob. But Jacob by the spirit foresaw the figure of the of the people that was to come.
-
-**[12:7]** And what saith the Scripture? And Jacob crossed his hands, and put his right hand upon Ephraim, his second, and the younger son, and blessed him. And Joseph said unto Jacob; Put thy right hand upon the head of Manasseh, for he is my first-born son. And Jacob said unto Joseph; I know it, my son, I know it; but the greater shall serve the lesser; though he also shall be blessed.
-
-**[12:8]** Ye see of whom he appointed it, that they should be the first people, and heirs of the covenant.
-
-**[12:9]** If therefore God shall have yet farther taken notice of this by Abraham too; our understanding of it will then be perfectly established.
-
-**[12:10]** What then saith the Scripture to Abraham, when he believed, and it was imputed unto him for righteousness? Behold I have made thee a father of the nations, which without circumcision believe in the Lord.
-
-**[12:11]** Let us therefore now inquire whether God has fulfilled the covenant, which he sware to our fathers, that he would give this people? Yes, verily, he gave it: but they were not worthy to receive it by reason of their sins.
-
-**[12:12]** For thus saith the prophet: And Moses continued fasting in mount Sinai, to receive the covenant of the Lord with the people, forty days and forty nights.
-
-**[12:13]** And he received of the Lord two tables written with the finger of the Lord's hand in the Spirit. And Moses when he had received them brought them down that he might deliver them to the people.
-
-**[12:14]** And the Lord said unto Moses; Moses, Moses, get thee down quickly, for the people which thou broughtest out of the land of Egypt have done wickedly.
-
-**[12:15]** And Moses understood that they had again set up a molten image: and he cast the two tables out of his hands; and the tables of the covenant of the Lord were broken. Moses therefore received them, but they were not worthy.
-
-**[12:16]** Now then learn how we have received them. Moses, being a servant, took them; but the Lord himself has given them unto us, that we might be the people of his inheritance, having suffered for us.
-
-**[12:17]** He was therefore made manifest; that they should fill up the measure of their sins, and that we being made heirs by him, should receive the covenant of the Lord Jesus.
-
-**[12:18]** And again the prophet saith; Behold, I have set thee for a light unto the Gentiles, to be the saviour of all the ends of the earth, saith the Lord the God who hath redeemed thee.
-
-**[12:19]** Who for that very end was prepared, that by his own appearing he might redeem our hearts, already devoured by death, and delivered over to the irregularity of error, from darkness; and establish a covenant with us by his word.
-
-**[12:20]** For so it is written that the father commanded him by delivering us from darkness, to prepare unto himself a holy people.
-
-**[12:21]** Wherefore the prophet saith: I the Lord thy God have called thee in righteousness, and I will take thee by thy hand and will strengthen thee. And give thee for a covenant of the people, for a light of the Gentiles. To open the eyes of the blind, to bring out the prisoners from the prison, and them that sit in darkness out of the prison house.
-
-**[12:22]** Consider therefore from whence we have been redeemed. And again the prophet saith: The spirit of the Lord is upon me, because he hath anointed me: he hath sent me to preach glad tidings to the lowly; to heal the broken in heart; to preach remission to the captives, and sight unto the blind; to proclaim the acceptable year of the Lord, and the day of restitution; to comfort all that mourn.
-
-
-
-**[13:0]** That the sabbath of the Jews was but a figure of a more glorious sabbath to come, and their temple, of the spiritual temples of God
-
-**[13:1]** FURTHERMORE it is written concerning the sabbath, in the Ten Commandments, which God spake in the Mount Sinai to Moses, face to face; Sanctify the sabbath of the Lord with pure hands, and with a clean heart.
-
-**[13:2]** And elsewhere he saith; If thy children shall keep my sabbaths, then will I put my mercy upon them.
-
-**[13:3]** And even in the beginning of the creation he makes mention of the sabbath. And God made in six days the works of his hands; and he finished them on the seventh day, and he rested the seventh day, and sanctified it.
-
-**[13:4]** Consider, my children, what that signifies, he finished them in six days. The meaning of it is this; that in six thousand years the Lord God will bring all things to an end.
-
-**[13:5]** For with him one day is a thousand years; as himself testifieth, saying, Behold this day shall be as a thousand years. Therefore, children, in six days, that is, in six thousand years, shall all things be accomplished.
-
-**[13:6]** And what is that he saith, And he rested the seventh day: he meaneth this; that when his Son shall come, and abolish the season of the Wicked One, and judge the ungodly; and shall change the sun and the moon, and the stars; then he shall gloriously rest in that seventh day.
-
-**[13:7]** He adds lastly; Thou shalt sanctify it with clean hands and a pure heart. Wherefore we are greatly deceived if we imagine that any one can now sanctify that day which God has made holy, without having a heart pure in all things.
-
-**[13:8]** Behold therefore he will then truly sanctify it with blessed rest, when we (having received the righteous promise, when iniquity shall be no more, all things being renewed by the Lord) shall be able to sanctify it, being ourselves first made holy.
-
-**[13:9]** Lastly, he saith unto them: Your new moons and your sabbaths I cannot bear them. Consider what he means by it; the sabbaths, says he, which ye now keep are not acceptable unto me, but those which I have made; when resting from all things I shall begin the eighth day, that is, the beginning of the other world.
-
-**[13:10]** For which cause we observe the eighth day with gladness, in which Jesus rose from the dead; and having manifested himself to his disciples, ascended into heaven.
-
-**[13:11]** ¶ It remains yet that I speak to you concerning the temple how these miserable men being deceived have put their trust in the house, and not in God himself who made them, as if it were the habitation of God.
-
-**[13:12]** For much after the same manner as the Gentiles, they consecrated him in the temple.
-
-**[13:13]** But learn therefore how the Lord speaketh, rendering the temple vain: Who has measured the heaven with a span, and the earth with his hand? Is it not I? Thus saith the Lord, Heaven is my throne, and the earth is my footstool. What is the house that ye will build me? Or what is the place of my rest? Know therefore that all their hope is vain.
-
-**[13:14]** And again he speaketh after this manner: Behold they that destroy this temple, even they shall again build it up. And so it came to pass; for through their wars it is now destroyed by their enemies; and the servants of their enemies built it up.
-
-**[13:15]** Furthermore it has been made manifest, how both the city and the temple, and the people of Israel should be given up. For the Scripture saith; And it shall come to pass in the last days, that the Lord will deliver up the sheep of his pasture, and their fold, and their tower into destruction. And it is come to pass, as the Lord hath spoken.
-
-**[13:16]** Let us inquire therefore, whether there be any temple of God? Yes there is; and that there, where himself declares that he would both make and perfect it. For it is written; And it shall be that as soon as the week shall be completed, the temple of the Lord shall be gloriously built in the name of the Lord.
-
-**[13:17]** I find therefore that there is a temple. But how shall it be built in the name of the Lord? I will shew you.
-
-**[13:18]** Before that we believed in God, the habitation of our heart was corruptible, and feeble, as a temple truly built with hands.
-
-**[13:19]** For it was a house full of idolatry, a house of devils; inasmuch as there was done in it whatsoever was contrary unto God. But it shall be built in the name of the Lord.
-
-**[13:20]** Consider, how that the temple of the Lord shall be very gloriously built; and by what means that shall be, learn.
-
-**[13:21]** Having received remission of our sins, and trusting in the name of the Lord, we are become renewed, being again created as it were from the beginning. Wherefore God truly dwells in our house, that is, in us.
-
-**[13:22]** But how does he dwell in us? The word of his faith, the calling of his promise, the wisdom of his righteous judgments, the commands of his doctrine; he himself prophesies within us, he himself dwelleth in us, and openeth to us who were in bondage of death the gate of our temple, that is, the mouth of wisdom, having given repentance unto us; and by this means has brought us to be an incorruptible temple.
-
-**[13:23]** He therefore that desires to be saved looketh not unto the man, but unto him that dwelleth in him, and speaketh by him; being struck with wonder, forasmuch as he never either heard him speaking such words out of his mouth, nor ever desired to hear them.
-
-**[13:24]** This is that spiritual temple that is built unto the Lord.
-
-
-
-**[14:0]** Of the way of light; being a summary of what a Christian is to do, that he may be happy for ever
-
-**[14:1]** AND thus, I trust, I have declared to you as much, and with as great simplicity as I could, those things which make for your salvation, so as not to have omitted anything that might be requisite thereunto.
-
-**[14:2]** For should I speak further of the things that now are, and of those that are to come, you would not yet understand them, seeing they lie in parables. This therefore shall suffice as to these things.
-
-**[14:3]** Let us now go on to the other kind of knowledge and doctrine There are two ways of doctrine and power; the one of light, the other of darkness.
-
-**[14:4]** But there is a great deal of difference between these two ways: for over one are appointed the angels of God, the leaders of the way of light; over the other, the angels of Satan. And the one is the Lord from everlasting to everlasting; the other is the prince of the time of unrighteousness.
-
-**[14:5]** Now the way of light is this, if any one desires to attain to the place that is appointed for him, and will hasten thither by his works. And the knowledge that has been given to us for walking in it, to this effect: Thou shalt love him that made thee: thou shalt glorify him that hath redeemed thee from death.
-
-**[14:6]** Thou shalt be simple in heart, and rich in the spirit. Thou shalt not cleave to those that walk in the way of death. Thou shalt hate to do anything that is not pleasing unto God. Thou shalt abhor all dissimulation. Thou shalt not neglect any of the commands of the Lord.
-
-**[14:7]** Thou shalt not exalt thyself, but shalt be humble. Thou shalt not take honour to thyself. Thou shalt not enter into any wicked counsel against thy neighbour. Thou shalt not be over-confident in thy heart.
-
-**[14:8]** Thou shalt not commit fornication, nor adultery. Neither shalt thou corrupt thyself with mankind. Thou shalt not make use of the word of God, to any impurity.
-
-**[14:9]** Thou shalt not accept any man's person, when thou reprovest any one's faults. Thou t shalt be gentle. Thou shalt be quiet. Thou shalt tremble at the words which thou hast heard. Thou shalt not keep any hatred in thy heart against thy brother. Thou shalt not entertain any doubt whether it shall be or not.
-
-**[14:10]** Thou shalt not take the name of the Lord in vain. Thou shalt love thy neighbour above thy own soul.
-
-**[14:11]** Thou shalt not destroy thy conceptions before they are brought forth; nor kill them after they are born.
-
-**[14:12]** Thou shalt not withdraw thy hand from thy son, or from thy daughter; but shall teach them from their youth the fear of the Lord.
-
-**[14:13]** Thou shalt not covet thy neighbour's goods; neither shalt thou be an extortioner. Neither shall thy heart be joined to proud men; but thou shalt be numbered among the righteous and the lowly. Whatever events shall happen unto thee, thou shalt receive them as good.
-
-**[14:14]** Thou shalt not be double-minded, or double-tongued; for a double tongue is the snare of death. Thou shalt be subject unto the Lord and to inferior masters as to the representatives of God, in fear and reverence.
-
-**[14:15]** Thou shalt not be bitter in thy commands towards any of thy servants that trust in God; lest thou chance not to fear him who is over both; because he came not to call any with respect of persons, but whomsoever the spirit had prepared.
-
-**[14:16]** Thou shalt communicate to thy neighbour of all thou hast; thou shalt not call anything thine own: for if ye partake in such things as are incorruptible, how much more should you do it in those that are corruptible?
-
-**[14:17]** Thou shalt not be forward to speak; for the mouth is the snare of death. Strive for thy soul with all thy might. Reach not out thine hand to receive, and withhold it not when thou shouldest give.
-
-**[14:18]** Thou shalt love, as the apple of thine eye, every one that speaketh unto thee the Word of the Lord. Call to thy remembrance, day and night, the future judgment.
-
-**[14:19]** Thou shalt seek out every day the persons of the righteous: and both consider and go about to exhort others by the word, and meditate how thou mayest save a soul.
-
-**[14:20]** Thou shalt also labour with thy hands to give to the poor, that thy sins may be forgiven thee. Thou shalt not deliberate whether thou shouldst give: nor, having given, murmur at it.
-
-**[14:21]** Give to every one that asks: so shalt thou know who is the good rewarder of thy gifts.
-
-**[14:22]** Keep what thou hast received; thou shalt neither add to it nor take from it.
-
-**[14:23]** Let the wicked be always thy aversion. Thou shalt judge righteous judgment. Thou shalt never cause divisions; but shalt make peace between those that are at variance, and bring them together.
-
-**[14:24]** Thou shalt confess thy sins; and not come to thy prayer with an evil conscience.
-
-**[14:25]** This is the way of light.
-
-
-
-**[15:0]** Of the way of darkness; that is, what kind of persons shall be for ever cast out of the kingdom of God
-
-**[15:1]** BUT the way of darkness is crooked and full of cursing. For it is the way of eternal death, with punishment; in which they that walk meet those things that destroy their own souls.
-
-**[15:2]** Such are; idolatry, confidence, pride of power, hypocrisy, double-mindedness, adultery, murder, rapine, pride, transgression, deceit, malice, arrogance, witchcraft, covetousness, and the want of the fear of God.
-
-**[15:3]** In this walk those who are the persecutors of them that are good; haters of truth; lovers of lies; who know not the reward of righteousness, nor cleave to any thing that is good.
-
-**[15:4]** Who administer not righteous judgment to the widow and orphan; who watch for wickedness, and not for the fear of the Lord:
-
-**[15:5]** From whom gentleness and patience are far off; who love vanity, and follow after rewards; having no compassion upon the poor; nor take any pains for such as are heavy laden and oppressed.
-
-**[15:6]** Ready to evil speaking, not knowing him that made them; murderers of children; corrupters of the creatures of God; that turn away from the needy; oppress the afflicted; are the advocates of the rich, but unjust judges of the poor; being altogether sinners.
-
-**[15:7]** It is therefore fitting that learning the just commands of the Lord, which we have before mentioned, we should walk in them. For he who does such things shall be glorified in the kingdom of God.
-
-**[15:8]** But he that chooses the other part, shall be destroyed, together with his works. For this cause there shall be both a resurrection, and a retribution.
-
-**[15:9]** I beseech those that are in high estate among you, (if so be you will take the counsel which with a good intention I offer to you,) you have those with you towards whom you may do good; do not forsake them.
-
-**[15:10]** For the day is at hand in which all things shall be destroyed, together with the wicked one. The Lord is near, and his reward is with him.
-
-**[15:11]** I beseech you, therefore, again, and again, be as good lawgivers to one another; continue faithful counsellors to each other; remove from among you all hypocrisy.
-
-**[15:12]** And may God, the Lord of all the world give you wisdom, knowledge, counsel, and understanding of his judgments in patience.
-
-**[15:13]** Be ye taught of God; seeking what it is the Lord requires of you, and doing it; that ye may be saved in the day of judgment.
-
-**[15:14]** And if there be among you any remembrance of what is good, think of me; meditating upon these things, that both my desire and my watching for you may turn to a good account.
-
-**[15:15]** I beseech you; I ask it as a favour of you; whilst you are in this beautiful tabernacle of the body, be wanting in none of these things; but without ceasing seek them, and fulfil every command. For these things are fitting and worthy to be done.
-
-**[15:16]** Wherefore I have given the more diligence to write unto you, according to my ability, that you might rejoice. Farewell, children, of love and peace.
-
-**[15:17]** The Lord of glory and of all grace, be with your spirit, Amen.
-
-**The end of the Epistle of Barnabas, the Apostle, and fellow-traveller of St. Paul the Apostle**
+**[21:9]** Therefore I have been the more anxious to write unto you, so far as I was able, to the end that I might make you glad. Farewell, children of love and peace; the God of glory and of all grace be with your spirit. Amen.
