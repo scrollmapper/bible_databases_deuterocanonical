@@ -38,15 +38,15 @@
 
 **[2:10]** He therefore speaketh unto us in this wise: The sacrifice unto God is a broken heart; a smell of sweet savour unto the Lord is a heart that glorifieth him that made it. We ought, therefore, brethren, to examine accurately concerning our salvation, lest the evil one, making an entrance among us, should draw us away from our life.
 
-**[3:1]** Therefore, he saith again, concerning these things, unto them, Why fast ye unto me, saith the Lord, so that your voice is heard to-day in its crying? This is not the fast that I have chosen, saith the Lord, for a man to humiliate his soul;
+**[3:1]** Therefore, he saith again, concerning these things unto them, Why fast ye unto me, saith the Lord, so that your voice is heard to-day in its crying? This is not the fast that I have chosen, saith the Lord, for a man to humiliate his soul;
 
 **[3:2]** nor if ye bend your neck as a ring, and put under you sackcloth and ashes -- not even then will ye call it an acceptable fast.
 
-**[3:3]** But unto us he saith, Behold the fast which I have chosen, saith the Lord, not that a man should humiliate his soul, but that he should loose every bond of unrighteousness, and untie the knots of the compacts of violence; set at liberty them that are bruised, and cancel every agreement of unrighteousness; break thy bread with the hungry, and if thou seest the naked, clothe him; bring them that are houseless into thy dwelling, and if thou seest a man that is lowly, despise him not, and turn not away from those of thy family;
+**[3:3]** But unto us he saith, Behold the fast which I have chosen, saith the Lord, not that a man should humiliate his soul, but that he should loose every bond of unrighteousness, and untie the knots of the compacts of violence; set at liberty them that are bruised, and break every agreement of unrighteousness; break thy bread with the hungry, and if thou seest the naked, clothe him; bring them that are houseless into thy dwelling, and if thou seest a man that is lowly, despise him not, and turn not away from those of thy family;
 
 **[3:4]** then shall thy light break forth early, and thy garments shall spring up quickly, and justice shall go before thee, and the glory of the Lord shall surround thee;
 
-**[3:5]** then shalt thou cry, and the Lord shall hearken unto thee; while thou art yet speaking he shall say, Lo, I am here: if thou put away from thee the league and the conspiracy, and the word of murmuring, and givest thy bread unto the hungry with all thine heart, and hast compassion upon the soul that is lowly.
+**[3:5]** then shalt thou cry, and the Lord shall hearken unto thee; while thou art yet speaking he shall say, Lo, I am here: if thou put away from thee the chain and the false oath, and the word of murmuring, and givest thy bread unto the hungry with all thine heart, and hast compassion upon the soul that is lowly.
 
 **[3:6]** The long-suffering God therefore having seen beforehand that the people whom he had prepared for his beloved would believe in simplicity, showed to us beforehand concerning all these things, that we should not come as strangers to their law.
 
@@ -61,7 +61,7 @@
 
 **[4:5]** And in like manner Daniel speaketh concerning him: And I saw the fourth beast, evil and strong and harder than all the beasts of the earth; and I saw how there grew up from him ten horns, and from among them a little horn, growing up beside, and how it humbled under one three of the great horns.
 
-**[4:6]** Ye ought, therefore, to understand. And moreover I ask this of you, as being one among you, loving you especially and altogether, even above my own soul, that ye should take heed unto yourselves, and not be like unto certain men, by adding to your sins and saying that their covenant is also ours. Ours, indeed, it is; but they have lost it for ever, in this wise, after that Moses had already received it.
+**[4:6]** Ye ought, therefore, to understand. And moreover I ask this of you, as being one among you, loving you specially and altogether, even above my own soul, that ye should take heed unto yourselves, and not be like unto certain men, by adding to your sins and saying that their covenant is also ours. Ours, indeed, it is; but they have lost it for ever, in this wise, after that Moses had already received it.
 
 **[4:7]** For the scripture saith, And Moses was in the mount fasting forty days and nights, and he received the covenant from the Lord; even tables of stone written with the finger of the hand of the Lord. But when they turned unto idols they lost it.
 
@@ -69,7 +69,7 @@
 
 **[4:9]** Now, though I wished to write many things unto you, not as a master, but even as suiteth one that loveth you, not to fall short of the things that we have, I have been zealous to write unto you as though I were the offscouring of you. Let us, therefore, give heed unto the last days; for the whole time of our faith will profit us nothing unless now, in the season of iniquity and among the stumbling-blocks that are coming, we resist as becometh the sons of God,
 
-**[4:10]** that the evil one may not have entrance unawares. Let us fly all vanity and hate perfectly the deeds of the evil way. Do not, entering into your own houses, dwell alone, as though ye were already justified, but coming together, inquire one with another concerning the common advantage.
+**[4:10]** that the evil one may not have entrance unawares. Let us fly all vanity and hate perfectly the deeds of the evil way. Do not, entering into your own houses, dwell alone, as though ye were already justified, but coming together, enquire one with another concerning the common advantage.
 
 **[4:11]** For the scripture saith, Woe unto them that are wise in their own conceit and learned in their own eyes. Let us be spiritual: let us be a perfect temple unto God. So far as in you lieth, let us practise the fear of God, and strive to keep his commandments, that we may be glad in his ordinances.
 
@@ -82,7 +82,7 @@
 
 **[5:1]** For on this account the Lord endured to give his flesh unto corruption, that we might be sanctified by the remission of sins, which is by the sprinkling of his blood.
 
-**[5:2]** For there are written concerning him certain things that pertain unto Israel, and certain other that pertain unto us. For he speaketh thus, He was wounded for our iniquities, and vexed for our sins; by his stripes we are healed. He was led as a sheep unto the slaughter, and like a lamb dumb before him that sheareth it.
+**[5:2]** For there are written concerning him certain things that pertain unto Israel, and certain other that pertain unto us. For he speaketh thus, He was wounded for our iniquities, and vexed for our sins; by his stripes we are healed. He was led as a sheep unto the slaughter, and like a dumb lamb before him that sheareth it.
 
 **[5:3]** We ought, therefore, to give especial thanks unto the Lord because he hath made known unto us the things that are past, and hath made us wise with regard to those that are at hand, neither are we without understanding as regards the future.
 
@@ -92,11 +92,11 @@
 
 **[5:6]** The prophets having received the grace from him prophesied with regard to him. But he, that he might make death of none effect and bring to light the resurrection from the dead, because it behoved him to be made manifest in the flesh,
 
-**[5:7]** endured it, that he might give unto our fathers the promise, and by preparing for himself a new people, might show, while upon earth, that he will raise the dead and himself execute judgment.
+**[5:7]** endured it, that he might give unto our fathers the promise, and by preparing for himself a new people, might show while upon earth, that he will raise the dead and himself execute judgment.
 
 **[5:8]** Yea, further; though he taught Israel and did so many signs and wonders among them, yet they loved him not.
 
-**[5:9]** But when he chose out his own Apostles, who were about to preach his gospel, they were men unrighteous beyond all sin, that he might show that he came not to call the righteous but sinners to repentance; then made he himself manifest that he was the Son of God.
+**[5:9]** But when he chose out his own apostles, who were about to preach his Gospel, they were men unrighteous beyond all sin, that he might show that he came not to call the righteous but sinners to repentance. Then made he himself manifest that he was the Son of God.
 
 **[5:10]** For if he had not come in the flesh how could men have looked upon him and have been saved, since they cannot endure to look at the rays of the sun which must one day perish, and which is the work of his hands?
 
@@ -104,7 +104,7 @@
 
 **[5:12]** therefore he endured even unto this. For God saith that the smiting of his flesh it was from them. When they shall smite their shepherd, then shall the sheep of the flock be scattered.
 
-**[5:13]** But he himself wished thus to suffer, for it was necessary that he should suffer upon the cross; for he who prophesieth about him saith, Spare my soul from the sword, and again, Drive nails into my flesh, for the synagogues of evil men have risen against me.
+**[5:13]** But he himself wished thus to suffer, for it was necessary that he should suffer upon the cross; for he who prophesieth about him saith, Spare my soul from the sword, and drive nails into my flesh, for the synagogues of evil men have risen against me.
 
 **[5:14]** And again he saith, Behold, I have given my back unto the scourging and my cheeks unto buffetings; my face also have I set as a hard rock.
 
@@ -117,25 +117,25 @@
 
 **[6:4]** And again, The stone which the builders rejected hath become the head of the corner. And again he saith, This is the day, great and wonderful, which the Lord hath made.
 
-**[6:5]** I write unto you the more simply that ye may understand. I am the offscouring of your love.
+**[6:5]** I write unto you the more simply that ye may understand. I am the off-scouring of your love.
 
-**[6:6]** What then saith the prophet again? The synagogue of the wicked came around me; they surrounded me as bees do an honey-comb, and, over my garment they cast lots.
+**[6:6]** What then saith the prophet again? The synagogue of the wicked came around me; they surrounded me as bees do an honey-comb, and over my garment they cast lots.
 
-**[6:7]** Since, therefore, he was about to be made manifest and to suffer in the flesh, his suffering was showed beforehand. For the prophet saith unto Israel, Woe unto their soul, for they have counselled an evil counsel among themselves, saying, Let us bind the righteous because he is an encumbrance unto us.
+**[6:7]** Since, therefore, he was about to be made manifest and to suffer in the flesh, his suffering was showed beforehand. For the prophet saith unto Israel, Woe unto their soul, for they have counselled an evil counsel among themselves, saying, Let us bind the righteous because he is inconvenient unto us.
 
-**[6:8]** And what saith the other prophet, even Moses, unto them? Behold, thus saith the Lord God: Enter into the good land which the Lord sware unto Abraham and Isaac and Jacob, and inherit it, even a land flowing with milk and honey.
+**[6:8]** And what saith the other prophet even Moses unto them? Behold, thus saith the Lord God: Enter into the good land which the Lord sware unto Abraham and Isaac and Jacob, and inherit it, even a land flowing with milk and honey.
 
-**[6:9]** What saith the knowledge? Learn ye. Hope, it saith, upon Jesus, who is about to be manifested unto you in the flesh. For man is but earth which suffers; for, from the face of the ground was made the moulding of Adam.
+**[6:9]** What saith the knowledge? Learn ye. Hope, it saith, upon Jesus, who is about to be manifested unto you in the flesh. For man is but earth which suffers. For, from the face of the ground was made the moulding of Adam.
 
 **[6:10]** What then meaneth he when he saith, Into the good land which floweth with milk and honey? Blessed be the Lord, brethren, who hath put into you wisdom and knowledge of his secret things. For the prophet speaketh a parable from the Lord. Who shall understand, except he that is wise and skilful and that loveth his Lord?
 
 **[6:11]** Since, therefore, having renewed us by the remission of our sins, he hath made us of a new character, he willeth that we should have the souls of children, inasmuch as it is indeed he who hath formed us anew.
 
-**[6:12]** For the scripture saith concerning us, that he saith unto the Son, Let us make man after our own image and according to our likeness; and let them rule over the beasts of the earth, and the fowls of heaven, and the fishes of the sea. And the Lord said, when he saw how excellent our form was, Increase and multiply and replenish the earth. These things he saith unto the Son.
+**[6:12]** For the Scripture saith concerning us, that he saith unto the Son, Let us make man after our own image and according to our likeness; and let them rule over the beasts of the earth, and the fowls of heaven, and the fishes of the sea. And the Lord said when he saw how excellent our form was, Increase and multiply and replenish the earth. These things he saith unto the Son.
 
-**[6:13]** Again I will show unto thee how the Lord speaketh unto us, since he hath made a second fashioning in these last days; the Lord saith, Behold I make the last even as the first. For to this purpose did the prophet preach. Enter ye into the land flowing with milk and honey, and have dominion over it.
+**[6:13]** Again I will show unto thee how the Lord speaketh unto us. He hath made a second fashioning in these last days; the Lord saith, Behold I make the last even as the first. For to this purpose did the prophet preach. Enter ye into the land flowing with milk and honey and have dominion over it.
 
-**[6:14]** Behold now we have been formed again, even as he saith again in another prophet: Behold, saith the Lord, I will take out from these, that is out of those whom the Spirit of the Lord foresaw, the hearts of stone, and will put into them hearts of flesh, because he himself was about to be manifested in the flesh and to dwell among us.
+**[6:14]** Behold now we have been formed again, even as he saith again in another prophet. Behold, saith the Lord, I will take out from these, that is out of those whom the spirit of the Lord foresaw, the hearts of stone, and will put into them hearts of flesh, because he himself was about to be manifested in the flesh and to dwell among us.
 
 **[6:15]** For the habitation of our heart is a temple holy unto the Lord.
 
@@ -143,7 +143,7 @@
 
 **[6:17]** What, then, meaneth the milk and honey? It is because a child is kept alive, first with honey, afterwards with milk. So we, too, being quickened by faith in his promise and by his word, shall live and rule over the earth.
 
-**[6:18]** And we said previously, And let them increase and multiply and rule over the fish. Who then is he who is able to rule over the beasts, the fish, and fowls of heaven? For we ought to perceive that to rule belongeth to authority, so that a man by giving commands may exercise lordship.
+**[6:18]** And we said above, And let them increase and multiply and rule over the fish. Who then is he who is able to rule over the beasts, the fish, and fowls of heaven? For we ought to perceive that to rule belongeth to authority, so that a man by giving commands may exercise lordship.
 
 **[6:19]** If, therefore, this doth not take place now, he hath told us when it will; even when we ourselves have been made perfect, so that we become heirs of the covenant of the Lord.
 
@@ -152,11 +152,11 @@
 
 **[7:2]** If, therefore, the Son of God, being he who is the Lord and who is about to judge the quick and the dead, suffered, to the end that his stripes might make us live, let us believe that the Son of God could not suffer except on our account.
 
-**[7:3]** But being crucified, he was given to drink of vinegar and gall. How, then, did the priests of the temple signify concerning this? Now, the commandment is written in this wise: Whosoever shall not fast on the fast, he shall die the death, the Lord hath commanded it. Since he also was about to offer the vessel that contained his spirit as a sacrifice, in order that the type might be fulfilled which was given by the offering of Isaac at the altar,
+**[7:3]** But being crucified, he drank vinegar and gall. How, then, did the priests of the temple signify concerning this? Now, the commandment is written in this wise: Whosoever shall not fast on the fast, he shall die the death, the Lord hath commanded it. Since he also was about to offer the vessel that contained his spirit as a sacrifice, in order that the type might be fulfilled which was given by the offering of Isaac at the altar.
 
-**[7:4]** what saith he in the book of the prophet? And let them eat of the goat which is offered on the fast for the sins of all. Attend ye diligently thereto. And let the priests alone eat of the unwashed entrails with vinegar.
+**[7:4]** What, therefore, saith he in the book of the prophet? And let them eat of the goat which is offered on the fast for the sins of all. Attend ye diligently thereto. And let the priests alone eat of the unwashed entrails with vinegar.
 
-**[7:5]** With what signification? Because ye will one day give me to drink of vinegar and gall, when I am about to offer up my flesh for my new people, eat ye it alone, while the people fast and lament in sackcloth and ashes. He commanded this in order that he might show that he must needs suffer at their hands.
+**[7:5]** With what signification? Because ye will one day give me to drink of vinegar and gall, when I am about to offer up my flesh for my new people. Eat ye it alone, while the people fast and lament in sackcloth and ashes. He commanded this in order that he might show that he must needs suffer at their hands.
 
 **[7:6]** How, then, did he give his commands? Attend ye. Take ye two goats, fair and like each other, and offer them up. And let the priest take one of them as a whole burnt offering for sin.
 
@@ -166,18 +166,19 @@
 
 **[7:9]** What, therefore, meaneth this? Attend ye. One is brought to the altar, the other is accursed, and the accursed one is crowned, because they shall see him in that day, who had the scarlet robe about his flesh, and they shall say, Is not this he whom once we set at naught and crucified, and spat upon and pierced? Truly this was he who at that time said that he was the Son of God.
 
-**[7:10]** How then was the one like to the other? In this respect were the goats like him: they were fair and equal, so that when they saw him coming they were astonished at the likeness to the goat. Therefore, behold here the type of Jesus, who was about to suffer.
+**[7:10]** How then was he like unto tha goat? In this respect were the goats like him: they were fair and equal, so that when they saw him coming they were astonished at the likeness to the goat. Therefore, behold here the type of Jesus, who was about to suffer.
 
 **[7:11]** And what meaneth the wool placed in the midst of thorns? It is a type of Jesus, which hath been placed in the church. For he who wisheth to take the scarlet wool must suffer many things, because the thorn is terrible, and must after tribulation gain possession of it. So he saith, They who wish to see me and to take hold of my kingdom must through trouble and suffering receive me.
 
 
-**[8:1]** And what type, think ye, was the commandment unto Israel, that the men in whom sin had been accomplished should offer a heifer, and after they had slaughtered it should burn it, and that children should then take the ashes and cast them into vessels, and place scarlet wool and hyssop around a stick -- behold, again, the type of the cross and the scarlet wool, -- and so the children should sprinkle the people one by one, that they might be purged from their sins?
+**[8:1]** And what type, think ye, was the commandment unto Israel, that the men in whom sin had been accomplished should offer a heifer, and after they had slaughtered it should burn it, and that children should then take the ashes and cast them into vessels, and place scarlet wool and hyssop around a stick -- behold, again, the type of the cross and the scarlet wool, -- and so the boys should sprinkle the people one by one, that they might be purged from their sins?
 
-**[8:2]** Behold, therefore, in what way he speaketh unto you with simplicity. The heifer signifieth Jesus; the sinful men who offer it are the men who brought him unto the slaughter. But now the men are no longer before us, no longer doth the glory belong to sinners.
+**[8:2]** Behold, therefore, in what way he speaketh unto you with simplicity. The heifer signifieth Jesus; they who offer it are the 
+sinful men who brought him unto the slaughter. But now the men are no longer before us, no longer doth the glory belong to sinners.
 
-**[8:3]** The children who sprinkled are they who brought us the good news of the forgiveness of sins and purification of heart, to whom he hath given the authority of the gospel for the purpose of preaching, being twelve in number, for a testimony unto the tribes, for twelve were the tribes of Israel.
+**[8:3]** The boys who sprinkled are they who brought us the good news of the forgiveness of sins and purification of heart, to whom he hath given the authority of the gospel for the purpose of preaching, being twelve in number, for a testimony unto the tribes, for twelve were the tribes of Israel.
 
-**[8:4]** And why, then, were the children who sprinkled three in number? For a testimony unto Abraham, Isaac, and Jacob, because these are great before God.
+**[8:4]** And why, then, these boys who sprinkle? For a testimony unto Abraham, Isaac, and Jacob, because these are great before God.
 
 **[8:5]** And what signifieth the wool upon the stick? Because the kingdom of Jesus is upon the cross, and because they who hope upon him shall live for ever.
 
@@ -188,7 +189,7 @@
 
 **[9:1]** He saith also again concerning our ears how he hath circumcised our heart. The Lord saith in the prophet, They have hearkened unto me with the hearing of their ears; and again, he saith, They that are afar off shall hear with their ears; they shall know what I have done; and be ye circumcised, saith the Lord, in your heart;
 
-**[9:2]** and again, Hear, O Israel, for thus saith the Lord thy God; and again the Spirit of the Lord prophesied, Who is he that wisheth to live for ever? let him hearken unto the voice of my Son.
+**[9:2]** and again, Hear, O Israel, for thus saith the Lord thy God; and again the spirit of the Lord prophesied, Who is he that wisheth to live for ever? let him hearken unto the voice of my Son.
 
 **[9:3]** And again he saith, Hear, O heaven, and give ear, O earth, for the Lord hath spoken these things for a testimony. And again he saith, Hearken unto the voice of the Lord, ye rulers of this people. And again he saith, Hearken ye children unto the voice of one crying in the wilderness.
 
@@ -225,7 +226,7 @@
 
 **[10:10]** And David receiveth knowledge concerning the same three doctrines, and saith in like manner, Blessed is the man who hath not walked in the counsel of the ungodly, even as the fish walk in darkness into the depths of the sea, and hath not stood in the way of sinners, even as they who pretend to fear the Lord sin as doth the swine, and hath not sat in the seat of the destroyers, even as the birds that sit for prey. Ye have also in the end a commandment concerning food;
 
-**[10:11]** but Moses said, Eat ye everything that is cloven-footed and that cheweth the cud. What meaneth he? He that taketh food knoweth him that feedeth him, and, resting upon him, seemeth to be glad. He therefore saith well, having regard to the commandment. What then meaneth he? Cleave ye unto them that fear the Lord, who walk in his commandments, which they have received in their hearts; unto them that speak of the ordinances of the Lord, and observe them, unto them who know that the practice of them is a work of gladness, and who meditate on the word of the Lord. But what meaneth that which cleaveth the hoof? It meaneth that the just walketh even in this world, and expecteth the holy life. Behold how well Moses hath made these laws;
+**[10:11]** but Moses said, Eat ye everything that is cloven-footed and that cheweth the cud. What meaneth he? He that taketh food knoweth him that feedeth him, and, resting upon him, seemeth to be glad. He therefore saith well, having regard to the commandment. What then meaneth he? Cleave ye unto them that fear the Lord, who walk in his commandments, which they have received in their hearts; unto them that speak of the ordinances of the Lord, and observe them, unto them who know that the practice of them is a work of gladness, and who ruminate on the word of the Lord. But what meaneth that which cleaveth the hoof? It meaneth that the just walketh even in this world, and expecteth the holy life. See how well Moses hath laid doen the law ;
 
 **[10:12]** but how was it possible for them to perceive or understand these things? But we, having rightly understood the commandments, speak them even as the Lord hath willed. On this account hath he circumcised our ears and hearts, that we should understand these things.
 
@@ -238,9 +239,9 @@
 
 **[11:4]** And again the prophet saith, I will go before thee and will lay low the mountains. And I will break the doors of brass and burst the bars of iron; and I will give unto thee the treasures of darkness hidden and unseen, that they may know that I am the Lord God; and, He shall dwell in the lofty cave of the strong rock.
 
-**[11:5]** Then what saith he of the Son? His water is faithful. Ye shall behold the king in his glory, and your soul shall practise the fear of the Lord.
+**[11:5]** Then what saith he of the Son? His water is sure. Ye shall behold the king in his glory, and your soul shall practise the fear of the Lord.
 
-**[11:6]** And again, in another prophet, he saith, He that doeth these things shall be as a tree that groweth beside the watercourses, which giveth his fruit in his season; and his leaf shall not fall off, and whatever he doeth shall prosper.
+**[11:6]** And again, in another prophet, he saith, He that doeth these things shall be as a tree that groweth beside a water-course, which giveth his fruit in his season; and his leaf shall not fall off, and whatever he doeth shall prosper.
 
 **[11:7]** Not so are the ungodly, not so; they are like the dust which the wind carrieth away from the face of the earth, wherefore the ungodly shall not rise up in judgment, nor sinners in the congregation of the just: for the Lord knoweth the way of the just, but the way of the ungodly shall perish.
 
@@ -255,26 +256,25 @@
 
 **[12:1]** In like manner again he signifieth concerning the cross in another prophet, who saith, And when shall these things be fulfilled? The Lord saith, When the tree hath been bent and shall rise up again, and when blood shall flow from the tree. You have again a prophecy concerning the cross and about him who is about to be crucified.
 
-**[12:2]** And he saith again in Moses, when Israel was being made war upon by aliens, even that he might remind them while they were being made war upon, that for their sins they were being delivered over unto death, the Spirit saith unto the heart of Moses, that he should make the form of a cross, and of him who was about to suffer, for if, he says, they shall not hope upon him, they will be made war upon for ever. Moses, therefore, arranges weapon against weapon in the midst of the battle, and standing higher than all, stretched out his hands, and so again Israel conquered; then, when he let them down, they were again slaughtered.
+**[12:2]** And he saith again in Moses, when Israel was being made war upon by aliens, even that he might remind them while they were being made war upon, that for their sins they were being delivered over unto death, the Spirit saith unto the heart of Moses, that he should make the form of a cross, and of him who was about to suffer, signifying thereby that if they hope not upon him they will be made war upon for ever. Moses, therefore, placeth one weapon upon another in the midst of the fight, and standing higher than all, stretched out his hands, and so again Israel conquered; then, when he let them down, they were again slaughtered.
 
 **[12:3]** Wherefore? that they might know that they are not to be saved except they hope upon him.
 
-**[12:4]** And again, in another prophet, he saith, All day long have I stretched out my hands unto a people who are disobedient, and who speak against my righteous way.
+**[12:4]** And again in another prophet he saith, All day long have I stretched out my hands unto a people who are disobedient, and who speak against my righteous way.
 
-**[12:5]** Again, Moses maketh another type of Jesus, that it behoveth that he should suffer, and cause others to live, whom they thought that they had destroyed in figure when Israel was falling: For the Lord made every kind of serpent to bite them, and they died, since the transgression happened to Eve by means of the serpent, to the end that he might convince them that through their transgression they should be given over to the pangs of death.
+**[12:5]** Again, Moses maketh another type of Jesus, that it behoveth that he should suffer and cause others to live, whom they thought that they had destroyed in figure when Israel was falling: For the Lord made every kind of snake to bite them, and they died, since the transgression happened to Eve by means of the serpent, to the end that he might convince them that through their transgression they should be given over to the pangs of death.
 
-**[12:6]** For in the end Moses himself, after that he had given commandment, There shall not be among you a molten image or a graven image for a god, maketh one himself, that he might show a type of Jesus. Moses, therefore, maketh a brazen serpent, and setteth it aloft, and calleth the people by a proclamation.
+**[12:6]** For in the end Moses himself, after that he had given commandment, There shall not be among you a molten image or a graven image for a god, maketh one himself that he might show a type of Jesus. Moses, therefore, maketh a brazen serpent, and setteth it aloft, and calleth the people by a proclamation.
 
-**[12:7]** When, therefore, they had come together they besought Moses, that he should offer supplication for them concerning their healing. Moses therefore said unto them, When any of you is bitten let him come unto the dead serpent, that is placed upon the tree, and let him believe and hope that, though it is dead, it is able to make him live, and immediately he shall be saved; and so did they. You have, therefore, again in these things also, the glory of Jesus, that in him and to him are all things.
+**[12:7]** When, therefore, they had come together they besought Moses, that he should offer supplication for them concerning their healing. Moses therefore said unto them, When any of you is bitten let him come unto the  serpent, that is placed upon the tree, and let him believe and hope that, though it is dead, it is able to make him live, and immediately he shall be saved; and so did they. You have, therefore, again in these things also, the glory of Jesus, that in him and to him are all things.
 
-**[12:8]** What again saith Moses unto Jesus the son of Nun, after he had given this name to him, being a prophet, to this end alone, that all the people might hear that the Father revealeth all things concerning the Son, Jesus?
+**[12:8]** What again saith Moses unto Jesus the son of Nun, after he had given this name to him, being a prophet? Only that all the people might hear that the Father revealeth all things concerning his son.
 
-**[12:9]** Moses therefore saith unto Jesus the son of Nun, having given him this name, when he sent him to spy out the land, Take the book into thy hands and write what the Lord saith, even that the Son of God, in the last days, will cut off the whole house of Amalek from the roots.
+**[12:9]** Moses therefore saith unto the son of Nun, having given him this name when he sent him to spy out the land, Take the book into thy hands and write what the Lord saith, even that the Son of God, in the last days, will cut off the whole house of Amalek from the roots.
 
-**[12:10]** Behold, therefore, again Jesus, not the son of man but the Son of God, and by a type made manifest in the flesh. Since, therefore, they should one day say that Christ is the son of David, David himself prophesieth, being in fear and understanding the deceitfulness of sinners, The Lord said unto my Lord, Sit on my right hand until I make thy enemies thy footstool.
+**[12:10]** Behold, therefore, again Jesus, not the son of man but the Son of God, and by a type made manifest in the flesh. Since, therefore, they should one day say that Christ is the son of David, David himself prophesieth, fearing and understanding the deceitfulness of sinners, The Lord said unto my Lord, Sit on my right hand until I make thy enemies thy footstool.
 
-**[12:11]** And again Esaias speaketh in this wise, The Lord said unto Christ, my Lord, whose right hand I have held, that the Gentiles should hearken before him, and I will break the strength of kings. Behold how David calleth him Lord, and doth not call him son.
-
+**[12:11]** And again Esaias speaketh in this wise, The Lord said unto Christ, my Lord, whose right hand I have held, that the Gentiles should hearken before him, and I will break the strength of kings. Behold how David calleth him Lord, and how he calleth him he Son of God.
 
 **[13:1]** Let us inquire, therefore, whether this people or the first people inheriteth, and whether the covenant is unto us or unto them.
 
