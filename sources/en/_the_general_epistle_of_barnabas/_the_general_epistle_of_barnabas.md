@@ -3,9 +3,9 @@
 
 **[1:1]** Hail, my sons and daughters, in the name of our Lord Jesus Christ, who hath loved us in peace.
 
-**[1:2]** I rejoice exceedingly and beyond measure at your happy and glorious spirit, since the ordinances of God are great and rich towards you, who have received the engrafted grace of the spiritual gift.
+**[1:2]** I rejoice exceedingly and beyond measure at your happy and glorious spirit, since the ordinances of God are great and rich towards you; for so have ye received the engrafted grace of the spiritual gift.
 
-**[1:3]** Wherefore, I congratulate myself the more, hoping to be saved, because I see of a truth the Spirit poured out upon you from the rich Lord of love. So greatly hath your longed-for appearance stricken me with amazement.
+**[1:3]** Wherefore, I congratulate myself the more, hoping to be saved, because I see of a truth the spirit poured out upon you from the rich Lord of love. So greatly hath your longed-for appearance stricken me with amazement.
 
 **[1:4]** Being persuaded, therefore, of this, and knowing in myself that since I spake among you the Lord hath helped me in many things in the way of righteousness, I am altogether compelled to love you even beyond my own soul, because great faith and love dwelleth in you in the hope of his life.
 
@@ -13,7 +13,7 @@
 
 **[1:6]** For there are three doctrines ordained of the Lord: the hope of life, the beginning, and the end.
 
-**[1:7]** For the Master hath made known unto us by the prophets the things which are past, and the things which are at hand, and hath given us the firstfruits of the knowledge of the things that are to come. Since, therefore, we see all these things severally working as he has spoken, we ought the more fully and loftily to approach to his altar;
+**[1:7]** For the Master hath made known unto us by the prophets the things which are past, and the things which are at hand, and hath given us the first fruits of the knowledge of the things that are to come. Since, therefore, we see all these things severally working as he has spoken, we ought the more fully and loftily to approach to his altar;
 
 **[1:8]** but I, not as a master, but as one of yourselves, will show to you a few things, by means of which ye may even in this present rejoice.
 
