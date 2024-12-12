@@ -280,15 +280,15 @@
 
 **[13:2]** Hear, now, what the scripture saith concerning the people. But Isaac prayed for Rebecca his wife because she was barren, and she conceived. Then went forth Rebecca to inquire of the Lord, and the Lord said unto her, Two nations are in thy womb, and two peoples are in thy bowels, and the one people shall surpass the other, and the elder shall serve the younger.
 
-**[13:3]** We ought to understand who was Isaac and who was Rebecca, and concerning whom he declared that the one people was greater than the other.
+**[13:3]** Ye ought to understand who was Isaac and who was Rebecca, and concerning whom he declared that the one people was greater than the other.
 
 **[13:4]** And in another prophecy Jacob speaketh yet more clearly to Joseph his son, saying, Behold the Lord hath not deprived me of thy face; bring unto me thy sons, that I may bless them.
 
-**[13:5]** And he brought unto him Ephraim and Manasseh, wishing that he should bless Manasseh, because he was the elder. Joseph, therefore, brought him to the right hand of his father Jacob. But Jacob saw in spirit a figure of the people that should be hereafter. And what saith the Scriptures? And Jacob crossed his hands, and placed his right hand on the head of Ephraim, the second and youngest, and blessed him. And Joseph said unto Jacob, Change thy right hand unto the head of Manasseh, because he is my firstborn son. And Jacob said unto Joseph, I know, my child, I know; but the elder shall serve the younger; but this one also shall be blessed.
+**[13:5]** And he brought unto him Ephraim and Manasseh, wishing that he should bless Manasseh, because he was the elder. Joseph, therefore, brought him to the right hand of his father Jacob. But Jacob saw in spirit a figure of the people that should be hereafter. And what saith the scriptures? And Jacob crossed his hands, and placed his right hand on the head of Ephraim, the second and youngest, and blessed him. And Joseph said unto Jacob, Change thy right hand unto the head of Manasseh, because he is my firstborn son. And Jacob said unto Joseph, I know, my child, I know; but the elder shall serve the younger; but this one also shall be blessed.
 
 **[13:6]** Behold in what way he appointed that this people should be the first and heir of the covenant.
 
-**[13:7]** If, therefore, it were moreover mentioned through Abraham also, we have the perfecting of our knowledge. What, therefore, saith he unto Abraham, when he alone believed, and it was counted unto him for righteousness? Behold I have made thee, Abraham, a father of the nations who in uncircumcision believe in the Lord.
+**[13:7]** If, therefore, it were moreover mentioned through Abraham also, we have the perfecting of our knowledge. What, therefore, saith he unto Abraham, when he alone believed, and it was counted unto him for righteousness? Behold I have made thee, Abraham, a father of the nations who believe in the Lord in uncircumcision.
 
 
 **[14:1]** Yea; but let us inquire whether he hath given the covenant that he swear unto the fathers that he would give unto the people. Verily he hath given it; but they were not worthy to receive it on account of their sins.
@@ -299,15 +299,15 @@
 
 **[14:4]** Moses indeed received them, but the people were not worthy. Hearken ye, therefore, how we have received them. Moses received them being a servant, but the Lord himself gave unto us to be a people of inheritance, having suffered for our sake.
 
-**[14:5]** And he was made manifest, that both they might be made perfect in their sins, and that we, through him that inherited, might receive the covenant of the Lord Jesus, who, for this purpose was prepared, that by appearing himself and redeeming from darkness our hearts, which were already lavished on death, and given over to the iniquity of deceit, he might place in us the covenant of his people.
+**[14:5]** And he was made manifest, that both they might be made perfect in their sins, and that we, through him that inherited, might receive the covenant of the Lord Jesus, For; for this purpose was prepared, that by appearing himself and redeeming from darkness our hearts, which were already consumed by death, and given over to the iniquity of deceit, he might place in us the covenant of his people.
 
 **[14:6]** For it is written how the Father giveth commandment unto him, that having redeemed us from darkness, he should prepare for himself a holy people.
 
-**[14:7]** Therefore the prophet saith, I, the Lord thy God, have called thee in righteousness, and I will hold thy hand and make thee strong; and I have given thee for a covenant to the nation, for a light unto the Gentiles, to open the eyes of the blind, and to bring out of chains them that are bound, and from the house of prison them that sit in darkness. We know from whence we were redeemed.
+**[14:7]** Therefore the prophet saith, I, the Lord thy God, have called thee in righteousness, and I will hold thy hand and make thee strong; and I have given thee for a covenant to the nation, for a light unto the Gentiles, to open the eyes of the blind, and to bring out of chains them that are bound, and from the house of prison them that sit in darkness. Learn, therefore from whence we were redeemed.
 
 **[14:8]** And again, the prophet saith, Behold, I have placed thee for a light unto the Gentiles, that thou shouldst be for a salvation even unto the end of the earth; thus saith the Lord God who hath redeemed thee.
 
-**[14:9]** And again, the prophet saith, The Spirit of the Lord is upon me, because he hath anointed me to preach the gospel unto the poor, he hath sent me to heal those that are broken in heart, to preach deliverance to the captives, and the recovery of sight to the blind, to tell of the acceptable year of the Lord, and the day of recompense, to comfort all that mourn.
+**[14:9]** And again, the prophet saith, The Spirit of the Lord is upon me, because he hath anointed; he hath sent me to preach the gospel unto the poor, to heal those that are broken in heart, to preach deliverance to the captives, and the recovery of sight to the blind, to tell of the acceptable year of the Lord, and the day of recompense, to comfort all that mourn.
 
 
 **[15:1]** And, moreover, concerning the sabbath it is written in the ten commandments, in which he spake on Mount Sinai unto Moses face to face: Sanctify ye the sabbath of the Lord with pure hands and a pure heart.
@@ -320,34 +320,34 @@
 
 **[15:5]** And the words, He rested on the seventh day, signify this: After that his Son hath come, and hath caused to cease the time of the wicked one, and hath judged the ungodly, and changed the sun and the moon and the stars, then shall he rest well on the seventh day.
 
-**[15:6]** And further he saith, Thou shalt sanctify it with pure hands and a pure heart. Who, therefore, can sanctify the day which the Lord hath sanctified, unless he be pure of heart? in all things have we been deceived.
+**[15:6]** And further he saith, Thou shalt sanctify it with pure hands and a pure heart. Who, therefore, can sanctify the day which the Lord hath sanctified, unless he be pure of heart? If, therefore, we think that any one can sanctify the day that the Lord hath sanctified, unless he be pure of heart in all things, we are deceived.
 
-**[15:7]** Behold, that then indeed we shall be able to rest well and sanctify; even when we ourselves, having been justified, and having received the promise, when iniquity exists no longer, but all things have been made new by the Lord, we shall then be able to sanctify it, having been first sanctified ourselves.
+**[15:7]** Behold, therefore, who it is that resteth properly and sanctifieth it; even when we ourselves, having first been sanctified, having been justified, and having received the promise, when iniquity exists no longer, but all things have become new,  we shall then be able to sanctify it. 
 
-**[15:8]** And, further, he saith unto them, Your new moons and your sabbaths I cannot endure. See, now, what he meaneth. The sabbaths, that now are, are not acceptable unto me, but that which I have made is, even that in which, after that I have brought all things to an end, I shall make a beginning of the eighth day, which thing is the beginning of another world.
+**[15:8]** And, further, he saith unto them, Your new moons and your sabbaths I cannot endure. See, now, what he meaneth. Your sabbaths, as they now are, are not acceptable unto me, but that which I have made is, even that in which, after that I have brought all things to an end, I shall make a beginning of the eighth day, which thing is the beginning of another world.
 
 **[15:9]** Wherefore we keep the eighth day as a day of gladness, on which also Jesus rose from the dead, and after he had appeared ascended unto heaven.
 
 
-**[16:1]** And I will, moreover, tell you concerning the temple, how these wretched men, being deceived, placed their hopes in the building as if it were the habitation of God, and not on the God who hath made them.
+**[16:1]** And I will, moreover, tell you concerning the temple, how these wretched men, being deceived, placed their hopes in the building as if it were the habitation of God, and not on the God who had made them.
 
-**[16:2]** For almost after the manner of the Gentiles did they consecrate him in the temple. But what saith the Lord, making it of none effect? Hearken ye: Who hath measured out the heaven with his palm, or the earth with the flat of his hand, is it not I? saith the Lord. Heaven is my throne, and earth the footstool of my feet. What house will ye build for me, or what shall be the place of my rest? Ye have known that their hope was vain.
+**[16:2]** For almost after the manner of the Gentiles did they consecrate him in the temple. But what saith the Lord, making it of none effect? Hearken ye: Who hath measured out the heaven with his palm, or the earth with the flat of his hand, is it not I? saith the Lord. Heaven is my throne, and earth the footstool of my feet. What house will ye build for me, or what shall be the place of my rest? Hence ye may that their hope is vain.
 
 **[16:3]** And, yet further, he saith again, Behold they that have destroyed this temple shall rebuild it.
 
-**[16:4]** And so doth it happen, for through their war it has been destroyed by the enemy, and now both they themselves and the servants of their enemies shall rebuild it.
+**[16:4]** And so doth it happen, for through their wars it was destroyed by the enemy, and now both they themselves and their enemies shall rebuild it.
 
 **[16:5]** And again it was made manifest how the temple and the people of Israel should be given up to their enemies. For the scripture saith, And it shall come to pass in the last days that the Lord shall deliver up the sheep of his pasture, and their fold and their tower shall he give up to destruction; and it happened according to that which the Lord had spoken.
 
-**[16:6]** Let us inquire, therefore, whether there be any temple of God. There is; even where he himself hath declared that he would make and perfect it. For it is written, And it shall be when the week is completed that the temple of God shall be built gloriously in the name of the Lord.
+**[16:6]** Let us inquire, therefore, whether there be any temple of God. There is; even where he himself hath declared that he would make and perfect it. For it is written, And it shall be when the week is completed that the temple of the Lord shall be built gloriously in the name of the Lord.
 
 **[16:7]** I find, therefore, that there is a temple; how then shall it be built in the name of the Lord? Learn ye. Before that we believed in God the habitation of our heart was corrupt and feeble, as being of a truth a temple built by hands. For it was full of idolatry, and was a habitation of devils, because we did such things as were contrary to God;
 
-**[16:8]** but it shall be built in the name of the Lord. Attend ye: that the temple of the Lord may be built gloriously. But in what manner? Learn ye: having received the remission of our sins, and having hoped upon the name of the Lord, we have become new, having been again created entirely. Wherefore God of a truth dwelleth in us as in an habitation.
+**[16:8]** but it shall be built in the name of the Lord. What mean these words? Attend ye: that the temple of the Lord may be built gloriously. But in what manner? Learn ye: having received the remission of our sins, and having hoped upon the name of the Lord, we have become new, having been again created entirely. Wherefore God of a truth dwelleth in us as in an habitation.
 
 **[16:9]** How? The word of his faith, the calling of his promise, the wisdom of his ordinances, the commandments of his doctrine, he himself prophesying in us, he himself dwelling in us. To us, who were enslaved by death, he openeth the gate of the temple, which is his mouth, and, giving us repentance, leadeth us into the temple incorruptible.
 
-**[16:10]** For he who desireth to be saved looketh not unto the man, but unto him that dwelleth in him and speaketh in him, wondering that he had never before heard him speaking such words out of his mouth, or even desired to hear. This is the spiritual temple built by the Lord.
+**[16:10]** For he who desireth to be saved looketh not unto the man, but unto him that dwelleth and speaketh in man, wondering that he had never before heard him speaking such words out of his mouth, or even desired to hear. This is the spiritual temple built by the Lord.
 
 
 **[17:1]** So far as it is possible for me to show you these things with simplicity, my mind and soul hopeth that I have not omitted any of the things that pertain unto salvation;
@@ -355,7 +355,7 @@
 **[17:2]** for if I write unto you concerning the things that are at hand, or the things that will be hereafter, ye would not be able to understand them, because they are couched in parables. These things, therefore, are thus.
 
 
-**[18:1]** Let us pass on now to another kind of knowledge and instruction. There are two paths of instruction and authority -- the one that of light, and the other that of darkness. But there is a great difference between the two paths. For over the one are appointed as illuminators the angels of God, over the other the angels of Satan;
+**[18:1]** Let us pass on now to another kind of knowledge and instruction; for there are two paths of instruction and authority -- the one that of light, and the other that of darkness. But there is a great difference between the two paths. For over the one are appointed as illuminators the angels of God, over the other the angels of Satan;
 
 **[18:2]** on the one side is he who is Lord from everlasting to everlasting, on the other is the ruler of the world that now lieth in wickedness.
 
@@ -364,17 +364,17 @@
 
 **[19:2]** Thou shalt love him that made thee, thou shalt fear him that formed thee, thou shalt glorify him that redeemed thee from death. Thou shalt be simple in heart, and rich in spirit; thou shalt not cleave unto them that go in the path of death. Thou shalt hate whatever is not pleasing unto God; thou shalt hate all hypocrisy; thou shalt not abandon the commandments of the Lord;
 
-**[19:3]** thou shalt not exalt thyself; thou shalt be humble in all things; thou shalt not take glory unto thyself; thou shalt not take evil counsel against thy neighbour; thou shalt not take audacity into thy soul.
+**[19:3]** thou shalt be humble in all things; thou shalt not take glory unto thyself; thou shalt not take evil counsel against thy neighbour, thou shalt not take audacity into thy soul.
 
-**[19:4]** Thou shalt not commit fornication, thou shalt not commit adultery. Thou shalt not pollute thyself with mankind: let not the word of God go forth from thee in corruption. Thou shalt not accept the person of any to reprove any man for transgression. Thou shalt be gentle, thou shalt be quiet; thou shalt tremble at the words that thou hast heard; thou shalt not bear malice against thy brother;
+**[19:4]** Thou shalt not commit fornication, thou shalt not commit adultery. Thou shalt not pollute thyself with mankind: let not the word of God go forth from thee in corruption. Thou shalt not accept the person of any man when thou reprovest him for transgression . Thou shalt be gentle, thou shalt be quiet; thou shalt tremble at the words that thou hast heard; thou shalt not bear malice against thy brother;
 
 **[19:5]** thou shalt not doubt whether a thing shall be or not; thou shalt not take the name of the Lord in vain. Thou shalt love thy neighbour beyond thine own soul; thou shalt not kill a child by abortion, neither shalt thou destroy it after it is born. Thou shalt not remove thy hand from thy son or thy daughter, but shalt teach them from their youth the fear of the Lord.
 
-**[19:6]** Thou shalt not covet thy neighbour's goods; thou shalt not be an extortioner; thou shalt not cleave with thy soul unto the proud, but thou shalt have thy conversation with the lowly and the just. Receive as blessings the troubles that come unto thee, knowing that without God nothing happens.
+**[19:6]** Thou shalt not covet thy neighbour's goods, thou shalt not be an extortioner; neither shall thy soul cleave unto the proud, but thou shalt have thy conversation with the lowly and the just. Receive as blessings the troubles that come unto thee, knowing that without God nothing happens.
 
 **[19:7]** Thou shalt not be double-minded nor double-tongued, for to be double-tongued is the snare of death. Thou shalt submit thyself to thy masters as to the image of God, with shame and fear. Thou shalt not give commands with bitterness to thy servant and thy handmaid, who hope in the same God as thou dost, lest, perchance, thou cease to fear God, who is over both. For he came not to call men with respect of persons, but to call those whom the Spirit had prepared.
 
-**[19:8]** Thou shalt communicate in all things with thy neighbour, and shalt not say that things are thine own. For if ye be partners in that which is incorruptible, how much more in the things that are corruptible? Thou shalt not be hasty of speech, for the mouth is a snare of death. As far as thou art able, thou shalt be pure concerning thy soul.
+**[19:8]** Thou shalt communicate in all things with thy neighbour, and shalt not say that things are thine own. For if ye be partners in that which is incorruptible, how much more in the things that are corruptible? Thou shalt not be hasty of speech, for the mouth is a snare of death. As far as thou art able thou shalt be pure concerning thy soul.
 
 **[19:9]** Be not a stretcher forth of thy hand in receiving, and a drawer back of it in giving. Thou shalt love, as the apple of thine eye, every one that speaketh unto thee the word of the Lord.
 
@@ -382,21 +382,20 @@
 
 **[19:11]** Thou shalt not doubt to give, nor shalt thou murmur in giving. Give to every one that asketh thee, and thou shalt know who is the good recompenser of the reward. Thou shalt take care of that which thou hast received, neither adding thereto, nor taking therefrom. Thou shalt hate the evil man unto the end, and shalt judge justly.
 
-**[19:12]** Thou shalt not make a schism, but shalt make peace by bringing adversaries together. Thou shalt make confession of thy sins. Thou shalt not go unto prayer with an evil conscience. This is the way of life, either labouring by means of the word and proceeding to exhort, and practising to save the soul by the word, or thou shalt work by thy hands for the redemption of thy sins.
-
+**[19:12]** Thou shalt not make a schism, but shalt make peace by bringing adversaries together. Thou shalt make confession of thy sins. Thou shalt not go unto prayer with an evil conscience. This is the way of life.
 
 **[20:1]** But the path of darkness is crooked and full of cursing, for it is the path of eternal death and punishment, in which way are the things that destroy the soul. Idolatry, boldness, the pride of power, hypocrisy, double-heartedness, adultery, murder, rape, haughtiness, transgression, deceit, malice, self-will, witchcraft, sorcery, covetousness, want of the fear of God.
 
 **[20:2]** Here are they who are persecutors of the good, haters of truth, lovers of lies; they who know not the reward of righteousness, who cleave not to what is good nor unto just judgment; who attend not to the widow and the orphan; who are awake not unto the fear of God, but unto evil; from whom meekness and patience are afar off; who love the things that are vain, who follow after recompense, who pity not the poor, who labour not for him who is in trouble; who are prompt to evil-speaking, who know not him that made them; murderers of children, corruptors of the image of God; who turn away from the poor man and oppress the afflicted; advocates of the rich, unjust judges of the poor, sinners in all things.
 
 
-**[21:1]** It is therefore right that he who has learned the ordinances of the Lord, even as many as have been written beforehand, should walk in them. For he who doeth these things shall be glorified in the Kingdom of God, but he who chooseth the contrary things shall perish together with his works. On this account is the resurrection; on this account is the retribution.
+**[21:1]** It is therefore right that he who has learned the ordinances of the Lord, even as many as have been written beforehand, should walk in them. For he who doeth these things shall be glorified in the Kingdom of God, but he who hath chosen the contrary things shall perish together with his works. On this account is the resurrection; on this account is the retribution.
 
-**[21:2]** I ask those who are of high estate among you, if ye will receive any friendly advice from me, keep those with you toward whom ye may do what is honourable. Fail not in so doing.
+**[21:2]** I ask those who are of high estate among you, if ye will receive any friendly advice from me, to keep among you those to whom you may do good and desert them not. Abandon not that which is good.
 
-**[21:3]** The day is at hand in which everything shall perish together with the evil one; the Lord is nigh at hand, and his reward also.
+**[21:3]** for the day is at hand in which everything shall perish together with the evil one; for the Lord is nigh at hand, and his reward is with him.
 
-**[21:4]** Again and again do I ask you, be ye good lawgivers over yourselves, be ye good advisers of yourselves. Abide faithful counsellors of one another; take out of the midst of you all hypocrisy,
+**[21:4]** And yet once more do I ask you, be ye good law-givers. Abide faithful counsellors of one another; take out of the midst of you all hypocrisy,
 
 **[21:5]** and may God, who ruleth the whole world, give you wisdom, understanding, science, knowledge of his ordinances, and patience.
 
