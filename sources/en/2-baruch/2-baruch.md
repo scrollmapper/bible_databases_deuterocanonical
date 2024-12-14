@@ -60,79 +60,81 @@
 
 **[5:7]** And we sat there and fasted until the evening.
 
-**[6:1]** And it came to pass on the morrow that, lo! the army of the Chaldees surrounded the city, and at the time of the evening, I, Baruch, left the people, and I went forth and stood by the oak.
+**[6:1]** And it came to pass on the morrow that, lo! the army of the Chaldees surrounded the city, and at the time of the evening I, Baruch, left the people, and I went forth and stood by the oak.
 
-**[6:2]** And I was grieving over Zion, and lamenting over the captivity which had come upon the people.
+**[6:2]** And I was grieving over Zion, and lamenting over the captivity which had come upon the people. 
 
-**[6:3]** And lo! suddenly a strong spirit raised me, and bore me aloft over the wall of Jerusalem.
+**[6:3]** And lo! suddenly a strong spirit raised me, and bore me aloft over the wall of Jerusalem. 
 
-**[6:4]** And I beheld, and lo! four angels standing at the four corners of the city, each of them holding a torch of fire in his hands.
+**[6:4]** And I beheld, and lo! four angels standing at the four angles of the city, each of them holding a lamp of fire in his hands. 
 
-**[6:5]** And another angel began to descend from heaven, and said unto them: 'Hold your lamps, and do not light them till I tell you.
+**[6:5]** And another angel began to descend from heaven, and said unto them: 'Hold your lamps, and do not light them till I tell you. 
 
-**[6:6]** For I am first sent to speak a word to the earth, and to place in it what the Lord the Most High has commanded me
+**[6:6]** For I am first sent to speak a word to the earth, and to place in it what the Lord the Most High has commanded me." 
 
-**[6:7]** And I saw him descend into the Holy of holies, and take from thence the veil, and the holy ark, and the mercy-seat, and the two tables, and the holy raiment of the priests, and the altar of incense, and the forty-eight precious stones, wherewith the priest was adorned and all the holy vessels of the tabernacle.
+**[6:7]** And I saw him descend into the Holy of Holies, and take from thence the veil, and the holy ephod, and the mercy-seat, and the two tables, and the holy raiment of the priests, and the altar of incense, and the forty-eight precious stones, wherewith the priest was adorned, and all the holy vessels of the tabernacle. 
 
-**[6:8]** And he spake to the earth with a loud voice: 'Earth, earth, earth, hear the word of the mighty God, And receive what I commit to thee, And guard them until the last times, So that, when thou art ordered, thou mayst restore them, So that strangers may not get possession of them.
+**[6:8]** And he spake to the earth with a loud voice: "Earth, earth, earth, hear the word of the mighty God, and receive what I commit to thee, and guard them until the last times, so that, when thou art ordered, thou mayst restore them, so that strangers may not get possession of them.
 
-**[6:9]** For the time comes when Jerusalem also will be delivered for a time, Until it is said, that it is again restored for ever.'
+**[6:9]** For the time comes when Jerusalem also will be delivered for a time, until it is said, that it is again restored for ever.
 
-**[6:10]** And the earth opened its mouth and swallowed them up.
+**[6:10]** And the earth opened its mouth and swallowed them up."
 
-**[7:1]** And after these things I heard that angel saying unto those angels who held the lamps:
+**[7:1]** And after these things I heard that angel saying unto those angels who held the lamps:"Destroy, therefore, and overthrow its wall to its foundations, lest the enemy should boast and say: 'We have overthrown the wall of Zion, and we have burnt the place of the mighty God.'" 
 
-**[7:2]** Destroy, therefore, and overthrow its wall to its foundations, lest the enemy should boast and say: "We have overthrown the wall of Zion, And we have burnt the place of the mighty God." And ye have seized the place where I had been standing before.
+**[7:2]** And the Spirit restored me to the place where I had been standing before.
 
-**[8:1]** Now the angels did as he had commanded them, and when they had broken up the corners of the walls, a voice was heard from the interior of the temple, after the wall had fallen, saying:
+**[8:1]** Now the angels did as he had commanded them, and when they had broken up the angles of the walls, a voice was heard from the interior of the temple, after the wall had fallen, saying:
 
-**[8:2]** 'Enter, ye enemies, And come, ye adversaries; For he who kept the house has forsaken (it).'
+**[8:2]** "Enter ye enemies, and come ye adversaries; for He who kept the house has forsaken (it)."
 
 **[8:3]** And I, Baruch, departed.
 
-**[8:4]** And it came to pass after these things that the army of the Chaldees entered and seized the house,
+**[8:4]** And it came to pass after these things that the army of the Chaldees entered and seized the house, and all that was around it.
 
-**[8:5]** and all that was around it. And they led the people away captive, and slew some of them, and bound Zedekiah the king, and sent him to the king of Babylon.
+**[8:5]** And they led the people away captive, and slew some of them, and bound Zedekiah the king, and sent him to the king of Babylon.
 
 **[9:1]** And I, Baruch, came, and Jeremiah, whose heart was found pure from sins, who had not been captured in the seizure of the city.
 
-**[9:2]** And we rent our garments, we wept, and mourned, and fasted seven days.
+**[9:2]** And we rent our garments, and wept, and mourned, and fasted seven days.
 
-**[10:1]** And it came to pass after seven days, that the word of God came to me, and said unto me:
+**[10:1]** And it came to pass after seven days, that the word of the Lord was upon me, and said unto me:
 
-**[10:2]** 'Tell Jeremiah to go and support the captivity of the people unto Babylon,
+**[10:2]** "Tell Jeremiah to go and support the captivity of the people unto Babylon.
 
-**[10:3]** But do thou remain here amid the desolation of Zion, and I will show to thee after these days' what will befall at the end of days.'
+**[10:3]** But do thou remain here amid the desolation of Zion, and I will show to thee after these days what will befall at the end of days.'
 
-**[10:5]** And I said to Jeremiah as the Lord commanded me. And he, indeed, departed with the people, but I, Baruch, returned and sat before the gates of the temple, and I lamented with the following lamentation over Zion and said:
+**[10:4]** And I said to Jeremiah as the Lord commanded me. 
 
-**[10:6]** 'Blessed is he who was not born, Or he, who having been born, has died.
+**[10:5]** And he, indeed, departed with the people, but I, Baruch, returned and sat before the gates of the temple, and I lamented with that lamentation over Zion and said:
 
-**[10:7]** But as for us who live, woe unto us, Because we see the afflictions of Zion, And what has befallen Jerusalem.
+**[10:6]** 'Blessed is he who was not born, or being born, has died.
 
-**[10:8]** I will call the Sirens from the sea, And ye Lilin, come ye from the desert, And ye Shedim and dragons from the forests: Awake and gird up your loins unto mourning, And take up with me the dirges, And make lamentation with me.
+**[10:7]** But as for us who live, woe unto us, because we see the afflictions of Zion, and what has befallen Jerusalem.
 
-**[10:9]** Ye husbandmen, sow not again; And, O earth, wherefore givest thou thy harvest fruits? Keep within thee the sweets of thy sustenance.
+**[10:8]** I will call the Sirens from the sea, and ye Lilin, come ye from the desert, and ye Shedim and dragons from the forests: awake and bind your loins unto mourning, and take up with me lamentation, and mourn with me.
 
-**[10:10]** And thou, vine, why further dost thou give thy wine; For an offering will not again be made therefrom in Zion. Nor will the first-fruits again be offered.
+**[10:9]** Ye husbandmen, sow not again; and thou, earth, wherefore givest thou the fruits of thy produce? keep within thee the sweets of thy sustenance.
 
-**[10:11]** And do ye, O heavens, withhold your dew, And open not the treasuries of rain:
+**[10:10]** And thou, vine, why further dost thou give thy wine? for an offering will not again be made therefrom in Zion, nor will the first-fruits again be offered.
 
-**[10:12]** And do thou, O sun, withhold the light of thy rays. And do thou, O moon, extinguish the multitude of thy light; For why should light rise again Where the light of Zion is darkened?
+**[10:11]** And do ye, O heavens, withhold your dew, and open not the treasuries of rain:
 
-**[10:13]** And you, ye bridegrooms, enter not in, And let not the brides adorn themselves with garlands
+**[10:12]** And do thou, O sun, withhold the light of thy rays; and do thou, O moon, extinguish the multitude of thy light; for why should light rise again where the light of Zion is darkened?
 
-**[10:14]** And, ye women, pray not that ye may bear. For the barren shall above all rejoice, And those who have no sons shall be glad, And those who have sons shall have anguish.
+**[10:13]** And you, ye bridegrooms, enter not in, and let not the brides adorn themselves with garlands; and, ye women, pray not that ye may bear. 
 
-**[10:15]** For why should they bear in pain, Only to bury in grief?
+**[10:14]** For the barren shall rejoice more, and those who have no sons shall be glad, and those who have sons shall have anguish.
 
-**[10:16]** Or why, again, should mankind have sons? Or why should the seed of their kind again be named, Where this mother is desolate, And her sons are led into captivity?
+**[10:15]** For why should they bear in pain and bury in grief?
 
-**[10:17]** From this time forward speak not of beauty, And discourse not of gracefulness.
+**[10:16]** Or wherefore, again, should mankind have sons; or wherefore should the seed of their nature again be named, where that mother is desolate, and her sons are led into captivity?
 
-**[10:18]** Moreover, ye priests, take ye the keys of the sanctuary And cast them into the height of heaven, And give them to the Lord and say: "Guard Thy house Thyself. For lo! we are found false stewards."
+**[10:17]** From this time forward speak not of beauty and discourse not of gracefulness.
 
-**[10:19]** And you, ye virgins; who weave fine linen And silk with gold of Ophir, Take with haste all (these) things And cast (them) into the fire, That it may bear them to Him who made them, And the flame send them to Him who created them, Lest the enemy get possession of them.'
+**[10:18]** Moreover, ye priests, take ye the keys of the sanctuary and cast them into the height of heaven, and give them to the Lord and say: 'Guard Thy house Thyself, for lo! we are found false stewards.'
+
+**[10:19]** And you, ye virgins; who spin fine linen and silk with gold of Ophir, hasten and take all things and cast (them) into the fire, that it may bear them to Him who made them, and the flame send them to Him who created them, lest the enemy get possession of them.'
 
 **[11:1]** Moreover, I, Baruch, say this against thee, Babylon: If thou hadst prospered, And Zion had dwelt in her glory, Yet the grief to us had been great That thou shouldst be equal to Zion.
 
