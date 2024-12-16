@@ -2,9 +2,9 @@
 
 
 
-**[1:1]** And it came to pass in the twenty-fifth year of Jeconiah, king of Judah, that the word of the Lord came to Baruch, the son of Neriah,
+**[1:1]** And it came to pass in the twenty-fifth year of Jeconiah king of Judah, that the word of the Lord came to Baruch, the son of Neriah, and said to him:
 
-**[1:2]** and said to him: 'Hast thou seen all that this people are doing to Me, that the evils which these two tribes which remained have done are greater than (those of) the ten tribes which were carried away captive?
+**[1:2]** 'Hast thou seen all that this people are doing to Me, that the evils which these two tribes which remained have done are greater than (those of) the ten tribes which were carried away captive?
 
 **[1:3]** For the former tribes were forced by their kings to commit sin, but these two of themselves have been forcing and compelling their kings to commit sin.
 
@@ -12,45 +12,45 @@
 
 **[1:5]** And My people shall be chastened, and the time shall come when they will seek for the prosperity of their times.
 
-**[2:1]** For I have said these things to thee that thou mayst bid Jeremiah, and all those that are like you, to retire from this city. For your works are to this city as a firm pillar, And your prayers as a strong wall.'
+**[2:1]** For I have said these things to thee that thou mayst say (them) to Jeremiah, and to all those who are like you, in order that ye may retire from this city. Because your works are to this city as a firm pillar, and your prayers as a strong wall.'
 
-**[3:1]** And I said:
+**[3:1]** And I said: 'O Lord, my Lord, have I come into the world for this purpose that I might see the evils of my mother? not (so) my Lord.
 
-**[3:2]** 'O Lord, my Lord, have I come into the world for this purpose that I might see the evils of my mother?
+**[3:2]** If I have found grace in Thy sight, first take my spirit that I may go to my fathers and not behold the destruction of my mother.
 
-**[3:3]** Not (so) my Lord. If I have found grace in Thy sight, first take my spirit that I may go to my fathers and not behold the destruction of my mother.
+**[3:3]** For two things vehemently constrain me: for I cannot resist Thee, and my soul, moreover, cannot behold the evils of my mother. 
 
-**[3:4]** For two things vehemently constrain me: for I cannot resist Thee, and my soul, moreover, cannot behold the evils of my mother. But one thing I will say in Thy presence, O Lord. What, therefore, will there be after these things?
+**[3:4]** But one thing I will say in Thy presence, O Lord. 
 
-**[3:5]** for if Thou destroyest Thy city, and deliverest up Thy land to those that hate us, how shall the name of Israel be again remembered?
+**[3:5]** What, therefore, will there be after these things? for if Thou destroyest Thy city, and deliverest up Thy land to those that hate us, how shall the name of Israel be again remembered?
 
 **[3:6]** Or how shall one speak of Thy praises? or to whom shall that which is in Thy law be explained?
 
-**[3:7]** Or shall the world return to its nature (of), aforetime and the age revert to primeval silence?
+**[3:7]** Or shall the world return to its nature (of aforetime), and the age revert to primeval silence?
 
 **[3:8]** And shall the multitude of souls be taken away, and the nature of man not again be named?
 
-**[3:9]** And where is all that which Thou didst say to Moses regarding us?'
+**[3:9]** And where is all that which thou didst say to Moses regarding us?'
 
-**[4:1]** And the Lord said unto me: 'This city shall be delivered up for a time, And the people shall be chastened during a time, And the world will not be given over to oblivion.
+**[4:1]** And the Lord said unto me: 'This city shall be delivered up for a time, and the people will be chastened during a time, and the world will not be given over to oblivion.
 
 **[4:2]** [Dost thou think that this is that city of which I said: "On the palms of My hands have I graven thee"?
 
-**[4:3]** This building now built in your midst is not that which is revealed with Me, that which was prepared beforehand here from the time when I took counsel to make Paradise, and showed it to Adam before he sinned, but when he transgressed the commandment it was removed from him, as also Paradise.
+**[4:3]** It is not this building which is now built in your midst; (it is) that which will be revealed with Me, that which was prepared beforehand from the time when I took counsel to make Paradise, and showed it to Adam berfore he sinned, but when he transgressed the commandment, it was removed from him, as also Paradise.
 
 **[4:4]** And after these things I showed it to My servant Abraham by night among the portions of the victims.
 
 **[4:5]** And again also I showed it to Moses on Mount Sinai when I showed to him the likeness of the tabernacle and all its vessels.
 
-**[4:6]** And now, behold, it is preserved with Me, as also
+**[4:6]** And now, behold, it is preserved with Me, as also Paradise. 
 
-**[4:7]** Paradise. Go. therefore, and do as I command thee.']
+**[4:7]** Go, therefore, and do as I command thee.']
 
-**[5:1]** And I answered and said: So then I am destined to grieve for Zion, For Thine enemies will come to this place and pollute Thy sanctuary, And lead Thine inheritance into captivity, And make themselves masters of those whom Thou hast loved. And they will depart again to the place of their idols, And will boast before them: And what wilt Thou do for Thy great name?'
+**[5:1]** And I answered and said: I shall, therefore, be in great straits in Zion, because Thine enemies will come to that place and pollute Thy sanctuary, and lead Thine inheritance into captivity, and will lord it over those whom Thou hast loved, and they will depart again to the place of their idols, and will boast before them. And what wilt Thou do for Thy great name?'
 
-**[5:2]** And the Lord said unto me: My name and My glory are unto all eternity; And My judgement shall maintain its right in its own time.
+**[5:2]** And the Lord said unto me: My name and My glory have an eternal duration; My judgement, moreover, will preserve its right in its own time.
 
-**[5:3]** And thou shalt see with thine eyes That the enemy will not overthrow Zion, Nor shall they burn Jerusalem, But be the ministers of the Judge for the time.
+**[5:3]** And thou wilt see with thine eyes that the enemy will not overthrow Zion, nor burn Jerusalem, but be subservient to the judge for the time.
 
 **[5:4]** But do thou go and do whatsoever I have said unto thee.'
 
