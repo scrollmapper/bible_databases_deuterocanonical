@@ -239,7 +239,7 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[15:8]** For this world is to them a trouble and a weariness with much labour; and that accordingly which is to come, a crown with great glory.'
 
-**[16:1]** And I answered and said: 'O LORD, my Lord, lo! the years of this time are few and evil, and who is able in his little time to acquire that which is measureless?'
+**[16:1]** And I answered and said: 'O LORD, my Lord, lo! the years of this time are few and evil, and who is able in his little (space) to acquire that which is measureless?'
 
 **[17:1]** And the Lord answered and said unto me: 'With the Most High account is not taken of much time nor of a few years.
 
@@ -255,27 +255,27 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[19:1]** And He answered and said unto me: 'Wherefore at that time he appointed for them a covenant and said: "Behold I have placed before you life and death," And he called heaven and earth to witness against them.
 
-**[19:2]** For he knew that his time was but short, But that heaven and earth endure always.
+**[19:2]** For he knew that his time was but short, but that heaven and earth endure always.
 
-**[19:3]** But after his death they sinned and transgressed, Though they knew that they had the law reproving (them), And the light in which nothing could err, Also the spheres which testify, and Me.
+**[19:3]** For after his death these sinned and transgressed (the covenant), though they knew that they had the law reproving (them), and the light in which nothing could err, also the spheres which testify, and Me.
 
-**[19:4]** Now regarding everything that is, it is I that judge, but do not thou take counsel in thy soul regarding these things, nor afflict thyself because of those which have been.
+**[19:4]** Now regarding everything that is it is I that judge, but do not thou take counsel in thy soul regarding these things, nor afflict thyself because of those which have been.
 
-**[19:5]** For now it is the consummation of time that should be considered, whether of business, or of prosperity, or of shame, and not the beginning thereof.
+**[19:5]** For now it is the consummation of time that is sought, whether of business, or of prosperity, or of shame, and not the beginning thereof.
 
 **[19:6]** Because if a man be prospered in his beginnings and shamefully entreated in his old age, he forgets all the prosperity that he had.
 
 **[19:7]** And again, if a man is shamefully entreated in his beginnings, and at his end is prospered, he remembereth not again his evil entreatment.
 
-**[19:8]** And again hearken: though each one were prospered all that time all the time from the day on which death was decreed against those who transgress, and in his end was destroyed, in vain would have been everything.'
+**[19:8]** And again hearken: though each one were prospered all that time-- all the time from the day on which death was decreed against those who transgress-- and in his end was destroyed, in vain would have been everything.'
 
-**[20:1]** Therefore, behold! the days come, And the times shall hasten more than the former, And the seasons shall speed on more than those that are past, And the years shall pass more quickly than the present (years).
+**[20:1]** Therefore, behold! the days come, and the times shall hasten more than the former, and the seasons will speed on more than those that are past, and the years shall pass more quickly than the present (years).
 
-**[20:2]** Therefore have I now taken away Zion, That I may the more speedily visit the world in its season.
+**[20:2]** Therefore have I now taken away Zion, in order that I may the more speedily visit the world in its season.
 
-**[20:3]** Now therefore hold fast in thy heart everything that I command thee, And seal it in the recesses of thy mind.
+**[20:3]** Now therefore hold fast in thy heart everything that I command thee, and seal it in the recesses of thy mind.
 
-**[20:4]** And then I will show thee the judgement of My might, And My ways which are unsearchable.
+**[20:4]** And then I will show thee the judgement of My might, and My ways which are past finding out.
 
 **[20:5]** Go therefore and sanctify thyself seven days, and eat no bread, nor drink water, nor speak to anyone.
 
@@ -287,13 +287,13 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[21:3]** And it came to pass at sunset that my soul took much thought, and I began to speak in the presence of the Mighty One, and said:
 
-**[21:4]** 'O Thou that hast made the earth, hear me, that hast fixed the firmament by the word, and hast made firm the height of the heaven by the spirit, that hast called from the beginning of the world that which did not yet exist, and they obey Thee.
+**[21:4]** 'O Thou that hast made the earth, hear me, that hast fixed the firmament in its fulness, and hast made firm the height of the heaven by the spirit, that hast called from the beginning of the world that which did not yet exist, and they obey Thee.
 
 **[21:5]** Thou that hast commanded the air by Thy nod, and hast seen those things which are to be as those things which Thou art doing.
 
-**[21:6]** Thou that rulest with great thought the hosts that stand before Thee: also the countless holy beings, which Thou didst make from the beginning, of flame and fire, which stand around Thy throne Thou rulest with indignation.
+**[21:6]** Thou that rulest with great thought the hosts that stand before Thee: (yea) rulest with indignation the holy living creatures, who are without number, which Thou didst make from the beginning, of flame and fire, which stand around Thy throne.
 
-**[21:7]** To Thee only does this belong that Thou shouldst do forth with whatsoever Thou dost wish.
+**[21:7]** To Thee only does this belong that Thou shouldst do forthwith whatsoever Thou dost wish.
 
 **[21:8]** Who causest the drops of rain to rain by number upon the earth, and alone knowest the consummation of the times before they come; have respect unto my prayer.
 
@@ -305,13 +305,13 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[21:12]** Thou knowest where Thou preservest the end of those who have sinned, or the consummation of those who have been righteous.
 
-**[21:13]** For if there were this life only, which belongs to all men, nothing could be more bitter than this,
+**[21:13]** For if there were this life only, which here belongs to all men, nothing could be more bitter than this.
 
-**[21:14]** For of what profit is strength that turns to sickness, Or fullness of food that turns to famine, Or beauty that turns to ugliness.
+**[21:14]** For of what profit is strength that turns to weakness, or the food of plenty that turns to famine, or beauty that turns to a hateful (thing)?
 
 **[21:15]** For the nature of man is always changeable.
 
-**[21:16]** For what we were formerly now we no longer are, and what we now are we shall not afterwards remain.
+**[21:16]** For we have by no means been frm the beginning what we now are, and what we now are we shall not afterwards remain.
 
 **[21:17]** For if a consummation had not been prepared for all, in vain would have been their beginning.
 
@@ -321,17 +321,17 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[21:20]** Command therefore in mercy and accomplish all that Thou saidst Thou wouldst bring, that Thy might may be made known to those who think that Thy long-suffering is weakness.
 
-**[21:21]** And show to those who know not, that everything that has befallen us and our city until now has been according to the long-suffering of Thy power, because on account of Thy name Thou hast called us a beloved people.
+**[21:21]** And show to those who know not, and let them see that it has befallen us and our city until now has been according to the long-suffering of Thy power, because on account of Thy name Thou hast called us a beloved people.
 
-**[21:22]** Bring to an end therefore henceforth mortality.
+**[21:22]** Every nature therefore from this onward is mortal.
 
-**[21:23]** And reprove accordingly the angel of death, and let Thy glory appear, and let the might of Thy beauty be known, and let Sheol be sealed so that from this time forward it may not receive the dead, and let the treasuries of souls restore those which are enclosed in them.
+**[21:23]** Reprove therefore the angel of death, and let Thy glory appear, and let the might of Thy beauty be known, and let Sheol be sealed so that from this time forward it may not receive the dead, and let the treasuries of souls restore those which are enclosed in them.
 
 **[21:24]** For there have been many years like those that are desolate from the days of Abraham and Isaac and Jacob, and of all those who are like them, who sleep in the earth, on whose account Thou didst say that Thou hadst created the world.
 
 **[21:25]** And now quickly show Thy glory, and do not defer what has been promised by Thee.'
 
-**[21:26]** And (when) I had completed the words of this prayer I was greatly weakened.
+**[21:26]** And it came to pass that when I had completed the words of this prayer I was greatly weakened.
 
 **[22:1]** And it came to pass after these things that lo! the heavens were opened, and I saw, and power was given to me, and a voice was heard from on high, and it said unto me:
 
@@ -343,41 +343,41 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[22:5]** Or he who sows the earth, but does not reap its fruit in its season, does he not lose everything?
 
-**[22:6]** Or he who plants a plant unless it grows till the time suitable to it, does he who planted it expect to receive fruit from it?
+**[22:6]** Or he who plants a plant, unless it grows till the time suitable to it, does he who planted it expect to receive fruit from it?
 
 **[22:7]** Or a woman who has conceived, if she bring forth untimely, does she not assuredly slay her infant?
 
-**[22:8]** Or he who builds a house, if he does not roof it and complete it, can it be called a house? Tell Me that first.'
+**[22:8]** Or he who builds a house, if he does not roof it and complete it, can it be called a house? Tell me that first.'
 
 **[23:1]** And I answered and said: 'Not so, O LORD, my Lord.'
 
-**[23:2]** And He answered and said unto me: Why therefore art thou troubled about that which thou knowest not, and why art thou ill at ease about things in which thou art ignorant?
+**[23:2]** And He answered and said unto me: "Why therefore art thou troubled about that which thou knowest not, and why art thou ill at ease about things in which thou art ignorant?
 
 **[23:3]** For as thou hast not forgotten the people who now are and those who have passed away, so I remember those who are appointed to come.
 
 **[23:4]** Because when Adam sinned and death was decreed against those who should be born, then the multitude of those who should be born was numbered, and for that number a place was prepared where the living might dwell and the dead might be guarded.
 
-**[23:5]** Before therefore the number aforesaid is fulfilled, the creature will not live again [for My spirit is the creator of life], and Sheol will receive the dead.
+**[23:5]** Unless therefore the number aforesaid is fulfilled, the creature will not live again [for My spirit is the creator of life], and Sheol will receive the dead.
 
 **[23:6]** And again it is given to thee to hear what things are to come after these times.
 
 **[23:7]** For truly My redemption has drawn nigh, and is not far distant as aforetime.
 
-**[24:1]** For behold! the days come and the books shall be opened in which are written the sins of all those who have sinned, and again also the treasuries in which the righteousness of all those who have been righteous in creation is gathered.
+**[24:1]** For behold! the days come and the books will be opened in which are written the sins of all those who have sinned, and again also the treasuries in which the righteousness of all those who have been righteous in creation is gathered.
 
-**[24:2]** For it shall come to pass at that time that thou shalt see - and the many that are with thee -the long-suffering of the Most High, which has been throughout all generations, who has been long-suffering towards all who are born, (alike) those who sin and (those who) are righteous.'
+**[24:2]** For it will come to pass at that time that thou shalt see - and the many that are with thee -the long-suffering of the Most High, which has been throughout all generations, who has been long-suffering towards those born that sin and are righteous."
 
 **[24:3]** And I answered and said: 'But, behold! O Lord, no one knows the number of those things which have passed nor yet of those things which are to come.
 
 **[24:4]** For I know indeed that which has befallen us, but what will happen to our enemies I know not, and when Thou wilt visit Thy works.'
 
-**[25:1]** And He answered and said unto me: 'Thou too shalt be preserved till that time till that sign which the Most High will work for the inhabitants of the earth in the end of days.
+**[25:1]** And He answered and said unto me: "Thou too shalt be kept safely till that time till that sign which the Most High will work for the inhabitants of the earth in the end of days.
 
-**[25:2]** This therefore shall be the sign.
+**[25:2]** This therefore will be the sign.
 
 **[25:3]** When a stupor shall seize the inhabitants of the earth, and they shall fall into many tribulations, and again when they shall fall into great torments.
 
-**[25:4]** And it will come to pass when they say in their thoughts by reason of their much tribulation: "The Mighty One doth no longer remember the earth" yea, it will come to pass when they abandon hope, that the time will then awake.'
+**[25:4]** And it will come to pass when they say in their thoughts by reason of their much tribulation: 'The Mighty One doth no longer remember the earth'-- yea, it will come to pass when they abandon hope, that the time will then awake."
 
 **[26:1]** And I answered and said: 'Will that tribulation which is to be continue a long time, and will that necessity embrace many years?'
 
