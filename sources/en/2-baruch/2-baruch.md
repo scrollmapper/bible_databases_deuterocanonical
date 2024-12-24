@@ -497,25 +497,25 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[36:1]** And when I had said these things I fell asleep there, and I saw a vision in the night.
 
-**[36:2]** And lo! a forest of trees planted on the plain, and lofty and rugged rocky mountains surrounded it, and that forest occupied much space.
+**[36:2]** And lo! a forest of trees planted on the plain, and lofty mountains surrounded it and precipitous rocks, and that forest occupied much space.
 
 **[36:3]** And lo! over against it arose a vine, and from under it there went forth a fountain peacefully.
 
-**[36:4]** Now that fountain came to the forest and was (stirred) into great waves, and those waves submerged that forest, and suddenly they rooted out the greater part of that forest, and overthrew all the mountains which were round about it.
+**[36:4]** Now that fountain came to the forest and was (stirred) into great waves, and those waves submerged that forest, and suddenly they rooted out the multitude of (the trees) of that forest, and overthrew all the mountains which were round about it.
 
-**[36:5]** And the height of the forest began to be made low, and the top of the mountains was made low and that fountain prevailed greatly, so that it left nothing of that great forest save one cedar only.
+**[36:5]** And the height of the forest began to be made low, and the top of the mountains was made low, and that fountain prevailed greatly, so that it left nothing of that great forest save one cedar only.
 
-**[36:6]** Also when it had cast it down and had destroyed and rooted out the greater part of that forest, so that nothing was left of it, nor could its place be recognized, then that vine began to come with the fountain in peace and great tranquillity, and it came to a place which was not far from that cedar, and they brought the cedar which had been cast down to it.
+**[36:6]** Also when it had cast it down and had destroyed and rooted out the multitude of (the trees of) that forest, so that nothing was left of it, nor could its place be recognised, then that vine began to come with the fountain in peace and great tranquillity, and it came to a place which was not far from the cedar, and they brought the cedar which had been cast down to it.
 
-**[36:7]** And I beheld and lo! that vine opened its mouth and spake and said to that cedar: 'Art thou not that cedar which was left of the forest of wickedness, and by whose means wickedness persisted, and was wrought all those years, and goodness never.
+**[36:7]** And I beheld and lo! that vine opened its mouth and spake and said to that cedar: "Art thou not that cedar which was left of the forest of wickedness, and by whose means wickedness persisted, and was wrought all those years, and goodness never.
 
 **[36:8]** And thou didst keep conquering that which was not thine, and to that which was thine thou didst never show compassion, and thou didst keep extending thy power over those who were far from thee, and those who drew nigh thee thou didst hold fast in the toils of thy wickedness, and thou didst uplift thyself always as one that could not be rooted out!
 
-**[36:9]** But now thy time has sped and thine hour is come.
+**[36:9]** But now thy time has sped and thy hour is come.
 
-**[36:10]** Do thou also therefore depart O cedar, after the forest. which departed before thee, and become dust with it. And let your ashes be mingled together,
+**[36:10]** Do thou also therefore depart O cedar, after the forest. which departed before thee, and become dust with it, and let your ashes be mingled together,
 
-**[36:11]** And now recline in anguish and rest in torment till thy last time come, in which thou wilt come again, and be tormented still more.'
+**[36:11]** And now recline in anguish and rest in torment till thy last time come, in which thou wilt come again, and be tormented still more."
 
 **[37:12]** And after these things I saw that cedar burning, and the vine glowing, itself and all around it, the plain full of unfading flowers. 
 
@@ -529,33 +529,33 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[38:4]** For Thou knowest that my soul hath always walked in Thy law, and from my (earliest) days I departed not from Thy wisdom.'
 
-**[39:1]** And He answered and said unto me: 'Baruch, this is the interpretation of the vision which thou hast seen.
+**[39:1]** And He answered and said unto me: "This is the interpretation of the vision which thou hast seen.
 
-**[39:2]** As thou hast seen the great forest which lofty and rugged mountains surrounded, this is the word.
+**[39:2]** As thou hast seen the great forest which lofty and precipitous mountains surrounded, this is the word.
 
 **[39:3]** Behold! the days come, and this kingdom will be destroyed which once destroyed Zion, and it will be subjected to that which comes after it.
 
 **[39:4]** Moreover, that also again after a time will be destroyed, and another, a third, will arise, and that also will have dominion for its time, and will be destroyed.
 
-**[39:5]** And after these things a fourth kingdom will arise, whose power will be harsh and evil far beyond those which were before it, and it will rule many times as the forests on the plain, and it will hold fast for times, and will exalt itself more than the cedars of Lebanon.
+**[39:5]** And after these things a fourth kingdom will arise, whose power will be harsh and evil far beyond those which were before it, and it will rule many times as the forests on the plain, and it will hold fast the times, and will exalt itself more than the cedars of Lebanon.
 
 **[39:6]** And by it the truth will be hidden, and all those who are polluted with iniquity will flee to it, as evil beasts flee and creep into the forest.
 
-**[39:7]** And it will come to pass when the time of its consummation that it should fall has approached, then the principate of My Messiah will be revealed, which is like the fountain and the vine, and when it is revealed it will root out the multitude of its host.
+**[39:7]** And it will come to pass when the time of its consummation that he should fall has approached, then the principate of My Messiah will be revealed, which is like the fountain and the vine, and when it is revealed it will root out the multitude of its host.
 
-**[39:8]** And as touching that which thou hast seen, the lofty cedar, which was left of that forest, and the fact, that the vine spoke those words with it which thou didst hear, this is the word.
+**[39:8]** And that which thou hast seen, the lofty cedar, which was left of that forest, and with regard to this fact, that the vine spoke those words with it which thou didst hear, this is the word.
 
-**[40:1]** The last leader of that time will be left alive, when the multitude of his hosts will be put to the sword, and he will be bound, and they will take him up to Mount Zion, and My Messiah will convict him of all his impieties, and will gather and set before him all the works of his hosts.
+**[40:1]** The last leader of that time will be left alive, when the multitude of his hosts will be put to the sword and be bound, and they will take him up to Mount Zion, and My Messiah will convict him of all his impieties, and will gather and set before him all the works of his hosts.
 
 **[40:2]** And afterwards he will put him to death, and protect the rest of My people which shall be found in the place which I have chosen.
 
 **[40:3]** And his principate will stand for ever, until the world of corruption is at an end, and until the times aforesaid are fulfilled.
 
-**[40:4]** This is thy vision, and this is its interpretation.'
+**[40:4]** This is thy vision, and this is its interpretation."
 
-**[41:1]** And I answered and said: 'For whom and for how many shall these things be? or who will be worthy to live at that time?
+**[41:1]** And I answered and said: "To whom will these things be, or how many (will they be)? or who will be worthy to live at that time?
 
-**[41:2]** For I will speak before thee everything that I think, and I will ask of Thee regarding those things which I meditate.
+**[41:2]** For I will speak before Thee everything that I think, and I will ask of Thee regarding those things which I meditate.
 
 **[41:3]** For lo! I see many of Thy people who have withdrawn from Thy covenant, and cast from them the yoke of Thy law.
 
@@ -563,63 +563,63 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[41:5]** What therefore will be to them? or how will the last time receive them?
 
-**[41:6]** Or perhaps the time of these will assuredly be weighed, and as the beam inclines will they be judged accordingly?'
+**[41:6]** Or perhaps the time of these will assuredly be weighed, and as the beam inclines will they be judged accordingly?"
 
 **[42:1]** And He answered and said unto me:
 
-**[42:2]** 'These things also will I show unto thee. As for what thou didst say -- "To whom will these things be, and how many (will they be)?"- to those who have believed there shall be the good which was spoken of aforetime, and to those who despise there shall be the contrary of these things.
+**[42:2]** "These things also will I show unto thee. As for what thou didst say -- 'To whom will these things be, and how many (will they be)?'- to those who have believed there will be the good which was spoken of aforetime, and to those who despise there shall be the contrary of these things.
 
-**[42:3]** And as for what thou didst say regarding those who have drawn near and those who have withdrawn this is the word.
+**[42:3]** And as for what thou didst say regarding those who have drawn near and those who have withdrawn, this is the word.
 
-**[42:4]** As for those who were before subject, and afterwards withdrew and mingled themselves with the seed of mingled peoples, the time of these was the former and was accounted as something exalted.
+**[42:4]** As for those who were before subject, and afterwards withdrew and mingled themselves with the seed of mingled peoples, the time of these is the former, and I am meditating deep things.
 
-**[42:5]** And as for those who before knew not but afterwards knew life, and mingled (only) with the seed of the people which had separated itself the time of these (is) the latter, and is accounted as something exalted.
+**[42:5]** And as for those who before knew not but afterwards knew life, and mingled (only) with the seed of the people which had separated itself the time of these (is) the former, I am meditating deep things.
 
 **[42:6]** And time shall succeed to time and season to season, and one shall receive from another, and then with a view to the consummation shall everything be compared according to the measure of the times and the hours of the seasons.
 
-**[42:7]** For corruption shall take those that belong to it, and life those that belong to it.
+**[42:7]** For corruption will take those that belong to it, and life those that belong to it.
 
-**[42:8]** And the dust shall be called, and there shall be said to it: "Give back that which is not thine, and raise up all that thou hast kept until its time."
+**[42:8]** And the dust will be called, and there will be said to it: "Give back that which is not thine, and raise up all that thou hast kept until its time."
 
-**[43:1]** 'But, do thou, Baruch, direct thy heart to that which has been said to thee, And understand those things which have been shown to thee; For there are many eternal consolations for thee.
+**[43:1]** 'But, do thou, Baruch, strengthen thy heart to that which has been said to thee, and understand those things which have been shown to thee; For there are many eternal consolations for thee.
 
-**[43:2]** For thou shalt depart from this place, And thou shalt pass from the regions which are now seen by thee, And thou shalt forget whatever is corruptible, And shalt not again recall those things which happen among mortals.
+**[43:2]** For thou wilt depart from this place, and thou wilt pass from the regions which are now seen by thee, and thou wilt forget whatever is corruptible, and wilt not again recall those things which happen among mortals.
 
-**[43:3]** Go therefore and command thy people, and come to this place, and afterwards fast seven days, and then I will come to thee and speak with thee.'
+**[43:3]** Go therefore and command thy people, and come to this place, and afterwards fast seven days, and then I will come to thee and speak with thee."
 
-**[44:1]** And I, Baruch, went from thence, and came to my people, and I called my first-born son and [the Gedaliahs] my friends, and seven of the elders of the people, and I said unto them:
+**[44:1]** And I, Baruch, went from thence, and came to my people, and I called my first-born son and the Gedaliahs my friends, and seven of the elders of the people, and I said unto them:
 
-**[44:2]** 'Behold, I go unto my fathers According to the way of all the earth.
+**[44:2]** 'Behold, I go unto my fathers according to the way of all the earth.
 
-**[44:3]** But withdraw ye not from the way of the law, But guard and admonish the people which remain; Lest they withdraw from the commandments of the Mighty One,
+**[44:3]** But withdraw ye not from the way of the law, but guard and admonish the people which remain; Lest they withdraw from the commandments of the Mighty One.
 
-**[44:4]** For ye see that He whom we serve is just, And our Creator is no respecter of persons.
+**[44:4]** For ye see that He whom we serve is just, and our Creator is no respecter of persons.
 
-**[44:5]** And see ye what hath befallen Zion, And what hath happened to Jerusalem.
+**[44:5]** And see ye what hath befallen Zion, and what hath happened to Jerusalem.
 
-**[44:6]** For the judgement of the Mighty One shall (thereby) be made known, And His ways, which, though past finding out, are right.
+**[44:6]** For the judgement of the Mighty One will (thereby) be made known, and His ways, which, though past finding out, are right.
 
-**[44:7]** For if ye endure and persevere in His fear, And do not forget His law, The times shall change over you for good. And ye shall see the consolation of Zion.
+**[44:7]** For if ye endure and persevere in His fear, and do not forget His law, the times will change over you for good, and ye will see the consolation of Zion.
 
-**[44:8]** Because whatever is now is nothing, But that which shall be is very great. For everything that is corruptible shall pass away,
+**[44:8]** Because whatever is now is nothing, but that which shall be is very great. 
 
-**[44:9]** And everything that dies shall depart, And all the present time shall be forgotten, Nor shall there be any remembrance of the present time, which is defiled with evils.
+**[44:9]** For everything that is corruptible will pass away, and everything that dies will depart, and all the present time shall be forgotten, nor shall there be any remembrance of the present time, which is defiled with evils.
 
-**[44:10]** For that which runs now runs unto vanity, And that which prospers shall quickly fall and be humiliated.
+**[44:10]** For that which runs now runs unto vanity, and that which prospers shall quickly fall and be humiliated.
 
-**[44:11]** For that which is to be shall be the object of desire, And for that which comes afterwards shall we hope; For it is a time that passes not away,
+**[44:11]** For that which is to be shall be the object of desire, and on that which comes afterwards do we place hope; for it is a time that passes not away.
 
-**[44:12]** And the hour comes which abides for ever. And the new world (comes) which does not turn to corruption those who depart to its blessedness, And has no mercy on those who depart to torment, And leads not to perdition those who live in it.
+**[44:12]** And the hour comes which abides for ever, and the new world which does not turn to corruption those who depart to its blessedness, and has no mercy on those who depart to torment, and will not lead to perdition those who live in it.
 
-**[44:13]** For these are they who shall inherit that time which has been spoken of, And theirs is the inheritance of the promised time.
+**[44:13]** For these are they who shall inherit that time which has been spoken of, and theirs is the inheritance of the promised time.
 
-**[44:14]** These are they who have acquired for themselves treasures of wisdom, And with them are found stores of understanding, And from mercy have they not withdrawn, And the truth of the law have they preserved.
+**[44:14]** These are they who have acquired for themselves treasures of wisdom, and with them are found stores of understanding, and from mercy have they not withdrawn, and the truth of the law have they preserved.
 
-**[44:15]** For to them shall be given the world to come, But the dwelling of the rest who are many shall be in the fire.'
+**[44:15]** For to them shall be given the world to come, but the dwelling of the rest who are many shall be in the fire.'
 
 **[45:1]** 'Do ye therefore so far as ye are able instruct the people, for that labour is ours.
 
-**[45:2]** For if ye teach them, ye will quicken them.'
+**[45:2]** For if ye teach them, ye will quicken them."
 
 **[46:1]** And my son and the elders of the people answered and said unto me: 'Has the Mighty One humiliated us to such a degree As to take thee from us quickly?
 
