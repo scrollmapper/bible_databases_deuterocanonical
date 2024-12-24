@@ -80,7 +80,7 @@
 
 **[6:10]** And the earth opened its mouth and swallowed them up."
 
-**[7:1]** And after these things I heard that angel saying unto those angels who held the lamps:"Destroy, therefore, and overthrow its wall to its foundations, lest the enemy should boast and say: 'We have overthrown the wall of Zion, and we have burnt the place of the mighty God.'" 
+**[7:1]** And after these things I heard that angel saying unto those angels who held the lamps: "Destroy, therefore, and overthrow its wall to its foundations, lest the enemy should boast and say: 'We have overthrown the wall of Zion, and we have burnt the place of the mighty God.'" 
 
 **[7:2]** And the Spirit restored me to the place where I had been standing before.
 
@@ -98,9 +98,9 @@
 
 **[9:2]** And we rent our garments, and wept, and mourned, and fasted seven days.
 
-**[10:1]** And it came to pass after seven days, that the word of the Lord was upon me, and said unto me:
+**[10:1]** And it came to pass after seven days, that the word of the Lord was upon me, and said unto me: 
 
-**[10:2]** "Tell Jeremiah to go and support the captivity of the people unto Babylon.
+**[10:2]** "Tell Jeremiah to go and confirm the captivity of the people unto Babylon.
 
 **[10:3]** But do thou remain here amid the desolation of Zion, and I will show to thee after these days what will befall at the end of days.'
 
@@ -136,27 +136,27 @@
 
 **[10:19]** And you, ye virgins; who spin fine linen and silk with gold of Ophir, hasten and take all things and cast (them) into the fire, that it may bear them to Him who made them, and the flame send them to Him who created them, lest the enemy get possession of them.'
 
-**[11:1]** Moreover, I, Baruch, say this against thee, Babylon: If thou hadst prospered, And Zion had dwelt in her glory, Yet the grief to us had been great That thou shouldst be equal to Zion.
+**[11:1]** Moreover, I, Baruch, say this against thee, Babylon: If thou hadst prospered, And Zion had dwelt in her glory, it would have been a great grief to us that thou shouldst be equal to Zion.
 
-**[11:2]** But now, lo! the grief is infinite, And the lamentation measureless, For lo! thou art prospered And Zion desolate.
+**[11:2]** But now, lo! the grief is infinite, and the lamentation measureless, for lo! thou art prospered and Zion desolate.
 
-**[11:3]** Who will be judge regarding these things? Or to whom shall we complain regarding that which has befallen us?
+**[11:3]** Who will be judge regarding these things? or to whom shall we complain regarding that which has befallen us?
 
-**[11:4]** O Lord, how hast Thou borne (it)? Our fathers went to rest without grief And lo! the righteous sleep in the earth in tranquillity;
+**[11:4]** O Lord, how hast Thou borne (it)? Our fathers went to rest without grief and lo! the righteous sleep in the earth in tranquillity;
 
-**[11:5]** For they knew not this anguish, Nor yet had they heard of that which had befallen us.
+**[11:5]** For they knew not this anguish, nor yet had they heard of that which had befallen us.
 
-**[11:6]** Would that thou hadst ears, O earth, And that thou hadst a heart, O dust. That ye might go and announce in Sheol, And say to the dead:
+**[11:6]** Would that thou hadst ears, O earth, nd that thou hadst a heart, O dust, that ye might go and announce in Sheol, and say to the dead,
 
-**[11:7]** "Blessed are ye more than we who live."
+**[11:7]** "Blessed are ye more than we who are living."
 
-**[12:1]** But I will say this as I think. And I will speak against thee, O land, which art prospering.
+**[12:1]** But I will say this as I think, and I will speak against thee, O land, which art prospering.
 
-**[12:2]** The noonday does not always burn. Nor do the rays of the sun constantly give light.
+**[12:2]** The noonday does not always burn, nor do the rays of the sun (always) give light.
 
-**[12:3]** Do not expect [and hope] that thou wilt always be prosperous and rejoicing. And be not greatly up-lifted and boastful.
+**[12:3]** Do not conclude or expect that thou wilt always be prosperous and rejoicing, and be not greatly uplifted and boastful.
 
-**[12:4]** For assuredly in its own season shall the (divine) wrath awake against thee. Which now in long-suffering is held in as it were by reins.
+**[12:4]** For assuredly in its own season wrath awake against thee, which now in long-suffering is held in as it were by reins.
 
 **[12:5]** And when I had said these things, I fasted seven days.
 
@@ -168,25 +168,26 @@
 
 **[13:4]** So that, if ever those prosperous cities say: 'Why hath the mighty God brought upon us this retribution?'
 
-**[13:5]** Say thou, to them, thou and those like thee who shall have seen this evil: '(This is the evil) and retribution which is coming upon you and upon your people in its (destined) time that the nations may be thoroughly smitten.
+**[13:5]** Thou and those like thee may say to them (even) ye who have seen: 'This (evil) and these retributions which are coming upon you and upon your people (are sent) in its time that the nations may be perfectly chastened.
 
-**[13:6]** And then they shall be in anguish.
+**[13:6]** And then they will expect.
 
-**[13:7]** And if they say at that time: For how long? Thou wilt say to them:
+**[13:7]** And if they say at that time: When? 
 
-**[13:8]** Ye who have drunk the strained wine, Drink ye also of its dregs, The judgement of the Lofty One Who has no respect of persons."
+**[13:8]** Thou wilt say to them: 'Ye who have drunk the strained wine, drink ye also of its dregs, the judgement of the Lofty One who has no respect of persons.'
 
-**[13:9]** On this account he had aforetime no mercy on His own sons, But afflicted them as His enemies, because they sinned,
+**[13:9]** On this account he had before no mercy on His own sons, But afflicted them as His enemies, because they sinned.
 
-**[13:10]** Then therefore were they chastened That they might be sanctified.
+**[13:10]** They were therefore chastened then that they might receive mercy.
 
-**[13:11]** But now, ye peoples and nations, ye are guilty Because ye have always trodden down the earth, And used the creation unrighteously.
+**[13:11]** But now, ye peoples and nations, ye are debtors because all this time ye have always trodden down the earth, and used the creation unrighteously.
 
-**[13:12]** For I have always benefitted you. And ye have always been ungrateful for the beneficence
+**[13:12]** For I have always benefited you, and ye have always been denied the beneficence."
 
 **[14:1]** And I answered and said: 'Lo! Thou hast shown me the method of the times, and that which shall be alter these things
+and Thou hast said unto me, that the retribution, which has been spoken of by Thee, will be of advantage to the nations. 
 
-**[14:2]** And Thou hast said unto me, that the retribution, which has been spoken of by Thee, shall come upon the nations. And now I know that those who have sinned are many, and they have lived in prosperity, and departed from the world, but that few nations will be left in those times, to whom those words shall be said which Thou didst say.
+**[14:2]** And now I know that those who have sinned are many, and they have lived in prosperity, and departed from the world, but that few nations will be left in those times, to whom those words shall be said which Thou didst say.
 
 **[14:3]** For what advantage is there in this, or what (evil), worse than what we have seen befall us, are we to expect to see?
 
@@ -198,21 +199,21 @@
 
 **[14:7]** And if others did evil, it was due to Zion, that on account of the works of those who wrought good works she should be forgiven, and should not be overwhelmed on account of the works of those who wrought unrighteousness.
 
-**[14:8]** But who, O Lord, my Lord, will comprehend Thy judgement, Or who will search out the profoundness of Thy way? Or who will think out the weight of Thy path?
+**[14:8]** But who, O Lord, my Lord, will comprehend Thy judgement, Or who will search out the profoundness of Thy way? or who will think out the gravity of Thy way?
 
-**[14:9]** Or who will be able to think out Thy incomprehensible counsel? Or who of those that are born has ever found The beginning or end of Thy wisdom?
+**[14:9]** Or who will be able to think out Thy incomprehensible counsel? or who of those that are born has ever found The beginning or end of Thy wisdom?
 
 **[14:10]** For we have all been made like a breath.
 
-**[14:11]** For as the breath ascends involuntarily, and again dies, so it is with the nature of men, who depart not according to their own will, and know not what will befall them in the end.
+**[14:11]** For as the breath ascends from the heart, and returning not is extinguished, so it is with the nature of men, who depart not according to their own will, and know not what will befall them in the end.
 
 **[14:12]** For the righteous justly hope for the end, and without fear depart from this habitation, because they have with Thee a store of works preserved in treasuries.
 
 **[14:13]** On this account also these without fear leave this world, and trusting with joy they hope to receive the world which Thou hast promised them.
 
-**[14:14]** But as for us -- woe to us, who also are now shamefully entreated, and at that time look forward (only) to evils.
+**[14:14]** But unto us there is woe, who also are now shamefully entreated, and at that time look forward (only) to evils.
 
-**[14:15]** But Thou knowest accurately what Thou hast done by means of Thy servants; for we are not able to understand that which is good as Thou art, our Creator.
+**[14:15]** But Thou knowest accurately what Thou hast made on behalf of Thy servants; for we are not able to understand by means of any good thing that Thou art our Creator.
 
 **[14:16]** But again I will speak in Thy presence, O LORD, my Lord.
 
@@ -226,17 +227,17 @@
 
 **[15:2]** And as regards what thou hast said, that the righteous are carried off and the impious are prospered,
 
-**[15:3]** And as regards what thou hast said "Man knows not Thy judgement"
+**[15:3]** And as regards what thou hast said 'Man knows not Thy judgement'--
 
-**[15:4]** -- On this account hear, and I will speak to thee, and hearken, and I will cause thee to hear My words.
+**[15:4]** On this account hear, and I will speak to thee, and hearken, and I will cause thee to hear My words.
 
-**[15:5]** Man would not rightly have understood My judgement, unless he had accepted the law, and I had instructed him in understanding.
+**[15:5]** Man would not rightly have understood My judgement, if he had not accepted the law, and if his fear had not been rooted in understanding.
 
-**[15:6]** But now, because he transgressed wittingly, yea, just on this ground that he wot (thereof), he shall be tormented.
+**[15:6]** But now, because he transgressed though he knew, yea, on account of this also, he shall be tormented because he knew.
 
-**[15:7]** And as regards what thou didst say touching the righteous, that on account of them has this world come, so also again shall that, which is to come, come on their account.
+**[15:7]** And as regards what thou didst say touching the righteous, that on account of them has this world come, nay more, even that which is to come is on their account.
 
-**[15:8]** For this world is to them a strife and a labour with much trouble; and that accordingly which is to come, a crown with great glory.'
+**[15:8]** For this world is to them a trouble and a weariness with much labour; and that accordingly which is to come, a crown with great glory.'
 
 **[16:1]** And I answered and said: 'O LORD, my Lord, lo! the years of this time are few and evil, and who is able in his little time to acquire that which is measureless?'
 
