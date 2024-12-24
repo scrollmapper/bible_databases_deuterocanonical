@@ -385,83 +385,83 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[27:2]** In the first part there shall be the beginning of commotions.
 
-**[27:3]** And in the second part (there shall be) slayings of the great ones.
+**[27:3]** And in the second part (there will be) slayings of the great ones.
 
-**[27:4]** And in the third part the fall of many by death.
+**[27:4]** And in the third part (there will be) the fall of many by death.
 
-**[27:5]** And in the fourth part the sending of the sword.
+**[27:5]** And in the fourth part the sending of desolation.
 
 **[27:6]** And in the fifth part famine and the withholding of rain.
 
 **[27:7]** And in the sixth part earthquakes and terrors.
 
-**[27:8]** And in the eighth part a multitude of spectres and attacks of the Shedim.
+**[27:9]** [Wanting]
 
-**[27:9]** And in the ninth part the fall of fire.
+**[27:10]** And in the ninth part the fall of fire. 
 
-**[27:10]** And in the tenth part rapine and much oppression,
+**[27:11]** And in the tenth part rapine and much oppression.
 
-**[27:11]** And in the eleventh part wickedness and unchastity.
+**[27:12]** And in the eleventh part wickedness and unchastity.
 
-**[27:12]** And in the twelfth part confusion from the mingling together of all those things aforesaid.
+**[27:13]** And in the twelfth part confusion from the mingling together of all those things aforesaid.
 
-**[27:13]** For these parts of that time are reserved, and shall be mingled one with another and minister one to another.
+**[27:14]** For these parts of that time are reserved, and shall be mingled one with another and minister one to another.
 
-**[27:14]** For some shall leave out some of their own, and receive (in its stead) from others, and some complete their own and that of others, so that those may not understand who are upon the earth in those days that this is the consummation of the times.
+**[27:15]** For some will of themselves be of service, and they will receive from others, and from themselves and others they will be perfected, so that those may not understand who are upon the earth in those days of this consummation of the times.
 
-**[28:1]** 'Nevertheless, whosoever understandeth shall then be wise.
+**[28:1]** 'Nevertheless, whosoever shall understand will then be wise.
 
-**[28:2]** For the measure and reckoning of that time are two parts a week of seven weeks.'
+**[28:2]** For the measure and reckoning of that time are two parts week of seven weeks.'
 
-**[28:3]** And I answered and said: 'It is good for a man to come and behold, but it is better that he should not come lest he fall.
+**[28:3]** And I answered and said: "It is good for a man to come and behold, but it is better that he should not come lest he fall.
 
 **[28:4]** [But I will say this also:
 
-**[28:5]** Will he who is incorruptible despise those things which are corruptible, and whatever befalls in the case of those things which are corruptible, so that he might look only to those things which are not corruptible?]
+**[28:5]** 'Will he who is incorruptible despise those things which are corruptible, and whatever befalls in the case of those things which are corruptible, so that he might look only to those things which are not corruptible?']
 
-**[28:6]** But if, O Lord, those things shall assuredly come to pass which Thou hast foretold to me, so do Thou show this also unto me if indeed I have found grace in Thy sight.
+**[28:6]** But if, O Lord, those things shall assuredly come to pass which Thou hast foretold to me; if moreover, I have found grace in Thy sight, show this also unto me.
 
-**[28:7]** Is it in one place or in one of the parts of the earth that those things are come to pass, or will the whole earth experience (them)?'
+**[28:7]** Is it in one place or in one of the parts of the earth that those things are come to pass, or will the whole earth experience (them)?"
 
-**[29:1]** And He answered and said unto me: 'Whatever will then befall (will befall) the whole earth; therefore all who live will experience (them).
+**[29:1]** And He answered and said unto me: "Whatever will then befall will belong the whole earth; therefore all who live will experience (them).
 
 **[29:2]** For at that time I will protect only those who are found in those self-same days in this land.
 
-**[29:3]** And it shall come to pass when all is accomplished that was to come to pass in those parts, that the Messiah shall then begin to be revealed.
+**[29:3]** And it will come to pass when all is accomplished that was to come to pass in those parts, that the Messiah will then begin to be revealed.
 
-**[29:4]** And Behemoth shall be revealed from his place and Leviathan shall ascend from the sea, those two great monsters which I created on the fifth day of creation, and shall have kept until that time; and then they shall be for food for all that are left.
+**[29:4]** And Behemoth shall be revealed from his place and Leviathan shall ascend from the sea, those two great monsters which I created on the fifth day of creation, and I kept until that time; and then they will be for food for all that are left.
 
-**[29:5]** The earth also shall yield its fruit ten thousandfold and on each (?) vine there shall be a thousand branches, and each branch shall produce a thousand clusters, and each cluster produce a thousand grapes, and each grape produce a cor of wine.
+**[29:5]** The earth also shall yield its fruit ten thousandfold, and one vine there shall be a thousand branches, and each branch shall produce a thousand clusters, and each cluster produce a thousand grapes, and each grape produce a cor of wine.
 
-**[29:6]** And those who have hungered shall rejoice: moreover, also, they shall behold marvels every day.
+**[29:6]** And those who have hungered will rejoice: moreover, also, they shall behold marvels every day.
 
 **[29:7]** For winds shall go forth from before Me to bring every morning the fragrance of aromatic fruits, and at the close of the day clouds distilling the dew of health.
 
 **[29:8]** And it shall come to pass at that self-same time that the treasury of manna shall again descend from on high, and they will eat of it in those years, because these are they who have come to the consummation of time.
 
-**[30:1]** And it shall come to pass after these things, when the time of the advent of the Messiah is fulfilled, that He shall return in glory. Then all who have fallen asleep in hope of Him shall rise again.
+**[30:1]** And it will come to pass after these things, when the time of the advent of the Messiah is fulfilled, that He will return in glory, then all who have fallen asleep in hope of Him shall rise again.
 
-**[30:2]** And it shall come to pass at that time that the treasuries will be opened in which is preserved the number of the souls of the righteous, and they shall come forth, and a multitude of souls shall be seen together in one assemblage of one thought, and the first shall rejoice and the last shall not be grieved.
+**[30:2]** And it will come to pass at that time that the treasuries will be opened in which is preserved the number of the souls of the righteous, and they will come forth, and a multitude of souls will be seen together in one assemblage of one thought, and the first shall rejoice and the last will not be grieved.
 
-**[30:3]** For they know that the time has come of which it is said, that it is the consummation of the times.
+**[30:3]** For he knows that the time has come of which it is said, that it is the consummation of the times.
 
 **[30:4]** But the souls of the wicked, when they behold all these things, shall then waste away the more.
 
-**[30:5]** For they shall know that their torment has come and their perdition has arrived.'
+**[30:5]** For they will know that their torment has come and their perdition has arrived."
 
-**[31:1]** And it came to pass after these things: that I went to the people and said unto them: 'Assemble unto me all your elders and I will speak words unto them.'
+**[31:1]** And it came to pass after these things that I went to the people and said unto them: 'Assemble unto me all your elders and I will speak words unto them.'
 
 **[31:2]** And they all assembled in the valley of the Cedron.
 
-**[31:3]** And I answered and said unto them: Hear, O Israel, and I will speak to thee, And give ear, O seed of Jacob, and I will instruct thee.
+**[31:3]** And I answered and said unto them: "Hear, O Israel, and I will speak to thee, And give ear, O seed of Jacob, and I will instruct thee.
 
-**[31:4]** Forget not Zion, But hold in remembrance the anguish of Jerusalem.
+**[31:4]** Forget not Zion, but hold in remembrance the anguish of Jerusalem.
 
-**[31:5]** For lo! the days come, When everything that is shall become the prey of corruption And be as though it had not been.
+**[31:5]** For lo! the days come, when everything that exists will become the prey of corruption and be as though it had not been.
 
-**[32:1]** 'But as for you, if ye prepare your hearts, so as to sow in them the fruits of the law, it shall protect you in that time in which the Mighty One is to shake the whole creation.
+**[32:1]** 'But ye, if ye prepare your hearts, so as to sow in them the fruits of the law, it will protect you in that time in which the Mighty One is to shake the whole creation.
 
-**[32:2]** [Because after a little time the building of Zion will be shaken in order that it may be built again.
+**[32:2]** [Because after a little time the building of Zion will be shaken in order that it may again be built.
 
 **[32:3]** But that building will not remain, but will again after a time be rooted out, and will remain desolate until the time.
 
@@ -471,29 +471,29 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[32:6]** For there will be a greater trial than these two tribulations when the Mighty One will renew His creation.
 
-**[32:7]** And now do not draw near to me for a few days, nor seek me till I come to you.'
+**[32:7]** And now do not draw near to me for a few days, nor seek me till I come to you."
 
 **[32:8]** And it came to pass when I had spoken to them all these words, that I, Baruch, went my way, and when the people saw me setting out, they lifted up their voice and lamented and said:
 
-**[32:9]** 'Whither departest thou from us, Baruch, and forsakest us as a father who forsakes his orphan children, and departs from them?
+**[32:9]** "Whither departest thou from us, Baruch, and forsakest us as a father who forsakes his orphan children, and departs from them?
 
-**[33:1]** 'Are these the commands which thy companion, Jeremiah the prophet, commanded thee, and said unto thee:
+**[33:1]** "Are these the commands which thy companion, Jeremiah the prophet, commanded thee, and said unto thee:
 
 **[33:2]** "Look to this people till I go and make ready the rest of the brethren in Babylon, against whom has gone forth the sentence that they should be led into captivity"?
 
-**[33:3]** And now if thou also forsakest us, it were good for us all to die before thee, and then that thou shouldst withdraw from us.'
+**[33:3]** And now if thou also forsakest us, it were good for us all to die before thee, and then that thou shouldst withdraw from us."
 
-**[34:4]** And I answered and said unto the people: 'Far be it from me to forsake you or to withdraw from you, but I will only go unto the Holy of Holies to inquire of the Mighty One concerning you and concerning Zion, if in some respect I should receive more illumination: and after these things I will return to you.'
+**[34:4]** And I answered and said unto the people: "Far be it from me to forsake you or to withdraw from you, but I will only go unto the Holy of Holies to inquire of the Mighty One concerning you and concerning Zion, if in some respect I should receive more illumination: and after these things I will return to you."
 
 **[35:1]** And I, Baruch, went to the holy place, and sat down upon the ruins and wept, and said:
 
-**[35:2]** 'O that mine eyes were springs, And mine eyelids a fount of tears.
+**[35:2]** "Become ye springs, O mine eyes, and ye, mine eyelids, a fount of tears.
 
-**[35:3]** For how shall I lament for Zion, And how shall I mourn for Jerusalem?
+**[35:3]** For how shall I lament for Zion, and how shall I mourn for Jerusalem?
 
-**[35:4]** Because in that place where I am now prostrate, Of old the high priest offered holy sacrifices, And placed thereon an incense of fragrant odours.
+**[35:4]** Because in that place where I am now prostrate, Of old the high priest used to offer holy sacrifices, and to place thereon the smoke of thea incense of fragrant odours.
 
-**[35:5]** But now our glorying has been made into dust, And the desire of our soul into sand.'
+**[35:5]** But now our glorying has been made into dust, and the desire of our soul into sand.'
 
 **[36:1]** And when I had said these things I fell asleep there, and I saw a vision in the night.
 
