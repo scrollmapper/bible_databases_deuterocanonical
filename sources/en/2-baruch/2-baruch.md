@@ -741,63 +741,63 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[49:1]** Nevertheless, I will again ask from Thee, O Mighty One, yea, I will ask mercy from Him who made all things.
 
-**[49:2]** "In what shape will those live who live in Thy day? Or how will the splendour of those who (are) after that time continue?
+**[49:2]** 'In what shape will those live who live in Thy day? or how will the splendour of those who (are) after that time continue?
 
-**[49:3]** Will they then resume this form of the present, And put on these entrammelling members, Which are now involved in evils, And in which evils are consummated, Or wilt Thou perchance change these things which have been in the world, As also the world?" '
+**[49:3]** Will they then resume this form of the present, and put on these entrammelling members, which are now involved in evils, and in which evils are consummated, or wilt Thou perchance change these things which have been in the world, as also the world?' 
 
-**[50:1]** And He answered and said unto me: 'Hear, Baruch, this word, And write in the remembrance of thy heart all that thou shalt learn.
+**[50:1]** And He answered and said unto me: "Hear, Baruch, this word, and write in the remembrance of thy heart all that thou shalt learn.
 
-**[50:2]** For the earth shall then assuredly restore the dead, [Which it now receives, in order to preserve them]. It shall make no change in their form, But as it has received, so shall it restore them, And as I delivered them unto it, so also shall it raise them.
+**[50:2]** For the earth shall then assuredly restore the dead, which it now receives, in order to preserve them, making no change in their form, but as it has received, so shall it restore them, and as I delivered them unto it, so also shall it raise them.
 
 **[50:3]** For then it will be necessary to show to the living that the dead have come to life again, and that those who had departed have returned (again).
 
-**[50:4]** And it shall come to pass, when they have severally recognized those whom they now know, then judgement shall grow strong, and those things which before were spoken of shall come.
+**[50:4]** And it shall come to pass, when they have severally recognized those whom they now know, then judgement will grow strong, and those things which before were spoken of will come.
 
-**[51:1]** And it shall come to pass, when that appointed day has gone by, that then shall the aspect of those who are condemned be afterwards changed, and the glory of those who are justified.
+**[51:1]** "And it will come to pass, when that appointed day has gone by, that then shall the aspect of those who are condemned be afterwards changed, and the glory of those who are justified.
 
-**[51:2]** For the aspect of those who now act wickedly shall become worse than it is, as they shall suffer torment.
+**[51:2]** For the aspect of those who now act wickedly shall become worse than is that of such as suffer torment.
 
-**[51:3]** Also (as for) the glory of those who have now been justified in My law, who have had understanding in their life, and who have planted in their heart the root of wisdom, then their splendour shall be glorified in changes, and the form of their face shall be turned into the light of their beauty, that they may be able to acquire and receive the world which does not die, which is then promised to them.
+**[51:3]** Also (as for) the glory of those who have now been justified in My law, who have had understanding in their life, and who have planted in their heart the root of wisdom, then their splendour shall be glorified in changes, and the form of their face will be turned into the light of their beauty, that they may be able to acquire and receive the world which does not die, which is then promised to them.
 
-**[51:4]** For over this above all shall those who come then lament, that they rejected My law, and stopped their ears that they might not hear wisdom or receive understanding.
+**[51:4]** For over this above all will those who come then lament, that they rejected My law, and stopped their ears that they might not hear wisdom or receive understanding.
 
-**[51:5]** When therefore they see those, over whom they are now exalted, (but) who shall then be exalted and glorified more than they, they shall respectively be transformed, the latter into the splendour of angels, and the former shall yet more waste away in wonder at the visions and in the beholding of the forms.
+**[51:5]** When therefore they see those, over whom they are now exalted, (but) who shall then be exalted and glorified more than they, they shall respectively be transformed, the latter into the splendour of angels, and the former will mainly waste away in wonder at the visions and in the beholding of the forms.
 
-**[51:6]** For they shall first behold and afterwards depart to be tormented.
+**[51:6]** For they will first behold and afterwards depart to be tormented.
 
-**[51:7]** But those who have been saved by their works. And to whom the law has been now a hope, And understanding an expectation, And wisdom a confidence, Shall wonders appear in their time.
+**[51:7]** But those who have been saved by their works, and to whom the law has been now a hope, and understanding an expectation, and wisdom a confidence, will wonders appear in their time.
 
-**[51:8]** For they shall behold the world which is now invisible to them, And they shall behold the time which is now hidden from them:
+**[51:8]** For they will behold the world which is now invisible to them, and they will behold the time which is now hidden from them:
 
-**[51:9]** And time shall no longer age them.
+**[51:9]** And again time will not age them.
 
-**[51:10]** For in the heights of that world shall they dwell, And they shall be made like unto the angels, And be made equal to the stars, And they shall be changed into every form they desire, From beauty into loveliness, And from light into the splendour of glory.
+**[51:10]** For in the heights of that world shall they dwell, and they shall be made like unto the angels, and be made equal to the stars, and they shall be changed into every form they desire, from beauty into loveliness, and from light into the splendour of glory.
 
 **[51:11]** For there shall be spread before them the extents of Paradise, and there shall be shown to them the beauty of the majesty of the living creatures which are beneath the throne, and all the armies of the angels, who [are now held fast by My word, lest they should appear, and] are held fast by a command, that they may stand in their places till their advent comes.
 
 **[51:12]** Moreover, there shall then be excellency in the righteous surpassing that in the angels.
 
-**[51:13]** For the first shall receive the last, those whom they were expecting, and the last those of whom they used to hear that they had passed away.
+**[51:13]** For the first will receive the last, those whom they were expecting, and the last those of whom they used to hear that they had passed away.
 
-**[51:14]** For they have been delivered from this world of tribulation, And laid down the burden of anguish.
+**[51:14]** For they have been delivered from this world of tribulation, and laid down the burthen of anguish.
 
-**[51:15]** For what then have men lost their life, And for what have those who were on the earth exchanged their soul?
+**[51:15]** For what then have men lost their life, and for what have those who were on the earth exchanged their soul?
 
-**[51:16]** For then they chose (not) for themselves this time, Which, beyond the reach of anguish, could not pass away: But they chose for themselves that time, Whose issues are full of lamentations and evils, And they denied the world which ages not those who come to it, And they rejected the time of glory, So that they shall not come to the honour of which I told thee before.'
+**[51:16]** For then they chose (not) for themselves that time, which, beyond the reach of anguish, could not pass away, and they chose for themselves that time, whose issues are full of lamentations and evils, and they denied the world which ages not those who come to it, and they rejected the time of the glory, so that they shall not come to the honour of which I told thee before."
 
-**[52:1]** And I answered and said: How can we forget those for whom woe is then reserved?
+**[52:1]** And I answered and said: "How do those who forget those for whom woe is then reserved?
 
-**[52:2]** And why therefore do we again mourn for those who die? Or why do we weep for those who depart to Sheol?
+**[52:2]** And why therefore do we again mourn for those who die? or why do we weep for those who depart to Sheol?
 
-**[52:3]** Let lamentations be reserved for the beginning of that coming torment, And let tears be laid up for the advent of the destruction of that time.
+**[52:3]** Let lamentations be reserved for the beginning of that coming torment, and let tears be laid up for the advent of the destruction of that time.
 
-**[52:4]** [But even in the face of these things will I speaks
+**[52:4]** But even in the face of these things I will speak.
 
-**[52:5]** And as for the righteous, what will they do now?
+**[52:5]** [And as for the righteous, what will they do now?
 
-**[52:6]** Rejoice ye in the suffering which ye now suffer: For why do ye look for the decline of your enemies?
+**[52:6]** Rejoice ye in the suffering which ye now suffer: for why do ye look for the decline of your enemies?
 
-**[52:7]** Make ready your soul for that which is reserved for you, And prepare your souls for the reward which is laid up for you.']
+**[52:7]** Make ready your soul for that which is reserved for you, and prepare your souls for the reward which is laid up for you."]
 
 **[53:1]** And when I had said these things I fell asleep there, and I saw a vision, and lo! a cloud was ascending from a very great sea, and I kept gazing upon it, and lo! it was full of waters white and black, and there were many colours in those self-same waters, and as it were the likeness of great lightning was seen at its summit.
 
@@ -807,11 +807,13 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[53:4]** And I saw that there was not one and the same likeness in the waters which descended from it.
 
-**[53:5]** For in the first beginning they were black and many for a time, and afterwards I saw that the waters became bright, but they were not many, and after these things again I saw black (waters), and after these things again bright, and again black and again bright how this was done twelve times, but the black were always more numerous than the bright.
+**[53:5]** For in the first beginning they were black exceedingly for a time, and afterwards I saw that the waters became bright, but they were not many, and after these things again I saw black (waters), and after these things again bright, and again black and again bright.
 
-**[53:6]** And it came to pass at the end of the cloud, that lo! it rained black waters, and they were darker than had been all those waters that were before, and fire was mingled with them, and where those waters descended, they wrought devastation and destruction.
+**[53:6]** Now this was done twelve times, but the black were always more numerous than the bright.
 
-**[53:7]** And after these things I saw how that lightning which I had seen on the summit of the cloud, seized hold of it and hurled it to the earth.
+**[53:7]** And it came to pass at the end of the cloud, that lo! it rained black waters, and they were darker than had been all those waters that were before, and fire was mingled with them, and where those waters descended, they wrought devastation and destruction.
+
+**[53:8]** And I saw after these things that lightning which I had seen on the summit of the cloud, that it held it fast and made it descend to the earth.
 
 **[53:9]** Now that lightning shone exceedingly, so as to illuminate the whole earth, and it healed those regions where the last waters had descended and wrought devastation.
 
@@ -821,49 +823,49 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[53:12]** And by reason of my fear I awoke.
 
-**[54:1]** And I besought the Mighty One, and said: Thou alone, O Lord, knowest of aforetime the deep things of the world, And the things which befall in their times Thou bringest about by Thy word, And against the works of the inhabitants of the earth Thou dost hasten the beginnings of the times, And the end of the seasons Thou alone knowest.
+**[54:1]** And I besought the Mighty One, and said: "Thou alone, O Lord, knowest of aforetime the deep things of the world, and the things which befall in their times Thou bringest about by Thy word, And against the works of the inhabitants of the earth Thou dost hasten the beginnings of the times, and the end of the seasons Thou alone knowest.
 
-**[54:2]** (Thou) for whom nothing is too hard, But who dost everything easily by a nod:
+**[54:2]** For whom nothing is too hard, but Thou doest everything easily by a nod:
 
-**[54:3]** (Thou) to whom the depths come as the heights, And whose word the beginnings of the ages serve:
+**[54:3]** To whom the depths come as the heights are accessible, and the beginnings of the ages minister to Thy word.
 
-**[54:4]** (Thou) who revealest to those who fear Thee what is prepared for them, That thenceforth they may be comforted.
+**[54:4]** Who revealeth to those who fear Thee what is prepared for them, that He may thereby console them.
 
-**[54:5]** Thou showest great acts to those who know not; Thou breakest up the enclosure of those who are ignorant, And lightest up what is dark, And revealest what is hidden to the pure, [Who in faith have submitted themselves to Thee and Thy law.]
+**[54:5]** Thou showest great acts to those who know not; Thou breakest up the enclosure of those who are ignorant, and lightest up what is dark, and revealest what is hidden to the pure, who in faith have submitted themselves to Thee and Thy law.
 
-**[54:6]** Thou hast shown to Thy servant this vision; Reveal to me also its interpretation.
+**[54:6]** Thou hast shown to Thy servant this vision; reveal to me also its interpretation.
 
-**[54:7]** For I know that as regards those things wherein I besought Thee, I have received a response, And as regards what I besought, Thou didst reveal to me with what voice I should praise Thee, And from what members I should cause praises and hallelujahs to ascend to Thee.
+**[54:7]** For I know that as regards those things wherein I besought Thee, I have received a response, and as regards what I besought, Thou didst reveal to me, and didst show me with what voice I should praise Thee, or from what members I should cause praises and hallelujahs to ascend to Thee.
 
-**[54:8]** For if my members were mouths, And the hairs of my head voices, Even so I could not give Thee the meed of praise, Nor laud thee as is befitting, Nor could I recount Thy praise, Nor tell the glory of Thy beauty.
+**[54:8]** For if my members were mouths, and the hairs of my head voices, even so I could not give Thee the meed of praise, nor laud thee as is befitting, nor could I recount Thy praise, nor tell the glory of Thy beauty.
 
-**[54:9]** For what am I amongst men, Or why am I reckoned amongst those who are more excellent than I, That I have heard all these marvelous things from the Most High, And numberless promises from Him who created me?
+**[54:9]** For what am I amongst men, or why am I reckoned amongst those who are more excellent than I, that I have heard all those marvellous things from the Most High, and good tidings numberless from Him who created me?
 
-**[54:10]** Blessed be my mother among those that bear, And praised among women be she that bare me.
+**[54:10]** Blessed be my mother among those that bear, and praised among women be she that bare me.
 
-**[54:11]** For I will not be silent in praising the Mighty One, And with the voice of praise I will recount His marvellous deeds.
+**[54:11]** For I will not be silent in praising the Mighty One, and with the voice of praise I will recount His marvellous deeds.
 
-**[54:12]** For who doeth like unto Thy marvellous deeds, O God, Or who comprehendeth Thy deep thought of life.
+**[54:12]** For who doeth like unto Thy marvellous deeds, O God, or who comprehendeth Thy deep thought of life?
 
-**[54:13]** For with Thy counsel Thou dost govern all the creatures which Thy right hand has created, And Thou hast established every fountain of light beside Thee, And the treasures of wisdom beneath Thy throne hast Thou prepared.
+**[54:13]** For with Thy counsel Thou dost govern all the creatures which Thy right hand has created, and Thou hast established every fountain of light beside Thee, and the treasures of wisdom beneath Thy throne hast Thou prepared.
 
-**[54:14]** And justly do they perish who have not loved Thy law, And the torment of judgement shall await those who have not submitted themselves to Thy power.
+**[54:14]** And justly do they perish who have not loved Thy law, and the torment of judgement shall await those who have not submitted themselves to Thy power.
 
-**[54:15]** For though Adam first sinned And brought untimely death upon all, Yet of those who were born from him Each one of them has prepared for his own soul torment to come, And again each one of them has chosen for himself glories to come.
+**[54:15]** For though Adam first sinned and brought untimely death upon all, yet of those who were born from him each one of them has prepared for his own soul torment to come, and again each one of them has chosen for himself glories to come.
 
-**[54:16]** [For assuredly he who believeth will receive reward.
+[**[54:16]** For assuredly he who believeth will receive reward.
 
-**[54:17]** But now, as for you, ye wicked that now are, turn ye to destruction, because ye shall speedily be visited, in that formerly ye rejected the understanding of the Most High.
+**[54:17]** But now, as for you, ye wicked that now are, turn ye to destruction, because ye will speedily be visited, in that formerly ye rejected the understanding of the Most High.
 
 **[54:18]** For His works have not taught you, Nor has the skill of His creation which is at all times persuaded you.]
 
-**[54:19]** Adam is therefore not the cause, save only of his own soul, But each of us has been the Adam of his own soul.
+**[54:19]** Adam is therefore not the cause, save only of his own soul, but each of us has been the Adam of his own soul.
 
-**[54:20]** But do Thou, O Lord, expound to me regarding those things which Thou hast revealed to me, And inform me regarding that which I besought Thee.
+**[54:20]** But do Thou, O Lord, expound to me regarding those things which Thou hast revealed to me, and inform me regarding that which I besought Thee.
 
-**[54:21]** For at the consummation of the world vengeance shall be taken upon those who have done wickedness according to their wickedness, And Thou wilt glorify the faithful according to their faithfulness.
+**[54:21]** For at the consummation of the world there will be vengeance taken upon those who have done wickedness according to their wickedness, and Thou wilt glorify the faithful according to their faithfulness.
 
-**[54:22]** For those who are amongst Thine own Thou rulest, And those who sin Thou blottest out from amongst Thine own.'
+**[54:22]** For those who are amongst Thine own Thou rulest, And those who sin Thou blottest out from amongst Thine own."
 
 **[55:1]** And it came to pass when I had finished speaking the words of this prayer, that I sat there under a tree, that I might rest in the shade of the branches.
 
