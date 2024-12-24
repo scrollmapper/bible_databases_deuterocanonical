@@ -621,109 +621,109 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[45:2]** For if ye teach them, ye will quicken them."
 
-**[46:1]** And my son and the elders of the people answered and said unto me: 'Has the Mighty One humiliated us to such a degree As to take thee from us quickly?
+**[46:1]** And my son and the elders of the people answered and said unto me: "Has the Mighty One humiliated us to such a degree as to take thee from us quickly?
 
-**[46:2]** And truly we shall be in darkness, And there shall be no light to the people who are left For where again shall we seek the law,
+**[46:2]** And truly we shall be in darkness, and there will be no light to the people who are left. 
 
-**[46:3]** Or who will distinguish for us between death and life?'
+**[46:3]** For where again shall we seek the law, or who will distinguish for us between death and life?"
 
-**[46:4]** And I said unto them: 'The throne of the Mighty One I cannot resist; Nevertheless, there shall not be wanting to Israel a wise man Nor a son of the law to the race of Jacob.
+**[46:4]** And I said unto them: "The throne of the Mighty One I cannot resist: nevertheless, there shall not be wanting to Israel a wise man nor a son of the law to the race of Jacob.
 
-**[46:5]** But only prepare ye your hearts, that ye may obey the law, And be subject to those who in fear are wise and understanding; And prepare your souls that ye may not depart from them.
+**[46:5]** But only prepare ye your hearts, that ye may hear the law, and be subject to those who in fear are wise and understanding; and prepare your souls that ye may not depart from them.
 
-**[46:6]** For if ye do these things, Good tidings shall come unto you. [Which I before told you of; nor shall ye fall into the torment, of which I testified to you before.'
+**[46:6]** For if ye do these things, good tidings will come unto you. Which I before told you of; nor shall ye fall into the torment, of which I testified to you before."
 
-**[46:7]** But with regard to the word that I was to be taken I did not make (it) known to them or to my son.]
+[**[46:7]** But with regard to the word that I was to be taken, I did not make (it) known to them or to my son.]
 
-**[47:1]** And when I had gone forth and dismissed them, I went thence and said unto them: 'Behold! I go to Hebron: for thither the Mighty One hath sent me.'
+**[47:1]** And when I had gone forth and dismissed them, I went thence and said unto them: "Behold! I go to Hebron: for thither the Mighty One hath sent me."
 
 **[47:2]** And I came to that place where the word had been spoken unto me, and I sat there, and fasted seven days.
 
-**[48:1]** And it came to pass after the seventh day, that I prayed before the Mighty One and said
+**[48:1]** And it came to pass after the seventh day, that I prayed before the Mighty One and said:
 
-**[48:2]** 'O my Lord, Thou summonest the advent of the times, And they stand before Thee; Thou causest the power of the ages to pass away, And they do not resist Thee; Thou arrangest the method of the seasons, And they obey Thee.
+**[48:2]** "O my Lord, Thou summonest the advent of the times, and they stand before Thee; Thou causest the power of the ages to pass away, and they do not resist Thee; Thou arrangest the method of the seasons, and they obey Thee.
 
-**[48:3]** Thou alone knowest the duration of the generations, And Thou revealest not Thy mysteries to many.
+**[48:3]** Thou alone knowest the goal of the generations, and Thou revealest not Thy mysteries to many.
 
-**[48:4]** Thou makest known the multitude of the fire, And Thou weighest the lightness of the wind.
+**[48:4]** Thou makest known the multitude of the fire, and Thou weighest the lightness of the wind.
 
-**[48:5]** Thou explorest the limit of the heights, And Thou scrutinizest the depths of the darkness.
+**[48:5]** Thou explorest the limit of the heights, and Thou scrutinisest the depths of the darkness.
 
 **[48:6]** Thou carest for the number which pass away that they may be preserved And Thou preparest an abode for those that are to be.
 
-**[48:7]** Thou rememberest the beginning which Thou hast made, And the destruction that is to be Thou forgettest not.
+**[48:7]** Thou rememberest the beginning which Thou hast made, and the destruction that is to be Thou forgettest not.
 
-**[48:8]** With nods of fear and indignation Thou commandest the flames, And they change into spirits, And with a word Thou quickenest that which was not, And with mighty power Thou holdest that which has not yet come.
+**[48:8]** With nods of fear and indignation Thou commandest the flames, and they change into spirits, and with a word Thou quickenest that which was not, and with mighty power Thou holdest that which has not yet come.
 
-**[48:9]** Thou instructest created things in the understanding of Thee, And Thou makest wise the spheres so as to minister in their orders.
+**[48:9]** Thou instructest created things in the understanding of Thee, and Thou makest wise the spheres so as to minister in their orders.
 
-**[48:10]** Armies innumerable stand before Thee And minister in their orders quietly at Thy nod.
+**[48:10]** Armies innumerable stand before Thee and minister in their orders quietly at Thy nod.
 
-**[48:11]** Hear Thy servant And give ear to my petition.
+**[48:11]** Hear Thy servant and give ear to my petition.
 
-**[48:12]** For in a little time are we born, And in a little time do we return.
+**[48:12]** For in a little time are we born, and in a little time do we return.
 
-**[48:13]** But with Thee hours are as a time, And days as generations.
+**[48:13]** But with Thee hours are as a time, and days as generations.
 
-**[48:14]** Be not therefore wroth with man; for he is nothing And take not account of our works; For what are we?
+**[48:14]** Be not therefore wroth with man; for he is nothing And take not account of our works; 
 
-**[48:15]** For lo! by Thy gift do we come into the world, And we depart not of our own will.
+**[48:15]** For what are we? For lo! by Thy gift do we come into the world, and we depart not of our own will.
 
-**[48:16]** For we said not to our parents, "Beget us," Nor did we send to Sheol and say, "Receive us."
+**[48:16]** For we said not to our parents, 'Beget us,' nor did we send to Sheol and say, 'Receive us.'
 
-**[48:17]** What therefore is our strength that we should bear Thy wrath Or what are we that we should endure Thy judgement?
+**[48:17]** What therefore is our strength that we should bear Thy wrath, or what are we that we should endure Thy judgement?
 
-**[48:18]** Protect us in Thy compassions, And in Thy mercy help us.
+**[48:18]** Protect us in Thy compassions, and in Thy mercy help us.
 
-**[48:19]** Behold the little ones that are subject unto Thee, And save all that draw nigh unto Thee: And destroy not the hope of our people, And cut not short 'the times of our aid.
+**[48:19]** Behold the little ones that are subject unto Thee, and save all that draw nigh unto Thee, and destroy not the hope of our people, and cut not short the times of our aid.
 
-**[48:20]** For this is the nation which Thou hast chosen, And these are the people, to whom Thou findest no equal.
+**[48:20]** For this is the nation which Thou hast chosen, and these are the people, to whom Thou findest no equal.
 
-**[48:21]** But I will speak now before Thee, And I will say as my heart thinketh.
+**[48:21]** But I will speak now before Thee, and I will say as my heart thinketh.
 
-**[48:22]** 'In Thee do we trust, for lo! Thy law is with us, And we know that we shall not fall so long as we keep Thy statutes.
+**[48:22]** In Thee do we trust, for lo! Thy law is with us, and we know that we shall not fall so long as we keep Thy statutes.
 
-**[48:23]** [To all time are we blessed at all events in this that we have not mingled with the Gentiles.] For we are all one celebrated people, Who have received one law from One:
+**[48:23]** In this at least we are always blest that we have not mingled with the Gentiles.
 
-**[48:24]** And the law which is amongst us will aid us, And the surpassing wisdom which is in us will help us.'
+**[48:24]** For we are all named one people, who have received one law from One, and the law which is amongst us will aid us, and the surpassing wisdom which is in us will help us."
 
 **[48:25]** And when I had prayed and said these things, I was greatly weakened.
 
-**[48:26]** And He answered and said unto me: Thou hast prayed simply, O Baruch, And all thy words have been heard.
+**[48:26]** And He answered and said unto me: "Thou hast prayed simply, O Baruch, and all thy words have been heard.
 
-**[48:27]** But My judgement exacts its own And My law exacts its rights.'
+**[48:27]** But My judgement exacts its own and My law exacts its rights.
 
-**[48:28]** For from thy words I will answer thee, And from thy prayer I will speak to thee.
+**[48:28]** For from thy words I will answer thee, and from thy prayer I will speak to thee.
 
 **[48:29]** For this is as follows: he that is corrupted is not at all; he has both wrought iniquity so far as he could do anything, and has not remembered My goodness, nor accepted My long-suffering.
 
-**[48:30]** I Therefore thou shalt surely be taken up, as I before told thee.
+**[48:30]** Therefore thou shalt surely be taken up, as I before told thee.
 
-**[48:31]** For that time shall arise which brings affliction; for it shall come and pass by with quick vehemence, and it shall be turbulent coming in the heat of indignation.
+**[48:31]** For that time shall arise which brings affliction; for it shall come and pass by with quick vehemence, and it will be turbulent coming in the heat of indignation.
 
 **[48:32]** And it shall come to pass in those days that all the inhabitants of the earth shall be moved one against another, because they know not that My judgement has drawn nigh.
 
-**[48:33]** For there shall not be found many wise at that time, And the intelligent shall be but a few: Moreover, even those who know shall most of all be silent.
+**[48:33]** For there will not be found many wise at that time, and the intelligent will be but a few: moreover, even those who know will most of all be silent.
 
-**[48:34]** And there shall be many rumours and tidings not a few, And the doings of phantasmata shall be manifest, And promises not a few be recounted. Some of them (shall prove) idle, And some of them shall be confirmed.
+**[48:34]** And there will be many rumours and tidings not a few, and the works of portents shall be manifest, and promises not a few be recounted, and some of them (will prove) idle, and some of them shall be confirmed.
 
-**[48:35]** And honour shall be turned into shame, And strength humiliated into contempt, And probity destroyed, And beauty shall become ugliness.
+**[48:35]** And honour will be turned into shame, and strength humiliated into contempt, and probity destroyed, And beauty will become a scorn.
 
-**[48:36]** And many shall say to many at that time: "Where hath the multitude of intelligence hidden itself, And whither hath the multitude of wisdom removed itself?"
+**[48:36]** And many will say to many at that time: 'Where hath the multitude of intelligence hidden itself, and whither hath the multitude of wisdom removed itself?'
 
-**[48:37]** And whilst they are meditating these things, Then envy shall arise in those who had not thought aught of themselves (?) And passion shall seize him that is peaceful, And many shall be stirred up in anger to injure many, And they shall rouse up armies in order to shed blood, And in the end they shall perish together with them.
+**[48:37]** And whilst they are meditating these things, then zeal will arise in those of whom they thought not, and passion will seize him who is peaceful, and many shall be roused in anger to injure many, and they shall rouse up armies in order to shed blood, and in the end they shall perish together with them.
 
-**[48:38]** And it shall come to pass at the self-same time, That a change of times shall manifestly appear to every man, Because in all those times they polluted themselves And they practised oppression, And walked every man in his own works, And remembered not the law of the Mighty One.
+**[48:38]** And it will come to pass at the self-same time, that a change of times shall manifestly appear to every man, by reason of which in all those times they were polluted and practised oppression, and walked every man in his own works, and remembered not the law of the Mighty One.
 
-**[48:39]** Therefore a fire shall consume their thoughts, And in flame shall the meditations of their reins be tried; For the Judge shall come and will not tarry.
+**[48:39]** Therefore a fire shall consume their thoughts, and in flame shall the meditations of their reins be tried; for the Judge will come and will not tarry.
 
-**[48:40]** Because each of the inhabitants of the earth knew when he was transgressing. But My Law they knew not by reason of their pride.
+**[48:40]** Because each of the inhabitants of the earth knew when he was commiting iniquty, and they have not known My law by reason of their pride.
 
-**[48:41]** But many shall then assuredly weep, Yea, over the living more than over the dead.'
+**[48:41]** For many will then assuredly weep, yea, over the living more than over the dead."
 
-**[48:42]** And I answered and said: 'O Adam, what hast thou done to all those who are born from thee? And what will be said to the first Eve who hearkened to the serpent?
+**[48:42]** And I answered and said: "O Adam, what hast thou done to all those who are born from thee? and what will be said to the first Eve who hearkened to the serpent?
 
-**[48:43]** For all this multitude are going to corruption, Nor is there any numbering of those whom the fire devours.
+**[48:43]** For all this multitude are going to corruption, nor is there any numbering of those whom the fire devours.
 
 **[48:44]** But again I will speak in Thy presence.
 
@@ -731,13 +731,13 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[48:46]** For Thou didst of old command the dust to produce Adam, and Thou knowest the number of those who are born from him, and how far they have sinned before Thee, who have existed and not confessed Thee as their Creator.
 
-**[48:47]** And as regards all these their end shall convict them, and Thy law which they have transgressed shall requite them on Thy day.'
+**[48:47]** And as regards all these their end shall convict them, and Thy law which they have transgressed shall requite them on Thy day.
 
-**[48:48]** ['But now let us dismiss the wicked and inquire about the righteous.
+[**[48:48]** But now let us dismiss the wicked and enquire about the righteous.
 
-**[48:49]** And I will recount their blessedness And not be silent in celebrating their glory, which is reserved for them.
+**[48:49]** And I will recount their blessedness and not be silent in celebrating their glory, which is reserved for them.
 
-**[48:50]** For assuredly as in a little time in this transitory world in which ye live, ye have endured much labour, So in that world to which there is no end, ye shall receive great light.']
+**[48:50]** For assuredly as in a little time in this world which passeth away, in which ye live, ye have endured much labour, so in that world to which there is no end, ye shall receive great light."]
 
 **[49:1]** Nevertheless, I will again ask from Thee, O Mighty One, yea, I will ask mercy from Him who made all things.
 
