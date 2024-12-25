@@ -395,19 +395,19 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[27:7]** And in the sixth part earthquakes and terrors.
 
-**[27:9]** [Wanting]
+**[27:8]** [Wanting]
 
-**[27:10]** And in the ninth part the fall of fire. 
+**[27:9]** And in the ninth part the fall of fire. 
 
-**[27:11]** And in the tenth part rapine and much oppression.
+**[27:10]** And in the tenth part rapine and much oppression.
 
-**[27:12]** And in the eleventh part wickedness and unchastity.
+**[27:11]** And in the eleventh part wickedness and unchastity.
 
-**[27:13]** And in the twelfth part confusion from the mingling together of all those things aforesaid.
+**[27:12]** And in the twelfth part confusion from the mingling together of all those things aforesaid.
 
-**[27:14]** For these parts of that time are reserved, and shall be mingled one with another and minister one to another.
+**[27:13]** For these parts of that time are reserved, and shall be mingled one with another and minister one to another.
 
-**[27:15]** For some will of themselves be of service, and they will receive from others, and from themselves and others they will be perfected, so that those may not understand who are upon the earth in those days of this consummation of the times.
+**[27:14]** For some will of themselves be of service, and they will receive from others, and from themselves and others they will be perfected, so that those may not understand who are upon the earth in those days of this consummation of the times.
 
 **[28:1]** 'Nevertheless, whosoever shall understand will then be wise.
 
@@ -873,19 +873,19 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[55:3]** And when I was pondering on these things and the like, lo! the angel Ramiel who presides over true visions was sent to me, and he said unto me:
 
-**[55:4]** 'Why does thy heart trouble thee, Baruch, and why does thy thought disturb thee?
+**[55:4]** Why does thy heart trouble thee, Baruch, and why does thy thought disturb thee?
 
 **[55:5]** For if owing to the report which thou hast only heard of judgement thou art so moved, What (wilt thou be) when thou shalt see it manifestly with thine eyes?
 
-**[55:6]** And if with the expectation wherewith thou dost expect the day of the Mighty One thou art so overcome, What (wilt thou be) when thou shalt come to its advent?
+**[55:6]** And if with the expectation wherewith thou dost expect the day of the Mighty One thou art so overcome, what (wilt thou be) when thou shalt come to its advent?
 
-**[55:7]** And, if at the word of the announcement of the torment of those who have done foolishly thou art so wholly distraught, How much more when the event will reveal marvellous things?
+**[55:7]** And, if at the word of the announcement of the torment of those who have done foolishly thou art so wholly distraught, how much more when the event will reveal marvellous things?
 
-**[55:8]** And if thou hast heard tidings of the good and evil things which are then coming and art grieved, What (wilt thou be) when thou shalt behold what the majesty will reveal, Which shall convict these and cause those to rejoice.'
+**[55:8]** And if thou hast heard tidings of the good and evil things which are then coming and art grieved, what (wilt thou be) when thou shalt behold what the majesty will reveal, which shall convict these and cause those to rejoice?
 
-**[56:1]** Nevertheless, because thou hast besought the Most High to reveal to thee the interpretation of the vision which thou hast seen,
+**[56:1]** Nevertheless, because thou hast besought the Most High to reveal to thee the interpretation of the vision which thou hast seen, I have been sent to tell thee.
 
-**[56:2]** I have been sent to tell thee. And the Mighty One hath assuredly made known to thee the methods of the times that have passed, and of those that are destined to pass in His world from the beginning of its creation even unto its consummation, of those things which (are) deceit and of those which (are) in truth.
+**[56:2]** And the Mighty One hath assuredly made known to thee the methods of the times that have passed, and of those that are destined to pass in His world from the beginning of its creations even unto its consummation, of those things which (are) deceit and of those which (are) in truth.
 
 **[56:3]** For as thou didst see a great cloud which ascended from the sea, and went and covered the earth, this is the duration of the world which the Mighty One made when he took counsel to make the world.
 
@@ -893,7 +893,7 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[56:5]** And as thou didst previously see on the summit of the cloud black waters which descended previously on the earth, this is the transgression wherewith Adam the first man transgressed.
 
-**[56:6]** For [since] when he transgressed Untimely death came into being, Grief was named And anguish was prepared, And pain was created, And trouble consummated, And disease began to be established, And Sheol kept demanding that it should be renewed in blood, And the begetting of children was brought about, And the passion of parents produced, And the greatness of humanity was humiliated, And goodness languished.
+**[56:6]** For owing to his transgression untimely death came into being, and grief was named and anguish was prepared, and pain was created, and trouble perfected, And boasting began to be established, And Sheol to demand that it should be renewed in blood, and the begetting of children was brought about, and the passion of parents produced, and the greatness of humanity was humiliated, and goodness languished.
 
 **[56:7]** What therefore can be blacker or darker than these things?
 
@@ -901,7 +901,7 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[56:9]** And from these black (waters) again were black derived, and the darkness of darkness was produced.
 
-**[56:10]** For he became a danger to his own soul: even to the angels became he a danger.
+**[56:10]** For he was a danger to his own soul: even to the angels was he a danger.
 
 **[56:11]** For, moreover, at that time when he was created, they enjoyed liberty.
 
@@ -909,67 +909,67 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[56:13]** And then those who did so were tormented in chains.
 
-**[56:14]** But the rest of the multitude of the angels, of which there is (no) number, restrained themselves.
+**[56:14]** But the rest of the multitude of the angels, of which there is no number, restrained themselves.
 
 **[56:15]** And those who dwelt on the earth perished together (with them) through the waters of the deluge.
 
 **[56:16]** These are the black first waters.
 
-**[57:1]** And after these (waters) thou didst see bright waters: this is the fount of Abraham, also his generations and advent of his son, and of his son's son, and of those like them.
+**[57:1]** "And after these (waters) thou didst see bright waters: this is the fount of Abraham, also his generations and advent of his son, and of his son's son, and of those like them.
 
-**[57:2]** Because at that time the unwritten law was named amongst them, And the works of the commandments were then fulfilled, And belief in the coming judgement was then generated, And hope of the world that was to be renewed was then built up, And the promise of the life that should come hereafter was implanted.
+**[57:2]** Because at that time the unwritten law was named amongst them, and the works of the commandments were then fulfilled, and belief in the coming judgement was then generated, and hope of the world that was to be renewed was then built up, and the promise of the life that should come hereafter was implanted.
 
 **[57:3]** These are the bright waters, which thou hast seen.
 
-**[58:1]** And the black third waters which thou hast seen, these are the mingling of all sins, which the nations afterwards wrought after the death of those righteous men, and the wickedness of the land of Egypt, wherein they did wickedly in the service wherewith they made their sons to serve.
+**[58:1]** "And the black third waters which thou hast seen, these are the mingling of all sins, which the nations afterwards wrought after the death of those righteous men, and the wickedness of the land of Egypt, wherein they did wickedly in the service wherewith they made their sons to serve.
 
 **[58:2]** Nevertheless, these also perished at last.
 
-**[59:1]** And the bright fourth waters which thou hast seen are the advent of Moses and Aaron and Miriam and Joshua the son of Nun and Caleb and of all those like them.
+**[59:1]** "And the bright fourth waters which thou hast seen are the advent of Moses and Aaron and Miriam and Joshua the son of Nun and Caleb and of all those like them.
 
 **[59:2]** For at that time the lamp of the eternal law shone on all those who sat in darkness, which announced to them that believe the promise of their reward, and to them that deny, the torment of fire which is reserved for them.
 
-**[59:3]** But also the heavens at that time were shaken from their place, and those who were under the throne of the Mighty One were perturbed, when He was taking Moses unto Himself
+**[59:3]** But also the heavens at that time were shaken from their place, and those who were under the throne of the Mighty One were perturbed, when He was taking Moses unto Himself.
 
-**[59:4]** For He showed him many admonitions together with the principles of the law and the consummation of the times, as also to thee, and likewise the pattern of Zion and its measures, in the pattern of which the sanctuary of the present time was to be made.
+**[59:4]** For He showed him many admonitions together with the principles of the law and the consummation of time, as also to thee, and likewise the pattern of Zion and its measures, which was made to be in the pattern of the sanctuary of the present time.
 
-**[59:5]** But then also He showed to him the measures of the fire, also the depths of the abyss, and the weight of the winds, and the number of the drops of rain:
+**[59:5]** But then also He showed to him the measures of the fire, also the depths of the abyss, and the weight of the winds, and the number of the drops of rain.
 
-**[59:6]** And the suppression of anger, and the multitude of long-suffering, and the truth of judgement:
+**[59:6]** And the suppression of anger, and the multitude of long-suffering, and the truth of judgement.
 
-**[59:7]** And the root of wisdom, and the riches of understanding, and the fount of knowledge:
+**[59:7]** And the root of wisdom, and the riches of understanding, and the fount of knowledge.
 
-**[59:8]** And the height of the air, and the greatness of Paradise, and the consummation of the ages, and the beginning of the day of judgement:
+**[59:8]** And the height of the air, and the greatness of Paradise, and the consummation of the ages, and the beginning of the day of judgement.
 
-**[59:9]** And the number of the offerings, and the earths which have not yet come:
+**[59:9]** And the number of the offerings, and the earths which have not yet come.
 
-**[59:10]** And the mouth of Gehenna, and the station of vengeance, and the place of faith, and the region of hope:
+**[59:10]** And the mouth of Gehenna, and the station of vengeance, and the place of faith, and the region of hope.
 
-**[59:11]** And the likeness of future torment, and the multitude of innumerable angels, and the flaming hosts, and the splendour of the lightning and the voice of the thunders, and the orders of the chiefs of the angels, and the treasuries of light, and the changes of the times, and the investigations of the law.
+**[59:11]** And the likeness of future torment, and the multitude of innumerable angels, and the powers of the flames, and the splendour of the lightnings, and the voice of the thunders, and the orders of the chiefs of the angels, and the treasuries of light, and the changes of the times, and the investigations of the law.
 
 **[59:12]** These are the bright fourth waters which thou hast seen.
 
-**[60:1]** 'And the black fifth waters which thou hast seen raining are the works which the Amorites wrought, and the spells of their incantations which they wrought, and the wickedness of their mysteries, and the mingling of their pollution.
+**[60:1]** "And the black fifth waters which thou hast seen raining are the works which the Amorites wrought, and the spells of their incantations which they wrought, and the wickedness of their mysteries, and the mingling of their pollution.
 
-**[60:2]** But even Israel was then polluted by sins in the days of the judges, though they saw many sip which were from Him who made them.
+**[60:2]** But even Israel was then polluted by sins in the days of the judges, though they saw many signs which were from Him who made them.
 
-**[61:1]** 'And the bright sixth waters which thou didst see, this is the time in which David and Solomon were born.
+**[61:1]** "And the bright sixth waters which thou didst see, this is the time in which David and Solomon were born.
 
-**[61:2]** And there was at that time the building of Zion, And the dedication of the sanctuary, And the shedding of much blood of the nations that sinned then, And many offerings which were offered then in the dedication of the sanctuary.
+**[61:2]** And there was at that time the building of Zion, and the dedication of the sanctuary, and the shedding of much blood of the nations that sinned then, and many offerings which were offered then in the dedication of the sanctuary.
 
-**[61:3]** And peace and tranquillity existed at that time,
+**[61:3]** And peace and tranquillity existed at that time.
 
-**[61:4]** And wisdom was heard in the assembly: And the riches of understanding were magnified in the congregations,
+**[61:4]** And wisdom was heard in the assembly, and the riches of understanding were magnified in the congregations.
 
-**[61:5]** And the holy festivals were fulfilled in blessedness and in much joy.
+**[61:5]** And the holy festivals were fulfilled in goodness and in much joy.
 
-**[61:6]** And the judgement of the rulers was then seen to be without guile, And the righteousness of the precepts of the Mighty One was accomplished with truth.
+**[61:6]** And the judgement of the rulers was then seen to be without guile, and the righteousness of the precepts of the Mighty One was accomplished with truth.
 
-**[61:7]** And the land [which] was then beloved by the Lord, And because its inhabitants sinned not, it was glorified beyond all lands, And the city Zion ruled then over all lands and regions.
+**[61:7]** And because the land was then beloved at that time, and because its inhabitants sinned not, it was glorified beyond all lands, and the city Zion ruled then over all lands and regions.
 
 **[61:8]** These are the bright waters which thou hast seen.
 
-**[62:1]** 'And the black seventh waters which thou bast seen, this is the perversion (brought about) by the counsel of Jeroboam, who took counsel to make two calves of gold:
+**[62:1]** "And the black seventh waters which thou bast seen, this is the perversion (brought about) by the counsel of Jeroboam, who took counsel to make two calves of gold.
 
 **[62:2]** And all the iniquities which kings who were after him iniquitously wrought.
 
@@ -985,13 +985,13 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[62:8]** These are the black seventh waters which thou hast seen.
 
-**[63:1]** 'And the bright eighth waters which thou hast seen, this is the rectitude and uprightness of Hezekiah king of Judah and the grace (of God) which came upon him.
+**[63:1]** "And the bright eighth waters which thou hast seen, this is the rectitude and uprightness of Hezekiah king of Judah and the benignity which came upon him.
 
 **[63:2]** For when Sennacherib was stirred up in order that he might perish, and his wrath troubled him in order that he might thereby perish, for the multitude also of the nations which were with him.
 
 **[63:3]** When, moreover, Hezekiah the king heard those things which the king of Assyria was devising, (i.e.) to come and seize him and destroy his people, the two and a half tribes which remained: nay, more he wished to overthrow Zion also: then Hezekiah trusted in his works, and had hope in his righteousness, and spake with the Mighty One and said:
 
-**[63:4]** "Behold, for lo! Sennacherib is prepared to destroy us, and he will be boastful and uplifted when he has destroyed Zion."
+**[63:4]** 'Behold, for lo! Sennacherib is prepared to destroy us, and he will be boastful and uplifted when he has destroyed Zion.'
 
 **[63:5]** And the Mighty One heard him, for Hezekiah was wise, And He had respect unto his prayer, because he was righteous.
 
@@ -1001,13 +1001,13 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[63:8]** And at that time I burned their bodies within, but their raiment and arms I preserved outwardly, in order that the still more wonderful deeds of the Mighty One might appear, and that thereby His name might be spoken of throughout the whole earth.
 
-**[63:9]** And Zion was saved and Jerusalem delivered: Israel also was freed from tribulation.
+**[63:9]** Moreover, Zion was saved and Jerusalem delivered: Israel also was freed from tribulation.
 
 **[63:10]** And all those who were in the holy land rejoiced, and the name of the Mighty One was glorified so that it was spoken of.
 
 **[63:11]** These are the bright waters which thou hast seen.
 
-**[64:1]** 'And the black ninth waters which thou hast seen, this is all the wickedness which was in the days of Manasseh the son of Hezekiah.
+**[64:1]** "And the black ninth waters which thou hast seen, this is all the wickedness which was in the days of Manasseh the son of Hezekiah.
 
 **[64:2]** For he wrought much impiety, and he slew the righteous, and he wrested judgement. and he shed the blood of the innocent, and wedded women he violently polluted, and he overturned the altars, and destroyed their offerings, and drove forth their priests lest they should minister in the sanctuary.
 
@@ -1021,9 +1021,9 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[64:7]** On this account Manasseh was at that time named "the impious", and finally his abode was in the fire.
 
-**[64:8]** For though his prayer was heard with the Most High, finally, when he was cast into the brazen horse and the brazen horse was melted, it served as a sign unto him for the hour.
+**[64:8]** For though his prayer was heard with the Most High, finally, when he was cast into the brazen horse and the brazen horse was melted, it served as a sign unto him at the time.
 
-**[64:9]** For he had not lived perfectly, for he was not worthy but that thenceforward he might know by whom finally he should be tormented.
+**[64:9]** For he had not lived perfectly, for he was not worthy- but that thenceforward he might know by whom finally he should be tormented.
 
 **[64:10]** For he who is able to benefit is also able to torment.
 
