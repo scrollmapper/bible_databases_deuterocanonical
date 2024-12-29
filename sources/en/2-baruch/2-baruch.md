@@ -1031,41 +1031,41 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[65:2]** These are the black ninth waters which thou hast seen.
 
-**[66:1]** 'And the bright tenth waters which thou hast seen: this is the purity of the generations of Josiah king of Judah, who was the only one at the time who submitted himself to the Mighty One with all his heart and with all his soul.
+**[66:1]** "And the bright tenth waters which thou hast seen: this is the purity of the generations of Josiah king of Judah, who was the only one at the time who submitted himself to the Mighty One with all his heart and with all his soul.
 
-**[66:2]** And he cleansed the land from idols, and hallowed all the vessels which had been polluted, and restored the offerings to the altar, and raised the horn of the holy, and exalted the righteous, and honoured all that were wise in understanding, and brought back the priests to their ministry, and destroyed and removed the magicians and enchanters and necromancers from the land.
+**[66:2]** And he cleansed the land from idols, and hallowed all the vessels which had been polluted, and restored the offerings to the altar, and raised the horn of the holy, and exalted the righteous, and honoured all that were wise in understanding, and brought back the priests to their ministry, and destroyed and removed the magicians and enchanters and fortune-tellers from the land.
 
 **[66:3]** And not only did he slay the impious that were living, but they also took from the sepulchres the bones of the dead and burned them with fire.
 
-**[66:4]** [And the festivals and the sabbaths he established in their sanctity], and their polluted ones he burnt in the fire, and the lying prophets which deceived the people these also he burnt in the fire, and the people who listened to them when they were living, he cast them into the brook Cedron, and heaped stones upon them.
+**[66:4]** [And the festivals and the sabbaths he established in their sanctity], and their polluted ones he burnt in the fire, and the lying prophets which deceived the people, these also he burnt in the fire, and the people who listened to them when they were living, he cast them into the brook Cedron, and heaped stones upon them.
 
-**[66:5]** And he was zealous with zeal for the Mighty One with all his soul, and he alone was firm in the law at that time, so that he left none that was uncircumcised, or that wrought impiety in all the land, all the days of his life.
+**[66:5]** And he was zealous with zeal of the Mighty One with all his soul, and he alone was firm in the law at that time, so that he left none that was uncircumcised, or that wrought impiety in all the land, all the days of his life.
 
-**[66:6]** Therefore he shall receive an eternal reward, and he shall be glorified with the Mighty One beyond many at a later time.
+**[66:6]** This, moreover, is he that shall receive an eternal reward, and he shall be glorified with the Mighty One beyond many at a later time.
 
-**[66:7]** For on his account and on account of those who are like him were the honourable glories, of which thou wast told before, created and prepared.
+**[66:7]** For on his account and on account of those who are like him were the inestimable glories, of which thou wast told before, created and prepared.
 
 **[66:8]** These are the bright waters which thou hast seen.
 
-**[67:1]** 'And the black eleventh waters which thou hast seen: this is the calamity which is now befalling Zion.
+**[67:1]** "And the black eleventh waters which thou hast seen: this is the calamity which is now befalling Zion.
 
-**[67:2]** Dost thou think that there is no anguish to the angels in the presence of the Mighty One, That Zion was so delivered up, And that lo! the Gentiles boast in their hearts, And assemble before their idols and say, "She is trodden down who oft times trod down, And she has been reduced to servitude who reduced (others)"?
+**[67:2]** Dost thou think that there is no anguish to the angels in the presence of the Mighty One, that Zion was so delivered up, and that lo! the Gentiles boast in their hearts, and assemble before their idols and say, 'She is trodden down who ofttimes trod down, and she has been reduced to servitude who reduced (others)'?
 
 **[67:3]** Dost thou think that in these things the Most High rejoices, Or that His name is glorified?
 
-**[67:4]** [But how will it serve towards His righteous judgement?]
+**[67:4]** But how will it serve towards His righteous judgement?
 
-**[67:5]** Yet after these things shall the dispersed among the Gentiles be taken hold of by tribulation, And in shame shall they dwell in every place.
+**[67:5]** Yet after these things shall those that are dispersed among the Gentiles be taken hold of by tribulation, and in shame shall they dwell in every place.
 
-**[67:6]** Because so far as Zion is delivered up And Jerusalem laid waste, Shall idols prosper in the cities of the Gentiles, And the vapour of the smoke of the incense of the righteousness which is by the law is extinguished in Zion, And in the region of Zion in every place lo! there is the smoke of impiety.
+**[67:6]** Because so far as Zion is delivered up and Jerusalem laid waste, and idols prosper in the cities of the Gentiles, and the vapour of the smoke of the incense of the righteousness which is by the law is extinguished in Zion and in the region of Zion in every place lo! there is the smoke of impiety.
 
-**[67:7]** But the king of Babylon will arise who has now destroyed Zion, And he will boast over the people, And he will speak great things in his heart in the presence of the Most High.
+**[67:7]** But the king of Babylon will arise who has now destroyed Zion, and he will boast over the people, and he will speak great things in his heart in the presence of the Most High.
 
 **[67:8]** But he also shall fall at last.
 
 **[67:9]** These are the black waters.
 
-**[68:1]** 'And the bright twelfth waters which thou hast seen: this is the word.
+**[68:1]** "And the bright twelfth waters which thou hast seen: this is the word.
 
 **[68:2]** For after these things a time will come when thy people shall fall into distress, so that they shall all run the risk of perishing together.
 
@@ -1081,7 +1081,7 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[68:9]** These are the bright waters which thou hast seen.
 
-**[69:1]** 'For the last waters which thou hast seen which were darker than all that were before them, those which were after the twelfth number, which were collected together, belong to the whole world.
+**[69:1]** "For the last waters which thou hast seen which were darker than all that were before them, those which were after the twelfth number, which were collected together, belong to the whole world.
 
 **[69:2]** For the Most High made division from the beginning, because He alone knows what will befall.
 
@@ -1093,33 +1093,33 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[70:1]** 'Hear therefore the interpretation of the last black waters which are to come [after the black]: this is the word.
 
-**[70:2]** Behold! the days come, and it shall be when the time of the age has ripened, And the harvest of its evil and good seeds has come, That the Mighty One will bring upon the earth and its inhabitants and upon its rulers Perturbation of spirit and stupor of heart. And they shall hate one another, And provoke one another to fight,
+**[70:2]** Behold! the days come, and it shall be when the time of the age has ripened, and the harvest of its evil and good seeds has come, that the Mighty One will bring upon the earth and its inhabitants and upon its rulers perturbation of spirit and stupor of heart. 
 
-**[70:3]** And the mean shall rule over the honourable, And those of low degree shall be extolled above the famous.
+*[70:3]** And they will hate one another, and provoke one another to fight, and the mean will rule over the honourable, and those of low degree shall be extolled above the famous.
 
-**[70:4]** And the many shall be delivered into the hands of the few, And those who were nothing shall rule over the strong, And the poor shall have abundance beyond the rich, And the impious shall exalt themselves above the heroic.
+**[70:4]** And the many will be delivered into the hands of the few, and those who are nothing will rule over the strong, and the poor shall have abundance beyond the rich, and the impious will exalt themselves above the heroic.
 
-**[70:5]** And the wise shall be silent, And the foolish shall speak, Neither shall the thought of men be then confirmed, Nor the counsel of the mighty, Nor shall the hope of those who hope be confirmed.
+**[70:5]** And the wise shall be silent, and the foolish shall speak, neither will the thought of men be then confirmed, nor the counsel of the mighty, nor shall the hope of those who hope be confirmed.
 
-**[70:6]** And when those things which were predicted have come to pass, Then shall confusion fall upon all men, And some of them shall fall in battle, And some of them shall perish in anguish, And some of them shall be destroyed by their own.
+**[70:6]** Moreover, it will be when those things which were predicted have come to pass, that confusion will fall upon all men, and some of them will fall in battle, and some of them will perish in anguish, and some of them will be destroyed by their own.
 
-**[70:7]** Then the Most High will reveal those peoples whom He has prepared before, And they shall come and make war with the leaders that shall then be left.
+**[70:7]** Then the Most High will reveal those peoples whom He has prepared before, and they will come and make war with the leaders that shall then be left.
 
-**[70:8]** And it shall come to pass that whosoever gets safe out of the war shall die in the earthquake, And whosoever gets safe out of the earthquake shall be burned by the fire, And whosoever gets safe out of the fire shall be destroyed by famine.
+**[70:8]** And it will come to pass that whosoever gets safe out of the war will die in the earthquake, and whosoever gets safe out of the earthquake will be burned by the fire, and whosoever gets safe out of the fire will be destroyed by famine.
 
-**[70:9]** [And it shall come to pass that whosoever of the victors and the vanquished gets safe out of and escapes all these things aforesaid will be delivered into the hands of My servant Messiah.]
+[**[70:9]** And it shall come to pass that whosoever of the victors and the vanquished gets safe out of and escapes all these things aforesaid will be delivered into the hands of My servant Messiah.]
 
-**[70:10]** For all the earth shall devour its inhabitants.
+**[70:10]** For all the earth will devour its inhabitants.
 
-**[71:1]** 'And the holy land shall have mercy on its own, And it shall protect its inhabiters at that time.
+**[71:1]** "And the holy land will have mercy on its own, and it will protect its inhabiters at that time.
 
 **[71:2]** This is the vision which thou hast seen, and this is the interpretation.
 
 **[71:3]** For I have come to tell thee these things, because thy prayer has been heard with the Most High.
 
-**[72:1]** 'Hear now also regarding the bright lightning which is to come at the consummation after these black (waters): this is the word.
+**[72:1]** "Hear now also regarding the bright lightning which is to come at the consummation after these black (waters): this is the word.
 
-**[72:2]** After the signs have come, of which thou wast told before, when the nations become turbulent, and the time of My Messiah is come, he shall both summon all the nations, and some of them he shall spare, and some of them he shall slay.
+**[72:2]** After the signs have come, of which thou wast told before, when the nations become turbulent, and the time of My Messiah is come, He will both summon all the nations, and some of them He will spare, and some of them He will slay.
 
 **[72:3]** These things therefore shall come upon the nations which are to be spared by Him.
 
@@ -1129,43 +1129,43 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[72:6]** But all those who have ruled over you, or have known you, shall be given up to the sword.
 
-**[73:1]** 'And it shall come to pass, when He has brought low everything that is in the world, And has sat down in peace for the age on the throne of His kingdom, That joy shall then be revealed, And rest shall appear.
+**[73:1]** "And it will come to pass, when He has brought low everything that is in the world, and has sat down in peace for the age on the throne of His kingdom, that joy shall then be revealed, and rest appear.
 
-**[73:2]** And then healing shall descend in dew, And disease shall withdraw, And anxiety and anguish and lamentation pass from amongst men, And gladness proceed through the whole earth.
+**[73:2]** And then healing will descend in dew, and disease will withdraw, and anxiety and anguish and lamentation will pass from amongst men, and gladness proceed through the whole earth.
 
-**[73:3]** And no one shall again die untimely, Nor shall any adversity suddenly befall.
+**[73:3]** And no one shall again die untimely, nor shall any adversity suddenly befall.
 
-**[73:4]** And judgements, and revilings, and contentions, and revenges, And blood, and passions, and envy, and hatred, And whatsoever things are like these shall go into condemnation when they are removed.
+**[73:4]** And judgements, and revilings, and contentions, and revenges, and blood, and passions, and envy, and hatred, and whatsoever things are like these shall go into condemnation when they are removed.
 
-**[73:5]** For it is these very things which have filled this world with evils, And on account of these the life of man has been greatly troubled.
+**[73:5]** For it is these very things which have filled this world with evils, and on account of these the life of man has been greatly troubled.
 
-**[73:6]** And wild beasts shall come from the forest and minister unto men, And asps and dragons shall come forth from their holes to submit themselves to a little child.
+**[73:6]** And wild beasts will come from the forest and minister unto men, and asps and dragons will come forth from their holes to submit themselves to a little child.
 
-**[73:7]** And women shall no longer then have pain when they bear, Nor shall they suffer torment when they yield the fruit of the womb.
+**[73:7]** And women shall no longer then have pain when they bear, nor will they suffer torment when they yield the fruit of the womb.
 
-**[74:1]** And it shall come to pass in those days that the reapers shall not grow weary, Nor those that build be toil worn; For the works shall of themselves speedily advance Together with those who do them in much tranquillity.
+**[74:1]** And it will come to pass in those days that the reapers will not grow weary, nor those that build be toilworn; for the works will of themselves speedily advance with those who do them in much tranquillity.
 
-**[74:2]** For that time is the consummation of that which is corruptible, And the beginning of that which is not corruptible.
+**[74:2]** For that time is the consummation of that which is corruptible, and the beginning of that which is not corruptible.
 
-**[74:3]** Therefore those things which were predicted shall belong to it: Therefore it is far away from evils, and near to those things which die not.
+**[74:3]** Therefore those things which were predicted will belong to it: therefore it is far away from evils, and near to those things which die not.
 
-**[74:4]** This is the bright lightning which came after the last dark waters.'
+**[74:4]** This is the bright lightning which came after the last dark waters."
 
-**[75:1]** And I answered and said: Who can understand, O Lord, Thy goodness? For it is incomprehensible.
+**[75:1]** And I answered and said: "Who can understand, O Lord, Thy goodness? For it is incomprehensible.
 
-**[75:2]** Or who can search into thy compassions, Which are infinite?
+**[75:2]** Or who can search into thy compassions, which are infinite?
 
 **[75:3]** Or who can comprehend Thy intelligence?
 
 **[75:4]** Or who is able to recount the thoughts of Thy mind?
 
-**[75:5]** Or who of those who are born can hope to come to those things, Unless he is one to whom Thou art merciful and gracious?
+**[75:5]** Or who of those who are born can hope to come to those things, unless he is one to whom Thou art merciful and gracious?
 
-**[75:6]** Because, if assuredly Thou didst not have compassion on man, Those who are under Thy right hand, They could not come to those things, But those who are in the numbers named can be called.
+**[75:6]** Because, if assuredly Thou didst not have compassion on man, those who are under Thy right hand, they could not come to those things, but those who are in the numbers named can be called.
 
-**[75:7]** But if, indeed, we who exist know wherefore we have come, And submit ourselves to Him who brought us out of Egypt, We shall come again and remember those things which have passed, And shall rejoice regarding that which has been.
+**[75:7]** But if, indeed, we who exist know wherefore we have come, and submit ourselves to Him who brought us out of Egypt, we shall come again and remember those things which have passed, and shall rejoice regarding that which has been.
 
-**[75:8]** But if now we know not wherefore we have come, And recognize not the principate of Him who brought us up out of Egypt, We shall come again and seek after those things which have been now, And be grieved with pain because of those things which have befallen.'
+**[75:8]** But if now we know not wherefore we have come, and recognise not the principate of Him who brought us up out of Egypt, we shall come again and seek after those things which were now, and be grieved with pain because of those things which have befallen."
 
 **[76:1]** And He answered and said unto me: ['Inasmuch as the revelation of this vision has been interpreted to thee as thou besoughtest], hear the word of the Most High that thou mayst know what is to befall thee after these things.
 
