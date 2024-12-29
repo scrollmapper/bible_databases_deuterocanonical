@@ -118,7 +118,7 @@
 
 **[3:1]** O Lord Almighty, God of Israel, the soul in anguish the troubled spirit, crieth unto thee.
 
-**[3:2]** Hear, O Lord, and have mercy; ar thou art merciful: and have pity upon us, because we have sinned before thee.
+**[3:2]** Hear, O Lord, and have mercy; for thou art merciful: and have pity upon us, because we have sinned before thee.
 
 **[3:3]** For thou endurest for ever, and we perish utterly.
 
@@ -144,7 +144,7 @@
 
 **[3:14]** Learn where is wisdom, where is strength, where is understanding; that thou mayest know also where is length of days, and life, where is the light of the eyes, and peace.
 
-**[3:15]** Who hath found out her place? or who hath come into her treasures ?
+**[3:15]** Who hath found out her place? or who hath come into her treasures?
 
 **[3:16]** Where are the princes of the heathen become, and such as ruled the beasts upon the earth;
 
@@ -200,7 +200,7 @@
 
 **[4:5]** Be of good cheer, my people, the memorial of Israel.
 
-**[4:6]** Ye were sold to the nations, not for your destruction: but because ye moved God to wrath, ye were delivered unto the enemies.
+**[4:6]** Ye were sold to the nations, not for *your* destruction: but because ye moved God to wrath, ye were delivered unto the enemies.
 
 **[4:7]** For ye provoked him that made you by sacrificing unto devils, and not to God.
 
