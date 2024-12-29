@@ -1167,49 +1167,49 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[75:8]** But if now we know not wherefore we have come, and recognise not the principate of Him who brought us up out of Egypt, we shall come again and seek after those things which were now, and be grieved with pain because of those things which have befallen."
 
-**[76:1]** And He answered and said unto me: ['Inasmuch as the revelation of this vision has been interpreted to thee as thou besoughtest], hear the word of the Most High that thou mayst know what is to befall thee after these things.
+**[76:1]** And He answered and said unto me: ["Inasmuch as the revelation of this vision has been interpreted to thee as thou besoughtest], hear the word of the Most High that thou mayest know what is to befall thee after these things.
 
-**[76:2]** For thou shalt surely depart from this earth, nevertheless not unto death, but thou shalt be preserved unto the consummation of the times.
+**[76:2]** For thou shalt surely depart from this earth, nevertheless not unto death but thou shalt be preserved unto the consummation of the times.
 
-**[76:3]** Go up therefore to the top of that mountain, and there shall pass before thee all the regions of that land, and the figure of the inhabited world, and the top(s) of the mountains, and the depth(s) of the valleys, and the depths of the seas, and the number of the rivers, that thou mayst see what thou art leaving and whither thou art going.
+**[76:3]** Go up therefore to the top of that mountain, and there will pass before thee all the regions of that land, and the figure of the inhabited world, and the top of the mountains, and the depth of the valleys, and the depths of the seas, and the number of the rivers, that thou mayest see what thou art leaving and whither thou art going.
 
-**[76:4]** Now this shall befall after forty days.
+**[76:4]** Now this will befall after forty days.
 
-**[76:5]** Go now therefore during these days and instruct the people so far as thou art able, that they may learn so as not to die at the last time, but may learn in order that they may live at the last times.'
+**[76:5]** Go now therefore during these days and instruct the people so far as thou art able, that they may learn so as not to die at the last time, but may learn in order that they may live at the last times."
 
 **[77:1]** And I, Baruch, went thence and came to the people, and assembled them together from the greatest to the least, and said unto them:
 
-**[77:2]** 'Hear, ye children of Israel, behold how many ye are who remain of the twelve tribes of Israel.
+**[77:2]** "Hear, ye children of Israel, behold how many ye are who remain of the twelve tribes of Israel.
 
-**[77:3]** For to you and to your fathers the Lord gave a law more excellent than to all peoples.
+**[77:3]** For to you and to your fathers the Lord gave a law beyond peoples.
 
-**[77:4]** And because your brethren transgressed the commandments of the Most High, He brought vengeance upon you and upon them, And He spared not the former, And the latter also He gave into captivity: And He left not a residue of them,
+**[77:4]** And because your brethren transgressed the commandments of the Most High, He brought vengeance upon you and upon them, and He spared not the former, and the latter also He gave into captivity, and left not a residue of them,
 
 **[77:5]** But behold! ye are here with me.
 
-**[77:6]** If, therefore, ye direct your ways aright, Ye also shall not depart as your brethren departed, But they shall come to you.
+**[77:6]** If, therefore, ye direct your ways aright, ye also shall not depart as your brethren departed, but they will come to you.
 
-**[77:7]** For He is merciful whom ye worship, And He is gracious in whom ye hope, And He is true, so that He shall do good and not evil.
+**[77:7]** For He is merciful whom ye worship, and He is gracious in whom ye hope, and He is true, so that He shall do (you) good and not evil.
 
-**[77:8]** Have ye not seen here what has befallen Zion?
+**[77:8]** Lo! have ye not seen here what has befallen Zion?
 
-**[77:9]** Or do ye perchance think that the place had sinned, And that on this account it was overthrown? Or that the land had wrought foolishness, And that therefore it was delivered up?
+**[77:9]** Or do ye perchance think that the place had sinned, and that on this account it was overthrown, or that the land had wrought foolishness, and that therefore it was delivered up?
 
-**[77:10]** And know ye not that on account of you who did sin, That which sinned not was overthrown, And, on account of those who wrought wickedly, That which wrought not foolishness was delivered up to (its) enemies?'
+**[77:10]** And know ye not that on account of you who did sin, that which sinned not was overthrown, and, on account of those who wrought wickedly, that which wrought not foolishness was delivered up to (its) enemies."
 
-**[77:11]** And the whole people answered and said unto me: 'So far as we can recall the good things which the Mighty One has done unto us, we do recall them; and those things which we do not remember He in His mercy knows.
+**[77:11]** And the whole people answered and said unto me: "So far as we can recall the good things which the Mighty One has done unto us, we do recall them; and those things which we do not remember He in His mercy knows.
 
-**[77:12]** Nevertheless, do this for us thy people: write also to our brethren in Babylon an epistle of doctrine and a scroll of hope, that thou mayst confirm them also before thou dost depart from us.
+**[77:12]** Nevertheless, do this for us thy people: write also to our brethren in Babylon an epistle of doctrine and a scroll of good tidings, that thou mayest confirm them also before thou dost depart from us.
 
-**[77:13]** For the shepherds of Israel have perished, And the lamps which gave light are extinguished, And the fountains have withheld their stream whence we used to drink.
+**[77:13]** For the shepherds of Israel have perished, and the lamps which gave light are extinguished, and the fountains have withheld their stream whence we used to drink.
 
-**[77:14]** And we are left in the darkness, And amid the trees of the forest, And the thirst of the wilderness.'
+**[77:14]** And we are left in the darkness, and amid the trees of the forest, and the thirst of the wilderness."
 
-**[77:15]** And I answered and said unto them: Shepherds and lamps and fountains come from the law: And though we depart, yet the law abideth.
+**[77:15]** And I answered and said unto them: "Shepherds and lamps and fountains came (to us) from the law: and though we depart, yet the law abideth.
 
-**[77:16]** If therefore ye have respect to the law, And are intent upon wisdom, A lamp will not be wanting, And a shepherd will not fail, And a fountain will not dry up.
+**[77:16]** If therefore ye have respect to the law, and are intent upon wisdom, a lamp will not be wanting, and a shepherd will not fail, and a fountain will not dry up.
 
-**[77:17]** Nevertheless, as ye said unto me, I will write also unto your brethren in Babylon, and I will send by means of men, and I will write in like manner to the nine tribes and a half, and send by means of a bird.'
+**[77:17]** Nevertheless, as ye said unto me, I will write also unto your brethren in Babylon, and I will send by means of men, and I will write in like manner to the nine tribes and a half, and send by means of a bird."
 
 **[77:18]** And it came to pass on the one and twentieth day in the eighth month that I, Baruch, came and sat down under the oak under the shadow of the branches, and no man was with me, but I was alone.
 
@@ -1217,7 +1217,7 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[77:20]** And I called the eagle and spake these words unto it:
 
-**[77:21]** 'The Most High hath made thee that thou shouldst be higher than all birds.
+**[77:21]** "The Most High hath made thee that thou shouldst be higher than all birds.
 
 **[77:22]** And now go and tarry not in (any) place, nor enter a nest, nor settle upon any tree, till thou hast passed over the breadth of the many waters of the river Euphrates, and hast gone to the people that dwell there, and cast down to them this epistle.
 
@@ -1225,119 +1225,117 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[77:24]** Yea, also the ravens ministered to Elijah, bearing him food, as they had been commanded. Solomon also, in the time of his kingdom, whithersoever he wished to send or seek for anything, commanded a bird (to go thither), and it obeyed him as he commanded it.
 
-**[77:25]** And now let it not weary thee, and turn not to the right hand nor the left, but fly and go by a direct way, that thou mayst preserve the command of the Mighty One, according as I said unto thee.'
+**[77:25]** And now let it not weary thee, and turn not to the right hand nor the left, but fly and go by a direct way, that thou mayst preserve the command of the Mighty One, according as I said unto thee."
 
 **[78:1]** These are the words of that epistle which Baruch the son of Neriah sent to the nine and a half tribes, which were across the river Euphrates, in which these things were written.
 
 **[78:2]** Thus saith Baruch the son of Neriah to the brethren carried into captivity:
 
-**[78:3]** 'Mercy and peace.' I bear in mind, my brethren, the love of Him who created us, who loved us from of old, and never hated us, but above all educated us.
+**[78:3]** "Mercy and peace." I bear in mind, my brethren, the love of Him who created us, who loved us from of old, and never hated us, but above all educated us.
 
 **[78:4]** And truly I know that behold all we the twelve tribes are bound by one bond, inasmuch as we are born from one father.
 
-**[78:5]** Wherefore I have been the more careful to leave you the words of this epistle before I die, that ye may be comforted regarding the evils which have come upon you, and that ye may be grieved also regarding the evil that has befallen your brethren; and again, also, that ye may justify His judgement which He has decreed against you that ye should be carried away captives for what ye have suffered is disproportioned to what ye have done in order that, at the last times, ye may be found worthy of your fathers.
+**[78:5]** Wherefore I have been the more careful to leave you the words of this epistle before I die, that ye may be comforted regarding the evils which have come upon you, and that ye may be grieved also regarding the evil that has befallen your brethren; and again, also, that ye may justify His judgement which He has decreed against you that ye should be carried away captives- for what ye have suffered is disproportioned to what ye have done- in order that, at the last times, ye may be found worthy of your fathers.
 
-**[78:6]** Therefore, if ye consider that ye have now suffered those things for your good, that ye may not finally be condemned and tormented, then ye will receive eternal hope; if above all ye destroy from your heart vain error, on account of which ye departed, hence.
+**[78:6]** Therefore, if ye consider those things which ye have now suffered for your good, that ye may not finally be condemned and tormented, then ye will receive eternal hope; if above all ye destroy from your heart vain error, on account of which ye departed hence.
 
-**[78:7]** For if ye so do these things, He will continually remember you, He who always promised on our behalf to those who were more excellent than we, that He will never forget or forsake us, but with much mercy will gather together again those who were dispersed.
+**[78:7]** For if ye so do these things, He will continually remember you, He who alway promised on our behalf to those who were more excellent than we, that He will never forget or forsake us, but with much mercy will gather together again those who were dispersed.
 
 **[79:1]** Now, my brethren, learn first what befell Zion: how that Nebuchadnezzar king of Babylon came up against us.
 
-**[79:2]** For we have sinned against Him who made us, and we have not kept the commandments which he commanded us,
+**[79:2]** For we have sinned against Him who made us, and we have not kept the commandments which he commanded us, yet he hath not chastened us as we deserved.
 
-**[79:3]** yet he hath not chastened us as we deserved.
-
-**[79:4]** For what befell you we also suffer in a pre-eminent degree, for it befell us also.
+**[79:3]** For what befell you we also suffer in a pre-eminent degree, for it befell us also.
 
 **[80:1]** And now, my brethren, I make known unto you that when the enemy had surrounded the city, the angels of the Most High were sent, and they overthrew the fortifications of the strong wall, and they destroyed the firm iron corners, which could not be rooted out.
 
 **[80:2]** Nevertheless, they hid all the vessels of the sanctuary, lest the enemy should get possession of them.
 
-**[80:3]** And when they had done these things, they delivered thereupon to the enemy the overthrown wall, and the plundered house, and the burnt temple, and the people who were overcome because they were delivered up, lest the enemy should boast and say: 'Thus by force have we been able to lay waste even the house of the Most High in war.
+**[80:3]** And when they had done these things, they delivered thereupon to the enemy the overthrown wall, and the plundered house, and the burnt temple, and the people who were overcome because they were delivered up, lest the enemy should boast and say: "Thus by force have we been able to lay waste even the house of the Most High in war."
 
-**[80:4]** 'Your brethren also have they bound and led away to Babylon, and have caused, them to dwell there.
+**[80:4]** Your brethren also have they bound and led away to Babylon, and have caused them to dwell there.
 
 **[80:5]** But we have been left here, being very few.
 
 **[80:6]** This is the tribulation about which I wrote to you.
 
-**[80:7]** For assuredly I know that (the consolation of) the inhabitants of Zion consoleth you: so far as ye knew that it was prospered (your consolation) was greater than the tribulation which ye endured in having to depart from it.
+**[80:7]** For assuredly I know that the habitation of Zion gave you consolation : so far as ye knew that it was prospered (your consolation) was greater than the tribulation which ye endured in having to depart from it.
 
 **[81:1]** But regarding consolation, hear ye the word.
 
 **[81:2]** For I was mourning regarding Zion, and I prayed for mercy from the Most High, and I said:
 
-**[81:3]** 'How long will these things endure for us? And will these evils come upon us always?'
+**[81:3]** "How long will these things endure for us? And will these evils come upon us always?"
 
-**[81:4]** And the Mighty One did according to the multitude of His mercies, And the Most High according to the greatness of His compassion, And He revealed unto me the word, that I might receive consolation, And He showed me visions that I should not again endure anguish, And He made known to me the mystery of the times. And the advent of the hours he showed me.
+**[81:4]** And the Mighty One did according to the multitude of His mercies, and the Most High according to the greatness of His compassion, and He revealed unto me the word, that I might receive consolation, and He showed me visions that I should not again endure anguish, and He made known to me the mystery of the times, and the advent of the hours He showed me.
 
 **[82:1]** Therefore, my brethren, I have written to you, that ye may comfort yourselves regarding the multitude of your tribulations.
 
 **[82:2]** For know ye that our Maker will assuredly avenge us on all our enemies, according to all that they have done to us, also that the consummation which the Most High will make is very nigh, and His mercy that is coming, and the consummation of His judgement is by no means far off.
 
-**[82:3]** For lo! we see now the multitude of the prosperity of the Gentiles, Though they act impiously, But they shall be like a vapour:
+**[82:3]** For lo! we see now the multitude of the prosperity of the Gentiles, though they act impiously, but they will be like a vapour:
 
-**[82:4]** And we behold the multitude of their power, Though they do wickedly, But they shall be made like unto a drop:
+**[82:4]** And we behold the multitude of their power, though they do wickedly, but they will be made like unto a drop:
 
-**[82:5]** And we see the firmness of their might. Though they resist the Mighty One every hour, But they shall be accounted as spittle.
+**[82:5]** And we see the firmness of their might, though they resist the Mighty One every hour, but they will be accounted as spittle.
 
-**[82:6]** And we consider the glory of their greatness, Though they do not keep the statutes of the Most High, But as smoke shall they pass away.
+**[82:6]** And we consider the glory of their greatness, though they do not keep the statutes of the Most High, but as smoke will they pass away.
 
-**[82:7]** And we meditate on the beauty of theirs gracefulness, Though they have to do with pollutions, But as grass that withers shall they fade away.
+**[82:7]** And we meditate on the beauty of theirs gracefulness, though they have to do with pollutions, but as grass that withers will they fade away.
 
-**[82:8]** And we consider the strength of their cruelty, Though they remember not the end (thereof), But as a wave that passes shall they be broken.
+**[82:8]** And we consider the strength of their cruelty, though they remember not the end (thereof), but as a wave that passes will they be broken.
 
-**[82:9]** And we remark the boastfulness of their might, Though they deny the beneficence of God, who gave (it) to them, But they shall pass away as a passing cloud.
+**[82:9]** And we remark the boastfulness of their might, though they deny the beneficence of God, who gave (it) to them, but they will pass away as a passing cloud.
 
-**[83:1]** [For the Most High will assuredly hasten His times, And He will assuredly bring on His hours.
+[**[83:1]** For the Most High will assuredly hasten His times, and He will assuredly bring on His hours.
 
-**[83:2]** And He will assuredly judge those who are in His world, And will visit in truth all things by means of all their hidden works.
+**[83:2]** And He will assuredly judge those who are in His world, and will visit in truth all things by means of all their hidden works.
 
-**[83:3]** And He will assuredly examine the secret thoughts, And that which is laid up in the secret chambers of all the members of man. And will make (them) manifest in the presence of all with reproof.
+**[83:3]** And He will assuredly examine the secret thoughts, and that which is laid up in the secret chambers of all the members of man, and will make (them) manifest in the presence of all with reproof.
 
-**[83:4]** Let none therefore of these present things ascend into your hearts, but above all let us be expectant, because that which is promised to us shall come.
+**[83:4]** Let none therefore of these present things ascend into your hearts, but above all let us be expectant, because that which is promised to us will come.
+wi
+**[83:5]** And let us not now look unto the delights of the Gentiles in the present, but let us remember what has been promised to us in the end.
 
-**[83:5]** And let us not now look unto the delights of the Gentiles in the present,
-
-**[83:6]** but let us remember what has been promised to us in the end. For the ends of the times and of the seasons and whatsoever is with them shall assuredly pass by together.
+**[83:6]** For the ends of the times and of the seasons and whatsoever is with them shall assuredly pass by.
 
 **[83:7]** The consummation, moreover, of the age shall then show the great might of its ruler, when all things come to judgement.
 
 **[83:8]** Do ye therefore prepare your hearts for that which before ye believed, lest ye come to be in bondage in both worlds, so that ye be led away captive here and be tormented there.
 
-**[83:9]** For that which exists now or which has passed away, or which is to come, in all these things, neither is the evil fully evil, nor again the good fully good.
+**[83:9]** For that which exists now or which has passed away, or which is to come in all these things, neither is the evil fully evil, nor again the good fully good.
 
-**[83:10]** For all healthinesses of this time are turning into diseases,
+**[83:10]** For all healthinesses of this time are turning into diseases.
 
-**[83:11]** And all might of this time is turning into weakness, And all the force of this time is turning into impotence, And every energy of youth is turning into old age and consummation.
+**[83:11]** And all might of this time is turning into weakness, and all the force of this time is turning into misery. 
 
-**[83:12]** And every beauty of gracefulness of this time is turning faded and hateful,
+**[83:12]** And every energy of youth is turning into old age and consummation, and every beauty of gracefulness of this time is turning faded and hateful.
 
-**[83:13]** And every proud dominion of the present is turning into humiliation and shame, And every praise of the glory of this time is turning into the shame of silence,
+**[83:13]** And every proud dominion of the present is turning into humiliation and shame. 
 
-**[83:14]** And every vain splendour and insolence of this time is turning into voiceless ruin.
+**[83:14]** And every praise of the glory of this time is turning into the shame of silence, and every splendour and insolence of this time is turning into voiceless ruin.
 
-**[83:15]** And every delight and joy of this time is turning to worms and corruption,
+**[83:15]** And every delight and joy of this time is turning to worms and corruption.
 
 **[83:16]** And every clamour of the pride of this time is turning into dust and stillness.
 
-**[83:17]** And every possession of riches of this time is being turned into Sheol alone,
+**[83:17]** And every possession of riches of this time is being turned into Sheol alone.
 
-**[83:18]** And all the rapine of passion of this time is turning into involuntary death, And every passion of the lusts of this time is turning into a judgement of torment.
+**[83:18]** And all the rapine of passion of this time is turning into involuntary death, and every passion of the lusts of this time is turning into a judgement of torment.
 
-**[83:19]** And every artifice and craftiness of this time is turning into a proof of the truth,
+**[83:19]** And every artifice and craftiness of this time is turning into a proof of the truth.
 
-**[83:20]** And every sweetness of unguents of this time is turning into judgement and condemnation,
+**[83:20]** And every sweetness of unguents of this time is turning into judgement and condemnation.
 
-**[83:21]** And every love of lying is turning to contumely through truth.
+**[83:21]** And every love of lying is turning to shame through truth.
 
-**[83:22]** Since therefore all these things are done now, does anyone think that they will not be avenged;
+**[83:22]** Since therefore all these things are done now, does anyone think that they will not be avenged?
 
 **[83:23]** But the consummation of all things will come to the truth.]
 
-**[84:1]** Behold! I have therefore made known unto you (these things) whilst I live: for I have said (it) that ye should learn the things that are excellent; for the Mighty One hath commanded me to instruct you: and I will set before you some of the commandments of His judgement before I die.
+**[84:1]** Behold! I have therefore made known unto you (these things) whilst I live: for I have said that ye should above all thngs learn the commandments of the Mighty One, wherein I shall instruct you; and I will set before you some of the commandments of His judgement before I die.
 
-**[84:2]** Remember that formerly Moses assuredly called heaven and earth to witness against you and said:'If ye transgress the law ye shall be dispersed, but if ye keep it ye shall be kept.'
+**[84:2]** Remember that formerly Moses assuredly called heaven and earth to witness against you and said: "if ye transgress the law ye shall be dispersed, but if ye keep it ye shall be kept."
 
 **[84:3]** And other things also he used to say unto you when ye the twelve tribes were together in the desert.
 
@@ -1357,41 +1355,41 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[84:11]** For if He judge us not according to the multitude of His mercies, woe unto all us who are born.
 
-**[85:1]** [Know ye, moreover, that In former times and in the generations of old our fathers had helpers, Righteous men and holy prophets:
+[**[85:1]** Know ye, moreover, that in former times and in the generations of old our fathers had helpers, Righteous men and holy prophets.
 
-**[85:2]** Nay more, we were in our own land [And they helped us when we sinned], And they interceded for us with Him who made us, [Because they trusted in their works], And the Mighty One heard their prayer and forgave us.
+**[85:2]** Nay more, we were in our own land and they helped us when we sinned, And they prayed for us with Him who made us, because they trusted in their works, and the Mighty One heard their prayer and was gracious us.
 
-**[85:3]** But now the righteous have been gathered And the prophets have fallen asleep, And we also have gone forth from the land, And Zion has been taken from us, And we have nothing now save the Mighty One and His law.
+**[85:3]** But now the righteous have been gathered and the prophets have fallen asleep, and we also have gone forth from the land, and Zion has been taken from us, and we have nothing now save the Mighty One and His law.
 
-**[85:4]** If therefore we direct and dispose our hearts, We shall receive everything that we lost, And much better things than we lost by many times.
+**[85:4]** If therefore we direct and dispose our hearts, we shall receive everything that we lost, and much better things than we lost (yea, better) by many times.
 
-**[85:5]** For what we have lost was subject to corruption, And what we shall receive shall not be corruptible.
+**[85:5]** For what we have lost was subject to corruption, and what we shall receive shall not be corruptible.
 
-**[85:6]** [Moreover, also, I have written thus to our brethren to Babylon, that to them also I may attest these very things.]
+[**[85:6]** Moreover, also, I have written thus to our brethren to Babylon, that to them also I may attest these very things.]
 
-**[85:7]** And let all those things aforesaid be always before your eyes, Because we are still in the spirit and the power of our liberty.
+**[85:7]** And let all those things aforesaid be always before your eyes, because we are still in the spirit and the power of our liberty.
 
-**[85:8]** Again, moreover, the Most High also is long-suffering towards us here, And He hath shown to us that which is to be, And hath not concealed from us what will befall in the end.
+**[85:8]** Again, moreover, the Most High also is long-suffering towards us here, and He hath shown to us that which is to be, and hath not concealed from us what will befall in the end.
 
-**[85:9]** Before therefore judgement exact its own, And truth that which is its due, Let us prepare our soul That we may possess, and not be taken possession of, And that we may hope and not be put to shame, And that we may rest with our fathers, and not be tormented with our enemies.
+**[85:9]** Before therefore judgement exact its own, and truth that which is its due, let us prepare our soul that we may enter into possessin of, and not be taken possession of, and that we may hope and not be put to shame, and that we may rest with our fathers, and not be tormented with our enemies.
 
-**[85:10]** For the youth of the world is past, And the strength of the creation already exhausted, And the advent of the times is very short, Yea, they have passed by; And the pitcher is near to the cistern, And the ship to the port, And the course of the journey to the city, And life to (its) consummation.
+**[85:10]** For the youth of the world is past, and the strength of the creation already exhausted, and the advent of the times is very short, yea, they have passed by; and the pitcher is near to the cistern, and the ship to the port, and the course of the journey to the city, and life to consummation.
 
 **[85:11]** And again prepare your souls, so that when ye sail and ascend from the ship ye may have rest and not be condemned when ye depart.
 
-**[85:12]** For lo! when the Most High will bring to pass all these things, There shall not there be again [a place of repentance, nor] a limit to the times, Nor a duration for the hours, Nor a change of ways, Nor place for prayer, Nor sending of petitions, Nor receiving of knowledge, Nor giving of love, Nor place of repentance for the soul, Nor supplication for offences, Nor intercession of the fathers, Nor prayer of the prophets, Nor help of the righteous.
+**[85:12]** For lo! when the Most High will bring to pass all these things, there will not there be again an opportunity for returning, nor a limit to the times, or adjurmement to the hours, nor a change of ways, nor place for prayer, nor sending of petitions, nor receiving of knowledge, nor giving of love, nor place of repentance, nor supplication for offences, nor intercession of the fathers, nor prayer of the prophets, nor help of the righteous.
 
-**[85:13]** There there is the sentence of corruption, The way of fire, And the path which bringeth to Gehenna.
+**[85:13]** There there is the sentence of corruption, the way of fire, and the path which bringeth to Gehenna.
 
-**[85:14]** On this account there is one law by one, One age and an end for all who are in it.
+**[85:14]** On this account there is one law by one, one age and an end for all who are in it.
 
-**[85:15]** Then He will preserve those whom He can forgive, And at the same time destroy those who are polluted with sins.]
+**[85:15]** Then He will preserve those whom He finds he may be gracious, and at the same time destroy those who are polluted with sins.]
 
 **[86:1]** When therefore ye receive this my epistle, read it in your congregations with care.
 
 **[86:2]** And meditate thereon, above all on the days of your fasts.
 
-**[86:3]** And bear me in mind by means of this epistle, as I also bear you in mind in it, and always. Fare ye well.
+**[86:3]** And bear me in mind by means of this epistle, as I also bear you in mind in it, and always fare ye well.
 
 **[87:1]** And it came to pass when I had ended all the words of this epistle, and had written it sedulously to its close, that I folded it, and sealed it carefully, and bound it to the neck of the eagle, and dismissed and sent it.
 
