@@ -24,4 +24,3 @@ The **Book of Gad the Seer** was discovered as part of an ancient Hebrew manuscr
 
 The document "Gad the Seer" on the website **parableofthevineyard.com** is copyrighted by **Ken Johnson, Th.D.** The author has made the translation of the text public domain. For complete studies, commentaries, books, and DVDs of this and other important scrolls, you can visit **Biblefacts.org** and **Gadtheseer.org**.
 
-Back to root: https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts

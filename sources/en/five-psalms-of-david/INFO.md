@@ -14,5 +14,3 @@ The Five Psalms of David, as presented here, include a mix of traditional psalms
 
 While the title suggests a sole association with David, these psalms reflect a broader tapestry of biblical voices, each contributing to the rich spiritual heritage preserved within these texts. The collection aims to continue the mission of projects like Scrollmapper on GitHub, dedicated to preserving and transmitting these ancient works, specifically focusing on rediscovering the lost 70 books referenced in 2 Esdras.
 
-
-Back to root: https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts

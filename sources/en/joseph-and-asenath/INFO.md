@@ -21,5 +21,3 @@ The **"Joseph and Asenath"** text likely circulated during the Hellenistic perio
 - **Richard Cole**: "The ultimate provenance of the work is uncertain. Suggestions have ranged from 200 B.C. to 300 A.D. from North Africa in the west through to Palestine and Syria in the east."
 - **Gideon Bohak**: "The geographical location of the story (Heliopolis) and an important Jewish diaspora community centered on a Jewish temple in Leontopolis, located in the nome of Heliopolis during the Ptolemaic period, seeing this as the likely starting point."
 
-## Back to Root
-Back to root: https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts

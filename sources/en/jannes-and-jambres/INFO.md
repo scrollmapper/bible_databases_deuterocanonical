@@ -31,5 +31,3 @@ Photographs of the translated fragments can be accessed here:
 
 The story of Jannes and Jambres, legendary magicians from the court of Pharaoh, has a significant presence in ancient texts. These magicians are best known for opposing Moses, as detailed in various early Christian writings and Jewish traditions. The earliest references to their narrative can be traced back to sources such as the Talmud and the New Testament (2 Timothy 3:8). Fragments of their story are found in Greek, Latin, and other ancient languages, providing a rich tapestry of historical and theological insights.
 
-
-Back to root: https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts

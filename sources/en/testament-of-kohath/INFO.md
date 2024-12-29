@@ -17,5 +17,3 @@ Fragments of the **Testament of Kohath** were discovered among the **Dead Sea Sc
 ### Translation via AI
 
 The translation of the Testament of Kohath presented here was accomplished with the aid of AI, ensuring a careful and respectful adherence to copyright laws. 
-
-[Back to root](https://github.com/LeoBlanchette/the_70_books/tree/main/copied_texts)
