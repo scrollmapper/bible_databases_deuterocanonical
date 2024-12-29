@@ -1,15 +1,5 @@
 # The King James Bible — 2 Esdras
 
-
-
-
-
-(Exported from Wikisource on November 22, 2024)
-
-
-
-
-
 **[1:1]** The second book of the prophet Esdras, the son of Saraias, the son of Azarias, the son of Helchias, the son of Sadamias, the son of Sadoc, the son of Achitob,
 
 **[1:2]** The son of Achias, the son of Phinees, the son of Heli, the son of Amarias, the son of Aziei, the son of Marimoth, the son of Arna, the son of Ozias, the son of Borith, the son of Abisei, the son of Phinees, the son of Eleazar,
