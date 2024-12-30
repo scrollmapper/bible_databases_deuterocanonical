@@ -2,751 +2,216 @@
 
 
 
-**[1:1]** On the third day, God planted the garden in the east of the earth, on
+**[1:1]** On the third day, God planted the garden in the east of the earth, on the border of the world eastward, beyond which, towards the sun-rising, one finds nothing but water, that encompasses the whole world, and reaches to the borders of heaven.
 
-the border of the world eastward, beyond which, towards the sun-rising,
+**[1:2]** And to the north of the garden there is a sea of water, clear and pure to the taste, unlike anything else; so that, through the clearness thereof, one may look into the depths of the earth.
 
-one finds nothing but water, that encompasses the whole world, and
+**[1:3]** And when a man washes himself in it, he becomes clean of the cleanness thereof, and white of its whiteness--even if he were dark.
 
-reaches to the borders of heaven.
+**[1:4]** And God created that sea of his own good pleasure, for He knew what would come of the man He would make; so that after he had left the garden, on account of his transgression, men should be born in the earth.  Among them are righteous ones who will die, whose souls God would raise at the last day; when all of them will return to their flesh, bathe in the water of that sea, and repent of their sins.
 
+**[1:5]** But when God made Adam go out of the garden, He did not place him on the border of it northward.  This was so that he and Eve would not be able to go near to the sea of water where they could wash themselves in it, be cleansed from their sins, erase the transgression they had committed, and be no longer reminded of it in the thought of their punishment.
 
 
-**[1:2]** And to the north of the garden there is a sea of water, clear and
 
-pure to the taste, unlike anything else; so that, through the clearness
+**[1:6]** As to the southern side of the garden, God did not want Adam to live there either; because, when the wind blew from the north, it would bring him, on that southern side, the delicious smell of the trees of the garden.
 
-thereof, one may look into the depths of the earth.
+**[1:7]** Wherefore God did not put Adam there.  This was so that he would not be able to smell the sweet smell of those trees, forget his transgression, and find consolation for what he had done by taking delight in the smell of the trees and yet not be cleansed from his transgression.
 
+**[1:8]** Again, also, because God is merciful and of great pity, and governs all things in a way that He alone knows--He made our father Adam live in the western border of the garden, because on that side the earth is very broad.
 
+**[1:9]** And God commanded him to live there in a cave in a rock--the Cave of Treasures below the garden.
 
-**[1:3]** And when a man washes himself in it, he becomes clean of the
 
-cleanness thereof, and white of its whiteness--even if he were dark.
 
+**[2:1]** But when our father Adam, and Eve, went out of the garden, they walked the ground on their feet, not knowing they were walking.
 
+**[2:2]** And when they came to the opening of the gate of the garden, and saw the broad earth spread before them, covered with stones large and small, and with sand, they feared and trembled, and fell on their faces, from the fear that came over them; and they were as dead.
 
-**[1:4]** And God created that sea of his own good pleasure, for He knew what
 
-would come of the man He would make; so that after he had left the
 
-garden, on account of his transgression, men should be born in the
+**[2:3]** Because--whereas until this time they had been in the garden land, beautifully planted with all manner of trees--they now saw themselves, in a strange land, which they knew not, and had never seen.
 
-earth.  Among them are righteous ones who will die, whose souls God
+**[2:4]** And because, when they were in the garden they were filled with the grace of a bright nature, and they had not hearts turned toward earthly things.
 
-would raise at the last day; when all of them will return to their
+**[2:5]** Therefore God had pity on them; and when He saw them fallen before the gate of the garden, He sent His Word to our father, Adam and Eve, and raised them from their fallen state.
 
-flesh, bathe in the water of that sea, and repent of their sins.
 
+**[3:1]** God said to Adam, "I have ordained on this earth days and years, and you and your descendants shall live and walk in them, until the days and years are fulfilled; when I shall send the Word that created you, and against which you have transgressed, the Word that made you come out of the garden, and that raised you when you were fallen.
 
+**[3:2]** Yes, the Word that will again save you when the five and a half days are fulfilled."
 
-**[1:5]** But when God made Adam go out of the garden, He did not place him on
+**[3:3]** But when Adam heard these words from God, and of the great five and a half days, he did not understand the meaning of them.
 
-the border of it northward.  This was so that he and Eve would not be
-
-able to go near to the sea of water where they could wash themselves in
-
-it, be cleansed from their sins, erase the transgression they had
-
-committed, and be no longer reminded of it in the thought of their
-
-punishment.
-
-
-
-**[1:6]** As to the southern side of the garden, God did not want Adam to live
-
-there either; because, when the wind blew from the north, it would
-
-bring him, on that southern side, the delicious smell of the trees of
-
-the garden.
-
-
-
-**[1:7]** Wherefore God did not put Adam there.  This was so that he would not
-
-be able to smell the sweet smell of those trees, forget his
-
-transgression, and find consolation for what he had done by taking
-
-delight in the smell of the trees and yet not be cleansed from his
-
-transgression.
-
-
-
-**[1:8]** Again, also, because God is merciful and of great pity, and governs
-
-all things in a way that He alone knows--He made our father Adam live
-
-in the western border of the garden, because on that side the earth is
-
-very broad.
-
-
-
-**[1:9]** And God commanded him to live there in a cave in a rock--the Cave of
-
-Treasures below the garden.
-
-
-
-**[2:1]** But when our father Adam, and Eve, went out of the garden, they
-
-walked the ground on their feet, not knowing they were walking.
-
-
-
-**[2:2]** And when they came to the opening of the gate of the garden, and saw
-
-the broad earth spread before them, covered with stones large and
-
-small, and with sand, they feared and trembled, and fell on their
-
-faces, from the fear that came over them; and they were as dead.
-
-
-
-**[2:3]** Because--whereas until this time they had been in the garden land,
-
-beautifully planted with all manner of trees--they now saw themselves,
-
-in a strange land, which they knew not, and had never seen.
-
-
-
-**[2:4]** And because, when they were in the garden they were filled with the
-
-grace of a bright nature, and they had not hearts turned toward earthly
-
-things.
-
-
-
-**[2:5]** Therefore God had pity on them; and when He saw them fallen before
-
-the gate of the garden, He sent His Word to our father, Adam and Eve,
-
-and raised them from their fallen state.
-
-
-
-
-
-**[3:1]** God said to Adam, "I have ordained on this earth days and years, and
-
-you and your descendants shall live and walk in them, until the days
-
-and years are fulfilled; when I shall send the Word that created you,
-
-and against which you have transgressed, the Word that made you come
-
-out of the garden, and that raised you when you were fallen.
-
-
-
-**[3:2]** Yes, the Word that will again save you when the five and a half days
-
-are fulfilled."
-
-
-
-**[3:3]** But when Adam heard these words from God, and of the great five and a
-
-half days, he did not understand the meaning of them.
-
-
-
-**[3:4]** For Adam was thinking there would be only five and a half days for
-
-him until the end of the world.
-
-
+**[3:4]** For Adam was thinking there would be only five and a half days for him until the end of the world.
 
 **[3:5]** And Adam cried, and prayed to God to explain it to him.
 
+**[3:6]** Then God in his mercy for Adam who was made after His own image and likeness, explained to him, that these were 5,000 and 500 years; and how One would then come and save him and his descendants.
 
+**[3:7]** But before that, God had made this covenant with our father, Adam, in the same terms, before he came out of the garden, when he was by the tree where Eve took of the fruit and gave it to him to eat.
 
-**[3:6]** Then God in his mercy for Adam who was made after His own image and
+**[3:8]** Because, when our father Adam came out of the garden, he passed by that tree, and saw how God had changed the appearance of it into another form, and how it shriveled.
 
-likeness, explained to him, that these were 5,000 and 500 years; and
+**[3:9]** And as Adam went to it he feared, trembled and fell down; but God in His mercy lifted him up, and then made this covenant with him.
 
-how One would then come and save him and his descendants.
+**[3:10]** And again, when Adam was by the gate of the garden, and saw the cherub with a sword of flashing fire in his hand, and the cherub grew angry and frowned at him, both Adam and Eve became afraid of him, and thought he meant to put them to death. So they fell on their faces, trembled with fear.
 
+**[3:11]** But he had pity on them, and showed them mercy; and turning from them went up to heaven, and prayed to the Lord, and said;--
 
+**[3:12]** "Lord, You sent me to watch at the gate of the garden, with a sword of fire.
 
-**[3:7]** But before that, God had made this covenant with our father, Adam, in
+**[3:13]** But when Your servants, Adam and Eve, saw me, they fell on their faces, and were as dead.  O my Lord, what shall we do to Your servants?"
 
-the same terms, before he came out of the garden, when he was by the
-
-tree where Eve took of the fruit and gave it to him to eat.
-
-
-
-**[3:8]** Because, when our father Adam came out of the garden, he passed by
-
-that tree, and saw how God had changed the appearance of it into
-
-another form, and how it shriveled.
-
-
-
-**[3:9]** And as Adam went to it he feared, trembled and fell down; but God in
-
-His mercy lifted him up, and then made this covenant with him.
-
-
-
-**[3:10]** And again, when Adam was by the gate of the garden, and saw the
-
-cherub with a sword of flashing fire in his hand, and the cherub grew
-
-angry and frowned at him, both Adam and Eve became afraid of him, and
-
-thought he meant to put them to death.  So they fell on their faces,
-
-trembled with fear.
-
-
-
-**[3:11]** But he had pity on them, and showed them mercy; and turning from
-
-them went up to heaven, and prayed to the Lord, and said;--
-
-
-
-**[3:12]** "Lord, You sent me to watch at the gate of the garden, with a sword
-
-of fire.
-
-
-
-**[3:13]** But when Your servants, Adam and Eve, saw me, they fell on their
-
-faces, and were as dead.  O my Lord, what shall we do to Your servants?"
-
-
-
-**[3:14]** Then God had pity on them, and showed them mercy, and sent His Angel
-
-to keep the garden.
-
-
+**[3:14]** Then God had pity on them, and showed them mercy, and sent His Angel to keep the garden.
 
 **[3:15]** And the Word of the Lord came to Adam and Eve, and raised them up.
 
+**[3:16]** And the Lord said to Adam, "I told you that at the end of the five and a half days, I will send my Word and save you.
 
+**[3:17]** Strengthen your heart, therefore, and stay in the Cave of Treasures, of which I have before spoken to you."
 
-**[3:16]** And the Lord said to Adam, "I told you that at the end of the five
+**[3:18]** And when Adam heard this Word from God, he was comforted with that which God had told him. For He had told him how He would save him. 
 
-and a half days, I will send my Word and save you.
 
 
+**[4:1]** But Adam and Eve cried for having come out of the garden, their first home.
 
-**[3:17]** Strengthen your heart, therefore, and stay in the Cave of Treasures,
+**[4:2]** And indeed, when Adam looked at his flesh, that was altered, he cried bitterly, he and Eve, over what they had done.  And they walked and went gently down into the Cave of Treasures.
 
-of which I have before spoken to you."
+**[4:3]** And as they came to it, Adam cried over himself and said to Eve, "Look at this cave that is to be our prison in this world, and a place of punishment!
 
+**[4:4]** What is it compared with the garden? What is its narrowness compared with the space of the other?
 
+**[4:5]** What is this rock, by the side of those groves? What is the gloom of this cavern, compared with the light of the garden?
 
-**[3:18]** And when Adam heard this Word from God, he was comforted with that
+**[4:6]** What is this overhanging ledge of rock to shelter us, compared with the mercy of the Lord that overshadowed us?
 
-which God had told him.  For He had told him how He would save him. 
+**[4:7]** What is the soil of this cave compared with the garden land? This earth, strewed with stones; and that, planted with delicious fruit trees?"
 
+**[4:8]** And Adam said to Eve, "Look at your eyes, and at mine, which before beheld angels praising in heaven; and they too, without ceasing.
 
+**[4:9]** But now we do not see as we did; our eyes have become of flesh; they cannot see like they used to see before."
 
-**[4:1]** But Adam and Eve cried for having come out of the garden, their first
+**[4:10]** Adam said again to Eve, "What is our body today, compared to what it was in former days, when we lived in the garden?"
 
-home.
+**[4:11]** After this, Adam did not want to enter the cave, under the overhanging rock; nor would he ever want to enter it.
 
+**[4:12]** But he bowed to God's orders; and said to himself, "Unless I enter the cave, I shall again be a transgressor."
 
 
-**[4:2]** And indeed, when Adam looked at his flesh, that was altered, he cried
+**[5:1]** Then Adam and Eve entered the cave, and stood praying, in their own tongue, unknown to us, but which they knew well.
 
-bitterly, he and Eve, over what they had done.  And they walked and
-
-went gently down into the Cave of Treasures.
-
-
-
-**[4:3]** And as they came to it, Adam cried over himself and said to Eve,
-
-"Look at this cave  that is to  be our prison in this world, and a
-
-place of punishment!
-
-
-
-**[4:4]** What is it compared with the garden?  What is its narrowness compared
-
-with the space of the other?
-
-
-
-**[4:5]** What is this rock, by the side of those groves?  What is the gloom of
-
-this cavern, compared with the light of the garden?
-
-
-
-**[4:6]** What is this overhanging ledge of rock to shelter us, compared with
-
-the mercy of the Lord that overshadowed us?
-
-
-
-**[4:7]** What is the soil of this cave compared with the garden land?  This
-
-earth, strewed with stones; and that, planted with delicious fruit
-
-trees?"
-
-
-
-**[4:8]** And Adam said to Eve, "Look at your eyes, and at mine, which before
-
-beheld angels praising in heaven; and they too, without ceasing.
-
-
-
-**[4:9]** But now we do not see as we did; our eyes have become of flesh; they
-
-cannot see like they used to see before."
-
-
-
-**[4:10]** Adam said again to Eve, "What is our body today, compared to what it
-
-was in former days, when we lived in the garden?"
-
-
-
-**[4:11]** After this, Adam did not want to enter the cave, under the
-
-overhanging rock; nor would he ever want to enter it.
-
-
-
-**[4:12]** But he bowed to God's orders; and said to himself, "Unless I enter
-
-the cave, I shall again be a transgressor."
-
-
-
-**[5:1]** Then Adam and Eve entered the cave, and stood praying, in their own
-
-tongue, unknown to us, but which they knew well.
-
-
-
-**[5:2]** And as they prayed, Adam raised his eyes and saw the rock and the
-
-roof of the cave that covered him overhead.  This prevented him from
-
-seeing either heaven or God's creatures.  So he cried and beat his
-
-chest hard, until he dropped, and was as dead.
-
-
+**[5:2]** And as they prayed, Adam raised his eyes and saw the rock and the roof of the cave that covered him overhead.  This prevented him from seeing either heaven or God's creatures. So he cried and beat his chest hard, until he dropped, and was as dead.
 
 **[5:3]** And Eve sat crying; for she believed he was dead.
 
+**[5:4]** Then she got up, spread her hands toward God, appealing to Him for mercy and pity, and said, "O God, forgive me my sin, the sin which I committed, and don't remember it against me.
+
+**[5:5]** For I alone caused Your servant to fall from the garden into this condemned land; from light into this darkness; and from the house of joy into this prison.
+
+**[5:6]** O God, look at this Your servant fallen in this manner, and bring him back to life, that he may cry and repent of his transgression which he committed through me.
+
+**[5:7]** Don't take away his soul right now; but let him live that he may stand after the measure of his repentance, and do Your will, as before his death.
+
+**[5:8]** But if You do not bring him back to life, then, O God, take away my own soul, that I be like him, and leave me not in this dungeon, one and alone; for I could not stand alone in this world, but with him only.
+
+**[5:9]** For You, O God, caused him to fall asleep, and took a bone from his side, and restored the flesh  in the place of it, by Your divine power.
+
+**[5:10]** And You took me, the bone, and make me a woman, bright like him, with heart, reason, and speech; and in flesh, like to his own; and You made me after the likeness of his looks, by Your mercy and power.
+
+**[5:11]** O Lord, I and he are one, and You, O God, are our Creator, You are He who made us both in one day.
+
+**[5:12]** Therefore, O God, give him life, that he may be with me in this strange land, while we live in it on account of our transgression.
+
+**[5:13]** But if You will not give him life, then take me, even me, like him; that we both may die the same day."
+
+**[5:14]** And Eve cried bitterly, and fell on our father Adam; from her great sorrow.
 
 
-**[5:4]** Then she got up, spread her hands toward God, appealing to Him for
-
-mercy and pity, and said, "O God, forgive me my sin, the sin which I
-
-committed, and don't remember it against me.
-
-
-
-**[5:5]** For I alone caused Your servant to fall from the garden into this
-
-condemned land; from light into this darkness; and from the house of
-
-joy into this prison.
-
-
-
-**[5:6]** O God, look at this Your servant fallen in this manner, and bring him
-
-back to life, that he may cry and repent of his transgression which he
-
-committed through me.
-
-
-
-**[5:7]** Don't take away his soul right now; but let him live that he may
-
-stand after the measure of his repentance, and do Your will, as before
-
-his death.
-
-
-
-**[5:8]** But if You do not bring him back to life, then, O God, take away my
-
-own soul, that I be like him, and leave me not in this dungeon, one and
-
-alone; for I could not stand alone in this world, but with him only.
-
-
-
-**[5:9]** For You, O God, caused him to fall asleep, and took a bone from his
-
-side, and restored the flesh  in the place of it, by Your divine power.
-
-
-
-**[5:10]** And You took me, the bone, and make me a woman, bright like him,
-
-with heart, reason, and speech; and in flesh, like to his own; and You
-
-made me after the likeness of his looks, by Your mercy and power.
-
-
-
-**[5:11]** O Lord, I and he are one, and You, O God, are our Creator, You are
-
-He who made us both in one day.
-
-
-
-**[5:12]** Therefore, O God, give him life, that he may be with me in this
-
-strange land, while we live in it on account of our transgression.
-
-
-
-**[5:13]** But if You will not give him life, then take me, even me, like him;
-
-that we both may die the same day."
-
-
-
-**[5:14]** And Eve cried bitterly, and fell on our father Adam; from her great
-
-sorrow.
-
-
-
-**[6:1]** But God looked at them; for they had killed themselves through great
-
-grief.
-
-
+**[6:1]** But God looked at them; for they had killed themselves through greatgrief.
 
 **[6:2]** But He decided to raise them and comfort them.
 
+**[6:3]** He, therefore, sent His Word to them; that they should stand and be raised immediately.
 
+**[6:4]** And the Lord said to Adam and Eve, "You transgressed of your own free will, until you came out of the garden in which I had placed you.
 
-**[6:3]** He, therefore, sent His Word to them; that they should stand and be
+**[6:5]** Of your own free will have you transgressed through your desire for divinity, greatness, and an exalted state, such as I have; so that I deprived you of the bright nature in which you then were, and I made you come out of the garden to this land, rough and full of trouble.
 
-raised immediately.
+**[6:6]** If only you had not transgressed My commandment and had kept My law, and had not eaten of the fruit of the tree which I told you not to come near! And there were fruit trees in the garden better than that one.
 
+**[6:7]** But the wicked Satan did not keep his faith and had no good intent towards Me, that although I had created him, he considered Me to be useless, and sought the Godhead for himself; for this I hurled him down from heaven so that he could not remain in his first estate--it was he who made the tree appear pleasant in your eyes, until you ate of it, by believing his words.
 
+**[6:8]** Thus have you transgressed My commandment, and therefore I have brought on you all these sorrows.
 
-**[6:4]** And the Lord said to Adam and Eve, "You transgressed of your own free
+**[6:9]** For I am God the Creator, who, when I created My creatures, did not intend to destroy them. But after they had sorely roused My anger,I punished them with grievous plagues, until they repent.
 
-will, until you came out of the garden in which I had placed you.
+**[6:10]** But, if on the contrary, they still continue hardened in their transgression, they shall be under a curse forever."
 
 
+**[7:1]** When Adam and Eve heard these words from God, they cried and sobbed yet more; but they strengthened their hearts in God, because they now felt that the Lord was to them like a father and a mother; and for this very reason, they cried before Him, and sought mercy from Him.
 
-**[6:5]** Of your own free will have you transgressed through your desire for
+**[7:2]** Then God had pity on them, and said: "O Adam, I have made My covenant with you, and I will not turn from it; neither will I let you return to the garden, until My covenant of the great five and a half days is fulfilled."
 
-divinity, greatness, and an exalted state, such as I have; so that I
+**[7:3]** Then Adam said to God, "O Lord, You created us, and made us fit to be in the garden; and before I transgressed, You made all beasts come to me, that I should name them.
 
-deprived you of the bright nature in which you then were, and I made
+**[7:4]** Your grace was then on me; and I named every one according to Your mind; and you made them all subject to me.
 
-you come out of the garden to this land, rough and full of trouble.
+**[7:5]** But now, O Lord God, that I have transgressed Your commandment, all beasts will rise against me and will devour me, and Eve Your handmaid; and will cut off our life from the face of the earth.
 
+**[7:6]** I therefore beg you, O God, that since You have made us come out of the garden, and have made us be in a strange land, You will not let the beasts hurt us."
 
+**[7:7]** When the Lord heard these words from Adam, He had pity on him, and felt that he had truly said that the beasts of the field would rise and devour him and Eve, because He, the Lord, was angry with the two of them on account of their transgressions.
 
-**[6:6]** If only you had not transgressed My commandment and had kept My law,
+**[7:8]** Then God commanded the beasts, and the birds, and all that moves on the earth, to come to Adam and to be familiar with him, and not to trouble him and Eve; nor yet any of the good and righteous among their offspring.
 
-and had not eaten of the fruit of the tree which I told you not to come
+**[7:9]** Then all the beasts paid homage to Adam, according to the commandment of God; except the serpent, against which God was angry. It did not come to Adam, with the beasts.
 
-near!  And there were fruit trees in the garden better than that one.
 
+**[8:1]** Then Adam cried and said, "O God, when we lived in the garden, and our hearts were lifted up, we saw the angels that sang praises in heaven, but now we can't see like we used to; no, when we entered the cave, all creation became hidden from us."
 
+**[8:2]** Then God the Lord said to Adam, "When you were under subjection to Me, you had a bright nature within you, and for that reason could you see things far away.  But after your transgression your bright nature was withdrawn from you; and it was not left to you to see things far away, but only near at hand; after the ability of the flesh; for it is brutish."
 
-**[6:7]** But the wicked Satan did not keep his faith and had no good intent
-
-towards Me, that although I had created him, he considered Me to be
-
-useless, and sought the Godhead for himself; for this I hurled him down
-
-from heaven so that he could not remain in his first estate--it was he
-
-who made the tree appear pleasant in your eyes, until you ate of it, by
-
-believing his words.
-
-
-
-**[6:8]** Thus have you transgressed My commandment, and therefore I have
-
-brought on you all these sorrows.
-
-
-
-**[6:9]** For I am God the Creator, who, when I created My creatures, did not
-
-intend to destroy them.  But after they had sorely roused My anger, I
-
-punished them with grievous plagues, until they repent.
-
-
-
-**[6:10]** But, if on the contrary, they still continue hardened in their
-
-transgression, they shall be under a curse forever."
-
-
-
-**[7:1]** When Adam and Eve heard these words from God, they cried and sobbed
-
-yet more; but they strengthened their hearts in God, because they now
-
-felt that the Lord was to them like a father and a mother; and for this
-
-very reason, they cried before Him, and sought mercy from Him.
-
-
-
-**[7:2]** Then God had pity on them, and said: "O Adam, I have made My covenant
-
-with you, and I will not turn from it; neither will I let you return to
-
-the garden, until My covenant of the great five and a half days is
-
-fulfilled."
-
-
-
-**[7:3]** Then Adam said to God, "O Lord, You created us, and made us fit to be
-
-in the garden; and before I transgressed, You made all beasts come to
-
-me, that I should name them.
-
-
-
-**[7:4]** Your grace was then on me; and I named every one according to Your
-
-mind; and you made them all subject to me.
-
-
-
-**[7:5]** But now, O Lord God, that I have transgressed Your commandment, all
-
-beasts will rise against me and will devour me, and Eve Your handmaid;
-
-and will cut off our life from the face of the earth.
-
-
-
-**[7:6]** I therefore beg you, O God, that since You have made us come out of
-
-the garden, and have made us be in a strange land, You will not let the
-
-beasts hurt us."
-
-
-
-**[7:7]** When the Lord heard these words from Adam, He had pity on him, and
-
-felt that he had truly said that the beasts of the field would rise and
-
-devour him and Eve, because He, the Lord, was angry with the two of
-
-them on account of their transgressions.
-
-
-
-**[7:8]** Then God commanded the beasts, and the birds, and all that moves on
-
-the earth, to come to Adam and to be familiar with him, and not to
-
-trouble him and Eve; nor yet any of the good and righteous among their
-
-offspring.
-
-
-
-**[7:9]** Then all the beasts paid homage to Adam, according to the commandment
-
-of God; except the serpent, against which God was angry.  It did not
-
-come to Adam, with the beasts.
-
-
-
-**[8:1]** Then Adam cried and said, "O God, when we lived in the garden, and
-
-our hearts were lifted up, we saw the angels that sang praises in
-
-heaven, but now we can't see like we used to; no, when we entered the
-
-cave, all creation became hidden from us."
-
-
-
-**[8:2]** Then God the Lord said to Adam, "When you were under subjection to
-
-Me, you had a bright nature within you, and for that reason could you
-
-see things far away.  But after your transgression your bright nature
-
-was withdrawn from you; and it was not left to you to see things far
-
-away, but only near at hand; after the ability of the flesh; for it is
-
-brutish."
-
-
-
-**[8:3]** When Adam and Eve had heard these words from God, they went their
-
-way; praising and worshipping Him with a sorrowful heart.
-
-
+**[8:3]** When Adam and Eve had heard these words from God, they went their way; praising and worshipping Him with a sorrowful heart.
 
 **[8:4]** And God ceased to commune with them.
 
 
+**[9:1]** Then Adam and Eve came out of the Cave of Treasures, and went near to the garden gate, and there they stood to look at it, and cried for having come away from it.
 
-**[9:1]** Then Adam and Eve came out of the Cave of Treasures, and went near to
+**[9:2]** And Adam and Eve went from before the gate of the garden to the southern side of it, and found there the water that watered the garden, from the root of the Tree of Life, and that split itself from there into four rivers over the earth.
 
-the garden gate, and there they stood to look at it, and cried for
+**[9:3]** Then they came and went near to that water, and looked at it; and saw that it was the water that came forth from under the root of the Tree of Life in the garden.
 
-having come away from it.
+**[9:4]** And Adam cried and wailed, and beat his chest, for being severed from the garden; and said to Eve:--
 
+**[9:5]** "Why have you brought on me, on yourself, and on our descendants, so many of these plagues and punishments?"
 
+**[9:6]** And Eve said to him, "What is it you have seen that has caused you to cry and to speak to me in this manner?"
 
-**[9:2]** And Adam and Eve went from before the gate of the garden to the
+**[9:7]** And he said to Eve, "Do you not see this water that was with us in the garden, that watered the trees of the garden, and flowed out from there?
 
-southern side of it, and found there the water that watered the garden,
+**[9:8]** And we, when we were in the garden, did not care about it; but since we came to this strange land, we love it, and turn it to use for our body."
 
-from the root of the Tree of Life, and that split itself from there
+**[9:9]** But when Eve heard these words from him, she cried; and from the soreness of their crying, they fell into that water; and would have put an end to themselves in it, so as never again to return and behold the creation; for when they looked at the work of creation, they felt they must put an end to themselves.
 
-into four rivers over the earth.
 
+**[10:1]** Then God, merciful and gracious, looked at them thus lying in the water, and close to death, and sent an angel, who brought them out of the water, and laid them on the seashore as dead.
 
+**[10:2]** Then the angel went up to God, was welcome, and said, "O God, Your creatures have breathed their last."
 
-**[9:3]** Then they came and went near to that water, and looked at it; and saw
+**[10:3]** Then God sent His Word to Adam and Eve, who raised them from their death.
 
-that it was the water that came forth from under the root of the Tree
+**[10:4]** And Adam said, after he was raised, "O God, while we were in the garden we did not require, or care for this water; but since we came to this land we cannot do without it."
 
-of Life in the garden.
+**[10:5]** Then God said to Adam, "While you were under My command and were a bright angel, you knew not this water.
 
+**[10:6]** But now that you have transgressed My commandment, you can not do without water, wherein to wash your body and make it grow; for it is now like that of beasts, and is in want of water."
 
+**[10:7]** When Adam and Eve heard these words from God, they cried a bitter cry; and Adam entreated God to let him return into the garden, and look at it a second time.
 
-**[9:4]** And Adam cried and wailed, and beat his chest, for being severed from
-
-the garden; and said to Eve:--
-
-
-
-**[9:5]** "Why have you brought on me, on yourself, and on our descendants, so
-
-many of these plagues and punishments?"
-
-
-
-**[9:6]** And Eve said to him, "What is it you have seen that has caused you to
-
-cry and to speak to me in this manner?"
-
-
-
-**[9:7]** And he said to Eve, "Do you not see this water that was with us in
-
-the garden, that watered the trees of the garden, and flowed out from
-
-there?
-
-
-
-**[9:8]** And we, when we were in the garden, did not care about it; but since
-
-we came to this strange land, we love it, and turn it to use for our
-
-body."
-
-
-
-**[9:9]** But when Eve heard these words from him, she cried; and from the
-
-soreness of their crying, they fell into that water; and would have put
-
-an end to themselves in it, so as never again to return and behold the
-
-creation; for when they looked at the work of creation, they felt they
-
-must put an end to themselves.
-
-
-
-**[10:1]** Then God, merciful and gracious, looked at them thus lying in the
-
-water, and close to death, and sent an angel, who brought them out of
-
-the water, and laid them on the seashore as dead.
-
-
-
-**[10:2]** Then the angel went up to God, was welcome, and said, "O God, Your
-
-creatures have breathed their last."
-
-
-
-**[10:3]** Then God sent His Word to Adam and Eve, who raised them from their
-
-death.
-
-
-
-**[10:4]** And Adam said, after he was raised, "O God, while we were in the
-
-garden we did not require, or care for this water; but since we came to
-
-this land we cannot do without it."
-
-
-
-**[10:5]** Then God said to Adam, "While you were under My command and were a
-
-bright angel, you knew not this water.
-
-
-
-**[10:6]** But now that you have transgressed My commandment, you can not do
-
-without water, wherein to wash your body and make it grow; for it is
-
-now like that of beasts, and is in want of water."
-
-
-
-**[10:7]** When Adam and Eve heard these words from God, they cried a bitter
-
-cry; and Adam entreated God to let him return into the garden, and look
-
-at it a second time.
-
-
-
-**[10:8]** But God said to Adam, "I have made you a promise; when that promise
-
-is fulfilled, I will bring you back into the garden, you and your
-
-righteous descendants."
-
-
+**[10:8]** But God said to Adam, "I have made you a promise; when that promise is fulfilled, I will bring you back into the garden, you and your righteous descendants."
 
 **[10:9]** And God ceased to commune with Adam.
 
