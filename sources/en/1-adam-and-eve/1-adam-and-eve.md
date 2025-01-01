@@ -1398,801 +1398,220 @@ praised Him for having delivered them from death.
 
 **[21:1]** Then Adam and Eve went in search of the garden.
 
+**[21:2]** And the heat beat like a flame on their faces; and they sweated from the heat, and cried before the Lord.
 
+**[21:3]** But the place where they cried was close to a high mountain, facing the western gate of the garden.
 
-**[21:2]** And the heat beat like a flame on their faces; and they sweated from
+**[21:4]** Then Adam threw himself down from the top of that mountain; his face was torn and his flesh was ripped; he lost a lot of blood and was close to death.
 
-the heat, and cried before the Lord.
+**[21:5]** Meanwhile Eve remained standing on the mountain crying over him, thus lying.
 
+**[21:6]** And she said, "I don't wish to live after him; for all that he did to himself was through me."
 
+**[21:7]** Then she threw herself after him; and was torn and ripped by stones; and remained lying as dead.
 
-**[21:3]** But the place where they cried was close to a high mountain, facing
+**[21:8]** But the merciful God, who looks over His creatures, looked at Adam and Eve as they lay dead, and He sent His Word to them, and raised them.
 
-the western gate of the garden.
+**[21:9]** And said to Adam, "O Adam, all this misery which you have brought on yourself, will have no affect against My rule, neither will it alter the covenant of the 5,500 years."
 
 
+**[22:1]** Then Adam said to God, "I dry up in the heat, I am faint from walking, and I don't want to be in this world.  And I don't know when You will take me out of it to rest."
 
-**[21:4]** Then Adam threw himself down from the top of that mountain; his face
+**[22:2]** Then the Lord God said to him, "O Adam, it cannot be now, not until you have ended your days.  Then shall I bring you out of this miserable land."
 
-was torn and his flesh was ripped; he lost a lot of blood and was close
+**[22:3]** And Adam said to God, "While I was in the garden I knew neither heat, nor languor, neither moving about, nor trembling, nor fear; but now since I came to this land, all this affliction has come over me.
 
-to death.
+**[22:4]** Then God said to Adam, "So long as you were keeping My commandment, My light and My grace rested on you.  But when you transgressed My commandment, sorrow and misery came to you in this land."
 
+**[22:5]** And Adam cried and said, "O Lord, do not cut me off for this, neither punish me with heavy plagues, nor yet repay me according to my sin; for we, of our own will, transgressed Your commandment, and ignored Your law, and tried to become gods like you, when Satan the enemy deceived us."
 
+**[22:6]** Then God said again to Adam, "Because you have endured fear and trembling in this land, languor and suffering, treading and walking about, going on this mountain, and dying from it, I will take all this on Myself in order to save you."
 
-**[21:5]** Meanwhile Eve remained standing on the mountain crying over him, thus
 
-lying.
-
-
-
-**[21:6]** And she said, "I don't wish to live after him; for all that he did to
-
-himself was through me."
-
-
-
-**[21:7]** Then she threw herself after him; and was torn and ripped by stones;
-
-and remained lying as dead.
-
-
-
-**[21:8]** But the merciful God, who looks over His creatures, looked at Adam
-
-and Eve as they lay dead, and He sent His Word to them, and raised them.
-
-
-
-**[21:9]** And said to Adam, "O Adam, all this misery which you have brought on
-
-yourself, will have no affect against My rule, neither will it alter
-
-the covenant of the 5, 500 years."
-
-
-
-**[22:1]** Then Adam said to God, "I dry up in the heat, I am faint from
-
-walking, and I don't want to be in this world.  And I don't know when
-
-You will take me out of it to rest."
-
-
-
-**[22:2]** Then the Lord God said to him, "O Adam, it cannot be now, not until
-
-you have ended your days.  Then shall I bring you out of this miserable
-
-land."
-
-
-
-**[22:3]** And Adam said to God, "While I was in the garden I knew neither heat,
-
-nor languor, neither moving about, nor trembling, nor fear; but now
-
-since I came to this land, all this affliction has come over me.
-
-
-
-**[22:4]** Then God said to Adam, "So long as you were keeping My commandment,
-
-My light and My grace rested on you.  But when you transgressed My
-
-commandment, sorrow and misery came to you in this land."
-
-
-
-**[22:5]** And Adam cried and said, "O Lord, do not cut me off for this, neither
-
-punish me with heavy plagues, nor yet repay me according to my sin; for
-
-we, of our own will, transgressed Your commandment, and ignored Your
-
-law, and tried to become gods like you, when Satan the enemy deceived
-
-us."
-
-
-
-**[22:6]** Then God said again to Adam, "Because you have endured fear and
-
-trembling in this land, languor and suffering, treading and walking
-
-about, going on this mountain, and dying from it, I will take all this
-
-on Myself in order to save you."
-
-
-
-**[23:1]** Then Adam cried more and said, "O God, have mercy on me, so far as to
-
-take on yourself, that which I will do."
-
-
+**[23:1]** Then Adam cried more and said, "O God, have mercy on me, so far as to take on yourself, that which I will do."
 
 **[23:2]** But God withdrew His Word from Adam and Eve.
 
+**[23:3]** Then Adam and Eve stood on their feet; and Adam said to Eve, "Strengthen yourself, and I also will strengthen myself." And she strengthened herself, as Adam told her.
 
+**[23:4]** Then Adam and Eve took stones and placed them in the shape of an altar; and they took leaves from the trees outside the garden, with which they wiped, from the face of the rock, the blood they had spilled.
 
-**[23:3]** Then Adam and Eve stood on their feet; and Adam said to Eve,
+**[23:5]** But that which had dropped on the sand, they took together with the dust with which it was mingled and offered it on the altar as an offering to God.
 
-"Strengthen yourself, and I also will strengthen myself." And she
+**[23:6]** Then Adam and Eve stood under the Altar and cried, thus praying to God, "Forgive us our trespass and our sin, and look at us with Thine eye of mercy.  For when we were in the garden our praises and our hymns went up before you without ceasing.
 
-strengthened herself, as Adam told her.
+**[23:7]** But when we came into this strange land, pure praise was not longer ours, nor righteous prayer, nor understanding hearts, nor sweet thoughts, nor just counsels, nor long discernment, nor upright feelings, neither is our bright nature left us.  But our body is changed from the likeness in which it was at first, when we were created.
 
-
-
-**[23:4]** Then Adam and Eve took stones and placed them in the shape of an
-
-altar; and they took leaves from the trees outside the garden, with
-
-which they wiped, from the face of the rock, the blood they had spilled.
-
-
-
-**[23:5]** But that which had dropped on the sand, they took together with the
-
-dust with which it was mingled and offered it on the altar as an
-
-offering to God.
-
-
-
-**[23:6]** Then Adam and Eve stood under the Altar and cried, thus praying to
-
-God, "Forgive us our trespass and our sin, and look at us with Thine
-
-eye of mercy.  For when we were in the garden our praises and our hymns
-
-went up before you without ceasing.
-
-
-
-**[23:7]** But when we came into this strange land, pure praise was not longer
-
-ours, nor righteous prayer, nor understanding hearts, nor sweet
-
-thoughts, nor just counsels, nor long discernment, nor upright
-
-feelings, neither is our bright nature left us.  But our body is
-
-changed from the likeness in which it was at first, when we were
-
-created.
-
-
-
-**[23:8]** Yet now look at our blood which is offered on these stones, and
-
-accept it at our hands, like the praise we used to sing to you at
-
-first, when in the garden."
-
-
+**[23:8]** Yet now look at our blood which is offered on these stones, and accept it at our hands, like the praise we used to sing to you at first, when in the garden."
 
 **[23:9]** And Adam began to make more requests of God.
 
 
+**[24:1]** Then the merciful God, good and lover of men, looked at Adam and Eve, and at their blood, which they had held up as an offering to Him; without an order from Him for so doing.  But He wondered at them; and accepted their offerings.
 
-**[24:1]** Then the merciful God, good and lover of men, looked at Adam and Eve,
-
-and at their blood, which they had held up as an offering to Him;
-
-without an order from Him for so doing.  But He wondered at them; and
-
-accepted their offerings.
-
-
-
-**[24:2]** And God sent from His presence a bright fire, that consumed their
-
-offering.
-
-
+**[24:2]** And God sent from His presence a bright fire, that consumed their offering.
 
 **[24:3]** He smelled the sweet savor of their offering, and showed them mercy.
 
+**[24:4]** Then came the Word of God to Adam, and said to him, "O Adam, as you have shed your blood, so will I shed My own blood when I become flesh of your descendants; and as you died, O Adam, so also will I die. And as you built an altar, so also will I make for you an altar of the earth; and as you offered your blood on it, so also will I offer My blood on an altar on the earth.
+
+**[24:5]** And as you sued for forgiveness through that blood, so also will I make My blood forgiveness of sins, and erase transgressions in it.
+
+**[24:6]** And now, behold, I have accepted your offering, O Adam, but the days of the covenant in which I have bound you are not fulfilled. When they are fulfilled, then will I bring you back into the garden.
+
+**[24:7]** Now, therefore, strengthen your heart; and when sorrow comes over you, make Me an offering, and I will be favorable to you."
 
 
-**[24:4]** Then came the Word of God to Adam, and said to him, "O Adam, as you
+**[25:1]** But God knew that Adam believed he should frequently kill himself and make an offering to Him of his blood.
 
-have shed your blood, so will I shed My own blood when I become flesh
+**[25:2]** Therefore He said to him, "O Adam, don't ever kill yourself like this again, by throwing yourself down from that mountain."
 
-of your descendants; and as you died, O Adam, so also will I die.  And
+**[25:3]** But Adam said to God, "I was thinking to put an end to myself at once, for having transgressed Your commandments, and for my having come out of the beautiful garden; and for the bright light of which You have deprived me; and for the praises which poured forth from my mouth without ceasing, and for the light that covered me.
 
-as you built an altar, so also will I make for you an altar of the
+**[25:4]** Yet of Your goodness, O God, do not get rid of me altogether; but be favorable to me every time I die, and bring me to life.
 
-earth; and as you offered your blood on it, so also will I offer My
-
-blood on an altar on the earth.
-
-
-
-**[24:5]** And as you sued for forgiveness through that blood, so also will I
-
-make My blood forgiveness of sins, and erase transgressions in it.
-
-
-
-**[24:6]** And now, behold, I have accepted your offering, O Adam, but the days
-
-of the covenant in which I have bound you are not fulfilled.  When they
-
-are fulfilled, then will I bring you back into the garden.
-
-
-
-**[24:7]** Now, therefore, strengthen your heart; and when sorrow comes over
-
-you, make Me an offering, and I will be favorable to you."
-
-
-
-**[25:1]** But God knew that Adam believed he should frequently kill himself and
-
-make an offering to Him of his blood.
-
-
-
-**[25:2]** Therefore He said to him, "O Adam, don't ever kill yourself like this
-
-again, by throwing yourself down from that mountain."
-
-
-
-**[25:3]** But Adam said to God, "I was thinking to put an end to myself at
-
-once, for having transgressed Your commandments, and for my having come
-
-out of the beautiful garden; and for the bright light of which You have
-
-deprived me; and for the praises which poured forth from my mouth
-
-without ceasing, and for the light that covered me.
-
-
-
-**[25:4]** Yet of Your goodness, O God, do not get rid of me altogether; but be
-
-favorable to me every time I die, and bring me to life.
-
-
-
-**[25:5]** And thereby it will be made known that You are a merciful God, who
-
-does not want anyone to perish; who loves not that one should fall; and
-
-who does not condemn any one cruelly, badly, and by whole destruction."
-
-
+**[25:5]** And thereby it will be made known that You are a merciful God, who does not want anyone to perish; who loves not that one should fall; and who does not condemn any one cruelly, badly, and by whole destruction."
 
 **[25:6]** Then Adam remained silent.
 
+**[25:7]** And the Word of God came to him, and blessed him, and comforted him, and covenanted with him, that He would save him at the end of the days determined for him.
 
+**[25:8]** This, then, was the first offering Adam made to God; and so it became his custom to do. 
 
-**[25:7]** And the Word of God came to him, and blessed him, and comforted him,
 
-and covenanted with him, that He would save him at the end of the days
+**[26:1]** Then Adam took Eve, and they began to return to the Cave of Treasures where they lived. But when they got closer to it and saw it from a distance, heavy sorrow fell on Adam and Eve when they looked at it.
 
-determined for him.
+**[26:2]** Then Adam said to Eve, "When we were on the mountain we were comforted by the Word of God that conversed with us; and the light that came from the east shown over us.
 
+**[26:3]** But now the Word of God is hidden from us; and the light that shown over us is so changed as to disappear, and let darkness and sorrow come over us.
 
+**[26:4]** And we are forced to enter this cave which is like a prison, in which darkness covers us, so that we are separated from each other; and you can not see me, neither can I see you."
 
-**[25:8]** This, then, was the first offering Adam made to God; and so it became
+**[26:5]** When Adam had said these words, they cried and spread their hands before God; for they were full of sorrow.
 
-his custom to do. 
+**[26:6]** And they prayed to God to bring the sun to them, to shine on them, so that darkness would not return to them, and that they wouldn't have to go under this covering of rock.  And they wished to die rather than see the darkness.
 
+**[26:7]** Then God looked at Adam and Eve and at their great sorrow, and at all they had done with a fervent heart, on account of all the trouble they were in, instead of their former well-being, and on account of all the misery that came over them in a strange land.
 
+**[26:8]** Therefore God was not angry with them; nor impatient with them; but he was patient and forbearing towards them, as towards the children He had created.
 
-**[26:1]** Then Adam took Eve, and they began to return to the Cave of Treasures
+**[26:9]** Then came the Word of God to Adam, and said to him, "Adam, as for the sun, if I were to take it and bring it to you, days, hours, years and months would all stop, and the covenant I have made with you, would never be fulfilled.
 
-where they lived.  But when they got closer to it and saw it from a
+**[26:10]** But then you would be deserted and stuck in a perpetual plague, and you would never be saved.
 
-distance, heavy sorrow fell on Adam and Eve when they looked at it.
+**[26:11]** Yes, rather, bear long and calm your soul while you live night and day; until the fulfillment of the days, and the time of My covenant is come.
 
+**[26:12]** Then shall I come and save you, O Adam, for I do not wish that you be afflicted.
 
+**[26:13]** And when I look at all the good things in which you lived, and why you came out of them, then would I willingly show you mercy.
 
-**[26:2]** Then Adam said to Eve, "When we were on the mountain we were
+**[26:14]** But I cannot alter the covenant that has gone out of My mouth; otherwise I would have brought you back into the garden.
 
-comforted by the Word of God that conversed with us; and the light that
+**[26:15]** When, however, the covenant is fulfilled, then shall I show you and your descendants mercy, and bring you into a land of gladness, where there is neither sorrow nor suffering; but abiding joy and gladness, and light that never fails, and praises that never cease; and a beautiful garden that shall never pass away."
 
-came from the east shown over us.
+**[26:16]** And God said again to Adam, "Be patient and enter the cave, for the darkness, of which you were afraid, shall only be twelve hours long; and when ended, light shall come up."
 
+**[26:17]** Then when Adam heard these words from God, he and Eve worshipped before Him, and their hearts were comforted.  They returned into the cave after their custom, while tears flowed from their eyes, sorrow and wailing came from their hearts, and they wished their soul would leave their body.
 
-
-**[26:3]** But now the Word of God is hidden from us; and the light that shown
-
-over us is so changed as to disappear, and let darkness and sorrow come
-
-over us.
-
-
-
-**[26:4]** And we are forced to enter this cave which is like a prison, in which
-
-darkness covers us, so that we are separated from each other; and you
-
-can not see me, neither can I see you."
-
-
-
-**[26:5]** When Adam had said these words, they cried and spread their hands
-
-before God; for they were full of sorrow.
-
-
-
-**[26:6]** And they prayed to God to bring the sun to them, to shine on them, so
-
-that darkness would not return to them, and that they wouldn't have to
-
-go under this covering of rock.  And they wished to die rather than see
-
-the darkness.
-
-
-
-**[26:7]** Then God looked at Adam and Eve and at their great sorrow, and at all
-
-they had done with a fervent heart, on account of all the trouble they
-
-were in, instead of their former well-being, and on account of all the
-
-misery that came over them in a strange land.
-
-
-
-**[26:8]** Therefore God was not angry with them; nor impatient with them; but
-
-he was patient and forbearing towards them, as towards the children He
-
-had created.
-
-
-
-**[26:9]** Then came the Word of God to Adam, and said to him, "Adam, as for the
-
-sun, if I were to take it and bring it to you, days, hours, years and
-
-months would all stop, and the covenant I have made with you, would
-
-never be fulfilled.
-
-
-
-**[26:10]** But then you would be deserted and stuck in a perpetual plague, and
-
-you would never be saved.
-
-
-
-**[26:11]** Yes, rather, bear long and calm your soul while you live night and
-
-day; until the fulfillment of the days, and the time of My covenant is
-
-come.
-
-
-
-**[26:12]** Then shall I come and save you, O Adam, for I do not wish that you
-
-be afflicted.
-
-
-
-**[26:13]** And when I look at all the good things in which you lived, and why
-
-you came out of them, then would I willingly show you mercy.
-
-
-
-**[26:14]** But I cannot alter the covenant that has gone out of My mouth;
-
-otherwise I would have brought you back into the garden.
-
-
-
-**[26:15]** When, however, the covenant is fulfilled, then shall I show you and
-
-your descendants mercy, and bring you into a land of gladness, where
-
-there is neither sorrow nor suffering; but abiding joy and gladness,
-
-and light that never fails, and praises that never cease; and a
-
-beautiful garden that shall never pass away."
-
-
-
-**[26:16]** And God said again to Adam, "Be patient and enter the cave, for the
-
-darkness, of which you were afraid, shall only be twelve hours long;
-
-and when ended, light shall come up."
-
-
-
-**[26:17]** Then when Adam heard these words from God, he and Eve worshipped
-
-before Him, and their hearts were comforted.  They returned into the
-
-cave after their custom, while tears flowed from their eyes, sorrow and
-
-wailing came from their hearts, and they wished their soul would leave
-
-their body.
-
-
-
-**[26:18]** And Adam and Eve stood praying until the darkness of night came over
-
-them, and Adam was hid from Eve, and she from him.
-
-
+**[26:18]** And Adam and Eve stood praying until the darkness of night came over them, and Adam was hid from Eve, and she from him.
 
 **[26:19]** And they remained standing in prayer. 
 
 
+**[27:1]** When Satan, the hater of all good, saw how they continued in prayer, and how God communed with them, and comforted them, and how He had accepted their offering--Satan made an apparition.
 
-**[27:1]** When Satan, the hater of all good, saw how they continued in prayer,
+**[27:2]** He began with transforming his hosts; in his hands was a flashing fire, and they were in a great light.
 
-and how God communed with them, and comforted them, and how He had
+**[27:3]** He then placed his throne near the mouth of the cave because he could not enter into it by reason of their prayers. And he shed light into the cave, until the cave glistened over Adam and Eve; while his hosts began to sing praises.
 
-accepted their offering--Satan made an apparition.
+**[27:4]** And Satan did this, in order that when Adam saw the light, he should think within himself that it was a heavenly light, and that Satan's hosts were angels; and that God had sent them to watch at the cave, and to give him light in the darkness.
 
+**[27:5]** So that when Adam came out of the cave and saw them, and Adam and Eve bowed to Satan, then he would overcome Adam thereby, and a second time humble him before God.
 
+**[27:6]** When, therefore, Adam and Eve saw the light, fancying it was real, they strengthened their hearts; yet, as they were trembling, Adam said to Eve:--
 
-**[27:2]** He began with transforming his hosts; in his hands was a flashing
+**[27:7]** "Look at that great light, and at those many songs of praise, and at that host standing outside who won't come into our cave. Why don't they tell us what they want, where they are from, what the meaning of this light is, what those praises are, why they have been sent to this place, and why they won't come in?
 
-fire, and they were in a great light.
-
-
-
-**[27:3]** He then placed his throne near the mouth of the cave because he could
-
-not enter into it by reason of their prayers.  And he shed light into
-
-the cave, until the cave glistened over Adam and Eve; while his hosts
-
-began to sing praises.
-
-
-
-**[27:4]** And Satan did this, in order that when Adam saw the light, he should
-
-think within himself that it was a heavenly light, and that Satan's
-
-hosts were angels; and that God had sent them to watch at the cave, and
-
-to give him light in the darkness.
-
-
-
-**[27:5]** So that when Adam came out of the cave and saw them, and Adam and Eve
-
-bowed to Satan, then he would overcome Adam thereby, and a second time
-
-humble him before God.
-
-
-
-**[27:6]** When, therefore, Adam and Eve saw the light, fancying it was real,
-
-they strengthened their hearts; yet, as they were trembling, Adam said
-
-to Eve:--
-
-
-
-**[27:7]** "Look at that great light, and at those many songs of praise, and at
-
-that host standing outside who won't come into our cave.  Why don't
-
-they tell us what they want, where they are from, what the meaning of
-
-this light is, what those praises are, why they have been sent to this
-
-place, and why they won't come in?
-
-
-
-**[27:8]** If they were from God, they would come into the cave with us, and
-
-would tell us why they were sent."
-
-
+**[27:8]** If they were from God, they would come into the cave with us, and would tell us why they were sent."
 
 **[27:9]** Then Adam stood up and prayed to God with a burning heart, and said:--
 
+**[27:10]** "O Lord, is there in the world another god besides You, who created angels and filled them with light, and sent them to keep us, who would come with them?
 
+**[27:11]** But, look, we see these hosts that stand at the mouth of the cave; they are in a great light; they sing loud praises.  If they are of some other god than You, tell me; and if they are sent by you, inform me of the reason for which You have sent them."
 
-**[27:10]** "O Lord, is there in the world another god besides You, who created
+**[27:12]** No sooner had Adam said this, than an angel from God appeared to him in the cave, who said to him, "O Adam, fear not.  This is Satan and his hosts; he wishes to deceive you as he deceived you at first. For the first time, he was hidden in the serpent; but this time he is come to you in the likeness of an angel of light; in order that, when you worshipped him, he might enslave you, in the very presence of God."
 
-angels and filled them with light, and sent them to keep us, who would
+**[27:13]** Then the angel went from Adam and seized Satan at the opening of the cave, and stripped him of the pretense he had assumed, and brought him in his own hideous form to Adam and Eve; who were afraid of him when they saw him.
 
-come with them?
+**[27:14]** And the angel said to Adam, "This hideous form has been his ever since God made him fall from heaven. He could not have come near you in it; he therefore transformed himself into an angel of light."
 
-
-
-**[27:11]** But, look, we see these hosts that stand at the mouth of the cave;
-
-they are in a great light; they sing loud praises.  If they are of some
-
-other god than You, tell me; and if they are sent by you, inform me of
-
-the reason for which You have sent them."
-
-
-
-**[27:12]** No sooner had Adam said this, than an angel from God appeared to him
-
-in the cave, who said to him, "O Adam, fear not.  This is Satan and his
-
-hosts; he wishes to deceive you as he deceived you at first.  For the
-
-first time, he was hidden in the serpent; but this time he is come to
-
-you in the likeness of an angel of light; in order that, when you
-
-worshipped him, he might enslave you, in the very presence of God."
-
-
-
-**[27:13]** Then the angel went from Adam and seized Satan at the opening of the
-
-cave, and stripped him of the pretense he had assumed, and brought him
-
-in his own hideous form to Adam and Eve; who were afraid of him when
-
-they saw him.
-
-
-
-**[27:14]** And the angel said to Adam, "This hideous form has been his ever
-
-since God made him fall from heaven.  He could not have come near you
-
-in it; he therefore transformed himself into an angel of light."
-
-
-
-**[27:15]** Then the angel drove away Satan and his hosts from Adam and Eve, and
-
-said to them, "Fear not; God who created you, will strengthen you."
-
-
+**[27:15]** Then the angel drove away Satan and his hosts from Adam and Eve, and said to them, "Fear not; God who created you, will strengthen you."
 
 **[27:16]** And the angel left them.
 
+**[27:17]** But Adam and Eve remained standing in the cave; no consolation came to them; they divided in their thoughts.
+
+**[27:18]** And when it was morning they prayed; and then went out to seek the garden.  For their hearts were towards it, and they could get no consolation for having left it. 
 
 
-**[27:17]** But Adam and Eve remained standing in the cave; no consolation came
+**[28:1]** But when the crafty Satan saw them, that they were going to the garden, he gathered together his host, and came in appearance on a cloud, intent on deceiving them.
 
-to them; they divided in their thoughts.
+**[28:2]** But when Adam and Eve saw him thus in a vision, they thought they were angels of God come to comfort them about having left the garden, or to bring them back again into it.
 
+**[28:3]** And Adam spread his hands before God, beseeching Him to make him understand what they were.
 
+**[28:4]** Then Satan, the hater of all good, said to Adam, "O Adam, I am an angel of the great God; and, behold the hosts that surround me.
 
-**[27:18]** And when it was morning they prayed; and then went out to seek the
-
-garden.  For their hearts were towards it, and they could get no
-
-consolation for having left it. 
-
-
-
-**[28:1]** But when the crafty Satan saw them, that they were going to the
-
-garden, he gathered together his host, and came in appearance on a
-
-cloud, intent on deceiving them.
-
-
-
-**[28:2]** But when Adam and Eve saw him thus in a vision, they thought they
-
-were angels of God come to comfort them about having left the garden,
-
-or to bring them back again into it.
-
-
-
-**[28:3]** And Adam spread his hands before God, beseeching Him to make him
-
-understand what they were.
-
-
-
-**[28:4]** Then Satan, the hater of all good, said to Adam, "O Adam, I am an
-
-angel of the great God; and, behold the hosts that surround me.
-
-
-
-**[28:5]** God has sent us to take you and bring you to the border of the garden
-
-northwards; to the shore of the clear sea, and bathe you and Eve in it,
-
-and raise you to your former gladness, that you return again to the
-
-garden."
-
-
+**[28:5]** God has sent us to take you and bring you to the border of the garden northwards; to the shore of the clear sea, and bathe you and Eve in it, and raise you to your former gladness, that you return again to the garden."
 
 **[28:6]** These words sank into the heart of Adam and Eve.
 
+**[28:7]** Yet God withheld His Word from Adam, and did not make him understand at once, but waited to see his strength; whether he would be overcome as Eve was when in the garden, or whether he would prevail.
 
-
-**[28:7]** Yet God withheld His Word from Adam, and did not make him understand
-
-at once, but waited to see his strength; whether he would be overcome
-
-as Eve was when in the garden, or whether he would prevail.
-
-
-
-**[28:8]** Then Satan called to Adam and Eve, and said, "Behold, we go to the
-
-sea of water," and they began to go.
-
-
+**[28:8]** Then Satan called to Adam and Eve, and said, "Behold, we go to the sea of water," and they began to go.
 
 **[28:9]** And Adam and Eve followed them at some little distance.
 
+**[28:10]** But when they came to the mountain to the north of the garden, a very high mountain, without any steps to the top of it, the Devil drew near to Adam and Eve, and made them go up to the top in reality, and not in a vision; wishing, as he did, to throw them down and kill them, and to wipe off their name from the earth; so that this earth should remain to him and his hosts alone. 
 
 
-**[28:10]** But when they came to the mountain to the north of the garden, a
+**[29:1]** But when the merciful God saw that Satan wished to kill Adam with his many tricks, and saw that Adam was meek and without guile, God spoke to Satan in a loud voice, and cursed him.
 
-very high mountain, without any steps to the top of it, the Devil drew
+**[29:2]** Then he and his hosts fled, and Adam and Eve remained standing on the top of the mountain, from there they saw below them the wide world, high above which they were.  But they saw none of the host which time after time were by them.
 
-near to Adam and Eve, and made them go up to the top in reality, and
+**[29:3]** They cried, both Adam and Eve, before God, and begged for forgiveness of Him.
 
-not in a vision; wishing, as he did, to throw them down and kill them,
+**[29:4]** Then came the Word from God to Adam, and said to him, "Know you and understand concerning this Satan, that he seeks to deceive you and your descendants after you."
 
-and to wipe off their name from the earth; so that this earth should
+**[29:5]** And Adam cried before the Lord God, and begged and prayed to Him to give him something from the garden, as a token to him, wherein to be comforted.
 
-remain to him and his hosts alone. 
+**[29:6]** And God considered Adam's thought, and sent the angel Michael as far as the sea that reaches India, to take from there golden rods and bring them to Adam.
 
+**[29:7]** This did God in His wisdom in order that these golden rods, being with Adam in the cave, should shine forth with light in the night around him, and put an end to his fear of the darkness.
 
+**[29:8]** Then the angel Michael went down by God's order, took golden rods, as God had commanded him, and brought them to God. 
 
-**[29:1]** But when the merciful God saw that Satan wished to kill Adam with his
 
-many tricks, and saw that Adam was meek and without guile, God spoke to
+**[30:1]** After these things, God commanded the angel Gabriel to go down to the garden, and say to the cherub who kept it, "Behold, God has commanded me to come into the garden, and to take from it sweet smelling incense, and give it to Adam."
 
-Satan in a loud voice, and cursed him.
+**[30:2]** Then the angel Gabriel went down by God's order to the garden, and told the cherub as God had commanded him.
 
+**[30:3]** The cherub then said, "Well." And Gabriel went in and took the incense.
 
+**[30:4]** Then God commanded his angel Raphael to go down to the garden, and speak to the cherub about some myrrh, to give to Adam.
 
-**[29:2]** Then he and his hosts fled, and Adam and Eve remained standing on the
+**[30:5]** And the angel Raphael went down and told the cherub as God hadcommanded him, and the cherub said, "Well." Then Raphael went in and took the myrrh.
 
-top of the mountain, from there they saw below them the wide world,
+**[30:6]** The golden rods were from the Indian sea, where there are precious stones. The incense was from the eastern border of the garden; and the myrrh from the western border, from where bitterness came over Adam.
 
-high above which they were.  But they saw none of the host which time
+**[30:7]** And the angels brought these things to God, by the Tree of Life, in the garden.
 
-after time were by them.
+**[30:8]** Then God said to the angels, "Dip them in the spring of water; then take them and sprinkle their water over Adam and Eve, that they be a little comforted in their sorrow, and give them to Adam and Eve.
 
+**[30:9]** And the angels did as God had commanded them, and they gave all those things to Adam and Eve on the top of the mountain on which Satan had placed them, when he sought to make an end of them.
 
-
-**[29:3]** They cried, both Adam and Eve, before God, and begged for forgiveness
-
-of Him.
-
-
-
-**[29:4]** Then came the Word from God to Adam, and said to him, "Know you and
-
-understand concerning this Satan, that he seeks to deceive you and your
-
-descendants after you."
-
-
-
-**[29:5]** And Adam cried before the Lord God, and begged and prayed to Him to
-
-give him something from the garden, as a token to him, wherein to be
-
-comforted.
-
-
-
-**[29:6]** And God considered Adam's thought, and sent the angel Michael as far
-
-as the sea that reaches India, to take from there golden rods and bring
-
-them to Adam.
-
-
-
-**[29:7]** This did God in His wisdom in order that these golden rods, being
-
-with Adam in the cave, should shine forth with light in the night
-
-around him, and put an end to his fear of the darkness.
-
-
-
-**[29:8]** Then the angel Michael went down by God's order, took golden rods, as
-
-God had commanded him, and brought them to God. 
-
-
-
-**[30:1]** After these things, God commanded the angel Gabriel to go down to the
-
-garden, and say to the cherub who kept it, "Behold, God has commanded
-
-me to come into the garden, and to take from it sweet smelling incense,
-
-and give it to Adam."
-
-
-
-**[30:2]** Then the angel Gabriel went down by God's order to the garden, and
-
-told the cherub as God had commanded him.
-
-
-
-**[30:3]** The cherub then said, "Well."  And Gabriel went in and took the
-
-incense.
-
-
-
-**[30:4]** Then God commanded his angel Raphael to go down to the garden, and
-
-speak to the cherub about some myrrh, to give to Adam.
-
-
-
-**[30:5]** And the angel Raphael went down and told the cherub as God had
-
-commanded him, and the cherub said, "Well." Then Raphael went in and
-
-took the myrrh.
-
-
-
-**[30:6]** The golden rods were from the Indian sea, where there are precious
-
-stones.  The incense was from the eastern border of the garden; and the
-
-myrrh from the western border, from where bitterness came over Adam.
-
-
-
-**[30:7]** And the angels brought these things to God, by the Tree of Life, in
-
-the garden.
-
-
-
-**[30:8]** Then God said to the angels, "Dip them in the spring of water; then
-
-take them and sprinkle their water over Adam and Eve, that they be a
-
-little comforted in their sorrow, and give them to Adam and Eve.
-
-
-
-**[30:9]** And the angels did as God had commanded them, and they gave all those
-
-things to Adam and Eve on the top of the mountain on which Satan had
-
-placed them, when he sought to make an end of them.
-
-
-
-**[30:10]** And when Adam saw the golden rods, the incense and the myrrh, he was
-
-rejoiced and cried because he thought that the gold was a token of the
-
-kingdom from where he had come, that the incense was a token of the
-
-bright light which had been taken from him, and that the myrrh was a
-
-token of the sorrow in which he was. 
+**[30:10]** And when Adam saw the golden rods, the incense and the myrrh, he was rejoiced and cried because he thought that the gold was a token of the kingdom from where he had come, that the incense was a token of the bright light which had been taken from him, and that the myrrh was a token of the sorrow in which he was. 
 
 
 
