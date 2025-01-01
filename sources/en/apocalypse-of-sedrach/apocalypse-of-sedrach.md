@@ -1,9 +1,6 @@
 # The Apocalipse of Sedrach
 
 
-
-
-
 **[1:1]** Beloved, let us prefer nothing in honor except sincere love: for in many things we stumble every day and night and hour. And for this cause let us gain love, for it covereth a multitude of sins: for what is the profit, my children, if we have all things, and have not saving love… O blessed love, supplier of all good things. Blessed is the man who has gained the true faith and sincere love, according as the Master said, there is no greater love than this that a man should lay down his life for his friend. 
 
 **[1:2]** And invisibly he received a voice in his ears: Come hither, Sedrach, since thou wishest and desirest to converse with God and ask of him that he may reveal unto thee whatever thou wishest to ask. And Sedrach said: What, Sir? And the voice said to him: I was sent to thee to raise thee here into heaven. And he said: I desired to speak mouth to mouth with God: I am not fit, Sir, to come into heaven. And stretching out his wings he took him up and he came into heaven to the very flame, and he set him as high as the third heaven, and in it stood the flame of the divinity. 

@@ -3,36 +3,39 @@ import json
 import re
 
 def parse_md_to_json(md_content):
+    lines = md_content.splitlines()
     book = {"name": "", "chapters": []}
     current_chapter = None
-    verse_pattern = re.compile(r"\*\*\[(\d+):(\d+)\]\*\* (.+?)(?=\*\*\[\d+:\d+\]\*\*|$)")
+    verse_pattern = re.compile(r"\*\*\[(\d+):(\d+)\]\*\* (.+?)(?=\*\*\[\d+:\d+\]\*\*|$)", re.DOTALL)
     
-    lines = md_content.split("\n")
+    # Extract the chapter name from the first non-empty line starting with #
     for line in lines:
-        if line.startswith("# "):
-            book["name"] = line[2:].strip()
-        else:
-            matches = verse_pattern.findall(line)
-            for match in matches:
-                chapter_number = int(match[0])
-                verse_number = int(match[1])
-                verse_text = match[2].strip()
-                
-                if current_chapter is None or current_chapter["chapter"] != chapter_number:
-                    if current_chapter is not None:
-                        book["chapters"].append(current_chapter)
-                    current_chapter = {
-                        "chapter": chapter_number,
-                        "name": f"{book['name']} {chapter_number}",
-                        "verses": []
-                    }
-                
-                current_chapter["verses"].append({
-                    "verse": verse_number,
-                    "chapter": chapter_number,
-                    "name": f"{book['name']} {chapter_number}:{verse_number}",
-                    "text": verse_text
-                })
+        if line.strip():
+            if line.startswith("#"):
+                book["name"] = line[1:].strip()
+                break
+    
+    matches = verse_pattern.findall(md_content)
+    for match in matches:
+        chapter_number = int(match[0])
+        verse_number = int(match[1])
+        verse_text = match[2].strip()
+        
+        if current_chapter is None or current_chapter["chapter"] != chapter_number:
+            if current_chapter is not None:
+                book["chapters"].append(current_chapter)
+            current_chapter = {
+                "chapter": chapter_number,
+                "name": f"{book['name']} {chapter_number}",
+                "verses": []
+            }
+        
+        current_chapter["verses"].append({
+            "verse": verse_number,
+            "chapter": chapter_number,
+            "name": f"{book['name']} {chapter_number}:{verse_number}",
+            "text": verse_text
+        })
     
     if current_chapter is not None:
         book["chapters"].append(current_chapter)

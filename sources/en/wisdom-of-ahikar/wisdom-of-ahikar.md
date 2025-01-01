@@ -1,4 +1,4 @@
-# Ahikar
+# Wisdom of Ahikar
 
 **[1:1]** The story of Haiqar the Wise, Vizier of Sennacherib the King, and of Nadan, sister's son to Haiqar the Sage.
 
