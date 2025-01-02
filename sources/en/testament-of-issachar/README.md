@@ -1,1 +1,1 @@
-# The Testament of Issachar / Testaments of the Twelve Patriarchs
+# Testament of Issachar
