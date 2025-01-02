@@ -1,1 +1,1 @@
-# Ahikar
+# Wisdom of Ahikar
