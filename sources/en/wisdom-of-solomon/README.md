@@ -1,1 +1,1 @@
-# The Wisdom of Solomon
+# Wisdom of Solomon
