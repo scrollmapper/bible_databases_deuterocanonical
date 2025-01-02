@@ -1,4 +1,4 @@
-# The Testament of Jacob
+# Testament of Jacob
 
 **[1:1]** Now it came to pass when the time had come for our beloved father Jacob the patriarch, the son of Isaac, the son of Abraham, to go forth from the body (and the God-loving Jacob was well on in years), the Lord sent Michael the archangel to him. 
 
