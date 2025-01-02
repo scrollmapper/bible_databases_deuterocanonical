@@ -1,4 +1,4 @@
-# The Psalms of Solomon
+# Psalms of Solomon
 
 
 **[1:1]** I cried unto the Lord when I was in distress [ ],
