@@ -217,648 +217,191 @@
 
 
 
-**[11:1]** Then Adam and Eve felt themselves burning with thirst, and heat, and
+**[11:1]** Then Adam and Eve felt themselves burning with thirst, and heat, and sorrow.
 
-sorrow.
+**[11:2]** And Adam said to Eve, "We shall not drink of this water, even if we were to die.  O Eve, when this water comes into our inner parts, it will increase our punishments and that of our descendants."
 
+**[11:3]** Both Adam and Eve then went away from the water, and drank none of it at all; but came and entered the Cave of Treasures.
 
+**[11:4]** But when in it Adam could not see Eve; he only heard the noise she made.  Neither could she see Adam, but heard the noise he made.
 
-**[11:2]** And Adam said to Eve, "We shall not drink of this water, even if we
-
-were to die.  O Eve, when this water comes into our inner parts, it
-
-will increase our punishments and that of our descendants."
-
-
-
-**[11:3]** Both Adam and Eve then went away from the water, and drank none of it
-
-at all; but came and entered the Cave of Treasures.
-
-
-
-**[11:4]** But when in it Adam could not see Eve; he only heard the noise she
-
-made.  Neither could she see Adam, but heard the noise he made.
-
-
-
-**[11:5]** Then Adam cried, in deep affliction, and beat his chest; and he got
-
-up and said to Eve, "Where are you?"
-
-
+**[11:5]** Then Adam cried, in deep affliction, and beat his chest; and he got up and said to Eve, "Where are you?"
 
 **[11:6]** And she said to him, "Look, I am standing in this darkness."
 
+**[11:7]** He then said to her, "Remember the bright nature in which we lived, when we lived in the garden!
+
+**[11:8]** O Eve!  Remember the glory that rested on us in the garden. O Eve! Remember the trees that overshadowed us in the garden while we moved among them.
+
+**[11:9]** O Eve! Remember that while we were in the garden, we knew neither night nor day. Think of the Tree of Life, from below which flowed the water, and that shed lustre over us!  Remember, O Eve, the garden land, and the brightness thereof!
+
+**[11:10]** Think, oh think of that garden in which was no darkness, while we lived in it.
+
+**[11:11]** Whereas no sooner did we come into this Cave of Treasures than darkness surrounded us all around; until we can no longer see each other; and all the pleasure of this life has come to an end."
 
 
-**[11:7]** He then said to her, "Remember the bright nature in which we lived,
+**[12:1]** Then Adam beat his chest, he and Eve, and they mourned the whole night until the crack of dawn, and they sighed over the length of the night in Miyazia.
 
-when we lived in the garden!
+**[12:2]** And Adam beat himself, and threw himself on the ground in the cave, from bitter grief, and because of the darkness, and lay there as dead.
 
-
-
-**[11:8]** O Eve!  Remember the glory that rested on us in the garden.  O Eve!
-
-Remember the trees that overshadowed us in the garden while we moved
-
-among them.
-
-
-
-**[11:9]** O Eve!  Remember that while we were in the garden, we knew neither
-
-night nor day.  Think of the Tree of Life, from below which flowed the
-
-water, and that shed lustre over us!  Remember, O Eve, the garden land,
-
-and the brightness thereof!
-
-
-
-**[11:10]** Think, oh think of that garden in which was no darkness, while we
-
-lived in it.
-
-
-
-**[11:11]** Whereas no sooner did we come into this Cave of Treasures than
-
-darkness surrounded us all around; until we can no longer see each
-
-other; and all the pleasure of this life has come to an end."
-
-
-
-**[12:1]** Then Adam beat his chest, he and Eve, and they mourned the whole
-
-night until the crack of dawn, and they sighed over the length of the
-
-night in Miyazia.
-
-
-
-**[12:2]** And Adam beat himself, and threw himself on the ground in the cave,
-
-from bitter grief, and because of the darkness, and lay there as dead.
-
-
-
-**[12:3]** But Eve heard the noise he made in falling on the ground.  And she
-
-felt about for him with her hands, and found him like a corpse.
-
-
+**[12:3]** But Eve heard the noise he made in falling on the ground. And she felt about for him with her hands, and found him like a corpse.
 
 **[12:4]** Then she was afraid, speechless, and remained by him.
 
+**[12:5]** But the merciful Lord looked on the death of Adam, and on Eve's silence from fear of the darkness.
 
+**[12:6]** And the Word of God came to Adam and raised him from his death, and opened Eve's mouth that she might speak.
 
-**[12:5]** But the merciful Lord looked on the death of Adam, and on Eve's
+**[12:7]** Then Adam stood up in the cave and said, "O God, why has light departed from us, and darkness covered us?  Why did you leave us in this long darkness?  Why do you plague us like this?
 
-silence from fear of the darkness.
+**[12:8]** And this darkness, O Lord, where was it before it covered us?  It is because of this that we cannot see each other.
 
+**[12:9]** For so long as we were in the garden, we neither saw nor even knew what darkness is.  I was not hidden from Eve, neither was she hidden from me, until now that she cannot see me; and no darkness came over us to separate us from each other.
 
-
-**[12:6]** And the Word of God came to Adam and raised him from his death, and
-
-opened Eve's mouth that she might speak.
-
-
-
-**[12:7]** Then Adam stood up in the cave and said, "O God, why has light
-
-departed from us, and darkness covered us?  Why did you leave us in
-
-this long darkness?  Why do you plague us like this?
-
-
-
-**[12:8]** And this darkness, O Lord, where was it before it covered us?  It is
-
-because of this that we cannot see each other.
-
-
-
-**[12:9]** For so long as we were in the garden, we neither saw nor even knew
-
-what darkness is.  I was not hidden from Eve, neither was she hidden
-
-from me, until now that she cannot see me; and no darkness came over us
-
-to separate us from each other.
-
-
-
-**[12:10]** But she and I were both in one bright light.  I saw her and she saw
-
-me.  Yet now since we came into this cave, darkness has covered us, and
-
-separated us from each other, so that I do not see her, and she does
-
-not see me.
-
-
+**[12:10]** But she and I were both in one bright light.  I saw her and she saw me.  Yet now since we came into this cave, darkness has covered us, and separated us from each other, so that I do not see her, and she does not see me.
 
 **[12:11]** O Lord, will You then plague us with this darkness?"
 
 
+**[13:1]** Then when God, who is merciful and full of pity, heard Adam's voice, He said to him:--
 
-**[13:1]** Then when God, who is merciful and full of pity, heard Adam's voice,
+**[13:2]** "O Adam, so long as the good angel was obedient to Me, a bright light rested on him and on his hosts.
 
-He said to him:--
+**[13:3]** But when he transgressed My commandment, I deprived him of that bright nature, and he became dark.
 
+**[13:4]** And when he was in the heavens, in the realms of light, he knew nothing of darkness.
 
+**[13:5]** But he transgressed, and I made him fall from the heaven onto the earth; and it was this darkness that came over him.
 
-**[13:2]** "O Adam, so long as the good angel was obedient to Me, a bright light
+**[13:6]** And on you, O Adam, while in My garden and obedient to Me, did that bright light rest also.
 
-rested on him and on his hosts.
+**[13:7]** But when I heard of your transgression, I deprived you of that bright light.  Yet, of My mercy, I did not turn you into darkness, but I made you your body of flesh, over which I spread this skin, in order that it may bear cold and heat.
 
+**[13:8]** If I had let My wrath fall heavily on you, I should have destroyed you; and had I turned you into darkness, it would have been as if I had killed you.
 
+**[13:9]** But in My mercy, I have made you as you are; when you transgressed My commandment, O Adam, I drove you from the garden, and made you come forth into this land; and commanded you to live in this cave; and darkness covered you, as it did over him who transgressed My commandment.
 
-**[13:3]** But when he transgressed My commandment, I deprived him of that
+**[13:10]** Thus, O Adam, has this night deceived you.  It is not to last forever; but is only of twelve hours; when it is over, daylight will return.
 
-bright nature, and he became dark.
+**[13:11]** Sigh not, therefore, neither be moved; and say not in your heart that this darkness is long and drags on wearily; and say not in your heart that I plague you with it.
 
+**[13:12]** Strengthen your heart, and be not afraid. This darkness is not a punishment. But, O Adam, I have made the day, and have placed the sun in it to give light; in order that you and your children should do your work.
 
+**[13:13]** For I knew you would sin and transgress, and come out into this land. Yet I wouldn't force you, nor be heard over you, nor shut up; nor doom you through your fall; nor through your coming out from light into darkness; nor yet through your coming from the garden into this land.
 
-**[13:4]** And when he was in the heavens, in the realms of light, he knew
+**[13:14]** For I made you of the light; and I willed to bring out children of light from you and like to you.
 
-nothing of darkness.
+**[13:15]** But you did not keep My commandment one day; until I had finished the creation and blessed everything in it.
 
+**[13:16]** Then, concerning the tree, I commanded you not to eat of it. Yet I knew that Satan, who deceived himself, would also deceive you.
 
+**[13:17]** So I made known to you by means of the tree, not to come near him. And I told you not to eat of the fruit thereof, nor to taste of it, nor yet to sit under it, nor to yield to it.
 
-**[13:5]** But he transgressed, and I made him fall from the heaven onto the
+**[13:18]** Had I not been and spoken to you, O Adam, concerning the tree, and had I left you without a commandment, and you had sinned--it would have been an offence on My part, for not having given you any order; you would turn around and blame Me for it.
 
-earth; and it was this darkness that came over him.
+**[13:19]** But I commanded you, and warned you, and you fell. So that My creatures cannot blame Me; but the blame rests on them alone.
 
+**[13:20]** And, O Adam, I have made the day so that you and your descendants can work and toil in it.  And I have made the night for them to rest in it from their work; and for the beasts of the field to go forth by night and look for their food.
 
+**[13:21]** But little of darkness now remains, O Adam, and daylight will soon appear."
 
-**[13:6]** And on you, O Adam, while in My garden and obedient to Me, did that
 
-bright light rest also.
+**[14:1]** Then Adam said to God: "O Lord, take You my soul, and let me not see this gloom any more; or remove me to some place where there is no darkness."
 
+**[14:2]** But God the Lord said to Adam, "Indeed I say to you, this darkness will pass from you, every day I have determined for you, until the fulfillment of My covenant; when I will save you and bring you back again into the garden, into the house of light you long for, in which there is no darkness. I will bring you to it--in the kingdom of heaven."
 
+**[14:3]** Again said God to Adam, "All this misery that you have been made to take on yourself because of your transgression, will not free you from the hand of Satan, and will not save you.
 
-**[13:7]** But when I heard of your transgression, I deprived you of that bright
+**[14:4]** But I will. When I shall come down from heaven, and shall become flesh of your descendants, and take on Myself the infirmity from which you suffer, then the darkness that covered you in this cave shall cover Me in the grave, when I am in the flesh of your descendants.
 
-light.  Yet, of My mercy, I did not turn you into darkness, but I made
-
-you your body of flesh, over which I spread this skin, in order that it
-
-may bear cold and heat.
-
-
-
-**[13:8]** If I had let My wrath fall heavily on you, I should have destroyed
-
-you; and had I turned you into darkness, it would have been as if I had
-
-killed you.
-
-
-
-**[13:9]** But in My mercy, I have made you as you are; when you transgressed My
-
-commandment, O Adam, I drove you from the garden, and made you come
-
-forth into this land; and commanded you to live in this cave; and
-
-darkness covered you, as it did over him who transgressed My
-
-commandment.
-
-
-
-**[13:10]** Thus, O Adam, has this night deceived you.  It is not to last
-
-forever; but is only of twelve hours; when it is over, daylight will
-
-return.
-
-
-
-**[13:11]** Sigh not, therefore, neither be moved; and say not in your heart
-
-that this darkness is long and drags on wearily; and say not in your
-
-heart that I plague you with it.
-
-
-
-**[13:12]** Strengthen your heart, and be not afraid.  This darkness is not a
-
-punishment.  But, O Adam, I have made the day, and have placed the sun
-
-in it to give light; in order that you and your children should do your
-
-work.
-
-
-
-**[13:13]** For I knew you would sin and transgress, and come out into this
-
-land.  Yet I wouldn't force you, nor be heard over you, nor shut up;
-
-nor doom you through your fall; nor through your coming out from light
-
-into darkness; nor yet through your coming from the garden into this
-
-land.
-
-
-
-**[13:14]** For I made you of the light; and I willed to bring out children of
-
-light from you and like to you.
-
-
-
-**[13:15]** But you did not keep My commandment one day; until I had finished
-
-the creation and blessed everything in it.
-
-
-
-**[13:16]** Then, concerning the tree, I commanded you not to eat of it.  Yet I
-
-knew that Satan, who deceived himself, would also deceive you.
-
-
-
-**[13:17]** So I made known to you by means of the tree, not to come near him.
-
-And I told you not to eat of the fruit thereof, nor to taste of it, nor
-
-yet to sit under it, nor to yield to it.
-
-
-
-**[13:18]** Had I not been and spoken to you, O Adam, concerning the tree, and
-
-had I left you without a commandment, and you had sinned--it would have
-
-been an offence on My part, for not having given you any order; you
-
-would turn around and blame Me for it.
-
-
-
-**[13:19]** But I commanded you, and warned you, and you fell.  So that My
-
-creatures cannot blame Me; but the blame rests on them alone.
-
-
-
-**[13:20]** And, O Adam, I have made the day so that you and your descendants
-
-can work and toil in it.  And I have made the night for them to rest in
-
-it from their work; and for the beasts of the field to go forth by
-
-night and look for their food.
-
-
-
-**[13:21]** But little of darkness now remains, O Adam, and daylight will soon
-
-appear."
-
-
-
-**[14:1]** Then Adam said to God: "O Lord, take You my soul, and let me not see
-
-this gloom any more; or remove me to some place where there is no
-
-darkness."
-
-
-
-**[14:2]** But God the Lord said to Adam, "Indeed I say to you, this darkness
-
-will pass from you, every day I have determined for you, until the
-
-fulfillment of My covenant; when I will save you and bring you back
-
-again into the garden, into the house of light you long for, in which
-
-there is no darkness.  I will bring you to it--in the kingdom of
-
-heaven."
-
-
-
-**[14:3]** Again said God to Adam, "All this misery that you have been made to
-
-take on yourself because of your transgression, will not free you from
-
-the hand of Satan, and will not save you.
-
-
-
-**[14:4]** But I will.  When I shall come down from heaven, and shall become
-
-flesh of your descendants, and take on Myself the infirmity from which
-
-you suffer, then the darkness that covered you in this cave shall cover
-
-Me in the grave, when I am in the flesh of your descendants.
-
-
-
-**[14:5]** And I, who am without years, shall be subject to the reckoning of
-
-years, of times, of months, and of days, and I shall be reckoned as one
-
-of the sons of men, in order to save you."
-
-
+**[14:5]** And I, who am without years, shall be subject to the reckoning of years, of times, of months, and of days, and I shall be reckoned as one of the sons of men, in order to save you."
 
 **[14:6]** And God ceased to commune with Adam.
 
 
-
-**[15:1]** Then Adam and Eve cried and sorrowed by reason of God's word to them,
-
-that they should not return to the garden until the fulfillment of the
-
-days decreed on them; but mostly because God had told them that He
-
-should suffer for their salvation.
+**[15:1]** Then Adam and Eve cried and sorrowed by reason of God's word to them, that they should not return to the garden until the fulfillment of the days decreed on them; but mostly because God had told them that He should suffer for their salvation.
 
 
 
-**[16:1]** After this, Adam and Eve continued to stand in the cave, praying and
+**[16:1]** After this, Adam and Eve continued to stand in the cave, praying and crying, until the morning dawned on them.
 
-crying, until the morning dawned on them.
+**[16:2]** And when they saw the light returned to them, they retrained from fear, and strengthened their hearts.
 
+**[16:3]** Then Adam began to come out of the cave. And when he came to the mouth of it, and stood and turned his face towards the east, and saw the sunrise in glowing rays, and felt the heat thereof on his body, he was afraid of it, and thought in his heart that this flame came forth to plague him.
 
+**[16:4]** He then cried and beat his chest, then he fell on the ground on his face and made his request, saying:--
 
-**[16:2]** And when they saw the light returned to them, they retrained from
-
-fear, and strengthened their hearts.
-
-
-
-**[16:3]** Then Adam began to come out of the cave.  And when he came to the
-
-mouth of it, and stood and turned his face towards the east, and saw
-
-the sunrise in glowing rays, and felt the heat thereof on his body, he
-
-was afraid of it, and thought in his heart that this flame came forth
-
-to plague him.
-
-
-
-**[16:4]** He then cried and beat his chest, then he fell on the ground on his
-
-face and made his request, saying:--
-
-
-
-**[16:5]** "O Lord, plague me not, neither consume me, nor yet take away my life
-
-from the earth."
-
-
+**[16:5]** "O Lord, plague me not, neither consume me, nor yet take away my life from the earth."
 
 **[16:6]** For he thought the sun was God.
 
+**[16:7]** Because while he was in the garden and heard the voice of God and the sound He made in the garden, and feared Him, Adam never saw the brilliant light of the sun, neither did its flaming heat touch his body.
 
+**[16:8]** Therefore he was afraid of the sun when flaming rays of it reached him.  He thought God meant to plague him therewith all the days He had decreed for him.
 
-**[16:7]** Because while he was in the garden and heard the voice of God and the
+**[16:9]** For Adam also said in his thoughts, as God did not plague us with darkness, behold, He has caused this sun to rise and to plague us with burning heat.
 
-sound He made in the garden, and feared Him, Adam never saw the
+**[16:10]** But while he was thinking like this in his heart, the Word of God came to him and said:--
 
-brilliant light of the sun, neither did its flaming heat touch his body.
-
-
-
-**[16:8]** Therefore he was afraid of the sun when flaming rays of it reached
-
-him.  He thought God meant to plague him therewith all the days He had
-
-decreed for him.
-
-
-
-**[16:9]** For Adam also said in his thoughts, as God did not plague us with
-
-darkness, behold, He has caused this sun to rise and to plague us with
-
-burning heat.
-
-
-
-**[16:10]** But while he was thinking like this in his heart, the Word of God
-
-came to him and said:--
-
-
-
-**[16:11]** "O Adam, get up on your feet.  This sun is not God; but it has been
-
-created to give light by day, of which I spoke to you in the cave
-
-saying, 'that the dawn would come, and there would be light by day.'
-
-
+**[16:11]** "O Adam, get up on your feet. This sun is not God; but it has been created to give light by day, of which I spoke to you in the cave saying, 'that the dawn would come, and there would be light by day.'
 
 **[16:12]** But I am God who comforted you in the night."
-
-
 
 **[16:13]** And God ceased to commune with Adam.
 
 
+**[17:1]** The Adam and Eve came out at the mouth of the cave, and went towards the garden.
 
-**[17:1]** The Adam and Eve came out at the mouth of the cave, and went towards
+**[17:2]** But as they went near it, before the western gate, from which Satan came when he deceived Adam and Eve, they found the serpent that became Satan coming at the gate, and sorrowfully licking the dust, and wiggling on its breast on the ground, by reason of the curse that fell on it from God.
 
-the garden.
+**[17:3]** And whereas before the serpent was the most exalted of all beasts, now it was changed and become slippery, and the meanest of them all, and it crept on its breast and went on its belly.
 
+**[17:4]** And whereas it was the fairest of all beasts, it had been changed, and was become the ugliest of them all. Instead of feeding on the best food, now it turned to eat the dust. Instead of living, as before, in the best places, now it lived in the dust.
 
+**[17:5]** And, whereas it had been the most beautiful of all beasts, all of which stood dumb at its beauty, it was now abhorred of them.
 
-**[17:2]** But as they went near it, before the western gate, from which Satan
+**[17:6]** And, again, whereas it lived in one beautiful home, to which all other animals came from elsewhere; and where it drank, they drank also of the same; now, after it had become venomous, by reason of God's curse, all beasts fled from its home, and would not drink of the water it drank; but fled from it.
 
-came when he deceived Adam and Eve, they found the serpent that became
 
-Satan coming at the gate, and sorrowfully licking the dust, and
 
-wiggling on its breast on the ground, by reason of the curse that fell
+**[18:1]** When the accursed serpent saw Adam and Eve, it swelled its head, stood on its tail, and with eyes blood-red, acted like it would kill them.
 
-on it from God.
+**[18:2]** It made straight for Eve, and ran after her; while Adam standing by, cried because he had no stick in his hand with which to hit the serpent, and did not know how to put it to death.
 
+**[18:3]** But with a heart burning for Eve, Adam approached the serpent, and held it by the tail; when it turned towards him and said to him:--
 
+**[18:4]** "O Adam, because of you and of Eve, I am slippery, and go on my belly."  Then with its great strength, it threw down Adam and Eve and squeezed them, and tried to kill them.
 
-**[17:3]** And whereas before the serpent was the most exalted of all beasts,
+**[18:5]** But God sent an angel who threw the serpent away from them, and raised them up.
 
-now it was changed and become slippery, and the meanest of them all,
+**[18:6]** Then the Word of God came to the serpent, and said to it, "The first time I made you slick, and made you to go on your belly; but I did not deprive you of speech.
 
-and it crept on its breast and went on its belly.
-
-
-
-**[17:4]** And whereas it was the fairest of all beasts, it had been changed,
-
-and was become the ugliest of them all.  Instead of feeding on the best
-
-food, now it turned to eat the dust.  Instead of living, as before, in
-
-the best places, now it lived in the dust.
-
-
-
-**[17:5]** And, whereas it had been the most beautiful of all beasts, all of
-
-which stood dumb at its beauty, it was now abhorred of them.
-
-
-
-**[17:6]** And, again, whereas it lived in one beautiful home, to which all
-
-other animals came from elsewhere; and where it drank, they drank also
-
-of the same; now, after it had become venomous, by reason of God's
-
-curse, all beasts fled from its home, and would not drink of the water
-
-it drank; but fled from it.
-
-
-
-**[18:1]** When the accursed serpent saw Adam and Eve, it swelled its head,
-
-stood on its tail, and with eyes blood-red, acted like it would kill
-
-them.
-
-
-
-**[18:2]** It made straight for Eve, and ran after her; while Adam standing by,
-
-cried because he had no stick in his hand with which to hit the
-
-serpent, and did not know how to put it to death.
-
-
-
-**[18:3]** But with a heart burning for Eve, Adam approached the serpent, and
-
-held it by the tail; when it turned towards him and said to him:--
-
-
-
-**[18:4]** "O Adam, because of you and of Eve, I am slippery, and go on my
-
-belly."  Then with its great strength, it threw down Adam and Eve and
-
-squeezed them, and tried to kill them.
-
-
-
-**[18:5]** But God sent an angel who threw the serpent away from them, and
-
-raised them up.
-
-
-
-**[18:6]** Then the Word of God came to the serpent, and said to it, "The first
-
-time I made you slick, and made you to go on your belly; but I did not
-
-deprive you of speech.
-
-
-
-**[18:7]** This time, however, you will be mute, and you and your race will
-
-speak no more; because, the first time My creatures were ruined because
-
-of  you, and this time you tried to kill them."
-
-
+**[18:7]** This time, however, you will be mute, and you and your race will speak no more; because, the first time My creatures were ruined because of you, and this time you tried to kill them."
 
 **[18:8]** Then the serpent was struck mute, and was no longer able to speak.
 
-
-
-**[18:9]** And a wind blew down from heaven by the command of God and carried
-
-away the serpent from Adam and Eve, and threw it on the seashore where
-
-it landed in India.
-
+**[18:9]** And a wind blew down from heaven by the command of God and carried away the serpent from Adam and Eve, and threw it on the seashore where it landed in India.
 
 
 **[19:1]** But Adam and Eve cried before God.  And Adam said to Him:--
 
+**[19:2]** "O Lord, when I was in the cave, I said this to you, my Lord, the beasts of the field would rise and devour me, and cut off my life from the earth."
 
+**[19:3]** Then Adam, because of what had happened to him, beat his chest and fell on the ground like a corpse. Then the Word of God came to him, who raised him, and said to him,
 
-**[19:2]** "O Lord, when I was in the cave, I said this to you, my Lord, the
+**[19:4]** "O Adam, not one of these beasts will be able to hurt you; because I have made the beasts and other moving things come to you in the cave. I did not let the serpent come with them because it might have risen against you and made you tremble; and the fear of it should fall into your hearts.
 
-beasts of the field would rise and devour me, and cut off my life from
+**[19:5]** For I knew that the accursed one is wicked; therefore I would not let it come near you with the other beasts.
 
-the earth."
-
-
-
-**[19:3]** Then Adam, because of what had happened to him, beat his chest and
-
-fell on the ground like a corpse.  Then the Word of God came to him,
-
-who raised him, and said to him,
+**[19:6]** But now strengthen your heart and fear not. I am with you to the end of the days I have determined on you." 
 
 
 
-**[19:4]** "O Adam, not one of these beasts will be able to hurt you; because I
+**[20:1]** Then Adam cried and said, "O God, take us away to some other place, where the serpent can not come near us again, and rise against us.  For fear that it might find Your handmaid Eve alone and kill her; for its eyes are hideous and evil."
 
-have made the beasts and other moving things come to you in the cave.
+**[20:2]** But God said to Adam and Eve, "From now on, don't be afraid, I will not let it come near you; I have driven it away from you, from this mountain; neither will I leave in it the ability to hurt you."
 
-I did not let the serpent come with them because it might have risen
-
-against you and made you tremble; and the fear of it should fall into
-
-your hearts.
-
-
-
-**[19:5]** For I knew that the accursed one is wicked; therefore I would not let
-
-it come near you with the other beasts.
-
-
-
-**[19:6]** But now strengthen your heart and fear not.  I am with you to the end
-
-of the days I have determined on you." 
-
-
-
-**[20:1]** Then Adam cried and said, "O God, take us away to some other place,
-
-where the serpent can not come near us again, and rise against us.  For
-
-fear that it might find Your handmaid Eve alone and kill her; for its
-
-eyes are hideous and evil."
-
-
-
-**[20:2]** But God said to Adam and Eve, "From now on, don't be afraid, I will
-
-not let it come near you; I have driven it away from you, from this
-
-mountain; neither will I leave in it the ability to hurt you."
-
-
-
-**[20:3]** Then Adam and Eve worshipped before God and gave Him thanks, and
-
-praised Him for having delivered them from death. 
-
+**[20:3]** Then Adam and Eve worshipped before God and gave Him thanks, and praised Him for having delivered them from death. 
 
 
 **[21:1]** Then Adam and Eve went in search of the garden.
