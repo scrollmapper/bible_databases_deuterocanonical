@@ -1,4 +1,4 @@
-# The Testament of Asher / Testaments of the Twelve Patriarchs
+# Testament of Asher
 
 
 
