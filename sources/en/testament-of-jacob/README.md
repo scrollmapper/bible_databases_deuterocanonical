@@ -1,1 +1,1 @@
-# The Testament of Jacob
+# Testament of Jacob
