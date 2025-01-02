@@ -1,4 +1,4 @@
-# The Ladder of Jacob
+# Ladder of Jacob
 
 
 **[1:1]** Now Jacob went to his Uncle Laban, and he found a place and fell asleep there, laying his head on a stone, for the sun was set: and there he saw a vision.
