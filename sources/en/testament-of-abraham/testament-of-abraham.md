@@ -1,4 +1,4 @@
-# Testament of Abraham (Version 1)
+# Testament of Abraham
 
 **[1:1]** Abraham lived the measure of his life, nine hundred and ninety-five years, and having lived all the years of his life in quietness, gentleness, and righteousness, the righteous one was exceedingly hospitable;
 
