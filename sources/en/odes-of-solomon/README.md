@@ -1,1 +1,1 @@
-# The Odes of Solomon
+# Odes of Solomon
