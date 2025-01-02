@@ -1,1 +1,1 @@
-# The Lives of the Prophets
+# Lives of the Prophets
