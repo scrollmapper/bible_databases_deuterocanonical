@@ -1,1 +1,1 @@
-# Testament of Abraham (Version 1)
+# Testament of Abraham
