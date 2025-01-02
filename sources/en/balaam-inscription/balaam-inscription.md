@@ -1,4 +1,4 @@
-# The Balaam Inscription
+# Balaam Inscription
 **[1:1]** The misfortunes of the Book of Balaam, son of Beor. A divine seer was he.
 
 **[1:2]** The gods came to him at night. And he beheld a vision in accordance with El's utterance. They said to Balaam, son of Beor:  
