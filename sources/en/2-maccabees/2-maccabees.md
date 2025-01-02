@@ -1,4 +1,4 @@
-# 2 Maccabees
+# II Maccabees
 
 
 
