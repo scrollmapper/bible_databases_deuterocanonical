@@ -1,4 +1,4 @@
-# The Odes of Solomon 
+# Odes of Solomon 
 
 **[1:1]** The Lord is on my head like a crown, and I shall never be without Him.
 **[1:2]** Plaited for me is the crown of truth, and it caused Your branches to blossom in me.
