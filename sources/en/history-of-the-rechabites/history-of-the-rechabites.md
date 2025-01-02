@@ -1,4 +1,4 @@
-# The History of the Rechabites - The Story of Zosimus
+# History of the Rechabites
 
 
 **[1:1]** About that time there was in the desert a certain man named Zosimus, who for forty years ate no bread, and drank no wine, and saw not the face of man. 
