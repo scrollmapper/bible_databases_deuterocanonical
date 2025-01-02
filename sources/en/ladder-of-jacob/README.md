@@ -1,1 +1,1 @@
-# The Ladder of Jacob
+# Ladder of Jacob
