@@ -1,1 +1,1 @@
-# The Testament of Levi / Testaments of the Twelve Patriarchs
+# Testament of Levi
