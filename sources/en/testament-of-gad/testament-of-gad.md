@@ -1,5 +1,4 @@
-# The Testament of Gad / Testaments of the Twelve Patriarchs 
-
+# Testament of Gad
 
 
 **[1:1]** THE copy of the testament of Gad, what things he spake unto his sons, in the hundred and twenty-fifth year of his life, saying unto them:
