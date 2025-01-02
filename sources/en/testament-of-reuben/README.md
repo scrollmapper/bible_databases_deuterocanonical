@@ -1,1 +1,1 @@
-# The Testament of Reuben / Testaments of the Twelve Patriarchs
+# Testament of Reuben
