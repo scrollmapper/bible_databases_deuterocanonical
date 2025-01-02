@@ -1,4 +1,4 @@
-# The Lives of the Prophets
+# Lives of the Prophets
 
 **[0:0]** The Names of the Prophets, and whence they were, where they died, and how and where they were buried
 
