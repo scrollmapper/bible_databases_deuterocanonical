@@ -1,1 +1,1 @@
-# The Testament of Dan / Testaments of the Twelve Patriarchs
+# Testament of Dan
