@@ -1,1 +1,1 @@
-# The Psalms of Solomon
+# Psalms of Solomon
