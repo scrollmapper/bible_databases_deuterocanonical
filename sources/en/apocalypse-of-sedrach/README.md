@@ -1,1 +1,1 @@
-# The Apocalipse of Sedrach
+# Apocalypse of Sedrach
