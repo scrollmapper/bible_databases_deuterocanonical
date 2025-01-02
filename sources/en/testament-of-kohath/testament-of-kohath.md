@@ -1,4 +1,4 @@
-# The Testament of Kohath
+# Testament of Kohath
 
 **[1:0]** Column 1
 
