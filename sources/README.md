@@ -63,7 +63,7 @@
 - [Testament of Reuben](en/testament-of-reuben/)
 - [Testament of Simeon](en/testament-of-simeon/)
 - [Testament of Solomon](en/testament-of-solomon/)
-- [The Testament of Zebulun / Testaments of the Twelve Patriarchs](en/testament-of-zebulun/)
+- [Testament of Zebulun](en/testament-of-zebulun/)
 - [Tobit](en/book-of-tobit/)
 - [Visions of Amram](en/visions-of-amram/)
 - [Wisdom of Ahikar](en/wisdom-of-ahikar/)
