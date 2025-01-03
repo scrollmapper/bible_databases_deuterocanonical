@@ -1,4 +1,4 @@
-# The Book of Nathan the Prophet
+# Book of Nathan the Prophet
 
 **[1:0]** Fragment 1: Vision Of The Messiah
 
