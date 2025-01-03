@@ -1,4 +1,4 @@
-# The Apocalipse of Sedrach
+# Apocalypse of Sedrach
 
 
 **[1:1]** Beloved, let us prefer nothing in honor except sincere love: for in many things we stumble every day and night and hour. And for this cause let us gain love, for it covereth a multitude of sins: for what is the profit, my children, if we have all things, and have not saving love… O blessed love, supplier of all good things. Blessed is the man who has gained the true faith and sincere love, according as the Master said, there is no greater love than this that a man should lay down his life for his friend. 
