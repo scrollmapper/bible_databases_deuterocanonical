@@ -1,4 +1,4 @@
-# The Ascension of Isaiah
+# Ascension of Isaiah
 
 
 
