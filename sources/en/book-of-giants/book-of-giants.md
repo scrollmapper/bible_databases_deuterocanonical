@@ -1,4 +1,4 @@
-# The Book of Giants
+# Book of Giants
 
 **[1:1]** ... hard ... arrow ... bow, he that ... Sām said: "Blessed be ... had [he?] seen this, he would not have died."
 
