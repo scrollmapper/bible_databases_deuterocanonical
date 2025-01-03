@@ -1,1 +1,1 @@
-# The Book of Nathan the Prophet
+# Book of Nathan the Prophet
