@@ -622,718 +622,200 @@
 **[30:10]** And when Adam saw the golden rods, the incense and the myrrh, he was rejoiced and cried because he thought that the gold was a token of the kingdom from where he had come, that the incense was a token of the bright light which had been taken from him, and that the myrrh was a token of the sorrow in which he was. 
 
 
+**[31:1]** After these things God said to Adam, "You asked Me for something from the garden, to be comforted therewith, and I have given you these three tokens as a consolation to you; that you trust in Me and in My covenant with you.
 
-**[31:1]** After these things God said to Adam, "You asked Me for something from
+**[31:2]** For I will come and save you; and kings shall bring me when in the flesh, gold, incense and myrrh; gold as a token of My kingdom; incense as a token of My divinity; and myrrh as a token of My suffering and of My death.
 
-the garden, to be comforted therewith, and I have given you these three
+**[31:3]** But, O Adam, put these by you in the cave; the gold that it may shed light over you by night; the incense, that you smell its sweet savor; and the myrrh, to comfort you in your sorrow."
 
-tokens as a consolation to you; that you trust in Me and in My covenant
+**[31:4]** When Adam heard these words from God, he worshipped before Him. He and Eve worshipped Him and gave Him thanks, because He had dealt mercifully with them.
 
-with you.
+**[31:5]** Then God commanded the three angels, Michael, Gabriel and Raphael, each to bring what he had brought, and give it to Adam. And they did so, one by one.
 
+**[31:6]** And God commanded Suriyel and Salathiel to bear up Adam and Eve, and bring them down from the top of the high mountain, and to take them to the Cave of Treasures.
 
-
-**[31:2]** For I will come and save you; and kings shall bring me when in the
-
-flesh, gold, incense and myrrh; gold as a token of My kingdom; incense
-
-as a token of My divinity; and myrrh as a token of My suffering and of
-
-My death.
-
-
-
-**[31:3]** But, O Adam, put these by you in the cave; the gold that it may shed
-
-light over you by night; the incense, that you smell its sweet savor;
-
-and the myrrh, to comfort you in your sorrow."
-
-
-
-**[31:4]** When Adam heard these words from God, he worshipped before Him.  He
-
-and Eve worshipped Him and gave Him thanks, because He had dealt
-
-mercifully with them.
-
-
-
-**[31:5]** Then God commanded the three angels, Michael, Gabriel and Raphael,
-
-each to bring what he had brought, and give it to Adam.  And they did
-
-so, one by one.
-
-
-
-**[31:6]** And God commanded Suriyel and Salathiel to bear up Adam and Eve, and
-
-bring them down from the top of the high mountain, and to take them to
-
-the Cave of Treasures.
-
-
-
-**[31:7]** There they laid the gold on the south side of the cave, the incense
-
-on the eastern side, and the myrrh on the western side.  For the mouth
-
-of the cave was on the north side.
-
-
+**[31:7]** There they laid the gold on the south side of the cave, the incense on the eastern side, and the myrrh on the western side. For the mouth of the cave was on the north side.
 
 **[31:8]** The angels then comforted Adam and Eve, and departed.
 
-
-
-**[31:9]** The gold was seventy rods; the incense, twelve pounds; and the
-
-myrrh, three pounds.
-
-
+**[31:9]** The gold was seventy rods; the incense, twelve pounds; and the myrrh, three pounds.
 
 **[31:10]** These remained by Adam in the Cave of Treasures.
 
+**[31:11]** God gave these three things to Adam on the third day after he had come out of the garden, in token of the three days the Lord should remain in the heart of the earth.
+
+**[31:12]** And these three things, as they continued with Adam in the cave, gave him light by night; and by day they gave him a little relief from his sorrow.
 
 
-**[31:11]** God gave these three things to Adam on the third day after he had
+**[32:1]** And Adam and Eve remained in the Cave of Treasures until the seventh day; they neither ate of the fruit the earth, nor drank water.
 
-come out of the garden, in token of the three days the Lord should
+**[32:2]** And when it dawned on the eighth day, Adam said to Eve, "O Eve, we prayed God to give us something from the garden, and He sent his angels who brought us what we had desired.
 
-remain in the heart of the earth.
+**[32:3]** But now, get up, let us go to the sea of water we saw at first, and let us stand in it, praying that God will again be favorable to us and take us back to the garden; or give us something; or that He will give us comfort in some other land than this in which we are."
 
+**[32:4]** Then Adam and Eve came out of the cave, went and stood on the border of the sea in which they had before thrown themselves, and Adam said to Eve:--
 
-
-**[31:12]** And these three things, as they continued with Adam in the cave,
-
-gave him light by night; and by day they gave him a little relief from
-
-his sorrow.
-
-
-
-**[32:1]** And Adam and Eve remained in the Cave of Treasures until the seventh
-
-day; they neither ate of the fruit the earth, nor drank water.
-
-
-
-**[32:2]** And when it dawned on the eighth day, Adam said to Eve, "O Eve, we
-
-prayed God to give us something from the garden, and He sent his angels
-
-who brought us what we had desired.
-
-
-
-**[32:3]** But now, get up, let us go to the sea of water we saw at first, and
-
-let us stand in it, praying that God will again be favorable to us and
-
-take us back to the garden; or give us something; or that He will give
-
-us comfort in some other land than this in which we are."
-
-
-
-**[32:4]** Then Adam and Eve came out of the cave, went and stood on the border
-
-of the sea in which they had before thrown themselves, and Adam said to
-
-Eve:--
-
-
-
-**[32:5]** Come, go down into this place, and come not out of it until the end
-
-of thirty days, when I shall come to you.  And pray to God with burning
-
-heart and a sweet voice, to forgive us.
-
-
+**[32:5]** Come, go down into this place, and come not out of it until the end of thirty days, when I shall come to you. And pray to God with burning heart and a sweet voice, to forgive us.
 
 **[32:6]** And I will go to another place, and go down into it, and do like you."
 
+**[32:7]** Then Eve went down into the water, as Adam had commanded her. Adam also went down into the water; and they stood praying; and besought the Lord to forgive them their offense, and to restore them to their former state.
 
+**[32:8]** And they stood like that praying, until the end of the thirty-five days.
 
-**[32:7]** Then Eve went down into the water, as Adam had commanded her.  Adam
 
-also went down into the water; and they stood praying; and besought the
+**[33:1]** But Satan, the hater of all good, sought them in the cave, but found them not, although he searched diligently for them.
 
-Lord to forgive them their offense, and to restore them to their former
+**[33:2]** But he found them standing in the water praying and thought within himself, "Adam and Eve are standing like that in that water praying to God to forgive them their transgression, and to restore them to their former state, and to take them from under my hand.
 
-state.
+**[33:3]** But I will deceive them so that they shall come out of the water, and not fulfil their vow."
 
+**[33:4]** Then the hater of all good, went not to Adam, but he went to Eve, and took the form of an angel of God, praising and rejoicing, and said to her:--
 
+**[33:5]** "Peace be to you! Be glad and rejoice! God is favorable to you, and He sent me to Adam. I have brought him the glad tidings of salvation, and of his being filled with bright light as he was at first.
 
-**[32:8]** And they stood like that praying, until the end of the thirty-five
+**[33:6]** And Adam, in his joy for his restoration, has sent me to you, that you come to me, in order that I crown you with light like him.
 
-days.
+**[33:7]** And he said to me, 'Speak to Eve; if she does not come with you, tell her of the sign when we were on the top of the mountain; how God sent his angels who took us and brought us to the Cave of Treasures; and laid the gold on the southern side; incense, on the eastern side; and myrrh on the western side.' Now come to him."
 
+**[33:8]** When Eve hear these words from him, she rejoiced greatly. And thinking Satan's appearance was real, she came out of the sea.
 
+**[33:9]** He went before, and she followed him until they came to Adam. Then Satan hid himself from her, and she saw him no more.
 
-**[33:1]** But Satan, the hater of all good, sought them in the cave, but found
+**[33:10]** She then came and stood before Adam, who was standing by the water and rejoicing in God's forgiveness.
 
-them not, although he searched diligently for them.
+**[33:11]** And as she called to him, he turned around, found her there and cried when he saw her, and beat his chest; and from the bitterness of his grief, he sank into the water.
 
+**[33:12]** But God looked at him and at his misery, and at his being about to breathe his last. And the Word of God came from heaven, raised him out of the water, and said to him, "Go up the high bank to Eve." And when he came up to Eve he said to her, "Who told you to come here?"
 
+**[33:13]** Then she told him the discourse of the angel who had appeared to her and had given her a sign.
 
-**[33:2]** But he found them standing in the water praying and thought within
+**[33:14]** But Adam grieved, and gave her to know it was Satan. He then took her and they both returned to the cave.
 
-himself, "Adam and Eve are standing like that in that water praying to
+**[33:15]** These things happened to them the second time they went down to the water, seven days after their coming out of the garden.
 
-God to forgive them their transgression, and to restore them to their
+**[33:16]** They fasted in the water thirty-five days; altogether forty-two days since they had left the garden. 
 
-former state, and to take them from under my hand.
 
+**[34:1]** And on the morning of the forty-third day, they came out of the cave, sorrowful and crying.  Their bodies were lean, and they were parched from hunger and thirst, from fasting and praying, and from their heavy sorrow on account of their transgression.
 
+**[34:2]** And when they had come out of the cave they went up the mountain to the west of the garden.
 
-**[33:3]** But I will deceive them so that they shall come out of the water, and
+**[34:3]** There they stood and prayed and besought God to grant them forgiveness of their sins.
 
-not fulfil their vow."
+**[34:4]** And after their prayers Adam began to beg God, saying, "O my Lord, my God, and my Creator, You commanded the four elements to be gathered together, and they were gathered together by Thine order.
 
+**[34:5]** Then You spread Your hand and created me out of one element, that of dust of the earth; and You brought me into the garden at the third hour, on a Friday, and informed me of it in the cave.
 
+**[34:6]** Then, at first, I knew neither night nor day, for I had a bright nature; neither did the light in which I lived ever leave me to know night or day.
 
-**[33:4]** Then the hater of all good, went not to Adam, but he went to Eve, and
+**[34:7]** Then, again, O Lord, in that third hour in which You created me, You brought to me all beasts, and lions, and ostriches, and fowls of the air, and all things that move in the earth, which You had created at the first hour before me of the Friday.
 
-took the form of an angel of God, praising and rejoicing, and said to
+**[34:8]** And Your will was that I should name them all, one by one, with a suitable name. But You gave me understanding and knowledge, and a pure heart and a right mind from you, that I should name them after Thine own mind regarding the naming of them.
 
-her:--
+**[34:9]** O God, You made them obedient to me, and ordered that not one of them break from my sway, according to Your commandment, and to the dominion which You had given me over them. But now they are all estranged from me.
 
+**[34:10]** Then it was in that third hour of Friday, in which You created me, and commanded me concerning the tree, to which I was neither to go near, nor to eat thereof; for You said to me in the garden, 'When you eat of it, of death you shall die.'
 
+**[34:11]** And if You had punished me as You said, with death, I should have died that very moment.
 
-**[33:5]** "Peace be to you!  Be glad and rejoice!  God is favorable to you, and
+**[34:12]** Moreover, when You commanded me regarding the tree, I was neither to approach nor to eat thereof, Eve was not with me; You had not yet created her, neither had You yet taken her out of my side; nor had she yet heard this order from you.
 
-He sent me to Adam.  I have brought him the glad tidings of salvation,
+**[34:13]** Then, at the end of the third hour of that Friday, O Lord, You caused a slumber and a sleep to come over me, and I slept, and was overwhelmed in sleep.
 
-and of his being filled with bright light as he was at first.
+**[34:14]** Then You drew a rib out of my side, and created it after my own likeness and image.  Then I awoke; and when I saw her and knew who she was, I said, 'This is bone of my bones, and flesh of my flesh; from now on she shall be called woman.'
 
+**[34:15]** It was of Your good will, O God, that You brought a slumber in a sleep over me, and that You immediately brought Eve out of my side, until she was out, so that I did not see how she was made; neither could I witness, O my Lord, how awful and great are Your goodness and glory.
 
+**[34:16]** And of Your goodwill, O Lord, You made us both with bodies of a bright nature, and You made us two, one; and You gave us Your grace, and filled us with praises of the Holy Spirit; that we should be neither hungry nor thirsty, nor know what sorrow is, nor yet faintness of heart; neither suffering, fasting nor weariness.
 
-**[33:6]** And Adam, in his joy for his restoration, has sent me to you, that
+**[34:17]** But now, O God, since we transgressed Your commandment and broke Your law, You have brought us out into a strange land, and have caused suffering, and faintness, hunger and thirst to come over us.
 
-you come to me, in order that I crown you with light like him.
+**[34:18]** Now, therefore, O God, we pray you, give us something to eat from the garden, to satisfy our hunger with it; and something wherewith to quench our thirst.
 
+**[34:19]** For, behold, many days, O God, we have tasted nothing and drunk nothing, and our flesh is dried up, and our strength is wasted, and sleep is gone from our eyes from faintness and crying.
 
+**[34:20]** Then, O God, we dare not gather anything from the fruit of trees, from fear of you. For when we transgress at first You spared us and did not make us die.
 
-**[33:7]** And he said to me, 'Speak to Eve; if she does not come with you, tell
+**[34:21]** But now, we thought in our hearts, if we eat of the fruit of the trees, without God's order, He will destroy us this time, and will wipe us off from the face of the earth.
 
-her of the sign when we were on the top of the mountain; how God sent
+**[34:22]** And if we drink of this water, without God's order, He will make an end of us and root us up at once.
 
-his angels who took us and brought us to the Cave of Treasures; and
+**[34:23]** Now, therefore, O God, that I am come to this place with Eve, we beg You to give us some fruit from the garden, that we may be satisfied with it.
 
-laid the gold on the southern side; incense, on the eastern side; and
+**[34:24]** For we desire the fruit that is on the earth, and all else that we lack in it." 
 
-myrrh on the western side.'  Now come to him."
 
+**[35:1]** Then God looked again at Adam and his crying and groaning, and the Word of God came to him, and said to him:--
 
+**[35:2]** "O Adam, when you were in My garden, you knew neither eating nor drinking; neither faintness nor suffering; neither leanness of flesh, nor change; neither did sleep depart from thine eyes.  But since you transgressed, and came into this strange land, all these trials are come over you."
 
-**[33:8]** When Eve hear these words from him, she rejoiced greatly.  And
 
-thinking Satan's appearance was real, she came out of the sea.
+**[36:1]** Then God commanded the cherub, who kept the gate of the garden with a sword of fire in his hand, to take some of the fruit of the fig-tree, and to give it to Adam.
 
+**[36:2]** The cherub obeyed the command of the Lord God, and went into the garden and brought two figs on two twigs, each fig hanging to its leaf; they were from two of the trees among which Adam and Eve hid themselves when God went to walk in the garden, and the Word of God came to Adam and Eve and said to them, "Adam, Adam, where are you?"
 
+**[36:3]** And Adam answered, "O God, here I am.  When I heard the sound of You and Your voice, I hid myself, because I am naked."
 
-**[33:9]** He went before, and she followed him until they came to Adam.  Then
+**[36:4]** Then the cherub took two figs and brought them to Adam and Eve. But he threw them to them from a distance; for they might not come near the cherub by reason of their flesh, that could not come near the fire.
 
-Satan hid himself from her, and she saw him no more.
+**[36:5]** At first, angels trembled at the presence of Adam and were afraid of him. But now Adam trembled before the angels and was afraid of them.
 
+**[36:6]** Then Adam came closer and took one fig, and Eve also came in turn and took the other.
 
+**[36:7]** And as they took them up in their hands, they looked at them, and knew they were from the trees among which they had hidden themselves.
 
-**[33:10]** She then came and stood before Adam, who was standing by the water
 
-and rejoicing in God's forgiveness.
 
+**[37:1]** Then Adam said to Eve, "Do you not see these figs and their leaves, with which we covered ourselves when we were stripped of our bright nature? But now, we do not know what misery and suffering may come over us from eating them.
 
+**[37:2]** Now, therefore, O Eve, let us restrain ourselves and not eat of them, you and I; and let us ask God to give us of the fruit of the Tree of Life."
 
-**[33:11]** And as she called to him, he turned around, found her there and
+**[37:3]** Thus did Adam and Eve restrain themselves, and did not eat of these figs.
 
-cried when he saw her, and beat his chest; and from the bitterness of
+**[37:4]** But Adam began to pray to God and to beseech Him to give him of the fruit of the Tree of Life, saying thus: "O God, when we transgressed Your commandment at the sixth hour of Friday, we were stripped of the bright nature we had, and did not continue in the garden after our transgression, more than three hours.
 
-his grief, he sank into the water.
+**[37:5]** But in the evening You made us come out of it. O God, we transgressed against You one hour, and all these trials and sorrows have come over us until this day.
 
+**[37:6]** And those days together with this the forty-third day, do not redeem that one hour in which we transgressed!
 
+**[37:7]** O God, look at us with an eye of pity, and do not avenge us according to our transgression of Your commandment, in Your presence.
 
-**[33:12]** But God looked at him and at his misery, and at his being about to
+**[37:8]** O God, give us of the fruit of the Tree of Life, that we may eat of it, and live, and turn not to see sufferings and other trouble, in this earth; for You are God.
 
-breathe his last.  And the Word of God came from heaven, raised him out
+**[37:9]** When we transgressed Your commandment, You made us come out of the garden, and sent a cherub to keep the Tree of Life, lest we should eat thereof, and live; and know nothing of faintness after we transgressed.
 
-of the water, and said to him, "Go up the high bank to Eve."  And when
-
-he came up to Eve he said to her, "Who told you to come here?"
-
-
-
-**[33:13]** Then she told him the discourse of the angel who had appeared to her
-
-and had given her a sign.
-
-
-
-**[33:14]** But Adam grieved, and gave her to know it was Satan.  He then took
-
-her and they both returned to the cave.
-
-
-
-**[33:15]** These things happened to them the second time they went down to the
-
-water, seven days after their coming out of the garden.
-
-
-
-**[33:16]** They fasted in the water thirty-five days; altogether forty-two days
-
-since they had left the garden. 
-
-
-
-**[34:1]** And on the morning of the forty-third day, they came out of the cave,
-
-sorrowful and crying.  Their bodies were lean, and they were parched
-
-from hunger and thirst, from fasting and praying, and from their heavy
-
-sorrow on account of their transgression.
-
-
-
-**[34:2]** And when they had come out of the cave they went up the mountain to
-
-the west of the garden.
-
-
-
-**[34:3]** There they stood and prayed and besought God to grant them
-
-forgiveness of their sins.
-
-
-
-**[34:4]** And after their prayers Adam began to beg God, saying, "O my Lord, my
-
-God, and my Creator, You commanded the four elements to be gathered
-
-together, and they were gathered together by Thine order.
-
-
-
-**[34:5]** Then You spread Your hand and created me out of one element, that of
-
-dust of the earth; and You brought me into the garden at the third
-
-hour, on a Friday, and informed me of it in the cave.
-
-
-
-**[34:6]** Then, at first, I knew neither night nor day, for I had a bright
-
-nature; neither did the light in which I lived ever leave me to know
-
-night or day.
-
-
-
-**[34:7]** Then, again, O Lord, in that third hour in which You created me, You
-
-brought to me all beasts, and lions, and ostriches, and fowls of the
-
-air, and all things that move in the earth, which You had created at
-
-the first hour before me of the Friday.
-
-
-
-**[34:8]** And Your will was that I should name them all, one by one, with a
-
-suitable name.  But You gave me understanding and knowledge, and a pure
-
-heart and a right mind from you, that I should name them after Thine
-
-own mind regarding the naming of them.
-
-
-
-**[34:9]** O God, You made them obedient to me, and ordered that not one of them
-
-break from my sway, according to Your commandment, and to the dominion
-
-which You had given me over them.  But now they are all estranged from
-
-me.
-
-
-
-**[34:10]** Then it was in that third hour of Friday, in which You created me,
-
-and commanded me concerning the tree, to which I was neither to go
-
-near, nor to eat thereof; for You said to me in the garden, 'When you
-
-eat of it, of death you shall die.'
-
-
-
-**[34:11]** And if You had punished me as You said, with death, I should have
-
-died that very moment.
-
-
-
-**[34:12]** Moreover, when You commanded me regarding the tree, I was neither to
-
-approach nor to eat thereof, Eve was not with me; You had not yet
-
-created her, neither had You yet taken her out of my side; nor had she
-
-yet heard this order from you.
-
-
-
-**[34:13]** Then, at the end of the third hour of that Friday, O Lord, You
-
-caused a slumber and a sleep to come over me, and I slept, and was
-
-overwhelmed in sleep.
-
-
-
-**[34:14]** Then You drew a rib out of my side, and created it after my own
-
-likeness and image.  Then I awoke; and when I saw her and knew who she
-
-was, I said, 'This is bone of my bones, and flesh of my flesh; from now
-
-on she shall be called woman.'
-
-
-
-**[34:15]** It was of Your good will, O God, that You brought a slumber in a
-
-sleep over me, and that You immediately brought Eve out of my side,
-
-until she was out, so that I did not see how she was made; neither
-
-could I witness, O my Lord, how awful and great are Your goodness and
-
-glory.
-
-
-
-**[34:16]** And of Your goodwill, O Lord, You made us both with bodies of a
-
-bright nature, and You made us two, one; and You gave us Your grace,
-
-and filled us with praises of the Holy Spirit; that we should be
-
-neither hungry nor thirsty, nor know what sorrow is, nor yet faintness
-
-of heart; neither suffering, fasting nor weariness.
-
-
-
-**[34:17]** But now, O God, since we transgressed Your commandment and broke
-
-Your law, You have brought us out into a strange land, and have caused
-
-suffering, and faintness, hunger  and thirst to come over us.
-
-
-
-**[34:18]** Now, therefore, O God, we pray you, give us something to eat from
-
-the garden, to satisfy our hunger with it; and something wherewith to
-
-quench our thirst.
-
-
-
-**[34:19]** For, behold, many days, O God, we have tasted nothing and drunk
-
-nothing, and our flesh is dried up, and our strength is wasted, and
-
-sleep is gone from our eyes from faintness and crying.
-
-
-
-**[34:20]** Then, O God, we dare not gather anything from the fruit of trees,
-
-from fear of you.  For when we transgress at first You spared us and
-
-did not make us die.
-
-
-
-**[34:21]** But now, we thought in our hearts, if we eat of the fruit of the
-
-trees, without God's order, He will destroy us this time, and will wipe
-
-us off from the face of the earth.
-
-
-
-**[34:22]** And if we drink of this water, without God's order, He will make an
-
-end of us and root us up at once.
-
-
-
-**[34:23]** Now, therefore, O God, that I am come to this place with Eve, we beg
-
-You to give us some fruit from the garden, that we may be satisfied
-
-with it.
-
-
-
-**[34:24]** For we desire the fruit that is on the earth, and all else that we
-
-lack in it." 
-
-
-
-**[35:1]** Then God looked again at Adam and his crying and groaning, and the
-
-Word of God came to him, and said to him:--
-
-
-
-**[35:2]** "O Adam, when you were in My garden, you knew neither eating nor
-
-drinking; neither faintness nor suffering; neither leanness of flesh,
-
-nor change; neither did sleep depart from thine eyes.  But since you
-
-transgressed, and came into this strange land, all these trials are
-
-come over you."
-
-
-
-**[36:1]** Then God commanded the cherub, who kept the gate of the garden with a
-
-sword of fire in his hand, to take some of the fruit of the fig-tree,
-
-and to give it to Adam.
-
-
-
-**[36:2]** The cherub obeyed the command of the Lord God, and went into the
-
-garden and brought two figs on two twigs, each fig hanging to its leaf;
-
-they were from two of the trees among which Adam and Eve hid themselves
-
-when God went to walk in the garden, and the Word of God came to Adam
-
-and Eve and said to them, "Adam, Adam, where are you?"
-
-
-
-**[36:3]** And Adam answered, "O God, here I am.  When I heard the sound of You
-
-and Your voice, I hid myself, because I am naked."
-
-
-
-**[36:4]** Then the cherub took two figs and brought them to Adam and Eve.  But
-
-he threw them to them from a distance; for they might not come near the
-
-cherub by reason of their flesh, that could not come near the fire.
-
-
-
-**[36:5]** At first, angels trembled at the presence of Adam and were afraid of
-
-him.  But now Adam trembled before the angels and was afraid of them.
-
-
-
-**[36:6]** Then Adam came closer and took one fig, and Eve also came in turn and
-
-took the other.
-
-
-
-**[36:7]** And as they took them up in their hands, they looked at them, and
-
-knew they were from the trees among which they had hidden themselves.
-
-
-
-**[37:1]** Then Adam said to Eve, "Do you not see these figs and their leaves,
-
-with which we covered ourselves when we were stripped of our bright
-
-nature?  But now, we do not know what misery and suffering may come
-
-over us from eating them.
-
-
-
-**[37:2]** Now, therefore, O Eve, let us restrain ourselves and not eat of them,
-
-you and I; and let us ask God to give us of the fruit of the Tree of
-
-Life."
-
-
-
-**[37:3]** Thus did Adam and Eve restrain themselves, and did not eat of these
-
-figs.
-
-
-
-**[37:4]** But Adam began to pray to God and to beseech Him to give him of the
-
-fruit of the Tree of Life, saying thus: "O God, when we transgressed
-
-Your commandment at the sixth hour of Friday, we were stripped of the
-
-bright nature we had, and did not continue in the garden after our
-
-transgression, more than three hours.
-
-
-
-**[37:5]** But in the evening You made us come out of it.  O God, we
-
-transgressed against You one hour, and all these trials and sorrows
-
-have come over us until this day.
-
-
-
-**[37:6]** And those days together with this the forty-third day, do not redeem
-
-that one hour in which we transgressed!
-
-
-
-**[37:7]** O God, look at us with an eye of pity, and do not avenge us according
-
-to our transgression of Your commandment, in Your presence.
-
-
-
-**[37:8]** O God, give us of the fruit of the Tree of Life, that we may eat of
-
-it, and live, and turn not to see sufferings and other trouble, in this
-
-earth; for You are God.
-
-
-
-**[37:9]** When we transgressed Your commandment, You made us come out of the
-
-garden, and sent a cherub to keep the Tree of Life, lest we should eat
-
-thereof, and live; and know nothing of faintness after we transgressed.
-
-
-
-**[37:10]** But now, O Lord, behold, we have endured all these days, and have
-
-borne sufferings.  Make these forty-three days an equivalent for the
-
-one hour in which we transgressed."
-
+**[37:10]** But now, O Lord, behold, we have endured all these days, and have borne sufferings. Make these forty-three days an equivalent for the one hour in which we transgressed."
 
 
 **[38:1]** After these things the Word of God came to Adam, and said to him:--
 
+**[38:2]** "O Adam, as to the fruit on the Tree of Life that you have asked for, I will not give it to you now, but only when the 5500 years are fulfilled. At that time I will give you fruit from the Tree of Life, and you will eat, and live forever, you, and Eve, and your righteous descendants.
 
+**[38:3]** But these forty-three days cannot make amends for the hour in which you transgressed My commandment.
 
-**[38:2]** "O Adam, as to the fruit on the Tree of Life that you have asked for,
+**[38:4]** O Adam, I gave you the fruit of the fig-tree to eat in which you hid yourself. Go and eat of it, you and Eve.
 
-I will not give it to you now, but only when the 5500 years are
-
-fulfilled.  At that time I will give you fruit from the Tree of Life,
-
-and you will eat, and live forever, you, and Eve, and your righteous
-
-descendants.
-
-
-
-**[38:3]** But these forty-three days cannot make amends for the hour in which
-
-you transgressed My commandment.
-
-
-
-**[38:4]** O Adam, I gave you the fruit of the fig-tree to eat in which you hid
-
-yourself.  Go and eat of it, you and Eve.
-
-
-
-**[38:5]** I will not deny your request, neither will I disappoint your hope;
-
-therefore, endure until the fulfillment of the covenant I made with
-
-you."
-
-
+**[38:5]** I will not deny your request, neither will I disappoint your hope; therefore, endure until the fulfillment of the covenant I made with you."
 
 **[38:6]** And God withdrew His Word from Adam.
 
 
 
-**[39:1]** Then Adam returned to Eve, and said to her, "Get up, and take a fig
+**[39:1]** Then Adam returned to Eve, and said to her, "Get up, and take a fig for yourself, and I will take another; and let us go to our cave."
 
-for yourself, and I will take another; and let us go to our cave."
+**[39:2]** Then Adam and Eve took each a fig and went towards the cave; the time was about the setting of the sun; and their thoughts made them long to eat of the fruit.
 
+**[39:3]** But Adam said to Eve, "I am afraid to eat of this fig.  I know not what may come over me from it."
 
+**[39:4]** So Adam cried, and stood praying before God, saying, "Satisfy my hunger, without my having to eat this fig; for after I have eaten it, what will it profit me? And what shall I desire and ask of you, O God, when it is gone?"
 
-**[39:2]** Then Adam and Eve took each a fig and went towards the cave; the time
-
-was about the setting of the sun; and their thoughts made them long to
-
-eat of the fruit.
+**[39:5]** And he said again, "I am afraid to eat of it; for I know not what will befall me through it."
 
 
+**[40:1]** Then the Word of God came to Adam, and said to him, "O Adam, why didn't you have this dread, or this fasting, or this care before now? And why didn't you have this fear before you transgressed?
 
-**[39:3]** But Adam said to Eve, "I am afraid to eat of this fig.  I know not
-
-what may come over me from it."
-
-
-
-**[39:4]** So Adam cried, and stood praying before God, saying, "Satisfy my
-
-hunger, without my having to eat this fig; for after I have eaten it,
-
-what will it profit me?  And what shall I desire and ask of you, O God,
-
-when it is gone?"
-
-
-
-**[39:5]** And he said again, "I am afraid to eat of it; for I know not what
-
-will befall me through it."
-
-
-
-**[40:1]** Then the Word of God came to Adam, and said to him, "O Adam, why
-
-didn't you have this dread, or this fasting, or this care before now?
-
-And why didn't you have this fear before you transgressed?
-
-
-
-**[40:2]** But when you came to live in this strange land, your animal body
-
-could not survive on earth without earthly food, to strengthen it and
-
-to restore its powers."
-
-
+**[40:2]** But when you came to live in this strange land, your animal body could not survive on earth without earthly food, to strengthen it and to restore its powers."
 
 **[40:3]** And God withdrew His Word for Adam.
 
