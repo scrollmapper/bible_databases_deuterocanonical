@@ -1,2074 +1,2074 @@
 {
     "books": [
         {
-            "name": "The Psalms of Solomon",
+            "name": "Psalms of Solomon",
             "chapters": [
                 {
                     "chapter": 1,
-                    "name": "The Psalms of Solomon 1",
+                    "name": "Psalms of Solomon 1",
                     "verses": [
                         {
                             "verse": 1,
                             "chapter": 1,
-                            "name": "The Psalms of Solomon 1:1",
+                            "name": "Psalms of Solomon 1:1",
                             "text": "I cried unto the Lord when I was in distress [ ],\n\nUnto God when sinners assailed."
                         },
                         {
                             "verse": 2,
                             "chapter": 1,
-                            "name": "The Psalms of Solomon 1:2",
+                            "name": "Psalms of Solomon 1:2",
                             "text": "Suddenly the alarm of war was heard before me;\n\n(I said), He will hearken to me, for I am full of righteousness."
                         },
                         {
                             "verse": 3,
                             "chapter": 1,
-                            "name": "The Psalms of Solomon 1:3",
+                            "name": "Psalms of Solomon 1:3",
                             "text": "I thought in my heart that I was full of righteousness,\n\nBecause I was well off and had become rich in children."
                         },
                         {
                             "verse": 4,
                             "chapter": 1,
-                            "name": "The Psalms of Solomon 1:4",
+                            "name": "Psalms of Solomon 1:4",
                             "text": "Their wealth spread to the whole earth,\n\nAnd their glory unto the end of the earth."
                         },
                         {
                             "verse": 5,
                             "chapter": 1,
-                            "name": "The Psalms of Solomon 1:5",
+                            "name": "Psalms of Solomon 1:5",
                             "text": "They were exalted unto the stars;\n\nThey said they would never fall."
                         },
                         {
                             "verse": 6,
                             "chapter": 1,
-                            "name": "The Psalms of Solomon 1:6",
+                            "name": "Psalms of Solomon 1:6",
                             "text": "But they became insolent in their prosperity,\n\nAnd they were without understanding,"
                         },
                         {
                             "verse": 7,
                             "chapter": 1,
-                            "name": "The Psalms of Solomon 1:7",
+                            "name": "Psalms of Solomon 1:7",
                             "text": "Their sins were in secret,\n\nAnd even I had no knowledge (of them)."
                         },
                         {
                             "verse": 8,
                             "chapter": 1,
-                            "name": "The Psalms of Solomon 1:8",
+                            "name": "Psalms of Solomon 1:8",
                             "text": "Their transgressions (went) beyond those of the heathen before them;\n\nThey utterly polluted the holy things of the Lord."
                         }
                     ]
                 },
                 {
                     "chapter": 2,
-                    "name": "The Psalms of Solomon 2",
+                    "name": "Psalms of Solomon 2",
                     "verses": [
                         {
                             "verse": 0,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:0",
+                            "name": "Psalms of Solomon 2:0",
                             "text": "A Psalm Of Solomon. Concerning Jerusalem."
                         },
                         {
                             "verse": 1,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:1",
+                            "name": "Psalms of Solomon 2:1",
                             "text": "When the sinner waxed proud, with a battering-ram he cast down fortified walls,\nAnd Thou didst not restrain (him)."
                         },
                         {
                             "verse": 2,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:2",
+                            "name": "Psalms of Solomon 2:2",
                             "text": "Alien nations ascended Thine altar,\nThey trampled (it) proudly with their sandals;"
                         },
                         {
                             "verse": 3,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:3",
+                            "name": "Psalms of Solomon 2:3",
                             "text": "Because the sons of Jerusalem had defiled the holy things of the Lord,\nHad profaned with iniquities the offerings of God."
                         },
                         {
                             "verse": 4,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:4",
+                            "name": "Psalms of Solomon 2:4",
                             "text": "Therefore He said: Cast them far from Me;"
                         },
                         {
                             "verse": 5,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:5",
+                            "name": "Psalms of Solomon 2:5",
                             "text": "It was set at naught before God,\nIt was utterly dishonoured;"
                         },
                         {
                             "verse": 6,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:6",
+                            "name": "Psalms of Solomon 2:6",
                             "text": "The sons and the daughters were in grievous captivity,\nSealed () (was) their neck, branded () (was it) among the nations."
                         },
                         {
                             "verse": 7,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:7",
+                            "name": "Psalms of Solomon 2:7",
                             "text": "According to their sins hath He done unto them,\nFor He hath left them in the hands of them that prevailed."
                         },
                         {
                             "verse": 8,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:8",
+                            "name": "Psalms of Solomon 2:8",
                             "text": "He hath turned away His face from pitying them,\nYoung and old and their children together;"
                         },
                         {
                             "verse": 9,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:9",
+                            "name": "Psalms of Solomon 2:9",
                             "text": "For they had done evil one and all, in not hearkening."
                         },
                         {
                             "verse": 10,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:10",
+                            "name": "Psalms of Solomon 2:10",
                             "text": "And the heavens were angry,\nAnd the earth abhorred them;"
                         },
                         {
                             "verse": 11,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:11",
+                            "name": "Psalms of Solomon 2:11",
                             "text": "For no man upon it had done what they did,"
                         },
                         {
                             "verse": 12,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:12",
+                            "name": "Psalms of Solomon 2:12",
                             "text": "And the earth recognized all Thy righteous judgments, O God."
                         },
                         {
                             "verse": 13,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:13",
+                            "name": "Psalms of Solomon 2:13",
                             "text": "They set the sons of Jerusalem to be mocked at in return for (the) harlots in her;\nEvery wayfarer entered in in the full light of day."
                         },
                         {
                             "verse": 14,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:14",
+                            "name": "Psalms of Solomon 2:14",
                             "text": "They made mock with their transgressions, as they themselves were wont to do;\nIn the full light of day they revealed their iniquities."
                         },
                         {
                             "verse": 15,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:15",
+                            "name": "Psalms of Solomon 2:15",
                             "text": "Because they had defiled themselves with unnatural intercourse."
                         },
                         {
                             "verse": 16,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:16",
+                            "name": "Psalms of Solomon 2:16",
                             "text": "(And yet) I will justify Thee, O God, in uprightness of heart,\nFor in Thy judgments is Thy righteousness (displayed), O God."
                         },
                         {
                             "verse": 17,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:17",
+                            "name": "Psalms of Solomon 2:17",
                             "text": "For Thou hast rendered to the sinners according to their deeds,\nYea according to their sins, which were very wicked."
                         },
                         {
                             "verse": 18,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:18",
+                            "name": "Psalms of Solomon 2:18",
                             "text": "Thou hast uncovered their sins, that Thy judgment might be manifest;\nThou hast wiped out their memorial from the earth."
                         },
                         {
                             "verse": 19,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:19",
+                            "name": "Psalms of Solomon 2:19",
                             "text": "For the nations reproached Jerusalem, trampling it down;\nHer beauty was dragged down from the throne of glory."
                         },
                         {
                             "verse": 20,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:20",
+                            "name": "Psalms of Solomon 2:20",
                             "text": "She girded on sackcloth instead of comely raiment,\nA rope (was) about her head instead of a crown."
                         },
                         {
                             "verse": 21,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:21",
+                            "name": "Psalms of Solomon 2:21",
                             "text": "She put off the glorious diadem which God had set upon her,\nIn dishonor was her beauty cast upon the ground."
                         },
                         {
                             "verse": 22,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:22",
+                            "name": "Psalms of Solomon 2:22",
                             "text": "And I saw and entreated the Lord and said,\nLong enough, O Lord, has Thine hand been heavy on Israel, in bringing the nations upon (them)."
                         },
                         {
                             "verse": 23,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:23",
+                            "name": "Psalms of Solomon 2:23",
                             "text": "For they have made sport unsparingly in wrath and fierce anger;\nAnd they will make an utter end, unless Thou, O Lord, rebuke them in Thy wrath."
                         },
                         {
                             "verse": 24,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:24",
+                            "name": "Psalms of Solomon 2:24",
                             "text": "For they have done it not in zeal, but in lust of soul,\nPouring out their wrath upon us with a view to rapine."
                         },
                         {
                             "verse": 25,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:25",
+                            "name": "Psalms of Solomon 2:25",
                             "text": "Delay not, O God, to recompense them on (their) heads,\nTo turn the pride of the dragon into dishonour."
                         },
                         {
                             "verse": 26,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:26",
+                            "name": "Psalms of Solomon 2:26",
                             "text": "And I had not long to wait before God showed me the insolent one\nSlain on the mountains of Egypt,\nEsteemed of less account than the least on land and sea;"
                         },
                         {
                             "verse": 27,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:27",
+                            "name": "Psalms of Solomon 2:27",
                             "text": "His body, ( too,) borne hither and thither on the billows with much insolence,\nWith none to bury (him), because He had rejected him with dishonour."
                         },
                         {
                             "verse": 28,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:28",
+                            "name": "Psalms of Solomon 2:28",
                             "text": "He reflected not that he was man.\nAnd reflected not on the latter end;"
                         },
                         {
                             "verse": 29,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:29",
+                            "name": "Psalms of Solomon 2:29",
                             "text": "He said: I will be lord of land and sea;\nAnd he recognized not that it is God who is great,\nMighty in His great strength."
                         },
                         {
                             "verse": 30,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:30",
+                            "name": "Psalms of Solomon 2:30",
                             "text": "He is king over the heavens,\nAnd judgeth kings and kingdoms."
                         },
                         {
                             "verse": 31,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:31",
+                            "name": "Psalms of Solomon 2:31",
                             "text": "(It is He) who setteth me up in glory,\nAnd bringeth down the proud to eternal destruction in dishonour,\nBecause they knew Him not."
                         },
                         {
                             "verse": 32,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:32",
+                            "name": "Psalms of Solomon 2:32",
                             "text": "And now behold, ye princes of the earth,\nthe judgment of the Lord,\nFor a great king and righteous (is He),\njudging (all) that is under heaven."
                         },
                         {
                             "verse": 33,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:33",
+                            "name": "Psalms of Solomon 2:33",
                             "text": "Bless God, ye that fear the Lord with wisdom,\nFor the mercy of the Lord will be upon them that fear Him, in the Judgment;"
                         },
                         {
                             "verse": 34,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:34",
+                            "name": "Psalms of Solomon 2:34",
                             "text": "So that He will distinguish between the righteous and the sinner,\n(And) recompense the sinners for ever according to their deeds;"
                         },
                         {
                             "verse": 35,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:35",
+                            "name": "Psalms of Solomon 2:35",
                             "text": "And have mercy on the righteous, (delivering him) from the affliction of the sinner,\nAnd recompensing the sinner for what he hath done to the righteous."
                         },
                         {
                             "verse": 36,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:36",
+                            "name": "Psalms of Solomon 2:36",
                             "text": "For the Lord is good to them that call upon Him in patience,\nDoing according to His mercy to His pious ones,\nEstablishing (them) at all times before Him in strength."
                         },
                         {
                             "verse": 37,
                             "chapter": 2,
-                            "name": "The Psalms of Solomon 2:37",
+                            "name": "Psalms of Solomon 2:37",
                             "text": "Blessed be the Lord for ever before His servants."
                         }
                     ]
                 },
                 {
                     "chapter": 3,
-                    "name": "The Psalms of Solomon 3",
+                    "name": "Psalms of Solomon 3",
                     "verses": [
                         {
                             "verse": 0,
                             "chapter": 3,
-                            "name": "The Psalms of Solomon 3:0",
+                            "name": "Psalms of Solomon 3:0",
                             "text": "A Psalm of Solomon concerning the righteous."
                         },
                         {
                             "verse": 1,
                             "chapter": 3,
-                            "name": "The Psalms of Solomon 3:1",
+                            "name": "Psalms of Solomon 3:1",
                             "text": "Why sleepest thou, O my soul,\nAnd blessest not the Lord"
                         },
                         {
                             "verse": 2,
                             "chapter": 3,
-                            "name": "The Psalms of Solomon 3:2",
+                            "name": "Psalms of Solomon 3:2",
                             "text": "Sing a new song,\nUnto God who is worthy to be praised.\nSing and be wakeful against His awaking,\nFor good is a psalm (sung) to God from a glad heart."
                         },
                         {
                             "verse": 3,
                             "chapter": 3,
-                            "name": "The Psalms of Solomon 3:3",
+                            "name": "Psalms of Solomon 3:3",
                             "text": "The righteous remember the Lord at all times,\nWith thanksgiving and declaration of the righteousness of the Lord's judgments."
                         },
                         {
                             "verse": 4,
                             "chapter": 3,
-                            "name": "The Psalms of Solomon 3:4",
+                            "name": "Psalms of Solomon 3:4",
                             "text": "The righteous despiseth not the chastening of the Lord;\nHis will is always before the Lord."
                         },
                         {
                             "verse": 5,
                             "chapter": 3,
-                            "name": "The Psalms of Solomon 3:5",
+                            "name": "Psalms of Solomon 3:5",
                             "text": "The righteous stumbleth and holdeth the Lord righteous:\nHe falleth and looketh out for what God will do to him;"
                         },
                         {
                             "verse": 6,
                             "chapter": 3,
-                            "name": "The Psalms of Solomon 3:6",
+                            "name": "Psalms of Solomon 3:6",
                             "text": "He seeketh out whence his deliverance will come."
                         },
                         {
                             "verse": 7,
                             "chapter": 3,
-                            "name": "The Psalms of Solomon 3:7",
+                            "name": "Psalms of Solomon 3:7",
                             "text": "The steadfastness of the righteous is from God their deliverer;\nThere lodgeth not in the house of the righteous sin upon sin."
                         },
                         {
                             "verse": 8,
                             "chapter": 3,
-                            "name": "The Psalms of Solomon 3:8",
+                            "name": "Psalms of Solomon 3:8",
                             "text": "The righteous continually searcheth his house,\nTo remove utterly (all) iniquity (done) by him in error."
                         },
                         {
                             "verse": 9,
                             "chapter": 3,
-                            "name": "The Psalms of Solomon 3:9",
+                            "name": "Psalms of Solomon 3:9",
                             "text": "He maketh atonement for (sins of) ignorance by fasting and afflicting his soul,"
                         },
                         {
                             "verse": 10,
                             "chapter": 3,
-                            "name": "The Psalms of Solomon 3:10",
+                            "name": "Psalms of Solomon 3:10",
                             "text": "And the Lord counteth guiltless every pious man and his house."
                         },
                         {
                             "verse": 11,
                             "chapter": 3,
-                            "name": "The Psalms of Solomon 3:11",
+                            "name": "Psalms of Solomon 3:11",
                             "text": "The sinner stumbleth and curseth his life,\nThe day when he was begotten, and his mother's travail."
                         },
                         {
                             "verse": 12,
                             "chapter": 3,
-                            "name": "The Psalms of Solomon 3:12",
+                            "name": "Psalms of Solomon 3:12",
                             "text": "He addeth sins to sins, while he liveth ();\nHe falleth—verily grievous is his fall—and riseth no more."
                         },
                         {
                             "verse": 13,
                             "chapter": 3,
-                            "name": "The Psalms of Solomon 3:13",
+                            "name": "Psalms of Solomon 3:13",
                             "text": "The destruction of the sinner is for ever,\nAnd he shall not be remembered, when the righteous is visited."
                         },
                         {
                             "verse": 14,
                             "chapter": 3,
-                            "name": "The Psalms of Solomon 3:14",
+                            "name": "Psalms of Solomon 3:14",
                             "text": "This is the portion of sinners for ever."
                         },
                         {
                             "verse": 15,
                             "chapter": 3,
-                            "name": "The Psalms of Solomon 3:15",
+                            "name": "Psalms of Solomon 3:15",
                             "text": "But they that fear the Lord shall rise to life eternal,\nAnd their life (shall be) in the light of the Lord, and shall come to an end no more."
                         }
                     ]
                 },
                 {
                     "chapter": 4,
-                    "name": "The Psalms of Solomon 4",
+                    "name": "Psalms of Solomon 4",
                     "verses": [
                         {
                             "verse": 0,
                             "chapter": 4,
-                            "name": "The Psalms of Solomon 4:0",
+                            "name": "Psalms of Solomon 4:0",
                             "text": "A Conversation of Solomon with the Men-pleasers."
                         },
                         {
                             "verse": 1,
                             "chapter": 4,
-                            "name": "The Psalms of Solomon 4:1",
+                            "name": "Psalms of Solomon 4:1",
                             "text": "Wherefore sittest thou, O profane (man), in the council of the pious,\nSeeing that thy heart is far removed from the Lord,\nProvoking with transgressions the God of Israel"
                         },
                         {
                             "verse": 2,
                             "chapter": 4,
-                            "name": "The Psalms of Solomon 4:2",
+                            "name": "Psalms of Solomon 4:2",
                             "text": "Extravagant in speech, extravagant in outward seeming beyond all (men),\nIs he that is severe of speech in condemning sinners in judgment."
                         },
                         {
                             "verse": 3,
                             "chapter": 4,
-                            "name": "The Psalms of Solomon 4:3",
+                            "name": "Psalms of Solomon 4:3",
                             "text": "And his hand is first upon him as (though he acted) in zeal,\nAnd (yet) he is himself guilty in respect of manifold sins and of wantonness."
                         },
                         {
                             "verse": 4,
                             "chapter": 4,
-                            "name": "The Psalms of Solomon 4:4",
+                            "name": "Psalms of Solomon 4:4",
                             "text": "His eyes are upon every woman without distinction;\nHis tongue lieth when he maketh contract with an oath."
                         },
                         {
                             "verse": 5,
                             "chapter": 4,
-                            "name": "The Psalms of Solomon 4:5",
+                            "name": "Psalms of Solomon 4:5",
                             "text": "By night and in secret he sinneth as though unseen,\nWith his eyes he talketh to every woman of evil compacts."
                         },
                         {
                             "verse": 6,
                             "chapter": 4,
-                            "name": "The Psalms of Solomon 4:6",
+                            "name": "Psalms of Solomon 4:6",
                             "text": "He is swift to enter every house with cheerfulness as though guileless."
                         },
                         {
                             "verse": 7,
                             "chapter": 4,
-                            "name": "The Psalms of Solomon 4:7",
+                            "name": "Psalms of Solomon 4:7",
                             "text": "Let God remove those that live in hypocrisy in the company of the pious,\n(Even) the life of such an one with corruption of his flesh and penury."
                         },
                         {
                             "verse": 8,
                             "chapter": 4,
-                            "name": "The Psalms of Solomon 4:8",
+                            "name": "Psalms of Solomon 4:8",
                             "text": "Let God reveal the deeds of the men-pleasers,\nThe deeds of such an one with laughter and derision;"
                         },
                         {
                             "verse": 9,
                             "chapter": 4,
-                            "name": "The Psalms of Solomon 4:9",
+                            "name": "Psalms of Solomon 4:9",
                             "text": "That the pious may count righteous the judgment of their God,\nWhen sinners are removed from before the righteous,"
                         },
                         {
                             "verse": 10,
                             "chapter": 4,
-                            "name": "The Psalms of Solomon 4:10",
+                            "name": "Psalms of Solomon 4:10",
                             "text": "(Even the) man-pleaser who uttereth law guilefully."
                         },
                         {
                             "verse": 11,
                             "chapter": 4,
-                            "name": "The Psalms of Solomon 4:11",
+                            "name": "Psalms of Solomon 4:11",
                             "text": "And their eyes (are fixed) upon any man's house that is (still) secure,\nThat they may, like (the) Serpent, destroy the wisdom of . . . with words of transgressors,"
                         },
                         {
                             "verse": 12,
                             "chapter": 4,
-                            "name": "The Psalms of Solomon 4:12",
+                            "name": "Psalms of Solomon 4:12",
                             "text": "His words are deceitful that (he) may accomplish (his) wicked desire."
                         },
                         {
                             "verse": 13,
                             "chapter": 4,
-                            "name": "The Psalms of Solomon 4:13",
+                            "name": "Psalms of Solomon 4:13",
                             "text": "He never ceaseth from scattering (families) as though (they were) orphans,"
                         },
                         {
                             "verse": 14,
                             "chapter": 4,
-                            "name": "The Psalms of Solomon 4:14",
+                            "name": "Psalms of Solomon 4:14",
                             "text": "He deceiveth with words, (saying,) There is none that seeth, or judgeth."
                         },
                         {
                             "verse": 15,
                             "chapter": 4,
-                            "name": "The Psalms of Solomon 4:15",
+                            "name": "Psalms of Solomon 4:15",
                             "text": "He fills one (house) with lawlessness,\nAnd (then) his eyes (are fixed) upon the next house,\nTo destroy it with words that give wing to (desire)."
                         },
                         {
                             "verse": 16,
                             "chapter": 4,
-                            "name": "The Psalms of Solomon 4:16",
+                            "name": "Psalms of Solomon 4:16",
                             "text": "Let his portion, O Lord, be dishonoured before thee;\nLet him go forth groaning and come home cursed."
                         },
                         {
                             "verse": 17,
                             "chapter": 4,
-                            "name": "The Psalms of Solomon 4:17",
+                            "name": "Psalms of Solomon 4:17",
                             "text": "Let his life be (spent) in anguish, and penury, and want, O Lord;\nLet his sleep be (beset) with pains and his awaking with perplexities."
                         },
                         {
                             "verse": 18,
                             "chapter": 4,
-                            "name": "The Psalms of Solomon 4:18",
+                            "name": "Psalms of Solomon 4:18",
                             "text": "Let sleep be withdrawn from his eyelids at night;\nLet him fail dishonorably in every work of his hands."
                         },
                         {
                             "verse": 19,
                             "chapter": 4,
-                            "name": "The Psalms of Solomon 4:19",
+                            "name": "Psalms of Solomon 4:19",
                             "text": "Let him come home empty-handed to his house,\nAnd his house be void of everything wherewith he could sate his appetite."
                         },
                         {
                             "verse": 20,
                             "chapter": 4,
-                            "name": "The Psalms of Solomon 4:20",
+                            "name": "Psalms of Solomon 4:20",
                             "text": "(Let) his old age (be spent) in childless loneliness until his removal (by death)."
                         },
                         {
                             "verse": 21,
                             "chapter": 4,
-                            "name": "The Psalms of Solomon 4:21",
+                            "name": "Psalms of Solomon 4:21",
                             "text": "Let the flesh of the men-pleasers be rent by wild beasts,\nAnd (let) the bones of the lawless (lie) dishonored in the sight of the sun."
                         },
                         {
                             "verse": 22,
                             "chapter": 4,
-                            "name": "The Psalms of Solomon 4:22",
+                            "name": "Psalms of Solomon 4:22",
                             "text": "Let ravens peck out the eyes of the hypocrites."
                         },
                         {
                             "verse": 23,
                             "chapter": 4,
-                            "name": "The Psalms of Solomon 4:23",
+                            "name": "Psalms of Solomon 4:23",
                             "text": "For they have laid waste many houses of men, in dishonor,\nAnd scattered (them) in (their) lust;"
                         },
                         {
                             "verse": 24,
                             "chapter": 4,
-                            "name": "The Psalms of Solomon 4:24",
+                            "name": "Psalms of Solomon 4:24",
                             "text": "And they have not remembered God,\nNor feared God in all these things;"
                         },
                         {
                             "verse": 25,
                             "chapter": 4,
-                            "name": "The Psalms of Solomon 4:25",
+                            "name": "Psalms of Solomon 4:25",
                             "text": "But they have provoked God's anger and vexed Him."
                         },
                         {
                             "verse": 26,
                             "chapter": 4,
-                            "name": "The Psalms of Solomon 4:26",
+                            "name": "Psalms of Solomon 4:26",
                             "text": "May He remove them from off the earth,\nBecause with deceit they beguiled the souls of the flawless."
                         },
                         {
                             "verse": 27,
                             "chapter": 4,
-                            "name": "The Psalms of Solomon 4:27",
+                            "name": "Psalms of Solomon 4:27",
                             "text": "Blessed are they that fear the Lord in their flawlessness;"
                         },
                         {
                             "verse": 28,
                             "chapter": 4,
-                            "name": "The Psalms of Solomon 4:28",
+                            "name": "Psalms of Solomon 4:28",
                             "text": "The Lord shall deliver them from guileful men and sinners,\nAnd deliver us from every stumbling-block of the lawless (men)."
                         },
                         {
                             "verse": 29,
                             "chapter": 4,
-                            "name": "The Psalms of Solomon 4:29",
+                            "name": "Psalms of Solomon 4:29",
                             "text": "Let Thy mercy, O Lord, be upon all them that love Thee."
                         }
                     ]
                 },
                 {
                     "chapter": 5,
-                    "name": "The Psalms of Solomon 5",
+                    "name": "Psalms of Solomon 5",
                     "verses": [
                         {
                             "verse": 0,
                             "chapter": 5,
-                            "name": "The Psalms of Solomon 5:0",
+                            "name": "Psalms of Solomon 5:0",
                             "text": "A Psalm of Solomon"
                         },
                         {
                             "verse": 1,
                             "chapter": 5,
-                            "name": "The Psalms of Solomon 5:1",
+                            "name": "Psalms of Solomon 5:1",
                             "text": "O Lord God, I will praise Thy name with joy,\nIn the midst of them that know Thy righteous judgments."
                         },
                         {
                             "verse": 2,
                             "chapter": 5,
-                            "name": "The Psalms of Solomon 5:2",
+                            "name": "Psalms of Solomon 5:2",
                             "text": "For Thou art good and merciful, the refuge of the poor;"
                         },
                         {
                             "verse": 3,
                             "chapter": 5,
-                            "name": "The Psalms of Solomon 5:3",
+                            "name": "Psalms of Solomon 5:3",
                             "text": "When I cry to Thee, do not silently disregard me."
                         },
                         {
                             "verse": 4,
                             "chapter": 5,
-                            "name": "The Psalms of Solomon 5:4",
+                            "name": "Psalms of Solomon 5:4",
                             "text": "For no man taketh spoil from a mighty man;"
                         },
                         {
                             "verse": 5,
                             "chapter": 5,
-                            "name": "The Psalms of Solomon 5:5",
+                            "name": "Psalms of Solomon 5:5",
                             "text": "Who, then, can take aught of all that Thou hast made, except Thou Thyself givest"
                         },
                         {
                             "verse": 6,
                             "chapter": 5,
-                            "name": "The Psalms of Solomon 5:6",
+                            "name": "Psalms of Solomon 5:6",
                             "text": "For man and his portion (lie) before Thee in the balance;\nHe cannot add to, so as to enlarge, what has been prescribed by Thee."
                         },
                         {
                             "verse": 7,
                             "chapter": 5,
-                            "name": "The Psalms of Solomon 5:7",
+                            "name": "Psalms of Solomon 5:7",
                             "text": "O God, when we are in distress we call upon Thee for help,\nAnd Thou dost not turn back our petition, for Thou art our God."
                         },
                         {
                             "verse": 8,
                             "chapter": 5,
-                            "name": "The Psalms of Solomon 5:8",
+                            "name": "Psalms of Solomon 5:8",
                             "text": "Cause not Thy hand to be heavy upon us,\nLest through necessity we sin."
                         },
                         {
                             "verse": 9,
                             "chapter": 5,
-                            "name": "The Psalms of Solomon 5:9",
+                            "name": "Psalms of Solomon 5:9",
                             "text": "Even though Thou restore us not, we will not keep away;\nBut unto Thee will we come."
                         },
                         {
                             "verse": 10,
                             "chapter": 5,
-                            "name": "The Psalms of Solomon 5:10",
+                            "name": "Psalms of Solomon 5:10",
                             "text": "For if I hunger, unto Thee will I cry, O God;\nAnd Thou wilt give to me."
                         },
                         {
                             "verse": 11,
                             "chapter": 5,
-                            "name": "The Psalms of Solomon 5:11",
+                            "name": "Psalms of Solomon 5:11",
                             "text": "Birds and fish dost Thou nourish,\nIn that Thou givest rain to the steppes that green grass may spring up,\n(So) to prepare fodder in the steppe for every living thing;"
                         },
                         {
                             "verse": 12,
                             "chapter": 5,
-                            "name": "The Psalms of Solomon 5:12",
+                            "name": "Psalms of Solomon 5:12",
                             "text": "And if they hunger, unto Thee do they lift up their face."
                         },
                         {
                             "verse": 13,
                             "chapter": 5,
-                            "name": "The Psalms of Solomon 5:13",
+                            "name": "Psalms of Solomon 5:13",
                             "text": "Kings and rulers and peoples Thou dost nourish, O God;\nAnd who is the help of the poor and needy, if not Thou, O Lord"
                         },
                         {
                             "verse": 14,
                             "chapter": 5,
-                            "name": "The Psalms of Solomon 5:14",
+                            "name": "Psalms of Solomon 5:14",
                             "text": "And Thou wilt hearken -for who is good and gentle but Thou—\nMaking glad the soul of the humble by opening Thine hand in mercy."
                         },
                         {
                             "verse": 15,
                             "chapter": 5,
-                            "name": "The Psalms of Solomon 5:15",
+                            "name": "Psalms of Solomon 5:15",
                             "text": "Man's goodness is (bestowed) grudgingly and . . .;\nAnd if he repeat (it) without murmuring, even that is marvelous."
                         },
                         {
                             "verse": 16,
                             "chapter": 5,
-                            "name": "The Psalms of Solomon 5:16",
+                            "name": "Psalms of Solomon 5:16",
                             "text": "But Thy gift is great in goodness and wealth,\nAnd he whose hope is (set) on Thee shall have no lack of gifts."
                         },
                         {
                             "verse": 17,
                             "chapter": 5,
-                            "name": "The Psalms of Solomon 5:17",
+                            "name": "Psalms of Solomon 5:17",
                             "text": "Upon the whole earth is Thy mercy, O Lord, in goodness."
                         },
                         {
                             "verse": 18,
                             "chapter": 5,
-                            "name": "The Psalms of Solomon 5:18",
+                            "name": "Psalms of Solomon 5:18",
                             "text": "Happy is he whom God remembereth in (granting to him) a due sufficiency;"
                         },
                         {
                             "verse": 19,
                             "chapter": 5,
-                            "name": "The Psalms of Solomon 5:19",
+                            "name": "Psalms of Solomon 5:19",
                             "text": "If a man abound over much, he sinneth."
                         },
                         {
                             "verse": 20,
                             "chapter": 5,
-                            "name": "The Psalms of Solomon 5:20",
+                            "name": "Psalms of Solomon 5:20",
                             "text": "Sufficient are moderate means with righteousness,\nAnd hereby the blessing of the Lord (becomes) abundance with righteousness."
                         },
                         {
                             "verse": 21,
                             "chapter": 5,
-                            "name": "The Psalms of Solomon 5:21",
+                            "name": "Psalms of Solomon 5:21",
                             "text": "They that fear the Lord rejoice in good (gifts),\nAnd Thy goodness is upon Israel in Thy kingdom.\n\nBlessed is the glory of the Lord for He is our king."
                         }
                     ]
                 },
                 {
                     "chapter": 6,
-                    "name": "The Psalms of Solomon 6",
+                    "name": "Psalms of Solomon 6",
                     "verses": [
                         {
                             "verse": 0,
                             "chapter": 6,
-                            "name": "The Psalms of Solomon 6:0",
+                            "name": "Psalms of Solomon 6:0",
                             "text": "In Hope. Of Solomon."
                         },
                         {
                             "verse": 1,
                             "chapter": 6,
-                            "name": "The Psalms of Solomon 6:1",
+                            "name": "Psalms of Solomon 6:1",
                             "text": "Happy is the man whose heart is fixed to call upon the name of the Lord;"
                         },
                         {
                             "verse": 2,
                             "chapter": 6,
-                            "name": "The Psalms of Solomon 6:2",
+                            "name": "Psalms of Solomon 6:2",
                             "text": "When he remembereth the name of the Lord, he will be saved."
                         },
                         {
                             "verse": 3,
                             "chapter": 6,
-                            "name": "The Psalms of Solomon 6:3",
+                            "name": "Psalms of Solomon 6:3",
                             "text": "His ways are made even by the Lord,\nAnd the works of his hands are preserved by the Lord his God."
                         },
                         {
                             "verse": 4,
                             "chapter": 6,
-                            "name": "The Psalms of Solomon 6:4",
+                            "name": "Psalms of Solomon 6:4",
                             "text": "At what he sees in his bad dreams, his soul shall not be troubled;"
                         },
                         {
                             "verse": 5,
                             "chapter": 6,
-                            "name": "The Psalms of Solomon 6:5",
+                            "name": "Psalms of Solomon 6:5",
                             "text": "When he passes through rivers and the tossing of the seas, he shall not be dismayed."
                         },
                         {
                             "verse": 6,
                             "chapter": 6,
-                            "name": "The Psalms of Solomon 6:6",
+                            "name": "Psalms of Solomon 6:6",
                             "text": "He ariseth from his sleep, and blesseth the name of the Lord:"
                         },
                         {
                             "verse": 7,
                             "chapter": 6,
-                            "name": "The Psalms of Solomon 6:7",
+                            "name": "Psalms of Solomon 6:7",
                             "text": "When his heart is at peace, he singeth to the name of his God,\nAnd he entreateth the Lord for all his house."
                         },
                         {
                             "verse": 8,
                             "chapter": 6,
-                            "name": "The Psalms of Solomon 6:8",
+                            "name": "Psalms of Solomon 6:8",
                             "text": "And the Lord heareth the prayer of every one that feareth God,\nAnd every request of the soul that hopes for Him doth the Lord accomplish."
                         },
                         {
                             "verse": 9,
                             "chapter": 6,
-                            "name": "The Psalms of Solomon 6:9",
+                            "name": "Psalms of Solomon 6:9",
                             "text": "Blessed is the Lord, who showeth mercy to those who love Him in sincerity."
                         }
                     ]
                 },
                 {
                     "chapter": 7,
-                    "name": "The Psalms of Solomon 7",
+                    "name": "Psalms of Solomon 7",
                     "verses": [
                         {
                             "verse": 0,
                             "chapter": 7,
-                            "name": "The Psalms of Solomon 7:0",
+                            "name": "Psalms of Solomon 7:0",
                             "text": "Of Solomon. Of turning."
                         },
                         {
                             "verse": 1,
                             "chapter": 7,
-                            "name": "The Psalms of Solomon 7:1",
+                            "name": "Psalms of Solomon 7:1",
                             "text": "Make not Thy dwelling afar from us, O God;\nLest they assail us that hate us without cause."
                         },
                         {
                             "verse": 2,
                             "chapter": 7,
-                            "name": "The Psalms of Solomon 7:2",
+                            "name": "Psalms of Solomon 7:2",
                             "text": "For Thou hast rejected them, O God;\nLet not their foot trample upon Thy holy inheritance."
                         },
                         {
                             "verse": 3,
                             "chapter": 7,
-                            "name": "The Psalms of Solomon 7:3",
+                            "name": "Psalms of Solomon 7:3",
                             "text": "Chasten us Thyself in Thy good pleasure;\nBut give (us) not up to the nations;"
                         },
                         {
                             "verse": 4,
                             "chapter": 7,
-                            "name": "The Psalms of Solomon 7:4",
+                            "name": "Psalms of Solomon 7:4",
                             "text": "For, if Thou sendest pestilence,\nThou Thyself givest it charge concerning us;\nFor Thou art merciful,\nAnd wilt not be angry to the point of consuming us."
                         },
                         {
                             "verse": 5,
                             "chapter": 7,
-                            "name": "The Psalms of Solomon 7:5",
+                            "name": "Psalms of Solomon 7:5",
                             "text": "While Thy name dwelleth in our midst, we shall find mercy;"
                         },
                         {
                             "verse": 6,
                             "chapter": 7,
-                            "name": "The Psalms of Solomon 7:6",
+                            "name": "Psalms of Solomon 7:6",
                             "text": "And the nations shall not prevail against us.\nFor Thou art our shield,"
                         },
                         {
                             "verse": 7,
                             "chapter": 7,
-                            "name": "The Psalms of Solomon 7:7",
+                            "name": "Psalms of Solomon 7:7",
                             "text": "And when we call upon Thee, Thou hearkenest to us;"
                         },
                         {
                             "verse": 8,
                             "chapter": 7,
-                            "name": "The Psalms of Solomon 7:8",
+                            "name": "Psalms of Solomon 7:8",
                             "text": "For Thou wilt pity the seed of Israel for ever\nAnd Thou wilt not reject (them):\nBut we (shall be) under Thy yoke for ever,\nAnd (under) the rod of Thy chastening."
                         },
                         {
                             "verse": 9,
                             "chapter": 7,
-                            "name": "The Psalms of Solomon 7:9",
+                            "name": "Psalms of Solomon 7:9",
                             "text": "Thou wilt establish us in the time that Thou helpest us,\nShowing mercy to the house of Jacob on the day wherein Thou didst promise (to help them)."
                         }
                     ]
                 },
                 {
                     "chapter": 8,
-                    "name": "The Psalms of Solomon 8",
+                    "name": "Psalms of Solomon 8",
                     "verses": [
                         {
                             "verse": 0,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:0",
+                            "name": "Psalms of Solomon 8:0",
                             "text": "Of Solomon. Of the chief Musician."
                         },
                         {
                             "verse": 1,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:1",
+                            "name": "Psalms of Solomon 8:1",
                             "text": "Distress and the sound of war hath my ear heard;\nThe sound of a trumpet announcing slaughter and calamity,"
                         },
                         {
                             "verse": 2,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:2",
+                            "name": "Psalms of Solomon 8:2",
                             "text": "The sound of much people as of an exceeding high wind,\nAs a tempest with mighty fire sweeping through the Negeb."
                         },
                         {
                             "verse": 3,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:3",
+                            "name": "Psalms of Solomon 8:3",
                             "text": "And I said in my heart; Surely () God judgeth us;"
                         },
                         {
                             "verse": 4,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:4",
+                            "name": "Psalms of Solomon 8:4",
                             "text": "A sound I hear (moving) towards Jerusalem, the holy city."
                         },
                         {
                             "verse": 5,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:5",
+                            "name": "Psalms of Solomon 8:5",
                             "text": "My loins were broken at what I heard, my knees tottered:"
                         },
                         {
                             "verse": 6,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:6",
+                            "name": "Psalms of Solomon 8:6",
                             "text": "My heart was afraid, my bones were dismayed like flax."
                         },
                         {
                             "verse": 8,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:8",
+                            "name": "Psalms of Solomon 8:8",
                             "text": "God laid bare their sins in the full light of day;\nAll the earth came to know the righteous judgments of God."
                         },
                         {
                             "verse": 9,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:9",
+                            "name": "Psalms of Solomon 8:9",
                             "text": "In secret places underground their iniquities (were committed) to provoke (Him) to anger;"
                         },
                         {
                             "verse": 10,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:10",
+                            "name": "Psalms of Solomon 8:10",
                             "text": "They wrought confusion, son with mother and father with daughter;"
                         },
                         {
                             "verse": 12,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:12",
+                            "name": "Psalms of Solomon 8:12",
                             "text": "They plundered the sanctuary of God, as though there was no avenger."
                         },
                         {
                             "verse": 13,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:13",
+                            "name": "Psalms of Solomon 8:13",
                             "text": "They trode the altar of the Lord, (coming straight) from all manner of uncleanness;\nAnd with menstrual blood they defiled the sacrifices, as (though these were) common flesh."
                         },
                         {
                             "verse": 14,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:14",
+                            "name": "Psalms of Solomon 8:14",
                             "text": "They left no sin undone, wherein they surpassed not the heathen."
                         },
                         {
                             "verse": 15,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:15",
+                            "name": "Psalms of Solomon 8:15",
                             "text": "Therefore God mingled for them a spirit of wandering;\nAnd gave them to drink a cup of undiluted wine, that they might become drunken."
                         },
                         {
                             "verse": 16,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:16",
+                            "name": "Psalms of Solomon 8:16",
                             "text": "He brought him that is from the end of the earth, that smiteth mightily;"
                         },
                         {
                             "verse": 17,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:17",
+                            "name": "Psalms of Solomon 8:17",
                             "text": "He decreed () war against Jerusalem, and against her land."
                         },
                         {
                             "verse": 18,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:18",
+                            "name": "Psalms of Solomon 8:18",
                             "text": "The princes of the land went to meet him with joy: they said unto him:\nBlessed be thy way! Come ye, enter ye in with peace."
                         },
                         {
                             "verse": 19,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:19",
+                            "name": "Psalms of Solomon 8:19",
                             "text": "They made the rough ways even, before his entering in;\nThey opened the gates to Jerusalem, they crowned its walls."
                         },
                         {
                             "verse": 20,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:20",
+                            "name": "Psalms of Solomon 8:20",
                             "text": "As a father (entereth) the house of his sons, (so) he entered (Jerusalem) in peace;\nHe established his feet (there) in great safety."
                         },
                         {
                             "verse": 21,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:21",
+                            "name": "Psalms of Solomon 8:21",
                             "text": "He captured her fortresses and the wall of Jerusalem;"
                         },
                         {
                             "verse": 22,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:22",
+                            "name": "Psalms of Solomon 8:22",
                             "text": "For God Himself led him in safety, while they wandered."
                         },
                         {
                             "verse": 23,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:23",
+                            "name": "Psalms of Solomon 8:23",
                             "text": "He destroyed their princes and every one wise in counsel;\nHe poured out the blood of the inhabitants of Jerusalem, like the water of uncleanness."
                         },
                         {
                             "verse": 24,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:24",
+                            "name": "Psalms of Solomon 8:24",
                             "text": "He led away their sons and daughters, whom they had begotten in defilement."
                         },
                         {
                             "verse": 25,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:25",
+                            "name": "Psalms of Solomon 8:25",
                             "text": "They did according to their uncleanness, even as their fathers (had done):\nThey defiled Jerusalem and the things that had been hallowed to the name of God."
                         },
                         {
                             "verse": 27,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:27",
+                            "name": "Psalms of Solomon 8:27",
                             "text": "(But) God hath shown Himself righteous in His judgments upon the nations of the earth;"
                         },
                         {
                             "verse": 28,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:28",
+                            "name": "Psalms of Solomon 8:28",
                             "text": "And the pious (servants) of God are like innocent lambs in their midst."
                         },
                         {
                             "verse": 29,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:29",
+                            "name": "Psalms of Solomon 8:29",
                             "text": "Worthy to be praised is the Lord that judgeth the whole earth in His righteousness."
                         },
                         {
                             "verse": 30,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:30",
+                            "name": "Psalms of Solomon 8:30",
                             "text": "Behold, now, O God, Thou hast shown us Thy judgment in Thy righteousness;"
                         },
                         {
                             "verse": 31,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:31",
+                            "name": "Psalms of Solomon 8:31",
                             "text": "Our eyes have seen Thy judgments, O God."
                         },
                         {
                             "verse": 32,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:32",
+                            "name": "Psalms of Solomon 8:32",
                             "text": "For Thou art the God of righteousness, judging Israel with chastening."
                         },
                         {
                             "verse": 33,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:33",
+                            "name": "Psalms of Solomon 8:33",
                             "text": "Turn, O God, Thy mercy upon us, and have pity upon us;"
                         },
                         {
                             "verse": 34,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:34",
+                            "name": "Psalms of Solomon 8:34",
                             "text": "Gather together the dispersed of Israel, with mercy and goodness;\nFor Thy faithfulness is with us."
                         },
                         {
                             "verse": 36,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:36",
+                            "name": "Psalms of Solomon 8:36",
                             "text": "Overlook us not, O our God, lest the nations swallow us up, as though there were none to deliver."
                         },
                         {
                             "verse": 37,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:37",
+                            "name": "Psalms of Solomon 8:37",
                             "text": "But Thou art our God from the beginning,\nAnd upon Thee is our hope (set), O Lord;"
                         },
                         {
                             "verse": 38,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:38",
+                            "name": "Psalms of Solomon 8:38",
                             "text": "And we will not depart from Thee,\nFor good are Thy judgments upon us."
                         },
                         {
                             "verse": 39,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:39",
+                            "name": "Psalms of Solomon 8:39",
                             "text": "Ours and our children's be Thy good pleasure for ever;\nO Lord our Saviour, we shall never more be moved."
                         },
                         {
                             "verse": 40,
                             "chapter": 8,
-                            "name": "The Psalms of Solomon 8:40",
+                            "name": "Psalms of Solomon 8:40",
                             "text": "The Lord is worthy to be praised for His judgments with the mouth of His pious ones;\nAnd blessed be Israel of the Lord for ever."
                         }
                     ]
                 },
                 {
                     "chapter": 9,
-                    "name": "The Psalms of Solomon 9",
+                    "name": "Psalms of Solomon 9",
                     "verses": [
                         {
                             "verse": 0,
                             "chapter": 9,
-                            "name": "The Psalms of Solomon 9:0",
+                            "name": "Psalms of Solomon 9:0",
                             "text": "Of Solomon. For rebuke."
                         },
                         {
                             "verse": 1,
                             "chapter": 9,
-                            "name": "The Psalms of Solomon 9:1",
+                            "name": "Psalms of Solomon 9:1",
                             "text": "When Israel was led away captive into a strange land,\nWhen they fell away from the Lord who redeemed them,"
                         },
                         {
                             "verse": 2,
                             "chapter": 9,
-                            "name": "The Psalms of Solomon 9:2",
+                            "name": "Psalms of Solomon 9:2",
                             "text": "They were cast away from the inheritance, which Lord had given them."
                         },
                         {
                             "verse": 3,
                             "chapter": 9,
-                            "name": "The Psalms of Solomon 9:3",
+                            "name": "Psalms of Solomon 9:3",
                             "text": "That Thou mightest be justified, O God, in Thy righteousness by reason of our transgressions:"
                         },
                         {
                             "verse": 4,
                             "chapter": 9,
-                            "name": "The Psalms of Solomon 9:4",
+                            "name": "Psalms of Solomon 9:4",
                             "text": "For Thou art a just judge over all the peoples of the earth."
                         },
                         {
                             "verse": 5,
                             "chapter": 9,
-                            "name": "The Psalms of Solomon 9:5",
+                            "name": "Psalms of Solomon 9:5",
                             "text": "For from Thy knowledge none that doeth unjustly is hidden,"
                         },
                         {
                             "verse": 6,
                             "chapter": 9,
-                            "name": "The Psalms of Solomon 9:6",
+                            "name": "Psalms of Solomon 9:6",
                             "text": "And the righteous deeds of Thy pious ones (are) before Thee, O Lord,\nWhere, then, can a man hide himself from Thy knowledge, O God"
                         },
                         {
                             "verse": 7,
                             "chapter": 9,
-                            "name": "The Psalms of Solomon 9:7",
+                            "name": "Psalms of Solomon 9:7",
                             "text": "Our works are subject to our own choice and power\nTo do right or wrong in the works of our hands"
                         },
                         {
                             "verse": 8,
                             "chapter": 9,
-                            "name": "The Psalms of Solomon 9:8",
+                            "name": "Psalms of Solomon 9:8",
                             "text": "And in Thy righteousness Thou visitest the sons of men."
                         },
                         {
                             "verse": 9,
                             "chapter": 9,
-                            "name": "The Psalms of Solomon 9:9",
+                            "name": "Psalms of Solomon 9:9",
                             "text": "He that doeth righteousness layeth up life for himself with the Lord;\nAnd he that doeth wrongly forfeits his life to destruction;"
                         },
                         {
                             "verse": 10,
                             "chapter": 9,
-                            "name": "The Psalms of Solomon 9:10",
+                            "name": "Psalms of Solomon 9:10",
                             "text": "For the judgments of the Lord are (given) in righteousness to (every) man and (his) house."
                         },
                         {
                             "verse": 12,
                             "chapter": 9,
-                            "name": "The Psalms of Solomon 9:12",
+                            "name": "Psalms of Solomon 9:12",
                             "text": "He cleanseth from sins a soul when it maketh confession, when it maketh acknowledgement;"
                         },
                         {
                             "verse": 13,
                             "chapter": 9,
-                            "name": "The Psalms of Solomon 9:13",
+                            "name": "Psalms of Solomon 9:13",
                             "text": "For shame is upon us and upon our faces on account of all these things."
                         },
                         {
                             "verse": 14,
                             "chapter": 9,
-                            "name": "The Psalms of Solomon 9:14",
+                            "name": "Psalms of Solomon 9:14",
                             "text": "And to whom doth He forgive sins, except to them that have sinned"
                         },
                         {
                             "verse": 15,
                             "chapter": 9,
-                            "name": "The Psalms of Solomon 9:15",
+                            "name": "Psalms of Solomon 9:15",
                             "text": "Thou blessest the righteous, and dost not reprove them for the sins that they have committed;\nAnd Thy goodness is upon them that sin, when they repent."
                         },
                         {
                             "verse": 16,
                             "chapter": 9,
-                            "name": "The Psalms of Solomon 9:16",
+                            "name": "Psalms of Solomon 9:16",
                             "text": "And, now, Thou art our God, and we the people whom Thou hast loved:\nBehold and show pity, O God of Israel, for we are Thine;\nAnd remove not Thy mercy from us, lest they assail us."
                         },
                         {
                             "verse": 17,
                             "chapter": 9,
-                            "name": "The Psalms of Solomon 9:17",
+                            "name": "Psalms of Solomon 9:17",
                             "text": "For Thou didst choose the seed of Abraham before all the nations,\nAnd didst set Thy name upon us, O Lord,"
                         },
                         {
                             "verse": 18,
                             "chapter": 9,
-                            "name": "The Psalms of Solomon 9:18",
+                            "name": "Psalms of Solomon 9:18",
                             "text": "And Thou wilt not reject (us) for ever.\nThou madest a covenant with our fathers concerning us;"
                         },
                         {
                             "verse": 19,
                             "chapter": 9,
-                            "name": "The Psalms of Solomon 9:19",
+                            "name": "Psalms of Solomon 9:19",
                             "text": "And we hope in Thee, when our soul turneth (unto Thee).\nThe mercy of the Lord be upon the house of Israel for ever and ever."
                         }
                     ]
                 },
                 {
                     "chapter": 10,
-                    "name": "The Psalms of Solomon 10",
+                    "name": "Psalms of Solomon 10",
                     "verses": [
                         {
                             "verse": 0,
                             "chapter": 10,
-                            "name": "The Psalms of Solomon 10:0",
+                            "name": "Psalms of Solomon 10:0",
                             "text": "A Hymn Of Solomon."
                         },
                         {
                             "verse": 1,
                             "chapter": 10,
-                            "name": "The Psalms of Solomon 10:1",
+                            "name": "Psalms of Solomon 10:1",
                             "text": "Happy is the man whom the Lord remembereth with reproving,\nAnd whom He restraineth from the way of evil with strokes,\nThat he may be cleansed from sin, that it may not be multiplied."
                         },
                         {
                             "verse": 2,
                             "chapter": 10,
-                            "name": "The Psalms of Solomon 10:2",
+                            "name": "Psalms of Solomon 10:2",
                             "text": "He that maketh ready his back for strokes shall be cleansed,\nFor the Lord is good to them that endure chastening."
                         },
                         {
                             "verse": 3,
                             "chapter": 10,
-                            "name": "The Psalms of Solomon 10:3",
+                            "name": "Psalms of Solomon 10:3",
                             "text": "For He maketh straight the ways of the righteous,\nAnd doth not pervert (them) by His chastening."
                         },
                         {
                             "verse": 4,
                             "chapter": 10,
-                            "name": "The Psalms of Solomon 10:4",
+                            "name": "Psalms of Solomon 10:4",
                             "text": "And the mercy of the Lord (is) upon them that love Him in truth,"
                         },
                         {
                             "verse": 5,
                             "chapter": 10,
-                            "name": "The Psalms of Solomon 10:5",
+                            "name": "Psalms of Solomon 10:5",
                             "text": "For the testimony (is) in the law of the eternal covenant,\nThe testimony of the Lord (is) on the ways of men in (His) visitation."
                         },
                         {
                             "verse": 6,
                             "chapter": 10,
-                            "name": "The Psalms of Solomon 10:6",
+                            "name": "Psalms of Solomon 10:6",
                             "text": "Just and kind is our Lord in His judgments for ever,\nAnd Israel shall praise the name of the Lord in gladness."
                         },
                         {
                             "verse": 7,
                             "chapter": 10,
-                            "name": "The Psalms of Solomon 10:7",
+                            "name": "Psalms of Solomon 10:7",
                             "text": "And the pious shall give thanks in the assembly of the people;\nAnd on the poor shall God have mercy in the gladness () of Israel;"
                         },
                         {
                             "verse": 8,
                             "chapter": 10,
-                            "name": "The Psalms of Solomon 10:8",
+                            "name": "Psalms of Solomon 10:8",
                             "text": "For good and merciful is God for ever,\nAnd the assemblies of Israel shall glorify the name of the Lord.\n\nThe salvation of the Lord be upon the house of Israel unto everlasting gladness!"
                         }
                     ]
                 },
                 {
                     "chapter": 11,
-                    "name": "The Psalms of Solomon 11",
+                    "name": "Psalms of Solomon 11",
                     "verses": [
                         {
                             "verse": 0,
                             "chapter": 11,
-                            "name": "The Psalms of Solomon 11:0",
+                            "name": "Psalms of Solomon 11:0",
                             "text": "Of Solomon. Unto expectation."
                         },
                         {
                             "verse": 1,
                             "chapter": 11,
-                            "name": "The Psalms of Solomon 11:1",
+                            "name": "Psalms of Solomon 11:1",
                             "text": "Blow ye in Zion on the trumpet to summon (the) saints,"
                         },
                         {
                             "verse": 2,
                             "chapter": 11,
-                            "name": "The Psalms of Solomon 11:2",
+                            "name": "Psalms of Solomon 11:2",
                             "text": "Cause ye to be heard in Jerusalem the voice of him that bringeth good tidings;\nFor God hath had pity on Israel in visiting them."
                         },
                         {
                             "verse": 3,
                             "chapter": 11,
-                            "name": "The Psalms of Solomon 11:3",
+                            "name": "Psalms of Solomon 11:3",
                             "text": "Stand on the height, O Jerusalem, and behold thy children,\nFrom the East and the West, gathered together by the Lord;"
                         },
                         {
                             "verse": 4,
                             "chapter": 11,
-                            "name": "The Psalms of Solomon 11:4",
+                            "name": "Psalms of Solomon 11:4",
                             "text": "From the North they come in the gladness of their God,\nFrom the isles afar off God hath gathered them."
                         },
                         {
                             "verse": 5,
                             "chapter": 11,
-                            "name": "The Psalms of Solomon 11:5",
+                            "name": "Psalms of Solomon 11:5",
                             "text": "High mountains hath He abased into a plain for them;"
                         },
                         {
                             "verse": 6,
                             "chapter": 11,
-                            "name": "The Psalms of Solomon 11:6",
+                            "name": "Psalms of Solomon 11:6",
                             "text": "The hills fled at their entrance."
                         },
                         {
                             "verse": 7,
                             "chapter": 11,
-                            "name": "The Psalms of Solomon 11:7",
+                            "name": "Psalms of Solomon 11:7",
                             "text": "Every sweet-smelling tree God caused to spring up for them,\nThat Israel might pass by in the visitation of the glory of their God."
                         },
                         {
                             "verse": 8,
                             "chapter": 11,
-                            "name": "The Psalms of Solomon 11:8",
+                            "name": "Psalms of Solomon 11:8",
                             "text": "Put on, O Jerusalem, thy glorious garments;\nMake ready thy holy robe;\nFor God hath spoken good concerning Israel, for ever and ever."
                         },
                         {
                             "verse": 9,
                             "chapter": 11,
-                            "name": "The Psalms of Solomon 11:9",
+                            "name": "Psalms of Solomon 11:9",
                             "text": "Let the Lord do what He hath spoken concerning Israel and Jerusalem;\nLet the Lord raise up Israel by His glorious name.\n\nThe mercy of the Lord be upon Israel for ever and ever."
                         }
                     ]
                 },
                 {
                     "chapter": 12,
-                    "name": "The Psalms of Solomon 12",
+                    "name": "Psalms of Solomon 12",
                     "verses": [
                         {
                             "verse": 0,
                             "chapter": 12,
-                            "name": "The Psalms of Solomon 12:0",
+                            "name": "Psalms of Solomon 12:0",
                             "text": "Of Solomon. Against the tongue of transgressors."
                         },
                         {
                             "verse": 1,
                             "chapter": 12,
-                            "name": "The Psalms of Solomon 12:1",
+                            "name": "Psalms of Solomon 12:1",
                             "text": "O Lord, deliver my soul from (the) lawless and wicked man,\nFrom the tongue that is lawless and slanderous, and speaketh lies and deceit."
                         },
                         {
                             "verse": 2,
                             "chapter": 12,
-                            "name": "The Psalms of Solomon 12:2",
+                            "name": "Psalms of Solomon 12:2",
                             "text": "Manifoldly twisted () are the words of the tongue of the wicked man,\nEven as among a people a fire that burneth up their beauty."
                         },
                         {
                             "verse": 3,
                             "chapter": 12,
-                            "name": "The Psalms of Solomon 12:3",
+                            "name": "Psalms of Solomon 12:3",
                             "text": "So he delights to fill houses with a lying tongue,\nTo cut down the trees of gladness which setteth on fire transgressors,"
                         },
                         {
                             "verse": 4,
                             "chapter": 12,
-                            "name": "The Psalms of Solomon 12:4",
+                            "name": "Psalms of Solomon 12:4",
                             "text": "To involve households in warfare by means of slanderous lips.\nMay God remove far from the innocent the lips of transgressors by (bringing them to) want\nAnd may the bones of slanderers be scattered (far) away from them that fear the Lord!"
                         },
                         {
                             "verse": 5,
                             "chapter": 12,
-                            "name": "The Psalms of Solomon 12:5",
+                            "name": "Psalms of Solomon 12:5",
                             "text": "In flaming fire perish the slanderous tongue (far) away from the pious!"
                         },
                         {
                             "verse": 6,
                             "chapter": 12,
-                            "name": "The Psalms of Solomon 12:6",
+                            "name": "Psalms of Solomon 12:6",
                             "text": "May the Lord preserve the quiet soul that hateth the unrighteous;\nAnd may the Lord establish the man that followeth peace at home."
                         },
                         {
                             "verse": 7,
                             "chapter": 12,
-                            "name": "The Psalms of Solomon 12:7",
+                            "name": "Psalms of Solomon 12:7",
                             "text": "The salvation of the Lord be upon Israel His servant for ever;\nAnd let the sinners perish together at the presence of the Lord;\nBut let the Lord's pious ones inherit the promises of the Lord."
                         }
                     ]
                 },
                 {
                     "chapter": 13,
-                    "name": "The Psalms of Solomon 13",
+                    "name": "Psalms of Solomon 13",
                     "verses": [
                         {
                             "verse": 0,
                             "chapter": 13,
-                            "name": "The Psalms of Solomon 13:0",
+                            "name": "Psalms of Solomon 13:0",
                             "text": "Of Solomon. A Psalm. Comfort for the righteous."
                         },
                         {
                             "verse": 1,
                             "chapter": 13,
-                            "name": "The Psalms of Solomon 13:1",
+                            "name": "Psalms of Solomon 13:1",
                             "text": "The right hand of the Lord hath covered me;\nThe right hand of the Lord hath spared us."
                         },
                         {
                             "verse": 2,
                             "chapter": 13,
-                            "name": "The Psalms of Solomon 13:2",
+                            "name": "Psalms of Solomon 13:2",
                             "text": "The arm of the Lord hath saved us from the sword that passed through,\nFrom famine and the death of sinners."
                         },
                         {
                             "verse": 3,
                             "chapter": 13,
-                            "name": "The Psalms of Solomon 13:3",
+                            "name": "Psalms of Solomon 13:3",
                             "text": "Noisome beasts ran upon them:\nWith their teeth they tore their flesh,\nAnd with their molars crushed their bones."
                         },
                         {
                             "verse": 4,
                             "chapter": 13,
-                            "name": "The Psalms of Solomon 13:4",
+                            "name": "Psalms of Solomon 13:4",
                             "text": "The righteous was troubled on account of his errors,\nLest he should be taken away along with the sinners;"
                         },
                         {
                             "verse": 5,
                             "chapter": 13,
-                            "name": "The Psalms of Solomon 13:5",
+                            "name": "Psalms of Solomon 13:5",
                             "text": "For terrible is the overthrow of the sinner;\nBut not one of all these things toucheth the righteous."
                         },
                         {
                             "verse": 6,
                             "chapter": 13,
-                            "name": "The Psalms of Solomon 13:6",
+                            "name": "Psalms of Solomon 13:6",
                             "text": "For not alike are the chastening of the righteous (for sins done) in ignorance,\nAnd the overthrow of the sinners."
                         },
                         {
                             "verse": 7,
                             "chapter": 13,
-                            "name": "The Psalms of Solomon 13:7",
+                            "name": "Psalms of Solomon 13:7",
                             "text": "Secretly () is the righteous chastened,\nLest the sinner rejoice over the righteous."
                         },
                         {
                             "verse": 8,
                             "chapter": 13,
-                            "name": "The Psalms of Solomon 13:8",
+                            "name": "Psalms of Solomon 13:8",
                             "text": "For He correcteth the righteous as a beloved son,\nAnd his chastisement is as that of a firstborn."
                         },
                         {
                             "verse": 9,
                             "chapter": 13,
-                            "name": "The Psalms of Solomon 13:9",
+                            "name": "Psalms of Solomon 13:9",
                             "text": "For the Lord spareth His pious ones,\nAnd blotteth out their errors by His chastening."
                         },
                         {
                             "verse": 10,
                             "chapter": 13,
-                            "name": "The Psalms of Solomon 13:10",
+                            "name": "Psalms of Solomon 13:10",
                             "text": "But sinners shall be taken away into destruction,\nAnd their memorial shall be found no more."
                         },
                         {
                             "verse": 11,
                             "chapter": 13,
-                            "name": "The Psalms of Solomon 13:11",
+                            "name": "Psalms of Solomon 13:11",
                             "text": "But upon the pious is the mercy of the Lord,\nAnd upon them that fear Him His mercy."
                         }
                     ]
                 },
                 {
                     "chapter": 14,
-                    "name": "The Psalms of Solomon 14",
+                    "name": "Psalms of Solomon 14",
                     "verses": [
                         {
                             "verse": 0,
                             "chapter": 14,
-                            "name": "The Psalms of Solomon 14:0",
+                            "name": "Psalms of Solomon 14:0",
                             "text": "A Hymn. Of Solomon."
                         },
                         {
                             "verse": 1,
                             "chapter": 14,
-                            "name": "The Psalms of Solomon 14:1",
+                            "name": "Psalms of Solomon 14:1",
                             "text": "Faithful is the Lord to them that love Him in truth,\nTo them that endure His chastening,"
                         },
                         {
                             "verse": 2,
                             "chapter": 14,
-                            "name": "The Psalms of Solomon 14:2",
+                            "name": "Psalms of Solomon 14:2",
                             "text": "The pious of the Lord shall live by it for ever;\nThe Paradise of the Lord, the trees of life, are His pious ones."
                         },
                         {
                             "verse": 3,
                             "chapter": 14,
-                            "name": "The Psalms of Solomon 14:3",
+                            "name": "Psalms of Solomon 14:3",
                             "text": "Their planting is rooted for ever;\nThey shall not be plucked up all the days of heaven:\nFor the portion and the inheritance of God is Israel."
                         },
                         {
                             "verse": 4,
                             "chapter": 14,
-                            "name": "The Psalms of Solomon 14:4",
+                            "name": "Psalms of Solomon 14:4",
                             "text": "But not so are the sinners and transgressors,\nWho love (the brief) day (spent) in companionship with their sin;\nTheir delight is in fleeting corruption,"
                         },
                         {
                             "verse": 5,
                             "chapter": 14,
-                            "name": "The Psalms of Solomon 14:5",
+                            "name": "Psalms of Solomon 14:5",
                             "text": "And they remember not God.\nFor the ways of men are known before Him at all times,\nAnd He knoweth the secrets of the heart before they come to pass."
                         },
                         {
                             "verse": 6,
                             "chapter": 14,
-                            "name": "The Psalms of Solomon 14:6",
+                            "name": "Psalms of Solomon 14:6",
                             "text": "Therefore their inheritance is Sheol and darkness and destruction,\nAnd they shall not be found in the day when the righteous obtain mercy;"
                         },
                         {
                             "verse": 7,
                             "chapter": 14,
-                            "name": "The Psalms of Solomon 14:7",
+                            "name": "Psalms of Solomon 14:7",
                             "text": "But the pious of the Lord shall inherit life in gladness."
                         }
                     ]
                 },
                 {
                     "chapter": 15,
-                    "name": "The Psalms of Solomon 15",
+                    "name": "Psalms of Solomon 15",
                     "verses": [
                         {
                             "verse": 0,
                             "chapter": 15,
-                            "name": "The Psalms of Solomon 15:0",
+                            "name": "Psalms of Solomon 15:0",
                             "text": "A Psalm. Of Solomon. With a Song."
                         },
                         {
                             "verse": 1,
                             "chapter": 15,
-                            "name": "The Psalms of Solomon 15:1",
+                            "name": "Psalms of Solomon 15:1",
                             "text": "When I was in distress I called upon the name of the Lord,\nI hoped for the help of the God of Jacob and was saved;"
                         },
                         {
                             "verse": 2,
                             "chapter": 15,
-                            "name": "The Psalms of Solomon 15:2",
+                            "name": "Psalms of Solomon 15:2",
                             "text": "For the hope and refuge of the poor art Thou, O God."
                         },
                         {
                             "verse": 4,
                             "chapter": 15,
-                            "name": "The Psalms of Solomon 15:4",
+                            "name": "Psalms of Solomon 15:4",
                             "text": "And wherein is a man powerful except in giving thanks to Thy name"
                         },
                         {
                             "verse": 9,
                             "chapter": 15,
-                            "name": "The Psalms of Solomon 15:9",
+                            "name": "Psalms of Solomon 15:9",
                             "text": "For they shall flee away from the pious as men pursued in war;"
                         },
                         {
                             "verse": 10,
                             "chapter": 15,
-                            "name": "The Psalms of Solomon 15:10",
+                            "name": "Psalms of Solomon 15:10",
                             "text": "For the mark of destruction is upon their forehead."
                         },
                         {
                             "verse": 11,
                             "chapter": 15,
-                            "name": "The Psalms of Solomon 15:11",
+                            "name": "Psalms of Solomon 15:11",
                             "text": "And the inheritance of sinners is destruction and darkness,\nAnd their iniquities shall pursue them unto Sheol beneath."
                         },
                         {
                             "verse": 13,
                             "chapter": 15,
-                            "name": "The Psalms of Solomon 15:13",
+                            "name": "Psalms of Solomon 15:13",
                             "text": "For sins shall lay waste the houses of sinners."
                         },
                         {
                             "verse": 14,
                             "chapter": 15,
-                            "name": "The Psalms of Solomon 15:14",
+                            "name": "Psalms of Solomon 15:14",
                             "text": "When God visiteth the earth with His judgment."
                         },
                         {
                             "verse": 15,
                             "chapter": 15,
-                            "name": "The Psalms of Solomon 15:15",
+                            "name": "Psalms of Solomon 15:15",
                             "text": "But they that fear the Lord shall find mercy therein,\nAnd shall live by the compassion of their God;\n\nBut sinners shall perish for ever."
                         }
                     ]
                 },
                 {
                     "chapter": 16,
-                    "name": "The Psalms of Solomon 16",
+                    "name": "Psalms of Solomon 16",
                     "verses": [
                         {
                             "verse": 0,
                             "chapter": 16,
-                            "name": "The Psalms of Solomon 16:0",
+                            "name": "Psalms of Solomon 16:0",
                             "text": "A Hymn. Of Solomon. For Help to the Pious."
                         },
                         {
                             "verse": 1,
                             "chapter": 16,
-                            "name": "The Psalms of Solomon 16:1",
+                            "name": "Psalms of Solomon 16:1",
                             "text": "When my soul slumbered (being afar) from the Lord, I had all but slipped down to the pit,\nWhen (I was) far from God,"
                         },
                         {
                             "verse": 2,
                             "chapter": 16,
-                            "name": "The Psalms of Solomon 16:2",
+                            "name": "Psalms of Solomon 16:2",
                             "text": "my soul had been well nigh poured out unto death,\n(I had been) nigh unto the gates of Sheol with the sinner,"
                         },
                         {
                             "verse": 3,
                             "chapter": 16,
-                            "name": "The Psalms of Solomon 16:3",
+                            "name": "Psalms of Solomon 16:3",
                             "text": "when my soul departed from the Lord God of Israel—\nHad not the Lord helped me with His everlasting mercy."
                         },
                         {
                             "verse": 4,
                             "chapter": 16,
-                            "name": "The Psalms of Solomon 16:4",
+                            "name": "Psalms of Solomon 16:4",
                             "text": "He pricked me, as a horse is pricked, that I might serve Him,\nMy savior and helper at all times saved me."
                         },
                         {
                             "verse": 5,
                             "chapter": 16,
-                            "name": "The Psalms of Solomon 16:5",
+                            "name": "Psalms of Solomon 16:5",
                             "text": "I will give thanks unto Thee, O God, for Thou hast helped me to (my) salvation;\nAnd hast not counted me with sinners to (my) destruction."
                         },
                         {
                             "verse": 6,
                             "chapter": 16,
-                            "name": "The Psalms of Solomon 16:6",
+                            "name": "Psalms of Solomon 16:6",
                             "text": "Remove not Thy mercy from me, O God,\nNor Thy memorial from my heart until I die."
                         },
                         {
                             "verse": 7,
                             "chapter": 16,
-                            "name": "The Psalms of Solomon 16:7",
+                            "name": "Psalms of Solomon 16:7",
                             "text": "Rule me, O God, (keeping me back) from wicked sin,\nAnd from every wicked woman that causeth the simple to stumble."
                         },
                         {
                             "verse": 8,
                             "chapter": 16,
-                            "name": "The Psalms of Solomon 16:8",
+                            "name": "Psalms of Solomon 16:8",
                             "text": "And let not the beauty of a lawless woman beguile me,\nNor any one that is subject to () unprofitable sin."
                         },
                         {
                             "verse": 9,
                             "chapter": 16,
-                            "name": "The Psalms of Solomon 16:9",
+                            "name": "Psalms of Solomon 16:9",
                             "text": "Establish the works of my hands before Thee,\nAnd preserve my goings in the remembrance of Thee."
                         },
                         {
                             "verse": 10,
                             "chapter": 16,
-                            "name": "The Psalms of Solomon 16:10",
+                            "name": "Psalms of Solomon 16:10",
                             "text": "Protect my tongue and my lips with words of truth;\nAnger and unreasoning wrath put far from me."
                         },
                         {
                             "verse": 11,
                             "chapter": 16,
-                            "name": "The Psalms of Solomon 16:11",
+                            "name": "Psalms of Solomon 16:11",
                             "text": "Murmuring, and impatience in affliction, remove far from me,\nWhen, if I sin, Thou chastenest me that I may return (unto Thee)."
                         },
                         {
                             "verse": 12,
                             "chapter": 16,
-                            "name": "The Psalms of Solomon 16:12",
+                            "name": "Psalms of Solomon 16:12",
                             "text": "But with goodwill and cheerfulness support my soul;\nWhen Thou strengthenest my soul, what is given (to me) will be sufficient for me."
                         },
                         {
                             "verse": 13,
                             "chapter": 16,
-                            "name": "The Psalms of Solomon 16:13",
+                            "name": "Psalms of Solomon 16:13",
                             "text": "For if Thou givest not strength,\nWho can endure chastisement with poverty"
                         },
                         {
                             "verse": 14,
                             "chapter": 16,
-                            "name": "The Psalms of Solomon 16:14",
+                            "name": "Psalms of Solomon 16:14",
                             "text": "When a man is rebuked by means of his corruption,\nThy testing (of him) is in his flesh and in the affliction of poverty."
                         },
                         {
                             "verse": 15,
                             "chapter": 16,
-                            "name": "The Psalms of Solomon 16:15",
+                            "name": "Psalms of Solomon 16:15",
                             "text": "If the righteous endureth in all these (trials), he shall receive mercy from the Lord."
                         }
                     ]
                 },
                 {
                     "chapter": 17,
-                    "name": "The Psalms of Solomon 17",
+                    "name": "Psalms of Solomon 17",
                     "verses": [
                         {
                             "verse": 0,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:0",
+                            "name": "Psalms of Solomon 17:0",
                             "text": "A Psalm. Of Solomon. With Song. Of the King."
                         },
                         {
                             "verse": 1,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:1",
+                            "name": "Psalms of Solomon 17:1",
                             "text": "O Lord, Thou art our King for ever and ever, For in Thee, O God, doth our soul glory."
                         },
                         {
                             "verse": 2,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:2",
+                            "name": "Psalms of Solomon 17:2",
                             "text": "How long are the days of man's life upon the earth As are his days, so is the hope (set) upon him."
                         },
                         {
                             "verse": 3,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:3",
+                            "name": "Psalms of Solomon 17:3",
                             "text": "But we hope in God, our deliverer; For the might of our God is for ever with mercy,"
                         },
                         {
                             "verse": 4,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:4",
+                            "name": "Psalms of Solomon 17:4",
                             "text": "And the kingdom of our God is for ever over the nations in judgment."
                         },
                         {
                             "verse": 7,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:7",
+                            "name": "Psalms of Solomon 17:7",
                             "text": "They in no wise glorified Thy honorable name;"
                         },
                         {
                             "verse": 8,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:8",
+                            "name": "Psalms of Solomon 17:8",
                             "text": "They laid waste the throne of David in tumultuous arrogance."
                         },
                         {
                             "verse": 9,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:9",
+                            "name": "Psalms of Solomon 17:9",
                             "text": "In that there rose up against them a man that was alien to our race."
                         },
                         {
                             "verse": 10,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:10",
+                            "name": "Psalms of Solomon 17:10",
                             "text": "According to their sins didst Thou recompense them, O God; So that it befell them according to their deeds."
                         },
                         {
                             "verse": 11,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:11",
+                            "name": "Psalms of Solomon 17:11",
                             "text": "God showed them no pity; He sought out their seed and let not one of them go free."
                         },
                         {
                             "verse": 12,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:12",
+                            "name": "Psalms of Solomon 17:12",
                             "text": "Faithful is the Lord in all His judgments Which He doeth upon the earth."
                         },
                         {
                             "verse": 13,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:13",
+                            "name": "Psalms of Solomon 17:13",
                             "text": "The lawless one laid waste our land so that none inhabited it, They destroyed young and old and their children together."
                         },
                         {
                             "verse": 14,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:14",
+                            "name": "Psalms of Solomon 17:14",
                             "text": "In the heat of His anger He sent them away even unto the west, And (He exposed) the rulers of the land unsparingly to derision."
                         },
                         {
                             "verse": 15,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:15",
+                            "name": "Psalms of Solomon 17:15",
                             "text": "Being an alien the enemy acted proudly, And his heart was alien from our God."
                         },
                         {
                             "verse": 16,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:16",
+                            "name": "Psalms of Solomon 17:16",
                             "text": "And all things [whatsoever he did in] Jerusalem, As also the nations [in the cities to their gods.]"
                         },
                         {
                             "verse": 17,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:17",
+                            "name": "Psalms of Solomon 17:17",
                             "text": "And the children of the covenant in the midst of the mingled peoples [surpassed them in evil.] There was not among them one that wrought in the midst of Jerusalem mercy and truth."
                         },
                         {
                             "verse": 18,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:18",
+                            "name": "Psalms of Solomon 17:18",
                             "text": "They that loved the synagogues of the pious fled from them, As sparrows that fly from their nest."
                         },
                         {
                             "verse": 19,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:19",
+                            "name": "Psalms of Solomon 17:19",
                             "text": "They wandered in deserts that their lives might be saved from harm, And precious in the eyes of them that lived abroad was any that escaped alive from them."
                         },
                         {
                             "verse": 20,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:20",
+                            "name": "Psalms of Solomon 17:20",
                             "text": "Over the whole earth were they scattered by lawless (men)."
                         },
                         {
                             "verse": 21,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:21",
+                            "name": "Psalms of Solomon 17:21",
                             "text": "For the heavens withheld the rain from dropping upon the earth, Springs were stopped (that sprang) perennial(ly) out of the deeps, (that ran down) from lofty mountains. For there was none among them that wrought righteousness and justice;"
                         },
                         {
                             "verse": 22,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:22",
+                            "name": "Psalms of Solomon 17:22",
                             "text": "The king was a transgressor, and the judge disobedient, and the people sinful."
                         },
                         {
                             "verse": 23,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:23",
+                            "name": "Psalms of Solomon 17:23",
                             "text": "Behold, O Lord, and raise up unto them their king, the son of David, At the time in the which Thou seest, O God, that he may reign over Israel Thy servant"
                         },
                         {
                             "verse": 24,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:24",
+                            "name": "Psalms of Solomon 17:24",
                             "text": "And gird him with strength, that he may shatter unrighteous rulers,"
                         },
                         {
                             "verse": 25,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:25",
+                            "name": "Psalms of Solomon 17:25",
                             "text": "And that he may purge Jerusalem from nations that trample (her) down to destruction."
                         },
                         {
                             "verse": 26,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:26",
+                            "name": "Psalms of Solomon 17:26",
                             "text": "he shall thrust out sinners from (the) inheritance, He shall destroy the pride of the sinner as a potter's vessel."
                         },
                         {
                             "verse": 28,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:28",
+                            "name": "Psalms of Solomon 17:28",
                             "text": "And he shall gather together a holy people, whom he shall lead in righteousness, And he shall judge the tribes of the people that has been sanctified by the Lord his God."
                         },
                         {
                             "verse": 29,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:29",
+                            "name": "Psalms of Solomon 17:29",
                             "text": "And he shall not suffer unrighteousness to lodge any more in their midst, Nor shall there dwell with them any man that knoweth wickedness,"
                         },
                         {
                             "verse": 30,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:30",
+                            "name": "Psalms of Solomon 17:30",
                             "text": "For he shall know them, that they are all sons of their God."
                         },
                         {
                             "verse": 31,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:31",
+                            "name": "Psalms of Solomon 17:31",
                             "text": "And neither sojourner nor alien shall sojourn with them any more."
                         },
                         {
                             "verse": 32,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:32",
+                            "name": "Psalms of Solomon 17:32",
                             "text": "And he shall have the heathen nations to serve him under his yoke; And he shall glorify the Lord in a place to be seen of () all the earth;"
                         },
                         {
                             "verse": 33,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:33",
+                            "name": "Psalms of Solomon 17:33",
                             "text": "And he shall purge Jerusalem, making it holy as of old:"
                         },
                         {
                             "verse": 34,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:34",
+                            "name": "Psalms of Solomon 17:34",
                             "text": "So that nations shall come from the ends of the earth to see his glory, Bringing as gifts her sons who had fainted,"
                         },
                         {
                             "verse": 35,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:35",
+                            "name": "Psalms of Solomon 17:35",
                             "text": "And to see the glory of the Lord, wherewith God hath glorified her."
                         },
                         {
                             "verse": 36,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:36",
+                            "name": "Psalms of Solomon 17:36",
                             "text": "And there shall be no unrighteousness in his days in their midst, For all shall be holy and their king the anointed of the Lord."
                         },
                         {
                             "verse": 37,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:37",
+                            "name": "Psalms of Solomon 17:37",
                             "text": "For he shall not put his trust in horse and rider and bow, Nor shall he multiply for himself gold and silver for war, Nor shall he gather confidence from () a multitude () for the day of battle."
                         },
                         {
                             "verse": 38,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:38",
+                            "name": "Psalms of Solomon 17:38",
                             "text": "The Lord Himself is his king, the hope of him that is mighty through (his) hope in God."
                         },
                         {
                             "verse": 39,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:39",
+                            "name": "Psalms of Solomon 17:39",
                             "text": "For he will smite the earth with the word of his mouth for ever."
                         },
                         {
                             "verse": 40,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:40",
+                            "name": "Psalms of Solomon 17:40",
                             "text": "He will bless the people of the Lord with wisdom and gladness,"
                         },
                         {
                             "verse": 41,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:41",
+                            "name": "Psalms of Solomon 17:41",
                             "text": "And he himself (will be) pure from sin, so that he may rule a great people. He will rebuke rulers, and remove sinners by the might of his word;"
                         },
                         {
                             "verse": 42,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:42",
+                            "name": "Psalms of Solomon 17:42",
                             "text": "And (relying) upon his God, throughout his days he will not stumble; For God will make him mighty by means of (His) holy spirit, And wise by means of the spirit of understanding, with strength and righteousness."
                         },
                         {
                             "verse": 43,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:43",
+                            "name": "Psalms of Solomon 17:43",
                             "text": "And the blessing of the Lord (will be) with him: he will be strong and stumble not;"
                         },
                         {
                             "verse": 44,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:44",
+                            "name": "Psalms of Solomon 17:44",
                             "text": "His hope (will be) in the Lord: who then can prevail against him"
                         },
                         {
                             "verse": 45,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:45",
+                            "name": "Psalms of Solomon 17:45",
                             "text": "(He will be) shepherding the flock of the Lord faithfully and righteously, And will suffer none among them to stumble in their pasture."
                         },
                         {
                             "verse": 46,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:46",
+                            "name": "Psalms of Solomon 17:46",
                             "text": "He will lead them all aright, And there will be no pride among them that any among them should be oppressed."
                         },
                         {
                             "verse": 47,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:47",
+                            "name": "Psalms of Solomon 17:47",
                             "text": "This (will be) the majesty of the king of Israel whom God knoweth; He will raise him up over the house of Israel to correct him."
                         },
                         {
                             "verse": 48,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:48",
+                            "name": "Psalms of Solomon 17:48",
                             "text": "His words (shall be) more refined than costly gold, the choicest; In the assemblies he will judge the peoples, the tribes of the sanctified."
                         },
                         {
                             "verse": 49,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:49",
+                            "name": "Psalms of Solomon 17:49",
                             "text": "His words (shall be) like the words of the holy ones in the midst of sanctified peoples."
                         },
                         {
                             "verse": 50,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:50",
+                            "name": "Psalms of Solomon 17:50",
                             "text": "Blessed be they that shall be in those days, In that they shall see the good fortune of Israel which God shall bring to pass in the gathering together of the tribes."
                         },
                         {
                             "verse": 51,
                             "chapter": 17,
-                            "name": "The Psalms of Solomon 17:51",
+                            "name": "Psalms of Solomon 17:51",
                             "text": "May the Lord hasten His mercy upon Israel! May He deliver us from the uncleanness of unholy enemies! The Lord Himself is our king for ever and ever."
                         }
                     ]
                 },
                 {
                     "chapter": 18,
-                    "name": "The Psalms of Solomon 18",
+                    "name": "Psalms of Solomon 18",
                     "verses": [
                         {
                             "verse": 0,
                             "chapter": 18,
-                            "name": "The Psalms of Solomon 18:0",
+                            "name": "Psalms of Solomon 18:0",
                             "text": "A Psalm. Of Solomon. Again of the Anointed of the Lord."
                         },
                         {
                             "verse": 1,
                             "chapter": 18,
-                            "name": "The Psalms of Solomon 18:1",
+                            "name": "Psalms of Solomon 18:1",
                             "text": "Lord, Thy mercy is over the works of Thy hands for ever;\nThy goodness is over Israel with a rich gift."
                         },
                         {
                             "verse": 2,
                             "chapter": 18,
-                            "name": "The Psalms of Solomon 18:2",
+                            "name": "Psalms of Solomon 18:2",
                             "text": "Thine eyes look upon them, so that none of them suffers want;\nThine ears listen to the hopeful prayer of the poor."
                         },
                         {
                             "verse": 3,
                             "chapter": 18,
-                            "name": "The Psalms of Solomon 18:3",
+                            "name": "Psalms of Solomon 18:3",
                             "text": "Thy judgments (are executed) upon the whole earth in mercy;"
                         },
                         {
                             "verse": 4,
                             "chapter": 18,
-                            "name": "The Psalms of Solomon 18:4",
+                            "name": "Psalms of Solomon 18:4",
                             "text": "And Thy love (is) toward the seed of Abraham, the children of Israel."
                         },
                         {
                             "verse": 5,
                             "chapter": 18,
-                            "name": "The Psalms of Solomon 18:5",
+                            "name": "Psalms of Solomon 18:5",
                             "text": "Thy chastisement is upon us as (upon) a first-born, only-begotten son,\nTo turn back the obedient soul from folly (that is wrought) in ignorance."
                         },
                         {
                             "verse": 6,
                             "chapter": 18,
-                            "name": "The Psalms of Solomon 18:6",
+                            "name": "Psalms of Solomon 18:6",
                             "text": "May God cleanse Israel against the day of mercy and blessing,\nAgainst the day of choice when He bringeth back His anointed."
                         },
                         {
                             "verse": 7,
                             "chapter": 18,
-                            "name": "The Psalms of Solomon 18:7",
+                            "name": "Psalms of Solomon 18:7",
                             "text": "Blessed shall they be that shall be in those days,\nIn that they shall see the goodness of the Lord which He shall perform for the generation that is to come,"
                         },
                         {
                             "verse": 8,
                             "chapter": 18,
-                            "name": "The Psalms of Solomon 18:8",
+                            "name": "Psalms of Solomon 18:8",
                             "text": "Under the rod of chastening of the Lord's anointed in the fear of his God,\nIn the spirit of wisdom and righteousness and strength;"
                         },
                         {
                             "verse": 9,
                             "chapter": 18,
-                            "name": "The Psalms of Solomon 18:9",
+                            "name": "Psalms of Solomon 18:9",
                             "text": "That he may direct (every) man in the works of righteousness by the fear of God,\nThat he may establish them all before the Lord,"
                         },
                         {
                             "verse": 10,
                             "chapter": 18,
-                            "name": "The Psalms of Solomon 18:10",
+                            "name": "Psalms of Solomon 18:10",
                             "text": "A good generation (living) in the fear of God in the days of mercy. Selah."
                         },
                         {
                             "verse": 11,
                             "chapter": 18,
-                            "name": "The Psalms of Solomon 18:11",
+                            "name": "Psalms of Solomon 18:11",
                             "text": "Great is our God and glorious, dwelling in the highest."
                         },
                         {
                             "verse": 12,
                             "chapter": 18,
-                            "name": "The Psalms of Solomon 18:12",
+                            "name": "Psalms of Solomon 18:12",
                             "text": "(It is He) who hath established in (their) courses the lights (of heaven) for determining seasons from year to year,\nAnd they have not turned aside from the way which He appointed them."
                         },
                         {
                             "verse": 13,
                             "chapter": 18,
-                            "name": "The Psalms of Solomon 18:13",
+                            "name": "Psalms of Solomon 18:13",
                             "text": "In the fear of God (they pursue) their path every day,\nFrom the day God created them and for evermore."
                         },
                         {
                             "verse": 14,
                             "chapter": 18,
-                            "name": "The Psalms of Solomon 18:14",
+                            "name": "Psalms of Solomon 18:14",
                             "text": "And they have erred not since the day He created them.\nSince the generations of old they have not withdrawn from their path,\nUnless God commanded them (so to do) by the command of His servants."
                         }
                     ]
