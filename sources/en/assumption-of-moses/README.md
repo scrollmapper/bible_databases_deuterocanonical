@@ -1,1 +1,1 @@
-# The Testament of Moses
+# Testament of Moses
