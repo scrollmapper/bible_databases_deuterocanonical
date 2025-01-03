@@ -1,1 +1,1 @@
-# The General Epistle of Barnabas
+# General Epistle of Barnabas
