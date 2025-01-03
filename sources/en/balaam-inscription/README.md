@@ -1,1 +1,1 @@
-# The Balaam Inscription
+# Balaam Inscription
