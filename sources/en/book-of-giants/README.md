@@ -1,1 +1,1 @@
-# The Book of Giants
+# Book of Giants
