@@ -1,1 +1,1 @@
-# The History of the Rechabites
+# History of the Rechabites
