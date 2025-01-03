@@ -1,4 +1,4 @@
-# JOSEPH AND ASENATH
+# Joseph And Asenath
 **[1:1]** In the first year of plenty, in the second month, on the fifth of the month, Pharaoh sent Joseph to go round all the land of Egypt; and in the fourth month of the first year, on the eighteenth of the month, Joseph came to the borders of Heliopolis, and he was gathering the corn of that country as the sand of the sea.
 **[1:2]** And there was a certain man in that city by the name Pentephres, who was a priest of Heliopolis and a satrap of Pharaoh, and chief of all Pharaoh's satraps and princes; and this man was exceedingly rich and very sage and gentle, and he was also a counsellor of Pharaoh, because he was prudent beyond all Pharaoh's princes.
 **[1:3]** And he had a virgin daughter, by name Asenath, of eighteen years, tall and comely, and beautiful to behold exceedingly beyond every virgin upon the earth.
