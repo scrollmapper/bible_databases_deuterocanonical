@@ -1,1 +1,1 @@
-# Second Baruch
+# II Baruch
