@@ -1,4 +1,4 @@
-# The Testament of Moses
+# Testament of Moses
 
 **[1:1]** The Testament of Moses even the things which he commanded in the one hundred and twentieth year of his life, that is the two thousand five hundredth year from the creation of the world: [But according to oriental reckoning the two thousand and seven hundredth, and the four hundredth after the departure from Phoenicia], when the people had gone forth after the Exodus that was made by Moses to Amman beyond the Jordan, in the prophecy that was made by Moses in the book Deuteronomy:
 **[1:2]** and he called to him Joshua the son of Nun, a man approved of the Lord, that he might be the minister of the people and of the tabernacle of the testimony with all its holy things, and that he might bring the people into the land given to their fathers, that it should be given to them according to the covenant and the oath, which He spoke in the tabernacle to give (it) by Joshua:
