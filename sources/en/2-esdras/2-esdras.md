@@ -1,4 +1,4 @@
-# 2 Esdras
+# II Esdras
 
 **[1:1]** The second book of the prophet Esdras, the son of Saraias, the son of Azarias, the son of Helchias, the son of Sadamias, the son of Sadoc, the son of Achitob,
 
