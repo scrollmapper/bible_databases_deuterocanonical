@@ -1,4 +1,4 @@
-# The General Epistle of Barnabas
+# General Epistle of Barnabas
 
 
 **[1:1]** Hail, my sons and daughters, in the name of our Lord Jesus Christ, who hath loved us in peace.
