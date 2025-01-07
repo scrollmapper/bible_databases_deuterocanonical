@@ -3279,1105 +3279,280 @@ saw that his face was like their own; and they trusted him.
 
 
 
-**[61:1]** Then he took Adam and Eve by the hand, and began to bring them out of
+**[61:1]** Then he took Adam and Eve by the hand, and began to bring them out of the cave.
 
-the cave.
+**[61:2]** But when they had come a little ways out of it, God knew that Satan had overcome them, and had brought them out before the forty days were ended, to take them to some distant place, and to destroy them.
 
+**[61:3]** Then the Word of the Lord God again came and cursed Satan, and drove him away from them.
 
+**[61:4]** And God began to speak to Adam and Eve, saying to them, "What made you come out of the cave, to this place?"
 
-**[61:2]** But when they had come a little ways out of it, God knew that Satan
+**[61:5]** Then Adam said to God, "Did you create a man before us? For when we were in the cave there suddenly came to us a friendly old man who said to us, 'I am a messenger from God to you, to bring you back to some place of rest.'
 
-had overcome them, and had brought them out before the forty days were
+**[61:6]** And we believed, O God, that he was a messenger from you; and we came out with him; and knew not where we should go with him."
 
-ended, to take them to some distant place, and to destroy them.
+**[61:7]** Then God said to Adam, "See, that is the father of evil arts, who brought you and Eve out of the Garden of Delights.  And now, indeed, when he saw that you and Eve both joined together in fasting and praying, and that you came not out of the cave before the end of the forty days, he wished to make your purpose vein, to break your mutual bond; to cut off all hope from you, and to drive you to some place where he might destroy you.
 
+**[61:8]** Because he couldn't do anything to you unless he showed himself in the likeness of you.
 
+**[61:9]** Therefore he came to you with a face like your own, and began to give you tokens as if they were all true.
 
-**[61:3]** Then the Word of the Lord God again came and cursed Satan, and drove
+**[61:10]** But because I am merciful and am favorable to you, I did not allow him to destroy you; instead I drove him away from you.
 
-him away from them.
+**[61:11]** Now, therefore, O Adam, take Eve, and return to your cave, and remain in it until the morning after the fortieth day.  And when you come out, go towards the eastern gate of the garden."
 
+**[61:12]** Then Adam and Eve worshipped God, and praised and blessed Him for the deliverance that had come to them from Him.  And they returned towards the cave. This happened in the evening of the thirty-ninth day.
 
+**[61:13]** Then Adam and Eve stood up and with a fiery passion, prayed to God, to give them strength; for they had become weak because of hunger and thirst and prayer. But they watched the whole of that night praying, until morning.
 
-**[61:4]** And God began to speak to Adam and Eve, saying to them, "What made
+**[61:14]** Then Adam said to Eve, "Get up, let us go towards the eastern gate of the garden as God told us."
 
-you come out of the cave, to this place?"
+**[61:15]** And they said their prayers as they were accustomed to do every day; and they left the cave to go near to the eastern gate of the garden.
 
-
-
-**[61:5]** Then Adam said to God, "Did you create a man before us?  For when we
-
-were in the cave there suddenly came to us a friendly old man who said
-
-to us, 'I am a messenger from God to you, to bring you back to some
-
-place of rest.'
-
-
-
-**[61:6]** And we believed, O God, that he was a messenger from you; and we came
-
-out with him; and knew not where we should go with him."
-
-
-
-**[61:7]** Then God said to Adam, "See, that is the father of evil arts, who
-
-brought you and Eve out of the Garden of Delights.  And now, indeed,
-
-when he saw that you and Eve both joined together in fasting and
-
-praying, and that you came not out of the cave before the end of the
-
-forty days, he wished to make your purpose vein, to break your mutual
-
-bond; to cut off all hope from you, and to drive you to some place
-
-where he might destroy you.
-
-
-
-**[61:8]** Because he couldn't do anything to you unless he showed himself in
-
-the likeness of you.
-
-
-
-**[61:9]** Therefore he came to you with a face like your own, and began to give
-
-you tokens as if they were all true.
-
-
-
-**[61:10]** But because I am merciful and am favorable to you, I did not allow
-
-him to destroy you; instead I drove him away from you.
-
-
-
-**[61:11]** Now, therefore, O Adam, take Eve, and return to your cave, and
-
-remain in it until the morning after  the fortieth day.  And when you
-
-come out, go towards the eastern gate of the garden."
-
-
-
-**[61:12]** Then Adam and Eve worshipped God, and praised and blessed Him for
-
-the deliverance that had come to them from Him.  And they returned
-
-towards the cave.  This happened in the evening of the thirty-ninth day.
-
-
-
-**[61:13]** Then Adam and Eve stood up and with a fiery passion, prayed to God,
-
-to give them strength; for they had become weak because of  hunger and
-
-thirst and prayer.  But they watched the whole of that night praying,
-
-until morning.
-
-
-
-**[61:14]** Then Adam said to Eve, "Get up, let us go towards the eastern gate
-
-of the garden as God told us."
-
-
-
-**[61:15]** And they said their prayers as they were accustomed to do every day;
-
-and they left the cave to go near to the eastern gate of the garden.
-
-
-
-**[61:16]** Then Adam and Eve stood up and prayed, and appealed to God to
-
-strengthen them, and to send them something to satisfy their hunger.
-
-
+**[61:16]** Then Adam and Eve stood up and prayed, and appealed to God to strengthen them, and to send them something to satisfy their hunger.
 
 **[61:17]** But after they finished their prayers, they were too weak to move.
 
-
-
-**[61:18]** Then came the Word of God again, and said to them, "O Adam, get up,
-
-go and bring the two figs here."
-
-
+**[61:18]** Then came the Word of God again, and said to them, "O Adam, get up, go and bring the two figs here."
 
 **[61:19]** Then Adam and Eve got up, and went until they came near to the cave. 
 
 
+**[62:1]** But Satan the wicked was envious, because of the consolation God had given them.
 
-**[62:1]** But Satan the wicked was envious, because of the consolation God had
+**[62:2]** So he prevented them, and went into the cave and took the two figs, and buried them outside the cave, so that Adam and Eve should not find them. He also had in his thoughts to destroy them.
 
-given them.
+**[62:3]** But by God's mercy, as soon as those two figs were in the ground, God defeated Satan's counsel regarding them; and made them into two fruit trees, that overshadowed the cave. For Satan had buried them on the eastern side of it.
 
+**[62:4]** Then when the two trees were grown, and were covered with fruit, Satan grieved and mourned, and said, "It would have been better to have left those figs where they were; for now, behold, they have become two fruit trees, whereof Adam will eat all the days of his life.  Whereas I had in mind, when I buried them, to destroy them entirely, and to hide them forever.
 
+**[62:5]** But God has overturned my counsel; and would not that this sacred fruit should perish; and He has made plain my intention, and has defeated the counsel I had formed against His servants."
 
-**[62:2]** So he prevented them, and went into the cave and took the two figs,
+**[62:6]** Then Satan went away ashamed because he hadn't thought his plans all the way through. 
 
-and buried them outside the cave, so that Adam and Eve should not find
 
-them.  He also had in his thoughts to destroy them.
+**[63:1]** But Adam and Eve, as they got closer to the cave, saw two fig trees, covered with fruit, and overshadowing the cave.
 
+**[63:2]** Then Adam said to Eve, "It seems to me that we have gone the wrong way. When did these two trees grow here? It seems to me that the enemy wishes to lead us the wrong way. Do you suppose that there is another cave besides this one in the earth?
 
+**[63:3]** Yet, O Eve, let us go into the cave, and find in it the two figs; for this is our cave, in which we were. But if we should not find the two figs in it, then it cannot be our cave."
 
-**[62:3]** But by God's mercy, as soon as those two figs were in the ground, God
+**[63:4]** They went then into the cave, and looked into the four corners of it, but found not the two figs.
 
-defeated Satan's counsel regarding them; and made them into two fruit
+**[63:5]** And Adam cried and said to Eve, "Did we go to the wrong cave, then, O Eve? It seems to me these two fig trees are the two figs that were in the cave." And Eve said, "I, for my part, do not know."
 
-trees, that overshadowed the cave.  For Satan had buried them on the
+**[63:6]** Then Adam stood up and prayed and said, "O God, You commanded us to come back to the cave, to take the two figs, and then to return to you.
 
-eastern side of it.
+**[63:7]** But now, we have not found them. O God, have you taken them, and sown these two trees, or have we gone astray in the earth; or has the enemy deceived us? If it be real, then, O God, reveal to us the secret of these two trees and of the two figs."
 
+**[63:8]** Then came the Word of God to Adam, and said to him, "O Adam, when I sent you to fetch the figs, Satan went before you to the cave, took the figs, and buried them outside, eastward of the cave, thinking to destroy them; and not sowing them with good intent.
 
+**[63:9]** Not for his mere sake, then, have these trees grown up at once; but I had mercy on you and I commanded them to grow. And they grew to be two large trees, that you be overshadowed by their branches, and find rest; and that I made you see My power and My marvelous works.
 
-**[62:4]** Then when the two trees were grown, and were covered with fruit,
+**[63:10]** And, also, to show you Satan's meanness, and his evil works, for ever since you came out of the garden, he has not ceased, no, not one day, from doing you some harm. But I have not given him power over you."
 
-Satan grieved and mourned, and said, "It would have been better to have
+**[63:11]** And God said, "From now on, O Adam, rejoice on account of the trees, you and Eve; and rest under them when you feel weary. But do not eat any of their fruit or come near them."
 
-left those figs where they were; for now, behold, they have become two
+**[63:12]** Then Adam cried, and said, "O God, will You again kill us, or will You drive us away from before Your face, and cut our life from off the face of the earth?
 
-fruit trees, whereof Adam will eat all the days of his life.  Whereas I
+**[63:13]** O God, I beg you, if You know that there be in these trees either death or some other evil, as at the first time, root them up from near our cave, and with them; and leave us to die of the heat, of hunger and of thirst.
 
-had in mind, when I buried them, to destroy them entirely, and to hide
+**[63:14]** For we know Your marvelous works, O God, that they are great, and that by Your power You can bring one thing out of another, without one's wish. For Your power can make rocks to become trees, and trees to become rocks." 
 
-them forever.
 
+**[64:1]** Then God looked at Adam and at his strength of mind, at his endurance of hunger and thirst, and of the heat. And He changed the two fig trees into two figs, as they were at first, and then said to Adam and to Eve, "Each of you may take one fig."  And they took them, as the Lord commanded them.
 
+**[64:2]** And He said to them, "You must now go into the cave and eat the figs, and satisfy your hunger, or else you will die."
 
-**[62:5]** But God has overturned my counsel; and would not that this sacred
+**[64:3]** So, as God commanded them, they went into the cave about sunset. And Adam and Eve stood up and prayed during the setting sun.
 
-fruit should perish; and He has made plain my intention, and has
+**[64:4]** Then they sat down to eat the figs; but they knew not how to eat them; for they were not accustomed to eat earthly food.  They were afraid that if they ate, their stomach would be burdened and their flesh thickened, and their hearts would take to liking earthly food.
 
-defeated the counsel I had formed against His servants."
+**[64:5]** But while they were thus seated, God, out of pity for them, sent them His angel, so they wouldn't perish of hunger and thirst.
 
+**[64:6]** And the angel said to Adam and Eve, "God says to you that you do not have the strength that would be required to fast until death; eat, therefore, and strengthen your bodies; for you are now animal flesh and cannot subsist without food and drink."
 
+**[64:7]** Then Adam and Eve took the figs and began to eat of them. But God had put into them a mixture as of savory bread and blood.
 
-**[62:6]** Then Satan went away ashamed because he hadn't thought his plans all
+**[64:8]** Then the angel went from Adam and Eve, who ate of the figs until they had satisfied their hunger. Then they put aside what was left; but by the power of God, the figs became whole again, because God blessed them.
 
-the way through. 
+**[64:9]** After this Adam and Eve got up, and prayed with a joyful heart and renewed strength, and praised and rejoiced abundantly the whole of that night. And this was the end of the eighty-third day. 
 
 
+**[65:1]** And when it was day, they got up and prayed, after their custom, and then went out of the cave.
 
-**[63:1]** But Adam and Eve, as they got closer to the cave, saw two fig trees,
+**[65:2]** But they became sick from the food they had eaten because they were not used to it, so they went about in the cave saying to each other:--
 
-covered with fruit, and overshadowing the cave.
+**[65:3]** "What has our eating caused to happen to us, that we should be in such pain? We are in misery, we shall die! It would have been better for us to have died keeping our bodies pure than to have eaten and defiled them with food."
 
+**[65:4]** Then Adam said to Eve, "This pain did not come to us in the garden, neither did we eat such bad food there. Do you think, O Eve, that God will plague us through the food that is in us, or that our innards will come out; or that God means to kill us with this pain before He has fulfilled His promise to us?"
 
+**[65:5]** Then Adam besought the Lord and said, "O Lord, let us not perish through the food we have eaten. O Lord, don't punish us; but deal with us according to Your great mercy, and forsake us not until the day of the promise You have made us."
 
-**[63:2]** Then Adam said to Eve, "It seems to me that we have gone the wrong
+**[65:6]** Then God looked at them, and then fitted them for eating food at once; as to this day; so that they should not perish.
 
-way.  When did these two trees grow here?  It seems to me that the
+**[65:7]** Then Adam and Eve came back into the cave sorrowful and crying because of the alteration of their bodies. And they both knew from that hour that they were altered beings, that all hope of returning to the garden was now lost; and that they could not enter it.
 
-enemy wishes to lead us the wrong way.  Do you suppose that there is
+**[65:8]** For that now their bodies had strange functions; and all flesh that requires food and drink for its existence, cannot be in the garden.
 
-another cave besides this one in the earth?
+**[65:9]** Then Adam said to Eve, "Behold, our hope is now lost; and so is our trust to enter the garden. We no longer belong to the inhabitants of the garden; but from now on we are earthy and of the dust, and of the inhabitants of the earth. We shall not return to the garden, until the day in which God has promised to save us, and to bring us again into the garden, as He promised us."
 
+**[65:10]** Then they prayed to God that He would have mercy on them; after which, their mind was quieted, their hearts were broken, and their longing was cooled down; and they were like strangers on earth. That night Adam and Eve spent in the cave, where they slept heavily by reason of the food they had eaten. 
 
 
-**[63:3]** Yet, O Eve, let us go into the cave, and find in it the two figs; for
+**[66:1]** When it was morning, the day after they had eaten food, Adam and Eve prayed in the cave, and Adam said to Eve, "Look, we asked for food of God, and He gave it. But now let us also ask Him to give us a drink of water."
 
-this is our cave, in which we were.  But if we should not find the two
+**[66:2]** Then they got up, and went to the bank of the stream of water, that was on the south border of the garden, in which they had before thrown themselves. And they stood on the bank, and prayed to God that He would command them to drink of the water.
 
-figs in it, then it cannot be our cave."
+**[66:3]** Then the Word of God came to Adam, and said to him, "O Adam, your body has become brutish, and requires water to drink.  Take some and drink it, you and Eve, then give thanks and praise."
 
+**[66:4]** Adam and Eve then went down to the stream and drank from it, until their bodies felt refreshed. After having drunk, they praised God, and then returned to their cave, after their former custom. This happened at the end of eighty-three days.
 
+**[66:5]** Then on the eighty-fourth day, they took the two figs and hung them in the cave, together with the leaves thereof, to be to them a sign and a blessing from God. And they placed them there so that if their descendants came there, they would see the wonderful things God had done for them.
 
-**[63:4]** They went then into the cave, and looked into the four corners of it,
+**[66:6]** Then Adam and Eve again stood outside the cave, and asked God to show them some food with which they could nourish their bodies.
 
-but found not the two figs.
+**[66:7]** Then the Word of God came and said to him, "O Adam, go down to the westward of the cave until you come to a land of dark soil, and there you shall find food."
 
+**[66:8]** And Adam obeyed the Word of God, took Eve, and went down to a land of dark soil, and found there wheat growing in the ear and ripe, and figs to eat; and Adam rejoiced over it.
 
+**[66:9]** Then the Word of God came again to Adam, and said to him, "Take some of this wheat and make yourselves some bread with it, to nourish your body therewith." And God gave Adam's heart wisdom, to work out the corn until it became bread.
 
-**[63:5]** And Adam cried and said to Eve, "Did we go to the wrong cave, then, O
+**[66:10]** Adam accomplished all that, until he grew very faint and weary. He then returned to the cave; rejoicing at what he had learned of what is done with wheat, until it is made into bread for one's use. 
 
-Eve?  It seems to me these two fig trees are the two figs that were in
 
-the cave."  And Eve said, "I, for my part, do not know."
+**[67:1]** When Adam and Eve went down to the land of black mud and came near to the wheat God had showed them and saw that it was ripe and ready for reaping, they did not have a sickle to reap it with. So they readied themselves, and began to pull up the wheat by hand, until it was all done.
 
+**[67:2]** Then they heaped it into a pile; and, faint from heat and from thirst, they went under a shady tree, where the breeze fanned them to sleep.
 
+**[67:3]** But Satan saw what Adam and Eve had done. And he called his hosts, and said to them, "Since God has shown to Adam and Eve all about this wheat, wherewith to strengthen their bodies--and, look, they have come and made a big pile of it, and faint from the toil are now asleep--come, let us set fire to this heap of corn, and burn it, and let us take that bottle of water that is by them, and empty it out, so that they may find nothing to drink, and we kill them with hunger and thirst.
 
-**[63:6]** Then Adam stood up and prayed and said, "O God, You commanded us to
-
-come back to the cave, to take the two figs, and then to return to you.
-
-
-
-**[63:7]** But now, we have not found them.  O God, have you taken them, and
-
-sown these two trees, or have we gone astray in the earth; or has the
-
-enemy deceived us?  If it be real, then, O God, reveal to us the secret
-
-of these two trees and of the two figs."
-
-
-
-**[63:8]** Then came the Word of God to Adam, and said to him, "O Adam, when I
-
-sent you to fetch the figs, Satan went before you to the cave, took the
-
-figs, and buried them outside, eastward of the cave, thinking to
-
-destroy them; and not sowing them with good intent.
-
-
-
-**[63:9]** Not for his mere sake, then, have these trees grown up at once; but I
-
-had mercy on you and I commanded them to grow.  And they grew to be two
-
-large trees, that you be overshadowed by their branches, and find rest;
-
-and that I made you see My power and My marvelous works.
-
-
-
-**[63:10]** And, also, to show you Satan's meanness, and his evil works, for
-
-ever since you came out of the garden, he has not ceased, no, not one
-
-day, from doing you some harm.  But I have not given him power over
-
-you."
-
-
-
-**[63:11]** And God said, "From now on, O Adam, rejoice on account of the trees,
-
-you and Eve; and rest under them when you feel weary.  But do not eat
-
-any of their fruit or come near them."
-
-
-
-**[63:12]** Then Adam cried, and said, "O God, will You again kill us, or will
-
-You drive us away from before Your face, and cut our life from off the
-
-face of the earth?
-
-
-
-**[63:13]** O God, I beg you, if You know that there be in these trees either
-
-death or some other evil, as at the first time, root them up from near
-
-our cave, and with them; and leave us to die of the heat, of hunger and
-
-of thirst.
-
-
-
-**[63:14]** For we know Your marvelous works, O God, that they are great, and
-
-that by Your power You can bring one thing out of another, without
-
-one's wish.  For Your power can make rocks to become trees, and trees
-
-to become rocks." 
-
-
-
-**[64:1]** Then God looked at Adam and at his strength of mind, at his endurance
-
-of hunger and thirst, and of the heat.  And He changed the two fig
-
-trees into two figs, as they were at first, and then said to Adam and
-
-to Eve, "Each of you may take one fig."  And they took them, as the
-
-Lord commanded them.
-
-
-
-**[64:2]** And He said to them, "You must now go into the cave and eat the figs,
-
-and satisfy your hunger, or else you will die."
-
-
-
-**[64:3]** So, as God commanded them, they went into the cave about sunset.  And
-
-Adam and Eve stood up and prayed during the setting sun.
-
-
-
-**[64:4]** Then they sat down to eat the figs; but they knew not how to eat
-
-them; for they were not accustomed to eat earthly food.  They were
-
-afraid that if they ate, their stomach would be burdened and their
-
-flesh thickened, and their hearts would take to liking earthly food.
-
-
-
-**[64:5]** But while they were thus seated, God, out of pity for them, sent them
-
-His angel, so they wouldn't perish of hunger and thirst.
-
-
-
-**[64:6]** And the angel said to Adam and Eve, "God says to you that you do not
-
-have the strength that would be required to fast until death; eat,
-
-therefore, and strengthen your bodies; for you are now animal flesh and
-
-cannot subsist without food and drink."
-
-
-
-**[64:7]** Then Adam and Eve took the figs and began to eat of them.  But God
-
-had put into them a mixture as of savory bread and blood.
-
-
-
-**[64:8]** Then the angel went from Adam and Eve, who ate of the figs until they
-
-had satisfied their hunger.  Then they put aside what was left; but by
-
-the power of God, the figs became whole again, because God blessed them.
-
-
-
-**[64:9]** After this Adam and Eve got up, and prayed with a joyful heart and
-
-renewed strength, and praised and rejoiced abundantly the whole of that
-
-night.  And this was the end of the eighty-third day. 
-
-
-
-**[65:1]** And when it was day, they got up and prayed, after their custom, and
-
-then went out of the cave.
-
-
-
-**[65:2]** But they became sick from the food they had eaten because they were
-
-not used to it, so they went about in the cave saying to each other:--
-
-
-
-**[65:3]** "What has our eating caused to happen to us, that we should be in
-
-such pain?  We are in misery, we shall die!  It would have been better
-
-for us to have died keeping our bodies pure than to have eaten and
-
-defiled them with food."
-
-
-
-**[65:4]** Then Adam said to Eve, "This pain did not come to us in the garden,
-
-neither did we eat such bad food there.  Do you think, O Eve, that God
-
-will plague us through the food that is in us, or that our innards will
-
-come out; or that God means to kill us with this pain before He has
-
-fulfilled His promise to us?"
-
-
-
-**[65:5]** Then Adam besought the Lord and said, "O Lord, let us not perish
-
-through the food we have eaten.  O Lord, don't punish us; but deal with
-
-us according to Your great mercy, and forsake us not until the day of
-
-the promise You have made us."
-
-
-
-**[65:6]** Then God looked at them, and then fitted them for eating food at
-
-once; as to this day; so that they should not perish.
-
-
-
-**[65:7]** Then Adam and Eve came back into the cave sorrowful and crying
-
-because of the alteration of their bodies.  And they both knew from
-
-that hour that they were altered beings, that all hope of returning to
-
-the garden was now lost; and that they could not enter it.
-
-
-
-**[65:8]** For that now their bodies had strange functions; and all flesh that
-
-requires food and drink for its existence, cannot be in the garden.
-
-
-
-**[65:9]** Then Adam said to Eve, "Behold, our hope is now lost; and so is our
-
-trust to enter the garden.  We no longer belong to the inhabitants of
-
-the garden; but from now on we are earthy and of the dust, and of the
-
-inhabitants of the earth.  We shall not return to the garden, until the
-
-day in which God has promised to save us, and to bring us again into
-
-the garden, as He promised us."
-
-
-
-**[65:10]** Then they prayed to God that He would have mercy on them; after
-
-which, their mind was quieted, their hearts were broken, and their
-
-longing was cooled down; and they were like strangers on earth.  That
-
-night Adam and Eve spent in the cave, where they slept heavily by
-
-reason of the food they had eaten. 
-
-
-
-**[66:1]** When it was morning, the day after they had eaten food, Adam and Eve
-
-prayed in the cave, and Adam said to Eve, "Look, we asked for food of
-
-God, and He gave it.  But now let us also ask Him to give us a drink of
-
-water."
-
-
-
-**[66:2]** Then they got up, and went to the bank of the stream of water, that
-
-was on the south border of the garden, in which they had before thrown
-
-themselves.  And they stood on the bank, and prayed to God that He
-
-would command them to drink of the water.
-
-
-
-**[66:3]** Then the Word of God came to Adam, and said to him, "O Adam, your
-
-body has become brutish, and requires water to drink.  Take some and
-
-drink it, you and Eve, then give thanks and praise."
-
-
-
-**[66:4]** Adam and Eve then went down to the stream and drank from it, until
-
-their bodies felt refreshed.  After having drunk, they praised God, and
-
-then returned to their cave, after their former custom.  This happened
-
-at the end of eighty-three days.
-
-
-
-**[66:5]** Then on the eighty-fourth day, they took the two figs and hung them
-
-in the cave, together with the leaves thereof, to be to them a sign and
-
-a blessing from God.  And they placed them there so that if their
-
-descendants came there, they would see the wonderful things God had
-
-done for them.
-
-
-
-**[66:6]** Then Adam and Eve again stood outside the cave, and asked God to show
-
-them some food with which they could nourish their bodies.
-
-
-
-**[66:7]** Then the Word of God came and said to him, "O Adam, go down to the
-
-westward of the cave until you come to a land of dark soil, and there
-
-you shall find food."
-
-
-
-**[66:8]** And Adam obeyed the Word of God, took Eve, and went down to a land of
-
-dark soil, and found there wheat growing in the ear and ripe, and figs
-
-to eat; and Adam rejoiced over it.
-
-
-
-**[66:9]** Then the Word of God came again to Adam, and said to him, "Take some
-
-of this wheat and make yourselves some bread with it, to nourish your
-
-body therewith."  And God gave Adam's heart wisdom, to work out the
-
-corn until it became bread.
-
-
-
-**[66:10]** Adam accomplished all that, until he grew very faint and weary.  He
-
-then returned to the cave; rejoicing at what he had learned of what is
-
-done with wheat, until it is made into bread for one's use. 
-
-
-
-**[67:1]** When Adam and Eve went down to the land of black mud and came near to
-
-the wheat God had showed them and saw that it was ripe and ready for
-
-reaping, they did not have a sickle to reap it with.  So they readied
-
-themselves, and began to pull up the wheat by hand, until it was all
-
-done.
-
-
-
-**[67:2]** Then they heaped it into a pile; and, faint from heat and from
-
-thirst, they went under a shady tree, where the breeze fanned them to
-
-sleep.
-
-
-
-**[67:3]** But Satan saw what Adam and Eve had done.  And he called his hosts,
-
-and said to them, "Since God has shown to Adam and Eve all about this
-
-wheat, wherewith to strengthen their bodies--and, look, they have come
-
-and made a big pile of it, and faint from the toil are now
-
-asleep--come, let us set fire to this heap of corn, and burn it, and
-
-let us take that bottle of water that is by them, and empty it out, so
-
-that they may find nothing to drink, and we kill them with hunger and
-
-thirst.
-
-
-
-**[67:4]** Then, when they wake up from their sleep, and seek to return to the
-
-cave, we will come to them in the way, and will lead them astray; so
-
-that they die of hunger and thirst; when they may, perhaps, deny God,
-
-and He destroy them.  So shall we be rid of them."
-
-
+**[67:4]** Then, when they wake up from their sleep, and seek to return to the cave, we will come to them in the way, and will lead them astray; so that they die of hunger and thirst; when they may, perhaps, deny God, and He destroy them. So shall we be rid of them."
 
 **[67:5]** Then Satan and his hosts set the wheat on fire and burned it up.
 
-
-
-**[67:6]** But from the heat of the flame Adam and Eve awoke from their sleep,
-
-and saw the wheat burning, and the bucket of water by them, poured out.
-
-
+**[67:6]** But from the heat of the flame Adam and Eve awoke from their sleep, and saw the wheat burning, and the bucket of water by them, poured out.
 
 **[67:7]** Then they cried and went back to the cave.
 
+**[67:8]** But as they were going up from below the mountain where they were, Satan and his hosts met them in the form of angels, praising God.
+
+**[67:9]** Then Satan said to Adam, "O Adam, why are you so pained with hunger and thirst? It seems to me that Satan has burnt up the wheat." And Adam said to him, "Yes."
+
+**[67:10]** Again Satan said to Adam, "Come back with us; we are angels of God. God sent us to you, to show you another field of corn, better than that; and beyond it is a fountain of good water, and many trees, where you shall live near it, and work the corn field to better purpose than that which Satan has consumed."
+
+**[67:11]** Adam thought that he was true, and that they were angels who talked with him; and he went back with them.
+
+**[67:12]** Then Satan began to lead astray Adam and Eve eight days, until they both fell down as if dead, from hunger, thirst, and faintness. Then he fled with his hosts, and left them. 
 
 
-**[67:8]** But as they were going up from below the mountain where they were,
+**[68:1]** Then God looked at Adam and Eve, and at what had come over them from Satan, and how he had made them perish.
 
-Satan and his hosts met them in the form of angels, praising God.
+**[68:2]** God, therefore, sent His Word, and raised up Adam and Eve from their state of death.
 
+**[68:3]** Then, Adam, when he was raised, said, "O God, You have burnt and taken from us the corn You have given us, and You have emptied out the bucket of water. And You have sent Your angels, who have caused us to lose our way from the corn field. Will You make us perish? If this be from you, O God, then take away our souls; but punish us not."
 
+**[68:4]** Then God said to Adam, "I did not burn down the wheat, and I did not pour the water out of the bucket, and I did not send My angels to lead you astray.
 
-**[67:9]** Then Satan said to Adam, "O Adam, why are you so pained with hunger
-
-and thirst?  It seems to me that Satan has burnt up the wheat."  And
-
-Adam said to him, "Yes."
-
-
-
-**[67:10]** Again Satan said to Adam, "Come back with us; we are angels of God.
-
-God sent us to you, to show you another field of corn, better than
-
-that; and beyond it is a fountain of good water, and many trees, where
-
-you shall live near it, and work the corn field to better purpose than
-
-that which Satan has consumed."
-
-
-
-**[67:11]** Adam thought that he was true, and that they were angels who talked
-
-with him; and he went back with them.
-
-
-
-**[67:12]** Then Satan began to lead astray Adam and Eve eight days, until they
-
-both fell down as if dead, from hunger, thirst, and faintness.  Then he
-
-fled with his hosts, and left them. 
-
-
-
-**[68:1]** Then God looked at Adam and Eve, and at what had come over them from
-
-Satan, and how he had made them perish.
-
-
-
-**[68:2]** God, therefore, sent His Word, and raised up Adam and Eve from their
-
-state of death.
-
-
-
-**[68:3]** Then, Adam, when he was raised, said, "O God, You have burnt and
-
-taken from us the corn You have given us, and You have emptied out the
-
-bucket of water.  And You have sent Your angels, who have caused us to
-
-lose our way from the corn field.  Will You make us perish?  If this be
-
-from you, O God, then take away our souls; but punish us not."
-
-
-
-**[68:4]** Then God said to Adam, "I did not burn down the wheat, and I did not
-
-pour the water out of the bucket, and I did not send My angels to lead
-
-you astray.
-
-
-
-**[68:5]** But it is Satan, your master who did it; he to whom you have
-
-subjected yourself; my commandment being meanwhile set aside.  He it
-
-is, who burnt down the corn, and poured out the water, and who has led
-
-you astray; and all the promises he has made you were just a trick, a
-
-deception, and a lie.
-
-
+**[68:5]** But it is Satan, your master who did it; he to whom you have subjected yourself; my commandment being meanwhile set aside. He it is, who burnt down the corn, and poured out the water, and who has led you astray; and all the promises he has made you were just a trick, a deception, and a lie.
 
 **[68:6]** But now, O Adam, you shall acknowledge My good deeds done to you."
 
+**[68:7]** And God told His angels to take Adam and Eve, and to bear them up to the field of wheat, which they found as before, with the bucket full of water.
 
+**[68:8]** There they saw a tree, and found on it solid manna; and wondered at God's power. And the angels commanded them to eat of the manna when they were hungry.
 
-**[68:7]** And God told His angels to take Adam and Eve, and to bear them up to
+**[68:9]** And God admonished Satan with a curse, not to come again, and destroy the field of corn.
 
-the field of wheat, which they found as before, with the bucket full of
+**[68:10]** Then Adam and Eve took of the corn, and made of it an offering, and took it and offered it up on the mountain, the place where they had offered up their first offering of blood.
 
-water.
+**[68:11]** And they offered this offering again on the altar they had built at first. And they stood up and prayed, and besought the Lord saying, "Thus, O God, when we were in the garden, our praises went up to you, like this offering; and our innocence went up to you like incense. But now, O God, accept this offering from us, and don't turn us away, deprived of Your mercy."
 
+**[68:12]** Then God said to Adam and Eve, "Since you have made this offering and have offered it to Me, I shall make it My flesh, when I come down on earth to save you; and I shall cause it to be offered continually on an altar, for forgiveness and for mercy, for those who partake of it duly."
 
+**[68:13]** And God sent a bright fire over the offering of Adam and Eve, and filled it with brightness, grace, and light; and the Holy Ghost came down on that offering.
 
-**[68:8]** There they saw a tree, and found on it solid manna; and wondered at
+**[68:14]** Then God commanded an angel to take fire tongs, like a spoon, and with it to take an offering and bring it to Adam and Eve. And the angel did so, as God had commanded him, and offered it to them.
 
-God's power.  And the angels commanded them to eat of the manna when
+**[68:15]** And the souls of Adam and Eve were brightened, and their hearts were filled with joy and gladness and with the praises of God.
 
-they were hungry.
+**[68:16]** And God said to Adam, "This shall be to you a custom, to do so, when affliction and sorrow come over you. But your deliverance and your entrance in to the garden, shall not be until the days are fulfilled as agreed between you and Me; were it not so, I would, of My mercy and pity for you, bring you back to My garden and to My favor for the sake of the offering you have just made to My name."
 
+**[68:17]** Adam rejoiced at these words which he heard from God; and he and Eve worshipped before the altar, to which they bowed, and then went back to the Cave of Treasures.
 
+**[68:18]** And this took place at the end of the twelfth day after the eightieth day, from the time Adam and Eve came out of the garden.
 
-**[68:9]** And God admonished Satan with a curse, not to come again, and destroy
+**[68:19]** And they stood up the whole night praying until morning; and then went out of the cave.
 
-the field of corn.
+**[68:20]** Then Adam said to Eve, with joy of heart, because of the offering they had made to God, and that had been accepted of Him, "Let us do this three times every week, on the fourth day Wednesday, on the preparation day Friday, and on the Sabbath Sunday, all the days of our life."
 
+**[68:21]** And as they agreed to these words between themselves, God was pleased with their thoughts, and with the resolution they had each taken with the other.
 
+**[68:22]** After this, came the Word of God to Adam, and said, "O Adam, you have determined beforehand the days in which sufferings shall come over Me, when I am made flesh; for they are the fourth Wednesday, and the preparation day Friday.
 
-**[68:10]** Then Adam and Eve took of the corn, and made of it an offering, and
-
-took it and offered it up on the mountain, the place where they had
-
-offered up their first offering of blood.
-
-
-
-**[68:11]** And they offered this offering again on the altar they had built at
-
-first.  And they stood up and prayed, and besought the Lord saying,
-
-"Thus, O God, when we were in the garden,  our praises went up to you,
-
-like this offering; and our innocence went up to you like incense.  But
-
-now, O God, accept this offering from us, and don't turn us away,
-
-deprived of Your mercy."
-
-
-
-**[68:12]** Then God said to Adam and Eve, "Since you have made this offering
-
-and have offered it to Me, I shall make it My flesh, when I come down
-
-on earth to save you; and I shall cause it to be offered continually on
-
-an altar, for forgiveness and for mercy, for those who partake of it
-
-duly."
-
-
-
-**[68:13]** And God sent a bright fire over the offering of Adam and Eve, and
-
-filled it with brightness, grace, and light; and the Holy Ghost came
-
-down on that offering.
-
-
-
-**[68:14]** Then God commanded an angel to take fire tongs, like a spoon, and
-
-with it to take an offering and bring it to Adam and Eve.  And the
-
-angel did so, as God had commanded him, and offered it to them.
-
-
-
-**[68:15]** And the souls of Adam and Eve were brightened, and their hearts were
-
-filled with joy and gladness and with the praises of God.
-
-
-
-**[68:16]** And God said to Adam, "This shall be to  you a custom, to do so,
-
-when affliction and sorrow come over you.  But your deliverance and
-
-your entrance in to the garden, shall not be until the days are
-
-fulfilled as agreed between you and Me; were it not so, I would, of My
-
-mercy and pity for you, bring you back to My garden and to My favor for
-
-the sake of the offering you have just made to My name."
-
-
-
-**[68:17]** Adam rejoiced at these words which he heard from God; and he and Eve
-
-worshipped before the altar, to which they bowed, and then went back to
-
-the Cave of Treasures.
-
-
-
-**[68:18]** And this took place at the end of the twelfth day after the
-
-eightieth day, from the time Adam and Eve came out of the garden.
-
-
-
-**[68:19]** And they stood up the whole night praying until morning; and then
-
-went out of the cave.
-
-
-
-**[68:20]** Then Adam said to Eve, with joy of heart, because of the offering
-
-they had made to God, and that had been accepted of Him, "Let us do
-
-this three times every week, on the fourth day Wednesday, on the
-
-preparation day Friday, and on the Sabbath Sunday, all the days of our
-
-life."
-
-
-
-**[68:21]** And as they agreed to these words between themselves, God was
-
-pleased with their thoughts, and with the resolution they had each
-
-taken with the other.
-
-
-
-**[68:22]** After this, came the Word of God to Adam, and said, "O Adam, you
-
-have determined beforehand the days in which sufferings shall come over
-
-Me, when I am made flesh; for they are the fourth Wednesday, and the
-
-preparation day Friday.
-
-
-
-**[68:23]** But as to the first day, I created in it all things, and I raised
-
-the heavens.  And, again, through My rising again on this day, will I
-
-create joy, and raise them on high, who believe in Me; O Adam, offer
-
-this offering, all the days of your life."
-
-
+**[68:23]** But as to the first day, I created in it all things, and I raised the heavens. And, again, through My rising again on this day, will I create joy, and raise them on high, who believe in Me; O Adam, offer this offering, all the days of your life."
 
 **[68:24]** Then God withdrew His Word from Adam.
 
+**[68:25]** But Adam continued to offer this offering thus, every week three times, until the end of seven weeks. And on the first day, which is the fiftieth, Adam made an offering as he was accustomed, and he and Eve took it and came to the altar before God, as He had taught them. 
 
 
-**[68:25]** But Adam continued to offer this offering thus, every week three
+**[69:1]** Then Satan, the hater of all good, envious of Adam and of his offering through which he found favor with God, hastened and took a sharp stone from among the sharp iron stones; appeared in the form of a man, and went and stood by Adam and Eve.
 
-times, until the end of seven weeks.  And on the first day, which is
+**[69:2]** Adam was then offering on the altar, and had begun to pray, with his hands spread before God.
 
-the fiftieth, Adam made an offering as he was accustomed, and he and
+**[69:3]** Then Satan hastened with the sharp iron stone he had with him, and with it pierced Adam on the right side, from which flowed blood and water, then Adam fell on the altar like a corpse. And Satan fled.
 
-Eve took it and came to the altar before God, as He had taught them. 
+**[69:4]** Then Eve came, and took Adam and placed him below the altar. And there she stayed, crying over him; while a stream of blood flowed from Adam's side over his offering.
 
+**[69:5]** But God looked at the death of Adam. He then sent His Word, and raised him up and said to him, "Fulfil your offering, for indeed, Adam, it is worth much, and there is no shortcoming in it."
 
+**[69:6]** God said further to Adam, "Thus will it also happen to Me, on the earth, when I shall be pierced and blood and water shall flow from My side and run over My body, which is the true offering; and which shall be offered on the altar as a perfect offering."
 
-**[69:1]** Then Satan, the hater of all good, envious of Adam and of his
+**[69:7]** Then God commanded Adam to finish his offering, and when he had ended it he worshipped before God, and praised Him for the signs He had showed him.
 
-offering through which he found favor with God, hastened and took a
+**[69:8]** And God healed Adam in one day, which is the end of the seven weeks; and that is the fiftieth day.
 
-sharp stone from among the sharp iron stones; appeared in the form of a
+**[69:9]** Then Adam and Eve returned from the mountain, and went into the Cave of Treasures, as they were used to do. This completed for Adam and Eve, one hundred and forty days since their coming out of the garden.
 
-man, and went and stood by Adam and Eve.
+**[69:10]** Then they both stood up that night and prayed to God. And when it was morning, they went out, and went down westward of the cave, to the place where their corn was, and there rested under the shadow of a tree, as they were accustomed.
 
+**[69:11]** But when there a multitude of beasts came all around them. It was Satan's doing, in his wickedness; in order to wage war against Adam through marriage. 
 
 
-**[69:2]** Adam was then offering on the altar, and had begun to pray, with his
+**[70:1]** After this Satan, the hater of all good, took the form of an angel, and with him two others, so that they looked like the three angels who had brought to Adam gold, incense, and myrrh.
 
-hands spread before God.
+**[70:2]** They passed before Adam and Eve while they were under the tree, and greeted Adam and Eve with fair words that were full of deceit.
 
+**[70:3]** But when Adam and Eve saw their pleasant expression, and heard their sweet speech, Adam rose, welcomed them, and brought them to Eve, and they remained all together; Adam's heart the while, being glad because he thought concerning them, that they were the same angels, who had brought him gold, incense, and myrrh.
 
+**[70:4]** Because, when they came to Adam the first time, there came over him from them, peace and joy, through their bringing him good tokens; so Adam thought that they had come a second time to give him other tokens for him to rejoice therewith. For he did not know it was Satan; therefore he received them with joy and consorted with them.
 
-**[69:3]** Then Satan hastened with the sharp iron stone he had with him, and
+**[70:5]** Then Satan, the tallest of them, said, "Rejoice, O Adam, and be glad. Look, God has sent us to you to tell you something."
 
-with it pierced Adam on the right side, from which flowed blood and
+**[70:6]** And Adam said, "What is it?" Then Satan answered, "It is a simple thing, yet it is the Word of God, will you accept it from us and do it? But if you will not accept it, we will return to God, and tell Him that you would not receive His Word."
 
-water, then Adam fell on the altar like a corpse.  And Satan fled.
-
-
-
-**[69:4]** Then Eve came, and took Adam and placed him below the altar.  And
-
-there she stayed, crying over him; while a stream of blood flowed from
-
-Adam's side over his offering.
-
-
-
-**[69:5]** But God looked at the death of Adam.  He then sent His Word, and
-
-raised him up and said to him, "Fulfil your offering, for indeed, Adam,
-
-it is worth much, and there is no shortcoming in it."
-
-
-
-**[69:6]** God said further to Adam, "Thus will it also happen to Me, on the
-
-earth, when I shall be pierced and blood and water shall flow from My
-
-side and run over My body, which is the true offering; and which shall
-
-be offered on the altar as a perfect offering."
-
-
-
-**[69:7]** Then God commanded Adam to finish his offering, and when he had ended
-
-it he worshipped before God, and praised Him for the signs He had
-
-showed him.
-
-
-
-**[69:8]** And God healed Adam in one day, which is the end of the seven weeks;
-
-and that is the fiftieth day.
-
-
-
-**[69:9]** Then Adam and Eve returned from the mountain, and went into the Cave
-
-of Treasures, as they were used to do.  This completed for Adam and
-
-Eve, one hundred and forty days since their coming out of the garden.
-
-
-
-**[69:10]** Then they both stood up that night and prayed to God.  And when it
-
-was morning, they went out, and went down westward of the cave, to the
-
-place where their corn was, and there rested under the shadow of a
-
-tree, as they were accustomed.
-
-
-
-**[69:11]** But when there a multitude of beasts came all around them.  It was
-
-Satan's doing, in his wickedness; in order to wage war against Adam
-
-through marriage. 
-
-
-
-**[70:1]** After this Satan, the hater of all good, took the form of an angel,
-
-and with him two others, so that they looked like the three angels who
-
-had brought to Adam gold, incense, and myrrh.
-
-
-
-**[70:2]** They passed before Adam and Eve while they were under the tree, and
-
-greeted Adam and Eve with fair words that were full of deceit.
-
-
-
-**[70:3]** But when Adam and Eve saw their pleasant expression, and heard their
-
-sweet speech, Adam rose, welcomed them, and brought them to Eve, and
-
-they remained all together; Adam's heart the while, being glad because
-
-he thought concerning them, that they were the same angels, who had
-
-brought him gold, incense, and myrrh.
-
-
-
-**[70:4]** Because, when they came to Adam the first time, there came over him
-
-from them, peace and joy, through their bringing him good tokens; so
-
-Adam thought that they had come a second time to give him other tokens
-
-for him to rejoice therewith.  For he did not know it was Satan;
-
-therefore he received them with joy and consorted with them.
-
-
-
-**[70:5]** Then Satan, the tallest of them, said, "Rejoice, O Adam, and be glad.
-
-Look, God has sent us to you to tell you something."
-
-
-
-**[70:6]** And Adam said, "What is it?"  Then Satan answered, "It is a simple
-
-thing, yet it is the Word of God, will you accept it from us and do it?
-
-But if you will not accept it, we will return to God, and tell Him that
-
-you would not receive His Word."
-
-
-
-**[70:7]** And Satan said again to Adam, "Don't be afraid and don't tremble;
-
-don't you know us?"
-
-
+**[70:7]** And Satan said again to Adam, "Don't be afraid and don't tremble; don't you know us?"
 
 **[70:8]** But Adam said, "I do not know you."
 
+ **[70:9]** Then Satan said to him, "I am the angel that brought you gold, and took it to the cave; this other angel is the one that brought you incense; and that third angel, is the one who brought you myrrh when you were on top of the mountain, and who carried you to the cave.
 
+**[70:10]** But as to the other angels our fellows, who bare you to the cave, God has not sent them with us this time; for He said to us, 'You will be enough'."
 
-**[70:9]** Then Satan said to him, "I am the angel that brought you gold, and
+**[70:11]** So when Adam heard these words he believed them, and said to these angels, "Speak the Word of God, that I may receive it."
 
-took it to the cave; this other angel is the one that brought you
-
-incense; and that third angel, is the one who brought you myrrh when
-
-you were on top of the mountain, and who carried you to the cave.
-
-
-
-**[70:10]** But as to the other angels our fellows, who bare you to the cave,
-
-God has not sent them with us this time; for He said to us, 'You will
-
-be enough'."
-
-
-
-**[70:11]** So when Adam heard these words he believed them, and said to these
-
-angels, "Speak the Word of God, that I may receive it."
-
-
-
-**[70:12]** And Satan said to him, "Swear, and promise me that you will receive
-
-it."
-
-
+**[70:12]** And Satan said to him, "Swear, and promise me that you will receive it."
 
 **[70:13]** Then Adam said, "I do not know how to swear and promise."
 
+**[70:14]** And Satan said to him, "Hold out your hand, and put it inside my hand."
 
-
-**[70:14]** And Satan said to him, "Hold out your hand, and put it inside my
-
-hand."
-
-
-
-**[70:15]** Then Adam held out his hand, and put it into Satan's hand; when
-
-Satan said to him, "Say, now--So true as God is living, rational, and
-
-speaking, who raised the stars in heaven, and established the dry
-
-ground on the waters, and has created me out of the four elements, and
-
-out of the dust of the earth--I will not break my promise, nor renounce
-
-my word."
-
-
+**[70:15]** Then Adam held out his hand, and put it into Satan's hand; when Satan said to him, "Say, now--So true as God is living, rational, and speaking, who raised the stars in heaven, and established the dry ground on the waters, and has created me out of the four elements, and out of the dust of the earth--I will not break my promise, nor renounce my word."
 
 **[70:16]** And Adam swore thus.
 
-
-
-**[70:17]** Then Satan said to him, "Look, it is now some time since you came
-
-out of the garden, and you know neither wickedness nor evil.  But now
-
-God says to you, to take Eve who came out of your side, and to marry
-
-her so that she will bear you children, to comfort you, and to drive
-
-from you trouble and sorrow; now this thing is not difficult, neither
-
-is there any scandal in it to you. 
+**[70:17]** Then Satan said to him, "Look, it is now some time since you came out of the garden, and you know neither wickedness nor evil. But now God says to you, to take Eve who came out of your side, and to marry her so that she will bear you children, to comfort you, and to drive from you trouble and sorrow; now this thing is not difficult, neither is there any scandal in it to you. 
 
 
 
