@@ -4381,1271 +4381,327 @@ is there any scandal in it to you.
 
 
 
-**[71:1]** But when Adam heard these words from Satan, he sorrowed much, because
+**[71:1]** But when Adam heard these words from Satan, he sorrowed much, because of his oath and of his promise, and said, "Shall I commit adultery with my flesh and my bones, and shall I sin against myself, for God to destroy me, and to blot me out from off the face of the earth?
 
-of his oath and of his promise, and said, "Shall I commit adultery with
+**[71:2]** Since, when at first, I ate of the tree, He drove me out of the garden into this strange land, and deprived me of my bright nature, and brought death over me. If, then, I should do this, He will cut off my life from the earth, and He will cast me into hell, and will plague me there a long time.
 
-my flesh and my bones, and shall I sin against myself, for God to
+**[71:3]** But God never spoke the words that you have said; and you are not God's angels, and you weren't sent from Him. But you are devils that have come to me under the false appearance of angels. Away from me; you cursed of God!"
 
-destroy me, and to blot me out from off the face of the earth?
+**[71:4]** Then those devils fled from before Adam. And he and Eve got up, and returned to the Cave of Treasures, and went into it.
 
+**[71:5]** Then Adam said to Eve, "If you saw what I did, don't tell anyone; for I sinned against God in swearing by His great name, and I have placed my hand another time into that of Satan." Eve, then, held her peace, as Adam told her.
 
+**[71:6]** Then Adam got up, and spread his hands before God, beseeching and entreating Him with tears, to forgive him what he had done. And Adam remained thus standing and praying forty days and forty nights. He neither ate nor drank until he dropped down on the ground from hunger and thirst.
 
-**[71:2]** Since, when at first, I ate of the tree, He drove me out of the
+**[71:7]** Then God sent His Word to Adam, who raised him up from where he lay, and said to him, "O Adam, why have you sworn by My name, and why have you made agreement with Satan another time?"
 
-garden into this strange land, and deprived me of my bright nature, and
-
-brought death over me.  If, then, I should do this, He will cut off my
-
-life from the earth, and He will cast me into hell, and will plague me
-
-there a long time.
-
-
-
-**[71:3]** But God never spoke the words that you have said; and you are not
-
-God's angels, and you weren't sent from Him.  But you are devils that
-
-have come to me under the false appearance of angels.  Away from me;
-
-you cursed of God!"
-
-
-
-**[71:4]** Then those devils fled from before Adam.  And he and Eve got up, and
-
-returned to the Cave of Treasures, and went into it.
-
-
-
-**[71:5]** Then Adam said to Eve, "If you saw what I did, don't tell anyone; for
-
-I sinned against God in swearing by His great name, and I have placed
-
-my hand another time into that of Satan."  Eve, then, held her peace,
-
-as Adam told her.
-
-
-
-**[71:6]** Then Adam got up, and spread his hands before God, beseeching and
-
-entreating Him with tears, to forgive him what he had done.  And Adam
-
-remained thus standing and praying forty days and forty nights.  He
-
-neither ate nor drank until he dropped down on the ground from hunger
-
-and thirst.
-
-
-
-**[71:7]** Then God sent His Word to Adam, who raised him up from where he lay,
-
-and said to him, "O Adam, why have you sworn by My name, and why have
-
-you made agreement with Satan another time?"
-
-
-
-**[71:8]** But Adam cried, and said, "O God, forgive me, for I did this
-
-unwittingly; believing they were God's angels."
-
-
+**[71:8]** But Adam cried, and said, "O God, forgive me, for I did this unwittingly; believing they were God's angels."
 
 **[71:9]** And God forgave Adam, saying to him, "Beware of Satan."
 
-
-
 **[71:10]** And He withdrew His Word from Adam.
 
+**[71:11]** Then Adam's heart was comforted; and he took Eve, and they went out of the cave, to prepare some food for their bodies.
 
+**[71:12]** But from that day Adam struggled in his mind about his marrying Eve; afraid that if he was to do it, God would be angry with him.
 
-**[71:11]** Then Adam's heart was comforted; and he took Eve, and they went out
-
-of the cave, to prepare some food for their bodies.
-
-
-
-**[71:12]** But from that day Adam struggled in his mind about his marrying Eve;
-
-afraid that if he was to do it, God would be angry with him.
-
-
-
-**[71:13]** Then Adam and Eve went to the river of water, and sat on the bank,
-
-as people do when they enjoy themselves.
-
-
+ **[71:13]** Then Adam and Eve went to the river of water, and sat on the bank, as people do when they enjoy themselves.
 
 **[71:14]** But Satan was jealous of them; and planned to destroy them. 
 
 
+**[72:1]** Then Satan, and ten from his hosts, transformed themselves into maidens, unlike any others in the whole world for grace.
 
-**[72:1]** Then Satan, and ten from his hosts, transformed themselves into
+**[72:2]** They came up out of the river in presence of Adam and Eve, and they said among themselves, "Come, we will look at the faces of Adam and Eve, who are of the men on earth. How beautiful they are, and how different is their look from our own faces."  Then they came to Adam and Eve, and greeted them; and stood wondering at them.
 
-maidens, unlike any others in the whole world for grace.
+**[72:3]** Adam and Eve looked at them also, and wondered at their beauty, and said, "Is there, then, under us, another world, with such beautiful creatures as these in it?"
 
-
-
-**[72:2]** They came up out of the river in presence of Adam and Eve, and they
-
-said among themselves, "Come, we will look at the faces of Adam and
-
-Eve, who are of the men on earth.  How beautiful they are, and how
-
-different is their look from our own faces."  Then they came to Adam
-
-and Eve, and greeted them; and stood wondering at them.
-
-
-
-**[72:3]** Adam and Eve looked at them also, and wondered at their beauty, and
-
-said, "Is there, then, under us, another world, with such beautiful
-
-creatures as these in it?"
-
-
-
-**[72:4]** And those maidens said to Adam and Eve, "Yes, indeed, we are an
-
-abundant creation."
-
-
+**[72:4]** And those maidens said to Adam and Eve, "Yes, indeed, we are an abundant creation."
 
 **[72:5]** Then Adam said to them, "But how do you multiply?"
 
+**[72:6]** And they answered him, "We have husbands who have married us, and we bear them children, who grow up, and who in their turn marry and are married, and also bear children; and thus we increase. And if so be, O Adam, you will not believe us, we will show you our husbands and our children."
 
-
-**[72:6]** And they answered him, "We have husbands who have married us, and we
-
-bear them children, who grow up, and who in their turn marry and are
-
-married, and also bear children; and thus we increase.  And if so be, O
-
-Adam, you will not believe us, we will show you our husbands and our
-
-children."
-
-
-
-**[72:7]** Then they shouted over the river as if to call their husbands and
-
-their children, who came up from the river, men and children; and every
-
-man came to his wife, his children being with him.
-
-
+**[72:7]** Then they shouted over the river as if to call their husbands and their children, who came up from the river, men and children; and every man came to his wife, his children being with him.
 
 **[72:8]** But when Adam and Eve saw them, they stood dumb, and wondered at them.
 
+**[72:9]** Then they said to Adam and Eve, "See all our husbands and our children? You should marry Eve, as we have married our husbands, so that you will have children as we have." This was a device of Satan to deceive Adam.
 
+**[72:10]** Satan also thought within himself, "God at first commanded Adam concerning the fruit of the tree, saying to him, 'Eat not of it; else of death you shall die.' But Adam ate of it, and yet God did not kill him; He only decreed on him death, and plagues and trials, until the day he shall come out of his body.
 
-**[72:9]** Then they said to Adam and Eve, "See all our husbands and our
+**[72:11]** Now, then, if I deceive him to do this thing, and to marry Eve without God's permission, God will kill him then."
 
-children?  You should marry Eve, as we have married our husbands, so
+**[72:12]** Therefore Satan worked this apparition before Adam and Eve; because he sought to kill him, and to make him disappear from off the face of the earth.
 
-that you will have children as we have." This was a device of Satan to
+**[72:13]** Meanwhile the fire of sin came over Adam, and he thought of committing sin. But he restrained himself, fearing that if he followed this advice of Satan, God would put him to death.
 
-deceive Adam.
+**[72:14]** Then Adam and Eve got up, and prayed to God, while Satan and his hosts went down into the river, in presence of Adam and Eve; to let them see that they were going back to their own world.
 
+**[72:15]** Then Adam and Eve went back to the Cave of Treasures, as they usually did; about evening time.
 
+**[72:16]** And they both got up and prayed to God that night. Adam remained standing in prayer, yet not knowing how to pray, by reason of the thoughts in his heart regarding his marrying Eve; and he continued so until morning.
 
-**[72:10]** Satan also thought within himself, "God at first commanded Adam
-
-concerning the fruit of the tree, saying to him, 'Eat not of it; else
-
-of death you shall die.'  But Adam ate of it, and yet God did not kill
-
-him; He only decreed on him death, and plagues and trials, until the
-
-day he shall come out of his body.
-
-
-
-**[72:11]** Now, then, if I deceive him to do this thing, and to marry Eve
-
-without God's permission, God will kill him then."
-
-
-
-**[72:12]** Therefore Satan worked this apparition before Adam and Eve; because
-
-he sought to kill him, and to make him disappear from off the face of
-
-the earth.
-
-
-
-**[72:13]** Meanwhile the fire of sin came over Adam, and he thought of
-
-committing sin.  But he restrained himself, fearing that if he followed
-
-this advice of Satan, God would put him to death.
-
-
-
-**[72:14]** Then Adam and Eve got up, and prayed to God, while Satan and his
-
-hosts went down into the river, in presence of Adam and Eve; to let
-
-them see that they were going back to their own world.
-
-
-
-**[72:15]** Then Adam and Eve went back to the Cave of Treasures, as they
-
-usually did; about evening time.
-
-
-
-**[72:16]** And they both got up and prayed to God that night.  Adam remained
-
-standing in prayer, yet not knowing how to pray, by reason of the
-
-thoughts in his heart regarding his marrying Eve; and he continued so
-
-until morning.
-
-
-
-**[72:17]** And when light came up, Adam said to Eve, "Get up, let us go below
-
-the mountain, where they brought us gold, and let us ask the Lord
-
-concerning this matter."
-
-
+**[72:17]** And when light came up, Adam said to Eve, "Get up, let us go below the mountain, where they brought us gold, and let us ask the Lord concerning this matter."
 
 **[72:18]** Then Eve said, "What is that matter, O Adam?"
 
+**[72:19]** And he answered her, "That I may request the Lord to inform me about marrying you; for I will not do it without His permission or else He will make us perish, you and me. For those devils have set my heart on fire, with thoughts of what they showed us, in their sinful apparitions.
 
+**[72:20]** Then Eve said to Adam, "Why need we go below the mountain? Let us rather stand up and pray in our cave to God, to let us know whether this counsel is good or not."
 
-**[72:19]** And he answered her, "That I may request the Lord to inform me about
+**[72:21]** Then Adam rose up in prayer and said, "O God, you know that we transgressed against you, and from the moment we transgressed, we were stripped of our bright nature; and our body became brutish, requiring food and drink; and with animal desires.
 
-marrying you; for I will not do it without His permission or else He
+**[72:22]** Command us, O God, not to give way to them without Your permission, for fear that You will turn us into nothing.  Because if you do not give us permission, we shall be overpowered, and follow that advice of Satan; and You will again make us perish.
 
-will make us perish, you and me.  For those devils have set my heart on
+**[72:23]** If not, then take our souls from us; let us be rid of this animal lust. And if You give us no order respecting this thing, then sever Eve from me, and me from her; and place us each far away from the other.
 
-fire, with thoughts of what they showed us, in their sinful apparitions.
+**[72:24]** Then again, O God, if You separate us from each other, the devils will deceive us with their apparitions that resemble us, and destroy our hearts, and defile our thoughts towards each other. Yet if it is not each of us towards the other, it will, at all events, be through their appearance when the devils come to us in our likeness." Here Adam ended his prayer. 
 
 
+**[73:1]** Then God considered the words of Adam that they were true, and that he could long await His order, respecting the counsel of Satan.
 
-**[72:20]** Then Eve said to Adam, "Why need we go below the mountain?  Let us
+**[73:2]** And God approved Adam in what he had thought concerning this, and in the prayer he had offered in His presence; and the Word of God came to Adam and said to him, "O Adam, if only you had had this caution at first, before you came out of the garden into this land!"
 
-rather stand up and pray in our cave to God, to let us know whether
+**[73:3]** After that, God sent His angel who had brought gold, and the angel who had brought incense, and the angel who had brought myrrh to Adam, that they should inform him respecting his marriage to Eve.
 
-this counsel is good or not."
+**[73:4]** Then those angels said to Adam, "Take the gold and give it to Eve as a wedding gift, and promise to marry her; then give her some incense and myrrh as a present; and be you, you and she, one flesh."
 
+**[73:5]** Adam obeyed the angels, and took the gold and put it into Eve's bosom in her garment; and promised to marry her with his hand.
 
+**[73:6]** Then the angels commanded Adam and Eve to get up and pray forty days and forty nights; when that was done, then Adam was to have sexual intercourse with his wife; for then this would be an act pure and undefiled; so that he would have children who would multiply, and replenish the face of the earth.
 
-**[72:21]** Then Adam rose up in prayer and said, "O God, you know that we
+**[73:7]** Then both Adam and Eve received the words of the angels; and the angels departed from them.
 
-transgressed against you, and from the moment we transgressed, we were
-
-stripped of our bright nature; and our body became brutish, requiring
-
-food and drink; and with animal desires.
-
-
-
-**[72:22]** Command us, O God, not to give way to them without Your permission,
-
-for fear that You will turn us into nothing.  Because if you do not
-
-give us permission, we shall be overpowered, and follow that advice of
-
-Satan; and You will again make us perish.
-
-
-
-**[72:23]** If not, then take our souls from us; let us be rid of this animal
-
-lust.  And if You give us no order respecting this thing, then sever
-
-Eve from me, and me from her; and place us each far away from the other.
-
-
-
-**[72:24]** Then again, O God, if You separate us from each other, the devils
-
-will deceive us with their apparitions that resemble us, and destroy
-
-our hearts, and defile our thoughts towards each other.  Yet if it is
-
-not each of us towards the other, it will, at all events, be through
-
-their appearance when the devils come to us in our likeness." Here Adam
-
-ended his prayer. 
-
-
-
-**[73:1]** Then God considered the words of Adam that they were true, and that
-
-he could long await His order, respecting the counsel of Satan.
-
-
-
-**[73:2]** And God approved Adam in what he had thought concerning this, and in
-
-the prayer he had offered in His presence; and the Word of God came to
-
-Adam and said to him, "O Adam, if only you had had this caution at
-
-first, before you came out of the garden into this land!"
-
-
-
-**[73:3]** After that, God sent His angel who had brought gold, and the angel
-
-who had brought incense, and the angel who had brought myrrh to Adam,
-
-that they should inform him respecting his marriage to Eve.
-
-
-
-**[73:4]** Then those angels said to Adam, "Take the gold and give it to Eve as
-
-a wedding gift, and promise to marry her; then give her some incense
-
-and myrrh as a present; and be you, you and she, one flesh."
-
-
-
-**[73:5]** Adam obeyed the angels, and took the gold and put it into Eve's bosom
-
-in her garment; and promised to marry her with his hand.
-
-
-
-**[73:6]** Then the angels commanded Adam and Eve to get up and pray forty days
-
-and forty nights; when that was done, then Adam was to have sexual
-
-intercourse with his wife; for then this would be an act pure and
-
-undefiled; so that he would have children who would multiply, and
-
-replenish the face of the earth.
-
-
-
-**[73:7]** Then both Adam and Eve received the words of the angels; and the
-
-angels departed from them.
-
-
-
-**[73:8]** Then Adam and Eve began to fast and pray, until the end of the forty
-
-days; and then they had sexual intercourse, as the angels had told
-
-them.  And from the time Adam left the garden until he wedded Eve, were
-
-two hundred and twenty-three days, that is seven months and thirteen
-
-days.
-
-
+**[73:8]** Then Adam and Eve began to fast and pray, until the end of the forty days; and then they had sexual intercourse, as the angels had told them. And from the time Adam left the garden until he wedded Eve, were two hundred and twenty-three days, that is seven months and thirteen days.
 
 **[73:9]** Thus was Satan's war with Adam defeated. 
 
 
+**[74:1]** And they lived on the earth working in order to keep their bodies in good health; and they continued so until the nine months of Eve's pregnancy were over, and the time drew near when she must give birth.
 
-**[74:1]** And they lived on the earth working in order to keep their bodies in
+**[74:2]** Then she said to Adam, "The signs placed in this cave since we left the garden indicate that this is a pure place and we will be praying in it again some time. It is not appropriate then, that I should give birth in it. Let us instead go to the sheltering rock cave that was formed by the command of God when Satan threw a big rock down on us in an attempt to kill us with it.
 
-good health; and they continued so until the nine months of Eve's
+**[74:3]** Adam then took Eve to that cave. When the time came for her to give birth, she strained a lot. Adam felt sorry, and he was very worried about her because she was close to death and the words of God to her were being fulfilled: "In suffering shall you bear a child, and in sorrow shall you bring forth a child."
 
-pregnancy were over, and the time drew near when she must give birth.
+**[74:4]** But when Adam saw the distress in which Eve was, he got up and prayed to God, and said, "O Lord, look at me with the eye of Your mercy, and bring her out of her distress."
 
+**[74:5]** And God looked at His maid-servant Eve, and delivered her, and she gave birth to her first-born son, and with him a daughter.
 
+**[74:6]** The Adam rejoiced at Eve's deliverance, and also over the children she had borne him. And Adam ministered to Eve in the cave, until the end of eight days; when they named the son Cain, and the daughter Luluwa.
 
-**[74:2]** Then she said to Adam, "The signs placed in this cave since we left
+**[74:7]** The meaning of Cain is "hater," because he hated his sister in their mother's womb; before they came out of it.  Therefore Adam named him Cain.
 
-the garden indicate that this is a pure place and we will be praying in
+**[74:8]** But Luluwa means "beautiful," because she was more beautiful than her mother.
 
-it again some time.  It is not appropriate then, that I should give
+**[74:9]** Then Adam and Eve waited until Cain and his sister were forty days old, when Adam said to Eve, "We will make an offering and offer it up in behalf of the children."
 
-birth in it.  Let us instead go to the sheltering rock cave that was
+**[74:10]** And Eve said, "We will make one offering for the first-born son and then later we shall make one for the daughter." 
 
-formed by the command of God when Satan threw a big rock down on us in
 
-an attempt to kill us with it.
+**[75:1]** Then Adam prepared an offering, and he and Eve offered it up for their children, and brought it to the altar they had built at first.
 
+**[75:2]** And Adam offered up the offering, and asked God to accept his offering.
 
+**[75:3]** Then God accepted Adam's offering, and sent a light from heaven that shown on the offering. Adam and his son drew near to the offering, but Eve and the daughter did not approach it.
 
-**[74:3]** Adam then took Eve to that cave.  When the time came for her to give
+**[75:4]** Adam and his son were joyful as they came down from on the altar. Adam and Eve waited until the daughter was eighty days old, then Adam prepared an offering and took it to Eve and to the children. They went to the altar, where Adam offered it up, as he was accustomed, asking the Lord to accept his offering.
 
-birth, she strained a lot.  Adam felt sorry, and he was very worried
+**[75:5]** And the Lord accepted the offering of Adam and Eve. Then Adam, Eve, and the children, drew near together, and came down from the mountain, rejoicing.
 
-about her because she was close to death and the words of God to her
+**[75:6]** But they returned not to the cave in which they were born; but came to the Cave of Treasures, in order that the children should go around in it, and be blessed with the tokens brought from the garden.
 
-were being fulfilled: "In suffering shall you bear a child, and in
+**[75:7]** But after they had been blessed with these tokens, they went back to the cave in which they were born.
 
-sorrow shall you bring forth a child."
+**[75:8]** However, before Eve had offered up the offering, Adam had taken her, and had gone with her to the river of water, in which they threw themselves at first; and there they washed themselves. Adam washed his body and Eve hers also clean, after the suffering and distress that had come over them.
 
+**[75:9]** But Adam and Eve, after washing themselves in the river of water, returned every night to the Cave of Treasures, where they prayed and were blessed; and then went back to their cave, where their children were born.
 
+**[75:10]** Adam and Eve did this until the children had been weaned. After they were weaned, Adam made an offering for the souls of his children in addition to the three times every week he made an offering for them.
 
-**[74:4]** But when Adam saw the distress in which Eve was, he got up and prayed
+**[75:11]** When the children were weaned, Eve again conceived, and when her pregnancy came to term, she gave birth to another son and daughter. They named the son Abel and the daughter Aklia.
 
-to God, and said, "O Lord, look at me with the eye of Your mercy, and
+**[75:12]** Then at the end of forty days, Adam made an offering for the son, and at the end of eighty days he made another offering for the daughter, and treated them, as he had previously treated Cain and his sister Luluwa.
 
-bring her out of her distress."
+**[75:13]** He brought them to the Cave of Treasures, where they received a blessing, and then returned to the cave where they were born. After these children were born, Eve stopped having children. 
 
 
+**[76:1]** And the children began to grow stronger and taller; but Cain was hard-hearted, and ruled over his younger brother.
 
-**[74:5]** And God looked at His maid-servant Eve, and delivered her, and she
+**[76:2]** Often when his father made an offering, Cain would remain behind and not go with them, to offer up.
 
-gave birth to her first-born son, and with him a daughter.
+**[76:3]** But, as to Abel, he had a meek heart, and was obedient to his father and mother. He frequently moved them to make an offering, because he loved it. He prayed and fasted a lot.
 
+**[76:4]** Then came this sign to Abel. As he was coming into the Cave of Treasures, and saw the golden rods, the incense and the myrrh, he asked his parents, Adam and Eve, to tell him about them and asked, "Where did you get these from?"
 
+**[76:5]** Then Adam told him all that had befallen them. And Abel felt deeply about what his father told him.
 
-**[74:6]** The Adam rejoiced at Eve's deliverance, and also over the children
+**[76:6]** Furthermore his father, Adam, told him of the works of God, and of the garden.  After hearing that, Abel remained behind after his father left and stayed the whole of that night in the Cave of Treasures.
 
-she had borne him.  And Adam ministered to Eve in the cave, until the
+**[76:7]** And that night, while he was praying, Satan appeared to him under the figure of a man, who said to him, "You have frequently moved your father into making offerings, fasting and praying, therefore I will kill you, and make you perish from this world."
 
-end of eight days; when they named the son Cain, and the daughter
+**[76:8]** But as for Abel, he prayed to God, and drove away Satan from him; and did not believe the words of the devil. Then when it was day, an angel of God appeared to him, who said to him, "Do not cut short either fasting, prayer, or offering up an offering to your God. For, look, the Lord had accepted your prayer. Be not afraid of the figure which appeared to you in the night, and who cursed you to death." And the angel departed from him.
 
-Luluwa.
+**[76:9]** Then when it was day, Abel came to Adam and Eve, and told them of the vision he had seen. When they heard it, they grieved much over it, but said nothing to him about it; they only comforted him.
 
+**[76:10]** But as to the hard-hearted Cain, Satan came to him by night, showed himself and said to him, "Since Adam and Eve love your brother Abel so much more than they love you, they wish to join him in marriage to your beautiful sister because they love him. However, they wish to join you in marriage to his ugly sister, because they hate you.
 
+**[76:11]** Now before they do that, I am telling you that you should kill your brother. That way your sister will be left for you, and his sister will be cast away."
 
-**[74:7]** The meaning of Cain is "hater," because he hated his sister in their
+**[76:12]** And Satan departed from him. But the devil remained behind in Cain's heart, and frequently aspired to kill his brother. 
 
-mother's womb; before they came out of it.  Therefore Adam named him
 
-Cain.
+**[77:1]** But when Adam saw that the older brother hated the younger, he endeavored to soften their hearts, and said to Cain, "O my son, take of the fruits of your sowing and make an offering to God, so that He might forgive you for your wickedness and sin."
 
+**[77:2]** He said also to Abel, "Take some of your sowing and make an offering and bring it to God, so that He might forgive you for your wickedness and sin."
 
+**[77:3]** Then Abel obeyed his father's voice, took some of his sowing, and made a good offering, and said to his father, Adam, "Come with me and show me how to offer it up."
 
-**[74:8]** But Luluwa means "beautiful," because she was more beautiful than her
+**[77:4]** And they went, Adam and Eve with him, and they showed him how to offer up his gift on the altar. Then after that, they stood up and prayed that God would accept Abel's offering.
 
-mother.
+**[77:5]** Then God looked at Abel and accepted his offering. And God was more pleased with Abel than with his offering, because of his good heart and pure body. There was no trace of guile in him.
 
+**[77:6]** Then they came down from the altar, and went to the cave in which they lived. But Abel, by reason of his joy at having made his offering, repeated it three times a week, after the example of his father Adam.
 
+**[77:7]** But as to Cain, he did not want to make an offering, but after his father became very angry, he offered up a gift once.  He took the smallest of his sheep for an offering and when he offered it up, his eyes were on the lamb.
 
-**[74:9]** Then Adam and Eve waited until Cain and his sister were forty days
+**[77:8]** Therefore God did not accept his offering, because his heart was full of murderous thoughts.
 
-old, when Adam said to Eve, "We will make an offering and offer it up
+**[77:9]** And they all thus lived together in the cave in which Eve had brought forth, until Cain was fifteen years old, and Abel twelve years old. 
 
-in behalf of the children."
 
-
-
-**[74:10]** And Eve said, "We will make one offering for the first-born son and
-
-then later we shall make one for the daughter." 
-
-
-
-**[75:1]** Then Adam prepared an offering, and he and Eve offered it up for
-
-their children, and brought it to the altar they had built at first.
-
-
-
-**[75:2]** And Adam offered up the offering, and asked God to accept his
-
-offering.
-
-
-
-**[75:3]** Then God accepted Adam's offering, and sent a light from heaven that
-
-shown on the offering.  Adam and his son drew near to the offering, but
-
-Eve and the daughter did not approach it.
-
-
-
-**[75:4]** Adam and his son were joyful as they came down from on the altar.
-
-Adam and Eve waited until the daughter was eighty days old, then Adam
-
-prepared an offering and took it to Eve and to the children. They went
-
-to the altar, where Adam offered it up, as he was accustomed, asking
-
-the Lord to accept his offering.
-
-
-
-**[75:5]** And the Lord accepted the offering of Adam and Eve.  Then Adam, Eve,
-
-and the children, drew near together, and came down from the mountain,
-
-rejoicing.
-
-
-
-**[75:6]** But they returned not to the cave in which they were born; but came
-
-to the Cave of Treasures, in order that the children should go around
-
-in it, and be blessed with the tokens brought from the garden.
-
-
-
-**[75:7]** But after they had been blessed with these tokens, they went back to
-
-the cave in which they were born.
-
-
-
-**[75:8]** However, before Eve had offered up the offering, Adam had taken her,
-
-and had gone with her to the river of water, in which they threw
-
-themselves at first; and there they washed themselves.  Adam washed his
-
-body and Eve hers also clean, after the suffering and distress that had
-
-come over them.
-
-
-
-**[75:9]** But Adam and Eve, after washing themselves in the river of water,
-
-returned every night to the Cave of Treasures, where they prayed and
-
-were blessed; and then went back to their cave, where their children
-
-were born.
-
-
-
-**[75:10]** Adam and Eve did this until the children had been weaned.  After
-
-they were weaned, Adam made an offering for the souls of his children
-
-in addition to the three times every week he made an offering for them.
-
-
-
-**[75:11]** When the children were weaned, Eve again conceived, and when her
-
-pregnancy came to term, she gave birth to another son and daughter.
-
-They named the son Abel and the daughter Aklia.
-
-
-
-**[75:12]** Then at the end of forty days, Adam made an offering for the son,
-
-and at the end of eighty days he made another offering for the
-
-daughter, and treated them, as he had previously treated Cain and his
-
-sister Luluwa.
-
-
-
-**[75:13]** He brought them to the Cave of Treasures, where they received a
-
-blessing, and then returned to the cave where they were born.  After
-
-these children were born, Eve stopped having children. 
-
-
-
-**[76:1]** And the children began to grow stronger and taller; but Cain was
-
-hard-hearted, and ruled over his younger brother.
-
-
-
-**[76:2]** Often when his father made an offering, Cain would remain behind and
-
-not go with them, to offer up.
-
-
-
-**[76:3]** But, as to Abel, he had a meek heart, and was obedient to his father
-
-and mother.  He frequently moved them to make an offering, because he
-
-loved it.  He prayed and fasted a lot.
-
-
-
-**[76:4]** Then came this sign to Abel.  As he was coming into the Cave of
-
-Treasures, and saw the golden rods, the incense and the myrrh, he asked
-
-his parents, Adam and Eve, to tell him about them and asked, "Where did
-
-you get these from?"
-
-
-
-**[76:5]** Then Adam told him all that had befallen them.  And Abel felt deeply
-
-about what his father told him.
-
-
-
-**[76:6]** Furthermore his father, Adam, told him of the works of God, and of
-
-the garden.  After hearing that, Abel remained behind after his father
-
-left and stayed the whole of that night in the Cave of Treasures.
-
-
-
-**[76:7]** And that night, while he was praying, Satan appeared to him under the
-
-figure of a man, who said to him, "You have frequently moved your
-
-father into making offerings, fasting and praying, therefore I will
-
-kill you, and make you perish from this world."
-
-
-
-**[76:8]** But as for Abel, he prayed to God, and drove away Satan from him; and
-
-did not believe the words of the devil.  Then when it was day, an angel
-
-of God appeared to him, who said to him, "Do not cut short either
-
-fasting, prayer, or offering up an offering to your God.  For, look,
-
-the Lord had accepted your prayer.  Be not afraid of the figure which
-
-appeared to you in the night, and who cursed you to death."  And the
-
-angel departed from him.
-
-
-
-**[76:9]** Then when it was day, Abel came to Adam and Eve, and told them of the
-
-vision he had seen.  When they heard it, they grieved much over it, but
-
-said nothing to him about it; they only comforted him.
-
-
-
-**[76:10]** But as to the hard-hearted Cain, Satan came to him by night, showed
-
-himself and said to him, "Since Adam and Eve love your brother Abel so
-
-much more than they love you, they wish to join him in marriage to your
-
-beautiful sister because they love him.  However, they wish to join you
-
-in marriage to his ugly sister, because they hate you.
-
-
-
-**[76:11]** Now before they do that, I am telling you that you should kill your
-
-brother. That way your sister will be left for you, and his sister will
-
-be cast away."
-
-
-
-**[76:12]** And Satan departed from him.  But the devil remained behind in
-
-Cain's heart, and frequently aspired to kill his brother. 
-
-
-
-**[77:1]** But when Adam saw that the older brother hated the younger, he
-
-endeavored to soften their hearts, and said to Cain, "O my son, take of
-
-the fruits of your sowing and make an offering to God, so that He might
-
-forgive you for your wickedness and sin."
-
-
-
-**[77:2]** He said also to Abel, "Take some of your sowing and make an offering
-
-and bring it to God, so that He might forgive you for your wickedness
-
-and sin."
-
-
-
-**[77:3]** Then Abel obeyed his father's voice, took some of his sowing, and
-
-made a good offering, and said to his father, Adam, "Come with me and
-
-show me how to offer it up."
-
-
-
-**[77:4]** And they went, Adam and Eve with him, and they showed him how to
-
-offer up his gift on the altar.  Then after that, they stood up and
-
-prayed that God would accept Abel's offering.
-
-
-
-**[77:5]** Then God looked at Abel and accepted his offering.  And God was more
-
-pleased with Abel than with his offering, because of his good heart and
-
-pure body.  There was no trace of guile in him.
-
-
-
-**[77:6]** Then they came down from the altar, and went to the cave in which
-
-they lived.  But Abel, by reason of his joy at having made his
-
-offering, repeated it three times a week, after the example of his
-
-father Adam.
-
-
-
-**[77:7]** But as to Cain, he did not want to make an offering, but after his
-
-father became very angry, he offered up a gift once.  He took the
-
-smallest of his sheep for an offering and when he offered it up, his
-
-eyes were on the lamb.
-
-
-
-**[77:8]** Therefore God did not accept his offering, because his heart was full
-
-of murderous thoughts.
-
-
-
-**[77:9]** And they all thus lived together in the cave in which Eve had brought
-
-forth, until Cain was fifteen years old, and Abel twelve years old. 
-
-
-
-**[78:1]** Then Adam said to Eve, "Behold the children are grown up; we must
-
-think of finding wives for them."
-
-
+**[78:1]** Then Adam said to Eve, "Behold the children are grown up; we must think of finding wives for them."
 
 **[78:2]** Then Eve answered, "How can we do it?"
 
+**[78:3]** Then Adam said to her, "We will join Abel's sister in marriage to Cain, and Cain's sister to Abel.
 
-
-**[78:3]** Then Adam said to her, "We will join Abel's sister in marriage to
-
-Cain, and Cain's sister to Abel.
-
-
-
-**[78:4]** The said Eve to Adam, "I do not like Cain because he is hard-hearted;
-
-but let them stay with us until we offer up to the Lord in their
-
-behalf."
-
-
+**[78:4]** The said Eve to Adam, "I do not like Cain because he is hard-hearted; but let them stay with us until we offer up to the Lord in their behalf."
 
 **[78:5]** And Adam said no more.
 
+**[78:6]** Meanwhile Satan came to Cain in the figure of a man of the field, and said to him, "Behold Adam and Eve have taken counsel together about the marriage of you two; and they have agreed to marry Abel's sister to you, and your sister to him.
 
-
-**[78:6]** Meanwhile Satan came to Cain in the figure of a man of the field, and
-
-said to him, "Behold Adam and Eve have taken counsel together about the
-
-marriage of you two; and they have agreed to marry Abel's sister to
-
-you, and your sister to him.
-
-
-
-**[78:7]** But if it was not that I love you, I would not have told you this
-
-thing.  Yet if you will take my advice, and obey me, I will bring to
-
-you on your wedding day beautiful robes, gold and silver in plenty, and
-
-my relations will attend you."
-
-
+**[78:7]** But if it was not that I love you, I would not have told you this thing. Yet if you will take my advice, and obey me, I will bring to you on your wedding day beautiful robes, gold and silver in plenty, and my relations will attend you."
 
 **[78:8]** Then Cain said with joy, "Where are your relations?"
 
+**[78:9]** And Satan answered, "My relations are in a garden in the north, where I once meant to bring your father Adam; but he would not accept my offer.
 
+**[78:10]** But you, if you will receive my words and if you will come to me after your wedding, you shall rest from the misery in which you are; and you shall rest and be better off than your father Adam."
 
-**[78:9]** And Satan answered, "My relations are in a garden in the north, where
+**[78:11]** At these words of Satan Cain opened his ears, and leaned towards his speech.
 
-I once meant to bring your father Adam; but he would not accept my
+**[78:12]** And he did not remain in the field, but he went to Eve, his mother, and beat her, and cursed her, and said to her, "Why are you planning to take my sister to wed her to my brother? Am I dead?"
 
-offer.
-
-
-
-**[78:10]** But you, if you will receive my words and if you will come to me
-
-after your wedding, you shall rest from the misery in which you are;
-
-and you shall rest and be better off than your father Adam."
-
-
-
-**[78:11]** At these words of Satan Cain opened his ears, and leaned towards his
-
-speech.
-
-
-
-**[78:12]** And he did not remain in the field, but he went to Eve, his mother,
-
-and beat her, and cursed her, and said to her, "Why are you planning to
-
-take my sister to wed her to my brother?   Am I dead?"
-
-
-
-**[78:13]** His mother, however, quieted him, and sent him to the field where he
-
-had been.
-
-
+**[78:13]** His mother, however, quieted him, and sent him to the field where he had been.
 
 **[78:14]** Then when Adam came, she told him of what Cain had done.
 
-
-
 **[78:15]** But Adam grieved and held his peace, and said not a word.
 
+**[78:16]** Then on the next morning Adam said to Cain his son, "Take of your sheep, young and good, and offer them up to your God; and I will speak to your brother, to make to his God an offering of corn."
 
+**[78:17]** They both obeyed their father Adam, and they took their offerings, and offered them up on the mountain by the altar.
 
-**[78:16]** Then on the next morning Adam said to Cain his son, "Take of your
+**[78:18]** But Cain behaved haughtily towards his brother, and shoved him from the altar, and would not let him offer up his gift on the altar; but he offered his own on it, with a proud heart, full of guile, and fraud.
 
-sheep, young and good, and offer them up to your God; and I will speak
+**[78:19]** But as for Abel, he set up stones that were near at hand, and on that, he offered up his gift with a heart humble and free from guile.
 
-to your brother, to make to his God an offering of corn."
+**[78:20]** Cain was then standing by the altar on which he had offered up his gift; and he cried to God to accept his offering; but God did not accept it from him; neither did a divine fire come down to consume his offering.
 
+**[78:21]** But he remained standing over against the altar, out of humor and meanness, looking towards his brother Abel, to see if God would accept his offering or not.
 
+**[78:22]** And Abel prayed to God to accept his offering. Then a divine fire came down and consumed his offering. And God smelled the sweet savor of his offering; because Abel loved Him and rejoice in Him.
 
-**[78:17]** They both obeyed their father Adam, and they took their offerings,
+**[78:23]** And because God was well pleased with him, He sent him an angel of light in the figure of a man who had partaken of his offering, because He had smelled the sweet savor of his offering, and they comforted Abel and strengthened his heart.
 
-and offered them up on the mountain by the altar.
+**[78:24]** But Cain was looking on all that took place at his brother's offering, and was angry because of it.
 
+**[78:25]** Then he opened his mouth and blasphemed God, because He had not accepted his offering.
 
+**[78:26]** But God said to cain, "Why do you look sad? Be righteous, that I may accept your offering. Not against Me have you murmured, but against yourself.
 
-**[78:18]** But Cain behaved haughtily towards his brother, and shoved him from
+**[78:27]** And God said this to Cain in rebuke, and because He abhorred him and his offering.
 
-the altar, and would not let him offer up his gift on the altar; but he
+**[78:28]** And Cain came down from the altar, his color changed and with a sad face, and came to his father and mother and told them all that had befallen him. And Adam grieved much because God had not accepted Cain's offering.
 
-offered his own on it, with a proud heart, full of guile, and fraud.
+**[78:29]** But Abel came down rejoicing, and with a gladsome heart, and told his father and mother how God had accepted his offering. And they rejoiced at it and kissed his face.
 
+**[78:30]** And Abel said to his father, "Because Cain shoved me from the altar, and would not allow me to offer my gift on it, I made an altar for myself and offered my gift on it."
 
+**[78:31]** But when Adam heard this he was very sorry, because it was the altar he had built at first, and on which he had offered his own gifts.
 
-**[78:19]** But as for Abel, he set up stones that were near at hand, and on
+**[78:32]** As to Cain, he was so resentful and so angry that he went into the field, where Satan came to him and said to him, "Since your brother Abel has taken refuge with your father Adam, because you shoved him from the altar, they have kissed his face, and they rejoice over him, far more than over you."
 
-that, he offered up his gift with a heart humble and free from guile.
+**[78:33]** When Cain heard these words of Satan, he was filled with rage; and he let no one know. But he was laying wait to kill his brother, until he brought him into the cave, and then said to him:--
 
+**[78:34]** "O brother, the country is so beautiful, and there are such beautiful and pleasurable trees in it, and charming to look at! But brother, you have never been one day in the field to take your pleasure in that place.
 
-
-**[78:20]** Cain was then standing by the altar on which he had offered up his
-
-gift; and he cried to God to accept his offering; but God did not
-
-accept it from him; neither did a divine fire come down to consume his
-
-offering.
-
-
-
-**[78:21]** But he remained standing over against the altar, out of humor and
-
-meanness, looking towards his brother Abel, to see if God would accept
-
-his offering or not.
-
-
-
-**[78:22]** And Abel prayed to God to accept his offering.  Then a divine fire
-
-came down and consumed his offering.  And God smelled the sweet savor
-
-of his offering; because Abel loved Him and rejoice in Him.
-
-
-
-**[78:23]** And because God was well pleased with him, He sent him an angel of
-
-light in the figure of a man who had partaken of his offering, because
-
-He had smelled the sweet savor of his offering, and they comforted Abel
-
-and strengthened his heart.
-
-
-
-**[78:24]** But Cain was looking on all that took place at his brother's
-
-offering, and was angry because of it.
-
-
-
-**[78:25]** Then he opened his mouth and blasphemed God, because He had not
-
-accepted his offering.
-
-
-
-**[78:26]** But God said to cain, "Why do you look sad?  Be righteous, that I
-
-may accept your offering.  Not against Me have you murmured, but
-
-against yourself.
-
-
-
-**[78:27]** And God said this to Cain in rebuke, and because He abhorred him and
-
-his offering.
-
-
-
-**[78:28]** And Cain came down from the altar, his color changed and with a sad
-
-face, and came to his father and mother and told them all that had
-
-befallen him.  And Adam grieved much because God had not accepted
-
-Cain's offering.
-
-
-
-**[78:29]** But Abel came down rejoicing, and with a gladsome heart, and told
-
-his father and mother how God had accepted his offering.  And they
-
-rejoiced at it and kissed his face.
-
-
-
-**[78:30]** And Abel said to his father, "Because Cain shoved me from the altar,
-
-and would not allow me to offer my gift on it, I made an altar for
-
-myself and offered my gift on it."
-
-
-
-**[78:31]** But when Adam heard this he was very sorry, because it was the altar
-
-he had built at first, and on which he had offered his own gifts.
-
-
-
-**[78:32]** As to Cain, he was so resentful and so angry that he went into the
-
-field, where Satan came to him and said to him, "Since your brother
-
-Abel has taken refuge with your father Adam, because you shoved him
-
-from the altar, they have kissed his face, and they rejoice over him,
-
-far more than over you."
-
-
-
-**[78:33]** When Cain heard these words of  Satan, he was filled with rage; and
-
-he let no one know.  But he was laying wait to kill his brother, until
-
-he brought him into the cave, and then said to him:--
-
-
-
-**[78:34]** "O brother, the country is so beautiful, and there are such
-
-beautiful and pleasurable trees in it, and charming to look at!  But
-
-brother, you have never been one day in the field to take your pleasure
-
-in that place.
-
-
-
-**[78:35]** Today, O, my brother, I very much wish you would come with me into
-
-the field, to enjoy yourself and to bless our fields and our flocks,
-
-for you are righteous, and I love you much, O my brother!  But you have
-
-alienated yourself from me."
-
-
+**[78:35]** Today, O, my brother, I very much wish you would come with me into the field, to enjoy yourself and to bless our fields and our flocks, for you are righteous, and I love you much, O my brother! But you have alienated yourself from me."
 
 **[78:36]** Then Abel consented to go with his brother Cain into the field.
 
+**[78:37]** But before going out, Cain said to Abel, "Wait for me, until I fetch a staff, because of wild beasts."
+
+**[78:38]** Then Abel stood waiting in his innocence. But Cain, the forward, fetched a staff and went out.
+
+**[78:39]** And they began, Cain and his brother Abel, to walk in the way; Cain talking to him, and comforting him, to make him forget everything. 
 
 
-**[78:37]** But before going out, Cain said to Abel, "Wait for me, until I fetch
+**[79:1]** And so they went on, until they came to a lonely place, where there were no sheep; then Abel said to Cain, "Behold, my brother, we are tired from walking; for we see none of the trees, nor of the fruits, nor of the flourishing green plants, nor of the sheep, nor any one of the things of which you told me.  Where are those sheep of thine you told me to bless?"
 
-a staff, because of wild beasts."
-
-
-
-**[78:38]** Then Abel stood waiting in his innocence.  But Cain, the forward,
-
-fetched a staff and went out.
-
-
-
-**[78:39]** And they began, Cain and his brother Abel, to walk in the way; Cain
-
-talking to him, and comforting him, to make him forget everything. 
-
-
-
-**[79:1]** And so they went on, until they came to a lonely place, where there
-
-were no sheep; then Abel said to Cain, "Behold, my brother, we are
-
-tired from walking; for we see none of the trees, nor of the fruits,
-
-nor of the flourishing green plants, nor of the sheep, nor any one of
-
-the things of which you told me.  Where are those sheep of thine you
-
-told me to bless?"
-
-
-
-**[79:2]** Then Cain said to him, "Come on, and you shall see many beautiful
-
-things very soon, but go before me, until I catch up to you."
-
-
+**[79:2]** Then Cain said to him, "Come on, and you shall see many beautiful things very soon, but go before me, until I catch up to you."
 
 **[79:3]** Then went Abel forward, but Cain remained behind him.
 
+**[79:4]** And Abel was walking in his innocence, without guile; not believing his brother would kill him.
 
+**[79:5]** Then Cain, when he came up to him, comforted him with his talk, walking a little behind him; then he ran up to him and beat him with the staff, blow after blow, until he was stunned.
 
-**[79:4]** And Abel was walking in his innocence, without guile; not believing
+**[79:6]** But when Abel fell down on the ground, seeing that his brother meant to kill him, he said to Cain, "O, my brother, have pity on me. By the breasts we have sucked, don't hit me! By the womb that bore us and that brought us into the world, don't beat me to death with that staff! If you will kill me, take one of these large stones and kill me outright."
 
-his brother would kill him.
-
-
-
-**[79:5]** Then Cain, when he came up to him, comforted him with his talk,
-
-walking a little behind him; then he ran up to him and beat him with
-
-the staff, blow after blow, until he was stunned.
-
-
-
-**[79:6]** But when Abel fell down on the ground, seeing that his brother meant
-
-to kill him, he said to Cain, "O, my brother, have pity on me.  By the
-
-breasts we have sucked, don't hit me!  By the womb that bore us and
-
-that brought us into the world, don't beat me to death with that staff!
-
-If you will kill me, take one of these large stones and kill me
-
-outright."
-
-
-
-**[79:7]** Then Cain, the hard-hearted, and cruel murderer, took a large stone,
-
-and beat his brother's head with it, until his brains oozed out, and he
-
-wallowed in his blood, before him.
-
-
+**[79:7]** Then Cain, the hard-hearted, and cruel murderer, took a large stone, and beat his brother's head with it, until his brains oozed out, and he wallowed in his blood, before him.
 
 **[79:8]** And Cain repented not of what he had done.
 
+**[79:9]** But the earth, when the blood of righteous Abel fell on it, trembled, as it drank his blood, and would have destroyed Cain because of it.
 
+**[79:10]** And the blood of Abel cried mysteriously to God, to avenge him of his murderer.
 
-**[79:9]** But the earth, when the blood of righteous Abel fell on it, trembled,
+**[79:11]** Then Cain began at once to dig the ground wherein to lay his brother; for he was trembling from the fear that came over him, when he saw the earth tremble on his account.
 
-as it drank his blood, and would have destroyed Cain because of it.
+**[79:12]** He then cast his brother into the pit he made, and covered him with dust. But the ground would not receive him; but it threw him up at once.
 
+**[79:13]** Again Cain dug the ground and hid his brother in it; but again the ground threw him up on itself; until three times the ground thus threw up on itself the body of Abel.
 
+**[79:14]** The muddy ground threw him up the first time, because he was not the first creation; and it threw him up the second time and would not receive him, because he was righteous and good, and was killed without a cause; and the ground threw him up the third time and would not receive him, that there might remain before his brother a witness against him.
 
-**[79:10]** And the blood of Abel cried mysteriously to God, to avenge him of
+**[79:15]** And so the earth mocked Cain, until the Word of God, came to him concerning his brother.
 
-his murderer.
+**[79:16]** Then was God angry, and much displeased at Abel's death; and He thundered from heaven, and lightnings went before Him, and the Word of the Lord God came from heaven to Cain, and said to him, "Where is Abel your brother?"
 
+**[79:17]** Then Cain answered with a proud heart and a gruff voice, "How, O God? Am I my brother's keeper?"
 
+**[79:18]** Then God said to Cain, "Cursed be the earth that has drunk the blood of Abel your brother; and as for you, you will always be trembling and shaking; and this will be a mark on you so that whoever finds you, will kill you."
 
-**[79:11]** Then Cain began at once to dig the ground wherein to lay his
+**[79:19]** But Cain cried because God had said those words to him; and Cain said to Him, "O God, whosoever finds me shall kill me, and I shall be blotted out from the face of the earth."
 
-brother; for he was trembling from the fear that came over him, when he
+**[79:20]** Then God said to Cain, "Whoever finds you will not kill you;" because before this, God had been saying to Cain, "I shall put seven punishments on anyone that kills Cain." For as to the word of God to Cain, "Where is your brother?" God said it in mercy for him, to try and make him repent.
 
-saw the earth tremble on his account.
+**[79:21]** For if Cain had repented at that time, and had said, "O God, forgive me my sin, and the murder of my brother,"  God would then have forgiven him his sin.
 
+**[79:22]** And as to God saying to Cain, "Cursed be the ground that has drunk the blood of your brother." That also, was God's mercy on Cain. For God did not curse him, but He cursed the ground; although it was not the ground that had killed Abel, and committed a wicked sin.
 
+**[79:23]** For it was fitting that the curse should fall on the murderer; yet in mercy did God so manage His thoughts as that no one should know it, and turn away from Cain.
 
-**[79:12]** He then cast his brother into the pit he made, and covered him with
+**[79:24]** And He said to him, "Where is your brother?" To which he answered and said, "I know not." Then the Creator said to him, "Be trembling and quaking."
 
-dust.  But the ground would not receive him; but it threw him up at
+**[79:25]** Then Cain trembled and became terrified; and through this sign did God make him an example before all the creation, as the murderer of his brother. Also did God bring trembling and terror over him, that he might see the peace in which he was at first, and see also the trembling and terror he endured at the last; so that he might humble himself before God, and repent of his sin, and seek the peace that he enjoyed at first.
 
-once.
+**[79:26]** And in the word of God that said, "I will put seven punishments on anyone who kills Cain," God was not seeking to kill Cain with the sword, but He sought to make him die of fasting, and praying and crying by hard rule, until the time that he was delivered from his sin.
 
+**[79:27]** And the seven punishments are the seven generations during which God awaited Cain for the murder of his brother.
 
-
-**[79:13]** Again Cain dug the ground and hid his brother in it; but again the
-
-ground threw him up on itself; until three times the ground thus threw
-
-up on itself the body of Abel.
-
-
-
-**[79:14]** The muddy ground threw him up the first time, because he was not the
-
-first creation; and it threw him up the second time and would not
-
-receive him, because he was righteous and good, and was killed without
-
-a cause; and the ground threw him up the third time and would not
-
-receive him, that there might remain before his brother a witness
-
-against him.
-
-
-
-**[79:15]** And so the earth mocked Cain, until the Word of God, came to him
-
-concerning his brother.
-
-
-
-**[79:16]** Then was God angry, and much displeased at Abel's death; and He
-
-thundered from heaven, and lightnings went before Him, and the Word of
-
-the Lord God came from heaven to Cain, and said to him, "Where is Abel
-
-your brother?"
-
-
-
-**[79:17]** Then Cain answered with a proud heart and a gruff voice, "How, O
-
-God?  Am I my brother's keeper?"
-
-
-
-**[79:18]** Then God said to Cain, "Cursed be the earth that has drunk the blood
-
-of Abel your brother; and as for you, you will always be trembling and
-
-shaking; and this will be a mark on you so that whoever finds you, will
-
-kill you."
-
-
-
-**[79:19]** But Cain cried because God had said those words to him; and Cain
-
-said to Him, "O God, whosoever finds me shall kill me, and I shall be
-
-blotted out from the face of the earth."
-
-
-
-**[79:20]** Then God said to Cain, "Whoever finds you will not kill you;"
-
-because before this, God had been saying to Cain, "I shall put seven
-
-punishments on anyone that kills Cain." For as to the word of God to
-
-Cain, "Where is your brother?" God said it in mercy for him, to try and
-
-make him repent.
-
-
-
-**[79:21]** For if Cain had repented at that time, and had said, "O God, forgive
-
-me my sin, and the murder of my brother,"  God would then have forgiven
-
-him his sin.
-
-
-
-**[79:22]** And as to God saying to Cain, "Cursed be the ground that has drunk
-
-the blood of your brother."  That also, was God's mercy on Cain.  For
-
-God did not curse him, but He cursed the ground; although it was not
-
-the ground that had killed Abel, and committed a wicked sin.
-
-
-
-**[79:23]** For it was fitting that the curse should fall on the murderer; yet
-
-in mercy did God so manage His thoughts as that no one should know it,
-
-and turn away from Cain.
-
-
-
-**[79:24]** And He said to him, "Where is your brother?" To which he answered
-
-and said, "I know not." Then the Creator said to him, "Be trembling and
-
-quaking."
-
-
-
-**[79:25]** Then Cain trembled and became terrified; and through this sign did
-
-God make him an example before all the creation, as the murderer of his
-
-brother.  Also did God bring trembling and terror over him, that he
-
-might see the peace in which he was at first, and see also the
-
-trembling and terror he endured at the last; so that he might humble
-
-himself before God, and repent of his sin, and seek the peace that he
-
-enjoyed at first.
-
-
-
-**[79:26]** And in the word of God that said, "I will put seven punishments on
-
-anyone who  kills Cain," God was not seeking to kill Cain with the
-
-sword, but He sought to make him die of fasting, and praying and crying
-
-by hard rule, until the time that he was delivered from his sin.
-
-
-
-**[79:27]** And the seven punishments are the seven generations during which God
-
-awaited Cain for the murder of his brother.
-
-
-
-**[79:28]** But as to Cain, ever since he had killed his brother, he could find
-
-no rest in any place; but went back to Adam and Eve, trembling,
-
-terrified, and defiled with blood. . . .
+**[79:28]** But as to Cain, ever since he had killed his brother, he could find no rest in any place; but went back to Adam and Eve, trembling, terrified, and defiled with blood. . . .
 
