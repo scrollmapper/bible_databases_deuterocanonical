@@ -304,7 +304,7 @@
 
 **[7:36]** And the eagle took flight and came to Jerusalem and gave the letter to Baruch; and when he had untied it he read it and kissed it and wept when he heard about the distresses and afflictions of the people.
 
-**[7:37]** But Jeremiah took the figs and distributed them to the sick among the people, and he kept teaching them to abstain from the pollutions of the gentiles of Babylon. 6
+**[7:37]** But Jeremiah took the figs and distributed them to the sick among the people, and he kept teaching them to abstain from the pollutions of the gentiles of Babylon. 
 
 **[8:1]** And the day came in which the Lord brought the people out of Babylon.
 
