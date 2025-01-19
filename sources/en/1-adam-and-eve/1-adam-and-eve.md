@@ -820,898 +820,245 @@
 **[40:3]** And God withdrew His Word for Adam.
 
 
+**[41:1]** Then Adam took the fig, and laid it on the golden rods. Eve also took her fig, and put it on the incense.
 
-**[41:1]** Then Adam took the fig, and laid it on the golden rods.  Eve also
+**[41:2]** And the weight of each fig was that of a water-melon; for the fruit of the garden was much larger than the fruit of this land.
 
-took her fig, and put it on the incense.
+**[41:3]** But Adam and Eve remained standing and fasting the whole of that night, until the morning dawned.
 
+**[41:4]** When the sun rose they were still praying, but after they had finished praying, Adam said to Eve:--
 
+**[41:5]** "O Eve, come, let us go to the border of the garden looking south; to the place from where the river flows, and is parted into four heads. There we will pray to God, and ask Him to give us some of the Water of Life to drink.
 
-**[41:2]** And the weight of each fig was that of a water-melon; for the fruit
+**[41:6]** For God has not fed us with the Tree of Life, in order that we may not live. Therefore, we will ask him to give us some of the Water of Life, and to quench our thirst with it, rather than with a drink of water of this land."
 
-of the garden was much larger than the fruit of this land.
+**[41:7]** When Eve heard these words from Adam, she agreed; and they both got up and came to the southern border of the garden, at the edge of the river of water a short distance from the garden.
 
+**[41:8]** And they stood and prayed before the Lord, and asked Him to look at them this once, to forgive them, and to grant them their request.
 
+**[41:9]** After this prayer from both of them, Adam began to pray with his voice before God, and said;--
 
-**[41:3]** But Adam and Eve remained standing and fasting the whole of that
+**[41:10]** "O Lord, when I was in the garden and saw the water that flowed from under the Tree of Life, my heart did not desire, neither did my body require to drink of it; neither did I know thirst, for I was living; and above that which I am now.
 
-night, until the morning dawned.
+**[41:11]** So that in order to live I did not require any Food of Life, neither did I drink of the Water of Life.
 
+**[41:12]** But now, O God, I am dead; my flesh is parched with thirst. Give me of the Water of Life that I may drink of it and live.
 
-
-**[41:4]** When the sun rose they were still praying, but after they had
-
-finished praying, Adam said to Eve:--
-
-
-
-**[41:5]** "O Eve, come, let us go to the border of the garden looking south; to
-
-the place from where the river flows, and is parted into four heads.
-
-There we will pray to God, and ask Him to give us some of the Water of
-
-Life to drink.
-
-
-
-**[41:6]** For God has not fed us with the Tree of Life, in order that we may
-
-not live.  Therefore, we will ask him to give us some of the Water of
-
-Life, and to quench our thirst with it, rather than with a drink of
-
-water of this land."
-
-
-
-**[41:7]** When Eve heard these words from Adam, she agreed; and they both got
-
-up and came to the southern border of the garden, at the edge of the
-
-river of water a short distance from the garden.
-
-
-
-**[41:8]** And they stood and prayed before the Lord, and asked Him to look at
-
-them this once, to forgive them, and to grant them their request.
-
-
-
-**[41:9]** After this prayer from both of them, Adam began to pray with his
-
-voice before God, and said;--
-
-
-
-**[41:10]** "O Lord, when I was in the garden and saw the water that flowed from
-
-under the Tree of Life, my heart did not desire, neither did my body
-
-require to drink of it; neither did I know thirst, for I was living;
-
-and above that which I am now.
-
-
-
-**[41:11]** So that in order to live I did not require any Food of Life, neither
-
-did I drink of the Water of Life.
-
-
-
-**[41:12]** But now, O God, I am dead; my flesh is parched with thirst.  Give me
-
-of the Water of Life that I may drink of it and live.
-
-
-
-**[41:13]** Of Your mercy, O God, save me from these plagues and trials, and
-
-bring me into another land different from this, if You will not let me
-
-live in Your garden."
-
+**[41:13]** Of Your mercy, O God, save me from these plagues and trials, and bring me into another land different from this, if You will not let me live in Your garden."
 
 
 **[42:1]** Then came the Word of God to Adam, and said to him:--
 
+**[42:2]** "O Adam, as to what you said, 'Bring me into a land where there is rest,' it is not another land than this, but it is the kingdom of heaven where alone there is rest.
 
+**[42:3]** But you can not make your entrance into it at present; but only after your judgment is past and fulfilled.
 
-**[42:2]** "O Adam, as to what you said, 'Bring me into a land where there is
+**[42:4]** Then will I make you go up into the kingdom of heaven, you and your righteous descendants; and I will give you and them the rest you ask for at present.
 
-rest,' it is not another land than this, but it is the kingdom of
+**[42:5]** And if you said, 'Give me of the Water of Life that I may drink and live'--it cannot be this day, but on the day that I shall descend into hell, and break the gates of brass, and bruise in pieces the kingdoms of iron.
 
-heaven where alone there is rest.
+**[42:6]** Then will I in mercy save your soul and the souls of the righteous, to give them rest in My garden. And that shall be when the end of the world is come.
 
+**[42:7]** And, again, in regards to the Water of Life you seek, it will not be granted you this day; but on the day that I shall shed My blood on your head in the land of Golgotha.
 
+**[42:8]** For My blood shall be the Water of Life to you at that time, and not to just you alone, but to all your descendants who shall believe in Me; that it be to them for rest forever."
 
-**[42:3]** But you can not make your entrance into it at present; but only after
+**[42:9]** The Lord said again to Adam, "O Adam, when you were in the garden, these trials did not come to you.
 
-your judgment is past and fulfilled.
+**[42:10]** But since you transgressed My commandment, all these sufferings have come over you.
 
-
-
-**[42:4]** Then will I make you go up into the kingdom of heaven, you and your
-
-righteous descendants; and I will give you and them the rest you ask
-
-for at present.
-
-
-
-**[42:5]** And if you said, 'Give me of the Water of Life that I may drink and
-
-live'--it cannot be this day, but on the day that I shall descend into
-
-hell, and break the gates of brass, and bruise in pieces the kingdoms
-
-of iron.
-
-
-
-**[42:6]** Then will I in mercy save your soul and the souls of the righteous,
-
-to give them rest in My garden.  And that shall be when the end of the
-
-world is come.
-
-
-
-**[42:7]** And, again, in regards to the Water of Life you seek, it will not be
-
-granted you this day; but on the day that I shall shed My blood on your
-
-head in the land of Golgotha.
-
-
-
-**[42:8]** For My blood shall be the Water of Life to you at that time, and not
-
-to just you alone, but to all your descendants who shall believe in
-
-Me; that it be to them for rest forever."
-
-
-
-**[42:9]** The Lord said again to Adam, "O Adam, when you were in the garden,
-
-these trials did not come to you.
-
-
-
-**[42:10]** But since you transgressed My commandment, all these sufferings have
-
-come over you.
-
-
-
-**[42:11]** Now, also, does your flesh require food and drink; drink then of
-
-that water that flows by you on the face of the earth.
-
-
+**[42:11]** Now, also, does your flesh require food and drink; drink then of that water that flows by you on the face of the earth.
 
 **[42:12]** Then God withdrew His Word from Adam.
 
+**[42:13]** And Adam and Eve worshipped the Lord, and returned from the river of water to the cave. It was noon-day; and when they drew near to the cave, they saw a large fire by it.
 
 
-**[42:13]** And Adam and Eve worshipped the Lord, and returned from the river of
+**[43:1]** Then Adam and Eve were afraid, and stood still. And Adam said to Eve, "What is that fire by our cave? We have done nothing in it to cause this fire.
 
-water to the cave.  It was noon-day; and when they drew near to the
+**[43:2]** We neither have bread to bake therein, nor broth to cook there. As to this fire, we have never known anything like it, neither do we know what to call it.
 
-cave, they saw a large fire by it.
+**[43:3]** But ever since God sent the cherub with a sword of fire that flashed and lightened in his hand, from fear of which we fell down and were like corpses, have we not seen the like.
 
-
-
-**[43:1]** Then Adam and Eve were afraid, and stood still.  And Adam said to
-
-Eve, "What is that fire by our cave?  We have done nothing in it to
-
-cause this fire.
-
-
-
-**[43:2]** We neither have bread to bake therein, nor broth to cook there.  As
-
-to this fire, we have never known anything like it, neither do we know
-
-what to call it.
-
-
-
-**[43:3]** But ever since God sent the cherub with a sword of fire that flashed
-
-and lightened in his hand, from fear of which we fell down and were
-
-like corpses, have we not seen the like.
-
-
-
-**[43:4]** But now, O Eve, behold, this is the same fire that was in the
-
-cherub's hand, which God has sent to keep the cave in which we live.
-
-
+**[43:4]** But now, O Eve, behold, this is the same fire that was in the cherub's hand, which God has sent to keep the cave in which we live.
 
 **[43:5]** O Eve, it is because God is angry with us, and will drive us from it.
 
+**[43:6]** O Eve, we have again transgressed His commandment in that cave, so that He had sent this fire to burn around it, and to prevent us from going into it.
 
+**[43:7]** If this be really so, O Eve, where shall we live? And where shall we flee from before the face of the Lord?  Since, in regards to the garden, He will not let us live in it, and He has deprived us of the good things thereof; but He has placed us in this cave, in which we have borne darkness, trials and hardships, until at last we have found comfort therein.
 
-**[43:6]** O Eve, we have again transgressed His commandment in that cave, so
+**[43:8]** But now that He has brought us out into another land, who knows what may happen in it? And who knows but that the darkness of that land may be far greater than the darkness of this land?
 
-that He had sent this fire to burn around it, and to prevent us from
+**[43:9]** Who knows what may happen in that land by day or by night? And who knows whether it will be far or near, O Eve? Where it will please God to put us, may be far from the garden, O Eve? Or where God will prevent us from beholding Him, because we have transgressed His commandment, and because we have made requests of Him at all times?
 
-going into it.
+**[43:10]** O Eve, if God will bring us into a strange land other than this, in which we find consolation, it must be to put our souls to death, and blot out our name from the face of the earth.
 
+**[43:11]** O Eve, if we are further alienated from the garden and from God, where shall we find Him again, and ask Him to give us gold, incense, myrrh, and some fruit of the fig-tree?
 
+**[43:12]** Where shall we find Him, to comfort us a second time? Where shall we find Him, that He may think of us, as regards the covenant He has made on our behalf?"
 
-**[43:7]** If this be really so, O Eve, where shall we live?  And where shall we
+**[43:13]** Then Adam said no more. And they kept looking, He and Eve, towards the cave, and at the fire that flared up around it.
 
-flee from before the face of the Lord?  Since, in regards to the
+**[43:14]** But that fire was from Satan. For he had gathered trees and dry grasses, and had carried and brought them to the cave, and had set fire to them, in order to consume the cave and what was in it.
 
-garden, He will not let us live in it, and He has deprived us of the
+**[43:15]** So that Adam and Eve should be left in sorrow, and he should cut off their trust in God, and make them deny Him.
 
-good things thereof; but He has placed us in this cave, in which we
+**[43:16]** But by the mercy of God he could not burn the cave, for God sent His angel around the cave to guard it from such a fire, until it went out.
 
-have borne darkness, trials and hardships, until at last we have found
+**[43:17]** And this fire lasted from noon-day until the break of day. That was the forty-fifth day. 
 
-comfort therein.
 
+**[44:1]** Yet Adam and Eve were standing and looking at the fire, and unable to come near the cave from their dread of the fire.
 
+**[44:2]** And Satan kept on bringing trees and throwing them into the fire, until the flames of the fire rose up on high, and covered the whole cave, thinking, as he did in his own mind, to consume the cave with much fire. But the angel of the Lord was guarding it.
 
-**[43:8]** But now that He has brought us out into another land, who knows what
+**[44:3]** And yet he could not curse Satan, nor injure him by word, because he had no authority over him, neither did he take to doing so with words from his mouth.
 
-may happen in it?  And who knows but that the darkness of that land may
+**[44:4]** Therefore the angel tolerated him, without saying one bad word, until the Word of God came who said to Satan, "Go away from here; once before you deceived My servants, and this time you seek to destroy them.
 
-be far greater than the darkness of this land?
+**[44:5]** Were it not for My mercy I would have destroyed you and your hosts from off the earth. But I have had patience with you, until the end of the world."
 
+**[44:6]** Then Satan fled from before the Lord. But the fire went on burning around the cave like a coal-fire the whole day; which was the forty-sixth day Adam and Eve had spent since they came out of the garden.
 
+**[44:7]** And when Adam and Eve saw that the heat of the fire had somewhat cooled down, they began to walk towards the cave to get into it as they usually did; but they could not, by reason of the heat of the fire.
 
-**[43:9]** Who knows what may happen in that land by day or by night? And who
+**[44:8]** Then they both began crying because of the fire that separated them from the cave, and that came towards them, burning.  And they were afraid.
 
-knows whether it will be far or near, O Eve?  Where it will please God
+**[44:9]** Then Adam said to Eve, "See this fire of which we have a portion in us:  which formerly yielded to us, but no longer does so, now that we have transgressed the limit of creation, and changed our condition, and our nature is altered. But the fire is not changed in its nature, nor altered from its creation. Therefore it now has power over us; and when we come near it, it scorches our flesh." 
 
-to put us, may be far from the garden, O Eve?  Or where God will
 
-prevent us from beholding Him, because we have transgressed His
-
-commandment, and because we have made requests of Him at all times?
-
-
-
-**[43:10]** O Eve, if God will bring us into a strange land other than this, in
-
-which we find consolation, it must be to put our souls to death, and
-
-blot out our name from the face of the earth.
-
-
-
-**[43:11]** O Eve, if we are further alienated from the garden and from God,
-
-where shall we find Him again, and ask Him to give us gold, incense,
-
-myrrh, and some fruit of the fig-tree?
-
-
-
-**[43:12]** Where shall we find Him, to comfort us a second time?  Where shall
-
-we find Him, that He may think of us, as regards the covenant He has
-
-made on our behalf?"
-
-
-
-**[43:13]** Then Adam said no more. And they kept looking, He and Eve, towards
-
-the cave, and at the fire that flared up around it.
-
-
-
-**[43:14]** But that fire was from Satan.  For he had gathered trees and dry
-
-grasses, and had carried and brought them to the cave, and had set fire
-
-to them, in order to consume the cave and what was in it.
-
-
-
-**[43:15]** So that Adam and Eve should be left in sorrow, and he should cut off
-
-their trust in God, and make them deny Him.
-
-
-
-**[43:16]** But by the mercy of God he could not burn the cave, for God sent His
-
-angel around the cave to guard it from such a fire, until it went out.
-
-
-
-**[43:17]** And this fire lasted from noon-day until the break of day.  That was
-
-the forty-fifth day. 
-
-
-
-**[44:1]** Yet Adam and Eve were standing and looking at the fire, and unable to
-
-come near the cave from their dread of the fire.
-
-
-
-**[44:2]** And Satan kept on bringing trees and throwing them into the fire,
-
-until the flames of the fire rose up on high, and covered the whole
-
-cave, thinking, as he did in his own mind, to consume the cave with
-
-much fire.  But the angel of the Lord was guarding it.
-
-
-
-**[44:3]** And yet he could not curse Satan, nor injure him by word, because he
-
-had no authority over him, neither did he take to doing so with words
-
-from his mouth.
-
-
-
-**[44:4]** Therefore the angel tolerated him, without saying one bad word, until
-
-the Word of God came who said to Satan, "Go away from here; once before
-
-you deceived My servants, and this time you seek to destroy them.
-
-
-
-**[44:5]** Were it not for My mercy I would have destroyed you and your hosts
-
-from off the earth. But I have had patience with you, until the end of
-
-the world."
-
-
-
-**[44:6]** Then Satan fled from before the Lord.  But the fire went on burning
-
-around the cave like a coal-fire the whole day; which was the
-
-forty-sixth day Adam and Eve had spent since they came out of the
-
-garden.
-
-
-
-**[44:7]** And when Adam and Eve saw that the heat of the fire had somewhat
-
-cooled down, they began to walk towards the cave to get into it as they
-
-usually did; but they could not, by reason of the heat of the fire.
-
-
-
-**[44:8]** Then they both began crying because of the fire that separated them
-
-from the cave, and that came towards them, burning.  And they were
-
-afraid.
-
-
-
-**[44:9]** Then Adam said to Eve, "See this fire of which we have a portion in
-
-us:  which formerly yielded to us, but no longer does so, now that we
-
-have transgressed the limit of creation, and changed our condition, and
-
-our nature is altered.  But the fire is not changed in its nature, nor
-
-altered from its creation.  Therefore it now has power over us; and
-
-when we come near it, it scorches our flesh." 
-
-
-
-**[45:1]** Then Adam rose and prayed to God, saying, "See, this fire has
-
-separated us from the cave in which You have commanded us to live; but
-
-now, behold, we cannot go into it."
-
-
+**[45:1]** Then Adam rose and prayed to God, saying, "See, this fire has separated us from the cave in which You have commanded us to live; but now, behold, we cannot go into it."
 
 **[45:2]** Then God heard Adam, and sent him His Word, that said:--
 
+**[45:3]** "O Adam, see this fire! How different the flame and heat thereof are from the garden of delights and the good things in it!
 
+**[45:4]** When you were under My control, all creatures yielded to you; but after you have transgressed My commandment, they all rise over you."
 
-**[45:3]** "O Adam, see this fire!  How different the flame and heat thereof are
+**[45:5]** God said again to him, "See, O Adam, how Satan has exalted you! He has deprived you of the Godhead, and of an exalted state like Me, and has not kept his word to you; but has, after all, become your enemy. He is the one who made this fire in which he meant to burn you and Eve.
 
-from the garden of delights and the good things in it!
+**[45:6]** Why, O Adam, has he not kept his agreement with you, not even one day; but has deprived you of the glory that was on you--when you yielded to his command?
 
+**[45:7]** Do you think, Adam, that he loved you when he made this agreement with you? Or that he loved you and wished to raise you on high?
 
+**[45:8]** But no, Adam, he did not do all that out of love to you; but he wished to make you come out of light into darkness; and from an exalted state to degradation; from glory to abasement; from joy to sorrow; and from rest to fasting and fainting."
 
-**[45:4]** When you were under My control, all creatures yielded to you; but
+**[45:9]** God also said to Adam, "See this fire kindled by Satan around your cave; see this wonder that surrounds you; and know that it will encompass about both you and your descendants, when you obey his command; that he will plague you with fire; and that you will go down into hell after you are dead.
 
-after you have transgressed My commandment, they all rise over you."
+**[45:10]** Then you will see the burning of his fire, that will be burning around you and likewise your descendants. You will not be delivered from it until My coming; just like you cannot go into your cave right now because of the great fire around it; not until My Word comes and makes a way for you on the day My covenant is fulfilled.
 
-
-
-**[45:5]** God said again to him, "See, O Adam, how Satan has exalted you!  He
-
-has deprived you of the Godhead, and of an exalted state like Me, and
-
-has not kept his word to you; but has, after all, become your enemy.
-
-He is the one who made this fire in which he meant to burn you and Eve.
-
-
-
-**[45:6]** Why, O Adam, has he not kept his agreement with you, not even one
-
-day; but has deprived you of the glory that was on you--when you
-
-yielded to his command?
-
-
-
-**[45:7]** Do you think, Adam, that he loved you when he made this agreement
-
-with you?  Or that he loved you and wished to raise you on high?
-
-
-
-**[45:8]** But no, Adam, he did not do all that out of love to you; but he
-
-wished to make you come out of light into darkness; and from an exalted
-
-state to degradation; from glory to abasement; from joy to sorrow; and
-
-from rest to fasting and fainting."
-
-
-
-**[45:9]** God also said to Adam, "See this fire kindled by Satan around your
-
-cave; see this wonder that surrounds you; and know that it will
-
-encompass about both you and your descendants, when you obey his
-
-command; that he will plague you with fire; and that you will go down
-
-into hell after you are dead.
-
-
-
-**[45:10]** Then you will see the burning of his fire, that will be burning
-
-around you and likewise your descendants.  You will not be delivered
-
-from it until My coming; just like you cannot go into your cave right
-
-now because of the great fire around it; not until My Word comes and
-
-makes a way for you on the day My covenant is fulfilled.
-
-
-
-**[45:11]** There is no way for you at present to come from this life to rest,
-
-not until My Word comes, who is My Word.  Then He will make a way for
-
-you, and you shall have rest." Then God called with His Word to the
-
-fire that burned around the cave, that it split itself in half, until
-
-Adam had gone through it.  Then the fire parted itself by God's order,
-
-and a way was made for Adam.
-
-
+**[45:11]** There is no way for you at present to come from this life to rest, not until My Word comes, who is My Word. Then He will make a way for you, and you shall have rest." Then God called with His Word to the fire that burned around the cave, that it split itself in half, until Adam had gone through it. Then the fire parted itself by God's order, and a way was made for Adam.
 
 **[45:12]** And God withdrew His Word from Adam.
 
 
+**[46:1]** Then Adam and Eve began again to come into the cave. And when they came to the way between the fire, Satan blew into the fire like a whirlwind, and caused the burning coal-fire to cover Adam and Eve; so that their bodies were singed; and the coal-fire scorched them.
 
-**[46:1]** Then Adam and Eve began again to come into the cave.  And when they
+**[46:2]** And from the burning of the fire Adam and Eve screamed, and said, "O Lord, save us! Leave us not to be consumed and plagued by this burning fire; neither require us for having transgressed Your commandment."
 
-came to the way between the fire, Satan blew into the fire like a
+**[46:3]** Then God looked at their bodies, on which Satan had caused fire to burn, and God sent His angel that stayed the burning fire. But the wounds remained on their bodies.
 
-whirlwind, and caused the burning coal-fire to cover Adam and Eve; so
+**[46:4]** And God said to Adam, "See Satan's love for you, who pretended to give you the Godhead and greatness; and, behold, he burns you with fire, and seeks to destroy you from off the earth.
 
-that their bodies were singed; and the coal-fire scorched them.
+**[46:5]** Then look at Me, O Adam; I created you, and how many times have I delivered you out of his hand?  If not, wouldn't he have destroyed you?"
 
+**[46:6]** God said again to Eve, "What is that he promised you in the garden, saying, 'As soon as you eat from the tree, your eyes will be opened, and you shall become like gods, knowing good and evil.' But look! He has burnt your bodies with fire, and has made you taste the taste of fire, for the taste of the garden; and has made you see the burning of fire, and the evil of it, and the power it has over you.
 
-
-**[46:2]** And from the burning of the fire Adam and Eve screamed, and said, "O
-
-Lord, save us!  Leave us not to be consumed and plagued by this burning
-
-fire; neither require us for having transgressed Your commandment."
-
-
-
-**[46:3]** Then God looked at their bodies, on which Satan had caused fire to
-
-burn, and God sent His angel that stayed the burning fire.  But the
-
-wounds remained on their bodies.
-
-
-
-**[46:4]** And God said to Adam, "See Satan's love for you, who pretended to
-
-give you the Godhead and greatness; and, behold, he burns you with
-
-fire, and seeks to destroy you from off the earth.
-
-
-
-**[46:5]** Then look at Me, O Adam; I created you, and how many times have I
-
-delivered you out of his hand?  If not, wouldn't  he have destroyed
-
-you?"
-
-
-
-**[46:6]** God said again to Eve, "What is that he promised you in the garden,
-
-saying, 'As soon as you eat from the tree, your eyes will be opened,
-
-and you shall become like gods, knowing good and evil.'  But look!  He
-
-has burnt your bodies with fire, and has made you taste the taste of
-
-fire, for the taste of the garden; and has made you see the burning of
-
-fire, and the evil of it, and the power it has over you.
-
-
-
-**[46:7]** Your eyes have seen the good he has taken from you, and in truth he
-
-has opened your eyes; and you have seen the garden in which you were
-
-with Me, and you have also seen the evil that has come over you from
-
-Satan.  But as to the Godhead he cannot give it to you, neither fulfil
-
-his speech to you.  No, he was bitter against you and your descendants,
-
-that will come after you."
-
-
+**[46:7]** Your eyes have seen the good he has taken from you, and in truth he has opened your eyes; and you have seen the garden in which you were with Me, and you have also seen the evil that has come over you from Satan. But as to the Godhead he cannot give it to you, neither fulfil his speech to you. No, he was bitter against you and your descendants, that will come after you."
 
 **[46:8]** And God withdrew His Word form them. 
 
 
+**[47:1]** Then Adam and Eve came into the cave, yet trembling at the fire that had scorched their bodies.  So Adam said to Eve:--
 
-**[47:1]** Then Adam and Eve came into the cave, yet trembling at the fire that
+**[47:2]** "Look, the fire has burnt our flesh in this world; but how will it be when we are dead, and Satan shall punish our souls? Is not our deliverance long and far off, unless God come, and in mercy to us fulfil His promise?"
 
-had scorched their bodies.  So Adam said to Eve:--
+**[47:3]** Then Adam and Eve passed into the cave, blessing themselves for coming into it once more. For it was in their thoughts, that they never should enter it, when they saw the fire around it.
 
+**[47:4]** But as the sun was setting the fire was still burning and nearing Adam and Eve in the cave, so that they could not sleep in it. After the sun had set, they went out of it. This was the forty-seventh day after they came out of the garden.
 
+**[47:5]** Adam and Eve then came under the top of hill by the garden to sleep, as they were accustomed.
 
-**[47:2]** "Look, the fire has burnt our flesh in this world; but how will it be
+**[47:6]** And they stood and prayed God to forgive them their sins, and then fell asleep under the summit of the mountain.
 
-when we are dead, and Satan shall punish our souls?  Is not our
+**[47:7]** But Satan, the hater of all good, thought within himself: "Whereas God has promised salvation to Adam by covenant, and that He would deliver him out of all the hardships that have befallen him--but has not promised me by covenant, and will not deliver me out of my hardships; no, since He has promised him that He should make him and his descendants live in the kingdom in which I once was--I will kill Adam.
 
-deliverance long and far off, unless God come, and in mercy to us
-
-fulfil His promise?"
-
-
-
-**[47:3]** Then Adam and Eve passed into the cave, blessing themselves for
-
-coming into it once more.  For it was in their thoughts, that they
-
-never should enter it, when they saw the fire around it.
+**[47:8]** The earth shall be rid of him; and shall be left to me alone; so that when he is dead he may not have any descendants left to inherit the kingdom that shall remain my own realm; God will then be wanting me, and He will restore it to me and my hosts." 
 
 
-
-**[47:4]** But as the sun was setting the fire was still burning and nearing
-
-Adam and Eve in the cave, so that they could not sleep in it.  After
-
-the sun had set, they went out of it.  This was the forty-seventh day
-
-after they came out of the garden.
-
-
-
-**[47:5]** Adam and Eve then came under the top of hill by the garden to sleep,
-
-as they were accustomed.
-
-
-
-**[47:6]** And they stood and prayed God to forgive them their sins, and then
-
-fell asleep under the summit of the mountain.
-
-
-
-**[47:7]** But Satan, the hater of all good, thought within himself: "Whereas
-
-God has promised salvation to Adam by covenant, and that He would
-
-deliver him out of all the hardships that have befallen him--but has
-
-not promised me by covenant, and will not deliver me out of my
-
-hardships; no, since He has promised him that He should make him and
-
-his descendants live in the kingdom in which I once was--I will kill
-
-Adam.
-
-
-
-**[47:8]** The earth shall be rid of him; and shall be left to me alone; so that
-
-when he is dead he may not have any descendants left to inherit the
-
-kingdom that shall remain my own realm; God will then be wanting me,
-
-and He will restore it to me and my hosts." 
-
-
-
-**[48:1]** After this Satan called to his hosts, all of which came to him, and
-
-said to him:--
-
-
+**[48:1]** After this Satan called to his hosts, all of which came to him, and said to him:--
 
 **[48:2]** "O, our lord, what will you do?"
 
+**[48:3]** He then said to them, "You know that this Adam, whom God created out of the dust, is the one who has taken our kingdom, come, let us gather together and kill him; or hurl a rock at him and at Eve, and crush them under it."
 
+**[48:4]** When Satan's hosts heard these words, they came to the part of the mountain where Adam and Eve were asleep.
 
-**[48:3]** He then said to them, "You know that this Adam, whom God created out
+**[48:5]** Then Satan and his host took a huge rock, broad and even, and without blemish, thinking within himself, "If there should be a hole in the rock, when it fell on them, the hole in the rock might come over them, and so they would escape and not die."
 
-of the dust, is the one who has taken our kingdom, come, let us gather
+**[48:6]** He then said to his hosts, "Take up this stone, and throw it flat on them, so that it doesn't roll off them to somewhere else. And when you have hurled it, get away from there quickly."
 
-together and kill him; or hurl a rock at him and at Eve, and crush them
+**[48:7]** And they did as he told them. But as the rock fell down from the mountain toward Adam and Eve, God commanded the rock to become a dome over them, that did them no harm. And so it was by God's order.
 
-under it."
+**[48:8]** But when the rock fell, the whole earth quaked with it, and was shaken from the size of the rock.
 
+**[48:9]** And as it quaked and shook, Adam and Eve awoke from sleep, and found themselves under a dome of rock. But they didn't know what had happened; because when the fell asleep they were under the sky, and not under a dome; and when they saw it, they were afraid.
 
+**[48:10]** Then Adam said to Eve, "Wherefore has the mountain bent itself, and the earth quaked and shaken on our account? And why has this rock spread itself over us like a tent?
 
-**[48:4]** When Satan's hosts heard these words, they came to the part of the
+**[48:11]** Does God intend to plague us and to shut us up in this prison? Or will He close the earth over us?
 
-mountain where Adam and Eve were asleep.
+**[48:12]** He is angry with us for our having come out of the cave, without His order; and for our having done so of our own accord, without consulting Him, when we left the cave and came to this place."
 
+**[48:13]** Then Eve said, "If, indeed, the earth quaked for our sake, and this rock forms a tent over us because of our transgression, then we will be sorry, O Adam, because our punishment will be long.
 
+**[48:14]** But get up and pray to God to let us know concerning this, and what this rock is that is spread over us like a tent."
 
-**[48:5]** Then Satan and his host took a huge rock, broad and even, and without
-
-blemish, thinking within himself, "If there should be a hole in the
-
-rock, when it fell on them, the hole in the rock might come over them,
-
-and so they would escape and not die."
-
-
-
-**[48:6]** He then said to his hosts, "Take up this stone, and throw it flat on
-
-them, so that it doesn't roll off them to somewhere else.  And when you
-
-have hurled it, get away from there quickly."
-
-
-
-**[48:7]** And they did as he told them.  But as the rock fell down from the
-
-mountain toward Adam and Eve, God commanded the rock to become a dome
-
-over them, that did them no harm.  And so it was by God's order.
-
-
-
-**[48:8]** But when the rock fell, the whole earth quaked with it, and was
-
-shaken from the size of the rock.
-
-
-
-**[48:9]** And as it quaked and shook, Adam and Eve awoke from sleep, and found
-
-themselves under a dome of rock.  But they didn't know what had
-
-happened; because when the fell asleep they were under the sky, and not
-
-under a dome; and when they saw it, they were afraid.
-
-
-
-**[48:10]** Then Adam said to Eve, "Wherefore has the mountain bent itself, and
-
-the earth quaked and shaken on our account?  And why has this rock
-
-spread itself over us like a tent?
-
-
-
-**[48:11]** Does God intend to plague us and to shut us up in this prison? Or
-
-will He close the earth over us?
-
-
-
-**[48:12]** He is angry with us for our having come out of the cave, without His
-
-order; and for our having done so of our own accord, without consulting
-
-Him, when we left the cave and came to this place."
-
-
-
-**[48:13]** Then Eve said, "If, indeed, the earth quaked for our sake, and this
-
-rock forms a tent over us because of our transgression, then we will be
-
-sorry, O Adam, because our punishment will be long.
-
-
-
-**[48:14]** But get up and pray to God to let us know concerning this, and what
-
-this rock is that is spread over us like a tent."
-
-
-
-**[48:15]** Then Adam stood up and prayed before the Lord, to let him know what
-
-had brought about this difficult time.  And Adam stood praying like
-
-that until the morning. 
-
+**[48:15]** Then Adam stood up and prayed before the Lord, to let him know what had brought about this difficult time. And Adam stood praying like that until the morning. 
 
 
 **[49:1]** Then the Word of God came and said:--
 
+**[49:2]** "O Adam, who counselled you, when you came out of the cave, to come to this place?"
 
+**[49:3]** And Adam said to God, "O Lord, we came to this place because of the heat of the fire, that came over us inside the cave."
 
-**[49:2]** "O Adam, who counselled you, when you came out of the cave, to come
+**[49:4]** Then the Lord God said to Adam, "O Adam, you dread the heat of fire for one night, but how will it be when you live in hell?
 
-to this place?"
+**[49:5]** Yet, O Adam, don't be afraid, and don't believe that I have placed this dome of rock over you to plague you with it.
 
+**[49:6]** It came from Satan, who had promised you the Godhead and majesty. It is he who threw down this rock to kill you under it, and Eve with you, and thus to prevent you from living on the earth.
 
+**[49:7]** But, in mercy for you, just as that rock was falling down on you, I commanded it to form an dome over you; and the rock under you to lower itself.
 
-**[49:3]** And Adam said to God, "O Lord, we came to this place because of the
+**[49:8]** And this sign, O Adam, will happen to Me at My coming on earth: Satan will raise the people of the Jews to put Me to death; and they will lay Me in a rock, and seal a large stone over Me, and I shall remain within that rock three days and three nights.
 
-heat of the fire, that came over us inside the cave."
-
-
-
-**[49:4]** Then the Lord God said to Adam, "O Adam, you dread the heat of fire
-
-for one night, but how will it be when you live in hell?
-
-
-
-**[49:5]** Yet, O Adam, don't be afraid, and don't believe that I have placed
-
-this dome of rock over you to plague you with it.
-
-
-
-**[49:6]** It came from Satan, who had promised you the Godhead and majesty.  It
-
-is he who threw down this rock to kill you under it, and Eve with you,
-
-and thus to prevent you from living on the earth.
-
-
-
-**[49:7]** But, in mercy for you, just as that rock was falling down on you, I
-
-commanded it to form an dome over you; and the rock under you to lower
-
-itself.
-
-
-
-**[49:8]** And this sign, O Adam, will happen to Me at My coming on earth: Satan
-
-will raise the people of the Jews to put Me to death; and they will lay
-
-Me in a rock, and seal a large stone over Me, and I shall remain within
-
-that rock three days and three nights.
-
-
-
-**[49:9]** But on the third day I shall rise again, and it shall be salvation to
-
-you, O Adam, and to your descendants, to believe in Me.  But, O Adam, I
-
-will not bring you from under this rock until three days and three
-
-nights have passed."
-
-
+**[49:9]** But on the third day I shall rise again, and it shall be salvation to you, O Adam, and to your descendants, to believe in Me. But, O Adam, I will not bring you from under this rock until three days and three nights have passed."
 
 **[49:10]** And God withdrew His Word from Adam.
 
+**[49:11]** But Adam and Eve lived under the rock three days and three nights, as God had told them.
 
+**[49:12]** And God did so to them because they had left their cave and had come to this same place without God's order.
 
-**[49:11]** But Adam and Eve lived under the rock three days and three nights,
-
-as God had told them.
-
-
-
-**[49:12]** And God did so to them because they had left their cave and had come
-
-to  this same place without God's order.
+**[49:13]** But, after three days and three nights, God created an opening in the dome of rock and allowed them to get out from under it. Their flesh was dried up, and their eyes and hearts were troubled from crying and sorrow.
 
 
 
-**[49:13]** But, after three days and three nights, God created an opening in
+**[50:1]** Then Adam and Eve went forth and came into the Cave of Treasures, and they stood praying in it the whole of that day, until the evening.
 
-the dome of rock and allowed them to get out from under it.  Their
+**[50:2]** And this took place at the end of the fifty days after they had left the garden.
 
-flesh was dried up, and their eyes and hearts were troubled from crying
+**[50:3]** But Adam and Eve rose again and prayed to God in the cave the whole of that night, and begged for mercy from Him.
 
-and sorrow.
+**[50:4]** And when the day dawned, Adam said to Eve, "Come! Let us go and do some work for our bodies."
 
+**[50:5]** So they went out of the cave, and came to the northern border of the garden, and they looked for something to cover their bodies with. But they found nothing, and knew not how to do the work. Yet their bodies were stained, and they were speechless from cold and heat.
 
+**[50:6]** Then Adam stood and asked God to show him something with which to cover their bodies.
 
-**[50:1]** Then Adam and Eve went forth and came into the Cave of Treasures, and
-
-they stood praying in it the whole of that day, until the evening.
-
-
-
-**[50:2]** And this took place at the end of the fifty days after they had left
-
-the garden.
-
-
-
-**[50:3]** But Adam and Eve rose again and prayed to God in the cave the whole
-
-of that night, and begged for mercy from Him.
-
-
-
-**[50:4]** And when the day dawned, Adam said to Eve, "Come!  Let us go and do
-
-some work for our bodies."
-
-
-
-**[50:5]** So they went out of the cave, and came to the northern border of the
-
-garden, and they looked for something to cover their bodies with.  But
-
-they found nothing, and knew not how to do the work.  Yet their bodies
-
-were stained, and they were speechless from cold and heat.
-
-
-
-**[50:6]** Then Adam stood and asked God to show him something with which to
-
-cover their bodies.
-
-
-
-**[50:7]** Then came the Word of God and said to him, "O Adam, take Eve and come
-
-to the seashore where you fasted before.  There you will find skins of
-
-sheep that were left after lions ate the carcasses.  Take them and make
-
-garments for yourselves, and clothe yourselves with them. 
+**[50:7]** Then came the Word of God and said to him, "O Adam, take Eve and come to the seashore where you fasted before. There you will find skins of sheep that were left after lions ate the carcasses. Take them and make garments for yourselves, and clothe yourselves with them. 
 
 
 
