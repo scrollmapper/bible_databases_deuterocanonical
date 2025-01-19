@@ -180,7 +180,7 @@
 
 **[5:34]** And he said: Nisan (which is Abib).
 
-**[5:35]** And taking some of figs, he gave them to the old man and said to him: May God illumine your way to the city above, Jerusalem. 6
+**[5:35]** And taking some of figs, he gave them to the old man and said to him: May God illumine your way to the city above, Jerusalem. 
 
 **[6:1]** After this, Abimelech went out of the city and prayed to the Lord.
 
