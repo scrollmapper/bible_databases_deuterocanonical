@@ -1,241 +1,127 @@
 # II Adam and Eve
 
 
-
 **[1:1]** When Luluwa heard Cain's words, she wept and went to call her father and mother, and told them how that Cain had killed his brother Abel.
-
-
 
 **[1:2]** Then they all cried aloud and lifted up their voices, and slapped their faces, and threw dust upon their heads, and rent asunder their garments, and went out and came to the place where Abel was killed.
 
-
-
 **[1:3]** And they found him lying on the earth, killed, and beasts around him; while they wept and cried because of this just one. From his body, by reason of its purity, went forth a smell of sweet spices.
-
-
 
 **[1:4]** And Adam carried him, his tears streaming down his face; and went to the Cave of Treasures, where he laid him, and wound him up with sweet spices and myrrh.
 
-
-
 **[1:5]** And Adam and Eve continued by the burial of him in great grief a hundred and forty days. Abel was fifteen and a half years old, and Cain seventeen years and a half.
-
-
 
 **[1:6]** As for Cain, when the mourning for his brother was ended, he took his sister Luluwa and married her, without leave from his father and mother; for they could not keep him from her, by reason of their heavy heart.
 
-
-
 **[1:7]** He then went down to the bottom of the mountain, away from the garden, near to the place where he had killed his brother.
-
-
 
 **[1:8]** And in that place were many fruit trees and forest trees. His sister bare him children, who in their turn began to multiply by degrees until they filled that place.
 
-
-
 **[1:9]** But as for Adam and Eve, they came not together after Abel's funeral, for seven years. After this, however, Eve conceived; and while she was with child, Adam said to her, "Come, let us take an offering and offer it up unto God, and ask Him to give us a fair child, in whom we may find comfort, and whom we may join in marriage to Abel's sister."
-
-
 
 **[1:10]** Then they prepared an offering and brought it up to the altar, and offered it before the Lord, and began to entreat Him to accept their offering, and to give them a good offspring.
 
-
-
 **[1:11]** And God heard Adam and accepted his offering. Then, they worshipped, Adam, Eve, and their daughter, and came down to the Cave of Treasures and placed a lamp in it, to burn by night and by day, before the body of Abel.
-
-
 
 **[1:12]** Then Adam and Eve continued fasting and praying until Eve's time came that she should be delivered, when she said to Adam, "I wish to go to the cave in the rock, to bring forth in it."
 
-
-
 **[1:13]** And he said, "Go, and take with thee thy daughter to wait on thee; but I will remain in this Cave of Treasures before the body of my son Abel."
-
-
 
 **[1:14]** Then Eve hearkened to Adam, and went, she and her daughter. But Adam remained by himself in the Cave of Treasures.
 
 
-
 **[2:1]** And Eve brought forth a son perfectly beautiful in figure and in countenance. His beauty was like that of his father Adam, yet more beautiful.
-
-
 
 **[2:2]** Then Eve was comforted when she saw him, and remained eight days in the cave; then she sent her daughter unto Adam to tell him to come and see the child and name him. But the daughter stayed in his place by the body of her brother, until Adam returned. So did she.
 
-
-
 **[2:3]** But when Adam came and saw the child's good looks, his beauty, and his perfect figure, he rejoiced over him, and was comforted for Abel. Then he named the child Seth, that means, "that God has heard my prayer, and has delivered me out of my affliction." But it means also "power and strength."
-
-
 
 **[2:4]** Then after Adam had named the child, he returned to the Cave of Treasures; and his daughter went back to her mother.
 
-
-
 **[2:5]** But Eve continued in her cave, until forty days were fulfilled, when she came to Adam, and brought with her the child and her daughter.
 
-
-
-**[2:6]** And they came to a river of water, where Adam and his daughter washed themselves, b~ cause of their sorrow for Abel; but Eve and the babe washed for purification.
-
-
+**[2:6]** And they came to a river of water, where Adam and his daughter washed themselves, because of their sorrow for Abel; but Eve and the babe washed for purification.
 
 **[2:7]** Then they returned, and took an offering, and went to the mountain and offered it up, for the babe; and God accepted their offering, and sent His blessing upon them, and upon their son Seth; and they came back to the Cave of Treasures.
 
-
-
 **[2:8]** As for Adam, he knew not again his wife Eve, all the days of his life; neither was any more offspring born of them; but only those five, Cain, Luluwa, Abel, Aklia, and Seth alone.
-
-
 
 **[2:9]** But Seth waxed in stature and in strength; and began to fast and pray, fervently.
 
 
-
 **[3:1]** As for our father Adam, at the end of seven years from the day he had been severed from his wife Eve, Satan envied him, when he saw him thus separated from her; and strove to make him live with her again.
-
-
 
 **[3:2]** Then Adam arose and went up above the Cave of Treasures; and continued to sleep there night by night. But as soon as it was light every day he came down to the cave, to pray there and to receive a blessing from it.
 
-
-
 **[3:3]** But when it was evening he went up on the roof of the cave, where he slept by himself, fearing lest Satan should overcome him. And he continued thus apart thirty-nine days.
-
-
 
 **[3:4]** Then Satan, the hater of all good, when he saw Adam thus alone, fasting and praying, appeared unto him in the form of a beautiful woman, who came and stood before him in the night of the fortieth day, and said unto him:-
 
-
-
 **[3:5]** "0 Adam, from the time ye have dwelt in this cave, we have experienced great peace from you, and your prayers have reached us, and we have been comforted about you.
-
-
 
 **[3:6]** "But now, 0 Adam, that thou hast gone up over the roof of the cave to sleep, we have had doubts about thee, and a great sorrow has come upon us because of thy separation from Eve. Then again, when thou art on the roof of this cave, thy prayer is poured out, and thy heart wanders from side to side.
 
-
-
 **[3:7]** "But when thou wast in the cave thy prayer was like fire gathered together; it came down to us, and thou didst find rest.
-
-
 
 **[3:8]** "Then I also grieved over thy children who are severed from thee; and my sorrow is great about the murder of thy son Abel; for he was righteous; and over a righteous man every one will grieve.
 
-
-
-**[3:9]** "But I rejoiced over the birth of thy son Seth; yet after a little while I sorrowed greatly over Eve, because she is my sister. For when God sent a deep sleep over thee, and drew her out of thy side, He brought me out also with her. But HE raised her by placing her with thee, while He lowered me.
-
-
+**[3:9]** "But I rejoiced over the birth of thy son Seth; yet after a little while I sorrowed greatly over Eve, because she is my sister. For when God sent a deep sleep over thee, and drew her out of thy side, He brought me out also with her. But He raised her by placing her with thee, while He lowered me.
 
 **[3:10]** "I rejoiced over my sister for her being with thee. But God had made me a promise before, and said, 'Grieve not; when Adam has gone up on the roof of the Cave of Treasures, and is separated from Eve his wife, I will send thee to him, thou shalt join thyself to him in marriage, and bear him five children, as Eve did bear him five.'
 
-
-
 **[3:11]** "And now, lo! God's promise to me is fulfilled; for it is He who has sent me to thee for the wedding; because if thou wed me, I shall bear thee finer and better children than those of Eve.
-
-
 
 **[3:12]** "Then again, thou art as yet but a youth; end not thy youth in this world in sorrow; but spend the days of thy youth in mirth and pleasure. For thy days are few and thy trial is great. Be strong; end thy days in this world in rejoicing. I shall take pleasure in thee, and thou shall rejoice with me in this wise, and without fear.
 
-
-
 **[3:13]** "Up, then, and fulfil the command of thy God," she then drew near to Adam, and embraced him.
-
-
 
 **[3:14]** But when Adam saw that he should be overcome by her, he prayed to God with a fervent heart to deliver him from her.
 
-
-
 **[3:15]** Then God sent His Word unto Adam, saying, "0 Adam, that figure is the one that promised thee the Godhead, and majesty; he is not favourably disposed towards thee; but shows himself to thee at one time in the form of a woman; another moment, in the likeness if an angel; on another occasions, in the similitude of a serpent; and at another time, in the semblance of a god; but he does all that only to destroy thy soul.
-
-
 
 **[3:16]** "Now, therefore, 0 Adam, understanding thy heart, I have delivered thee many a time from his hands; in order to show thee that I am a merciful God; and that I wish thy good, and that I do not wish thy ruin."
 
 
-
 **[4:1]** Then God ordered Satan to show himself to Adam plainly, in his own hideous form.
-
-
 
 **[4:2]** But when Adam saw him, he feared, and trembled at the sight of him.
 
-
-
 **[4:3]** And God said to Adam, 'Look at this devil, and at his hideous look, and know that he it is who made thee fall from brightness into darkness, from peace and rest to toil and misery.
-
-
 
 **[4:4]** And look, 0 Adam, at him, who said of himself that he is God! Can God be black? Would God take the form of a woman? Is there any one stronger than God? And can He be overpowered?
 
-
-
 **[4:5]** "See, then, 0 Adam, and behold him bound in thy presence, in the air, unable to flee away! Therefore, I say unto thee, be not afraid of him; henceforth take care, and beware of him, in whatever he may do to thee."
-
-
 
 **[4:6]** Then God drove Satan away from before Adam, whom He strengthened, and whose heart He comforted, saying to him, "Go down to the Cave of Treasures, and separate not thyself from Eve; I will quell in you all animal lust."
 
-
-
 **[4:7]** From that hour it left Adam and Eve, and they enjoyed rest by the commandment of God. But God did not the like to any one of Adam's seed; but only to Adam and Eve.
 
-
-
 **[4:8]** Then Adam worshipped before the Lord, for having delivered him, and for having layed his passions. And he came down from above the cave, and dwelt with Eve as aforetime.
-
-
 
 **[4:9]** This ended the forty days of his separation from Eve.
 
 
-
 **[5:1]** As for Seth, when he was seven years old, he knew good and evil, and was consistent in fasting and praying, and spent all his nights in entreating God for mercy and forgiveness.
-
-
 
 **[5:2]** He also fasted when bringing up his offering every day, more than his father did; for he was of a fair countenance, like unto an angel of God. He also had a good heart, preserved the finest qualities of his soul; and for this reason he brought up his offering every day.
 
-
-
 **[5:3]** And God was pleased with his offering; but He was also pleased with his purity. And he continued thus in doing the will of God, and of his father and mother, until he was seven years old.
-
-
 
 **[5:4]** After that, as he was corning down from the altar, having ended his offering, Satan appeared unto him in the form of a beautiful angel, brilliant with light; with a staff of light in his hand, himself girt about with a girdle of light.
 
-
-
 **[5:5]** He greeted Seth with a beautiful smile, and began to beguile him with fair words, saying to him, "0 Seth, why abidest thou in this mountain? For it is rough, full of stones and of sand, and of trees with no good fruit on them; a wilderness without habitations and without towns; no good place to dwell in. But all is heat, weariness, and trouble."
-
-
 
 **[5:6]** He said further, 'But we dwell in beautiful places, in another world than this earth. Our world is one of light and our condition is of the best; our women are handsomer than any others; and I wish thee, 0 Seth, to wed one of them; because I see that thou art fair to look upon, and in this land there is not one woman good enough for thee. Besides, all those who live in this world, are only five souls.
 
-
-
 **[5:7]** "But in our world there are very many men and many maidens, all more beautiful one than another. I wish, therefore, to remove thee hence, that thou mayest see my relations and be wedded to which ever thou likest.
-
-
 
 **[5:8]** "Thou shalt then abide by me and be at peace; thou shalt be filled with splendour and light, as we are.
 
-
-
 **[5:9]** "Thou shalt remain in our world. and rest from this world and the misery of it; thou shalt never again feel faint and weary; thou shalt never bring up an offering, nor sue for mercy; for thou shalt commit no more sin nor be swayed by passions.
-
-
 
 **[5:10]** "And if thou wilt hearken to what I say, thou shalt wed one of my daughters; for with us it is no sin so to do; neither is it reckoned animal lust.
 
-
-
 **[5:11]** "For in our world we have no God; but we all are gods; we all are of the light, heavenly, powerful, strong and glorious."
-
 
 
 **[6:1]** When Seth heard these words he was amazed, and inclined his heart to Satan's treacherous speech, and said to him, "Saidst thou there is an-other world created than this; and other creatures more beautiful than the creatures that are in this world?"
