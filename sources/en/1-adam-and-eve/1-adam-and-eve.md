@@ -1062,1049 +1062,276 @@
 
 
 
-**[51:1]** When Adam heard these words from God, he took Eve and went from the
+**[51:1]** When Adam heard these words from God, he took Eve and went from the northern end of the garden to the south of it, by the river of water where they once fasted.
 
-northern end of the garden to the south of it, by the river of water
+**[51:2]** But as they were going on their way, and before they got there, Satan, the wicked one, had heard the Word of God communing with Adam respecting his covering.
 
-where they once fasted.
+**[51:3]** It grieved him, and he hastened to the place where the sheep-skins were, with the intention of taking them and throwing them into the sea, or of burning them with fire, so that Adam and Eve would not find them.
 
+**[51:4]** But as he was about to take them, the Word of God came from heaven, and bound him by the side of those skins until Adam and Eve came near him. But as they got closer to him they were afraid of him, and of his hideous look.
 
+**[51:5]** Then came the Word of God to Adam and Eve, and said to them, "This is he who was hidden in the serpent, and who deceived you, and stripped you of the garment of light and glory in which you were.
 
-**[51:2]** But as they were going on their way, and before they got there,
+**[51:6]** This is he who promised you majesty and divinity. Where, then, is the beauty that was on him?  Where is his divinity?  Where is his light? Where is the glory that rested on him?
 
-Satan, the wicked one, had heard the Word of God communing with Adam
+**[51:7]** Now his figure is hideous; he is become abominable among angels; and he has come to be called Satan.
 
-respecting his covering.
+**[51:8]** O Adam, he wished to take from you this earthly garment of sheep-skins, and to destroy it, and not let you be covered with it.
 
+**[51:9]** What, then, is his beauty that you should have followed him? And what have you gained by obeying him? See his evil works and then look at Me; at Me, your Creator, and at the good deeds I do you.
 
-
-**[51:3]** It grieved him, and he hastened to the place where the sheep-skins
-
-were, with the intention of taking them and throwing them into the sea,
-
-or of burning them with fire, so that Adam and Eve would not find them.
-
-
-
-**[51:4]** But as he was about to take them, the Word of God came from heaven,
-
-and bound him by the side of those skins until Adam and Eve came near
-
-him.  But as they got closer to him they were afraid of him, and of his
-
-hideous look.
-
-
-
-**[51:5]** Then came the Word of God to Adam and Eve, and said to them, "This is
-
-he who was hidden in the serpent, and who deceived you, and stripped
-
-you of the garment of light and glory in which you were.
-
-
-
-**[51:6]** This is he who promised you majesty and divinity.  Where, then, is
-
-the beauty that was on him?  Where is his divinity?  Where is his
-
-light?  Where is the glory that rested on him?
-
-
-
-**[51:7]** Now his figure is hideous; he is become abominable among angels; and
-
-he has come to be called Satan.
-
-
-
-**[51:8]** O Adam, he wished to take from you this earthly garment of
-
-sheep-skins, and to destroy it, and not let you be covered with it.
-
-
-
-**[51:9]** What, then, is his beauty that you should have followed him?  And
-
-what have you gained by obeying him?  See his evil works and then look
-
-at Me; at Me, your Creator, and at the good deeds I do you.
-
-
-
-**[51:10]** See, I bound him until you came and saw him and beheld his weakness,
-
-that no power is left with him."
-
-
+**[51:10]** See, I bound him until you came and saw him and beheld his weakness, that no power is left with him."
 
 **[51:11]** And God released him from his bonds.
 
 
+**[52:1]** After this Adam and Eve said no more, but cried before God on account of their creation, and of their bodies that required an earthly covering.
 
-**[52:1]** After this Adam and Eve said no more, but cried before God on account
+**[52:2]** Then Adam said to Eve, "O Eve, this is the skin of beasts with which we shall be covered, but when we put it on, behold, we shall be wearing a token of death on our bodies. Just as the owners of these skins have died and have wasted away, so also shall we die and pass away."
 
-of their creation, and of their bodies that required an earthly
+**[52:3]** Then Adam and Eve took the skins, and went back to the Cave of Treasures; and when in it, they stood and prayed as they were accustomed.
 
-covering.
+**[52:4]** And they thought how they could make garments of those skins; for they had no skill for it.
 
+**[52:5]** Then God sent to them His angel to show them how to work it out. And the angel said to Adam, "Go forth, and bring some palm-thorns." Then Adam went out, and brought some, as the angel had commanded him.
 
+**[52:6]** Then the angel began before them to work out the skins, after the manner of one who prepares a shirt. And he took the thorns and stuck them into the skins, before their eyes.
 
-**[52:2]** Then Adam said to Eve, "O Eve, this is the skin of beasts with which
+**[52:7]** Then the angel again stood up and prayed God that the thorns in those skins should be hidden, so as to be, as it were, sewn with one thread.
 
-we shall be covered,  but when we put it on, behold, we shall be
+**[52:8]** And so it was, by God's order; they became garments for Adam and Eve, and He clothed them therewith.
 
-wearing a token of death on our bodies. Just  as the owners of these
-
-skins have died and have wasted away,  so also shall we die and pass
-
-away."
-
-
-
-**[52:3]** Then Adam and Eve took the skins, and went back to the Cave of
-
-Treasures; and when in it, they stood and prayed as they were
-
-accustomed.
-
-
-
-**[52:4]** And they thought how they could make garments of those skins; for
-
-they had no skill for it.
-
-
-
-**[52:5]** Then God sent to them His angel to show them how to work it out.  And
-
-the angel said to Adam, "Go forth, and bring some palm-thorns."  Then
-
-Adam went out, and brought some, as the angel had commanded him.
-
-
-
-**[52:6]** Then the angel began before them to work out the skins, after the
-
-manner of one who prepares a shirt.  And he took the thorns and stuck
-
-them into the skins, before their eyes.
-
-
-
-**[52:7]** Then the angel again stood up and prayed God that the thorns in those
-
-skins should be hidden, so as to be, as it were, sewn with one thread.
-
-
-
-**[52:8]** And so it was, by God's order; they became garments for Adam and Eve,
-
-and He clothed them therewith.
-
-
-
-**[52:9]** From that time the nakedness of their bodies was covered from the
-
-sight of each other's eyes.
-
-
+**[52:9]** From that time the nakedness of their bodies was covered from the sight of each other's eyes.
 
 **[52:10]** And this happened at the end of the fifty-first day.
 
+**[52:11]** Then when Adam's and Eve's bodies were covered, they stood and prayed, and sought mercy of the Lord, and forgiveness, and gave Him thanks for that He had had mercy on them, and had covered their nakedness. And they ceased not from prayer the whole of that night.
+
+**[52:12]** Then when the morning dawned at the rising of the sun, they said their prayers after their custom; and then went out of the cave.
+
+**[52:13]** And Adam said to Eve, "Since we don't know what there is to the west of this cave, let us go out and see it today." Then they came forth and went toward the western border. 
 
 
-**[52:11]** Then when Adam's and Eve's bodies were covered, they stood and
+**[53:1]** They were not very far from the cave, when Satan came towards them, and hid himself between them and the cave, under the form of two ravenous lions three days without food, that came towards Adam and Eve, as if to break them in pieces and devour them.
 
-prayed, and sought mercy of the Lord, and forgiveness, and gave Him
-
-thanks for that He had had mercy on them, and had covered their
-
-nakedness.  And they ceased not from prayer the whole of that night.
-
-
-
-**[52:12]** Then when the morning dawned at the rising of the sun, they said
-
-their prayers after their custom; and then went out of the cave.
-
-
-
-**[52:13]** And Adam said to Eve, "Since we don't know what there is to the west
-
-of this cave, let us go out and see it today." Then they came forth and
-
-went toward the western border. 
-
-
-
-**[53:1]** They were not very far from the cave, when Satan came towards them,
-
-and hid himself between them and the cave, under the form of two
-
-ravenous lions three days without food, that came towards Adam and Eve,
-
-as if to break them in pieces and devour them.
-
-
-
-**[53:2]** Then Adam and Eve cried, and prayed God to deliver them from their
-
-paws.
-
-
+**[53:2]** Then Adam and Eve cried, and prayed God to deliver them from their paws.
 
 **[53:3]** Then the Word of God came to them, and drove away the lions from them.
 
+**[53:4]** And God said to Adam, "O Adam, what do you seek on the western border? And why have you left of thine own accord the eastern border, in which was your living place?
 
+**[53:5]** Now then, turn back to your cave, and remain in it, so that Satan won't deceive you or work his purpose over you.
 
-**[53:4]** And God said to Adam, "O Adam, what do you seek on the western
+**[53:6]** For in this western border, O Adam, there will go from you a descendant, that shall replenish it; and that will defile themselves with their sins, and with their yielding to the commands of Satan, and by following his works.
 
-border?  And why have you left of thine own accord the eastern border,
+**[53:7]** Therefore will I bring over them the waters of a flood, and overwhelm them all. But I will deliver what is left of the righteous among them; and I will bring them to a distant land, and the land in which you live now shall remain desolate and without one inhabitant in it.
 
-in which was your living place?
+**[53:8]** After God had thus spoken to them, they went back to the Cave of Treasures. But their flesh was dried up, and they were weak from fasting and praying, and from the sorrow they felt at having trespassed against God. 
 
 
+**[54:1]** Then Adam and Eve stood up in the cave and prayed the whole of that night until the morning dawned. And when the sun was risen they both went out of the cave; their heads were wandering from heaviness of sorrow and they didn't know where they were going.
 
-**[53:5]** Now then, turn back to your cave, and remain in it, so that Satan
+**[54:2]** And they walked in that condition to the southern border of the garden. And they began to go up that border until they came to the eastern border beyond which there was no more land.
 
-won't deceive you or work his purpose over you.
+**[54:3]** And the cherub who guarded the garden was standing at the western gate, and guarding it against Adam and Eve, lest they should suddenly come into the garden. And the cherub turned around, as if to put them to death; according to the commandment God had given him.
 
+**[54:4]** When Adam and Eve came to the eastern border of the garden--thinking in their hearts that the cherub was not watching--as they were standing by the gate as if wishing to go in, suddenly came the cherub with a flashing sword of fire in his hand; and when he saw them, he went forth to kill them. For he was afraid that God would destroy him if they went into the garden without His order.
 
+**[54:5]** And the sword of the cherub seemed to shoot flames a distance away from it. But when he raised it over Adam and Eve, the flame of the sword did not flash forth.
 
-**[53:6]** For in this western border, O Adam, there will go from you a
+**[54:6]** Therefore the cherub thought that God was favorable to them, and was bringing them back into the garden. And the cherub stood wondering.
 
-descendant, that shall replenish it; and that will defile themselves
+**[54:7]** He could not go up to Heaven to determine God's order regarding their getting into the garden; he therefore continued to stand by them, unable as he was to part from them; for he was afraid that if they should enter the garden without permission, God would destroy him.
 
-with their sins, and with their yielding to the commands of Satan, and
+**[54:8]** When Adam and Eve saw the cherub coming towards them with a flaming sword of fire in his hand, they fell on their faces from fear, and were as dead.
 
-by following his works.
+**[54:9]** At that time the heavens and the earth shook; and another cherubim came down from heaven to the cherub who guarded the garden, and saw him amazed and silent.
 
+**[54:10]** Then, again, other angels came down close to the place where Adam and Eve were. They were divided between joy and sorrow.
 
+**[54:11]** They were glad, because they thought that God was favorable to Adam, and wished him to return to the garden; and wished to restore him to the gladness he once enjoyed.
 
-**[53:7]** Therefore will I bring over them the waters of a flood, and overwhelm
+**[54:12]** But they sorrowed over Adam, because he was fallen like a dead man, he and Eve; and they said in their thoughts, "Adam has not died in this place; but God has put him to death, for his having come to this place, and wishing to get into the garden without His permission." 
 
-them all.  But I will deliver what is left of the righteous among them;
 
-and I will bring them to a distant land, and the land in which you live
+**[55:1]** Then came the Word of God to Adam and Eve, and raised them from their dead state, saying to them, "Why did you come up here?  Do you intend to go into the garden, from which I brought you out? It cannot be today; but only when the covenant I have made with you is fulfilled."
 
-now shall remain desolate and without one inhabitant in it.
+**[55:2]** Then Adam, when he heard the Word of God, and the fluttering of the angels whom he did not see, but only heard the sound of them with his ears, he and Eve cried, and said to the angels:--
 
+**[55:3]** "O Spirits, who wait on God, look at me, and at my being unable to see you! For when I was in my former bright nature, then I could see you. I sang praises as you do; and my heart was far above you.
 
+**[55:4]** But now, that I have transgressed, that bright nature is gone from me, and I am come to this miserable state. And now I have come to this, that I cannot see you, and you do not serve me like you used to do. For I have become animal flesh.
 
-**[53:8]** After God had thus spoken to them, they went back to the Cave of
+**[55:5]** Yet now, O angels of God, ask God with me, to restore me to that wherein I was formerly; to rescue me from this misery, and to remove from me the sentence of death He passed on me, for having trespassed against Him."
 
-Treasures.  But their flesh was dried up, and they were weak from
+**[55:6]** Then, when the angels heard these words, they all grieved over him; and cursed Satan who had misled Adam, until he came from the garden to misery; from life to death; from peace to trouble; and from gladness to a strange land.
 
-fasting and praying, and from the sorrow they felt at having trespassed
+**[55:7]** Then the angels said to Adam, "You obeyed Satan, and ignored the Word of God who created you; and you believed that Satan would fulfil all he had promised you.
 
-against God. 
+**[55:8]** But now, O Adam, we will make known to you, what came over us though him, before his fall from heaven.
 
+**[55:9]** He gathered together his hosts, and deceived them, promising to give them a great kingdom, a divine nature; and other promises he made them.
 
+**[55:10]** His hosts believed that his word was true, so they yielded to him, and renounced the glory of God.
 
-**[54:1]** Then Adam and Eve stood up in the cave and prayed the whole of that
+**[55:11]** He then sent for us--according to the orders in which we were--to come under his command, and to accept his vain promise. But we would not, and we did not take his advice.
 
-night until the morning dawned.  And when the sun was risen they both
+**[55:12]** Then after he had fought with God, and had dealt forwardly with Him, he gathered together his hosts, and made war with us. And if it had not been for God's strength that was with us, we could not have prevailed against him to hurl him from heaven.
 
-went out of the cave; their heads were wandering from heaviness of
+**[55:13]** But when he fell from among us, there was great joy in heaven, because of his going down from us. For if he had remained in heaven, nothing, not even one angel would have remained in it.
 
-sorrow and they didn't know where they were going.
+**[55:14]** But God in His mercy, drove him from among us to this dark earth; for he had become darkness itself and a worker of unrighteousness.
 
+**[55:15]** And he has continued, O Adam, to make war against you, until he tricked you and made you come out of the garden, to this strange land, where all these trials have come to you. And death, which God brought to him, he has also brought to you, O Adam, because you obeyed him, and trespassed against God."
 
-
-**[54:2]** And they walked in that condition to the southern border of the
-
-garden.  And they began to go up that border until they came to the
-
-eastern border beyond which there was no more land.
-
-
-
-**[54:3]** And the cherub who guarded the garden was standing at the western
-
-gate, and guarding it against Adam and Eve, lest they should suddenly
-
-come into the garden.  And the cherub turned around, as if to put them
-
-to death; according to the commandment God had given him.
-
-
-
-**[54:4]** When Adam and Eve came to the eastern border of the garden--thinking
-
-in their hearts that the cherub was not watching--as they were standing
-
-by the gate as if wishing to go in, suddenly came the cherub with a
-
-flashing sword of fire in his hand; and when he saw them, he went forth
-
-to kill them.  For he was afraid that God would destroy him if they
-
-went into the garden without His order.
-
-
-
-**[54:5]** And the sword of the cherub seemed to shoot flames a distance away
-
-from it.  But when he raised it over Adam and Eve, the flame of the
-
-sword did not flash forth.
-
-
-
-**[54:6]** Therefore the cherub thought that God was favorable to them, and was
-
-bringing them back into the garden.  And the cherub stood wondering.
-
-
-
-**[54:7]** He could not go up to Heaven to determine God's order regarding their
-
-getting into the garden; he therefore continued to stand by them,
-
-unable as he was to part from them; for he was afraid that if  they
-
-should enter the garden without permission, God would destroy him.
-
-
-
-**[54:8]** When Adam and Eve saw the cherub coming towards them with a flaming
-
-sword of fire in his hand, they fell on their faces from fear, and were
-
-as dead.
-
-
-
-**[54:9]** At that time the heavens and the earth shook; and another cherubim
-
-came down from heaven to the cherub who guarded the garden, and saw him
-
-amazed and silent.
-
-
-
-**[54:10]** Then, again, other angels came down close to the place where Adam
-
-and Eve were.  They were divided between joy and sorrow.
-
-
-
-**[54:11]** They were glad, because they thought that God was favorable to Adam,
-
-and wished him to return to the garden; and wished to restore him to
-
-the gladness he once enjoyed.
-
-
-
-**[54:12]** But they sorrowed over Adam, because he was fallen like a dead man,
-
-he and Eve; and they said in their thoughts, "Adam has not died in this
-
-place; but God has put him to death, for his having come to this place,
-
-and wishing to get into the garden without His permission." 
-
-
-
-**[55:1]** Then came the Word of God to Adam and Eve, and raised them from their
-
-dead state, saying to them, "Why did you come up here?  Do you intend
-
-to go into the garden, from which I brought you out?  It cannot be
-
-today; but only when the covenant I have made with you is fulfilled."
-
-
-
-**[55:2]** Then Adam, when he heard the Word of God, and the fluttering of the
-
-angels whom he did not see, but only heard the sound of them with his
-
-ears, he and Eve cried, and said to the angels:--
-
-
-
-**[55:3]** "O Spirits, who wait on God, look at me, and at my being unable to
-
-see you!  For when I was in my former bright nature, then I could see
-
-you.  I sang praises as you do; and my heart was far above you.
-
-
-
-**[55:4]** But now, that I have transgressed, that bright nature is gone from
-
-me, and I am come to this miserable state.  And now I have come to
-
-this, that I cannot see you, and you do not serve me like you used to
-
-do.  For I have become animal flesh.
-
-
-
-**[55:5]** Yet now, O angels of God, ask God with me, to restore me to that
-
-wherein I was formerly; to rescue me from this misery, and to remove
-
-from me the sentence of death He passed on me, for having trespassed
-
-against Him."
-
-
-
-**[55:6]** Then, when the angels heard these words, they all grieved over him;
-
-and cursed Satan who had misled Adam, until he came from the garden to
-
-misery; from life to death; from peace to trouble; and from gladness to
-
-a strange land.
-
-
-
-**[55:7]** Then the angels said to Adam, "You obeyed Satan, and ignored the Word
-
-of God who created you; and you believed that Satan would fulfil all he
-
-had promised you.
-
-
-
-**[55:8]** But now, O Adam, we will make known to you, what came over us though
-
-him, before his fall from heaven.
-
-
-
-**[55:9]** He gathered together his hosts, and deceived them, promising to give
-
-them a great kingdom, a divine nature; and other promises he made them.
-
-
-
-**[55:10]** His hosts believed that his word was true, so they yielded to him,
-
-and renounced the glory of God.
-
-
-
-**[55:11]** He then sent for us--according to the orders in which we were--to
-
-come under his command, and to accept his vein promise.  But we would
-
-not, and we did not take his advice.
-
-
-
-**[55:12]** Then after he had fought with God, and had dealt forwardly with Him,
-
-he gathered together his hosts, and made war with us.  And if it had
-
-not been for God's strength that was with us, we could not have
-
-prevailed against him to hurl him from heaven.
-
-
-
-**[55:13]** But when he fell from among us, there was great joy in heaven,
-
-because of his going down from us.  For if he had remained in heaven,
-
-nothing, not even one angel would have remained in it.
-
-
-
-**[55:14]** But God in His mercy, drove him from among us to this dark earth;
-
-for he had become darkness itself and a worker of unrighteousness.
-
-
-
-**[55:15]** And he has continued, O Adam, to make war against you, until he
-
-tricked you and made you come out of the garden, to this strange land,
-
-where all these trials have come to you.  And death, which God brought
-
-to him, he has also brought to you, O Adam, because you obeyed him, and
-
-trespassed against God."
-
-
-
-**[55:16]** Then all the angels rejoiced and praised God, and asked Him not to
-
-destroy Adam this time, for his having sought to enter the garden; but
-
-to bear with him until the fulfillment of the promise; and to help him
-
-in this world until he was free from Satan's hand. 
-
+**[55:16]** Then all the angels rejoiced and praised God, and asked Him not to destroy Adam this time, for his having sought to enter the garden; but to bear with him until the fulfillment of the promise; and to help him in this world until he was free from Satan's hand. 
 
 
 **[56:1]** Then came the Word of God to Adam, and said to him:--
 
+**[56:2]** "O Adam, look at that garden of joy and at this earth of toil, and behold the garden is full of angels, but look at yourself alone on this earth with Satan whom you obeyed.
 
+**[56:3]** Yet, if you had submitted, and been obedient to Me, and had kept My Word, you would be with My angels in My garden.
 
-**[56:2]** "O Adam, look at that garden of joy and at this earth of toil, and
+**[56:4]** But when you transgressed and obeyed Satan, you became his guests among his angels, that are full of wickedness; and you came to this earth, that brings forth to you thorns and thistles.
 
-behold the garden is full of angels, but look at yourself alone on this
+**[56:5]** O Adam, ask him who deceived you, to give you the divine nature he promised you, or to make you a garden as I had made for you; or to fill you with that same bright nature with which I had filled you.
 
-earth with Satan whom you obeyed.
+**[56:6]** Ask him to make you a body like the one I made you, or to give you a day of rest as I gave you; or to create within you a reasonable soul, as I created for you; or to take you from here to some other earth than this one which I gave you. But, O Adam, he will not fulfil even one of the things he told you.
 
+**[56:7]** Acknowledge, then, My favor towards you, and My mercy on you, My creature; that I have not avenged you for your transgression against Me, but in My pity for you I have promised you that at the end of the great five and a half days I will come and save you."
 
+**[56:8]** Then God said again to Adam and Eve, "Get up, go down from here, before the cherub with a sword of fire in his hand destroys you."
 
-**[56:3]** Yet, if you had submitted, and been obedient to Me, and had kept My
+**[56:9]** But Adam's heart was comforted by God's words to him, and he worshipped before Him.
 
-Word, you would be with My angels in My garden.
+**[56:10]** And God commanded His angels to escort Adam and Eve to the cave with joy, instead of the fear that had come over them.
 
+**[56:11]** Then the angels took up Adam and Eve, and brought them down from the mountain by the garden, with songs and psalms, until they arrived at the cave. There the angels began to comfort and to strengthen them, and then departed from them towards heaven, to their Creator, who had sent them.
 
+**[56:12]** But after the angels had departed from Adam and Eve, Satan came with shamefacedness, and stood at the entrance of the cave in which were Adam and Eve. He then called to Adam, and said, "O Adam, come, let me speak to you."
 
-**[56:4]** But when you transgressed and obeyed Satan, you became his guests
+**[56:13]** Then Adam came out of the cave, thinking he was one of God's angels that was come to give him some good counsel.
 
-among his angels, that are full of wickedness; and you came to this
 
-earth, that brings forth to you thorns and thistles.
+**[57:1]** But when Adam came out and saw his hideous figure, he was afraid of him, and said to him, "Who are you?"
 
+**[57:2]** Then Satan answered and said to him, "It is I, who hid myself within the serpent, and who spoke to Eve, and who enticed her until she obeyed my command. I am he who sent her, using my deceitful speech, to deceive you, until you both ate of the fruit of the tree and abandoned the command of God."
 
+**[57:3]** But when Adam heard these words from him, he said to him, "Can you make me a garden as God made for me?  Or can you clothe me in the same bright nature in which God had clothed me?
 
-**[56:5]** O Adam, ask him who deceived you, to give you the divine nature he
+**[57:4]** Where is the divine nature you promised to give me? Where is that slick speech of yours that you had with us at first, when we were in the garden?"
 
-promised you, or to make you a garden as I had made for you; or to fill
+**[57:5]** Then Satan said to Adam, "Do you think that when I have promised one something that I would actually deliver it to him or fulfil my word? Of course not. For I myself have never even thought of obtaining what I promised.
 
-you with that same bright nature with which I had filled you.
+**[57:6]** Therefore I fell, and I made you fall by that for which I myself fell; and with you also, whosoever accepts my counsel, falls thereby.
 
+**[57:7]** But now, O Adam, because you fell you are under my rule, and I am king over you; because you have obeyed me and have transgressed against your God. Neither will there be any deliverance from my hands until the day promised you by your God."
 
+**[57:8]** Again he said, "Because we do not know the day agreed on with you by your God, nor the hour in which you shall be delivered, for that reason we will multiply war and murder on you and your descendants after you.
 
-**[56:6]** Ask him to make you a body like the one I made you, or to give you a
+**[57:9]** This is our will and our good pleasure, that we may not leave one of the sons of men to inherit our orders in heaven.
 
-day of rest as I gave you; or to create within you a reasonable soul,
+**[57:10]** For as to our home, O Adam, it is in burning fire; and we will not stop our evil doing, no, not one day nor one hour.  And I, O Adam, shall set you on fire when you come into the cave to live there."
 
-as I created for you; or to take you from here to some other earth than
-
-this one which I gave you.  But, O Adam, he will not fulfil even one of
-
-the things he told you.
-
-
-
-**[56:7]** Acknowledge, then, My favor towards you, and My mercy on you, My
-
-creature; that I have not avenged you for your transgression against
-
-Me, but in My pity for you I have promised you that at the end of the
-
-great five and a half days I will come and save you."
-
-
-
-**[56:8]** Then God said again to Adam and Eve, "Get up, go down from here,
-
-before the cherub with a sword of fire in his hand destroys you."
-
-
-
-**[56:9]** But Adam's heart was comforted by God's words to him, and he
-
-worshipped before Him.
-
-
-
-**[56:10]** And God commanded His angels to escort Adam and Eve to the cave with
-
-joy, instead of the fear that had come over them.
-
-
-
-**[56:11]** Then the angels took up Adam and Eve, and brought them down from the
-
-mountain by the garden, with songs and psalms, until they arrived at
-
-the cave.  There the angels began to comfort and to strengthen them,
-
-and then departed from them towards heaven, to their Creator, who had
-
-sent them.
-
-
-
-**[56:12]** But after the angels had departed from Adam and Eve, Satan came with
-
-shamefacedness, and stood at the entrance of the cave in which were
-
-Adam and Eve.  He then called to Adam, and said, "O Adam, come, let me
-
-speak to you."
-
-
-
-**[56:13]** Then Adam came out of the cave, thinking he was one of God's angels
-
-that was come to give him some good counsel.
-
-
-
-**[57:1]** But when Adam came out and saw his hideous figure, he was afraid of
-
-him, and said to him, "Who are you?"
-
-
-
-**[57:2]** Then Satan answered and said to him, "It is I, who hid myself within
-
-the serpent, and who spoke to Eve, and who enticed her until she obeyed
-
-my command.  I am he who sent her, using my deceitful speech, to
-
-deceive you,  until you both ate of the fruit of the tree and abandoned
-
-the command of God."
-
-
-
-**[57:3]** But when Adam heard these words from him, he said to him, "Can you
-
-make me a garden as God made for me?  Or can you clothe me in the same
-
-bright nature in which God had clothed me?
-
-
-
-**[57:4]** Where is the divine nature you promised to give me?  Where is that
-
-slick speech of yours that you had with us at first, when we were in
-
-the garden?"
-
-
-
-**[57:5]** Then Satan said to Adam, "Do you think that when I have promised one
-
-something that I would actually deliver it to him or fulfil my word?
-
-Of course not.  For I myself have never even thought of obtaining what
-
-I promised.
-
-
-
-**[57:6]** Therefore I fell, and I made you fall by that for which I myself
-
-fell; and with you also, whosoever accepts my counsel, falls thereby.
-
-
-
-**[57:7]** But now, O Adam, because you fell you are under my rule, and I am
-
-king over you; because you have obeyed me and have transgressed against
-
-your God.  Neither will there be any deliverance from my hands until
-
-the day promised you by your God."
-
-
-
-**[57:8]** Again he said, "Because we do not know the day agreed on with you by
-
-your God, nor the hour in which you shall be delivered, for that reason
-
-we will multiply war and murder on you and your descendants after you.
-
-
-
-**[57:9]** This is our will and our good pleasure, that we may not leave one of
-
-the sons of men to inherit our orders in heaven.
-
-
-
-**[57:10]** For as to our home, O Adam, it is in burning fire; and we will not
-
-stop our evil doing, no, not one day nor one hour.  And I, O Adam,
-
-shall set you on fire when you come into the cave to live there."
-
-
-
-**[57:11]** When Adam heard these words he cried and mourned, and said to Eve,
-
-"Hear what he said; that he won't fulfil any of what he told you in the
-
-garden.  Did he really then become king over us?
-
-
+**[57:11]** When Adam heard these words he cried and mourned, and said to Eve, "Hear what he said; that he won't fulfil any of what he told you in the garden. Did he really then become king over us?
 
 **[57:12]** But we will ask God, who created us, to deliver us out of his hands."
 
 
+**[58:1]** Then Adam and Eve spread their hands before God, praying and begging Him to drive Satan away from them so that he can't harm them or force them to deny God.
 
-**[58:1]** Then Adam and Eve spread their hands before God, praying and begging
+**[58:2]** Then God sent to them at once, His angel, who drove away Satan from them. This happened about sunset, on the fifty-third day after they had come out of the garden.
 
-Him to drive Satan away from them so that he can't harm them or force
+**[58:3]** Then Adam and Eve went into the cave, and stood up and turned their faces to the ground, to pray to God.
 
-them to deny God.
-
-
-
-**[58:2]** Then God sent to them at once, His angel, who drove away Satan from
-
-them.  This happened about sunset, on the fifty-third day after they
-
-had come out of the garden.
-
-
-
-**[58:3]** Then Adam and Eve went into the cave, and stood up and turned their
-
-faces to the ground, to pray to God.
-
-
-
-**[58:4]** But before they prayed Adam said to Eve, "Look, you have seen what
-
-temptations have befallen us in this land.  Come, let us get up, and
-
-ask God to forgive us the sins we have committed; and we will not come
-
-out until the end of the day next to the fortieth.  And if we die in
-
-here, He will save us."
-
-
+**[58:4]** But before they prayed Adam said to Eve, "Look, you have seen what temptations have befallen us in this land. Come, let us get up, and ask God to forgive us the sins we have committed; and we will not come out until the end of the day next to the fortieth. And if we die in here, He will save us."
 
 **[58:5]** Then Adam and Eve got up, and joined together in entreating God.
 
+**[58:6]** They continued praying like this in the cave; neither did they come out of it, by night or by day, until their prayers went up out of their mouths, like a flame of fire. 
 
 
-**[58:6]** They continued praying like this in the cave; neither did they come
+**[59:1]** But Satan, the hater of all good, did not allow them to finish their prayers. For he called to his hosts, and they came, all of them. Then he said to them, "Since Adam and Eve, whom we deceived, have agreed together to pray to God night and day, and to beg Him to deliver them, and since they will not come out of the cave until the end of the fortieth day.
 
-out of it, by night or by day, until their prayers went up out of their
+**[59:2]** And since they will continue their prayers as they have both agreed to do, that He will deliver them out of our hands, and restore them to their former state, see what we shall do to them." And his hosts said to him, "Power is thine, O our lord, to do what you list."
 
-mouths, like a flame of fire. 
+**[59:3]** Then Satan, great in wickedness, took his hosts and came into the cave, in the thirtieth night of the forty days and one; and he beat Adam and Eve, until he left them dead.
 
+**[59:4]** Then came the Word of God to Adam and Eve, who raised them from their suffering, and God said to Adam, "Be strong, and be not afraid of him who has just come to you."
 
+**[59:5]** But Adam cried and said, "Where were you, O my God, that they should punish me with such blows, and that this suffering should come over us; over me and over Eve, Your handmaiden?"
 
-**[59:1]** But Satan, the hater of all good, did not allow them to finish their
+**[59:6]** Then God said to him, "O Adam, see, he is lord and master of all you have, he who said, he would give you divinity. Where is this love for you? And where is the gift he promised?
 
-prayers.  For he called to his hosts, and they came, all of them.  Then
+**[59:7]** Did it please him just once, O Adam, to come to you, comfort you, strengthen you, rejoice with you, or send his hosts to protect you; because you have obeyed him, and have yielded to his counsel; and have followed his commandment and transgressed Mine?"
 
-he said to them, "Since Adam and Eve, whom we deceived, have agreed
+**[59:8]** Then Adam cried before the Lord, and said, "O Lord because I transgressed a little, You have severely punished me in return for it, I ask You to deliver me out of his hands; or else have pity on me, and take my soul out of my body now in this strange land."
 
-together to pray to God night and day, and to beg Him to deliver them,
+**[59:9]** Then God said to Adam, "If only there had been this sighing and praying before, before you transgressed! Then would you have rest from the trouble in which you are now."
 
-and since they will not come out of the cave until the end of the
+**[59:10]** But God had patience with Adam, and let him and Eve remain in the cave until they had fulfilled the forty days.
 
-fortieth day.
+**[59:11]** But as to Adam and Eve, their strength and flesh withered from fasting and praying, from hunger and thirst; for they had not tasted either food or drink since they left the garden; nor were the functions of their bodies yet settled; and they had no strength left to continue in prayer from hunger, until the end of the next day to the fortieth. They were fallen down in the cave; yet what speech escaped from their mouths, was only in praises. 
 
 
+**[60:1]** Then on the eighty-ninth day, Satan came to the cave, clad in a garment of light, and girt about with a bright girdle.
 
-**[59:2]** And since they will continue their prayers as they have both agreed
+**[60:2]** In his hands was a staff of light, and he looked most awful; but his face was pleasant and his speech was sweet.
 
-to do, that He will deliver them out of our hands, and restore them to
+**[60:3]** He thus transformed himself in order to deceive Adam and Eve, and to make them come out of the cave, before they had fulfilled the forty days.
 
-their former state, see what we shall do to them."  And his hosts said
-
-to him, "Power is thine, O our lord, to do what you list."
-
-
-
-**[59:3]** Then Satan, great in wickedness, took his hosts and came into the
-
-cave, in the thirtieth night of the forty days and one; and he beat
-
-Adam and Eve, until he left them dead.
-
-
-
-**[59:4]** Then came the Word of God to Adam and Eve, who raised them from their
-
-suffering, and God said to Adam, "Be strong, and be not afraid of him
-
-who has just come to you."
-
-
-
-**[59:5]** But Adam cried and said, "Where were you, O my God, that they should
-
-punish me with such blows, and that this suffering should come over us;
-
-over me and over Eve, Your handmaiden?"
-
-
-
-**[59:6]** Then God said to him, "O Adam, see, he is lord and master of all you
-
-have, he who said, he would give you divinity.  Where is this love for
-
-you?  And where is the gift he promised?
-
-
-
-**[59:7]** Did it please him just once, O Adam, to come to you, comfort you,
-
-strengthen you, rejoice with you, or send his hosts to protect you;
-
-because you have obeyed him, and have yielded to his counsel; and have
-
-followed his commandment and transgressed Mine?"
-
-
-
-**[59:8]** Then Adam cried before the Lord, and said, "O Lord because I
-
-transgressed a little, You have severely punished me in return for it,
-
-I ask You to deliver me out of his hands; or else have pity on me, and
-
-take my soul out of my body now in this strange land."
-
-
-
-**[59:9]** Then God said to Adam, "If only there had been this sighing and
-
-praying before, before you transgressed!  Then would you have rest from
-
-the trouble in which you are now."
-
-
-
-**[59:10]** But God had patience with Adam, and let him and Eve remain in the
-
-cave until they had fulfilled the forty days.
-
-
-
-**[59:11]** But as to Adam and Eve, their strength and flesh withered from
-
-fasting and praying, from hunger and thirst; for they had not tasted
-
-either food or drink since they left the garden; nor were the functions
-
-of their bodies yet settled; and they had no strength left to continue
-
-in prayer from hunger, until the end of the next day to the fortieth.
-
-They were fallen down in the cave; yet what speech escaped from their
-
-mouths, was only in praises. 
-
-
-
-**[60:1]** Then on the eighty-ninth day, Satan came to the cave, clad in a
-
-garment of light, and girt about with a bright girdle.
-
-
-
-**[60:2]** In his hands was a staff of light, and he looked most awful; but his
-
-face was pleasant and his speech was sweet.
-
-
-
-**[60:3]** He thus transformed himself in order to deceive Adam and Eve, and to
-
-make them come out of the cave, before they had fulfilled the forty
-
-days.
-
-
-
-**[60:4]** For he said within himself, "Now that when they had fulfilled the
-
-forty days' fasting and praying, God would restore them to their former
-
-state; but if He did not do so, He would still be favorable to them;
-
-and even if He had not mercy on them, would He yet give them something
-
-from the garden to comfort them; as already twice before."
-
-
+**[60:4]** For he said within himself, "Now that when they had fulfilled the forty days' fasting and praying, God would restore them to their former state; but if He did not do so, He would still be favorable to them; and even if He had not mercy on them, would He yet give them something from the garden to comfort them; as already twice before."
 
 **[60:5]** Then Satan drew near the cave in this fair appearance, and said:--
 
+**[60:6]** "O Adam, get up, stand up, you and Eve, and come along with me, to a good land; and don't be afraid. I am flesh and bones like you; and at first I was a creature that God created.
 
+**[60:7]** And it was so, that when He had created me, He placed me in a garden in the north, on the border of the world.
 
-**[60:6]** "O Adam, get up, stand up, you and Eve, and come along with me, to a
+**[60:8]** And He said to me, 'Stay here!' And I remained there according to His Word, neither did I transgress His commandment.
 
-good land; and don't be afraid.  I am flesh and bones like you; and at
+**[60:9]** Then He made a slumber to come over me, and He brought you, O Adam, out of my side, but did not make you stay with me.
 
-first I was a creature that God created.
+**[60:10]** But God took you in His divine hand, and placed you in a garden to the eastward.
 
+**[60:11]** Then I worried about you, for that while God had taken you out of my side, He had not let you stay with me.
 
+**[60:12]** But God said to me: 'Do not worry about Adam, whom I brought out of your side; no harm will come to him.
 
-**[60:7]** And it was so, that when He had created me, He placed me in a garden
+**[60:13]** For now I have brought out of his side a help-meet for him; and I have given him joy by so doing.'"
 
-in the north, on the border of the world.
+**[60:14]** Then Satan said again, "I did not know how it is you are in this cave, nor anything about this trial that has come over you--until God said to me, 'Behold, Adam has transgressed, he whom I had taken out of your side, and Eve also, whom I took out of his side; and I have driven them out of the garden; I have made them live in a land of sorrow and misery, because they transgressed against Me, and have obeyed Satan. And look, they are in suffering until this day, the eightieth.'
 
+**[60:15]** Then God said to me, 'Get up, go to them, and make them come to your place, and suffer not that Satan come near them, and afflict them. For they are now in great misery; and lie helpless from hunger.'
 
+**[60:16]** He further said to me, 'When you have taken them to yourself, give them to eat of the fruit of the Tree of Life, and give them to drink of the water of peace; and clothe them in a garment of light, and restore them to their former state of grace, and leave them not in misery, for they came from you. But grieve not over them, nor repent of that which has come over them.
 
-**[60:8]** And He said to me, 'Stay here!'  And I remained there according to
+**[60:17]** But when I heard this, I was sorry; and my heart could not patiently bear it for your sake, O my child.
 
-His Word, neither did I transgress His commandment.
+**[60:18]** But, O Adam, when I heard the name of Satan, I was afraid, and I said within myself, I will not come out because he might trap me as he did my children, Adam and Eve.
 
+**[60:19]** And I said, 'O God, when I go to my children, Satan will meet me in the way, and war against me, as he did against them.'
 
+**[60:20]** Then God said to me, 'Fear not; when you find him, hit him with the staff that is in thine hand, and don't be afraid of him, for you are of old standing, and he shall not prevail against you.'
 
-**[60:9]** Then He made a slumber to come over me, and He brought you, O Adam,
+**[60:21]** Then I said, 'O my Lord, I am old, and cannot go. Send Your angels to bring them.'
 
-out of my side, but did not make you stay with me.
+**[60:22]** But God said to me, 'Angels, verily, are not like them; and they will not consent to come with them. But I have chosen you, because they are your offspring and are like you, and they will listen to what you say.'
 
+**[60:23]** God said further to me, 'If you don't have enough strength to walk, I will send a cloud to carry you and set you down at the entrance of their cave; then the cloud will return and leave you there.
 
+**[60:24]** And if they will come with you, I will send a cloud to carry you and them.'
 
-**[60:10]** But God took you in His divine hand, and placed you in a garden to
+**[60:25]** Then He commanded a cloud, and it bear me up and brought me to you; and then went back.
 
-the eastward.
+**[60:26]** And now, O my children, Adam and Eve, look at my old gray hair and at my feeble state, and at my coming from that distant place. Come, come with me, to a place of rest."
 
+**[60:27]** Then he began to cry and to sob before Adam and Eve, and his tears poured on the ground like water.
 
+**[60:28]** And when Adam and Eve raised their eyes and saw his beard, and heard his sweet talk, their hearts softened towards him; they obeyed him, for they believed he was true.
 
-**[60:11]** Then I worried about you, for that while God had taken you out of my
-
-side, He had not let you stay with me.
-
-
-
-**[60:12]** But God said to me: 'Do not worry about Adam, whom I brought out of
-
-your side; no harm will come to him.
-
-
-
-**[60:13]** For now I have brought out of his side a help-meet for him; and I
-
-have given him joy by so doing.'"
-
-
-
-**[60:14]** Then Satan said again, "I did not know how it is you are in this
-
-cave, nor anything about this trial that has come over you--until God
-
-said to me, 'Behold, Adam has transgressed, he whom I had taken out of
-
-your side, and Eve also, whom I took out of his side; and I have driven
-
-them out of the garden; I have made them live in a land of sorrow and
-
-misery, because they transgressed against Me, and have obeyed Satan.
-
-And look, they are in suffering until this day, the eightieth.'
-
-
-
-**[60:15]** Then God said to me, 'Get up, go to them, and make them come to your
-
-place, and suffer not that Satan come near them, and afflict them.  For
-
-they are now in great misery; and lie helpless from hunger.'
-
-
-
-**[60:16]** He further said to me, 'When you have taken them to yourself, give
-
-them to eat of the fruit of the Tree of Life, and give them to drink of
-
-the water of peace; and clothe them in a garment of light, and restore
-
-them to their former state of grace, and leave them not in misery, for
-
-they came from you.  But grieve not over them, nor repent of that which
-
-has come over them.
-
-
-
-**[60:17]** But when I heard this, I was sorry; and my heart could not patiently
-
-bear it for your sake, O my child.
-
-
-
-**[60:18]** But, O Adam, when I heard the name of Satan, I was afraid, and I
-
-said within myself, I will not come out because he might trap me as he
-
-did my children, Adam and Eve.
-
-
-
-**[60:19]** And I said, 'O God, when I go to my children, Satan will meet me in
-
-the way, and war against me, as he did against them.'
-
-
-
-**[60:20]** Then God said to me, 'Fear not; when you find him, hit him with the
-
-staff that is in thine hand, and don't be afraid of him, for you are of
-
-old standing, and he shall not prevail against you.'
-
-
-
-**[60:21]** Then I said, 'O my Lord, I am old, and cannot go.  Send Your angels
-
-to bring them.'
-
-
-
-**[60:22]** But God said to me, 'Angels, verily, are not like them; and they
-
-will not consent to come with them.  But I have chosen you, because
-
-they are your offspring and are like you, and they will listen to what
-
-you say.'
-
-
-
-**[60:23]** God said further to me, 'If you don't have enough strength to walk,
-
-I will send a cloud to carry you and set you down at the entrance of
-
-their cave; then the cloud will return and leave you there.
-
-
-
-**[60:24]** And if they will come with you, I will send a cloud to carry you and
-
-them.'
-
-
-
-**[60:25]** Then He commanded a cloud, and it bear me up and brought me to you;
-
-and then went back.
-
-
-
-**[60:26]** And now, O my children, Adam and Eve, look at my old gray hair and
-
-at my feeble state, and at my coming from that distant place.  Come,
-
-come with me, to a place of rest."
-
-
-
-**[60:27]** Then he began to cry and to sob before Adam and Eve, and his tears
-
-poured on the ground like water.
-
-
-
-**[60:28]** And when Adam and Eve raised their eyes and saw his beard, and heard
-
-his sweet talk, their hearts softened towards him; they obeyed him, for
-
-they believed he was true.
-
-
-
-**[60:29]** And it seemed to them that they were really his offspring, when they
-
-saw that his face was like their own; and they trusted him. 
+**[60:29]** And it seemed to them that they were really his offspring, when they saw that his face was like their own; and they trusted him. 
 
 
 
