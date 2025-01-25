@@ -1,0 +1,1296 @@
+# Athanasius: Defence Against the Arians I
+
+[1:1] Defence Against the Arians.
+
+[1:2]   Introduction.
+
+[1:3] 1.
+
+[1:4] I supposed that, after so many proofs of my innocence had been given, my enemies would have shrunk from further enquiry, and would now have condemned themselves for their false accusations of others.
+
+[1:5] But as they are not yet abashed, though they have been so clearly convicted, but, as insensible to shame, persist in their slanderous reports against me, professing to think that the whole matter ought to be tried over again (not that they may have judgment passed on them, for that they avoid, but in order to harass me, and to disturb the minds of the simple); I therefore thought it necessary to make my defence unto you, that you may listen to their murmurings no longer, but may denounce their wickedness and base calumnies.
+
+[1:6] And it is only to you, who are men of sincere minds, that I offer a defence: as for the contentious, I appeal confidently to the decisive proofs which I have against them.
+
+[1:7] For my cause needs no further judgment; for judgment has already been given, and not once or twice only, but many times.
+
+[1:8] First of all, it was tried in my own country in an assembly of nearly one hundred of its Bishops; a second time at Rome, when, in consequence of letters from Eusebius, both they and we were summoned, and more than fifty Bishops met; and a third time in the great Council assembled at Sardica by order of the most religious Emperors Constantius and Constans, when my enemies were degraded as false accusers, and the sentence that was passed in my favour received the suffrages of more than three hundred Bishops, out of the provinces of Egypt, Libya, and Pentapolis, Palestine, Arabia, Isauria, Cyprus, Pamphylia, Lycia, Galatia, Dacia, Moesia, Thrace, Dardania, Macedonia, Epirus, Thessaly, Achaia, Crete, Dalmatia, Siscia, Pannonia, Noricum, Italy, Picenum, Tuscany, Campania, Calabria, Apulia, Bruttia, Sicily, the whole of Africa, Sardinia, Spain, Gaul, and Britain.
+
+[1:9] Added to these was the testimony of Ursacius and Valens, who had formerly calumniated me, but afterwards changed their minds, and not only gave their assent to the sentence that was passed in my favour, but also confessed that they themselves and the rest of my enemies were false accusers; for men who make such a change and such a recantation of course reflect upon Eusebius and his fellows, for with them they had contrived the plot against me.
+
+[1:10] Now after a matter has been examined and decided on such clear evidence by so many eminent Bishops, every one will confess that further discussion is unnecessary; else, if an investigation be instituted at this time, it may be again discussed and again investigated, and there will be no end to such trifling.
+
+[1:11] 2.
+
+[1:12] Now the decision of so many Bishops was sufficient to confound those who would still fain pretend some charge against me.
+
+[1:13] But when my enemies also bear testimony in my favour and against themselves, declaring that the proceedings against me were a conspiracy, who is there that would not be ashamed to doubt any longer? The law requires that in the mouth of two or three witnesses judgments shall be settled, and we have here this great multitude of witnesses in my favour, with the addition of the proofs afforded by my enemies; so much so that those who still continue opposed to me no longer attach any importance to their own arbitrary judgment, but now have recourse to violence, and in the place of fair reasoning seek to injure those by whom they were exposed.
+
+[1:14] For this is the chief cause of vexation to them, that the measures they carried on in secret, contrived by themselves in a corner, have been brought to light and disclosed by Valens and Ursacius; for they are well aware that their recantation while it clears those whom they have injured, condemns themselves.
+
+[1:15] Indeed this led to their degradation in the Council of Sardica, as mentioned before; and with good reason; for, as the Pharisees of old, when they undertook the defence of Paul, fully exposed the conspiracy which they and the Jews had formed against him; and as the blessed David was proved to be persecuted unjustly when the persecutor confessed, 'I have sinned, my son David;' so it was with these men; being overcome by the truth they made a request, and delivered it in writing to Julius, Bishop of Rome.
+
+[1:16] They wrote also to me requesting to be on terms of peace with me, though they have spread such reports concerning me; and probably even now they are covered with shame, on seeing that those whom they sought to destroy by the grace of the Lord are still alive.
+
+[1:17] Consistently also with this conduct they anathematized Arius and his heresy; for knowing that Eusebius and his fellows had conspired against me in behalf of their own misbelief, and of nothing else, as soon as they had determined to confess their calumnies against me, they immediately renounced also that antichristian heresy for the sake of which they had falsely asserted them.
+
+[1:18] The following are the letters written in my favour by the Bishops in the several Councils and first the letter of the Egyptian Bishops.
+
+[1:19] Encyclical Letter of the Council of Egypt.
+
+[1:20] The holy Council assembled at Alexandria out of Egypt, the Thebais, Libya, and Pentapolis, to the Bishops of the Catholic Church everywhere, brethren beloved and greatly longed for in the Lord, greeting.
+
+[1:21] 3.
+
+[1:22] Dearly beloved brethren, we might have put forth a defence of our brother Athanasius as respects the conspiracy of Eusebius and his fellows against him, and complained of his sufferings at their hands, and have exposed all their false charges, either at the beginning of their conspiracy or upon his arrival at Alexandria.
+
+[1:23] But circumstances did not permit it then, as you also know; and lately, after the return of the Bishop Athanasius, we thought that they would be confounded and covered with shame at their manifest injustice: in consequence we prevailed with ourselves to remain silent.
+
+[1:24] Since, however, after all his severe sufferings, after his retirement into Gaul, after his sojourn in a foreign and far distant country in the place of his own, after his narrow escape from death through their calumnies, but thanks to the clemency of the Emperor,—distress which would have satisfied even the most cruel enemy,—they are still insensible to shame, are again acting insolently against the Church and Athanasius; and from indignation at his deliverance venture on still more atrocious schemes against him, and are ready with an accusation, fearless of the words in holy Scripture, 'A false witness shall not be unpunished;' and, 'The mouth that belieth slayeth the soul;' we therefore are unable longer to hold our peace, being amazed at their wickedness and at the insatiable love of contention displayed in their intrigues.
+
+[1:25] For see, they cease not to disturb the ear of royalty with fresh reports against us; they cease not to write letters of deadly import, for the destruction of the Bishop who is the enemy of their impiety.
+
+[1:26] For again have they written to the Emperors against him; again they wish to conspire against him, charging him with a butchery which has never taken place; again they wish to shed his blood, accusing him of a murder that never was committed (for at that former time would they have murdered him by their calumnies, had we not had a kind Emperor); again they are urgent, to say the least, that he should be sent into banishment, while they pretend to lament the miseries of those alleged to have been exiled by him.
+
+[1:27] They lament before us things that have never been done, and, not satisfied with what has been done to him, desire to add thereto other and more cruel treatment.
+
+[1:28] So mild are they and merciful, and of so just a disposition; or rather (for the truth shall be spoken) so wicked are they and malicious; obtaining respect through fear and by threats, rather than by their piety and justice, as becomes Bishops.
+
+[1:29] They have dared in their letters to the Emperors to pour forth language such as no contentious person would employ even among those that are without; they have charged him with a number of murders and butcheries, and that not before a Governor, or any other superior officer, but before the three Augusti; nor shrink they from any journey however long, provided only all greater courts may be filled with their accusations.
+
+[1:30] For indeed, dearly beloved, their business consists in accusations, and that of the most solemn character, forasmuch as the tribunals to which they make their appeal are the most solemn of any upon earth.
+
+[1:31] And what other end do they propose by these investigations, except to move the Emperor to capital punishment?  4.
+
+[1:32] Their own conduct therefore, and not that of Athanasius, is the fittest subject for lamentation and mourning, and one would more properly lament them, for such actions ought to be bewailed, since it is written, 'Weep ye not for the dead, neither bemoan him: but weep sore for him that goeth away, for he shall return no more.
+
+[1:33] ' For their whole letter contemplates nothing but death; and their endeavour is to kill, whenever they may be permitted, or if not, to drive into exile.
+
+[1:34] And this they were permitted to do by the most religious father of the Emperors, who gratified their fury by the banishment of Athanasius, instead of his death.
+
+[1:35] Now that this is not the conduct even of ordinary Christians, scarcely even of heathens, much less of Bishops, who profess to teach others righteousness, we suppose that your Christian consciences must at once perceive.
+
+[1:36] How can they forbid others to accuse their brethren, who themselves become their accusers, and that to the Emperors? How can they teach compassion for the misfortunes of others, who cannot rest satisfied even with our banishment? For there was confessedly a general sentence of banishment against us Bishops, and we all looked upon ourselves as banished men: and now again we consider ourselves as restored with Athanasius to our native places, and instead of our former lamentations and mourning over him, as having the greatest encouragement and grace,—which may the Lord continue to us, nor suffer Eusebius and his fellows to destroy?  Even if their charges against him were true, here is a certain charge against them, that against the precept of Christianity, and after his banishment and trials, they have assaulted him again, and accuse him of murder, and butchery, and other crimes, which they sound in the royal ears against the Bishops.
+
+[1:37] But how manifold is their wickedness, and what manner of men think you them, when every word they speak is false, every charge they bring a calumny, and there is no truth whatever either in their mouths or their writings! Let us then at length enter upon these matters, and meet their last charges.
+
+[1:38] This will prove, that in their former representations in the Council and at the trial their conduct was dishonourable, or rather their words untrue, besides exposing them for what they have now advanced.
+
+[1:39] 5.
+
+[1:40] We are indeed ashamed to make any defence against such charges.
+
+[1:41] But since our reckless accusers lay hold of any charge, and allege that murders and butcheries were committed after the return of Athanasius, we beseech you to bear with our answer though it be somewhat long; for circumstances constrain us.
+
+[1:42] No murder has been committed either by Athanasius or on his account, since our accusers, as we said before, compel us to enter upon this humiliating defence.
+
+[1:43] Slaughter and imprisonment are foreign to our Church.
+
+[1:44] No one did Athanasius commit into the hands of the executioner; and the prison, so far as he was concerned, was never disturbed.
+
+[1:45] Our sanctuaries are now, as they have always been, pure, and honoured only with the Blood of Christ and His pious worship.
+
+[1:46] Neither Presbyter nor Deacon was destroyed by Athanasius; he perpetrated no murder, he caused the banishment of no one.
+
+[1:47] Would that they had never caused the like to him, nor given him actual experience of it! No one here has been banished on his account; no one at all except Athanasius himself, the Bishop of Alexandria, whom they banished, and whom, now that he is restored, they again seek to entangle in the same or even a more cruel plot than before, setting their tongues to speak all manner of false and deadly words against him.
+
+[1:48] For, behold, they now attribute to him the acts of the magistrates; and although they plainly confess in their letter that the Prefect of Egypt passed sentence upon certain persons, they now are not ashamed to impute this sentence to Athanasius; and that, though he had not at the time entered Alexandria, but was yet on his return from his place of exile.
+
+[1:49] Indeed he was then in Syria; since we must needs adduce in defence his length of way from home, that a man may not be responsible for the actions of a Governor or Prefect of Egypt.
+
+[1:50] But supposing Athanasius had been in Alexandria, what were the proceedings of the Prefect to Athanasius? However, he was not even in the country; and what the Prefect of Egypt did was not done on ecclesiastical grounds, but for reasons which you will learn from the records, which, after we understood what they had written, we made diligent enquiry for, and have transmitted to you.
+
+[1:51] Since then they now raise a cry against certain things which were never done either by him or for him, as though they had certainly taken place, and testify against such evils as though they were assured of their existence; let them inform us from what Council they obtained their knowledge of them, from what proofs, and from what judicial investigation? But if they have no such evidence to bring forward, and nothing but their own mere assertion, we leave it to you to consider as regards their former charges also, how the things took place, and why they so speak of them.
+
+[1:52] In truth, it is nothing but calumny, and a plot of our enemies, and a temper of ungovernable mood, and an impiety in behalf of the Arian madmen which is frantic against true godliness, and desires to root out the orthodox, so that henceforth the advocates of impiety may preach without fear whatever doctrines they please.
+
+[1:53] The history of the matter is as follows:—  6.
+
+[1:54] When Arius, from whom the heresy of the Arian madmen has its name, was cast out of the Church for his impiety by Bishop Alexander, of blessed memory, Eusebius and his fellows, who are the disciples and partners of his impiety, considering themselves also to have been ejected, wrote frequently to Bishop Alexander, beseeching him not to leave the heretic Arius out of the Church.
+
+[1:55] But when Alexander in his piety towards Christ refused to admit that impious man, they directed their resentment against Athanasius, who was then a Deacon, because in their busy enquiries they had heard that he was much in the familiarity of Bishop Alexander, and much honoured by him.
+
+[1:56] And their hatred of him was greatly increased after they had experience of his piety towards Christ, in the Council assembled at Nicaea, wherein he spoke boldly against the impiety of the Arian madmen.
+
+[1:57] But when God raised him to the Episcopate, their long-cherished malice burst forth into a flame, and fearing his orthodoxy and resistance of their impiety, they (and especially Eusebius, who was smitten with a consciousness of his own evil doings), engaged in all manner of treacherous designs against him.
+
+[1:58] They prejudiced the Emperor against him; they frequently threatened him with Councils; and at last assembled at Tyre; and to this day they cease not to write against him, and are so implacable that they even find fault with his appointment to the Episcopate, taking every means of shewing their enmity and hatred towards him, and spreading false reports for the sole purpose of thereby vilifying his character.
+
+[1:59] However, the very misrepresentations which they now are making do but convict their former statements of being falsehoods, and a mere conspiracy against him.
+
+[1:60] For they say, that 'after the death of Bishop Alexander, a certain few having mentioned the name of Athanasius, six or seven Bishops elected him clandestinely in a secret place:' and this is what they wrote to the Emperors, having no scruple about asserting the greatest falsehoods.
+
+[1:61] Now that the whole multitude and all the people of the Catholic Church assembled together as with one mind and body, and cried, shouted, that Athanasius should be Bishop of their Church, made this the subject of their public prayers to Christ, and conjured us to grant it for many days and nights, neither departing themselves from the Church, nor suffering us to do so; of all this we are witnesses, and so is the whole city, and the province too.
+
+[1:62] Not a word did they speak against him, as these persons represented, but gave him the most excellent titles they could devise, calling him good, pious, Christian, an ascetic, a genuine Bishop.
+
+[1:63] And that he was elected by a majority of our body in the sight and with the acclamations of all the people, we who elected him also testify, who are surely more credible witnesses than those who were not present, and now spread these false accounts.
+
+[1:64] But yet Eusebius finds fault with the appointment of Athanasius,—he who perhaps never received any appointment to his office at all; or if he did, has himself rendered it invalid.
+
+[1:65] For he had first the See of Berytus, but leaving that he came to Nicomedia.
+
+[1:66] He left the one contrary to the law, and contrary to the law invaded the other; having deserted his own without affection, and holding possession of another's without reason; he lost his love for the first in his lust for another, without even keeping to that which he obtained at the prompting of his lust.
+
+[1:67] For, behold, withdrawing himself from the second, again he takes possession of another's, casting an evil eye all around him upon the cities of other men, and thinking that godliness consists in wealth and in the greatness of cities, and making light of the heritage of God to which he had been appointed; not knowing that 'where' even 'two or three are gathered in the name of the' Lord, 'there' is the Lord 'in the midst of them;' not considering the words of the Apostle, 'I will not boast in another man's labours;' not perceiving the charge which he has given, 'Art thou bound unto a wife? seek not to be loosed.
+
+[1:68] ' For if this expression applies to a wife, how much more does it apply to a Church, and to the same Episcopate; to which whosoever is bound ought not to seek another, lest he prove an adulterer according to holy Scripture.
+
+[1:69] 7.
+
+[1:70] But though conscious of these his own misdoings, he has boldly undertaken to arraign the appointment of Athanasius, to which honourable testimony has been borne by all, and he ventures to reproach him with his deposition, though he has been deposed himself, and has a standing proof of his deposition in the appointment of another in his room.
+
+[1:71] How could either he or Theognius depose another, after they had been deposed themselves, which is sufficiently proved by the appointment of others in their room? For you know very well that there were appointed instead of them Amphion to Nicomedia and Chrestus to Nicaea, in consequence of their own impiety and connection with the Arian madmen, who were rejected by the Ecumenic Council.
+
+[1:72] But while they desire to set aside that true Council, they endeavour to give that name to their own unlawful combination; while they are unwilling that the decrees of the Council should be enforced, they desire to enforce their own decisions; and they use the name of a Council, while they refuse to submit themselves to one so great as this.
+
+[1:73] Thus they care not for Councils, but only pretend to do so in order that they may root out the orthodox, and annul the decrees of the true and great Council against the Arians, in support of whom, both now and heretofore, they have ventured to assert these falsehoods against the Bishop Athanasius.
+
+[1:74] For their former statements resembled those they now falsely make, viz.
+
+[1:75] , that disorderly meetings were held at his entrance, with lamentation and mourning, the people indignantly refusing to receive him.
+
+[1:76] Now such was not the case, but, quite the contrary, joy and cheerfulness prevailed, and the people ran together, hastening to obtain the desired sight of him.
+
+[1:77] The churches were full of rejoicings, and thanksgivings were offered up to the Lord everywhere; and all the Ministers and Clergy beheld him with such feelings, that their souls were possessed with delight, and they esteemed that the happiest day of their lives.
+
+[1:78] Why need we mention the inexpressible joy that prevailed among us Bishops, for we have already said that we counted ourselves to have been partakers in his sufferings?  8.
+
+[1:79] Now this being confessedly the truth of the matter, although it is very differently represented by them, what weight can be attached to that Council or trial of which they make their boast? Since they presume thus to interfere in a case which they did not witness, which they have not examined, and for which they did not meet, and to write as though they were assured of the truth of their statements, how can they claim credit respecting these matters for the consideration of which they say that they did meet together? Will it not rather be believed that they have acted both in the one case and in the other out of enmity to us? For what kind of a Council of Bishops was then held? Was it an assembly which aimed at the truth? Was not almost every one among them our enemy? Did not the attack of Eusebius and his fellows upon us proceed from their zeal for the Arian madness? Did they not urge on the others of their party? Have we not always written against them as professing the doctrines of Arius? Was not Eusebius of Caesarea in Palestine accused by our confessors of sacrificing to idols? Was not George proved to have been deposed by the blessed Alexander? Were not they charged with various offences, some with this, some with that?  How then could such men entertain the purpose of holding a meeting against us? How can they have the boldness to call that a Council, at which a Count presided, which an executioner attended, and where an usher instead of the Deacons of the Church introduced us into Court; and where the Count only spoke, and all present held their peace, or rather obeyed his directions? The removal of those Bishops who seemed to deserve it was prevented at his desire; and when he gave the order we were dragged about by soldiers;—or rather Eusebius and his fellows gave the order, and he was subservient to their will.
+
+[1:80] In short, dearly beloved, what kind of Council was that, the object of which was banishment and murder at the pleasure of the Emperor? And of what nature were their charges?—for here is matter of still greater astonishment.
+
+[1:81] There was one Arsenius whom they declared to have been murdered; and they also complained that a chalice belonging to the sacred mysteries had been broken.
+
+[1:82] Now Arsenius is alive, and prays to be admitted to our communion.
+
+[1:83] He waits for no other testimony to prove that he is still living, but himself confesses it, writing in his own person to our brother Athanasius, whom they positively asserted to be his murderer.
+
+[1:84] The impious wretches were not ashamed to accuse him of having murdered a man who was at a great distance from him, being separated by so great a distance, whether by sea or land, and whose abode at that time no one knew.
+
+[1:85] Nay, they even had the boldness to remove him out of sight, and place him in concealment, though he had suffered no injury; and, if it had been possible, they would have transported him to another world, nay, or have taken him from life in earnest, so that either by a true or false statement of his murder they might in good earnest destroy Athanasius.
+
+[1:86] But thanks to divine Providence for this also which permitted them not to succeed in their injustice, but presented Arsenius alive to the eyes of all men, who has clearly proved their conspiracy and calumnies.
+
+[1:87] He does not withdraw from us as murderers, nor hate us as having injured him (for indeed he has suffered no evil at all); but he desires to hold communion with us; he wishes to be numbered among us, and has written to this effect.
+
+[1:88] 9.
+
+[1:89] Nevertheless they laid their plot against Athanasius, accusing him of having murdered a person who was still alive; and those same men are the authors of his banishment.
+
+[1:90] For it was not the father of the Emperors, but their calumnies, that sent him into exile.
+
+[1:91] Consider whether this is not the truth.
+
+[1:92] When nothing was discovered to the prejudice of our fellow-minister Athanasius, but still the Count threatened him with violence, and was very zealous against him, the Bishop fled from this violence and went up to the most religious Emperor, where he protested against the Count and their conspiracy against him, and requested either that a lawful Council of Bishops might be assembled, or that the Emperor would himself receive his defence concerning the charges they brought against him.
+
+[1:93] Upon this the Emperor wrote in anger, summoning them before him, and declaring that he would hear the cause himself, and for that purpose he also ordered a Council to be held.
+
+[1:94] Whereupon Eusebius and his fellows went up and falsely charged Athanasius, not with the same offences which they had published against him at Tyre, but with an intention of detaining the vessels laden with corn, as though Athanasius had been the man to pretend that he could stop the exports of corn from Alexandria to Constantinople.
+
+[1:95] Certain of our friends were present at the palace with Athanasius, and heard the threats of the Emperor upon receiving this report.
+
+[1:96] And when Athanasius cried out upon the calumny, and positively declared that it was not true, (for how, he argued, should he a poor man, and in a private station, be able to do such a thing?) Eusebius did not hesitate publicly to repeat the charge, and swore that Athanasius was a rich man, and powerful, and able to do anything; in order that it might thence be supposed that he had used this language.
+
+[1:97] Such was the accusation these venerable Bishops proffered against him.
+
+[1:98] But the grace of God proved superior to their wickedness, for it moved the pious Emperor to mercy, who instead of death passed upon him the sentence of banishment.
+
+[1:99] Thus their calumnies, and nothing else, were the cause of this.
+
+[1:100] For the Emperor, in the letter which he previously wrote, complained of their conspiracy, censured their machinations, and condemned the Meletians as unscrupulous and deserving of execration; in short, expressed himself in the severest terms concerning them.
+
+[1:101] For he was greatly moved when he heard the story of the dead alive; he was moved at hearing of murder in the case of one alive, and not deprived of life.
+
+[1:102] We have sent you the letter.
+
+[1:103] 10.
+
+[1:104] But these marvellous men, Eusebius and his fellows, to make a show of refuting the truth of the case, and the statements contained in this letter, put forward the name of a Council, and ground its proceedings upon the authority of the Emperor.
+
+[1:105] Hence the attendance of a Count at their meeting, and the soldiers as guards of the Bishops, and royal letters compelling the attendance of any persons whom they required.
+
+[1:106] But observe here the strange character of their machinations, and the inconsistency of their bold measures, so that by some means or other they may take Athanasius away from us.
+
+[1:107] For if as Bishops they claimed for themselves alone the judgment of the case, what need was there for the attendance of a Count and soldiers? or how was it that they assembled under the sanction of royal letters? Or if they required the Emperor's countenance and wished to derive their authority from him, why were they then annulling his judgment? and when he declared in the letter which he wrote, that the Meletians were calumniators, unscrupulous, and that Athanasius was most innocent, and made much stir about the pretended murder of the living, how was it that they determined that the Meletians had spoken the truth, and that Athanasius was guilty of the offence; and were not ashamed to make the living dead, living both after the Emperor's judgment, and at the time when they met together, and who even until this day is amongst us? So much concerning the case of Arsenius.
+
+[1:108] 11.
+
+[1:109] And as for the cup belonging to the mysteries, what was it, or where was it broken by Macarius? for this is the report which they spread up and down.
+
+[1:110] But as for Athanasius, even his accusers would not have ventured to blame him, had they not been suborned by them.
+
+[1:111] However, they attribute the origin of the offence to him; although it ought not to be imputed even to Macarius who is clear of it.
+
+[1:112] And they are not ashamed to parade the sacred mysteries before Catechumens, and worse than that, even before heathens: whereas, they ought to attend to what is written, 'It is good to keep close the secret of a king;' and as the Lord has charged us, 'Give not that which is holy unto the dogs, neither cast ye your pearls before swine.
+
+[1:113] ' We ought not then to parade the holy mysteries before the uninitiated, lest the heathen in their ignorance deride them, and the Catechumens being over-curious be offended.
+
+[1:114] However, what was the cup, and where and before whom was it broken? It is the Meletians who make the accusation, who are not worthy of the least credit, for they have been schismatics and enemies of the Church, not of a recent date, but from the times of the blessed Peter, Bishop and Martyr.
+
+[1:115] They formed a conspiracy against Peter himself; they calumniated his successor Achillas; they accused Alexander even before the Emperor; and being thus well versed in these arts, they have now transferred their enmity to Athanasius, acting altogether in accordance with their former wickedness.
+
+[1:116] For as they slandered those that have been before him, so now they have slandered him.
+
+[1:117] But their calumnies and false accusations have never prevailed against him until now, that they have got Eusebius and his fellows for their assistants and patrons, on account of the impiety which these have adopted from the Arian madmen, which has led them to conspire against many Bishops, and among the rest Athanasius.
+
+[1:118] Now the place where they say the cup was broken, was not a Church; there was no Presbyter in occupation of the place; and the day on which they say that Macarius did the deed, was not the Lord's day.
+
+[1:119] Since then there was no church there; since there was no one to perform the sacred office; and since the day did not require the use of it; what was this cup belonging to the mysteries, and when, or where was it broken? There are many cups, it is plain, both in private houses, and in the public market; and if a person breaks one of them, he is not guilty of impiety.
+
+[1:120] But the cup which belongs to the mysteries, and which if it be broken intentionally, makes the perpetrator of the deed an impious person, is found only among those who lawfully preside.
+
+[1:121] This is the only description that can be given of this kind of cup; there is none other; this you legally give to the people to drink; this you have received according to the canon of the Church; this belongs only to those who preside over the Catholic Church, for to you only it appertains to administer the Blood of Christ, and to none besides.
+
+[1:122] But as he who breaks the cup belonging to the mysteries is an impious person, much more impious is he who treats the Blood of Christ with contumely: and he does so who 'does this' contrary to the rule of the Church.
+
+[1:123] (We say this, not as if a cup even of the schismatics was broken by Macarius, for there was no cup there at all; how should there be? where there was neither Lord's house nor any the belonging to the Church, nay, it was not the time of the celebration of the mysteries).
+
+[1:124] Now such a person is the notorious Ischyras, who was never appointed to his office by the Church, and when Alexander admitted the Presbyters that had been ordained by Meletius, he was not even numbered amongst them; and therefore did not receive ordination even from that quarter.
+
+[1:125] 12.
+
+[1:126] By what means then did Ischyras become a Presbyter? who was it that ordained him? was it Colluthus? for this is the only supposition that remains.
+
+[1:127] But it is well known and no one has any doubt about the matter that Colluthus died a Presbyter, and that every ordination of his was invalid, and that all that were ordained by him during the schism were reduced to the condition of laymen, and in that rank appear in the congregation.
+
+[1:128] How then can it be believed that a private person, occupying a private house had in his possession a sacred chalice? But the truth is, they gave the name of Presbyter at the time to a private person, and gratified him with this title to support him in his iniquitous conduct towards us; and now as the reward of his accusations they procure for him the erection of a Church.
+
+[1:129] So that this man had then no Church; but as the reward of his malice and subserviency to them in accusing us, he receives now what he had not before; nay, perhaps they have even remunerated his services with the Episcopate, for so he goes about reporting, and accordingly behaves towards us with great insolence.
+
+[1:130] Thus are such rewards as these now bestowed by Bishops upon accusers and calumniators though indeed it is reasonable, in the case of an accomplice, that as they have made him a partner in their proceedings, so they should also make him their associate in their own Episcopate.
+
+[1:131] But this is not all; give ear yet further to their proceedings at that time.
+
+[1:132] 13.
+
+[1:133] Being unable to prevail against the truth, though they had thus set themselves in array against it, and Ischyras having proved nothing at Tyre, but being shewn to be a calumniator, and the calumny ruining their plot, they defer proceedings for fresh evidence, and profess that they are going to send to the Mareotis certain of their party to enquire diligently into the matter.
+
+[1:134] Accordingly they dispatched secretly, with the assistance of the civil power, persons to whom we openly objected on many accounts, as being of the party of Arius, and therefore our enemies; namely, Diognius, Maris, Theodorus, Macedonius, and two others, young both in years and mind, Ursacius and Valens from Pannonia; who, after they had undertaken this long journey for the purpose of sitting in judgment upon their enemy, set out again from Tyre for Alexandria.
+
+[1:135] They did not shrink from becoming witnesses themselves, although they were the judges, but openly adopted every means of furthering their design, and undertook any labour or journey whatsoever in order to bring to a successful issue the conspiracy which was in progress.
+
+[1:136] They left the Bishop Athanasius detained in a foreign country while they themselves entered their enemy's city, as if to have their revel both against his Church and against his people.
+
+[1:137] And what was more outrageous still, they took with them the accuser Ischyras, but would not permit Macarius, the accused person, to accompany them, but left him in custody at Tyre.
+
+[1:138] For 'Macarius the Presbyter of Alexandria' was made answerable for the charge far and near.
+
+[1:139] 14.
+
+[1:140] They therefore entered Alexandria alone with the accuser, their partner in lodging, board, and cup; and taking with them Philagrius the Prefect of Egypt they proceeded to the Mareotis, and there carried on the so-called investigation by themselves, all their own way, with the forementioned person.
+
+[1:141] Although the Presbyters frequently begged that they might be present, they would not permit them.
+
+[1:142] The Presbyters both of the city and of the whole country desired to attend, that they might detect who and whence the persons were who were suborned by Ischyras.
+
+[1:143] But they forbade the Ministers to be present, while they carried on the examination concerning church, cup, table, and the holy things, before the heathen; nay, worse than that, they summoned heathen witnesses during the enquiry concerning a cup belonging to the mysteries; and those persons who they affirmed were taken out of the way by Athanasius by summons of the Receiver-general, and they knew not where in the world they were, these same individuals they brought forward before themselves and the Prefect only, and avowedly used their testimony, whom they affirmed without shame to have been secreted by the Bishop Athanasius.
+
+[1:144] But here too their only object is to effect his death, and so they again pretend that persons are dead who are still alive, following the same method they adopted in the case of Arsenius.
+
+[1:145] For the men are living, and are to be seen in their own country; but to you who are at a great distance from the spot they make a great stir about the matter as though they had disappeared, in order that, as the evidence is so far removed from you, they may falsely accuse our brother-minister, as though he used violence and the civil power; whereas they themselves have in all respects acted by means of that power and the countenance of others.
+
+[1:146] For their proceedings in the Mareotis were parallel to those at Tyre; and as there a Count attended with military assistance, and would permit nothing either to be said or done contrary to their pleasure, so here also the Prefect of Egypt was present with a band of men, frightening all the members of the Church, and permitting no one to give true testimony.
+
+[1:147] And what was the strangest thing of all, the persons who came, whether as judges or witnesses, or, what was more likely, in order to serve their own purposes and those of Eusebius, lived in the same place with the accuser, even in his house, and there seemed to carry on the investigation as they pleased.
+
+[1:148] 15.
+
+[1:149] We suppose you are not ignorant what outrages they committed at Alexandria; for they are reported everywhere.
+
+[1:150] Naked swords were at work against the holy virgins and brethren; scourges were at work against their persons, esteemed honourable in the sight of God, so that their feet were lamed by the stripes, whose souls are whole and sound in purity and all good works.
+
+[1:151] The trades were excited against them; and the heathen multitude was set to strip them naked, to beat them, wantonly to insult them, and to threaten them with their altars and sacrifices.
+
+[1:152] And one coarse fellow, as though license had now been given them by the Prefect in order to gratify the Bishops, took hold of a virgin by the hand, and dragged her towards an altar that happened to be near, imitating the practice of compelling to offer sacrifice in time of persecution.
+
+[1:153] When this was done, the virgins took to flight, and a shout of laughter was raised by the heathen against the Church; the Bishops being in the place, and occupying the very house where this was going on; and from which, in order to obtain favour with them, the virgins were assaulted with naked swords, and were exposed to all kinds of danger, and insult, and wanton violence.
+
+[1:154] And this treatment they received on a fast-day, and at the hands of persons who themselves were feasting with the Bishops indoors.
+
+[1:155] 16.
+
+[1:156] Foreseeing these things, and reflecting that the entrance of enemies into a place is no ordinary calamity, we protested against this commission.
+
+[1:157] And Alexander, Bishop of Thessalonica, considering the same, wrote to the people residing there, discovering the conspiracy, and testifying of the plot.
+
+[1:158] They indeed reckon him to be one of themselves, and account him a partner in their designs; but they only prove thereby the violence they have exercised towards him.
+
+[1:159] For even the profligate Ischyras himself was only induced by fear and violence to proceed in the matter, and was obliged by force to undertake the accusation.
+
+[1:160] As a proof of this, he wrote himself to our brother Athanasius, confessing that nothing of the kind that was alleged had taken place there, but that he was suborned to make a false statement.
+
+[1:161] This declaration he made, though he was never admitted by Athanasius as a Presbyter, nor received such a title of grace from him, nor was entrusted by way of recompense with the erection of a Church, nor expected the bribe of a Bishopric; all of which he obtained from them in return for undertaking the accusation.
+
+[1:162] Moreover, his whole family held communion with us, which they would not have done had they been injured in the slightest degree.
+
+[1:163] 17.
+
+[1:164] Now to prove that these things are facts and not mere assertions, we have the testimony of all the Presbyters of the Mareotis, who always accompany the Bishop in his visitations, and who also wrote at the time against Ischyras.
+
+[1:165] But neither those of them who came to Tyre were allowed to declare the truth, nor could those who remained in the Mareotis obtain permission to refute the calumnies of Ischyras.
+
+[1:166] The copies also of the letters of Alexander, and of the Presbyters, and of Ischyras will prove the same thing.
+
+[1:167] We have sent also the letter of the father of the Emperors, in which he expresses his indignation that the murder of Arsenius was charged upon any one while the man was still alive; as also his astonishment at the variable and inconsistent character of their accusations with respect to the cup; since at one time they accused the Presbyter Macarius, at another the Bishop Athanasius, of having broken it with his hands.
+
+[1:168] He declares also on the one hand that the Meletians are calumniators, and on the other that Athanasius is perfectly innocent.
+
+[1:169] And are not the Meletians calumniators, and above all John, who after coming into the Church, and communicating with us, after condemning himself, and no longer taking any part in the proceedings respecting the cup, when he saw Eusebius and his fellows zealously supporting the Arian madmen, though they had not the daring to co-operate with them openly, but were attempting to employ others as their masks, undertook a character, as an actor in the heathen theatres? The subject of the drama was a contest of Arians; the real design of the piece being their success, but John and his partizans being put on the stage and playing the parts, in order that under colour of these, the supporters of the Arians in the garb of judges might drive away the enemies of their impiety, firmly establish their impious doctrines, and bring the Arians into the Church.
+
+[1:170] And those who wish to drive out true religion strive all they can to prevail by irreligion; they who have chosen the part of that impiety which wars against Christ, endeavour to destroy the enemies thereof, as though they were impious persons; and they impute to us the breaking of the cup, for the purpose of making it appear that Athanasius, equally with themselves, is guilty of impiety towards Christ.
+
+[1:171] For what means this mention of a cup belonging to the mysteries by them? Whence comes this religious regard for the cup among those who support impiety towards Christ? Whence comes it that Christ's cup is known to them who know not Christ? How can they who profess to honour that cup, dishonour the God of the cup? or how can they who lament over the cup, seek to murder the Bishop who celebrates the mysteries therewith? for they would have murdered him, had it been in their power.
+
+[1:172] And how can they who lament the loss of the throne that was Episcopally covered, seek to destroy the Bishop that sat upon it, to the end that both the throne may be without its Bishop, and that the people may be deprived of godly doctrine? It was not then the cup, nor the murder, nor any of those portentous deeds they talk about, that induced them to act thus; but the forementioned heresy of the Arians, for the sake of which they conspired against Athanasius and other Bishops, and still continue to wage war against the Church.
+
+[1:173] Who are they that have really been the cause of murders and banishments? Is it not these? Who are they that, availing themselves of external support, conspire against the Bishops? Are not Eusebius and his fellows the men, and not Athanasius, as they say in their letters? Both he and others have suffered at their hands.
+
+[1:174] Even at the time of which we speak, four Presbyters of Alexandria, though they had not even proceeded to Tyre, were banished by their means.
+
+[1:175] Who then are they whose conduct calls for tears and lamentations? Is it not they, who after they have been guilty of one course of persecution, do not scruple to add to it a second, but have recourse to all manner of falsehood, in order that they may destroy a Bishop who will not give way to their impious heresy? Hence arises the enmity of Eusebius and his fellows; hence their proceedings at Tyre; hence their pretended trials; hence also now the letters which they have written even without any trial, expressing the utmost confidence in their statements; hence their calumnies before the father of the Emperors, and before the most religious Emperors themselves.
+
+[1:176] 18.
+
+[1:177] For it is necessary that you should know what is now reported to the prejudice of our fellow-minister Athanasius, in order that you may thereby be led to condemn their wickedness, and may perceive that they desire nothing else but to murder him.
+
+[1:178] A quantity of corn was given by the father of the Emperors for the support of certain widows, partly of Libya, and partly certain out of Egypt.
+
+[1:179] They have all received it up to this time, Athanasius getting nothing therefrom, but the trouble of assisting them.
+
+[1:180] But now, although the recipients themselves make no complaint, but acknowledge that they have received it, Athanasius has been accused of selling all the corn, and appropriating the profits to his own use: and the Emperor wrote to this effect about it, charging him with the offence in consequence of the calumnies which had been raised against him.
+
+[1:181] Now who are they which have raised these calumnies? Is it not those who after they have been guilty of one course of persecution, scruple not to set on foot another? Who are the authors of those letters which are said to have come from the Emperor? Are not the Arians, who are so zealous against Athanasius, and scruple not to speak and write anything against him? No one would pass over persons who have acted as they have done, in order to entertain suspicion of others.
+
+[1:182] Nay, the proof of their calumny appears to be most evident for they are anxious under cover of it, to take away the corn from the Church, and to give it to the Arians.
+
+[1:183] And this circumstance more than any other, brings the matter home to the authors of this design and their principals, who scrupled neither to set on foot a charge of murder against Athanasius, as a base means of prejudicing the Emperor against him, nor yet to take away from the Clergy of the Church the subsistence of the poor, in order that in fact they might make gain for the heretics.
+
+[1:184] 19.
+
+[1:185] We have sent also the testimony of our fellow-ministers in Libya, Pentapolis, and Egypt, from which likewise you may learn the false accusations which have been brought against Athanasius.
+
+[1:186] And these things they do, in order that, the professors of true godliness being henceforth induced by fear to remain quiet, the heresy of the impious Arians may be brought in in its stead.
+
+[1:187] But thanks be to your piety, dearly beloved, that you have frequently anathematized the Arians in your letters, and have never given them admittance into the Church.
+
+[1:188] The exposure of Eusebius and his fellows is also easy and ready at hand.
+
+[1:189] For behold, after their former letters concerning the Arians, of which also we have sent you copies, they now openly stir up the Arian madmen against the Church, though the whole Catholic Church has anathematized them; they have appointed a Bishop over them; they distract the Churches with threats and alarms, that they may gain assistants in their impiety in every part.
+
+[1:190] Moreover, they send Deacons to the Arian madmen, who openly join their assemblies; they write letters to them, and receive answers from them, thus making schisms in the Church, and holding communion with them; and they send to every part, commending their heresy, and repudiating the Church, as you will perceive from the letters they have addressed to the Bishop of Rome and perhaps to yourselves also.
+
+[1:191] You perceive therefore, dearly beloved, that these things are not undeserving of vengeance: they are indeed dreadful and alien from the doctrine of Christ.
+
+[1:192] Wherefore we have assembled together, and have written to you, to request of your Christian wisdom to receive this our declaration and sympathize with our brother Athanasius, and to shew your indignation against Eusebius and his fellows who have essayed such things, in order that such malice and wickedness may no longer prevail against the Church.
+
+[1:193] We call upon you to be the avengers of such injustice, reminding you of the injunction of the Apostle, 'Put away from among yourselves that wicked person.
+
+[1:194] ' Wicked indeed is their conduct, and unworthy of your communion.
+
+[1:195] Wherefore give no further heed to them, though they should again write to you against the Bishop Athanasius (for all that proceeds from them is false); not even though they subscribe their letter with names of Egyptian Bishops.
+
+[1:196] For it is evident that it will not be we who write, but the Meletians, who have ever been schismatics, and who even unto this day make disturbances and raise factions in the Churches.
+
+[1:197] For they ordain improper persons, and all but heathens; and they are guilty of such actions as we are ashamed to set down in writing, but which you may learn from those whom we have sent unto you, who will also deliver to you our letter.
+
+[1:198] 20.
+
+[1:199] Thus wrote the Bishops of Egypt to all Bishops, and to Julius, Bishop of Rome.
+
+[2:1] Chapter II.
+
+[2:2] —Letter of Julius to the Eusebians at Antioch.
+
+[2:3] Eusebius and his fellows wrote also to Julius, and thinking to frighten me, requested him to call a council, and to be himself the judge, if he so pleased.
+
+[2:4] When therefore I went up to Rome, Julius wrote to Eusebius and his fellows as was suitable, and sent moreover two of his own Presbyters, Elpidius and Philoxenus.
+
+[2:5] But they, when they heard of me, were thrown into confusion, as not expecting my going up thither; and they declined the proposed Council, alleging unsatisfactory reasons for so doing, but in truth they were afraid lest the things should be proved against them which Valens and Ursacius afterwards confessed.
+
+[2:6] However, more than fifty Bishops assembled, in the place where the Presbyter Vito held his congregation; and they acknowledged my defence, and gave me the confirmation both of their communion and their love.
+
+[2:7] On the other hand, they expressed great indignation against Eusebius and his fellows, and requested that Julius would write to the following effect to those of their number who had written to him.
+
+[2:8] Which accordingly he did, and sent it by the hand of Count Gabianus.
+
+[2:9] The Letter of Julius.
+
+[2:10] Julius to his dearly beloved brethren, Danius, Flacillus, Narcissus, Eusebius, Maris, Macedonius, Theodorus, and their friends, who have written to me from Antioch, sends health in the Lord.
+
+[2:11] 21.
+
+[2:12] I have read your letter which was brought to me by my Presbyters Elpidius and Philoxenus, and I am surprised to find that, whereas I wrote to you in charity and with conscious sincerity, you have replied to me in an unbecoming and contentious temper; for the pride and arrogance of the writers is plainly exhibited in that letter.
+
+[2:13] Yet such feelings are inconsistent with the Christian faith; for what was written in a charitable spirit ought likewise to be answered in a spirit of charity and not of contention.
+
+[2:14] And was it not a token of charity to send Presbyters to sympathize with them that are in suffering, and to desire those who had written to me to come thither, that the questions at issue might obtain a speedy settlement, and all things be duly ordered, so that our brethren might no longer be exposed to suffering, and that you might escape further calumny? But something seems to shew that your temper is such, as to force us to conclude that even in the terms in which you appeared to pay honour to us, you have expressed yourselves under the disguise of irony.
+
+[2:15] The Presbyters also whom we sent to you, and who ought to have returned rejoicing, did on the contrary return sorrowful on account of the proceedings they had witnessed among you.
+
+[2:16] And I, when I had read your letter, after much consideration, kept it to myself, thinking that after all some of you would come, and there would be no need to bring it forward, lest if it should be openly exhibited, it should grieve many of our brethren here.
+
+[2:17] But when no one arrived, and it became necessary that the letter should be produced, I declare to you, they were all astonished, and were hardly able to believe that such a letter had been written by you at all; for it is expressed in terms of contention rather than of charity.
+
+[2:18] Now if the author of it wrote with an ambition of exhibiting his power of language, such a practice surely is more suitable for other subjects: in ecclesiastical matters, it is not a display of eloquence that is needed, but the observance of Apostolic Canons, and an earnest care not to offend one of the little ones of the Church.
+
+[2:19] For it were better for a man, according to the word of the Church, that a millstone were hanged about his neck, and that he were drowned in the sea, than that he should offend even one of the little ones.
+
+[2:20] But if such a letter was written, because certain persons have been aggrieved on account of their meanness of spirit towards one another (for I will not impute it to all); it were better not to entertain any such feeling of offence at all, at least not to let the sun go down upon their vexation; and certainly not to give it room to exhibit itself in writing.
+
+[2:21] 22.
+
+[2:22] Yet what has been done that is a just cause of vexation? or in what respect was my letter to you such? Was it, that I invited you to be present at a council? You ought rather to have received the proposal with joy.
+
+[2:23] Those who have confidence in their proceedings, or as they choose to term them, in their decisions, are not wont to be angry, if such decision is inquired into by others; they rather shew all boldness, seeing that if they have given a just decision, it can never prove to be the reverse.
+
+[2:24] The Bishops who assembled in the great Council of Nicaea agreed, not without the will of God, that the decisions of one council should be examined in another, to the end that the judges, having before their eyes that other trial which was to follow, might be led to investigate matters with the utmost caution, and that the parties concerned in their sentence might have assurance that the judgment they received was just, and not dictated by the enmity of their former judges.
+
+[2:25] Now if you are unwilling that such a practice should be adopted in your own case, though it is of ancient standing, and has been noticed and recommended by the great Council, your refusal is not becoming; for it is unreasonable that a custom which had once obtained in the Church, and been established by councils, should be set aside by a few individuals.
+
+[2:26] For a further reason they cannot justly take offence in this point.
+
+[2:27] When the persons whom you, Eusebius and his fellows, dispatched with your letters, I mean Macarius the Presbyter, and Martyrius and Hesychius the Deacons, arrived here, and found that they were unable to withstand the arguments of the Presbyters who came from Athanasius, but were confuted and exposed on all sides, they then requested me to call a Council together, and to write to Alexandria to the Bishop Athanasius, and also to Eusebius and his fellows, in order that a just judgment might be given in presence of all parties.
+
+[2:28] And they undertook in that case to prove all the charges which had been brought against Athanasius.
+
+[2:29] For Martyrius and Hesychius had been publicly refuted by us, and the Presbyters of the Bishop Athanasius had withstood them with great confidence: indeed, if one must tell the truth, Martyrius and his fellows had been utterly overthrown; and this it was that led them to desire that a Council might be held.
+
+[2:30] Now supposing that they had not desired a Council, but that I had been the person to propose it, in discouragement of those who had written to me, and for the sake of our brethren who complain that they have suffered injustice; even in that case the proposal would have been reasonable and just, for it is agreeable to ecclesiastical practice, and well pleasing to God.
+
+[2:31] But when those persons, whom you, Eusebius and his fellows, considered to be trustworthy, when even they wished me to call the brethren together, it was inconsistent in the parties invited to take offence, when they ought rather to have shewn all readiness to be present.
+
+[2:32] These considerations shew that the display of anger in the offended persons is petulant, and the refusal of those who decline to meet the Council is unbecoming, and has a suspicious appearance.
+
+[2:33] Does any one find fault, if he sees that done by another, which he would allow if done by himself? If, as you write, each council has an irreversible force, and he who has given judgment on a matter is dishonoured, if his sentence is examined by others; consider, dearly beloved, who are they that dishonour councils? who are setting aside the decisions of former judges? Not to inquire at present into every individual case, lest I should appear to press too heavily on certain parties, the last instance that has occurred, and which every one who hears it must shudder at, will be sufficient in proof of the others which I omit.
+
+[2:34] 23.
+
+[2:35] The Arians who were excommunicated for their impiety by Alexander, the late Bishop of Alexandria, of blessed memory, were not only proscribed by the brethren in the several cities, but were also anathematised by the whole body assembled together in the great Council of Nicaea.
+
+[2:36] For theirs was no ordinary offence, neither had they sinned against man, but against our Lord Jesus Christ Himself, the Son of the living God.
+
+[2:37] And yet these persons who were proscribed by the whole world, and branded in every Church, are said now to have been admitted to communion again; which I think even you ought to hear with indignation.
+
+[2:38] Who then are the parties who dishonour a council? Are not they who have set at nought the votes of the Three hundred, and have preferred impiety to godliness? The heresy of the Arian madmen was condemned and proscribed by the whole body of Bishops everywhere; but the Bishops Athanasius and Marcellus have many supporters who speak and write in their behalf.
+
+[2:39] We have received testimony in favour of Marcellus, that he resisted the advocates of the Arian doctrines in the Council of Nicaea; and in favour of Athanasius, that at Tyre nothing was brought home to him, and that in the Mareotis, where the Reports against him are said to have been drawn up, he was not present.
+
+[2:40] Now you know, dearly beloved, that ex parte proceedings are of no weight, but bear a suspicious appearance.
+
+[2:41] Nevertheless, these things being so, we, in order to be accurate, and neither shewing any prepossession in favour of yourselves, nor of those who wrote in behalf of the other party, invited those who had written to us to come hither; that, since there were many who wrote in their behalf, all things might be enquired into in a council, and neither the guiltless might be condemned, nor the person on his trial be accounted innocent.
+
+[2:42] We then are not the parties who dishonour a council, but they who at once and recklessly have received the Arians whom all had condemned, and contrary to the decision of the judges.
+
+[2:43] The greater part of those judges have now departed, and are with Christ; but some of them are still in this life of trial, and are indignant at learning that certain persons have set aside their judgment.
+
+[2:44] 24.
+
+[2:45] We have also been informed of the following circumstance by those who were at Alexandria.
+
+[2:46] A certain Carpones, who had been excommunicated by Alexander for Arianism, was sent hither by one Gregory with certain others, also excommunicated for the same heresy.
+
+[2:47] However, I had learnt the matter also from the Presbyter Macarius, and the Deacons Martyrius and Hesychius.
+
+[2:48] For before the Presbyters of Athanasius arrived they urged me to send letters to one Pistus at Alexandria, though at the same time the Bishop Athanasius was there.
+
+[2:49] And when the Presbyters of the Bishop Athanasius came, they informed me that this Pistus was an Arian, and that he had been excommunicated by the Bishop Alexander and the Council of Nicaea, and then ordained by one Secundus, whom also the great Council excommunicated as an Arian.
+
+[2:50] This statement Martyrius and his fellows did not gainsay, nor did they deny that Pistus had received his ordination from Secundus.
+
+[2:51] Now consider, after this who are most justly liable to blame? I, who could not be prevailed upon to write to the Arian Pistus; or those, who advised me to do dishonour to the great Council, and to address the irreligious as if they were religious persons? Moreover, when the Presbyter Macarius, who had been sent hither by Eusebius with Martyrius and the rest, heard of the opposition which had been made by the Presbyters of Athanasius, while we were expecting his appearance with Martyrius and Hesychius, he departed in the night, in spite of a bodily ailment; which leads us to conjecture that his departure arose from shame on account of the exposure which had been made concerning Pistus.
+
+[2:52] For it is impossible that the ordination of the Arian Secundus should be considered valid in the Catholic Church.
+
+[2:53] This would indeed be dishonour to the Council, and to the Bishops who composed it, if the decrees they framed, as in the presence of God, with such extreme earnestness and care, should be set aside as worthless.
+
+[2:54] 25.
+
+[2:55] If, as you write, the decrees of all Councils ought to be of force, according to the precedent in the case of Novatus and Paul of Samosata, all the more ought not the sentence of the Three hundred to be reversed, certainly a general Council ought not to be set at nought by a few individuals.
+
+[2:56] For the Arians are heretics as they, and the like sentence has been passed both against one and the other.
+
+[2:57] And, after such bold proceedings as these, who are they that have lighted up the flame of discord? for in your letter you blame us for having done this.
+
+[2:58] Is it we, who have sympathised with the sufferings of the brethren, and have acted in all respects according to the Canon; or they who contentiously and contrary to the Canon have set aside the sentence of the Three hundred, and dishonoured the Council in every way? For not only have the Arians been received into communion, but Bishops also have made a practice of removing from one place to another.
+
+[2:59] Now if you really believe that all Bishops have the same and equal authority, and you do not, as you assert, account of them according to the magnitude of their cities; he that is entrusted with a small city ought to abide in the place committed to him, and not from disdain of his trust to remove to one that has never been put under him; despising that which God has given him, and making much of the vain applause of men.
+
+[2:60] You ought then, dearly beloved, to have come and not declined, that the matter may be brought to a conclusion; for this is what reason demands.
+
+[2:61] But perhaps you were prevented by the time fixed upon for the Council, for you complain in your letter that the interval before the day we appointed was too short.
+
+[2:62] But this, beloved, is a mere excuse.
+
+[2:63] Had the day forestalled any when on the journey, the interval allowed would then have been proved to be too short.
+
+[2:64] But when persons do not wish to come, and detain even my Presbyters up to the month of January, it is the mere excuse of those who have no confidence in their cause; otherwise, as I said before, they would have come, not regarding the length of the journey, not considering the shortness of the time, but trusting to the justice and reasonableness of their cause.
+
+[2:65] But perhaps they did not come on account of the aspect of the times, for again you declare in your letter, that we ought to have considered the present circumstances of the East, and not to have urged you to come.
+
+[2:66] Now if as you say you did not come because the times were such, you ought to have considered such times beforehand, and not to have become the authors of schism, and of mourning and lamentation in the Churches.
+
+[2:67] But as the matter stands, men, who have been the cause of these things, shew that it is not the times that are to blame, but the determination of those who will not meet a Council.
+
+[2:68] 26.
+
+[2:69] But I wonder also how you could ever have written that part of your letter, in which you say, that I alone wrote, and not to all of you, but to Eusebius and his fellows only.
+
+[2:70] In this complaint one may discover more of readiness to find fault than of regard for truth.
+
+[2:71] I received the letters against Athanasius from none other than Martyrius, Hesychius and their fellows, and I necessarily wrote to them who had written against him.
+
+[2:72] Either then Eusebius and his fellows ought not alone to have written, apart from you all, or else you, to whom I did not write, ought not to be offended that I wrote to them who had written to me.
+
+[2:73] If it was right that I should address my letter to you all, you also ought to have written with them: but now considering what was reasonable, I wrote to them, who had addressed themselves to me, and had given me information.
+
+[2:74] But if you were displeased because I alone wrote to them, it is but consistent that you should also be angry, because they wrote to me alone.
+
+[2:75] But for this also, beloved, there was a fair and not unreasonable cause.
+
+[2:76] Nevertheless it is necessary that I should acquaint you that, although I wrote, yet the sentiments I expressed were not those of myself alone, but of all the Bishops throughout Italy and in these parts.
+
+[2:77] I indeed was unwilling to cause them all to write, lest the others should be overpowered by their number.
+
+[2:78] The Bishops however assembled on the appointed day, and agreed in these opinions, which I again write to signify to you; so that, dearly beloved, although I alone address you, yet you may be assured that these are the sentiments of all.
+
+[2:79] Thus much for the excuses, not reasonable, but unjust and suspicious, which some of you have alleged for your conduct.
+
+[2:80] 27.
+
+[2:81] Now although what has already been said were sufficient to shew that we have not admitted to our communion our brothers Athanasius and Marcellus either too readily, or unjustly, yet it is but fair briefly to set the matter before you.
+
+[2:82] Eusebius and his fellows wrote formerly against Athanasius and his fellows, as you also have written now; but a great number of Bishops out of Egypt and other provinces wrote in his favour.
+
+[2:83] Now in the first place, your letters against him are inconsistent with one another, and the second have no sort of agreement with the first, but in many instances the former are answered by the latter, and the latter are impeached by the former.
+
+[2:84] Now where there is this contradiction in letters, no credit whatever is due to the statements they contain.
+
+[2:85] In the next place if you require us to believe what you have written, it is but consistent that we should not refuse credit to those who have written in his favour; especially, considering that you write from a distance, while they are on the spot, are acquainted with the man, and the events which are occurring there, and testify in writing to his manner of life, and positively affirm that he has been the victim of a conspiracy throughout.
+
+[2:86] Again, a certain Bishop Arsenius was said at one time to have been made away with by Athanasius, but we have learned that he is alive, nay, that he is on terms of friendship with him.
+
+[2:87] He has positively asserted that the Reports drawn up in the Mareotis were ex parte ones; for that neither the Presbyter Macarius, the accused party, was present, nor yet his Bishop, Athanasius himself.
+
+[2:88] This we have learnt, not only from his own mouth, but also from the Reports which Martyrius, Hesychius and their fellows, brought to us; for we found on reading them, that the accuser Ischyras was present there, but neither Macarius, nor the Bishop Athanasius; and that the Presbyters of Athanasius desired to attend, but were not permitted.
+
+[2:89] Now, beloved, if the trial was to be conducted honestly, not only the accuser, but the accused also ought to have been present.
+
+[2:90] As the accused party Macarius attended at Tyre, as well as the accuser Ischyras, when nothing was proved, so not only ought the accuser to have gone to the Mareotis, but also the accused, so that in person he might either be convicted, or by not being convicted might shew the falseness of the accusation.
+
+[2:91] But now, as this was not the case, but the accuser only went out thither, with those to whom Athanasius objected, the proceedings wear a suspicious appearance.
+
+[2:92] 28.
+
+[2:93] And he complained also that the persons who went to the Mareotis went against his wish, for that Theognius, Maris, Theodorus, Ursacius, Valens, and Macedonius, who were the persons they sent out, were of suspected character.
+
+[2:94] This he shewed not by his own assertions merely, but from the letter of Alexander who was Bishop of Thessalonica; for he produced a letter written by him to Dionysius, the Count who presided in the Council, in which he shews most clearly that there was a conspiracy on foot against Athanasius.
+
+[2:95] He has also brought forward a genuine document, all in the handwriting of the accuser Ischyras himself, in which he calls God Almighty to witness that no cup was broken, nor table overthrown, but that he had been suborned by certain persons to invent these accusations.
+
+[2:96] Moreover, when the Presbyters of the Mareotis arrived, they positively affirmed that Ischyras was not a Presbyter of the Catholic Church and that Macarius had not committed any such offence as the other had laid to his charge.
+
+[2:97] The Presbyters and Deacons also who came to us testified in the fullest manner in favour of the Bishop Athanasius, strenuously asserting that none of those things which were alleged against him were true, but that he was the victim of a conspiracy.
+
+[2:98] And all the Bishops of Egypt and Libya wrote and protested that his ordination was lawful and strictly ecclesiastical, and that all that you had advanced against him was false, for that no murder had been committed, nor any persons despatched on his account, nor any cup broken, but that all was false.
+
+[2:99] Nay, the Bishop Athanasius also shewed from the ex parte reports drawn up in the Mareotis, that a catechumen was examined and said, that he was within with Ischyras, at the time when they say Macarius the Presbyter of Athanasius burst into the place; and that others who were examined said,—one, that Ischyras was in a small cell,—and another, that he was lying down behind the door, being sick at that very time, when they say Macarius came thither.
+
+[2:100] Now from these representations of his, we are naturally led to ask the question, How was it possible that a man who was lying behind the door sick could get up, conduct the service, and offer? and how could it be that Oblations were offered when catechumens were within? for if there were catechumens present, it was not yet the time for presenting the Oblations.
+
+[2:101] These representations, as I said, were made by the Bishop Athanasius, and he showed from the reports, what was also positively affirmed by those who were with him, that Ischyras has never been a presbyter at all in the Catholic Church, nor has ever appeared as a presbyter in the assemblies of the Church; for not even when Alexander admitted those of the Meletian schism, by the indulgence of the great Council, was he named by Meletius among his presbyters, as they deposed; which is the strongest argument possible that he was not even a presbyter of Meletius; for otherwise, he would certainly have been numbered with the rest.
+
+[2:102] Besides, it was shewn also by Athanasius from the reports, that Ischyras had spoken falsely in other instances: for he set up a charge respecting the burning of certain books, when, as they pretend, Macarius burst in upon them, but was convicted of falsehood by the witnesses he himself brought to prove it.
+
+[2:103] 29.
+
+[2:104] Now when these things were thus represented to us, and so many witnesses appeared in his favour, and so much was advanced by him in his own justification, what did it become us to do? what did the rule of the Church require of us, but that we should not condemn him, but rather receive him and treat him like a Bishop, as we have done? Moreover, besides all this he continued here a year and six months, expecting the arrival of yourselves and of whoever chose to come, and by his presence he put everyone to shame, for he would not have been here, had he not felt confident in his cause; and he came not of his own accord, but on an invitation by letter from us, in the manner in which we wrote to you.
+
+[2:105] But still you complain after all of our transgressing the Canons.
+
+[2:106] Now consider; who are they that have so acted? we who received this man with such ample proof of his innocence, or they who, being at Antioch at the distance of six and thirty posts, nominated a stranger to be Bishop, and sent him to Alexandria with a military force; a thing which was not done even when Athanasius was banished into Gaul, though it would have been done then, had he been really proved guilty of the offence.
+
+[2:107] But when he returned, of course he found his Church unoccupied and waiting for him.
+
+[2:108] 30.
+
+[2:109] But now I am ignorant under what colour these proceedings have been carried on.
+
+[2:110] In the first place, if the truth must be spoken, it was not right, when we had written to summon a council, that any persons should anticipate its decisions: and in the next place, it was not fitting that such novel proceedings should be adopted against the Church.
+
+[2:111] For what canon of the Church, or what Apostolical tradition warrants this, that when a Church was at peace, and so many Bishops were in unanimity with Athanasius the Bishop of Alexandria, Gregory should be sent thither, a stranger to the city, not having been baptized there, nor known to the general body, and desired neither by Presbyters, nor Bishops, nor Laity—that he should be appointed at Antioch, and sent to Alexandria, accompanied not by presbyters, nor by deacons of the city, nor by bishops of Egypt, but by soldiers? for they who came hither complained that this was the case.
+
+[2:112] Even supposing that Athanasius was in the position of a criminal after the Council, this appointment ought not to have been made thus illegally and contrary to the rule of the Church, but the Bishops of the province ought to have ordained one in that very Church, of that very Priesthood, of that very Clergy; and the Canons received from the Apostles ought not thus to be set aside.
+
+[2:113] Had this offence been committed against any one of you, would you not have exclaimed against it, and demanded justice as for the transgression of the Canons? Dearly beloved, we speak honestly, as in the presence of God, and declare, that this proceeding was neither pious, nor lawful, nor ecclesiastical.
+
+[2:114] Moreover, the account which is given of the conduct of Gregory on his entry into the city, plainly shews the character of his appointment.
+
+[2:115] In such peaceful times, as those who came from Alexandria declared them to have been, and as the Bishops also represented in their letters, the Church was set on fire; Virgins were stripped; Monks were trodden under foot; Presbyters and many of the people were scourged and suffered violence; Bishops were cast into prison; multitudes were dragged about from place to place; the holy Mysteries, about which they accused the Presbyter Macarius, were seized upon by heathens and cast upon the ground; and all to constrain certain persons to admit the appointment of Gregory.
+
+[2:116] Such conduct plainly shews who they are that transgress the Canons.
+
+[2:117] Had the appointment been lawful, he would not have had recourse to illegal proceedings to compel the obedience of those who in a legal way resisted him.
+
+[2:118] And notwithstanding all this, you write that perfect peace prevailed in Alexandria and Egypt.
+
+[2:119] Surely not, unless the work of peace is entirely changed, and you call such doings as these peace.
+
+[2:120] 31.
+
+[2:121] I have also thought it necessary to point out to you this circumstance, viz.
+
+[2:122] that Athanasius positively asserted that Macarius was kept at Tyre under a guard of soldiers, while only his accuser accompanied those who went to the Mareotis; and that the Presbyters who desired to attend the inquiry were not permitted to do so, while the said inquiry respecting the cup and the Table was carried on before the Prefect and his band, and in the presence of Heathens and Jews.
+
+[2:123] This at first seemed incredible, but it was proved to have been so from the Reports; which caused great astonishment to us, as I suppose, dearly beloved, it does to you also.
+
+[2:124] Presbyters, who are the ministers of the Mysteries, are not permitted to attend, but an enquiry concerning Christ's Blood and Christ's Body is carried on before an external judge, in the presence of Catechumens, nay, worse than that, before Heathens and Jews, who are in ill repute in regard to Christianity.
+
+[2:125] Even supposing that an offense had been committed, it should have been investigated legally in the Church and by the Clergy, not by heathens who abhor the Word and know not the Truth.
+
+[2:126] I am persuaded that both you and all men must perceive the nature and magnitude of this sin.
+
+[2:127] Thus much concerning Athanasius.
+
+[2:128] 32.
+
+[2:129] With respect to Marcellus, forasmuch as you have charged him also of impiety towards Christ, I am anxious to inform you, that when he was here, he positively declared that what you had written concerning him was not true; but being nevertheless requested by us to give an account of his faith, he answered in his own person with the utmost boldness, so that we recognised that he maintains nothing outside the truth.
+
+[2:130] He made a confession of the same godly doctrines concerning our Lord and Saviour Jesus Christ as the Catholic Church confesses; and he affirmed that he had held these opinions for a very long time, and had not recently adopted them: as indeed our Presbyters, who were at a former date present at the Council of Nicaea, testified to his orthodoxy; for he maintained then, as he has done now, his opposition to Arianism (on which points it is right to admonish you, lest any of you admit such heresy, instead of abominating it as alien from sound doctrine).
+
+[2:131] Seeing then that he professed orthodox opinions, and had testimony to his orthodoxy, what, I ask again in his case, ought we to have done, except to receive him as a Bishop, as we did, and not reject him from our communion? These things I have written, not so much for the purpose of defending their cause, as in order to convince you, that we acted justly and canonically in receiving these persons, and that you are contentious without a cause.
+
+[2:132] But it is your duty to use your anxious endeavours and to labour by every means to correct the irregularities which have been committed contrary to the Canon, and to secure the peace of the Churches; so that the peace of our Lord which has been given to us may remain, and the Churches may not be divided, nor you incur the charge of being authors of schism.
+
+[2:133] For I confess, your past conduct is an occasion of schism rather than of peace.
+
+[2:134] 33.
+
+[2:135] For not only the Bishops Athanasius and Marcellus and their fellows came hither and complained of the injustice that had been done them, but many other Bishops also, from Thrace, from Coele-Syria, from Phoenicia and Palestine, and Presbyters, not a few, and others from Alexandria and from other parts, were present at the Council here, and in addition to their other statements, lamented before all the assembled Bishops the violence and injustice which the Churches had suffered, and affirmed that similar outrages to those which had been committed in Alexandria had occurred in their own Churches, and in others also.
+
+[2:136] Again there lately came Presbyters with letters from Egypt and Alexandria, who complained that many Bishops and Presbyters who wished to come to the Council were prevented; for they said that, since the departure of Athanasius even up to this time, Bishops who are confessors have been beaten with stripes, that others have been cast into prison, and that but lately aged men, who have been an exceedingly long period in the Episcopate, have been given up to be employed in the public works, and nearly all the Clergy of the Catholic Church with the people are the objects of plots and persecutions.
+
+[2:137] Moreover they said that certain Bishops and other brethren had been banished for no other reason than to compel them against their will to communicate with Gregory and his Arian associates.
+
+[2:138] We have heard also from others, what is confirmed by the testimony of the Bishop Marcellus, that a number of outrages, similar to those which were committed at Alexandria, have occurred also at Ancyra in Galatia.
+
+[2:139] And in addition to all this, those who came to the Council reported against some of you (for I will not mention names) certain charges of so dreadful a nature that I have declined setting them down in writing: perhaps you also have heard them from others.
+
+[2:140] It was for this cause especially that I wrote to desire you to come, that you might be present to hear them, and that all irregularities might be corrected and differences healed.
+
+[2:141] And those who were called for these purposes ought not to have refused, but to have come the more readily, lest by failing to do so they should be suspected of what was alleged against them, and be thought unable to prove what they had written.
+
+[2:142] 34.
+
+[2:143] Now according to these representations, since the Churches are thus afflicted and treacherously assaulted, as our informants positively affirmed, who are they that have lighted up a flame of discord? We, who grieve for such a state of things and sympathize with the sufferings of the brethren, or they who have brought these things about? While then such extreme confusion existed in every Church, which was the cause why those who visited us came hither, I wonder how you could write that unanimity prevailed in the Churches.
+
+[2:144] These things tend not to the edification of the Church, but to her destruction; and those who rejoice in them are not sons of peace, but of confusion: but our God is not a God of confusion, but of peace.
+
+[2:145] Wherefore, as the God and Father of our Lord Jesus Christ knows, it was from a regard for your good name, and with prayers that the Churches might not fall into confusion, but might continue as they were regulated by the Apostles, that I thought it necessary to write thus unto you, to the end that you might at length put to shame those who through the effects of their mutual enmity have brought the Churches to this condition.
+
+[2:146] For I have heard, that it is only a certain few who are the authors of all these things.
+
+[2:147] Now, as having bowels of mercy, take ye care to correct, as I said before, the irregularities which have been committed contrary to the Canon, so that if any mischief has already befallen, it may be healed through your zeal.
+
+[2:148] And write not that I have preferred the communion of Marcellus and Athanasius to yours, for such like complaints are no indications of peace, but of contentiousness and hatred of the brethren.
+
+[2:149] For this cause I have written the foregoing, that you may understand that we acted not unjustly in admitting them to our communion, and so may cease this strife.
+
+[2:150] If you had come hither, and they had been condemned, and had appeared unable to produce reasonable evidence in support of their cause, you would have done well in writing thus.
+
+[2:151] But seeing that, as I said before, we acted agreeably to the Canon, and not unjustly, in holding communion with them, I beseech you for the sake of Christ, suffer not the members of Christ to be torn asunder, neither trust to prejudices, but seek rather the peace of the Lord.
+
+[2:152] It is neither holy nor just, in order to gratify the petty feeling of a few persons, to reject those who have never been condemned and thereby to grieve the Spirit.
+
+[2:153] But if you think that you are able to prove anything against them, and to confute them face to face let those of you who please come hither: for they also promised that they would be ready to establish completely the truth of those things which they have reported to us.
+
+[2:154] 35.
+
+[2:155] Give us notice therefore of this, dearly beloved, that we may write both to them, and to the Bishops who will have again to assemble, so that the accused may be condemned in the presence of all, and confusion no longer prevail in the Churches.
+
+[2:156] What has already taken place is enough: it is enough surely that Bishops have been sentenced to banishment in the presence of Bishops; of which it behoves me not to speak at length, lest I appear to press too heavily on those who were present on those occasions.
+
+[2:157] But if one must speak the truth, matters ought not to have proceeded so far; their petty feeling ought not to have been suffered to reach the present pitch.
+
+[2:158] Let us grant the "removal," as you write, of Athanasius and Marcellus, from their own places, yet what must one say of the case of the other Bishops and Presbyters who, as I said before, came hither from various parts, and who complained that they also had been forced away, and had suffered the like injuries? O beloved, the decisions of the Church are no longer according to the Gospel, but tend only to banishment and death.
+
+[2:159] Supposing, as you assert, that some offence rested upon those persons, the case ought to have been conducted against them, not after this manner, but according to the Canon of the Church.
+
+[2:160] Word should have been written of it to us all, that so a just sentence might proceed from all.
+
+[2:161] For the sufferers were Bishops, and Churches of no ordinary note, but those which the Apostles themselves had governed in their own persons.
+
+[2:162] And why was nothing said to us concerning the Church of the Alexandrians in particular? Are you ignorant that the custom has been for word to be written first to us, and then for a just decision to be passed from this place? If then any such suspicion rested upon the Bishop there, notice thereof ought to have been sent to the Church of this place; whereas, after neglecting to inform us, and proceeding on their own authority as they pleased, now they desire to obtain our concurrence in their decisions, though we never condemned him.
+
+[2:163] Not so have the constitutions of Paul, not so have the traditions of the Fathers directed; this is another form of procedure, a novel practice.
+
+[2:164] I beseech you, readily bear with me: what I write is for the common good.
+
+[2:165] For what we have received from the blessed Apostle Peter, that I signify to you; and I should not have written this, as deeming that these things were manifest unto all men, had not these proceedings so disturbed us.
+
+[2:166] Bishops are forced away from their sees and driven into banishment, while others from different quarters are appointed in their place; others are treacherously assailed, so that the people have to grieve for those who are forcibly taken from them, while, as to those who are sent in their room, they are obliged to give over seeking the man whom they desire, and to receive those they do not.
+
+[2:167] I ask of you, that such things may no longer be, but that you will denounce in writing those persons who attempt them; so that the Churches may no longer be afflicted thus, nor any Bishop or Presbyter be treated with insult, nor any one be compelled to act contrary to his judgment, as they have represented to us, lest we become a laughing-stock among the heathen, and above all, lest we excite the wrath of God against us.
+
+[2:168] For every one of us shall give account in the Day of judgment of the things which he has done in this life.
+
+[2:169] May we all be possessed with the mind of God! so that the Churches may recover their own Bishops, and rejoice evermore in Jesus Christ our Lord; through Whom to the Father be glory, for ever and ever, Amen.
+
+[2:170] I pray for your health in the Lord, brethren dearly beloved and greatly longed for.
+
+[2:171] 36.
+
+[2:172] Thus wrote the Council of Rome by Julius, Bishop of Rome.
+
+[3:1] Chapter III.
+
+[3:2] —Letters of the Council of Sardica to the Churches of Egypt and of Alexandria, and to all Churches.
+
+[3:3] But when, notwithstanding, Eusebius and his fellows proceeded without shame, disturbing the Churches, and plotting the ruin of many, the most religious Emperors Constantius and Constans being informed of this, commanded the Bishops from both the West and East to meet together in the city of Sardica.
+
+[3:4] In the meantime Eusebius died: but a great number assembled from all parts, and we challenged the associates of Eusebius and his fellows to submit to a trial.
+
+[3:5] But they, having before their eyes the things that they had done, and perceiving that their accusers had come up to the Council, were afraid to do this; but, while all besides met with honest intentions, they again brought with them the Counts Musonianus and Hesychius the Castrensian, that, as their custom was, they might effect their own aims by their authority.
+
+[3:6] But when the Council met without Counts, and no soldiers were permitted to be present, they were confounded, and conscience-stricken, because they could no longer obtain the judgment they wished, but such only as reason and truth required.
+
+[3:7] We, however, frequently repeated our challenge, and the Council of Bishops called upon them to come forward, saying, "You have come for the purpose of undergoing a trial; why then do you now withdraw yourselves? Either you ought not to have come, or having come, not to conceal yourselves.
+
+[3:8] Such conduct will prove your greatest condemnation.
+
+[3:9] Behold, Athanasius and his fellows are here, whom you accused while absent; if therefore you think that you have any thing against them, you may convict them face to face.
+
+[3:10] But if you pretend to be unwilling to do so, while in truth you are unable, you plainly shew yourselves to be calumniators, and this is the decision the Council will give you".
+
+[3:11] When they heard this they were self-condemned (for they were conscious of their machinations and fabrications against us), and were ashamed to appear, thereby proving themselves to have been guilty of many base calumnies.
+
+[3:12] The holy Council therefore denounced their indecent and suspicious flight, and admitted us to make our defence; and when we had related their conduct towards us, and proved the truth of our statements by witnesses and other evidence, they were filled with astonishment, and all acknowledged that our opponents had good reason to be afraid to meet the Council, lest their guilt should be proved before their faces.
+
+[3:13] They said also, that probably they had come from the East, supposing that Athanasius and his fellows would not appear, but that, when they saw them confident in their cause, and challenging a trial, they fled.
+
+[3:14] They accordingly received us as injured persons who had been falsely accused, and confirmed yet more towards us their fellowship and love.
+
+[3:15] But they deposed Eusebius's associates in wickedness, who had become even more shameless than himself, viz.
+
+[3:16] , Theodorus of Heraclea, Narcissus of Neronias, Acacius of Caesarea, Stephanus of Antioch, Ursacius and Valens of Pannonia, Menophantus of Ephesus, and George of Laodicaea; and they wrote to the Bishops in all parts of the world, and to the diocese of each of the injured persons, in the following terms.
+
+[3:17] Letter of the Council of Sardica to the Church of Alexandria.
+
+[3:18] The Holy Council, by the grace of God assembled at Sardica, from Rome, Spain, Gaul, Italy, Campania, Calabria, Apulia, Africa, Sardinia, Pannonia, Moesia, Dacia, Noricum, Siscia, Dardania, the other Dacia, Macedonia, Thessaly, Achaia, Epirus, Thrace, Rhodope, Palestine, Arabia, Crete, and Egypt, to their beloved brothers, the Presbyters and Deacons, and to all the Holy Church of God abiding at Alexandria, sends health in the Lord.
+
+[3:19] 37.
+
+[3:20] We were not ignorant, but the fact was well known to us, even before we received the letters of your piety, that the supporters of the abominated heresy of the Arians were practising many dangerous machinations, rather to the destruction of their own souls, than to the injury of the Church.
+
+[3:21] For this has ever been the object of their unprincipled craft; this is the deadly design in which they have been continually engaged; viz.
+
+[3:22] how they may best expel from their places and persecute all who are to be found anywhere of orthodox sentiments, and maintaining the doctrine of the Catholic Church, which was delivered to them from the Fathers.
+
+[3:23] Against some they have laid false accusations; others they have driven into banishment; others they have destroyed by the punishments inflicted on them.
+
+[3:24] At any rate they endeavoured by violence and tyranny to surprise the innocence of our brother and fellow-Bishop Athanasius, and therefore conducted their enquiry into his case without any care, without any faith, without any sort of justice.
+
+[3:25] Accordingly having no confidence in the part they had played on that occasion, nor yet in the reports they had circulated against him, but perceiving that they were unable to produce any certain evidence respecting the case, when they came to the city of Sardica, they were unwilling to meet the Council of all the holy Bishops.
+
+[3:26] From this it became evident that the decision of our brother and fellow-Bishop Julius was a just one; for after cautious deliberation and care he had determined, that we ought not to hesitate at all about communion with our brother Athanasius.
+
+[3:27] For he had the credible testimony of eighty Bishops, and was also able to advance this fair argument in his support that by the mere means of our dearly beloved brethren his own Presbyters, and by correspondence, he had defeated the design of Eusebius and his fellows, who relied more upon violence than upon a judicial enquiry.
+
+[3:28] Wherefore all the Bishops from all parts determined upon holding communion with Athanasius on the ground that he was innocent.
+
+[3:29] And let your charity also observe, that when he came to the holy Council assembled at Sardica, the Bishops of the East were informed of the circumstance, as we said before, both by letter, and by injunctions conveyed by word of mouth, and were invited by us to be present.
+
+[3:30] But, being condemned by their own conscience, they had recourse to unbecoming excuses, and set themselves to avoid the enquiry.
+
+[3:31] They demanded that an innocent man should be rejected from our communion, as a culprit, not considering how unbecoming, or rather how impossible, such a proceeding was.
+
+[3:32] And as for the Reports which were framed in the Mareotis by certain most wicked and most abandoned youths, to whose hands one would not commit the very lowest office of the ministry, it is certain that they were ex parte statements.
+
+[3:33] For neither was our brother the Bishop Athanasius present on the occasion, nor the Presbyter Macarius who was accused by them.
+
+[3:34] And besides, their enquiry, or rather their falsification of facts, was attended by the most disgraceful circumstances.
+
+[3:35] Sometimes heathens, sometimes Catechumens, were examined, not that they might declare what they knew, but that they might assert those falsehoods which they had been taught by others.
+
+[3:36] And when you Presbyters, who were in charge in the absence of your Bishop, desired to be present at the enquiry, in order that you might shew the truth, and disprove the falsehoods, no regard was paid to you; they would not permit you to be present, but drove you away with insult.
+
+[3:37] Now although their calumnies have been most plainly exposed before all men by these circumstances; yet we found also, on reading the Reports, that the most iniquitous Ischyras, who has obtained from them the empty title of Bishop as his reward for the false accusation, had convicted himself of calumny.
+
+[3:38] He declares in the Reports that at the very time when, according to his positive assertions, Macarius entered his cell, he lay there sick; whereas Eusebius and his fellows had the boldness to write that Ischyras was standing up and offering when Macarius came in.
+
+[3:39] 38.
+
+[3:40] The base and slanderous charge which they next alleged against him, has become well-known to all men.
+
+[3:41] They raised a great outcry, affirming that Athanasius had committed murder, and had made away with one Arsenius a Meletian Bishop, whose loss they pretended to deplore with feigned lamentations and fictitious tears, and demanded that the body of a living man, as if a dead one, should be given up to them.
+
+[3:42] But their fraud was not undetected; one and all knew that the person was alive, and was numbered among the living.
+
+[3:43] And when these men, who are ready upon any opportunity, perceived their falsehoods detected (for Arsenius shewed himself alive, and so proved that he had not been made away with, and was not dead), yet they would not rest, but proceeded to add other to their former calumnies, and to slander the man by a fresh expedient.
+
+[3:44] Well; our brother Athanasius, dearly beloved, was not confounded, but again in the present case also with great boldness challenged them to the proof, and we too prayed and exhorted them to come to the trial, and if they were able, to establish their charge against him.
+
+[3:45] O great arrogance! O dreadful pride! or rather, if one must say the truth, O evil and accusing conscience! for this is the view which all men take of it.
+
+[3:46] Wherefore, beloved brethren, we admonish and exhort you, above all things to maintain the right faith of the Catholic Church.
+
+[3:47] You have undergone many severe and grievous trials; many are the insults and injuries which the Catholic Church has suffered, but 'he that endureth to the end, the same shall be saved.
+
+[3:48] ' Wherefore even though they still recklessly assail you, let your tribulation be unto you for joy.
+
+[3:49] For such afflictions are a sort of martyrdom, and such confessions and tortures as yours will not be without their reward, but ye shall receive the prize from God.
+
+[3:50] Therefore strive above all things in support of the sound faith, and of the innocence of your Bishop and our fellow-minister Athanasius.
+
+[3:51] We also have not held our peace, nor been negligent of what concerns your comfort, but have deliberated and done whatsoever the claims of charity demand.
+
+[3:52] We sympathize with our suffering brethren, and their affliction we consider as our own.
+
+[3:53] 39.
+
+[3:54] Accordingly we have written to beseech our most religious and godly Emperors, that their kindness would give orders for the release of those who are still suffering from affliction and oppression, and would command that none of the magistrates, whose duty it is to attend only to civil causes, give judgment upon Clergy, nor henceforward in any way, on pretence of providing for the Churches, attempt anything against the brethren; but that every one may live, as he prays and desires to do, free from persecution, from violence and fraud, and in quietness and peace may follow the Catholic and Apostolic Faith.
+
+[3:55] As for Gregory, who has the reputation of being illegally appointed by the heretics, and has been sent by them to your city, we wish your unanimity to understand, that he has been deposed by a judgment of the whole sacred Council, although indeed he has never at any time been considered to be a Bishop at all.
+
+[3:56] Wherefore receive gladly your Bishop Athanasius, for to this end we have dismissed him in peace.
+
+[3:57] And we exhort all those who either through fear, or through the intrigues of certain persons, have held communion with Gregory, that now being admonished, exhorted, and persuaded by us, they withdraw from that his detestable communion, and straightway unite themselves to the Catholic Church.
+
+[3:58] 40.
+
+[3:59] But forasmuch as we have learnt that Aphthonius, Athanasius the son of Capito, Paul, and Plutio, our fellow Presbyters, have also suffered from the machinations of Eusebius and his fellows, so that some of them have had trial of exile, and others have fled on peril of their lives, we have in consequence thought it necessary to make this known unto you, that you may understand that we have received and acquitted them also, being aware that whatever has been done by Eusebius and his fellows against the orthodox has tended to the glory and commendation of those who have been attacked by them.
+
+[3:60] It were fitting that your Bishop and our brother Athanasius should make this known to you respecting them, to his own respecting his own; but as for more abundant testimony he wished the holy Council also to write to you, we deferred not to do so, but hastened to signify this unto you, that you may receive them as we have done, for they also are deserving of praise, because through their piety towards Christ they have been thought worthy to endure violence at the hands of the heretics.
+
+[3:61] What decrees have been passed by the holy Council against those who are at the head of the Arian heresy, and have offended against you, and the rest of the Churches, you will learn from the subjoined documents.
+
+[3:62] We have sent them to you, that you may understand from them that the Catholic Church will not overlook those who offend against her.
+
+[3:63] Letter of the Council of Sardica to the Bishops of Egypt and Libya.
+
+[3:64] The holy Council, by the grace of God assembled at Sardica, to the Bishops of Egypt and Libya, their fellow-ministers and dearly beloved brethren, sends health in the Lord.
+
+[3:65] 41.
+
+[3:66] We were not ignorant, but the fact was well known to us, even before we received the letters of your piety, that the supporters of the abominated heresy of the Arians were practising many dangerous machinations, rather to the destruction of their own souls, than to the injury of the Church.
+
+[3:67] For this has ever been the object of their craft and villainy: this is the deadly design in which they have been continually engaged, viz.
+
+[3:68] how they may best expel from their places and persecute all who are to be found anywhere of orthodox sentiments, and maintaining the doctrine of the Catholic Church, which was delivered to them from the Fathers.
+
+[3:69] Against some they have laid false accusations; others they have driven into banishment; others they have destroyed by the punishments inflicted on them.
+
+[3:70] At any rate they endeavoured by violence and tyranny to surprise the innocence of our brother and fellow-Bishop Athanasius, and therefore conducted their enquiry into his case without any faith, without any sort of justice.
+
+[3:71] Accordingly having no confidence in the part they had played on that occasion, nor yet in the reports they had circulated against him, but perceiving that they were unable to produce any certain evidence respecting the case, when they came to the city of Sardica, they were unwilling to meet the Council of all the holy Bishops.
+
+[3:72] From this it became evident that the decision of our brother and fellow-Bishop Julius was a just one; for after cautious deliberation and care he had decided, that we ought not to hesitate at all about communion with our brother Athanasius.
+
+[3:73] For he had the credible testimony of eighty Bishops, and was also able to advance this fair argument in his support, that by the mere means of our dearly beloved brethren his own Presbyters, and by correspondence, he had defeated the designs of Eusebius and his fellows, who relied more upon violence than upon a judicial inquiry.
+
+[3:74] Wherefore all the Bishops from all parts determined upon holding communion with Athanasius on the ground that he was innocent.
+
+[3:75] And let your charity also observe, that when he came to the holy Council assembled at Sardica, the Bishops of the East were informed of the circumstance, as we said before, both by letter, and by injunctions conveyed by word of mouth, and were invited by us to be present.
+
+[3:76] But, being condemned by their own conscience, they had recourse to unbecoming excuses, and began to avoid the enquiry.
+
+[3:77] They demanded that an innocent man should be rejected from our communion, as a culprit, not considering how unbecoming, or rather how impossible, such a proceeding was.
+
+[3:78] And as for the reports which were framed in the Mareotis by certain most wicked and abandoned youths, to whose hands one would not commit the very lowest office of the ministry, it is certain that they were ex parte statements.
+
+[3:79] For neither was our brother the Bishop Athanasius present on the occasion, nor the Presbyter Macarius, who was accused by them.
+
+[3:80] And besides, their enquiry, or rather their falsification of facts, was attended by the most disgraceful circumstances.
+
+[3:81] Sometimes Heathens, sometimes Catechumens, were examined, not that they might declare what they knew, but that they might assert those falsehoods which they had been taught by others.
+
+[3:82] And when you Presbyters, who were in charge in the absence of your Bishop, desired to be present at the enquiry, in order that you might shew the truth, and disprove falsehood, no regard was paid to you; they would not permit you to be present, but drove you away with insult.
+
+[3:83] Now although their calumnies have been most plainly exposed before all men by these circumstances; yet we found also, on reading the Reports, that the most iniquitous Ischyras, who has obtained from them the empty title of Bishop as his reward for the false accusation, had convicted himself of calumny.
+
+[3:84] He declares in the Reports, that at the very time when, according to his positive assertions, Macarius entered his cell, he lay there sick; whereas Eusebius and his fellows had the boldness to write that Ischyras was standing offering when Macarius came in.
+
+[3:85] 42.
+
+[3:86] The base and slanderous charge which they next alleged against him has become well known unto all men.
+
+[3:87] They raised a great outcry, affirming that Athanasius had committed murder, and made away with one Arsenius a Meletian Bishop, whose loss they pretended to deplore with feigned lamentations, and fictitious tears, and demanded that the body of a living man, as if a dead one, should be given up to them.
+
+[3:88] But their fraud was not undetected; one and all knew that the person was alive, and was numbered among the living.
+
+[3:89] And when these men, who are ready upon any opportunity, perceived their falsehood detected (for Arsenius shewed himself alive, and so proved that he had not been made away with, and was not dead), yet they would not rest, but proceeded to add other to their former calumnies, and to slander the man by a fresh expedient.
+
+[3:90] Well: our brother Athanasius, dearly beloved, was not confounded, but again in the present case also with great boldness challenged them to the proof, and we too prayed and exhorted them to come to the trial, and if they were able, to establish their charge against him.
+
+[3:91] O great arrogance! O dreadful pride! or rather, if one must say the truth, O evil and accusing conscience! for this is the view which all men take of it.
+
+[3:92] Wherefore, beloved brethren, we admonish and exhort you, above all things, to maintain the right faith of the Catholic Church.
+
+[3:93] You have undergone many severe and grievous trials; many are the insults and injuries which the Catholic Church has suffered, but 'he that endureth to the end, the same shall be saved.
+
+[3:94] ' Wherefore, even though they shall still recklessly assail you, let your tribulation be unto you for joy.
+
+[3:95] For such afflictions are a sort of martyrdom, and such confessions and tortures as yours will not be without their reward, but ye shall receive the prize from God.
+
+[3:96] Therefore strive above all things in support of the sound Faith, and of the innocence of your Bishop and our brother Athanasius.
+
+[3:97] We also have not held our peace, nor been negligent of what concerns your comfort, but have deliberated and done whatsoever the claims of charity demand.
+
+[3:98] We sympathize with our suffering brethren, and their afflictions we consider as our own, and have mingled our tears with yours.
+
+[3:99] And you, brethren, are not the only persons who have suffered: many others also of our brethren in ministry have come hither, bitterly lamenting these things.
+
+[3:100] 43.
+
+[3:101] Accordingly, we have written to beseech our most religious and godly Emperors, that their kindness would give orders for the release of those who are still suffering from affliction and oppression, and would command that none of the magistrates, whose duty it is to attend only to civil causes, give judgment upon Clergy, nor henceforward in any way, on pretence of providing for the Churches, attempt anything against the brethren, but that every one may live, as he prays and desires to do, free from persecution, from violence and fraud, and in quietness and peace may follow the Catholic and Apostolic Faith.
+
+[3:102] As for Gregory, who has the reputation of being illegally appointed by the heretics, and who has been sent by them to your city, we wish your unanimity to understand, that he has been deposed by the judgment of the whole sacred Council, although indeed he has never at any time been considered to be a Bishop at all.
+
+[3:103] Wherefore receive gladly your Bishop Athanasius; for to this end we have dismissed him in peace.
+
+[3:104] And we exhort all those, who either through fear, or through intrigues of certain persons, have held communion with Gregory, that being now admonished, exhorted, and persuaded by us, they withdraw from his detestable communion, and straightway unite themselves to the Catholic Church.
+
+[3:105] What decrees have been passed by the holy Council against Theodorus, Narcissus, Stephanus, Acacius, Menophantus, Ursacius, Valens, and George, who are the heads of the Arian heresy, and have offended against you and the rest of the Churches, you will learn from the subjoined documents.
+
+[3:106] We have sent them to you, that your piety may assent to our decisions, and that you may understand from them, that the Catholic Church will not overlook those who offend against her.
+
+[3:107] Encyclical Letter of the Council of Sardica.
+
+[3:108] The holy Council, by the grace of God, assembled at Sardica, to their dearly beloved brethren, the Bishops and fellow-Ministers of the Catholic Church every where, sends health in the Lord.
+
+[3:109] 44.
+
+[3:110] The Arian madmen have dared repeatedly to attack the servants of God, who maintain the right faith; they attempted to substitute a spurious doctrine, and to drive out the orthodox; and at last they made so violent an assault against the Faith, that it became known even to the piety of our most religious Emperors.
+
+[3:111] Accordingly, the grace of God assisting them, our most religious Emperors have themselves assembled us together out of different provinces and cities, and have permitted this holy Council to be held in the city of Sardica; to the end that all dissension may be done away, and all false doctrine being driven from us, Christian godliness may alone be maintained by all men.
+
+[3:112] The Bishops of the East also attended, being exhorted to do so by the most religious Emperors, chiefly on account of the reports they have so often circulated concerning our dearly beloved brethren and fellow-ministers Athanasius, Bishop of Alexandria, and Marcellus, Bishop of Ancyro-Galatia.
+
+[3:113] Their calumnies have probably already reached you, and perhaps they have attempted to disturb your ears, that you may be induced to believe their charges against the innocent, and that they may obliterate from your minds any suspicions respecting their own wicked heresy.
+
+[3:114] But they have not been permitted to effect this to any great extent; for the Lord is the Defender of His Churches, Who endured death for their sakes and for us all, and provided access to heaven for us all through Himself.
+
+[3:115] When therefore Eusebius and his fellows wrote long ago to Julius our brother and Bishop of the Church of the Romans, against our forementioned brethren, that is to say, Athanasius, Marcellus, and Asclepas, the Bishops from the other parts wrote also, testifying to the innocence of our fellow-minister Athanasius, and declaring that the representations of Eusebius and his fellows were nothing else but mere falsehood and calumny.
+
+[3:116] And indeed their calumnies were clearly proved by the fact that, when they were invited to a Council by our dearly beloved fellow-minister Julius, they would not come, and also by what was written to them by Julius himself.
+
+[3:117] For had they had confidence in the measures and the acts in which they were engaged against our brethren, they would have come.
+
+[3:118] And besides, they gave a still more evident proof of their conspiracy by their conduct in this great and holy Council.
+
+[3:119] For when they arrived at the city of Sardica, and saw our brethren Athanasius, Marcellus, Asclepas, and the rest, they were afraid to come to a trial and though they were repeatedly invited to attend, they would not obey the summons.
+
+[3:120] Although all we Bishops met together, and above all that man of most happy old age, Hosius, one who on account of his age, his confession, and the many labours he has undergone, is worthy of all reverence; and although we waited and urged them to come to the trial, that in the presence of our fellow-ministers they might establish the truth of those charges which they had circulated and written against them in their absence; yet they would not come, when they were thus invited, as we said before, thus giving proof of their calumnies, and almost proclaiming to the world by this their refusal, the plot and conspiracy in which they have been engaged.
+
+[3:121] They who are confident of the truth of their assertions are able to make them good against their opponents face to face.
+
+[3:122] But as they would not meet us, we think that no one can now doubt, however they may again have recourse to their bad practices, that they possess no proof against our fellow-ministers, but calumniate them in their absence, while they avoid their presence.
+
+[3:123] 45.
+
+[3:124] They fled, beloved brethren, not only on account of the calumnies they had uttered, but because they saw that those had come who had various charges to advance against them.
+
+[3:125] For chains and irons were brought forward which they had used; persons appeared who had returned from banishment; there came also our brethren, kinsmen of those who were still detained in exile, and friends of such as had perished through their means.
+
+[3:126] And what was the most weighty ground of accusation, Bishops were present, one of whom brought forward the irons and chains which they had caused him to wear, and others appealed to the death which had been brought about by their calumnies.
+
+[3:127] For they had proceeded to such a pitch of madness, as even to attempt to destroy Bishops; and would have destroyed them, had they not escaped their hands.
+
+[3:128] Our fellow-ministers, Theodulus of blessed memory, died during his flight from their false accusations, orders having been given in consequence of these to put him to death.
+
+[3:129] Others also exhibited sword-wounds; and others complained that they had been exposed to the pains of hunger through their means.
+
+[3:130] Nor were they ordinary persons who testified to these things, but whole Churches, in whose behalf legates appeared, and told us of soldiers sword in hand, of multitudes armed with clubs, of the threats of judges, of the forgery of false letters.
+
+[3:131] For there were read certain false letters of Theognius and his fellows against our fellow-ministers Athanasius, Marcellus, and Asclepas, written with the design of exasperating the Emperors against them; and those who had then been Deacons of Theognius proved the fact.
+
+[3:132] From these men, we heard of virgins stripped naked, churches burnt, ministers in custody, and all for no other end, but only for the sake of the accursed heresy of the Arian madmen, whose communion whoso refused was forced to suffer these things.
+
+[3:133] When they perceived then how matters lay, they were in a strait what course to choose.
+
+[3:134] They were ashamed to confess what they had done, but were unable to conceal it any longer.
+
+[3:135] They therefore came to the city of Sardica, that by their arrival they might seem to remove suspicion from themselves of such offences.
+
+[3:136] But when they saw those whom they had calumniated, and those who had suffered at their hands; when they had before their eyes their accusers and the proofs of their guilt, they were unwilling to come forward, though invited by our fellow-ministers Athanasius, Marcellus, and Asclepas, who with great freedom complained of their conduct, and urged and challenged them to the trial, promising not only to refute their calumnies, but also to bring proof of the offences which they had committed against their Churches.
+
+[3:137] But they were seized with such terrors of conscience, that they fled; and in doing so they exposed their own calumnies and confessed by running away the offences of which they had been guilty.
+
+[3:138] 46.
+
+[3:139] But although their malice and their calumnies have been plainly manifested on this as well as on former occasions, yet that they may not devise means of practising a further mischief in consequence of their flight, we have considered it advisable to examine the part they have played according to the principles of truth; this has been our purpose, and we have found them calumniators by their acts, and authors of nothing else than a plot against our brethren in ministry.
+
+[3:140] For Arsenius, who they said had been murdered by Athanasius, is still alive, and is numbered among the living; from which we may infer that the reports they have spread abroad on other subjects are fabrications also.
+
+[3:141] And whereas they spread abroad a rumour concerning a cup, which they said had been broken by Macarius the Presbyter of Athanasius, those who came from Alexandria, the Mareotis, and the other parts, testified that nothing of the kind had taken place.
+
+[3:142] And the Egyptian Bishops who wrote to Julius our fellow-minister, positively affirmed that there had not arisen among them even any suspicion whatever of such a thing.
+
+[3:143] Moreover, the Reports, which they say they have to produce against him, are, as is notorious, ex parte statements; and even in the formation of these very Reports, Heathens and Catechumens were examined; one of whom, a Catechumen, said in his examination that he was present in the room when Macarius broke in upon them; and another declared, that Ischyras of whom they speak so much, lay sick in his cell at the time; from which it appears that the Mysteries were never celebrated at all, because Catechumens were present, and also that Ischyras was not present, but was lying sick on his bed.
+
+[3:144] Besides, this most worthless Ischyras, who has falsely asserted, as he was convicted of doing, that Athanasius had burnt some of the sacred books, has himself confessed that he was sick, and was lying in his bed when Macarius came; from which it is plain that he is a slanderer.
+
+[3:145] Nevertheless, as a reward for these his calumnies, they have given to this very Ischyras the title of Bishop, although he is not even a Presbyter.
+
+[3:146] For two Presbyters, who were once associated with Meletius, but were afterwards received by the blessed Alexander, Bishop of Alexandria, and are now with Athanasius, appeared before the Council, and testified that he was not even a Presbyter of Meletius, and that Meletius never had either Church or Minister in the Mareotis.
+
+[3:147] And yet this man, who has never been even a Presbyter, they have now brought forward as a Bishop, that by this name they may have the means of overpowering those who are within hearing of his calumnies.
+
+[3:148] 47.
+
+[3:149] The book of our fellow-minister Marcellus was also read, by which the fraud of Eusebius and his fellows was plainly discovered.
+
+[3:150] For what Marcellus had advanced by way of enquiry, they falsely represented as his professed opinion; but when the subsequent parts of the book were read, and the parts preceding the queries themselves, his faith was found to be correct.
+
+[3:151] He had never pretended, as they positively affirmed, that the Word of God had His beginning from holy Mary, nor that His kingdom had an end; on the contrary he had written that His kingdom was both without beginning and without end.
+
+[3:152] Our fellow-minister Asclepas also produced Reports which had been drawn up at Antioch in the presence of his accusers and Eusebius of Caesarea, and proved that he was innocent by the declarations of the Bishops who judged his cause.
+
+[3:153] They had good reason therefore, dearly beloved brethren, for not hearkening to our frequent summons, and for deserting the Council.
+
+[3:154] They were driven to this by their own consciences; but their flight only confirmed the proof of their own calumnies, and caused those things to be believed against them, which their accusers, who were present, were asserting and arguing.
+
+[3:155] But besides all these things, they had not only received those who were formerly degraded and ejected on account of the heresy of Arius, but had even promoted them to a higher station, advancing Deacons to the Presbytery, and of Presbyters making Bishops, for no other end, but that they might disseminate and spread abroad impiety, and corrupt the orthodox faith.
+
+[3:156] 48.
+
+[3:157] Their leaders are now, after Eusebius and his fellows, Theodorus of Heraclea, Narcissus of Neronias in Cilicia, Stephanus of Antioch, George of Laodicea, Acacius of Caesarea in Palestine, Menophantus of Ephesus in Asia, Ursacius of Singidunum in Moesia, and Valens of Mursa in Pannonia.
+
+[3:158] These men would not permit those who came with them from the East to meet the holy Council, nor even to approach the Church of God; but as they were coming to Sardica, they held Councils in various places by themselves, and made an engagement under threats, that when they came to Sardica, they would not so much as appear at the trial, nor attend the assembling of the holy Council, but simply coming and making known their arrival as a matter of form, would speedily take to flight.
+
+[3:159] This we have been able to ascertain from our fellow-ministers, Macarius of Palestine and Asterius of Arabia, who after coming in their company, separated themselves from their unbelief.
+
+[3:160] These came to the holy Council, and complained of the violence they had suffered, and said that no right act was being done by them; adding that there were many among them who adhered to orthodoxy, but were prevented by those men from coming hither, by means of the threats and promises which they held out to those who wished to separate from them.
+
+[3:161] On this account it was that they were so anxious that all should abide in one dwelling, and would not suffer them to be by themselves even for the shortest space of time.
+
+[3:162] 49.
+
+[3:163] Since then it became us not to hold our peace, nor to pass over unnoticed their calumnies, imprisonments, murders, wounds, conspiracies by means of false letters, outrages, stripping of the virgins, banishments, destruction of the Churches, burnings, translations from small cities to larger dioceses, and above all, the rising of the ill-named Arian heresy by their means against the orthodox faith; we have therefore pronounced our dearly beloved brethren and fellow-ministers Athanasius, Marcellus, and Asclepas, and those who minister to the Lord with them, to be innocent and clear of offence, and have written to the diocese of each, that the people of each Church may know the innocence of their own Bishop, and may esteem him as their Bishop and expect his coming.
+
+[3:164] And as for those who like wolves have invaded their Churches, Gregory at Alexandria, Basil at Ancyra, and Quintianus at Gaza, let them neither give them the title of Bishop, nor hold any communion at all with them, nor receive letters from them, nor write to them.
+
+[3:165] And for Theodorus, Narcissus, Acacius, Stephanus, Ursacius, Valens, Menophantus, and George, although the last from fear did not come from the East, yet because he was deposed by the blessed Alexander, and because both he and the others were connected with the Arian madness, as well as on account of the charges which lie against them, the holy Council has unanimously deposed them from the Episcopate, and we have decided that they not only are not Bishops, but that they are unworthy of holding communion with the faithful.
+
+[3:166] For they who separate the Son and alienate the Word from the Father, ought themselves to be separated from the Catholic Church and to be alien from the Christian name.
+
+[3:167] Let them therefore be anathema to you, because they have 'corrupted the word of truth.
+
+[3:168] ' It is an Apostolic injunction, 'If any man preach any other Gospel unto you than that ye have received, let him be accursed.
+
+[3:169] ' Charge your people that no one hold communion with them, for there is no communion of light with darkness; put away from you all these, for there is no concord of Christ in Belial.
+
+[3:170] And take heed, dearly beloved, that ye neither write to them, nor receive letters from them; but desire rather, brethren and fellow-ministers, as being present in spirit with our Council, to assent to our judgments by your subscriptions, to the end that concord may be preserved by all our fellow-ministers everywhere.
+
+[3:171] May Divine Providence protect and keep you, dearly beloved brethren, in sanctification and joy.
+
+[3:172] I, Hosius, Bishop, have subscribed this, and all the rest likewise.
+
+[3:173] This is the letter which the Council of Sardica sent to those who were unable to attend, and they on the other hand gave their judgment in accordance; and the following are the names both of those Bishops who subscribed in the Council, and of the others also.
+
+[3:174] 50.
+
+[3:175] Hosius of Spain, Julius of Rome by his Presbyters Archidamus and Philoxenus, Protogenes of Sardica, Gaudentius, Macedonius, Severus, Praetextatus, Ursicius, Lucillus, Eugenius, Vitalius, Calepodius, Florentius, Bassus, Vincentius, Stercorius, Palladius, Domitianus, Chalbis, Gerontius, Protasius, Eulogus, Porphyrius, Dioscorus, Zosimus, Januarius, Zosimus, Alexander, Eutychius, Socrates, Diodorus, Martyrius, Eutherius, Eucarpus, Athenodorus, Irenaeus, Julianus, Alypius, Jonas, Aetius, Restitutus, Marcellinus, Aprianus, Vitalius, Valens, Hermogenes, Castus, Domitianus, Fortunatius, Marcus, Annianus, Heliodorus, Musaeus, Asterius, Paregorius, Plutarchus, Hymenaeus, Athanasius, Lucius, Amantius, Arius, Asclepius, Dionysius, Maximus, Tryphon, Alexander, Antigonus, aelianus, Petrus, Symphorus, Musonius, Eutychus, Philologius, Spudasius, Zosimus, Patricius, Adolius, Sapricius.
+
+[3:176] From Gaul the following; Maximianus, Verissimus, Victurus, Valentinus, Desiderius, Eulogius, Sarbatius, Dyscolius, Superior, Mercurius, Declopetus, Eusebius, Severinus, Satyrus, Martinus, Paulus, Optatianus, Nicasius, Victor, Sempronius, Valerinus, Pacatus, Jesses, Ariston, Simplicius, Metianus, Amantus, Amillianus, Justinianus, Victorinus, Satornilus, Abundantius, Donatianus, Maximus.
+
+[3:177] From Africa; Nessus, Gratus, Megasius, Coldaeus, Rogatianus, Consortius, Rufinus, Manninus, Cessilianus, Herennianus, Marianus, Valerius, Dynamius, Mizonius, Justus, Celestinus, Cyprianus, Victor, Honoratus, Marinus, Pantagathus, Felix, Baudius, Liber, Capito, Minervalis, Cosmus, Victor, Hesperio, Felix, Severianus, Optantius, Hesperus, Fidentius, Salustius, Paschasius.
+
+[3:178] From Egypt; Liburnius, Amantius, Felix, Ischyrammon, Romulus, Tiberinus, Consortius, Heraclides, Fortunatius, Dioscorus, Fortunatianus, Bastamon, Datyllus, Andreas, Serenus, Arius, Theodorus, Evagoras, Helias, Timotheus, Orion, Andronicus, Paphnutius, Hermias, Arabion, Psenosiris, Apollonius, Muis, Sarapampon, Philo, Philippus, Apollonius, Paphnutius, Paulus, Dioscorus, Nilammon, Serenus, Aquila, Aotas, Harpocration, Isac, Theodorus, Apollos, Ammonianus, Nilus, Heraclius, Arion, Athas, Arsenius, Agathammon, Theon, Apollonius, Helias, Paninuthius, Andragathius, Nemesion, Sarapion, Ammonius, Ammonius, Xenon, Gerontius, Quintus, Leonides, Sempronianus, Philo, Heraclides, Hieracys, Rufus, Pasophius, Macedonius, Apollodorus, Flavianus, Psaes, Syrus, Apphus, Sarapion, Esaias, Paphnutius, Timotheus, Elurion, Gaius, Musaeus, Pistus, Heraclammon, Heron, Helias, Anagamphus, Apollonius, Gaius, Philotas, Paulus, Tithoes, Eudaemon, Julius.
+
+[3:179] Those on the road of Italy are Probatius, Viator, Facundinus, Joseph, Numedius, Sperantius, Severus, Heraclianus, Faustinus, Antoninus, Heraclius, Vitalius, Felix, Crispinus, Paulianus.
+
+[3:180] From Cyprus; Auxibius, Photius, Gerasius, Aphrodisius, Irenicus, Nunechius, Athanasius, Macedonius, Triphyllius, Spyridon, Norbanus, Sosicrates.
+
+[3:181] From Palestine; Maximus, Aetius, Arius, Theodosius, Germanus, Silvanus, Paulus, Claudius, Patricius, Elpidius, Germanus, Eusebius, Zenobius, Paulus, Petrus.
+
+[3:182] These are the names of those who subscribed to the acts of the Council; but there are very many beside, out of Asia, Phrygia, and Isauria, who wrote in my behalf before this Council was held, and whose names, nearly sixty-three in number, may be found in their own letters.
+
+[3:183] They amount altogether to three hundred and forty-four.
+
+[4:1] Chapter IV.
+
+[4:2] —Imperial and Ecclesiastical Acts in Consequence of the Decision of the Council of Sardica.
+
+[4:3] 51.
+
+[4:4] When the most religious Emperor Constantius heard of these things, he sent for me, having written privately to his brother Constans of blessed memory, and to me three several times in the following terms.
+
+[4:5] Constantius Victor Augustus to Athanasius.
+
+[4:6] Our benignant clemency will not suffer you to be any longer tempest-tossed by the wild waves of the sea; for our unwearied piety has not lost sight of you, while you have been bereft of your native home, deprived of your goods, and have been wandering in savage wildernesses.
+
+[4:7] And although I have for a long time deferred expressing by letter the purpose of my mind concerning you, principally because I expected that you would appear before us of your own accord, and would seek a relief of your sufferings; yet forasmuch as fear, it may be, has prevented you from fulfilling your intentions, we have therefore addressed to your fortitude letters full of our bounty, to the end that you may use all speed and without fear present yourself in our presence, thereby to obtain the enjoyment of your wishes, and that, having experience of our kindness, you may be restored again to your own.
+
+[4:8] For this purpose I have besought my lord and brother Constans Victor Augustus, in your behalf, that he would give you permission to come, in order that you may be restored to your country with the consent of us both, receiving this as a pledge of our favour.
+
+[4:9] The Second Letter.
+
+[4:10] Although we made it very plain to you in a former letter that you may without hesitation come to our Court, because we greatly wished to send you home, yet, we have further sent this present letter to your fortitude to exhort you without any distrust or apprehension, to place yourself in the public conveyances, and to hasten to us, that you may enjoy the fulfilment of your wishes.
+
+[4:11] The Third Letter.
+
+[4:12] Our pleasure was, while we abode at Edessa, and your Presbyters were there, that, on one of them being sent to you, you should make haste to come to our Court, in order that you might see our face, and straightway proceed to Alexandria.
+
+[4:13] But as a very long period has elapsed since you received letters from us, and you have not yet come, we therefore hasten to remind you again, that you may endeavour even now to present yourself before us with speed, and so may be restored to your country, and obtain the accomplishment of your prayers.
+
+[4:14] And for your fuller information we have sent Achitas the Deacon, from whom you will be able to learn the purpose of our soul, that you may now secure the objects of your prayers.
+
+[4:15] Such was the tenor of the Emperor's letters; on receiving which I went up to Rome to bid farewell to the Church and the Bishop: for I was at Aquileia when the above was written.
+
+[4:16] The Church was filled with all joy, and the Bishop Julius rejoiced with me in my return and wrote to the Church; and as we passed along, the Bishops of every place sent us on our way in peace.
+
+[4:17] The letter of Julius was as follows.
+
+[4:18] 52.
+
+[4:19] Julius to the Presbyters, Deacons, and people residing at Alexandria.
+
+[4:20] I congratulate you, beloved brethren, that you now behold the fruit of your faith before your eyes; for any one may see that such indeed is the case with respect to my brother and fellow-Bishop Athanasius, whom for the innocency of his life, and by reason of your prayers, God is restoring to you again.
+
+[4:21] Wherefore it is easy to perceive, that you have continually offered up to God pure prayers and full of love.
+
+[4:22] Being mindful of the heavenly promises, and of the conversation that leads to them, which you have learnt from the teaching of my brother aforesaid, you knew certainly and understood by the right faith that is in you, that he, whom you always had as present in your most pious minds, would not be separated from you for ever.
+
+[4:23] Wherefore there is no need that I should use many words in writing to you; for your faith has already anticipated whatever I could say to you, and has by the grace of God procured the accomplishment of the common prayers of you all.
+
+[4:24] Therefore, I repeat again, I congratulate you, because you have preserved your souls unconquered in the faith; and I also congratulate no less my brother Athanasius, in that, though he is enduring many afflictions, he has at no time been forgetful of your love and earnest desires towards him.
+
+[4:25] For although for a season he seemed to be withdrawn from you in body, yet he has continued to live as always present with you in spirit.
+
+[4:26] 53.
+
+[4:27] Wherefore he returns to you now more illustrious than when he went away from you.
+
+[4:28] Fire tries and purifies the precious materials, gold and silver: but how can one describe the worth of such a man, who, having passed victorious through the perils of so many tribulations, is now restored to you, being pronounced innocent not by our voice only, but by the voice of the whole Council? Receive therefore, beloved brethren, with all godly honour and rejoicing, your Bishop Athanasius, together with those who have been partners with him in so many labours.
+
+[4:29] And rejoice that you now obtain the fulfilment of your prayers, after that in your salutary letter you have given meat and drink to your Pastor, who, so to speak, longed and thirsted after your godliness.
+
+[4:30] For while he sojourned in a foreign land, you were his consolation; and you refreshed him during his persecutions by your most faithful minds and spirits.
+
+[4:31] And it delights me now to conceive and figure to my mind the joy of every one of you at his return, and the pious greetings of the concourse, and the glorious festivity of those that run to meet him.
+
+[4:32] What a day will that be to you, when my brother comes back again, and your former sufferings terminate, and his much-prized and desired return inspires you all with an exhilaration of perfect joy! The like joy it is ours to feel in a very great degree, since it has been granted us by God, to be able to make the acquaintance of so eminent a man.
+
+[4:33] It is fitting therefore that I should conclude my letter with a prayer.
+
+[4:34] May Almighty God, and His Son our Lord and Saviour Jesus Christ, afford you continual grace, giving you a reward for the admirable faith which you displayed in your noble confession in behalf of your Bishop, that He may impart unto you and unto them that are with you, both here and hereafter, those better things, which 'the eye hath not seen, nor ear heard, neither hath entered into the heart of man, the things which God hath prepared for them that love Him,' through our Lord Jesus Christ, through Whom to Almighty God be glory for ever and ever, Amen.
+
+[4:35] I pray, dearly beloved brethren, for your health and strength in the Lord.
+
+[4:36] 54.
+
+[4:37] The Emperor, when I came to him with these letters, received me kindly, and sent me forth to my country and Church addressing the following to the Bishops, Presbyters, and People.
+
+[4:38] Constantius, Victor, Maximus, Augustus, to the Bishops and Presbyters of the Catholic Church.
+
+[4:39] The most reverend Athanasius has not been deserted by the grace of God, but although for a brief season he was subjected to trial to which human nature is liable, he has obtained from the all-surveying Providence such an answer to his prayers as was meet, and is restored by the will of the Most High, and by our sentence, at once to his country and to the Church, over which by divine permission he presided.
+
+[4:40] Wherefore, in accordance with this, it is fitting that it should be provided by our clemency, that all the decrees which have heretofore been passed against those who held communion with him, be now consigned to oblivion, and that all suspicions respecting them be henceforward set at rest, and that immunity, such as the Clergy who are associated with him formerly enjoyed, be duly confirmed to them.
+
+[4:41] Moreover to our other acts of favour towards him we have thought good to add the following, that all persons of the sacred catalogue should understand, that an assurance of safety is given to all who adhere to him, whether Bishops, or other Clergy.
+
+[4:42] And union with him will be a sufficient guarantee, in the case of any person, of an upright intention.
+
+[4:43] For whoever, acting according to a better judgment and part, shall choose to hold communion with him, we order, in imitation of that Providence which has already gone before, that all such should have the advantage of the grace which by the will of the Most High is now offered to them from us.
+
+[4:44] May God preserve you.
+
+[4:45] The Second Letter.
+
+[4:46] Constantius, Victor, Maximus, Augustus, to the people of the Catholic Church at Alexandria.
+
+[4:47] 55.
+
+[4:48] Having in view your welfare in all respects, and knowing that you have for a long time been deprived of episcopal superintendence, we have thought good to send back to you your Bishop Athanasius, a man known to all men for the uprightness that is in him, and for the good disposition of his personal character.
+
+[4:49] Receive him, as you are wont to receive every one, in a suitable manner, and, using his advocacy as your succour in your prayers to God, endeavour to preserve continually that unanimity and peace according to the order of the Church which is at the same time becoming in you, and most advantageous for us.
+
+[4:50] For it is not becoming that any dissension or faction should be raised among you, contrary to the prosperity of our times.
+
+[4:51] We desire that this offence may be altogether removed from you, and we exhort you to continue stedfastly in your accustomed prayers, and to make him, as we said before, your advocate and helper towards God.
+
+[4:52] So that, when this your determination, beloved, has influenced the prayers of all men, even those heathen who are still addicted to the false worship of idols may eagerly desire to come to the knowledge of our sacred religion.
+
+[4:53] Again therefore we exhort you to continue in these things, and gladly to receive your Bishop, who is sent back to you by the decree of the Most High, and by our decision, and determine to greet him cordially with all your soul and with all your mind.
+
+[4:54] For this is what is both becoming in you, and agreeable to our clemency.
+
+[4:55] In order that all occasions of disturbance and sedition may be taken away from those who are maliciously disposed, we have by letter commanded the magistrates who are among you to subject to the vengeance of the law all whom they find to be factious.
+
+[4:56] Wherefore taking into consideration both these things, our decision in accordance with the will of the Most High, and our regard for you and for concord among you, and the punishment that awaits the disorderly, observe such things as are proper and suitable to the order of our sacred religion, and receiving the afore-mentioned Bishop with all reverence and honour, take care to offer up with him your prayers to God, the Father of all, in behalf of yourselves, and for the well-being of your whole lives.
+
+[4:57] 56.
+
+[4:58] Having written these letters, he also commanded that the decrees, which he had formerly sent out against me in consequence of the calumnies of Eusebius and his fellows, should be cancelled and struck out from the Orders of the Duke and the Prefect of Egypt; and Eusebius the Decurion was sent to withdraw them from the Order-books.
+
+[4:59] His letter on this occasion was as follows.
+
+[4:60] Constantius, Victor, Augustus, to Nestorius.
+
+[4:61] (And in the same terms, to the Governors of Augustamnica, the Thebais, and Libya.
+
+[4:62] )  Whatever Orders are found to have been passed heretofore, tending to the injury and dishonour of those who hold communion with the Bishop Athanasius, we wish them to be now erased.
+
+[4:63] For we desire that whatever immunities his Clergy possessed before, they should again possess the same.
+
+[4:64] And we wish this our Order to be observed, that when the Bishop Athanasius is restored to his Church, those who hold communion with him may enjoy the immunities which they have always enjoyed, and which the rest of the Clergy enjoy; so that they may have the satisfaction of being on an equal footing with others.
+
+[4:65] 57.
+
+[4:66] Being thus set forward on my journey, as I passed through Syria, I met with the Bishops of Palestine, who when they had called a Council at Jerusalem, received me cordially, and themselves also sent me on my way in peace, and addressed the following letter to the Church and the Bishops.
+
+[4:67] The Holy Council, assembled at Jerusalem, to the fellow-ministers in Egypt and Libya, and to the Presbyters, Deacons, and People at Alexandria, brethren beloved and greatly longed for, sends health in the Lord.
+
+[4:68] We cannot give worthy thanks to the God of all, dearly beloved, for the wonderful things which He has done at all times, and especially at this time for your Church, in restoring to you your pastor and lord, and our fellow-minister Athanasius.
+
+[4:69] For who ever hoped that his eyes would see what you are now actually obtaining? Of a truth, your prayers have been heard by the God of all, Who cares for His Church, and has looked upon your tears and groans, and has therefore heard your petitions.
+
+[4:70] For ye were as sheep scattered and fainting, not having a shepherd.
+
+[4:71] Wherefore the true Shepherd, Who careth for His own sheep, has visited you from heaven, and has restored to you him whom you desire.
+
+[4:72] Behold, we also, being ready to do all things for the peace of the Church, and being prompted by the same affection as yourselves, have saluted him before you; and communicating with you through him, we send you these greetings, and our offering of thanksgiving, that you may know that we also are united in the bond of love that joins you to him.
+
+[4:73] You are bound to pray also for the piety of our most God-beloved Emperors, who, when they knew your earnest longings after him, and his innocency, determined to restore him to you with all honour.
+
+[4:74] Wherefore receive him with uplifted hands, and take good heed that you offer up due thanksgiving on his behalf to God Who has bestowed these blessings upon you; so that you may continually rejoice with God and glorify our Lord, in Christ Jesus our Lord, through Whom to the Father be glory for ever, Amen.
+
+[4:75] I have set down here the names of those who subscribed this letter, although I have mentioned them before.
+
+[4:76] They are these; Maximus, Aetius, Arius, Theodorus, Germanus, Silvanus, Paulus, Patricius, Elpidius, Germanus, Eusebius, Zenobius, Paulus, Macrinus, Petrus, Claudius.
+
+[4:77] 58.
+
+[4:78] When Ursacius and Valens saw all this, they forthwith condemned themselves for what they had done, and going up to Rome, confessed their crime, declared themselves penitent, and sought forgiveness, addressing the following letters to Julius, Bishop of ancient Rome, and to ourselves.
+
+[4:79] Copies of them were sent to me from Paulinus, Bishop of Treveri.
+
+[4:80] A Translation from the Latin of a Letter to Julius, concerning the recantation of Ursacius and Valens.
+
+[4:81] Ursacius and Valens to the most blessed lord, pope Julius.
+
+[4:82] Whereas it is well known that we have heretofore in letters laid many grievous charges against the Bishop Athanasius, and whereas when we were corrected by the letters of your Goodness, we were unable to render an account of the statement we had made; we do now confess before your Goodness, and in the presence of all the Presbyters our brethren, that all the reports which have heretofore come to your hearing respecting the case of the aforesaid Athanasius, are falsehoods and fabrications, and are utterly inconsistent with his character.
+
+[4:83] Wherefore we earnestly desire communion with the aforesaid Athanasius, especially since your Piety, with your characteristic generosity, has vouchsafed to pardon our error.
+
+[4:84] But we also declare, that if at any time the Eastern Bishops, or even Athanasius himself, ungenerously should wish to bring us to judgment for this matter, we will not depart contrary to your judgment.
+
+[4:85] And as for the heretic Arius and his supporters, who say that once the Son was not, and that the Son was made of that which was not, and who deny that Christ is God and the Son of God before the worlds, we anathematize them both now and for evermore, as also we have set forth in our former declaration at Milan.
+
+[4:86] We have written this with our own hands, and we profess again, that we have renounced for ever, as we said before, the Arian heresy and its authors.
+
+[4:87] I Ursacius subscribed this my confession in person; and likewise I Valens.
+
+[4:88] Ursacius and Valens, Bishops, to their lord and brother, the Bishop Athanasius.
+
+[4:89] Having an opportunity of sending by our brother and fellow Presbyter Musaeus, who is coming to your Charity, we salute you affectionately, beloved brother, through him, from Aquileia, and pray you, being as we trust in health, to read our letter.
+
+[4:90] You will also give us confidence, if you will return to us an answer in writing.
+
+[4:91] For know that we are at peace with you, and in communion with the Church, of which the salutation prefixed to this letter is a proof.
+
+[4:92] May Divine Providence preserve you, my Lord, our beloved brother!  Such were their letters, and such the sentence and the judgment of the Bishops in my behalf.
+
+[4:93] But in order to prove that they did not act thus to ingratiate themselves, or under compulsion in any quarter, I desire, with your permission, to recount the whole matter from the beginning, so that you may perceive that the bishops wrote as they did with upright and just intentions, and that Ursacius and Valens, though they were slow to do so, at last confessed the truth.
+

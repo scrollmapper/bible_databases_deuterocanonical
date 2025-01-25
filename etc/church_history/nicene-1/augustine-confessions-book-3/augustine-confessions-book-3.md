@@ -1,0 +1,320 @@
+# Augustine: Confessions Book III
+
+[1:1] Confessions Book III: Chapter I.
+
+[1:2] —Deluded by an Insane Love, He, Though Foul and Dishonourable, Desires to Be Thought Elegant and Urbane.
+
+[1:3] To Carthage I came, where a cauldron of unholy loves bubbled up all around me.
+
+[1:4] I loved not as yet, yet I loved to love; and with a hidden want, I abhorred myself that I wanted not.
+
+[1:5] I searched about for something to love, in love with loving, and hating security, and a way not beset with snares.
+
+[1:6] For within me I had a dearth of that inward food, Thyself, my God, though that dearth caused me no hunger; but I remained without all desire for incorruptible food, not because I was already filled thereby, but the more empty I was the more I loathed it.
+
+[1:7] For this reason my soul was far from well, and, full of ulcers, it miserably cast itself forth, craving to be excited by contact with objects of sense.
+
+[1:8] Yet, had these no soul, they would not surely inspire love.
+
+[1:9] To love and to be loved was sweet to me, and all the more when I succeeded in enjoying the person I loved.
+
+[1:10] I befouled, therefore, the spring of friendship with the filth of concupiscence, and I dimmed its lustre with the hell of lustfulness; and yet, foul and dishonourable as I was, I craved, through an excess of vanity, to be thought elegant and urbane.
+
+[1:11] I fell precipitately, then, into the love in which I longed to be ensnared.
+
+[1:12] My God, my mercy, with how much bitterness didst Thou, out of Thy infinite goodness, besprinkle for me that sweetness! For I was both beloved, and secretly arrived at the bond of enjoying; and was joyfully bound with troublesome ties, that I might be scourged with the burning iron rods of jealousy, suspicion, fear, anger, and strife.
+
+[2:1] Chapter II.
+
+[2:2] —In Public Spectacles He is Moved by an Empty Compassion.
+
+[2:3] He is Attacked by a Troublesome Spiritual Disease.
+
+[2:4] Stage-plays also drew me away, full of representations of my miseries and of fuel to my fire.
+
+[2:5] Why does man like to be made sad when viewing doleful and tragical scenes, which yet he himself would by no means suffer? And yet he wishes, as a spectator, to experience from them a sense of grief, and in this very grief his pleasure consists.
+
+[2:6] What is this but wretched insanity? For a man is more affected with these actions, the less free he is from such affections.
+
+[2:7] Howsoever, when he suffers in his own person, it is the custom to style it "misery" but when he compassionates others, then it is styled "mercy".
+
+[2:8] But what kind of mercy is it that arises from fictitious and scenic passions? The hearer is not expected to relieve, but merely invited to grieve; and the more he grieves, the more he applauds the actor of these fictions.
+
+[2:9] And if the misfortunes of the characters (whether of olden times or merely imaginary) be so represented as not to touch the feelings of the spectator, he goes away disgusted and censorious; but if his feelings be touched, he sits it out attentively, and sheds tears of joy.
+
+[2:10] Are sorrows, then, also loved? Surely all men desire to rejoice? Or, as man wishes to be miserable, is he, nevertheless, glad to be merciful, which, because it cannot exist without passion, for this cause alone are passions loved? This also is from that vein of friendship.
+
+[2:11] But whither does it go? Whither does it flow? Wherefore runs it into that torrent of pitch, seething forth those huge tides of loathsome lusts into which it is changed and transformed, being of its own will cast away and corrupted from its celestial clearness? Shall, then, mercy be repudiated? By no means.
+
+[2:12] Let us, therefore, love sorrows sometimes.
+
+[2:13] But beware of uncleanness, O my soul, under the protection of my God, the God of our fathers, who is to be praised and exalted above all for ever, beware of uncleanness.
+
+[2:14] For I have not now ceased to have compassion; but then in the theatres I sympathized with lovers when they sinfully enjoyed one another, although this was done fictitiously in the play.
+
+[2:15] And when they lost one another, I grieved with them, as if pitying them, and yet had delight in both.
+
+[2:16] But now-a-days I feel much more pity for him that delighteth in his wickedness, than for him who is counted as enduring hardships by failing to obtain some pernicious pleasure, and the loss of some miserable felicity.
+
+[2:17] This, surely, is the truer mercy, but grief hath no delight in it.
+
+[2:18] For though he that condoles with the unhappy be approved for his office of charity, yet would he who had real compassion rather there were nothing for him to grieve about.
+
+[2:19] For if goodwill be ill-willed (which it cannot), then can he who is truly and sincerely commiserating wish that there should be some unhappy ones, that he might commiserate them.
+
+[2:20] Some grief may then be justified, none loved.
+
+[2:21] For thus dost Thou, O Lord God, who lovest souls far more purely than do we, and art more incorruptibly compassionate, although Thou art wounded by no sorrow.
+
+[2:22] "And who is sufficient for these things?".
+
+[2:23] But I, wretched one, then loved to grieve, and sought out what to grieve at, as when, in another man's misery, though reigned and counterfeited, that delivery of the actor best pleased me, and attracted me the most powerfully, which moved me to tears.
+
+[2:24] What marvel was it that an unhappy sheep, straying from Thy flock, and impatient of Thy care, I became infected with a foul disease? And hence came my love of griefs—not such as should probe me too deeply, for I loved not to suffer such things as I loved to look upon, but such as, when hearing their fictions, should lightly affect the surface; upon which, like as with empoisoned nails, followed burning, swelling, putrefaction, and horrible corruption.
+
+[2:25] Such was my life! But was it life, O my God?.
+
+[3:1] Chapter III.
+
+[3:2] —Not Even When at Church Does He Suppress His Desires.
+
+[3:3] In the School of Rhetoric He Abhors the Acts of the Subverters.
+
+[3:4] And Thy faithful mercy hovered over me afar.
+
+[3:5] Upon what unseemly iniquities did I wear myself out, following a sacrilegious curiosity, that, having deserted Thee, it might drag me into the treacherous abyss, and to the beguiling obedience of devils, unto whom I immolated my wicked deeds, and in all which Thou didst scourge me! I dared, even while Thy solemn rites were being celebrated within the walls of Thy church, to desire, and to plan a business sufficient to procure me the fruits of death; for which Thou chastisedst me with grievous punishments, but nothing in comparison with my fault, O Thou my greatest mercy, my God, my refuge from those terrible hurts, among which I wandered with presumptuous neck, receding farther from Thee, loving my own ways, and not Thine—loving a vagrant liberty.
+
+[3:6] Those studies, also, which were accounted honourable, were directed towards the courts of law; to excel in which, the more crafty I was, the more I should be praised.
+
+[3:7] Such is the blindness of men, that they even glory in their blindness.
+
+[3:8] And now I was head in the School of Rhetoric, whereat I rejoiced proudly, and became inflated with arrogance, though more sedate, O Lord, as Thou knowest, and altogether removed from the subvertings of those "subverters" (for this stupid and diabolical name was held to be the very brand of gallantry) amongst whom I lived, with an impudent shamefacedness that I was not even as they were.
+
+[3:9] And with them I was, and at times I was delighted with their friendship whose acts I ever abhorred, that is, their "subverting," wherewith they insolently attacked the modesty of strangers, which they disturbed by uncalled for jeers, gratifying thereby their mischievous mirth.
+
+[3:10] Nothing can more nearly resemble the actions of devils than these.
+
+[3:11] By what name, therefore, could they be more truly called than "subverters"?—being themselves subverted first, and altogether perverted—being secretly mocked at and seduced by the deceiving spirits, in what they themselves delight to jeer at and deceive others.
+
+[4:1] Chapter IV.
+
+[4:2] —In the Nineteenth Year of His Age (His Father Having Died Two Years Before) He is Led by the "Hortensius" Of Cicero to "Philosophy," To God, and a Better Mode of Thinking.
+
+[4:3] Among such as these, at that unstable period of my life, I studied books of eloquence, wherein I was eager to be eminent from a damnable and inflated purpose, even a delight in human vanity.
+
+[4:4] In the ordinary course of study, I lighted upon a certain book of Cicero, whose language, though not his heart, almost all admire.
+
+[4:5] This book of his contains an exhortation to philosophy, and is called Hortensius.
+
+[4:6] This book, in truth, changed my affections, and turned my prayers to Thyself, O Lord, and made me have other hopes and desires.
+
+[4:7] Worthless suddenly became every vain hope to me; and, with an incredible warmth of heart, I yearned for an immortality of wisdom, and began now to arise that I might return to Thee.
+
+[4:8] Not, then, to improve my language—which I appeared to be purchasing with my mother's means, in that my nineteenth year, my father having died two years before—not to improve my language did I have recourse to that book; nor did it persuade me by its style, but its matter.
+
+[4:9] How ardent was I then, my God, how ardent to fly from earthly things to Thee! Nor did I know how Thou wouldst deal with me.
+
+[4:10] For with Thee is wisdom.
+
+[4:11] In Greek the love of wisdom is called "philosophy," with which that book inflamed me.
+
+[4:12] There be some who seduce through philosophy, under a great, and alluring, and honourable name colouring and adorning their own errors.
+
+[4:13] And almost all who in that and former times were such, are in that book censured and pointed out.
+
+[4:14] There is also disclosed that most salutary admonition of Thy Spirit, by Thy good and pious servant: "Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ: for in Him dwelleth all the fulness of the Godhead bodily".
+
+[4:15] And since at that time (as Thou, O Light of my heart, knowest) the words of the apostle were unknown to me, I was delighted with that exhortation, in so far only as I was thereby stimulated, and enkindled, and inflamed to love, seek, obtain, hold, and embrace, not this or that sect, but wisdom itself, whatever it were; and this alone checked me thus ardent, that the name of Christ was not in it.
+
+[4:16] For this name, according to Thy mercy, O Lord, this name of my Saviour Thy Son, had my tender heart piously drunk in, deeply treasured even with my mother's milk; and whatsoever was without that name, though never so erudite, polished, and truthful, took not complete hold of me.
+
+[5:1] Chapter V.
+
+[5:2] —He Rejects the Sacred Scriptures as Too Simple, and as Not to Be Compared with the Dignity of Tully.
+
+[5:3] I resolved, therefore, to direct my mind to the Holy Scriptures, that I might see what they were.
+
+[5:4] And behold, I perceive something not comprehended by the proud, not disclosed to children, but lowly as you approach, sublime as you advance, and veiled in mysteries; and I was not of the number of those who could enter into it, or bend my neck to follow its steps.
+
+[5:5] For not as when now I speak did I feel when I turned towards those Scriptures, but they appeared to me to be unworthy to be compared with the dignity of Tully; for my inflated pride shunned their style, nor could the sharpness of my wit pierce their inner meaning.
+
+[5:6] Yet, truly, were they such as would develope in little ones; but I scorned to be a little one, and, swollen with pride, I looked upon myself as a great one.
+
+[6:1] Chapter VI.
+
+[6:2] —Deceived by His Own Fault, He Falls into the Errors of the Manichaeans, Who Gloried in the True Knowledge of God and in a Thorough Examination of Things.
+
+[6:3] Therefore I fell among men proudly raving, very carnal, and voluble, in whose mouths were the snares of the devil—the birdlime being composed of a mixture of the syllables of Thy name, and of our Lord Jesus Christ, and of the Paraclete, the Holy Ghost, the Comforter.
+
+[6:4] These names departed not out of their mouths, but so far forth as the sound only and the clatter of the tongue, for the heart was empty of truth.
+
+[6:5] Still they cried, "Truth, Truth," and spoke much about it to me, "yet was it not in them;" but they spake falsely not of Thee only—who, verily, art the Truth—but also of these elements of this world, Thy creatures.
+
+[6:6] And I, in truth, should have passed by philosophers, even when speaking truth concerning them, for love of Thee, my Father, supremely good, beauty of all things beautiful.
+
+[6:7] O Truth, Truth! how inwardly even then did the marrow of my soul pant after Thee, when they frequently, and in a multiplicity of ways, and in numerous and huge books, sounded out Thy name to me, though it was but a voice! And these were the dishes in which to me, hungering for Thee, they, instead of Thee, served up the sun and moon, Thy beauteous works—but yet Thy works, not Thyself, nay, nor Thy first works.
+
+[6:8] For before these corporeal works are Thy spiritual ones, celestial and shining though they be.
+
+[6:9] But I hungered and thirsted not even after those first works of Thine, but after Thee Thyself, the Truth, "with whom is no variableness, neither shadow of turning;" yet they still served up to me in those dishes glowing phantasies, than which better were it to love this very sun (which, at least, is true to our sight), than those illusions which deceive the mind through the eye.
+
+[6:10] And yet, because I supposed them to be Thee, I fed upon them; not with avidity, for Thou didst not taste to my mouth as Thou art, for Thou wast not these empty fictions; neither was I nourished by them, but the rather exhausted.
+
+[6:11] Food in our sleep appears like our food awake; yet the sleepers are not nourished by it, for they are asleep.
+
+[6:12] But those things were not in any way like unto Thee as Thou hast now spoken unto me, in that those were corporeal phantasies, false bodies, than which these true bodies, whether celestial or terrestrial, which we perceive with our fleshly sight, are much more certain.
+
+[6:13] These things the very beasts and birds perceive as well as we, and they are more certain than when we imagine them.
+
+[6:14] And again, we do with more certainty imagine them, than by them conceive of other greater and infinite bodies which have no existence.
+
+[6:15] With such empty husks was I then fed, and was not fed.
+
+[6:16] But Thou, my Love, in looking for whom I fail that I may be strong, art neither those bodies that we see, although in heaven, nor art Thou those which we see not there; for Thou hast created them, nor dost Thou reckon them amongst Thy greatest works.
+
+[6:17] How far, then, art Thou from those phantasies of mine, phantasies of bodies which are not at all, than which the images of those bodies which are, are more certain, and still more certain the bodies themselves, which yet Thou art not; nay, nor yet the soul, which is the life of the bodies.
+
+[6:18] Better, then, and more certain is the life of bodies than the bodies themselves.
+
+[6:19] But Thou art the life of souls, the life of lives, having life in Thyself; and Thou changest not, O Life of my soul.
+
+[6:20] Where, then, wert Thou then to me, and how far from me? Far, indeed, was I wandering away from Thee, being even shut out from the very husks of the swine, whom with husks I fed.
+
+[6:21] For how much better, then, are the fables of the grammarians and poets than these snares! For verses, and poems, and Medea flying, are more profitable truly than these men's five elements, variously painted, to answer to the five caves of darkness, none of which exist, and which slay the believer.
+
+[6:22] For verses and poems I can turn into true food, but the "Medea flying," though I sang, I maintained it not; though I heard it sung, I believed it not; but those things I did believe.
+
+[6:23] Woe, woe, by what steps was I dragged down "to the depths of hell!"—toiling and turmoiling through want of Truth, when I sought after Thee, my God,—to Thee I confess it, who hadst mercy on me when I had not yet confessed,—sought after Thee not according to the understanding of the mind, in which Thou desiredst that I should excel the beasts, but according to the sense of the flesh! Thou wert more inward to me than my most inward part; and higher than my highest.
+
+[6:24] I came upon that bold woman, who "is simple, and knoweth nothing," the enigma of Solomon, sitting "at the door of the house on a seat," and saying, "Stolen waters are sweet, and bread eaten in secret is pleasant".
+
+[6:25] This woman seduced me, because she found my soul beyond its portals, dwelling in the eye of my flesh, and thinking on such food as through it I had devoured.
+
+[7:1] Chapter VII.
+
+[7:2] —He Attacks the Doctrine of the Manichaeans Concerning Evil, God, and the Righteousness of the Patriarchs.
+
+[7:3] For I was ignorant as to that which really is, and was, as it were, violently moved to give my support to foolish deceivers, when they asked me, "Whence is evil?"—and, "Is God limited by a bodily shape, and has He hairs and nails?"—and, "Are they to be esteemed righteous who had many wives at once and did kill men, and sacrificed living creatures?" At which things I, in my ignorance, was much disturbed, and, retreating from the truth, I appeared to myself to be going towards it; because as yet I knew not that evil was naught but a privation of good, until in the end it ceases altogether to be; which how should I see, the sight of whose eyes saw no further than bodies, and of my mind no further than a phantasm? And I knew not God to be a Spirit, not one who hath parts extended in length and breadth, nor whose being was bulk; for every bulk is less in a part than in the whole, and, if it be infinite, it must be less in such part as is limited by a certain space than in its infinity; and cannot be wholly everywhere, as Spirit, as God is.
+
+[7:4] And what that should be in us, by which we were like unto God, and might rightly in Scripture be said to be after "the image of God," I was entirely ignorant.
+
+[7:5] Nor had I knowledge of that true inner righteousness, which doth not judge according to custom, but out of the most perfect law of God Almighty, by which the manners of places and times were adapted to those places and times—being itself the while the same always and everywhere, not one thing in one place, and another in another; according to which Abraham, and Isaac, and Jacob, and Moses, and David, and all those commended by the mouth of God were righteous, but were judged unrighteous by foolish men, judging out of man's judgment, and gauging by the petty standard of their own manners the manners of the whole human race.
+
+[7:6] Like as if in an armoury, one knowing not what were adapted to the several members should put greaves on his head, or boot himself with a helmet, and then complain because they would not fit.
+
+[7:7] Or as if, on some day when in the afternoon business was forbidden, one were to fume at not being allowed to sell as it was lawful to him in the forenoon.
+
+[7:8] Or when in some house he sees a servant take something in his hand which the butler is not permitted to touch, or something done behind a stable which would be prohibited in the dining-room, and should be indignant that in one house, and one family, the same thing is not distributed everywhere to all.
+
+[7:9] Such are they who cannot endure to hear something to have been lawful for righteous men in former times which is not so now; or that God, for certain temporal reasons, commanded them one thing, and these another, but both obeying the same righteousness; though they see, in one man, one day, and one house, different things to be fit for different members, and a thing which was formerly lawful after a time unlawful—that permitted or commanded in one corner, which done in another is justly prohibited and punished.
+
+[7:10] Is justice, then, various and changeable? Nay, but the times over which she presides are not all alike, because they are times.
+
+[7:11] But men, whose days upon the earth are few, because by their own perception they cannot harmonize the causes of former ages and other nations, of which they had no experience, with these of which they have experience, though in one and the same body, day, or family, they can readily see what is suitable for each member, season, part, and person—to the one they take exception, to the other they submit.
+
+[7:12] These things I then knew not, nor observed.
+
+[7:13] They met my eyes on every side, and I saw them not.
+
+[7:14] I composed poems, in which it was not permitted me to place every foot everywhere, but in one metre one way, and in another, nor even in any one verse the same foot in all places.
+
+[7:15] Yet the art itself by which I composed had not different principles for these different cases, but comprised all in one.
+
+[7:16] Still I saw not how that righteousness, which good and holy men submitted to, far more excellently and sublimely comprehended in one all those things which God commanded, and in no part varied, though in varying times it did not prescribe all things at once, but distributed and enjoined what was proper for each.
+
+[7:17] And I, being blind, blamed those pious fathers, not only for making use of present things as God commanded and inspired them to do, but also for foreshowing things to come as God was revealing them.
+
+[8:1] Chapter VIII.
+
+[8:2] —He Argues Against the Same as to the Reason of Offences.
+
+[8:3] Can it at any time or place be an unrighteous thing for a man to love God with all his heart, with all his soul, and with all his mind, and his neighbour as himself? Therefore those offences which be contrary to nature are everywhere and at all times to be held in detestation and punished; such were those of the Sodomites, which should all nations commit, they should all be held guilty of the same crime by the divine law, which hath not so made men that they should in that way abuse one another.
+
+[8:4] For even that fellowship which should be between God and us is violated, when that same nature of which He is author is polluted by the perversity of lust.
+
+[8:5] But those offences which are contrary to the customs of men are to be avoided according to the customs severally prevailing; so that an agreement made, and confirmed by custom or law of any city or nation, may not be violated at the lawless pleasure of any, whether citizen or stranger.
+
+[8:6] For any part which is not consistent with its whole is unseemly.
+
+[8:7] But when God commands anything contrary to the customs or compacts of any nation to be done, though it were never done by them before, it is to be done; and if intermitted it is to be restored, and, if never established, to be established.
+
+[8:8] For if it be lawful for a king, in the state over which he reigns, to command that which neither he himself nor any one before him had commanded, and to obey him cannot be held to be inimical to the public interest,—nay, it were so if he were not obeyed (for obedience to princes is a general compact of human society),—how much more, then, ought we unhesitatingly to obey God, the Governor of all His creatures! For as among the authorities of human society the greater authority is obeyed before the lesser, so must God above all.
+
+[8:9] So also in deeds of violence, where there is a desire to harm, whether by contumely or injury; and both of these either by reason of revenge, as one enemy against another; or to obtain some advantage over another, as the highwayman to the traveller; or for the avoiding of some evil, as with him who is in fear of another; or through envy, as the unfortunate man to one who is happy; or as he that is prosperous in anything to him who he fears will become equal to himself, or whose equality he grieves at; or for the mere pleasure in another's pains, as the spectators of gladiators, or the deriders and mockers of others.
+
+[8:10] These be the chief iniquities which spring forth from the lust of the flesh, of the eye, and of power, whether singly, or two together, or all at once.
+
+[8:11] And so do men live in opposition to the three and seven, that psaltery "of ten strings," Thy ten commandments, O God most high and most sweet.
+
+[8:12] But what foul offences can there be against Thee who canst not be defiled? Or what deeds of violence against thee who canst not be harmed? But Thou avengest that which men perpetrate against themselves, seeing also that when they sin against Thee, they do wickedly against their own souls; and iniquity gives itself the lie, either by corrupting or perverting their nature, which Thou hast made and ordained, or by an immoderate use of things permitted, or in "burning" in things forbidden to that use which is against nature; or when convicted, raging with heart and voice against Thee, kicking against the pricks; or when, breaking through the pale of human society, they audaciously rejoice in private combinations or divisions, according as they have been pleased or offended.
+
+[8:13] And these things are done whenever Thou art forsaken, O Fountain of Life, who art the only and true Creator and Ruler of the universe, and by a self-willed pride any one false thing is selected therefrom and loved.
+
+[8:14] So, then, by a humble piety we return to Thee; and thou purgest us from our evil customs, and art merciful unto the sins of those who confess unto Thee, and dost "hear the groaning of the prisoner," and dost loosen us from those fetters which we have forged for ourselves, if we lift not up against Thee the horns of a false liberty,—losing all through craving more, by loving more our own private good than Thee, the good of all.
+
+[9:1] Chapter IX.
+
+[9:2] —That the Judgment of God and Men as to Human Acts of Violence, is Different.
+
+[9:3] But amidst these offences of infamy and violence, and so many iniquities, are the sins of men who are, on the whole, making progress; which, by those who judge rightly, and after the rule of perfection, are censured, yet commended withal, upon the hope of bearing fruit, like as in the green blade of the growing corn.
+
+[9:4] And there are some which resemble offences of infamy or violence, and yet are not sins, because they neither offend Thee, our Lord God, nor social custom: when, for example, things suitable for the times are provided for the use of life, and we are uncertain whether it be out of a lust of having; or when acts are punished by constituted authority for the sake of correction, and we are uncertain whether it be out of a lust of hurting.
+
+[9:5] Many a deed, then, which in the sight of men is disapproved, is approved by Thy testimony; and many a one who is praised by men is, Thou being witness, condemned; because frequently the view of the deed, and the mind of the doer, and the hidden exigency of the period, severally vary.
+
+[9:6] But when Thou unexpectedly commandest an unusual and unthought-of thing—yea, even if Thou hast formerly forbidden it, and still for the time keepest secret the reason of Thy command, and it even be contrary to the ordinance of some society of men, who doubts but it is to be done, inasmuch as that society is righteous which serves Thee? But blessed are they who know Thy commands! For all things were done by them who served Thee either to exhibit something necessary at the time, or to foreshow things to come.
+
+[10:1] Chapter X.
+
+[10:2] —He Reproves the Triflings of the Manichaeans as to the Fruits of the Earth.
+
+[10:3] These things being ignorant of, I derided those holy servants and prophets of Thine.
+
+[10:4] And what did I gain by deriding them but to be derided by Thee, being insensibly, and little by little, led on to those follies, as to credit that a fig-tree wept when it was plucked, and that the mother-tree shed milky tears? Which fig notwithstanding, plucked not by his own but another's wickedness, had some "saint" eaten and mingled with his entrails, he should breathe out of it angels; yea, in his prayers he shall assuredly groan and sigh forth particles of God, which particles of the most high and true God should have remained bound in that fig unless they had been set free by the teeth and belly of some "elect saint"! And I, miserable one, believed that more mercy was to be shown to the fruits of the earth than unto men, for whom they were created; for if a hungry man—who was not a Manichaean—should beg for any, that morsel which should be given him would appear, as it were, condemned to capital punishment.
+
+[11:1] Chapter XI.
+
+[11:2] —He Refers to the Tears, and the Memorable Dream Concerning Her Son, Granted by God to His Mother.
+
+[11:3] And Thou sendedst Thine hand from above, and drewest my soul out of that profound darkness, when my mother, Thy faithful one, wept to thee on my behalf more than mothers are wont to weep the bodily death of their children.
+
+[11:4] For she saw that I was dead by that faith and spirit which she had from Thee, and Thou heardest her, O Lord.
+
+[11:5] Thou heardest her, and despisedst not her tears, when, pouring down, they watered the earth under her eyes in every place where she prayed; yea, Thou heardest her.
+
+[11:6] For whence was that dream with which Thou consoledst her, so that she permitted me to live with her, and to have my meals at the same table in the house, which she had begun to avoid, hating and detesting the blasphemies of my error? For she saw herself standing on a certain wooden rule, and a bright youth advancing towards her, joyous and smiling upon her, whilst she was grieving and bowed down with sorrow.
+
+[11:7] But he having inquired of her the cause of her sorrow and daily weeping (he wishing to teach, as is their wont, and not to be taught), and she answering that it was my perdition she was lamenting, he bade her rest contented, and told her to behold and see "that where she was, there was I also".
+
+[11:8] And when she looked she saw me standing near her on the same rule.
+
+[11:9] Whence was this, unless that Thine ears were inclined towards her heart? O Thou Good Omnipotent, who so carest for every one of us as if Thou caredst for him only, and so for all as if they were but one!.
+
+[11:10] Whence was this, also, that when she had narrated this vision to me, and I tried to put this construction on it, "That she rather should not despair of being some day what I was," she immediately, without hesitation, replied, "No; for it was not told me that 'where he is, there shalt thou be,' but 'where thou art, there shall he be'"? I confess to Thee, O Lord, that, to the best of my remembrance (and I have oft spoken of this), Thy answer through my watchful mother—that she was not disquieted by the speciousness of my false interpretation, and saw in a moment what was to be seen, and which I myself had not in truth perceived before she spoke—even then moved me more than the dream itself, by which the happiness to that pious woman, to be realized so long after, was, for the alleviation of her present anxiety, so long before predicted.
+
+[11:11] For nearly nine years passed in which I wallowed in the slime of that deep pit and the darkness of falsehood, striving often to rise, but being all the more heavily dashed down.
+
+[11:12] But yet that chaste, pious, and sober widow (such as Thou lovest), now more buoyed up with hope, though no whit less zealous in her weeping and mourning, desisted not, at all the hours of her supplications, to bewail my case unto Thee.
+
+[11:13] And her prayers entered into Thy presence, and yet Thou didst still suffer me to be involved and re-involved in that darkness.
+
+[12:1] Chapter XII.
+
+[12:2] —The Excellent Answer of the Bishop When Referred to by His Mother as to the Conversion of Her Son.
+
+[12:3] And meanwhile Thou grantedst her another answer, which I recall; for much I pass over, hastening on to those things which the more strongly impel me to confess unto Thee, and much I do not remember.
+
+[12:4] Thou didst grant her then another answer, by a priest of Thine, a certain bishop, reared in Thy Church and well versed in Thy books.
+
+[12:5] He, when this woman had entreated that he would vouchsafe to have some talk with me, refute my errors, unteach me evil things, and teach me good (for this he was in the habit of doing when he found people fitted to receive it), refused, very prudently, as I afterwards came to see.
+
+[12:6] For he answered that I was still unteachable, being inflated with the novelty of that heresy, and that I had already perplexed divers inexperienced persons with vexatious questions, as she had informed him.
+
+[12:7] "But leave him alone for a time," saith he, "only pray God for him; he will of himself, by reading, discover what that error is, and how great its impiety".
+
+[12:8] He disclosed to her at the same time how he himself, when a little one, had, by his misguided mother, been given over to the Manichaeans, and had not only read, but even written out almost all their books, and had come to see (without argument or proof from any one) how much that sect was to be shunned, and had shunned it.
+
+[12:9] Which when he had said, and she would not be satisfied, but repeated more earnestly her entreaties, shedding copious tears, that he would see and discourse with me, he, a little vexed at her importunity, exclaimed, "Go thy way, and God bless thee, for it is not possible that the son of these tears should perish".
+
+[12:10] Which answer (as she often mentioned in her conversations with me) she accepted as though it were a voice from heaven.
+

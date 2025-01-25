@@ -1,0 +1,116 @@
+# Julius Africanus: Epistle to Aristides
+
+[1:1] The Epistle to Aristides: I.
+
+[1:2] Africanus on the Genealogy in the Holy Gospels.
+
+[1:3] —Some indeed incorrectly allege that this discrepant enumeration and mixing of the names both of priestly men, as they think, and royal, was made properly, in order that Christ might be shown rightfully to be both Priest and King; as if any one disbelieved this, or had any other hope than this, that Christ is the High Priest of His Father, who presents our prayers to Him, and a supramundane King, who rules by the Spirit those whom He has delivered, a cooperator in the government of all things.
+
+[1:4] And this is announced to us not by the catalogue of the tribes, nor by the mixing of the registered generations, but by the patriarchs and prophets.
+
+[1:5] Let us not therefore descend to such religious trifling as to establish the kingship and priesthood of Christ by the interchanges of the names.
+
+[1:6] For the priestly tribe of Levi, too, was allied with the kingly tribe of Juda, through the circumstance that Aaron married Elizabeth the sister of Naasson, and that Eleazar again married the daughter of Phatiel, and begat children.
+
+[1:7] The evangelists, therefore, would thus have spoken falsely, affirming what was not truth, but a fictitious commendation.
+
+[1:8] And for this reason the one traced the pedigree of Jacob the father of Joseph from David through Solomon; the other traced that of Heli also, though in a different way, the father of Joseph, from Nathan the son of David.
+
+[1:9] And they ought not indeed to have been ignorant that both orders of the ancestors enumerated are the generation of David, the royal tribe of Juda.
+
+[1:10] For if Nathan was a prophet, so also was Solomon, and so too the father of both of them; and there were prophets belonging to many of the tribes, but priests belonging to none of the tribes, save the Levites only.
+
+[1:11] To no purpose, then, is this fabrication of theirs.
+
+[1:12] Nor shall an assertion of this kind prevail in the Church of Christ against the exact truth, so as that a lie should be contrived for the praise and glory of Christ.
+
+[1:13] For who does not know that most holy word of the apostle also, who, when he was preaching and proclaiming the resurrection of our Saviour, and confidently affirming the truth, said with great fear, "If any say that Christ is not risen, and we assert and have believed this, and both hope for and preach that very thing, we are false witnesses of God, in alleging that He raised up Christ, whom He raised not up?" And if he who glorifies God the Father is thus afraid lest he should seem a false witness in narrating a marvellous fact, how should not he be justly afraid, who tries to establish the truth by a false statement, preparing an untrue opinion? For if the generations are different, and trace down no genuine seed to Joseph, and if all has been stated only with the view of establishing the position of Him who was to be born—to confirm the truth, namely, that He who was to be would be king and priest, there being at the same time no proof given, but the dignity of the words being brought down to a feeble hymn,—it is evident that no praise accrues to God from that, since it is a falsehood, but rather judgment returns on him who asserts it, because he vaunts an unreality as though it were reality.
+
+[1:14] Therefore, that we may expose the ignorance also of him who speaks thus, and prevent any one from stumbling at this folly, I shall set forth the true history of these matters.
+
+[2:1] II.
+
+[2:2] For whereas in Israel the names of their generations were enumerated either according to nature or according to law,—according to nature, indeed, by the succession of legitimate offspring, and according to law whenever another raised up children to the name of a brother dying childless; for because no clear hope of resurrection was yet given them, they had a representation of the future promise in a kind of mortal resurrection, with the view of perpetuating the name of one deceased;—whereas, then, of those entered in this genealogy, some succeeded by legitimate descent as son to father, while others begotten in one family were introduced to another in name, mention is therefore made of both—of those who were progenitors in fact, and of those who were so only in name.
+
+[2:3] Thus neither of the evangelists is in error, as the one reckons by nature and the other by law.
+
+[2:4] For the several generations, viz.
+
+[2:5] , those descending from Solomon and those from Nathan, were so intermingled by the raising up of children to the childless, and by second marriages, and the raising up of seed, that the same persons are quite justly reckoned to belong at one time to the one, and at another to the other, i-e:, to their reputed or to their actual fathers.
+
+[2:6] And hence it is that both these accounts are true, and come down to Joseph, with considerable intricacy indeed, but yet quite accurately.
+
+[3:1] III.
+
+[3:2] But in order that what I have said may be made evident, I shall explain the interchange of the generations.
+
+[3:3] If we reckon the generations from David through Solomon, Matthan is found to be the third from the end, who begat Jacob the father of Joseph.
+
+[3:4] But if, with Luke, we reckon them from Nathan the son of David, in like manner the third from the end is Melchi, whose son was Heli the father of Joseph.
+
+[3:5] For Joseph was the son of Heli, the son of Melchi.
+
+[3:6] As Joseph, therefore, is the object proposed to us, we have to show how it is that each is represented as his father, both Jacob as descending from Solomon, and Heli as descending from Nathan: first, how these two, Jacob and Heli, were brothers; and then also how the fathers of these, Matthan and Melchi, being of different families, are shown to be the grandfathers of Joseph.
+
+[3:7] Well, then, Matthan and Melchi, having taken the same woman to wife in succession, begat children who were uterine brothers, as the law did not prevent a widow, whether such by divorce or by the death of her husband, from marrying another.
+
+[3:8] By Estha, then—for such is her name according to tradition—Matthan first, the descendant of Solomon, begets Jacob; and on Matthan's death, Melchi, who traces his descent back to Nathan, being of the same tribe but of another family, having married her, as has been already said, had a son Heli.
+
+[3:9] Thus, then, we shall find Jacob and Heli uterine brothers, though of different families.
+
+[3:10] And of these, the one Jacob having taken the wife of his brother Heli, who died childless, begat by her the third, Joseph—his son by nature and by account.
+
+[3:11] Whence also it is written, "And Jacob begat Joseph".
+
+[3:12] But according to law he was the son of Heli, for Jacob his brother raised up seed to him.
+
+[3:13] Wherefore also the genealogy deduced through him will not be made void, which the Evangelist Matthew in his enumeration gives thus: "And Jacob begat Joseph".
+
+[3:14] But Luke, on the other hand, says, "Who was the son, as was supposed (for this, too, he adds), of Joseph, the son of Heli, the son of Melchi".
+
+[3:15] For it was not possible more distinctly to state the generation according to law; and thus in this mode of generation he has entirely omitted the word "begat" to the very end, carrying back the genealogy by way of conclusion to Adam and to God.
+
+[4:1] IV.
+
+[4:2] Nor indeed is this incapable of proof, neither is it a rash conjecture.
+
+[4:3] For the kinsmen of the Saviour after the flesh, whether to magnify their own origin or simply to state the fact, but at all events speaking truth, have also handed down the following account: Some Idumean robbers attacking Ascalon, a city of Palestine, besides other spoils which they took from a temple of Apollo, which was built near the walls, carried off captive one Antipater, son of a certain Herod, a servant of the temple.
+
+[4:4] And as the priest was not able to pay the ransom for his son, Antipater was brought up in the customs of the Idumeans, and afterwards enjoyed the friendship of Hyrcanus, the high priest of Judea.
+
+[4:5] And being sent on an embassy to Pompey on behalf of Hyrcanus, and having restored to him the kingdom which was being wasted by Aristobulus his brother, he was so fortunate as to obtain the title of procurator of Palestine.
+
+[4:6] And when Antipater was treacherously slain through envy of his great good fortune, his son Herod succeeded him, who was afterwards appointed king of Judea under Antony and Augustus by a decree of the senate.
+
+[4:7] His sons were Herod and the other tetrarchs.
+
+[4:8] These accounts are given also in the histories of the Greeks.
+
+[5:1] V.
+
+[5:2] But as up to that time the genealogies of the Hebrews had been registered in the public archives, and those, too, which were traced back to the proselytes—as, for example, to Achior the Ammanite, and Ruth the Moabitess, and those who left Egypt along with the Israelites, and intermarried with them—Herod, knowing that the lineage of the Israelites contributed nothing to him, and goaded by the consciousness of his ignoble birth, burned the registers of their families.
+
+[5:3] This he did, thinking that he would appear to be of noble birth, if no one else could trace back his descent by the public register to the patriarchs or proselytes, and to that mixed race called georae.
+
+[5:4] A few, however, of the studious, having private records of their own, either by remembering the names or by getting at them in some other way from the archives, pride themselves in preserving the memory of their noble descent; and among these happen to be those already mentioned, called desposyni, on account of their connection with the family of the Saviour.
+
+[5:5] And these coming from Nazara and Cochaba, Judean villages, to other parts of the country, set forth the above-named genealogy as accurately as possible from the Book of Days.
+
+[5:6] Whether, then, the case stand thus or not, no one could discover a more obvious explanation, according to my own opinion and that of any sound judge.
+
+[5:7] And let this suffice us for the matter, although it is not supported by testimony, because we have nothing more satisfactory or true to allege upon it.
+
+[5:8] The Gospel, however, in any case states the truth.
+
+[6:1] VI.
+
+[6:2] Matthan, descended from Solomon, begat Jacob.
+
+[6:3] Matthan dying, Melchi, descended from Nathan, begat Heli by the same wife.
+
+[6:4] Therefore Heli and Jacob are uterine brothers.
+
+[6:5] Heli dying childless, Jacob raised up seed to him and begat Joseph, his own son by nature, but the son of Heli by law.
+
+[6:6] Thus Joseph was the son of both.
+

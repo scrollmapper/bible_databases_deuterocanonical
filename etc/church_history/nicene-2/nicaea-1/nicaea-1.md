@@ -1,0 +1,224 @@
+# Nicaea I
+
+[1:1] The First Ecumenical Council:  The Nicene Creed:  We believe in one God, the Father Almighty, maker of all things visible and invisible; and in one Lord Jesus Christ, the Son of God, the only-begotten of his Father, of the substance of the Father, God of God, Light of Light, very God of very God, begotten (γεννηθέντα), not made, being of one substance (ὁμοούσιον, consubstantialem) with the Father.
+
+[1:2] By whom all things were made, both which be in heaven and in earth.
+
+[1:3] Who for us men and for our salvation came down [from heaven] and was incarnate and was made man.
+
+[1:4] He suffered and the third day he rose again, and ascended into heaven.
+
+[1:5] And he shall come again to judge both the quick and the dead.
+
+[1:6] And [we believe] in the Holy Ghost.
+
+[1:7] And whosoever shall say that there was a time when the Son of God was not (ἤν ποτε ὅτε οὐκ ἦν), or that before he was begotten he was not, or that he was made of things that were not, or that he is of a different substance or essence [from the Father] or that he is a creature, or subject to change or conversion—all that so say, the Catholic and Apostolic Church anathematizes them.
+
+[2:1] Canon I.
+
+[2:2] If any one in sickness has been subjected by physicians to a surgical operation, or if he has been castrated by barbarians, let him remain among the clergy; but, if any one in sound health has castrated himself, it behoves that such an one, if [already] enrolled among the clergy, should cease [from his ministry], and that from henceforth no such person should be promoted.
+
+[2:3] But, as it is evident that this is said of those who wilfully do the thing and presume to castrate themselves, so if any have been made eunuchs by barbarians, or by their masters, and should otherwise be found worthy, such men the Canon admits to the clergy.
+
+[3:1] Canon II.
+
+[3:2] Forasmuch as, either from necessity, or through the urgency of individuals, many things have been done contrary to the Ecclesiastical canon, so that men just converted from heathenism to the faith, and who have been instructed but a little while, are straightway brought to the spiritual laver, and as soon as they have been baptized, are advanced to the episcopate or the presbyterate, it has seemed right to us that for the time to come no such thing shall be done.
+
+[3:3] For to the catechumen himself there is need of time and of a longer trial after baptism.
+
+[3:4] For the apostolical saying is clear, "Not a novice; lest, being lifted up with pride, he fall into condemnation and the snare of the devil".
+
+[3:5] But if, as time goes on, any sensual sin should be found out about the person, and he should be convicted by two or three witnesses, let him cease from the clerical office.
+
+[3:6] And whoso shall transgress these [enactments] will imperil his own clerical position, as a person who presumes to disobey the great Synod.
+
+[4:1] Canon III.
+
+[4:2] The great Synod has stringently forbidden any bishop, presbyter, deacon, or any one of the clergy whatever, to have a subintroducta dwelling with him, except only a mother, or sister, or aunt, or such persons only as are beyond all suspicion.
+
+[5:1] Canon IV.
+
+[5:2] It is by all means proper that a bishop should be appointed by all the bishops in the province; but should this be difficult, either on account of urgent necessity or because of distance, three at least should meet together, and the suffrages of the absent [bishops] also being given and communicated in writing, then the ordination should take place.
+
+[5:3] But in every province the ratification of what is done should be left to the Metropolitan.
+
+[6:1] Canon V.
+
+[6:2] Concerning those, whether of the clergy or of the laity, who have been excommunicated in the several provinces, let the provision of the canon be observed by the bishops which provides that persons cast out by some be not readmitted by others.
+
+[6:3] Nevertheless, inquiry should be made whether they have been excommunicated through captiousness, or contentiousness, or any such like ungracious disposition in the bishop.
+
+[6:4] And, that this matter may have due investigation, it is decreed that in every province synods shall be held twice a year, in order that when all the bishops of the province are assembled together, such questions may by them be thoroughly examined, that so those who have confessedly offended against their bishop, may be seen by all to be for just cause excommunicated, until it shall seem fit to a general meeting of the bishops to pronounce a milder sentence upon them.
+
+[6:5] And let these synods be held, the one before Lent, (that the pure Gift may be offered to God after all bitterness has been put away), and let the second be held about autumn.
+
+[7:1] Canon VI.
+
+[7:2] Let the ancient customs in Egypt, Libya and Pentapolis prevail, that the Bishop of Alexandria have jurisdiction in all these, since the like is customary for the Bishop of Rome also.
+
+[7:3] Likewise in Antioch and the other provinces, let the Churches retain their privileges.
+
+[7:4] And this is to be universally understood, that if any one be made bishop without the consent of the Metropolitan, the great Synod has declared that such a man ought not to be a bishop.
+
+[7:5] If, however, two or three bishops shall from natural love of contradiction, oppose the common suffrage of the rest, it being reasonable and in accordance with the ecclesiastical law, then let the choice of the majority prevail.
+
+[8:1] Canon VII.
+
+[8:2] Since custom and ancient tradition have prevailed that the Bishop of aelia [i-e:, Jerusalem] should be honoured, let him, saving its due dignity to the Metropolis, have the next place of honour.
+
+[9:1] Canon VIII.
+
+[9:2] Concerning those who call themselves Cathari, if they come over to the Catholic and Apostolic Church, the great and holy Synod decrees that they who are ordained shall continue as they are in the clergy.
+
+[9:3] But it is before all things necessary that they should profess in writing that they will observe and follow the dogmas of the Catholic and Apostolic Church; in particular that they will communicate with persons who have been twice married, and with those who having lapsed in persecution have had a period [of penance] laid upon them, and a time [of restoration] fixed so that in all things they will follow the dogmas of the Catholic Church.
+
+[9:4] Wheresoever, then, whether in villages or in cities, all of the ordained are found to be of these only, let them remain in the clergy, and in the same rank in which they are found.
+
+[9:5] But if they come over where there is a bishop or presbyter of the Catholic Church, it is manifest that the Bishop of the Church must have the bishop's dignity; and he who was named bishop by those who are called Cathari shall have the rank of presbyter, unless it shall seem fit to the Bishop to admit him to partake in the honour of the title.
+
+[9:6] Or, if this should not be satisfactory, then shall the bishop provide for him a place as Chorepiscopus, or presbyter, in order that he may be evidently seen to be of the clergy, and that there may not be two bishops in the city.
+
+[10:1] Canon IX.
+
+[10:2] If any presbyters have been advanced without examination, or if upon examination they have made confession of crime, and men acting in violation of the canon have laid hands upon them, notwithstanding their confession, such the canon does not admit; for the Catholic Church requires that [only] which is blameless.
+
+[11:1] Canon X.
+
+[11:2] If any who have lapsed have been ordained through the ignorance, or even with the previous knowledge of the ordainers, this shall not prejudice the canon of the Church; for when they are discovered they shall be deposed.
+
+[12:1] Canon XI.
+
+[12:2] Concerning those who have fallen without compulsion, without the spoiling of their property, without danger or the like, as happened during the tyranny of Licinius, the Synod declares that, though they have deserved no clemency, they shall be dealt with mercifully.
+
+[12:3] As many as were communicants, if they heartily repent, shall pass three years among the hearers; for seven years they shall be prostrators; and for two years they shall communicate with the people in prayers, but without oblation.
+
+[13:1] Canon XII.
+
+[13:2] As many as were called by grace, and displayed the first zeal, having cast aside their military girdles, but afterwards returned, like dogs, to their own vomit, (so that some spent money and by means of gifts regained their military stations); let these, after they have passed the space of three years as hearers, be for ten years prostrators.
+
+[13:3] But in all these cases it is necessary to examine well into their purpose and what their repentance appears to be like.
+
+[13:4] For as many as give evidence of their conversions by deeds, and not pretence, with fear, and tears, and perseverance, and good works, when they have fulfilled their appointed time as hearers, may properly communicate in prayers; and after that the bishop may determine yet more favourably concerning them.
+
+[13:5] But those who take [the matter] with indifference, and who think the form of [not] entering the Church is sufficient for their conversion, must fulfil the whole time.
+
+[14:1] Canon XIII.
+
+[14:2] Concerning the departing, the ancient canonical law is still to be maintained, to wit, that, if any man be at the point of death, he must not be deprived of the last and most indispensable Viaticum.
+
+[14:3] But, if any one should be restored to health again who has received the communion when his life was despaired of, let him remain among those who communicate in prayers only.
+
+[14:4] But in general, and in the case of any dying person whatsoever asking to receive the Eucharist, let the Bishop, after examination made, give it him.
+
+[15:1] Canon XIV.
+
+[15:2] Concerning catechumens who have lapsed, the holy and great Synod has decreed that, after they have passed three years only as hearers, they shall pray with the catechumens.
+
+[16:1] Canon XV.
+
+[16:2] On account of the great disturbance and discords that occur, it is decreed that the custom prevailing in certain places contrary to the Canon, must wholly be done away; so that neither bishop, presbyter, nor deacon shall pass from city to city.
+
+[16:3] And if any one, after this decree of the holy and great Synod, shall attempt any such thing, or continue in any such course, his proceedings shall be utterly void, and he shall be restored to the Church for which he was ordained bishop or presbyter.
+
+[17:1] Canon XVI.
+
+[17:2] Neither presbyters, nor deacons, nor any others enrolled among the clergy, who, not having the fear of God before their eyes, nor regarding the ecclesiastical Canon, shall recklessly remove from their own church, ought by any means to be received by another church; but every constraint should be applied to restore them to their own parishes; and, if they will not go, they must be excommunicated.
+
+[17:3] And if anyone shall dare surreptitiously to carry off and in his own Church ordain a man belonging to another, without the consent of his own proper bishop, from whom although he was enrolled in the clergy list he has seceded, let the ordination be void.
+
+[18:1] Canon XVII.
+
+[18:2] Forasmuch as many enrolled among the Clergy, following covetousness and lust of gain, have forgotten the divine Scripture, which says, "He hath not given his money upon usury," and in lending money ask the hundredth of the sum [as monthly interest], the holy and great Synod thinks it just that if after this decree any one be found to receive usury, whether he accomplish it by secret transaction or otherwise, as by demanding the whole and one half, or by using any other contrivance whatever for filthy lucre's sake, he shall be deposed from the clergy and his name stricken from the list.
+
+[19:1] Canon XVIII.
+
+[19:2] It has come to the knowledge of the holy and great Synod that, in some districts and cities, the deacons administer the Eucharist to the presbyters, whereas neither canon nor custom permits that they who have no right to offer should give the Body of Christ to them that do offer.
+
+[19:3] And this also has been made known, that certain deacons now touch the Eucharist even before the bishops.
+
+[19:4] Let all such practices be utterly done away, and let the deacons remain within their own bounds, knowing that they are the ministers of the bishop and the inferiors of the presbyters.
+
+[19:5] Let them receive the Eucharist according to their order, after the presbyters, and let either the bishop or the presbyter administer to them.
+
+[19:6] Furthermore, let not the deacons sit among the presbyters, for that is contrary to canon and order.
+
+[19:7] And if, after this decree, any one shall refuse to obey, let him be deposed from the diaconate.
+
+[20:1] Canon XIX.
+
+[20:2] Concerning the Paulianists who have flown for refuge to the Catholic Church, it has been decreed that they must by all means be rebaptized; and if any of them who in past time have been numbered among their clergy should be found blameless and without reproach, let them be rebaptized and ordained by the Bishop of the Catholic Church; but if the examination should discover them to be unfit, they ought to be deposed.
+
+[20:3] Likewise in the case of their deaconesses, and generally in the case of those who have been enrolled among their clergy, let the same form be observed.
+
+[20:4] And we mean by deaconesses such as have assumed the habit, but who, since they have no imposition of hands, are to be numbered only among the laity.
+
+[21:1] Canon XX.
+
+[21:2] Forasmuch as there are certain persons who kneel on the Lord's Day and in the days of Pentecost, therefore, to the intent that all things may be uniformly observed everywhere (in every parish), it seems good to the holy Synod that prayer be made to God standing.
+
+[22:1] The Synodal Letter.
+
+[22:2] (Found in Gelasius, Historia Concilii Nicaeni, lib.
+
+[22:3] II, cap.
+
+[22:4] xxxiii.
+
+[22:5] ; Socr.
+
+[22:6] , H.
+
+[22:7] E.
+
+[22:8] , lib.
+
+[22:9] I.
+
+[22:10] , cap.
+
+[22:11] 6; Theodor.
+
+[22:12] , H.
+
+[22:13] E.
+
+[22:14] , Lib.
+
+[22:15] I.
+
+[22:16] , cap.
+
+[22:17] 9.
+
+[22:18] )  To the Church of Alexandria, by the grace of God, holy and great; and to our well-beloved brethren, the orthodox clergy and laity throughout Egypt, and Pentapolis, and Lybia, and every nation under heaven, the holy and great synod, the bishops assembled at Nicea, wish health in the Lord.
+
+[22:19] Forasmuch as the great and holy Synod, which was assembled at Niece through the grace of Christ and our most religious Sovereign Constantine, who brought us together from our several provinces and cities, has considered matters which concern the faith of the Church, it seemed to us to be necessary that certain things should be communicated from us to you in writing, so that you might have the means of knowing what has been mooted and investigated, and also what has been decreed and confirmed.
+
+[22:20] First of all, then, in the presence of our most religious Sovereign Constantine, investigation was made of matters concerning the impiety and transgression of Arius and his adherents; and it was unanimously decreed that he and his impious opinion should be anathematized, together with the blasphemous words and speculations in which he indulged, blaspheming the Son of God, and saying that he is from things that are not, and that before he was begotten he was not, and that there was a time when he was not, and that the Son of God is by his free will capable of vice and virtue; saying also that he is a creature.
+
+[22:21] All these things the holy Synod has anathematized, not even enduring to hear his impious doctrine and madness and blasphemous words.
+
+[22:22] And of the charges against him and of the results they had, ye have either already heard or will hear the particulars, lest we should seem to be oppressing a man who has in fact received a fitting recompense for his own sin.
+
+[22:23] So far indeed has his impiety prevailed, that he has even destroyed Theonas of Marmorica and Secundes of Ptolemais; for they also have received the same sentence as the rest.
+
+[22:24] But when the grace of God had delivered Egypt from that heresy and blasphemy, and from the persons who have dared to make disturbance and division among a people heretofore at peace, there remained the matter of the insolence of Meletius and those who have been ordained by him; and concerning this part of our work we now, beloved brethren, proceed to inform you of the decrees of the Synod.
+
+[22:25] The Synod, then, being disposed to deal gently with Meletius (for in strict justice he deserved no leniency), decreed that he should remain in his own city, but have no authority either to ordain, or to administer affairs, or to make appointments; and that he should not appear in the country or in any other city for this purpose, but should enjoy the bare title of his rank; but that those who have been placed by him, after they have been confirmed by a more sacred laying on of hands, shall on these conditions be admitted to communion:  that they shall both have their rank and the right to officiate, but that they shall be altogether the inferiors of all those who are enrolled in any church or parish, and have been appointed by our most honourable colleague Alexander.
+
+[22:26] So that these men are to have no authority to make appointments of persons who may be pleasing to them, nor to suggest names, nor to do anything whatever, without the consent of the bishops of the Catholic and Apostolic Church, who are serving under our most holy colleague Alexander; while those who, by the grace of God and through your prayers, have been found in no schism, but on the contrary are without spot in the Catholic and Apostolic Church, are to have authority to make appointments and nominations of worthy persons among the clergy, and in short to do all things according to the law and ordinance of the Church.
+
+[22:27] But, if it happen that any of the clergy who are now in the Church should die, then those who have been lately received are to succeed to the office of the deceased; always provided that they shall appear to be worthy, and that the people elect them, and that the bishop of Alexandria shall concur in the election and ratify it.
+
+[22:28] This concession has been made to all the rest; but, on account of his disorderly conduct from the first, and the rashness and precipitation of his character, the same decree was not made concerning Meletius himself, but that, inasmuch as he is a man capable of committing again the same disorders, no authority nor privilege should be conceded to him.
+
+[22:29] These are the particulars, which are of special interest to Egypt and to the most holy Church of Alexandria; but if in the presence of our most honoured lord, our colleague and brother Alexander, anything else has been enacted by canon or other decree, he will himself convey it to you in greater detail, he having been both a guide and fellow-worker in what has been done.
+
+[22:30] We further proclaim to you the good news of the agreement concerning the holy Easter, that this particular also has through your prayers been rightly settled; so that all our brethren in the East who formerly followed the custom of the Jews are henceforth to celebrate the said most sacred feast of Easter at the same time with the Romans and yourselves and all those who have observed Easter from the beginning.
+
+[22:31] Wherefore, rejoicing in these wholesome results, and in our common peace and harmony, and in the cutting off of every heresy, receive ye with the greater honour and with increased love, our colleague your Bishop Alexander, who has gladdened us by his presence, and who at so great an age has undergone so great fatigue that peace might be established among you and all of us.
+
+[22:32] Pray ye also for us all, that the things which have been deemed advisable may stand fast; for they have been done, as we believe, to the well-pleasing of Almighty God and of his only Begotten Son, our Lord Jesus Christ, and of the Holy Ghost, to whom be glory for ever.
+
+[22:33] Amen.
+

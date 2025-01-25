@@ -1,0 +1,816 @@
+# Origen's Commentary on Matthew Book XII
+
+[1:1] Origen's Commentary on Matthew Book XII:.
+
+[1:2] Concerning Those Who Asked Him to Show Them a Sign from Heaven.
+
+[1:3] "And the Sadducees and Pharisees came, and tempting Him kept asking Him to shew them a sign from heaven".
+
+[1:4] The Sadducees and Pharisees who disagreed with each other in regard to the most essential truths,—for the Pharisees champion the doctrine of the resurrection of the dead, hoping that there will be a world to come, while the Sadducees know nothing after this life in store for a man whether he has been advancing towards virtue, or has made no effort at all to come out from the mountains of wickedness,—these, I say, agree that they may tempt Jesus.
+
+[1:5] Now, a similar thing, as Luke has narrated, happened in the case of Herod and Pilate, who became friends with one another that they might kill Jesus; for, perhaps, their hostility with one another would have prevented Herod from asking that He should be put to death, in order to please the people, who said, "Crucify Him, Crucify Him," and would have influenced Pilate, who was somewhat inclined against His condemnation, his hostility with Herod giving fresh impulse to the inclination which he previously cherished to release Jesus.
+
+[1:6] But their apparent friendship made Herod stronger in his demand against Jesus with Pilate, who wished, perhaps, also because of the newly-formed friendship to do something to gratify Herod and all the nation of the Jews.
+
+[1:7] And often even now you may see in daily life those who hold the most divergent opinions, whether in the philosophy of the Greeks or in other systems of thought, appearing to be of one mind that they may scoff at and attack Jesus Christ in the person of His disciples.
+
+[1:8] And from these things I think you may go on by rational argument to consider, whether when forces join in opposition which are in disagreement with one another, as of Pharaoh with Nebuchadnezzar, and of Tirhakah, king of the Ethiopians, with Sennacherib, a combination then takes place against Jesus and His people.
+
+[1:9] So perhaps, also, "The kings of the earth set themselves and the rulers were gathered together," though not at all before at harmony with one another, that having taken counsel against the Lord and His Christ, they might slay the Lord of glory.
+
+[2:1] Why the Pharisees Asked a Sign from Heaven.
+
+[2:2] Now, to this point we have come in our discourse, because of the Pharisees and Sadducees coming together unto Jesus, who disagreed in matters relating to the resurrection, but came, as it were, to an agreement for the sake of tempting our Saviour, and asking Him to show them a sign from heaven.
+
+[2:3] For, not satisfied with the wonderful signs shown among the people in the healing of all forms of disease and sickness, and with the rest of the miracles which our Saviour had done in the knowledge of many, they wished Him to show to them also a sign from heaven.
+
+[2:4] And I conjecture that they suspected that the signs upon earth might possibly not be of God; for they did not hesitate indeed to say, "Jesus casts out demons by Beelzebub the prince of the demons;" and it seemed to them that a sign from heaven could not spring from Beelzebub or any other wicked power.
+
+[2:5] But they erred in regard to both, in regard to signs upon earth as well as to signs from heaven, not being "approved money-changers," nor knowing how to distinguish between the spirits that are working, which kind are from God, and which have revolted from Him.
+
+[2:6] And they ought to have known that even many of the portents wrought against Egypt in the time of Moses, though they were not from heaven, were clearly from God, and that the fire which fell from heaven upon the sheep of Job was not from God; for that fire belonged to the same one as he to whom belonged those who carried off, and made three bands of horsemen against, the cattle of Job.
+
+[2:7] I think, moreover, that in Isaiah—as if signs could be shown both from the earth and from heaven, the true being from God, but "with all power and signs and lying wonders" those from the evil one—it was said to Ahaz, "Ask for thyself a sign from the Lord thy God in the depth or in the height".
+
+[2:8] For, unless there had been some signs in the depth or in the height which were not from the Lord God, this would not have been said, "Ask for thyself a sign from the Lord thy God in the depth or in the height".
+
+[2:9] But I know well that such an interpretation of the passage, "Ask for thyself a sign from the Lord thy God," will seem to some one rather forced; but give heed to that which is said by the Apostle about the man of sin, the son of perdition, that, "with all power and signs and lying wonders and with all deceit of unrighteousness," he shall be manifested to them that are perishing, imitating all kinds of wonders, to-wit, those of truth.
+
+[2:10] And as the enchanters and magicians of the Egyptians, as being inferior to the man of sin and the son of perdition, imitated certain powers, both the signs and wonders of truth, doing lying wonders so that the true might not be believed; so I think the man of sin will imitate signs and powers.
+
+[2:11] And perhaps, also, the Pharisees suspected these things because of the prophecies concerning Him; but I inquire whether also the Sadducees tempting Him asked Jesus to show them a sign from heaven.
+
+[2:12] For unless we say that they suspected this, how shall we describe their relation to the portents which Jesus wrought, who continued hard-hearted and were not put to shame by the miraculous things that were done? But if any one supposes that we have given an occasion of defence to the Pharisees and Sadducees, both when they say that the demons were cast out by Jesus through Beelzebub, and when tempting Him, they ask Jesus about a heavenly sign, let him know that we plausibly say that they were drawn away to the end that they might not believe in the miracles of Jesus; but not as to deserve forgiveness; for they did not look to the words of the prophets which were being fulfilled in the acts of Jesus, which an evil power was not at all capable of imitating.
+
+[2:13] But to bring back a soul which had gone out, so that it came out of the grave when already stinking and passing the fourth day, was the work of no other than Him who heard the word of the Father, "Let us make man after our image and likeness".
+
+[2:14] But also to command the winds and to make the violence of the sea cease at a word, was the work of no other than Him through whom all things, both the sea itself and the winds, have come into being.
+
+[2:15] Moreover also as to the teaching which stimulates men to the love of the Creator, in harmony with the law and the prophets, and which checks passions and moulds morals according to piety, what else did it indicate to such as were able to see, than that He was truly the Son of God who wrought works so mighty? In respect of which things He said also to the disciples of John, "Go your way and tell John what great things ye see and hear; the blind receive their sight," etc.
+
+[3:1] The Answer of Jesus to Their Request.
+
+[3:2] Next let us remark in what way, when asked in regard to one sign, that He might show it from heaven, to the Pharisees and Sadducees who put the question, He answers and says, "An evil and adulterous generation seeketh after a sign, and there shall be no sign given to it, but the sign of Jonah the prophet, " when also, "He left them and departed".
+
+[3:3] But the sign of Jonah, in truth, according to their question, was not merely a sign but also a sign from heaven; so that even to those who tempted Him and sought a sign from heaven He, nevertheless, out of His own great goodness gave the sign.
+
+[3:4] For if, as Jonah passed three days and three nights in the whale's belly, so the Son of man did in the heart of the earth, and after this rose up from it,—whence but from heaven shall we say that the sign of the resurrection of Christ came? And especially when, at the time of the passion, He became a sign to the robber who obtained favour from Him to enter into the paradise of God; after this, I think, descending into Hades to the dead, "as free among the dead".
+
+[3:5] And the Saviour seems to me to conjoin the sign which was to come from Himself with the reason of the sign in regard to Jonah when He says, not merely that a sign like to that is granted by Him but that very sign; for attend to the words, "And there shall no sign be given to it but the sign of Jonah the prophet".
+
+[3:6] Accordingly that sign was this sign, because that became indicative of this, so that the elucidation of that sign, which was obscure on the face of it, might be found in the fact that the Saviour suffered, and passed three days and three nights in the heart of the earth.
+
+[3:7] At the same time also we learn the general principle that, if the sign signifies something, each of the signs which are recorded, whether as in actual history, or by way of precept, is indicative of something afterwards fulfilled; as for example, the sign of Jonah going out after three days from the whale's belly was indicative of the resurrection of our Saviour, rising after three days and three nights from the dead; and that which is called circumcision is the sign of that which is indicated by Paul in the words: "We are the circumcision".
+
+[3:8] Seek you also every sign in the Old Scriptures as indicative of some passage in the New Scripture, and that which is named a sign in the New Covenant as indicative of something either in the age about to be, or even in the subsequent generations after that the sign has taken place.
+
+[4:1] Why Jesus Called Them an Adulterous Generation.
+
+[4:2] The Law as Husband.
+
+[4:3] And He called them, indeed, "an evil generation," because of the quality arising from evil which had been produced in them, for wickedness is voluntary evil-doing, but "adulterous" because that when the Pharisees and Sadducees left that which is figuratively called man, the word of truth or the law, they were debauched by falsehood and the law of sin.
+
+[4:4] For if there are two laws, the law in our members warring against the law of the mind, and the law of the mind, we must say that the law of the mind—that is, the spiritual—is man, to whom the soul was given by God as wife, that is, to the man who is law, according to what is written, "A wife is married to a man by God;" but the other is a paramour of the soul which is subject to it, which also on account of it is called an adulteress.
+
+[4:5] Now that the law is husband of the soul Paul clearly exhibits in the Epistle to the Romans, saying, "The law hath dominion over a man for so long time as he liveth; for the woman that hath a husband is bound to the husband while he liveth, to the husband who is law," etc.
+
+[4:6] For consider in these things that the law hath dominion over the man so long time as the law liveth,—as a husband over a wife.
+
+[4:7] "For the woman that hath a husband," that is, the soul under the law, "is bound to the husband while he liveth," to the husband who is the law; but if the husband—that is, the law die—she is discharged from the law, which is her husband.
+
+[4:8] Now the law dies to him who has gone up to the condition of blessedness, and no longer lives under the law, but acts like to Christ, who, though He became under law for the sake of those under law, that He might gain those under law, did not continue under law, nor did He leave subject to law those who had been freed by Him; for He led them up along with Himself to the divine citizenship which is above the law, which contains, as for the imperfect and such as are still sinners, sacrifices for the remission of sins.
+
+[4:9] He then who is without sin, and stands no longer in need of legal sacrifices, perhaps when he has become perfect has passed beyond even the spiritual law, and comes to the Word beyond it, who became flesh to those who live in the flesh, but to those who no longer at all war after the flesh, He is perceived as being the Word, as He was God in the beginning with God, and reveals the Father.
+
+[4:10] Three things therefore are to be thought of in connection with this place—the woman that hath a husband, who is under a husband—the law; and the woman who is an adulteress, to-wit, the soul, which, while her husband, the law, liveth, has become joined to another husband, namely, the law of the flesh; and the woman who is married to the brother of the dead husband, to the Word who is alive and dies not, who "being raised from the dead dieth no more, for death hath no more dominion over Him".
+
+[4:11] So far then because of the saying, "But if the husband die she is discharged from the law, the husband," and because of this, "so then, while her husband liveth, she shall be called an adulteress, if she be joined to another man," and because of this, "but if the husband die, she is free from the law, so that she is no adulteress though she be joined to another man".
+
+[4:12] But this very saying, "So then while her husband liveth, she shall be called an adulteress," we have brought forward, wishing clearly to show why in answer to the Pharisees and Sadducees who were tempting Him and asking Him to show them a sign from heaven, He said not only "a wicked generation," but an "adulterous" generation.
+
+[4:13] In a general way, then, the law in the members which wars against the law of the mind, as a man who is an adulterer, is an adulterer of the soul.
+
+[4:14] But now also every power that is hostile, which gains the mastery over the human soul, and has intercourse with it, commits adultery with her who had a bridegroom given to her by God, namely, the Word.
+
+[4:15] After these things it is written that "He left them and departed".
+
+[4:16] For how was the bridegroom—the Word—not going to leave the adulterous generation and depart from it? But you might say that the Word of God, leaving the synagogue of the Jews as adulterous, departed from it, and took a wife of fornication, namely, those from the Gentiles; since those who were "Sion, a faithful city," have become harlots; but these have become like the harlot Rahab, who received the spies of Joshua, and was saved with all her house; after this no longer playing the harlot, but coming to the feet of Jesus, and wetting them with the tears of repentance, and anointing them with the fragrance of the ointment of holy conversation, on account of whom, reproaching Simon the leper,—the former people,—He spoke those things which are written.
+
+[5:1] Concerning the Leaven of the Pharisees.
+
+[5:2] "And His disciples came to the other side and forgot to take loaves".
+
+[5:3] Since the loaves which they had before they came to the other side were no longer useful to the disciples when they came to the other side, for they needed one kind of loaves before they crossed and a different kind when they crossed,—on this account, being careless of taking loaves when going to the other side, they forgot to take loaves with them.
+
+[5:4] To the other side then came the disciples of Jesus who had passed over from things material to things spiritual, and from things sensible to those which are intellectual.
+
+[5:5] And perhaps that He might turn back those who, by crossing to the other side, "had begun in spirit," from running back to carnal things, Jesus said to them when on the other side, "Take heed and beware".
+
+[5:6] For there was a certain lump of teaching and of truly ancient leaven,—that according to the bare letter, and on this account not freed from those things which arise from wickedness,—which the Pharisees and Sadducees offered, of which Jesus does not wish His own disciples any longer to eat, having made for them a new and spiritual lump, offering Himself to those who gave up the leaven of the Pharisees and Sadducees and had come to Him—"the living bread which came down from heaven and gives life to the world".
+
+[5:7] But since, to him who is no longer going to use the leaven and the lump and the teaching of the Pharisees and the Sadducees, the first thing is to "see" and then to "beware," so that no one, by reason of not seeing and from want of taking heed, may ever partake of their forbidden leaven,—on this account He says to the disciples, first, "see," and then, "beware".
+
+[5:8] It is the mark of the clear-sighted and careful to separate the leaven of the Pharisees and Sadducees and every food that is not of "the unleavened-bread of sincerity and truth" from the living bread, even that which came down from heaven, so that no one who eats may adopt the things of the Pharisees and the Sadducees, but by eating the living and true bread may strengthen his soul.
+
+[5:9] And we might seasonably apply the saying to those who, along with the Christian way of life, prefer to live as the Jews, materially, for these do not see nor beware of the leaven of the Pharisees and Sadducees, but, contrary to the will of Jesus who forbade it, eat the bread of the Pharisees.
+
+[5:10] Yea and also all, who do not wish to understand that the law is spiritual, and has a shadow of the good things to come, and is a shadow of the things to come, neither inquire of what good thing about to be each of the laws is a shadow, nor do they see nor beware of the leaven of the Pharisees; and they also who reject the doctrine of the resurrection of the dead are not on their guard against the leaven of the Sadducees.
+
+[5:11] And there are many among the heterodox who, because of their unbelief in regard to the resurrection of the dead, are imbued with the leaven of the Sadducees.
+
+[5:12] Now, while Jesus said these things, the disciples reasoned, saying not aloud, but in their own hearts, "We took no loaves".
+
+[5:13] And something like this was what they said, "If we had loaves we would not have had to take of the leaven of the Pharisees and the Sadducees; but since, from want of loaves, we run the risk of taking from their leaven, while the Saviour does not wish us to run back to their teaching, therefore He said to us, "Take heed and beware of the leaven of the Pharisees and the Sadducees".
+
+[5:14] " And these things then they reasoned; Jesus, while looking to that which was in their hearts, and hearing the reasons in them, as the true overseer of hearts, reproves them because they did not see nor remember the loaves which they received from Him; on account of which, even when they appeared to be in want of loaves, they did not need the leaven of the Pharisees and the Sadducees.
+
+[6:1] The Meaning of Leaven.
+
+[6:2] Jesus' Knowledge of the Heart.
+
+[6:3] Then expounding clearly and representing to them, who were being distracted because of the equivocal meaning of loaf and leaven, in an undisguised fashion, that He was not speaking to them about sensible bread but about the leaven in the teaching, He subjoins, "How is it that ye do not perceive that I spake not you concerning bread? But beware of the leaven of the Pharisees and the Sadducees".
+
+[6:4] And though He had not laid bare the interpretation, but still continued to use metaphorical language, the disciples would have understood that the discourse of the Saviour was about the teaching, figuratively called leaven, which the Pharisees and Sadducees were teaching.
+
+[6:5] So long, then, as we have Jesus with us fulfilling the promise which runs, "Lo, I am with you always unto the consummation of the age," we cannot fast nor be in want of food, so that, because of want of it we should desire to take and eat the forbidden leaven, even from the Pharisees and Sadducees.
+
+[6:6] Now there may sometimes be a time, when He is with us, that we are without food, as is spoken of in the passage above, "They continue with me now three days and have nothing to eat;" but, even though this should happen, being unwilling to send us away fasting lest we faint on the way, He gives thanks over the loaves which were with the disciples, and causes us to have the seven baskets over from the seven loaves, as we have recorded.
+
+[6:7] And moreover this also is to be observed, in view of those who think that the divinity of the Saviour is not at all demonstrable from the Gospel of Matthew, that the fact that, when the disciples were reasoning among themselves and saying, "We have no loaves," Jesus knew their reasonings and said, "Why reason ye among yourselves, O ye of little faith, because ye took no loaves," was beyond the power of man; for the Lord alone, as Solomon says in the third Book of Kings, knows the hearts of men.
+
+[6:8] But since the disciples understood, when Jesus said, "Beware of the leaven," that He did not tell them to beware of the loaves but of the teaching of the Pharisees and Sadducees, you will understand that whenever leaven is named it is put figuratively for teaching, whether in the law, or in the Scriptures which come after the law; and so perhaps leaven is not offered upon the altar; for it is not right that prayers should take the form of teaching, but should only be supplications of good things from God.
+
+[6:9] But one might inquire, on account of what has been said about disciples who came to the other side, if any one who has reached the other side can be reproached as one of little faith, and as not yet understanding nor remembering what was done by Jesus.
+
+[6:10] But it is not difficult, I think, to say to this, that in relation to that which is perfect, on the coming of which "that which is in part shall be done away," all our faith here is little faith, and in regard to that, we who know in part do not yet know nor remember; for we are not able to obtain a memory which is sufficient and able to attain to the magnitude of the nature of the speculations.
+
+[7:1] Relative Magnitude of Sins of the Heart and Actual Sins.
+
+[7:2] But we may also learn from this, that in respect of the reasonings only which we reason within ourselves, we are sometimes convicted and reproached as being of little faith.
+
+[7:3] And I think that just as a man commits adultery in his heart only, though not proceeding altogether to the overt act, so he commits in his heart the rest of the things which are forbidden.
+
+[7:4] As then he who has committed adultery in his heart will be punished proportionately to adultery of this kind, so also he who has done in his heart any one of the things forbidden, for example, who has stolen in his heart only, or borne false witness in his heart only, will not be punished as he who has stolen in fact, or who has completed the very act of false testimony, but only as he who has done such things in his heart.
+
+[7:5] There is also the case of the man who while he did not arrive at the evil action, came short of it in spite of his own will.
+
+[7:6] For if, in addition to willing it, he has attempted it, but not carried it out, he will be punished not as one who has sinned in his heart alone but in deed.
+
+[7:7] To questions of this sort one might ask, whether any one commits adultery in his heart, even if he does not do the deed of adultery, but lacks self-control in heart only.
+
+[7:8] And the like also you will say concerning the rest of things which are deserving of praise.
+
+[7:9] But the passage possibly contains a plausible fallacy which must be cleared away, I think, in this manner: adultery which takes place in the heart is a less sin, than if one were also to add to it the act.
+
+[7:10] But it is impossible that there can be chastity in the heart, hindering the chaste action—unless indeed one brings forward for an illustration of this the case of the virgin who according to the law was violated in solitude; for it may be granted that the heart of any one may be most pure, but that force in a matter of licentiousness has caused the corruption of the body of her who was chaste.
+
+[7:11] In truth she seems to me to be altogether chaste in secret heart, but no longer to be pure in body such as she was before the act of violence; but though she is not pure outwardly, is she therefore now also unchaste? I have said these things because of the words, "They reasoned among themselves saying, We took no loaves," to which is added, "And Jesus perceiving it, said, O ye of little faith, why reason ye among yourselves," etc.
+
+[7:12] ; for it was necessary that investigation should be made in regard to the censure of things in secret and correlatively to the praise of things in secret.
+
+[8:1] The Leaven Figurative Like the Water Spoken of by Jesus to the Woman of Samaria.
+
+[8:2] But I wonder if the disciples thought, before the saying was explained to them by Jesus, that their Teacher and Lord was forbidding them to beware of the sensible leaven of the Pharisees or the Sadducees as impure, and on this account forbidden, lest they might use that leaven because they had not taken loaves.
+
+[8:3] And we might make a like inquiry in regard to other things; but by-way of illustration the narrative about the woman of Samaria sufficeth, "Every one that drinketh of this water shall thirst again; but whosoever drinketh of the water that I shall give him shall never thirst".
+
+[8:4] For there, also, so far as the mere form of expression is concerned, the Samaritan woman would seem to have thought that the Saviour was giving a promise about sensible water, when He said, "Whosoever drinketh of the water that I shall give him shall never thirst".
+
+[8:5] And those things then must be figuratively interpreted, and we must examine and compare the water of the spring of Jacob from which the woman of Samaria drew water with the water of Jesus; and here the like must be done; for perhaps the loaves were not baked, but a kind of raw leaven solely, the teaching, namely, of the Pharisees and Sadducees.
+
+[9:1] Concerning the Question of Jesus in Caesarea, Who Do Men Say that I Am? Different Conceptions of Jesus.
+
+[9:2] "Now when Jesus came into the parts of Caesarea Philippi, He asked His disciples".
+
+[9:3] Jesus inquires of the disciples, "Who do men say that I am," that we may learn from the answer of the Apostles the different conceptions then held among the Jews in regard to our Saviour; and perhaps also that the disciples of Jesus might learn to be interested in knowing what is said by men about them; because that will be an advantage to them who do it, by cutting off in every way occasions of evil if anything evil is spoken of, and by increasing the incitements to good, if anything good is spoken of.
+
+[9:4] Only, observe how, on account of the different movements of opinion among the Jews about Jesus, some, under the influence of unsound theories, said that He was John the Baptist, like Herod the tetrarch who said to his servants, "This is John the Baptist, he is risen from the dead, and therefore do the powers work in him;" but others that He who was now called Jesus was Elijah, either having been born a second time, or living from that time in the flesh, and appearing at the present time.
+
+[9:5] But those who said that Jesus was Jeremiah, and not that Jeremiah was a type of the Christ, were perhaps influenced by what is said in the beginning of Jeremiah about Christ, which was not fulfilled in the prophet at that time, but was beginning to be fulfilled in Jesus, whom "God set up over nations and kingdoms to root up, and to break down, and to destroy, and to build up, and to transplant," having made Him to be a prophet to the Gentiles to whom He proclaimed the word.
+
+[9:6] Moreover also those who said, "that he was a certain one of the prophets," conceived this opinion concerning Him because of those things which had been said in the prophets as unto them, but which had not been fulfilled in their case.
+
+[9:7] But also the Jews, as worthy of the veil which was upon their heart, held false opinions concerning Jesus; while Peter as not a disciple "of flesh and blood," but as one fit to receive the revelation of the Father in heaven, confessed that He was the Christ.
+
+[9:8] The saying of Peter to the Saviour, "Thou art the Christ," when the Jews did not know that He was Christ, was indeed a great thing, but greater that he knew Him not only to be Christ, but also "the Son of the living God," who had also said through the prophets, "I live," and "They have forsaken Me the spring of living water;"—and He is life also, as from the Father the spring of life, who said, "I am the Life;" and consider carefully, whether, as the spring of the river is not the same thing as the river, the spring of life is not the same as life.
+
+[9:9] And these things we have added because to the saying, "Thou art the Christ, the Son of God," was subjoined the word "living;" for it was necessary to set forth something noteworthy in regard to that which is said about God and the Father of all things as living, both in relation to His absolute life, and in relation to those things which participate in it.
+
+[9:10] But since we said that they were under the influence of unsound opinions who declared that Jesus was John the Baptist, or any one of those named, in saying this let us prove that if they had fallen in with Jesus as He was going away to John for baptism, or with John when he was baptizing Jesus, or if they had heard it from any one, they would not have said that Jesus was John.
+
+[9:11] But also if they had understood the opinions under the influence of which Jesus said, "If ye are willing to receive it, this is Elijah which is to come," and had heard what was said, as men having ears, some would not have said that He was Elijah.
+
+[9:12] And if those who said that He was Jeremiah had perceived that the most of the prophets took upon themselves certain features that were symbolical of Him, they would not have said that He was Jeremiah; and in like manner the others would not have said that He was one of the prophets.
+
+[10:1] The Answer of Peter.
+
+[10:2] And perhaps that which Simon Peter answered and said, "Thou art the Christ, the Son of the living God," if we say it as Peter, not by flesh and blood revealing it unto us, but by the light from the Father in heaven shining in our heart, we too become as Peter, being pronounced blessed as he was, because that the grounds on which he was pronounced blessed apply also to us, by reason of the fact that flesh and blood have not revealed to us with regard to Jesus that He is Christ, the Son of the living God, but the Father in heaven, from the very heavens, that our citizenship may be in heaven, revealing to us the revelation which carries up to heaven those who take away every veil from the heart, and receive "the spirit of the wisdom and revelation" of God.
+
+[10:3] And if we too have said like Peter, "Thou art the Christ, the Son of the living God," not as if flesh and blood had revealed it unto us, but by light from the Father in heaven having shone in our heart, we become a Peter, and to us there might be said by the Word, "Thou art Peter," etc.
+
+[10:4] For a rock is every disciple of Christ of whom those drank who drank of the spiritual rock which followed them, and upon every such rock is built every word of the church, and the polity in accordance with it; for in each of the perfect, who have the combination of words and deeds and thoughts which fill up the blessedness, is the church built by God.
+
+[11:1] The Promise Given to Peter Not Restricted to Him, But Applicable to All Disciples Like Him.
+
+[11:2] But if you suppose that upon that one Peter only the whole church is built by God, what would you say about John the son of thunder or each one of the Apostles? Shall we otherwise dare to say, that against Peter in particular the gates of Hades shall not prevail, but that they shall prevail against the other Apostles and the perfect? Does not the saying previously made, "The gates of Hades shall not prevail against it," hold in regard to all and in the case of each of them? And also the saying, "Upon this rock I will build My church"? Are the keys of the kingdom of heaven given by the Lord to Peter only, and will no other of the blessed receive them? But if this promise, "I will give unto thee the keys of the kingdom of heaven," be common to the others, how shall not all the things previously spoken of, and the things which are subjoined as having been addressed to Peter, be common to them? For in this place these words seem to be addressed as to Peter only, "Whatsoever thou shalt bind on earth shall be bound in heaven," etc.
+
+[11:3] ; but in the Gospel of John the Saviour having given the Holy Spirit unto the disciples by breathing upon them said, "Receive ye the Holy Spirit," etc.
+
+[11:4] Many then will say to the Saviour, "Thou art the Christ, the Son of the living God;" but not all who say this will say it to Him, as not at all having learned it by the revelation of flesh and blood but by the Father in heaven Himself taking away the veil that lay upon their heart, in order that after this "with unveiled face reflecting as a mirror the glory of the Lord" they may speak through the Spirit of God saying concerning Him, "Lord Jesus," and to Him, "Thou art the Christ, the Son of the living God".
+
+[11:5] And if any one says this to Him, not by flesh and blood revealing it unto Him but through the Father in heaven, he will obtain the things that were spoken according to the letter of the Gospel to that Peter, but, as the spirit of the Gospel teaches, to every one who becomes such as that Peter was.
+
+[11:6] For all bear the surname of "rock" who are the imitators of Christ, that is, of the spiritual rock which followed those who are being saved, that they may drink from it the spiritual draught.
+
+[11:7] But these bear the surname of the rock just as Christ does.
+
+[11:8] But also as members of Christ deriving their surname from Him they are called Christians, and from the rock, Peters.
+
+[11:9] And taking occasion from these things you will say that the righteous bear the surname of Christ who is Righteousness, and the wise of Christ who is Wisdom.
+
+[11:10] And so in regard to all His other names, you will apply them by way of surname to the saints; and to all such the saying of the Saviour might be spoken, "Thou art Peter," etc.
+
+[11:11] , down to the words, "prevail against it".
+
+[11:12] But what is the "it"? Is it the rock upon which Christ builds the church, or is it the church? For the phrase is ambiguous.
+
+[11:13] Or is it as if the rock and the church were one and the same? This I think to be true; for neither against the rock on which Christ builds the church, nor against the church will the gates of Hades prevail; just as the way of a serpent upon a rock, according to what is written in the Proverbs, cannot be found.
+
+[11:14] Now, if the gates of Hades prevail against any one, such an one cannot be a rock upon which Christ builds the church, nor the church built by Jesus upon the rock; for the rock is inaccessible to the serpent, and it is stronger than the gates of Hades which are opposing it, so that because of its strength the gates of Hades do not prevail against it; but the church, as a building of Christ who built His own house wisely upon the rock, is incapable of admitting the gates of Hades which prevail against every man who is outside the rock and the church, but have no power against it.
+
+[12:1] Every Sin—Every False Doctrine is a "Gate of Hades".
+
+[12:2] But when we have understood how each of the sins through which there is a way to Hades is a gate of Hades, we shall apprehend that the soul, which has "spot or wrinkle or any such thing," and because of wickedness is neither holy nor blameless, is neither a rock upon which Christ builds, nor a church, nor part of a church which Christ builds upon the rock.
+
+[12:3] But if any one wishes to put us to shame in regard to these things because of the great majority of those of the church who are thought to believe, it must be said to him not only "Many are called, but few chosen;" but also that which was said by the Saviour to those who come to Him, as it is recorded in Luke in these words, "Strive to enter in by the narrow door, for many, I say unto you, shall seek to enter in through the narrow door and shall not be able;" and also that which is written in the Gospel of Matthew thus, "For narrow is the gate, and strait is the way that leadeth unto life, and few be they that find it".
+
+[12:4] Now, if you attend to the saying, "Many, I say unto you, shall seek to enter in and shall not be able," you will understand that this refers to those who boast that they are of the church, but live weakly and contrary to the word.
+
+[12:5] Of those, then, who seek to enter in, those who are not able to enter will not be able to do so, because the gates of Hades prevail against them; but in the case of those against whom the gates of Hades will not prevail, those seeking to enter in will be strong, being able to do all things, in Christ Jesus, who strengtheneth them.
+
+[12:6] And in like manner each one of those who are the authors of any evil opinion has become the architect of a certain gate of Hades; but those who co-operate with the teaching of the architect of such things are servants and stewards, who are the bond-servants of the evil doctrine which goes to build up impiety.
+
+[12:7] And though the gates of Hades are many and almost innumerable, no gate of Hades will prevail against the rock or against the church which Christ builds upon it.
+
+[12:8] Notwithstanding, these gates have a certain power by which they gain the mastery over some who do not resist and strive against them; but they are overcome by others who, because they do not turn aside from Him who said, "I am the door," have rased from their soul all the gates of Hades.
+
+[12:9] And this also we must know that as the gates of cities have each their own names, in the same way the gates of Hades might be named after the species of sins; so that one gate of Hades is called "fornication," through which fornicators go, and another "denial," through which the deniers of God go down into Hades.
+
+[12:10] And likewise already each of the heterodox and of those who have begotten any "knowledge which is falsely so called," has built a gate of Hades—Marcion one gate, and Basilides another, and Valentinus another.
+
+[13:1] The "Gates of Hades" And the "Gates of Zion" Contrasted.
+
+[13:2] In this place, then, the gates of Hades are spoken of; but in the Psalms the prophet gives thanks saying, "He who lifteth me up from the gates of death that I may declare all thy praises in the gates of the daughter of Zion".
+
+[13:3] And from this we learn that it is never possible for any one to be fit to declare the praises of God, unless he has been lifted up from the gates of death, and has come to the gates of Zion.
+
+[13:4] Now the gates of Zion may be conceived as opposed to the gates of death, so that there is one gate of death, dissoluteness, but a gate of Zion, self-control; and so a gate of death, unrighteousness, but a gate of Zion, righteousness, which the prophet shows forth saying, "This is the gate of the Lord, the righteous shall enter into it".
+
+[13:5] And again there is cowardice, a gate of death, but manly courage, a gate of Zion; and want of prudence, a gate of death, but its opposite, prudence, a gate of Zion.
+
+[13:6] But to all the gates of the "knowledge which is falsely so called" one gate is opposed, the gate of knowledge which is free from falsehood.
+
+[13:7] But consider if, because of the saying , "our wrestling is not against flesh and blood," etc.
+
+[13:8] , you can say that each power and world-ruler of this darkness, and each one of the "spiritual hosts of wickedness in the heavenly places" is a gate of Hades and a gate of death.
+
+[13:9] Let, then, the principalities and powers with which our wrestling is, be called gates of Hades, but the "ministering spirits" gates of righteousness.
+
+[13:10] But as in the case of the better things many gates are first spoken of, and after the gates, one, in the passage, "Open to me the gates of righteousness, I will enter into them, and will make full confession to the Lord," and "this is the gate of the Lord, by it the righteous shall enter;" so also in the case of those gates which are opposed, many are the gates of Hades and death, each a power; but over all these the wicked one himself.
+
+[13:11] And let us take heed in regard to each sin, as if we were descending into some gate of death if we sin; but when we are lifted up from the gates of death let us declare all the praises of the Lord in the gates of the daughter of Zion; as, for example, in one gate of the daughter of Zion—that which is called self-control—we will declare by our self-control the praises of God; and in another which is called righteousness, by righteousness we will declare the praises of God; and, generally, in all things whatsoever of a praiseworthy character with which we are occupied, in these we are at some gate of the daughter of Zion, declaring at each gate some praise of God.
+
+[13:12] But we must make inquiry whether in one of the Twelve it is said, "They hated him that reproveth in the gates, and they loathed the holy word".
+
+[13:13] Perhaps, then, he who reproves in the gates is of the gates of the daughter of Zion, reproving those who are in sins which are opposed to this gate, even of the gates of Hades or death.
+
+[13:14] But if ye do not so understand the words, "They hated him that reproveth in the gates," either the expression "in the gates" will be held to be superfluous, or investigate how that which is said can be worthy of the prophetic spirit.
+
+[14:1] In What Sense the "Keys" Are Given to Peter, and Every Peter.
+
+[14:2] Limitations of This Power.
+
+[14:3] And after this let us see in what sense it is said to Peter, and to every Peter, "I will give unto thee the keys of the kingdom of heaven".
+
+[14:4] And, in the first place, I think that the saying, "I will give unto thee the keys of the kingdom of heaven," is spoken in consistency with the words, "The gates of Hades shall not prevail against it".
+
+[14:5] For he is worthy to receive from the same Word the keys of the kingdom of heaven, who is fortified against the gates of Hades so that they do not prevail against him, receiving, as it were, for a prize, the keys of the kingdom of heaven, because the gates of Hades had no power against him, that he might open for himself the gates that were closed to those who had been conquered by the gates of Hades.
+
+[14:6] And he enters in, as a temperate man, through an opened gate—the gate of temperance—by the key which opens temperance; and, as a righteous man, by another gate—the gate of righteousness—which is opened by the key of righteousness; and so with the rest of the virtues.
+
+[14:7] For I think that for every virtue of knowledge certain mysteries of wisdom corresponding to the species of the virtue are opened up to him who has lived according to virtue; the Saviour giving to those who are not mastered by the gates of Hades as many keys as there are virtues, which open gates equal in number, which correspond to each virtue according to the revelation of the mysteries.
+
+[14:8] And perhaps, also, each virtue is a kingdom of heaven, and all together are a kingdom of the heavens; so that according to this he is already in the kingdom of the heavens who lives according to the virtues, so that according to this the saying, "Repent, for the kingdom of heaven is at hand," is to be referred, not to the time, but to deeds and dispositions; for Christ, who is all virtue, has come, and speaks, and on account of this the kingdom of God is within His disciples, and not here or there.
+
+[14:9] But consider how great power the rock has upon which the church is built by Christ, and how great power every one has who says, "Thou art the Christ, the Son of the living God," so that the judgments of this man abide sure, as if God were judging in him, that in the very act of judging the gates of Hades shall not prevail against him.
+
+[14:10] But when one judges unrighteously, and does not bind upon earth according to the Word of God, nor loose upon earth according to His will, the gates of Hades prevail against him; but, in the case of any one against whom the gates of Hades do not prevail, this man judges righteously.
+
+[14:11] Wherefore he has the keys of the kingdom of heaven, opening to those who have been loosed on earth that they may be also loosed in heaven, and free; and shutting to those who by his just judgment have been bound on earth that they also may be bound in heaven, and condemned.
+
+[14:12] But when those who maintain the function of the episcopate make use of this word as Peter, and, having received the keys of the kingdom of heaven from the Saviour, teach that things bound by them, that is to say, condemned, are also bound in heaven, and that those which have obtained remission by them are also loosed in heaven, we must say that they speak wholesomely if they have the way of life on account of which it was said to that Peter, "Thou art Peter;" and if they are such that upon them the church is built by Christ, and to them with good reason this could be referred; and the gates of Hades ought not to prevail against him when he wishes to bind and loose.
+
+[14:13] But if he is tightly bound with the cords of his sins, to no purpose does he bind and loose.
+
+[14:14] And perhaps you can say that in the heavens which are in the wise man—that, is the virtues,—the bad man is bound; and again in these the virtuous man is loosed, and has received an indemnity for the sins which he committed before his virtue.
+
+[14:15] But, as the man, who has not the cords of sins nor iniquities compared to a "long rope or to the strap of the yoke of a heifer," not even God could bind, in like manner, no Peter, whoever he may be; and if any one who is not a Peter, and does not possess the things here spoken of, imagines as a Peter that he will so bind on earth that the things bound are bound in heaven, and will so loose on earth that the things loosed are loosed in heaven, he is puffed up, not understanding the meaning of the Scriptures, and, being puffed up, has fallen into the ruin of the devil.
+
+[15:1] Relation of the Former Commission Given by Jesus to the Disciples, to His Present Injunction of Silence.
+
+[15:2] Belief and Knowledge Contrasted.
+
+[15:3] "Then enjoined He His disciples that they should tell no man that He was the Christ".
+
+[15:4] It is written above that Jesus sent forth these twelve saying unto them, "Go not into any way of the Gentiles," and the other words which are recorded to have been said to them when He sent them to the apostleship.
+
+[15:5] Did He then wish them when they were already discharging the function of Apostles to proclaim that He was the Christ? For, if He wished it, it is fitting to inquire why He now at all commands the disciples that they should not say that He was the Christ? Or if He did not wish it, how can the things concerning the apostleship be safely maintained? And these things also one may inquire at this place,—whether, when He sent away the Twelve, He did not send them away with the understanding that He was the Christ? But if the Twelve had such understanding, manifestly Peter had it also; how, then, is he now pronounced blessed? For the expression here plainly indicates that now for the first time Peter confessed that Christ was the Son of the living God.
+
+[15:6] Matthew then, according to some of the manuscripts, has written, "Then He commanded His disciples that they should tell no man that He was the Christ," but Mark says, "He charged them that they should tell no man of Him;" and Luke, "He charged them and commanded them to tell this to no man".
+
+[15:7] But what is the "this"? Was it that also according to him, Peter answered and said to the question, "Who say ye that I am".
+
+[15:8] —"The Christ, the Son of the living God?" You must know, however, that some manuscripts of the Gospel according to Matthew have, "He charged".
+
+[15:9] The difficulty thus started seems to me a very real difficulty; but let a solution which cannot be impugned be sought out, and let the finder of it bring it forward before all, if it be more credible than that which shall be advanced by us as a fairly temperate view.
+
+[15:10] Consider, then, if you can say, that the belief that Jesus is the Christ is inferior to the knowledge of that which is believed.
+
+[15:11] And perhaps also there is a difference in the knowledge of Jesus as the Christ, as every one who knows does not know Him alike.
+
+[15:12] From the words in John, "If ye abide in My word, ye shall know the truth, and the truth shall make you free," it is plain that belief without knowledge is inferior to knowing; but that there is a difference in the knowledge of Jesus as the Christ, as all who know Him do not know Him equally, is a fact self-evident to any one who gives even a very little consideration to the matter.
+
+[15:13] For who would not acknowledge, for example, that Timothy, though he knew that Jesus was the Christ, had not been enlightened to such an extent in the knowledge of Him as the Apostle had been enlightened? And who would not also admit this—that though many, speaking the truth, say about God, "He has given to me a true knowledge of things that are," yet they will not say this with equal insight and apprehension of the things known, nor as knowing the same number of things? But it is not only in respect of the difference of knowing that those who know do not know alike, but also according to that which is the source of the knowledge; so that according to this he who knows the Son by the revelation of the Father, as Peter is testified to have known, has the highest beatitude.
+
+[15:14] Now, if these views of ours are sound, you will consider whether the Twelve formerly believed but did not know; but, after believing, they gained also the rudiments of knowledge and knew a few things about Him; and afterwards they continued to advance in knowledge so that they were able to receive the knowledge from the Father who reveals the Son; in which position Peter was, when he was pronounced blessed; for also he is pronounced blessed not merely because he said, "Thou art the Christ," but with the addition, "the Son of the living God".
+
+[15:15] Accordingly Mark and Luke who have recorded that Peter answered and said, "Thou art the Christ," but have not given the addition found in Matthew, have not recorded that he was declared blessed for what had been said, nor the blessing which followed the declaration of blessedness, "Thou art Peter," etc.
+
+[16:1] Gradual Growth in Knowledge of the Disciples.
+
+[16:2] But now we must first investigate the fact that they were declaring other things about Him as being great and wonderful, but did not yet proclaim that He was the Christ, lest the Saviour may not appear to take away from them the authority to announce that He was the Christ, which He had formerly bestowed upon them.
+
+[16:3] And perhaps some one will support an argument of this kind, saying that on their introduction into the school of Christ the Jews were taught by the disciples glorious things about Jesus, so that in due season there might be built upon these as a foundation the things about Jesus being the Christ; and perhaps many of the things which were said to them were said to all who virtually believed; for not to the Apostles alone did the saying apply, "Before governors and kings also shall ye be brought for My sake for a testimony to them and to the Gentiles;" and perhaps also not to the Apostles absolutely, but to all who were about to believe the word, "And brother shall deliver up brother to death," etc.
+
+[16:4] ; but, "Whosoever shall confess Me," etc.
+
+[16:5] , is said not specially to the Apostles, but also to all believers.
+
+[16:6] According to this, then, through that which was said to the Apostles an outline was given beforehand of the teaching which would afterwards come to be of service both to them and to every teacher.
+
+[17:1] Reasons for that Gradual Knowledge.
+
+[17:2] And likewise he who holds that the fact that He was Christ had been formerly proclaimed by the Apostles when they heard the saying, "What I tell you in the darkness, speak ye in the light, and what ye hear in the ear proclaim on the housetops," will say, that He wished first to give catechetical instruction as it were to those of the Apostles who were to hear the name of Christ, then to permit this, so to speak, to be digested in the minds of the hearers, that, after there had been a period of silence in the proclamation of something of this kind about Him, at a more seasonable time there might be built up upon the former rudiments "Christ Jesus crucified and raised from the dead," which at the beginning not even the Apostles knew; for it is written in the passage now under consideration, "From that time began Jesus to show unto His disciples that He must go unto Jerusalem" and suffer this and that.
+
+[17:3] But if now, for the first time, the Apostles learn from Jesus the things that were about to happen unto Him, namely, that the elders will plot against Him, and that He will be killed, and that after these things, on the third day, He will rise from the dead,—what necessity is there for supposing that those who had been taught by the Apostles concerning Jesus knew them before, or that although Christ was announced to them He was announced to them by way of an introduction which did not clearly elucidate the things concerning Him? For our Saviour wished, when He enjoined the disciples to tell no man that He was the Christ, to reserve the more perfect teaching about Him to a more fitting time, when to those who had seen Him crucified, the disciples who had seen Him crucified and risen could testify the things relating to His resurrection.
+
+[17:4] For if the Apostles, who were always with Him and had seen all the wonderful things which He did, and who bore testimony to His words that they were words of eternal life, were offended on the night on which He was betrayed,—what do you suppose would have been the feelings of those who had formerly learned that He was the Christ? To spare them, I think, He gave this command.
+
+[18:1] Jesus Was at First Proclaimed by the Twelve as a Worker and a Teacher Only.
+
+[18:2] But he who holds that the things spoken to the Twelve refer to the times subsequent to this, and that the Apostles had not as yet announced to their hearers that He was the Christ, will say that He wished the conception of the Christ which was involved in the name of Jesus to be reserved for that preaching which was more perfect, and which brought salvation, such as Paul knew of when he said to the Corinthians, "I determined not to know anything among you save Jesus Christ and Him crucified".
+
+[18:3] Wherefore, formerly they proclaimed Jesus as the doer of certain things, and the teacher of certain things; but now when Peter confesses that He was the Christ, the Son of the living God, as He did not wish it to be proclaimed already that He was the Christ, in order that He might be proclaimed at a more suitable time, and that as crucified, He commands His disciples that they should tell no man that He was the Christ.
+
+[18:4] And that this was His meaning, when He forbade proclamation to be made that He was the Christ, is in a measure established by the words, "From that time began Jesus to show unto His disciples how that He must go unto Jerusalem, and suffer many things of the elders," and what is annexed; for then, at the fitting time, He proclaims, so to speak, to the disciples who knew that Jesus was Christ, the Son of the living God, the Father having revealed it to them, that instead of believing in Jesus Christ who had been crucified, they were to believe in Jesus Christ who was about to be crucified.
+
+[18:5] But also, instead of believing in Christ Jesus and Him risen from the dead, He teaches them to believe in Christ Jesus and Him about to be risen from the dead.
+
+[18:6] But since "having put off from Himself the principalities and the powers, He made a show of them openly, triumphing over in the cross," if any one is ashamed of the cross of Christ, he is ashamed of the dispensation on account of which these powers were triumphed over; and it is fitting that he, who both believes and knows these things, should glory in the cross of our Lord Jesus Christ, through which, when Christ was crucified, the principalities—among which, I think, was also the prince of this world—were made a show of and triumphed over before the believing world.
+
+[18:7] Wherefore, when His suffering was at hand he said, "Now the prince of this world has been judged," and, "Now shall the prince of this world be cast out," and, "I, if I be lifted from the earth, will draw all men unto Myself;" as he no longer had sufficient power to prevent those going to Jesus who were being drawn by Him.
+
+[19:1] Importance of the Proclamation of Jesus as the Crucified.
+
+[19:2] It is necessary, therefore, to the proclamation of Jesus as Christ, that He should be proclaimed as crucified; and the proclamation that Jesus was the Christ does not seem to me so defective when any of His other miracles is passed over in silence, as when the fact of His crucifixion is passed over.
+
+[19:3] Wherefore, reserving the more perfect proclamation of the things concerning Him by the Apostles, He commanded His disciples that they should tell no man that He was the Christ; and He prepared them to say that He was the Christ crucified and risen from the dead, "when He began" not only to say, nor even to advance to the point of teaching merely, but "to show" to His disciples that He must go to Jerusalem, etc.
+
+[19:4] ; for attend to the expression "show"; because just as sensible things are said to be shown so the things spoken by Him to His disciples are said to be shown by Jesus.
+
+[19:5] And I do not think that each of the things seen was shown to those who saw Him suffering many things in body from the elders of the people, with such clearness as was the rational demonstration about Him to the disciples.
+
+[20:1] Why Jesus Had to Go to Jerusalem.
+
+[20:2] "Then began He to show;" and probably afterwards when they were able to receive it He shewed more clearly, no longer beginning to show as to those who were learning the introduction, but already also advancing in the showing; and if it is reasonable to conceive that Jesus altogether completed what He began, then, some time, He altogether completed that which He began to show to His disciples about the necessity of His suffering the things which are written.
+
+[20:3] For, when any one apprehends from the Word the perfect knowledge of these things, then it must be said that, from a rational exhibition (the mind seeing the things which are shown,) the exhibition becomes complete for him who has the will and the power to contemplate these things, and does contemplate them.
+
+[20:4] But since "it cannot be that a prophet perish out of Jerusalem,"—a perishing which corresponds to the words, "He that loseth his life for My sake shall find it,"—on this account it was necessary for Him to go to Jerusalem, that having suffered many things in that Jerusalem, He might make "the first-fruits" of the resurrection from the dead in the Jerusalem above, doing away with and breaking up the city upon the earth with all the worship which was maintained in it.
+
+[20:5] For so long as Christ "had not been raised from the dead, the first-fruits of them that are asleep," and those who become conformed to His death and resurrection had not yet been raised along with Him, the city of God was sought for below, and the temple, and the purifications, and the rest; but when this took place, no longer were the things below sought for, but the things above; and, in order that these might be set up, it was necessary that He should go unto the Jerusalem below, and there suffer many things from the elders in it, and the chief priests and scribes of the people, in order that He might be glorified by the heavenly elders who could receive his bounties, and by diviner high-priests who are ordained under the one High-Priest, and that He might be glorified by the scribes of the people who are occupied with letters "not written with ink" but made clear by the Spirit of the living God, and might be killed in the Jerusalem below, and having risen from the dead might reign in Mount Zion, and the city of the living God—the heavenly Jerusalem.
+
+[20:6] But on the third day He rose from the dead, in order that having delivered them from the wicked one, and his son, in whom was falsehood and unrighteousness and war and everything opposed to that which Christ is, and also from the profane spirit who transforms himself into the Holy Spirit, He might gain for those who had been delivered the right to be baptized in spirit and soul and body, into the name of the Father and the Son and the Holy Spirit, which represent the three days eternally present at the same time to those who by means of them are sons of light.
+
+[21:1] The Rebuke of Peter and the Answer of Jesus.
+
+[21:2] "And Peter took Him and began to rebuke Him, saying, God be propitious to Thee.
+
+[21:3] Lord, this shall never be unto thee".
+
+[21:4] To whom He said, "Get thee behind Me, Satan; thou art a stumbling-block unto Me; for thou mindest not the things of God but the things of men".
+
+[21:5] Since Jesus had begun to show unto His disciples that He must go unto Jerusalem, and suffer many things, Peter up to this point learned the beginnings of those things which were shown.
+
+[21:6] But since he thought that the sufferings were unworthy of Christ the Son of the living God, and below the dignity of the Father who had revealed to him so great things about Christ,—for the things that concerned His coming suffering had not been revealed to him,—on this account he took Him, and as one forgetful of the honour due to the Christ, and that the Son of the living God neither does nor says anything worthy of rebuke, he began to rebuke Him; and as to one who needed propitiation,—for he did not yet know that "God had set Him forth to be a propitiation through faith in His blood," he said, "God be propitious to thee, O Lord".
+
+[21:7] Approving his purpose, indeed, but rebuking his ignorance, because of the purpose being right, He says to him, "Get thee behind Me," as to one who, by reason of the things of which he was ignorant and spake not rightly, had abandoned the following of Jesus; but because of his ignorance, as to one who had something antagonistic to the things of God, He said, "Satan," which in the Hebrew means "adversary".
+
+[21:8] But, if Peter had not spoken from ignorance, nor rebuked the Son of the living God, saying unto Him, "God be propitious to thee, Lord, this shall never be unto Thee," Christ would not have said to him, "Get thee behind Me," as to one who had given up being behind Him and following Him; nor would He have said as to one who had spoken things adverse to what He had said, "Satan".
+
+[21:9] But now Satan prevailed over him who had followed Jesus and was going behind Him, to turn aside from following Him and from being behind the Son of God, and to make him, by reason of the words which he spoke in ignorance, worthy of being called "Satan" and a stumbling-block to the Son of God, and "as not minding the things of God but the things of men".
+
+[21:10] But that Peter was formerly behind the Son of God, before he committed this sin, is manifest from the words, "Come ye behind Me, and I will make you fishers of men".
+
+[22:1] Importance of the Expressions "Behind" And "Turned".
+
+[22:2] But you will compare together His saying to Peter, "Get thee behind me, Satan," with that said to the devil (who said to Him, "All these things will I give Thee if Thou wilt fall down and worship me"), "get thee hence," without the addition, "behind Me;" for to be behind Jesus is a good thing.
+
+[22:3] Wherefore it was said, "Come ye behind Me and I will make you fishers of men".
+
+[22:4] And to the same effect is the saying, "He that doth not take his cross and follow behind Me is not worthy of Me".
+
+[22:5] And as a general principle observe the expression "behind"; because it is a good thing when any one goes behind the Lord God and is behind the Christ; but it is the opposite when any one casts the words of God behind him, or when he transgresses the commandment which says, "Do not walk behind thy lusts".
+
+[22:6] And Elijah also, in the third Book of Kings, says to the people, "How long halt ye on both your knees? If God is the Lord, go behind Him, but if Baal is the Lord, go behind him".
+
+[22:7] And Jesus says this to Peter when He "turned," and He does so by way of conferring a favour.
+
+[22:8] And if therefore you will collect more illustrations of the "having turned," and especially those which are ascribed to Jesus, and compare them with one another, you would find that the expression is not superfluous.
+
+[22:9] But it is sufficient at present to bring forward this from the Gospel according to John, "Jesus turned and beheld them"—clearly, Peter and Andrew—"following, and saith unto them, What seek ye?" For observe that, when He "turned," it is for the advantage of those to whom He turned.
+
+[23:1] Peter as a Stumbling-Block to Jesus.
+
+[23:2] Next we must inquire how He said to Peter, "Thou art a stumbling-block unto Me," especially when David says, "Great peace have they that love Thy law, and there is no stumbling-block to them".
+
+[23:3] For some one will say, if this is said in the prophet, because of the steadfastness of those who have love, and are incapable of being offended, for "love beareth all things, believeth all things, hopeth all things, endureth all things, love never faileth," how did the Lord Himself, "who upholdeth all that fall, and raiseth up all that be bowed down," say to Peter, "Thou art a stumbling-block unto Me"? But it must be said that not only the Saviour, but also he who is perfected in love, cannot be offended.
+
+[23:4] But, so far as it depends on himself, he who says or does such things is a stumbling-block even to him who will not be offended; unless perhaps Jesus calls the disciple who sinned a stumbling-block even to Himself, as much more than Paul He would have said from love, "Who is weak, and I am not weak? Who is made to stumble, and I burn not?" In harmony with which we may put, "Who is made to stumble, and I am not made to stumble?" But if Peter, at that time because of the saying, "God be propitious to Thee, Lord, this shall not be unto Thee," was called a stumbling-block by Jesus, as not minding the things of God in what he said but the things of men, what is to be said about all those who profess to be made disciples of Jesus, but do not mind the things of God, and do not look to things unseen and eternal, but mind the things of man, and look to things seen and temporal, but that such still more would be stigmatized by Jesus as a stumbling-block to Him, and because stumbling-blocks to Him, as stumbling-blocks to His brethren also? As in regard to them He says, "I was thirsty and ye gave Me no drink," etc.
+
+[23:5] , so also He might say, "When I was running ye caused Me to stumble".
+
+[23:6] Let us not therefore suppose that it is a trivial sin to mind the things of men, since we ought in everything to mind the things of God.
+
+[23:7] And it will be appropriate also to say this to every one that has fallen away from the doctrines of God and the words of the church and a true mind; as, for example, to him who minds as true the teaching of Basilides, or Valentinus, or Marcion, or any one of those who teach the things of men as the things of God.
+
+[24:1] Self-Denial and Cross-Bearing.
+
+[24:2] "Then Jesus said to His disciples, If any man wills to follow after Me," etc.
+
+[24:3] He shows by these words that, to will to come after Jesus and to follow Him, springs from no ordinary manly courage, and that no one who has not denied himself can come after Jesus.
+
+[24:4] And the man denies himself who wipes out by a striking revolution his own former life which had been spent in wickedness; as by way of illustration he who was once licentious denies his licentious self, having become self-controlled even abidingly.
+
+[24:5] But it is probable that some one may put the objection, whether as he denied himself so he also confesses himself, when he denied himself, the unjust, and confesses himself, the righteous one.
+
+[24:6] But, if Christ is righteousness, he who has received righteousness confesses not himself but Christ; so also he who has found wisdom, by the very possession of wisdom, confesses Christ.
+
+[24:7] And such a one indeed as, "with the heart believes unto righteousness, and with the mouth maketh confession unto salvation," and bears testimony to the works of Christ, as making confession by all these things of Christ before men, will be confessed by Him before His Father in heaven.
+
+[24:8] So also he who has not denied himself but denied the Christ will experience the saying, "I also will deny him".
+
+[24:9] On this account let every thought and every purpose and every word and every action become a denial of ourselves, but a testimony about Christ and in Christ; for I am persuaded that every action of the perfect man is a testimony to Christ Jesus, and that abstinence from every sin is a denial of self, leading him after Christ.
+
+[24:10] And such an one is crucified with Christ, and taking up his own cross follows Him who for our sakes bears His own cross, according to that which is said in John: "They took Jesus therefore and put it on Him," etc.
+
+[24:11] , down to the words, "Where they crucified Him".
+
+[24:12] But the Jesus according to John, so to speak, bears the cross for Himself, and bearing it went out; but the Jesus according to Matthew and Mark and Luke, does not bear it for Himself, for Simon of Cyrene bears it.
+
+[24:13] And perhaps this man refers to us, who because of Jesus take up the cross of Jesus, but Jesus Himself takes it upon Himself; for there are, as it were, two conceptions of the cross, the one which Simon of Cyrene bears, and the other which Jesus Himself bears for Himself.
+
+[25:1] Reference to the Saying of Paul About Crucifixion with Christ.
+
+[25:2] Moreover in regard to the saying, "Let him deny himself," the following saying of Paul who denied himself seems appropriate, "Yet I live, and yet no longer I but Christ liveth in me;" for the expression, "I live, yet no longer I," was the voice of one denying himself, as of one who had laid aside his own life and taken on himself the Christ, in order that He might live in him as Righteousness, and as Wisdom, and as Sanctification, and as our Peace, and as the Power of God, who worketh all things in him.
+
+[25:3] But further also, attend to this, that while there are many forms of dying, the Son of God was crucified, being hanged on a tree, in order that all who die unto sin may die to it, in no other way than by the way of the cross.
+
+[25:4] Wherefore they will say, "I have been crucified with Christ," and, "Far be it from me to glory save in the cross of the Lord, through which the world has been crucified unto me and I unto the world".
+
+[25:5] For perhaps also each of those who have been crucified with Christ puts off from himself the principalities and the powers, and makes a show of them and triumphs over them in the cross; or rather, Christ does these things in them.
+
+[26:1] The Less of Life; And the Saving of It.
+
+[26:2] "For whosoever would save his own life shall lose it".
+
+[26:3] The first expression is ambiguous; for it may be understood in one way thus.
+
+[26:4] If any one as being a lover of life, and thinking that the present life is good, tends carefully his own life with a view to living in the flesh, being afraid to die, as through death going to lose it, this man, by the very willing to save in this way his own life will lose it, placing it outside of the borders of blessedness.
+
+[26:5] But if any one despising the present life because of my word, which has persuaded him to strive in regard to eternal life even unto death for truth, loses his own life, surrendering it for the sake of piety to that which is commonly called death, this man, as for my sake he has lost his life, will save it rather, and keep it in possession.
+
+[26:6] And according to a second way we might interpret the saying as follows.
+
+[26:7] If any one, who has grasped what salvation really is, wishes to procure the salvation of his own life, let this man having taken farewell of this life, and denied himself and taken up his own cross, and following me, lose his own life to the world; for having lost it for my sake and for the sake of all my teaching, he will gain the end of loss of this kind—salvation.
+
+[27:1] Life Lost to the World is Saved.
+
+[27:2] But at the same time also observe that at the beginning it is said, "Whosoever wills," but afterwards, "Whoso shall lose".
+
+[27:3] If we then wish it to be saved let us lose it to the world, as those who have been crucified with Christ and have for our glorying that which is in the cross of our Lord Jesus Christ, through which the world is to be crucified unto us and we unto the world, that we may gain our end, even the salvation of our lives, which begins from the time when we lose it for the sake of the word.
+
+[27:4] But if we think that the salvation of our life is a blessed thing, with reference to the salvation which is in God and the blessednesses with Him, then any loss of life ought to be a good thing, and, for the sake of Christ must prove to be the prelude to the blessed salvation.
+
+[27:5] It seems to me, therefore, following the analogy of self-denial, according to what has been said, that each ought to lose his own life.
+
+[27:6] Let each one therefore lose his own sinning life, that having lost that which is sinful, he may receive that which is saved by right actions; but a man will in no way be profited if he shall gain the whole world.
+
+[27:7] Now he gains the world, I think, to whom the world is not crucified; and to whom the world is not crucified, to that man shall be the loss of his own life.
+
+[27:8] But when two things are put before us, either by gaining one's life to forfeit the world, or by gaining the world to forfeit one's life, much more desirable is the choice, that we should forfeit the world and gain our life by losing it on account of Christ.
+
+[28:1] The Exchange for One's Life.
+
+[28:2] But the saying, "What shall a man give in exchange for his own life," if spoken by way of interrogation, will seem to be able to indicate that an exchange for his own life is given by the man who after his sins has given up his whole substance, that his property may feed the poor, as if he were going by that to obtain salvation; but, if spoken affirmatively, I think, to indicate that there is not anything in man by the giving of which in exchange for his own life which has been overcome by death, he will ransom it out of its hand.
+
+[28:3] A man, therefore, could not give anything as an exchange for his own life, but God gave an exchange for the life of us all, "the precious blood of Christ Jesus," according as "we were bought with a price," "having been redeemed, not with corruptible things as silver or gold, but with precious blood, as of a lamb without blemish and without spot," even of Christ.
+
+[28:4] And in Isaiah it is said to Israel, "I gave Ethiopia in exchange for thee, and Egypt and Syene for thee; from what time thou hast become honourable before Me thou wast glorified".
+
+[28:5] For the exchange, for example, of the first-born of Israel was the first-born of the Egyptians, and the exchange for Israel was the Egyptians who died in the last plagues that came upon Egypt, and in the drowning which took place after the plagues.
+
+[28:6] But, from these things, let him who is able inquire whether the exchange of the true Israel given by God, "who redeems Israel from all his transgressions," is the true Ethiopia, and, so to speak, spiritual Egypt, and Syene of Egypt; and to inquire with more boldness, perhaps Syene is the exchange for Jerusalem, and Egypt for Judaea, and Ethiopia for those who fear, who are different from Israel, and the house of Levi, and the house of Aaron.
+
+[29:1] The Coming of the Son of Man in Glory.
+
+[29:2] "For the Son of man shall come in the glory of His own Father with His angels".
+
+[29:3] Now, indeed, the Son of man has not come in His glory; "for we saw Him, and He had no form nor beauty; but His form was dishonoured and defective compared with the sons of men; He was a man in affliction and toil, and acquainted with the enduring of sickness, because His face was turned away, He was dishonoured and not esteemed".
+
+[29:4] And it was necessary that He should come in such form that He might bear our sins and suffer pain for us; for it did not become Him in glory to bear our sins and suffer pain for us.
+
+[29:5] But He also comes in glory, having prepared the disciples through that epiphany of His which has no form nor beauty; and, having become as they that they might become as He, "conformed to the image of His glory," since He formerly became conformed to "the body of our humiliation," when He "emptied Himself and took upon Him the form of a servant," He is restored to the image of God and also makes them conformed unto it.
+
+[30:1] The Word Appears in Different Forms; The Time of His Coming in Glory.
+
+[30:2] But if you will understand the differences of the Word which by "the foolishness of preaching" is proclaimed to those who believe, and spoken in wisdom to them that are perfect, you will see in what way the Word has the form of a slave to those who are learning the rudiments, so that they say, "We saw Him and He had no form or beauty".
+
+[30:3] But to the perfect He comes "in the glory of His own Father," who might say, "and we beheld His glory, the glory as of the only-begotten from the Father, full of grace and truth".
+
+[30:4] For indeed to the perfect appears the glory of the Word, and the only-begotten of God His Father, and the fulness of grace and likewise of truth, which that man cannot perceive who requires the "foolishness of the preaching," in order to believe.
+
+[30:5] But "the Son of man shall come in the glory of His own Father" not alone, but "with His own angels".
+
+[30:6] And if you can conceive of all those who are fellow-helpers in the glory of the Word, and in the revelation of the Wisdom which is Christ, coming along with Him, you will see in what way the Son of man comes in the glory of His own Father with His own angels.
+
+[30:7] And consider whether you can in this connection say that the prophets who formerly suffered in virtue of their word having "no form or beauty" had an analogous position to the Word who had "no form or beauty".
+
+[30:8] And, as the Son of man comes in the glory of His own Father, so the angels, who are the words in the prophets, are present with Him preserving the measure of their own glory.
+
+[30:9] But when the Word comes in such form with His own angels, He will give to each a part of His own glory and of the brightness of His own angels, according to the action of each.
+
+[30:10] But we say these things not rejecting even the second coming of the Son of God understood in its simpler form.
+
+[30:11] But when shall these things happen? Shall it be when that apostolic oracle is fulfilled which says, "For we must all stand before the judgment-seat of Christ, that each one may receive the things done in the body, according to what he has done, whether it be good or bad?" But if He will render to each according to his deed, not the good deed only, nor the evil apart from the good, it is manifest that He will render to each according to every evil, and according to every good, deed.
+
+[30:12] But I suppose—in this also following the Apostle, but comparing also the sayings of Ezekiel, in which the sins of him who is a perfect convert are wiped out, and the former uprightness of him who has utterly fallen away is not held of account—that in the case of him who is perfected, and has altogether laid aside wickedness, the sins are wiped out, but that, in the case of him who has altogether revolted from piety, if anything good was formerly done by him, it is not taken into account.
+
+[30:13] But to us, who occupy a middle position between the perfect man and the apostate, when we stand before the judgment-seat of Christ, there is rendered what we have done, whether good or bad; for we have not been so pure that our evil deeds are not at all imputed unto us, nor have we fallen away to such an extent that our better actions are forgotten.
+
+[31:1] The Simpler Interpretation of the Promise About Not Tasting of Death.
+
+[31:2] "Verily I say unto you there be some of them that stand here that shall not taste of death".
+
+[31:3] Some refer these things to the going up—six days after, or, as Luke says, eight days—of the three disciples into the high mountain with Jesus apart; and those who adopt this interpretation say that Peter and the remaining two did not taste of death before they saw the Son of man coming in His own kingdom and in His own glory.
+
+[31:4] For when they saw Jesus transfigured before them so that "His face shone," etc.
+
+[31:5] , "they saw the kingdom of God coming with power".
+
+[31:6] For even as some spear-bearers stand around a king, so Moses and Elijah appeared to those who had gone up into the mountains, talking with Jesus.
+
+[31:7] But it is worth while considering whether the sitting on the right hand and on the left hand of the Saviour in His kingdom refers to them, so that the words, "But for whom it is prepared," were spoken because of them.
+
+[31:8] Now this interpretation about the three Apostles not tasting of death until they have seen Jesus transfigured, is adapted to those who are designated by Peter as "new-born babes longing for the reasonable milk which is without guile," to whom Paul says, "I have fed you with milk, not with meat," etc.
+
+[31:9] Now, too, every interpretation of a text which is able to build up those who cannot receive greater truths might reasonably be called milk, flowing from the holy ground of the Scriptures, which flows with milk and honey.
+
+[31:10] But he who has been weaned, like Isaac, worthy of the good cheer and reception which Abraham gave at the weaning of his son, would seek here and in every Scripture food which is different, I think, from that which is meat, indeed, but is not solid food, and from what are figuratively called herbs, which are food to one who has been weaned and is not yet strong but weak, according to the saying, "He that is weak eateth herbs".
+
+[31:11] In like manner also he who has been weaned, like Samuel, and dedicated by his mother to God,—she was Hannah, which is, by interpretation, grace,—would be also a son of grace, seeking, like one nurtured in the temple, flesh of God, the holy food of those who are at once perfect and priests.
+
+[32:1] Standing by the Saviour.
+
+[32:2] The reflections in regard to the passage before us that occur to us at the present time are these: Some were standing where Jesus was, having the footsteps of the soul firmly planted with Jesus, and the standing of their feet was akin to the standing of which Moses said in the passage, "And I stood on the mountain forty days and forty nights," who was deemed worthy to have it said to him by God who asked him to stand by Him, "But stand thou here with Me".
+
+[32:3] Those who really stand by Jesus—that is, by the Word of God—do not all stand equally; for among those who stand by Jesus are differences from each other.
+
+[32:4] Wherefore, not all who stand by the Saviour, but some of them as standing better, do not taste of death until they shall have seen the Word who dwelt with men, and on that account called Son of man, coming in His own kingdom; for Jesus does not always come in His own kingdom when He comes, since to the newly initiated He is such that they might say, beholding the Word Himself not glorious nor great, but inferior to many among them, "We saw Him, and He had no form or beauty, but His form was dishonoured, defective compared with all the sons of men".
+
+[32:5] And these things will be said by those who beheld His glory in connection with their own former times, when at first the Word as understood in the synagogue had no form nor beauty to them.
+
+[32:6] To the Word, therefore, who has assumed most manifestly the power above all words, there belongs a royal dignity which is visible to some of those who stand by Jesus, when they have been able to follow Him as He goes before them and ascends to the lofty mountain of His own manifestation.
+
+[32:7] And of this honour some of those who stand by Jesus are deemed worthy if they be either a Peter against whom the gates of Hades do not prevail, or the sons of thunder, and are begotten of the mighty voice of God who thunders and cries aloud from heaven great things to those who have ears and are wise.
+
+[32:8] Such at least do not taste death.
+
+[33:1] Interpretation of "Tasting of Death".
+
+[33:2] But we must seek to understand what is meant by "tasting of death".
+
+[33:3] And He is life who says, "I am the life," and this life assuredly has been hidden with Christ in God; and.
+
+[33:4] "when Christ our life shall be manifested, then along with Him" shall be manifested those who are worthy of being manifested with Him in glory.
+
+[33:5] But the enemy of this life, who is also the last enemy of all His enemies that shall be destroyed, is death, of which the soul that sinneth dies, having the opposite disposition to that which takes place in the soul that lives uprightly, and in consequence of living uprightly lives.
+
+[33:6] And when it is said in the law, "I have placed life before thy face," the Scripture says this about Him who said, "I am the Life," and about His enemy, death; the one or other of which each of us by his deeds is always choosing.
+
+[33:7] And when we sin with life before our face, the curse is fulfilled against us which says, "And thy life shall be hanging up before thee," etc.
+
+[33:8] , down to the words, "and for the sights of thine eyes which thou shalt see".
+
+[33:9] As, therefore, the Life is also the living bread which came down from heaven and gave life to the world, so His enemy death is dead bread.
+
+[33:10] Now every rational soul is fed either on living bread or dead bread, by the opinions good or bad which it receives.
+
+[33:11] As then in the case of more common foods it is the practice at one time only to taste them, and at another to eat of them more largely; so also, in the case of these loaves, one eats insufficiently only tasting them, but another is satiated,—he that is good or is on the way to being good with the living bread which came down from heaven, but he that is wicked with the dead bread, which is death; and some perhaps sparingly, and sinning a little, only taste of death; but those who have attained to virtue do not even taste of it, but are always fed on the living bread.
+
+[33:12] It naturally followed then in the case of Peter, against whom the gates of Hades will not prevail, that he did not taste of death, since any one tastes of death and eats death at the time when the gates of Hades prevail against him; and one eats or tastes of death in proportion as the gates of Hades to a greater or less extent, more or fewer in number, prevail against him.
+
+[33:13] But also for the sons of thunder who were begotten of thunder, which is a heavenly thing, it was impossible to taste of death, which is extremely far removed from thunder, their mother.
+
+[33:14] But these things the Word prophesies to those who shall be perfected, and who by standing with the Word advanced so far that they did not taste of death, until they saw the manifestation and the glory and the kingdom and the excellency of the Word of God in virtue of which He excels every word, which by an appearance of truth draws away and drags about those who are not able to break through the bonds of distraction, and go up to the height of the excellency of the Word of truth.
+
+[34:1] Meaning of "Until".
+
+[34:2] No Limitation of Promise.
+
+[34:3] But since some one may think that the promise of the Saviour prescribes a limit of time to their not tasting of death, namely, that they will not taste of death "until" they see the Son of man coming in His own kingdom, but after this will taste of it, let us show that according to the scriptural usage the word "until" signifies that the time concerning the thing signified is pressing, but is not so defined that after the "until," that which is contrary to the thing signified should at all take place.
+
+[34:4] Now, the Saviour says to the eleven disciples when He rose from the dead, this among other things, "Lo, I am with you all the days, even until the consummation of the age".
+
+[34:5] When He said this, did He promise that He was going to be with them until the consummation of the age, but that after the consummation of the age, when another age was at hand, which is "called the age to come," He would be no longer with them?—so that according to this, the condition of the disciples would be better before the consummation of the age than after the consummation of the age? But I do not think that any one will dare to say, that after the consummation of the age the Son of God will be no longer with the disciples, because the expression declares that He will be with them for so long, until the consummation of the age is at hand; for it is clear that the matter under inquiry was, whether the Son of God was forthwith going to be with His disciples before the age to come and the hoped for promises of God which were given as a recompense.
+
+[34:6] But there might have been a question—it being granted that He would be with them—whether sometimes He was present with them, and sometimes not present.
+
+[34:7] Wherefore setting us free from the suspicion that might have arisen from doubt, He declared that now and even all the days He would be with the disciples, and that He would not leave those who had become His disciples until the consummation of the age; (because He said "all the days" He did not deny that by night, when the sun set, He would be present with them.
+
+[34:8] ) But if such is the force of the words, "until the consummation of the age," plainly we shall not be compelled to admit that those who see the Son of man coming in His own kingdom shall taste of death, after being deemed worthy of beholding Him in such guise.
+
+[34:9] But as in the case of the passage we brought forward, the urgent necessity was to teach us that "until the consummation of the age" He would not leave us but be with us all the days; so also in this case I think that it is clear to those who know how to look at the logical coherence of things that He who has seen once for all "the Son of man coming in His own kingdom," and seen Him "in His own glory," and seen "the kingdom of God come with power," could not possibly taste of death after the contemplation of things so good and great.
+
+[34:10] But apart from the word of the promise of Jesus, we have conjectured not without reason that we would taste of death, so long as we were not yet held worthy to see "the kingdom of God come with power," and "the Son of man coming in His own glory and in His own kingdom".
+
+[35:1] Scriptural References to Death.
+
+[35:2] But since here it is written in the three Evangelists, "They shall not taste of death," but in other writers different things are written concerning death, it may not be out of place to bring forward and examine these passages along with the "taste".
+
+[35:3] In the Psalms, then, it is said, "What man is he that shall live and not see death?" And again, in another place, "Let death come upon them and let them go down into Hades alive;" but in one of the prophets, "Death becoming mighty has swallowed them up;" and in the Apocalypse, "Death and Hades follow some".
+
+[35:4] Now in these passages it appears to me that it is one thing to taste of death, but another thing to see death, and another thing for it to come upon some, and that a fourth thing, different from the aforesaid, is signified by the words, "Death becoming mighty has swallowed them up," and a fifth thing, different from these, by the words, Death and Hades follow them".
+
+[35:5] And if you were to collect them, you would perhaps find also other differences than those which we have mentioned, by a comparison of which with one another and right investigation, you would find the things signified in each place.
+
+[35:6] But here I inquire whether it is a less evil to see death, but a greater evil than seeing to taste of it, but still worse than this that death should follow any one, and not only follow him, but also now come upon him and seize him whom it formerly followed; but to be swallowed up seems to be more grievous than all the things spoken of.
+
+[35:7] But giving heed to what is said, and to the differences of sins committed, you will not I think, be slow to admit that things of this kind were intended by the Spirit who caused these things to be written in the oracles of God.
+
+[35:8] But, if it be necessary to give an exposition clearer than what has been said of what is signified by seeing the Son of man coming in His own kingdom, or in His own glory, and what is signified by seeing the kingdom of God come with power, these things—whether those that are made to shine in our hearts, or that are found by those who seek, or that enter gradually into our thoughts,—let each one judge as he wills—we will set forth.
+
+[35:9] He who beholds and apprehends the excellency of the Word, as he breaks down and refutes all the plausible forms of things which are truly lies but profess to be truths, sees the Son of man, (according to the word of John, "the Word of God,") coming in His own kingdom; but if such an one were to behold the Word, not only breaking down plausible oppositions, but also representing His own truths with perfect clearness, he would behold His glory in addition to His kingdom.
+
+[35:10] And such an one indeed would see in Him the kingdom of God come with power; and he would see this, as one who is no longer now under the reign of "sin which reigns in the mortal body of those who sin," but is ever under the orders of the king, who is God of all, whose kingdom is indeed potentially "within us," but actually, and, as Mark has called it, "with power," and not at all in weakness within the perfect alone.
+
+[35:11] These things, then, Jesus promised to the disciples who were standing, prophesying not about all of them, but about some.
+
+[36:1] Concerning the Transfiguration of the Saviour.
+
+[36:2] "Now after six days," according to Matthew and Mark, "He taketh with him Peter and James and John his brother, and leads them up into a high mountain apart, and was transfigured before them".
+
+[36:3] Now, also, let it be granted, before the exposition that occurs to us in relation to these things, that this took place long ago, and according to the letter.
+
+[36:4] But it seems to me, that those who are led up by Jesus into the high mountain, and are deemed worthy of beholding His transfiguration apart, are not without purpose led up six days after the discourses previously spoken.
+
+[36:5] For since in six days—the perfect number—the whole world,—this perfect work of art,—was made, on this account I think that he who transcends all the things of the world by beholding no longer the things which are seen, for they are temporal, but already the things which not seen, and only the things which are not seen, because that they are eternal, is represented in the words, "After six days Jesus took up with Him" certain persons.
+
+[36:6] If therefore any one of us wishes to be taken by Jesus, and led up by Him into the high mountain, and be deemed worthy of beholding His transfiguration apart, let him pass beyond the six days, because he no longer beholds the things which are seen, nor longer loves the world, nor the things in the world, nor lusts after any worldly lust, which is the lust of bodies, and of the riches of the body, and of the glory which is after the flesh, and whatever things whose nature it is to distract and drag away the soul from the things which are better and diviner, and bring it down and fix it fast to the deceit of this age, in wealth and glory, and the rest of the lusts which are the foes of truth.
+
+[36:7] For when he has passed through the six days, as we have said, he will keep a new Sabbath, rejoicing in the lofty mountain, because he sees Jesus transfigured before him; for the Word has different forms, as He appears to each as is expedient for the beholder, and is manifested to no one beyond the capacity of the beholder.
+
+[37:1] Force of the Words "Before Them".
+
+[37:2] But you will ask if, when He was transfigured before those who were led up by Him into the lofty mountain, He appeared to them in the form of God, in which He formerly was, so that He had to those below the form of a servant, but to those who had followed Him after the six days to the lofty mountain, He had not that form, but the form of God.
+
+[37:3] But hear these things, if you can, at the same time giving heed spiritually, that it is not said simply, "He was transfigured," but with a certain necessary addition, which Matthew and Mark have recorded; for, according to both, "He was transfigured before them".
+
+[37:4] And according to this, indeed, you will say that it is possible for Jesus to be transfigured before some with this transfiguration, but before others at the same time not to be transfigured.
+
+[37:5] But if you wish to see the transfiguration of Jesus before those who went up into the lofty mountain apart long with Him, behold with me the Jesus in the Gospels, as more simply apprehended, and as one might say, known "according to the flesh," by those who do not go up, through works and words which are uplifting, to the lofty mountain of wisdom, but known no longer after the flesh, but known in His divinity by means of all the Gospels, and beholden in the form of God according to their knowledge; for before them is Jesus transfigured, and not to any one of those below.
+
+[37:6] But when He is transfigured, His face also shines as the sun, that He may be manifested to the children of light, who have put off the works of darkness, and put on the armour of light, and are no longer the children of darkness or night, but have become the sons of day, and walk honestly as in the day; and being manifested, He will shine unto them not simply as the sun, but as demonstrated to be the sun of righteousness.
+
+[38:1] The Garments White as the Light.
+
+[38:2] And not only is He transfigured before such disciples, nor does He only add to the transfiguration the shining of His face as the sun; but further also to those who were led up by Him into the high mountain apart, His garments appear white as the light.
+
+[38:3] But the garments of Jesus are the expressions and letters of the Gospels with which He invested Himself.
+
+[38:4] But I think that even the words in the Apostles which indicate the truths concerning Him are garments of Jesus, which become white to those who go up into the high mountain along with Jesus.
+
+[38:5] But since there are differences also of things white, His garments become white as the brightest and purest of all white things; and that is light.
+
+[38:6] When therefore you see any one not only with a thorough understanding of the theology concerning Jesus, but also making clear every expression of the Gospels, do not hesitate to say that to Him the garments of Jesus have become white as the light.
+
+[38:7] But when the Son of God in His transfiguration is so understood and beheld, that His face is a sun, and His garments white as the light, straightway there will appear to him who beholds Jesus in such form Moses,—the law—and Elijah,—in the way of synecdoche, not one prophet only, but all the prophets—holding converse with Jesus; for such is the force of the words "talking with Him;" but, according to Luke, "Moses and Elijah appeared in glory," down to the words, "in Jerusalem".
+
+[38:8] But if any one sees the glory of Moses, having understood the spiritual law as a discourse in harmony with Jesus, and the wisdom in the prophets which is hidden in a mystery, he sees Moses and Elijah in glory when he sees them with Jesus.
+
+[39:1] Jesus Was Transfigured—"As He Was Praying".
+
+[39:2] Then, since it will be necessary to expound the passage as given in Mark, "And as He was praying He was transfigured before them," we must say that perhaps it is possible especially to see the Word transfigured before us if we have done the things aforesaid, and gone up into the mountain, and seen the absolute Word holding converse with the Father, and praying to Him for such things as the true High-Priest might pray for to the only true God.
+
+[39:3] But in order that He may thus hold fellowship with God and pray to the Father, He goes up into the mountain; and then, according to Mark, "His garments become white and glistening as the light, so as no fuller on earth can whiten them".
+
+[39:4] And perhaps the fullers upon the earth are the wise men of this world who are careful about the diction which they consider to be bright and pure, so that even their base thoughts and false dogmas seem to be beautified by their fulling, so to speak; but He who shows His own garments glistering to those who have ascended and brighter than their fulling can make them, is the Word, who exhibits in the expressions of the Scriptures which are despised by many the glistering of the thoughts, when the raiment of Jesus, according to Luke, becomes white and dazzling.
+
+[40:1] Discussion of the Saying of Peter.
+
+[40:2] But let us next see what was the thought of Peter when he answered and said to Jesus, "Lord, it is good for us to be here; let us make three tabernacles,"etc.
+
+[40:3] And on this account these words call for very special examination, because Mark, in his own person, has added, "For he wist not what to answer," but Luke, "not knowing," he says, "what he spake".
+
+[40:4] You will consider, therefore, if he spake these things as in a trance, being filled with the spirit which moved him to say these things, which could not be a Holy Spirit; for John taught in the Gospel that, before the resurrection of the Saviour, no one had the Holy Spirit, saying, "For the Spirit was not yet, because Jesus was not yet glorified".
+
+[40:5] But if the Spirit was not yet, and he, not knowing what he said, spoke under the influence of some spirit, the spirit which caused these things to be said was some one of the spirits which had not yet been triumphed over in the cross, nor made a show of along with them, about whom it is written, "Having put off from Himself the principalities and the powers, He made a show of them openly, triumphing over them in the cross".
+
+[40:6] But this spirit was perhaps that which is called a stumbling-block by Jesus, and which is spoken of as Satan in the passage, "Get thee behind Me, Satan; thou art a stumbling-block unto me".
+
+[40:7] But I know well that such things will offend many who meet with them, because they think that it is opposed to sound reason that he should be spoken ill of who a little before had been pronounced blessed by Jesus, on the ground that the Father in heaven had revealed to him the things concerning the Saviour, to-wit, that He was verily Jesus, and the Christ, and the Son of the living God.
+
+[40:8] But let such an one attend more exactly to the statements about Peter and the rest of the Apostles, how even they made requests as if they were yet alien from Him who was to redeem them from the enemy and purchase them with His own precious blood; or let them also, who will have it that even before the passion of Jesus the Apostles were perfect, tell us whence it came about that "Peter and they that were with him were heavy with sleep".
+
+[40:9] But to anticipate something else of what follows and apply it to the subject in hand, I would raise in turn these questions,—whether it is possible for any one to find occasion of stumbling in Jesus apart from the working of the devil who caused him to stumble; and whether it is possible for any one to deny Jesus, and that in presence of a little maid and a doorkeeper and men most worthless, unless a spirit had been with him in his denial hostile to the Spirit which is given and the wisdom, (which is given) to those who are assisted by God to make confession, according to a certain desert of theirs.
+
+[40:10] But he who has learned to refer the roots of sin to the father of sin, the devil, will not say that apart from him either the Apostles were caused to stumble, or that Peter denied Christ thrice before that well-known cock-crowing.
+
+[40:11] But if this be so, consider whether perhaps with a view to make Jesus stumble, so far as was in his power, and to turn Him aside from the dispensation whose characteristic was suffering that brought salvation to men, which He undertook with great willingness, seeking to effect these things which seemed to contribute to this end, he himself also here wishes as it were, by deceit, to draw away Jesus, as if calling upon Him no longer to condescend to men, and come to them, and undergo death for them, but to abide on the high mountain with Moses and Elijah.
+
+[40:12] But he promised also to build three tabernacles, one apart for Jesus, and one for Moses, and one for Elijah, as if one tabernacle would not have sufficed for the three, if it had been necessary for them to be in tabernacles and in the high mountain.
+
+[40:13] And perhaps also in this he acted with evil intent, when he incited him "who did not know what he said," not desiring that Jesus and Moses and Elijah should be together, but desiring to separate them from one another, under pretext of the three tabernacles".
+
+[40:14] And likewise it was a lie, "It is good for us to be here;" for if it had been a good thing they would also have remained there.
+
+[40:15] But if it were a lie, you will seek to know who caused the lie to be spoken; and especially since according to John, "When he speaketh a lie he speaketh of his own; for he is a liar and the father thereof;" and as there is no truth apart from the working of Him who says, "I am the Truth," so there is no lie apart from him who is the enemy of truth.
+
+[40:16] These contrary qualities, accordingly, were still in Peter truth and falsehood; and from truth he said, "Thou art the Christ, the son of the living God," but from falsehood he said, "May God be propitious to Thee, Lord, this shall not be unto Thee," and also, "It is good for us to be here".
+
+[40:17] But if any one will not admit that Peter spoke these things from any evil inspiration, but that his words were of his own mere choice, and it is demanded of him how he will interpret, "not knowing what he said," and, "for he did not know what to answer," he will say, that in the former case Peter held it to be a shameful thing and unworthy of Jesus to admit that the Son of the living God, the Christ, whom already the Father had revealed to him, should be killed; and in the present case that, as having seen the two forms of Jesus and the one at the transfiguration which was much more excellent, being well pleased with that, he said that it was good to make their sojourning in that mountain, in order that he himself and those with him might rejoice as they beheld the transfiguration of Jesus and His face shining as the sun, and His garments white as the light, and, in addition to these things, might always behold in glory those whom they had once seen in glory, Moses and Elijah; and that they might rejoice at the things which they might hear, as they talked and held intercourse with each other, Moses and Elijah with Jesus, and Jesus with them.
+
+[41:1] Figurative Interpretation of the Same.
+
+[41:2] But since we have not yet spent our energy in interpreting the things in the place figuratively, but have said these things by way of searching into the mere letter, let us in conformity with these things, consider whether the aforesaid Peter and the sons of thunder who were taken up into the mountain of the dogmas of the truth, and who saw the transfiguration of Jesus and of Moses and Elijah, who appeared in glory with Him, might wish to make tabernacles in themselves for the Word of God who was going to dwell in them, and for His law which had been beholden in glory, and for the prophecy which spake of the decease of Jesus, which He was about to accomplish; and Peter, as one loving the contemplative life, and having preferred that which was delightsome in it to the life among the crowd with its turmoil, said, with the design of benefiting those who desired it, "It is good for us to be here".
+
+[41:3] But since "love seeketh not its own," Jesus did not do that which Peter thought good; wherefore He descended from the mountain to those who were not able to ascend to it and behold His transfiguration, that they might behold Him in such form as they were able to see Him.
+
+[41:4] It is, therefore, the part of a righteous man who possesses "the love which seeketh not its own" to be free from all, but to bring himself under bondage to all those below that He might gain the more of them.
+
+[41:5] But some one, with reference to what we have alleged about the trance and the working of an evil spirit in Peter, concerning the words, "not knowing what he said," not accepting that interpretation of ours, may say that there were certain mentioned by Paul "desiring to be teachers of the law," who do not know about what they speak, but who, though they do not clearly expound the nature of what is said, nor understand their meaning, make confident affirmations of things which they do not know.
+
+[41:6] Of such a nature was the affection of Peter also, for not apprehending what was good with reference to the dispensation of Jesus and of those who appeared in the mountain,—Moses and Elijah,—he says, "It is good for us to be here," etc.
+
+[41:7] , "not knowing what he said," "for he wist not what to say," for if "a wise man will understand the things from his own mouth, and carries prudence in his lips," he who is not so does not understand the things from his own mouth, nor comprehend the nature of the things spoken by him.
+
+[42:1] The Meaning of the "Bright Cloud".
+
+[42:2] Next to these come the words, "While He was yet speaking, behold, also, a bright cloud overshadowed them," etc.
+
+[42:3] Now, I think that God, wishing to dissuade Peter from making three tabernacles, under which so far as it depended on his choice he was going to dwell, shows a tabernacle better, so to speak, and much more excellent, the cloud.
+
+[42:4] For since it is the function of a tabernacle to overshadow him who is in it, and to shelter him, and the bright cloud overshadowed them, God made, as it were, a diviner tabernacle, inasmuch as it was bright, that it might be to them a pattern of the resurrection to come; for a bright cloud overshadows the just, who are at once protected and illuminated and shone upon by it.
+
+[42:5] But what might the bright cloud, which overshadows the just, be? Is it, perhaps, the fatherly power, from which comes the voice of the Father bearing testimony to the Son as beloved and well-pleasing, and exhorting those who were under its shadow to hear Him and no other one? But as He speaks of old, so also always does He speak through what He wills.
+
+[42:6] And perhaps, too, the Holy Spirit is the bright cloud which overshadows the just, and prophesies of the things of God, who works in it, and says, "This is My beloved Son in whom I am well-pleased;" but I would venture also to say that our Saviour is a bright cloud.
+
+[42:7] When, therefore, Peter said, "Let us make here three tabernacles,"…one from the Father Himself, and from the Son, and one from the Holy Spirit.
+
+[42:8] For a bright cloud of the Father, Son and Holy Spirit overshadows the genuine disciples of Jesus; or a cloud overshadows the Gospel and the law and the prophets, which is bright to him who is able to see the light of it in the Gospel, and the law, and the prophets.
+
+[42:9] But perhaps the voice from the cloud says to Moses and Elijah, "This is My beloved Son in whom I am well-pleased, hear Him," as they were desirous to see the Son of man, and to hear Him, and to behold Him as He was in glory.
+
+[42:10] And perhaps it teaches the disciples that He who was, in a literal sense, the Son of God, and His beloved in whom He was well-pleased, whom it behoved them especially to hear, was He who was then beheld, and transfigured, and whose face shone as the sun, and who was clothed with garments white as the light.
+
+[43:1] Relation of Moses and Elijah to Jesus.
+
+[43:2] The Injunction of Silence.
+
+[43:3] But after these things it is written that, when they heard the voice from the cloud bearing testimony to the Son, the three Apostles, not being able to bear the glory of the voice and power resting upon it, "fell on their face," and besought God; for they were sore afraid at the supernatural sight, and the things which were spoken from the sight.
+
+[43:4] But consider if you can also say this with reference to the details in the passage, that the disciples, having understood that the Son of God had been holding conference with Moses, and that it was He who said, "A man shall not see My face and live," and taking further the testimony of God about Him, as not being able to endure the radiance of the Word, humbled themselves under the mighty hand of God; but, after the touch of the Word, lifting up their eyes they saw Jesus only and no other.
+
+[43:5] Moses, the law, and Elijah, the prophet, became one only with the Gospel of Jesus; and not, as they were formerly three, did they so abide, but the three became one.
+
+[43:6] But consider these things with me in relation to mystical matters; for in regard to the bare meaning of the letter, Moses and Elijah, having appeared in glory and talked with Jesus, went away to the place from which they had come, perhaps to communicate the words which Jesus spake with them, to those who were to be benefited by Him, almost immediately, namely, at the time of the passion, when many bodies of the saints that had fallen asleep, their tombs being opened, were to go to the city which is truly holy—not the Jerusalem which Jesus wept over—and there appear unto many.
+
+[43:7] But after the dispensation in the mountain, when the disciples were coming down from the mountain in order that, when they had come to the multitude, they might serve the Son of God concerning the salvation of the people, Jesus commanded the disciples saying, "Tell the vision to no man until the Son of man rise from the dead".
+
+[43:8] But that saying, "Tell the vision to no man," is like that which was investigated in the passage above, when "He enjoined the disciples to tell no man that He was the Christ".
+
+[43:9] Wherefore the things that were said at that passage may be useful to us also for the passage before us; since Jesus wishes also, in accordance with these, that the things of His glory should not be spoken of, before His glory after the passion; for those who heard, and in particular the multitudes, would have been injured when they saw Him crucified, who had been so glorified.
+
+[43:10] Wherefore since His being glorified in the resurrection was akin to His transfiguration, and to the vision of His face as the sun, on this account He wishes that these things should then be spoken of by the Apostles, when He rose from the dead.
+

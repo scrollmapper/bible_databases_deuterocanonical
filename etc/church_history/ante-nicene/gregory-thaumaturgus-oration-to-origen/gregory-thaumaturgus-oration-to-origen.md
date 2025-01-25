@@ -1,0 +1,638 @@
+# Gregory Thaumaturgus: Oration to Origen
+
+[1:1] Oration to Origen: Argument I.
+
+[1:2] —For Eight Years Gregory Has Given Up the Practice of Oratory, Being Busied with the Study Chiefly of Roman Law and the Latin Language.
+
+[1:3] An excellent thing has silence proved itself in many another person on many an occasion, and at present it befits myself, too, most especially, who with or without purpose may keep the door of my lips, and feel constrained to be silent.
+
+[1:4] For I am unpractised and unskilled in those beautiful and elegant addresses which are spoken or composed in a regular and unbroken train, in select and well-chosen phrases and words; and it may be that I am less apt by nature to cultivate successfully this graceful and truly Grecian art.
+
+[1:5] Besides, it is now eight years since I chanced myself to utter or compose any speech, whether long or short; neither in that period have I heard any other compose or utter anything in private, or deliver in public any laudatory or controversial orations, with the exception of those admirable men who have embraced the noble study of philosophy, and who care less for beauty of language and elegance of expression.
+
+[1:6] For, attaching only a secondary importance to the words, they aim, with all exactness, at investigating and making known the things themselves, precisely as they are severally constituted.
+
+[1:7] Not indeed, in my opinion, that they do not desire, but rather that they do greatly desire, to clothe the noble and accurate results of their thinking in noble and comely language.
+
+[1:8] Yet it may be that they are not able so lightly to put forth this sacred and godlike power (faculty) in the exercise of its own proper conceptions, and at the same time to practise a mode of discourse eloquent in its terms, and thus to comprehend in one and the same mind—and that, too, this little mind of man—two accomplishments, which are the gifts of two distinct persons, and which are, in truth, most contrary to each other.
+
+[1:9] For silence is indeed the friend and helpmeet of thought and invention.
+
+[1:10] But if one aims at readiness of speech and beauty of discourse, he will get at them by no other discipline than the study of words, and their constant practice.
+
+[1:11] Moreover, another branch of learning occupies my mind completely, and the mouth binds the tongue if I should desire to make any speech, however brief, with the voice of the Greeks; I refer to those admirable laws of our sages by which the affairs of all the subjects of the Roman Empire are now directed, and which are neither composed nor learnt without difficulty.
+
+[1:12] And these are wise and exact in themselves, and manifold and admirable, and, in a word, most thoroughly Grecian; and they are expressed and committed to us in the Roman tongue, which is a wonderful and magnificent sort of language, and one very aptly conformable to royal authority, but still difficult to me.
+
+[1:13] Nor could it be otherwise with me, even though I might say that it was my desire that it should be.
+
+[1:14] And as our words are nothing else than a kind of imagery of the dispositions of our mind, we should allow those who have the gift of speech, like some good artists alike skilled to the utmost in their art and liberally furnished in the matter of colours, to possess the liberty of painting their word-pictures, not simply of a uniform complexion, but also of various descriptions and of richest beauty in the abundant mixture of flowers, without let or hindrance.
+
+[2:1] Argument II.
+
+[2:2] —He Essays to Speak of the Well-Nigh Divine Endowments of Origen in His Presence, into Whose Hands He Avows Himself to Have Been Led in a Way Beyond All His Expectation.
+
+[2:3] But we, like any of the poor, unfurnished with these varied specifics—whether as never having been possessed of them, or, it may be, as having lost them—are under the necessity of using, as it were, only charcoal and tiles, that is to say, those rude and common words and phrases; and by means of these, to the best of our ability, we represent the native dispositions of our mind, expressing them in such language as is at our service, and endeavouring to exhibit the impressions of the figures of our mind, if not clearly or ornately, yet at least with the faithfulness of a charcoal picture, welcoming gladly any graceful and eloquent expression which may present itself from any quarter, although we make little of such.
+
+[2:4] But, furthermore, there is a third circumstance which hinders and dissuades me from this attempt, and which holds me back much more even than the others, and recommends me to keep silence by all means,—I allude to the subject itself, which made me indeed ambitious to speak of it, but which now makes me draw back and delay.
+
+[2:5] For it is my purpose to speak of one who has indeed the semblance and repute of being a man, but who seems, to those who are able to contemplate the greatness of his intellectual calibre, to be endowed with powers nobler and well-nigh divine.
+
+[2:6] And it is not his birth or bodily training that I am about to praise, and that makes me now delay and procrastinate with an excess of caution.
+
+[2:7] Nor, again, is it his strength or beauty; for these form the eulogies of youths, of which it matters little whether the utterance be worthy or not.
+
+[2:8] For, to make an oration on matters of a temporary and fugitive nature, which perish in many various ways and quickly, and to discourse of these with all the grandeur and dignity of great affairs, and with such timorous delays, would seem a vain and futile procedure.
+
+[2:9] And certainly, if it had been proposed to me to speak of any of those things which are useless and unsubstantial, and such as I should never voluntarily have thought of speaking of,—if, I say, it had been proposed to me to speak of anything of that character, my speech would have had none of this caution or fear, lest in any statement I might seem to come beneath the merit of the subject.
+
+[2:10] But now, my subject dealing with that which is most godlike in the man, and that in him which has most affinity with God, that which is indeed confined within the limits of this visible and mortal form, but which strains nevertheless most ardently after the likeness of God; and my object being to make mention of this, and to put my hand to weightier matters, and therein also to express my thanksgivings to the Godhead, in that it has been granted to me to meet with such a man beyond the expectation of men,—the expectation, verily, not only of others, but also of my own heart, for I neither set such a privilege before me at any time, nor hoped for it; it being, I say, my object, insignificant and altogether without understanding as I am, to put my hand to such subjects, it is not without reason that I shrink from the task, and hesitate, and desire to keep silence.
+
+[2:11] And, in truth, to keep silence seems to me to be also the safe course, lest, with the show of an expression of thanksgiving, I may chance, in my rashness, to discourse of noble and sacred subjects in terms ignoble and paltry and utterly trite, and thus not only miss attaining the truth, but even, so far as it depends on me, do it some injury with those who may believe that it stands in such a category, when a discourse which is weak is composed thereon, and is rather calculated to excite ridicule than to prove itself commensurate in its vigour with the dignity of its themes.
+
+[2:12] But all that pertains to thee is beyond the touch of injury and ridicule, O dear soul; or, much rather let me say, that the divine herein remains ever as it is, unmoved and harmed in nothing by our paltry and unworthy words.
+
+[2:13] Yet I know not how we shall escape the imputation of boldness and rashness in thus attempting in our folly, and with little either of intelligence or of preparation, to handle matters which are weighty, and probably beyond our capacity.
+
+[2:14] And if, indeed, elsewhere and with others, we had aspired to make such youthful endeavours in matters like these, we would surely have been bold and daring; nevertheless in such a case our rashness might not have been ascribed to shamelessness, in so far as we should not have been making the bold effort with thee.
+
+[2:15] But now we shall be filling out the whole measure of senselessness, or rather indeed we have already filled it out, in venturing with unwashed feet (as the saying goes) to introduce ourselves to ears into which the Divine Word Himself—not indeed with covered feet, as is the case with the general mass of men, and, as it were, under the thick coverings of enigmatical and obscure sayings, but with unsandalled feet (if one may so speak)—has made His way clearly and perspicuously, and in which He now sojourns; while we, who have but refuse and mud to offer in these human words of ours, have been bold enough to pour them into ears which are practised in hearing only words that are divine and pure.
+
+[2:16] It might indeed suffice us, therefore, to have transgressed thus far; and now, at least, it might be but right to restrain ourselves, and to advance no further with our discourse.
+
+[2:17] And verily I would stop here most gladly.
+
+[2:18] Nevertheless, as I have once made the rash venture, it may be allowed me first of all to explain the reason under the force of which I have been led into this arduous enterprise, if indeed any pardon can be extended to me for my forwardness in this matter.
+
+[3:1] Argument III.
+
+[3:2] —He is Stimulated to Speak of Him by the Longing of a Grateful Mind.
+
+[3:3] To the Utmost of His Ability He Thinks He Ought to Thank Him.
+
+[3:4] From God are the Beginnings of All Blessings; And to Him Adequate Thanks Cannot Be Returned.
+
+[3:5] Ingratitude appears to me to be a dire evil; a dire evil indeed, yea, the direst of evils.
+
+[3:6] For when one has received some benefit, his failing to attempt to make any return by at least the oral expression of thanks, where aught else is beyond his power, marks him out either as an utterly irrational person, or as one devoid of the sense of obligations conferred, or as a man without any memory.
+
+[3:7] And, again, though one is possessed naturally and at once by the sense and the knowledge of benefits received, yet, unless he also carries the memory of these obligations to future days, and offers some evidence of gratitude to the author of the boons, such a person is a dull, and ungrateful, and impious fellow; and he commits an offence which can be excused neither in the case of the great nor in that of the small:—if we suppose the case of a great and high-minded man not bearing constantly on his lips his great benefits with all gratitude and honour, or that of a small and contemptible man not praising and lauding with all his might one who has been his benefactor, not simply in great services, but also in smaller.
+
+[3:8] Upon the great, therefore, and those who excel in powers of mind, it is incumbent, as out of their greater abundance and larger wealth, to render greater and worthier praise, according to their capacity, to their benefactors.
+
+[3:9] But the humble also, and those in narrow circumstances, it beseems neither to neglect those who do them service, nor to take their services carelessly, nor to flag in heart as if they could offer nothing worthy or perfect; but as poor indeed, and yet as of good feeling, and as measuring not the capacity of him whom they honour, but only their own, they ought to pay him honour according to the present measure of their power,—a tribute which will probably be grateful and pleasant to him who is honoured, and in no less consideration with him than it would have been had it been some great and splendid offering, if it is only presented with decided earnestness, and with a sincere mind.
+
+[3:10] Thus is it laid down in the sacred writings, that a certain poor and lowly woman, who was with the rich and powerful that were contributing largely and richly out of their wealth, alone and by herself cast in a small, yea, the very smallest offering, which was, however, all the while her whole substance, and received the testimony of having presented the largest oblation.
+
+[3:11] For, as I judge, the sacred word has not set up the large outward quantity of the substance given, but rather the mind and disposition of the giver, as the standard by which the worth and the magnificence of the offering are to be measured.
+
+[3:12] Wherefore it is not meet even for us by any means to shrink from this duty, through the fear that our thanksgivings be not adequate to our obligations; but, on the contrary, we ought to venture and attempt everything, so as to offer thanksgivings, if not adequate, at least such as we have it in our power to exhibit, as in due return.
+
+[3:13] And would that our discourse, even though it comes short of the perfect measure, might at least reach the mark in some degree, and be saved from all appearance of ingratitude! For a persistent silence, maintained under the plausible cover of an inability to say anything worthy of the subject, is a vain and evil thing; but it is the mark of a good disposition always to make the attempt at a suitable return, even although the power of the person who offers the grateful acknowledgment be inferior to the desert of the subject.
+
+[3:14] For my part, even although I am unable to speak as the matter merits, I shall not keep silence; but when I have done all that I possibly can, then I may congratulate myself.
+
+[3:15] Be this, then, the method of my eucharistic discourse.
+
+[3:16] To God, indeed, the God of the universe, I shall not think of speaking in such terms: yet is it from Him that all the beginnings of our blessings come; and with Him consequently is it that the beginning of our thanksgivings, or praises, or laudations, ought to be made.
+
+[3:17] But, in truth, not even though I were to devote myself wholly to that duty, and that, too, not as I now am—to wit, profane and impure, and mixed up with and stained by every unhallowed and polluting evil—but sincere and as pure as pure may be, and most genuine, and most unsophisticated, and uncontaminated by anything vile;—not even, I say, though I were thus to devote myself wholly, and with all the purity of the newly born, to this task, should I produce of myself any suitable gift in the way of honour and acknowledgment to the Ruler and Originator of all things, whom neither men separately and individually, nor yet all men in concert, acting with one spirit and one concordant impulse, as though all that is pure were made to meet in one, and all that is diverse from that were turned also to that service, could ever celebrate in a manner worthy of Him.
+
+[3:18] For, in whatsoever measure any man is able to form right and adequate conceptions of His works, and (if such a thing were possible) to speak worthily regarding Him, then, so far as that very capacity is concerned,—a capacity with which he has not been gifted by any other one, but which he has received from Him alone, he cannot possibly find any greater matter of thanksgiving than what is implied in its possession.
+
+[4:1] Argument IV.
+
+[4:2] —The Son Alone Knows How to Praise the Father Worthily.
+
+[4:3] In Christ and by Christ Our Thanksgivings Ought to Be Rendered to the Father.
+
+[4:4] Gregory Also Gives Thanks to His Guardian Angel, Because He Was Conducted by Him to Origen.
+
+[4:5] But let us commit the praises and hymns in honour of the King and Superintendent of all things, the perennial Fount of all blessings, to the hand of Him who, in this matter as in all others, is the Healer of our infirmity, and who alone is able to supply that which is lacking; to the Champion and Saviour of our souls, His first-born Word, the Maker and Ruler of all things, with whom also alone it is possible, both for Himself and for all, whether privately and individually, or publicly and collectively, to send up to the Father uninterrupted and ceaseless thanksgivings.
+
+[4:6] For as He is Himself the Truth, and the Wisdom, and the Power of the Father of the universe, and He is besides in Him, and is truly and entirely made one with Him, it cannot be that, either through forgetfulness or unwisdom, or any manner of infirmity, such as marks one dissociated from Him, He shall either fail in the power to praise Him, or, while having the power, shall willingly neglect (a supposition which it is not lawful, surely, to indulge) to praise the Father.
+
+[4:7] For He alone is able most perfectly to fulfil the whole meed of honour which is proper to Him, inasmuch as the Father of all things has made Him one with Himself, and through Him all but completes the circle of His own being objectively, and honours Him with a power in all respects equal to His own, even as also He is honoured; which position He first and alone of all creatures that exist has had assigned Him, this Only-begotten of the Father, who is in Him, and who is God the Word; while all others of us are able to express our thanksgiving and our piety only if, in return for all the blessings which proceed to us from the Father, we bring our offerings in simple dependence on Him alone, and thus present the meet oblation of thanksgiving to Him who is the Author of all things, acknowledging also that the only way of piety is in this manner to offer our memorials through Him.
+
+[4:8] Wherefore, in acknowledgment of that ceaseless providence which watches over all of us, alike in the greatest and in the smallest concerns, and which has been sustained even thus far, let this Word be accepted as the worthy and perpetual expression for all thanksgivings and praises,—I mean the altogether perfect and living and verily animate Word of the First Mind Himself.
+
+[4:9] But let this word of ours be taken primarily as an eucharistic address in honour of this sacred personage, who stands alone among all men; and if I may seek to discourse of aught beyond this, and, in particular, of any of those beings who are not seen, but yet are more godlike, and who have a special care for men, it shall be addressed to that being who, by some momentous decision, had me allotted to him from my boyhood to rule, and rear, and train,—I mean that holy angel of God who fed me from my youth, as says the saint dear to God, meaning thereby his own peculiar one.
+
+[4:10] Though he, indeed, as being himself illustrious, did in these terms designate some angel exalted enough to befit his own dignity (and whether it was some other one, or whether it was perchance the Angel of the Mighty Counsel Himself, the Common Saviour of all, that he received as his own peculiar guardian through his perfection, I do not clearly know),—he, I say, did recognise and praise some superior angel as his own, whosoever that was.
+
+[4:11] But we, in addition to the homage we offer to the Common Ruler of all men, acknowledge and praise that being, whosoever he is, who has been the wonderful guide of our childhood, who in all other matters has been in time past my beneficent tutor and guardian.
+
+[4:12] For this office of tutor and guardian is one which evidently can suit neither me nor any of my friends and kindred; for we are all blind, and see nothing of what is before us, so as to be able to judge of what is right and fitting; but it can suit only him who sees beforehand all that is for the good of our soul: that angel, I say, who still at this present time sustains, and instructs, and conducts me; and who, in addition to all these other benefits, has brought me into connection with this man, which, in truth, is the most important of all the services done me.
+
+[4:13] And this, too, he has effected for me, although between myself and that man of whom I discourse there was no kinship of race or blood, nor any other tie, nor any relationship in neighbourhood or country whatsoever; things which are made the ground of friendship and union among the majority of men.
+
+[4:14] But to speak in brief, in the exercise of a truly divine and wise forethought he brought us together, who were unknown to each other, and strangers, and foreigners, separated as thoroughly from each other as intervening nations, and mountains, and rivers can divide man from man, and thus he made good this meeting which has been full of profit to me, having, as I judge, provided beforehand this blessing for me from above from my very birth and earliest upbringing.
+
+[4:15] And in what manner this has been realized it would take long to recount fully, not merely if I were to enter minutely into the whole subject, and were to attempt to omit nothing, but even if, passing many things by, I should purpose simply to mention in a summary way a few of the most important points.
+
+[5:1] Argument V.
+
+[5:2] —Here Gregory Interweaves the Narrative of His Former Life.
+
+[5:3] His Birth of Heathen Parents is Stated.
+
+[5:4] In the Fourteenth Year of His Age He Loses His Father.
+
+[5:5] He is Dedicated to the Study of Eloquence and Law.
+
+[5:6] By a Wonderful Leading of Providence, He is Brought to Origen.
+
+[5:7] For my earliest upbringing from the time of my birth onwards was under the hand of my parents; and the manner of life in my father's house was one of error, and of a kind from which no one, I imagine, expected that we should be delivered; nor had I myself the hope, boy as I was, and without understanding, and under a superstitious father.
+
+[5:8] Then followed the loss of my father, and my orphanhood, which perchance was also the beginning of the knowledge of the truth to me.
+
+[5:9] For then it was that I was brought over first to the word of salvation and truth, in what manner I cannot tell, by constraint rather than by voluntary choice.
+
+[5:10] For what power of decision had I then, who was but fourteen years of age? Yet from this very time this sacred Word began somehow to visit me, just at the period when the reason common to all men attained its full function in me; yea, then for the first time did it visit me.
+
+[5:11] And though I thought but little of this in that olden time, yet now at least, as I ponder it, I consider that no small token of the holy and marvellous providence exercised over me is discernible in this concurrence, which was so distinctly marked in the matter of my years, and which provided that all those deeds of error which preceded that age might be ascribed to youth and want of understanding, and that the Holy Word might not be imparted vainly to a soul yet ungifted with the full power of reason; and which secured at the same time that when the soul now became endowed with that power, though not gifted with the divine and pure reason, it might not be devoid at least of that fear which is accordant with this reason, but that the human and the divine reason might begin to act in me at once and together,—the one giving help with a power to me at least inexplicable, though proper to itself, and the other receiving help.
+
+[5:12] And when I reflect on this, I am filled at once with gladness and with terror, while I rejoice indeed in the leading of providence, and yet am also awed by the fear lest, after being privileged with such blessings, I should still in any way fail of the end.
+
+[5:13] But indeed I know not how my discourse has dwelt so long on this matter, desirous as I am to give an account of the wonderful arrangement (of God's providence) in the course that brought me to this man, and anxious as nevertheless I formerly was to pass with few words to the matters which follow in their order, not certainly imagining that I could render to him who thus dealt with me that tribute of praise, or gratitude, or piety which is due to him (for, were we to designate our discourse in such terms, while yet we said nothing worthy of the theme, we might seem chargeable with arrogance), but simply with the view of offering what may be called a plain narrative or confession, or whatever other humble title may be given it.
+
+[5:14] It seemed good to the only one of my parents who survived to care for me—my mother, namely—that, being already under instruction in those other branches in which boys not ignobly born and nurtured are usually trained, I should attend also a teacher of public speaking, in the hope that I too should become a public speaker.
+
+[5:15] And accordingly I did attend such a teacher; and those who could judge in that department then declared that I should in a short period be a public speaker.
+
+[5:16] I for my own part know not how to pronounce on that, neither should I desire to do so; for there was no apparent ground for that gift then, nor was there as yet any foundation for those forces which were capable of bringing me to it.
+
+[5:17] But that divine conductor and true curator, ever so watchful, when my friends were not thinking of such a step, and when I was not myself desirous of it, came and suggested (an extension of my studies) to one of my teachers under whose charge I had been put, with a view to instruction in the Roman tongue, not in the expectation that I was to reach the completest mastery of that tongue, but only that I might not be absolutely ignorant of it; and this person happened also to be not altogether unversed in laws.
+
+[5:18] Putting the idea, therefore, into this teacher's mind, he set me to learn in a thorough way the laws of the Romans by his help.
+
+[5:19] And that man took up this charge zealously with me; and I, on my side, gave myself to it—more, however, to gratify the man, than as being myself an admirer of the study.
+
+[5:20] And when he got me as his pupil, he began to teach me with all enthusiasm.
+
+[5:21] And he said one thing, which has proved to me the truest of all his sayings, to wit, that my education in the laws would be my greatest viaticum—for thus he phrased it—whether I aspired to be one of the public speakers who contend in the courts of justice, or preferred to belong to a different order.
+
+[5:22] Thus did he express himself, intending his word to bear simply on things human; but to me it seems that he was moved to that utterance by a diviner impulse than he himself supposed.
+
+[5:23] For when, willingly or unwillingly, I was becoming well instructed in these laws, at once bonds, as it were, were cast upon my movements, and cause and occasion for my journeying to these parts arose from the city Berytus, which is a city not far distant from this territory, somewhat Latinized, and credited with being a school for these legal studies.
+
+[5:24] And this revered man coming from Egypt, from the city of Alexandria, where previously he happened to have his home, was moved by other circumstances to change his residence to this place, as if with the express object of meeting us.
+
+[5:25] And for my part, I cannot explain the reasons of these incidents, and I shall willingly pass them by.
+
+[5:26] This however is certain, that as yet no necessary occasion for my coming to this place and meeting with this man was afforded by my purpose to learn our laws, since I had it in my power also to repair to the city of Rome itself.
+
+[5:27] How, then, was this effected? The then governor of Palestine suddenly took possession of a friend of mine, namely my sister's husband, and separated him from his wife, and carried him off here against his will, in order to secure his help, and have him associated with him in the labours of the government of the country; for he was a person skilled in law, and perhaps is still so employed.
+
+[5:28] After he had gone with him, however, he had the good fortune in no long time to have his wife sent for, and to receive her again, from whom, against his will, and to his grievance, he had been separated.
+
+[5:29] And thus he chanced also to draw us along with her to that same place.
+
+[5:30] For when we were minded to travel, I know not where, but certainly to any other place rather than this, a soldier suddenly came upon the scene, bearing a letter of instructions for us to escort and protect our sister in her restoration to her husband, and to offer ourselves also as companion to her on the journey; in which we had the opportunity of doing a favour to our relative, and most of all to our sister (so that she might not have to address herself to the journey either in any unbecoming manner, or with any great fear or hesitation), while at the same time our other friends and connections thought well of it, and made it out to promise no slight advantage, as we could thus visit the city of Berytus, and carry out there with all diligence our studies in the laws.
+
+[5:31] Thus all things moved me thither,—my sense of duty to my sister, my own studies, and over and above these, the soldier (for it is right also to mention this), who had with him a larger supply of public vehicles than the case demanded, and more cheques than could be required for our sister alone.
+
+[5:32] These were the apparent reasons for our journey; but the secret and yet truer reasons were these,—our opportunity of fellowship with this man, our instruction through that man's means in the truth concerning the Word, and the profit of our soul for its salvation.
+
+[5:33] These were the real causes that brought us here, blind and ignorant, as we were, as to the way of securing our salvation.
+
+[5:34] Wherefore it was not that soldier, but a certain divine companion and beneficent conductor and guardian, ever leading us in safety through the whole of this present life, as through a long journey, that carried us past other places, and Berytus in especial, which city at that time we seemed most bent on reaching, and brought us hither and settled us here, disposing and directing all things, until by any means he might bind us in a connection with this man who was to be the author of the greater part of our blessings.
+
+[5:35] And he who came in such wise, that divine angel, gave over this charge to him, and did, if I may so speak, perchance take his rest here, not indeed under the pressure of labour or exhaustion of any kind (for the generation of those divine ministers knows no weariness), but as having committed us to the hand of a man who would fully discharge the whole work of care and guardianship within his power.
+
+[6:1] Argument VI.
+
+[6:2] —The Arts by Which Origen Studies to Keep Gregory and His Brother Athenodorus with Him, Although It Was Almost Against Their Will; And the Love by Which Both are Taken Captive.
+
+[6:3] Of Philosophy, the Foundation of Piety, with the View of Giving Himself Therefore Wholly to that Study, Gregory is Willing to Give Up Fatherland, Parents, the Pursuit of Law, and Every Other Discipline.
+
+[6:4] Of the Soul as the Free Principle.
+
+[6:5] The Nobler Part Does Not Desire to Be United with the Inferior, But the Inferior with the Nobler.
+
+[6:6] And from the very first day of his receiving us (which day was, in truth, the first day to me, and the most precious of all days, if I may so speak, since then for the first time the true Sun began to rise upon me), while we, like some wild creatures of the fields, or like fish, or some sort of birds that had fallen into the toils or nets, and were endeavouring to slip out again and escape, were bent on leaving him, and making off for Berytus or our native country, he studied by all means to associate us closely with him, contriving all kinds of arguments, and putting every rope in motion (as the proverb goes), and bringing all his powers to bear on that object.
+
+[6:7] With that intent he lauded the lovers of philosophy with large laudations and many noble utterances, declaring that those only live a life truly worthy of reasonable creatures who aim at living an upright life and who seek to know first of all themselves, what manner of persons they are, and then the things that are truly good, which man ought to strive after, and then the things that are really evil, from which man ought to flee.
+
+[6:8] And then he reprehended ignorance and all the ignorant: and there are many such, who, like brute cattle, are blind in mind, and have no understanding even of what they are, and are as far astray as though they were wholly void of reason, and neither know themselves what is good and what is evil, nor care at all to learn it from others, but toil feverishly in quest of wealth, and glory, and such honours as belong to the crowd, and bodily comforts, and go distraught about things like these, as if they were the real good.
+
+[6:9] And as though such objects were worth much, yea, worth all else, they prize the things themselves, and the arts by which they can acquire them, and the different lines of life which give scope for their attainment,—the military profession, to wit, and the juridical, and the study of the laws.
+
+[6:10] And with earnest and sagacious words he told us that these are the objects that enervate us, when we despise that reason which ought to be the true master within us.
+
+[6:11] I cannot recount at present all the addresses of this kind which he delivered to us, with the view of persuading us to take up the pursuit of philosophy.
+
+[6:12] Nor was it only for a single day that he thus dealt with us, but for many days and, in fact, as often as we were in the habit of going to him at the outset; and we were pierced by his argumentation as with an arrow from the very first occasion of our hearing him (for he was possessed of a rare combination of a certain sweet grace and persuasiveness, along with a strange power of constraint), though we still wavered and debated the matter undecidedly with ourselves, holding so far by the pursuit of philosophy, without however being brought thoroughly over to it, while somehow or other we found ourselves quite unable to withdraw from it conclusively, and thus were always drawn towards him by the power of his reasonings, as by the force of some superior necessity.
+
+[6:13] For he asserted further that there could be no genuine piety towards the Lord of all in the man who despised this gift of philosophy,—a gift which man alone of all the creatures of the earth has been deemed honourable and worthy enough to possess, and one which every man whatsoever, be he wise or be he ignorant, reasonably embraces, who has not utterly lost the power of thought by some mad distraction of mind.
+
+[6:14] He asserted, then, as I have said, that it was not possible (to speak correctly) for any one to be truly pious who did not philosophize.
+
+[6:15] And thus he continued to do with us, until, by pouring in upon us many such argumentations, one after the other, he at last carried us fairly off somehow or other by a kind of divine power, like people with his reasonings, and established us (in the practice of philosophy), and set us down without the power of movement, as it were, beside himself by his arts.
+
+[6:16] Moreover, the stimulus of friendship was also brought to bear upon us,—a stimulus, indeed, not easily withstood, but keen and most effective,—the argument of a kind and affectionate disposition, which showed itself benignantly in his words when he spoke to us and associated with us.
+
+[6:17] For he did not aim merely at getting round us by any kind of reasoning; but his desire was, with a benignant, and affectionate, and most benevolent mind, to save us, and make us partakers in the blessings that flow from philosophy, and most especially also in those other gifts which the Deity has bestowed on him above most men, or, as we may perhaps say, above all men of our own time.
+
+[6:18] I mean the power that teaches us piety, the word of salvation, that comes to many, and subdues to itself all whom it visits: for there is nothing that shall resist it, inasmuch as it is and shall be itself the king of all; although as yet it is hidden, and is not recognised, whether with ease or with difficulty, by the common crowd, in such wise that, when interrogated respecting it, they should be able to speak intelligently about it.
+
+[6:19] And thus, like some spark lighting upon our inmost soul, love was kindled and burst into flame within us,—a love at once to the Holy Word, the most lovely object of all, who attracts all irresistibly toward Himself by His unutterable beauty, and to this man, His friend and advocate.
+
+[6:20] And being most mightily smitten by this love, I was persuaded to give up all those objects or pursuits which seem to us befitting, and among others even my boasted jurisprudence,—yea, my very fatherland and friends, both those who were present with me then, and those from whom I had parted.
+
+[6:21] And in my estimation there arose but one object dear and worth desire,—to wit, philosophy, and that master of philosophy, this inspired man.
+
+[6:22] "And the soul of Jonathan was knit with David".
+
+[6:23] This word, indeed, I did not read till afterwards in the sacred Scriptures; but I felt it before that time, not less clearly than it is written: for, in truth, it reached me then by the clearest of all revelations.
+
+[6:24] For it was not simply Jonathan that was knit with David; but those things were knit together which are the ruling powers in man—their souls,—those objects which, even though all the things which are apparent and ostensible in man are severed, cannot by any skill be forced to a severance when they themselves are unwilling.
+
+[6:25] For the soul is free, and cannot be coerced by any means, not even though one should confine it and keep guard over it in some secret prison-house.
+
+[6:26] For wherever the intelligence is, there it is also of its own nature and by the first reason.
+
+[6:27] And if it seems to you to be in a kind of prison-house, it is represented as there to you by a sort of second reason.
+
+[6:28] But for all that, it is by no means precluded from subsisting anywhere according to its own determination; nay, rather it is both able to be, and is reasonably believed to be, there alone and altogether, wheresoever and in connection with what things soever those actions which are proper only to it are in operation.
+
+[6:29] Wherefore, what I experienced has been most clearly declared in this very short statement, that "the soul of Jonathan was knit with the soul of David;" objects which, as I said, cannot by any means be forced to a separation against their will, and which of their own inclination certainly will not readily choose it.
+
+[6:30] Nor is it, in my opinion, in the inferior subject, who is changeful and very prone to vary in purpose, and in whom singly there has been no capacity of union at first, that the power of loosing the sacred bonds of this affection rests, but rather in the nobler one, who is constant and not readily shaken, and through whom it has been possible to tie these bonds and to fasten this sacred knot.
+
+[6:31] Therefore it is not the soul of David that was knit by the divine word with the soul of Jonathan; but, on the contrary, the soul of the latter, who was the inferior, is said to be thus affected and knit with the soul of David.
+
+[6:32] For the nobler object would not choose to be knit with one inferior, inasmuch as it is sufficient for itself; but the inferior object, as standing in need of the help which the nobler can give, ought properly to be knit with the nobler, and fitted dependently to it: so that this latter, retaining still its sufficiency in itself, might sustain no loss by its connection with the inferior; and that that which is of itself without order being now united and fitted harmoniously with the nobler, might, without any detriment done, be perfectly subdued to the nobler by the constraints of such bonds.
+
+[6:33] Wherefore, to apply the bonds is the part of the superior, and not of the inferior; but to be knit to the other is the part of the inferior, and this too in such a manner that it shall possess no power of loosing itself from these bonds.
+
+[6:34] And by a similar constraint, then, did this David of ours once gird us to himself; and he holds us now, and has held us ever since that time, so that, even though we desired it, we could not loose ourselves from his bonds.
+
+[6:35] And hence it follows that, even though we were to depart, he would not release this soul of mine, which, as the Holy Scripture puts it, he holds knit so closely with himself.
+
+[7:1] Argument VII.
+
+[7:2] —The Wonderful Skill with Which Origen Prepares Gregory and Athenodorus for Philosophy.
+
+[7:3] The Intellect of Each is Exercised First in Logic, and the Mere Attention to Words is Contemned.
+
+[7:4] But after he had thus carried us captive at the very outset, and had shut us in, as it were, on all sides, and when what was best had been accomplished by him, and when it seemed good to us to remain with him for a time, then he took us in hand, as a skilled husbandman may take in hand some field unwrought, and altogether unfertile, and sour, and burnt up, and hard as a rock, and rough, or, it may be, one not utterly barren or unproductive, but rather, perchance, by nature very productive, though then waste and neglected, and stiff and untractable with thorns and wild shrubs; or as a gardener may take in hand some plant which is wild indeed, and which yields no cultivated fruits, though it may not be absolutely worthless, and on finding it thus, may, by his skill in gardening, bring some cultivated shoot and graft it in, by making a fissure in the middle, and then bringing the two together, and binding the one to the other, until the sap in each shall flow in one stream, and they shall both grow with the same nurture: for one may often see a tree of a mixed and worthless species thus rendered productive in spite of its past barrenness, and made to rear the fruits of the good olive on wild roots; or one may see a wild plant saved from being altogether profitless by the skill of a careful gardener; or, once more, one may see a plant which otherwise is one both of culture and of fruitfulness, but which, through the want of skilled attendance, has been left unpruned and unwatered and waste, and which is thus choked by the mass of superfluous shoots suffered to grow out of it at random, yet brought to discharge its proper function in germination, and made to bear the fruit whose production was formerly hindered by the superfluous growth.
+
+[7:5] In suchwise, then, and with such a disposition did he receive us at first; and surveying us, as it were, with a husbandman's skill, and gauging us thoroughly, and not confining his notice to those things only which are patent to the eye of all, and which are looked upon in open light, but penetrating into us more deeply, and probing what is most inward in us, he put us to the question, and made propositions to us, and listened to us in our replies; and whenever he thereby detected anything in us not wholly fruitless and profitless and waste, he set about clearing the soil, and turning it up and irrigating it, and putting all things in movement, and brought his whole skill and care to bear on us, and wrought upon our mind.
+
+[7:6] And thorns and thistles, and every kind of wild herb or plant which our mind (so unregulated and precipitate in its own action) yielded and produced in its uncultured luxuriance and native wildness, he cut out and thoroughly removed by the processes of refutation and prohibition; sometimes assailing us in the genuine Socratic fashion, and again upsetting us by his argumentation whenever he saw us getting restive under him, like so many unbroken steeds, and springing out of the course and galloping madly about at random, until with a strange kind of persuasiveness and constraint he reduced us to a state of quietude under him by his discourse, which acted like a bridle in our mouth.
+
+[7:7] And that was at first an unpleasant position for us, and one not without pain, as he dealt with persons who were unused to it, and still all untrained to submit to reason, when he plied us with his argumentations; and yet he purged us by them.
+
+[7:8] And when he had made us adaptable, and had prepared us successfully for the reception of the words of truth, then, further, as though we were now a soil well wrought and soft, and ready to impart growth to the seeds cast into it, he dealt liberally with us, and sowed the good seed in season, and attended to all the other cares of the good husbandry, each in its own proper season.
+
+[7:9] And whenever he perceived any element of infirmity or baseness in our mind (whether it was of that character by nature, or had become thus gross through the excessive nurture of the body), he pricked it with his discourses, and reduced it by those delicate words and turns of reasoning which, although at first the very simplest, are gradually evolved one after the other, and skilfully wrought out, until they advance to a sort of complexity which can scarce be mastered or unfolded, and which cause us to start up, as it were, out of sleep, and teach us the art of holding always by what is immediately before one, without ever making any slip by reason either of length or of subtlety.
+
+[7:10] And if there was in us anything of an injudicious and precipitate tendency, whether in the way of assenting to all that came across us, of whatever character the objects might be, and even though they proved false, or in the way of often withstanding other things, even though they were spoken truthfully,—that, too, he brought under discipline in us by those delicate reasonings already mentioned, and by others of like kind (for this branch of philosophy is of varied form), and accustomed us not to throw in our testimony at one time, and again to refuse it, just at random, and as chance impelled, but to give it only after careful examination not only into things manifest, but also into those that are secret.
+
+[7:11] For many things which are in high repute of themselves, and honourable in appearance, have found entrance through fair words into our ears, as though they were true, while yet they were hollow and false, and have borne off and taken possession of the suffrage of truth at our hand, and then, no long time afterwards, they have been discovered to be corrupt and unworthy of credit, and deceitful borrowers of the garb of truth; and have thus too easily exposed us as men who are ridiculously deluded, and who bear their witness inconsiderately to things which ought by no means to have won it.
+
+[7:12] And, on the contrary, other things which are really honourable and the reverse of impositions, but which have not been expressed in plausible statements, and thus have the appearance of being paradoxical and most incredible, and which have been rejected as false on their own showing, and held up undeservedly to ridicule, have afterwards, on careful investigation and examination, been discovered to be the truest of all things, and wholly incontestable, though for a time spurned and reckoned false.
+
+[7:13] Not simply, then, by dealing with things patent and prominent, which are sometimes delusive and sophistical, but also by teaching us to search into things within us, and to put them all individually to the test, lest any of them should give back a hollow sound, and by instructing us to make sure of these inward things first of all, he trained us to give our assent to outward things only then and thus, and to express our opinion on all these severally.
+
+[7:14] In this way, that capacity of our mind which deals critically with words and reasonings, was educated in a rational manner; not according to the judgments of illustrious rhetoricians—whatever Greek or foreign honour appertains to that title—for theirs is a discipline of little value and no necessity: but in accordance with that which is most needful for all, whether Greek or outlandish, whether wise or illiterate, and, in fine, not to make a long statement by going over every profession and pursuit separately, in accordance with that which is most indispensable for all men, whatever manner of life they have chosen, if it is indeed the care and interest of all who have to converse on any subject whatever with each other, to be protected against deception.
+
+[8:1] Argument VIII.
+
+[8:2] —Then in Due Succession He Instructs Them in Physics, Geometry, and Astronomy.
+
+[8:3] Nor did he confine his efforts merely to that form of the mind which it is the lot of the dialectics to regulate; but he also took in hand that humble capacity of mind, (which shows itself) in our amazement at the magnitude, and the wondrousness, and the magnificent and absolutely wise construction of the world, and in our marvelling in a reasonless way, and in our being overpowered with fear, and in our knowing not, like the irrational creatures, what conclusion to come to.
+
+[8:4] That, too, he aroused and corrected by other studies in natural science, illustrating and distinguishing the various divisions of created objects, and with admirable clearness reducing them to their pristine elements, taking them all up perspicuously in his discourse, and going over the nature of the whole, and of each several section, and discussing the multiform revolution and mutation of things in the world, until he carried us fully along with him under his clear teaching; and by those reasonings which he had partly learned from others, and partly found out for himself, he filled our minds with a rational instead of an irrational wonder at the sacred economy of the universe, and irreproveable constitution of all things.
+
+[8:5] This is that sublime and heavenly study which is taught by natural philosophy—a science most attractive to all.
+
+[8:6] And what need is there now to speak of the sacred mathematics, viz.
+
+[8:7] , geometry, so precious to all and above all controversy, and astronomy, whose course is on high? These different studies he imprinted on our understandings, training us in them, or calling them into our mind, or doing with us something else which I know not how to designate rightly.
+
+[8:8] And the one he presented lucidly as the immutable groundwork and secure foundation of all, namely geometry; and by the other, namely astronomy, he lifted us up to the things that are highest above us, while he made heaven passable to us by the help of each of these sciences, as though they were ladders reaching the skies.
+
+[9:1] Argument IX.
+
+[9:2] —But He Imbues Their Minds, Above All, with Ethical Science; And He Does Not Confine Himself to Discoursing on the Virtues in Word, But He Rather Confirms His Teaching by His Acts.
+
+[9:3] Moreover, as to those things which excel all in importance, and those for the sake of which, above all else, the whole family of the philosophical labours, gathering them like good fruits produced by the varied growths of all the other studies, and of long practised philosophizing,—I mean the divine virtues that concern the moral nature, by which the impulses of the mind have their equable and stable subsistence,—through these, too, he aimed at making us truly proof against grief and disquietude under the pressure of all ills, and at imparting to us a well-disciplined and stedfast and religious spirit, so that we might be in all things veritably blessed.
+
+[9:4] And this he toiled at effecting by pertinent discourses, of a wise and soothing tendency, and very often also by the most cogent addresses touching our moral dispositions, and our modes of life.
+
+[9:5] Nor was it only by words, but also by deeds, that he regulated in some measure our inclinations,—to wit, by that very contemplation and observation of the impulses and affections of the mind, by the issue of which most especially the mind is wont to be reduced to a right estate from one of discord, and to be restored to a condition of judgment and order out of one of confusion.
+
+[9:6] So that, beholding itself as in a mirror (and I may say specifically, viewing, on the one hand, the very beginnings and roots of evil in it, and all that is reasonless within it, from which spring up all absurd affections and passions; and, on the other hand, all that is truly excellent and reasonable within it, under the sway of which it remains proof against injury and perturbation in itself, and then scrutinizing carefully the things thus discovered to be in it), it might cast out all those which are the growth of the inferior part, and which waste our powers through intemperance, or hinder and choke them through depression,—such things as pleasures and lusts, or pains and fears, and the whole array of ills that accompany these different species of evil.
+
+[9:7] I say that thus it might cast them out and make away with them, by coping with them while yet in their beginnings and only just commencing their growth, and not leaving them to wax in strength even by a short delay, but destroying and rooting them out at once; while, at the same time, it might foster all those things which are really good, and which spring from the nobler part, and might preserve them by nursing them in their beginnings, and watching carefully over them until they should reach their maturity.
+
+[9:8] For it is thus (he used to say) that the heavenly virtues will ripen in the soul: to wit, prudence, which first of all is able to judge of those very motions in the mind at once from the things themselves, and by the knowledge which accrues to it of things outside of us, whatever such there may be, both good and evil; and temperance, the power that makes the right selection among these things in their beginnings; and righteousness, which assigns what is just to each; and that virtue which is the conserver of them all—fortitude.
+
+[9:9] And therefore he did not accustom us to a mere profession in words, as that prudence, for instance, is the knowledge of good and evil, or of what ought to be done, and what ought not: for that would be indeed a vain and profitless study, if there was simply the doctrine without the deed; and worthless would that prudence be, which, without doing the things that ought to be done, and without turning men away from those that ought not to be done, should be able merely to furnish the knowledge of these things to those who possessed her,—though many such persons come under our observation.
+
+[9:10] Nor, again, did he content himself with the mere assertion that temperance is simply the knowledge of what ought to be chosen and what ought not; though the other schools of philosophers do not teach even so much as that, and especially the more recent, who are so forcible and vigorous in words (so that I have often been astonished at them, when they sought to demonstrate that there is the same virtue in God and in men, and that upon earth, in particular, the wise man is equal to God), and yet are incapable of delivering the truth as to prudence, so that one shall do the things which are dictated by prudence, or the truth as to temperance, so that one shall choose the things he has learned by it; and the same holds good also of their treatment of righteousness and fortitude.
+
+[9:11] Not thus, however, in mere words only did this teacher go over the truths concerning the virtues with us; but he incited us much more to the practice of virtue, and stimulated us by the deeds he did more than by the doctrines he taught.
+
+[10:1] Argument X.
+
+[10:2] —Hence the Mere Word-Sages are Confuted, Who Say and Yet Act Not.
+
+[10:3] Now I beg of the philosophers of this present time, both those whom I have known personally myself, and those of whom I have heard by report from others, and I beg also of all other men, that they take in good part the statements I have just made.
+
+[10:4] And let no one suppose that I have expressed myself thus, either through simple friendship toward that man, or through hatred toward the rest of the philosophers; for if there is any one inclined to be an admirer of them for their discourses, and wishful to speak well of them, and pleased at hearing the most honourable mention made of them by others, I myself am the man.
+
+[10:5] Nevertheless, those facts (to which I have referred) are of such a nature as to bring upon the very name of philosophy the last degree of ridicule almost from the great mass of men; and I might almost say that I would choose to be altogether unversed in it, rather than learn any of the things which these men profess, with whom I thought it good no longer to associate myself in this life,—though in that, it may be, I formed an incorrect judgment.
+
+[10:6] But I say that no one should suppose that I make these statements at the mere prompting of a zealous regard for the praise of this man, or under the stimulus of any existing animosity towards other philosophers.
+
+[10:7] But let all be assured that I say even less than his deeds merit, lest I should seem to be indulging in adulation; and that I do not seek out studied words and phrases, and cunning means of laudation—I who could never of my own will, even when I was a youth, and learning the popular style of address under a professor of the art of public speaking, bear to utter a word of praise, or pass any encomium on any one which was not genuine.
+
+[10:8] Wherefore on the present occasion, too, I do not think it right, in proposing to myself the task simply of commending him, to magnify him at the cost of the reprobation of others.
+
+[10:9] And, in good sooth, I should speak only to the man's injury, if, with the view of having something grander to say of him, I should compare his blessed life with the failings of others.
+
+[10:10] We are not, however, so senseless.
+
+[10:11] But I shall testify simply to what has come within my own experience, apart from all ill-judged comparisons and trickeries in words.
+
+[11:1] Argument XI.
+
+[11:2] —Origen is the First and the Only One that Exhorts Gregory to Add to His Acquirements the Study of Philosophy, and Offers Him in a Certain Manner an Example in Himself.
+
+[11:3] Of Justice, Prudence, Temperance, and Fortitude.
+
+[11:4] The Maxim, Know Thyself.
+
+[11:5] He was also the first and only man that urged me to study the philosophy of the Greeks, and persuaded me by his own moral example both to hear and to hold by the doctrine of morals, while as yet I had by no means been won over to that, so far as other philosophers were concerned (I again acknowledge it),—not rightly so, indeed, but unhappily, as I may say without exaggeration, for me.
+
+[11:6] I did not, however, associate with many at first, but only with some few who professed to be teachers, though, in good sooth, they all established their philosophy only so far as words went.
+
+[11:7] This man, however, was the first that induced me to philosophize by his words, as he pointed the exhortation by deeds before he gave it in words, and did not merely recite well-studied sentences; nay, he did not deem it right to speak on the subject at all, but with a sincere mind, and one bent on striving ardently after the practical accomplishment of the things expressed, and he endeavoured all the while to show himself in character like the man whom he describes in his discourses as the person who shall lead a noble life, and he ever exhibited (in himself), I would say, the pattern of the wise man.
+
+[11:8] But as our discourse at the outset proposed to deal with the truth, and not with vain-glorious language, I shall not speak of him now as the exemplar of the wise man.
+
+[11:9] And yet, if I chose to speak thus of him, I should not be far astray from the truth.
+
+[11:10] Nevertheless, I pass that by at present.
+
+[11:11] I shall not speak of him as a perfect pattern, but as one who vehemently desires to imitate the perfect pattern, and strives after it with zeal and earnestness, even beyond the capacity of men, if I may so express myself; and who labours, moreover, also to make us, who are so different, of like character with himself, not mere masters and apprehenders of the bald doctrines concerning the impulses of the soul, but masters and apprehenders of these impulses themselves.
+
+[11:12] For he pressed us on both to deed and to doctrine, and carried us along by that same view and method, not merely into a small section of each virtue, but rather into the whole, if mayhap we were able to take it in.
+
+[11:13] And he constrained us also, if I may so speak, to practise righteousness on the ground of the personal action of the soul itself, which he persuaded us to study, drawing us off from the officious anxieties of life, and from the turbulence of the forum, and raising us to the nobler vocation of looking into ourselves, and dealing with the things that concern ourselves in truth.
+
+[11:14] Now, that this is to practise righteousness, and that this is the true righteousness, some also of our ancient philosophers have asserted (expressing it as the personal action, I think), and have affirmed that this is more profitable for blessedness, both to the men themselves and to those who are with them, if indeed it belongs to this virtue to recompense according to desert, and to assign to each his own.
+
+[11:15] For what else could be supposed to be so proper to the soul? Or what could be so worthy of it, as to exercise a care over itself, not gazing outwards, or busying itself with alien matters, or, to speak shortly, doing the worst injustice to itself, but turning its attention inwardly upon itself, rendering its own due to itself, and acting thereby righteously? To practise righteousness after this fashion, therefore, he impressed upon us, if I may so speak, by a sort of force.
+
+[11:16] And he educated us to prudence none the less,—teaching to be at home with ourselves, and to desire and endeavour to know ourselves, which indeed is the most excellent achievement of philosophy, the thing that is ascribed also to the most prophetic of spirits as the highest argument of wisdom—the precept, Know thyself.
+
+[11:17] And that this is the genuine function of prudence, and that such is the heavenly prudence, is affirmed well by the ancients; for in this there is one virtue common to God and to man; while the soul is exercised in beholding itself as in a mirror, and reflects the divine mind in itself, if it is worthy of such a relation, and traces out a certain inexpressible method for the attaining of a kind of apotheosis.
+
+[11:18] And in correspondence with this come also the virtues of temperance and fortitude: temperance, indeed, in conserving this very prudence which must be in the soul that knows itself, if that is ever its lot (for this temperance, again, surely means just a sound prudence): and fortitude, in keeping stedfastly by all the duties which have been spoken of, without falling away from them, either voluntarily or under any force, and in keeping and holding by all that has been laid down.
+
+[11:19] For he teaches that this virtue acts also as a kind of preserver, maintainer, and guardian.
+
+[12:1] Argument XII.
+
+[12:2] —Gregory Disallows Any Attainment of the Virtues on His Part.
+
+[12:3] Piety is Both the Beginning and the End, and Thus It is the Parent of All the Virtues.
+
+[12:4] It is true, indeed that in consequence of our dull and sluggish nature, he has not yet succeeded in making us righteous, and prudent, and temperate, or manly, although he has laboured zealously on us.
+
+[12:5] For we are neither in real possession of any virtue whatsoever, either human or divine, nor have we ever made any near approach to it, but we are still far from it.
+
+[12:6] And these are very great and lofty virtues, and none of them may be assumed by any common person, but only by one whom God inspires with the power.
+
+[12:7] We are also by no means so favourably constituted for them by nature, neither do we yet profess ourselves to be worthy of reaching them; for through our listlessness and feebleness we have not done all these things which ought to be done by those who aspire after what is noblest, and aim at what is perfect.
+
+[12:8] We are not yet therefore either righteous or temperate, or endowed with any of the other virtues.
+
+[12:9] But this admirable man, this friend and advocate of the virtues, has long ago done for us perhaps all that it lay in his power to do for us, in making us lovers of virtue, who should love it with the most ardent affection.
+
+[12:10] And by his own virtue he created in us a love at once for the beauty of righteousness, the golden face of which in truth was shown to us by him; and for prudence, which is worthy of being sought by all; and for the true wisdom, which is most delectable; and for temperance, the heavenly virtue which forms the sound constitution of the soul, and brings peace to all who possess it; and for manliness, that most admirable grace; and for patience, that virtue peculiarly ours; and, above all, for piety, which men rightly designate when they call it the mother of the virtues.
+
+[12:11] For this is the beginning and the end of all the virtues.
+
+[12:12] And beginning with this one, we shall find all the other virtues grow upon us most readily: if, while for ourselves we earnestly aspire after this grace, which every man, be he only not absolutely impious, or a mere pleasure-seeker, ought to acquire for himself, in order to his being a friend of God and a maintainer of His truth, and while we diligently pursue this virtue, we also give heed to the other virtues, in order that we may not approach our God in unworthiness and impurity, but with all virtue and wisdom as our best conductors and most sagacious priests.
+
+[12:13] And the end of all I consider to be nothing but this: By the pure mind make thyself like to God, that thou mayest draw near to Him, and abide in Him.
+
+[13:1] Argument XIII.
+
+[13:2] —The Method Which Origen Used in His Theological and Metaphysical Instructions.
+
+[13:3] He Commends the Study of All Writers, the Atheistic Alone Excepted.
+
+[13:4] The Marvellous Power of Persuasion in Speech.
+
+[13:5] The Facility of the Mind in Giving Its Assent.
+
+[13:6] And besides all his other patient and laborious efforts, how shall I in words give any account of what he did for us, in instructing us in theology and the devout character? and how shall I enter into the real disposition of the man, and show with what judiciousness and careful preparation he would have us familiarized with all discourse about the Divinity, guarding sedulously against our being in any peril with respect to what is the most needful thing of all, namely, the knowledge of the Cause of all things? For he deemed it right for us to study philosophy in such wise, that we should read with utmost diligence all that has been written, both by the philosophers and by the poets of old, rejecting nothing, and repudiating nothing (for, indeed, we did not yet possess the power of critical discernment), except only the productions of the atheists, who, in their conceits, lapse from the general intelligence of man, and deny that there is either a God or a providence.
+
+[13:7] From these he would have us abstain, because they are not worthy of being read, and because it might chance that the soul within us that is meant for piety might be defiled by listening to words that are contrary to the worship of God.
+
+[13:8] For even those who frequent the temples of piety, as they think them to be, are careful not to touch anything that is profane.
+
+[13:9] He held, therefore, that the books of such men did not merit to be taken at all into the consideration of men who have assumed the practice of piety.
+
+[13:10] He thought, however, that we should obtain and make ourselves familiar with all other writings, neither preferring nor repudiating any one kind, whether it be philosophical discourse or not, whether Greek or foreign, but hearing what all of them have to convey.
+
+[13:11] And it was with great wisdom and sagacity that he acted on this principle, lest any single saying given by the one class or the other should be heard and valued above others as alone true, even though it might not be true, and lest it might thus enter our mind and deceive us, and, in being lodged there by itself alone, might make us its own, so that we should no more have the power to withdraw from it, or wash ourselves clear of it, as one washes out a little wool that has got some colour ingrained in it.
+
+[13:12] For a mighty thing and an energetic is the discourse of man, and subtle with its sophisms, and quick to find its way into the ears, and mould the mind, and impress us with what it conveys; and when once it has taken possession of us, it can win us over to love it as truth; and it holds its place within us even though it be false and deceitful, overmastering us like some enchanter, and retaining as its champion the very man it has deluded.
+
+[13:13] And, on the other hand, the mind of man is withal a thing easily deceived by speech, and very facile in yielding its assent; and, indeed, before it discriminates and inquires into matters in any proper way, it is easily won over, either through its own obtuseness and imbecility, or through the subtlety of the discourse, to give itself up, at random often, all weary of accurate examination, to crafty reasonings and judgments, which are erroneous themselves, and which lead into error those who receive them.
+
+[13:14] And not only so; but if another mode of discourse aims at correcting it, it will neither give it admittance, nor suffer itself to be altered in opinion, because it is held fast by any notion which has previously got possession of it, as though some inexorable tyrant were lording over it.
+
+[14:1] Argument XIV.
+
+[14:2] —Whence the Contentions of Philosophers Have Sprung.
+
+[14:3] Against Those Who Catch at Everything that Meets Them, and Give It Credence, and Cling to It.
+
+[14:4] Origen Was in the Habit of Carefully Reading and Explaining the Books of the Heathen to His Disciples.
+
+[14:5] Is it not thus that contradictory and opposing tenets have been introduced, and all the contentions of philosophers, while one party withstands the opinions of another, and some hold by certain positions, and others by others, and one school attaches itself to one set of dogmas, and another to another? And all, indeed, aim at philosophizing, and profess to have been doing so ever since they were first roused to it, and declare that they desire it not less now when they are well versed in the discussions than when they began them: yea, rather they allege that they have even more love for philosophy now, after they have had, so to speak, a little taste of it, and have had the liberty of dwelling on its discussions, than when at first, and without any previous experience of it, they were urged by a sort of impulse to philosophize.
+
+[14:6] That is what they say; and henceforth they give no heed to any words of those who hold opposite opinions.
+
+[14:7] And accordingly, no one of the ancients has ever induced any one of the moderns, or those of the Peripatetic school, to turn to his way of thinking, and adopt his method of philosophizing; and, on the other hand, none of the moderns has imposed his notions upon those of the ancient school.
+
+[14:8] Nor, in short, has any one done so with any other.
+
+[14:9] For it is not an easy thing to induce one to give up his own opinions, and accept those of others; although these might, perhaps, even be sentiments which, if he had been led to credit them before he began to philosophize, the man might at first have admired and accepted with all readiness: as, while the mind was not yet preoccupied, he might have directed his attention to that set of opinions, and given them his approval, and on their behalf opposed himself to those which he holds at present.
+
+[14:10] Such, at least, has been the kind of philosophizing exhibited by our noble and most eloquent and critical Greeks: for whatever any one of these has lighted on at the outset, moved by some impulse or other, that alone he declares to be truth, and holds that all else which is maintained by other philosophers is simply delusion and folly, though he himself does not more satisfactorily establish his own positions by argument, than do all the others severally defend their peculiar tenets; the man's object being simply to be under no obligation to give up and alter his opinions, whether by constraint or by persuasion, while he has (if one may speak truth) nothing else but a kind of unreasoning impulse towards these dogmas on the side of philosophy, and possesses no other criterion of what he imagines to be true, than (let it not seem an incredible assertion) undistinguishing chance.
+
+[14:11] And as each one thus becomes attached to those positions with which he has first fallen in, and is, as it were, held in chains by them, he is no longer capable of giving attention to others, if he happens to have anything of his own to offer on every subject with the demonstration of truth, and if he has the aid of argument to show how false the tenets of his adversaries are; for, helplessly and thoughtlessly and as if he looked for some happy contingency, he yields himself to the reasonings that first take possession of him.
+
+[14:12] And such reasonings mislead those who accept them, not only in other matters, but above all, in what is of greatest and most essential consequence—in the knowledge of God and in piety.
+
+[14:13] And yet men become bound by them in such a manner that no one can very easily release them.
+
+[14:14] For they are like men caught in a swamp stretching over some wide impassable plain, which, when they have once fallen into it, allows them neither to retrace their steps nor to cross it and effect their safety, but keeps them down in its soil until they meet their end; or they may be compared to men in a deep, dense, and majestic forest, into which the wayfarer enters, with the idea, perchance, of finding his road out of it again forthwith, and of taking his course once more on the open plain, but is baffled in his purpose by the extent and thickness of the wood.
+
+[14:15] And turning in a variety of directions, and lighting on various continuous paths within it, he pursues many a course, thinking that by some of them he will surely find his way out: but they only lead him farther in, and in no way open up an exit for him, inasmuch as they are all only paths within the forest itself; until at last the traveller, utterly worn out and exhausted, seeing that all the ways he had tried had proved only forest still, and despairing of finding any more his dwelling-place on earth, makes up his mind to abide there, and establish his hearth, and lay out for his use such free space as he can prepare in the wood itself.
+
+[14:16] Or again, we might take the similitude of a labyrinth, which has but one apparent entrance, so that one suspects nothing artful from the outside, and goes within by the single door that shows itself; and then, after advancing to the farthest interior, and viewing the cunning spectacle, and examining the construction so skillfully contrived, and full of passages, and laid out with unending paths leading inwards or outwards, he decides to go out again, but finds himself unable, and sees his exit completely intercepted by that inner construction which appeared such a triumph of cleverness.
+
+[14:17] But, after all, there is neither any labyrinth so inextricable and intricate, nor any forest so dense and devious, nor any plain or swamp so difficult for those to get out of, who have once got within it, as is discussion, at least as one may meet with it in the case of certain of these philosophers.
+
+[14:18] Wherefore, to secure us against falling into the unhappy experience of most, he did not introduce us to any one exclusive school of philosophy; nor did he judge it proper for us to go away with any single class of philosophical opinions, but he introduced us to all, and determined that we should be ignorant of no kind of Grecian doctrine.
+
+[14:19] And he himself went on with us, preparing the way before us, and leading us by the hand, as on a journey, whenever anything tortuous and unsound and delusive came in our way.
+
+[14:20] And he helped us like a skilled expert who has had long familiarity with such subjects, and is not strange or inexperienced in anything of the kind, and who therefore may remain safe in his own altitude, while he stretches forth his hand to others, and effects their security too, as one drawing up the submerged.
+
+[14:21] Thus did he deal with us, selecting and setting before us all that was useful and true in all the various philosophers, and putting aside all that was false.
+
+[14:22] And this he did for us, both in other branches of man's knowledge, and most especially in all that concerns piety.
+
+[15:1] Argument XV.
+
+[15:2] —The Case of Divine Matters.
+
+[15:3] Only God and His Prophets are to Be Heard in These.
+
+[15:4] The Prophets and Their Auditors are Acted on by the Same Afflatus.
+
+[15:5] Origen's Excellence in the Interpretation of Scripture.
+
+[15:6] With respect to these human teachers, indeed, he counselled us to attach ourselves to none of them, not even though they were attested as most wise by all men, but to devote ourselves to God alone, and to the prophets.
+
+[15:7] And he himself became the interpreter of the prophets to us, and explained whatsoever was dark or enigmatical in them.
+
+[15:8] For there are many things of that kind in the sacred words; and whether it be that God is pleased to hold communication with men in such a way as that the divine word may not enter all naked and uncovered into an unworthy soul, such as many are, or whether it be, that while every divine oracle is in its own nature most clear and perspicuous, it seems obscure and dark to us, who have apostatized from God, and have lost the faculty of hearing through time and age, I cannot tell.
+
+[15:9] But however the case may stand, if it be that there are some words really enigmatical, he explained all such, and set them in the light, as being himself a skilled and most discerning hearer of God; or if it be that none of them are really obscure in their own nature, they were also not unintelligible to him, who alone of all men of the present time with whom I have myself been acquainted, or of whom I have heard by the report of others, has so deeply studied the clear and luminous oracles of God, as to be able at once to receive their meaning into his own mind, and to convey it to others.
+
+[15:10] For that Leader of all men, who inspires God's dear prophets, and suggests all their prophecies and their mystic and heavenly words, has honoured this man as He would a friend, and has constituted him an expositor of these same oracles; and things of which He only gave a hint by others, He made matters of full instruction by this man's instrumentality; and in things which He, who is worthy of all trust, either enjoined in regal fashion, or simply enunciated, He imparted to this man the gift of investigating and unfolding and explaining them: so that, if there chanced to be any one of obtuse and incredulous mind, or one again thirsting for instruction, he might learn from this man, and in some manner be constrained to understand and to decide for belief, and to follow God.
+
+[15:11] These things, moreover, as I judge, he gives forth only and truly by participation in the Divine Spirit: for there is need of the same power for those who prophesy and for those who hear the prophets; and no one can rightly hear a prophet, unless the same Spirit who prophesies bestows on him the capacity of apprehending His words.
+
+[15:12] And this principle is expressed indeed in the Holy Scriptures themselves, when it is said that only He who shutteth openeth, and no other one whatever; and what is shut is opened when the word of inspiration explains mysteries.
+
+[15:13] Now that greatest gift this man has received from God, and that noblest of all endowments he has had bestowed upon him from heaven, that he should be an interpreter of the oracles of God to men, and that he might understand the words of God, even as if God spake them to him, and that he might recount them to men in such wise as that they may hear them with intelligence.
+
+[15:14] Therefore to us there was no forbidden subject of speech; for there was no matter of knowledge hidden or inaccessible to us, but we had it in our power to learn every kind of discourse, both foreign and Greek, both spiritual and political, both divine and human; and we were permitted with all freedom to go round the whole circle of knowledge, and investigate it, and satisfy ourselves with all kinds of doctrines, and enjoy the sweets of intellect.
+
+[15:15] And whether it was some ancient system of truth, or whether it was something one might otherwise name that was before us, we had in him an apparatus and a power at once admirable and full of the most beautiful views.
+
+[15:16] And to speak in brief, he was truly a paradise to us after the similitude of the paradise of God, wherein we were not set indeed to till the soil beneath us, or to make ourselves gross with bodily nurture, but only to increase the acquisitions of mind with all gladness and enjoyment,—planting, so to speak, some fair growths ourselves, or having them planted in us by the Author of all things.
+
+[16:1] Argument XVI.
+
+[16:2] —Gregory Laments His Departure Under a Threefold Comparison; Likening It to Adam's Departure Out of Paradise.
+
+[16:3] To the Prodigal Son's Abandonment of His Father's House, and to the Deportation of the Jews into Babylon.
+
+[16:4] Here, truly, is the paradise of comfort; here are true gladness and pleasure, as we have enjoyed them during this period which is now at its end—no short space indeed in itself, and yet all too short if this is really to be its conclusion, when we depart and leave this place behind us.
+
+[16:5] For I know not what has possessed me, or what offence has been committed by me, that I should now be going away—that I should now be put away.
+
+[16:6] I know not what I should say, unless it be that I am like a second Adam and have begun to talk, outside of paradise.
+
+[16:7] How excellent might my life be, were I but a listener to the addresses of my teacher, and silent myself! Would that even now I could have learned to be mute and speechless, rather than to present this new spectacle of making the teacher the hearer! For what concern had I with such a harangue as this? and what obligation was there upon me to make such an address, when it became me not to depart, but to cleave fast to the place? But these things seem like the transgressions that sprung from the pristine deceit, and the penalties of these primeval offences still await me here.
+
+[16:8] Do I not appear to myself to be disobedient in daring thus to overpass the words of God, when I ought to abide in them, and hold by them? And in that I withdraw, I flee from this blessed life, even as the primeval man fled from the face of God, and I return to the soil from which I was taken.
+
+[16:9] Therefore shall I have to eat of the soil all the days of my life there, and I shall have to till the soil—the very soil which produces thorns and thistles for me, that is to say, pains and reproachful anxieties—set loose as I shall be from cares that are good and noble.
+
+[16:10] And what I left behind me before, to that I now return—to the soil, as it were, from which I came, and to my common relationships here below, and to my father's house—leaving the good soil, where of old I knew not that the good fatherland lay; leaving also the relations in whom at a later period I began to recognise the true kinsmen of my soul, and the house, too, of him who is in truth our father, in which the father abides, and is piously honoured and revered by the genuine sons, whose desire it also is to abide therein.
+
+[16:11] But I, destitute alike of all piety and worthiness, am going forth from the number of these, and am turning back to what is behind, and am retracing my steps.
+
+[16:12] It is recorded that a certain son, receiving from his father the portion of goods that fell to him proportionately with the other heir, his brother, departed, by his own determination, into a strange country far distant from his father; and, living there in riot, he scattered his ancestral substance, and utterly wasted it; and at last, under the pressure of want, he hired himself as a swine-herd; and being driven to extremity by hunger, he longed to share the food given to the swine, but could not touch it.
+
+[16:13] Thus did he pay the penalty of his dissolute life, when he had to exchange his father's table, which was a princely one, for something he had not looked forward to—the sustenance of swine and serfs.
+
+[16:14] And we also seem to have some such fortune before us, now that we are departing, and that, too, without the full portion that falls to us.
+
+[16:15] For though we have not received all that we ought, we are nevertheless going away, leaving behind us what is noble and dear with you and beside you, and taking in exchange only what is inferior.
+
+[16:16] For all things melancholy will now meet us in succession,—tumult and confusion instead of peace, and an unregulated life instead of one of tranquillity and harmony, and a hard bondage, and the slavery of market-places, and lawsuits, and crowds, instead of this freedom; and neither pleasure nor any sort of leisure shall remain to us for the pursuit of nobler objects.
+
+[16:17] Neither shall we have to speak of the words of inspiration, but we shall have to speak of the works of men,—a thing which has been deemed simply a bane by the prophet,—and in our case, indeed, those of wicked men.
+
+[16:18] And truly we shall have night in place of day, and darkness in place of the clear light, and grief instead of the festive assembly; and in place of a fatherland, a hostile country will receive us, in which I shall have no liberty to sing my sacred song, for how could I sing it in a land strange to my soul, in which the sojourners have no permission to approach God? but only to weep and mourn, as I call to mind the different state of things here, if indeed even that shall be in my power.
+
+[16:19] We read that enemies once assailed a great and sacred city, in which the worship of God was observed, and dragged away its inhabitants, both singers and prophets, into their own country, which was Babylon.
+
+[16:20] And it is narrated that these captives, when they were detained in the land, refused, even when asked by their conquerors, to sing the divine song, or to play in a profane country, and hung their harps on the willow-trees, and wept by the rivers of Babylon.
+
+[16:21] Like one of these I verily seem to myself to be, as I am cast forth from this city, and from this sacred fatherland of mine, where both by day and by night the holy laws are declared, and hymns and songs and spiritual words are heard; where also there is perpetual sunlight; where by day in waking vision we have access to the mysteries of God, and by night in dreams we are still occupied with what the soul has seen and handled in the day; and where, in short, the inspiration of divine things prevails over all continually.
+
+[16:22] From this city, I say, I am cast forth, and borne captive to a strange land, where I shall have no power to pipe: for, like these men of old, I shall have to hang my instrument on the willows, and the rivers shall be my place of sojourn, and I shall have to work in mud, and shall have no heart to sing hymns, even though I remember them; yea, it may be that, through constant occupation with other subjects, I shall forget even them, like one spoiled of memory itself.
+
+[16:23] And would that, in going away, I only went away against my will, as a captive is wont to do; but I go away also of my own will, and not by constraint of another; and by my own act I am dispossessed of this city, when it is in my option to remain in it.
+
+[16:24] Perchance, too, in leaving this place, I may be going to prosecute no safe journey, as it sometimes fares with one who quits some safe and peaceful city; and it is indeed but too likely that, in journeying, I may fall into the hands of robbers, and be taken prisoner, and be stripped and wounded with many strokes, and be cast forth to lie half-dead somewhere.
+
+[17:1] Argument XVII.
+
+[17:2] —Gregory Consoles Himself.
+
+[17:3] But why should I utter such lamentations? There lives still the Saviour of all men, even of the half-dead and the despoiled, the Protector and Physician for all, the Word, that sleepless Keeper of all.
+
+[17:4] We have also seeds of truth which thou hast made us know as our possession, and all that we have received from thee,—those noble deposits of instruction, with which we take our course; and though we weep, indeed, as those who go forth from home, we yet carry those seeds with us.
+
+[17:5] It may be, then, that the Keeper who presides over us will bear us in safety through all that shall befall as; and it may be that we shall come yet again to thee, bringing with us the fruits and handfuls yielded by these seeds, far from perfect truly, for how could they be so? but still such as a life spent in civil business makes it possible for us to rear, though marred indeed by a kind of faculty that is either unapt to bear fruit altogether, or prone to bear bad fruit, but which, I trust, is one not destined to be further misused by us, if God grants us grace.
+
+[18:1] Argument XVIII.
+
+[18:2] — Peroration, and Apology for the Oration.
+
+[18:3] Wherefore let me now have done with this address, which I have had the boldness to deliver in a presence wherein boldness least became me.
+
+[18:4] Yet this address is one which, I think, has aimed heartily at signifying our thanks to the best of our ability,—for though we have had nothing to say worthy of the subject, we could not be altogether silent,—and one, too, which has given expression to our regrets, as those are wont to do who go abroad in separation from friends.
+
+[18:5] And whether this speech of mine may not have contained things puerile or bordering on flattery, or things offending by excess of simplicity on the one hand, or of elaboration on the other, I know not.
+
+[18:6] Of this, however, I am clearly conscious, that at least there is in it nothing unreal, but all that is true and genuine, in sincerity of opinion, and in purity and integrity of judgment.
+
+[19:1] Argument XIX.
+
+[19:2] —Apostrophe to Origen, and Therewith the Leave-Taking, and the Urgent Utterance of Prayer.
+
+[19:3] But, O dear soul, arise thou and offer prayer, and now dismiss us; and as by thy holy instructions thou hast been our rescuer when we enjoyed thy fellowship, so save us still by thy prayers in our separation.
+
+[19:4] Commend us and set us constantly before thee in prayer.
+
+[19:5] Or rather commend us continually to that God who brought us to thee, giving thanks for all that has been granted us in the past, and imploring Him still to lead us by the hand in the future, and to stand ever by us, filling our mind with the understanding of His precepts, inspiring us with the godly fear of Himself, and vouchsafing us henceforward His choicest guidance.
+
+[19:6] For when we are gone from thee, we shall not have the same liberty for obeying Him as was ours when we were with thee.
+
+[19:7] Pray, therefore, that some encouragement may be conveyed to us from Him when we lose thy presence, and that He may send us a good conductor, some angel to be our comrade on the way.
+
+[19:8] And entreat Him also to turn our course, for that is the one thing which above all else will effectually comfort us, and bring us back to thee again.
+
+[20:1] Elucidations.
+
+[20:2] Neale, in his valuable work, does full justice to Dionysius, whose life is twinned with Gregory's; but he seems to me most unaccountably to slight the truly great and commanding genius of Gregory.
+
+[20:3] I take opportunity, then, to direct attention to Neale's candid, and, on the whole, favourable view of Origen; but it grieves me whenever I see in critics a manifest inability to put themselves back into the times of which they write, as I think is the case, not infrequently, even with Dr.
+
+[20:4] Neale.
+
+[20:5] The figure of this grand ornament of the mighty patriarchate and school of Alexandria is colossal.
+
+[20:6] His genius is Titanic, and has left all Christendom profoundly his debtor to this day, by the variety of his work and the versatility of his speech and pen.
+
+[20:7] Doubtless the youthful Gregory's panegyric does contain, as he himself suggests, much that is "puerile or bordering on flattery;" but, as he protests with transparent truthfulness, "there is nothing in it unreal".
+
+[20:8] It shines with "sincerity of thought and integrity of judgment".
+
+[20:9] And as such, what a portrait it presents us of the love and patient effort of this lifelong confessor! Let me commend this example to professors of theology generally.
+
+[20:10] All can learn from it the power of sweetness and love, united with holiness of purpose, to stamp the minds and the characters of youth with the divine "image and superscription".
+
+[20:11] But, as to the sharpness of modern censures upon Origen's conspicuous faults, I must suggest three important considerations, which should be applied to all the Ante-Nicene doctors: () How could they who were working out the formulas of orthodoxy, be expected to use phrases with the skill and precision which became necessary only after the great Synodical period had embodied them in clear, dogmatic statements? () How could the active intellect of an Origen have failed to make great mistakes in such an immensity of labours and such a variety of works? () If, in our own day, we indulge speculative minds in large liberties so long as they never make shipwreck of the faith, how much more should we deem them excusable who were unable to consult libraries of well-digested thought, and to employ, as we do, the accumulated wealth of fifty generations of believers, whenever we are called to the solemn responsibility of impressing our convictions upon others? The conclusion of Dr.
+
+[20:12] Neale's review of Origen balances the praise and blame accorded to him by those nearest to his times; but let us reflect upon the painful conflicts of those times, and upon the pressure under which, to justify their own positions, they were often forced to object to any error glorified by even the apparent patronage of Origen.
+

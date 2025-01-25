@@ -1,0 +1,1 @@
+# Syriac: Moses of Chorene

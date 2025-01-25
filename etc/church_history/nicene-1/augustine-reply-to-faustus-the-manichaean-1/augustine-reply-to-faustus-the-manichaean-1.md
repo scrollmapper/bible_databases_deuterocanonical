@@ -1,0 +1,8910 @@
+# Augustine: Reply to Faustus the Manichaean I
+
+[1:1] Reply to Faustus the Manichaean.
+
+[1:2] [Contra Faustum Manich aeum.
+
+[1:3] ] a.
+
+[1:4] d.
+
+[1:5] 400.
+
+[1:6]   Written about the year 400.
+
+[1:7] [Faustus was undoubtedly the acutest, most determined and most unscrupulous opponent of orthodox Christianity in the age of Augustin.
+
+[1:8] The occasion of Augustin's great writing against him was the publication of Faustus' attack on the Old Testament Scriptures, and on the New Testament so far as it was at variance with Manich aean error.
+
+[1:9] Faustus seems to have followed in the footsteps of Adimantus, against whom Augustin had written some years before, but to have gone considerably beyond Adimantus in the recklessness of his statements.
+
+[1:10] The incarnation of Christ, involving his birth from a woman, is one of the main points of attack.
+
+[1:11] He makes the variations in the genealogical records of the Gospels a ground for rejecting the whole as spurious.
+
+[1:12] He supposed the Gospels, in their present form, to be not the works of the Apostles, but rather of later Judaizing falsifiers.
+
+[1:13] The entire Old Testament system he treats with the utmost contempt, blaspheming the Patriarchs, Moses, the Prophets, etc.
+
+[1:14] , on the ground of their private lives and their teachings.
+
+[1:15] Most of the objections to the morality of the Old Testament that are now current were already familiarly used in the time of Augustin.
+
+[1:16] Augustin's answers are only partially satisfactory, owing to his imperfect view of the relation of the old dispensation to the new; but in the age in which they were written they were doubtless very effective.
+
+[1:17] The writing is interesting from the point of view of Biblical criticism, as well as from that of polemics against Manich aeism.
+
+[1:18] —A.
+
+[1:19] H.
+
+[1:20] N.
+
+[1:21] ]      Book I.
+
+[1:22] Who Faustus was.
+
+[1:23] Faustus's object in writing the polemical treatise that forms the basis of Augustin's reply.
+
+[1:24] Augustin's remarks thereon.
+
+[1:25] 1.
+
+[1:26] Faustus was an African by race, a citizen of Mileum; he was eloquent and clever, but had adopted the shocking tenets of the Manich aean heresy.
+
+[1:27] He is mentioned in my Confessions,  where there is an account of my acquaintance with him.
+
+[1:28] This man published a certain volume against the true Christian faith and the Catholic truth.
+
+[1:29] A copy reached us, and was read by the brethren, who called for an answer from me, as part of the service of love which I owe to them.
+
+[1:30] Now, therefore, in the name and with the help of our Lord and Saviour Jesus Christ, I undertake the task, that all my readers may know that acuteness of mind and elegance of style are of no use to a man unless the Lord directs his steps.
+
+[1:31] In the mysterious equity of divine mercy, God often bestows His help on the slow and the feeble; while from the want of this help, the most acute and eloquent run into error only with greater rapidity and willfulness.
+
+[1:32] I will give the opinions of Faustus as if stated by himself, and mine as if in reply to him.
+
+[1:33] 2.
+
+[1:34] Faustus said: As the learned Adimantus, the only teacher since the sainted Manich aeus deserving of our attention, has plentifully exposed and thoroughly refuted the errors of Judaism and of semi-Christianity, I think it not amiss that you should be supplied in writing with brief and pointed replies to the captious objections of our adversaries, that when, like children of the wily serpent, they try to bewilder you with their quibbles, you may be prepared to give intelligent answers.
+
+[1:35] In this way they will be kept to the subject, instead of wandering from one thing to another.
+
+[1:36] And I have placed our opinions and those of our opponent over against one another, as plainly and briefly as possible, so as not to perplex the reader with a long and intricate discourse.
+
+[1:37] 3.
+
+[1:38] Augustin replies: You warn against semi-Christians, which you say we are; but we warn against pseudo-Christians, which we have shown you to be.
+
+[1:39] Semi-Christianity may be imperfect without being false.
+
+[1:40] So, then, if the faith of those whom you try to mislead is imperfect, would it not be better to supply what is lacking than to rob them of what they have? It was to imperfect Christians that the apostle wrote, "joying and beholding your conversation," and "the deficiency in your faith in Christ".
+
+[1:41] The apostle had in view a spiritual structure, as he says elsewhere, "Ye are God's building;"  and in this structure he found both a reason for joy and a reason for exertion.
+
+[1:42] He rejoiced to see part already finished; and the necessity of bringing the edifice to perfection called for exertion.
+
+[1:43] Imperfect Christians as we are, you pursue us with the desire to pervert what you call our semi-Christianity by false doctrine; while even those who are so deficient in faith as to be unable to reply to all your sophisms, are wise enough at least to know that they must not have anything at all to do with you.
+
+[1:44] You look for semi-Christians to deceive: we wish to prove you pseudo-Christians, that Christians may learn something from your refutation, and that the less advanced may learn to avoid you.
+
+[1:45] Do you call us children of the serpent? You have surely forgotten how often you have found fault with the prohibition in Paradise, and have praised the serpent for opening Adam's eyes.
+
+[1:46] You have the better claim to the title which you give us.
+
+[1:47] The serpent owns you as well when you blame him as when you praise him.
+
+[1:48]              Book II.
+
+[1:49] Faustus claims to believe the Gospel, yet refuses to accept the genealogical tables on various grounds which Augustin seeks to set aside.
+
+[1:50] 1.
+
+[1:51] Faustus said: Do I believe the gospel? Certainly.
+
+[1:52] Do I therefore believe that Christ was born? Certainly not.
+
+[1:53] It does not follow that because I believe the gospel, as I do, I must therefore believe that Christ was born.
+
+[1:54] This I do not believe; because Christ does not say that He was born of men, and the gospel, both in name and in fact, begins with Christ's preaching.
+
+[1:55] As for the genealogy, the author himself does not venture to call it the gospel.
+
+[1:56] For what did he write? "The book of the generation of Jesus Christ the Son of David".
+
+[1:57] The book of the generation is not the book of the gospel.
+
+[1:58] It is more like a birth-register, the star confirming the event.
+
+[1:59] Mark, on the other hand, who recorded the preaching of the Son of God, without any genealogy, begins most suitably with the words, "The gospel of Jesus Christ the Son of God".
+
+[1:60] It is plain that the genealogy is not the gospel.
+
+[1:61] Matthew himself says, that after John was put in prison, Jesus began to preach the gospel of the kingdom; so that what is mentioned before this is the genealogy, and not the gospel.
+
+[1:62] Why did not Matthew begin with, "The gospel of Jesus Christ the Son of God," but because he thought it sinful to call the genealogy the gospel? Understand, then, what you have hitherto overlooked —the distinction between the genealogy and the gospel.
+
+[1:63] Do I then admit the truth of the gospel? Yes; understanding by the gospel the preaching of Christ.
+
+[1:64] I have plenty to say about the generations too, if you wish.
+
+[1:65] But you seem to me now to wish to know not whether I accept the gospel, but whether I accept the generations.
+
+[1:66] 2.
+
+[1:67] Augustin replied: Well, in answer to your own questions, you tell us first that you believe the gospel, and next, that you do not believe in the birth of Christ; and your reason is, that the birth of Christ is not in the gospel.
+
+[1:68] What, then, will you answer the apostle when he says, "Remember that Christ Jesus rose from the dead, of the seed of David, according to my gospel?"  You surely are ignorant, or pretend to be ignorant, what the gospel is.
+
+[1:69] You use the word, not as the apostle teaches, but as suits your own errors.
+
+[1:70] What the apostles call the gospel you depart from; for you do not believe that Christ was of the seed of David.
+
+[1:71] This was Paul's gospel; and it was also the gospel of the other apostles, and of all faithful stewards of so great a mystery.
+
+[1:72] For Paul says elsewhere, "Whether, therefore, I or they, so we preach, and so ye believed".
+
+[1:73] They did not all write the gospel, but they all preached it.
+
+[1:74] The name evangelist is properly given to the narrators of the birth, the actions, the words, the sufferings of our Lord Jesus Christ.
+
+[1:75] The word gospel means good news, and might be used of any good news, but is properly applied to the narrative of the Saviour.
+
+[1:76] If, then, you teach something different, you must have departed from the gospel.
+
+[1:77] Assuredly those babes whom you despise as semi-Christians will oppose you, when they hear their mother Charity declaring by the mouth of the apostle, "If any one preach another gospel than that which we have preached to you, let him be accursed".
+
+[1:78] Since, then, Paul, according to his gospel, preached that Christ was of the seed of David, and you deny this and preach something else, may you be accursed! And what can you mean by saying that Christ never declares Himself to have been born of men, when on every occasion He calls Himself the Son of man?  3.
+
+[1:79] You learned men, forsooth, dress up for our benefit some wonderful First Man, who came down from the race of light to war with the race of darkness, armed with his waters against the waters of the enemy, and with his fire against their fire, and with his winds against their winds.
+
+[1:80] And why not with his smoke against their smoke, and with his darkness against their darkness? According to you, he was armed against smoke with air, and against darkness with light.
+
+[1:81] So it appears that smoke and darkness are bad, since they could not belong to his goodness.
+
+[1:82] The other three, again—water, wind, and fire—are good.
+
+[1:83] How, then, could these belong to the evil of the enemy? You reply that the water of the race of darkness was evil, while that which the First Man brought was good; and so, too, his good wind and fire fought against the evil wind and fire of the adversary.
+
+[1:84] But why could he not bring good smoke against evil smoke? Your falsehoods seem to vanish in smoke.
+
+[1:85] Well, your First Man warred against an opposite nature.
+
+[1:86] And yet only one of the five things he brought was the opposite of what the hostile race had.
+
+[1:87] The light was opposed to the darkness, but the four others are not opposed to one another.
+
+[1:88] Air is not the opposite of smoke, and still less is water the opposite of water, or wind of wind, or fire of fire.
+
+[1:89] 4.
+
+[1:90] One is shocked at your wild fancies about this First Man changing the elements which he brought, that he might conquer his enemies by pleasing them.
+
+[1:91] So you make what you call the kingdom of falsehood keep honestly to its own nature, while truth is changeable in order to deceive.
+
+[1:92] Jesus Christ, according to you, is the son of this First Man.
+
+[1:93] Truth springs, forsooth, from your fiction.
+
+[1:94] You praise this First Man for using changeable and delusive forms in the contest.
+
+[1:95] If you, then, speak the truth, you do not imitate him.
+
+[1:96] If you imitate him, you deceive as he did.
+
+[1:97] But our Lord and Saviour Jesus Christ, the true and truthful Son of God, the true and truthful Son of man, both of which He testifies of Himself, derived the eternity of His godhead from true God, and His incarnation from true man.
+
+[1:98] Your First Man is not the first man of the apostle.
+
+[1:99] "The first man," he says, "was of the earth, earthy; the second man is from heaven, heavenly.
+
+[1:100] As is the earthy, such are they also that are earthy; as is the heavenly, such are they also that are heavenly.
+
+[1:101] As we have borne the image of the earthy, let us also bear the image of the heavenly".
+
+[1:102] The first man of the earth, earthy, is Adam, who was made of dust.
+
+[1:103] The second man from heaven, heavenly, is the Lord Jesus Christ; for, being the Son of God, He became flesh that He might be a man outwardly, while He remained God within; that He might be both the true Son of God, by whom we were made, and the true Son of man, by whom we are made anew.
+
+[1:104] Why do you conjure up this fabulous First Man of yours, and refuse to acknowledge the first man of the apostle? Is this not a fulfillment of what the apostle says: "Turning away their ears from the truth, they will give heed to fables?"  According to Paul, the first man is of the earth, earthy; according to Manich aeus, he is not earthy, and is equipped with five elements of some unreal, unintelligible kind.
+
+[1:105] Paul says: "If any one should have announced to you differently from what we have announced let him be accursed".
+
+[1:106] Therefore lest Paul be a liar, let Manich aeus be accursed.
+
+[1:107] 5.
+
+[1:108] Again, you find fault with the star by which the Magi were led to worship the infant Christ, which you should be ashamed of doing, when you represent your fabulous Christ, the son of your fabulous First Man not as announced by a star, but as bound up in all the stars.
+
+[1:109] For you say that he mingled with the principles of darkness in his conflict with the race of darkness, that by capturing these principles the world might be made out of the mixture.
+
+[1:110] So that, by your profane fancies, Christ is not only mingled with heaven and all the stars, but conjoined and compounded with the earth and all its productions, —a Saviour no more, but needing to be saved by you, by your eating and disgorging Him.
+
+[1:111] This foolish custom of making your disciples bring you food, that your teeth and stomach may be the means of relieving Christ, who is bound up in it, is a consequence of your profane fancies.
+
+[1:112] You declare that Christ is liberated in this way—not, however, entirely; for you hold that some tiny particles of no value still remain in the excrement, to be mixed up and compounded again and again in various material forms, and to be released and purified at any rate by the fire in which the world will be burned up, if not before.
+
+[1:113] Nay, even then, you say, Christ is not entirely liberated; but some extreme particles of His good and divine nature, which have been so defiled that they cannot be cleansed, are condemned to stay for ever in the horrid mass of darkness.
+
+[1:114] And these people pretend to be offended with our saying that a star announced the birth of the Son of God, as if this were placing His birth under the influence of a constellation; while they subject Him not to stars only, but to such polluting contact with all material things, with the juices of all vegetables, and with the decay of all flesh, and with the decomposition of all food, in which He is bound up, that the only way of releasing Him, at least one great means, is that men, that is the Elect of the Manich aeans, should succeed in digesting their dinner.
+
+[1:115] We, too, deny the influence of the stars upon the birth of any man; for we maintain that, by the just law of God, the free-will of man, which chooses good or evil, is under no constraint of necessity.
+
+[1:116] How much less do we subject to any constellation the incarnation of the eternal Creator and Lord of all! When Christ was born after the flesh, the star which the Magi saw had no power as governing, but attended as a witness.
+
+[1:117] Instead of assuming control over Him, it acknowledged Him by the homage it did.
+
+[1:118] Besides, this star was not one of those which from the beginning of the world continue in the course ordained by the Creator.
+
+[1:119] Along with the new birth from the Virgin appeared a new star, which served as a guide to the Magi who were themselves seeking for Christ; for it went before them till they reached the place where they found the Word of God in the form of a child.
+
+[1:120] But what astrologer ever thought of making a star leave its course, and come down to the child that is born, as they imagine, under it? They think that the stars affect the birth, not that the birth changes the course of the stars; so, if the star in the Gospel was one of those heavenly bodies, how could it determine Christ's action, when it was compelled to change its own action at Christ's birth? But if, as is more likely, a star which did not exist before appeared to point out Christ, it was the effect of Christ's birth, and not the cause of it.
+
+[1:121] Christ was not born because the star was there; but the star was there because Christ was born.
+
+[1:122] If there was any fate, it was in the birth, and not in the star.
+
+[1:123] The word fate is derived from a word which means to speak; and since Christ is the Word of God by which all things were spoken before they were, the conjunction of stars is not the fate of Christ, but Christ is the fate of the stars.
+
+[1:124] The same will that made the heavens took our earthly nature.
+
+[1:125] The same power that ruled the stars laid down His life and took it again.
+
+[1:126] 6.
+
+[1:127] Why, then, should the narrative of the birth not be the gospel, since it conveys such good news as heals our malady? Is it because Matthew begins, not like Mark, with the words, "The beginning of the gospel of Jesus Christ," but, "The book of the generation of Jesus Christ?" In this way, John, too, might be said not to have written the gospel, for he has not the words, Beginning of the gospel, or Book of the gospel, but, "In the beginning was the Word".
+
+[1:128] Perhaps the clever word-maker Faustus will call the introduction in John a Verbidium, as he called that in Matthew a Genesidium.
+
+[1:129] The wonder is, that you are so impudent as to give the name of gospel to your silly stories.
+
+[1:130] What good news is there in telling us that, in the conflict against some strange hostile nation, God could protect His own kingdom only by sending part of His own nature into the greedy jaws of the former, and to be so defiled, that after all those toils and tortures it cannot all be purged? Is this bad news the gospel? Every one who has even a slender knowledge of Greek knows that gospel means good news.
+
+[1:131] But where is your good news, when your God himself is said to weep as under eclipse till the darkness and defilement are removed from his members? And when he ceases to weep, it seems he becomes cruel.
+
+[1:132] For what has that part of him which is to be involved in the mass done to deserve this condemnation? This part must go on weeping for ever.
+
+[1:133] But no; whoever examines this news will not weep because it is bad, but will laugh because it is not true.
+
+[1:134]              Book III.
+
+[1:135] Faustus objects to the incarnation of God on the ground that the evangelists are at variance with each other, and that incarnation is unsuitable to deity.
+
+[1:136] Augustin attempts to remove the critical and theological difficulties.
+
+[1:137] 1.
+
+[1:138] Faustus said: Do I believe in the incarnation? For my part, this is the very thing I long tried to persuade myself of, that God was born; but the discrepancy in the genealogies of Luke and Matthew stumbled me, as I knew not which to follow.
+
+[1:139] For I thought it might happen that, from not being omniscient, I might take the true for false, and the false for true.
+
+[1:140] So, in despair of settling this dispute, I betook myself to Mark and John, two authorities still, and evangelists as much as the others.
+
+[1:141] I approved with good reason of the beginning of Mark and John, for they have nothing of David, or Mary, or Joseph.
+
+[1:142] John says, "In the beginning was the Word, and the Word was with God, and the Word was God," meaning Christ.
+
+[1:143] Mark says, "The gospel of Jesus Christ, the Son of God," as if correcting Matthew, who calls him the Son of David.
+
+[1:144] Perhaps, however, the Jesus of Matthew is a different person from the Jesus of Mark.
+
+[1:145] This is my reason for not believing in the birth of Christ.
+
+[1:146] Remove this difficulty, if you can, by harmonizing the accounts, and I am ready to yield.
+
+[1:147] In any case, however, it is hardly consistent to believe that God, the God of Christians, was born from the womb.
+
+[1:148] 2.
+
+[1:149] Augustin replied: Had you read the Gospel with care, and inquired into those places where you found opposition, instead of rashly condemning them, you would have seen that the recognition of the authority of the evangelists by so many learned men all over the world, in spite of this most obvious discrepancy, proves that there is more in it than appears at first sight.
+
+[1:150] Any one can see, as well as you, that the ancestors of Christ in Matthew and Luke are different; while Joseph appears in both, at the end in Matthew and at the beginning in Luke.
+
+[1:151] Joseph, it is plain, might be called the father of Christ, on account of his being in a certain sense the husband of the mother of Christ; and so his name, as the male representative, appears at the beginning or end of the genealogies.
+
+[1:152] Any one can see as well as you that Joseph has one father in Matthew and another in Luke, and so with the grandfather and with all the rest up to David.
+
+[1:153] Did all the able and learned men, not many Latin writers certainly, but innumerable Greek, who have examined most attentively the sacred Scriptures, overlook this manifest difference? Of course they saw it.
+
+[1:154] No one can help seeing it.
+
+[1:155] But with a due regard to the high authority of Scripture, they believed that there was something here which would be given to those that ask, and denied to those that snarl; would be found by those that seek, and taken away from those that criticise; would be open to those that knock, and shut against those that contradict.
+
+[1:156] They asked, sought, and knocked; they received, found, and entered in.
+
+[1:157] 3.
+
+[1:158] The whole question is how Joseph had two fathers.
+
+[1:159] Supposing this possible, both genealogies may be correct.
+
+[1:160] With two fathers, why not two grandfathers, and two great-grandfathers, and so on, up to David, who was the father both of Solomon, who is mentioned in Matthew's list, and of Nathan, who occurs in Luke? This is the difficulty with many people who think it impossible that two men should have one and the same son, forgetting the very obvious fact that a man may be called the son of the person who adopted him as well as of the person who begot him.
+
+[1:161] Adoption, we know, was familiar to the ancients; for even women adopted the children of other women, as Sarah adopted Ishmael, and Leah her handmaid's son, and Pharaoh's daughter Moses.
+
+[1:162] Jacob, too, adopted his grandsons, the children of Joseph.
+
+[1:163] Moreover, the word adoption is of great importance in the system of our faith, as is seen from the apostolic writings.
+
+[1:164] For the Apostle Paul, speaking of the advantages of the Jews, says: "Whose are the adoption, and the glory, and the covenants, and the giving of the law; whose are the fathers, and of whom, according to the flesh, Christ came, who is over all, God blessed for ever".
+
+[1:165] And again: "We ourselves also groan within ourselves, waiting for the adoption of the sons of God, even the redemption of the body".
+
+[1:166] Again, elsewhere: "But in the fullness of time, God sent His Son, made of a woman, made under the law, that we might receive the adoption of sons".
+
+[1:167] These passages show clearly that adoption is a significant symbol.
+
+[1:168] God has an only Son, whom He begot from His own substance, of whom it is said, "Being in the form of God, He thought it not robbery to be equal to God".
+
+[1:169] Us He begot not of His own substance, for we belong to the creation which is not begotten, but made; but that He might make us the brothers of Christ, He adopted us.
+
+[1:170] That act, then, by which God, when we were not born of Him, but created and formed, begot us by His word and grace, is called adoption.
+
+[1:171] So John says, "He gave them power to become the sons of God".
+
+[1:172] Since, therefore; the practice of adoption is common among our fathers, and in Scripture, is there not irrational profanity in the hasty condemnation of the evangelists as false because the genealogies are different, as if both could not be true, instead of considering calmly the simple fact that frequently in human life one man may have two fathers, one of whose flesh he is born, and another of whose will he is afterwards made a son by adoption? If the second is not rightly called father, neither are we right in saying, "Our Father which art in heaven," to Him of whose substance we were not born, but of whose grace and most merciful will we were adopted, according to apostolic doctrine, and truth most sure.
+
+[1:173] For one is to us God, and Lord, and Father: God, for by Him we are created, though of human parents; Lord, for we are His subjects; Father, for by His adoption we are born again.
+
+[1:174] Careful students of sacred Scripture easily saw, from a little consideration, how, in the different genealogies of the two evangelists, Joseph had two fathers, and consequently two lists of ancestors.
+
+[1:175] You might have seen this too, if you had not been blinded by the love of contradiction.
+
+[1:176] Other things far beyond your understanding have been discovered in the careful investigation of all parts of these narratives.
+
+[1:177] The familiar occurrence of one man begetting a son and another adopting him, so that one man has two fathers, you might, in spite of Manich aean error, have thought of as an explanation, if you had not been reading in a hostile spirit.
+
+[1:178] 4.
+
+[1:179] But why Matthew begins with Abraham and descends to Joseph, while Luke begins with Joseph and ascends, not to Abraham, but to God, who made man, and, by giving a commandment, gave him power to become, by believing, a son of God; and why Matthew records the generations at the commencement of his book, Luke after the baptism of the Saviour by John; and what is the meaning of the number of the generations in Matthew, who divides them into three sections of fourteen each, though in the whole sum there appears to be one wanting; while in Luke the number of generations recorded after the baptism amount to seventy-seven, which number the Lord Himself enjoins in connection with the forgiveness of sins, saying, "Not only seven times, but seventy-seven times;"—these things you will never understand, unless either you are taught by some Catholic of superior stamp, who has studied the sacred Scriptures, and has made all the progress possible, or you yourselves turn from your error, and in a Christian spirit ask that you may receive, seek that you may find, and knock that it may be opened to you.
+
+[1:180] 5.
+
+[1:181] Since, then, this double fatherhood of nature and adoption removes the difficulty arising from the discrepancy of the genealogies, there is no occasion for Faustus to leave the two evangelists and betake himself to the other two, which would be a greater affront to those he betook himself to than to those he left.
+
+[1:182] For the sacred writers do not desire to be favored at the expense of their brethren.
+
+[1:183] For their joy is in union, and they are one in Christ; and if one says one thing, and another another, or one in one way and another in another, still they all speak truth, and in no way contradict one another; only let the reader be reverent and humble, not in an heretical spirit seeking occasion for strife, but with a believing heart desiring edification.
+
+[1:184] Now, in this opinion that the evangelists give the ancestors of different fathers, as it is quite possible for a man to have two fathers, there is nothing inconsistent with truth.
+
+[1:185] So the evangelists are harmonized, and you, by Faustus's promise are bound to yield at once.
+
+[1:186] 6.
+
+[1:187] You may perhaps be troubled by that additional remark which he makes: "In any case, however, it is hardly consistent to believe that God, the God of Christians, was born from the womb".
+
+[1:188] As if we believed that the divine nature came from the womb of a woman.
+
+[1:189] Have I not just quoted the testimony of the apostle, speaking of the Jews: "Whose are the fathers, and of whom, according to the flesh, Christ came, who is God over all, blessed for ever?" Christ, therefore, our Lord and Saviour, true Son of God in His divinity, and true son of man according to the flesh, not as He is God over all was born of a woman, but in that feeble nature which He took of us, that in it He might die for us, and heal it in us: not as in the form of God, in which He thought it not robbery to be equal to God, was He born of a woman, but in the form of a servant, in taking which He emptied Himself.
+
+[1:190] He is therefore said to have emptied Himself because He took the form of a servant, not because He lost the form of God.
+
+[1:191] For in the unchangeable possession of that nature by which in the form of God He is equal to the Father, He took our changeable nature, by which He might be born of a virgin.
+
+[1:192] You, while you protest against putting the flesh of Christ in a virgin's womb, place the very divinity of God in the womb not only of human beings, but of dogs and swine.
+
+[1:193] You refuse to believe that the flesh of Christ was conceived in the Virgin's womb, in which God was not found nor even changed; while you assert that in all men and beasts, in the seed of male and in the womb of female, in all conceptions on land or in water, an actual part of God and the divine nature is continually bound, and shut up, and contaminated, never to be wholly set free.
+
+[1:194]              Book IV.
+
+[1:195] Faustus's reasons for rejecting the Old Testament, and Augustin's animadversions thereon.
+
+[1:196] 1.
+
+[1:197] Faustus said: Do I believe the Old Testament? If it bequeaths anything to me, I believe it; if not, I reject it.
+
+[1:198] It would be an excess of forwardness to take the documents of others which pronounce me disinherited.
+
+[1:199] Remember that the promise of Canaan in the Old Testament is made to Jews, that is, to the circumcised, who offer sacrifice, and abstain from swine's flesh, and from the other animals which Moses pronounces unclean, and observe Sabbaths, and the feast of unleavened bread, and other things of the same kind which the author of the Testament enjoined.
+
+[1:200] Christians have not adopted these observances, and no one keeps them; so that if we will not take the inheritance, we should surrender the documents.
+
+[1:201] This is my first reason for rejecting the Old Testament, unless you teach me better.
+
+[1:202] My second reason is, that this inheritance is such a poor fleshly thing, without any spiritual blessings, that after the New Testament, and its glorious promise of the kingdom of heaven and eternal life, I think it not worth the taking.
+
+[1:203] 2.
+
+[1:204] Augustin replied: No one doubts that promises of temporal things are contained in the Old Testament, for which reason it is called the Old Testament; or that the kingdom of heaven and the promise of eternal life belong to the New Testament.
+
+[1:205] But that in these temporal things were figures of future things which should be fulfilled in us upon whom the ends of the ages are come, is not my fancy, but the judgment of the apostle, when he says of such things, "These things were our examples;" and again, "These things happened to them for an example, and they are written for us on whom the ends of the ages are come".
+
+[1:206] We receive the Old Testament, therefore, not in order to obtain the fulfillment of these promises, but to see in them predictions of the New Testament; for the Old bears witness to the New.
+
+[1:207] Whence the Lord, after He rose from the dead, and allowed His disciples not only to see but to handle Him, still, lest they should doubt their mortal and fleshly senses, gave them further confirmation from the testimony of the ancient books, saying, "It was necessary that all things should be fulfilled which were written in the law of Moses, and in the Prophets and Psalms, concerning me".
+
+[1:208] Our hope, therefore, rests not on the promise of temporal things.
+
+[1:209] Nor do we believe that the holy and spiritual men of these times—the patriarchs and prophets—were taken up with earthly things.
+
+[1:210] For they understood, by the revelation of the Spirit of God, what was suitable for that time, and how God appointed all these sayings and actions as types and predictions of the future.
+
+[1:211] Their great desire was for the New Testament; but they had a personal duty to perform in those predictions, by which the new things of the future were foretold.
+
+[1:212] So the life as well as the tongue of these men was prophetic.
+
+[1:213] The carnal people, indeed, thought only of present blessings, though even in connection with the people there were prophecies of the future.
+
+[1:214] These things you do not understand, because, as the prophet said, "Unless you believe, you shall not understand".
+
+[1:215] For you are not instructed in the kingdom of heaven,—that is, in the true Catholic Church of Christ.
+
+[1:216] If you were, you would bring forth from the treasure of the sacred Scriptures things old as well as new.
+
+[1:217] For the Lord Himself says, "Therefore every scribe instructed in the kingdom of heaven is like an householder who brings forth from his treasure things new and old".
+
+[1:218] And so, while you profess to receive only the new promises of God, you have retained the oldness of the flesh, adding only the novelty of error; of which novelty the apostle says, "Shun profane novelties of words, for they increase unto more ungodliness, and their speech eats like a cancer.
+
+[1:219] Of whom is Hymen aeus and Philetus, who concerning the faith have erred, saying that the resurrection is past already, and have overthrown the faith of some".
+
+[1:220] Here you see the source of your false doctrine, in teaching that the resurrection is only of souls by the preaching of the truth, and that there will be no resurrection of the body.
+
+[1:221] But how can you understand spiritual things of the inner man, who is renewed in the knowledge of God, when in the oldness of the flesh, if you do not possess temporal things, you concoct fanciful notions about them in those images of carnal things of which the whole of your false doctrine consists? You boast of despising as worthless the land of Canaan, which was an actual thing, and actually given to the Jews; and yet you tell of a land of light cut asunder on one side, as by a narrow wedge, by the land of the race of darkness,—a thing which does not exist, and which you believe from the delusion of your minds; so that your life is not supported by having it, and your mind is wasted in desiring it.
+
+[1:222]              Book V.
+
+[1:223] Faustus claims that the Manich aeans and not the Catholics are consistent believers in the Gospel, and seeks to establish this claim by comparing Manich aean and Catholic obedience to the precepts of the Gospel.
+
+[1:224] Augustin exposes the hypocrisy of the Manich aeans and praises the asceticism of Catholics.
+
+[1:225] 1.
+
+[1:226] Faustus said: Do I believe the gospel? You ask me if I believe it, though my obedience to its commands shows that I do.
+
+[1:227] I should rather ask you if you believe it, since you give no proof of your belief.
+
+[1:228] I have left my father, mother, wife, and children, and all else that the gospel requires;  and do you ask if I believe the gospel? Perhaps you do not know what is called the gospel.
+
+[1:229] The gospel is nothing else than the preaching and the precept of Christ.
+
+[1:230] I have parted with all gold and silver, and have left off carrying money in my purse; content with daily food; without anxiety for tomorrow; and without solicitude about how I shall be fed, or where-withal I shall be clothed: and do you ask if I believe the gospel? You see in me the blessings of the gospel;   and do you ask if I believe the gospel? You see me poor, meek, a peacemaker, pure in heart, mourning, hungering, thirsting, bearing persecutions and enmity for righteousness' sake; and do you doubt my belief in the gospel? One can understand now how John the Baptist, after seeing Jesus, and also hearing of His works, yet asked whether He was Christ.
+
+[1:231] Jesus properly and justly did not deign to reply that He was; but reminded him of the works of which he had already heard: "The blind see, the deaf hear, the dead are raised".
+
+[1:232] In the same way, I might very well reply to your question whether I believe the gospel, by saying, I have left all, father, mother, wife, children, gold, silver, eating, drinking, luxuries, pleasures; take this as a sufficient answer to your questions, and believe that you will be blessed if you are not offended in me.
+
+[1:233] 2.
+
+[1:234] But, according to you, to believe the gospel is not only to obey its commands, but also to believe in all that is written in it; and, first of all, that God was born.
+
+[1:235] But neither is believing the gospel only to believe that Jesus was born, but also to do what He commands.
+
+[1:236] So, if you say that I do not believe the gospel because I disbelieve the incarnation, much more do you not believe because you disregard the commandments.
+
+[1:237] At any rate, we are on a par till these questions are settled.
+
+[1:238] If your disregard of the precepts does not prevent you from professing faith in the gospel, why should my rejection of the genealogy prevent me? And if, as you say, to believe the gospel includes both faith in the genealogies and obedience to the precepts, why do you condemn me, since we both are imperfect? What one wants the other has.
+
+[1:239] But if, as there can be no doubt, belief in the gospel consists solely in obedience to the commands of God, your sin is twofold.
+
+[1:240] As the proverb says, the deserter accuses the soldier.
+
+[1:241] But suppose, since you will have it so, that there are these two parts of perfect faith, one consisting in word, or the confession that Christ was born, the other in deed or the observance of the precepts; it is plain that my part is hard and painful, yours light and easy.
+
+[1:242] It is natural that the multitude should flock to you and away from me, for they know not that the kingdom of God is not in word, but in power.
+
+[1:243] Why, then, do you blame me for taking the harder part, and leaving to you, as to a weak brother, the easy part? You have the idea that your part of faith, or confessing that Christ was born, has more power to save the soul than the other parts.
+
+[1:244] 3.
+
+[1:245] Let us then ask Christ Himself, and learn from His own mouth, what is the chief means of our salvation.
+
+[1:246] Who shall enter, O Christ, into Thy kingdom? He that doeth the will of my Father in heaven,  is His reply; not, "He that confesses that I was born".
+
+[1:247] And again, He says to His disciples, "Go, teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost, teaching them to observe all things which I have commanded you".
+
+[1:248] It is not, "teaching them that I was born," but, "to observe my commandments".
+
+[1:249] Again, "Ye are my friends if ye do what I command you;"  not, "if you believe that I was born".
+
+[1:250] Again, "If ye keep my commandments, ye shall abide in my love,"  and in many other places.
+
+[1:251] Also in the sermon on the mount, when He taught, "Blessed are the poor, blessed are the meek, blessed are the peacemakers, blessed are the pure in heart, blessed are they that mourn, blessed are they that hunger, blessed are they that are persecuted for righteousness' sake,"  He nowhere says, "Blessed are they that confess that I was born".
+
+[1:252] And in the separation of the sheep from the goats in the judgment, He says that He will say to them on the right hand, "I was hungry, and ye gave me meat; I was thirsty, and ye gave me drink,"  and so on; therefore "inherit the kingdom".
+
+[1:253] Not, "Because ye believe that I was born, inherit the kingdom".
+
+[1:254] Again, to the rich man seeking for eternal life, He says, "Go, sell all that thou hast, and follow me;"  not, "Believe that I was born, that you may have eternal life".
+
+[1:255] You see, the kingdom, life, happiness, are everywhere promised to the part I have chosen of what you call the two parts of faith, and nowhere to your part.
+
+[1:256] Show, if you can, a place where it is written that whoso confesses that Christ was born of a woman is blessed, or shall inherit the kingdom, or have eternal life.
+
+[1:257] Even supposing, then, that there are two parts of faith, your part has no blessing.
+
+[1:258] But what if we prove that your part is not a part of faith at all? It will follow that you are foolish, which indeed will be proved beyond a doubt.
+
+[1:259] At present, it is enough to have shown that our part is crowned with the beatitudes.
+
+[1:260] Besides, we have also a beatitude for a confession in words: for we confess that Jesus Christ is the Son of the living God; and Jesus declares with His own lips that this confession has a benediction, when He says to Peter, "Blessed art thou, Simon Barjona; for flesh and blood hath not revealed this unto thee, but my Father which is in heaven".
+
+[1:261] So that we have not one, but both these parts of faith, and in both alike are we pronounced blessed by Christ; for in one we reduce faith to practice, while in the other our confession is unmixed with blasphemy.
+
+[1:262] 4.
+
+[1:263] Augustin replied: I have already said that the Lord Jesus Christ repeatedly calls Himself the Son of man, and that the Manich aeans have contrived a silly story about some fabulous First Man, who figures in their impious heresy, not earthly, but combined with spurious elements, in opposition to the apostle, who says, "The first man is of the earth, earthy;"  and that the apostle carefully warns us, "If any one preaches to you differently from what we have preached, let him be accursed".
+
+[1:264] So that we must believe Christ to be the Son of man according to apostolic truth, not according to Manich aean error.
+
+[1:265] And since the evangelists assert that Christ was born of a woman, of the seed of David, and Paul writing to Timothy says, "Remember that Jesus Christ, of the seed of David, was raised from the dead, according to my gospel,"  it is clear what sense we must believe Christ to be the Son of man; for being the Son of God by whom we were made, He also by His incarnation became the Son of man, that He might die for our sins, and rise again for our justification.
+
+[1:266] Accordingly He calls Himself both Son of God and Son of man.
+
+[1:267] To take only one instance out of many, in the Gospel of John it is written, "Verily, verily, I say unto you, The hour cometh, and now is, when the dead shall hear the voice of the Son of God; and they that hear shall live.
+
+[1:268] For as the Father hath life in Himself, so He hath given to the Son to have life in Himself; and hath given Him power to execute judgment also, because He is the Son of man".
+
+[1:269] He says, "They shall hear the voice of the Son of God;" and He says, "because He is the Son of man".
+
+[1:270] As the Son of man, He has received power to execute judgment, because He will come to judgment in human form, that He may be seen by the good and the wicked.
+
+[1:271] In this form He ascended into heaven, and that voice was heard by His disciples, "He shall so come as ye have seen Him go into heaven".
+
+[1:272] As the Son of God, as God equal to and one with the Father, He will not be seen by the wicked; for "blessed are the pure in heart, for they shall see God".
+
+[1:273] Since, then, He promises eternal life to those that believe in Him, and since to believe in Him is to believe in the true Christ, such as He declares Himself and His apostles declare Him to be, true Son of God and true Son of man; you, Manich aeans, who believe on a false and spurious son of a false and spurious man, and teach that God Himself, from fear of the assault of the hostile race, gave up His own members to be tortured, and after all not to be wholly liberated, are plainly far from that eternal life which Christ promises to those who believe in Him.
+
+[1:274] It is true, He said to Peter when he confessed Him to be the Son of God, "Blessed art thou, Simon.
+
+[1:275] Barjona".
+
+[1:276] But does He promise nothing to those who believe Him to be the Son of man, when the Son of God and the Son of man are the same? Besides, eternal life is expressly promised to those who believe in the Son of man.
+
+[1:277] "As Moses," He says, "lifted up the serpent in the wilderness, so must the Son of man be lifted up, that whosoever believeth in Him should not perish, but have eternal life".
+
+[1:278] [19] What more do you wish? Believe then in the Son of man, that you may have eternal life; for He is also the Son of God, who can give eternal life: for He is "the true God and eternal life," as the same John says in his epistle.
+
+[1:279] John also adds, that he is antichrist who denies that Christ has come in the flesh.
+
+[1:280] 5.
+
+[1:281] There is no need, then that you should extol so much the perfection of Christ's commands, because you obey the precepts of the gospel.
+
+[1:282] For the precepts, supposing you really to fulfill them, would not profit you without true faith.
+
+[1:283] Do you not know that the apostle says, "If I distribute all my goods to the poor, and give my body to be burned, and have not charity, it profiteth me nothing?"  Why do you boast of having Christian poverty, when you are destitute of Christian charity? Robbers have a kind of charity to one another, arising from a mutual consciousness of guilt and crime; but this is not the charity commended by the apostle.
+
+[1:284] In another passage he distinguishes true charity from all base and vicious affections, by saying, "Now the end of the commandment is charity out of a pure heart, and a good conscience, and faith unfeigned".
+
+[1:285] How then can you have true charity from a fictitious faith?  You persist in a faith corrupted by falsehood: for your First Man, according to you, used deceit in the conflict by changing his form, while his enemies remained in their own nature; and, besides, you maintain that Christ, who says, "I am the truth," feigned His incarnation, His death on the cross, the wounds of His passion, the marks shown after His resurrection.
+
+[1:286] If you speak the truth, and your Christ speaks falsehood, you must be better than he.
+
+[1:287] But if you really follow your own Christ, your truthfulness may be doubted, and your obedience to the precepts you speak of may be only a pretence.
+
+[1:288] Is it true, as Faustus says, that you have no money in your purses? He means, probably, that your money is in boxes and bags; nor would we blame you for this, if you did not profess one thing and practise another.
+
+[1:289] Constantius, who is still alive, and is now our brother in Catholic Christianity, once gathered many of your sect into his house at Rome, to keep these precepts of Manich aeus, which you think so much of, though they are very silly and childish.
+
+[1:290] The precepts proved too much for your weakness, and the gathering was entirely broken up.
+
+[1:291] Those who persevered separated from your communion, and are called Mattarians, because they sleep on mats,—a very different bed from the feathers of Faustus and his goatskin coverlets, and all the grandeur that made him despise not only the Mattarians, but also the house of his poor father in Mileum.
+
+[1:292] Away, then, with this accursed hypocrisy from your writing, if not from your conduct; or else your language will conflict with your life by your deceitful words, as your First Man with the race of darkness by his deceitful elements.
+
+[1:293] 6.
+
+[1:294] I am, however, addressing not merely men who fail to do what they are commanded, but the members of a deluded sect.
+
+[1:295] For the precepts of Manich aeus are such that, if you do not keep them, you are deceivers; if you do keep them, you are deceived.
+
+[1:296] Christ never taught you that you should not pluck a vegetable for fear of committing homicide; for when His disciples were hungry when passing through a field of corn, He did not forbid them to pluck the ears on the Sabbath-day; which was a rebuke to the Jews of the time since the action was on Sabbath; and a rebuke in the action itself to the future Manich aeans.
+
+[1:297] The precept of Manich aeus, however, only requires you to do nothing while others commit homicide for you; though the real homicide is that of ruining miserable souls by such doctrines of devils.
+
+[1:298] 7.
+
+[1:299] The language of Faustus has the typhus of heresy in it, and is the language of overweening arrogance.
+
+[1:300] "You see in me" he says, "the beatitudes of the gospel; and do you ask if I believe the gospel? You see me poor, meek, a peacemaker, pure in heart, mourning, hungering, thirsting, bearing persecution and enmity for righteousness' sake; and do you doubt my belief in the gospel?" If to justify oneself were to be just, Faustus would have flown to heaven while uttering these words.
+
+[1:301] I say nothing of the luxurious habits of Faustus, known to all the followers of the Manich aeans, and especially to those at Rome.
+
+[1:302] I shall suppose a Manich aean such as Constantius sought for, when he enforced the observance of these precepts with the sincere desire to see them observed.
+
+[1:303] How can I see him to be poor in spirit, when he is so proud as to believe that his own soul is God, and is not ashamed to speak of God as in bondage? How can I see him meek, when he affronts all the authority of the evangelists rather than believe? How a peacemaker, when he holds that the divine nature itself by which God is whatever is, and is the only true existence, could not remain in lasting peace? How pure in heart, when his heart is filled with so many impious notions? How mourning, unless it is for his God captive and bound till he be freed and escape, with the loss, however, of a part which is to be united by the Father to the mass of darkness, and is not to be mourned for? How hungering and thirsting for righteousness, which Faustus omits in his writings lest, no doubt, he should be thought destitute of righteousness? But how can they hunger and thirst after righteousness, whose perfect righteousness will consist in exulting over their brethren condemned to darkness, not for any fault of their own, but for being irremediably contaminated by the pollution against which they were sent by the Father to contend?  8.
+
+[1:304] How do you suffer persecution and enmity for righteousness' sake, when, according to you, it is righteous to preach and teach these impieties? The wonder is, that the gentleness of Christian times allows such perverse iniquity to pass wholly or almost unpunished.
+
+[1:305] And yet, as if we were blind or silly, you tell us that your suffering reproach and persecution is a great proof of your righteousness.
+
+[1:306] If people are just according to the amount of their suffering, atrocious criminals of all kinds suffer much more than you.
+
+[1:307] But, at any rate, if we are to grant that suffering endured on account of any sort of profession of Christianity proves the sufferer to be in possession of true faith and righteousness, you must admit that any case of greater suffering that we can show proves the possession of truer faith and greater righteousness.
+
+[1:308] Of such cases you know many among our martyrs, and chiefly Cyprian himself, whose writings also bear witness to his belief that Christ was born of the Virgin Mary.
+
+[1:309] For this faith, which you abhor, he suffered and died along with many Christian believers of that day, who suffered as much, or more.
+
+[1:310] Faustus, when shown to be a Manich aean by evidence, or by his own confession, on the intercession of the Christians themselves, who brought him before the proconsul, was, along with some others, only banished to an island, which can hardly be called a punishment at all, for it is what God's servants do of their own accord every day when they wish to retire from the tumult of the world.
+
+[1:311] Besides, earthly sovereigns often by a public decree give release from this banishment as an act of mercy.
+
+[1:312] And in this way all were afterwards released at once.
+
+[1:313] Confess, then, that they were in possession of a truer faith and a more righteous life, who were accounted worthy to suffer for it much more than you ever suffered.
+
+[1:314] Or else, cease boasting of the abhorrence which many feel for you, and learn to distinguish between suffering for blasphemy and suffering for righteousness.
+
+[1:315] What it is you suffer for, your own books will show in a way that deserves your most particular attention.
+
+[1:316] 9.
+
+[1:317] Those evangelical precepts of peculiar sublimity which you make people who know no better believe that you obey, are really obeyed by multitudes in our communion.
+
+[1:318] Are there not among us many of both sexes who have entirely refrained from sexual intercourse, and many formerly married who practise continence? Are there not many others who give largely of their property, or give it up altogether, and many who keep the body in subjection by fasts, either frequent or daily, or protracted beyond belief? Then there are fraternities whose members have no property of their own, but all things common, including only things necessary for food and clothing, living with one soul and one heart towards God, inflamed with a common feeling of charity.
+
+[1:319] In all such professions many turn out to be deceivers and reprobates, while many who are so are never discovered; many, too, who at first walk well, fall away rapidly from willfulness.
+
+[1:320] Many are found in times of trial to have adopted this kind of life with another intention than they professed; and again, many in humility and steadfastness persevere in their course to the end, and are saved.
+
+[1:321] There are apparent diversities in these societies; but one charity unites all who, from some necessity, in obedience to the apostle's injunction, have their wives as if they had them not, and buy as if they bought not, and use this world as if they used it not.
+
+[1:322] With these are joined, in the abundant riches of God's mercy, the inferior class of those to whom it is said, "Defraud not one another, except it be with consent for a time, that ye may give yourselves to prayer; and come together again, that Satan tempt you not for your incontinency.
+
+[1:323] But I speak this by permission, and not of commandment".
+
+[1:324] To such the same apostle also says, "Now therefore there is utterly a fault among you, that ye go to law one with another;" while, in consideration of their infirmity, he adds, "If ye have judgments of things pertaining to this life, set them to judge who are least esteemed in the Church".
+
+[1:325] For in the kingdom of heaven there are not only those who, that they may be perfect, sell or leave all they have and follow the Lord; but others in the partnership of charity are joined like a mercenary force to the Christian army, to whom it will be said at last, "I was hungry, and ye gave me meat," and so on.
+
+[1:326] Otherwise, there would be no salvation for those to whom the apostle gives so many anxious and particular directions about their families, telling the wives to be obedient to their husbands, and husbands to love their wives; children to obey their parents, and parents to bring up their children in the instruction and admonition of the Lord; servants to obey with fear their masters according to the flesh, and masters to render to their servants what is just and equal.
+
+[1:327] The apostle is far from condemning such people as regardless of gospel precepts, or unworthy of eternal life.
+
+[1:328] For where the Lord exhorts the strong to attain perfection, saying, "If any man take not up his cross and follow me, he cannot be my disciple," He immediately adds, for the consolation of the weak, "Whoso receiveth a just man in the name of a just man shall receive a just man's reward; and whoso receiveth a prophet in the name of a prophet, shall receive a prophet's reward".
+
+[1:329] So that not only he who gives Timothy a little wine for his stomach's sake, and his frequent infirmities, but he who gives to a strong man a cup of cold water only in the name of a disciple, shall not lose his reward.
+
+[1:330] 10.
+
+[1:331] If it is true that a man cannot receive the gospel without giving up everything, why do you delude your followers, by allowing them to keep in your service their wives, and children, and households, and houses, and fields? Indeed, you may well allow them to disregard the precepts of the gospel: for all you promise them is not a resurrection, but a change to another mortal existence, in which they shall live the silly, childish, impious life of those you call the Elect, the life you live yourself, and are so much praised for; or if they possess greater merit, they shall enter into melons or cucumbers, or some eatables which you will masticate, that they may be quickly purified by your digestion.
+
+[1:332] Least of all should you who teach such doctrines profess any regard for the gospel.
+
+[1:333] For if the faith of the gospel had any connection with such nonsense, the Lord should have said, not, "I was hungry, and ye gave me meat;" but, "Ye were hungry, and ye ate me," or, "I was hungry, and I ate you".
+
+[1:334] For, by your absurdities, a man will not be received into the kingdom of God for the service of giving food to the saints, but, because he has eaten them and belched them out, or has himself been eaten and belched into heaven.
+
+[1:335] Instead of saying, "Lord, when saw we Thee hungry, and fed Thee?" the righteous must say, "When saw we Thee hungry, and were eaten by Thee?" And He must answer, not, "When ye gave food to one of the least of these my brethren, you gave to me;" but, "When you were eaten by one of the least of these my brethren, you were eaten by me".
+
+[1:336] 11.
+
+[1:337] Believing and teaching such monstrosities, and living accordingly, you yet have the boldness to say that you obey the precepts of the gospel, and to decry the Catholic Church, which includes many weak as well as strong, both of whom the Lord blesses, because both according to their measure obey the precepts of the gospel and hope in its promises.
+
+[1:338] The blindness of hostility makes you see only the tares in our harvest: for you might easily see wheat too, if you were willing that there should be any.
+
+[1:339] But among you, those who are pretended Manich aeans are wicked, and those who are really Manich aeans are silly.
+
+[1:340] For where the faith itself is false, he who hypocritically professes it acts deceitfully, while he who truly believes is deceived.
+
+[1:341] Such a faith cannot produce a good life, for every man's life is good or bad according as his heart is engaged.
+
+[1:342] If your affections were set upon spiritual and intellectual good, instead of material forms, you would not pay homage to the material sun as a divine substance, and as the light of wisdom, which every one knows you do, though I now only mention it in passing.
+
+[1:343]              Book VI.
+
+[1:344] Faustus avows his disbelief in the Old Testament and his disregard of its precepts, and accuses Catholics of inconsistency in neglecting its ordinances, while claiming to accept it as authoritative.
+
+[1:345] Augustin explains the Catholic view of the relation of the Old Testament to the New.
+
+[1:346] 1.
+
+[1:347] Faustus said: You ask if I believe the Old Testament.
+
+[1:348] Of course not, for I do not keep its precepts.
+
+[1:349] Neither, I imagine, do you.
+
+[1:350] I reject circumcision as disgusting; and if I mistake not, so do you.
+
+[1:351] I reject the observance of Sabbaths as superfluous: I suppose you do the same.
+
+[1:352] I reject sacrifice as idolatry, as doubtless you also do.
+
+[1:353] Swine's flesh is not the only flesh I abstain from; nor is it the only flesh you eat.
+
+[1:354] I think all flesh unclean: you think none unclean.
+
+[1:355] Both alike, in these opinions, throw over the Old Testament.
+
+[1:356] We both look upon the weeks of unleavened bread and the feast of tabernacles as unnecessary and useless.
+
+[1:357] Not to patch linen garments with purple; to count it adultery to make a garment of linen and wool; to call it sacrilege to yoke together an ox and an ass when necessary; not to appoint as priest a bald man, or a man with red hair, or any similar peculiarity, as being unclean in the sight of God, are things which we both despise and laugh at, and rank as of neither first nor second importance; and yet they are all precepts and judgments of the Old Testament.
+
+[1:358] You cannot blame me for rejecting the Old Testament; for whether it is right or wrong to do so, you do it as much as I.
+
+[1:359] As for the difference between your faith and mine, it is this, that while you choose to act deceitfully, and meanly to praise in words what in your heart you hate, I, not having learned the art of deception, frankly declare that I hate both these abominable precepts and their authors.
+
+[1:360] 2.
+
+[1:361] Augustin replied: How and for what purpose the Old Testament is received by the heirs of the New Testament has been already explained.
+
+[1:362] But as the remarks of Faustus were then about the promises of the Old Testament, and now he speaks of the precepts, I reply that he displays ignorance of the difference between moral and symbolical precepts.
+
+[1:363] For example, "Thou shalt not covet" is a moral precept; "Thou shalt circumcise every male on the eighth day" is a symbolical precept.
+
+[1:364] From not making this distinction, the Manich aeans, and all who find fault with the writings of the Old Testament, not seeing that whatever observance God appointed for the former dispensation was a shadow of future things, because these observances are now discontinued, condemn them, though no doubt what is unsuitable now was perfectly suitable then as prefiguring the things now revealed.
+
+[1:365] In this they contradict the apostle who says, "All these things happened to them for an example, and they were written for our learning, on whom the end of the world is come".
+
+[1:366] The apostle here explains why these writings are to be received, and why it is no longer necessary to continue the symbolical observances.
+
+[1:367] For when he says, "They were written for our learning," he clearly shows that we should be very diligent in reading and in discovering the meaning of the Old Testament Scriptures, and that we should have great veneration for them, since it was for us that they were written.
+
+[1:368] Again, when he says, "They are our examples," and "these things happened to them for an example," he shows that, now that the things themselves are clearly revealed, the observance of the actions by which these things were prefigured is no longer binding.
+
+[1:369] So he says elsewhere, "Let no man judge you in meat, or in drink, or in respect of an holy day, or of the new moon or of the sabbath-days, which are a shadow of things to come".
+
+[1:370] Here also, when he says, "Let no one judge you" in these things, he shows that we are no longer bound to observe them.
+
+[1:371] And when he says, "which are a shadow of things to come," he explains how these observances were binding at the time when the things fully disclosed to us were symbolized by these shadows of future things.
+
+[1:372] 3.
+
+[1:373] Assuredly, if the Manich aeans were justified by the resurrection of the Lord,—the day of whose resurrection, the third after His passion, was the eighth day, coming after the Sabbath, that is, after the seventh day,—their carnal minds would be delivered from the darkness of earthly passions which rests on them; and rejoicing in the circumcision of the heart, they would not ridicule it as prefigured in the Old Testament by circumcision in the flesh, although they should not enforce this observance under the New Testament.
+
+[1:374] But, as the apostle says, "To the pure all things are pure.
+
+[1:375] But to the impure and unbelieving nothing is pure, but both their mind and conscience are defiled".
+
+[1:376] So these people, who are so pure in their own eyes, that they regard, or pretend to regard, as impure these members of their bodies, are so defiled with unbelief and error, that, while they abhor the circumcision of the flesh,—which the apostle calls a seal of the righteousness of faith,—they believe that the divine members of their God are subjected to restraint and contamination in these very carnal members of theirs.
+
+[1:377] For they say that flesh is unclean; and it follows that God, in the part which is detained by the flesh, is made unclean: for they declare that He must be cleansed, and that till this is done, as far as it can be done, He undergoes all the passions to which flesh is subject, not only in suffering pain and distress, but also in sensual gratification.
+
+[1:378] For it is for His sake, they say, that they abstain from sexual intercourse, that He may not be bound more closely in the bondage of the flesh, nor suffer more defilement.
+
+[1:379] The apostle says, "To the pure all things are pure".
+
+[1:380] And if this is true of men, who may be led into evil by a perverse will, how much more must all things be pure to God, who remains for ever immutable and immaculate! In those books which you defile with your violent reproaches, it is said of the divine wisdom, that "no defiled thing falleth into it, and it goeth everywhere by reason of its pureness".
+
+[1:381] It is mere prurient absurdity to find fault with the sign of human regeneration appointed by that God, to whom all things are pure, to be put on the organ of human generation, while you hold that your God, to whom nothing is pure, is in a part of his nature subjected to taint and corruption by the vicious actions in which impure men employ the members of their body.
+
+[1:382] For if you think there is pollution in conjugal intercourse, what must there be in all the practices of the licentious? If you ask, then, as you often do, whether God could not find some other way of sealing the righteousness of faith, the answer is, Why not this way, since all things are pure to the pure, much more to God? And we have the authority of the apostle for saying that circumcision was the seal of the righteousness of the faith of Abraham.
+
+[1:383] As for you, you must try not to blush when you are asked whether your God had nothing better to do than to entangle part of his nature with these members that you revile so much.
+
+[1:384] These are delicate subjects to speak of, on account of the penal corruption attending the propagation of man.
+
+[1:385] They are things which call into exercise the modesty of the chaste, the passions of the impure, and the justice of God.
+
+[1:386] 4.
+
+[1:387] The rest of the Sabbath we consider no longer binding as an observance, now that the hope of our eternal rest has been revealed.
+
+[1:388] But it is a very useful thing to read of, and to reflect on.
+
+[1:389] In prophetic times, when things now manifested were prefigured and predicted by actions as well as words, this sign of which we read was a presage of the reality which we possess.
+
+[1:390] But I wish to know why you observe a sort of partial rest.
+
+[1:391] The Jews, on their Sabbath, which they still keep in a carnal manner, neither gather any fruit in the field, nor dress and cook it at home.
+
+[1:392] But you, in your rest, wait till one of your followers takes his knife or hook to the garden, to get food for you by murdering the vegetables, and brings back, strange to say, living corpses.
+
+[1:393] For if cutting plants is not murder, why are you afraid to do it? And yet, if the plants are murdered, what becomes of the life which is to obtain release and restoration from your mastication and digestion? Well, you take the living vegetables, and certainly you ought, if it could be done to swallow them whole; so that after the one wound your follower has been guilty of inflicting in pulling them, of which you will no doubt consent to absolve him, they may reach without loss or injury your private laboratory, where your God may be healed of his wound.
+
+[1:394] Instead of this, you not only tear them with your teeth, but, if it pleases your taste, mince them, inflicting a multitude of wounds in the most criminal manner.
+
+[1:395] Plainly it would be a most advantageous thing if you would rest at home too, and not only once a week, like the Jews, but every day of the week.
+
+[1:396] The cucumbers suffer while you are cooking them, without any benefit to the life that is in them: for a boiling pot cannot be compared to a saintly stomach.
+
+[1:397] And yet you ridicule as superfluous the rest of the Sabbath.
+
+[1:398] Would it not be better, not only to refrain from finding fault with the fathers for this observance, in whose case it was not superfluous, but, even now that it is superfluous, to observe this rest yourselves instead of your own, which has no symbolical use, and is condemned as grounded on falsehood? According to your own foolish opinions, you are guilty of a defective observance of your own rest, though the observance itself is foolish in the judgment of truth.
+
+[1:399] You maintain that the fruit suffers when it is pulled from the tree, when it is cut and scraped, and cooked, and eaten.
+
+[1:400] So you are wrong in eating anything that can not be swallowed raw and unhurt, so that the wound inflicted might not be from you, but from your follower in pulling them.
+
+[1:401] You declare that you could not give release to so great a quantity of life, if you were to eat only things which could be swallowed without cooking or mastication.
+
+[1:402] But if this release compensates for all the pains you inflict, why is it unlawful for you to pull the fruit? Fruit may be eaten raw, as some of your sect make a point of eating raw vegetables of all kinds.
+
+[1:403] But before it can be eaten at all, it must be pulled or fall off, or be taken in some way from the ground or from the tree.
+
+[1:404] You might well be pardoned for pulling it, since nothing can be done without that, but not for torturing the members of your God to the extent you do in dressing your food.
+
+[1:405] One of your silly notions is that the tree weeps when the fruit is pulled.
+
+[1:406] Doubtless the life in the tree knows all things, and perceives who it is that comes to it.
+
+[1:407] If the elect were to come and pull the fruit, would not the tree rejoice to escape the misery of having its fruit plucked by others, and to gain felicity by enduring a little momentary pain? And yet, while you multiply the pains and troubles of the fruit after it is plucked, you will not pluck it.
+
+[1:408] Explain that, if you can! Fasting itself is a mistake in your case.
+
+[1:409] There should be no intermission in the task of purging away the dross of the excrements from the spiritual gold, and of releasing the divine members from confinement.
+
+[1:410] The most merciful man among you is he who keeps himself always in good health, takes raw food, and eats a great deal.
+
+[1:411] But you are cruel when you eat, in making your food undergo so much suffering; and you are cruel when you fast, in desisting from the work of liberating the divine members.
+
+[1:412] 5.
+
+[1:413] With all this, you venture to denounce the sacrifices of the Old Testament, and to call them idolatry, and to attribute to us the same impious notion.
+
+[1:414] To answer for ourselves in the first place, while we consider it no longer a duty to offer sacrifices, we recognize sacrifices as part of the mysteries of Revelation, by which the things prophesied were foreshadowed.
+
+[1:415] For they were our examples, and in many and various ways they all pointed to the one sacrifice which we now commemorate.
+
+[1:416] Now that this sacrifice has been revealed, and has been offered in due time, sacrifice is no longer binding as an act of worship, while it retains its symbolical authority.
+
+[1:417] For these things "were written for our learning, upon whom the end of the world is come".
+
+[1:418] What you object to in sacrifice is the slaughter of animals, though the whole animal creation is intended conditionally in some way for the use of man.
+
+[1:419] You are merciful to beasts, believing them to contain the souls of human beings, while you refuse a piece of bread to a hungry beggar.
+
+[1:420] The Lord Jesus, on the other hand, was cruel to the swine when He granted the request of the devils to be allowed to enter into them.
+
+[1:421] The same Lord Jesus, before the sacrifice of His passion, said to a leper whom He had cured, "Go, show thyself to the priest, and give the offering, as Moses commanded, for a testimony unto them".
+
+[1:422] When God, by the prophets, repeatedly declares that He needs no offering, as indeed reason teaches us that offerings cannot be needed by Him who stands in need of nothing, the human mind is led to inquire what God wished to teach us by these sacrifices.
+
+[1:423] For, assuredly, He would not have required offerings of which He had no need, except to teach us something that it would profit us to know, and which was suitably set forth by means of these symbols.
+
+[1:424] How much better and more honorable it would be for you to be still bound by these sacrifices, which have an instructive meaning, though they are not now necessary, than to require your followers to offer to you as food what you believe to be living victims.
+
+[1:425] The Apostle Paul says most appropriately of some who preached the gospel to gratify their appetite, that their "god was their belly".
+
+[1:426] But the arrogance of your impiety goes much beyond this; for, instead of making your belly your god, you do what is far worse in making your belly the purifier of God.
+
+[1:427] Surely it is great madness to make a pretence of piety in not slaughtering animals, while you hold that the souls of animals inhabit all the food you eat, and yet make what you call living creatures suffer such torture from your hands and teeth.
+
+[1:428] 6.
+
+[1:429] If you will not eat flesh why should you not slay animals in sacrifice to your God, in order that their souls, which you hold to be not only human, but so divine as to be members of God Himself, may be released from the confinement of flesh, and be saved from returning by the efficacy of your prayers? Perhaps, however, your stomach gives more effectual aid than your intellect, and that part of divinity which has had the advantage of passing through your bowels is more likely to be saved than that which has only the benefit of your prayers.
+
+[1:430] Your objection to eating flesh will be that you cannot eat animals alive, and so the operation of your stomach will not avail for the liberation of their souls.
+
+[1:431] Happy vegetables, that, torn up with the hand, cut with knives, tortured in fire, ground by teeth, yet reach alive the altars of your intestines! Unhappy sheep and oxen, that are not so tenacious of life, and therefore are refused entrance into your bodies! Such is the absurdity of your notions.
+
+[1:432] And you persist in making out an opposition in us to the Old Testament, because we consider no flesh unclean: according to the opinion of the apostle, "To the pure all things are pure;"  and according to the saying of our Lord Himself, "Not that which goeth into your mouth defileth you, but that which cometh out".
+
+[1:433] This was not said to the crowd only, as your Adimantus, whom Faustus, in his attack on the Old Testament, praises as second only to Manich aeus, wishes us to understand; but when retired from the crowd, the Lord repeated this still more plainly and pointedly to His disciples.
+
+[1:434] Adimantus quotes this saying of our Lord in opposition to the Old Testament, where the people are prohibited from eating some animals which are pronounced unclean; and doubtless he was afraid that he should be asked why, since he quotes a passage from the Gospel about man not being defiled by what enters into his mouth and passes into his belly, and out into the draft, he yet considers not some only, but all flesh unclean, and abstains from eating it.
+
+[1:435] It is in order to escape from this strait, when the plain truth is too much for his error, that he makes the Lord say this to the crowd; as if the Lord were in the habit of speaking the truth only in small companies, while He blurted out falsehoods in public.
+
+[1:436] To speak of the Lord in this way is blasphemy.
+
+[1:437] And all who read the passage can see that the Lord said the same thing more plainly to His disciples in private.
+
+[1:438] Since Faustus praises Adimantus so much at the beginning of this book of his, placing him next to Manich aeus, let him say in a word whether it is true or false that a man is not defiled by what enters into his mouth.
+
+[1:439] If it is false, why does this great teacher Adimantus quote it against the Old Testament? If it is true, why, in spite of this, do you believe that eating any flesh will defile you? It is true, if you choose this explanation, that the apostle does not say that all things are pure to heretics, but, "to the pure all things are pure".
+
+[1:440] The apostle also goes on to explain why all things are not pure to heretics: "To the impure and unbelieving nothing is pure, but both their mind and conscience are defiled".
+
+[1:441] So to the Manich aeans there is absolutely nothing pure; for they hold that the very substance or nature of God not only may be, but has actually been defiled, and so defiled that it can never be wholly restored and purified.
+
+[1:442] What do they mean when they call animals unclean, and refrain from eating them, when it is impossible for them to think anything, whether food or whatever it may be, clean? According to them, vegetables too, fruits, all kinds of crops, the earth and sky, are defiled by mixture with the race of darkness.
+
+[1:443] Why do they not act up to their opinions about other things as well as about animals? Why do they not abstain altogether, and starve themselves to death, instead of persisting in their blasphemies? If they will not repent and reform, this is evidently the best thing that they could do.
+
+[1:444] 7.
+
+[1:445] The saying of the apostle, that "to the pure all things are pure," and that "every creature of God is good," is not opposed to the prohibitions of the Old Testament; and the explanation, if they can understand it, is this.
+
+[1:446] The apostle speaks of the natures of the things, while the Old Testament calls some animals unclean, not in their nature, but symbolically, on account of the prefigurative character of that dispensation.
+
+[1:447] For instance, a pig and a lamb are both clean in their nature, for every creature of God is good; but symbolically, a lamb is clean, and a pig unclean.
+
+[1:448] So the words wise and fool are both clean in their nature, as words composed of letters but fool may be called symbolically unclean, because it means an unclean thing.
+
+[1:449] Perhaps a pig is the same among symbols as a fool is among real things.
+
+[1:450] The animal, and the four letters which compose the word, may mean the same thing.
+
+[1:451] No doubt the animal is pronounced unclean by the law, because it does not chew the cud; which is not a fault but its nature.
+
+[1:452] But the men of whom this animal is a symbol are unclean, not by nature, but from their own fault; because, though they gladly hear the words of wisdom, they never reflect on them afterwards.
+
+[1:453] For to recall, in quiet repose, some useful instruction from the stomach of memory to the mouth of reflection, is a kind of spiritual rumination.
+
+[1:454] The animals above mentioned are a symbol of those people who do not do this.
+
+[1:455] And the prohibition of the flesh of these animals is a warning against this fault.
+
+[1:456] Another passage of Scripture speaks of the precious treasure of wisdom, and describes ruminating as clean, and not ruminating as unclean: "A precious treasure resteth in the mouth of a wise man; but a foolish man swallows it up".
+
+[1:457] Symbols of this kind, either in words or in things, give useful and pleasant exercise to intelligent minds in the way of inquiry and comparison.
+
+[1:458] But formerly people were required not only to hear, but to practise many such things.
+
+[1:459] For at that time it was necessary that, by deeds as well as by words, those things should be foreshadowed which were in after times to be revealed.
+
+[1:460] After the revelation by Christ and in Christ, the community of believers is not burdened with the practice of the observances, but is admonished to give heed to the prophecy.
+
+[1:461] This is our reason for accounting no animals unclean, in accordance with the saying of the Lord and of the apostle, while we are not opposed to the Old Testament, where some animals are pronounced unclean.
+
+[1:462] Now let us hear why you consider all animal food unclean.
+
+[1:463] 8.
+
+[1:464] One of your false doctrines is, that flesh is unclean on account of mixture with the race of darkness.
+
+[1:465] But this would make not only flesh unclean, but your God himself, in that part which he sent to become subject to absorption and contamination, in order that the enemy might be conquered and taken captive.
+
+[1:466] Besides, on account of this mixture, all that you eat must be unclean.
+
+[1:467] But you say flesh is especially unclean.
+
+[1:468] It requires patience to listen to all their absurd reasons for this peculiar impurity of flesh.
+
+[1:469] I will mention only what will suffice to show the inveterate folly of these critics of the Old Testament, who, while they denounce flesh, savor only fleshly things, and have no sort of spiritual perception.
+
+[1:470] And a lengthy discussion of this question may perhaps enable us to dispense with saying much on some other points.
+
+[1:471] The following, then, is an account of their vain delusions in this matter:—In that battle, when the First Man ensnared the race of darkness by deceitful elements, princes of both sexes belonging to this race were taken.
+
+[1:472] By means of these princes the world was constructed; and among those used in the formation of the heavenly bodies, were some pregnant females.
+
+[1:473] When the sky began to rotate, the rapid circular motion made these females give birth to abortions, which, being of both sexes, fell on the earth, and lived, and grew, and came together, and produced offspring.
+
+[1:474] Hence sprang all animal life in earth, air, and sea.
+
+[1:475] Now if the origin of flesh is from heaven, that is no reason for thinking it especially unclean.
+
+[1:476] Indeed, in this construction of the world, they hold that these principles of darkness were arranged higher or lower, according to the greater or less amount of good mixed with them in the construction of the various parts of the world.
+
+[1:477] So flesh ought to be cleaner than vegetables which come out of the earth, for it comes from heaven.
+
+[1:478] And how irrational to suppose that the abortions, before becoming animate, were so lively, though in an abortive state, that after falling from the sky, they could live and multiply; whereas, after becoming animate, they die if brought forth prematurely, and a fall from a very moderate height is enough to kill them! The kingdom of life in contest with the kingdom of death ought to have improved them, by giving them life instead of making them more perishable than before.
+
+[1:479] If the perishableness is a consequence of a change of nature, it is wrong to say that there is a bad nature.
+
+[1:480] The change is the only cause of the perishableness.
+
+[1:481] Both natures are good, though one is better than the other.
+
+[1:482] Whence then comes the peculiar impurity of flesh as it exists in this world, sprung, as they say, from heaven? They tell us, indeed, of the first bodies of these principles of darkness being generated like worms from trees of darkness; and the trees, they say, are produced from the five elements.
+
+[1:483] But supposing that the bodies of animals come in the first place from trees, and afterwards from heaven, why should they be more unclean than the fruit of trees? Perhaps it will be said that what remains after death is unclean, because the life is no longer there.
+
+[1:484] For the same reason fruits and vegetables must be unclean, for they die when they are pulled or cut.
+
+[1:485] As we saw before, the elect get others to bring their food to them, that they may not be guilty of murder.
+
+[1:486] Perhaps, since they say that every living being has two souls, one of the race of light, and the other of the race of darkness, the good soul leaves at death, and the bad soul remains.
+
+[1:487] But, in that case, the animal would be as much alive as it was in the kingdom of darkness, when it had only the soul of its own race, with which it had rebelled against the kingdom of God.
+
+[1:488] So, since both souls leave at death, why call the flesh unclean, as if only the good soul had left? Any life that remains must be of both kinds; for some remains of the members of God are found, we are told, even in filth.
+
+[1:489] There is therefore no reason for making flesh more unclean than fruits.
+
+[1:490] The truth is, they pretend to great chastity in holding flesh unclean because it is generated.
+
+[1:491] But if the divine body is more grossly shut in by flesh, there is all the more reason that they should liberate it by eating.
+
+[1:492] And there are innumerable kinds of worms not produced from sexual intercourse; some in the neighborhood of Venice come from trees, which they should eat, since there is not the same reason for their being unclean.
+
+[1:493] Besides, there are the frogs produced by the earth after a shower of rain.
+
+[1:494] Let them liberate the members of their God from these.
+
+[1:495] Let them rebuke the mistake of mankind in preferring fowls and pigeons produced from males and females to the pure frogs, daughters of heaven and earth.
+
+[1:496] By this theory, the first principles of darkness produced from trees must be purer than Manich aeus, who was produced by generation; and his followers, for the same reason, must be less pure than the lice which spring from the perspiration of their bodies.
+
+[1:497] But if everything that comes from flesh is unclean, because the origin of flesh itself is unclean, fruits and vegetables must also be unclean, because they are manured with dung.
+
+[1:498] After this, what becomes of the notion that fruits are cleaner than flesh? Dung is the most unclean product of flesh, and also the most fertilizing manure.
+
+[1:499] Their doctrine is, that the life escapes in the mastication and digestion of the food, so that only a particle remains in the excrement.
+
+[1:500] How is it, then, that this particle of life has such an effect on the growth and the quality of your favorite food? Flesh is nourished by the productions of the earth, not by its excrements; while the earth is nourished by the excrements of flesh, not by its productions.
+
+[1:501] Let them say which is the cleaner.
+
+[1:502] Or let them turn from being unbelieving and impure to whom nothing is clean, and join with us in embracing the doctrine of the apostle, that to the pure all things are pure; that the earth is the Lord's, and the fullness thereof; that every creature of God is good.
+
+[1:503] All things in nature are good in their own order; and no one sins in using them, unless, by disobedience to God, he transgresses his own order, and disturbs their order by using them amiss.
+
+[1:504] 9.
+
+[1:505] The elders who pleased God kept their own order by their obedience, in observing, according to God's arrangement, what was appointed as suitable to certain times.
+
+[1:506] So, although all animals intended for food are by nature clean, they abstained from some which had then a symbolical uncleanness, in preparation for the future revelation of the things signified.
+
+[1:507] And so with regard to unleavened bread and all such things, in which the apostle says there was a shadow of future things, neglect of their observance under the old dispensation, when this observance was enjoined, and was employed to prefigure what was afterwards to be revealed, would have been as criminal, as it would now be foolish in us, after the light of the New Testament has arisen, to think that these predictive observances could be of any use to us.
+
+[1:508] On the other hand, since the Old Testament teaches us that the things now revealed were so long ago prefigured, that we may be firm and faithful in our adherence to them, it would be blasphemy and impiety to discard these books, simply because the Lord requires of us now not a literal, but a spiritual and intelligent regard to their contents.
+
+[1:509] They were written, as the apostle says, for our admonition, on whom the end of the world is come.
+
+[1:510] "For whatsoever things were written aforetime were written for our learning".
+
+[1:511] Not to eat unleavened bread in the appointed seven days was a sin in the time of the Old Testament; in the time of the New Testament it is not a sin.
+
+[1:512] But having the hope of a future world through Christ, who makes us altogether new by clothing our souls with righteousness and our bodies with immortality, to believe that the bondage and infirmity of our original corruption will prevail over us or over our actions, must continue to be a sin, till the seven days of the course of time are accomplished.
+
+[1:513] In the time of the Old Testament, this, under the disguise of a type, was perceived by some saints.
+
+[1:514] In the time of the New Testament it is fully declared and publicly preached.
+
+[1:515] [19]  What was then a precept of Scripture is now a testimony.
+
+[1:516] Formerly, not to keep the feast of tabernacles was a sin, which is not the case now.
+
+[1:517] But not to form part of the building of God's tabernacle, which is the Church, is always a sin.
+
+[1:518] Formerly this was acted in a figure; now the record serves as testimony.
+
+[1:519] The ancient tabernacle, indeed, would not have been called the tabernacle of the testimony, unless as an appropriate symbol it had borne testimony to some truth which was to be revealed in its own time.
+
+[1:520] To patch linen garments with purple, or to wear a garment of woollen and linen together, is not a sin now.
+
+[1:521] But to live intemperately, and to wish to combine opposite modes of life,—as when a woman devoted to religion wears the ornaments of married women, or when one who has not abstained from marriage dresses like a virgin,—is always sin.
+
+[1:522] So it is sin whenever inconsistent things are combined in any man's life.
+
+[1:523] This, which is now a moral truth, was then symbolized in dress.
+
+[1:524] What was then a type is now revealed truth.
+
+[1:525] So the same Scripture which then required symbolical actions, now testifies to the things signified.
+
+[1:526] The prefigurative observance is now a record for the confirmation of our faith.
+
+[1:527] Formerly it was unlawful to plough with an ox and an ass together; now it is lawful.
+
+[1:528] The apostle explains this when he quotes the text about not muzzling the ox that is treading out the corn.
+
+[1:529] He says, "Does God care for oxen?" What, then, have we to do with an obsolete prohibition? The apostle teaches us in the following words, "For our sakes it is written".
+
+[1:530] It must be impiety in us not to read what was written for our sakes; for it is more for our sakes, to whom the revelation belongs, than for theirs who had only the figure.
+
+[1:531] There is no harm in joining an ox with an ass where it is required.
+
+[1:532] But to put a wise man and a fool together, not that one should teach and the other obey, but that both with equal authority should declare the word of God, cannot be done without causing offence.
+
+[1:533] So the same Scripture which was once a command enjoining the shadow in which future things were veiled, is now an authoritative witness to the unveiled truth.
+
+[1:534] In what he says of the uncleanness of a man that is bald or has red hair, Faustus is inaccurate, or the manuscript he has used is incorrect.
+
+[1:535] Would that Faustus were not ashamed to bear on his forehead the cross of Christ, the want of which is baldness, instead of maintaining that Christ, who says, "I am the truth," showed unreal marks, after His resurrection, of unreal wounds! Faustus says he has not learned the art of deceiving, and speaks what he thinks.
+
+[1:536] He cannot therefore be a disciple of his Christ, whom he madly declares to have shown false marks of wounds to his disciples when they doubted.
+
+[1:537] Are we to believe Faustus, not only in his other absurdities, but also when he tells us that he does not deceive us in calling Christ a deceiver? Is he better than Christ? Is he not a deceiver, while Christ is? Or does he prove himself to be a disciple not of the truthful Christ, but of the deceiver Manich aeus, by this very falsehood, when he boasts that he has not learned the art of deceiving?               Book VII.
+
+[1:538] The genealogical question is again taken up and argued on both sides.
+
+[1:539] 1.
+
+[1:540] Faustus said: You ask why I do not believe in the genealogy of Jesus.
+
+[1:541] There are many reasons; but the principal is, that He never declares with His own lips that He had an earthly father or descent, but on the contrary, that he is not of this world, that He came forth from God the Father, that He descended from heaven, that He has no mother or brethren except those who do the will of His Father in heaven.
+
+[1:542] Besides, the framers of these genealogies do not seem to have known Jesus before His birth or soon after it, so as to have the credibility of eye-witnesses of what they narrate.
+
+[1:543] They became acquainted with Jesus as a young man of about thirty years of age, if it is not blasphemy to speak of the age of a divine being.
+
+[1:544] Now the question regarding a witness is always whether he has seen or heard what he testifies to.
+
+[1:545] But the writers of these genealogies never assert that they heard the account from Jesus Himself, nor even the fact of His birth; nor did they see Him till they came to know Him after his baptism, many years after the time of His birth.
+
+[1:546] To me, therefore, and to every sensible man, it appears as foolish to believe this account, as it would be to call into court a blind and deaf witness.
+
+[1:547] 2.
+
+[1:548] Augustin replied: As regards what Faustus calls his principal reason for not receiving the genealogy of Jesus Christ, a complete refutation is found in the passages formerly quoted, where Christ declares Himself to be the Son of man, and in what we have said of the identity of the Son of man with the Son of God: that in His Godhead He has no earthly descent, while after the flesh He is of the seed of David, as the apostle teaches.
+
+[1:549] We are to believe, therefore, that He came forth from the Father, that He descended from heaven, and also that the Word was made flesh and dwelt amongst men.
+
+[1:550] If the words, "Who is my mother, and who are my brethren?"  are quoted to show that Christ had no earthly mother or descent, it follows that we must believe that His disciples, whom He here teaches by His own example to set no value on earthly relationship, as compared with the kingdom of heaven, had no fathers, because Christ says to them, "Call no man father upon earth; for one is your Father, even God".
+
+[1:551] What He taught them to do with reference to their fathers, He Himself first did in reference to His own mother and brethren; as in many other things He condescended to set us an example, and to go before that we might follow in His footsteps.
+
+[1:552] Faustus' principal objection to the genealogy fails completely; and after the defeat of this invincible force, the rest is easily routed.
+
+[1:553] He says that the apostles who declared Christ to be the Son of man as well as the Son of God are not to be believed, because they were not present at the birth of Christ, whom they joined when He had reached manhood, nor heard of it from Christ Himself.
+
+[1:554] Why then do they believe John when he says, "In the beginning was the Word, and the Word was with God, and the Word was God.
+
+[1:555] The same was in the beginning with God.
+
+[1:556] All things were made by Him, and without Him was not anything made,"  and such passages, which they agree to, without understanding them? Where did John see this, or did he ever hear it from the Lord Himself? In whatever way John learned this, those who narrate the nativity may have learned also.
+
+[1:557] Again, how do they know that the Lord said, "Who is my mother, and who are my brethren?" If on the authority of the evangelist, why do they not also believe that the mother and the brethren of Christ were seeking for Him? They believe that Christ said these words, which they misunderstand, while they deny a fact resting on the same authority.
+
+[1:558] Once more, if Matthew could not know that Christ was born, because he knew Him only in His manhood, how could Manich aeus, who lived so long after, know that He was not born? They will say that Manich aeus knew this from the Holy Spirit which was in him.
+
+[1:559] Certainly the Holy Spirit would make him speak the truth.
+
+[1:560] But why not rather believe what Christ's own disciples tell us, who were personally acquainted with Him, and who not only had the gift of inspiration to supply defects in their knowledge, but in a purely natural way obtained information of the birth of Christ, and of His descent, when the event was fresh in memory? And yet he dares to call the apostles deaf and blind.
+
+[1:561] Why were you not deaf and blind, to prevent you from learning such profane nonsense, and dumb too, to prevent you from uttering it?               Book VIII.
+
+[1:562] Faustus maintains that to hold to the Old Testament after the giving of the New is putting new cloth on an old garment.
+
+[1:563] Augustin further explains the relation of the Old Testament to the New, and reproaches the Manich aeans with carnality.
+
+[1:564] 1.
+
+[1:565] Faustus said: Another reason for not receiving the Old Testament is, that I am provided with the New; and Scripture says that old and new do not agree.
+
+[1:566] For "no one putteth a piece of new cloth unto an old garment, otherwise the rent is made worse".
+
+[1:567] To avoid making a worse rent, as you have done, I do not mix Christian newness with Hebrew oldness.
+
+[1:568] Every one accounts it mean, when a man has got a new dress, not to give the old one to his inferiors.
+
+[1:569] So, even if I were a Jew by birth, as the apostles were, it would be proper for me, on receiving the New Testament, to discard the Old, as the apostles did.
+
+[1:570] And having the advantage of being born free from the yoke of bondage, and being early introduced into the full liberty of Christ, what a foolish and ungrateful wretch I should be to put myself again under the yoke! This is what Paul blames the Galatians for; because, going back to circumcision, they turned again to the weak and beggarly elements, whereunto they desired again to be in bondage.
+
+[1:571] Why should I do what I see another blamed for doing? My going into bondage would be worse than their returning to it.
+
+[1:572] 2.
+
+[1:573] Augustin replied: We have already shown sufficiently why and how we maintain the authority of the Old Testament, not for the imitation of Jewish bondage, but for the confirmation of Christian liberty.
+
+[1:574] It is not I, but the apostle, who says, "All these things happened to them as an example, and they were written for our admonition, on whom the ends of the world are come".
+
+[1:575] We do not therefore, as bondmen, observe what was enjoined as predictive of us; but as free, we read what was written to confirm us.
+
+[1:576] So any one may see that the apostle remonstrates with the Galatians not for devoutly reading what Scripture says of circumcision, but for superstitiously desiring to be circumcised.
+
+[1:577] We do not put a new cloth to an old garment, but we are instructed in the kingdom of heaven, like the householder, whom the Lord describes as bringing out of his treasure things new and old.
+
+[1:578] He who puts a new cloth to an old garment is the man who attempts spiritual self-denial before he has renounced fleshly hope.
+
+[1:579] Examine the passage, and you will see that, when the Lord was asked about fasting, He replied, "No man putteth a new cloth to an old garment".
+
+[1:580] The disciples had still a carnal affection for the Lord; for they were afraid that, if He died, they would lose Him.
+
+[1:581] So He calls Peter Satan for dissuading Him from suffering, because he understood not the things of God, but the things of men.
+
+[1:582] The fleshly character of your hope is evident from your fancies about the kingdom of God, and from your paying homage and devotion to the light of the sun, which the carnal eye perceives, as if it were an image of heaven.
+
+[1:583] So your carnal mind is the old garment to which you join your fasts.
+
+[1:584] Moreover, if a new cloth and an old garment do not agree, how do the members of your God come to be not only joined or fastened, but to be united far more intimately by mixture and coherence to the principles of darkness? Perhaps both are old, because both are false, and both of the carnal mind.
+
+[1:585] Or perhaps you wish to prove that one was new and the other old, by the rent being made worse, in tearing away the unhappy piece of the kingdom of light, to be doomed to eternal imprisonment in the mass of darkness.
+
+[1:586] So this pretended artist in the fashions of the sacred Scriptures is found stitching together absurdities, and dressing himself in the rags of his own invention.
+
+[1:587]              Book IX.
+
+[1:588] Faustus argues that if the apostles born under the old covenant could lawfully depart from it, much more can he having been born a Gentile.
+
+[1:589] Augustin explains the relation of Jews and Gentiles alike to the Gospel.
+
+[1:590] 1.
+
+[1:591] Faustus said: Another reason for not receiving the Old Testament is, that if it was allowable for the apostles, who were born under it, to abandon it, much more may I, who was not born under it, be excused for not thrusting myself into it.
+
+[1:592] We Gentiles are not born Jews, nor Christians either.
+
+[1:593] Out of the same Gentile world some are induced by the Old Testament to become Jews, and some by the New Testament to become Christians.
+
+[1:594] It is as if two trees, a sweet and a bitter, drew from one soil the sap which each assimilates to its own nature.
+
+[1:595] The apostle passed from the bitter to the sweet; it would be madness in me to change from the sweet to the bitter.
+
+[1:596] 2.
+
+[1:597] Augustin replied: You say that the apostle, in leaving Judaism, passed from the bitter to the sweet.
+
+[1:598] But the apostle himself says that the Jews, who would not believe in Christ, were branches broken off, and that the Gentiles, a wild olive tree, were grafted into the good olive, that is, the holy stock of the Hebrews, that they might partake of the fatness of the olive.
+
+[1:599] For, in warning the Gentiles not to be proud on account of the fall of the Jews, he says: "For I speak to you Gentiles, inasmuch as I am the apostle of the Gentiles.
+
+[1:600] I magnify my office; if by any means I may provoke to emulation them which are my flesh, and might save some of them.
+
+[1:601] For if the casting away of them be the reconciling of the world, what shall the receiving of them be, but life from the dead? For if the first fruit be holy, the lump is also holy; and if the root be holy, so are the branches.
+
+[1:602] And if some of the branches are broken off, and thou, being a wild olive tree, were grafted in among them, and with them partakest of the root and fatness of the olive tree; boast not against the branches: but if thou boast, thou bearest not the root, but the root thee.
+
+[1:603] Thou wilt say then, The branches were broken off, that I might be grafted in.
+
+[1:604] Well; because of unbelief they were broken off, and thou standest by faith.
+
+[1:605] Be not high-minded, but fear; for if God spared not the natural branches, take heed lest He also spare not thee.
+
+[1:606] Behold therefore the goodness and severity of God: on them which fell, severity; but toward thee, goodness, if thou continue in His goodness; otherwise thou also shalt be cut off.
+
+[1:607] And they also, if they abide not still in unbelief, shall be grafted in; for God is able to graft them in again.
+
+[1:608] For if thou wert cut out of the olive tree, which is wild by nature, and wert grafted contrary to nature into a good olive tree; how much more shall these, which be the natural branches, be grafted into their own olive tree? For I would not, brethren, that ye should be ignorant of this mystery (lest ye should be wise in your own conceits), that blindness in part is happened to Israel, until the fullness of the Gentiles be come in; and so all Israel shall be saved".
+
+[1:609] It appears from this, that you, who do not wish to be graffed into this root, though you are not broken off, like the carnal unbelieving Jews, remain still in the bitterness of the wild olive.
+
+[1:610] Your worship of the sun and moon has the true Gentile flavor.
+
+[1:611] You are none the less in the wild olive of the Gentiles, because you have added thorns of a new kind, and worship along with the sun and moon a false Christ, the fabrication not of your hands, but of your perverse heart.
+
+[1:612] Come, then, and be grafted into the root of the olive tree, in his return to which the apostle rejoices, after by unbelief he had been among the broken branches.
+
+[1:613] He speaks of himself as set free, when he made the happy transition from Judaism to Christianity.
+
+[1:614] For Christ was always preached in the olive tree, and those who did not believe on Him when He came were broken off, while those who believed were grafted in.
+
+[1:615] These are thus warned against pride: "Be not high-minded, but fear; for if God spared not the natural branches, neither will He spare thee".
+
+[1:616] And to prevent despair of those broken off, he adds: "And they also, if they abide not still in unbelief, shall be grafted in; for God is able to graft them in again.
+
+[1:617] For if thou wert cut out of the olive tree, which is wild by nature, and wert grafted contrary to nature into a good olive tree, how much more shall these, which be the natural branches, be grafted into their own olive tree".
+
+[1:618] The apostle rejoices in being delivered from the condition of a broken branch, and in being restored to the fatness of the olive tree.
+
+[1:619] So you who have been broken off by error should return and be grafted in again.
+
+[1:620] Those who are still in the wild olive should separate themselves from its barrenness, and become partakers of fertility.
+
+[1:621]              Book X.
+
+[1:622] Faustus insists that the Old Testament promises are radically different from those of the New.
+
+[1:623] Augustin admits a difference, but maintains that the moral precepts are the same in both.
+
+[1:624] 1.
+
+[1:625] Faustus said: Another reason for not receiving the Old Testament is, that both the Old and the New teach us not to covet what belongs to others.
+
+[1:626] Everything in the Old Testament is of this kind.
+
+[1:627] It promises riches, and plenty, and children, and children's children, and long life, and withal the land of Canaan; but only to the circumcised, the Sabbath observers, those offering sacrifices, and abstaining from swine's flesh.
+
+[1:628] Now I, like every other Christian, pay no attention to these things, as being trifling and useless for the salvation of the soul.
+
+[1:629] I conclude, therefore, that the promises do not belong to me.
+
+[1:630] And mindful of the commandment, Thou shall not covet, I gladly leave to the Jews their own property, and content myself with the gospel, and with the bright inheritance of the kingdom of heaven.
+
+[1:631] If a Jew were to claim part in the gospel, I should justly reproach him with claiming what he had no right to, because he does not obey its precepts.
+
+[1:632] And a Jew might say the same to me if I professed to receive the Old Testament while I disregard its requirements.
+
+[1:633] 2.
+
+[1:634] Augustin replied: Faustus is not ashamed to repeat the same nonsense again and again.
+
+[1:635] But it is tiresome to repeat the same answers, though it is to repeat truth.
+
+[1:636] What Faustus says here has already been answered.
+
+[1:637] But if a Jew asks me why I profess to believe the Old Testament while I do not observe its precepts, my reply is this: The moral precepts of the law are observed by Christians; the symbolical precepts were properly observed during the time that the things now revealed were prefigured.
+
+[1:638] Accordingly, those observances, which I regard as no longer binding, I still look upon as a testimony, as I do also the carnal promises from which the Old Testament derives its name.
+
+[1:639] For although the gospel teaches me to hope for eternal blessings, I also find a confirmation of the gospel in those things which "happened to them for an example, and were written for our admonition, on whom the ends of the world are come".
+
+[1:640] So much for our answer to the Jews.
+
+[1:641] And now we have something to say to the Manich aeans.
+
+[1:642] 3.
+
+[1:643] By showing the way in which we regard the authority of the Old Testament we have answered the Jews, by whose question about our not observing the precepts Faustus thought we would be puzzled.
+
+[1:644] But what answer can you give to the question, why you deceive simple-minded people by professing to believe in the New Testament, while you not only do not believe it, but assail it with all your force? It will be more difficult for you to answer this than it was for us to answer the Jews.
+
+[1:645] We hold all that is written in the Old Testament to be true, and enjoined by God for suitable times.
+
+[1:646] But in your inability to find a reason for not receiving what is written in the New Testament, you are obliged, as a last resource, to pretend that the passages are not genuine.
+
+[1:647] This is the last gasp of a heretic in the clutches of truth; or rather it is the breath of corruption itself.
+
+[1:648] Faustus, however, confesses that the Old Testament as well as the New teaches him not to covet.
+
+[1:649] His own God could never have taught him this.
+
+[1:650] For if this God did not covet what belonged to another, why did he construct new worlds in the region of darkness? Perhaps the race of darkness first coveted his kingdom.
+
+[1:651] But this would be to imitate their bad example.
+
+[1:652] Perhaps the kingdom of light was previously of small extent, and war was desirable in order to enlarge it by conquest.
+
+[1:653] In that case, no doubt, there was covetousness, though the hostile race was allowed to begin the wars to justify the conquest.
+
+[1:654] If there had been no such desire, there was no necessity to extend the kingdom beyond its old limits into the region of the conquered foe.
+
+[1:655] If the Manich aeans would only learn from these Scriptures the moral precepts, one of which is, Do not covet, instead of taking offence at the symbolical precept, they would acknowledge in meekness and candor that they suited the time then present.
+
+[1:656] We do not covet what belongs to another, when we read in the Old Testament what "happened to them for examples, and was written for our admonition, on whom the ends of the world are come".
+
+[1:657] It is surely not coveting when a man reads what is written for his benefit.
+
+[1:658]              Book XI.
+
+[1:659] Faustus quotes passages to show that the Apostle Paul abandoned belief in the incarnation, to which he earlier held.
+
+[1:660] Augustin shows that the apostle was consistent with himself in the utterances quoted.
+
+[1:661] 1.
+
+[1:662] Faustus said: Assuredly I believe the apostle.
+
+[1:663] And yet I do not believe that the Son of God was born of the seed of David according to the flesh,  because I do not believe that God's apostle could contradict himself, and have one opinion about our Lord at one time, and another at another.
+
+[1:664] But, granting that he wrote this,—since you will not hear of anything being spurious in his writings,—it is not against us.
+
+[1:665] For this seems to be Paul's old belief about Jesus, when he thought, like everybody else, that Jesus was the son of David.
+
+[1:666] Afterwards, when he learned that this was false, he corrects himself; and in his Epistle to the Corinthians he says: "We know no man after the flesh; yea, though we have known Christ after the flesh, yet now henceforth know we Him no more".
+
+[1:667] Observe the difference between these two verses.
+
+[1:668] In one he asserts that Jesus was the son of David after the flesh; in the other he says that now he knows no man after the flesh.
+
+[1:669] If Paul wrote both, it can only have been in the way I have stated.
+
+[1:670] In the next verse he adds: "Therefore, if any man be in Christ, he is a new creature; old things are passed away; behold, all things are become new".
+
+[1:671] The belief that Jesus was born of the seed of David according to the flesh is of this old transitory kind; whereas the faith which knows no man after the flesh is new and permanent.
+
+[1:672] So, he says elsewhere: "When I was a child, I spoke as a child, I understood as a child, I thought as a child; but when I became a man, I put away childish things".
+
+[1:673] We are thus warranted in preferring the new and amended confession of Paul to his old and faulty one.
+
+[1:674] And if you hold by what is said in the Epistle to the Romans, why should not we hold by what is said to the Corinthians? But it is only by your insisting on the correctness of the text that we are made to represent Paul as building again the things which he destroyed, in spite of his own repudiation of such prevarication.
+
+[1:675] If the verse is Paul's, he has corrected himself.
+
+[1:676] If Paul should not be supposed to have written anything requiring correction, the verse is not his.
+
+[1:677] 2.
+
+[1:678] Augustin replied: As I said a little ago, when these men are beset by clear testimonies of Scripture, and cannot escape from their grasp, they declare that the passage is spurious.
+
+[1:679] The declaration only shows their aversion to the truth, and their obstinacy in error.
+
+[1:680] Unable to answer these statements of Scripture, they deny their genuineness.
+
+[1:681] But if this answer is admitted, or allowed to have any weight, it will be useless to quote any book or any passage against your errors.
+
+[1:682] It is one thing to reject the books themselves, and to profess no regard for their authority, as the Pagans reject our Scriptures, and the Jews the New Testament, and as we reject any books peculiar to your sect, or any other heretical sect, and also the apocryphal books, which are so called, not because of any mysterious regard paid to them, but because they are mysterious in their origin, and in the absence of clear evidence, have only some obscure presumption to rest upon; and it is another thing to say, This holy man wrote only the truth, and this is his epistle, but some verses are his, and some are not.
+
+[1:683] And then, when you are asked for a proof, instead of referring to more correct or more ancient manuscripts, or to a greater number, or to the original text, your reply is, This verse is his, because it makes for me; and this is not his, because it is against me.
+
+[1:684] Are you, then, the rule of truth? Can nothing be true that is against you? But what answer could you give to an opponent as insane as yourself, if he confronts you by saying, The passage in your favor is spurious, and that against you is genuine? Perhaps you will produce a book, all of which can be explained so as to support you.
+
+[1:685] Then, instead of rejecting a passage, he will reply by condemning the whole book as spurious.
+
+[1:686] You have no resource against such an opponent.
+
+[1:687] For all the testimony you can bring in favor of your book from antiquity or tradition will avail nothing.
+
+[1:688] In this respect the testimony of the Catholic Church is conspicuous, as supported by a succession of bishops from the original seats of the apostles up to the present time, and by the consent of so many nations.
+
+[1:689] Accordingly, should there be a question about the text of some passage, as there are a few passages with various readings well known to students of the sacred Scriptures, we should first consult the manuscripts of the country where the religion was first taught; and if these still varied, we should take the text of the greater number, or of the more ancient.
+
+[1:690] And if any uncertainty remained, we should consult the original text.
+
+[1:691] This is the method employed by those who, in any question about the Scriptures, do not lose sight of the regard due to their authority, and inquire with the view of gaining information, not of raising disputes.
+
+[1:692] 3.
+
+[1:693] As regards the passage from Paul's epistle which teaches, in opposition to your heresy, that the Son of God was born of the seed of David, it is found in all manuscripts both new and old of all Churches, and in all languages.
+
+[1:694] So the profession which Faustus makes of believing the apostle is hypocritical.
+
+[1:695] Instead of saying, "Assuredly I believe," he should have said, Assuredly I do not believe, as he would have said if he had not wished to deceive people.
+
+[1:696] What part of his belief does he get from the apostle? Not the first man, of whom the apostle says that he is of the earth, earthy; and again, "The first man Adam was made a living soul".
+
+[1:697] Faustus' First Man is neither of the earth, earthy, nor made a living soul, but of the substance of God, and the same in essence as God; and this being is said to have mixed up with the race of darkness his members, or vesture, or weapons, that is, the five elements, which also are part of the substance of God, so that they became subject to confinement and pollution.
+
+[1:698] Nor does Faustus get from Paul his Second Man, of whom Paul says that He is from heaven, and that He is the last Adam, and a quickening spirit; and also that He was born of the seed of David after the flesh, that He was made of a woman, made under the law, that He might redeem them that were under the law.
+
+[1:699] Of Him Paul says to Timothy: "Remember that Jesus Christ, of the seed of David, was raised from the dead, according to my gospel".
+
+[1:700] And this resurrection he quotes as an example of our resurrection: "I delivered unto you first of all that which I also received, how that Christ died for our sins, according to the Scriptures; and that He was buried, and that He rose again the third day, according to the Scriptures".
+
+[1:701] And a little further on he draws an inference from this doctrine: "Now, if Christ be preached that He rose from the dead, how say some among you that there is no resurrection of the dead?"   Our professed believer in Paul believes nothing of all this.
+
+[1:702] He denies that Jesus was born of the seed of David, that He was made of a woman (by the word woman is not meant a wife in the common sense of the word, but merely one of the female sex, as in the book of Genesis, where it is said that God made a woman before she was brought to Adam ); he denies His death, His burial, and His resurrection.
+
+[1:703] He holds that Christ had not a mortal body, and therefore could not really die; and that the marks of His wounds which He showed to His disciples when He appeared to them alive after His resurrection, which Paul also mentions,  were not real.
+
+[1:704] He denies, too, that our mortal body will be raised again, changed into a spiritual body; as Paul teaches: "It is sown a natural body, it is raised a spiritual body".
+
+[1:705] To illustrate this distinction between the natural and the spiritual body, the apostle adds what I have quoted already about the first and the last Adam.
+
+[1:706] Then he goes on: "But this I say, brethren, that flesh and blood cannot inherit the kingdom of God".
+
+[1:707] And to explain what he means by flesh and blood, that it is not the bodily substance, but corruption, which will not enter into the resurrection of the just, he immediately says, "Neither shall corruption inherit incorruption".
+
+[1:708] And in case any one should still suppose that it is not what is buried that is to rise again, but that it is as if one garment were laid aside and a better taken instead, he proceeds to show distinctly that the same body will be changed for the better, as the garments of Christ on the mount were not displaced, but transfigured: "Behold, I show you a mystery; we shall not all be changed, but we shall all rise".
+
+[1:709] Then he shows who are to be changed: "In a moment, in the twinkling of an eye, at the last trumpet: for the trumpet shall sound, and the dead shall rise incorruptible, and we shall be changed".
+
+[1:710] And if it should be said that it is not as regards our mortal and corruptible body, but as regards our soul, that we are to be changed, it should be observed that the apostle is not speaking of the soul, but of the body, as is evident from the question he starts with: "But some one will say, How are the dead raised, and with what body do they come?" So also, in the conclusion of his argument, he leaves no doubt of what he is speaking: "This corruptible must put on incorruption, and this mortal must put on immortality".
+
+[1:711] Faustus denies this; and the God whom Paul declares to be "immortal, incorruptible, to whom alone is glory and honor,"  he makes corruptible.
+
+[1:712] For in this monstrous and horrible fiction of theirs, the substance and nature of God was in danger of being wholly corrupted by the race of darkness, and to save the rest part actually was corrupted.
+
+[1:713] And to crown all this, he tries to deceive the ignorant who are not learned in the sacred Scriptures, by making this profession: I assuredly believe the Apostle Paul; when he ought to have said, I assuredly do not believe.
+
+[1:714] 4.
+
+[1:715] But Faustus has a proof to show that Paul changed his mind, and, in writing to the Corinthians, corrected what he had written to the Romans; or else that he never wrote the passage which appears as his, about Jesus Christ being born of the seed of David according to the flesh.
+
+[1:716] And what is this proof? If the passage, he says, in the Epistle to the Romans is true, "the Son of God, who was made of the seed of David according to the flesh," what he says to the Corinthians cannot be true, "Henceforth know we no man after the flesh; yea, though we have known Christ after the flesh, yet now henceforth know we Him no more".
+
+[1:717] We must therefore show that both these passages are true, and not opposed to one another.
+
+[1:718] The agreement of the manuscripts proves both to be genuine.
+
+[1:719] In some Latin versions the word "born"  is used instead of "made,"  which is not so literal a rendering, but gives the same meaning.
+
+[1:720] For both these translations, as well as the original, teach that Christ was of the seed of David after the flesh.
+
+[1:721] We must not for a moment suppose that Paul corrected himself on account of a change of opinion.
+
+[1:722] Faustus himself felt the impropriety and impiety of such an explanation, and preferred to say that the passage was spurious, instead of that Paul was mistaken.
+
+[1:723] 5.
+
+[1:724] As regards our writings, which are not a rule of faith or practice, but only a help to edification, we may suppose that they contain some things falling short of the truth in obscure and recondite matters, and that these mistakes may or may not be corrected in subsequent treatises.
+
+[1:725] For we are of those of whom the apostle says: "And if ye be otherwise minded, God shall reveal even this unto you".
+
+[1:726] Such writings are read with the right of judgment, and without any obligation to believe.
+
+[1:727] In order to leave room for such profitable discussions of difficult questions, there is a distinct boundary line separating all productions subsequent to apostolic times from the authoritative canonical books of the Old and New Testaments.
+
+[1:728] The authority of these books has come down to us from the apostles through the successions of bishops and the extension of the Church, and, from a position of lofty supremacy, claims the submission of every faithful and pious mind.
+
+[1:729] If we are perplexed by an apparent contradiction in Scripture, it is not allowable to say, The author of this book is mistaken; but either the manuscript is faulty, or the translation is wrong, or you have not understood.
+
+[1:730] In the innumerable books that have been written latterly we may sometimes find the same truth as in Scripture, but there is not the same authority.
+
+[1:731] Scripture has a sacredness peculiar to itself.
+
+[1:732] In other books the reader may form his own opinion, and perhaps, from not understanding the writer, may differ from him, and may pronounce in favor of what pleases him, or against what he dislikes.
+
+[1:733] In such cases, a man is at liberty to withhold his belief, unless there is some clear demonstration or some canonical authority to show that the doctrine or statement either must or may be true.
+
+[1:734] But in consequence of the distinctive peculiarity of the sacred writings, we are bound to receive as true whatever the canon shows to have been said by even one prophet, or apostle, or evangelist.
+
+[1:735] Otherwise, not a single page will be left for the guidance of human fallibility, if contempt for the wholesome authority of the canonical books either puts an end to that authority altogether, or involves it in hopeless confusion.
+
+[1:736] 6.
+
+[1:737] With regard, then, to this apparent contradiction between the passage which speaks of the Son of God being of the seed of David, to the words, "Though we have known Christ after the flesh, yet now henceforth know we Him no more," even though both quotations were not from the writings of one apostle,—though one were from Paul, and the other from Peter, or Isaiah, or any other apostle or prophet,—such is the equality of canonical authority, that it would not be allowable to doubt of either.
+
+[1:738] For the utterances of Scripture, harmonious as if from the mouth of one man, commend themselves to the belief of the most accurate and clear-sighted piety, and demand for their discovery and confirmation the calmest intelligence and the most ingenious research.
+
+[1:739] In the case before us both quotations are from the canonical, that is, the genuine epistles of Paul.
+
+[1:740] We cannot say that the manuscript is faulty, for the best Latin translations substantially agree; or that the translations are wrong, for the best texts have the same reading.
+
+[1:741] So that, if any one is perplexed by the apparent contradiction, the only conclusion is that he does not understand.
+
+[1:742] Accordingly it remains for me to explain how both passages, instead of being contradictory, may be harmonized by one rule of sound faith.
+
+[1:743] The pious inquirer will find all perplexity removed by a careful examination.
+
+[1:744] 7.
+
+[1:745] That the Son of God was made man of the seed of David, is not only said in other places by Paul, but is taught elsewhere in sacred Scripture.
+
+[1:746] As regards the words, "Though we have known Christ after the flesh, yet now henceforth know we Him no more," the context shows what is the apostle's meaning.
+
+[1:747] Here, or elsewhere, he views with an assured hope, as if it were already present and in actual possession, our future life, which is now fulfilled in our risen Head and Mediator, the man Christ Jesus.
+
+[1:748] This life will certainly not be after the flesh, even as Christ's life is now not after the flesh.
+
+[1:749] For by flesh the apostle here means not the substance of our bodies, in which sense the Lord used the word when, after His resurrection, He said, "Handle me, and see, for a spirit hath not flesh and bones, as ye see me have,"  but the corruption and mortality of flesh, which will then not be in us, as now it is not in Christ.
+
+[1:750] The apostle uses the word flesh in the sense of corruption in the passage about the resurrection quoted before: "Flesh and blood cannot inherit the kingdom of God, neither shall corruption inherit incorruption".
+
+[1:751] So, after the event described in the next verse, "Behold, I show you a mystery; we shall all rise, but we shall not all be changed.
+
+[1:752] In a moment, in the twinkling of an eye, at the last trump (for the trumpet shall sound); and the dead shall be raised incorruptible, and we shall be changed.
+
+[1:753] For this corruptible must put on incorruption, and this mortal must put on immortality," —then flesh, in the sense of the substance of the body, will, after this change, no longer have flesh, in the sense of the corruption of mortality; and yet, as regards its own nature, it will be the same flesh, the same which rises and which is changed.
+
+[1:754] What the Lord said after His resurrection is true, "Handle me, and see; for a spirit hath not flesh and bones, as ye see me have;" and what the apostle says is true, "Flesh and blood cannot inherit the kingdom of God".
+
+[1:755] The first is said of the bodily substance, which exists as the subject of the change: the second is said of the corruption of the flesh, which will cease to exist, for, after its change, flesh will not be corrupted.
+
+[1:756] So, "we have known Christ after the flesh," that is, after the mortality of flesh, before His resurrection; "now henceforth we know Him no more," because, as the same apostle says, "Christ being risen from the dead, dieth no more, and death hath no more dominion over Him".
+
+[1:757] [19] The words, "we have known Christ after the flesh," strictly speaking, imply that Christ was after the flesh, for what never was cannot be known.
+
+[1:758] And it is not "we have supposed," but "we have known".
+
+[1:759] But not to insist on a word, in case some one should say that known is used in the sense of supposed, it is astonishing, if one could be surprised at want of sight in a blind man, that these blind people do not perceive that if what the apostle says about not knowing Christ after the flesh proves that Christ had not flesh, then what he says in the same place of not knowing any one henceforth after the flesh proves that all those here referred to had not flesh.
+
+[1:760] For when he speaks of not knowing any one, he cannot intend to speak only of Christ; but in his realization of the future life with those who are to be changed at the resurrection, he says, "Henceforth we know no man after the flesh;" that is, we have such an assured hope of our future incorruption and immortality, that the thought of it makes us rejoice even now.
+
+[1:761] So he says elsewhere: "If ye then be risen with Christ, seek those things that are above, where Christ sitteth at the right hand of God.
+
+[1:762] Set your affections upon things above, and not on things on the earth".
+
+[1:763] It is true we have not yet risen as Christ has, but we are said to have risen with Him on account of the hope which we have in Him.
+
+[1:764] So again he says: "According to His mercy He saved us, by the washing of regeneration".
+
+[1:765] Evidently what we obtain in the washing of regeneration is not the salvation itself, but the hope of it.
+
+[1:766] And yet, because this hope is certain, we are said to be saved, as if the salvation were already bestowed.
+
+[1:767] Elsewhere it is said explicitly: "We groan within ourselves, waiting for the adoption, even the redemption of our body.
+
+[1:768] For we are saved by hope.
+
+[1:769] But hope which is seen is not hope; for what a man seeth, why doth he yet hope for? But if we hope for what we see not, then do we with patience wait for it".
+
+[1:770] The apostle says not, "we are to be saved," but, "We are now saved," that is, in hope, though not yet in reality.
+
+[1:771] And in the same way it is in hope, though not yet in reality, that we now know no man after the flesh.
+
+[1:772] This hope is in Christ, in whom what we hope for as promised to us has already been fulfilled.
+
+[1:773] He is risen, and death has no more dominion over Him.
+
+[1:774] Though we have known Him after the flesh, before His death, when there was in His body that mortality which the apostle properly calls flesh, now henceforth know we Him no more; for that mortal of His has now put on immortality, and His flesh, in the sense of mortality, no longer exists.
+
+[1:775] 8.
+
+[1:776] The context of the passage containing this clause of which our adversaries make such a bad use, brings out its real meaning.
+
+[1:777] "The love of Christ," we read, "constrains us, because we thus judge, that if one died for all, then all died; and He died for all, that they which live should not henceforth live unto themselves, but to Him who died for them, and rose again.
+
+[1:778] Therefore henceforth know we no man after the flesh; and though we have known Christ after the flesh, yet now henceforth know we Him no more".
+
+[1:779] The words, "that they which live should not henceforth live unto themselves, but unto Him who died for them, and rose again," show plainly that the resurrection of Christ is the ground of the apostle's statement.
+
+[1:780] To live not to themselves, but to Him, must mean to live not after the flesh, in the hope of earthly and perishable goods, but after the spirit, in the hope of resurrection,—a resurrection already accomplished in Christ.
+
+[1:781] Of those, then, for whom Christ died and rose again, and who live henceforth not to themselves, but to Him, the Apostle says that he knows no one after the flesh, on account of the hope of future immortality to which they were looking forward,—a hope which in Christ was already a reality.
+
+[1:782] So, though he has known Christ after the flesh, before His death, now he knows Him no more; for he knows that He has risen, and that death has no more dominion over Him.
+
+[1:783] And because in Christ we all are even now in hope, though not in reality, what Christ is, he adds: "Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.
+
+[1:784] And all things are of God, who has reconciled us to Himself by Christ".
+
+[1:785] What the new creature—that is, the people renewed by faith—hopes for regarding itself, it has already in Christ; and the hope will also hereafter be actually realized.
+
+[1:786] And, as regards this hope, old things have passed away, because we are no longer in the times of the Old Testament, expecting a temporal and carnal kingdom of God; and all things are become new, making the promise of the kingdom of heaven, where there shall be no death or corruption, the ground of our confidence.
+
+[1:787] But in the resurrection of the dead it will not be as a matter of hope, but in reality, that old things shall pass away, when the last enemy, death, shall be destroyed; and all things shall become new when this corruptible has put on incorruption, and this mortal has put on immortality.
+
+[1:788] This has already taken place in Christ, whom Paul accordingly, in reality, knew no longer after the flesh.
+
+[1:789] But not yet in reality, but only in hope, did he know no one after the flesh of those for whom Christ died and rose again.
+
+[1:790] For, as he says to the Ephesians, we are already saved by grace.
+
+[1:791] The whole passage is to the purpose: "But God, who is rich in mercy, for His great love wherewith He loved us, even when we were dead in sins, hath quickened us together with Christ, by whose grace we have been saved".
+
+[1:792] The words, "hath quickened us together with Christ," correspond to what he said to the Corinthians, "that they which live should no longer live to themselves, but to Him that died for them and rose again".
+
+[1:793] And in the words, "by whose grace we have been saved," he speaks of the thing hoped for as already accomplished.
+
+[1:794] So, in the passage quoted above, he says explicitly, "We have been saved by hope".
+
+[1:795] And here he proceeds to specify future events as if already accomplished.
+
+[1:796] "And has raised us up together," he says, "and has made us sit together in heavenly places in Christ Jesus".
+
+[1:797] Christ is certainly already seated in heavenly places, but we not yet.
+
+[1:798] But as in an assured hope we already possess the future, he says that we sit in heavenly places, not in ourselves, but in Him.
+
+[1:799] And to show that it is still future, in case it should be thought that what is spoken of as accomplished in hope has been accomplished in reality, he adds, "that He might show in the ages to come the exceeding riches of His grace in His kindness towards us in Christ Jesus".
+
+[1:800] So also we must understand the following passage: "For when we were in the flesh, the motions of sins, which were by the law, did work in our members to bring forth fruit unto death".
+
+[1:801] He says, "when we were in the flesh," as if they were no longer in the flesh.
+
+[1:802] He means to say, when we were in the hope of fleshly things, referring to the time when the law, which can be fulfilled only by spiritual love, was in force, in order that by transgression the offence might abound, that after the revelation of the New Testament, grace and the gift by grace might much more abound.
+
+[1:803] And to the same effect he says elsewhere, "They which are in the flesh cannot please God;" and then, to show that he does not mean those not yet dead, he adds, "But ye are not in the flesh, but in the Spirit".
+
+[1:804] The meaning is, those who are in the hope of fleshly good cannot please God; but you are not in the hope of fleshly things, but in the hope of spiritual things, that is, of the kingdom of heaven, where the body itself, which now is natural, will, by the change in the resurrection, be, according to the capacity of its nature, a spiritual body.
+
+[1:805] For "it is sown a natural body, it will be raised a spiritual body".
+
+[1:806] If, then, the apostle knew no one after the flesh of those who were said to be not in the flesh, because they were not in the hope of fleshly things, although they still were burdened with corruptible and mortal flesh; how much more significantly could he say of Christ that he no longer knew Him after the flesh, seeing that in the body of Christ what they hoped for had already been accomplished! Surely it is better and more reverential to examine the passages of sacred Scripture so as to discover their agreement with one another, than to accept some as true, and condemn others as false, whenever any difficulty occurs beyond the power of our weak intellect to solve.
+
+[1:807] As to the apostle in his childhood understanding as a child, this is said merely as an illustration.
+
+[1:808] And when he was a child he was not a spiritual man, as he was when he produced for the edification of the churches those writings which are not, as other books, merely a profitable study, but which authoritatively claim our belief as part of the ecclesiastical canon.
+
+[1:809]              Book XII.
+
+[1:810] Faustus denies that the prophets predicted Christ.
+
+[1:811] Augustin proves such prediction from the New Testament, and expounds at length the principal types of Christ in the Old Testament.
+
+[1:812] 1.
+
+[1:813] Faustus said: Why do I not believe the prophets? Rather why do you believe them? On account, you will reply, of their prophecies about Christ.
+
+[1:814] For my part, I have read the prophets with the most eager attention, and have found no such prophecies.
+
+[1:815] And surely it shows a weak faith not to believe in Christ without proofs and testimonies.
+
+[1:816] Indeed, you yourselves are accustomed to teach that Christian faith is so simple and absolute as not to admit of laborious investigations.
+
+[1:817] Why, then, should you destroy the simplicity of faith by buttressing it with evidences, and Jewish evidences too? Or if you are changing your opinion about evidences, what more trustworthy witness could you have than God Himself testifying to His own Son when He sent Him on earth,—not by a prophet or an interpreter,—by a voice immediately from heaven: "This is my beloved Son, believe Him?"  And again He testifies of Himself: "I came forth from the Father, and am come into the world;"  and in many similar passages.
+
+[1:818] When the Jews quarrelled with this testimony, saying "Thou bearest witness of thyself, thy witness is not true," He replied: "Although I bear witness of myself, my witness is true.
+
+[1:819] It is written in your law, The witness of two men is true.
+
+[1:820] I am one that bear witness of myself, and the Father who sent me beareth witness of me".
+
+[1:821] He does not mention the prophets.
+
+[1:822] Again He appeals to the testimony of His own works, saying, "If ye believe not me, believe the works;"  not, "If ye believe not me, believe the prophets".
+
+[1:823] Accordingly we require no testimonies concerning our Saviour.
+
+[1:824] All we look for in the prophets is prudence and virtue, and a good example, which, you are well aware, are not to be found in the Jewish prophets.
+
+[1:825] This, no doubt, explains your referring me at once to their predictions as a reason for believing them, without a word about their actions.
+
+[1:826] This may be good policy, but it is not in harmony with the declaration of Scripture, that it is impossible to gather grapes from thorns, or figs from thistles.
+
+[1:827] This may serve meanwhile as a brief and sufficient reply to the question, why we do not believe the prophets.
+
+[1:828] The fact that they did not prophesy of Christ is abundantly proved in the writings of our fathers.
+
+[1:829] I shall only add this, that if the Hebrew prophets knew and preached Christ, and yet lived such vicious lives, what Paul says of the wise men among the Gentiles might be applied to them: "Though they knew God, they glorified Him not as God, nor were thankful; but they became vain in their imaginations, and their foolish heart was darkened".
+
+[1:830] You see the knowledge of great things is worth little, unless the life corresponds.
+
+[1:831] 2.
+
+[1:832] Augustin replied: The meaning of all this is, that the Hebrew prophets foretold nothing of Christ, and that, if they did, their predictions are of no use to us, and they themselves did not live suitably to the dignity of such prophecies.
+
+[1:833] We must therefore prove the fact of the prophecies; and their use for the truth and steadfastness of our faith; and that the lives of the prophets were in harmony with their words.
+
+[1:834] In this threefold discussion, it would take a long time under the first head to quote from all the books the passages in which Christ may be shown to have been predicted.
+
+[1:835] Faustus' frivolity may be met effectually by the weight of one great authority.
+
+[1:836] Although Faustus does not believe the prophets, he professes to believe the apostles.
+
+[1:837] Above, as if to satisfy the doubts of some opponent, he declares that he assuredly believes the Apostle Paul.
+
+[1:838] Let us then hear what Paul says of the prophets.
+
+[1:839] His words are: "Paul, a servant of Jesus Christ, called to be an apostle, separated unto the gospel of God, which He had promised before by His prophets in the holy Scriptures, concerning His Son, who was made of the seed of David according to the flesh".
+
+[1:840] What more does Faustus wish? Will he maintain that the apostle is speaking of some other prophets, and not of the Hebrew prophets? In any case, the gospel spoken of as promised was concerning the Son of God, who was made for Him of the seed of David according to the flesh: and to this gospel the apostle says that he was separated.
+
+[1:841] So that the Manich aean heresy is opposed to faith in the gospel, which teaches that the Son of God was made of the seed of David according to the flesh.
+
+[1:842] Besides, there are many passages where the apostle plainly testifies in behalf of the Hebrew prophets, with an authority by which the necks of these proud Manich aeans are broken.
+
+[1:843] 3.
+
+[1:844] "I speak the truth in Christ," says the apostle, "I lie not, my conscience bearing me witness in the Holy Ghost, that I have great heaviness and continual sorrow of heart.
+
+[1:845] For I could wish that myself were accursed from Christ, for my brethren, my kinsmen according to the flesh: who are Israelites; to whom pertaineth the adoption, and the glory, and the covenants, and the giving of the law, and the service and the promises; whose are the fathers, and of whom, as concerning the flesh, Christ came, who is over all, God blessed for ever".
+
+[1:846] Here is the most abundant and express testimony and the most solemn commendation.
+
+[1:847] The adoption here spoken of is evidently through the Son of God; as the apostle says to the Galatians: "In the fullness of time, God sent forth His Son, made of a woman, made under the law, that He might redeem them that were under the law, that we might receive the adoption of sons".
+
+[1:848] And the glory spoken of is chiefly that of which he says in the same Epistle to the Romans: "What advantage hath the Jew? or what profit is there in circumcision? Much every way: chiefly, because unto them were committed the oracles of God".
+
+[1:849] Can the Manich aeans tell us of any oracles of God committed to the Jews besides those of the Hebrew prophets? And why are the covenants said to belong especially to the Israelites, but because not only was the Old Testament given to them, but also the New was prefigured in the Old? Our opponents often display much ignorant ferocity in attacking the dispensation of the law given to the Israelites, not understanding that God wishes us to be not under the law, but under grace.
+
+[1:850] They are here answered by the apostle himself, who, in speaking of the advantages of the Jews, mentions this as one, that they had the giving of the law.
+
+[1:851] If the law had been bad, the apostle would not have referred to it in praise of the Jews.
+
+[1:852] And if Christ had not been preached by the law, the Lord Himself would not have said, "If ye believe Moses, ye would have believed me, for he wrote of me;"  nor would He have borne the testimony He did after His resurrection, saying, "All things must needs be fulfilled that were written in the law of Moses, and in the Prophets, and in the Psalms, concerning me".
+
+[1:853] 4.
+
+[1:854] But because the Manich aeans preach another Christ, and not Him whom the apostles preached, but a false Christ of their own false contrivance, in imitation of whose falsehood they themselves speak lies, though they may perhaps be believed when they are not ashamed to profess to be the followers of a deceiver, that has befallen them which the apostle asserts of the unbelieving Jews: "When Moses is read, a veil is upon their heart".
+
+[1:855] Neither will this veil which keeps them from understanding Moses be taken away from them till they turn to Christ; not a Christ of their own making, but the Christ of the Hebrew prophets.
+
+[1:856] For, as the apostle says, "When thou shalt turn to the Lord, the veil shall be taken away".
+
+[1:857] We cannot wonder that they do not believe in the Christ who rose from the dead, and who said, "All things must needs be fulfilled which were written in the law of Moses, and in the prophets, and in the Psalms, concerning me;" for this Christ has Himself told us what Abraham said to a hard-hearted rich man when he was in torment in hell, and asked Abraham to send some one to his brothers to teach them, that they might not come too into that place of torment.
+
+[1:858] Abraham's reply was: "They have Moses and the prophets, let them hear them".
+
+[1:859] And when the rich man said that they would not believe unless some one rose from the dead, he received this most truthful answer: "If they hear not Moses and the prophets, neither will they believe even though one rose from the dead".
+
+[1:860] Wherefore, the Manich aeans will not hear Moses and the prophets, and so they do not believe Christ, though He rose from the dead.
+
+[1:861] Indeed, they do not even believe that Christ rose from the dead.
+
+[1:862] For how can they believe that He rose, when they do not believe that He died? For, again, how can they believe that He died, when they deny that He had a mortal body?  5.
+
+[1:863] But we reject those false teachers whose Christ is false, or rather, whose Christ never existed.
+
+[1:864] For we have a Christ true and truthful, foretold by the prophets, preached by the apostles, who in innumerable places refer to the testimonies of the law and the prophets in support of their preaching.
+
+[1:865] Paul, in one short sentence, gives the right view of this subject.
+
+[1:866] "Now," he says, "the righteousness of God without the law is manifested, being witnessed by the law and the prophets".
+
+[1:867] What prophets, if not of Israel, to whom, as he expressly says, pertain the covenants, and the giving of the law, and the promises? And what promises, but about Christ? Elsewhere, speaking of Christ, he says concisely: "All the promises of God are in Him yea".
+
+[1:868] Paul tells me that the giving of the law pertained to the Israelites.
+
+[1:869] He also tells me that Christ is the end of the law for righteousness to every one that believeth.
+
+[1:870] He also tells me that all the promises of God are in Christ yea.
+
+[1:871] And you tell me that the prophets of Israel foretold nothing of Christ.
+
+[1:872] Shall I believe the absurdities of Manich aeus relating a vain and long fable in opposition to Paul? or shall I believe Paul when he forewarns us: "If any man preach to you another gospel than that which we have preached, let him be accursed?"  6.
+
+[1:873] Our opponents may perhaps ask us to point out passages where Christ is predicted by the prophets of Israel.
+
+[1:874] One would think they might be satisfied with the authority of the apostles, who declare that what we read in the writings of the Hebrew prophets was fulfilled in Christ, or with that of Christ Himself, who says that these things were written of Him.
+
+[1:875] Whoever is unable to point out the passages should lay the blame on his own ignorance; for the apostles and Christ and the sacred Scriptures are not chargeable with falsehood.
+
+[1:876] However, one instance out of many may be adduced.
+
+[1:877] The apostle, in the verses following the passage quoted above, says: "The word of God cannot fail.
+
+[1:878] For they are not all Israel which are of Israel; neither, because they are the seed of Abraham, are they all children: but, In Isaac shall thy seed be called: that is, they which are the children of the flesh, these are not the children of God; but the children of promise are counted for the seed".
+
+[1:879] What can our opponent say against this, in view of the declaration made to Abraham: "In thy seed shall all the nations of the earth be blessed?" At the time when the apostle gave the following exposition of this promise, "To Abraham and to his seed were the promises made.
+
+[1:880] He saith not, To seed, as of many, but as of one, To thy seed, which is Christ,"  a doubt on this point might then have been less inexcusable, for at that time all nations had not yet believed on Christ, who is preached as of the seed of Abraham.
+
+[1:881] But now that we see the fulfillment of what we read in the ancient prophecy,—now that all nations are actually blessed in the seed of Abraham, to whom it was said thousands of years ago, "In thy seed shall all nations be blessed,"—it is mere obstinate folly to try to bring in another Christ, not of the seed of Abraham, or to hold that there are no predictions of Christ in the prophetical books of the children of Abraham.
+
+[1:882] 7.
+
+[1:883] To enumerate all the passages in the Hebrew prophets referring to our Lord and Saviour Jesus Christ, would exceed the limits of a volume, not to speak of the brief replies of which this treatise consists.
+
+[1:884] The whole contents of these Scriptures are either directly or indirectly about Christ.
+
+[1:885] Often the reference is allegorical or enigmatical, perhaps in a verbal allusion, or in a historical narrative, requiring diligence in the student, and rewarding him with the pleasure of discovery.
+
+[1:886] Other passages, again, are plain; for, without the help of what is clear, we could not understand what is obscure.
+
+[1:887] And even the figurative passages, when brought together, will be found so harmonious in their testimony to Christ as to put to shame the obtuseness of the sceptic.
+
+[1:888] 8.
+
+[1:889] In the creation God finished His works in six days, and rested on the seventh.
+
+[1:890] The history of the world contains six periods marked by the dealings of God with men.
+
+[1:891] The first period is from Adam to Noah; the second, from Noah to Abraham; the third, from Abraham to David; the fourth, from David to the captivity in Babylon; the fifth, from the captivity to the advent of lowliness of our Lord Jesus Christ; the sixth is now in progress, and will end in the coming of the exalted Saviour to judgment.
+
+[1:892] What answers to the seventh day is the rest of the saints,—not in this life, but in another, where the rich man saw Lazarus at rest while he was tormented in hell; where there is no evening, because there is no decay.
+
+[1:893] On the sixth day, in Genesis, man is formed after the image of God; in the sixth period of the world there is the clear discovery of our transformation in the renewing of our mind, according to the image of Him who created us, as the apostle says.
+
+[1:894] [19] As a wife was made for Adam from his side while he slept, the Church becomes the property of her dying Saviour, by the sacrament of the blood which flowed from His side after His death.
+
+[1:895] The woman made out of her husband's side is called Eve, or Life, and the mother of living beings; and the Lord says in the Gospel: "Except a man eat my flesh and drink my blood, he has no life in him".
+
+[1:896] The whole narrative of Genesis, in the most minute details, is a prophecy of Christ and of the Church with reference either to the good Christians or to the bad.
+
+[1:897] There is a significance in the words of the apostle when he calls Adam "the figure of Him that was to come;"  and when he says, "A man shall leave his father and mother, and shall cleave to his wife, and they two shall be one flesh.
+
+[1:898] This is a great mystery; but I speak concerning Christ and the Church".
+
+[1:899] This points most obviously to the way in which Christ left His Father; for "though He was in the form of God, and thought it not robbery to be equal with God, He emptied Himself, and took upon Him the form of a servant".
+
+[1:900] And so, too, He left His mother, the synagogue of the Jews which cleaved to the carnality of the Old Testament, and was united to the Church His holy bride, that in the peace of the New Testament they two might be one flesh.
+
+[1:901] For though with the Father He was God, by whom we were made, He became in the flesh partaker of our nature, that we might become the body of which He is the head.
+
+[1:902] 9.
+
+[1:903] As Cain's sacrifice of the fruit of the ground is rejected, while Abel's sacrifice of his sheep and the fat thereof is accepted, so the faith of the New Testament praising God in the harmless service of grace is preferred to the earthly observances of the Old Testament.
+
+[1:904] For though the Jews were right in practising these things, they were guilty of unbelief in not distinguishing the time of the New Testament when Christ came, from the time of the Old Testament.
+
+[1:905] God said to Cain, "If thou offerest well, yet if thou dividest not well, thou hast sinned".
+
+[1:906] If Cain had obeyed God when He said, "Be content, for to thee shall be its reference, and thou shalt rule over it," he would have referred his sin to himself, by taking the blame of it, and confessing it to God; and so assisted by supplies of grace, he would have ruled over his sin, instead of acting as the servant of sin in killing his innocent brother.
+
+[1:907] So also the Jews, of whom all these things are a figure, if they had been content, instead of being turbulent, and had acknowledged the time of salvation through the pardon of sins by grace, and heard Christ saying, "They that are whole need not a physician, but they that are sick; I came not to call the righteous, but sinners to repentance;"  and, "Every one that committeth sin is the servant of sin;" and, "If the Son make you free, ye shall be free indeed," —they would in confession have referred their sin to themselves, saying to the Physician, as it is written in the Psalm, "I said, Lord, be merciful to me; heal my soul, for I have sinned against Thee".
+
+[1:908] And being made free by the hope of grace, they would have ruled over sin as long as it continued in their mortal body.
+
+[1:909] But now, being ignorant of God's righteousness, and wishing to establish a righteousness of their own, proud of the works of the law, instead of being humbled on account of their sins, they have not been content; and in subjection to sin reigning in their mortal body, so as to make them obey it in the lusts thereof, they have stumbled on the stone of stumbling, and have been inflamed with hatred against him whose works they grieved to see accepted by God.
+
+[1:910] The man who was born blind, and had been made to see, said to them, "We know that God heareth not sinners; but if any man serve Him, and do His will, him He heareth;"  as if he had said, God regardeth not the sacrifice of Cain, but he regards the sacrifice of Abel.
+
+[1:911] Abel, the younger brother, is killed by the elder brother; Christ, the head of the younger people, is killed by the elder people of the Jews.
+
+[1:912] Abel dies in the field; Christ dies on Calvary.
+
+[1:913] 10.
+
+[1:914] God asks Cain where his brother is, not as if He did not know, but as a judge asks a guilty criminal.
+
+[1:915] Cain replies that he knows not, and that he is not his brother's keeper.
+
+[1:916] And what answer can the Jews give at this day, when we ask them with the voice of God, that is, of the sacred Scriptures, about Christ, except that they do not know the Christ that we speak of? Cain's ignorance was pretended, and the Jews are deceived in their refusal of Christ.
+
+[1:917] Moreover, they would have been in a sense keepers of Christ, if they had been willing to receive and keep the Christian faith.
+
+[1:918] For the man who keeps Christ in his heart does not ask, like Cain, Am I my brother's keeper? Then God says to Cain, "What hast thou done? The voice of thy brother's blood crieth unto me from the ground".
+
+[1:919] So the voice of God in the Holy Scriptures accuses the Jews.
+
+[1:920] For the blood of Christ has a loud voice on the earth, when the responsive Amen of those who believe in Him comes from all nations.
+
+[1:921] This is the voice of Christ's blood, because the clear voice of the faithful redeemed by His blood is the voice of the blood itself.
+
+[1:922] 11.
+
+[1:923] Then God says to Cain: "Thou art cursed from the earth, which hath opened its mouth to receive thy brother's blood at thy hand.
+
+[1:924] For thou shalt till the earth, and it shall no longer yield unto thee its strength.
+
+[1:925] A mourner and an abject shalt thou be on the earth".
+
+[1:926] It is not, Cursed is the earth, but, Cursed art thou from the earth, which hath opened its mouth to receive thy brother's blood at thy hand.
+
+[1:927] So the unbelieving people of the Jews is cursed from the earth, that is, from the Church, which in the confession of sins has opened its mouth to receive the blood shed for the remission of sins by the hand of the people that would not be under grace, but under the law.
+
+[1:928] And this murderer is cursed by the Church; that is, the Church admits and avows the curse pronounced by the apostle: "Whoever are of the works of the law are under the curse of the law".
+
+[1:929] Then, after saying, Cursed art thou from the earth, which has opened its mouth to receive thy brother's blood at thy hand, what follows is not, For thou shalt till it, but, Thou shalt till the earth, and it shall not yield to thee its strength.
+
+[1:930] The earth he is to till is not necessarily the same as that which opened its mouth to receive his brother's blood at his hand.
+
+[1:931] From this earth he is cursed, and so he tills an earth which shall no longer yield to him its strength.
+
+[1:932] That is, the Church admits and avows the Jewish people to be cursed, because after killing Christ they continue to till the ground of an earthly circumcision, an earthly Sabbath, an earthly passover, while the hidden strength or virtue of making known Christ, which this tilling contains, is not yielded to the Jews while they continue in impiety and unbelief, for it is revealed in the New Testament.
+
+[1:933] While they will not turn to God, the veil which is on their minds in reading the Old Testament is not taken away.
+
+[1:934] This veil is taken away only by Christ, who does not do away with the reading of the Old Testament, but with the covering which hides its virtue.
+
+[1:935] So, at the crucifixion of Christ, the veil was rent in twain, that by the passion of Christ hidden mysteries might be revealed to believers who turn to Him with a mouth opened in confession to drink His blood.
+
+[1:936] In this way the Jewish people, like Cain, continue tilling the ground, in the carnal observance of the law, which does not yield to them its strength, because they do not perceive in it the grace of Christ.
+
+[1:937] So too, the flesh of Christ was the ground from which by crucifying Him the Jews produced our salvation, for He died for our offences.
+
+[1:938] But this ground did not yield to them its strength, for they were not justified by the virtue of His resurrection, for He arose again for our justification.
+
+[1:939] As the apostle says: "He was crucified in weakness, but He liveth by the power of God".
+
+[1:940] This is the power of that ground which is unknown to the ungodly and unbelieving.
+
+[1:941] When Christ rose, He did not appear to those who had crucified Him.
+
+[1:942] So Cain was not allowed to see the strength of the ground which he tilled to sow his seed in it; as God said, "Thou shalt till the ground, and it shall no longer yield unto thee its strength".
+
+[1:943] 12.
+
+[1:944] "Groaning and trembling shalt thou be on the earth".
+
+[1:945] Here no one can fail to see that in every land where the Jews are scattered they mourn for the loss of their kingdom, and are in terrified subjection to the immensely superior number of Christians.
+
+[1:946] So Cain answered, and said: "My case is worse, if Thou drivest me out this day from the face of the earth, and from Thy face shall I be hid, and I shall be a mourner and an outcast on the earth; and it shall be that every one that findeth me shall slay me".
+
+[1:947] Here he groans indeed in terror, lest after losing his earthly possession he should suffer the death of the body.
+
+[1:948] This he calls a worse case than that of the ground not yielding to him its strength, or than that of spiritual death.
+
+[1:949] For his mind is carnal; for he thinks little of being hid from the face of God, that is, of being under the anger of God, were it not that he may be found and slain.
+
+[1:950] This is the carnal mind that tills the ground, but does not obtain its strength.
+
+[1:951] To be carnally minded is death; but he, in ignorance of this, mourns for the loss of his earthly possession, and is in terror of bodily death.
+
+[1:952] But what does God reply? "Not so," He says; "but whosoever shall kill Cain, vengeance shall be taken on him sevenfold".
+
+[1:953] That is, It is not as thou sayest; not by bodily death shall the ungodly race of carnal Jews perish.
+
+[1:954] For whoever destroys them in this way shall suffer sevenfold vengeance, that is, shall bring upon himself the sevenfold penalty under which the Jews lie for the crucifixion of Christ.
+
+[1:955] So to the end of the seven days of time, the continued preservation of the Jews will be a proof to believing Christians of the subjection merited by those who, in the pride of their kingdom, put the Lord to death.
+
+[1:956] 13.
+
+[1:957] "And the Lord God set a mark upon Cain, lest any one finding him should slay him".
+
+[1:958] It is a most notable fact, that all the nations subjugated by Rome adopted the heathenish ceremonies of the Roman worship; while the Jewish nation, whether under Pagan or Christian monarchs, has never lost the sign of their law, by which they are distinguished from all other nations and peoples.
+
+[1:959] No emperor or monarch who finds under his government the people with this mark kills them, that is, makes them cease to be Jews, and as Jews to be separate in their observances, and unlike the rest of the world.
+
+[1:960] Only when a Jew comes over to Christ, he is no longer Cain, nor goes out from the presence of God, nor dwells in the land of Nod, which is said to mean commotion.
+
+[1:961] Against this evil of commotion the Psalmist prays, "Suffer not my feet to be moved;"  and again, "Let not the hands of the wicked remove me;"  and, "Those that trouble me will rejoice when I am moved:"  and, "The Lord is at my right hand, that I should not be moved;"  and so in innumerable places.
+
+[1:962] This evil comes upon those who leave the presence of God, that is, His loving-kindness.
+
+[1:963] Thus the Psalmist says, "I said in my prosperity, I shall never be moved".
+
+[1:964] But observe what follows, "Lord, by Thy favor Thou hast given strength to my honor; Thou didst hide Thy face, and I was troubled;"  which teaches us that not in itself, but by participation in the light of God, can any soul possess beauty, or honor, or strength.
+
+[1:965] The Manich aeans should think of this, to keep them from the blasphemy of identifying themselves with the nature and substance of God.
+
+[1:966] But they cannot think, because they are not content.
+
+[1:967] The Sabbath of the heart they are strangers to.
+
+[1:968] If they were content, as Cain was told to be, they would refer their sin to themselves; that is, they would lay the blame on themselves, and not on a race of darkness that no one ever heard of, and so by the grace of God they would prevail over their sin.
+
+[1:969] But now the Manich aeans, and all who oppose the truth by their various heresies, leave the presence of God, like Cain and the scattered Jews, and inhabit the land of commotion, that is, of carnal disquietude, instead of the enjoyment of God, that is instead of Eden, which is interpreted Feasting, where Paradise was planted.
+
+[1:970] But not to depart too much from the argument of this treatise I must limit myself to a few, short remarks under this head.
+
+[1:971] 14.
+
+[1:972] Omitting therefore many passages in these Books where Christ may be found, but which require longer explanation and proof, although the most hidden meanings are the sweetest, convincing testimony may be obtained from the enumeration of such things as the following:—That Enoch, the seventh from Adam, pleased God, and was translated, as there is to be a seventh day of rest into which all will be translated who, during the sixth day of the world's history, are created anew by the incarnate Word.
+
+[1:973] That Noah, with his family is saved by water and wood, as the family of Christ is saved by baptism, as representing the suffering of the cross.
+
+[1:974] That this ark is made of beams formed in a square, as the Church is constructed of saints prepared unto every good work: for a square stands firm on any side.
+
+[1:975] That the length is six times the breadth, and ten times the height, like a human body, to show that Christ appeared in a human body.
+
+[1:976] That the breadth reaches to fifty cubits; as the apostle says, "Our heart is enlarged,"  that is, with spiritual love, of which he says again, "The love of God is shed abroad in our heart by the Holy Ghost, which is given unto us".
+
+[1:977] For in the fiftieth day after His resurrection, Christ sent His Holy Spirit to enlarge the hearts of His disciples.
+
+[1:978] That it is three hundred cubits long, to make up six times fifty; as there are six periods in the history of the world during which Christ has never ceased to be preached,—in five foretold by the prophets, and in the sixth proclaimed in the gospel.
+
+[1:979] That it is thirty cubits high, a tenth part of the length; because Christ is our height, who in his thirtieth year gave His sanction to the doctrine of the gospel, by declaring that He came not to destroy the law, but to fulfil it.
+
+[1:980] Now the ten commandments are to be the heart of the law; and so the length of the ark is ten times thirty.
+
+[1:981] Noah himself, too, was the tenth from Adam.
+
+[1:982] That the beams of the ark are fastened within and without with pitch, to signify by compact union the forbearance of love, which keeps the brotherly connection from being impaired, and the bond of peace from being broken by the offences which try the Church either from without or from within.
+
+[1:983] For pitch is a glutinous substance, of great energy and force, to represent the ardor of love which, with great power of endurance, beareth all things in the maintenance of spiritual communion.
+
+[1:984] 15.
+
+[1:985] That all kinds of animals are inclosed in the ark; as the Church contains all nations, which was also set forth in the vessel shown to Peter.
+
+[1:986] That clean and unclean animals are in the ark; as good and bad take part in the sacraments of the Church.
+
+[1:987] That the clean are in sevens, and the unclean in twos; not because the bad are fewer than the good, but because the good preserve the unity of the Spirit in the bond of peace; and the Spirit is spoken of in Scripture as having a sevenfold operation, as being "the Holy Spirit of wisdom and understanding, of counsel and might, of knowledge and piety, and of the fear of God".
+
+[1:988] So also the number fifty, which is connected with the advent of the Holy Spirit, is made up of seven times seven, and one over; whence it is said, "Endeavoring to keep the unity of the Spirit in the bond of peace".
+
+[1:989] The bad, again, are in twos, as being easily divided, from their tendency to schism.
+
+[1:990] That Noah, counting his family, was the eighth; because the hope of our resurrection has appeared in Christ, who rose from the dead on the eighth day, that is, on the day after the seventh, or Sabbath day.
+
+[1:991] This day was the third from His passion; but in the ordinary reckoning of days, it is both the eighth and the first.
+
+[1:992] 16.
+
+[1:993] That the whole ark together is finished in a cubit above; as the Church, the body of Christ gathered into unity, is raised to perfection.
+
+[1:994] So Christ says in the Gospel: "He that gathereth not with me, scattereth".
+
+[1:995] That the entrance is on the side; as no man enters the Church except by the sacrament of the remission of sins which flowed from Christ's opened side.
+
+[1:996] That the lower spaces of the ark are divided into two and three chambers: as the multitude of all nations in the Church is divided into two, as circumcised and uncircumcised; or into three, as descended from the three sons of Noah.
+
+[1:997] And these parts of the ark are called lower, because in this earthly state there is a difference of races, and above we are completed in one.
+
+[1:998] Above there is no diversity; for Christ is all and in all, finishing us, as it were, in one cubit above with heavenly unity.
+
+[1:999] 17.
+
+[1:1000] That the flood came seven days after Noah entered the ark; as we are baptized in the hope of the future rest, which was denoted by the seventh day.
+
+[1:1001] That all flesh on the face of the earth, outside the ark, was destroyed by the flood; as, beyond the communion of the Church, though the water of baptism is the same, it is efficacious only for destruction, and not for salvation.
+
+[1:1002] That it rained for forty days and forty nights; as the sacrament of heavenly baptism washes away all the guilt of the sins against the ten commandments throughout all the four quarters of the world (four times ten is forty), whether that guilt has been contracted in the day of prosperity or in the night of adversity.
+
+[1:1003] 18.
+
+[1:1004] That Noah was five hundred years old when God told him to make the ark, and six hundred when he entered the ark; which shows that the ark was made during one hundred years, which seem to correspond to the years of an age of the world.
+
+[1:1005] So the sixth age is occupied with the construction of the Church by the preaching of the gospel.
+
+[1:1006] The man who avails himself of the offer of salvation is made like a square beam, fitted for every good work, and forms part of the sacred fabric.
+
+[1:1007] Again, it was the second month of the six hundredth year when Noah entered the ark, and in two months there are sixty days; so that here, as in every multiple of six, we have the number denoting the sixth age.
+
+[1:1008] 19.
+
+[1:1009] That mention is made of the twenty seventh day of the month; as we have already seen the significance of the square in the beams.
+
+[1:1010] Here especially it is significant; for as twenty-seven is the cube of three, there is a trinity in the means by which we are, as it were, squared, or fitted for every good work.
+
+[1:1011] By the memory we remember God; by the understanding we know Him; by the will we love Him.
+
+[1:1012] That in the seventh month the ark rested; reminding us again of the seventh day of rest.
+
+[1:1013] And here again, to denote the perfection of those at rest, the twenty-seventh day of the month is mentioned for the second time.
+
+[1:1014] So what is promised in hope is realized in experience.
+
+[1:1015] There is here a combination of seven and eight; for the water rose fifteen cubits above the mountains, pointing to a profound mystery in baptism,—the sacrament of our regeneration.
+
+[1:1016] For the seventh day of rest is connected with the eighth of resurrection.
+
+[1:1017] For when the saints receive again their bodies after the rest of the intermediate state, the rest will not cease; but rather the whole man, body and soul united, renewed in the immortal health, will attain to the realization of his hope in the enjoyment of eternal life.
+
+[1:1018] Thus the sacrament of baptism, like the waters of Noah, rises above all the wisdom of the proud.
+
+[1:1019] Seven and eight are also combined in the number of one hundred and fifty, made up of seventy and eighty, which was the number of days during which the water prevailed, pointing out the deep import of baptism in consecrating the new man to hold the faith of rest and resurrection.
+
+[1:1020] 20.
+
+[1:1021] That the raven sent out after forty days did not return, being either prevented by the water or attracted by some floating carcase; as men defiled by impure desire, and therefore eager for things outside in the world, are either baptized, or are led astray into the company of those to whom, as they are outside the ark, that is, outside the Church, baptism is destructive.
+
+[1:1022] That the dove when sent forth found no rest, and returned; as in the New Testament rest is not promised to the saints in this world.
+
+[1:1023] The dove was sent forth after forty days, a period denoting the length of human life.
+
+[1:1024] When again sent forth after seven days, denoting the sevenfold operation of the Spirit, the dove brought back a fruitful olive branch; as some even who are baptized outside of the Church, if not destitute of the fatness of charity, may come after all, as it were in the evening, and be brought into the one communion by the mouth of the dove in the kiss of peace.
+
+[1:1025] That, when again sent forth after seven days, the dove did not return; as, at the end of the world, the rest of the saints shall no longer be in the sacrament of hope, as now, while in the communion of the Church, they drink what flowed from the side of Christ, but in the perfection of eternal safety, when the kingdom shall be delivered up to God and the Father, and when, in that unclouded contemplation of unchangeable truth, we shall no longer need natural symbols.
+
+[1:1026] 21.
+
+[1:1027] There are many other points which we cannot take notice of even in this cursory manner.
+
+[1:1028] Why in the six hundred and first year of Noah's life—that is, after six hundred years were completed—the covering of the ark is removed, and the hidden mystery, as it were, disclosed.
+
+[1:1029] Why the earth is said to have dried on the twenty-seventh day of the second month; as if the number fifty-seven denoted the completion of the rite of baptism.
+
+[1:1030] For the twenty-seventh day of the second month is the fifty-seventh day of the year; and the number fifty-seven is seven times eight, which are the numbers of the spirit and the body, with one over, to denote the bond of unity.
+
+[1:1031] Why they leave the ark together, though they entered separately.
+
+[1:1032] For it is said: "Noah went in, and his sons, and his wife, and his sons' wives with him, into the ark;" the men and the women being spoken of separately; which denotes the time when the flesh lusteth against the spirit, and the spirit against the flesh.
+
+[1:1033] But they go forth, Noah and his wife, and his sons and their wives,—the men and women together.
+
+[1:1034] For in the end of the world, and in the resurrection of the just, the body will be united to the spirit in perfect harmony, undisturbed by the wants and the passions of mortality.
+
+[1:1035] Why, after leaving the ark, only clean animals are offered in sacrifice to God, though both clean and unclean were in the ark.
+
+[1:1036] 22.
+
+[1:1037] Then, again, it is significant that when God speaks to Noah, and begins anew, as it were, in order, by repetition in various forms, to draw attention to the figure of the Church, the sons of Noah are blessed, and told to replenish the earth, and all animals are given to them for food; as was said to Peter of the vessel, "Kill and eat".
+
+[1:1038] That they are told to pour out the blood when they eat; that the former life may not be kept shut up in the conscience, but may be, as it were, poured out in confession.
+
+[1:1039] That God makes the bow, which appears in the clouds only when the sun shines, the sign of His covenant with men, and with every living thing, that He will not destroy them with a flood; as those do not perish by the flood, in separation from the Church, who in the clouds of God—that is, in the prophets and in all the sacred Scriptures—discern the glory of Christ, instead of seeking their own glory.
+
+[1:1040] The worshippers of the sun, however, need not pride themselves on this; for they must understand that the sun, as also a lion, a lamb, and a stone, are used as types of Christ because they have some resemblance, not because they are of the same substance.
+
+[1:1041] 23.
+
+[1:1042] Again, the sufferings of Christ from His own nation are evidently denoted by Noah being drunk with the wine of the vineyard he planted, and his being uncovered in his tent.
+
+[1:1043] For the mortality of Christ's flesh was uncovered, to the Jews a stumbling-block, and to the Greeks foolishness; but to them that are called, both Jews and Greeks, both Shem and Japhet, the power of God and the wisdom of God.
+
+[1:1044] Because the foolishness of God is wiser than men, and the weakness of God is stronger than men.
+
+[1:1045] Moreover, the two sons, the eldest and the youngest, carrying the garment backwards, are a figure of the two peoples, and the sacrament of the past and completed passions of the Lord.
+
+[1:1046] They do not see the nakedness of their father, because they do not consent to Christ's death; and yet they honor it with a covering, as knowing whence they were born.
+
+[1:1047] The middle son is the Jewish people, for they neither held the first place with the apostles, nor believed subsequently with the Gentiles.
+
+[1:1048] They saw the nakedness of their father, because they consented to Christ's death; and they told it to their brethren outside, for what was hidden in the prophets was disclosed by the Jews.
+
+[1:1049] And thus they are the servants of their brethren.
+
+[1:1050] For what else is this nation now but a desk for the Christians, bearing the law and the prophets, and testifying to the doctrine of the Church, so that we honor in the sacrament what they disclose in the letter?  24.
+
+[1:1051] Again, every one must be impressed, and be either enlightened or confirmed in the faith, by the blessing of the two sons who honored the nakedness of their father, though they turned away their faces, as displeased with the evil done by the vine.
+
+[1:1052] "Blessed," he says, "be the Lord God of Shem".
+
+[1:1053] For although God is the God of all nations, even the Gentiles acknowledge Him to be in a peculiar sense the God of Israel.
+
+[1:1054] And how is this to be explained but by the blessing of Japhet? The occupation of all the world by the Church among the Gentiles was exactly foretold in the words: "Let God enlarge Japhet, and let him dwell in the tents of Shem".
+
+[1:1055] That is for the Manich aean to attend to.
+
+[1:1056] You see what the state of the world actually is.
+
+[1:1057] The very thing that you are astonished and grieved at in us is this, that God is enlarging Japhet.
+
+[1:1058] Is He not dwelling in the tents of Shem?—that is, in the churches built by the apostles, the sons of the prophets.
+
+[1:1059] Hear what Paul says to the believing Gentiles: "Ye were at that time without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants; having no hope of the promise, and without God in the world".
+
+[1:1060] In these words there is a description of the state of Japhet before he dwelt in the tents of Shem.
+
+[1:1061] But observe what follows: "Now then;" he says, "ye are no more strangers and foreigners, but fellow-citizens with the saints, and of the household of God, being built upon the foundation of the apostles and prophets, Jesus Christ Himself being the chief corner-stone".
+
+[1:1062] Here we have Japhet enlarged, and dwelling in the tents of Shem.
+
+[1:1063] These testimonies are taken from the epistles of the apostles, which you yourselves acknowledge, and read, and profess to follow.
+
+[1:1064] You occupy an unhappy middle position in a building of which Christ is not the chief corner-stone.
+
+[1:1065] For you do not belong to the wall of those who, like the apostles, being of the circumcision, believed in Christ; nor to the wall of those who, being of the uncircumcision, like all the Gentiles, are joined in the unity of faith, as in the fellowship of the corner-stone.
+
+[1:1066] However, all who accept and read any books of our canon in which Christ is spoken of as having been born and having suffered in the flesh, and who do not unite with us in a common veiling with the sacrament of the mortality, uncovered by the passion, but without the knowledge of piety and charity make known that from which we all are born,—although they differ among themselves, whether as Jews and heretics, or as heretics of one kind or other,—are still all useful to the Church, as being all alike servants, either in bearing witness to or in proving some truth.
+
+[1:1067] For of heretics it is said: "There must be heresies, that those who are approved among you may be manifested".
+
+[1:1068] Go on, then, with your objections to the Old Testament Scriptures! Go on, ye servants of Ham! You have despised the flesh from which you were born when uncovered.
+
+[1:1069] For you could not have called yourselves Christians unless Christ had come into the world, as foretold by the prophets, and had drunk of His own vine that cup which could not pass from Him, and had slept in His passion, as in the drunkenness of the folly which is wiser than men; and so, in the hidden counsel of God, the disclosure had been made of that infirmity of mortal flesh which is stronger than men.
+
+[1:1070] For unless the Word of God had taken on Himself this infirmity, the name of Christian, in which you also glory, would not exist in the earth.
+
+[1:1071] Go on, then, as I have said.
+
+[1:1072] Declare in mockery what we may honor with reverence.
+
+[1:1073] Let the Church use you as her servants to make manifest those members who are approved.
+
+[1:1074] So particular are the predictions of the prophets regarding the state and the sufferings of the Church, that we can find a place even for you in what is said of the destructive error by which the reprobate are to perish, while the approved are to be manifested.
+
+[1:1075] 25.
+
+[1:1076] You say that Christ was not foretold by the prophets of Israel, when, in fact, their Scriptures teem with such predictions, if you would only examine them carefully, instead of treating them with levity.
+
+[1:1077] Who in Abraham leaves his country and kindred that he may become rich and prosperous among strangers, but He who, leaving the land and country of the Jews, of whom He was born in the flesh, is now extending His power, as we see, among the Gentiles? Who in Isaac carried the wood for His own sacrifice, but He who carried His own cross? Who is the ram for sacrifice, caught by the horns in a.
+
+[1:1078] bush, but He who was fastened to the cross as an offering for us?  26.
+
+[1:1079] Who in the angel striving with Jacob, on the one hand is constrained to give him a blessing, as the weaker to the stronger, the conquered to the conqueror, and on the other hand puts his thigh-bone out of joint, but He who, when He suffered the people of Israel to prevail against Him, blessed those among them who believed, while the multitude, like Jacob's thigh-bone, halted in their carnality? Who is the stone placed under Jacob's head, but Christ the head of man? And in its anointing the very name of Christ is expressed, for, as all know, Christ means anointed.
+
+[1:1080] Christ refers to this in the Gospel, and declares it to be a type of Himself, when He said of Nathanael that he was an Israelite indeed, in whom was no guile, and when Nathanael, resting his head, as it were, on this Stone, or on Christ, confessed Him as the Son of God and the King of Israel anointing the Stone by his confession, in which he acknowledged Jesus to be Christ.
+
+[1:1081] On this occasion the Lord made appropriate mention of what Jacob saw in his dream "Verily I say unto you, Ye shall see heaven opened, and the angels of God ascending and descending upon the Son of man".
+
+[1:1082] This Jacob saw, who in the blessing was called Israel, when he had the stone for a pillow, and had the vision of the ladder reaching from earth to heaven, on which the angels of God were ascending and descending.
+
+[1:1083] The angels denote the evangelists, or preachers of Christ.
+
+[1:1084] They ascend when they rise above the created universe to describe the supreme majesty of the divine nature of Christ as being in the beginning God with God, by whom all things were made.
+
+[1:1085] They descend to tell of His being made of a woman, made under the law, that He might redeem them that were under the law.
+
+[1:1086] Christ is the ladder reaching from earth to heaven, or from the carnal to the spiritual: for by His assistance the carnal ascend to spirituality; and the spiritual may be said to descend to nourish the carnal with milk when they cannot speak to them as to spiritual, but as to carnal.
+
+[1:1087] There is thus both an ascent and a descent upon the Son of man.
+
+[1:1088] For the Son of man is above as our head, being Himself the Saviour; and He is below in His body, the Church.
+
+[1:1089] He is the ladder, for He says, "I am the way".
+
+[1:1090] We ascend to Him to see Him in heavenly places; we descend to Him for the nourishment of His weak members.
+
+[1:1091] And the ascent and descent are by Him as well as to Him.
+
+[1:1092] Following His example, those who preach Him not only rise to behold Him exalted, but let themselves down to give a plain announcement of the truth.
+
+[1:1093] So the apostle ascends, "Whether we be beside ourselves, it is to God;" and descends, "Whether we be sober, it is for your sake".
+
+[1:1094] And by whom did he ascend and descend? "For the love of Christ constraineth us: for we thus judge, that if one died for all, then all died; and that He died for all, that they which live should no longer live unto themselves, but unto Him that died for them, and rose again".
+
+[1:1095] 27.
+
+[1:1096] The man who does not find pleasure in these views of sacred Scripture is turned away to fables, because he cannot bear sound doctrine.
+
+[1:1097] The fables have an attraction for childish minds in people of all ages; but we who are of the body of Christ should say with the Psalmist; "O Lord, the wicked have spoken to me pleasing things, but they are not after Thy law".
+
+[1:1098] In every page of these Scriptures, while I pursue my search as a son of Adam in the sweat of my brow, Christ either openly or covertly meets and refreshes me.
+
+[1:1099] Where the discovery is laborious my ardor is increased, and the spoil obtained is eagerly devoured, and is hidden in my heart for my nourishment.
+
+[1:1100] 28.
+
+[1:1101] Christ appears to me in Joseph, who was persecuted and sold by his brethren, and after his troubles obtained honor in Egypt.
+
+[1:1102] We have seen the troubles of Christ in the world, of which Egypt was a figure, in the sufferings of the martyrs.
+
+[1:1103] And now we see the honor of Christ in the same world which He subdues to Himself, in exchange for the food which He bestows.
+
+[1:1104] Christ appears to me in the rod of Moses, which became a serpent when cast on the earth as a figure of His death, which came from the serpent.
+
+[1:1105] Again, when caught by the tail it became a rod, as a figure of His return after the accomplishment of His work in His resurrection to what He was before, destroying death by His new life, so as to leave no trace of the serpent.
+
+[1:1106] We, too, who are His body, glide along in the same mortality through the folds of time; but when at last the tail of this course of things is laid hold of by the hand of judgment that it shall go no further, we shall be renewed, and rising from the destruction of death, the last enemy, we shall be the sceptre of government in the right hand of God.
+
+[1:1107] 29.
+
+[1:1108] Of the departure of Israel from Egypt, let us hear what the apostle himself says: "I would not, brethren, that ye should be ignorant that all our fathers were under the cloud, and all passed through the sea, and were all baptized into Moses in the cloud and in the sea, and did all eat the same spiritual meat, and did all drink of the same spiritual drink.
+
+[1:1109] For they drank of the spiritual rock which followed them, and that rock was Christ".
+
+[1:1110] The explanation of one thing is a key to the rest.
+
+[1:1111] For if the rock is Christ from its stability, is not the manna Christ, the living bread which came down from heaven, which gives spiritual life to those who truly feed on it? The Israelites died because they received the figure only in its carnal sense.
+
+[1:1112] The apostle, by calling it spiritual food, shows its reference to Christ, as the spiritual drink is explained by the words, "That rock was Christ," which explain the whole.
+
+[1:1113] Then is not the cloud and the pillar Christ, who by His uprightness and strength supports our feebleness; who shines by night and not by day, that they who see not may see, and that they who see may be made blind? In the clouds and the Red Sea there is the baptism consecrated by the blood of Christ.
+
+[1:1114] The enemies following behind perish, as past sins are put away.
+
+[1:1115] 30.
+
+[1:1116] The Israelites are led through the wilderness, as those who are baptized are in the wilderness while on the way to the promised land, hoping and patiently waiting for that which they see not.
+
+[1:1117] In the wilderness are severe trials, lest they should in heart return to Egypt.
+
+[1:1118] Still Christ does not leave them; the pillar does not go away.
+
+[1:1119] The bitter waters are sweetened by wood, as hostile people become friendly by learning to honor the cross of Christ.
+
+[1:1120] The twelve fountains watering the seventy palm trees are a figure of apostolic grace watering the nations.
+
+[1:1121] As seven is multiplied by ten, so the decalogue is fulfilled in the sevenfold operation of the Spirit.
+
+[1:1122] The enemy attempting to stop them in their way is overcome by Moses stretching out his hands in the figure of the cross.
+
+[1:1123] The deadly bites of serpents are healed by the brazen serpent, which was lifted up that they might look at it.
+
+[1:1124] The Lord Himself gives the explanation of this: "As Moses lifted up the serpent in the wilderness, so must the Son of man be lifted up, that whosoever believeth in Him may not perish, but have everlasting life".
+
+[1:1125] So in many other things we may find a protest against the obstinacy of unbelieving hearts.
+
+[1:1126] In the passover a lamb is killed, representing Christ, of whom it is said in the Gospel, "Behold the Lamb of God, who taketh away the sin of the world!"  In the passover the bones of the lamb were not to be broken; and on the cross the bones of the Lord were not broken.
+
+[1:1127] The evangelist, in reference to this, quotes the words, "A bone of Him shall not be broken".
+
+[1:1128] The posts were marked with blood to keep away destruction, as people are marked on their foreheads with the sign of the Lord's passion for their salvation.
+
+[1:1129] The law was given on the fiftieth day after the passover; so the Holy Spirit came on the fiftieth day after the passion of the Lord.
+
+[1:1130] The law is said to have been written with the finger of God; and the Lord says of the Holy Spirit, "With the finger of God I cast out devils".
+
+[1:1131] Such are the Scriptures in which Faustus, after shutting his eyes, declares that he can see no prediction of Christ.
+
+[1:1132] But we need not wonder that he should have eyes to read and yet no heart to understand, since, instead of knocking in devout faith at the door of the heavenly secret, he dares to act in profane hostility.
+
+[1:1133] So let it be, for so it ought to be.
+
+[1:1134] Let the gate of salvation be shut to the proud.
+
+[1:1135] The meek, to whom God teaches His ways, will find all these things in the Scriptures, and those things which he does not see he will believe from what he sees.
+
+[1:1136] 31.
+
+[1:1137] He will see Jesus leading the people into the land of promise; for this name was given to the leader of Israel, not at first, or by chance, but on account of the work to which he was called.
+
+[1:1138] He will see the cluster from the land of promise hanging from a wooden pole.
+
+[1:1139] He will see in Jericho, as in this perishing world, an harlot, one of those of whom the Lord says that they go before the proud into the kingdom of heaven, putting out of her window a scarlet line symbolical of blood, as confession is made with the mouth for the remission of sins.
+
+[1:1140] He will see the walls of Jericho, like the frail defences of the world, fall when compassed seven times by the ark of the covenant; as now in the course of the seven days of time the covenant of God compasses the whole globe, that in the end, death, the last enemy, may be destroyed, and the Church, like one single house, be saved from the destruction of the ungodly, purified from the defilement of fornication by the window of confession in the blood of remission.
+
+[1:1141] 32.
+
+[1:1142] He will see the times of the judges precede those of the kings, as the judgment will precede the kingdom.
+
+[1:1143] And under both the judges and the kings he will see Christ and the Church repeatedly prefigured in many and various ways.
+
+[1:1144] Who was in Samson, when he killed the lion that met him as he went to get a wife among strangers, but He who, when going to call His Church from among the Gentiles, said, "Be of good cheer, I have overcome the world?"   What means the hive in the mouth of the slain lion, but that, as we see, the very laws of the earthly kingdom which once raged against Christ have now lost their fierceness, and have become a protection for the preaching of gospel sweetness? What is that woman boldly piercing the temples of the enemy with a wooden nail, but the faith of the Church casting down the kingdom of the devil by the cross of Christ? What is the fleece wet while the ground was dry, and again the fleece dry while the ground was wet, but the Hebrew nation at first possessing alone in its typical institution Christ the mystery of God, while the whole world was in ignorance? And now the whole world has this mystery revealed, while the Jews are destitute of it.
+
+[1:1145] 33.
+
+[1:1146] To mention only a few things in the times of the kings, at the very outset does not the change in the priesthood when Eli was rejected and Samuel chosen, and in the kingdom when Saul was rejected and David chosen, clearly predict the new priesthood and kingdom to come in our Lord Jesus Christ, when the old, which was a shadow of the new, was rejected? Did not David, when he ate the shew-bread, which it was not lawful for any but the priests to eat, prefigure the union of the kingdom and priesthood in one person, Jesus Christ? In the separation of the ten tribes from the temple while two were left, is there not a figure of what the apostle asserts of the whole nation: "A remnant is saved by the election of grace".
+
+[1:1147] ?  34.
+
+[1:1148] In the time of famine, Elijah is fed by ravens bringing bread in the morning and flesh in the evening; but the Manich aeans cannot in this perceive Christ, who, as it were, hungers for our salvation, and to whom sinners come in confession, having now the first-fruits of the Spirit, while in the end, that is to say in the evening of the age, they will have the resurrection of their bodies also.
+
+[1:1149] Elijah is sent to be fed by a widow woman of another nation, who was going to gather two sticks before she died, denoting the two wooden beams of the cross.
+
+[1:1150] Her meal and oil are blessed, as the fruit and cheerfulness of charity do not diminish by expenditure, for God loveth a cheerful giver.
+
+[1:1151] 35.
+
+[1:1152] The children that mocked Elisha by calling out Baldhead, are devoured by wild beasts, as those who in childish folly scoff at Christ crucified on Calvary are destroyed by devils.
+
+[1:1153] Elisha sends his servants to lay his staff on the dead body, but it does not revive; he comes himself, and lays himself exactly upon the dead body, and it revives: as the Word of God sent the law by His servant, without any profit to mankind dead in sins; and yet it was not sent without purpose by Him who knew the necessity of its being first sent.
+
+[1:1154] Then He Himself came, conformed Himself to us by participation in our death, and we were revived.
+
+[1:1155] When they were cutting down wood with axes, the iron, flying off the wood, sank to the bottom of the river, and came up again when the wood was thrown in by Elisha.
+
+[1:1156] So, when Christ's bodily presence was cutting down the unfruitful trees among the unbelieving Jews, according to the saying of John, "Behold, the axe is laid to the roots of the tree,"  by the death they inflicted, Christ was separated from His body, and descended to the depths of the infernal world; and then, when His body was laid in the tomb, like the wood on the water, His spirit returned, like the iron to the handle, and He rose.
+
+[1:1157] The reader will observe how many things of this kind are omitted for the sake of brevity.
+
+[1:1158] 36.
+
+[1:1159] As regards the departure to Babylon, where the Spirit of God by the prophet Jeremiah enjoins them to go, telling them to pray for the people in whose land they dwell as strangers, because in their peace they would find peace, and to build houses, and plant vineyards and gardens,—the figurative meaning is plain, when we consider that the true Israelites, in whom is no guile, passed over in the ministry of the apostles with the ordinances of the gospel into the kingdom of the Gentiles.
+
+[1:1160] So the apostle, like an echo of Jeremiah, says to us, "I will first of all that prayer, supplications, intercessions and giving of thanks be made for all men, and for those in authority, that we may live a quiet and peaceable life in all godliness and charity; for this is good and acceptable in the sight of God our Saviour, who will have all men to be saved, and to come to the knowledge of the truth".
+
+[1:1161] Accordingly the basilicas of Christian congregations have been built by believers as abodes of peace, and vineyards of the faithful have been renewed, and gardens planted, where chief among the plants is the mustard tree, in whose wide-spreading branches the pride of the Gentiles, like the birds of heaven, in its soaring ambition, takes shelter.
+
+[1:1162] Again, in the return from captivity after seventy years, according to Jeremiah's prophecy, and in the restoration of the temple, every believer in Christ must see a figure of our return as the Church of God from the exile of this world to the heavenly Jerusalem, after the seven days of time have fulfilled their course.
+
+[1:1163] Joshua the high priest, after the captivity, who rebuilt the temple, was a figure of Jesus Christ, the true High Priest of our restoration.
+
+[1:1164] The prophet Zechariah saw this Joshua in a filthy garment; and after the devil who stood by to accuse him was defeated, the filthy garment was taken from him, and a dress of honor and glory given him.
+
+[1:1165] So the body of Jesus Christ, which is the Church, when the adversary is conquered in the judgment at the end of the world, will pass from the pains of exile to the glory of everlasting safety.
+
+[1:1166] This is the song of the Psalmist at the dedication of his house: "Thou hast turned for me my mourning into gladness; Thou hast removed my sackcloth, and girded me with gladness, that my glory may sing praise unto Thee, and not be silent".
+
+[1:1167] 37.
+
+[1:1168] It is impossible, in a digression like this, to refer, however briefly, to all the figurative predictions of Christ which are to be found in the law and the prophets.
+
+[1:1169] Will it be said that these things happened in the regular course of things, and that it is a mere ingenious fancy to make them typical of Christ? Such an objection might come from Jews and Pagans; but those who wish to be considered Christians must yield to the authority of the apostle when he says, "All these things happened to them for an example;" and again, "These things are our examples".
+
+[1:1170] For if two men, Ishmael and Isaac, are types of the two covenants, can it be supposed that there is no significance in the vast number of particulars which have no historical or natural value? Suppose we were to see some Hebrew characters written on the wall of a noble building, should we be so foolish as to conclude that, because we cannot understand the characters, they are not intended to be read, and are mere painting, without any meaning? So, whoever with a candid mind reads all these things that are contained in the Old Testament Scriptures, must feel constrained to acknowledge that they have a meaning.
+
+[1:1171] 38.
+
+[1:1172] As an example of those particulars which have no meaning at all if not a symbolical one: Granting that it was necessary that woman should be made as an help meet for man, what natural reason can be assigned for her being taken from his side while he slept? Granting that an ark was required in order to escape from the flood, why should it have precisely these dimensions, and why should they be recorded for the devout study of future generations? Granting that the animals were brought into the ark to preserve the various races, why should there be seven clean and two unclean? Granting that the ark must have a door, why should it be in the side, and why should this fact be committed to writing? Abraham is commanded to sacrifice his son: we may allow that this proof of his obedience was required in order to make it conspicuous in all ages; we may allow, too, that it was a proper thing for the son to carry the wood instead of the aged father, and that in the end the fatal stroke was forbidden, lest the father should be left childless.
+
+[1:1173] But what had the shedding of the ram's blood to do with Abraham's trial? or if it was necessary to complete the sacrifice, was the ram any the better of being caught by the horns in a bush? The human mind, that is to say, a rational mind, is led by the consideration of the way in which these apparently superfluous things are blended with what is necessary, first to acknowledge their significance, and then to try to discover it.
+
+[1:1174] 39.
+
+[1:1175] The Jews themselves, who scoff at the crucified Saviour in whom we believe, and who consequently will not allow that Christ is predicted in the sayings and actions recorded in the Old Testament, are compelled to come to us for an explanation of those things which, if not explained, must appear trifling and ridiculous.
+
+[1:1176] This led Philo, a Jew of great learning, whom the Greeks speak of as rivalling Plato in eloquence, to attempt to explain some things without any reference to Christ, in whom he did not believe.
+
+[1:1177] His attempt only shows the inferiority of all ingenious speculations, when made without keeping Christ in view, to whom all the predictions really point.
+
+[1:1178] So true is that saying of the apostle: "When they shall turn to the Lord, the veil shall be taken away".
+
+[1:1179] For instance, Noah's ark is, according to Philo, a type of the human body, member by member: with this view, he shows that the numerical proportions agree perfectly.
+
+[1:1180] For there is no reason why a type of Christ should not be a type of the human body, too, since the Saviour of mankind appeared in a human body, though what is typical of a human body is not necessarily typical of Christ.
+
+[1:1181] Philo's explanation fails, however, as regards the door in the side of the ark.
+
+[1:1182] He actually, for the sake of saying something, makes this door represent the lower apertures of the body.
+
+[1:1183] He has the hardihood to put this in words, and on paper.
+
+[1:1184] Indeed, he knew not the door and could not understand the symbol.
+
+[1:1185] Had he turned to Christ the veil would have been taken away, and he would have found the sacraments of the Church flowing from the side of Christ's human body.
+
+[1:1186] For, according to the announcement, "They two shall be one flesh," some things in the ark which is a type of Christ, refer to Christ, and some to the Church.
+
+[1:1187] This contrast between the explanations which keep Christ in view, and all other ingenious perversions, is the same in every particular of all the figures in Scripture.
+
+[1:1188] 40.
+
+[1:1189] The Pagans, too, cannot deny our right to give a figurative meaning to both words and things, especially as we can point to the fulfillment of the types and figures.
+
+[1:1190] For the Pagans themselves try to find in their own fables figures of natural and religious truth.
+
+[1:1191] Sometimes they give clear explanations, while at other times they disguise their meaning, and what is sacred in the temples becomes a jest in the theatres.
+
+[1:1192] They unite a disgraceful licentiousness to a degrading superstition.
+
+[1:1193] 41.
+
+[1:1194] Besides this wonderful agreement between the types and the things typified, the adversary may be convinced by plain prophetic intimations, such as this: "In thy seed shall all nations be blessed".
+
+[1:1195] This was said to Abraham,  and again to Isaac,  and again to Jacob.
+
+[1:1196] Hence the significance of the words "I am the God of Abraham, and Isaac, and Jacob".
+
+[1:1197] God fulfills His promise to their seed in blessing all nations.
+
+[1:1198] With a like significance, Abraham himself, when he made his servant swear, told him to put his hand under his thigh;  for he knew that thence would come the flesh of Christ, in whom we have now, not the promise of blessing to all nations, but the promise fulfilled.
+
+[1:1199] 42.
+
+[1:1200] I should like to know, or rather, it would be well not to know, with what blindness of mind Faustus reads the passage where Jacob calls his sons, and says, "Assemble, that I may tell you the things that are to happen in the last day.
+
+[1:1201] Assemble and hear, ye sons of Jacob; give ear to Israel, your father".
+
+[1:1202] Surely these are the words of a prophet.
+
+[1:1203] What, then, does he say of his son Judah, of whose tribe Christ came of the seed of David according to the flesh, as the apostle teaches? "Judah," he says, "thy brethren shall praise thee: thy hand shall be upon the backs of thine enemies; the sons of thy father shall bow down to thee.
+
+[1:1204] Judah is a lion's whelp; my son and offspring: bowing down, thou hast gone up: thou sleepest as a lion, and as a young lion, who will rouse him up? A prince shall not depart from Judah, nor a leader from his loins, till those things come which have been laid up for him.
+
+[1:1205] He also is the desire of nations: binding his foal unto the vine, and his ass's colt with sackcloth, he shall wash his garment in wine, and his clothes in the blood of grapes: his eyes are bright with wine, and his teeth whiter than milk".
+
+[1:1206] There is no falsehood or obscurity in these words when we read them in the clear light of Christ.
+
+[1:1207] We see His brethren the apostles and all His joint-heirs praising Him, seeking, not their own glory, but His.
+
+[1:1208] We see His hands on the backs of His enemies, who are bent and bowed to the earth by the growth of the Christian communities in spite of their opposition.
+
+[1:1209] We see Him worshipped by the sons of Jacob, the remnant saved according to the election of grace.
+
+[1:1210] Christ, who was born as an infant, is the lion's whelp, as it is added, My son and offspring, to show why this whelp, in whose praise it is said, "The lion's whelp is stronger than the herd,"  is even in infancy stronger than its elders.
+
+[1:1211] We see Christ ascending the cross, and bowing down when He gave up His spirit.
+
+[1:1212] We see Him sleeping as a lion, because in death itself He was not the conquered, but the conqueror, and as a lion's whelp; for the reason of His birth and of His death was the same.
+
+[1:1213] And He is raised from the dead by Him whom no man hath seen or can see; for the words, "Who will raise Him up?" point to an unknown power.
+
+[1:1214] A prince did not depart from Judah, nor a leader from his loins, till in due time those things came which had been laid up in the promise.
+
+[1:1215] For we learn from the authentic history of the Jews themselves, that Herod, under whom Christ was born, was their first foreign king.
+
+[1:1216] So the sceptre did not depart from the seed of Judah till the things laid up for him came.
+
+[1:1217] Then, as the promise is not only to the believing Jews, it is added: "He is the desire of the nations".
+
+[1:1218] Christ bound His foal—that is, His people—to the vine, when He preached in sackcloth, crying, "Repent, for the kingdom of heaven is at hand".
+
+[1:1219] The Gentiles made subject to Him are represented by the ass's colt, on which He also sat, leading it into Jerusalem, that is, the vision of peace teaching the meek His ways.
+
+[1:1220] We see Him washing His garments in wine; for He is one with the glorious Church, which He presents to Himself, not having spot or wrinkle; to whom also it is said by Isaiah: "Though your sins be as scarlet, I will make them white as snow".
+
+[1:1221] How is this done but by the remission of sins? And the wine is none other than that of which it is said that it is "shed for many, for the remission of sins".
+
+[1:1222] Christ is the cluster that hung on the pole.
+
+[1:1223] So it is added, "and His clothes in the blood of the grape".
+
+[1:1224] Again, what is said of His eyes being bright with wine, is understood by those members of His body who are enabled, in holy aberration of mind from the current of earthly things, to gaze on the eternal light of wisdom.
+
+[1:1225] So Paul says in a passage quoted before: "If we be beside ourselves, it is to God".
+
+[1:1226] Those are the eyes bright with wine.
+
+[1:1227] But he adds: "If we be sober, it is for your sakes".
+
+[1:1228] The babes needing to be fed with milk are not forgotten, as is denoted by the words, "His teeth are whiter than milk".
+
+[1:1229] 43.
+
+[1:1230] What can our deluded adversaries say to such plain examples, which leave no room for perverse denial, or even for sceptical uncertainty? I call on the Manich aeans to begin to inquire into these subjects, and to admit the force of these evidences, on which I have no time to dwell; nor do I wish to make a selection, in case the ignorant reader should think there are no others, while the Christian student might blame me for the omission of many points more striking than those which occur to me at the moment.
+
+[1:1231] You will find many passages which require no such explanation as has been given here of Jacob's prophecy.
+
+[1:1232] For instance, every reader can understand the words, "He was led as a lamb to the slaughter," and the whole of that plain prophecy, "With His stripes we are healed"—"He bore our sins".
+
+[1:1233] We have a poetical gospel in the words: "They pierced my hands and feet.
+
+[1:1234] They have told all my bones.
+
+[1:1235] They look and stare upon me.
+
+[1:1236] They divided my garments among them, and cast lots on my vesture".
+
+[1:1237] The blind even may now see the fulfillment of the words: "All the ends of the earth shall remember and turn unto the Lord, and all kingdoms of the nations shall worship before Him".
+
+[1:1238] The words in the Gospel, "My soul is sorrowful, even unto death," "My soul is troubled," are a repetition of the words in the Psalm, "I slept in trouble".
+
+[1:1239] And who made Him sleep? Whose voices cried, Crucify him, crucify him? The Psalm tells us: "The sons of men, their teeth are spears and arrows, and their tongue a sharp sword".
+
+[1:1240] But they could not prevent His resurrection, or His ascension above the heavens, or His filling the earth with the glory of His name; for the Psalm says: "Be Thou exalted, O God, above the heavens, and let Thy glory be above all the earth".
+
+[1:1241] Every one must apply these words to Christ: "The Lord said unto me, Thou art my Son, this day have I begotten Thee.
+
+[1:1242] Ask of me, and I will give Thee the heathen for Thine inheritance, and the uttermost parts of the earth for Thy possession".
+
+[1:1243] And what Jeremiah says of wisdom plainly applies to Christ: "Jacob delivered it to his son, and Israel to his chosen one.
+
+[1:1244] Afterwards He appeared on earth, and conversed with men".
+
+[1:1245] 44.
+
+[1:1246] The same Saviour is spoken of in Daniel, where the Son of man appears before the Ancient of days, and receives a kingdom without end, that all nations may serve Him.
+
+[1:1247] In the passage quoted from Daniel by the Lord Himself, "When ye shall see the abomination of desolation, spoken of by Daniel the prophet, standing in the holy place, let him that readeth understand,"  the number of weeks points not only to Christ, but to the very time of His advent.
+
+[1:1248] With the Jews, who look to Christ for salvation as we do, but deny that He has come and suffered, we can argue from actual events.
+
+[1:1249] Besides the conversion of the heathen, now so universal, as prophesied of Christ in their own Scriptures, there are the events in the history of the Jews themselves.
+
+[1:1250] Their holy place is thrown down, the sacrifice has ceased, and the priest, and the ancient anointing; which was all clearly foretold by Daniel when he prophesied of the anointing of the Most Holy.
+
+[1:1251] Now, that all these things have taken place, we ask the Jews for the anointed Most Holy, and they have no answer to give.
+
+[1:1252] But it is from the Old Testament that the Jews derive all the knowledge they have of Christ and His advent.
+
+[1:1253] Why do they ask John whether he is Christ? Why do they say to the Lord, "How long dost thou make us to doubt? If thou art the Christ, tell us plainly".
+
+[1:1254] Why do Peter and Andrew and Philip say to Nathanael, "We have found Messias, which is interpreted Christ," but because this name was known to them from the prophecies of their Scriptures? In no other nation were the kings and priests anointed, and called Anointed or Christs.
+
+[1:1255] Nor could this symbolical anointing be discontinued till the coming of Him who was thus prefigured.
+
+[1:1256] For among all their anointed ones the Jews looked for one who was to save them.
+
+[1:1257] But in the mysterious justice of God they were blinded; and thinking only of the power of the Messiah, they did not understand His weakness, in which He died for us.
+
+[1:1258] In the book of Wisdom it is prophesied of the Jews: "Let us condemn him to an ignominious death; for he will be proved in his words.
+
+[1:1259] If he is truly the Son of God, He will aid him; and deliver him from the hand of his enemies.
+
+[1:1260] Thus they thought, and erred; for their wickedness blinded them".
+
+[1:1261] These words apply also to those who, in spite of all these evidences, in spite of such a series of prophecies, and of their fulfillment, still deny that Christ is foretold in the Scriptures.
+
+[1:1262] As often as they repeat this denial, we can produce fresh proofs, with the help of Him who has made such provision against human perversity, that proofs already given need not be repeated.
+
+[1:1263] 45.
+
+[1:1264] Faustus has an evasive objection, which he no doubt thinks a most ingenious way of eluding the force of the clearest evidence of prophecy, but of which one is unwilling to take any notice, because answering it may give it an appearance of importance which it does not really possess.
+
+[1:1265] What could be more irrational than to say that it is weak faith which will not believe in Christ without evidence? Do our adversaries, then, believe in testimony about Christ? Faustus wishes us to believe the voice from heaven as distinguished from human testimony.
+
+[1:1266] But did they hear this voice? Has not the knowledge of it come to us through human testimony? The apostle describes the transmission of this knowledge, when he says: "How shall they call on Him on whom they have not believed? and how shall they believe on Him of whom they have not heard? and how shall they hear without a preacher? and how shall they preach except they be sent? As it is written, "How beautiful are the feet of them who publish peace, who bring good tidings!"  Clearly, in the preaching of the apostles there was a reference to prophetic testimony.
+
+[1:1267] The apostles quoted the predictions of the prophets, to prove the truth and importance of their doctrines.
+
+[1:1268] For although their preaching was accompanied with the power of working miracles, the miracles would have been ascribed to magic, as some even now venture to insinuate, unless the apostles had shown that the authority of the prophets was in their favor.
+
+[1:1269] The testimony of prophets who lived so long before could not be ascribed to magical arts.
+
+[1:1270] Perhaps the reason why Faustus will not have us believe the Hebrew prophets as witnesses of the true Christ, is because he believes Persian heresies about a false Christ.
+
+[1:1271] 46.
+
+[1:1272] According to the teaching of the Catholic Church, the Christian mind must first be nourished in simple faith, in order that it may become capable of understanding things heavenly and eternal.
+
+[1:1273] Thus it is said by the prophet: "Unless ye believe, ye shall not understand".
+
+[1:1274] Simple faith is that by which, before we attain to the height of the knowledge of the love of Christ, that we may be filled with all the fullness of God, we believe that not without reason was the dispensation of Christ's humiliation, in which He was born and suffered as man, foretold so long before by the prophets through a prophetic race, a prophetic people, a prophetic kingdom.
+
+[1:1275] This faith teaches us, that in the foolishness which is wiser than men, and in the weakness which is stronger than men, is contained the hidden means of our justification and glorification.
+
+[1:1276] There are hid all the treasures of wisdom and knowledge, which are opened to no one who despises the nourishment transmitted through the breast of his mother that is, the milk of apostolic and prophetic instruction; or who, thinking himself too old for infantile nourishment, devours heretical poison instead of the food of wisdom, for which he rashly thought himself prepared.
+
+[1:1277] To require simple faith is quite consistent with requiring faith in the prophets.
+
+[1:1278] The very use of simple faith is to believe the prophets at the outset, while the understanding of the person who speaks in the prophets is attained after the mind has been purified and strengthened.
+
+[1:1279] 47.
+
+[1:1280] But, it is said, if the prophets foretold Christ, they did not live in a way becoming their office.
+
+[1:1281] How can you tell whether they did or not? You are bad judges of what it is to live well or ill, whose justice consists in giving relief to an inanimate melon by eating it, instead of giving food to the starving beggar.
+
+[1:1282] It is enough for the babes in the Catholic Church, who do not yet know the perfect justice of the human soul, and the difference between the justice aimed at and that actually attained, to think of those men according to the wholesome doctrine of the apostles, that the just lives by faith.
+
+[1:1283] "Abraham believed God, and it was counted to him for righteousness.
+
+[1:1284] For the scripture, foreseeing that God would justify the Gentiles by faith, preached before the gospel unto Abraham, saying, In thy seed shall all nations be blessed".
+
+[1:1285] These are the words of the apostle.
+
+[1:1286] If you would, at his clear well-known voice, wake up from your unprofitable dreams, you would follow in the footsteps of our father Abraham, and would be blessed, along with all nations, in his seed.
+
+[1:1287] For, as the apostle says, "He received the sign of circumcision, a seal of the righteousness of the faith which he had, yet being uncircumcised, that he might be the father of all that believe in uncircumcision; that he might be the father of circumcision not only to those who are of the circumcision, but also to those who follow the footsteps of the faith of our father Abraham in uncircumcision".
+
+[1:1288] Since the righteousness of Abraham's faith is thus set forth as an example to us, that we too, being justified by faith, may have peace with God, we ought to understand his manner of life, without finding fault with it; lest, by a premature separation from mother-Church, we prove abortions, instead of being brought forth in due time, when the conception has arrived at completeness.
+
+[1:1289] 48.
+
+[1:1290] This is a brief reply to Faustus in behalf of the character of the patriarchs and prophets.
+
+[1:1291] It is the reply of the babes of our faith, among whom I would reckon myself, inasmuch as I would not find fault with the life of the ancient saints, even if I did not understand its mystical character.
+
+[1:1292] Their life is proclaimed to us with approval by the apostles in their Gospel, as they themselves in their prophecy foretold the future apostles, that the two Testaments, like the seraphim, might cry to one another, "Holy, holy, holy is the Lord God of hosts".
+
+[1:1293] When Faustus, instead of the vague general accusation which he makes here, condemns particular actions in the lives of the patriarchs and the prophets, the Lord their God, and ours also, will assist me to reply suitably and appropriately to the separate charges.
+
+[1:1294] For the present, the reader must choose whether to believe the commendation of the Apostle Paul or the accusations of Faustus the Manich aean.
+
+[1:1295]              Book XIII.
+
+[1:1296] Faustus asserts that even if the Old Testament could be shown to contain predictions, it would be of interest only to the Jews, pagan literature subserving the same purpose for Gentiles.
+
+[1:1297] Augustin shows the value of prophesy for Gentiles and Jews alike.
+
+[1:1298] 1.
+
+[1:1299] Faustus said: We are asked how we worship Christ when we reject the prophets, who declared the promise of His advent.
+
+[1:1300] It is doubtful whether, on examination, it can be shown that the Hebrew prophets foretold our Christ, that is, the Son of God.
+
+[1:1301] But were it so, what does it matter to us? If these testimonies of the prophets that you speak of were the means of converting any one from Judaism to Christianity, and if he should afterwards neglect these prophets, he would certainly be in the wrong, and would be chargeable with ingratitude.
+
+[1:1302] But we are by nature Gentiles, of the uncircumcision; as Paul says, born under another law.
+
+[1:1303] Those whom the Gentiles call poets were our first religious teachers, and from them we were afterwards converted to Christianity.
+
+[1:1304] We did not first become Jews, so as to reach Christianity through faith in their prophets; but were attracted solely by the fame, and the virtues, and the wisdom of our liberator Jesus Christ.
+
+[1:1305] If I were still in the religion of my fathers, and a preacher were to come using the prophets as evidence in favor of Christianity, I should think him mad for attempting to support what is doubtful by what is still more doubtful to a Gentile of another religion altogether.
+
+[1:1306] He would require first to persuade me to believe the prophets, and then through the prophets to believe Christ.
+
+[1:1307] And to prove the truth of the prophets, other prophets would be necessary.
+
+[1:1308] For if the prophets bear witness to Christ, who bears witness to the prophets? You will perhaps say that Christ and the prophets mutually support each other.
+
+[1:1309] But a Pagan, who has nothing to do with either, would believe neither the evidence of Christ to the prophets, nor that of the prophets to Christ.
+
+[1:1310] If the Pagan becomes a Christian, he has to thank his own faith, and nothing else.
+
+[1:1311] Let us, for the sake of illustration, suppose ourselves conversing with a Gentile inquirer.
+
+[1:1312] We tell him to believe in Christ, because He is God.
+
+[1:1313] He asks for proof.
+
+[1:1314] We refer him to the prophets.
+
+[1:1315] He asks, What prophets? We reply, The Hebrew.
+
+[1:1316] He smiles, and says that he does not believe them.
+
+[1:1317] We remind him that Christ testifies to them.
+
+[1:1318] He replies, laughing, that we must first make him believe in Christ.
+
+[1:1319] The result of such a conversation is that we are silenced, and the inquirer departs, thinking us more zealous than wise.
+
+[1:1320] Again, I say, the Christian Church, which consists more of Gentiles than of Jews, can owe nothing to Hebrew witnesses.
+
+[1:1321] If, as is said, any prophecies of Christ are to be found in the Sibyl,  or in Hermes,  called Trismegistus, or Orpheus, or any heathen poet, they might aid the faith of those who, like us, are converts from heathenism to Christianity.
+
+[1:1322] But the testimony of the Hebrews is useless to us before conversion, for then we cannot believe them; and superfluous after, for we believe without them.
+
+[1:1323] 2.
+
+[1:1324] Augustin replied: After the long reply of last book, a short answer may suffice here.
+
+[1:1325] To one who has read that reply, it must seem insanity in Faustus to persist in denying that Christ was foretold by the Hebrew prophets, when the Hebrew nation was the only one in which the name Christ had a peculiar sacredness as applied to kings and priests; in which sense it continued to be applied till the coming of Him whom those kings and priests typified.
+
+[1:1326] Where did the Manich aean learn the name of Christ? If from Manich aeus, it is very strange that Africans, not to speak of others, should believe the Persian Manich aeus, since Faustus finds fault with the Romans and Greeks, and other Gentiles, for believing the Hebrew prophets as belonging to another race.
+
+[1:1327] According to Faustus, the predictions of the Sibyl, or Orpheus, or any heathen poet, are more suitable for leading Gentiles to believe in Christ.
+
+[1:1328] He forgets that none of these are read in the churches, whereas the voice of the Hebrew prophets, sounding everywhere, draws swarms of people to Christianity.
+
+[1:1329] When it is so evident that men are everywhere led to Christ by the Hebrew prophets, it is great absurdity to say that those prophets are not suitable for the Gentiles.
+
+[1:1330] 3.
+
+[1:1331] Christ as foretold by the Hebrew prophets does not please you; but this is the Christ in whom the Gentile nations believe, with whom, according to you, Hebrew prophecy should have no weight.
+
+[1:1332] They receive the gospel which, as Paul says, "God had promised before by His prophets in the Holy Scriptures of His Son, who was made of the seed of David according to the flesh".
+
+[1:1333] So we read in Isaiah: "There shall be a Root of Jesse, which shall rise to reign in the nations; in Him shall the Gentiles trust".
+
+[1:1334] And again: "Behold, a virgin shall conceive and bear a son, and they shall call His name Emmanuel,"  which is, being interpreted, God with us.
+
+[1:1335] Nor let the Manich aean think that Christ is foretold only as a man by the Hebrew prophets; for this is what Faustus seems to insinuate when he says, "Our Christ is the Son of God," as if the Christ of the Hebrews was not the Son of God.
+
+[1:1336] We can prove Christ the virgin's son of Hebrew prophecy to be God.
+
+[1:1337] For the Lord Himself teaches the carnal Jews not to think that, because He is foretold as the son of David, He is therefore no more than that.
+
+[1:1338] He asks: "What think ye of Christ? Whose son is He?" They reply: "Of David".
+
+[1:1339] Then, to remind them of the name Emmanuel, God with us, He says: "How does David in the Spirit call Him Lord, saying, The Lord said unto my Lord, Sit Thou at my right hand, till I make Thine enemies Thy footstool?"  Here, then, Christ appears as God in Hebrew prophecy.
+
+[1:1340] What prophecy can the Manich aeans show with the name of Christ in it?  4.
+
+[1:1341] Manich aeus indeed was not a prophet of Christ, but calls himself an apostle, which is a shameless falsehood; for it is well known that this heresy began not only after Tertullian, but after Cyprian.
+
+[1:1342] In all his letters Manich aeus begins thus: "Manich aeus, an apostle of Jesus Christ".
+
+[1:1343] Why do you believe what Manich aeus says of Christ? What evidence does he give of his apostleship? This very name of Christ is known to us only from the Jews, who, in their application of it to their kings and priests, were not individually, but nationally, prophets of Christ and Christ's kingdom.
+
+[1:1344] What right has he to use this name, who forbids you to believe the Hebrew prophets, that he may make you the heretical disciples of a false Christ, as he himself is a false and heretical apostle? And if Faustus quotes as evidence in his own support some prophets who, according to him, foretell Christ, how will he satisfy his supposed inquirer, who will not believe either the prophets or Faustus? Will he take our apostles as witnesses? Unless he can find some apostles in life, he must read their writings; and these are all against him.
+
+[1:1345] They teach our doctrine that Christ was born of the Virgin Mary, that He was the Son of God, of the seed of David according to the flesh.
+
+[1:1346] He cannot pretend that the writings have been tampered with, for that would be to attack the credit of his own witnesses.
+
+[1:1347] Or if he produces his own manuscripts of the apostolic writings, he must also obtain for them the authority of the churches founded by the apostles themselves, by showing that they have been preserved and transmitted with their sanction.
+
+[1:1348] It will be difficult for a man to make me believe him on the evidence of writings which derive all their authority from his own word, which I do not believe.
+
+[1:1349] 5.
+
+[1:1350] But perhaps you believe the common report about Christ.
+
+[1:1351] Faustus makes a feeble suggestion of this kind as a last resource, to escape being obliged either to produce his worthless authorities, or to come under the power of those opposed to him.
+
+[1:1352] Well, if report is your authority, you should consider the consequences of trusting to such evidence.
+
+[1:1353] There are many bad things reported of you which you do not wish people to believe.
+
+[1:1354] Is it reasonable to make the same evidence true about Christ and false about yourselves? In fact, you deny the common report about Christ.
+
+[1:1355] For the report most widely spread, and which every one has heard repeated, is that which distinctly asserts that Christ was born of the seed of David, according to the promise made in the Hebrew Scriptures to Abraham and Isaac and Jacob: "In thy seed shall all nations be blessed".
+
+[1:1356] You will not admit this Hebrew testimony, but you do not seem to have any other.
+
+[1:1357] The authority of our books, which is confirmed by the agreement of so many nations, supported by a succession of apostles, bishops, and councils, is against you.
+
+[1:1358] Your books have no authority, for it is an authority maintained by only a few, and these the worshippers of an untruthful God and Christ.
+
+[1:1359] If they are not following the example of the beings they worship, their testimony must be against their own false doctrine.
+
+[1:1360] And, once more, common report gives a very bad account of you, and invariably asserts, in opposition to you, that Christ was of the seed of David.
+
+[1:1361] You did not hear the voice of the Father from heaven.
+
+[1:1362] You did not see the works by which Christ bore witness to Himself.
+
+[1:1363] The books which tell of these things you profess to receive, that you may maintain a delusive appearance of Christianity; but when anything is quoted against you, you say that the books have been tampered with.
+
+[1:1364] You quote the passage where Christ says, "If ye believe not me, believe the works;" and again, "I am one that bear witness of myself, and the Father that sent me beareth witness of me;" but you will not let us quote in reply such passages as these: "Search the Scriptures; for in them ye think that ye have eternal life, and they are they that testify of me;" "If ye believed Moses, ye would believe me, for he wrote of me;" "They have Moses and the prophets, let them hear them;" "If they hear not Moses and the prophets, neither will they believe though one rose from the dead".
+
+[1:1365] What have you to say for yourselves? Where is your authority? If you reject these passages of Scripture, in spite of the weighty authority in their favor, what miracles can you show? However, if you did work miracles, we should be on our guard against receiving their evidence in your case; for the Lord has forewarned us: "Many false Christs and false prophets shall arise, and shall do many signs and wonders, that they may deceive, if it were possible, the very elect: behold, I have told you before".
+
+[1:1366] This shows that the established authority of Scripture must outweigh every other; for it derives new confirmation from the progress of events which happen, as Scripture proves, in fulfillment of the predictions made so long before their occurrence.
+
+[1:1367] 6.
+
+[1:1368] Are, then, your doctrines so manifestly true, that they require no support from miracles or from any testimony? Show us these self-evident truths, if you have anything of the kind to show.
+
+[1:1369] Your legends, as we have already seen, are long and silly, old wives fables for the amusement of women and children.
+
+[1:1370] The beginning is detached from the rest, the middle is unsound, and the end is a miserable failure.
+
+[1:1371] If you begin with the immortal, invisible, incorruptible God, what need was there of His fighting with the race of darkness? And as for the middle of your theory, what becomes of the incorruptibility and unchangeableness of God, when His members in fruits and vegetables are purified by your mastication and digestion? And for the end, is it just that the wretched soul should be punished with lasting confinement in the mass of darkness, because its God is unable to cleanse it of the defilement contracted from evil external to itself in the fulfillment of His own commission? You are at a loss for a reply.
+
+[1:1372] See the worthlessness of your boasted manuscripts, numerous and valuable as you say they are! Alas for the toils of the antiquaries! Alas for the property of the unhappy owners! Alas for the food of the deluded followers! Destitute as you are of Scripture authority, of the power of miracles, of moral excellence, and of sound doctrine, depart ashamed, and return penitent, confessing that true Christ, who is the Saviour of all who believe in Him, whose name and whose Church are now displayed as they were of old foretold, not by some being issuing from subterranean darkness, but by a nation in a distinct kingdom established for this purpose, that there those things might be figuratively predicted of Christ which are now in reality fulfilled, and the prophets might foretell in writing what the apostles now exhibit in their preaching.
+
+[1:1373] 7.
+
+[1:1374] Let us suppose, then, a conversation with a heathen inquirer, in which Faustus described us as making a poor appearance, though his own appearance was much more deplorable.
+
+[1:1375] If we say to the heathen, Believe in Christ, for He is God, and, on his asking for evidence, produce the authority of the prophets, if he says that he does not believe the prophets, because they are Hebrew and he is a Gentile, we can prove the truth of the prophets from the actual fulfillment of their prophecies.
+
+[1:1376] He could scarcely be ignorant of the persecutions suffered by the early Christians from the kings of this world; or if he was ignorant, he could be informed from history and the records of imperial laws.
+
+[1:1377] But this is what we find foretold long ago by the prophet, saying, "Why do the heathen rage, and the people imagine a vain thing? The kings of the earth set themselves, and the princes take counsel together against the Lord, and against His Christ".
+
+[1:1378] The rest of the Psalm shows that this is not said of David.
+
+[1:1379] For what follows might convince the most stubborn unbeliever: "The Lord said unto me, Thou art my Son; this day have I begotten Thee.
+
+[1:1380] Ask of me, and I will give Thee the heathen for Thine inheritance, and the ends of the earth for Thy possession".
+
+[1:1381] This never happened to the Jews, whose king, David was, but is now plainly fulfilled in the subjection of all nations to the name of Christ.
+
+[1:1382] This and many similar prophecies, which it would take too long to quote, would surely impress the mind of the inquirer.
+
+[1:1383] He would see these very kings of the earth now happily subdued by Christ, and all nations serving Him; and he would hear the words of the Psalm in which this was so long before predicted: "All the kings of the earth shall bow down to Him; all nations shall serve Him".
+
+[1:1384] And if he were to read the whole of that Psalm, which is figuratively applied to Solomon, he would find that Christ is the true King of peace, for Solomon means peaceful; and he would find many things in the Psalm applicable to Christ, which have no reference at all to the literal King Solomon.
+
+[1:1385] Then there is that other Psalm where God is spoken of as anointed by God, the very word anointed pointing to Christ, showing that Christ is God, for God is represented as being anointed.
+
+[1:1386] In reading what is said in this Psalm of Christ and of the Church, he would find that what is there foretold is fulfilled in the present state of the world.
+
+[1:1387] He would see the idols of the nations perishing from off the earth, and he would find that this is predicted by the prophets, as in Jeremiah, "Then shall ye say unto them, The gods that have not made the heavens and the earth shall perish from the earth, and from under heaven;"  and again, "O Lord, my strength, and my fortress, and my refuge in the day of affliction, the Gentiles shall come unto Thee from the ends of the earth, and shall say, Surely our fathers have inherited lies, vanity, and things wherein there is no profit.
+
+[1:1388] Shall a man make gods unto himself, and they are no gods? Therefore, behold, I will at that time cause them to know, I will cause them to know mine hand and my might; and they shall know that I am the Lord".
+
+[1:1389] Hearing these prophecies, and seeing their actual fulfillment, I need not say that he would be affected; for we know by experience how the hearts of believers are confirmed by seeing ancient predictions now receiving their accomplishment.
+
+[1:1390] 8.
+
+[1:1391] In the same prophet the inquirer would find clear proof that Christ is not merely one of the great men that have appeared in the world.
+
+[1:1392] For Jeremiah goes on to say: "Cursed be the man that trusteth in man, and maketh flesh his arm, and whose heart departeth from the Lord: for he shall be like the heath in the desert, and shall not see when good cometh; but shall inhabit the parched places of the wilderness, in a salt land not inhabited.
+
+[1:1393] Blessed is the man that trusteth in the Lord, and whose hope the Lord is: for he shall be as a tree beside the water, that spreadeth out its roots by the river: he shall not fear when heat cometh, but his leaf shall be green; he shall not be careful in the year of drought, neither shall cease from yielding fruit".
+
+[1:1394] On hearing this curse pronounced in the figurative language of prophecy on him that trusts in man, and the blessing in similar style on him that trusts in God, the inquirer might have doubts about our doctrine, in which we teach not only that Christ is God, so that our trust is not in man, but also that He is man because He took our nature.
+
+[1:1395] So some err by denying Christ's humanity, while they allow His divinity.
+
+[1:1396] Others, again, assert His humanity, but deny His divinity, and so either become infidels or incur the guilt of trusting in man.
+
+[1:1397] The inquirer, then, might say that the prophet says only that Christ is God, without any reference to His human nature; whereas, in our apostolic doctrine, Christ is not only God in whom we may safely trust, but the Mediator between God and man—the man Jesus.
+
+[1:1398] The prophet explains this in the words in which he seems to check himself, and to supply the omission: "His heart," he says "is sorrowful throughout; and He is man, and who shall know Him?"  He is man, in order that in the form of a servant He might heal the hard in heart, and that they might acknowledge as God Him who became man for their sakes, that their trust might be not in man, but in God-man.
+
+[1:1399] He is man taking the form of a servant.
+
+[1:1400] And who shall know Him? For "He was in the form of God, and thought it not robbery to be equal to God".
+
+[1:1401] He is man, for "the Word was made flesh, and dwelt among us".
+
+[1:1402] And who shall know Him? For "in the beginning was the Word, and the Word was with God, and the Word was God".
+
+[1:1403] And truly His heart was sorrowful throughout.
+
+[1:1404] For even as regards His own disciples His heart was sorrowful, when He said, "Have I been so long time with you, and yet have ye not known me?" "Have I been so long time with you" answers to the words "He is man," and "Have ye not known me?" to "Who shall know Him?" And the person is none other but He who says, "He that hath seen me hath seen the Father".
+
+[1:1405] So that our trust is not in man, to be under the curse of the prophet, but in God-man, that is, in the Son of God, the Saviour Jesus Christ, the Mediator between God and man.
+
+[1:1406] In the form of a servant the Father is greater than He; in the form of God He is equal with the Father.
+
+[1:1407] 9.
+
+[1:1408] In Isaiah we read: "The pride of man shall be brought low; and the Lord alone shall be exalted in that day.
+
+[1:1409] And they shall hide the workmanship of their hands in the clefts of the rocks, and in dens and caves of the earth, from fear of the Lord, and from the glory of His power, when He shall arise to shake terribly the earth.
+
+[1:1410] For in that day a man shall cast away his idols of gold and silver, which they have made to worship, as useless and hurtful".
+
+[1:1411] Perhaps the inquirer himself, who, as Faustus supposes, would laugh and say that he does not believe the Hebrew prophets, has hid idols made with hands in some cleft, or cave, or den.
+
+[1:1412] Or he may know a friend, or neighbor, or fellow-citizen who has done this from the fear of the Lord, who by the severe prohibition of the kings of the earth, now serving and bowing down to him, as the prophet predicted, shakes the earth, that is, breaks the stubborn heart of worldly men.
+
+[1:1413] The inquirer is not likely to disbelieve the Hebrew prophets, when he finds their predictions fulfilled, perhaps in his own person.
+
+[1:1414] 10.
+
+[1:1415] One might rather fear that the inquirer, in the midst of such copious evidence, would say that the Christians composed those writings when the events described had already begun to take place, in order that those occurrences might appear to be not due to a merely human purpose, but as if divinely foretold.
+
+[1:1416] One might fear this, were it not for the widely spread and widely known people of the Jews; that Cain, with the mark that he should not be killed by any one; that Ham, the servant of his brethren, carrying as a load the books for their instruction.
+
+[1:1417] From the Jewish manuscripts we prove that these things were not written by us to suit the event, but were long ago published and preserved as prophecies in the Jewish nation.
+
+[1:1418] These prophecies are now explained in their accomplishment: for even what is obscure in them—because these things happened to them as an example, and were written for our benefit, on whom the ends of the world are come—is now made plain; and what was hidden in the shadows of the future is now visible in the light of actual experience.
+
+[1:1419] 11.
+
+[1:1420] The inquirer might bring forward as a difficulty the fact that those in whose books these prophecies are found are not united with us in the gospel.
+
+[1:1421] But when convinced that this also is foretold, he would feel how strong the evidence is.
+
+[1:1422] The prophecies of the unbelief of the Jews no one can avoid seeing, no one can pretend to be blind to them.
+
+[1:1423] No one can doubt that Isaiah spoke of the Jews when he said, "The ox knoweth his owner, and the ass his master's crib; but Israel hath not known, and my people hath not considered;"[19] or again, in the words quoted by the apostle, "I have stretched out my hands all the day to a wicked and gainsaying people;"  and especially where he says, "God has given them the spirit of remorse, eyes that they should not see, and ears that they should not hear, and should not understand,"  and many similar passages.
+
+[1:1424] If the inquirer objected that it was not the fault of the Jews if God blinded them so that they did not know Christ, we should try in the simplest manner possible to make him understand that this blindness is the just punishment of other secret sins known to God.
+
+[1:1425] We should prove that the apostle recognizes this principle when he says of some persons, "God gave them up to the lusts of their own hearts, and to a reprobate mind, to do things not convenient;"  and that the prophets themselves speak of this.
+
+[1:1426] For, to revert to the words of Jeremiah, "He is man, and who shall know Him?" lest it should be an excuse for the Jews that they did not know,—for if they had known, as the apostle says, "they would not have crucified the Lord of glory," —the prophet goes on to show that their ignorance was the result of secret criminality; for he says: "I the Lord search the heart and try the reins, to give to every one according to his ways, and according to the fruits of his doings".
+
+[1:1427] 12.
+
+[1:1428] If the next difficulty in the mind of the inquirer arose from the divisions and heresies among those called Christians, he would learn that this too is taken notice of by the prophets.
+
+[1:1429] For, as if it was natural that, after being satisfied about the blindness of the Jews, this objection from the divisions among Christians should occur, Jeremiah, observing this order in his prophecy, immediately adds in the passage already quoted: "The partridge is clamorous, gathering what it has not brought forth, making riches without judgment".
+
+[1:1430] For the partridge is notoriously quarrelsome, and is often caught from its eagerness in quarreling.
+
+[1:1431] So the heretics discuss not to find the truth, but with a dogged determination to gain the victory one way or another, that they may gather, as the prophet says, what they have not brought forth.
+
+[1:1432] For those whom they lead astray are Christians already born of the gospel, whom the Christian profession of the heretics misleads.
+
+[1:1433] Thus they make riches not with judgment, but with inconsiderate haste.
+
+[1:1434] For they do not consider that the followers whom they gather as their riches are taken from the genuine original Christian society, and deprived of its benefits; and as the apostle describes these heretics in the words: "As Jannes and Jambres withstood Moses, so they also resist the truth: men of corrupt minds, reprobate concerning the faith.
+
+[1:1435] But they shall proceed no further: for their folly shall be manifest to all men, as theirs also was".
+
+[1:1436] So the prophet goes on to say of the partridge, which gathers what it has not brought forth: "In the midst of his days they shall leave him, and in the end he shall be a fool;" that is, he who at first misled people by a promising display of superior wisdom, shall be a fool, that is, shall be seen to be a fool.
+
+[1:1437] He will be seen when his folly is manifest to all men, and to those to whom he was at first a wise man he will then be a fool.
+
+[1:1438] 13.
+
+[1:1439] As if anticipating that the inquirer would ask next by what plain mark a young disciple, not yet able to distinguish the truth among so many errors, might find the true Church of Christ, since the clear fulfillment of so many predictions compelled him to believe in Christ, the prophet answers this question in what follows, and teaches that the Church of Christ, which he describes prophetically, is conspicuously visible.
+
+[1:1440] His words are: "A glorious high throne is our sanctuary".
+
+[1:1441] This glorious throne is the Church of which the apostle says: "The temple of God is holy, which temple ye are".
+
+[1:1442] The Lord also, foreseeing the conspicuousness of the Church as a help to young disciples who might be misled, says, "A city that is set on an hill cannot be hid".
+
+[1:1443] Since, then, a glorious high throne is our sanctuary, no attention is to be paid to those who would lead us into sectarianism, saying, "Lo, here is Christ," or "Lo there".
+
+[1:1444] Lo here, lo there, speaks of division; but the true city is on a mountain, and the mountain is that which, as we read in the prophet Daniel, grew from a little stone till it filled the whole earth.
+
+[1:1445] And no attention should be paid to those who, professing some hidden mystery confined to a small number, say, Behold, He is in the chamber; behold, in the desert: for a city set on an hill cannot be hid, and a glorious high throne is our sanctuary.
+
+[1:1446] 14.
+
+[1:1447] After considering these instances of the fulfillment of prophecy about kings and people acting as persecutors, and then becoming believers, about the destruction of idols, about the blindness of the Jews, about their testimony to the writings which they have preserved, about the folly of heretics, about the dignity of the Church of true and genuine Christians, the inquirer would most reasonably receive the testimony of these prophets about the divinity of Christ.
+
+[1:1448] No doubt, if we were to begin by urging him to believe prophecies yet unfulfilled, he might justly answer, What have I to do with these prophets, of whose truth I have no evidence? But, in view of the manifest accomplishment of so many remarkable predictions, no candid person would despise either the things which were thought worthy of being predicted in those early times with so much solemnity, or those who made the predictions.
+
+[1:1449] To none can we trust more safely, as regards either events long past or those still future, than to men whose words are supported by the evidence of so many notable predictions having been fulfilled.
+
+[1:1450] 15.
+
+[1:1451] If any truth about God or the Son of God is taught or predicted in the Sibyl or Sibyls, or in Orpheus, or in Hermes, if there ever was such a person, or in any other heathen poets, or theologians, or sages, or philosophers, it may be useful for the refutation of Pagan error, but cannot lead us to believe in these writers.
+
+[1:1452] For while they spoke, because they could not help it, of the God whom we worship, they either taught their fellow-countrymen to worship idols and demons, or allowed them to do so without daring to protest against it.
+
+[1:1453] But our sacred writers, with the authority and assistance of God, were the means of establishing and preserving among their people a government under which heathen customs were condemned as sacrilege.
+
+[1:1454] If any among this people fell into idolatry or demon-worship, they were either punished by the laws, or met by the awful denunciations of the prophets.
+
+[1:1455] They worshipped one God, the maker of heaven and earth.
+
+[1:1456] They had rites; but these rites were prophetic, or symbolical of things to come, and were to cease on the appearance of the things signified.
+
+[1:1457] The whole state was one great prophet, with its king and priest symbolically anointed which was discontinued, not by the wish of the Jews themselves, who were in ignorance through unbelief, but only on the coming of Him who was God, anointed with spiritual grace above His fellows, the holy of holies, the true King who should govern us, the true Priest who should offer Himself for us.
+
+[1:1458] In a word, the predictions of heathen ingenuity regarding Christ's coming are as different from sacred prophecy as the confession of devils from the proclamation of angels.
+
+[1:1459] 16.
+
+[1:1460] By such arguments, which might be expanded if we were discussing with one brought up in heathenism, and might be supported by proofs in still greater number, the inquirer whom Faustus has brought before us would certainly be led to believe, unless he preferred his sins to his salvation.
+
+[1:1461] As a believer, he would be taken to be cherished in the bosom of the Catholic Church, and would be taught in due course the conduct required of him.
+
+[1:1462] He would see many who do not practise the required duties; but this would not shake his faith, even though these people should belong to the same Church and partake of the same sacraments as himself.
+
+[1:1463] He would understand that few share in the inheritance of God, while many partake in its outward signs; that few are united in holiness of life, and in the gift of love shed abroad in our hearts by the Holy Spirit who is given to us, which is a hidden spring that no stranger can approach; and that many join in the solemnity of the sacrament, which he that eats and drinks unworthily eats and drinks judgment to himself, while he who neglects to eat it shall not have life in him,  and so shall never reach eternal life.
+
+[1:1464] He will understand, too, that the good are called few as compared with the multitude of the evil, but that as scattered over the world there are very many growing among the tares, and mixed with the chaff, till the day of harvest and of purging.
+
+[1:1465] As this is taught in the Gospel, so is it foretold by the prophets.
+
+[1:1466] We read, "As a lily among thorns, so is my beloved among the daughters;"  and again, "I have dwelt in the tabernacles of Kedar; peaceful among them that hated peace;"  and again, "Mark in the forehead those who sigh and cry for the iniquities of my people, which are done in the midst of them".
+
+[1:1467] The inquirer would be confirmed by such passages; and being now a fellow-citizen with the saints and of the household of God, no longer an alien from Israel, but an Israelite indeed, in whom is no guile, would learn to utter from a guileless heart the words which follow in the passage of Jeremiah already quoted, "O Lord, the patience of Israel: let all that forsake Thee be dismayed".
+
+[1:1468] After speaking of the partridge that is clamorous, and gathers what it has not brought forth; and after extolling the city set on an hill which cannot be hid, to prevent heretics from drawing men away from the Catholic Church; after the words, "A glorious high throne is our sanctuary," he seems to ask himself, What do we make of all those evil men who are found mixed with the Church, and who become more numerous as the Church extends, and as all nations are united in Christ? And then follow the words, "O Lord, the patience of Israel".
+
+[1:1469] Patience is necessary to obey the command, "Suffer both to grow together till the harvest".
+
+[1:1470] Impatience towards the evil might lead to forsaking the good, who in the strict sense are the body of Christ, and to forsake them would be to forsake Him.
+
+[1:1471] So the prophet goes on to say, "Let all that forsake Thee be dismayed; let those who have departed to the earth be confounded".
+
+[1:1472] The earth is man trusting in himself, and inducing others to trust in him.
+
+[1:1473] So the prophet adds: "Let them be overthrown, for they have forsaken the Lord, the fountain of life".
+
+[1:1474] This is the cry of the partridge, that it has got the fountain of life, and will give it; and so men are gathered to it, and depart from Christ, as if Christ, whose name they had professed, had not fulfilled His promise.
+
+[1:1475] The partridge gathers those whom it has not brought forth.
+
+[1:1476] And in order to do this, it declares, The salvation which Christ promises is with me; I will give it.
+
+[1:1477] In opposition to this the prophet says: "Heal me, O Lord, and I shall be healed; save me, and I shall be saved".
+
+[1:1478] So we read in the apostle, "Let no man glory in men;"  or in the words of the prophet, "Thou art my praise".
+
+[1:1479] Such is a specimen of instruction in apostolic and prophetic doctrine, by which a man may be built on the foundation of the apostles and prophets.
+
+[1:1480] 17.
+
+[1:1481] Faustus has not told us how he would prove the divinity of Christ to the heathen, whom he makes to say: I believe neither the prophets in support of Christ, nor Christ in support of the prophets.
+
+[1:1482] It would be absurd to suppose that such a man would believe what Christ says of Himself, when he disbelieves what He says of others.
+
+[1:1483] For if he thinks Him unworthy of credit in one case, he must think Him so in all, or at least more so when speaking of Himself than when speaking of others.
+
+[1:1484] Perhaps, failing this, Faustus would read to him the Sibyls and Orpheus, and any heathen prophecies about Christ that he could find.
+
+[1:1485] But how could he do this, when he confesses that he knows none? His words are: "If, as is said, any prophecies of Christ are to be found in the Sibyl, or in Hermes, called Trismegistus, or Orpheus, or any heathen poet".
+
+[1:1486] How could he read writings of which he knows nothing, and which he supposes to exist only from report, to one who will not believe either the prophets or Christ? What, then, would he do? Would he bring forward Manich aeus as a witness to Christ? The opposite of this is what the Manich aeans do.
+
+[1:1487] They take advantage of the widespread fragrance of the name of Christ to gain acceptance for Manich aeus, that the edge of their poisoned cup may be sweetened with this honey.
+
+[1:1488] Taking hold of the promises of Christ to His disciples that He would send the Paraclete, that is, the Comforter or Advocate, they say that this Paraclete is Manich aeus, or in Manich aeus, and so steal an entrance into the minds of men who do not know when He who was promised by Christ really came.
+
+[1:1489] Those who have read the canonical book called the Acts of the Apostles find a reference to Christ's promise, and an account of its fulfillment.
+
+[1:1490] Faustus, then, has no proof to give to the inquirer.
+
+[1:1491] It is not likely that any one will be so infatuated as to take the authority of Manich aeus when he rejects that of Christ.
+
+[1:1492] Would he not reply in derision, if not in anger, Why do you ask me to believe Persian books, when you forbid me to believe Hebrew books? The Manich aean has no hold on the inquirer, unless he is already in some way convinced of the truth of Christianity.
+
+[1:1493] When he finds him willing to believe Christ, then he deludes him with the representation of Christ given by Manich aeus.
+
+[1:1494] So the partridge gathers what it has not brought forth.
+
+[1:1495] When will you whom he gathers leave him? When will you see him to be a fool, who tells you that Hebrew testimony is worthless in the case of unbelievers, and superfluous to believers?  18.
+
+[1:1496] If believers are to throw away all the books which have led them to believe, I see no reason why they should continue reading the Gospel itself.
+
+[1:1497] The Gospel, too, must be worthless to this inquirer, who, according to Faustus' pitiful supposition, rejects with ridicule the authority of Christ.
+
+[1:1498] And to the believer it must be superfluous, if true notices of Christ are superfluous to believers.
+
+[1:1499] And if the Gospel should be read by the believer, that he may not forget what he has believed, so should the prophets, that he may not forget why he believed.
+
+[1:1500] For if he forgets this his faith cannot be firm.
+
+[1:1501] By this principle, you should throw away the books of Manich aeus, on the authority of which you already believe that light—that is, God—fought with darkness, and that, in order to bind darkness, the light was first swallowed up and bound, and polluted and mangled by darkness, to be restored, and liberated, and purified, and healed by your eating, for which you are rewarded by not being condemned to the mass of darkness for ever, along with that part of the light which cannot be extricated.
+
+[1:1502] This fiction is sufficiently published by your practice and your words.
+
+[1:1503] Why do you seek for the testimony of books, and add to the embarrassment of your God by the consumption of strength in the needless task of writing manuscripts? Burn all your parchments, with their finely-ornamented binding; so you will be rid of a useless burden, and your God who suffers confinement in the volume will be set free.
+
+[1:1504] What a mercy it would be to the members of your God, if you could boil your books and eat them! There might be a difficulty, however, from the prohibition of animal food.
+
+[1:1505] Then the writing must share in the impurity of the sheepskin.
+
+[1:1506] Indeed, you are to blame for this, for, like what you say was done in the first war between light and darkness, you brought what was clean in the pen in contact with the uncleanness of the parchment.
+
+[1:1507] Or perhaps, for the sake of the colors, we may put it the other way; and so the darkness would be yours, in the ink which you brought against the light of the white pages.
+
+[1:1508] If these remarks irritate you, you should rather be angry with yourselves for believing doctrines of which these are the necessary consequences.
+
+[1:1509] As for the books of the apostles and prophets, we read them as a record of our faith, to encourage our hope and animate our love.
+
+[1:1510] These books are in perfect harmony with one another; and their harmony, like the music of a heavenly trumpet, wakens us from the torpor of worldliness, and urges us on to the prize of our high calling.
+
+[1:1511] The apostle, after quoting from the prophets the words, "The reproaches of them that reproached Thee fell on me," goes on to speak of the benefit of reading the prophets: "For whatsoever things were written beforetime were written for our learning; that we, through patience and comfort of the Scriptures, might have hope".
+
+[1:1512] If Faustus denies this, we can only say with Paul, "If any one shall preach to you another doctrine than that ye have received, let him be accursed".
+
+[1:1513]              Book XIV.
+
+[1:1514] Faustus abhors Moses for the awful curse he has pronounced upon Christ.
+
+[1:1515] Augustin expounds the Christian doctrine of the suffering Saviour by comparing Old and New Testament passages.
+
+[1:1516] 1.
+
+[1:1517] Faustus said: If you ask why we do not believe Moses, it is on account of our love and reverence for Christ.
+
+[1:1518] The most reckless man cannot regard with pleasure a person who has cursed his father.
+
+[1:1519] So we abhor Moses, not so much for his blasphemy of everything human and divine, as for the awful curse he has pronounced upon Christ the Son of God, who for our salvation hung on the tree.
+
+[1:1520] Whether Moses did this intentionally or not is your concern.
+
+[1:1521] Either way, he cannot be excused, or considered worthy of belief.
+
+[1:1522] His words are, "Cursed is every one that hangeth on a tree".
+
+[1:1523] You tell me to believe this man, though, if he was inspired, he must have cursed Christ knowingly and intentionally; and if he did it in ignorance, he cannot have been divine.
+
+[1:1524] Take either alternative.
+
+[1:1525] Moses was no prophet, and while cursing in his usual manner, he fell ignorantly into the sin of blasphemy against God.
+
+[1:1526] Or he was indeed divine, and foresaw the future; and from ill-will to our salvation, he directs the venom of his malediction against Him who was to accomplish that salvation on a tree.
+
+[1:1527] He who thus injures the Son cannot surely have seen or known the Father.
+
+[1:1528] He who knew nothing of the final ascension of the Son, cannot surely have foretold His advent.
+
+[1:1529] Moreover, the extent of the injury inflicted by this curse is to be considered.
+
+[1:1530] For it denounces all the righteous men and martyrs, and sufferers of every kind, who have died in this way, as Peter and Andrew, and the rest.
+
+[1:1531] Such a cruel denunciation could never have come from Moses if he had been a prophet, unless he was a bitter enemy of these sufferers.
+
+[1:1532] For he pronounces them cursed not only of men but of God.
+
+[1:1533] What hope, then, of blessing remains to Christ, or his apostles, or to us if we happen to be crucified for Christ's sake? It indicates great thoughtlessness in Moses, and the want of all divine inspiration, that he overlooked the fact that men are hung on a tree for very different reasons, some for their crimes, and others who suffer in the cause of God and of righteousness.
+
+[1:1534] In this thoughtless way lie heaps all together without distinction under the same curse; whereas if he had had any sense, not to say inspiration, if he wished to single out the punishment of the cross from all others as specially detestable, he would have said, Cursed is every guilty and impious person that hangeth on a tree.
+
+[1:1535] This would have made a distinction between the guilty and the innocent.
+
+[1:1536] And yet even this would have been incorrect, for Christ took the malefactor from the cross along with himself into the Paradise of his Father.
+
+[1:1537] What becomes of the curse on every one that hangeth on a tree? Was Barabbas, the notorious robber, who certainly was not hung on a tree, but was set free from prison at the request of the Jews, more blessed than the thief who accompanied Christ from the cross to heaven? Again, there is a curse on the man that worships the sun or the moon.
+
+[1:1538] Now if under a heathen monarch I am forced to worship the sun, and if from fear of this curse I refuse, shall I incur this other curse by suffering the punishment of crucifixion? Perhaps Moses was in the habit of cursing everything good.
+
+[1:1539] We think no more of his denunciation than of an old wife's scolding.
+
+[1:1540] So we find him pronouncing a curse on all youths of both sexes, when he says: "Cursed is every one that raiseth not up a seed in Israel".
+
+[1:1541] This is aimed directly at Jesus, who, according to you, was born among the Jews, and raised up no seed to continue his family.
+
+[1:1542] It points too at his disciples, some of whom he took from the wives they had married, and some who were unmarried he forbade to take wives.
+
+[1:1543] We have good reason, you see, for expressing our abhorrence of the daring style in which Moses hurls his maledictions against Christ, against light, against chastity, against everything divine.
+
+[1:1544] You cannot make much of the distinction between hanging on a tree and being crucified, as you often try to do by way of apology; for Paul repudiates such a distinction when he says, "Christ hath redeemed us from the curse of the law, being made a curse for us; as it is written, Cursed is every one that hangeth on a tree".
+
+[1:1545] 2.
+
+[1:1546] Augustin replied: The pious Faustus is pained because Christ is cursed by Moses.
+
+[1:1547] His love for Christ makes him hate Moses.
+
+[1:1548] Before explaining the sacred import and the piety of the words, "Cursed is every one that hangeth on a tree," I would ask these pious people why they are angry with Moses, since his curse does not affect their Christ.
+
+[1:1549] If Christ hung on the tree, He must have been fastened to it with nails, the marks of which He showed to His doubting disciple after His resurrection.
+
+[1:1550] Accordingly He must have had a vulnerable and mortal body, which the Manich aeans deny.
+
+[1:1551] Call the wounds and the marks false, and it follows that His hanging on the tree was false.
+
+[1:1552] This Christ is not affected by the curse, and there is no occasion for this indignation against the person uttering the curse.
+
+[1:1553] If they pretend to be angry with Moses for cursing what they call the false death of Christ, what are we to think of themselves, who do not curse Christ, but, what is much worse, make Him a liar? If it is wrong to curse mortality, it is a much more heinous offense to sully the purity of truth.
+
+[1:1554] But let us make these heretical cavils an occasion for explaining this mystery to believers.
+
+[1:1555] 3.
+
+[1:1556] Death comes upon man as the punishment of sin, and so is itself called sin; not that a man sins in dying, but because sin is the cause of his death.
+
+[1:1557] So the word tongue, which properly means the fleshy substance between the teeth and the palate, is applied in a secondary sense to the result of the tongue's action.
+
+[1:1558] In this sense we speak of a Latin tongue and a Greek tongue.
+
+[1:1559] The word hand, too, means both the members of the body we use in working, and the writing which is done with the hand.
+
+[1:1560] In this sense we speak of writing as being proved to be the hand of a certain person, or of recognizing the hand of a friend.
+
+[1:1561] The writing is certainly not a member of the body, but the name hand is given to it because it is the hand that does it.
+
+[1:1562] So sin means both a bad action deserving punishment, and death the consequence of sin.
+
+[1:1563] Christ has no sin in the sense of deserving death, but He bore for our sakes sin in the sense of death as brought on human nature by sin.
+
+[1:1564] This is what hung on the tree; this is what was cursed by Moses.
+
+[1:1565] Thus was death condemned that its reign might cease, and cursed that it might be destroyed.
+
+[1:1566] By Christ's taking our sin in this sense, its condemnation is our deliverance, while to remain in subjection to sin is to be condemned.
+
+[1:1567] 4.
+
+[1:1568] What does Faustus find strange in the curse pronounced on sin, on death, and on human mortality, which Christ had on account of man's sin, though He Himself was sinless? Christ's body was derived from Adam, for His mother the Virgin Mary was a child of Adam.
+
+[1:1569] But God said in Paradise, "On the day that ye eat, ye shall surely die".
+
+[1:1570] This is the curse which hung on the tree.
+
+[1:1571] A man may deny that Christ was cursed who denies that He died.
+
+[1:1572] But the man who believes that Christ died, and acknowledges that death is the fruit of sin, and is itself called sin, will understand who it is that is cursed by Moses, when he hears the apostle saying "For our old man is crucified with Him".
+
+[1:1573] The apostle boldly says of Christ, "He was made a curse for us;" for he could also venture to say, "He died for all".
+
+[1:1574] "He died," and "He was cursed," are the same.
+
+[1:1575] Death is the effect of the curse; and all sin is cursed, whether it means the action which merits punishment, or the punishment which follows.
+
+[1:1576] Christ, though guiltless, took our punishment, that He might cancel our guilt, and do away with our punishment.
+
+[1:1577] 5.
+
+[1:1578] These things are not my conjectures, but are affirmed constantly by the apostle, with an emphasis sufficient to rouse the careless and to silence the gainsayers.
+
+[1:1579] "God," he says, "sent His Son in the likeness of sinful flesh, that by sin He might condemn sin in the flesh".
+
+[1:1580] Christ's flesh was not sinful, because it was not born of Mary by ordinary generation; but because death is the effect of sin, this flesh, in being mortal, had the likeness of sinful flesh.
+
+[1:1581] This is called sin in the following words, "that by sin He might condemn sin in the flesh".
+
+[1:1582] Again he says: "He hath made Him to be sin for us who knew no sin, that we might be made the righteousness of God in Him".
+
+[1:1583] Why should not Moses call accursed what Paul calls sin? In this prediction the prophet claims a share with the apostle in the reproach of the heretics.
+
+[1:1584] For whoever finds fault with the word cursed in the prophet, must find fault with the word sin in the apostle; for curse and sin go together.
+
+[1:1585] 6.
+
+[1:1586] If we read, "Cursed of God is every one that hangeth on a tree," the addition of the words "of God" creates no difficulty.
+
+[1:1587] For had not God hated sin and our death, He would not have sent His Son to bear and to abolish it.
+
+[1:1588] And there is nothing strange in God's cursing what He hates.
+
+[1:1589] For His readiness to give us the immortality which will be had at the coming of Christ, is in proportion to the compassion with which He hated our death when it hung on the cross at the death of Christ.
+
+[1:1590] And if Moses curses every one that hangeth on a tree, it is certainly not because he did not foresee that righteous men would be crucified, but rather because He foresaw that heretics would deny the death of the Lord to be real, and would try to disprove the application of this curse to Christ, in order that they might disprove the reality of His death.
+
+[1:1591] For if Christ's death was not real, nothing cursed hung on the cross when He was crucified, for the crucifixion cannot have been real.
+
+[1:1592] Moses cries from the distant past to these heretics: Your evasion in denying the reality of the death of Christ is useless.
+
+[1:1593] Cursed is every one that hangeth on a tree; not this one or that, but absolutely every one.
+
+[1:1594] What! the Son of God? Yes, assuredly.
+
+[1:1595] This is the very thing you object to, and that you are so anxious to evade.
+
+[1:1596] You will not allow that He was cursed for us, because you will not allow that He died for us.
+
+[1:1597] Exemption from Adam's curse implies exemption from his death.
+
+[1:1598] But as Christ endured death as man, and for man; so also, Son of God as He was, ever living in His own righteousness, but dying for our offences, He submitted as man, and for man, to bear the curse which accompanies death.
+
+[1:1599] And as He died in the flesh which He took in bearing our punishment, so also, while ever blessed in His own righteousness, He was cursed for our offences, in the death which He suffered in bearing our punishment.
+
+[1:1600] And these words "every one" are intended to check the ignorant officiousness which would deny the reference of the curse to Christ, and so, because the curse goes along with death, would lead to the denial of the true death of Christ.
+
+[1:1601] 7.
+
+[1:1602] The believer in the true doctrine of the gospel will understand that Christ is not reproached by Moses when he speaks of Him as cursed, not in His divine majesty, but as hanging on the tree as our substitute, bearing our punishment, any more than He is praised by the Manich aeans when they deny that He had a mortal body, so as to suffer real death.
+
+[1:1603] In the curse of the prophet there is praise of Christ's humility, while in the pretended regard of the heretics there is a charge of falsehood.
+
+[1:1604] If, then, you deny that Christ was cursed, you must deny that He died; and then you have to meet, not Moses, but the apostles.
+
+[1:1605] Confess that He died, and you may also confess that He, without taking our sin, took its punishment.
+
+[1:1606] Now the punishment of sin cannot be blessed, or else it would be a thing to be desired.
+
+[1:1607] The curse is pronounced by divine justice, and it will be well for us if we are redeemed from it.
+
+[1:1608] Confess then that Christ died, and you may confess that He bore the curse for us; and that when Moses said, "Cursed is every one that hangeth on a tree," he said in fact, To hang on a tree is to be mortal, or actually to die.
+
+[1:1609] He might have said, "Cursed is every one that is mortal," or "Cursed is every one dying;" but the prophet knew that Christ would suffer on the cross, and that heretics would say that He hung on the tree only in appearance, without really dying.
+
+[1:1610] So he exclaims, Cursed; meaning that He really died.
+
+[1:1611] He knew that the death of sinful man, which Christ though sinless bore, came from that curse, "If ye touch it, ye shall surely die".
+
+[1:1612] Thus also, the serpent hung on the pole was intended to show that Christ did not feign death, but that the real death into which the serpent by his fatal counsel cast mankind was hung on the cross of Christ's passion.
+
+[1:1613] The Manich aeans turn away from the view of this real death, and so they are not healed of the poison of the serpent, as we read that in the wilderness as many as looked were healed.
+
+[1:1614] 8.
+
+[1:1615] It is true, some ignorantly distinguish between hanging on a tree and being crucified.
+
+[1:1616] So some explain this passage as referring to Judas.
+
+[1:1617] But how do they know whether he hung himself from wood or from stone? Faustus is right in saying that the apostle obliges us to refer the words to Christ.
+
+[1:1618] Such ignorant Catholics are the prey of the Manich aeans.
+
+[1:1619] Such they get hold of and entangle in their sophistry.
+
+[1:1620] Such were we when we fell into this heresy, and adhered to it.
+
+[1:1621] Such were we, when, not by our own strength, but by the mercy of God, we were rescued.
+
+[1:1622] 9.
+
+[1:1623] What attacks on divine things does Faustus speak of when he charges Moses with sparing nothing human or divine? He makes the charge without stopping to prove it.
+
+[1:1624] We know, on the contrary, that Moses gave due praise to everything really divine, and in human affairs was a just ruler, considering his times and the grace of his dispensation.
+
+[1:1625] It will be time to prove this when we see any proof of Faustus' charges.
+
+[1:1626] It may be clever to make such charges cautiously, but there is great incaution in the cleverness which ruins its possessor.
+
+[1:1627] It is good to be clever on the side of truth, but it is a poor thing to be clever in opposition to the truth.
+
+[1:1628] Faustus says that Moses spared nothing human or divine; not that he spared no god or man.
+
+[1:1629] If he said that Moses did not spare God, it could easily be shown in reply that Moses everywhere does honor to the true God, whom he declares to be the Maker of heaven and earth.
+
+[1:1630] Again, if he said that Moses spared none of the gods, he would betray himself to Christians as a worshipper of the false gods that Moses denounces; and so he would be prevented from gathering what he has not brought forth, by the brood taking refuge under the wings of the Mother Church.
+
+[1:1631] Faustus tries to ensnare the babes, by saying that Moses spared nothing divine, wishing not to frighten Christians with a profession of belief in the gods, which would be plainly opposed to Christianity, and at the same time appearing to take the side of the Pagans against us; for they know that Moses has said many plain and pointed things against the idols and gods of the heathen, which are devils.
+
+[1:1632] 10.
+
+[1:1633] If the Manich aeans disapprove of Moses on this account, let them confess that they are worshippers of idols and devils.
+
+[1:1634] This, indeed, may be the case without their being aware of it.
+
+[1:1635] The apostle tells us that "in the last days some shall depart from the faith, giving heed to seducing spirits, and to doctrines of devils, speaking lies in hypocrisy".
+
+[1:1636] Whence but from devils, who are fond of falsehood, could the idea have come that Christ's sufferings and death were unreal, and that the marks which He showed of His wounds were unreal? Are these not the doctrines of lying devils, which teach that Christ, the Truth itself, was a deceiver? Besides, the Manich aeans openly teach the worship, if not of devils, still of created things, which the apostle condemns in the words, "They worshipped and served the creature rather than the Creator".
+
+[1:1637] 11.
+
+[1:1638] As there is an unconscious worship of idols and devils in the fanciful legends of the Manich aeans, so they knowingly serve the creature in their worship of the sun and moon.
+
+[1:1639] And in what they call their service of the Creator they really serve their own fancy, and not the Creator at all.
+
+[1:1640] For they deny that God created those things which the apostle plainly declares to be the creatures of God, when he says of food, "Every creature of God is good, and nothing to be refused, if it is received with thanksgiving".
+
+[1:1641] This is sound doctrine, which you cannot bear, and so turn to fables.
+
+[1:1642] The apostle praises the creature of God, but forbids the worship of it; and in the same way Moses gives due praise to the sun and moon, while at the same time he states the fact of their having been made by God, and placed by Him in their courses,—the sun to rule the day, and the moon to rule the night.
+
+[1:1643] Probably you think Moses spared nothing divine, simply because he forbade the worship of the sun and moon, whereas you turn towards them in all directions in your worship.
+
+[1:1644] But the sun and moon take no pleasure in your false praises.
+
+[1:1645] It is the devil, the transgressor, that delights in false praises.
+
+[1:1646] The powers of heaven, who have not fallen by sin, wish their Creator to be praised in them; and their true praise is that which does no wrong to their Creator.
+
+[1:1647] He is wronged when they are said to be His members, or parts of His substance.
+
+[1:1648] For He is perfect and independent, underived, not divided or scattered in space, but unchangeably self-existent, self-sufficient, and blessed in Himself.
+
+[1:1649] In the abundance of His goodness, He by His word spoke, and they were made: He commanded, and they were created.
+
+[1:1650] And if earthly bodies are good, of which the apostle spoke when he said that no food is unclean, because every creature of God is good, much more the heavenly bodies, of which the sun and moon are the chief; for the apostle says again, "The glory of the terrestrial is one, and the glory of the celestial is another".
+
+[1:1651] 12.
+
+[1:1652] Moses, then, casts no reproach on the sun and moon when he prohibits their worship.
+
+[1:1653] He praises them as heavenly bodies; while he also praises God as the Creator of both heavenly and earthly, and will not allow of His being insulted by giving the worship due to Him to those who are praised only as dependent upon Him.
+
+[1:1654] Faustus prides himself on the ingenuity of his objection to the curse pronounced by Moses on the worship of the sun and moon.
+
+[1:1655] He says, "If under a heathen monarch I am forced to worship the sun, and if from fear of this curse I refuse, shall I incur this other curse by suffering the punishment of crucifixion?" No heathen monarch is forcing you to worship the sun: nor would the sun itself force you, if it were reigning on the earth, as neither does it now wish to be worshipped.
+
+[1:1656] As the Creator bears with blasphemers till the judgment, so these celestial bodies bear with their deluded worshippers till the judgment of the Creator.
+
+[1:1657] It should be observed that no Christian monarch could enforce the worship of the sun.
+
+[1:1658] Faustus instances a heathen monarch, for he knows that their worship of the sun is a heathen custom.
+
+[1:1659] Yet, in spite of this opposition to Christianity, the partridge takes the name of Christ, that it may gather what it has not brought forth.
+
+[1:1660] The answer to this objection is easy, and the force of truth will soon break the horns of this dilemma.
+
+[1:1661] Suppose, then, a Christian threatened by royal authority with being hung on a tree if he will not worship the sun.
+
+[1:1662] If I avoid, you say, the curse pronounced by the law on the worshipper of the sun, I incur the curse pronounced by the same law on him that hangs on a tree.
+
+[1:1663] So you will be in a difficulty; only that you worship the sun without being forced by anybody.
+
+[1:1664] But a true Christian, built on the foundation of the apostles and prophets, distinguishes the curses, and the reasons of them.
+
+[1:1665] He sees that one refers to the mortal body which is hung on the tree, and the other to the mind which worships the sun.
+
+[1:1666] For though the body bows in worship,—which also is a heinous offence,—the belief or imagination of the object worshipped is an act of the mind.
+
+[1:1667] The death implied in both curses is in one case the death of the body, and in the other the death of the soul.
+
+[1:1668] It is better to have the curse in bodily death,—which will be removed in the resurrection,—than the curse in the death of the soul, condemning it along with the body to eternal fire.
+
+[1:1669] The Lord solves this difficulty in the words: "Fear not them that kill the body, but cannot kill the soul; but fear him who has power to cast both soul and body into hell-fire".
+
+[1:1670] In other words, fear not the curse of bodily death, which in time is removed; but fear the curse of spiritual death, which leads to the eternal torment of both soul and body.
+
+[1:1671] Be assured, Cursed is every one that hangeth on a tree is no old wife's railing, but a prophetical utterance.
+
+[1:1672] Christ, by the curse, takes the curse away, as He takes away death by death, and sin by sin.
+
+[1:1673] In the words, "Cursed is every one that hangeth on a tree," there is no more blasphemy than in the words of the apostle, "He died," or, "Our old man was crucified along with Him,"  or, "By sin He condemned sin,"  or, "He made Him to be sin for us who knew no sin,"  and in many similar passages.
+
+[1:1674] Confess, then, that when you exclaim against the curse of Christ, you exclaim against His death.
+
+[1:1675] If this is not an old wife's railing on your part, it is devilish delusion, which makes you deny the death of Christ because your own souls are dead.
+
+[1:1676] You teach people that Christ's death was feigned, making Christ your leader in the falsehood with which you use the name of Christian to mislead men.
+
+[1:1677] 13.
+
+[1:1678] If Faustus thinks Moses an enemy of continence or virginity because he says, "Cursed is everyone that raiseth not up seed in Israel," let them hear the words of Isaiah: "Thus saith the Lord to all eunuchs; To them who keep my precepts, and choose the things that please me, and regard my covenant, will I give in my house and within my walls a place and a name better than of sons and of daughters; I will give them an everlasting name, that shall not be cut off".
+
+[1:1679] Though our adversaries disagree with Moses, if they agree with Isaiah it is something gained.
+
+[1:1680] It is enough for us to know that the same God spoke by both Moses and Isaiah, and that every one is cursed who raiseth not up seed in Israel, both then when begetting children in marriage (for the continuation of the people was a civil duty), and now because no one spiritually born should rest content without seeking spiritual increase in the production of Christians by preaching Christ, each one according to his ability.
+
+[1:1681] So that the times of both Testaments are briefly described in the words, "Cursed is every one that raiseth not up seed in Israel".
+
+[1:1682]              Book XV.
+
+[1:1683] Faustus rejects the Old Testament because it leaves no room for Christ.
+
+[1:1684] Christ the one Bridegroom suffices for His Bride the Church.
+
+[1:1685] Augustin answers as well as he can, and reproves the Manich aeans with presumption in claiming to be the Bride of Christ.
+
+[1:1686] 1.
+
+[1:1687] Faustus said: Why do we not receive the Old Testament? Because when a vessel is full, what is poured on it is not received, but allowed to run over; and a full stomach rejects what it cannot hold.
+
+[1:1688] So the Jews, satisfied with the Old Testament, reject the New; and we who have received the New Testament from Christ, reject the Old.
+
+[1:1689] You receive both because you are only half filled with each, and the one is not completed, but corrupted by the other.
+
+[1:1690] For vessels half filled should not be filled up with anything of a different nature from what they already contain.
+
+[1:1691] If it contains wine, it should be filled up with wine, honey with honey, vinegar with vinegar.
+
+[1:1692] For to pour gall on honey, or water on wine, or alkalies on vinegar, is not addition, but adulteration.
+
+[1:1693] This is why we do not receive the Old Testament.
+
+[1:1694] Our Church, the bride of Christ, the poor bride of a rich bridegroom, is content with the possession of her husband, and scorns the wealth of inferior lovers, and despises the gifts of the Old Testament and of its author, and from regard to her own character, receives only the letters of her husband.
+
+[1:1695] We leave the Old Testament to your Church, that, like a bride faithless to her spouse, delights in the letters and gifts of another.
+
+[1:1696] This lover who corrupts your chastity, the God of the Hebrews in his stone tablets promises you gold and silver, and abundance of food, and the land of Canaan.
+
+[1:1697] Such low rewards have tempted you to be unfaithful to Christ, after all the rich dowry bestowed by him.
+
+[1:1698] By such attractions the God of the Hebrews gains over the bride of Christ.
+
+[1:1699] You must know that you are cheated, and that these promises are false.
+
+[1:1700] This God is in poverty and beggary, and cannot do what he promises.
+
+[1:1701] For if he cannot give these things to the synagogue, his proper wife, who obeys him in all things like a servant, how can he bestow them on you who are strangers, and who proudly throw off his yoke from your necks? Go on, then, as you have begun, join the new cloth to the old garment, put the new wine in old bottles, serve two masters without pleasing either, make Christianity a monster, half horse and half man; but allow us to serve only Christ, content with his immortal dower, and imitating the apostle who says, "Our sufficiency is of God, who has made us able ministers of the New Testament".
+
+[1:1702] In the God of the Hebrews we have no interest whatever; for neither can he perform his promises, nor do we desire that he should.
+
+[1:1703] The liberality of Christ has made us indifferent to the flatteries of this stranger.
+
+[1:1704] This figure of the relation of the wife to her husband is sanctioned by Paul, who says: "The woman that has a husband is bound to her husband as long as he liveth; but if her husband die, she is freed from the law of her husband.
+
+[1:1705] So, then, if while her husband liveth she be joined to another man, she shall be called an adulteress; but if her husband be dead, she is not an adulteress, though she be married to another man".
+
+[1:1706] Here he shows that there is a spiritual adultery in being united to Christ before repudiating the author of the law, and counting him, as it were, as dead.
+
+[1:1707] This applies chiefly to the Jews who believe in Christ, and who ought to forget their former superstition.
+
+[1:1708] We who have been converted to Christ from heathenism, look upon the God of the Hebrews not merely as dead, but as never having existed, and do not need to be told to forget him.
+
+[1:1709] A Jew, when he believes, should regard Adonai as dead; a Gentile should regard his idol as dead; and so with everything that has been held sacred before conversion.
+
+[1:1710] One who, after giving up idolatry, worships both the God of the Hebrews and Christ, is like an abandoned woman, who after the death of one husband marries two others.
+
+[1:1711] 2.
+
+[1:1712] Augustin replied: Let all who have given their hearts to Christ say whether they can listen patiently to these things, unless Christ Himself enable them.
+
+[1:1713] Faustus, full of the new honey, rejects the old vinegar; and Paul, full of the old vinegar, has poured out half that the new honey may be poured in, not to be kept, but to be corrupted.
+
+[1:1714] When the apostle calls himself a servant of Jesus Christ, called to be an apostle, separated unto the gospel of God, this is the new honey.
+
+[1:1715] But when he adds, "which He promised before by His prophets in the Holy Scriptures of His Son, who was made of the seed of David according to the flesh,"  this is the old vinegar.
+
+[1:1716] Who could bear to hear this, unless the apostle himself consoled us by saying: "There must be heresies, that they which are approved may be made manifest among you?"  Why should we repeat what we said already? —that the new cloth and the old garment, the new wine and the old bottles, mean not two Testaments, but two lives and two hopes,—that the relation of the two Testaments is figuratively described by the Lord when He says: "Therefore every scribe instructed in the kingdom of God is like an householder bringing out of his treasure things new and old".
+
+[1:1717] The reader may remember this as said before, or he may find it on looking back.
+
+[1:1718] For if any one tries to serve God with two hopes, one of earthly felicity, and the other of the kingdom of heaven, the two hopes cannot agree; and when the latter is shaken by some affliction, the former will be lost too.
+
+[1:1719] Thus it is said, No man can serve two masters; which Christ explains thus: "Ye cannot serve God and Mammon".
+
+[1:1720] But to those who rightly understand it, the Old Testament is a prophecy of the New.
+
+[1:1721] Even in that ancient people, the holy patriarchs and prophets, who understood the part they performed, or which they were instrumental in performing, had this hope of eternal life in the New Testament.
+
+[1:1722] They belonged to the New Testament, because they understood and loved it, though revealed only in figure.
+
+[1:1723] Those belonging to the Old Testament were the people who cared for nothing else but the temporal promises, without understanding them as significant of eternal things.
+
+[1:1724] But all this has already been more than enough insisted on.
+
+[1:1725] 3.
+
+[1:1726] It is amazingly bold in the impious and impure sect of the Manich aeans to boast of being the chaste bride of Christ.
+
+[1:1727] All the effect of such a boast on the really chaste members of the holy Church is to remind them of the apostle's warning against deceivers: "I have joined you to one husband, to present you as a chaste virgin to Christ.
+
+[1:1728] But I fear lest, as the serpent deceived Eve by his guile, so your minds also should be corrupted from the purity which is in Christ".
+
+[1:1729] What else do those preachers of another gospel than that which we have received try to do, but to corrupt us from the purity which we preserve for Christ, when they stigmatize the law of God as old, and praise their own falsehoods as new, as if all that is new must be good, and all that is old bad? The Apostle John, however, praises the old commandment, and the Apostle Paul bids us avoid novelties in doctrine.
+
+[1:1730] As an unworthy son and servant of the Catholic Church, the true bride of the true Christ, I too, as appointed to give out food to my fellow-servants, would speak to her a word of counsel.
+
+[1:1731] Continue ever to shun the profane errors of the Manich aeans, which have been tried by the experience of thine own children, and condemned by their recovery.
+
+[1:1732] By that heresy I was once separated from thy fellowship, and after running into danger which ought to have been avoided, I escaped.
+
+[1:1733] Restored to thy service, my experience may perhaps be profitable to thee.
+
+[1:1734] Unless thy true and truthful Bridegroom, from whose side thou wert made, had obtained the remission of sins through His own real blood, the gulf of error would have swallowed me up; I should have become dust, and been devoured by the serpent.
+
+[1:1735] Be not misled by the name of truth.
+
+[1:1736] The truth is in thine own milk, and in thine own bread.
+
+[1:1737] They have the name only, and not the thing.
+
+[1:1738] Thy full-grown children, indeed, are secure; but I speak to thy babes, my brothers, and sons, and masters, whom thou, the virgin mother, fertile as pure, dost cherish into life under thine anxious wings, or dost nourish with the milk of infancy.
+
+[1:1739] I call upon these, thy tender offspring, not to be seduced by noisy vanities, but rather to pronounce accursed any one that preaches to them another gospel than that which they have received in thee.
+
+[1:1740] I call upon these not to leave the true and truthful Christ, in whom are hid all the treasures of wisdom and knowledge; not to forsake the abundance of His goodness which He has laid up for them that fear Him, and has wrought for them that trust in Him.
+
+[1:1741] How can they expect to find truthful words in one who preaches an untruthful Christ? Scorn the reproaches cast on thee, for thou knowest well that the gift which thou desirest from thy Bridegroom is eternal life, for He Himself is eternal life.
+
+[1:1742] 4.
+
+[1:1743] It is a silly falsehood that thou hast been seduced to another God, who promises abundance of food and the land of Canaan.
+
+[1:1744] For thou canst perceive how the saints of old, who were also thy children, were enlightened by these figures which were prophecies of thee.
+
+[1:1745] Thou needest not regard the poor jest against the stone tablets, for the stony heart of which they were in old times a figure is not in thee.
+
+[1:1746] For thou art an epistle of the apostles, "written not with ink, but with the Spirit of the living God; not on tables of stone, but on the fleshy tables of the heart".
+
+[1:1747] Our opponents ignorantly think that these words are in their favor, and that the apostle finds fault with the dispensation of the Old Testament, whereas they are the words of the prophet.
+
+[1:1748] This utterance of the apostles was a fulfillment of the long anterior utterances of the prophet whom the Manich aeans reject, for they believe the apostles without understanding them.
+
+[1:1749] The prophet says: "I will take away from them the stony heart, and I will give them a heart of flesh".
+
+[1:1750] What is this but "Not on tables of stones but on the fleshy tables of the heart"? For by the heart of flesh and the fleshy tables is not meant a carnal understanding: but as flesh feels, whereas a stone cannot, the insensibility of stone signifies an unintelligent heart, and the sensibility of flesh signifies an intelligent heart.
+
+[1:1751] Instead, then, of scoffing at thee, they deserve to be ridiculed who say that earth, and wood, and stones have sense, and that their life is more intelligent than animal life.
+
+[1:1752] So, not to speak of the truth, even their own fiction obliges them to confess that the law written on tables of stone was purer than their sacred parchments.
+
+[1:1753] Or perhaps they prefer sheepskin to stone, because their legends make stones the bones of princes.
+
+[1:1754] In any case, the ark of the Old Testament was a cleaner covering for the tables of stone than the goatskin of their manuscripts.
+
+[1:1755] Laugh at these things, while pitying them, to show their falsehood and absurdity.
+
+[1:1756] With a heart no longer stony, thou canst see in these stone tablets a suitableness to that hard-hearted people; and at the same time thou canst find even there the stone, thy Bridegroom, described by Peter as "a living stone, rejected by men, but chosen of God, and precious".
+
+[1:1757] To them He was "a stone of stumbling and a rock of offence;" but to thee, "the stone which the builders rejected has become the head of the corner".
+
+[1:1758] This is all explained by Peter, and is quoted from the prophets, with whom these heretics have nothing to do.
+
+[1:1759] Fear not, then, to read these tablets—they are from thy Husband; to others the stone was a sign of insensibility, but to thee of strength and stability.
+
+[1:1760] With the finger of God these tablets were written; with the finger of God thy Lord cast out devils; with the finger of God drive thou away the doctrines of lying devils which sear the conscience.
+
+[1:1761] With these tablets thou canst confound the seducer who calls himself the Paraclete, that he may impose upon thee by a sacred name.
+
+[1:1762] For on the fiftieth day after the passover the tables were given; and on the fiftieth day after the passion of thy Bride-groom—of whom the passover was a type—the finger of God, the Holy Spirit, the promised Paraclete, was given.
+
+[1:1763] Fear not the tablets which convey to thee ancient writings now made plain.
+
+[1:1764] Only be not under the law, lest fear prevent thy fulfilling it; but be under grace, that love, which is the fulfilling of the law, may be in thee.
+
+[1:1765] For it was in a review of these very tablets that the friend of thy Bridegroom said: "For thou shalt not commit adultery, Thou shalt not murder, Thou shalt not covet, and if there be any other commandment, it is contained in this word, Thou shalt love thy neighbor as thyself.
+
+[1:1766] Love worketh no ill to his neighbor; therefore love is the fulfilling of the law".
+
+[1:1767] One table contains the precept of love to God, and the other of love to man.
+
+[1:1768] And He who first sent these tablets Himself came to enjoin those precepts on which hang the law and the prophets.
+
+[1:1769] In the first precept is the chastity of thy espousals; in the second is the unity of thy members.
+
+[1:1770] In the one thou art united to divinity; in the other thou dost gather a society.
+
+[1:1771] And these two precepts are identical with the ten, of which three relate to God, and seven to our neighbor.
+
+[1:1772] Such is the chaste tablet in which thy Lover and thy Beloved of old prefigured to thee the new song on a psaltery of ten strings; Himself to be extended on the cross for thee, that by sin He might condemn sin in the flesh, and that the righteouness of the law might be fulfilled in thee.
+
+[1:1773] Such is the conjugal tablet, which may well be hated by the unfaithful wife.
+
+[1:1774] 5.
+
+[1:1775] I turn now to thee, thou deluded and deluding congregation of Manich aeus,—wedded to so many elements, or rather prostituted to so many devils, and impregnated with blasphemous falsehoods,—dost thou dare to slander as unchaste the marriage of the Catholic Church with thy Lord? Behold thy lovers, one balancing creation, and the other bearing it up like Atlas.
+
+[1:1776] For one, by thy account, holds the sources of the elements, and hangs the world in space; while the other keeps him up by kneeling down and carrying the weight on his shoulders.
+
+[1:1777] Where are those beings? And if they are so occupied, how can they come to visit thee, to spend an idle hour in getting their shoulders or their fingers relieved by thy soft, soothing touch? But thou art deceived by evil spirits which commit adultery with thee, that thou mayest conceive falsehoods and bring forth vanities.
+
+[1:1778] Well mayest thou reject the message of the true God, as opposed to thy parchments, where in the vain imaginations of a wanton mind thou hast gone after so many false gods.
+
+[1:1779] The fictions of the poets are more respectable than thine, in this at least, that they deceive no one; while the fables in thy books, by assuming an appearance of truth, mislead the childish, both young and old, and pervert their minds.
+
+[1:1780] As the apostle says, they have itching ears, and turn away from hearing the truth to listen to fables.
+
+[1:1781] How shouldest thou bear the sound doctrine of these tables, where the first commandment is, "Hear, O Israel, the Lord thy God is one Lord,"  when thy corrupt affections find shameful delight in so many false deities? Dost thou not remember thy love-song, where thou describest the chief ruler in perennial majesty, crowned with flowers, and of fiery countenance? To have even one such lover is shameful; for a chaste wife seeks not a husband crowned with flowers.
+
+[1:1782] And thou canst not say that this description or representation has a typical meaning, for thou art wont to praise Manich aeus for nothing more than for speaking to thee the simple naked truth without the disguise of figures.
+
+[1:1783] So the God of thy song is a real king, bearing a sceptre and crowned with flowers.
+
+[1:1784] When he wears a crown of flowers, he ought to put aside his sceptre; for effeminacy and majesty are incongruous.
+
+[1:1785] And then he is not thy only lover; for the song goes on to tell of twelve seasons clothed in flowers, and filled with song, throwing their flowers at their father's face.
+
+[1:1786] These are twelve great gods of thine, three in each of the four regions surrounding the first deity.
+
+[1:1787] How this deity can be infinite, when he is thus circumscribed, no one can say.
+
+[1:1788] Besides, there are countless principalities, and hosts of gods, and troops of angels, which thou sayest were not created by God, but produced from His substance.
+
+[1:1789] 6.
+
+[1:1790] Thou art thus convicted of worshipping gods without number; for thou canst not bear the sound doctrine which teaches that there is one Son of one God, and one Spirit of both.
+
+[1:1791] And these, instead of being without number, are not three Gods; for not only is their substance one and the same, but their operation by means of this substance is also one and the same, while they have a separate manifestation in the material creation.
+
+[1:1792] These things thou dost not understand, and canst not receive.
+
+[1:1793] Thou art full, as thou sayest, for thou art steeped in blasphemous absurdities.
+
+[1:1794] Will thou continue burying thyself under such crudities? Sing on, then, and open thine eyes, if thou canst, to thine own shame.
+
+[1:1795] In this doctrine of lying devils thou art invited to fabulous dwellings of angels in a happy clime, and to fragrant fields where nectar flows for ever from trees and hills, in seas and rivers.
+
+[1:1796] These are the fictions of thy foolish heart, which revels in such idle fancies.
+
+[1:1797] Such expressions are sometimes used as figurative descriptions of the abundance of spiritual enjoyments; and they lead the mind of the student to inquire into their hidden meaning.
+
+[1:1798] Sometimes there is a material representation to the bodily senses, as the fire in the bush, the rod becoming a serpent, and the serpent a rod, the garment of the Lord not divided by His persecutors, the anointing of His feet or of His head by a devout woman, the branches of the multitude preceding and following Him when riding on the ass.
+
+[1:1799] Sometimes, either in sleep or in a trance, the spirit is informed by means of figures taken from material things, as Jacob's ladder, and the stone in Daniel cut out without hands and growing into a mountain, and Peter's vessel, and all that John saw.
+
+[1:1800] Sometimes the figures are only in the language; as in the Song of Songs, and in the parable of a householder making a marriage for his son, or that of the prodigal son, or that of the man who planted a vineyard and let it out to husbandmen.
+
+[1:1801] Thou boastest of Manich aeus as having come last, not to use figures, but to explain them.
+
+[1:1802] His expositions throw light on ancient types, and leave no problem unsolved.
+
+[1:1803] This idea is supported by the assertion that the ancient types, in vision or in action or in words, had in view the coming of Manich aeus, by whom they were all to be explained; while he, knowing that no one is to follow him, makes use of a style free from all figurative expressions.
+
+[1:1804] What, then, are those fields, and shady hills, and crowns of flowers, and fragrant odors, in which the desires of thy fleshly mind take pleasure? If they are not significant figures, they are either idle fancies or delirious dreams.
+
+[1:1805] If they are figures, away with the impostor who seduces thee with the promise of naked truth, and then mocks thee with idle tales.
+
+[1:1806] His ministers and his wretched deluded followers are wont to bait their hook with that saying of the apostle, "Now we see through a glass in a figure, but then face to face".
+
+[1:1807] As if, forsooth, the Apostle Paul knew in part, and prophesied in part, and saw through a glass in a figure; whereas all this is removed at the coming of Manich aeus, who brings that which is perfect, and reveals the truth face to face.
+
+[1:1808] O fallen and shameless! still to continue uttering such folly, still feeding on the wind, still embracing the idols of thine own heart.
+
+[1:1809] Hast thou, then, seen face to face the king with the sceptre, and the crown of flowers, and the hosts of gods, and the great worldholder with six faces and radiant with light, and that other exalted ruler surrounded with troops of angels, and the invincible warrior with a spear in his right hand and a shield in his left, and the famous sovereign who moves the three wheels of fire, water, and wind, and Atlas, chief of all, bearing the world on his shoulders, and supporting himself on his arms? These, and a thousand other marvels, hast thou seen face to face, or are thy songs doctrines learned from lying devils, though thou knowest it not? Alas! miserable prostitute to these dreams, such are the vanities which thou drinkest up instead of the truth; and, drunk with this deadly poison, thou darest with this jest of the tablets to affront the matronly purity of the spouse of the only Son of God; because no longer under the tutorship of the law, but under the control of grace, neither proud in activity nor crouching in fear, she lives by faith, and hope, and love, the Israel in whom there is no guile, who hears what is written: "The Lord thy God is one God".
+
+[1:1810] This thou hearest not, and art gone a whoring after a multitude of false gods.
+
+[1:1811] 7.
+
+[1:1812] Of necessity these tables are against thee, for the second commandment is, "Thou shalt not take the name of the Lord thy God in vain;" whereas thou dost attribute the vanity of falsehood to Christ Himself, who, to remove the vanity of the fleshly mind, rose in a true body, visible to the bodily eye.
+
+[1:1813] So also the third commandment about the rest of the Sabbath is against thee, for thou art tossed about by a multitude of restless fancies.
+
+[1:1814] How these three commandments relate to the love of God, thou hast neither the power nor the will to understand.
+
+[1:1815] Shamefully headstrong and turbulent, thou hast reached the height of folly, vanity, and worthlessness; thy beauty is spoiled, and thine order perished.
+
+[1:1816] I know thee, for I was once the same.
+
+[1:1817] How shall I now teach thee that these three precepts relate to the love of God, of whom, and by whom, and in whom are all things? How canst thou understand this, when thy pernicious doctrines prevent thee from understanding and from obeying the seven precepts relating to the love of our neighbor, which is the bond of human society? The first of these precepts is, "Honor thy father and mother;" which Paul quotes as the first commandment with promise, and himself repeats the injunction.
+
+[1:1818] But thou art taught by thy doctrine of devils to regard thy parents as thine enemies, because their union brought thee into the bonds of flesh, and laid impure fetters even on thy god.
+
+[1:1819] The doctrine that the production of children is an evil, directly opposes the next precept, "Thou shall not commit adultery;" for those who believe this doctrine, in order that their wives may not conceive, are led to commit adultery even in marriage.
+
+[1:1820] They take wives, as the law declares, for the procreation of children; but from this erroneous fear of polluting the substance of the deity, their intercourse with their wives is not of a lawful character; and the production of children, which is the proper end of marriage, they seek to avoid.
+
+[1:1821] As the apostle long ago predicted of thee, thou dost indeed forbid to marry, for thou seekest to destroy the purpose of marriage.
+
+[1:1822] Thy doctrine turns marriage into an adulterous connection, and the bed-chamber into a brothel.
+
+[1:1823] This false doctrine leads in a similar way to the transgression of the commandment, "Thou shall not kill".
+
+[1:1824] For thou dost not give bread to the hungry, from fear of imprisoning in flesh the member of thy God.
+
+[1:1825] From fear of fancied murder, thou dost actually commit murder.
+
+[1:1826] For if thou wast to meet a beggar starving for want of food, by the law of God to refuse him food would be murder; while to give food would be murder by the law of Manich aeus.
+
+[1:1827] Not one commandment in the decalogue dost thou observe.
+
+[1:1828] If thou wert to abstain from theft, thou wouldst be guilty of allowing bread or food, whatever it might be, to undergo the misery of being devoured by a man of no merit, instead of running off with it to the laboratory of the stomach of thine elect; and so by theft saving thy god from the imprisonment with which he is threatened, and also from that from which he already suffers.
+
+[1:1829] Then, if thou art caught in the theft, wilt thou not swear by this god that thou art not guilty? For what will he do to thee when thou sayest to him, I swore by thee falsely, but it was for thy benefit; a regard for thine honor would have been fatal to thee? So the precept, Thou shall not bear false witness, will be broken, not only in thy testimony, but in thine oath, for the sake of the liberation of the members of thy god.
+
+[1:1830] The commandment, "Thou shall not covet thy neighbor's wife," is the only one which thy false doctrine does not oblige thee to break.
+
+[1:1831] But if it is unlawful to covet our neighbor's wife, what must it be to excite covetousness in others? Remember thy beautiful gods and goddesses presenting themselves with the purpose of exciting desire in the male and female leaders of darkness, in order that the gratification of this passion might effect the liberation of this god, who is in confinement everywhere, and who requires the assistance of such self-degradation.
+
+[1:1832] The last commandment, "Thou shall not covet the possessions of thy neighbor," it is wholly impossible for thee to obey.
+
+[1:1833] Does not this god of thine delude thee with the promise of making new worlds in a region belonging to another, to be the scene of thine imaginary triumph after thine imaginary conquest? In the desire for the accomplishment of these wild fancies, while at the same time thou believest that this land of darkness is in the closest neighborhood with thine own substance, thou certainly covetest the possessions of thy neighbor.
+
+[1:1834] Well indeed mayest thou dislike the tables which contain such good precepts in opposition to thy false doctrine.
+
+[1:1835] The three relating to the love of God thou dost entirely set aside.
+
+[1:1836] The seven by which human society is preserved thou keepest only from a regard to the opinion of men, or from fear of human laws; or good customs make thee averse to some crimes; or thou art restrained by the natural principle of not doing to another what thou wouldst not have done to thyself.
+
+[1:1837] But whether thou doest what thou wouldst not have done to thyself, or refrainest from doing what thou wouldst not have done to thyself, thou seest the opposition of the heresy to the law, whether thou actest according to it or not.
+
+[1:1838] 8.
+
+[1:1839] The true bride of Christ, whom thou hast the audacity to taunt with the stone tablets, knows the difference between the letter and the spirit, or in other words, between law and grace; and serving God no longer in the oldness of the letter, but in newness of spirit, she is not under the law, but under grace.
+
+[1:1840] She is not blinded by a spirit of controversy, but learns meekly from the apostle what is this law which we are not to be under; for "it was given," he says, "on account of transgression, till the seed should come to whom the promise was made".
+
+[1:1841] And again: "It entered, that the offence might abound; but where sin abounded, grace has much more abounded".
+
+[1:1842] [19] Not that the law is sin, though it cannot give life without grace, but rather increases the guilt; for "where there is no law, there is no transgression".
+
+[1:1843] The letter without the spirit, the law without grace, can only condemn.
+
+[1:1844] So the apostle explains his meaning, in case any should not understand: "What shall we say then? Is the law sin? God forbid.
+
+[1:1845] For I had not known sin but by the law.
+
+[1:1846] For I had not known lust unless the law had said, Thou shalt not covet.
+
+[1:1847] But sin, taking occasion by the commandment, deceived me, and by it slew me.
+
+[1:1848] Therefore the law is holy, and the commandment holy, and just, and good.
+
+[1:1849] Was then that which is good made death unto me? God forbid.
+
+[1:1850] But sin, that it might appear sin, wrought death in me by that which is good".
+
+[1:1851] She at whom thou scoffest knows what this means; for she asks earnestly, and seeks humbly, and knocks meekly.
+
+[1:1852] She sees that no fault is found with the law, when it is said, "The letter killeth, but the spirit giveth life," any more than with knowledge, when it is said, "Knowledge puffeth up, but love edifieth".
+
+[1:1853] The passage runs thus: "We know that we all have knowledge.
+
+[1:1854] Knowledge puffeth up, but love edifieth".
+
+[1:1855] The apostle certainly had no desire to be puffed up; but he had knowledge, because knowledge joined with love not only does not puff up, but strengthens.
+
+[1:1856] So the letter when joined with the spirit, and the law when joined with grace, is no longer the letter and the law in the same sense as when by itself it kills by abounding sin.
+
+[1:1857] In this sense the law is even called the strength of sin, because its strict prohibitions increase the fatal pleasure of sin.
+
+[1:1858] Even thus, however, the law is not evil; but "sin, that it may appear sin, works death by that which is good".
+
+[1:1859] So things that are not evil may often be hurtful to certain people.
+
+[1:1860] The Manich aeans, when they have sore eyes, will shut out their god the sun.
+
+[1:1861] The bride of Christ, then, is dead to the law, that is, to sin, which abounds more from the prohibition of the law; for the law apart from grace commands, but does not enable.
+
+[1:1862] Being dead to the law in this sense, that she may be married to another who rose from the dead, she makes this distinction without any reproach to the law, which would be blasphemy against its author.
+
+[1:1863] This is thy crime; for though the apostle tells thee that the law is holy, and the commandment holy, and just, and good, thou dost not acknowledge it as the production of a good being.
+
+[1:1864] Its author thou makest to be one of the princes of darkness.
+
+[1:1865] Here the truth confronts thee.
+
+[1:1866] They are the words of the Apostle Paul: "The law is holy, and the commandment holy, and just, and good".
+
+[1:1867] Such is the law given by Him who appointed for a great symbolical use the tablets which thou foolishly deridest.
+
+[1:1868] The same law which was given by Moses becomes through Jesus Christ grace and truth; for the spirit is joined to the letter, that the righteousness of the law might begin to be fulfilled, which when unfulfilled only added the guilt of transgression.
+
+[1:1869] The law which is holy, and just, and good, is the same law by which sin works death, and to which we must die, that we may be married to another who rose from the dead.
+
+[1:1870] Hear what the apostle adds: "But sin, that it might appear sin, wrought death in me by that which is good, that sin by the commandment might become exceeding sinful".
+
+[1:1871] Deaf and blind, dost thou not now hear and see? "Sin wrought death in me," he says, "by that which is good".
+
+[1:1872] The law is always good: whether it hurts those who are destitute of grace, or benefits those who are filled with grace, itself is always good; as the sun is always good, for every creature of God is good, whether it hurts weak eyes or gladdens the sight of the healthy.
+
+[1:1873] Grace fits the mind for keeping the law, as health fits the eyes for seeing the sun.
+
+[1:1874] And as healthy eyes die not to the pleasure of seeing the sun, but to that painful effect of the rays which beat upon the eye so as to increase the darkness; so the mind, healed by the love of the spirit, dies not to the justice of the law, but to the guilt and transgression which followed on the law in the absence of grace.
+
+[1:1875] So it is said "The law is good, if used lawfully;" and immediately after of the same law, "Knowing this, that the law is not made for a righteous man".
+
+[1:1876] The man who delights in righteousness itself, does not require the restraint of the letter.
+
+[1:1877] 9.
+
+[1:1878] The bride of Christ rejoices in the hope of full salvation, and desires for thee a happy conversion from fables to truth.
+
+[1:1879] She desires that the fear of Adoneus, as if he were a strange lover, may not prevent thy escape from the seductions of the wily serpent.
+
+[1:1880] Adonai is a Hebrew word, meaning Lord, as applied only to God.
+
+[1:1881] In the same way the Greek word latria means service, in the sense of the service of God; and Amen means true, in a special sacred sense.
+
+[1:1882] This is to be learned only from the Hebrew Scriptures, or from a translation.
+
+[1:1883] The Church of Christ understands and loves these names, without regarding the evils of those who scoff because they are ignorant.
+
+[1:1884] What she does not yet understand, she believes may be explained, as similar things have already been explained to her.
+
+[1:1885] If she is charged with loving Emmanuel, she laughs at the ignorance of the accuser, and holds fast by the truth of this name.
+
+[1:1886] If she is charged with loving Messiah, she scorns her powerless adversary, and clings to her anointed Master.
+
+[1:1887] Her prayer for thee is, that thou also mayest be cured of thy errors, and be built upon the foundation of the apostles and prophets.
+
+[1:1888] The monstrosity with which thou ignorantly chargest the true doctrine, is really to be found in the world which, according to thy fanciful stories, is made partly of thy god and partly of the world of darkness.
+
+[1:1889] This world, half savage and half divine, is worse than monstrous.
+
+[1:1890] The view of such follies should make thee humble and penitent, and should lead thee to shun the serpent, who seduces thee into such errors.
+
+[1:1891] If thou dost not believe what Moses says of the guile of the serpent, thou mayest be warned by Paul, who, when speaking of presenting the Church as a chaste virgin to Christ, says, "I fear lest, as the serpent beguiled Eve through his craftiness, your minds also should be corrupted from the simplicity and purity which is in Christ".
+
+[1:1892] In spite of this warning, thou hast been so misled, so infatuated by the serpent's fatal enchantments, that while he has persuaded other heretics to believe various falsehoods, he has persuaded thee to believe that he is Christ.
+
+[1:1893] Others, though fallen into the maze of manifold error, still admit the truth of the apostle's warning.
+
+[1:1894] But thou art so far gone in corruption, and so lost to shame, that thou holdest as Christ the very being by whom the apostle declares that Eve was beguiled, and against whom he thus seeks to put the virgin bride of Christ on her guard.
+
+[1:1895] Thy heart is darkened by the deceiver, who intoxicates thee with dreams of glittering groves.
+
+[1:1896] What are these promises but dreams? What reason is there to believe them true? O drunken, but not with wine!  10.
+
+[1:1897] Thou hast the impious audacity to accuse the God of the prophets of not fulfilling His promises even to His servants the Jews.
+
+[1:1898] Thou dost not mention, however, any promise that is unfulfilled; otherwise it might be shown, either that the promise has been fulfilled, and so that thou dost not understand it, or that it is yet to be fulfilled, and so that thou dost not believe it.
+
+[1:1899] What promise has been fulfilled to thee, to make it probable that thou wilt obtain new worlds gained from the region of darkness? If there are prophets who predict the Manich aeans with praise, and if it is said that the existence of the sect is a fulfillment of this prediction, it must first be proved that these predictions were not forged by Manich aeus in order to gain followers.
+
+[1:1900] He does not consider falsehood sinful.
+
+[1:1901] If he declares in praise of Christ that He showed false marks of wounds in His body, he can have no scruple about showing false predictions in his sheepskin volumes.
+
+[1:1902] Assuredly there are predictions of the Manich aeans, less clear in the prophets, and most explicit in the apostle.
+
+[1:1903] For example: "The Spirit," he says, "speaketh expressly, that in the last times some shall depart from the faith, giving heed to seducing spirits, and to doctrines of devils, speaking lies in hypocrisy, having their conscience seared, forbidding to marry, abstaining from meats, which God has created to be received with thanksgiving by believers, and those who know the truth.
+
+[1:1904] For every creature of God is good, and nothing to be refused, if it be received with thanksgiving".
+
+[1:1905] The fulfillment of this in the Manich aeans is as clear as day to all that know them, and has already been proved as fully as time permits.
+
+[1:1906] 11.
+
+[1:1907] She whom the apostle warns against the guile of the serpent by which thou hast been corrupted, that he may present her as a chaste virgin to Christ, her only husband, acknowledges the God of the prophets as the true God, and her own God.
+
+[1:1908] So many of His promises have already been fulfilled to her, that she looks confidently for the fulfillment of the rest.
+
+[1:1909] Nor can any one say that these prophecies have been forged to suit the present time, for they are found in the books of the Jews.
+
+[1:1910] What could be more unlikely than that all nations should be blessed in Abraham's seed, as it was promised? And yet how plainly is this promise now fulfilled! The last promise is made in the following short prophecy: "Blessed are they that dwell in Thy house: they shall ever praise Thee".
+
+[1:1911] When trial is past, and death, the last enemy, is destroyed, there will be rest in the constant occupation of praising God, where there shall be no arrivals and no departures.
+
+[1:1912] So the prophet says elsewhere: "Praise the Lord, O Jerusalem; celebrate thy God, O Zion: for He hath strengthened the bars of thy gates; He hath blessed thy children within thee".
+
+[1:1913] The gates are shut, so that none can go in or out.
+
+[1:1914] The Bridegroom Himself says in the Gospel, that He will not open to the foolish virgins though they knock.
+
+[1:1915] This Jerusalem, the holy Church, the bride of Christ, is described fully in the Revelation of John.
+
+[1:1916] And that which commends the promises of future bliss to the belief of this chaste virgin is, that now she is in possession of what was foretold of her by the same prophets.
+
+[1:1917] For she is thus described: "Hearken, O daughter, and regard, and incline thine ear; forget also thine own people, and thy father's house.
+
+[1:1918] For the King hath greatly desired thy beauty; and He is thy God.
+
+[1:1919] The daughters of Tyre shall worship Him with gifts; the rich among the people shall entreat thy favor.
+
+[1:1920] The daughter of the King is all glorious within; her clothing is of wrought gold.
+
+[1:1921] The virgins following her shall be brought unto the King: her companions shall be brought unto thee; with gladness and rejoicing shall they be brought into the temple of the King.
+
+[1:1922] Instead of thy fathers, children shall be born to thee, whom thou shall make princes over all the earth.
+
+[1:1923] Thy name shall be remembered to all generations: therefore shall the people praise thee for ever and ever".
+
+[1:1924] Unhappy victim of the serpent's guile, the inward beauty of the daughter of the King is not for thee even to think of.
+
+[1:1925] For this purity of mind is that which thou hast lost in opening thine eyes to love and worship the sun and moon.
+
+[1:1926] And so by the just judgment of God thou art estranged from the tree of life, which is eternal and internal wisdom; and with thee nothing is called or accounted truth or wisdom but that light which enters the eyes opened to evil, and which in thy impure mind expands and shapes itself into fanciful images.
+
+[1:1927] These are thy abominable whoredoms.
+
+[1:1928] Still the truth calls on thee to reflect and return.
+
+[1:1929] Return to me, and thou shall be cleansed and restored, if thy shame leads thee to repentance.
+
+[1:1930] Hear these words of the true Truth, who neither with feigned shapes fought against the race of darkness, nor with feigned blood redeemed thee.
+
+[1:1931]              Book XVI.
+
+[1:1932] Faustus willing to believe not only that the Jewish but that all Gentile prophets wrote of Christ, if it should be proved; but he would none the less insist upon rejecting their superstitions.
+
+[1:1933] Augustin maintains that all Moses wrote is of Christ, and that his writings must be either accepted or rejected as a whole.
+
+[1:1934] 1.
+
+[1:1935] Faustus said: You ask why we do not believe Moses, when Christ says, "Moses wrote of me; and if ye believed Moses, ye would also believe me".
+
+[1:1936] I should be glad if not only Moses, but all prophets, Jew and Gentile, had written of Christ.
+
+[1:1937] It would be no hindrance, but a help to our faith, if we could cull testimonies from all hands agreeing in favor of our God.
+
+[1:1938] You could extract the prophecies of Christ out of the superstition which we should hate as much as ever.
+
+[1:1939] I am quite willing to believe that Moses, though so much the opposite of Christ, may seem to have written of Him.
+
+[1:1940] No one but would gladly find a flower in every thorn, and food in every plant, and honey in every insect, although we would not feed on insects or on grass, nor wear thorns as a crown.
+
+[1:1941] No one but would wish pearls to be found in every deep, and gems in every land, and fruit on every tree.
+
+[1:1942] We may eat fish from the sea without drinking the water.
+
+[1:1943] We may take the useful, and reject what is hurtful.
+
+[1:1944] And why may we not take the prophecies of Christ from a religion the rites of which we condemn as useless? This need not make us liable to be led into the bondage of the errors; for we do not hate the unclean spirits less because they confessed plainly and openly that Jesus was the Son of God.
+
+[1:1945] If any similar testimony is found in Moses, I will accept it.
+
+[1:1946] But I will not on this account be brought into subjection to his law, which to my mind is pure Paganism.
+
+[1:1947] There is no reason whatever for thinking that I can have any objections to receiving prophecies of Christ from every spirit.
+
+[1:1948] 2.
+
+[1:1949] Since you have proved that Christ declared that Moses wrote of him, I should be very grateful if you would show me what he has written.
+
+[1:1950] I have searched the Scriptures, as we are told to do, and have found no prophecies of Christ, either because there are none, or because I could not understand them.
+
+[1:1951] The only escape from this perplexity was in one or other of two conclusions.
+
+[1:1952] Either this verse must be spurious, or Jesus a liar.
+
+[1:1953] As it is not consistent with piety to suppose God a liar, I preferred to attribute falsehood to the writers, rather than to the Author, of truth.
+
+[1:1954] Moreover, He Himself tells that those who came before him were thieves and robbers, which applies first of all to Moses.
+
+[1:1955] And when, on the occasion of His speaking of His own majesty, and calling Himself the light of the world, the Jews angrily rejoined, "Thou bearest witness of thyself, thy witness is not true," I do not find that He appealed to the prophecies of Moses, as might have been expected.
+
+[1:1956] Instead of this, as having no connection with the Jews, and receiving no testimony from their fathers, He replied: "It is written in your law, that the testimony of two men is true.
+
+[1:1957] I am one who bear witness of myself, and the Father who sent me beareth witness of me".
+
+[1:1958] He referred to the voice from heaven which all had heard: "This is my beloved Son, believe Him".
+
+[1:1959] I think it likely that if Christ had said that Moses wrote of Him, the ingenious hostility of the Jews would have led them at once to ask what He supposed Moses to have written.
+
+[1:1960] The silence of the Jews is a proof that Jesus never made such a statement.
+
+[1:1961] 3.
+
+[1:1962] My chief reason, however, for suspecting the genuineness of this verse is what I said before, that in all my search of the writings of Moses I have found no prophecy of Christ.
+
+[1:1963] But now that I have found in you a reader of superior intelligence, I hope to learn something; and I promise to be grateful if no feeling of ill-will prevents you from giving me the benefit of your higher attainments, as your lofty style of reproof entitles me to expect from you.
+
+[1:1964] I ask for instruction in whatever the writings of Moses contain about our God and Lord which has escaped me in reading.
+
+[1:1965] I beseech you not to use the ignorant argument that Christ affirms Moses to have written of Him.
+
+[1:1966] For suppose you had not to deal with me, as in my case there is an obligation to believe Him whom I profess to follow, but with a Jew or a Gentile, in reply to the statement that Moses wrote of Christ, they will ask for proofs.
+
+[1:1967] What shall we say to them? We cannot quote Christ's authority, for they do not believe in Him.
+
+[1:1968] We must point out what Moses wrote.
+
+[1:1969] 4.
+
+[1:1970] What, then, shall we point to? Shall it be that passage which you often quote where the God of Moses says to him: "I will raise up unto them from among their brethren a prophet like unto thee?"  But the Jew can see that this does not refer to Christ, and there is every reason against our thinking that it does.
+
+[1:1971] Christ was not a prophet, nor was He like Moses: for Moses was a man, and Christ was God; Moses was a sinner, and Christ sinless; Moses was born by ordinary generation, and Christ of a virgin according to you, or, as I hold, not born at all: Moses, for offending his God, was put to death on the mountain; and Christ suffered voluntarily, and the Father was well pleased in Him.
+
+[1:1972] If we were to assert that Christ was a prophet like Moses, the Jew would either deride us as ignorant or pronounce us untruthful.
+
+[1:1973] 5.
+
+[1:1974] Or shall we take another favorite passage of yours: "They shall see their life hanging, and shall not believe their life?"  You insert the words "on a tree," which are not in the original.
+
+[1:1975] Nothing can be easier than to show that this has no reference to Christ.
+
+[1:1976] Moses is uttering dire threatenings in case the people should depart from his law, and says among other things that they would be taken captive by their enemies, and would be expecting death day and night, having no confidence in the life allowed them by their conquerors, so that their life would hang in uncertainty from fear of impending danger.
+
+[1:1977] This passage will not do, we must try others.
+
+[1:1978] I cannot admit that the words, "Cursed is every one that hangeth on a tree," refer to Christ, or when it is said that the prince or prophet must be killed who should try to turn away the people from their God, or should break any of the commandments.
+
+[1:1979] That Christ did this I am obliged to grant.
+
+[1:1980] But if you assert that these things were written of Christ, it may be asked in reply, What spirit dictated these prophecies in which Moses curses Christ and orders him to be killed? If he had the Spirit of God, these things are not written of Christ; if they are written of Christ, he had not the Spirit of God.
+
+[1:1981] The Spirit of God would not curse Christ, or order Him to be killed.
+
+[1:1982] To vindicate Moses, you must confess that these passages too have no reference to Christ.
+
+[1:1983] So, if you have no others to show, there are none.
+
+[1:1984] If there are none, Christ could not have said that there were; and if Christ did not say so, that verse is spurious.
+
+[1:1985] 6.
+
+[1:1986] The next verse too is suspicious, "If ye believed Moses, ye would also believe me;" for the religion of Moses is so entirely different from that of Christ, that if the Jews believed one, they could not believe the other.
+
+[1:1987] Moses strictly forbids any work to be done on Sabbath, and gives as a reason for this prohibition that God made the world and all that is therein in six days, and rested on the seventh day, which is Sabbath; and therefore blessed or sanctified it as His haven of repose after toil, and commanded that breaking the Sabbath should be punished with death.
+
+[1:1988] The Jews, in obedience to Moses, insisted strongly on this, and so would not even listen to Christ when He told them that God always works, and that no day is appointed for the intermission of His pure and unwearied energy, and that accordingly He Himself had to work incessantly even on Sabbath.
+
+[1:1989] "My Father," he says, "worketh always, and I too must work".
+
+[1:1990] Again, Moses places circumcision among the rites pleasing to God, and commands every male to be circumcised in the foreskin of his flesh, and declares that this is a necessary sign of the covenant which God made with Abraham, and that every male not circumcised would be cut off from his tribe, and from his part in the inheritance promised to Abraham and to his seed.
+
+[1:1991] In this observance, too, the Jews were very zealous, and consequently could not believe in Christ, who made light of these things, and declared that a man when circumcised became twofold a child of hell.
+
+[1:1992] Again, Moses is very particular about the distinction in animal foods, and discourses like an epicure on the merits of fish, and birds, and quadrupeds, and orders some to be eaten as clean, and others which are unclean not to be touched.
+
+[1:1993] Among the unclean he reckons the swine and the hare, and fish without scales, and quadrupeds that neither divide the hoof nor chew the cud.
+
+[1:1994] In this also the Jews carefully obeyed Moses, and so could not believe in Christ, who taught that all food is alike, and though he allowed no animal food to his own disciples, gave full liberty to the laity to eat whatever they pleased, and taught that men are polluted not by what goes into the mouth, but by the evil things which come out of it.
+
+[1:1995] In these and many other things the doctrine of Jesus, as everybody knows, contradicts that of Moses.
+
+[1:1996] 7.
+
+[1:1997] Not to enumerate all the points of difference, it is enough to mention this one fact, that most Christian sects, and, as is well known, the Catholics, pay no regard to what is prescribed in the writings of Moses.
+
+[1:1998] If this does not originate in some error, but in the doctrine correctly transmitted from Christ and His disciples, you surely must acknowledge that the teaching of Jesus is opposed to that of Moses, and that the Jews did not believe in Christ on account of their attachment to Moses.
+
+[1:1999] How can it be otherwise than false that Jesus said to the Jews, "If ye believed Moses, ye would believe me also," when it is perfectly clear that their belief in Moses prevented them from believing in Jesus, which they might have done if they had left off believing in Moses? Again I ask you to show me anything that Moses wrote of Christ.
+
+[1:2000] 8.
+
+[1:2001] Elsewhere Faustus says: When you find no passage to point to, you use this weak and inappropriate argument, that a Christian is bound to believe Christ when he says that Moses wrote of Him, and that whoever does not believe this is not a Christian.
+
+[1:2002] It would be far better to confess at once that you cannot find any passage.
+
+[1:2003] This argument might be used with me, because my reverence for Christ compels me to believe what He says.
+
+[1:2004] Still it may be a question whether this is Christ's own declaration, requiring absolute belief, or only the writer's, to be carefully examined.
+
+[1:2005] And disbelief in falsehood is no offence to Christ, but to impostors.
+
+[1:2006] But of whatever use this argument may be with Christians, it is wholly inapplicable in the case of the Jew or Gentile, with whom we are supposed to be discussing.
+
+[1:2007] And even with Christians the argument is objectionable.
+
+[1:2008] When the Apostle Thomas was in doubt, Christ did not spurn him from Him.
+
+[1:2009] Instead of saying, "Believe, if thou art a disciple; whoever does not believe is not a disciple," Christ sought to heal the wounds of his mind by showing him the marks of the wounds in His own body.
+
+[1:2010] Does it become you then to tell me that I am not a Christian because I am in doubt, not about Christ, but about the genuineness of a remark attributed to Christ? But, you say, He calls those especially blessed, who have not seen, and yet have believed.
+
+[1:2011] If you think that this refers to believing without the use of judgment and reason, you are welcome to this blind blessedness.
+
+[1:2012] I shall be content with rational blessedness.
+
+[1:2013] 9.
+
+[1:2014] Augustin replied: Your idea of taking any prophecies of Christ to be found in Moses, as a fish out of the sea, while you throw away the water from which the fish is taken, is a clever one.
+
+[1:2015] But since all that Moses wrote is of Christ, or relates to Christ, either as predicting Him by words and actions, or as illustrating His grace and glory, you, with your faith in the untrue and untruthful Christ from the writings of Manich aeus, and your unbelief in Moses, will not even eat the fish.
+
+[1:2016] Moreover, though you are sincere in your hostility to Moses, you are hypocritical in your praise of fish.
+
+[1:2017] For how can you say that there is no harm in eating a fish taken out of the sea, when your doctrine is that such food is so hurtful, that you would rather starve than make use of it? If all flesh is unclean, as you say it is, and if the wretched life of your god is confined in all water or plants, from which it is liberated by your using them for food, according to your own vile superstition, you must throw away the fish you have praised, and drink the water and eat the thistles you speak of as useless.
+
+[1:2018] As for your comparison of the servant of God to devils, as if his prophecies of Christ resembled their confession, the servant does not refuse to bear the reproach of his master.
+
+[1:2019] If the Master of the house was called Beelzebub, how much more they of His household!  You have learned this reproach from Christ's enemies; and you are worse than they were.
+
+[1:2020] They did not believe that Jesus was Christ, and therefore thought Him an impostor.
+
+[1:2021] But the only doctrine you believe in is that which dares to make Christ a liar.
+
+[1:2022] 10.
+
+[1:2023] What reason have you for saying that the law of Moses is pure Paganism? Is it because it speaks of a temple, and an altar of sacrifices, and priests? But all these names are found also in the New Testament.
+
+[1:2024] "Destroy," Christ says, "this temple, and in three days I will raise it up;"  and again, "When thou offerest thy gift at the altar;"  and again, "Go, show thyself to the priest, and offer for thyself a sacrifice as Moses commanded, for a testimony unto them".
+
+[1:2025] What these things prefigured the Lord Himself partly tells us, when He calls His own body the temple; and we learn also from the apostle, who says, "The temple of God is holy, which temple ye are;"  and again, "I beseech you therefore by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable to God;"  and in similar passages.
+
+[1:2026] As the same apostle says, in words which cannot be too often quoted, these things were our examples, for they were not the work of devils, but of the one true God who made heaven and earth, and who, though not needing such things, yet, suiting His requirements to the time, made ancient observances significant of future realities.
+
+[1:2027] Since you pretend to abhor Paganism, though it is only that you may lead astray by your deception unlearned Christians or those not established in the faith, show us any authority in Christian books for your worship and service of the sun and moon.
+
+[1:2028] Your heresy is liker Paganism than the law of Moses is.
+
+[1:2029] For you do not worship Christ, but only something that you call Christ, a fiction of your own fancy; and the gods you serve are either the bodies visible in the heavens, or hosts of your own contrivance.
+
+[1:2030] If you do not build shrines for these worthless idols, the creatures of the imagination, you make your hearts their temple.
+
+[1:2031] 11.
+
+[1:2032] You ask me to show what Moses wrote of Christ.
+
+[1:2033] Many passages have already been pointed out.
+
+[1:2034] But who could point out all? Besides, when any quotation is made, you are ready perversely to try to give the words another meaning; or if the evidence is too strong to be resisted, you will say that you take the passage as a sweet fish out of the salt water, and that you will not therefore consent to drink all the brine of the books of Moses.
+
+[1:2035] It will be enough, then, to take those passages in the Hebrew law which Faustus has chosen for criticism, and to show that, when rightly understood, they apply to Christ.
+
+[1:2036] For if the things which our adversary ridicules and condemns are made to prove that he himself is condemned by Christian truth, it will be evident that either the mere quotation or the careful examination of the other passages will be enough to show their agreement with Christian faith.
+
+[1:2037] Well, then, O thou full of all subtilty, when the Lord in the Gospel says, "If ye believed Moses, ye would believe me also, for he wrote of me,"  there is no occasion for the great perplexity you pretend to be in, or for the alternative of either pronouncing this verse spurious or calling Jesus a liar.
+
+[1:2038] The verse is as genuine as its words are true.
+
+[1:2039] I preferred, says Faustus, to attribute falsehood to the writers, rather than to the Author of truth.
+
+[1:2040] What sort of faith can you have in Christ as the author of truth, when your doctrine is that His flesh and His death, His wounds and their marks, were feigned? And where is your authority for saying that Christ is the author of truth, if you dare to attribute falsehood to those who wrote of Him, whose testimony has come down to us with the confirmation of those immediately succeeding them? You have not seen Christ, nor has He conversed with you as with the apostles, nor called you from heaven as He did Saul.
+
+[1:2041] What knowledge or belief can we have of Christ, but on the authority of Scripture? Or if there is falsehood in the Gospel which has been widely published among all nations, and has been held in such high sacredness in all churches since the name of Christ was first preached, where shall we find a trustworthy record of Christ? If the Gospel is called in question in spite of the general consent regarding it, there can be no writing which a man may not call spurious if he does not wish to believe it.
+
+[1:2042] 12.
+
+[1:2043] You go on to quote Christ's words, that all who came before Him were thieves and robbers.
+
+[1:2044] How do you know that these were Christ's words, but from the Gospel? You profess faith in these words, as if you had heard them from the mouth of the Lord Himself.
+
+[1:2045] But if any one declares the verse to be spurious, and denies that Christ said this, you will have, in reply, to exert yourself in vindication of the authority of the Gospel.
+
+[1:2046] Unhappy being! what you refuse to believe is written in the same place as that which you quote as spoken by the Lord Himself.
+
+[1:2047] We believe both, for we believe the sacred narrative in which both are contained.
+
+[1:2048] We believe both that Moses wrote of Christ, and that all that came before Christ were thieves and robbers.
+
+[1:2049] By their coming He means their not being sent.
+
+[1:2050] Those who were sent, as Moses and the holy prophets, came not before Him, but with Him.
+
+[1:2051] They did not proudly wish to precede Him, but were the humble bearers of the message which He uttered by them.
+
+[1:2052] According to the meaning which you give to the Lord's words, it is plain that with you there can be no prophets.
+
+[1:2053] And so you have made a Christ for yourselves who should prophesy a Christ to come.
+
+[1:2054] If you have any prophets of your own, they will have, of course, no authority, as not being recognized by any others; but if there are any that you dare to quote as prophesying that Christ would come in an unreal body, and would suffer an unreal death, and would show to His doubting disciples unreal marks of wounds, not to speak of the abominable nature of such prophecies, and of the evident untruthfulness of those who commend falsehood in Christ, by your own interpretation those prophets must have been thieves and robbers, for they could not have spoken of Christ as coming in any manner unless they had come before Him.
+
+[1:2055] If by those who came before Christ we understand those who would not come with Him,—that is, with the Word of God,—but without being sent by God brought their own falsehoods to men, you yourselves, although you are born in this world after the death and the resurrection of Christ, are thieves and robbers.
+
+[1:2056] For, without waiting for His illumination that you might preach His truth, you have come before Him to preach up your own deceits.
+
+[1:2057] 13.
+
+[1:2058] In the passage where we read of the Jews saying to Christ, Thou bearest witness of thyself, thy witness is not true, you do not see that Christ replies by saying that Moses wrote of Him, simply because you have not got the eye of piety to see with.
+
+[1:2059] The answer of Christ is this: "It is written in your law, that the testimony of two men is true; I am one who bear witness of myself, and the Father that sent me beareth witness of me".
+
+[1:2060] What does this mean, if rightly understood, but that this number of witnesses required by the law was fixed upon and consecrated in the spirit of prophecy, that even thus might be prefigured the future revelation of the Father and Son, whose spirit is the Holy Spirit of the inseparable Trinity? So it is written: "In the mouth of two or three witnesses shall every word be established".
+
+[1:2061] As a matter of fact, one witness generally speaks the truth, while a number tell lies.
+
+[1:2062] And the world, in its conversion to Christianity, believed one apostle preaching the gospel rather than the mistaken multitude who persecuted him.
+
+[1:2063] There was a special reason for requiring this number of witnesses, and in His answer the Lord implied that Moses prophesied of Him.
+
+[1:2064] Do you carp at His saying your law instead of the law of God? But, as every one knows, this is the common expression in Scripture.
+
+[1:2065] Your law means the law given to you.
+
+[1:2066] So the apostle speaks of his gospel, while at the same time he declares that he received it not from man, but by the revelation of Jesus Christ.
+
+[1:2067] You might as well say that Christ denies God to be His Father, when He uses the words your Father instead of our Father.
+
+[1:2068] Again, you should refuse to believe the voice which you allude to as having come from heaven, This is my beloved Son, believe Him, because you did not hear it.
+
+[1:2069] But if you believe this because you find it in the sacred Scriptures, you will also find there what you deny, that Moses wrote of Christ, besides many other things that you do not acknowledge as true.
+
+[1:2070] Do you not see that your own mischievous argument may be used to prove that this voice never came from heaven? To your own destruction, and to the detriment of the welfare of mankind, you try to weaken the authority of the gospel, by arguing that it cannot be true that Christ said that Moses wrote of Him; because if He had said this, the ingenious hostility of the Jews would have led them at once to ask what He supposed Moses to have written of Him.
+
+[1:2071] In the same way, it might be impiously argued that if that voice had really come from heaven, all the Jews who heard it would have believed.
+
+[1:2072] Why are you so unreasonable as not to consider that, as it was possible for the Jews to remain hardened in unbelief after hearing the voice from heaven, so it was possible for them, when Christ said that Moses wrote of Him, to refrain from asking what Moses wrote, because in their ingenious hostility they were afraid of being proved to be in the wrong?  14.
+
+[1:2073] Besides that this argument is an impious assault on the gospel, Faustus himself is aware of its feebleness, and therefore insists more on what he calls his chief difficulty,—that in all his search of the writings of Moses he has found no prophecies of Christ.
+
+[1:2074] The obvious reply is, that he does not understand.
+
+[1:2075] And if any one asks why he does not understand, the answer is that he reads with a hostile, unbelieving mind; he does not search in order to know, but thinks he knows when he is ignorant.
+
+[1:2076] This vainglorious presumption either blinds the eye of his understanding so as to prevent his seeing anything, or distorts his vision, so that his remarks of approval or disapproval are misdirected.
+
+[1:2077] I ask, he says, for instruction in whatever the writings of Moses contain about our God and Lord, which has escaped me in reading.
+
+[1:2078] I reply at once that it has all escaped him, for all is written of Christ.
+
+[1:2079] As we cannot go through the whole, I will, with the help of God, comply with your request, to the extent I have already promised, by showing that the passages which you specially criticise refer to Christ.
+
+[1:2080] You tell me not to use the ignorant argument that Christ affirms Moses to have written of Him.
+
+[1:2081] But if I use this argument, it is not because I am ignorant, but because I am a believer.
+
+[1:2082] I acknowledge that this argument will not convince a Gentile or a Jew.
+
+[1:2083] But, in spite of all your evasions, you are obliged to confess that it tells against you, who boast of possessing a kind of Christianity.
+
+[1:2084] You say, Suppose you had not to deal with me, as in my case there is an obligation to believe Him whom I profess to follow, but with a Jew or a Gentile.
+
+[1:2085] This is as much as to say that you, at any rate, with whom I have at present to do, are satisfied that Moses wrote of Christ; for you are not bold enough to discard altogether the well-grounded authority of the Gospel where Christ's own declaration is recorded.
+
+[1:2086] Even when you attack this authority indirectly, you feel that you are attacking your own position.
+
+[1:2087] You are aware that if you refuse to believe the Gospel, which is so generally known and received, you must fail utterly in the attempt to substitute for it any trustworthy record of the sayings and doings of Christ.
+
+[1:2088] You are afraid that the loss of the Christian name might lead to the exposure of your absurdities to universal scorn and condemnation.
+
+[1:2089] Accordingly you try to recover yourself, by saying that your profession of Christianity obliges you to believe these words of the Gospel.
+
+[1:2090] So you, at any rate, which is all that we need care for just now, are caught and slain in this death blow to your errors.
+
+[1:2091] You are forced to confess that Moses wrote of Christ, because the Gospel, which your profession obliges you to believe, states that Christ said so.
+
+[1:2092] As regards a discussion with a Jew or a Gentile, I have already shown as well as I could how I think it should be conducted.
+
+[1:2093] 15.
+
+[1:2094] I still hold that there is a reference to Christ in the passage which you select for refutation, where God says to Moses, "I will raise up unto them from among their brethren a prophet like unto thee".
+
+[1:2095] The string of showy antitheses with which you try to ornament your dull discourse does not at all affect my belief of this truth.
+
+[1:2096] You attempt to prove, by a comparison of Christ and Moses, that they are unlike, and that therefore the words, "I will raise up a prophet like unto thee," cannot be understood of Christ.
+
+[1:2097] You specify a number of particulars in which you find a diversity: that the one is man, and the other God; that one is a sinner, the other sinless; that one is born of ordinary generation, the other, as we hold, of a virgin, and, as you hold, not even of a virgin; the one incurs God's anger, and is put to death on a mountain, the other suffers voluntarily, having throughout the approval of His Father.
+
+[1:2098] But surely things may be said to be like, although they are not like in every respect.
+
+[1:2099] Besides the resemblance between things of the same nature, as between two men, or between parents and children, or between men in general, or any species of animals, or in trees, between one olive and another, or one laurel and another, there is often a resemblance in things of a different nature, as between a wild and a tame olive, or between wheat and barley.
+
+[1:2100] These things are to some extent allied.
+
+[1:2101] But there is the greatest possible distance between the Son of God, by whom all things were made, and a beast or a stone.
+
+[1:2102] And yet in the Gospel we read, "Behold the Lamb of God,"  and in the apostle, "That rock was Christ".
+
+[1:2103] [19] This could not be said except on the supposition of some resemblance.
+
+[1:2104] What wonder, then, if Christ condescended to become like Moses, when He was made like the lamb which God by Moses commanded His people to eat as a type of Christ, enjoining that its blood should be used as a means of protection, and that it should be called the Passover, which every one must admit to be fulfilled in Christ? The Scripture, I acknowledge, shows points of difference; and the Scripture also, as I call on you to acknowledge, shows points of resemblance.
+
+[1:2105] There are points of both kinds, and one can be proved as well as the other.
+
+[1:2106] Christ is unlike man, for He is God; and it is written of Him that He is "over all, God blessed for ever".
+
+[1:2107] Christ is also like man, for He is man; and it is likewise written of Him, that He is the "Mediator between God and man, the man Christ Jesus".
+
+[1:2108] Christ is unlike a sinner, for He is ever holy; and He is like a sinner, for "God sent His Son in the likeness of sinful flesh, that by sin He might condemn sin in the flesh".
+
+[1:2109] Christ is unlike a man born in ordinary generation, for He was born of a virgin; and yet He is like, for He too was born of a woman, to whom it was said, "That holy thing which shall be born of thee shall be called the Son of God".
+
+[1:2110] Christ is unlike a man, who dies on account of his own sin, for He died without sin, and of His own free-will; and again, He is like, for He too died a real death of the body.
+
+[1:2111] 16.
+
+[1:2112] You ought not to say, in disparagement of Moses, that he was a sinner, and that he was put to death on a mountain because his God was angry with him.
+
+[1:2113] For Moses could glory in the Lord as his Saviour, who is also the Saviour of him who says, "Christ Jesus came into the world to save sinners, of whom I am chief".
+
+[1:2114] Moses, indeed, is accused by the voice of God, because his faith showed signs of weakness when he was commanded to draw water out of the rock.
+
+[1:2115] In this he may have sinned as Peter did, when from the weakness of his faith he became afraid in the midst of the waves.
+
+[1:2116] But we cannot think from this, that he who, as the Gospel tells us, was counted worthy to be present with the Lord along with holy Elias on the mount of transfiguration, was separated from the eternal fellowship of the saints.
+
+[1:2117] The sacred history shows in what favor he was with God even after his sin.
+
+[1:2118] But since you may ask why God speaks of this sin as deserving the punishment of death, and as I have promised to point out prophecies of Christ in those passages which you select for criticism, I will try, with the Lord's help, to show that what you object to in the death of Moses is, when rightly understood, prophetical of Christ.
+
+[1:2119] 17.
+
+[1:2120] We often find in the symbolical passages of Scripture, that the same person appears in different characters on different occasions.
+
+[1:2121] So, on this occasion, Moses represents and prefigures the Jewish people as placed under the law.
+
+[1:2122] As, then, Moses, when he struck the rock with his rod, doubted the power of God, so the people who were under the law given by Moses, when they nailed Christ to the cross, did not believe Him to be the power of God.
+
+[1:2123] And as water flowed from the smitten rock for those that were athirst, so life comes to believers from the stroke of the Lord's passion.
+
+[1:2124] The testimony of the apostle is clear and decisive on this point, when he says, "This rock was Christ".
+
+[1:2125] In the command of God, that the death of the flesh of Moses should take place on the mountain, we see the divine appointment that the carnal doubt of the divinity of Christ should die on Christ's exaltation.
+
+[1:2126] As the rock is Christ, so is the mountain.
+
+[1:2127] The rock is the fortitude of His humiliation; the mountain the height of His exaltation.
+
+[1:2128] For as the apostle says, "This rock was Christ," so Christ Himself says, "A city set upon an hill cannot be hid,"   showing that He is the hill, and believers the city built upon the glory of His name.
+
+[1:2129] The carnal mind lives when, like the smitten rock, the humiliation of Christ on the cross is despised.
+
+[1:2130] For Christ crucified is to the Jews a stumbling-block, and to the Greeks foolishness.
+
+[1:2131] And the carnal mind dies when, like the mountain-top, Christ is seen in His exaltation.
+
+[1:2132] "For to them that are called, both Jews and Greeks, Christ is the power of God, and the wisdom of God".
+
+[1:2133] Moses therefore ascended the mount, that in the death of the flesh he might be received by the living spirit.
+
+[1:2134] If Faustus had ascended, he would not have uttered carnal objections from a dead mind.
+
+[1:2135] It was the carnal mind that made Peter dread the smiting of the rock, when, on the occasion of the Lord's foretelling His passion, he said, "Be it far from Thee, Lord; spare Thyself".
+
+[1:2136] And this sin too was severely rebuked, when the Lord replied, "Get thee behind me, Satan; thou art an offense unto me: for thou savorest not the things which be of God, but those which be of men".
+
+[1:2137] And where did this carnal distrust die but in the glorification of Christ, as on a mountain height? If it was alive when Peter timidly denied Christ, it was dead when he fearlessly preached Him.
+
+[1:2138] It was alive in Saul, when, in his aversion to the offense of the cross, he made havoc of the Christian faith, and where but on this mountain had it died, when Paul was able to say, "I live no longer, but Christ liveth in me?"  18.
+
+[1:2139] What other reason has your heretical folly to give for thinking that there is no prophecy of Christ in the words, "I will raise up unto them a Prophet from among their brethren, like unto thee?" Your showing Christ to be unlike Moses is no reason; for we can show that in other respects He is like.
+
+[1:2140] How can you object to Christ's being called a prophet, since He condescended to be a man, and actually foretold many future events? What is a prophet, but one who predicts events beyond human foresight? So Christ says of Himself: "A prophet is not without honor, save in his own country".
+
+[1:2141] But, turning from you, since you have already acknowledged that your profession of Christianity obliges you to believe the Gospel, I address myself to the Jew, who enjoys the poor privilege of liberty from the yoke of Christ, and who therefore thinks it allowable to say: Your Christ spoke falsely; Moses wrote nothing of him.
+
+[1:2142] 19.
+
+[1:2143] Let the Jews say what prophet is meant in this promise of God to Moses: "I will raise up unto them a Prophet from among their brethren, like unto thee".
+
+[1:2144] Many prophets appeared after Moses; but one in particular is here pointed out.
+
+[1:2145] The Jews will perhaps naturally think of the successor of Moses, who led into the promised land the people that Moses had brought out of Egypt.
+
+[1:2146] Having this successor of Moses in his mind, he may perhaps laugh at me for asking to what prophet the words of the promise refer, since it is recorded who followed Moses in ruling and leading the people.
+
+[1:2147] When he has laughed at my ignorance, as Faustus supposes him to do, I will still continue my inquiries, and will desire my laughing opponent to give me a serious answer to the question why Moses changed the name of this successor, who was preferred to himself as the leader of the people into the promised land, to show that the law given by Moses not to save, but to convince the sinner, cannot lead us into heaven, but only the grace and truth which are by Jesus Christ.
+
+[1:2148] This successor was called Osea, and Moses gave him the name of Jesus.
+
+[1:2149] Why then did he give him this name when he sent him from the valley of Pharan into the land into which he was to lead the people?  The true Jesus says, "If I go and prepare a place for you, I will come again, and receive you unto myself".
+
+[1:2150] I will ask the Jew if the prophet does not show the prophetical meaning of these things when he says, "God shall come from Africa, and the Holy One from Pharan".
+
+[1:2151] Does this not mean that the holy God would come with the name of him who came from Africa by Pharan, that is, with the name of Jesus? Then, again, it is the Word of God Himself who speaks when He promises to provide this successor to Moses, speaking of him as an angel,—a name commonly given in Scripture to those carrying any message.
+
+[1:2152] The words are: "Behold I send my angel before thy face, to preserve thee in the way, and to bring thee into the land which I have sworn to give thee.
+
+[1:2153] Take heed unto him, and obey, and beware of unbelief in him; for he will not take anything from thee wrongfully, for my name is in him".
+
+[1:2154] Consider these words.
+
+[1:2155] Let the Jew, not to speak of the Manich aean, say what other angel he can find in Scripture to whom these words apply, but this leader who was to bring the people into the land of promise.
+
+[1:2156] Then let him inquire who it was that succeeded Moses, and brought in the people.
+
+[1:2157] He will find that it was Jesus, and that this was not his name at first, but after his name was changed.
+
+[1:2158] It follows that He who said, "My name is in him," is the true Jesus, the leader who brings His people into the inheritance of eternal life, according to the New Testament, of which the Old was a figure.
+
+[1:2159] No event or action could have a more distinctly prophetical character than this, where the very name is a prediction.
+
+[1:2160] 20.
+
+[1:2161] It follows that this Jew, if he wishes to be a Jew inwardly, in the spirit, and not in the letter, if he wishes to be thought a true Israelite, in whom is no guile, will recognize in this dead Jesus, who led the people into the land of mortality, a figure of the true living Jesus, whom he may follow into the land of life.
+
+[1:2162] In this way, he will no longer in a hostile spirit resist so plain a prophecy, but, influenced by the allusion to the Jesus of the Old Testament, he will be prepared to listen meekly to Him whose name he bore, and who leads to the true land of promise; for He says, "Blessed are the meek, for they shall inherit the land".
+
+[1:2163] The Gentile also, if his heart is not too stony, if he is one of those stones from which God raises up children unto Abraham, must allow it to be wonderful that in the ancient books of the people of whom Jesus was born, so plain a prophecy, including His very name, is found recorded; and must remark at the same time, that it is not any man of the name of Jesus who is prophesied of, but a divine person, because God said that His name was in that man who was appointed to rule the people, and to lead them into the kingdom, and who by a change of name was called Jesus.
+
+[1:2164] In His being sent with this new name, He brings a great and divine message, and is therefore called an Angel, which, as every tyro in Greek knows, means messenger.
+
+[1:2165] No Gentile, therefore, if he were not perverse and obstinate, would despise these books merely because he is not subject to the law of the Hebrews, to whom the books belong; but would think highly of the books, no matter whose they were, on finding in them prophecies of such ancient date, and of what he sees now taking place.
+
+[1:2166] Instead of despising Christ Jesus because He is foretold in the Hebrew Scriptures, he would conclude that one thought worthy of being the subject of prophetic description, whoever the writers might be, for so many ages before His coming into the world,—sometimes in plain announcements, sometimes in figure by symbolic actions and utterances,—must claim to be regarded with profound admiration and reverence, and to be followed with implicit reliance.
+
+[1:2167] Thus the facts of Christian history would prove the truth of the prophecy, and the prophecy would prove the claims of Christ.
+
+[1:2168] Call this fancy, if it is not actually the case that men all over the world have been led, and are now led, to believe in Christ by reading these books.
+
+[1:2169] 21.
+
+[1:2170] In view of the multitudes from all nations who have become zealous believers in these books, it is laughably absurd to tell us that it is impossible to persuade a Gentile to learn the Christian faith from Jewish books.
+
+[1:2171] Indeed, it is a great confirmation of our faith that such important testimony is borne by enemies.
+
+[1:2172] The believing Gentiles cannot suppose these testimonies to Christ to be recent forgeries; for they find them in books held sacred for so many ages by those who crucified Christ, and still regarded with the highest veneration by those who every day blaspheme Christ.
+
+[1:2173] If the prophecies of Christ were the production of the preachers of Christ, we might suspect their genuineness.
+
+[1:2174] But now the preacher expounds the text of the blasphemer.
+
+[1:2175] In this way the Most High God orders the blindness of the ungodly for the profit of the saint, in His righteous government bringing good out of evil, that those who by their own choice live wickedly may be, in His just judgment, made the instruments of His will.
+
+[1:2176] So, lest those that were to preach Christ to the world should be thought to have forged the prophecies which speak of Christ as to be born, to work miracles, to suffer unjustly, to die, to rise again, to ascend to heaven, to publish the gospel of eternal life among all nations, the unbelief of the Jews has been made of signal benefit to us; so that those who do not receive in their heart for their own good these truths, carry, in their hands for our benefit the writings in which these truths are contained.
+
+[1:2177] And the unbelief of the Jews increases rather than lessens the authority of the books, for this blindness is itself foretold.
+
+[1:2178] They testify to the truth by their not understanding it.
+
+[1:2179] By not understanding the books which predict that they would not understand, they prove these books to be true.
+
+[1:2180] 22.
+
+[1:2181] In the passage, "Thou shalt see thy life hanging, and shalt not believe thy life,"  Faustus is deceived by the ambiguity of the words.
+
+[1:2182] The words may be differently interpreted; but that they cannot be understood of Christ is not said by Faustus, nor can be said by anyone who does not deny that Christ is life, or that He was seen by the Jews hanging on the cross, or that they did not believe Him.
+
+[1:2183] Since Christ Himself says, "I am the life,"  and since there is no doubt that He was seen hanging by the unbelieving Jews, I see no reason for doubting that this was written of Christ; for, as Christ says, Moses wrote of Him.
+
+[1:2184] Since we have already refuted Faustus' arguments by which he tries to show that the words, "I will raise up from among their brethren a prophet like unto thee," do not apply to Christ, because Christ is not like Moses, we need not insist on this other prophecy.
+
+[1:2185] Since, in the one case, his argument is that Christ is unlike Moses, so here he ought to argue that Christ is not the life, or that He was not seen hanging by the unbelieving Jews.
+
+[1:2186] But as he has not said this, and as no one will now venture.
+
+[2:1] to say so, there should be no difficulty in accepting this too as a prophecy of our Lord and Saviour Jesus Christ, uttered by His servant.
+
+[2:2] These words, says Faustus, occur in a chapter of curses.
+
+[2:3] But why should it be the less a prophecy because it occurs in the midst of prophecies? Or why should it not be a prophecy of Christ, although the context does not seem to refer to Christ? Indeed, among all the curses which the Jews brought on themselves by their sinful pride, nothing could be worse than this, that they should see their Life—that is, the Son of God —hanging, and should not believe their Life.
+
+[2:4] For the curses of prophecy are not hostile imprecations, but announcements of coming judgment.
+
+[2:5] Hostile imprecations are forbidden, for it is said, "Bless, and curse not".
+
+[2:6] But prophetic announcements are often found in the writings of the saints, as when the Apostle Paul says: "Alexander the coppersmith has done me much evil; the Lord shall reward him according to his works".
+
+[2:7] So it might be thought that the apostle was prompted by angry feeling to utter this imprecation: "I would that they were even made eunuchs that trouble you".
+
+[2:8] But if we remember who the writer is, we may see in this ambiguous expression an ingenious style of benediction.
+
+[2:9] For there are eunuchs which have made themselves eunuchs for the kingdom of heaven's sake.
+
+[2:10] If Faustus had a pious appetite for Christian food, he would have found a similar ambiguity in the words of Moses.
+
+[2:11] By the Jews the declaration, "Thou shalt see thy life hanging, and shalt not believe thy life," may have been understood to mean that they would see their life to be in danger from the threats and plots of their enemies, and would not expect to live.
+
+[2:12] But the child of the Gospel, who has heard Christ say, "He wrote of me," distinguishes in the ambiguity of the prophecy between what is thrown to swine and what is addressed to man.
+
+[2:13] To his mind the thought immediately suggests itself of Christ hanging as the life of man, and of the Jews not believing in Him for this very reason, that they saw Him hanging.
+
+[2:14] As to the objection that these words, "Thou shalt see thy life hanging, and shalt not believe thy life," are the only words referring to Christ in a passage containing maledictions not applicable to Christ, some might grant that this is true.
+
+[2:15] For this prophecy might very well occur among the curses pronounced by the prophet upon the ungodly people, for these curses are of different kinds.
+
+[2:16] But I, and those who with me consider more closely the saying of the Lord in His Gospel, which is not, He wrote also of me, as admitting that Moses wrote other things not referring to Christ, but, "He wrote of me," as teaching that in searching the Scriptures we should view them as intended solely to illustrate the grace of Christ, see a reference to Christ in the rest of the passage also.
+
+[2:17] But it would take too much time to explain this here.
+
+[2:18] 23.
+
+[2:19] So far from these words of Faustus' quotation being proved not to refer to Christ by their occurring among the other curses, these curses cannot be rightly understood except as prophecies of the glory of Christ, in which lies the happiness of man.
+
+[2:20] And what is true of these curses is still more true of this quotation.
+
+[2:21] If it could be said of Moses that his words have a different meaning from what was in his mind, I would rather suppose him to have prophesied without knowing it, than allow that the words, "Thou shalt see thy life hanging, and shalt not believe thy life," are not applicable to Christ.
+
+[2:22] So the words of Caiaphas had a different meaning from what he intended, when, in his hostility to Christ, he said that it was expedient that one man should die for the people, and that the whole nation should not perish, where the Evangelist added that he said this not of himself, but, since he was high priest, he prophesied.
+
+[2:23] But Moses was not Caiaphas; and therefore when Moses said to the Hebrew people, "Thou shalt see thy life hanging, and shalt not believe thy life," he not only spoke of Christ, as he certainly did, even though he spoke without knowing the meaning of what he said, but he knew that he spoke of Christ.
+
+[2:24] For he was a most faithful steward of the prophetic mystery, that is, of the priestly unction which gives the knowledge of the name of Christ; and in this mystery even Caiaphas, wicked as he was, was able to prophesy without knowing it.
+
+[2:25] The prophetic unction enabled him to prophesy, though his wicked life prevented him from knowing it.
+
+[2:26] Who then can say that there are no prophecies of Christ in Moses, with whom began that unction to which we owe the knowledge of Christ's name, and by which even Caiaphas, the persecutor of Christ, prophesied of Christ without knowing it?  24.
+
+[2:27] We have already said as much as appeared desirable of the curse pronounced on every one that hangs on a tree.
+
+[2:28] Enough has been said to show that the command to kill any prophet or prince who tried to turn away the children of Israel from their God, or to break any commandment, is not directed against Christ.
+
+[2:29] The more we consider the words and actions of our Lord Jesus Christ, the more clearly will this appear; for Christ never tried to turn away any of the Israelites from their God.
+
+[2:30] The God whom Moses taught the people to love and serve, is the God of Abraham, of Isaac, and of Jacob, whom the Lord Jesus Christ speaks of by this name, using the name in refutation of the Sadducees, who denied the resurrection of the dead.
+
+[2:31] He says, "Of the resurrection of the dead, have ye not read what God said from the bush to Moses, I am the God of Abraham, the God of Isaac, and the God of Jacob? God is not the God of the dead, but of the living; for all live unto Him".
+
+[2:32] In the same words with which Christ answered the Sadducees we may answer the Manich aeans, for they too deny the resurrection, though in a different way.
+
+[2:33] Again, when Christ said, in praise of the centurion's faith, "Verily I say unto you, I have not found so great faith, no, not in Israel," He added, "And I say unto you, that many shall come from the east and from the west, and shall sit down with Abraham, and Isaac, and Jacob, in the kingdom of heaven; but the children of the kingdom shall go into outer darkness".
+
+[2:34] If, then, as Faustus must admit, the God of whom Moses spoke was the God of Abraham, and Isaac, and Jacob, of whom Christ also spoke, as these passages prove, it follows that Christ did not try to turn away the people from their God.
+
+[2:35] On the contrary, He warned them that they would go into outer darkness, because He saw that they were turned away from their God, in whose kingdom He says the Gentiles called from the whole world will sit down with Abraham, and Isaac, and Jacob; implying that they would believe in the God of Abraham, and of Isaac, and of Jacob.
+
+[2:36] So the apostle also says: "The Scripture, foreseeing that God would justify the Gentiles by faith, preached the gospel beforehand to Abraham, saying, In thy seed shall all nations be blessed".
+
+[2:37] It is implied that those who are blessed in the seed of Abraham shall imitate the faith of Abraham.
+
+[2:38] Christ, then, did not try to turn away the Israelites from their God, but rather charged them with being turned away.
+
+[2:39] The idea that Christ broke one of the commandments given by Moses is not a new one, for the Jews thought so; but it is a mistake, for the Jews were in the wrong.
+
+[2:40] Let Faustus mention the commandment which he supposes the Lord to have broken, and we will point out his mistake, as we have done already, when it was required.
+
+[2:41] Meanwhile it is enough to say, that if the Lord had broken any commandment, He could not have found fault with the Jews for doing so.
+
+[2:42] For when the Jews blamed His disciples for eating with unwashen hands, in which they transgressed not a commandment of God, but the traditions of the elders, Christ said, "Why do ye also transgress the commandment of God, that ye may observe your traditions?" He then quotes a commandment of God, which we know to have been given by Moses.
+
+[2:43] "For God said," He adds, "Honor thy father and mother, and he that curseth father or mother shall die the death.
+
+[2:44] But ye say, Whoever shall say to his father or mother, It is a gift, by whatsoever thou mightest be profited by me, is not obliged to honor his father.
+
+[2:45] So ye make the word of God of none effect by your traditions".
+
+[2:46] From this several things maybe learned: that Christ did not turn away the Jews from their God; that He not only did not Himself break God's commandments, but found fault with those who did so; and that it was God Himself who gave these commandments by Moses.
+
+[2:47] 25.
+
+[2:48] In fulfillment of our promise that we would prove the reference to Christ in those passages selected by Faustus from the writings of Moses for adverse criticism, since we cannot here point out the reference to Christ which we believe to exist in all the writings of Moses, it becomes our duty to show that this commandment of Moses, that every prophet or prince should be killed who tried to turn away the people from their God, or to break any commandment, refers to the preservation of the faith which is taught in the Church of Christ.
+
+[2:49] Moses no doubt knew in the spirit of prophecy, and from what he himself heard from God, that many heretics would arise to teach errors of all kinds against the doctrine of Christ, and to preach another Christ than the true Christ.
+
+[2:50] For the true Christ is He that was foretold in the prophecies uttered by Moses himself, and by the other holy men of that nation.
+
+[2:51] Moses accordingly commanded that whoever tried to teach another Christ should be put to death.
+
+[2:52] In obedience to this command, the voice of the Catholic Church, as with the spiritual two-edged sword of both Testaments, puts to death all who try to turn us away from our God, or to break any of the commandments.
+
+[2:53] And chief among these is Manich aeus himself; for the truth of the law and the prophets convinces him of error as trying to turn us away from our God, the God of Abraham, and Isaac, and Jacob, whom Christ acknowledges, and as trying to break the commandments of the law, which, even when they are only figurative, we regard as prophetic of Christ.
+
+[2:54] 26.
+
+[2:55] Faustus uses an argument which is either very deceitful or very stupid.
+
+[2:56] And as Faustus is not stupid, it is probable that he used the argument intentionally, with the design of misleading the careless reader.
+
+[2:57] He says: If these things are not written of Christ, and if you cannot show any others, it follows that there are none at all.
+
+[2:58] The proposition is true; but it remains to be proved, both that these things are not written of Christ, and that no other can be shown.
+
+[2:59] Faustus has not proved this; for we have shown both how these things are to be understood of Christ, and that there are many other things which have no meaning but as applied to Christ.
+
+[2:60] So it does not follow, as Faustus says, that nothing was written by Moses of Christ.
+
+[2:61] Let us repeat Faustus' argument: If these things are not written of Christ, and if you cannot show any others, it follows that there are none at all.
+
+[2:62] Perfectly so.
+
+[2:63] But as both these things and many others have been shown to be written of Christ, or with reference to Christ, the true conclusion is that Faustus' argument is worthless.
+
+[2:64] In the passages quoted by Faustus, he has tried, though without success, to show that they were not written of Christ.
+
+[2:65] But in order to draw the conclusion that there are none at all, he should first have proved that no others can be shown.
+
+[2:66] Instead of this, he takes for granted that the readers of his book will be blind, or the hearers deaf, so that the omission will be overlooked, and runs on thus: If there are none, Christ could not have asserted that there were any.
+
+[2:67] And if Christ did not make this assertion, it follows that this verse is spurious.
+
+[2:68] Here is a man who thinks so much of what he says himself, that he does not consider the possibility of another person saying the opposite.
+
+[2:69] Where is your wit? Is this all you could say for a bad cause? But if the badness of the cause made you utter folly, the bad cause was your own choice.
+
+[2:70] To prove your antecedent false, we have only to show some other things written of Christ.
+
+[2:71] If there are some, it will not be true that there are none.
+
+[2:72] And if there are some, Christ may have asserted that there were.
+
+[2:73] And if Christ may have asserted this, it follows that this verse of the Gospel is not spurious.
+
+[2:74] Coming back, then, to Faustus' proposition, If you cannot show any other, it follows that there are none at all, it requires to be proved that we cannot show any other.
+
+[2:75] We need only refer to what we showed before, as sufficient to prove the truth of the text in the Gospel, in which Christ says, "If ye believed Moses, ye would also believe me; for he wrote of me".
+
+[2:76] And even though from dullness of mind we could find nothing written of Christ by Moses, still, so strong is the evidence in support of the authority of the Gospel, that it would be incumbent on us to believe that not only some things, but everything written by Moses, refers to Christ; for He says not, He wrote also of me, but, He wrote of me.
+
+[2:77] The truth then is this, that even though there were doubts, which God forbid, of the genuineness of this verse, the doubt would be removed by the number of testimonies to Christ which we find in Moses; while, on the other hand, even if we could find none, we should still be bound to believe that these are to be found, because no doubts can be admitted regarding any verse in the Gospel.
+
+[2:78] 27.
+
+[2:79] As to your argument that the doctrine of Moses was unlike that of Christ, and that therefore it was improbable that if they believed Moses, they would believe Christ too; and that it would rather follow that their belief in one would imply of necessity opposition to the other,—you could not have said this if you had turned your mind's eye for a moment to see men all the world over, when they are not blinded by a contentious spirit, learned and unlearned, Greek and barbarian, wise and unwise, to whom the apostle called himself a debtor,  believing in both Christ and Moses.
+
+[2:80] If it was improbable that the Jews would believe both Christ and Moses, it is still more improbable that all the world would do so.
+
+[2:81] But as we see all nations believing both, and in a common and well-grounded faith holding the agreement of the prophecy of the one with the gospel of the other, it was no impossible thing to which this one nation was called, when Christ said to them, "If ye believed Moses, ye would also believe me".
+
+[2:82] Rather we should be amazed at the guilty obstinacy of the Jews, who refused to do what we see the whole world has done.
+
+[2:83] 28.
+
+[2:84] Regarding the Sabbath and circumcision, and the distinction in foods, in which you say the teaching of Moses differs from what Christians are taught by Christ, we have already shown that, as the apostle says, "all those things were our examples".
+
+[2:85] The difference is not in the doctrine, but in the time.
+
+[2:86] There was a time when it was proper that these things should be figuratively predicted; and there is now a different time when it is proper that they should be openly declared and fully accomplished.
+
+[2:87] It is not surprising that the Jews, who understood the Sabbath in a carnal sense, should oppose Christ, who began to open up its spiritual meaning.
+
+[2:88] Reply, if you can, to the apostle, who declares that the rest of the Sabbath was a shadow of something future.
+
+[2:89] If the Jews opposed Christ because they did not understand what the true Sabbath is, there is no reason why you should oppose Him, or refuse to learn what true innocence is.
+
+[2:90] For on that occasion when Jesus appears especially to set aside the Sabbath, when His disciples were hungry, and pulled the ears of corn through which they were passing, and ate them, Jesus, in replying to the Jews, declared His disciples to be innocent.
+
+[2:91] "If you knew," He said "what this meaneth, I will have mercy, and not sacrifice, you would not have condemned the innocent".
+
+[2:92] They should rather have pitied the wants of the disciples, for hunger forced them to do what they did.
+
+[2:93] But pulling ears of corn, which is innocence in the teaching of Christ, is murder in the teaching of Manich aeus.
+
+[2:94] Or was it an act of charity in the apostles to pull the ears of corn, that they might in eating set free the members of God, as in your foolish notions? Then it must be cruelty in you not to do the same.
+
+[2:95] Faustus' reason for setting aside the Sabbath is because he knows that God's power is exercised without cessation, and without weariness.
+
+[2:96] It is for those to say this, who believe that all times are the production of an eternal act of God's will.
+
+[2:97] But you will find it difficult to reconcile this with your doctrine, that the rebellion of the race of darkness broke your god's rest, which was also disturbed by a sudden attack of the enemy; or perhaps God never had rest, as he foresaw this from eternity, and could not feel at ease in the prospect of so dire a conflict, with such loss and disaster to his members.
+
+[2:98] 29.
+
+[2:99] Unless Christ had considered this Sabbath—which in your want of knowledge and of piety you laugh at—one of the prophecies written of Himself, He would not have borne such a testimony to it as He did.
+
+[2:100] For when, as you say in praise of Christ, He suffered voluntarily, and so could choose His own time for suffering and for resurrection, He brought it about that His body rested from all its works on Sabbath in the tomb, and that His resurrection on the third day, which we call the Lord's day, the day after the Sabbath, and therefore the eighth, proved the circumcision of the eighth day to be also prophetical of Him.
+
+[2:101] For what does circumcision mean, but the eradication of the mortality which comes from our carnal generation? So the apostle says: "Putting off from Himself His flesh, He made a show of principalities and powers, triumphing over them in Himself".
+
+[2:102] The flesh here said to be put off is that mortality of flesh on account of which the body is properly called flesh.
+
+[2:103] The flesh is the mortality, for in the immortality of the resurrection there will be no flesh; as it is written, "Flesh and blood shall not inherit the kingdom of God".
+
+[2:104] You are accustomed to argue from these words against our faith in the doctrine of the resurrection of the body, which has already taken place in the Lord Himself.
+
+[2:105] You keep out of view the following words, in which the apostle explains his meaning.
+
+[2:106] To show what he here means by flesh, he adds, "Neither shall corruption inherit incorruption".
+
+[2:107] For this body, which from its mortality is properly called flesh, is changed in the resurrection, so as to be no longer corruptible and mortal.
+
+[2:108] This is the apostle's statement, and not a supposition of ours, as his next words prove.
+
+[2:109] "Lo" he says, "I show you a mystery: we shall all rise again, but we shall not all be changed.
+
+[2:110] In a moment, in the twinkling of an eye, at the last trump; for the last trumpet shall sound, and the dead shall rise incorruptible, and we shall be changed.
+
+[2:111] For this corruptible must put on incorruption, and this mortal must put on immortality".
+
+[2:112] To put on immortality, the body puts off mortality.
+
+[2:113] This is the mystery of circumcision, which by the law took place on the eighth day; and on the eighth day, the Lord's day, the day after the Sabbath, was fulfilled in its true meaning by the Lord.
+
+[2:114] Hence it is said, "Putting off His flesh, He made a show of principalities and powers".
+
+[2:115] For by means of this mortality the hostile powers of hell ruled over us.
+
+[2:116] Christ is said to have made a show or example of these, because in Himself, our Head, He gave an example which will be fully realized in the liberation of His whole body, the Church, from the power of the devil at the last resurrection.
+
+[2:117] This is our faith.
+
+[2:118] And according to the prophetic declaration quoted by Paul, "The just shall live by faith".
+
+[2:119] This is our justification.
+
+[2:120] Even Pagans believe that Christ died.
+
+[2:121] But only Christians believe that Christ rose again.
+
+[2:122] "If thou confess with thy mouth," says the apostle, "that Jesus is the Lord, and believest in thy heart that God raised Him from the dead, thou shalt be saved".
+
+[2:123] Again, because we are justified by faith in Christ's resurrection, the apostle says, "He died for our offenses, and rose again for our justification".
+
+[2:124] And because this resurrection by faith in which we are justified was prefigured by the circumcision of the eighth day, the apostle says of Abraham, with whom the observance began, "He received the sign of circumcision, a seal of the righteousness of faith".
+
+[2:125] Circumcision, then, is one of the prophecies of Christ, written by Moses, of whom Christ said, "He wrote of me".
+
+[2:126] In the words of the Lord, "Woe unto you, scribes and Pharisees, hypocrites! for ye compass sea and land to make one proselyte; and when he is made, ye make him twofold more the child of hell than yourselves,"  it is not the circumcision of the proselyte which is meant, but his imitation of the conduct of the scribes and Pharisees, which the Lord forbids His disciples to imitate, when He says: "The scribes and Pharisees sit on Moses' seat: what they say unto you, do; but do not after their works; for they say, and do not".
+
+[2:127] These words of the Lord teach us both the honor due to the teaching of Moses, in whose seat even bad men were obliged to teach good things, and the reason of the proselyte becoming a child of hell, which was not that he heard from the Pharisees the words of the law, but that he copied their example.
+
+[2:128] Such a circumcised proselyte might have been addressed in the words of Paul: "Circumcision verily profiteth, if thou keep the law".
+
+[2:129] His imitation of the Pharisees in not keeping the law made him a child of hell.
+
+[2:130] And he was twofold more than they, probably because of his neglecting to fulfill what he voluntarily undertook, when, not being born a Jew, he chose to become a Jew.
+
+[2:131] 30.
+
+[2:132] Your scoff is very inappropriate, when you say that Moses discusses like a glutton what should be eaten, and commands some things to be freely used as clean, and other things as unclean to be not even touched.
+
+[2:133] A glutton makes no distinction, except in choosing the sweetest food.
+
+[2:134] Perhaps you wish to commend to the admiration of the uninitiated the innocence of your abstemious habits, by appearing not to know, or to have forgotten, that swine's flesh tastes better than mutton.
+
+[2:135] But as this too was written by Moses of Christ in figurative prophecy, in which the flesh of animals signifies those who are to be united to the body of Christ, which is the Church, or who are to be cast out, you are typified by the unclean animals; for your disagreement with the Catholic faith shows that you do not ruminate on the word of wisdom, and that you do not divide the hoof, in the sense of making a correct distinction between the Old Testament and the New.
+
+[2:136] But you show still more audacity in adopting the erroneous opinions of your Adimantus.
+
+[2:137] 31.
+
+[2:138] You follow Adimantus in saying that Christ made no distinction in food, except in entirely prohibiting the use of animal food to His disciples, while He allowed the laity to eat anything that is eatable; and declared that they were not polluted by what enters into the mouth, but that the unseemly things which come out of the mouth are the things which defile a man.
+
+[2:139] These words of yours are unseemly indeed, for they express notorious falsehood.
+
+[2:140] If Christ taught that the evil things which come out of the mouth are the only things that defile a man, why should they not be the only things to defile His disciples, so as to make it unnecessary that any food should be forbidden or unclean? Is it only the laity that are not polluted by what goes into the mouth, but by what comes out of it? In that case, they are better protected from impurity than the saints, who are polluted both by what goes in and by what comes out.
+
+[2:141] But as Christ, comparing Himself with John, who came neither eating nor drinking, says that He came eating and drinking, I should like to know what He ate and drank.
+
+[2:142] When exposing the perversity which found fault with both, He says: "John came neither eating nor drinking; and ye say, He hath a devil.
+
+[2:143] The Son of man cometh eating and drinking; and ye say, Behold a glutton and a wine-bibber, a friend of publicans and sinners".
+
+[2:144] We know what John ate and drank.
+
+[2:145] For it is not said that he drank nothing, but that he drank no wine or strong drink; so he must have drunk water.
+
+[2:146] He did not live without food, but his food was locusts and wild honey.
+
+[2:147] When Christ says that John did not eat or drink, He means that he did not use the food which the Jews used.
+
+[2:148] And because the Lord used this food, He is spoken of, in contrast with John, as eating and drinking.
+
+[2:149] Will it be said that it was bread and vegetables which the Lord ate, and which John did not eat? It would be strange if one was said not to eat, because he used locusts and honey, while the other is said to eat simply because he used bread and vegetables.
+
+[2:150] But whatever may be thought of the eating, certainly no one could be called a wine-bibber unless he used wine.
+
+[2:151] Why then do you call wine unclean? It is not in order to subdue the body by abstinence that you prohibit these things, but because they are unclean, for you say that they are the poisonous filth of the race of darkness; whereas the apostle says, "To the pure all things are pure".
+
+[2:152] Christ, according to this doctrine, taught that all food was alike, but forbade His disciples to use what the Manich aeans call unclean.
+
+[2:153] Where do you find this prohibition? You are not afraid to deceive men by falsehood; but in God's righteous providence, you are so blinded that you provide us with the means of refuting you.
+
+[2:154] For I cannot resist quoting for examination the whole of that passage of the Gospel which Faustus uses against Moses; that we may see from it the falsehood of what was said first by Adimantus, and here by Faustus, that the Lord Jesus forbade the use of animal food to His disciples, and allowed it to the laity.
+
+[2:155] After Christ's reply to the accusation that His disciples ate with unwashen hands, we read in the Gospel as follows: "And He called the multitude, and said unto them, Hear and understand.
+
+[2:156] Not that which goeth into the mouth defileth a man: but that which cometh out of the mouth, this defileth a man.
+
+[2:157] Then came His disciples, and said unto Him, Knowest Thou that the Pharisees were offended after they heard this saying?" Here, when addressed by His disciples, He ought certainly, according to the Manich aeans, to have given them special instructions to abstain from animal food, and to show that His words, "Not that which goeth into the mouth defileth a man, but that which goeth out of the mouth," applied to the multitude only.
+
+[2:158] Let us hear, then, what, according to the evangelist, the Lord replied, not to the multitude, but to His disciples: "But He answered and said, Every plant which my heavenly Father hath not planted shall be rooted up.
+
+[2:159] Let them alone: they be blind leaders of the blind.
+
+[2:160] And if the blind lead the blind, both shall fall into the ditch".
+
+[2:161] The reason of this was, that in their desire to observe their own traditions, they did not understand the commandments of God.
+
+[2:162] As yet the disciples had not asked the Master how they were to understand what He had said to the multitude.
+
+[2:163] But now they do so; for the evangelist adds: "Then answered Peter and said unto Him, Declare unto us this parable".
+
+[2:164] This shows that Peter thought that when the Lord said, "Not that which goeth into the mouth defileth a man, but that which goeth out of the mouth," He did not speak plainly and literally, but, as usual, wished to convey some instruction under the guise of a parable.
+
+[2:165] When His disciples, then, put this question in private, does He tell them, as the Manich aeans say, that all animal food is unclean, and that they must never touch it? Instead of this, He rebukes them for not understanding His plain language, and for thinking it a parable when it was not.
+
+[2:166] We read: "And Jesus said, Are ye also yet without understanding? Do not ye yet understand, that whatsoever entereth in at the mouth goeth into the belly, and is cast out into the drought? But those things which proceed out of the mouth come forth from the heart, and they defile the man.
+
+[2:167] For out of the heart proceed evil thoughts, murders, adulteries, fornications, thefts, false witness, blasphemies.
+
+[2:168] These are the things which defile a man: but to eat with unwashen hands defileth not a man".
+
+[2:169] 32.
+
+[2:170] Here we have a complete exposure of the falsehood of the Manich aeans: for it is plain that the Lord did not in this matter teach one thing to the multitude, and another in private to His disciples.
+
+[2:171] Here is abundant evidence that the error and deceit are in the Manich aeans, and not in Moses, nor in Christ, nor in the doctrine taught figuratively in one Testament and plainly in the other,—prophesied in one, and fulfilled in the other.
+
+[2:172] How can the Manich aeans say that the Catholics regard none of the things that Moses wrote, when in fact they observe them all, not now in the figures, but in what the figures were intended to foretell? No one would say that one who reads the Scripture subsequently to its being written does not observe it because he does not form the letters which he reads.
+
+[2:173] The letters are the figures of the sounds which he utters; and though he does not form the letters, he cannot read without examining them.
+
+[2:174] The reason why the Jews did not believe in Christ, was because they did not observe even the plain literal precepts of Moses.
+
+[2:175] So Christ says to them: "Ye pay tithe of mint and cummin, and omit the weightier matters of the law, mercy and judgment.
+
+[2:176] Ye strain out a gnat and swallow a camel.
+
+[2:177] These ought ye to have done, and not to leave the other undone".
+
+[2:178] So also He told them that by their traditions they made of none effect the commandment of God to give honor to parents.
+
+[2:179] On account of this pride and perversity in neglecting what they understood, they were justly blinded, so that they could not understand the other things.
+
+[2:180] 33.
+
+[2:181] You see, my argument is not that if you are a Christian you must believe Christ when He says that Moses wrote of Him, and that if you do not believe this you are no Christian.
+
+[2:182] The account you give of yourself in asking to be dealt with as a Jew or a Gentile is your own affair.
+
+[2:183] My endeavor is to leave no avenue of error open to you.
+
+[2:184] I have shut you out, too, from that precipice to which you rush as a last resort, when you say that these are spurious passages in the Gospel; so that, freed from the pernicious influence of this opinion, you may be reduced to the necessity of believing in Christ.
+
+[2:185] You say you wish to be taught like the Christian Thomas, whom Christ did not spurn from Him because he doubted of Him, but, in order to heal the wounds of his mind, showed him the marks of the wounds in His own body.
+
+[2:186] These are your own words.
+
+[2:187] It is well that you desire to be taught as Thomas was.
+
+[2:188] I feared you would make out this passage too to be spurious.
+
+[2:189] Believe, then, the marks of Christ's wounds.
+
+[2:190] For if the marks were real, the wounds must have been real.
+
+[2:191] And the wounds could not have been real, unless His body had been capable of real wounds; which upsets at once the whole error of the Manich aeans.
+
+[2:192] If you say that the marks were unreal which Christ showed to His doubting disciple, it follows that He must be a deceitful teacher, and that you wish to be deceived in being taught by Him.
+
+[2:193] But as no one wishes to be deceived, while many wish to deceive, it is probable that you would rather imitate the teaching which you ascribe to Christ than the learning you ascribe to Thomas.
+
+[2:194] If, then, you believe that Christ deceived a doubting inquirer by false marks of wounds, you must yourself be regarded, not as a safe teacher, but as a dangerous impostor.
+
+[2:195] On the other hand, if Thomas touched the real marks of Christ's wounds, you must confess that Christ had a real body.
+
+[2:196] So, if you believe as Thomas did, you are no more a Manich aean.
+
+[2:197] If you do not believe even with Thomas, you must be left to your infidelity.
+
+[2:198]              Book XVII.
+
+[2:199] Faustus rejects Christ's declaration that He came not to destroy the law and the prophets but to fulfill them, on the ground that it is found only in Matthew, who was not present when the words purport to have been spoken.
+
+[2:200] Augustin rebukes the folly of refusing to believe Matthew and yet believing Manich aeus, and shows what the passage of scripture really means.
+
+[2:201] 1.
+
+[2:202] Faustus said: You ask why we do not receive the law and the prophets, when Christ said that he came not to destroy them, but to fulfill them.
+
+[2:203] Where do we learn that Jesus said this? From Matthew, who declares that he said it on the mount.
+
+[2:204] In whose presence was it said? In the presence of Peter, Andrew, James, and John—only these four; for the rest, including Matthew himself, were not yet chosen.
+
+[2:205] Is it not the case that one of these four—John, namely—wrote a Gospel? It is.
+
+[2:206] Does he mention this saying of Jesus? No.
+
+[2:207] How, then, does it happen that what is not recorded by John, who was on the mount, is recorded by Matthew, who became a follower of Christ long after He came down from the mount? In the first place, then, we must doubt whether Jesus ever said these words, since the proper witness is silent on the matter, and we have only the authority of a less trustworthy witness.
+
+[2:208] But, besides this, we shall find that it is not Matthew that has imposed upon us, but some one else under his name, as is evident from the indirect style of the narrative.
+
+[2:209] Thus we read: "As Jesus passed by, He saw a man, named Matthew, sitting at the receipt of custom, and called him; and he immediately rose up, and followed Him".
+
+[2:210] No one writing of himself would say, He saw a man, and called him; and he followed Him; but, He saw me, and called me, and I followed Him.
+
+[2:211] Evidently this was written not by Matthew himself, but by some one else under his name.
+
+[2:212] Since, then, the passage already quoted would not be true even if it had been written by Matthew, since he was not present when Jesus spoke on the mount; much more is its falsehood evident from the fact that the writer was not Matthew himself, but some one borrowing the names both of Jesus and of Matthew.
+
+[2:213] 2.
+
+[2:214] The passage itself, in which Christ tells the Jews not to think that He came to destroy the law, is rather designed to show that He did destroy it.
+
+[2:215] For, had He not done something of the kind, the Jews would not have suspected Him.
+
+[2:216] His words are: "Think not that I am come to destroy the law".
+
+[2:217] Suppose the Jews had replied, What actions of thine might lead us to suspect this? Is it because thou exposest circumcision, breakest the Sabbath, discardest sacrifices, makest no distinction in foods? this would be the natural answer to the words, Think not.
+
+[2:218] The Jews had the best possible reason for thinking that Jesus destroyed the law.
+
+[2:219] If this was not to destroy the law, what is? But, indeed, the law and the prophets consider themselves already so faultlessly perfect, that they have no desire to be fulfilled.
+
+[2:220] Their author and father condemns adding to them as much as taking away anything from them; as we read in Deuteronomy: "These precepts which I deliver unto thee this day, O Israel, thou shalt observe to do; thou shalt not turn aside from them to the right hand or to the left; thou shalt not add thereto nor diminish from it, that thy God may bless thee".
+
+[2:221] Whether, therefore, Jesus turned aside to the right by adding to the law and the prophets in order to fulfill them, or to the left in taking away from them to destroy them, either way he offended the author of the law.
+
+[2:222] So this verse must either have some other meaning, or be spurious.
+
+[2:223] 3.
+
+[2:224] Augustin replied: What amazing folly, to disbelieve what Matthew records of Christ, while you believe Manich aeus! If Matthew is not to be believed because he was not present when Christ said, "I came not to destroy the law and the prophets, but to fulfill," was Manich aeus present, was he even born, when Christ appeared among men? According, then, to your rule, you should not believe anything that Manich aeus says of Christ.
+
+[2:225] On the other hand, we refuse to believe what Manich aeus says of Christ; not because he was not present as a witness of Christ's words and actions, but because he contradicts Christ's disciples, and the Gospel which rests on their authority.
+
+[2:226] The apostle, speaking in the Holy Spirit, tells us that such teachers would arise.
+
+[2:227] With reference to such, he says to believers: "If any man preaches to you another gospel than that ye have received, let him be accursed".
+
+[2:228] If no one can say what is true of Christ unless he has himself seen and heard Him, no one now can be trusted.
+
+[2:229] But if believers can now say what is true of Christ because the truth has been handed down in word or writing by those who saw and heard, why might not Matthew have heard the truth from his fellow-disciple John, if John was present and he himself was not, as from the writings of John both we who are born so long after and those who shall be born after us can learn the truth about Christ? In this way, the Gospels of Luke and Mark, who were companions of the disciples, as well as the Gospel of Matthew, have the same authority as that of John.
+
+[2:230] Besides, the Lord Himself might have told Matthew what those called before him had already been witnesses of.
+
+[2:231] Your idea is, that John should have recorded this saying of the Lord, as he was present on the occasion.
+
+[2:232] As if it might not happen that, since it was impossible to write all that be heard from the Lord, he set himself to write some, omitting this among others.
+
+[2:233] Does he not say at the close of his Gospel: "And there are also many other things which Jesus did, the which, if they should be written every one, I suppose that even the world itself could not contain the books that should be written"?  This proves that he omitted many things intentionally.
+
+[2:234] But if you choose John as an authority regarding the law and the prophets, I ask you only to believe his testimony to them.
+
+[2:235] It is John who writes that Isaiah saw the glory of Christ.
+
+[2:236] It is in his Gospel we find the text already treated of: "If ye believed Moses, ye would also believe me; for he wrote of me".
+
+[2:237] Your evasions are met on every side.
+
+[2:238] You ought to say plainly that you do not believe the gospel of Christ.
+
+[2:239] For to believe what you please, and not to believe what you please, is to believe yourselves, and not the gospel.
+
+[2:240] 4.
+
+[2:241] Faustus thinks himself wonderfully clever in proving that Matthew was not the writer of this Gospel, because, when speaking of his own election, he says not, He saw me, and said to me, Follow me; but, He saw him, and said to him, Follow me.
+
+[2:242] This must have been said either in ignorance or from a design to mislead.
+
+[2:243] Faustus can hardly be so ignorant as not to have read or heard that narrators, when speaking of themselves, often use a construction as if speaking of another.
+
+[2:244] It is more probable that Faustus wished to bewilder those more ignorant than himself, in the hope of getting hold on not a few unacquainted with these things.
+
+[2:245] It is needless to resort to other writings to quote examples of this construction from profane authors for the information of our friends, and for the refutation of Faustus.
+
+[2:246] We find examples in passages quoted above from Moses by Faustus himself, without any denial, or rather with the assertion, that they were written by Moses, only not written of Christ.
+
+[2:247] When Moses, then, writes of himself, does he say, I said this, or I did that, and not rather, Moses said, and Moses did? Or does he say, The Lord called me, The Lord said to me, and not rather, The Lord called Moses, The Lord said to Moses, and so on? So Matthew, too, speaks of himself in the third person.
+
+[2:248] And John does the same; for towards the end of his book he says: "Peter, turning, saw the disciple whom Jesus loved, who also lay on His breast at supper, and who said to the Lord, Who is it that shall betray Thee?" Does he say, Peter, turning, saw me? Or will you argue from this that John did not write this Gospel? But he adds a little after: "This is the disciple that testifies of Jesus, and has written these things; and we know that his testimony is true".
+
+[2:249] Does he say, I am the disciple who testify of Jesus, and who have written these things, and we know that my testimony is true? Evidently this style is common in writers of narratives.
+
+[2:250] There are innumerable instances in which the Lord Himself uses it.
+
+[2:251] "When the Son of man," He says, "cometh, shall He find faith on the earth?"  Not, When I come, shall I find? Again, "The Son of man came eating and drinking;"  not, I came.
+
+[2:252] Again, "The hour shall come, and now is, when the dead shall hear the voice of the Son of God, and they that hear shall live;"  not, My voice.
+
+[2:253] And so in many other places.
+
+[2:254] This may suffice to satisfy inquirers and to refute scoffers.
+
+[2:255] 5.
+
+[2:256] Every one can see the weakness of the argument that Christ could not have said, "Think not that I am come to destroy the law and the prophets: I came not to destroy, but to fulfill," unless He had done something to create a suspicion of this kind.
+
+[2:257] Of course, we grant that the unenlightened Jews may have looked upon Christ as the destroyer of the law and the prophets; but their very suspicion makes it certain that the true and truthful One, in saying that He came not to destroy the law and the prophets, referred to no other law than that of the Jews.
+
+[2:258] This is proved by the words that follow: "Verily, verily, I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law till all be fulfilled.
+
+[2:259] Whosoever therefore shall break one of the least of these commandments, and shall teach men so, shall be called the least in the kingdom of heaven.
+
+[2:260] But whosoever shall do and teach them, shall be called great in the kingdom of heaven".
+
+[2:261] This applied to the Pharisees, who taught the law in word, while they broke it in deed.
+
+[2:262] Christ says of the Pharisees in another place, "What they say, that do; but do not after their works: for they say, and do not".
+
+[2:263] So here also He adds, "For I say unto you, Except your righteousness exceed the righteousness of the scribes and Pharisees, ye shall not enter into the kingdom of heaven;"  that is, Unless ye shall both do and teach what they teach without doing, ye shall not enter into the kingdom of heaven.
+
+[2:264] This law, therefore, which the Pharisees taught without keeping it, Christ says He came not to destroy, but to fulfill; for this was the law connected with the seat of Moses in which the Pharisees sat, who because they said without doing, are to be heard, but not to be imitated.
+
+[2:265] 6.
+
+[2:266] Faustus does not understand, or pretends not to understand, what it is to fulfill the law.
+
+[2:267] He supposes the expression to mean the addition of words to the law, regarding which it is written that nothing is to be added to or taken away from the Scriptures of God.
+
+[2:268] From this Faustus argues that there can be no fulfillment of what is spoken of as so perfect that nothing can be added to it or taken from it.
+
+[2:269] Faustus requires to be told that the law is fulfilled by living as it enjoins.
+
+[2:270] "Love is the fulfilling of the law,"  as the apostle says.
+
+[2:271] The Lord has vouchsafed both to manifest and to impart this love, by sending the Holy Spirit to His believing people.
+
+[2:272] So it is said by the same apostle: "The love of God is shed abroad in our heart by the Holy Ghost, which is given unto us".
+
+[2:273] And the Lord Himself says: "By this shall all men know that ye are my disciples, if ye have love one to another".
+
+[2:274] The law, then, is fulfilled both by the observance of its precepts and by the accomplishment of its prophecies.
+
+[2:275] For "the law was given by Moses, but grace and truth came by Jesus Christ".
+
+[2:276] The law itself, by being fulfilled, becomes grace and truth.
+
+[2:277] Grace is the fulfillment of love, and truth is the accomplishment of the prophecies.
+
+[2:278] And as both grace and truth are by Christ, it follows that He came not to destroy the law, but to fulfill it; not by supplying any defects in the law, but by obedience to what is written in the law.
+
+[2:279] Christ's own words declare this.
+
+[2:280] For He does not say, One jot or one tittle shall in no wise pass from the law till its defects are supplied, but "till all be fulfilled".
+
+[2:281]              Book XVIII.
+
+[2:282] The relation of Christ to prophecy, continued.
+
+[2:283] 1.
+
+[2:284] Faustus said: "I came not to destroy the law, but to fulfill it".
+
+[2:285] If these are Christ's words, unless they have some other meaning, they are as much against you as against me.
+
+[2:286] Your Christianity as well as mine is based on the belief that Christ came to destroy the law and the prophets.
+
+[2:287] Your actions prove this, even though in words you deny it.
+
+[2:288] It is on this ground that you disregard the precepts of the law and the prophets.
+
+[2:289] It is on this ground that we both acknowledge Jesus as the founder of the New Testament, in which is implied the acknowledgment that the Old Testament is destroyed.
+
+[2:290] How, then, can we believe that Christ said these words without first confessing that hitherto we have been wholly in error, and without showing our repentance by entering on a course of obedience to the law and the prophets, and of careful observance of their requirements, whatever they may be? This done, we may honestly believe that Jesus said that he came not to destroy the law, but to fulfill it.
+
+[2:291] As it is, you accuse me of not believing what you do not believe yourself, and what therefore is false.
+
+[2:292] 2.
+
+[2:293] But grant that we have been in the wrong hitherto.
+
+[2:294] What is to be done now? Shall we come under the law, since Christ has not destroyed, but fulfilled it? Shall we by circumcision add shame to shame, and believe that God is pleased with such sacraments? Shall we observe the rest of the Sabbath, and bind ourselves in the fetters of Saturn? Shall we glut the demon of the Jews, for he is not God, with the slaughter of bulls, rams, and goats, not to say of men; and adopt, only with greater cruelty, in obedience to the law and the prophets, the practices on account of which we abandoned idolatry? Shall we, in fine, call the flesh of some animals clean, and that of others unclean, among which, according to the law and the prophets, swine's flesh has a particular defilement? Of course you will allow that as Christians we must not do any of these things, for you remember that Christ says that a man when circumcised becomes twofold a child of hell.
+
+[2:295] It is plain also that Christ neither observed the Sabbath himself, nor commanded it to be observed.
+
+[2:296] And regarding foods, he says expressly that man is not defiled by anything that goes into his mouth, but rather by the things which come out of it.
+
+[2:297] Regarding sacrifices, too, he often says that God desires mercy, and not sacrifice.
+
+[2:298] What becomes, then, of the statement that he came not to destroy the law, but to fulfill it? If Christ said this, he must have meant something else, or, what is not to be thought of, he told a lie, or he never said it.
+
+[2:299] No Christian will allow that Jesus spoke falsely; therefore he must either not have said this, or said it with another meaning.
+
+[2:300] 3.
+
+[2:301] For my part, as a Manich aean, this verse has little difficulty for me, for at the outset I am taught to believe that many things which pass in Scripture under the name of the Saviour are spurious, and that they must therefore be tested to find whether they are true, and sound, and genuine; for the enemy who comes by night has corrupted almost every passage by sowing tares among the wheat.
+
+[2:302] So I am not alarmed by these words, notwithstanding the sacred name affixed to them; for I still claim the liberty to examine whether this comes from the hand of the good sower, who sows in the day-time, or of the evil one, who sows in the night.
+
+[2:303] But what escape from this difficulty can there be for you, who receive everything without examination, condemning the use of reason, which is the prerogative of human nature, and thinking it impiety to distinguish between truth and falsehood, and as much afraid of separating between what is good and what is not as children are of ghosts? For suppose a Jew or any one acquainted with these words should ask you why you do not keep the precepts of the law and the prophets, since Christ says that he came not to destroy but to fulfill them: you will be obliged either to join in the superstitious follies of the Jews, or to declare this verse false, or to deny that you are a follower of Christ.
+
+[2:304] 4.
+
+[2:305] Augustin replied: Since you continue repeating what has been so often exposed and refuted, we must be content to repeat the refutation.
+
+[2:306] The things in the law and the prophets which Christians do not observe, are only the types of what they do observe.
+
+[2:307] These types were figures of things to come, and are necessarily removed when the things themselves are fully revealed by Christ, that in this very removal the law and the prophets may be fulfilled.
+
+[2:308] So it is written in the prophets that God would give a new covenant, "not as I gave to their fathers".
+
+[2:309] Such was the hardness of heart of the people under the Old Testament, that many precepts were given to them, not so much because they were good, as because they suited the people.
+
+[2:310] Still, in all these things the future was foretold and prefigured, although the people did not understand the meaning of their own observances.
+
+[2:311] After the manifest appearance of the things thus signified, we are not required to observe the types; but we read them to see their meaning.
+
+[2:312] So, again, it is foretold in the prophets, "I will take away their stony heart, and will give them a heart of flesh," —that is, a sensible heart, instead of an insensible one.
+
+[2:313] To this the apostle alludes in the words: "Not in tables of stone, but in the fleshy tables of the heart".
+
+[2:314] The fleshy tables of the heart are the same as the heart of flesh.
+
+[2:315] Since, then, the removal of these observances is foretold, the law and the prophets could not have been fulfilled but by this removal.
+
+[2:316] Now, however, the prediction is accomplished, and the fulfillment of the law and the prophets is found in what at first sight seems the very opposite.
+
+[2:317] 5.
+
+[2:318] We are not afraid to meet your scoff at the Sabbath, when you call it the fetters of Saturn.
+
+[2:319] It is a silly and unmeaning expression, which occurred to you only because you are in the habit of worshipping the sun on what you call Sunday.
+
+[2:320] What you call Sunday we call the Lord's day, and on it we do not worship the sun, but the Lord's resurrection.
+
+[2:321] And in the same way, the fathers observed the rest of the Sabbath, not because they worshipped Saturn, but because it was incumbent at that time, for it was a shadow of things to come, as the apostle testifies.
+
+[2:322] The Gentiles, of whom the apostle says that they "worshipped and served the creature rather than the Creator,"  gave the names of their gods to the days of the week.
+
+[2:323] And so far you do the same, except that you worship only the two brightest luminaries, and not the rest of the stars, as the Gentiles did.
+
+[2:324] Besides, the Gentiles gave the names of their gods to the months.
+
+[2:325] In honor of Romulus, whom they believed to be the son of Mars, they dedicated the first month to Mars, and called it March.
+
+[2:326] The next month, April, is named not from any god, but from the word for opening, because the buds generally open in this month.
+
+[2:327] The third month is called May, in honor of Maia the mother of Mercury.
+
+[2:328] The fourth is called June, from Juno.
+
+[2:329] The rest to December used to be named according to their number.
+
+[2:330] The fifth and sixth, however, got the names of July and August from men to whom divine honors were decreed; while the others, from September to December, continued to be named from their number.
+
+[2:331] January, again, is named from Janus, and February from the rites of the Luperci called Febru ae.
+
+[2:332] Must we say that you worship the god Mars in the month of March? But that is the month in which you hold the feast you call Bema with great pomp.
+
+[2:333] But if you think it allowable to observe the month of March without thinking of Mars, why do you try to bring in the name of Saturn in connection with the rest of the seventh day enjoined in Scripture, merely because the Gentiles call the day Saturday? The Scripture name for the day is Sabbath, which means rest.
+
+[2:334] Your scoff is as unreasonable as it is profane.
+
+[2:335] 6.
+
+[2:336] As regards animal sacrifices, every Christian knows that they were enjoined as suitable to a perverse people, and not because God had any pleasure in them.
+
+[2:337] Still, even in these sacrifices there were types of what we enjoy; for we cannot obtain purification or the propitiation of God without blood.
+
+[2:338] The fulfillment of these types is in Christ, by whose blood we are purified and redeemed.
+
+[2:339] In these figures of the divine oracles, the bull represents Christ, because with the horns of His cross He scatters the wicked; the lamb, from His matchless innocence; the goat, from His being made in the likeness of sinful flesh, that by sin He might condemn sin.
+
+[2:340] Whatever kind of sacrifice you choose to specify, I will show you a prophecy of Christ in it.
+
+[2:341] Thus we have shown regarding circumcision, and the Sabbath, and the distinction of food, and the sacrifice of animals, that all these things were our examples, and our prophecies, which Christ came not to destroy, but to fulfill, by fulfilling what was thus foretold.
+
+[2:342] Your opponent is the apostle, whose opinion I give in his own words: "All these things were our examples".
+
+[2:343] 7.
+
+[2:344] If you have learned from Manich aeus the willful impiety of admitting only those parts of the Gospel which do not contradict your errors, while you reject the rest, we have learned from the apostle the pious caution of looking on every one as accursed that preaches to us another gospel than that which we have received.
+
+[2:345] Hence Catholic Christians look upon you as among the tares; for, in the Lord's exposition of the meaning of the tares, they are not falsehood mixed with truth in the Scriptures, but children of the wicked one—that is, people who imitate the deceitfulness of the devil.
+
+[2:346] It is not true that Catholic Christians believe everything; for they do not believe Manich aeus or any of the heretics.
+
+[2:347] Nor do they condemn the use of human reason; but what you call reasoning they prove to be fallacious.
+
+[2:348] Nor do they think it profane to distinguish truth from falsehood; for they distinguish between the truth of the Catholic faith and the falsehood of your doctrines.
+
+[2:349] Nor do they fear to separate good from evil; but they contend that evil, instead of being natural, is unnatural.
+
+[2:350] They know nothing of your race of darkness, which, you say, is produced from a principle of its own, and fights against the kingdom of God, and of which your god seems really to be more frightened than children are of ghosts; for, according to you, he covered himself with a veil, that he might not see his own members taken and plundered by the assault of the enemy.
+
+[2:351] To conclude, Catholic Christians are in no difficulty regarding the words of Christ, though in one sense they may be said not to observe the law and the prophets; for by the grace of Christ they keep the law by their love to God and man; and on these two commandments hang all the law and the prophets.
+
+[2:352] Besides, they see in Christ and the Church the fulfillment of all the prophecies of the Old Testament, whether in the form of actions, or of symbolic rites, or of figurative language.
+
+[2:353] So we neither join in superstitious follies, nor declare this verse false; nor deny that we are followers of Christ; for on those principles which I have set forth to the best of my power, the law and the prophets which Christ came not to destroy, but to fulfill, are no other than those recognized by the Church.
+
+[2:354]              Book XIX.
+
+[2:355] Faustus is willing to admit that Christ may have said that He came not to destroy the law and the prophets, but to fulfill them; but if He did, it was to pacify the Jews and in a modified sense.
+
+[2:356] Augustin replies, and still further elaborates the Catholic view of prophecy and its fulfillment.
+
+[2:357] 1.
+
+[2:358] Faustus said: I will grant that Christ said that he came not to destroy the law and the prophets, but to fulfill them.
+
+[2:359] But why did Jesus say this? Was it to pacify the Jews, who were enraged at seeing their sacred institutions trampled upon by Christ, and regarded him as a wild blasphemer, not to be listened to, much less to be followed? Or was it for our instruction as Gentile believers, that we might learn meekly and patiently to bear the yoke of commandment laid on our necks by the law and the prophets of the Jews? You yourself can hardly suppose that Christ's words were intended to bring us under the authority of the law and the prophets of the Hebrews.
+
+[2:360] So that the other explanation which I have given of the words must be the true one.
+
+[2:361] Every one knows that the Jews were always ready to attack Christ, both with words and with actual violence.
+
+[2:362] Naturally, then, they would be enraged at the idea that Christ was destroying their law and their prophets; and, to appease them, Christ might very well tell them not to think that he came to destroy the law, but that he came to fulfill it.
+
+[2:363] There was no falsehood or deceit in this, for he used the word law in a general sense, not of any particular law.
+
+[2:364] 2.
+
+[2:365] There are three laws.
+
+[2:366] One is that of the Hebrews, which the apostle calls the law of sin and death.
+
+[2:367] The second is that of the Gentiles, which he calls the law of nature.
+
+[2:368] "For the Gentiles," he says, "do by nature the things contained in the law; and, not having the law, they are a law into themselves; who show the work of the law written on their hearts".
+
+[2:369] The third law is the truth of which the apostle speaks when he says, "The law of the spirit of life in Christ Jesus hath made me free from the law of sin and death".
+
+[2:370] Since, then, there are three laws, we must carefully inquire which of the three Christ spoke of when He said that He came not to destroy the law, but to fulfill it.
+
+[2:371] In the same way, there are prophets of the Jews, and prophets of the Gentiles, and prophets of truth.
+
+[2:372] With the prophets of the Jews, of course, every one is acquainted.
+
+[2:373] If any one is in doubt about the prophets of the Gentiles, let him hear what Paul says when writing of the Cretans to Titus: "A prophet of their own has said, The Cretans are always liars, evil beasts, slow bellies".
+
+[2:374] This proves that the Gentiles also had their prophets.
+
+[2:375] The truth also has its prophets, as we learn from Jesus as well as from Paul.
+
+[2:376] Jesus says: "Behold, I send unto you wise men and prophets, and some of them ye shall kill in divers places".
+
+[2:377] And Paul says: "The Lord Himself appointed first apostles, and then prophets".
+
+[2:378] 3.
+
+[2:379] As "the law and the prophets" may have three different meanings, it is uncertain in what sense the words are used by Jesus, though we may form a conjecture from what follows.
+
+[2:380] For if Jesus had gone on to speak of circumcision, and Sabbaths, and sacrifices, and the observances of the Hebrews, and had added something as a fulfillment, there could have been no doubt that it was the law and the prophets of the Jews of which He said that He came not to destroy, but to fulfill them.
+
+[2:381] But Christ, without any allusion to these, speaks only of commandments which date from the earliest times: "Thou shall not kill; Thou shalt not commit adultery; Thou shalt not bear false witness".
+
+[2:382] These, it can be proved, were of old promulgated in the world by Enoch and Seth, and the other righteous men, to whom the precepts were delivered by angels of lofty rank, in order to tame the savage nature of men.
+
+[2:383] From this it appears that Jesus spoke of the law and the prophets of truth.
+
+[2:384] And so we find him giving a fulfillment of those precepts already quoted.
+
+[2:385] "Ye have heard," He says, "that it was said by them of old time, Thou shalt not kill; but I say unto you, Be not even angry".
+
+[2:386] This is the fulfillment.
+
+[2:387] Again: "Ye have heard that it was said, Thou shalt not commit adultery; but I say unto you, Do not lust even".
+
+[2:388] This is the fulfillment.
+
+[2:389] Again: "It has been said, Thou shalt not bear false witness; but I say unto you, Swear not".
+
+[2:390] This too is the fulfillment.
+
+[2:391] He thus both confirms the old precepts and supplies their defects.
+
+[2:392] Where He seems to speak of some Jewish precepts, instead of fulfilling them, He substitutes for them precepts of an opposite tendency.
+
+[2:393] He proceeds thus: "Ye have heard that it has been said, An eye for an eye, and a tooth for a tooth; but I say unto you, Whosoever shall smite thee on thy right cheek, turn to him the other also".
+
+[2:394] This is not fulfillment, but destruction.
+
+[2:395] Again: "It has been said, Thou shall love thy friend, and hate thine enemy; but I say unto you, Love your enemies, and pray for your persecutors".
+
+[2:396] This too is destruction.
+
+[2:397] Again: "It has been said, Whosoever shall put away his wife, let him give her a writing of divorcement; but I say unto you, That whosoever shall put away his wife, saving for the cause of fornication, causeth her to commit adultery, and is himself an adulterer if he afterwards marries another woman".
+
+[2:398] These precepts are evidently destroyed because they are the precepts of Moses; while the others are fulfilled because they are the precepts of the righteous men of antiquity.
+
+[2:399] If you agree to this explanation, we may allow that Jesus said that he came not to destroy the law, but to fulfill it.
+
+[2:400] If you disapprove of this explanation, give one of your own.
+
+[2:401] Only beware of making Jesus a liar, and of making yourself a Jew, by binding yourself to fulfill the law because Christ did not destroy it.
+
+[2:402] 4.
+
+[2:403] If one of the Nazareans, or Symmachians, as they are sometimes called, were arguing with me from these words of Jesus that he came not to destroy the law, I should find some difficulty in answering him.
+
+[2:404] For it is undeniable that, at his coming, Jesus was both in body and mind subject to the influence of the law and the prophets.
+
+[2:405] Those people, moreover, whom I allude to, practise circumcision, and keep the Sabbath, and abstain from swine's flesh and such like things, according to the law, although they profess to be Christians.
+
+[2:406] They are evidently misled as well as you, by this verse in which Christ says that he came not to destroy the law, but to fulfill it.
+
+[2:407] It would not be easy to reply to such opponents without first getting rid of this troublesome verse.
+
+[2:408] But with you I have no difficulty, for you have nothing to go upon; and instead of using arguments, you seem disposed, in mere mischief, to induce me to believe that Christ said what you evidently do not yourself believe him to have said.
+
+[2:409] On the strength of this verse you accuse me of dullness and evasiveness, without yourself giving any indication of keeping the law instead of destroying it.
+
+[2:410] Do you too, like a Jew or a Nazarean, glory in the obscene distinction of being circumcised? Do you pride yourself in the observance of the Sabbath? Can you congratulate yourself on being innocent of swine's flesh? Or can you boast of having gratified the appetite of the Deity by the blood of sacrifices and the incense of Jewish offerings? If not, why do you contend that Christ came not to destroy the law, but to fulfill it?  5.
+
+[2:411] I give unceasing thanks to my teacher, who prevented me from falling into this error, so that I am still a Christian.
+
+[2:412] For I, like you, from reading this verse without sufficient consideration, had almost resolved to become a Jew.
+
+[2:413] And with reason; for if Christ came not to destroy the law, but to fulfill it, and as a vessel in order to be filled full must not be empty, but partly filled already, I concluded that no one could become a Christian but an Israelite, nearly filled already with the law and the prophets, and coming to Christ to be filled to the full extent of his capacity.
+
+[2:414] I concluded, too, that in thus coming he must not destroy what he already possesses; otherwise it would be a case, not of fulfilling, but of emptying.
+
+[2:415] Then it appeared that I, as a Gentile, could get nothing by coming to Christ, for I brought nothing that he could fill up by his additions.
+
+[2:416] This preparatory supply is found, on inquiry, to consist of Sabbaths, circumcision, sacrifices, new moons, baptisms, feasts of unleavened bread, distinctions of foods, drink, and clothes, and other things, too many to specify.
+
+[2:417] This, then, it appeared, was what Christ came not to destroy, but to fulfill.
+
+[2:418] Naturally it must appear so: for what is a law without precepts, or prophets without predictions? Besides, there is that terrible curse pronounced upon those who abide not in all things that are written in the book of the law to do them.
+
+[2:419] With the fear of this curse appearing to come from God on the one side, and with Christ on the other side, seeming, as the Son of God, to say that he came not to destroy these things, but to fulfill them, what was to prevent me from becoming a Jew? The wise instruction of Manich aeus saved me from this danger.
+
+[2:420] 6.
+
+[2:421] But how can you venture to quote this verse against me? Or why should it be against me only, when it is as much against yourself? If Christ does not destroy the law and the prophets, neither must Christians do so.
+
+[2:422] Why then do you destroy them? Do you begin to perceive that you are no Christian? How can you profane with all kinds of work the day pronounced sacred in the law and in all the prophets, on which they say that God, the maker of the world, himself rested, without dreading the penalty of death pronounced against Sabbath-breakers, or the curse on the transgressor? How can you refuse to receive in your person the unseemly mark of circumcision, which the law and all the prophets declare to be honorable, especially in the case of Abraham, after what was thought to be his faith; for does not the God of the Jews proclaim that whosoever is without this mark of infamy shall perish from his people? How can you neglect the appointed sacrifices, which were made so much of both by Moses and the prophets under the law, and by Abraham in his faith? And how can you defile your souls by making no distinction in foods, if you believe that Christ came not to destroy these things, but to fulfill them? Why do you discard the annual feast of unleavened bread, and the appointed sacrifice of the lamb, which, according to the law and the prophets, is to be observed for ever? Why, in a word, do you treat so lightly the new moons, the baptisms, and the feast of tabernacles, and all the other carnal ordinances of the law and the prophets, if Christ did not destroy them? I have therefore good reason for saying that, in order to justify your neglect of these things, you must either abandon your profession of being Christ's disciple, or acknowledge that Christ himself has already destroyed them; and from this acknowledgment it must follow, either that this text is spurious in which Christ is made to say that he came not to destroy the law, but to fulfill it, or that the words have an entirely different meaning from what you suppose.
+
+[2:423] 7.
+
+[2:424] Augustin replied: If you allow, in consideration of the authority of the Gospel, that Christ said that He came not to destroy the law and the prophets, but to fulfill them, you should show the same consideration to the authority of the apostle, when he says, "All these things were our examples;" and again of Christ, "He was not yea and nay, but in Him was yea; for all the promises of God are in Him yea;"  that is, they are set forth and fulfilled in Him.
+
+[2:425] In this way you will see in the clearest light both what law Christ fulfilled, and how He fulfilled it.
+
+[2:426] It is a vain attempt that you make to escape by your three kinds of law and your three kinds of prophets.
+
+[2:427] It is quite plain, and the New Testament leaves no doubt on the matter, what law and what prophets Christ came not to destroy, but to fulfill.
+
+[2:428] The law given by Moses is that which by Jesus Christ became grace and truth.
+
+[2:429] The law given by Moses is that of which Christ says, "He wrote of me".
+
+[2:430] For undoubtedly this is the law which entered that the offence might abound;  words which you often ignorantly quote as a reproach to the law.
+
+[2:431] Read what is there said of this law: "The law is holy, and the commandment holy, and just, and good.
+
+[2:432] Was then that which is good made death unto me? God forbid.
+
+[2:433] But sin, that it might appear sin, wrought death in me by that which is good".
+
+[2:434] The entrance of the law made the offense abound, not because the law required what was wrong, but because the proud and self-confident incurred additional guilt as transgressors after their acquaintance with the holy, and just, and good commandments of the law; so that, being thus humbled, they might learn that only by grace through faith could they be freed from subjection to the law as transgressors, and be reconciled to the law as righteous.
+
+[2:435] So the same apostle says: "For before faith came, we were kept under the law, shut up unto the faith which was afterwards revealed.
+
+[2:436] Therefore the law was our schoolmaster in Christ Jesus; but after faith came, we are no longer under a schoolmaster".
+
+[2:437] That is, we are no longer subject to the penalty of the law, because we are set free by grace.
+
+[2:438] Before we received in humility the grace of the Spirit, the letter was only death to us, for it required obedience which we could not render.
+
+[2:439] Thus Paul also says: "The letter killeth, but the spirit giveth life".
+
+[2:440] Again, he says: "For if a law had been given which could have given life, verily righteousness should have been by the law; but the Scripture hath concluded all under sin, that the promise by faith of Jesus Christ might be given to them that believe".
+
+[2:441] And once more: "What the law could not do, in that it was weak through the flesh, God sent His Son in the likeness of sinful flesh, that by sin He might condemn sin in the flesh, that the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit".
+
+[2:442] Here we see Christ coming not to destroy the law, but to fulfill it.
+
+[2:443] As the law brought the proud under the guilt of transgression, increasing their sin by commandments which they could not obey, so the righteousness of the same law is fulfilled by the grace of the Spirit in those who learn from Christ to be meek and lowly in heart; for Christ came not to destroy the law, but to fulfill it.
+
+[2:444] Moreover, because even for those who are under grace it is difficult in this mortal life perfectly to keep what is written in the law, Thou shall not covet, Christ, by the sacrifice of His flesh, as our Priest obtains pardon for us.
+
+[2:445] And in this also He fulfills the law; for what we fail in through weakness is supplied by His perfection, who is the Head, while we are His members.
+
+[2:446] Thus John says: "My little children, these things write I unto you, that ye sin not; and if any man sin, we have an Advocate with the Father, Jesus Christ the righteous: He is the propitiation for our sins".
+
+[2:447] 8.
+
+[2:448] Christ also fulfilled the prophecies, because the promises of God were made good in Him.
+
+[2:449] As the apostle says in the verse quoted above, "The promises of God are in Him yea".
+
+[2:450] Again, he says: "Now I say that Jesus Christ was a minister of the circumcision for the truth of God, to confirm the promises made unto the fathers".
+
+[2:451] [19] Whatever, then, was promised in the prophets, whether expressly or in figure, whether by words or by actions, was fulfilled in Him who came not to destroy the law and the prophets, but to fulfill them.
+
+[2:452] You do not perceive that if Christians were to continue in the use of acts and observances by which things to come were prefigured, the only meaning would be that the things prefigured had not yet come.
+
+[2:453] Either the thing prefigured has not come, or if it has, the figure becomes superfluous or misleading.
+
+[2:454] Therefore, if Christians do not practise some things enjoined in the Hebrews by the prophets, this, so far from showing, as you think, that Christ did not fulfill the prophets, rather shows that He did.
+
+[2:455] So completely did Christ fulfill what these types prefigured, that it is no longer prefigured.
+
+[2:456] So the Lord Himself says: "The law and the prophets were until John".
+
+[2:457] For the law which shut up transgressors in increased guilt, and to the faith which was afterwards revealed, became grace through Jesus Christ, by whom grace superabounded.
+
+[2:458] Thus the law, which was not fulfilled in the requirement of the letter, was fulfilled in the liberty of grace.
+
+[2:459] In the same way, everything in the law that was prophetic of the Saviour's advent, whether in words or in typical actions, became truth in Jesus Christ.
+
+[2:460] For "the law was given by Moses, but grace and truth came by Jesus Christ".
+
+[2:461] At Christ's advent the kingdom of God began to be preached; for the law and the prophets were until John: the law, that its transgressors might desire salvation; the prophets, that they might foretell the Saviour.
+
+[2:462] No doubt there have been prophets in the Church since the ascension of Christ.
+
+[2:463] Of these prophets Paul says: "God hath set some in the Church, first apostles, secondarily prophets, thirdly teachers," and so on.
+
+[2:464] It is not of these prophets that it was said, "The law and the prophets were until John," but of those who prophesied the first coming of Christ, which evidently cannot be prophesied now that it has taken place.
+
+[2:465] 9.
+
+[2:466] Accordingly, when you ask why a Christian is not circumcised if Christ came not to destroy the law, but to fulfill it, my reply is, that a Christian is not circumcised precisely for this reason, that what was prefigured by circumcision is fulfilled in Christ.
+
+[2:467] Circumcision was the type of the removal of our fleshly nature, which was fulfilled in the resurrection of Christ, and which the sacrament of baptism teaches us to look forward to in our own resurrection.
+
+[2:468] The sacrament of the new life is not wholly discontinued, for our resurrection from the dead is still to come; but this sacrament has been improved by the substitution of baptism for circumcision, because now a pattern of the eternal life which is to come is afforded us in the resurrection of Christ, whereas formerly there was nothing of the kind.
+
+[2:469] So, when you ask why a Christian does not keep the Sabbath, if Christ came not to destroy the law, but to fulfill it, my reply is, that a Christian does not keep the Sabbath precisely because what was prefigured in the Sabbath is fulfilled in Christ.
+
+[2:470] For we have our Sabbath in Him who said, "Come unto me, all ye that labor and are heavy laden, and I will give you rest.
+
+[2:471] Take my yoke upon you, and learn of me; for I am meek and lowly in heart, and ye shall find rest unto your souls".
+
+[2:472] 10.
+
+[2:473] When you ask why a Christian does not observe the distinction in food as enjoined in the law, if Christ came not to destroy the law, but to fulfill it, I reply, that a Christian does not observe this distinction precisely because what was thus prefigured is now fulfilled in Christ, who admits into His body, which in His saints He has predestined to eternal life, nothing which in human conduct corresponds to the characteristics of the forbidden animals.
+
+[2:474] When you ask, again, why a Christian does not offer sacrifices to God of the flesh and blood of slain animals, if Christ came not to destroy the law, but to fulfill it, I reply, that it would be improper for a Christian to offer such sacrifices, now that what was thus prefigured has been fulfilled in Christ's offering of His own body and blood.
+
+[2:475] When you ask why a Christian does not keep the feast of unleavened bread as the Jews did, if Christ came not to destroy the law, but to fulfill it, I reply, that a Christian does not keep this feast precisely because what was thus prefigured is fulfilled in Christ, who leads us to a new life by purging out the leaven of the old life.
+
+[2:476] When you ask why a Christian does not keep the feast of the paschal lamb, if Christ came not to destroy the law, but to fulfill it, my reply is, that he does not keep it precisely because what was thus prefigured has been fulfilled in the sufferings of Christ, the Lamb without spot.
+
+[2:477] When you ask why a Christian does not keep the feasts of the new moon appointed in the law, if Christ came not to destroy the law, but to fulfill it, I reply, that he does not keep them precisely because what was thus prefigured is fulfilled in Christ.
+
+[2:478] For the feast of the new moon prefigured the new creature, of which the apostle says: "If therefore there is any new creature in Christ Jesus, the old things have passed away; behold, all things are become new".
+
+[2:479] When you ask why a Christian does not observe the baptisms for various kinds of uncleanness according to the law, if Christ came not to destroy the law, but to fulfill it, I reply, that he does not observe them precisely because they were figures of things to come, which Christ has fulfilled.
+
+[2:480] For He came to bury us with Himself by baptism into death, that as Christ rose again from the dead, so we also should walk in newness of life.
+
+[2:481] When you ask why Christians do not keep the feast of tabernacles, if the law is not destroyed, but fulfilled by Christ, I reply that believers are God's tabernacle, in whom, as they are united and built together in love, God condescends to dwell, so that Christians do not keep this feast precisely because what was thus prefigured is now fulfilled by Christ in His Church.
+
+[2:482] 11.
+
+[2:483] I touch upon these things merely in passing with the utmost brevity, rather than omit them altogether.
+
+[2:484] The subjects, taken separately, have filled many large volumes, written to prove that these observances were typical of Christ.
+
+[2:485] So it appears that all the things in the Old Testament which you think are not observed by Christians because Christ destroyed the law, are in fact not observed because Christ fulfilled the law.
+
+[2:486] The very intention of the observances was to prefigure Christ.
+
+[2:487] Now that Christ has come, instead of its being strange or absurd that what was done to prefigure His advent should not be done any more, it is perfectly right and reasonable.
+
+[2:488] The typical observances intended to prefigure the coming of Christ would be observed still, had they not been fulfilled by the coming of Christ; so far is it from being the case that our not observing them now is any proof of their not being fulfilled by Christ's coming.
+
+[2:489] There can be no religious society, whether the religion be true or false, without some sacrament or visible symbol to serve as a bond of union.
+
+[2:490] The importance of these sacraments cannot be overstated, and only scoffers will treat them lightly.
+
+[2:491] For if piety requires them, it must be impiety to neglect them.
+
+[2:492] 12.
+
+[2:493] It is true, the ungodly may partake in the visible sacraments of godliness, as we read that Simon Magus received holy baptism.
+
+[2:494] Such are they of whom the apostle says that "they have the form of godliness, but deny the power of it".
+
+[2:495] The power of godliness is the end of the commandment, that is, love out of a pure heart, and of a good conscience, and of faith unfeigned.
+
+[2:496] So the Apostle Peter, speaking of the sacrament of the ark, in which the family of Noah was saved from the deluge, says, "So by a similar figure baptism also saves you".
+
+[2:497] And lest they should rest content with the visible sacrament, by which they had the form of godliness, and should deny its power in their lives by profligate conduct, he immediately adds, "Not the putting away of the filth of the flesh, but the answer of a good conscience".
+
+[2:498] 13.
+
+[2:499] Thus the sacraments of the Old Testament, which were celebrated in obedience to the law, were types of Christ who was to come; and when Christ fulfilled them by His advent they were done away, and were done away because they were fulfilled.
+
+[2:500] For Christ came not to destroy, but to fulfill.
+
+[2:501] And now that the righteousness of faith is revealed, and the children of God are called into liberty, and the yoke of bondage which was required for a carnal and stiffnecked people is taken away, other sacraments are instituted, greater in efficacy, more beneficial in their use, easier in performance, and fewer in number.
+
+[2:502] 14.
+
+[2:503] And if the righteous men of old, who saw in the sacraments of their time the promise of a future revelation of faith, which even then their piety enabled them to discern in the dim light of prophecy, and by which they lived, for the just can live only by faith;  if, then, these righteous men of old were ready to suffer, as many actually did suffer, all trials and tortures for the sake of those typical sacraments which prefigured things in the future; if we praise the three children and Daniel, because they refused to be defiled by meat from the king's table, from their regard for the sacrament of their day; if we feel the strongest admiration for the Maccabees, who refused to touch food which Christians lawfully use;   how much more should a Christian in our day be ready to suffer all things for Christ's baptism, for Christ's Eucharist, for Christ's sacred sign, since these are proofs of the accomplishment of what the former sacraments only pointed forward to in the future! For what is still promised to the Church, the body of Christ, is both clearly made known, and in the Saviour Himself, the Head of the body, the Mediator between God and men, the man Christ Jesus, has already been accomplished.
+
+[2:504] Is not the promise of eternal life by resurrection from the dead? This we see fulfilled in the flesh of Him of whom it is said, that the Word became flesh and dwelt among us.
+
+[2:505] In former days faith was dim, for the saints and righteous men of those times all believed and hoped for the same things, and all these sacraments and ceremonies pointed to the future; but now we have the revelation of the faith to which the people were shut up under the law;  and what is now promised to believers in the judgment is already accomplished in the example of Him who came not to destroy the law and the prophets, but to fulfill them.
+
+[2:506] 15.
+
+[2:507] It is a question among the students of the sacred Scriptures, whether the faith in Christ before His passion and resurrection, which the righteous men of old learned by revelation or gathered from prophecy, had the same efficacy as faith has now that Christ has suffered and risen; or whether the actual shedding of the blood of the Lamb of God, which was, as He Himself says, for many for the remission of sins,  conferred any benefit in the way of purifying or adding to the purity of those who looked forward in faith to the death of Christ, but left the world before it took place; whether, in fact, Christ's death reached to the dead, so as to effect their liberation.
+
+[2:508] To discuss this question here, or to prove what has been ascertained on the subject, would take too long, besides being foreign from our present purpose.
+
+[2:509] 16.
+
+[2:510] Meanwhile it is sufficient to prove, in opposition to Faustus' ignorant cavils, how greatly they mistake who conclude, from the change in signs and sacraments, that there must be a difference in the things which were prefigured in the rites of a prophetic dispensation, and which are declared to be accomplished in the rites of the gospel; or those, on the other hand, who think that as the things are the same, the sacraments which announce their accomplishment should not differ from the sacraments which foretold that accomplishment.
+
+[2:511] For if in language the form of the verb changes in the number of letters and syllables according to the tense, as done signifies the past, and to be done the future, why should not the symbols which declare Christ's death and resurrection to be accomplished, differ from those which predicted their accomplishment, as we see a difference in the form and sound of the words, past and future, suffered and to suffer, risen and to rise? For material symbols are nothing else than visible speech, which, though sacred, is changeable and transitory.
+
+[2:512] For while God is eternal, the water of baptism, and all that is material in the sacrament, is transitory: the very word "God," which must be pronounced in the consecration, is a sound which passes in a moment.
+
+[2:513] The actions and sounds pass away, but their efficacy remains the same, and the spiritual gift thus communicated is eternal.
+
+[2:514] To say, therefore, that if Christ had not destroyed the law and the prophets, the sacraments of the law and the prophets would continue to be observed in the congregations of the Christian Church, is the same as to say that if Christ had not destroyed the law and the prophets, He would still be predicted as about to be born, to suffer, and to rise again; whereas, in fact, it is proved that He did not destroy, but fulfill those things, because the prophecies of His birth, and passion, and resurrection, which were represented in these ancient sacraments, have ceased, and the sacraments now observed by Christians contain the announcement that He has been born, has suffered, has risen.
+
+[2:515] He who came not to destroy the law and the prophets, but to fulfill them, by this fulfillment did away with those things which foretold the accomplishment of what is thus shown to be now accomplished.
+
+[2:516] Precisely in the same way, he might substitute for the expressions, "He is to be born, is to suffer, is to rise," which were in these times appropriate, the expressions, "He has been born, has suffered, has risen," which are appropriate now that the others are accomplished, and so done away.
+
+[2:517] 17.
+
+[2:518] Corresponding to this change in words is the change which naturally took place in the substitution of new sacraments instead of those of the Old Testament.
+
+[2:519] In the case of the first Christians, who came to the faith as Jews, it was by degrees that they were brought to change their customs, and to have a clear perception of the truth; and permission was given them by the apostle to preserve their hereditary worship and belief, in which they had been born and brought up; and those who had to do with them were required to make allowance for this reluctance to accept new customs.
+
+[2:520] So the apostle circumcised Timothy, the son of a Jewish mother and a Greek father, when they went among people of this kind; and he himself accommodated his practice to theirs, not hypocritically, but for a wise purpose.
+
+[2:521] For these practices were harmless in the case of those born and brought up in them, though they were no longer required to prefigure things to come.
+
+[2:522] It would have done more harm to condemn them as hurtful in the case of those to whose time it was intended that they should continue.
+
+[2:523] Christ, who came to fulfill all these prophecies, found those people trained in their own religion.
+
+[2:524] But in the case of those who had no such training, but were brought to Christ, the corner-stone, from the opposite wall of circumcision, there was no obligation to adopt Jewish customs.
+
+[2:525] If, indeed, like Timothy, they chose to accommodate themselves to the views of those of the circumcision who were still wedded to their old sacraments, they were free to do so.
+
+[2:526] But if they supposed that their hope and salvation depended on these works of the law, they were warned against them as a fatal danger.
+
+[2:527] So the apostle says: "Behold, I Paul say unto you, that if ye be circumcised, Christ shall profit you nothing;"  that is, if they were circumcised, as they were intending to be, in compliance with some corrupt teachers, who told them that without these works of the law they could not be saved.
+
+[2:528] For when, chiefly through the preaching of the Apostle Paul, the Gentiles were coming to the faith of Christ, as it was proper that they should come, without being burdened with Jewish observances—for those who were grown up were deterred from the faith by fear of ceremonies to which they were not accustomed, especially of circumcision; and if they who had not been trained from their birth to such observances had been made proselytes in the usual way, it would have implied that the coming of Christ still required to be predicted as a future event;—when, then, the Gentiles were admitted without these ceremonies, those of the circumcision who believed, not understanding why the Gentiles were not required to adopt their customs, nor why they themselves were still allowed to retain them, began to disturb the Church with carnal contentions, because the Gentiles were admitted into the people of God without being made proselytes in the usual way by circumcision and the other legal observances.
+
+[2:529] Some also of the converted Gentiles were bent on these ceremonies, from fear of the Jews among whom they lived.
+
+[2:530] Against these Gentiles the Apostle Paul often wrote, and when Peter was carried away by their hypocrisy, he corrected him with a brotherly rebuke.
+
+[2:531] Afterwards, when the apostles met in council, decreed that these works of the law were not obligatory in the case of the Gentiles,  some Christians of the circumcision were displeased, because they failed to understand that these observances were permissible only in those who had been trained in them before the revelation of faith, to bring to a close the prophetic life in those who were engaged in it before the prophecy was fulfilled, lest by a compulsory abandonment it should seem to be condemned rather than closed; while to lay these things on the Gentiles would imply either that they were not instituted to prefigure Christ, or that Christ was still to be prefigured.
+
+[2:532] The ancient people of God, before Christ came to fulfill the law and the prophets, were required to observe all these things by which Christ was prefigured.
+
+[2:533] It was freedom to those who understood the meaning of the observance, but it was bondage to those who did not.
+
+[2:534] But the people in those latter times who come to believe in Christ as having already come, and suffered, and risen, in the case of those whom this faith found trained to those sacraments, are neither required to observe them, nor prohibited from doing so; while there is a prohibition in the case of those who were not bound by the ties of custom, or by any necessity, to accommodate themselves to the practice of others, so that it might become manifest that these things were instituted to prefigure Christ, and that after His coming they were to cease, because the promises had been fulfilled.
+
+[2:535] Some believers of the circumcision who did not understand this were displeased with this tolerant arrangement which the Holy Spirit effected through the apostles, and stubbornly insisted on the Gentiles becoming Jews.
+
+[2:536] These are the people of whom Faustus speaks under the name of Symmachians or Nazareans.
+
+[2:537] Their number is now very small, but the sect still continues.
+
+[2:538] 18.
+
+[2:539] The Manich aeans, therefore have no ground for saying, in disparagement of the law and the prophets, that Christ came to destroy rather than to fulfill them, because Christians do not observe what is there enjoined: for the only things which they do not observe are those that prefigured Christ, and these are not observed because their fulfillment is in Christ, and what is fulfilled is no longer prefigured; the typical observances having properly come to a close in the time of those who, after being trained in such things, had come to believe in Christ as their fulfillment.
+
+[2:540] Do not Christians observe the precept of Scripture "Hear, O Israel; the Lord thy God is one God;" "Thou shalt not make unto thee an image," and so on? Do make Christians not observe the precept, "Thou shalt not take the name of the Lord thy God in vain?" Do Christians not observe the Sabbath, even in the sense of a true rest? Do Christians not honor their parents, according to the commandment? Do Christians not abstain from fornication, and murder, and theft, and false witness, from coveting their neighbor's wife, and from coveting his property,—all of which things are written in the law? These moral precepts are distinct from typical sacraments: the former are fulfilled by the aid of divine grace, the latter by the accomplishment of what they promise.
+
+[2:541] Both are fulfilled in Christ, who has ever been the bestower of this grace, which is also now revealed in Him, and who now makes manifest the accomplishment of what He in former times promised; for "the law was given by Moses, but grace and truth came by Jesus Christ".
+
+[2:542] Again, these things which concern the keeping of a good conscience are fulfilled in the faith which worketh by love;  while types of the future pass away when they are accomplished.
+
+[2:543] But even the types are not destroyed, but fulfilled; for Christ, in bringing to light what the types signified, does not prove them vain or illusory.
+
+[2:544] 19.
+
+[2:545] Faustus, therefore, is wrong in supposing that the Lord Jesus fulfilled some precepts of righteous men who lived before the law of Moses, such as, "Thou shall not kill," which Christ did not oppose, but rather confirmed by His prohibition of anger and abuse; and that He destroyed some things apparently peculiar to the Hebrew law, such as, "An eye for an eye, and a tooth for a tooth," which Christ seems rather to abolish than to confirm, when He says, "But I say unto you, that ye resist not evil; but if any one smite thee on thy right cheek, turn to him the other also,"  and so on.
+
+[2:546] But we say that even these things which Faustus thinks Christ destroyed by enjoining the opposite, were suitable to the times of the Old Testament, and were not destroyed, but fulfilled by Christ.
+
+[2:547] 20.
+
+[2:548] In the first place let me ask our opponents if these ancient righteous men, Enoch and Seth, whom Faustus mentions particularly, and any others who lived before Moses, or even, if you choose, before Abraham, were angry with their brother without a cause, or said to their brother, Thou fool.
+
+[2:549] If not, why may they not have taught these things as well as preached them? And if they taught these things, how can Christ be said to have fulfilled their righteousness or their teaching, any more than that of Moses, by adding, "But I say unto you, if any man is angry with his brother, or if he says Racha, or if he says, Thou fool, he shall be in danger of the judgment, or of the council, or of hell-fire," since these men did these very things themselves, and enjoined them upon others? Will it be said that they were ignorant of its being the duty of a righteous man to restrain his passion, and not to provoke his brother with angry abuse; or that, knowing this, they were unable to act accordingly? In that case, they deserved the punishment of hell, and could not have been righteous.
+
+[2:550] But no one will venture to say that in their righteousness there was such ignorance of duty, and such a want of self-control, as to make them liable to the punishment of hell.
+
+[2:551] How, then, can Christ be said to have fulfilled the law, by which these men lived by means of adding things without which they could have had no righteousness at all? Will it be said that a hasty temper and bad language are sinful only since the time of Christ, while formerly such qualities of the heart and speech were allowable; as we find some institutions vary according to the times, so that what is proper at one time is improper at another, and vice versa? You will not be so foolish as to make this assertion.
+
+[2:552] But even were you to do so, the reply will be that, according to this idea, Christ came not to fulfill what was defective in the old law, but to institute a law which did not previously exist; if it is true that with the righteous men of old it was not a sin to say to their brother, Thou fool, which Christ pronounces so sinful, that whoever does so is in danger of hell.
+
+[2:553] So, then, you have not succeeded in finding any law of which it can be said that Christ supplied its defect by these additions.
+
+[2:554] 21.
+
+[2:555] Will it be said that the law in these early times was incomplete as regards not committing adultery, till it was completed by the Lord, who added that no one should look on a woman to lust after her? This is what you imply in the way you quote the words, "Ye have heard that it has been said, Thou shalt not commit adultery: but I say unto you, Do not lust even".
+
+[2:556] "Here," you say, "is the fulfillment".
+
+[2:557] But let us take the words as they stand in the Gospel, without any of your modifications, and see what character you give to those righteous men of antiquity.
+
+[2:558] The words are: "Ye have heard that it has been said, thou shall not commit adultery; but I say unto you, that whosoever looketh on a woman to lust after her, hath committed adultery with her already in his heart".
+
+[2:559] In your opinion, then, Enoch and Seth, and the rest, committed adultery in their hearts; and either their heart was not the temple of God, or they committed adultery in the temple of God.
+
+[2:560] But if you dare not say this, how can you say that Christ, when He came, fulfilled the law, which was already in the time of those men complete?  22.
+
+[2:561] As regards not swearing, in which also you say that Christ completed the law given to these righteous men of antiquity, I cannot be certain that they did not swear, for we find that Paul the apostle swore.
+
+[2:562] With you, swearing is still a common practice, for you swear by the light, which you love as flies do; for the light of the mind which lighteth every man that cometh into the world, as distinct from mere natural light, you know nothing of.
+
+[2:563] You swear, too, by your master Manich aeus, whose name in his own tongue was Manes.
+
+[2:564] As the name Manes seemed to be connected with the Greek word for madness, you have changed it by adding a suffix, which only makes matters worse, by giving the new meaning of pouring forth madness.
+
+[2:565] One of your own sect told me that the name Manich aeus was intended to be derived from the Greek words for pouring forth manna; for χέειν means to pour.
+
+[2:566] But, as it is, you only express the idea of madness with greater emphasis.
+
+[2:567] For by adding the two syllables, while you have forgotten to insert another letter in the beginning of the word, you make it not Mannich aeus, but Manich aeus; which must mean that he pours forth madness in his long unprofitable discourses.
+
+[2:568] Again, you often swear by the Paraclete,—not the Paraclete promised and sent by Christ to His disciples, but this same madness-pourer himself.
+
+[2:569] Since, then, you are constantly swearing, I should like to know in what sense you make Christ to have fulfilled this part of the law, which is one you mention as belonging to the earliest times.
+
+[2:570] And what do you make of the oaths of the apostle? For as to your authority, it cannot weigh much with yourselves, not to speak of me or any other person.
+
+[2:571] It is therefore evident that Christ's words, "I am come not to destroy the law, but to fulfill it," have not the meaning which you give them.
+
+[2:572] Christ makes no reference in these words to His comments on the ancient sayings which He quotes, and of which His discourse was an explanation, but not a fulfillment.
+
+[2:573] 23.
+
+[2:574] Thus, as regards murder, which was understood to mean merely the destruction of the body, by which a man is deprived of life, the Lord explained that every unjust disposition to injure our brother is a kind of murder.
+
+[2:575] So John also says, "He that hateth his brother is a murderer".
+
+[2:576] And as it was thought that adultery meant only the act of unlawful intercourse with a woman, the Master showed that the lust He describes is also adultery.
+
+[2:577] Again, because perjury is a heinous sin, while there is no sin either in not swearing at all or in swearing truly, the Lord wished to secure us from departing from the truth by not swearing at all, rather than that we should be in danger of perjury by being in the habit of swearing truly.
+
+[2:578] For one who never swears is less in danger of swearing falsely than one who is in the habit of swearing truly.
+
+[2:579] So, in the discourses of the apostle which are recorded, he never used an oath, lest he should ever fall unawares into perjury from being in the habit of swearing.
+
+[2:580] In his writings, on the other hand, where he had more leisure and opportunity for caution, we find him using oaths in several places,  to teach us that there is no sin in swearing truly, but that, on account of the infirmity of human nature, we are best preserved from perjury by not swearing at all.
+
+[2:581] These considerations will also make it evident that the things which Faustus supposes to be peculiar to Moses were not destroyed by Christ, as he says they were.
+
+[2:582] 24.
+
+[2:583] To take, for instance, this saying of the ancients, "Thou shalt love thy neighbor, and hate thine enemy," how does Faustus make out that this is peculiar to Moses? Does not the Apostle Paul speak of some men as hateful to God?  And, indeed, in connection with this saying, the Lord enjoins on us that we should imitate God.
+
+[2:584] His words are: "That ye may be the children of your Father in heaven, who maketh the sun to rise upon the evil and the good, and sendeth rain on the just and the unjust".
+
+[2:585] In one sense we must hate our enemies, after the example of God, to whom Paul says some men are hateful; while, at the same time, we must also love our enemies after the example of God, who makes the sun to rise on the evil and the good, and sendeth rain on the just and the unjust.
+
+[2:586] If we understand this, we shall find that the Lord, in explaining to those who did not rightly understand the saying, Thou shalt hate thine enemy, made use of it to show that they should love their enemy, which was a new idea to them.
+
+[2:587] It would take too long to show the consistency of the two things here.
+
+[2:588] But when the Manich aeans condemn without exception the precept, Thou shall hate thine enemy, they may easily be met with the question whether their god loves the race of darkness.
+
+[2:589] Or, if we should love our enemies now, because they have a part of good, should we not also hate them as having a part of evil? So even in this way it would appear that there is no opposition between the saying of ancient times, Thou shall hate thine enemy, and that of the Gospel, Love your enemies.
+
+[2:590] For every wicked man should be hated as far as he is wicked; while he should be loved as a man.
+
+[2:591] The vice which we rightly hate in him is to be condemned, that by its removal the human nature which we rightly love in him may be amended.
+
+[2:592] This is precisely the principle we maintain, that we should hate our enemy for what is evil in him, that is, for his wickedness; while we also love our enemy for that which is good in him, that is, for his nature as a social and rational being.
+
+[2:593] The difference between us and the Manich aeans is, that we prove the man to be wicked, not by nature, either his own or any other, but by his own will; whereas they think that a man is evil on account of the nature of the race of darkness, which, according to them, was an object of dread to God when he existed entire, and by which also he was partly conquered, so that he cannot be entirely set free.
+
+[2:594] The intention of the Lord, then, is to correct those who, from knowing without understanding what was said by them of old time, Thou shalt hate thine enemy, hated their fellow-men instead of only hating their wickedness; and for this purpose He says, Love your enemies.
+
+[2:595] Instead of destroying what is written about hatred of enemies in the law, of which He said, "I am come not to destroy the law, but to fulfill it," He would have us learn, from the duty of loving our enemies, how it is possible in the case of one and the same person, both to hate him for his sin, and to love him for his nature.
+
+[2:596] It is too much to expect our perverse opponents to understand this.
+
+[2:597] But we can silence them, by showing that by their irrational objection they condemn their own god, of whom they cannot say that he loves the race of darkness; so that in enjoining on every one to love his enemy, they cannot quote his example.
+
+[2:598] There would appear to be more love of their enemy in the race of darkness than in the god of the Manich aeans.
+
+[2:599] The story is, that the race of darkness coveted the domain of light bordering on their territory, and, from a desire to possess it, formed the plan of invading it.
+
+[2:600] Nor is there any sin in desiring true goodness and blessedness.
+
+[2:601] For the Lord says, "The kingdom of heaven suffereth violence, and the violent take it by force".
+
+[2:602] This fabulous race of darkness, then, wished to take by force the good they desired, for its beautiful and attractive appearance.
+
+[2:603] But God, instead of returning the love of those who wished to possess Him, hated it so as to endeavor to annihilate them.
+
+[2:604] If, therefore, the evil love the good in the desire to possess it, while the good hate the evil in fear of being defiled, I ask the Manich aeans, which of these obeys the precept of the Lord, "Love your enemies"? If you insist on making these precepts opposed to one another, it will follow that your god obeyed what is written in the law of Moses, "Thou shall hate thine enemy"; while the race of darkness obeyed what is written in the Gospel, "Love your enemies".
+
+[2:605] However, you have never succeeded in explaining the difference between the flies that fly in the day-time and the moths that fly at night; for both, according to you, belong to the race of darkness.
+
+[2:606] How is it that one kind love the light, contrary to their nature; while the other kind avoid it, and prefer the darkness from which they sprung? Strange, that filthy sewers should breed a cleaner sort than dark closets!  25.
+
+[2:607] Nor, again, is there any opposition between that which was said by them of old time, "An eye for an eye, a tooth for a tooth," and what the Lord says, "But I say unto you, that ye resist not evil; but if any one smiteth thee on thy right cheek, turn to him the other also," and so on.
+
+[2:608] The old precept as well as the new is intended to check the vehemence of hatred, and to curb the impetuosity of angry passion.
+
+[2:609] For who will of his own accord be satisfied with a revenge equal to the injury? Do we not see men, only slightly hurt, eager for slaughter, thirsting for blood, as if they could never make their enemy suffer enough? If a man receives a blow, does he not summon his assailant, that he may be condemned in the court of law? Or if he prefers to return the blow, does he not fall upon the man with hand and heel, or perhaps with a weapon, if he can get hold of one? To put a restraint upon a revenge so unjust from its excess, the law established the principle of compensation, that the penalty should correspond to the injury inflicted.
+
+[2:610] So the precept, "an eye for an eye, a tooth for a tooth," instead of being a brand to kindle a fire that was quenched, was rather a covering to prevent the fire already kindled from spreading.
+
+[2:611] For there is a just revenge due to the injured person from his assailant; so that when we pardon, we give up what we might justly claim.
+
+[2:612] Thus, in the Lord's prayer, we are taught to forgive others their debts that God may forgive us our debts.
+
+[2:613] There is no injustice in asking back a debt, though there is kindness in forgiving it.
+
+[2:614] But as, in swearing, one who swears, even though truly, is in danger of perjury, of which one is in no danger who never swears; and while swearing truly is not a sin, we are further from sin by not swearing; so that the command not to swear is a guard against perjury: in the same way since it is sinful to wish to be revenged with an unjust excess, though there is no sin in wishing for revenge within the limits of justice, the man who wishes for no revenge at all is further from the sin of an unjust revenge.
+
+[2:615] It is sin to demand more than is due, though it is no sin to demand a debt.
+
+[2:616] And the best security against the sin of making an unjust demand is to demand nothing, especially considering the danger of being compelled to pay the debt to Him who is indebted to none.
+
+[2:617] Thus, I would explain the passage as follows: It has been said by them of old time, Thou shall not take unjust revenge; but I say, Take no revenge at all: here is the fulfillment.
+
+[2:618] It is thus that Faustus, after quoting, "It has been said, Thou shall not swear falsely; but I say unto you, swear not at all," adds: here is the fulfillment.
+
+[2:619] I might use the same expression if I thought that by the addition of these words Christ supplied a defect in the law, and not rather that the intention of the law to prevent unjust revenge is best secured by not taking revenge at all, in the same way as the intention to prevent perjury is best secured by not swearing at all.
+
+[2:620] For if "an eye for an eye" is opposed to "If any one smite thee on the cheek, turn to him the other also," is there not as much opposition between "Thou shalt perform unto the Lord thine oath," and "Swear not at all?"  If Faustus thinks that there is not destruction, but fulfillment, in the one case, he ought to think the same of the other.
+
+[2:621] For if "Swear not" is the fulfillment of "Swear truly," why should not "Take no revenge" be the fulfillment of "Take revenge justly"?  So, according to my interpretation, there is in both cases a guard against sin, either of false swearing or of unjust revenge; though, as regards giving up the right to revenge, there is the additional consideration that, by forgiving such debts, we shall obtain the forgiveness of our debts.
+
+[2:622] The old precept was required in the case of a self-willed people, to teach them not to be extravagant in their demands.
+
+[2:623] Thus, when the rage eager for unrestrained vengeance, was subdued, there would be leisure for any one so disposed to consider the desirableness of having his own debt cancelled by the Lord, and so to be led by this consideration to forgive the debt of his fellow-servant.
+
+[2:624] 26.
+
+[2:625] Again, we shall find on examination, that there is no opposition between the precept of the Lord about not putting away a wife, and what was said by them of old time: "Whosoever putteth away his wife, let him give her a writing of divorcement".
+
+[2:626] The Lord explains the intention of the law, which required a bill of divorce in every case where a wife was put away.
+
+[2:627] The precept not to put away a wife is the opposite of saying that a man may put away his wife if he pleases; which is not what the law says.
+
+[2:628] On the contrary, to prevent the wife from being put away, the law required this intermediate step, that the eagerness for separation might be checked by the writing of the bill, and the man might have time to think of the evil of putting away his wife; especially since, as it is said, among the Hebrews it was unlawful for any but the scribes to write Hebrew: for the scribes claimed the possession of superior wisdom; and if they were men of upright and pious character, their pursuits might justly entitle them to make this claim.
+
+[2:629] In requiring, therefore, that in putting away his wife, a man should give her a writing of divorcement, the design was that he should be obliged to have recourse to those from whom he might expect to receive a cautious interpretation of the law, and suitable advice against separation.
+
+[2:630] Having no other way of getting the bill written, the man should be obliged to submit to their direction, and to allow of their endeavors to restore peace and harmony between him and his wife.
+
+[2:631] In a case where the hatred could not be overcome or checked, the bill would of course be written.
+
+[2:632] A wife might with reason be put away when wise counsel failed to restore the proper feeling and affection in the mind of her husband.
+
+[2:633] If the wife is not loved, she is to be put away.
+
+[2:634] And that she may not be put away, it is the husband's duty to love her.
+
+[2:635] Now, while a man cannot be forced to love against his will, he may be influenced by advice and persuasion.
+
+[2:636] This was the duty of the scribe, as a wise and upright man; and the law gave him the opportunity, by requiring the husband in all cases of quarrel to go to him, to get the bill of divorcement written.
+
+[2:637] No good or prudent man would write the bill unless it were a case of such obstinate aversion as to make reconciliation impossible.
+
+[2:638] But according to your impious notions, there can be nothing in putting away a wife; for matrimony, according to you, is a criminal indulgence.
+
+[2:639] The word "matrimony" shows that a man takes a wife in order that she may become a mother, which would be an evil in your estimation.
+
+[2:640] According to you, this would imply that part of your god is overcome and captured by the race of darkness, and bound in the fetters of flesh.
+
+[2:641] 27.
+
+[2:642] But, to explain the point in hand: If Christ, in adding the words, "But I say unto you," to the quotations He makes of ancient sayings, neither fulfilled the law of primitive times by His additions, nor destroyed the law given to Moses by opposite precepts, but rather paid such deference to the Hebrew law in all the quotations He made from it, as to make His own remarks chiefly explanatory of what the law stated less distinctly, or a means of securing the design intended by the law, it follows that from the words, "I came not to destroy the law, but to fulfill it" we are not to understand that Christ by His precepts filled up what was wanting in the law; but that what the literal command failed in doing from the pride and disobedience of men, is accomplished by grace in those who are brought to repentance and humility.
+
+[2:643] The fulfillment is not in additional words, but in acts of obedience.
+
+[2:644] So the apostle says "Faith worketh by love;"   and again, He that loveth another hath fulfilled the law".
+
+[2:645] This love, by which also the righteousness of the law can be fulfilled was bestowed in its significance by Christ in His coming, through the spirit which He sent according to His promise; and therefore He said, "I came not to destroy the law, but to fulfill it".
+
+[2:646] This is the New Testament in which the promise of the kingdom of heaven is made to this love; which was typified in the Old Testament, suitably to the times of that dispensation.
+
+[2:647] So Christ says again; "A new commandment I give unto you, that ye love one another".
+
+[2:648] 28.
+
+[2:649] So we find in the Old Testament all or nearly all the counsels and precepts which Christ introduces with the words "But I say unto you".
+
+[2:650] Against anger it is written, "Mine eyes troubled because of anger;"  and again, "Better is he that conquers his anger, than he that taketh a city".
+
+[2:651] Against hard words, "The stroke of a whip maketh a wound; but the stroke of the tongue breaketh the bones".
+
+[2:652] Against adultery in the heart, "Thou shall not covet thy neighbor's wife".
+
+[2:653] It is not, "Thou shall not commit adultery;" but, "Thou shall not covet".
+
+[2:654] The apostle, in quoting this, says: "I had not known lust, unless the law had said, Thou shalt not covet".
+
+[2:655] Regarding patience in not offering resistance, a man is praised who "giveth his cheek to him that smiteth him, and who is filled full with reproach".
+
+[2:656] Of love to enemies it is said: "If thine enemy hunger, feed him; if he thirst, give him drink".
+
+[2:657] This also is quoted by the apostle.
+
+[2:658] In the Psalm, too, it is said, "I was a peace maker among them that hated peace;"  and in many similar passages.
+
+[2:659] In connection also with our imitating God in refraining from taking revenge, and in loving even the wicked, there is a passage containing a full description of God in this character; for it is written: "To Thee alone ever belongeth great strength, and who can withstand the power of Thine arm? For the whole world before Thee is as a little grain of the balance; yea, as a drop of the morning dew that falleth down upon the earth.
+
+[2:660] But Thou hast mercy upon all, for Thou canst do all things, and winkest at the sins of men, because of repentance.
+
+[2:661] For Thou lovest all things that are, and abhorrest nothing which Thou hast made; for never wouldest Thou have made anything if Thou hadst hated it.
+
+[2:662] And how could anything have endured, if it had not been Thy will? or been preserved, if not called by Thee? But Thou sparest all; for they are Thine, O Lord, Thou lover of souls.
+
+[2:663] For Thy good Spirit is in all things; therefore chastenest Thou them by little and little that offend, and warnest them by putting them in remembrance wherein they have offended, that learning their wickedness, they may believe in Thee, O Lord".
+
+[2:664] Christ exhorts us to imitate this long-suffering goodness of God, who maketh the sun to rise upon the evil and the good, and sendeth rain on the just and on the unjust; that we may not be careful to revenge, but may do good to them that hate us, and so may be perfect, even as our Father in heaven is perfect.
+
+[2:665] From another passage in these ancient books we learn that, by not exacting the vengeance due to us, we obtain the remission of our own sins; and that by not forgiving the debts of others, we incur the danger of being refused forgiveness when we pray for the remission of our own debts: "He that revengeth shall find vengeance from the Lord, and He will surely keep his sin in remembrance.
+
+[2:666] Forgive thy neighbor the hurt that he hath done to thee; so shall thy sins also be forgiven when thou prayest.
+
+[2:667] One man beareth hatred against another, and doth he seek pardon of the Lord? He showeth no mercy to a man who is like himself; and doth he ask forgiveness of his own sins? If he that is but flesh nourishes hatred, and asks for favor from the Lord, who will entreat for the pardon of his sins?"  29.
+
+[2:668] As regards not putting away a wife, there is no need to quote any other passage of the Old Testament than that referred to most appropriately in the Lord's reply to the Jews when they questioned Him on this subject.
+
+[2:669] For when they asked whether it is lawful for a man to put away his wife for any reason, the Lord answered: "Have ye not read, that He that made them at the beginning made them male and female, and said, For this cause shall a man leave his father and mother, and shall cleave to his wife, and they two shall be one flesh? Therefore they are no longer twain, but one flesh.
+
+[2:670] What therefore God hath joined, let no man put asunder".
+
+[2:671] Here the Jews, who thought that they acted according to the intention of the law of Moses in putting away their wives, are made to see from the book of Moses that a wife should not be put away.
+
+[2:672] And, by the way, we learn here, from Christ's own declaration, that God made and joined male and female; so that by denying this, the Manich aeans are guilty of opposing the gospel of Christ as well as the writings of Moses.
+
+[2:673] And supposing their doctrine to be true, that the devil made and joined male and female, we see the diabolical cunning of Faustus in finding fault with Moses for dissolving marriages by granting a bill of divorce, and praising Christ for strengthening the union by the precept in the Gospel.
+
+[2:674] Instead of this, Faustus, consistently with his own foolish and impious notions, should have praised Moses for separating what was made and joined by the devil, and should have blamed Christ for ratifying a bond of the devil's workmanship.
+
+[2:675] To return, let us hear the good Master explain how Moses, who wrote of the conjugal chastity in the first union of male and female as so holy and inviolable, afterwards allowed the people to put away their wives.
+
+[2:676] For when the Jews replied, "Why did Moses then command to give a writing of divorcement, and to put her away?" Christ said unto them, "Moses, because of the hardness of your heart, suffered you to put away your wives".
+
+[2:677] This passage we have already explained.
+
+[2:678] The hardness must have been great indeed which could not be induced to admit the restoration of wedded love, even though by means of the writing an opportunity was afforded for advice to be given to this effect by wise and upright men.
+
+[2:679] Then the Lord quoted the same law, to show both what was enjoined on the good and what was permitted to the hard; for, from what is written of the union of male and female, He proved that a wife must not be put away, and pointed out the divine authority for the union; and shows from the same Scriptures that a bill of divorcement was to be given because of the hardness of the heart, which might be subdued or might not.
+
+[2:680] 30.
+
+[2:681] Since, then, all these excellent precepts of the Lord, which Faustus tries to prove to be contrary to the old books of the Hebrews, are found in these very books, the only sense in which the Lord came not to destroy the law, but to fulfill it, is this, that besides the fulfillment of the prophetic types, which are set aside by their actual accomplishment, the precepts also, in which the law is holy, and just, and good, are fulfilled in us, not by the oldness of the letter which commands, and increases the offence of the proud by the additional guilt of transgression, but by the newness of the Spirit, who aids us, and by the obedience of the humble, through the saving grace which sets us free.
+
+[2:682] For, while all these sublime precepts are found in the ancient books, still the end to which they point is not there revealed; although the holy men who foresaw the revelation lived in accordance with it, either veiling it in prophecy as suited the time, or themselves discovering the truth thus veiled.
+
+[2:683] 31.
+
+[2:684] I am disposed, after careful examination, to doubt whether the expression so often used by the Lord, "the kingdom of heaven," can be found in these books.
+
+[2:685] It is said, indeed, "Love wisdom, that ye may reign for ever".
+
+[2:686] And if eternal life had not been clearly made known in the Old Testament, the Lord would not have said, as He did even to the unbelieving Jews: "Search the Scriptures, for in them ye think that ye have eternal life, and they are they that testify of me".
+
+[2:687] And to the same effect are the words of the Psalmist: "I shall not die, but live, and declare the works of the Lord".
+
+[2:688] And again: "Enlighten mine eyes, lest I sleep the sleep of death".
+
+[2:689] Again, we read, "The souls of the righteous are in the hand of the Lord, and pain shall not touch them;" and immediately following: "They are in peace; and if they have suffered torture from men, their hope is full of immortality; and after a few trouble, they shall enjoy many rewards".
+
+[2:690] Again, in another place: "The righteous shall live for ever, and their reward is with the Lord, and their concern with the Highest; therefore shall they receive from the hand of the Lord a kingdom of glory and a crown of beauty".
+
+[2:691] These and many similar declarations of eternal life, in more or less explicit terms, are found in these writings.
+
+[2:692] Even the resurrection of the body is spoken of by the prophets.
+
+[2:693] The Pharisees, accordingly, were fierce opponents of the Sadducees, who disbelieved the resurrection.
+
+[2:694] This we learn not only from the canonical Acts of the Apostles, which the Manich aeans reject, because it tells of the advent of the Paraclete promised by the Lord, but also from the Gospel, when the Sadducees question the Lord about the woman who married seven brothers, one dying after the other, whose wife she would be in the resurrection.
+
+[2:695] As regards, then, eternal life and the resurrection of the dead, numerous testimonies are to be found in these Scriptures.
+
+[2:696] But I do not find there the expression, "the kingdom of heaven".
+
+[2:697] This expression belongs properly to the revelation of the New Testament, because in the resurrection our earthly bodies shall, by that change which Paul fully describes, become spiritual bodies, and so heavenly, that thus we may possess the kingdom of heaven.
+
+[2:698] And this expression was reserved for Him whose advent as King to govern and Priest to sanctify His believing people, was ushered in by all the symbolism of the old covenant, in its genealogies, its typical acts and words, its sacrifices and ceremonies and feasts, and in all its prophetic utterances and events and figures.
+
+[2:699] He came full of grace and truth, in His grace helping us to obey the precepts, and in His truth securing the accomplishment of the promises.
+
+[2:700] He came not to destroy the law, but to fulfill it.
+
+[2:701]              Book XX.
+
+[2:702] Faustus repels the charge of sun-worship, and maintains that while the Manich aeans believe that God's power dwells in the sun and his wisdom in the moon, they yet worship one deity, Father, Son, and Holy Spirit.
+
+[2:703] They are not a schism of the Gentiles, nor a sect.
+
+[2:704] Augustin emphasizes the charge of polytheism, and goes into an elaborate comparison of Manich aean and pagan mythology.
+
+[2:705] 1.
+
+[2:706] Faustus said: You ask why we worship the sun, if we are a sect or separate religion, and not Pagans, or merely a schism of the Gentiles.
+
+[2:707] It may therefore be as well to inquire into the matter, that we may see whether the name of Gentiles is more applicable to you or to us.
+
+[2:708] Perhaps, in giving you in a friendly way this simple account of my faith, I shall appear to be making an apology for it, as if I were ashamed, which God forbid, of doing homage to the divine luminaries.
+
+[2:709] You may take it as you please; but I shall not regret what I have done if I succeed in conveying to some at least this much knowledge, that our religion has nothing in common with that of the Gentiles.
+
+[2:710] 2.
+
+[2:711] We worship, then, one deity under the threefold appellation of the Almighty God the Father, and his son Christ, and the Holy Spirit.
+
+[2:712] While these are one and the same, we believe also that the Father properly dwells in the highest or principal light, which Paul calls "light inaccessible,"  and the Son in his second or visible light.
+
+[2:713] And as the Son is himself twofold, according to the apostle, who speaks of Christ as the power of God and the wisdom of God,  we believe that His power dwells in the sun, and His wisdom in the moon.
+
+[2:714] We also believe that the Holy Spirit, the third majesty, has His seat and His home in the whole circle of the atmosphere.
+
+[2:715] By His influence and spiritual infusion, the earth conceives and brings forth the mortal Jesus, who, as hanging from every tree, is the life and salvation of men.
+
+[2:716] Though you oppose these doctrines so violently, your religion resembles ours in attaching the same sacredness to the bread and wine that we do to everything.
+
+[2:717] This is our belief, which you will have an opportunity of hearing more of, if you wish to do so.
+
+[2:718] Meanwhile there is some force in the consideration that you or any one that is asked where his God dwells, will say that he dwells in light; so that the testimony in favor of my worship is almost universal.
+
+[2:719] 3.
+
+[2:720] As to your calling us a schism of the Gentiles, and not a sect, I suppose the word schism applies to those who have the same doctrines and worship as other people, and only choose to meet separately.
+
+[2:721] The word sect, again, applies to those whose doctrine is quite unlike that of others, and who have made a form of divine worship peculiar to themselves.
+
+[2:722] If this is what the words mean, in the first place, in our doctrine and worship we have no resemblance to the Pagans.
+
+[2:723] We shall see presently whether you have.
+
+[2:724] The Pagan doctrine is, that all things good and evil, mean and glorious, fading and unfading, changeable and unchangeable, material and divine, have only one principle.
+
+[2:725] In opposition to this, my belief is that God is the principle of all good things, and Hyle [matters] of the opposite.
+
+[2:726] Hyle is the name given by our master in divinity to the principle or nature of evil.
+
+[2:727] The Pagans accordingly think it right to worship God with altars, and shrines, and images, and sacrifices, and incense.
+
+[2:728] Here also my practice differs entirely from theirs: for I look upon myself as a reasonable temple of God, if I am worthy to be so; and I consider Christ his Son as the living image of his living majesty; and I hold a mind well cultivated to be the true altar, and pure and simple prayers to be the true way of paying divine honors and of offering sacrifices.
+
+[2:729] Is this being a schism of the Pagans?  4.
+
+[2:730] As regards the worship of the Almighty God, you might call us a schism of the Jews, for all Jews are bold enough to profess this worship, were it not for the difference in the form of our worship, though it may be questioned whether the Jews really worship the Almighty.
+
+[2:731] But the doctrine I have mentioned is common to the Pagans in their worship of the sun, and to the Jews in their worship of the Almighty.
+
+[2:732] Even in relation to you, we are not properly a schism, though we acknowledge Christ and worship Him; for our worship and doctrine are different from yours.
+
+[2:733] In a schism, little or no change is made from the original; as, for instance, you, in your schism from the Gentiles, have brought with you the doctrine of a single principle, for you believe that all things are of God.
+
+[2:734] The sacrifices you change into love-feasts, the idols into martyrs, to whom you pray as they do to their idols.
+
+[2:735] You appease the shades of the departed with wine and food.
+
+[2:736] You keep the same holidays as the Gentiles; for example, the calends and the solstices.
+
+[2:737] In your way of living you have made no change.
+
+[2:738] Plainly you are a mere schism; for the only difference from the original is that you meet separately.
+
+[2:739] In this you have followed the Jews, who separated from the Gentiles, but differed only in not having images.
+
+[2:740] For they used temples, and sacrifices, and altars, and a priesthood, and the whole round of ceremonies the same as those of the Gentiles, only more superstitious.
+
+[2:741] Like the Pagans, they believe in a single principle; so that both you and the Jews are schisms of the Gentiles, for you have the same faith, and nearly the same worship, and you call yourselves sects only because you meet separately.
+
+[2:742] The fact is, there are only two sects, the Gentiles and ourselves.
+
+[2:743] We and the Gentiles are as contrary in our belief as truth and falsehood, day and night, poverty and wealth, health and sickness.
+
+[2:744] You, again, are not a sect in relation either to truth or to error.
+
+[2:745] You are merely a schism and a schism not of truth, but of error.
+
+[2:746] 5.
+
+[2:747] Augustin replied: O hateful mixture of ignorance and cunning! Why do you put arguments in the mouth of your opponent, which no one that knows you would use? We do not call you Pagans, or a schism of Pagans; but we say that you resemble them in worshipping many gods.
+
+[2:748] But you are far worse than Pagans, for they worship things which exist, though they should not be worshipped: for idols have an existence, though for salvation they are nought.
+
+[2:749] So, to worship a tree with prayers, instead of improving it by cultivation, is not to worship nothing, but to worship in a wrong way.
+
+[2:750] When the apostle says that "the things which the Gentiles sacrifice, they sacrifice to demons, and not to God,"  he means that these demons exist to whom the sacrifices are made, and with whom he wishes us not to be partakers.
+
+[2:751] So, too, heaven and earth, the sea and air, the sun and moon, and the other heavenly bodies, are all objects which have a sensible existence.
+
+[2:752] When the Pagans worship these as gods, or as parts of one great God (for some of them identify the universe with the Supreme Deity), they worship things which have an existence.
+
+[2:753] In arguing with Pagans, we do not deny the existence of these things, but we say that they should not be worshipped; and we recommend the worship of the invisible Creator of all these things, in whom alone man can find the happiness which all allow that he desires.
+
+[2:754] To those, again, who worship what is invisible and immaterial, but still is created, as the soul or mind of man, we say that happiness is not to be found in the creature even under this form, and that we must worship the true God, who is not only invisible, but unchangeable; for He alone is to be worshipped, in the enjoyment of whom the worshipper finds happiness, and without whom the soul must be wretched, whatever else it possesses.
+
+[2:755] You, on the other hand, who worship things which have no existence at all except in your fictitious legends, would be nearer true piety and religion if you were Pagans, or if you were worshippers of what has an existence, though not a proper object of worship.
+
+[2:756] In fact, you do not properly worship the sun, though he carries your prayers with him in his course round the heavens.
+
+[2:757] 6.
+
+[2:758] Your statements about the sun himself are so false and absurd, that if he were to repay you for the injury done to him, he would scorch you to death.
+
+[2:759] First of all, you call the sun a ship, so that you are not only astray worlds off, as the saying is, but adrift.
+
+[2:760] Next, while every one sees that the sun is round, which is the form corresponding from its perfection to his position among the heavenly bodies, you maintain that he is triangular, that is, that his light shines on the earth through a triangular window in heaven.
+
+[2:761] Hence it is that you bend and bow your heads to the sun, while you worship not this visible sun, but some imaginary ship which you suppose to be shining through a triangular opening.
+
+[2:762] Assuredly this ship would never have been heard of, if the words required for the composition of heretical fictions had to be paid for, like the wood required for the beams of a ship.
+
+[2:763] All this is comparatively harmless, however ridiculous or pitiable.
+
+[2:764] Very different is your wicked fancy about youths of both sexes proceeding from this ship, whose beauty excites eager desire in the princes and princesses of darkness; and so the members of your god are released from this humiliating confinement in the members of the race of darkness, by means of sinful passion and sensual appetite.
+
+[2:765] And to these filthy rags of yours you would unite the mystery of the Trinity; for you say that the Father dwells in a secret light, the power of the Son in the sun, and His wisdom in the moon, and the Holy Spirit in the air.
+
+[2:766] 7.
+
+[2:767] As for this threefold or rather fourfold fiction, what shall I say of the secret light of the Father, but that you can think of no light except what you have seen? From your knowledge of visible light, with which beasts and insects as well as men are familiar, you form some vague idea in your mind, and call it the light in which God the Father dwells with His subjects.
+
+[2:768] How can you distinguish between the light by which we see, and that by which we understand, when, according to your ideas, to understand truth is nothing else than to form the conception of material forms, either finite or in some cases infinite; and you actually believe in these wild fancies? It is manifest that the act of my mind in thinking of your region of light which has no existence, is entirely different from my conception of Alexandria, which exists, though I have not seen it.
+
+[2:769] And, again, the act of forming a conception of Alexandria, which I have never seen, is very different from thinking of Carthage, which I know.
+
+[2:770] But this difference is insignificant as compared with that between my thinking of material things which I know from seeing them, and my understanding justice, chastity, faith, truth, love, goodness, and things of this nature.
+
+[2:771] Can you describe this intellectual light, which gives us a clear perception of the distinction between itself and other things, as well as of the distinction between those things themselves? And yet even this is not the sense in which it can be said that God is light, for this light is created, whereas God is the Creator; the light is made, and He is the Maker; the light is changeable.
+
+[2:772] For the intellect changes from dislike to desire, from ignorance to knowledge, from forgetfulness to recollection; whereas God remains the same in will, in truth, and in eternity.
+
+[2:773] From God we derive the beginning of existence, the principle of knowledge, the law of affection.
+
+[2:774] From God all animals, rational and irrational, derive the nature of their life, the capacity of sensation, the faculty of emotion.
+
+[2:775] From God all bodies derive their subsistence in extension, their beauty in number, and their order in weight.
+
+[2:776] This light is one divine being, in an inseparable triune existence; and yet, without supposing the assumption of any bodily form, you assign to separate places parts of the immaterial, spiritual, and unchangeable substance.
+
+[2:777] And instead of three places for the Trinity, you have four: one, the light inaccessible, which you know nothing about, for the Father; two, the sun and moon, for the Son; and again one, the circle of the atmosphere, for the Holy Spirit.
+
+[2:778] Of the inaccessible light of the Father I shall say nothing further at present, for orthodox believers do not separate the Son and the Spirit from the Father in relation to this light.
+
+[2:779] 8.
+
+[2:780] It is difficult to understand how you have been taken with the absurd idea of placing the power of the Son in the sun, and His wisdom in the moon.
+
+[2:781] For, as the Son remains inseparably in the Father, His wisdom and power cannot be separated from one another, so that one should be in the sun and the other in the moon.
+
+[2:782] Only material things can be thus assigned to separate places.
+
+[2:783] If you only understood this, it would have prevented you from taking the productions of a diseased fancy as the material for so many fictions.
+
+[2:784] But there is inconsistency and improbability as well as falsehood in your ideas.
+
+[2:785] For, according to you, the seat of wisdom is inferior in brightness to the seat of power.
+
+[2:786] Now energy and productiveness are the qualities of power, whereas light teaches and manifests; so that if the sun had the greater heat, and the moon the greater light, these absurdities might appear to have some likelihood to men of carnal minds, who know nothing except through material conceptions.
+
+[2:787] From the connection between great heat and motion, they might identify power with heat; while light from its brightness, and as making things discernible, they might represent wisdom.
+
+[2:788] But what folly as well as profanity, in placing power in the sun, which excels so much in light, and wisdom in the moon, which is so inferior in brightness! And while you separate Christ from Himself, you do not distinguish between Christ and the Holy Spirit; whereas Christ is one, the power of God, and the wisdom of God, and the Spirit is a distinct person.
+
+[2:789] But according to you, the air, which you make the seat of the Spirit, fills and pervades the universe.
+
+[2:790] So the sun and moon in their course are always united to the air.
+
+[2:791] But the moon approaches the sun at one time, and recedes from it at another.
+
+[2:792] So that, if we may believe you, or rather, if we may allow ourselves to be imposed on by you, wisdom recedes from power by half the circumference of a circle, and again approaches it by the other half.
+
+[2:793] And when wisdom is full, it is at a distance from power.
+
+[2:794] For when the moon is full, the distance between the two bodies is so great, that the moon rises in the east while the sun is setting in the west.
+
+[2:795] But as the loss of power produces weakness, the fuller the moon is, the weaker must wisdom be.
+
+[2:796] If, as is certainly true, the wisdom of God is unchangeable in power, and the power of God unchangeable in wisdom, how can you separate them so as to assign them to different places? And how can the place be different when the substance is the same? Is this not the infatuation of subjection to material fancies; showing such a want of power and wisdom that your wisdom is as weak as your power is foolish? This execrable absurdity would divide Christ between the sun and the moon,—His power in one, and His wisdom in the other; so that He would be incomplete in both, lacking wisdom in the sun, and power in the moon, while in both He supplies youths, male and female, to excite the affection of the princes and princesses of darkness.
+
+[2:797] Such are the tenets which you learn and profess.
+
+[2:798] Such is the faith which directs your conduct.
+
+[2:799] And can you wonder that you are regarded with abhorrence?  9.
+
+[2:800] But besides your errors regarding these conspicuous and familiar luminaries, which you worship not for what they are, but for what your wild fancy makes them to be, your other absurdities are still worse than this.
+
+[2:801] Your illustrious World-bearer, and Atlas who helps to hold him up, are unreal beings.
+
+[2:802] Like innumerable other creatures of your fancy, they have no existence, and yet you worship them.
+
+[2:803] For this reason we say that you are worse than Pagans, while you resemble them in worshipping many gods.
+
+[2:804] You are worse, because, while they worship things which exist though they are not gods, you worship things which are neither gods nor anything else, for they have no existence.
+
+[2:805] The Pagans, too, have fables, but they know them to be fables; and either look upon them as amusing poetical fancies, or try to explain them as representing the nature of things, or the life of man.
+
+[2:806] Thus they say that Vulcan is lame, because flame in common fire has an irregular motion: that Fortune is blind, because of the uncertainty of what are called fortuitous occurrences: that there are three Fates, with distaff, and spindle, and fingers spinning wool into thread, because there are three times,—the past, already spun and wound on the spindle; the present, which is passing through the fingers of the spinner; and the future, still in wool bound to the distaff, and soon to pass through the fingers to the spindle, that is, through the present into the future: and that Venus is the wife of Vulcan, because pleasure has a natural connection with heat; and that she is the mistress of Mars, because pleasure is not properly the companion of warriors: and that Cupid is a boy with wings and a bow, from the wounds inflicted by thoughtless, inconstant passion in the hearts of unhappy beings: and so with many other fables.
+
+[2:807] The great absurdity is in their continuing to worship these beings, after giving such explanations; for the worship without the explanations, though criminal, would be a less heinous crime.
+
+[2:808] The very explanations prove that they do not worship that God, the enjoyment of whom can alone give happiness, but things which He has created.
+
+[2:809] And even in the creature they worship not only the virtues, as in Minerva, who sprang from the head of Jupiter, and who represents prudence,—a quality of reason which, according to Plato, has its seat in the head,—but their vices, too, as in Cupid.
+
+[2:810] Thus one of their dramatic poets says, "Sinful passion, in favor of vice, made Love a god".
+
+[2:811] Even bodily evils had temples in Rome, as in the case of pallor and fever.
+
+[2:812] Not to dwell on the sin of the worshippers of these idols, who are in a way affected by the bodily forms, so that they pay homage to them as deities, when they see them set up in some lofty place, and treated with great honor and reverence, there is greater sin in the very explanations which are intended as apologies for these dumb, and deaf, and blind, and lifeless objects.
+
+[2:813] Still, though, as I have said, these things are nothing in the way of salvation or of usefulness, both they and the things they are said to represent are real existences.
+
+[2:814] But your First Man, warring with the five elements; and your Mighty Spirit, who constructs the world from the captive bodies of the race of darkness, or rather from the members of your god in subjection and bondage; and your World-holder, who has in his hand the remains of these members, and who bewails the capture and bondage and pollution of the rest; and your giant Atlas, who keeps up the World-holder on his shoulders, lest he should from weariness throw away his burden, and so prevent the completion of the final imitation of the mass of darkness, which is to be the last scene in your drama;—these and countless other absurdities are not represented in painting or sculpture, or in any explanation; and yet you believe and worship things which have no existence, while you taunt the Christians with being credulous for believing in realities with a faith which pacifies the mind under its influence.
+
+[2:815] The objects of your worship can be shown to have no existence by many proofs, which I do not bring forward here, because, though I could without difficulty discourse philosophically on the construction of the world, it would take too long to do so here.
+
+[2:816] One proof suffices.
+
+[2:817] If these things are real, God must be subject to change, and corruption, and contamination; a supposition as blasphemous as it is irrational.
+
+[2:818] All these things, therefore, are vain, and false, and unreal.
+
+[2:819] Thus you are much worse than those Pagans, with whom all are familiar, and who still preserve traces of their old customs, of which they themselves are ashamed; for while they worship things which are not gods, you worship things which do not exist.
+
+[2:820] 10.
+
+[2:821] If you think that your doctrines are true because they are unlike the errors of the Pagans, and that we are in error because we perhaps differ more from you than from them, you might as well say that a dead man is in good health because he is not sick; or that good health is undesirable, because it differs less from sickness than from death.
+
+[2:822] Or if the Pagans should be viewed in many cases as rather dead than sick, you might as well praise the ashes in the tomb because they have no longer the human shape, as compared with the living body, which does not differ so much from a corpse as from ashes.
+
+[2:823] It is thus we are reproached for having more resemblance to the dead body of Paganism than to the ashes of Manich aeism.
+
+[2:824] But in division, it often happens that a thing is placed in different classes, according to the point of resemblance on which the division proceeds.
+
+[2:825] For instance, if animals are divided into those that fly and those that cannot fly, in this division men and beasts are classed together as distinct from birds, because they are both unable to fly.
+
+[2:826] But if they are divided into rational and irrational, beasts and birds are classed together as distinct from men, for they are both destitute of reason.
+
+[2:827] Faustus did not think of this when he said: There are in fact only two sects, the Gentiles and ourselves, for we are directly opposed to them in our belief.
+
+[2:828] The opposition he means is this, that the Gentiles believe in a single principle, whereas the Manich aeans believe also in the principle of the race of darkness.
+
+[2:829] Certainly, according to this division we agree in general with the Pagans.
+
+[2:830] But if we divide all who have a religion into those who worship one God and those who worship many gods, the Manich aeans must be classed along with the Pagans, and we along with the Jews.
+
+[2:831] This is another distinction, which may be said to make only two sects.
+
+[2:832] Perhaps you will say that you hold all your gods to be of one substance, which the Pagans do not.
+
+[2:833] But you at least resemble them in assigning to your gods different powers, and functions, and employments.
+
+[2:834] One does battle with the race of darkness; another constructs the world from the part which is captured; another, standing above, has the world in his hand; another holds him up from below; another turns the wheels of the fires and winds and waters beneath; another, in his circuit of the heavens, gathers with his beams the members of your god from cesspools.
+
+[2:835] Indeed, your gods have innumerable occupations, according to your fabulous descriptions, which you neither explain nor represent in a visible form.
+
+[2:836] But again, if men were divided into those who believe that God takes an interest in human affairs and those who do not, the Pagans and Jews, and you and all heretics that have anything of Christianity, will be classed together, as opposed to the Epicureans, and any others holding similar views.
+
+[2:837] As this is a principle of importance, here again we may say that there are only two sects, and you belong to the same sect as we do.
+
+[2:838] You will hardly venture to dissent from us in the opinion that God is concerned in human affairs, so that in this matter your opposition to the Epicureans makes you side with us.
+
+[2:839] Thus, according to the nature of the division, what is in one class at one time, is in another at another time: things joined here are separated there: in some things we are classed with others, and they with us; in other things we are classed separately, and stand alone.
+
+[2:840] If Faustus thought of this, he would not talk such eloquent nonsense.
+
+[2:841] 11.
+
+[2:842] But what are we to make of these words of Faustus: The Holy Spirit, by his influence and spiritual infusion, makes the earth conceive and bring forth the mortal Jesus, who, as hanging from every tree, is the life and salvation of men? Letting pass for a moment the absurdity of this statement, we observe the folly of believing that the mortal Jesus can be conceived through the power of the Holy Spirit by the earth, but not by the Virgin Mary.
+
+[2:843] Dare you compare the holiness of that chaste virgin's womb with any piece of ground where trees and plants grow? Do you pretend to look with abhorrence upon a pure virgin, while you do not shrink from believing that Jesus is produced in gardens watered by the filthy drains of a city? For plants of all kinds spring up and are nourished in such moisture.
+
+[2:844] You will have Jesus to be born in this way, while you cry out against the idea of His being born of a virgin.
+
+[2:845] Do you think flesh more unclean than the excrements which its nature rejects? Is the filth cleaner than the flesh which expels it? Are you not aware how fields are manured in order to make them productive? Your folly comes to this, that the Holy Spirit, who, according to you, despised the womb of Mary, makes the earth conceive more fruitfully in proportion as it is carefully enriched with animal off-scourings.
+
+[2:846] Do you reply that the Holy Spirit preserves His incorruptible purity everywhere? I ask again, Why not also in the virgin's womb? Passing from the conception, you maintain in regard to the mortal Jesus—who, as you say, is born from the earth, which has conceived by the power of the Holy Spirit—that He hangs in the shape of fruit from every tree: so that, besides this pollution, He suffers additional defilement from the flesh of the countless animals that eat the fruit; except, indeed, the small amount that is purified by your eating it.
+
+[2:847] While we believe and confess Christ the Son of God, and the Word of God, to have become flesh without suffering defilement, because the divine substance is not defiled by flesh, as it is not defiled by anything, your fanciful notions would make Jesus to be defiled even as hanging on the tree, before entering the flesh of any animal; for if He were not defiled, there would be no need of His being purified by your eating Him.
+
+[2:848] And if all trees are the cross of Christ, as Faustus seems to imply when he says that Jesus hangs from every tree, why do you not pluck the fruit, and so take Jesus down from hanging on the tree to bury Him in your stomach, which would correspond to the good deed of Joseph of Arimathea, when he took down the true Jesus from the cross to bury Him?  Why should it be impious to take Christ from the tree, while it is pious to lay Him in the tomb? Perhaps you wish to apply to yourselves the words quoted from the prophet by Paul, "Their throat is an open sepulchre:"  and so you wait with open mouth till some one comes to use your throat as the best sepulchre for Christ.
+
+[2:849] Once more, how many Christs do you make? Is there one whom you call the mortal Christ, whom the earth conceives and brings forth by the power of the Holy Spirit; and another crucified by the Jews under Pontius Pilate; and a third whom you divide between the sun and the moon? Or is it one and the same person, part of whom is confined in the trees, to be released by the help of the other part which is not confined? If this is the case, and you allow that Christ suffered under Pontius Pilate, though it is difficult to see how he could have suffered without flesh, as you say he did, the great question is, with whom he left those ships you speak of, that he might come down and suffer these things, which he certainly could not have suffered without having a body of some kind.
+
+[2:850] A mere spiritual presence could not have made him liable to these sufferings, and in his bodily presence he could not be at the same time in the sun, in the moon, and on the cross.
+
+[2:851] So, then, if he had not a body, he was not crucified; and if he had a body, the question is, where he got it: for, according to you, all bodies belong to the race of darkness, though you cannot think of the divine substance except as being material.
+
+[2:852] Thus you must say either that Christ was crucified without a body; which is utterly absurd; or that he was crucified in appearance and not in reality, which is blasphemy; or that all bodies do not belong to the race of darkness, but that the divine substance has also a body, and that not an immortal body, but liable to crucifixion and death, which, again, is altogether erroneous; or that Christ had a mortal body from the race of darkness, so that, while you will not allow that Christ's body came from the Virgin Mary, you derive it from the race of demons.
+
+[2:853] Finally, as in Faustus' statement, in which he alludes in the briefest manner possible to the lengthy stories of Manich aean invention, the earth by the power of the Holy Spirit conceives and brings forth the mortal Jesus, who, hanging from every tree, is the life and salvation of men, why should this Saviour be represented by whatever is hanging, because he hung on the tree, and not by whatever is born, because he was born? But if you mean that the Jesus on the trees, and the Jesus crucified under Pontius Pilate, and the Jesus divided between the sun and the moon, are all one and the same substance, why do you not give the name of Jesus to your whole host of deities? Why should not your World-holder be Jesus too, and Atlas, and the King of Honour, and the Mighty Spirit, and the First Man, and all the rest, with their various names and occupations?  12.
+
+[2:854] So, with regard to the Holy Spirit, how can you say that he is the third person, when the persons you mention are innumerable? Or why is he not Jesus himself? And why does Faustus mislead people, in trying to make out an agreement between himself and true Christians, from whom he differs only too widely, by saying, We worship one God under the threefold appellation of the Almighty God the Father, Christ his Son, and the Holy Spirit? Why is the appellation only threefold, instead of being manifold? And why is the distinction in appellation only, and not in reality, if there are as many persons as there are names? For it is not as if you gave three names to the same thing, as the same weapon may be called a short sword, a dagger, or a dirk; or as you give the name of moon, and the lesser ship, and the luminary of night, and so on, to the same thing.
+
+[2:855] For you cannot say that the First Man is the same as the Mighty Spirit, or as the World-Holder, or as the giant Atlas.
+
+[2:856] They are all distinct persons, and you do not call any of them Christ.
+
+[2:857] How can there be one Deity with opposite functions? Or why should not Christ himself be the single person, if in one substance Christ hangs on the trees, and was persecuted by the Jews, and exists in the sun and moon? The fact is, your fancies are all astray, and are no better than the dreams of insanity.
+
+[2:858] 13.
+
+[2:859] How can Faustus think that we resemble the Manich aeans in attaching sacredness to bread and wine, when they consider it sacrilege to taste wine? They acknowledge their god in the grape, but not in the cup; perhaps they are shocked at his being trampled on and bottled.
+
+[2:860] It is not any bread and wine that we hold sacred as a natural production, as if Christ were confined in corn or in vines, as the Manich aeans fancy, but what is truly consecrated as a symbol.
+
+[2:861] What is not consecrated, though it is bread and wine, is only nourishment or refreshment, with no sacredness about it; although we bless and thank God for every gift, bodily as well as spiritual.
+
+[2:862] According to your notion, Christ is confined in everything you eat, and is released by digestion from the additional confinement of your intestines.
+
+[2:863] So, when you eat, your god suffers; and when you digest, you suffer from his recovery.
+
+[2:864] When he fills you, your gain is his loss.
+
+[2:865] This might be considered kindness on his part, because he suffers in you for your benefit, were it not that he gains freedom by escaping and leaving you empty.
+
+[2:866] There is not the least resemblance between our reverence for the bread and wine, and your doctrines, which have no truth in them.
+
+[2:867] To compare the two is even more foolish than to say, as some do, that in the bread and wine we worship Ceres and Bacchus.
+
+[2:868] I refer to this now, to show where you got your silly idea that our fathers kept the Sabbath in honor of Saturn.
+
+[2:869] For as there is no connection with the worship of the Pagan deities Ceres and Bacchus in our observance of the sacrament of the bread and wine, which you approve so highly that you wish to resemble us in it, so there was no subjection to Saturn in the case of our fathers, who observed the rest of the Sabbath in a manner suitable to prophetic times.
+
+[2:870] 14.
+
+[2:871] You might have found a resemblance in your religion to that of the Pagans as regards Hyle [matter], which the Pagans often speak of.
+
+[2:872] You, on the contrary, maintain that you are directly opposed to them in your belief in the evil principle which your teacher in theology calls Hyle.
+
+[2:873] But here you only show your ignorance, and, with an affectation of learning, use this word without knowing what it means.
+
+[2:874] The Greeks, when speaking of nature, give the name Hyle to the subject-matter of things, which has no form of its own, but admits of all bodily forms, and is known only through these changeable phenomena, not being itself an object of sensation or perception.
+
+[2:875] Some Gentiles, indeed, erroneously make this matter co-eternal with God, as not being derived from Him, though the bodily forms are.
+
+[2:876] In this manifest error you resemble the Pagans, for you hold that Hyle has a principle of its own, and does not come from God.
+
+[2:877] It is only ignorance that leads you to deny this resemblance.
+
+[2:878] In saying that Hyle has no form of its own, and can take its forms only from God, the Pagans come near to the truth which we believe in contradistinction from your errors.
+
+[2:879] Not knowing what Hyle or the subject-matter of things is, you make it the race of darkness, in which you place not only innumerable bodily forms of five different kinds, but also a formative mind.
+
+[2:880] Such, indeed, is your ignorance or insanity, that you call this mind Hyle, and make it give forms instead of taking them.
+
+[2:881] If there were such a formative mind as you speak of, and bodily elements capable of form, the word Hyle would properly be applicable to the bodily elements, which would be the matter to be formed by the mind, which you make the principle of evil.
+
+[2:882] Even this would not be a quite accurate use of the word Hyle, which has no form of any kind; whereas these elements, although capable of new forms, have already the form of elements, and belong to different kinds.
+
+[2:883] Still this use of the word would not be so much amiss, notwithstanding your ignorance; for it would thus be applied, as it properly is, to that which takes form, and not to that which gives it.
+
+[2:884] Even here, however, your folly and impiety would appear in tracing so much that is good to the evil principle, from your not knowing that all natures of every kind, all forms in their proportion, and all weights in their order, can come only from the Father, the Son, and the Holy Spirit.
+
+[2:885] As it is, you know neither what Hyle is, nor what evil is.
+
+[2:886] Would that I could persuade you to refrain from misleading people still more ignorant than yourselves!  15.
+
+[2:887] Every one must see the folly of your boasting of superiority to the Pagans because they use altars and temples, images and sacrifices and incense, in the worship of God, which you do not.
+
+[2:888] As if it were not better to build an altar and offer sacrifice to a stone, which has some kind of existence, than to employ a heated imagination in worshipping things which have no existence at all.
+
+[2:889] And what do you mean by saying that you are a rational temple of God? Can that be God's temple which is partly the construction of the devil? And is this not true of you, as you say that all your members and your whole body were formed by the evil principle which you call Hyle, and that part of this formative mind dwells in the body along with part of your god? And as this part of your god is bound and confined, you should be called the prison of God rather than his temple.
+
+[2:890] Perhaps it is your soul that is the temple of God, as you have it from the region of light.
+
+[2:891] But you generally call your soul not a temple, but a part or member of God.
+
+[2:892] So, when you say you are the temple of God, it must be in your body, which, you say, was formed by the devil.
+
+[2:893] Thus you blaspheme the temple of God, calling it not only the workmanship of Satan, but the prison-house of God.
+
+[2:894] The apostle, on the other hand, says: "The temple of God is holy, which temple ye are".
+
+[2:895] And to show that this refers not merely to the soul, he says expressly: "Know ye not that your bodies are the temple of the Holy Ghost, which is in you, which ye have of God?"  You call the workmanship of devils the temple of God, and there, to use Faustus' words, you place Christ, the Son of God, the living image of living majesty.
+
+[2:896] Your impiety may well contrive a fabulous temple for a fabulous Christ.
+
+[2:897] The image you speak of must be so called, because it is the creature of your imagination.
+
+[2:898] 16.
+
+[2:899] If your mind is an altar, you see whose altar it is.
+
+[2:900] You may see from the very doctrines and duties in which you say you are trained.
+
+[2:901] You are taught not to give food to a beggar; and so your altar smokes with the sacrifice of cruelty.
+
+[2:902] Such altars the Lord destroys; for in words quoted from the law He tells us what offering pleases God: "I desire mercy, and not sacrifice".
+
+[2:903] Observe on what occasion the Lord uses these words.
+
+[2:904] It was when, in passing through a field, the disciples plucked the ears of corn because they were hungry.
+
+[2:905] Your doctrine would lead you to call this murder.
+
+[2:906] Your mind is an altar, not of God, but of lying devils, by whose doctrines the evil conscience is seared as with a hot iron,  calling murder what the truth calls innocence.
+
+[2:907] For in His words to the Jews, Christ by anticipation deals a fatal blow to you: "If ye had known what this meaneth, I desire mercy, and not sacrifice, ye would not have condemned the guiltless".
+
+[2:908] 17.
+
+[2:909] Nor can you say that you honor God with sacrifices in the shape of pure and simple prayers: for, in your low, dishonoring notions about the divine nature and substance, you make your god to be the victim in the sacrifices of Pagans; so far are you from pleasing the true God with your sacrifices.
+
+[2:910] For you hold that God is confined not only in trees and plants, or in the human body, but also in the flesh of animals, which contaminates Him with its impurity.
+
+[2:911] And how can your soul give praise to God, when you actually reproach Him by calling your soul a particle of His substance taken captive by the race of darkness; as if God could not maintain the conflict except by this corruption of His members, and this dishonorable captivity? Instead of honoring God in your prayers, you insult Him.
+
+[2:912] For what sin did you commit, when you belonged to Him, that you should be thus punished by the god you cry to, not because you left Him sinfully of your own choice; for he himself gave you to His enemies, to obtain peace for His kingdom? You are not even given as hostages to be honorably guarded.
+
+[2:913] Nor is it as when a shepherd lays a snare to catch a wild beast: for he does not put one of his own members in the snare, but some animal from his flock; and generally, so that the wild beast is caught before the animal is hurt.
+
+[2:914] You, though you are the members of your god, are given to the enemy, whose ferocity you keep off from your god only by being contaminated with their impurity, infected with their corruptions, without any fault of your own.
+
+[2:915] You cannot in your prayers use the words: "Free us, O Lord, for the glory of Thy name; and for Thy name's sake pardon our sins".
+
+[2:916] Your prayer is: "Free us by Thy skill, for we suffer here oppression, and torture, and pollution, only that Thou mayest mourn unmolested in Thy kingdom".
+
+[2:917] These are words of reproach, not of entreaty.
+
+[2:918] Nor can you use the words taught us by the Master of truth: "Forgive us our debts, as we forgive our debtors".
+
+[2:919] For who are the debtors who have sinned against you? If it is the race of darkness, you do not forgive their debts, but make them be utterly cast out and shut up in eternal imprisonment.
+
+[2:920] And how can God forgive your debts, when He rather sinned against you by sending you into such a state, than you against Him, whom you obeyed by going? If this was not a sin in Him, because He was compelled to do it, this excuse must apply you, now that you have been overthrown in the conflict, more than to Him before the conflict began.
+
+[2:921] You suffer now from the mixture of evil, which was not the case with Him when nevertheless He was compelled to send you.
+
+[2:922] So either He requires that you should forgive Him his debt; or, if He is not in debt to you, still less are you to Him.
+
+[2:923] It appears that your sacrifices and your pure and simple prayers are false and vile blasphemies.
+
+[2:924] 18.
+
+[2:925] How is it, by the way, that you use the words temple, altar, sacrifice, for the purpose of commending your own practices? If such things can be spoken of as properly belonging to true religion, they must constitute the true worship of the true God.
+
+[2:926] And if there is such a thing as true sacrifice to the true God, which is implied in the expression divine honors, there must be some one true sacrifice of which the rest are imitations.
+
+[2:927] On the one hand, we have the spurious imitations in the case of false and lying gods, that is, of devils, who proudly demand divine honors from their deluded votaries, as is or was the case in the temples and idols of the Gentiles.
+
+[2:928] On the other hand, we have the prophetic intimations of one most true sacrifice to be offered for the sins of all believers, as in the sacrifices enjoined by God on our fathers; along with which there was also the symbolical anointing typical of Christ, as the name Christ itself means anointed.
+
+[2:929] The animal sacrifices, therefore, presumptuously claimed by devils, were an imitation of the true sacrifice which is due only to the one true God, and which Christ alone offered on His altar.
+
+[2:930] Thus the apostle says: "The sacrifices which the Gentiles offer, they offer to devils, and not to God".
+
+[2:931] He does not find fault with sacrifices, but with offering to devils.
+
+[2:932] The Hebrews, again, in their animal sacrifices, which they offered to God in many varied forms, suitably to the significance of the institution, typified the sacrifice offered by Christ.
+
+[2:933] This sacrifice is also commemorated by Christians, in the sacred offering and participation of the body and blood of Christ.
+
+[2:934] The Manich aeans understand neither the sinfulness of the Gentile sacrifices, nor the importance of the Hebrew sacrifices, nor the use of the ordinance of the Christian sacrifice.
+
+[2:935] Their own errors are the offering they present to the devil who has deceived them.
+
+[2:936] And thus they depart from the faith, giving heed to seducing spirits, and to doctrines of devils, speaking lies in hypocrisy.
+
+[2:937] 19.
+
+[2:938] It may be well that Faustus, or at least that those who are charmed with Faustus' writings, should know that the doctrine of a single principle did not come to us from the Gentiles; for the belief in one true God, from whom every kind of nature is derived, is a part of the original truth retained among the Gentiles, notwithstanding their having fallen away to many false gods.
+
+[2:939] For the Gentile philosophers had the knowledge of God, because, as the apostle says, "the invisible things of God, from the creation of the world, are clearly seen, being understood by the things that are made, even His eternal power and Godhead; so that they are without excuse".
+
+[2:940] But, as the apostle adds, "when they knew God, they glorified Him not as God, neither were thankful; but became vain in their imaginations, and their foolish heart was darkened.
+
+[2:941] Professing themselves to be wise, they became fools, and changed the glory of the incorruptible God into an image made like to corruptible man, and to birds, and four-footed beasts, and creeping things".
+
+[2:942] These are the idols of the Gentiles, which they cannot explain except by referring to the creatures made by God; so that this very explanation of their idolatry, on which the more enlightened Gentiles were wont to pride themselves as a proof of their superiority, shows the truth of the following words of the apostle: "They worshipped and served the creature rather than the Creator, who is blessed forever".
+
+[2:943] Where you differ from the Gentiles, you are in error; where you resemble them, you are worse than they.
+
+[2:944] You do not believe, as they do, in a single principle; and so you fall into the impiety of believing the substance of the one true God to be liable to subjugation and corruption.
+
+[2:945] As regards the worship of a plurality of gods, the doctrine of lying devils has led the Gentiles to worship many idols, and you to worship many phantasms.
+
+[2:946] 20.
+
+[2:947] We do not turn the sacrifices of the Gentiles into love-feasts, as Faustus says we do.
+
+[2:948] Our love-feasts are rather a substitute for the sacrifice spoken of by the Lord, in the words already quoted: "I will have mercy, and not sacrifice".
+
+[2:949] At our love-feasts the poor obtain vegetable or animal food; and so the creature of God is used, as far as it is suitable, for the nourishment of man, who is also God's creature.
+
+[2:950] You have been led by lying devils, not in self-denial, but in blasphemous error, "to abstain from meats which God hath created to be received with thanksgiving of them which believe and know the truth.
+
+[2:951] For every creature of God is good, and nothing to be refused, if it be received with thanksgiving".
+
+[2:952] In return for the bounties of the Creator, you ungratefully insult Him with your impiety; and because in our love-feasts flesh is often given to the poor, you compare Christian charity to Pagan sacrifices.
+
+[2:953] This indeed, is another point in which you resemble some Pagans.
+
+[2:954] You consider it a crime to kill animals, because you think that the souls of men pass into them; which is an idea found in the writings of some Gentile philosophers, although their successors appear to have thought differently.
+
+[2:955] But here again you are most in error: for they dreaded slaughtering a relative in the animal; but you dread the slaughter of your god, for you hold even the souls of animals to be his members.
+
+[2:956] 21.
+
+[2:957] As to our paying honor to the memory of the martyrs, and the accusation of Faustus, that we worship them instead of idols, I should not care to answer such a charge, were it not for the sake of showing how Faustus, in his desire to cast reproach on us, has overstepped the Manich aean inventions, and has fallen heedlessly into a popular notion found in Pagan poetry, although he is so anxious to be distinguished from the Pagans.
+
+[2:958] For in saying that we have turned the idols into martyrs, he speaks of our worshipping them with similar rites, and appeasing the shades of the departed with wine and food.
+
+[2:959] Do you, then, believe in shades? We never heard you speak of such things, nor have we read of them in your books.
+
+[2:960] In fact, you generally oppose such ideas: for you tell us that the souls of the dead, if they are wicked, or not purified, are made to pass through various changes, or suffer punishment still more severe; while the good souls are placed in ships, and sail through heaven to that imaginary region of light which they died fighting for.
+
+[2:961] According to you, then, no souls remain near the burying-place of the body; and how can there be any shades of the departed? What and where are they? Faustus' love of evil-speaking has made him forget his own creed; or perhaps he spoke in his sleep about ghosts, and did not wake up even when he saw his words in writing.
+
+[2:962] It is true that Christians pay religious honor to the memory of the martyrs, both to excite us to imitate them and to obtain a share in their merits, and the assistance of their prayers.
+
+[2:963] But we build altars not to any martyr, but to the God of martyrs, although it is to the memory of the martyrs.
+
+[2:964] No one officiating at the altar in the saints' burying-place ever says, We bring an offering to thee, O Peter! or O Paul! or O Cyprian! The offering is made to God, who gave the crown of martyrdom, while it is in memory of those thus crowned.
+
+[2:965] The emotion is increased by the associations of the place, and love is excited both towards those who are our examples, and towards Him by whose help we may follow such examples.
+
+[2:966] We regard the martyrs with the same affectionate intimacy that we feel towards holy men of God in this life, when we know that their hearts are prepared to endure the same suffering for the truth of the gospel.
+
+[2:967] There is more devotion in our feeling towards the martyrs, because we know that their conflict is over; and we can speak with greater confidence in praise of those already victors in heaven, than of those still combating here.
+
+[2:968] What is properly divine worship, which the Greeks call latria, and for which there is no word in Latin, both in doctrine and in practice, we give only to God.
+
+[2:969] To this worship belongs the offering of sacrifices; as we see in the word idolatry, which means the giving of this worship to idols.
+
+[2:970] Accordingly we never offer, or require any one to offer, sacrifice to a martyr, or to a holy soul, or to any angel.
+
+[2:971] Any one falling into this error is instructed by doctrine, either in the way of correction or of caution.
+
+[2:972] For holy beings themselves, whether saints or angels, refuse to accept what they know to be due to God alone.
+
+[2:973] We see this in Paul and Barnabas, when the men of Lycaonia wished to sacrifice to them as gods, on account of the miracles they performed.
+
+[2:974] They rent their clothes, and restrained the people, crying out to them, and persuading them that they were not gods.
+
+[2:975] We see it also in the angels, as we read in the Apocalypse that an angel would not allow himself to be worshipped, and said to his worshipper, "I am thy fellow-servant, and of thy brethen".
+
+[2:976] Those who claim this worship are proud spirits, the devil and his angels, as we see in all the temples and rites of the Gentiles.
+
+[2:977] Some proud men, too, have copied their example; as is related of some kings of Babylon.
+
+[2:978] Thus the holy Daniel was accused and persecuted, because when the king made a decree that no petition should be made to any god, but only to the king, he was found worshipping and praying to his own God, that is, the one true God.
+
+[2:979] As for those who drink to excess at the feasts of the martyrs, we of course condemn their conduct; for to do so even in their own houses would be contrary to sound doctrine.
+
+[2:980] But we must try to amend what is bad as well as prescribe what is good, and must of necessity bear for a time with some things that are not according to our teaching.
+
+[2:981] The rules of Christian conduct are not to be taken from the indulgences of the intemperate or the infirmities of the weak.
+
+[2:982] Still, even in this, the guilt of intemperance is much less than that of impiety.
+
+[2:983] To sacrifice to the martyrs, even fasting, is worse than to go home intoxicated from their feast: to sacrifice to the martyrs, I say, which is a different thing from sacrificing to God in memory of the martyrs, as we do constantly, in the manner required since the revelation of the New Testament, for this belongs to the worship or latria which is due to God alone.
+
+[2:984] But it is vain to try to make these heretics understand the full meaning of these words of the Psalmist: "He that offereth the sacrifice of praise glorifieth me, and in this way will I show him my salvation".
+
+[2:985] [19] Before the coming of Christ, the flesh and blood of this sacrifice were foreshadowed in the animals slain; in the passion of Christ the types were fulfilled by the true sacrifice; after the ascension of Christ, this sacrifice is commemorated in the sacrament.
+
+[2:986] Between the sacrifices of the Pagans and of the Hebrews there is all the difference that there is between a false imitation and a typical anticipation.
+
+[2:987] We do not despise or denounce the virginity of holy women because there were vestal virgins.
+
+[2:988] And, in the same way, it is no reproach to the sacrifices of our fathers that the Gentiles also had sacrifices.
+
+[2:989] The difference between the Christian and vestal virginity is great, yet it consists wholly in the being to whom the vow is made and paid; and so the difference in the being to whom the sacrifices of the Pagans and Hebrews are made and offered makes a wide difference between them.
+
+[2:990] In the one case they are offered to devils, who presumptuously make this claim in order to be held as gods, because sacrifice is a divine honor.
+
+[2:991] In the other case they are offered to the one true God, as a type of the true sacrifice, which also was to be offered to Him in the passion of the body and blood of Christ.
+
+[2:992] 22.
+
+[2:993] Faustus is wrong in saying that our Jewish forefathers, in their separation from the Gentiles, retained the temple, and sacrifices, and altars, and priesthood, and abandoned only graven images or idols, for they might have sacrificed, as some do, without any graven image, to trees and mountains, or even to the sun and moon and the stars.
+
+[2:994] If they had thus rendered to these objects the worship called latria, they would have served the creature instead of the Creator, and so would have fallen into the serious error of heathenish superstition; and even without idols, they would have found devils ready to take advantage of their error, and to accept their offerings.
+
+[2:995] For these proud and wicked spirits feed not, as some foolishly suppose, on the smell of the sacrifice, and the smoke, but on the errors of men.
+
+[2:996] They enjoy not bodily refreshment, but a malevolent gratification, when they in any way deceive people, or when, with a bold assumption of borrowed majesty, they boast of receiving divine honors.
+
+[2:997] It was not, therefore, only the idols of the Gentiles that our Jewish forefathers abandoned.
+
+[2:998] They sacrificed neither to the earth nor to any earthly thing, nor to the sea, nor to heaven, nor to the hosts of heaven, but laid the victims on the altar of the one God, Creator of all, who required these offerings as a means of foreshadowing the true victim, by whom He has reconciled us to Himself in the remission of sins through our Lord Jesus Christ.
+
+[2:999] So Paul, addressing believers, who are made the body of which Christ is the Head, says: "I beseech you, therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable to God".
+
+[2:1000] The Manich aeans, on the other hand, say that human bodies are the workmanship of the race of darkness, and the prison in which the captive deity is confined.
+
+[2:1001] Thus Faustus' doctrine is very different from Paul's.
+
+[2:1002] But since whosover preaches to you another gospel than that ye have received must be accursed, what Christ says in Paul is the truth, while Manich aeus in Faustus is accursed.
+
+[2:1003] 23.
+
+[2:1004] Faustus says also, without knowing what he says, that we have retained the manners of the Gentiles.
+
+[2:1005] But seeing that the just lives by faith, and that the end of the commandment is love out of a pure heart, and a good conscience, and faith unfeigned, and that these three, faith, hope, and love, abide to form the life of believers, it is impossible that there should be similarity in the manners of those who differ in these three things.
+
+[2:1006] Those who believe differently, and hope differently, and love differently, must also live differently.
+
+[2:1007] And if we resemble the Gentiles in our use of such things as food and drink, and houses and clothes and baths, and those of us who marry, in taking and keeping wives, and in begetting and bringing up children as our heirs, there is still a great difference between the man who uses these things for some end of his own, and the man who, in using them, gives thanks to God, having no unworthy or erroneous ideas about God.
+
+[2:1008] For as you, according to your own heresy, though you eat the same bread as other men, and live upon the produce of the same plants and the water of the same fountain, and are clothed like others in wool and linen, yet lead a different life, not because you eat or drink, or dress differently, but because you differ from others in your ideas and in your faith, and in all these things have in view an end of your own—the end, namely, set forth in your false doctrines; in the same way we, though we resemble the Gentiles in the use of this and other things, do not resemble them in our life; for while the things are the same, the end is different: for the end we have in view is, according to the just commandment of God, love out of a pure heart, and a good conscience, and faith unfeigned; from which some having erred, are turned to vain jangling.
+
+[2:1009] In this vain jangling you bear the palm, for you do not attend to the fact that so great is the difference of life produced by a different faith, even when the things in possession and use are the same, that though your followers have wives, and in spite of themselves get children, for whom they gather and store up wealth; though they eat flesh, drink wine, bathe, reap harvests, gather vintages, engage in trade, and occupy high official positions, you nevertheless reckon them as belonging to you, and not to the Gentiles, though in their actions they approach nearer to the Gentiles than to you.
+
+[2:1010] And though some of the Gentiles in some things resemble you more than your own followers,—those, for instance, who in superstitious devotion abstain from flesh, and wine, and marriage,—you still count your own followers, even though they use all these things, and so are unlike you, as belonging to the flock of Manich aeus rather than those who resemble you in their practices.
+
+[2:1011] You consider as belonging to you a woman that believes in Manich aeus, though she is a mother, rather than a Sibyl, though she never marries.
+
+[2:1012] But you will say that many who are called Catholic Christians are adulterers, robbers, misers, drunkards, and whatever else is contrary to sound doctrine.
+
+[2:1013] I ask if none such are to be found in your company, which is almost too small to be called a company.
+
+[2:1014] And because there are some among the Pagans who are not of this character, do you consider them as better than yourselves? And yet, in fact, your heresy is so blasphemous, that even your followers who are not of such a character are worse than the Pagans who are.
+
+[2:1015] It is therefore no impeachment to sound doctrine, which alone is Catholic, that many wish to take its name, who will not yield to its beneficial influence.
+
+[2:1016] We must bear in mind the true meaning of the contrast which the Lord makes between the little company and the mass of mankind, as spread over all the world; for the company of saints and believers is small, as the amount of grain is small when compared with the heap of chaff; and yet the good grain is quite sufficient far to outnumber you, good and bad together, for good and bad are both strangers to the truth.
+
+[2:1017] In a word, we are not a schism of the Gentiles, for we differ from them greatly for the better; nor are you, for you differ from them greatly for the worse.
+
+[2:1018]              Book XXI.
+
+[2:1019] Faustus denies that Manich aeans believe in two gods.
+
+[2:1020] Hyle no god.
+
+[2:1021] Augustin discusses at large the doctrine of God and Hyle, and fixes the charge of dualism upon the Manich aeans.
+
+[2:1022] 1.
+
+[2:1023] Faustus said: Do we believe in one God or in two? In one, of course.
+
+[2:1024] If we are accused of making two gods, I reply that it cannot be shown that we ever said anything of the kind.
+
+[2:1025] Why do you suspect us of this? Because, you say, you believe in two principles, good and evil.
+
+[2:1026] It is true, we believe in two principles; but one we call God, and the other Hyle, or, to use common popular language, the devil.
+
+[2:1027] If you think this means two gods, you may as well think that the health and sickness of which doctors speak are two kinds of health, or that good and evil are two kinds of good, or that wealth and poverty are two kinds of wealth.
+
+[2:1028] If I were describing two things, one white and the other black, or one hot and the other cold, or one sweet and the other bitter, it would appear like idiocy or insanity in you to say that I was describing two white things, or two hot things, or two sweet things.
+
+[2:1029] So, when I assert that there are two principles, God and Hyle, you have no reason for saying that I believe in two gods.
+
+[2:1030] Do you think that we must call them both gods because we attribute, as is proper, all the power of evil to Hyle, and all the power of good to God? If so, you may as well say that a poison and the antidote must both be called antidotes, because each has a power of its own, and certain effects follow from the action of both.
+
+[2:1031] So also, you may say that a physician and a poisoner are both physicians; or that a just and an unjust man are both just, because both do something.
+
+[2:1032] If this is absurd, it is still more absurd to say that God and Hyle must both be gods, because they both produce certain effects.
+
+[2:1033] It is a very childish and impotent way of arguing, when you cannot refute my statements, to make a quarrel about names.
+
+[2:1034] I grant that we, too, sometimes call the hostile nature God; not that we believe it to be God, but that this name is already adopted by the worshippers of this nature, who in their error suppose it to be God.
+
+[2:1035] Thus the apostle says: "The god of this world has blinded the minds of them that believe not".
+
+[2:1036] He calls him God, because he would be so called by his worshippers; adding that he blinds their minds, to show that he is not the true God.
+
+[2:1037] 2.
+
+[2:1038] Augustin replied: You often speak in your discourses of two gods, as indeed you acknowledge, though at first you denied it.
+
+[2:1039] And you give as a reason for thus speaking the words of the apostle: "The god of this world has blinded the minds of them that believe not".
+
+[2:1040] Most of us punctuate this sentence differently, and explain it as meaning that the true God has blinded the minds of unbelievers.
+
+[2:1041] They put a stop after the word God, and read the following words together.
+
+[2:1042] Or without this punctuation you may, for the sake of exposition, change the order of the words, and read, "In whom God has blinded the minds of unbelievers of this world," which gives the same sense.
+
+[2:1043] The act of blinding the minds of unbelievers may in one sense be ascribed to God, as the effect not of malice, but of justice.
+
+[2:1044] Thus Paul himself says elsewhere, "Is God unjust, who taketh vengeance?"   and again, "What shall we say then? Is there unrighteousness with God? God forbid.
+
+[2:1045] For Moses saith, I will have mercy on whom I will have mercy, and will have compassion on whom I will have compassion".
+
+[2:1046] Observe what he adds, after asserting the undeniable truth that there is no unrighteousness with God: "But what if God, willing to show His wrath, and to make His power known, endured with much long-suffering the vessels of wrath fitted for destruction, and that He might manifest the riches of His grace towards the vessels of mercy, which He hath before prepared unto glory?"  etc.
+
+[2:1047] Here it evidently cannot be said that it is one God who shows his wrath, and makes known his power in the vessels of wrath fitted for destruction, and another God who shows his riches in the vessels of mercy.
+
+[2:1048] According to the apostle's doctrine, it is one and the same God who does both.
+
+[2:1049] Hence he says again, "For this cause God gave them up to the lusts of their own heart, to uncleanness, to dishonor their own bodies between themselves;" and immediately after, "For this cause God gave them up unto vile affections;" and again, "And even as they did not like to retain God in their knowledge, God gave them over to a reprobate mind".
+
+[2:1050] Here we see how the true and just God blinds the minds of unbelievers.
+
+[2:1051] For in all these words quoted from the apostle no other God is understood than He whose Son, sent by Him, came saying, "For judgment am I come into this world, that they which see not might see, and that they which see might be made blind".
+
+[2:1052] Here, again, it is plain to the minds of believers how God blinds the minds of unbelievers.
+
+[2:1053] For among the secret things, which contain the righteous principles of God's judgment, there is a secret which determines that the minds of some shall be blinded, and the minds of some enlightened.
+
+[2:1054] Regarding this, it is well said of God, "Thy judgments are a great deep".
+
+[2:1055] The apostle, in admiration of the unfathomable depth of this abyss, exclaims: "O the depth of the riches both of the wisdom and of the knowledge of God! How unsearchable are His judgments, and His ways past finding out!"  3.
+
+[2:1056] You cannot distinguish between what God does in mercy and what He does in judgment, because you can neither understand nor use the words of our Psalter: "I will sing of mercy and judgment unto Thee, O Lord".
+
+[2:1057] Accordingly, whatever in the feebleness of your frail humanity seems amiss to you, you separate entirely from the will and judgment of God: for you are provided with another evil god, not by a discovery of truth, but by an invention of folly; and to this god you attribute not only what you do unjustly, but also what you suffer justly.
+
+[2:1058] Thus you assign to God the bestowal of blessings, and take from Him the infliction of judgments, as if He of whom Christ says that He has prepared everlasting fire for the wicked were a different being from Him who makes His sun to rise upon the evil and the good, and sends rain on the just and on the unjust.
+
+[2:1059] Why do you not understand that this great goodness and great severity belong to one God, but because you have not learned to sing of mercy and judgment? Is not He who causes the sun to rise on the evil and the good, and sends rain on the just and on the unjust, the same who also breaks off the natural branches, and engrafts contrary to nature the wild olive tree? Does not the apostle, in reference to this, say of this one God: "Thou seest, then, the goodness and severity of God: to them which were broken off, severity; but toward thee, goodness, if thou continue in His goodness?"  Here it is to be observed how the apostle takes away neither judicial severity from God, nor free-will from man.
+
+[2:1060] It is a profound mystery, impenetrable by human thought, how God both condemns the ungodly and justifies the ungodly; for both these things are said of Him in the truth of the Holy Scriptures.
+
+[2:1061] But is the mysteriousness of the divine judgments any reason for taking pleasure in cavilling against them? How much more becoming, and more suitable to the limitation of our powers, to feel the same awe which the apostle felt, and to exclaim, "O the depth of the riches both of the wisdom and of the knowledge of God! How unsearchable are His judgments, and His ways past finding out!" How much better thus to admire what you cannot explain, than to try to make an evil god in addition to the true God, simply because you cannot understand the one good God! For it is not a question of names, but of actions.
+
+[2:1062] 4.
+
+[2:1063] Faustus glibly defends himself by saying, "We speak not of two gods, but of God and Hyle".
+
+[2:1064] But when you ask for the meaning of Hyle, you find that it is in fact another god.
+
+[2:1065] If the Manich aeans gave the name of Hyle, as the ancients did, to the unformed matter which is susceptible of bodily forms, we should not accuse them of making two gods.
+
+[2:1066] But it is pure folly and madness to give to matter the power of forming bodies, or to deny that what has this power is God.
+
+[2:1067] When you give to some other being the power which belongs to the true God of making the qualities and forms, by which bodies, elements, and animals exist, according to their respective modes, whatever name you choose to give to this being, you are chargeable with making another god.
+
+[2:1068] There are indeed two errors in this blasphemous doctrine.
+
+[2:1069] In the first place, you ascribe the act of God to a being whom you are ashamed to call god; though you must call him god as long as you make him do things which only God can do.
+
+[2:1070] In the second place, the good things done by a good God you call bad, and ascribe to an evil god, because you feel a childish horror of whatever shocks the frailty of fallen humanity, and a childish pleasure in the opposite.
+
+[2:1071] So you think snakes are made by an evil being; while you consider the sun so great a good, that you believe it to be not the creature of God, but an emission from His substance.
+
+[2:1072] You must know that the true God, in whom, alas, you have not yet come to believe, made both the snake along with the lower creatures, and the sun along with other exalted creatures.
+
+[2:1073] Moreover, among still more exalted creatures, not heavenly bodies, but spiritual beings, He has made what far surpasses the light of the sun, and what no carnal man can perceive, much less you, who, in your condemnation of flesh, condemn the very principle by which you determine good and evil.
+
+[2:1074] For your only idea of evil is from the disagreeableness of some things to the fleshly sense; and your only idea of good is from sensual gratification.
+
+[2:1075] 5.
+
+[2:1076] When I consider the things lowest in the scale of nature, which are within our view, and which, though earthly, and feeble, and mortal, are still the works of God, I am lost in admiration of the Creator, who is so great, in the great works and no less great in the small.
+
+[2:1077] For the divine skill seen in the formation of all creatures in heaven and earth is always like itself, even in those things that differ from one another; for it is everywhere perfect, in the perfection which it gives to everything in its own kind.
+
+[2:1078] We see each creature made not as a whole by itself, but in relation to the rest of the creation; so that the whole divine skill is displayed in the formation of each, arranging each in its proper place and order, and providing what is suitable for all, both separately and unitedly.
+
+[2:1079] See here, lowest in the scale, the animals which fly, and swim, and walk, and creep.
+
+[2:1080] These are mortal creatures, whose life, as it is written, "is as a vapor which appeareth for a little time".
+
+[2:1081] Each of these, according to the capacity of its kind, contributes the measure appointed in the goodness of the Creator to the completeness of the whole, so that the lowest partake in the good which the highest possess in a greater degree.
+
+[2:1082] Show me, if you can, any animal, however despicable, whose soul hates its own flesh, and does not rather nourish and cherish it, by its vital motion minister to its growth and direct its activity, and exercise a sort of management over a little universe of its own, which it makes subservient to its own preservation.
+
+[2:1083] Even in the discipline of his own body by a rational being, who brings his body under, that earthly passion may not hinder his perception of wisdom, there is love for his own flesh, which he then reduces to obedience, which is its proper condition.
+
+[2:1084] Indeed, you yourselves, although your heresy teaches you a fleshly abhorrence of the flesh, cannot help loving your own flesh, and caring for its safety and comfort, both by avoiding all injury from blows, and falls, and inclement weather, and by seeking for the means of keeping it in health.
+
+[2:1085] Thus the law of nature is too strong for your false doctrine.
+
+[2:1086] 6.
+
+[2:1087] Looking at the flesh itself, do we not see in the construction of its vital parts, in the symmetry of form, in the position and arrangement of the limbs of action and the organs of sensation, all acting in harmony; do we not see in the adjustment of measures, in the proportion of numbers, in the order of weights, the handiwork of the true God, of whom it is truly said, "Thou hast ordered all things in measure, and number, and weight"?   If your heart was not hardened and corrupted by falsehood, you would understand the invisible things of God from the things which He has made, even in these feeble creatures of flesh.
+
+[2:1088] For who is the author of the things I have mentioned, but He whose unity is the standard of all measure, whose wisdom is the model of all beauty, and whose law is the rule of all order? If you are blind to these things, hear at least the words of the apostle.
+
+[2:1089] 7.
+
+[2:1090] For the apostle, in speaking of the love which husbands ought to have for their wives gives, as an example, the love of the soul for the body.
+
+[2:1091] The words are: "He that loveth his wife, loveth himself: for no man ever yet hated his own flesh, but nourisheth and cherisheth it, even as Christ the Church".
+
+[2:1092] Look at the whole animal creation, and you find in the instinctive self-preservation of every animal this natural principle of love to its own flesh.
+
+[2:1093] It is so not only with men, who, when they live aright, both provide for the safety of their flesh, and keep their carnal appetites in subjection to the use of reason; the brutes also avoid pain, and shrink from death, and escape as rapidly as they can from whatever might break up the construction of their bodies, or dissolve the connection of spirit and flesh; for the brutes, too, nourish and cherish their own flesh.
+
+[2:1094] "For no one ever yet," says the apostle, "hated his own flesh, but nourisheth and cherisheth it, even as Christ the Church".
+
+[2:1095] See where the apostle begins, and to what he ascends.
+
+[2:1096] Consider, if you can, the greatness which creation derives from its Creator, embracing as it does the whole extent from the host of heaven down to flesh and blood, with the beauty of manifold form, and the order of successive gradations.
+
+[2:1097] 8.
+
+[2:1098] The same apostle again, when speaking of spiritual gifts as diverse, and yet tending to harmonious action, to illustrate a matter so great, and divine, and mysterious, makes a comparison with the human body,—thus plainly intimating that this flesh is the handiwork of God.
+
+[2:1099] The whole passage, as found in the Epistle to the Corinthians, is so much to the point, that though it is long, I think it not amiss to insert it all: "Now concerning spiritual gifts, brethren, I would not have you ignorant.
+
+[2:1100] Ye know that ye were Gentiles, carried away unto these dumb idols, even as ye were led.
+
+[2:1101] Wherefore I give you to understand, that no man speaking by the Spirit of God calleth Jesus accursed; and that no man can say that Jesus is the Lord, but by the Holy Ghost.
+
+[2:1102] Now there are diversities of gifts, but the same Spirit.
+
+[2:1103] And there are diversities of administrations, but the same Lord.
+
+[2:1104] And there are diversities of operations, but it is the same God which worketh all in all.
+
+[2:1105] But the manifestation of the Spirit is given to every man to profit withal.
+
+[2:1106] For to one is given by the Spirit the word of wisdom; to another the word of knowledge by the same Spirit; to another faith by the same Spirit; to another the gifts of healing by the same Spirit; to another the working of miracles; to another prophecy; to another discerning of spirits; to another divers kinds of tongues; to another the interpretation of tongues: but all these worketh that one and the self-same Spirit, dividing to every man severally as He will.
+
+[2:1107] For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also is Christ.
+
+[2:1108] For by one Spirit are we all baptized into one body, whether we be Jews or Gentiles, whether we be bond or free; and have been all made to drink into one Spirit.
+
+[2:1109] For the body is not one member, but many.
+
+[2:1110] If the foot shall say, Because I am not the hand, I am not of the body; is it therefore not of the body? And if the ear shall say, Because I am not the eye, I am not of the body; is it therefore not of the body? If the whole body were an eye, where were the hearing? If the whole were hearing, where were the smelling? But now hath God set the members every one of them in the body, as it hath pleased Him.
+
+[2:1111] And if they were all one member, where were the body? But now are they many members, yet but one body.
+
+[2:1112] And the eye cannot say unto the hand, I have no need of thee; nor again the head to the feet, I have no need of you.
+
+[2:1113] Nay, much more those members of the body, which seem to be more feeble, are necessary; and those members of the body which we think to be less honorable, upon these we bestow more abundant honor; and our uncomely parts have more abundant comeliness.
+
+[2:1114] For our comely parts have no need; but God hath tempered the body together, having given more abundant honor to that part which lacked: that there should be no schism in the body, but that the members should have the same care one for another.
+
+[2:1115] And whether one member suffer, all the members suffer with it; or one member be honored, all the members rejoice with it".
+
+[2:1116] Apart altogether from Christian faith, which would lead you to believe the apostle, if you have common sense to perceive what is self-evident, let each examine and see for himself the plain truth regarding those things of which the apostle speaks,—what greatness belongs to the least, and what goodness to the lowest; for these are the things which the apostle extols, in order to illustrate by means of these common and visible bodily objects, unseen spiritual realities of the most exalted nature.
+
+[2:1117] 9.
+
+[2:1118] Whoever, then, denies that our body and its members, which the apostle so approves and extols, are the handiwork of God, you see whom he contradicts, preaching contrary to what you have received.
+
+[2:1119] So, instead of refuting his opinions, I may leave him to be accursed of all Christians.
+
+[2:1120] The apostle says, God tempered the body.
+
+[2:1121] Faustus says, Not God, but Hyle.
+
+[2:1122] Anathemas are more suitable than arguments to such contradictions.
+
+[2:1123] You cannot say that God is here called the God of this world.
+
+[2:1124] And if any one understands the passage where this expression does occur to mean that the devil blinds the minds of unbelievers, we grant that he does so by his evil suggestions, from yielding to which, men lose the light of righteousness in God's righteous retribution.
+
+[2:1125] This is all in accordance with sacred Scripture.
+
+[2:1126] The apostle himself speaks of temptation from without: "I fear lest, as the serpent beguiled Eve through his subtilty, so your minds should be corrupted from the simplicity and purity that is in Christ".
+
+[2:1127] To the same purpose are the words, "Evil communications corrupt good manners;"  and when he speaks of a man deceiving himself, "Whoever thinketh himself to be anything, when he is nothing, deceiveth himself;"  or again, in the passage already quoted of the judgment of God, "God gave them over to a reprobate mind, to do those things which are not convenient".
+
+[2:1128] Similarly, in the Old Testament, after the words, "God did not create death, nor hath He pleasure in the destruction of the living," we read, "By the envy of the devil death entered into the world".
+
+[2:1129] And again of death, that men may not put the blame from themselves, "The wicked invite her with hands and voice; and thinking her a friend, they are drawn down".
+
+[2:1130] [19] Elsewhere, however, it is said, "Good and evil, life and death, riches and poverty, are from the Lord God".
+
+[2:1131] This seems perplexing to people who do not understand that, apart from the manifest judgment to follow hereafter upon every evil work, there is an actual judgment at the time; so that in one action, besides the craft of the deceiver and the wickedness of the voluntary agent, there is also the just penalty of the judge: for while the devil suggests, and man consents, God abandons.
+
+[2:1132] So, if you join the words, God of this world, and understand that the devil blinds unbelievers by his mischievous delusions, the meaning is not a bad one.
+
+[2:1133] For the word God is not used by itself, but with the qualification of this world, that is, of wicked men, who seek to prosper only in this age.
+
+[2:1134] In this sense the world is also called evil, where it is written, "that He might deliver us from this present evil age".
+
+[2:1135] In the same way, in the expression, "whose god is their belly," it is only in connection with the word whose that the belly is called god.
+
+[2:1136] So also, in the Psalms, the devils would not be called gods without adding "of the nations".
+
+[2:1137] But in the passage we are now considering it is not said, The god of this world, or, Whose god is their belly, or, The gods of the nations are devils; but simply, God has tempered the body, which can be understood only of the true God, the Creator of all.
+
+[2:1138] There is no disparaging addition here, as in the other cases.
+
+[2:1139] But perhaps Faustus will say that God tempered the body, not as the maker of it, in the arrangement of its members, but by mixing His light with it.
+
+[2:1140] Thus Faustus would attribute to some other being than God the construction of the body, and the arrangement of its members, while God tempered the evil of the construction by the mixture of His goodness.
+
+[2:1141] Such are the inventions with which the Manich aeans cram feeble minds.
+
+[2:1142] But God, in aid of the feeble, by the mouth of the sacred writers rebukes this opinion.
+
+[2:1143] For we read a few verses before: "God has placed the members every one of them in the body, as it has pleased Him".
+
+[2:1144] Evidently, God is said to have tempered the body, because He has constructed it of many members, which in their union preserve the variety of their respective functions.
+
+[2:1145] 10.
+
+[2:1146] Do the Manich aeans suppose that the animals which, according to their wild notions, were constructed by Hyle in the race of darkness, had not this harmonious action of their members, commended by the apostle, before God mixed His light with them; so that then the head did say to the feet, or the eye to the hand, I have no need of thee? This is not and cannot be the Manich aean doctrine, for they describe the animals as using all these members, and speak of them as creeping, walking, swimming, flying, each in its own kind.
+
+[2:1147] They could all see, too, and hear, and use the other senses, and nourish and cherish their own bodies with appropriate means and appliances.
+
+[2:1148] Hence, moreover, they had the power of reproduction, for they are spoken of as having offspring.
+
+[2:1149] All these things, of which Faust speaks disparagingly as the works of Hyle, could not be done without that harmonious arrangement which the apostle praises and ascribes to God.
+
+[2:1150] Is it not now plain who is to be followed, and who is to be pronounced accursed? Indeed, the Manich aeans tell us of animals that could speak; and their speeches were heard and understood and approved of by all creatures, whether creeping things, or quadrupeds, or birds, or fish.
+
+[2:1151] Amazing and supernatural eloquence! Especially as they had no grammarian or elocutionist to teach them, and had not passed through the painful experience of the cane and the birch.
+
+[2:1152] Why, Faustus himself began late in life to learn oratory, that he might discourse eloquently on these absurdities; and with all his cleverness, after ruining his health by study, his preaching has gained a mere handful of followers.
+
+[2:1153] What a pity that he was born in the light, and not in that region of darkness! If he had discoursed there against the light, the whole animal creation, from the biped to the centipede, from the dragon to the shell-fish, would have listened eagerly, and obeyed at once; whereas, when he discourses here against the race of darkness, he is oftener called eloquent than learned, and oftener still a false teacher of the worst kind.
+
+[2:1154] And among the few Manich aeans who extol him as a great teacher, he has none of the lower animals as his disciples; and not even his horse is any the wiser for his master's instructions, so that the mixture of a part of deity seems only to make the animals more stupid.
+
+[2:1155] What absurdity is this! When will these deluded beings have the sense to compare the description in the Manich aean fiction of what the animals were formerly in their own region, with what they are now in this world? Then their bodies were strong, now they are feeble; then their power of vision was such that they were induced to invade the region of God on account of the beauty which they saw, now it is too weak to face the rays of the sun; then they had intelligence sufficient to understand a discourse addressed to them, now they have no ability of the kind; then this astonishing and effective eloquence was natural, now eloquence of the most meagre kind requires diligent study and preparation.
+
+[2:1156] How many good things did the race of darkness lose by the mixture of good!  11.
+
+[2:1157] Faustus has displayed his ingenuity, in the remarks to which I am now replying, by making for himself a long list of opposites—health and sickness, riches and poverty, white and black, cold and hot, sweet and bitter.
+
+[2:1158] We need not say much about black and white.
+
+[2:1159] Or, if there is a character for good or evil in colors, so that white must be ascribed to God and black to Hyle; if God threw a white color on the wings of birds, when Hyle, as the Manich aeans say, created them, where had the crows gone to when the swans got whitened? Nor need we discuss heat and cold, for both are good in moderation, and dangerous in excess.
+
+[2:1160] With regard to the rest, Faustus probably intended that good and evil, which he might as well have put first, should be understood as including the rest, so that health, riches, white, hot, sweet, should belong to good; and sickness, poverty, black, cold, bitter, to evil.
+
+[2:1161] The ignorance and folly of this is obvious.
+
+[2:1162] It might look like reviling if I were to take up separately white and black, hot and cold, sweet and bitter, health and sickness.
+
+[2:1163] For if white and sweet are both good, and black and bitter evil, how is it that most grapes and all olives become black as they become sweet, and so get good by getting evil? And if heat and health are both good, and cold and sickness evil, why do bodies become sick when heated? Is it healthy to have fever? But I let these things pass, for they may have been put down hastily, or they may have been given as merely instances of opposition, and not as being good and bad, especially as it is nowhere stated that the fire among the race of darkness is cold, so that heat in this case must unquestionably be evil.
+
+[2:1164] 12.
+
+[2:1165] We pass on, then, to health, riches, sweetness, which Faustus evidently accounts good in his contrasts.
+
+[2:1166] Was there no health of body in the race of darkness where animals were born and grew up and brought forth, and had such vitality, that when some that were with child were taken, as the story is, and were put in bonds in heaven, even the abortive offspring of a premature birth, falling from heaven to earth, nevertheless lived, and grew, and produced the innumerable kinds of animals which now exist? Or were there no riches where trees could grow not only in water and wind, but in smoke and fire, and could bear such a rich produce, that animals, according to their several kinds, sprang from the fruit, and were provided with the means of subsistence from those fertile trees, and showed how well fed they were by a numerous progeny? And all this where there was no toil in cultivation, and no inclement change from summer to winter, for there was no sun to give variety to the seasons by his annual course.
+
+[2:1167] There must have been perennial productiveness where the trees were not only born in their own element, but had a supply of appropriate nourishment to make them constantly fertile; as we see orange-trees bearing fruit all the year round if they are well watered.
+
+[2:1168] The riches must have been abundant, and they must have been secure from harm; for there could be no fear of hailstorms when there were no light-gatherers who, in your fable, set the thunder in motion.
+
+[2:1169] 13.
+
+[2:1170] Nor would the beings in this race of darkness have sought for food if it had not been sweet and pleasant, so that they would have died from want.
+
+[2:1171] For we find that all bodies have their peculiar wants, according to which food is either agreeable or offensive.
+
+[2:1172] If it is agreeable, it is said to be sweet or pleasant; if it is offensive, it is said to be bitter or sour, or in some way disagreeable.
+
+[2:1173] In human beings we find that one desires food which another dislikes, from a difference in constitution or habit or state of health.
+
+[2:1174] Still more, animals of quite different make can find pleasure in food which is disagreeable to us.
+
+[2:1175] Why else should the goats feed so eagerly on the wild olives? This food is sweet to them, as in some sicknesses honey tastes bitter to us.
+
+[2:1176] To a thoughtful inquirer these things suggest the beauty of the arrangement in which each finds what suits it, and the greatness of the good which extends from the lowest to the highest, and from the material to the spiritual.
+
+[2:1177] As for the race of darkness, if an animal sprung from any element fed on what was produced by that element, doubtless the food must have been sweet from its appropriateness.
+
+[2:1178] Again, if this animal had found food of another element, the want of appropriateness would have appeared in its offensiveness to the taste.
+
+[2:1179] Such offensiveness is called sourness, or bitterness, or disagreeableness, or something of the kind; or if its adverse nature is such as to destroy the harmony of the bodily constitution, and so take away life or reduce the strength, it is called poison, simply on account of this want of appropriateness, while it may nourish the kind of life to which it is appropriate.
+
+[2:1180] So, if a hawk eat the bread which is our daily food, it dies; and we die if we eat hellebore, which cattle often feed on, and which may itself in a certain form be used as a medicine.
+
+[2:1181] If Faustus had known or thought of this, he would not have given poison and antidote as an example of the two natures of good and evil, as if God were the antidote and Hyle the poison.
+
+[2:1182] For the same thing, of one and the same nature, kills or cures, as it is used appropriately or inappropriately.
+
+[2:1183] In the Manich aean legends, their god might be said to have been poison to the race of darkness; for he so injured their bodies, that from being strong, they became utterly feeble.
+
+[2:1184] But then again, as the light was itself taken, and subjected to loss and injury, it may be said to have been poison to itself.
+
+[2:1185] 14.
+
+[2:1186] Instead of one good and one evil principle, you seem to make both good or both evil, or rather two good and two evil; for they are good in themselves, and evil to one another.
+
+[2:1187] We may see afterwards which is the better or the worse; but meanwhile we may think of them as both good in themselves.
+
+[2:1188] Thus God reigned in one region, while Hyle reigned in the other.
+
+[2:1189] There was health in both kingdoms, and rich produce in both; both had a numerous progeny, and both tasted the sweetness of pleasures suitable to their respective natures.
+
+[2:1190] But the race of darkness, say the Manich aeans, excepting the part which was evil to the light which it bordered on, was also evil to itself.
+
+[2:1191] As, however, I have already pointed out many good things in it, if you can point out its evils, there will still be two good kingdoms, though the one where there are no evils will be the better of the two.
+
+[2:1192] What, then, do you call its evils? They plundered, and killed, and devoured one another, according to Faustus.
+
+[2:1193] But if they did nothing else than this, how could such numerous hosts be born and grow up to maturity? They must have enjoyed peace and tranquillity too.
+
+[2:1194] But, allowing the kingdom where there is no discord to be the better of the two, still they should both be called good, rather than one good and the other bad.
+
+[2:1195] Thus the better kingdom will be that where they killed neither themselves nor one another; and the worse, or less good, where, though they fought with one another, each separate animal preserved its own nature in health and safety.
+
+[2:1196] But we cannot make much difference between your god and the prince of darkness, whom no one opposed, whose reign was acknowledged by all, and whose proposals were unanimously agreed to.
+
+[2:1197] All this implies great peace and harmony.
+
+[2:1198] Those kingdoms are happy where all agree heartily in obedience to the king.
+
+[2:1199] Moreover, the rule of this prince extended not only to his own species, or to bipeds whom you make the parents of mankind, but to all kinds of animals, who waited in his presence, obeying his commands, and believing his declarations.
+
+[2:1200] Do you think people are so stupid as not to recognize the attributes of deity in your description of this prince, or to think it possible that you can have another? If the authority of this prince rested on his resources, he must have been very powerful; if on his fame, he must have been renowned; if on love, the regard must have been universal; if on fear, he must have kept the strictest order.
+
+[2:1201] If some evils, then, were mixed with so many good things, who that knows the meaning of words would call this the nature of evil? Besides, if you call this the nature of evil, because it was not only evil to the other nature, but was also evil in itself, was there no evil, think you, in the dire necessity to which your god was subjected before the mixture with the opposite nature, so that he was compelled to fight with it, and to send his own members to be swallowed up so mercilessly as to be beyond the hope of complete recovery? This was a great evil in that nature before its mixture with the only thing you allow to be evil.
+
+[2:1202] Your god must either have had it in his power not to be injured and sullied by the race of darkness, in which case his own folly must have brought him into trouble; or if his substance was liable to corruption, the object of your worship is not the incorruptible God of whom the apostle speaks.
+
+[2:1203] Does not, then this liability to corruption, even apart from the actual experience, seem to you to be an evil in your god?  15.
+
+[2:1204] It is plain, moreover, that either he must have been destitute of prescience,—a great defect, surely, in the Deity, not to know what is coming; or if he had prescience, he can never have felt secure, but must have been in constant terror, which you must allow to be a serious evil.
+
+[2:1205] There must have been the fear at every moment, that the time might be come for that conflict in which his members suffered such loss and contamination, that to liberate and purify them costs infinite labor, and, after all, can be done only partially.
+
+[2:1206] If it is going too far to attribute this state of alarm to the Deity himself, his members at least must have dreaded the prospect of suffering all these evils.
+
+[2:1207] Then, again, if they were ignorant of what was to happen, the substance of your god must have been so far wanting in prescience.
+
+[2:1208] How many evils do you reckon in your chief good? Perhaps you will say that they had no fear, because they foresaw, along with the suffering, their liberation and triumph.
+
+[2:1209] But still they must have feared for their companions, if they knew that they were to be cut off from their kingdom, and bound for ever in the mass of darkness.
+
+[2:1210] 16.
+
+[2:1211] Had they not the charity to feel a kindly sympathy for those who were doomed to suffer eternal punishment, without having committed any sin? These souls that were to be bound up with the mass, were not they too part of your god? Were they not of the same origin, the same substance? They at least must have felt grief or fear in the prospect of their own eternal bondage.
+
+[2:1212] To say that they did not know what was to happen, while the others did, is to make one and the same substance partly acquainted with the future, and partly ignorant.
+
+[2:1213] How can you call this substance the pure, and perfect, and supreme good, if there were such evils in it, even before its mixture with the evil principle? You will have to confess your two principles either both good or both evil.
+
+[2:1214] If you make two evils, you may make either of them the worse, as you please.
+
+[2:1215] But if you make two goods, we shall have to inquire which you make the better.
+
+[2:1216] Meanwhile there is an end to your doctrine of two principles, one good and the other evil, which are in fact two gods, one good and the other evil.
+
+[2:1217] But if hurting another is evil, they both hurt one another.
+
+[2:1218] Perhaps the greater evil was in the principle that first began the attack.
+
+[2:1219] But if one began the injury, the other returned it; and not by the law of compensation, an eye for an eye, which you are foolish enough to find fault with, but with far greater severity.
+
+[2:1220] You must choose which you will call the worse,—the one that began the injury, or the one that had the will and the power to do still greater injury.
+
+[2:1221] The one tried to get a share in the enjoyment of light; the other effected the entire overthrow of its opponent.
+
+[2:1222] If the one had got what it desired, it would certainly have done no harm to itself.
+
+[2:1223] But the other, in the discomfiture of its adversary, did great mischief to part of itself; reminding us of the well-known passionate exclamation, which is on record as having been actually used, "Perish our friends, if that will rid us of our enemies".
+
+[2:1224] For part of your god was sent to suffer hopeless contamination, that there might be a covering for the mass in which the enemy is to be buried for ever alive.
+
+[2:1225] So much will he continue to be dreaded even when conquered and bound, that the security, such as it is, of one part of the deity must be purchased by the eternal misery of the other parts.
+
+[2:1226] Such is the harmlessness of the good principle! Your god, it appears, is guilty of the crime with which you charge the race of darkness—of injuring both friends and enemies.
+
+[2:1227] The charge is proved in the case of your god, by that final mass in which his enemies are confined, while his own subjects are involved in it.
+
+[2:1228] In fact, the principle that you call god is the more injurious of the two, both to friends and to enemies.
+
+[2:1229] In the case of Hyle, there was no desire to destroy the opposite kingdom, but only to possess it; and though some of its subjects were put to death by the violence of others, they appeared again in other forms, so that in the alternation of life and death they had intervals of enjoyment in their history.
+
+[2:1230] But your god, with all the omnipotence and perfect excellence that you ascribe to him, dooms his enemies to eternal destruction, and his friends to eternal punishment.
+
+[2:1231] And the height of insanity is in believing that while internal contest occasions the injury of the members of Hyle, victory brings punishment to the members of God.
+
+[2:1232] What means this folly? To use Faustus' comparison of God and Hyle to the antidote and poison, the antidote seems to be more mischievous than the poison.
+
+[2:1233] We do not hear of Hyle shutting up God for ever in a mass of darkness, or driving its own members into it; or, which is worst of all, slandering this unfortunate remnant, as an excuse for not effecting its purification.
+
+[2:1234] For Manich aeus, in his Fundamental Epistle, says that these souls deserved to be thus punished, because they allowed themselves to be led away from their original brightness, and became enemies of holy light; whereas it was God himself that sent them to lose themselves in the region of darkness, that light might be opposed to light: which was unjust, if he forced them against their will; while, if they went willingly, he is ungrateful in punishing them.
+
+[2:1235] These souls can never have been happy, if they were tormented with fear before the conflict, from knowing that they were to become enemies to their original principle, and then in the conflict were hopelessly contaminated, and afterwards eternally condemned.
+
+[2:1236] On the other hand, they can never have been divine, if before the conflict they were unaware of what was coming, from want of prescience, and then showed feebleness in the conflict, and suffered misery afterwards.
+
+[2:1237] And what is true of them must be true of God, since they are of the same substance.
+
+[2:1238] Is there any hope of your seeing the folly of these blasphemies? You attempt, indeed, to vindicate the goodness of God, by asserting that Hyle when shut up is prevented from doing any more injury to itself.
+
+[2:1239] Hyle, it seems, is to get some good, when it has no longer any good mixed with it.
+
+[2:1240] Perhaps, as God before the conflict had the evil of necessity, when the good was unmixed with evil, so Hyle after the conflict is to have the good of rest, when the evil is unmixed with good.
+
+[2:1241] Your principles are thus either two evils, one worse than the other; or two goods, both imperfect, but one better than the other.
+
+[2:1242] The better, however, is the more miserable; for if the issue of this great conflict is that the enemy gets some good by the cessation of mutual injuries in Hyle, while God's own subjects suffer the serious evil of being driven into the mass of darkness, we may ask who has got the victory.
+
+[2:1243] The poison, we are to understand, is Hyle, where, nevertheless, animal life found a plentiful supply of the means of growth and productiveness; while the antidote is God, who could condemn his own members, but could not restore them.
+
+[2:1244] In reality, it is as absurd to call the one Hyle, as it is to call the other God.
+
+[2:1245] These are the follies of men who turn to fables because they cannot bear sound doctrine.
+
+[2:1246]              Book XXII.
+
+[2:1247] Faustus states his objections to the morality of the law and the prophets, and Augustin seeks by the application of the type and the allegory to explain away the moral difficulties of the Old Testament.
+
+[2:1248] 1.
+
+[2:1249] Faustus said: You ask why we blaspheme the law and the prophets.
+
+[2:1250] We are so far from professing or feeling any hostility to the law and the prophets, that we are ready, if you will allow us, to declare the falsehood of all the writings which make the law and the prophets appear objectionable.
+
+[2:1251] But this you refuse to admit, and by maintaining the authority of your writers, you bring a perhaps unmerited reproach upon the prophets; you slander the patriarchs, and dishonor the law.
+
+[2:1252] You are so unreasonable as to deny that your writers are false, while you uphold the piety and sanctity of those who are described in these writings as guilty of the worst crimes, and as leading wicked lives.
+
+[2:1253] These opinions are inconsistent; for either these were bad characters, or the writers were untruthful.
+
+[2:1254] 2.
+
+[2:1255] Supposing, then, that we agree in condemning the writers, we may succeed in vindicating the law and the prophets.
+
+[2:1256] By the law must be understood not circumcision, or Sabbaths, or sacrifices, or the other Jewish observances, but the true law, viz.
+
+[2:1257] , Thou shall not kill, Thou shalt not commit adultery, Thou shalt not bear false witness, and so on.
+
+[2:1258] To this law, promulgated throughout the world, that is, at the commencement of the present constitution of the world, the Hebrew writers did violence, by infecting it with the pollution of their disgusting precepts about circumcision and sacrifice.
+
+[2:1259] As a friend of the law, you should join with me in condemning the Jews for injuring the law by this mixture of unsuitable precepts.
+
+[2:1260] Plainly, you must be aware that these precepts are not the law, or any part of the law, since you claim to be righteous, though you make no attempt to keep the precepts.
+
+[2:1261] In seeking to lead a righteous life, you pay great regard to the commandments which forbid sinful actions, while you take no notice of the Jewish observances; which would be unjustifiable if they were one and the same law.
+
+[2:1262] You resent as a foul reproach being called negligent of the precept, "Thou shalt not kill," or "Thou shall not commit adultery".
+
+[2:1263] And if you showed the same resentment at being called uncircumcised, or negligent of the Sabbath, it would be evident that you considered both to be the law and the commandment of God.
+
+[2:1264] In fact, however, you consider the honor and glory of keeping the one no way endangered by disregard of the other.
+
+[2:1265] It is plain, as I have said, that these observances are not the law, but a disfigurement of the law.
+
+[2:1266] If we condemn them, it is not as being genuine, but as spurious.
+
+[2:1267] In this condemnation there is no reproach of the law, or of God its author, but only of those who published their shocking superstitions under these names.
+
+[2:1268] If we sometimes abuse the venerable name of law in attacking the Jewish precepts, the fault is yours, for refusing to distinguish between Hebrew observances and the law.
+
+[2:1269] Only restore to the law its proper dignity, by removing these foul Israelitish blots; grant that these writers are guilty of disfiguring the law, and you will see at once that we are the enemies not of the law, but of Judaism.
+
+[2:1270] You are misled by the word law; for you do not know to what that name properly belongs.
+
+[2:1271] 3.
+
+[2:1272] For my part, I see no reason for your thinking that we blaspheme your prophets and patriarchs.
+
+[2:1273] There would indeed be some ground for the charge, if we had been directly or remotely the authors of the account given of their actions.
+
+[2:1274] But as this account is written either by themselves, in a criminal desire to be famous for their misdeeds, or by their companions and coevals, why should you blame us? You condemn them in abhorrence of the wicked actions of which they have voluntarily declared themselves guilty, though there was no occasion for such a confession.
+
+[2:1275] Or if the narrative is only a malicious fiction, let its authors be punished, let the books be condemned, let the prophetic name be cleared from this foul reproach, let the patriarchs recover the respect due to their simplicity and purity of managers.
+
+[2:1276] 4.
+
+[2:1277] These books, moreover, contain shocking calumnies against God himself.
+
+[2:1278] We are told that he existed from eternity in darkness, and admired the light when he saw it; that he was so ignorant of the future, that he gave Adam a command, not foreseeing that it would be broken; that his perception was so limited that he could not see Adam when, from the knowledge of his nakedness, he hid himself in a corner of Paradise; that envy made him afraid lest his creature man should taste of the tree of life, and live for ever; that afterwards he was greedy for blood, and fat from all kinds of sacrifices, and jealous if they were offered to any one but himself; that he was enraged sometimes against his enemies, sometimes against his friends; that he destroyed thousands of men for a slight offense, or for nothing; that he threatened to come with a sword and spare nobody, righteous or wicked.
+
+[2:1279] The authors of such bold libels against God might very well slander the men of God.
+
+[2:1280] You must join with us in laying the blame on the writers if you wish to vindicate the prophets.
+
+[2:1281] 5.
+
+[2:1282] Again, we are not responsible for what is said of Abraham, that in his irrational craving to have children, and not believing God, who promised that his wife Sara should have a son, he defiled himself with a mistress, with the knowledge of his wife, which only made it worse;  or that, in sacrilegious profanation of his marriage, he on different occasions, from avarice and greed, sold his wife Sara for the gratification of the kings Abimelech and Pharas, telling them that she was his sister, because she was very fair.
+
+[2:1283] The narrative is not ours, which tells how Lot, Abraham's brother, after his escape from Sodom, lay with his two daughters on the mountain  (better for him to have perished in the conflagration of Sodom, than to have burned with incestuous passion); or how Isaac imitated his father's conduct, and called his wife Rebecca his sister, that he might gain a shameful livelihood by her;  or how his son Jacob, husband of four wives—two full sisters, Rachel and Leah, and their handmaids—led the life of a goat among them, so that there was a daily strife among his women who should be the first to lay hold of him when he came from the field, ending sometimes in their hiring him from one another for the night;  or, again, how his son Judah slept with his daughter-in-law Tamar, after she had been married to two of his sons, deceived, we are told, by the harlot's dress which Tamar put on, knowing that her father-in-law was in the habit of associating with such characters;  or how David, after having a number of wives, seduced the wife of his soldier Uriah, and caused Uriah himself to be killed in the battle;  or how his son Solomon had three hundred wives, and seven hundred concubines, and princesses without number;  or how the first prophet Hosea got children from a prostitute, and, what is worse, it is said that this disgraceful conduct was enjoined by God;  or how Moses committed murder,  and plundered Egypt,  and waged wars, and commanded, or himself perpetrated, many cruelties.
+
+[2:1284] And he too was not content with one wife.
+
+[2:1285] We are neither directly nor remotely the authors of these and similar narratives, which are found in the books of the patriarchs and the prophets.
+
+[2:1286] Either your writers forged these things, or the fathers are really guilty.
+
+[2:1287] Choose which you please; the crime in either case is detestable, for vicious conduct and falsehood are equally hateful.
+
+[2:1288] 6.
+
+[2:1289] Augustin replied: You understand neither the symbols of the law nor the acts of the prophets, because you do not know what holiness or righteousness means.
+
+[2:1290] We have repeatedly shown at great length, that the precepts and symbols of the Old Testament contained both what was to be fulfilled in obedience through the grace bestowed in the New Testament, and what was to be set aside as a proof of its having been fulfilled in the truth now made manifest.
+
+[2:1291] For in the love of God and of our neighbor is secured the accomplishment of the precepts of the law, while the accomplishment of its promises is shown in the abolition of circumcision, and of other typical observances formerly practised.
+
+[2:1292] By the precept men were led, through a sense of guilt to desire salvation; by the promise they were led to find in the typical observances the assurance that the Saviour would come.
+
+[2:1293] The salvation desired was to be obtained through the grace bestowed on the appearance of the New Testament; and the fulfillment of the expectation rendered the types no longer necessary.
+
+[2:1294] The same law that was given by Moses became grace and truth in Jesus Christ.
+
+[2:1295] By the grace in the pardon of sin, the precept is kept in force in the case of those supported by divine help.
+
+[2:1296] By the truth the symbolic rites are set aside, that the promise might, in those who trust in the divine faithfulness, be brought to pass.
+
+[2:1297] 7.
+
+[2:1298] Those, accordingly, who, finding fault with what they do not understand, call the typical institutions of the law disfigurements and excrescences, are like men displeased with things of which they do not know the use.
+
+[2:1299] As if a deaf man, seeing others move their lips in speaking, were to find fault with the motion of the mouth as needless and unsightly; or as if a blind man, on hearing a house commended, were to test the truth of what he heard by passing his hand over the surface of the wall, and on coming to the windows were to cry out against them as flaws in the level, or were to suppose that the wall had fallen in.
+
+[2:1300] 8.
+
+[2:1301] How shall I make those whose minds are full of vanity understand that the actions of the prophets were also mystical and prophetic? The vanity of their minds is shown in their thinking that we believe God to have once existed in darkness, because it is written, "Darkness was over the deep".
+
+[2:1302] As if we called the deep God, where there was darkness, because the light did not exist there before God made it by His word.
+
+[2:1303] From their not distinguishing between the light which is God, and the light which God made, they imagine that God must have been in darkness before He made light, because darkness was over the deep before God said, "Let there be light, and there was light".
+
+[2:1304] In the New Testament both these things are ascribed to God.
+
+[2:1305] For we read, "God is light, and in Him is no darkness at all;"  and again, "God, who commanded the light to shine out of darkness, hath shined in our hearts".
+
+[2:1306] So also, in the Old Testament, the name "Brightness of eternal light"  is given to the wisdom of God, which certainly was not created, for by it all things were made; and of the light which exists only as the production of this wisdom it is said, "Thou wilt light my candle, O Lord; my God, Thou wilt enlighten my darkness".
+
+[2:1307] In the same way, in the beginning, when darkness was over the deep, God said, "Let there be light, and there was light," which only the light-giving light, which is God Himself, could have made.
+
+[2:1308] 9.
+
+[2:1309] For as God is His own eternal happiness, and is besides the bestower of happiness, so He is His own eternal light, and is also the bestower of light.
+
+[2:1310] He envies the good of none, for He is Himself the source of happiness to all good beings; He fears the evil of none, for the loss of all evil beings is in their being abandoned by Him.
+
+[2:1311] He can neither be benefited by those on whom He Himself bestows happiness, nor is He afraid of those whose misery is the doom awarded by His own judgment.
+
+[2:1312] Very different, O Manich aeus, is the object of your worship.
+
+[2:1313] You have departed from God in the pursuit of your own fancies, which of all kinds have increased and multiplied in your foolish roving hearts, drinking in through the sense of sight the light of the heavenly bodies.
+
+[2:1314] This light, though it too is made by God, is not to be compared to the light created in the minds of the pious, whom God brings out of darkness into light, as He brings them out of sinfulness into righteousness.
+
+[2:1315] Still less can it be compared to that inaccessible light from which all kinds of light are derived.
+
+[2:1316] Nor is this light inaccessible to all; for "blessed are the pure in heart, for they shall see God".
+
+[2:1317] "God is light, and in Him is no darkness at all;" but the wicked shall not see light, as is said in Isaiah.
+
+[2:1318] [19] To them the light-giving light is inaccessible.
+
+[2:1319] From the light comes not only the spiritual light in the minds of the pious, but also the material light, which is not denied to the wicked, but is made to rise on the evil and on the good.
+
+[2:1320] 10.
+
+[2:1321] So, when darkness was over the deep, He who was light said, "Let there be light".
+
+[2:1322] From what light this light came is clear; for the words are, "God said".
+
+[2:1323] What light is that which was made, is not so clear.
+
+[2:1324] For there has been a friendly discussion among students of the sacred Scriptures, whether God then made the light in the minds of the angels, or, in other words, these rational spirits themselves, or some material light which exists in the higher regions of the universe beyond our ken.
+
+[2:1325] For on the fourth day He made the visible luminaries of heaven.
+
+[2:1326] And it is also a question whether these bodies were made at the same time as their light, or were somehow kindled from the light made already.
+
+[2:1327] But whoever reads the sacred writings in the pious spirit which is required to understand them, must be convinced that whatever the light was which was made when, at the time that darkness was over the deep, God said, "Let there be light," it was created light, and the creating Light was the maker of it.
+
+[2:1328] 11.
+
+[2:1329] Nor does it follow that God, before He made light, abode in darkness, because it is said that darkness was over the deep, and then that the Spirit of God moved on the waters.
+
+[2:1330] The deep is the unfathomable abyss of the waters.
+
+[2:1331] And the carnal mind might suppose that the Spirit abode in the darkness which was over the deep, because it is said that He moved on the waters.
+
+[2:1332] This is from not understanding how the light shineth in darkness, and the darkness comprehendeth it not, till by the word of God those who were darkness are made light, and it is said to them, "Ye were once darkness, but now are ye light in the Lord".
+
+[2:1333] But if rational minds which are in darkness through a sinful will cannot comprehend the light of the wisdom of God, though it is present everywhere, because they are separated from it not in place, but in disposition: why may not the Spirit of God have moved on the darkness of the waters, when He moved on the waters, though at an immeasurable distance from it, not in place, but in nature?  12.
+
+[2:1334] In all this I know I am singing to deaf ears; but the Lord, from whom is the truth which we speak, can open some ears to catch the strain.
+
+[2:1335] But what shall we say of those critics of the Holy Scriptures who object to God's being pleased with His own works, and find fault with the words, "God saw the light that it was good," as if this meant that God admired the light as something new? God's seeing His works that they were good, means that the Creator approved of His own works as pleasing to Himself.
+
+[2:1336] For God cannot be forced to do anything against His will, so that He should not be pleased with His own work; nor can He do anything by mistake, so that He should regret having done it.
+
+[2:1337] Why should the Manich aeans object to our God seeing His work that it was good, when their god placed a covering before himself when he mingled his own members with the darkness? For instead of seeing his work that it is good, he refuses to look at it because it is evil.
+
+[2:1338] 13.
+
+[2:1339] Faustus speaks of our God as astonished, which is not said in Scripture; nor does it follow that one must be astonished when he sees anything to be good.
+
+[2:1340] There are many good things which we see without being astonished, as if they were better than we expected; we merely approve of them as being what they ought to be.
+
+[2:1341] We can, however, give an instance of God being astonished, not from the Old Testament, which the Manich aeans assail with undeserved reproach, but from the New Testament, which they profess to believe in order to entrap the unwary.
+
+[2:1342] For they acknowledge Christ as God, and use this as a bait to entice Christ's followers into their snares.
+
+[2:1343] God, then, was astonished when Christ was astonished.
+
+[2:1344] For we read in the Gospel, that when Christ heard the faith of a certain centurion, He was astonished, and said to His disciples, "Verily I have not found so great faith, no, not in Israel".
+
+[2:1345] We have already given our explanation of the words, "God saw that it was good".
+
+[2:1346] Better men may give a better explanation.
+
+[2:1347] Meanwhile let the Manich aeans explain Christ's being astonished at what He foresaw before it happened, and knew before He heard it.
+
+[2:1348] For though seeing a thing to be good is quite different from being astonished at it, in this case there is some resemblance, for Jesus was astonished at the light of faith which He Himself had created in the heart of the centurion; for Jesus is the true light, which enlighteneth every man that cometh into the world.
+
+[2:1349] 14.
+
+[2:1350] Thus an irreligious Pagan might bring the same reproaches against Christ in the Gospel, as Faustus brings against God in the Old Testament.
+
+[2:1351] He might say that Christ lacked foresight, not only because He was astonished at the faith of the centurion, but because He chose Judas as a disciple who proved disobedient to His commands; as Faustus objects to the precept given in Paradise, which, as it turned out, was not obeyed.
+
+[2:1352] He might also cavil at Christ's not knowing who touched Him, when the woman suffering from an issue of blood touched the hem of His garment; as Faustus blames God for not knowing where Adam had hid himself.
+
+[2:1353] If this ignorance is implied in God's saying, "Where art thou, Adam?"  the same may be said of Christ's asking, "Who touched me?"  The Pagans also might call Christ timid and envious, in not wishing five of the ten virgins to gain eternal life by entering into His kingdom, and in shutting them out, so that they knocked in vain in their entreaty to have the door opened, as if forgetful of His own promise, "Knock, and it shall be opened unto you;"  as Faustus charges God with fear and envy in not admitting man after his sin to eternal life.
+
+[2:1354] Again, he might call Christ greedy of the blood, not of beasts, but of men, because he said, "He that loseth his life for my sake, shall keep it unto life eternal;"  as Faustus reproaches God in reference to those animal sacrifices which prefigured the sacrifice of blood-shedding by which we are redeemed.
+
+[2:1355] He might also accuse Christ of jealousy, because in narrating His driving the buyers and sellers out of the temple, the evangelist quotes as applicable to Him the words, "The jealousy of Thine house hath eaten me up;"  as Faustus accuses God of jealousy in forbidding sacrifices to be offered to other gods.
+
+[2:1356] He might say that Christ was angry with both His friends and His enemies: with His friends, because He said, "The servant that knows his lord's will, and doeth it not, shall be beaten with many stripes;" and with His enemies, because He said, "If any one shall not receive you, shake off against him the dust of your shoes; verily I say unto you, that it shall be more tolerable for Sodom in the day of judgment than for that city;"  as Faustus accuses God of being angry at one time with His friends, and at another with His enemies; both of whom are spoken of thus by the apostle: "They that have sinned without law shall perish without law, and they that have sinned in the law shall be judged by the law".
+
+[2:1357] Or he might say that Christ shed the blood of many without mercy, for a slight offense or for nothing.
+
+[2:1358] For to a Pagan there would appear to be little or no harm in not having a wedding garment at the marriage feast, for which our King in the Gospel commanded a man to be bound hand and foot, and cast into outer darkness;  or in not wishing to have Christ for a king, which is the sin of which Christ says, "Those that would not have me to reign over them, bring hither and slay before me;"  as Faustus blames God in the Old Testament for slaughtering thousands of human beings for slight offenses, as Faustus calls them, or for nothing.
+
+[2:1359] Again, if Faustus finds fault with God's threatening to come with the sword, and to spare neither the righteous nor the wicked, might not the Pagan find as much fault with the words of the Apostle Paul, when he says of our God," He spared not His own Son, but gave Him up for us all;"  or of Peter, when, in exhorting the saints to be patient in the midst of persecution and slaughter, he says, "It is time that judgment begin from the house of God; and if it first begin at us, what shall the end be of them that believe not the gospel of the Lord? And if the righteous scarcely be saved, where shall the ungodly and sinner appear?"  What can be more righteous than the Only-Begotten, whom nevertheless the Father did not spare? And what can be plainer than that the righteous also are not spared, but chastised with manifold afflictions, as is clearly implied in the words, "If the righteous scarcely are saved"? As it is said in the Old Testament, "Whom the Lord loveth He correcteth, and chastiseth every son whom He receiveth;"  and, "If we receive good at the hand of the Lord, shall we not also receive evil?"  So we read also in the New Testament, "Whom I love I rebuke and chasten;"  and, "If we judge ourselves, we shall not be judged of the Lord; but when we are judged, we are corrected of the Lord, that we may not be condemned with the world".
+
+[2:1360] If a Pagan were to make such objections to the New Testament, would not the Manich aeans try to answer them, though they themselves make similar objections to the Old Testament? But supposing them able to answer the Pagan, how absurd it would be to defend in the one Testament what they find fault with in the other! But if they could not answer the objections of the Pagan, why should they not allow in both Testaments, instead of in one only, that what appears wrong to unbelievers, from their ignorance, should be believed to be right by pious readers even when they also are ignorant?  15.
+
+[2:1361] Perhaps our opponents will maintain that these parallel passages quoted from the New Testament are themselves neither authoritative nor true: for they claim the impious liberty of holding and teaching, that whatever they deem favorable to their heresy was said by Christ and the apostles; while they have the profane boldness to say, that whatever in the same writings is unfavorable to them is a spurious interpolation.
+
+[2:1362] I have already at some length, as far as the intention of the present work required, exposed the unreasonableness of this assault upon the authority of the whole of Scripture.
+
+[2:1363] 16.
+
+[2:1364] At present I would call attention to the fact, that when the Manich aeans, although they disguise their blasphemous absurdities under the name of Christianity, bring such objections against the Christian Scriptures, we have to defend the authority of the divine record in both Testaments against the Manich aeans as much as against the Pagans.
+
+[2:1365] A Pagan might find fault with passages in the New Testament in the same way as Faustus does with what he calls unworthy representations of God in the Old Testament; and the Pagan might be answered by the quotation of similar passages from his own authors, as in Paul's speech at Athens.
+
+[2:1366] Even in Pagan writings we might find the doctrine that God created and constructed the world, and that He is the giver of light, which does not imply that before light was made He abode in darkness; and that when His work was finished He was elated with joy, which is more than saying that He saw that it was good; and that He made a law with rewards for obedience, and punishments for disobedience, by which they do not mean to say that God was ignorant of the future, because He gave a law to those by whom it was to be broken.
+
+[2:1367] Nor could they make asking questions a proof of a want of foresight even in a human being; for in their books many questions are asked only for the purpose of using the answers for the conviction of the persons addressed: for the questioner knows not only what answer he desires, but what will actually be given.
+
+[2:1368] Again, if the Pagan tried to make out God to be envious of any one, because He will not give happiness to the wicked, he would find many passages in the writings of his own authors in support of this principle of the divine government.
+
+[2:1369] 17.
+
+[2:1370] The only objection that a Pagan would make on the subject of sacrifice would refer to our reason for finding fault with Pagan sacrifices, when in the Old Testament God is described as requiring men to offer sacrifice to Him.
+
+[2:1371] If I were to reply at length on this subject, I might prove to him that sacrifice is due only to the one true God, and that this sacrifice was offered by the one true Priest, the Mediator of God and man; and that it was proper that this sacrifice should be pre-figured by animal sacrifices, in order to foreshadow the flesh and blood of the one sacrifice for the remission of sins contracted by flesh and blood, which shall not inherit the kingdom of God: for the natural body will be endowed with heavenly attributes, as the fire in the sacrifice typified the swallowing up of death in victory.
+
+[2:1372] Those observances properly belonged to the people whose kingdom and priesthood were prophetic of the King and Priest who should come to govern and to consecrate believers in all nations, and to lead them into the kingdom of heaven, and the holy society of angels and eternal life.
+
+[2:1373] And as this true sacrifice was piously set forth in the Hebrew observances, so it was impiously caricatured by the Pagans, because, as the apostle says, what they offer they offer to devils, and not to God.
+
+[2:1374] The typical rite of blood-shedding in sacrifice dates from the earliest ages, pointing forward from the outset of human history to the passion of the Mediator.
+
+[2:1375] For Abel is mentioned in the sacred Scripture as the first who offered such sacrifices.
+
+[2:1376] We need not therefore wonder that fallen angels who occupy the air, and whose chief sins are pride and falsehood, should demand from their worshippers by whom they wished to be considered as gods what they knew to be due to God only.
+
+[2:1377] This deception was favored by the folly of the human heart, especially when regret for the dead led to the making of likenesses, and so to the use of images.
+
+[2:1378] By the increase of this homage, divine honors came to be paid to the dead as dwelling in heaven, while devils took their place on earth as the objects of worship, and required that their deluded and degraded votaries should present sacrifices to them.
+
+[2:1379] Thus the nature of sacrifice as due only to God appears not only when God righteously claims it, but also when a false god proudly arrogates it.
+
+[2:1380] If the Pagan was slow to believe these things, I should argue from the prophecies, and point out that, though uttered long ago, they are now fulfilled.
+
+[2:1381] If he still remained in unbelief, this is rather to be expected than to be wondered at; for the prophecy itself intimates that all would not believe.
+
+[2:1382] 18.
+
+[2:1383] If the Pagan, in the next place, were to find fault with both Testaments as attributing jealousy to God and Christ, he would only show his own ignorance of literature, or his forgetfulness.
+
+[2:1384] For though their philosophers distinguish between desire and passion, joy and gratification, caution and fear, gentleness and tender-heartedness, prudence and cunning, boldness and daring, and so on, giving the first name in each pair to what is good, and the second to what is bad, their books are notwithstanding full of instances in which, by the abuse of these words, virtues are called by the names which properly belong to vices; as passion is used for desire, gratification for joy, fear for caution, tender-heartedness for gentleness, cunning for prudence, daring for boldness.
+
+[2:1385] The cases are innumerable in which speech exhibits similar inaccuracies.
+
+[2:1386] Moreover, each language has its own idioms.
+
+[2:1387] For in religious writings I remember no instance of the word tender-heartedness being used in a bad sense.
+
+[2:1388] And common usage affords examples of similar peculiarities in the use of words.
+
+[2:1389] In Greek, one word stands for two distinct things, labor and pain; while we have a separate name for each.
+
+[2:1390] Again, we use the word in two senses, as when we say of what is not dead, that it has life; and again, of any one that he is a man of good life, whereas in Greek each of these meanings has a word of its own.
+
+[2:1391] So that, apart from the abuse of words which prevails in all languages, it may be an Hebrew idiom to use jealousy in two senses, as a man is called jealous when he suffers from a diseased state of mind caused by distress on account of the faithlessness of his wife, in which sense the word cannot be applied to God; or as when diligence is manifested in guarding conjugal chastity, in which sense it is profitable for us not only unhesitatingly to admit, but thankfully to assert, that God is jealous of His people when He calls them His wife, and warns them against committing adultery with a multitude of false gods.
+
+[2:1392] The same may be said of the anger of God.
+
+[2:1393] For God does not suffer perturbation when He visits men in anger; but either by an abuse of the word, or by a peculiarity of idiom, anger is used in the sense of punishment.
+
+[2:1394] 19.
+
+[2:1395] The slaughter of multitudes would not seem strange to the Pagan, unless he denied the judgment of God, which Pagans do not; for they allow that all things in the universe, from the highest to the lowest, are governed by God's providence.
+
+[2:1396] But if he would not allow this, he would be convinced either by the authority of Pagan writers, or by the more tedious method of demonstration; and if still obstinate and perverse, he would be left to the judgment which he denies.
+
+[2:1397] Then, if he were to give instances of the destruction of men for no offense, or for a very slight one, we should show that these were offenses, and that they were not slight.
+
+[2:1398] For instance, to take the case already referred to of the wedding garment, we should prove that it was a great crime in a man to attend the sacred feast, seeking not the bridegroom's glory, but his own, or whatever the garment may be found on better interpretation to signify.
+
+[2:1399] And in the case of the slaughter before the king of those who would not have him to reign over them, we might perhaps easily prove that, though it may be no sin in a man to refuse to obey his fellow-man, it is both a fault and a great one to reject the reign of Him in whose reign alone is there righteousness, and happiness, and continuance.
+
+[2:1400] 20.
+
+[2:1401] Lastly, as regards Faustus' crafty insinuation, that the Old Testament misrepresents God as threatening to come with a sword which will spare neither the righteous nor the wicked, if the words were explained to the Pagan, he would perhaps disagree neither with the Old Testament nor with the New; and he might see the beauty of the parable in the Gospel, which people who pretend to be Christians either misunderstand from their blindness, or reject from their perversity.
+
+[2:1402] The great husbandman of the vine uses his pruning-hook differently in the fruitful and in the unfruitful branches; yet he spares neither good nor bad, pruning one and cutting off the other.
+
+[2:1403] There is no man so just as not to require to be tried by affliction to advance, or to establish, or to prove his virtue.
+
+[2:1404] Do the Manich aeans not reckon Paul as righteous, who, while confessing humbly and honestly his past sins, still gives thanks for being justified by faith in Jesus Christ? Was Paul then spared by Him whom fools misunderstand, when He says, "I will spare neither the righteous nor the sinner"? Hear the apostle himself: "Lest I should be exalted above measure by the abundance of the revelation, there was given me a thorn in the flesh, a messenger of Satan to buffet me.
+
+[2:1405] For this I besought the Lord thrice, that He would remove it from me; and He said unto me, My grace is sufficient for thee: for strength is perfected in weakness".
+
+[2:1406] Here a just man is not spared that his strength might be perfected in weakness by Him who had given him an angel of Satan to buffet him.
+
+[2:1407] If you say that the devil gave this angel, it follows that the devil sought to prevent Paul's being exalted above measure by the abundance of the revelation, and to perfect his strength.
+
+[2:1408] This is impossible.
+
+[2:1409] Therefore He who gave up this righteous man to be buffeted by the messenger of Satan, is the same as He who, through Paul, gave up to Satan himself the wicked persons of whom Paul says: "I have delivered them to Satan, that they may learn not to blaspheme".
+
+[2:1410] Do you see now how the Most High spares neither the righteous nor the wicked? Or is it the sword that frightens you? For to be buffeted is not so bad as to be put to death.
+
+[2:1411] But did not the thousands of martyrs suffer death in various forms? And could their persecutors have had this power against them except it had been given them by God, who thus spared neither the righteous nor the wicked? For the Lord Himself, the chief martyr, says expressly to Pilate: "Thou couldst have no power at all against me, except it were given thee from above".
+
+[2:1412] Paul also, besides recording his own experience, says that the afflictions and persecutions of the righteous exhibit the judgment of God.
+
+[2:1413] This truth is set forth at length by the Apostle Peter in the passage already quoted, where he says: "It is time that judgment should begin at the house of the Lord.
+
+[2:1414] And if it first begin at us, what shall the end be of those that believe not the gospel of God? And if the righteous scarcely are saved, where shall the ungodly and the sinner appear?"  Peter also explains how the wicked are not spared, for they are branches broken off to be burnt; while the righteous are not spared, because their purification is to be brought to perfection.
+
+[2:1415] He ascribes these things to the will of Him who says in the Old Testament, I will spare neither the righteous nor the wicked; for he says: "It is better, if the will of the Spirit of God be so, that we suffer for well-doing than for evil-doing".
+
+[2:1416] So, when by the will of the Spirit of God men suffer for well-doing, the righteous are not spared; when they suffer for evil-doing, the wicked are not spared.
+
+[2:1417] In both cases it is according to the will of Him who says: I will spare neither the righteous nor the wicked; correcting the one as a son, and punishing the other as a transgressor.
+
+[2:1418] 21.
+
+[2:1419] I have thus shown, to the best of my power, that the God we worship did not abide from eternity in darkness, but is Himself light, and in Him is no darkness at all; and in Himself dwells in light inaccessible; and the brightness of this light is His coeternal wisdom.
+
+[2:1420] From what we have said, it appears that God was not taken by surprise by the unexpected appearance of light, but that light owes its existence to Him as its Creator, as its owes its continued existence to His approval.
+
+[2:1421] Neither was God ignorant of the future, but the author of the precept as well as the punisher of disobedience; that by showing His righteous anger against transgression, He might provide a restraint for the time, and a warning for the future.
+
+[2:1422] Nor does He ask questions from ignorance, but by His very inquiry declares His judgment.
+
+[2:1423] Nor is He curious or timid, but excludes the transgressor from eternal life, which is the just reward of obedience.
+
+[2:1424] Nor is He greedy for blood and fat; but by requiring from a carnal people sacrifices, suited to their character, He by certain types prefigures the true sacrifice.
+
+[2:1425] Nor is His jealousy an emotion of pale anxiety, but of quiet benevolence, in desire to keep the soul, which owes chastity to the one true God, from being defiled and prostituted by serving many false gods.
+
+[2:1426] Nor is He enraged with a passion similar to human anger, but is angry, not in the sense of desiring vengeance, but in the peculiar sense of giving full effect to the sentence of a righteous retribution.
+
+[2:1427] Nor does He destroy thousands of men for trifling offenses, or for nothing, but manifests to the world the benefit to be obtained from fearing Him, by the temporal death of those already mortal.
+
+[2:1428] Nor does He punish the righteous and sinners indiscriminately, but chastises the righteous for their good, in order to perfect them, and gives to sinners the punishment justly due to them.
+
+[2:1429] Thus, ye Manich aeans, do your suspicions lead you astray, when, by misunderstanding our Scriptures, or by hearing bad interpreters, you form a mistaken judgment of Catholics.
+
+[2:1430] Hence you leave sound doctrine, and turn to impious fables; and in your perversity and estrangement from the society of saints, you reject the instruction of the New Testament, which, as we have shown, contains statements similar to those which you condemn in the Old Testament.
+
+[2:1431] So we are obliged to defend both Testaments against you as well as against the Pagans.
+
+[2:1432] 22.
+
+[2:1433] But supposing that there is some one so deluded by carnality as to worship not the God whom we worship, who is one and true, but the fiction of your suspicions or your slanders, whom you say we worship, is not even this god better than yours? Observe, I beseech you, what must be plain to the feeblest understanding; for here there is no need of great perspicacity.
+
+[2:1434] I address all, wise and unwise.
+
+[2:1435] I appeal to the common sense and judgment of all alike.
+
+[2:1436] Hear, consider, judge.
+
+[2:1437] Would it not have been better for your god to have remained in darkness from eternity, than to have plunged the light coeternal with him and cognate to him into darkness? Would it not have been better to have expressed admiration in surprise at the appearance of a new light coming to scatter the darkness, than to have been unable to baffle the assault of darkness except by the concession of his own light? Unhappy if he did this in alarm, and cruel if there was no need of it.
+
+[2:1438] Surely it would have been better to see light, made by himself, and to admire it as good, than to make the light begotten by himself evil; better than that his own light should become hostile to himself in repelling the forces of darkness.
+
+[2:1439] For this will be the accusation against those who will be condemned for ever to the mass of darkness, that they suffered themselves to lose their original brightness, and became the enemies of sacred light.
+
+[2:1440] If they did not know from eternity that they would be thus condemned, they must have suffered the darkness of eternal ignorance; or if they did know, the darkness of eternal fear.
+
+[2:1441] Thus part of the substance of your god really did remain from eternity in its own darkness; and instead of admiring new light on its appearance, it only met with another and a hostile darkness, of which it had always been in fear.
+
+[2:1442] Indeed, God himself must have been in the darkness of fear for this part of himself, if he was dreading the evil coming upon it.
+
+[2:1443] If he did not foresee the evil, he must have been in the darkness of ignorance.
+
+[2:1444] If he foresaw it, and was not in fear, the darkness of such cruelty is worse than the darkness either of ignorance or of fear.
+
+[2:1445] Your god appears to be destitute of the quality which the apostle commends in the body, which you insanely believe to be made not by God, but by Hyle: "If one member suffers, all the members suffer with it".
+
+[2:1446] But suppose he did suffer; he foresaw, he feared, he suffered, but he could not help himself.
+
+[2:1447] Thus he remained from eternity in the darkness of his own misery; and then, instead of admiring a new light which was to drive away the darkness, he came in contact, to the injury of his own light, with another darkness which he had always dreaded.
+
+[2:1448] Again, would it not have been much better, I say, not to have given a commandment like God, but even to have received a commandment like Adam, which he would be rewarded for keeping and punished for breaking, acting either way by his own free-will, than to be forced by inevitable necessity to admit darkness into his light in spite of himself? Surely it would have been better to have given a precept to human nature, not knowing that it would become sinful, than to have been driven by necessity to sin contrary to his own divine nature.
+
+[2:1449] Think for a moment, and say how darkness could be conquered by one who was himself conquered by necessity.
+
+[2:1450] Conquered already by this greater enemy, he fought under his conqueror's orders against a less formidable opponent.
+
+[2:1451] Would it not have been better not to know where Adam had hid himself, than to have been himself destitute of any means of escape, first from a hard and hateful necessity, and then from a dissimilar and hostile race? Would it not have been better to grudge eternal life to human nature, than to consign to misery the divine nature; to desire the blood and fat of sacrifices, than to be himself slaughtered in so many forms, on account of his mixture with the blood and fat of every victim; to be disturbed by jealousy at these sacrifices being offered to other gods as well as to himself, than to be himself offered on all altars to all devils, as mixed up not only with all fruits, but also with all animals? Would it not have been much better to be affected even with human anger, so as to be enraged against both his friends and his enemies for their sins, than to be himself influenced by fear as well as by anger wherever these passions exist, or than to share in all the sin that is committed, and in all punishment that is suffered? For this is the doom of that part of your god which is in confinement everywhere, condemned to this by himself, not as guilty, but in order to conquer his dreaded enemy.
+
+[2:1452] Doomed himself to such a fatal necessity, the part of himself which he has given over to condemnation might pardon him, if he were as humble as he is miserable.
+
+[2:1453] But how can you pretend to find fault with God for His anger against both friends and enemies when they sin, when the god of your fancies first under compulsion compels his own members to go to be devoured by sin, and then condemns them to remain in darkness? Though he does this, you say that it will not be in anger.
+
+[2:1454] But will he not be ashamed to punish, or to appear to punish, those from whom he should ask pardon in words such as these: "Forgive me, I beseech you.
+
+[2:1455] You are my members; could I treat you thus, except from necessity? You know yourselves, that you were sent here because a formidable enemy had arisen; and now you must remain here to prevent his rising again"? Again, is it not better to slay thousands of men for trifling faults, or for nothing, than to cast into the abyss of sin, and to condemn to the punishment of eternal imprisonment, God's own members, his substance—in fact, God himself? It cannot properly be said of the real substance of God that it has the choice of sinning or not sinning, for God's substance is absolutely unchangeable.
+
+[2:1456] God cannot sin, as He cannot deny Himself.
+
+[2:1457] Man, on the contrary, can sin and deny God, or he can choose not to do so.
+
+[2:1458] But suppose the members of your god had, like a rational human soul, the choice of sinning or not sinning; they might perhaps be justly punished for heinous offenses by confinement in the mass of darkness.
+
+[2:1459] But you cannot attribute to these parts a liberty which you deny to God himself.
+
+[2:1460] For if God had not given them up to sin, he would have been forced to sin himself, by the prevalence of the race of darkness.
+
+[2:1461] But if there was no danger of being thus forced, it was a sin to send these parts to a place where they incurred this danger.
+
+[2:1462] To do so, indeed, from free choice is a crime deserving the torment which your god unnaturally inflicts upon his own parts, more than the conduct of these parts in going by his command to a place where they lost the power of living in righteousness.
+
+[2:1463] But if God himself was in danger of being forced to sin by invasion and capture, unless he had secured himself first by the misconduct and then by the punishment of his own parts, there can have been no free-will either in your god or in his parts.
+
+[2:1464] Let him not set himself up as judge, but confess himself a criminal.
+
+[2:1465] For though he was forced against his own will, he professes to pass a righteous sentence in condemning those whom he knows to have suffered evil rather than done it; making this profession that he may not be thought of as having been conquered; as if it could do a beggar any good to be called prosperous and happy.
+
+[2:1466] Surely it would have been better for your god to have spared neither righteous nor wicked in indiscriminate punishment (which is Faustus' last charge against our God), than to have been so cruel to his own members,—first giving them up to incurable contamination, and then, as if that was not enough, accusing them falsely of misconduct.
+
+[2:1467] Faustus declares that they justly suffer this severe and eternal punishment, because they allowed themselves to be led astray from their original brightness, and became hostile to sacred light.
+
+[2:1468] But the reason of this, as Faustus says, was that they were so greedily devoured in the first assault of the princes of darkness, that they were unable to recover themselves, or to separate themselves from the hostile principle.
+
+[2:1469] These souls, therefore, did no evil themselves, but in all this were innocent sufferers.
+
+[2:1470] The real agent was he who sent them away from himself into this wretchedness.
+
+[2:1471] They suffered more from their father than from their enemy.
+
+[2:1472] Their father sent them into all this misery; while their enemy desired them as something good, wishing not to hurt them, but to enjoy them.
+
+[2:1473] The one injured them knowingly, the other in ignorance.
+
+[2:1474] This god was so weak and helpless that he could not otherwise secure himself first against an enemy threatening attack, and then against the same enemy in confinement.
+
+[2:1475] Let him, then, not condemn those parts whose obedience defended him, and whose death secures his safety.
+
+[2:1476] If he could not avoid the conflict, why slander his defenders? When these parts allowed themselves to be led astray from their original brightness, and became hostile to sacred light, this must have been from the force of the enemy; and if they were forced against their will, they are innocent; while, if they could have resisted had they chosen, there is no need of the origin of evil in an imaginary evil nature, since it is to be found in free-will.
+
+[2:1477] Their not resisting, when they could have done so, is plainly their own fault, and not owing to any force from without.
+
+[2:1478] For, supposing them able to do a thing, to do which is right, while not to do it is great and heinous sin, their not doing it is their own choice.
+
+[2:1479] So, then, if they choose not to do it, the fault is in their will not in necessity.
+
+[2:1480] The origin of sin is in the will; therefore in the will is also the origin of evil, both in the sense of acting against a just precept, and in the sense of suffering under a just sentence.
+
+[2:1481] There is thus no reason why, in your search for the origin of evil, you should fall into so great an evil as that of calling a nature so rich in good things the nature of evil, and of attributing the terrible evil of necessity to the nature of perfect good, before any commixture with evil.
+
+[2:1482] The cause of this erroneous belief is your pride, which you need not have unless you choose; but in your wish to defend at all hazards the error into which you have fallen, you take away the origin of evil from free-will, and place it in a fabulous nature of evil.
+
+[2:1483] And thus you come at last to say, that the souls which are to be doomed to eternal confinement in the mass of darkness became enemies to sacred light not from choice, but by necessity; and to make your god a judge with whom it is of no use to prove, in behalf of your clients.
+
+[2:1484] that they were under compulsion, and a king who will make no allowance for your brethren, his own sons and members, whose hostility against you and against himself you ascribe not to choice, but to necessity.
+
+[2:1485] What shocking cruelty! unless you proceed in the next place to defend your god, as also acting not from choice, but by necessity.
+
+[2:1486] So, if there could be found another judge free from necessity, who could decide the question on the principles of equity, he would sentence your god to be bound to this mass, not by being fastened on the outside, but by being shut up inside along with the formidable enemy.
+
+[2:1487] The first in the guilt of necessity ought to be first in the sentence of condemnation.
+
+[2:1488] Would it not be much better, then, in comparison with such a god as this, to choose the god whom we indeed do not worship, but whom you think or pretend to think we worship? Though he spares not his servants, whether righteous or sinful, making no proper separation, and not distinguishing between punishment and discipline, is he not better than the god who spares not his own members though innocent, if necessity is no crime, or guilty from their obedience to him, if necessity itself is criminal; so that they are condemned eternally by him, along with whom they should have been released, if any liberty was recovered by the victory, while he should have been condemned along with them if the victory reduced the force of necessity even so far as to give this small amount of force to justice? Thus the god whom you represent us as worshipping, though he is not the one true God whom we really worship, is far better than your god.
+
+[2:1489] Neither, indeed, has any existence; but both are the creatures of your imaginations.
+
+[2:1490] But, according to your own representations, the one whom you call ours, and find fault with, is better than the one whom you call your own, and whom you worship.
+
+[2:1491] 23.
+
+[2:1492] So also the patriarchs and prophets whom you cry out against are not the men whom we honor, but men whose characters are drawn from your fancy, prompted by ill-will.
+
+[2:1493] And yet even thus as you paint them, I will not be content with showing them to be superior to your elect, who keep all the precepts of Manich aeus, but will prove their superiority to your god himself.
+
+[2:1494] Before proving this, however, I must, with the help of God, defend our holy fathers the patriarchs and prophets against your accusations, by a clear exposition of the truth as opposed to the carnality of your hearts.
+
+[2:1495] As for you Manich aeans, it would be enough to say that the faults you impute to our fathers are preferable to what you praise in your own, and to complete your shame by adding that your god can be proved far inferior to our fathers as you describe them.
+
+[2:1496] This would be a sufficient reply for you.
+
+[2:1497] But as, even apart from your perversities, some minds are of themselves disturbed when comparing the life of the prophets in the Old Testament with that of the apostles in the New,—not discerning between the manner of the time when the promise was under a veil, and that of the time when the promise is revealed,—I must first of all reply to those who either have the boldness to pride themselves as superior in temperance to the prophets, or quote the prophets in defence of their own bad conduct.
+
+[2:1498] 24.
+
+[2:1499] First of all, then, not only the speech of these men, but their life also, was prophetic; and the whole kingdom of the Hebrews was like a great prophet, corresponding to the greatness of the Person prophesied.
+
+[2:1500] So, as regards those Hebrews who were made wise in heart by divine instruction, we may discover a prophecy of the coming of Christ and of the Church, both in what they said and in what they did; and the same is true as regards the divine procedure towards the whole nation as a body.
+
+[2:1501] For, as the apostle says, "all these things were our examples".
+
+[2:1502] 25.
+
+[2:1503] Those who find fault with the prophets, accusing them of adultery for instance, in actions which are above their comprehension, are like those Pagans who profanely charge Christ with folly or madness because He looked for fruit from a tree out of the season;  or with childishness, because He stooped down and wrote on the ground, and, after answering the people who were questioning Him, began writing again.
+
+[2:1504] Such critics are incapable of understanding that certain virtues in great minds resemble closely the vices of little minds, not in reality, but in appearance.
+
+[2:1505] Such criticism of the great is like that of boys at school, whose learning consists in the important rule, that if the nominative is in the singular, the verb must also be in the singular; and so they find fault with the best Latin author, because he says, Pars in frusta secant.
+
+[2:1506] He should have written, say they, secat.
+
+[2:1507] And again, knowing that religio is spelt with one l, they blame him for writing relligio, when he says, Relligione patrum.
+
+[2:1508] Hence it may with reason be said, that as the poetical usage of words differs from the solecisms and barbarisms of the unlearned, so, in their own way, the figurative actions of the prophets differ from the impure actions of the vicious.
+
+[2:1509] Accordingly, as a boy guilty of a barbarism would be whipped if he pled the usage of Virgil; so any one quoting the example of Abraham begetting a son from Hagar, in defence of his own sinful passion for his wife's handmaid, ought to be corrected not by caning only, but by severe scourging, that he may not suffer the doom of adulterers in eternal punishment.
+
+[2:1510] This indeed is a comparison of great and important subjects with trifles; and it is not intended that a peculiar usage in speech should be put on a level with a sacrament, or a solecism with adultery.
+
+[2:1511] Still, allowing for the difference in the character of the subjects, what is called learning or ignorance in the proprieties and improprieties of speech, resembles wisdom or the want of it in reference to the grand moral distinction between virtue and vice.
+
+[2:1512] 26.
+
+[2:1513] Instead of entering on the distinctions between the praiseworthy and the blameworthy, the criminal and the innocent, the dangerous and the harmless, the guilty and the guiltless, the desirable and the undesirable, which are all illustrations of the distinction between sin and righteousness, we must first consider what sin is, and then examine the actions of the saints as recorded in the holy books, that, if we find these saints described as sinning, we may if possible discover the true reason for keeping these sins in memory by putting them on record.
+
+[2:1514] Again, if we find things recorded which, though they are not sins, appear so to the foolish and the malevolent, and in fact do not exhibit any virtues, here also we have to see why these things are put into the Scriptures which we believe to contain wholesome doctrine as a guide in the present life, and a title to the inheritance of the future.
+
+[2:1515] As regards the examples of righteousness found among the acts of the saints, the propriety of recording these must be plain even to the ignorant.
+
+[2:1516] The question is about those actions the mention of which may seem useless if they are neither righteous nor sinful, or even dangerous if the actions are really sinful, as leading people to imitate them, because they are not condemned in these books, and so may be supposed not to be sinful, or because, though they are condemned, men may copy them from the idea that they must be venial if saints did them.
+
+[2:1517] 27.
+
+[2:1518] Sin, then, is any transgression in deed, or word, or desire, of the eternal law.
+
+[2:1519] And the eternal law is the divine order or will of God, which requires the preservation of natural order, and forbids the breach of it.
+
+[2:1520] But what is this natural order in man? Man, we know, consists of soul and body; but so does a beast.
+
+[2:1521] Again, it is plain that in the order of nature the soul is superior to the body.
+
+[2:1522] Moreover, in the soul of man there is reason, which is not in a beast.
+
+[2:1523] Therefore, as the soul is superior to the body, so in the soul itself the reason is superior by the law of nature to the other parts which are found also in beasts; and in reason itself, which is partly contemplation and partly action, contemplation is unquestionably the superior part.
+
+[2:1524] The object of contemplation is the image of God, by which we are renewed through faith to sight.
+
+[2:1525] Rational action ought therefore to be subject to the control of contemplation, which is exercised through faith while we are absent from the Lord, as it will be hereafter through sight, when we shall be like Him, for we shall see Him as He is.
+
+[2:1526] Then in a spiritual body we shall by His grace be made equal to angels, when we put on the garment of immortality and incorruption, with which this mortal and corruptible shall be clothed, that death may be swallowed up of victory, when righteousness is perfected through grace.
+
+[2:1527] For the holy and lofty angels have also their contemplation and action.
+
+[2:1528] They require of themselves the performance of the commands of Him whom they contemplate, whose eternal government they freely because sweetly obey.
+
+[2:1529] We, on the other hand, whose body is dead because of sin, till God quicken also our mortal bodies by His Spirit dwelling in us, live righteously in our feeble measure, according to the eternal law in which the law of nature is preserved, when we live by that faith unfeigned which works by love, having in a good conscience a hope of immortality and incorruption laid up in heaven, and of the perfecting of righteousness to the measure of an inexpressible satisfaction, for which in our pilgrimage we must hunger and thirst, while we walk by faith and not by sight.
+
+[2:1530] 28.
+
+[2:1531] A man, therefore, who acts in obedience to the faith which obeys God, restrains all mortal affections, and keeps them within the natural limit, regulating his desires so as to put the higher before the lower.
+
+[2:1532] If there was no pleasure in what is unlawful, no one would sin.
+
+[2:1533] To sin is to indulge this pleasure instead of restraining it.
+
+[2:1534] And by unlawful is meant what is forbidden by the law in which the order of nature is preserved.
+
+[2:1535] It is a great question whether there is any rational creature for which there is no pleasure in what is unlawful.
+
+[2:1536] If there is such a class of creatures, it does not include man, nor that angelic nature which abode not in the truth.
+
+[2:1537] These rational creatures were so made, that they had the potentiality of restraining their desires from the unlawful; and in not doing this they sinned.
+
+[2:1538] Great, then, is the creature man, for he is restored by this potentiality, by which, if he had so chosen, he would not have fallen.
+
+[2:1539] And great is the Lord, and greatly to be praised, who created man.
+
+[2:1540] For He created also inferior natures which cannot sin, and superior natures which will not sin.
+
+[2:1541] Beasts do not sin, for their nature agrees with the eternal law from being subject to it, without being in possession of it.
+
+[2:1542] And again, angels do not sin, because their heavenly nature is so in possession of the eternal law that God is the only object of its desire, and they obey His will without any experience of temptation.
+
+[2:1543] But man, whose life on this earth is a trial on account of sin, subdues to himself what he has in common with beasts, and subdues to God what he has in common with angels; till, when righteousness is perfected and immortality attained, he shall be raised from among beasts and ranked with angels.
+
+[2:1544] 29.
+
+[2:1545] The exercise or indulgence of the bodily appetites is intended to secure the continued existence and the invigoration of the individual or of the species.
+
+[2:1546] If the appetites go beyond this, and carry the man, no longer master of himself, beyond the limits of temperance, they become unlawful and shameful lusts, which severe discipline must subdue.
+
+[2:1547] But if this unbridled course ends in plunging the man into such a depth of evil habits that he supposes that there will be no punishment of his sinful passions, and so refuses the wholesome discipline of confession and repentance by which he might be rescued; or, from a still worse insensibility, justifies his own indulgences in profane opposition to the eternal law of Providence; and if he dies in this state, that unerring law sentences him now not to correction, but to damnation.
+
+[2:1548] 30.
+
+[2:1549] Referring, then, to the eternal law which enjoins the preservation of natural order and forbids the breach of it, let us see how our father Abraham sinned, that is, how he broke this law, in the things which Faustus has charged him with as highly criminal.
+
+[2:1550] In his irrational craving to have children, says Faustus, and not believing God, who promised that his wife Sara should have a son, he defiled himself with a mistress.
+
+[2:1551] But here Faustus, in his irrational desire to find fault, both discloses the impiety of his heresy, and in his error and ignorance praises Abraham's intercourse with the handmaid.
+
+[2:1552] For as the eternal law—that is, the will of God the Creator of all—for the preservation of the natural order, permits the indulgence of the bodily appetite under the guidance of reason in sexual intercourse, not for the gratification of passion, but for the continuance of the race through the procreation of children; so, on the contrary, the unrighteous law of the Manich aeans, in order to prevent their god, whom they bewail as confined in all seeds, from suffering still closer confinement in the womb, requires married people not on any account to have children, their great desire being to liberate their god.
+
+[2:1553] Instead, therefore, of an irrational craving in Abraham to have children, we find in Manich aeus an irrational fancy against having children.
+
+[2:1554] So the one preserved the natural order by seeking in marriage only the production of a child; while the other, influenced by his heretical notions, thought no evil could be greater than the confinement of his god.
+
+[2:1555] 31.
+
+[2:1556] So, again, when Faustus says that the wife's being privy to her husband's conduct made the matter worse, while he is prompted only by the uncharitable wish to reproach Abraham and his wife, he really, without intending it, speaks in praise of both.
+
+[2:1557] For Sara did not connive at any criminal action in her husband for the gratification of his unlawful passions; but from the same natural desire for children that he had, and knowing her own barrenness, she warrantably claimed as her own the fertility of her handmaid; not consenting with sinful desires in her husband, but requesting of him what it was proper in him to grant.
+
+[2:1558] Nor was it the request of proud assumption; for every one knows that the duty of a wife is to obey her husband.
+
+[2:1559] But in reference to the body, we are told by the apostle that the wife has power over her husband's body, as he has over hers;  so that, while in all other social matters the wife ought to obey her husband, in this one matter of their bodily connection as man and wife their power over one another is mutual,—the man over the woman, and the woman over the man.
+
+[2:1560] So, when Sara could not have children of her own, she wished to have them by her handmaid, and of the same seed from which she herself would have had them, if that had been possible.
+
+[2:1561] No woman would do this if her love for her husband were merely an animal passion; she would rather be jealous of a mistress than make her a mother.
+
+[2:1562] So here the pious desire for the procreation of children was an indication of the absence of criminal indulgence.
+
+[2:1563] 32.
+
+[2:1564] Abraham, indeed, cannot be defended, if, as Faustus says, he wished to get children by Hagar, because he had no faith in God, who promised that he should have children by Sara.
+
+[2:1565] But this is an entire mistake: this promise had not yet been made.
+
+[2:1566] Any one who reads the preceding chapters will find that Abraham had already got the promise of the land with a countless number of inhabitants,  but that it had not yet been made known to him how the seed spoken of was to be produced, whether by generation from his own body, or from his choice in the adoption of a son, or, in the case of its being from his own body, whether it would be by Sara or another.
+
+[2:1567] Whoever examines into this will find that Faustus has made either an imprudent mistake or an impudent misrepresentation.
+
+[2:1568] Abraham, then, when he saw that he had no children, though the promise was to his seed, thought first of adoption.
+
+[2:1569] This appears from his saying of his slave, when speaking to God, "This is mine heir;" as much as to say, As Thou hast not given me a seed of my own, fulfill Thy promise in this man.
+
+[2:1570] For the word seed may be applied to what has not come out of a man's own body, else the apostle could not call us the seed of Abraham: for we certainly are not his descendants in the flesh; but we are his seed in following his faith, by believing in Christ, whose flesh did spring from the flesh of Abraham.
+
+[2:1571] Then Abraham was told by the Lord "This shall not be thine heir; but he that cometh out of thine own bowels shall be thine heir".
+
+[2:1572] The thought of adoption was thus removed; but it still remained uncertain whether the seed which was to come from himself would be by Sara or another.
+
+[2:1573] And this God was pleased to keep concealed, till a figure of the Old Testament had been supplied in the handmaid.
+
+[2:1574] We may thus easily understand how Abraham, seeing that his wife was barren, and that she desired to obtain from her husband and her handmaid the offspring which she herself could not produce, acted not in compliance with carnal appetite, but in obedience to conjugal authority, believing that Sara had the sanction of God for her wish; because God had already promised him an heir from his own body, but had not foretold who was to be the mother.
+
+[2:1575] Thus, when Faustus shows his own infidelity in accusing Abraham of unbelief, his groundless accusation only proves the madness of the assailant.
+
+[2:1576] In other cases, Faustus' infidelity has prevented him from understanding; but here, in his love of slander, he has not even taken time to read.
+
+[2:1577] 33.
+
+[2:1578] Again, when Faustus accuses a righteous and faithful man of a shameless profanation of his marriage from avarice and greed, by selling his wife Sara at different times to the two kings Abimelech and Pharaoh, telling them that she was his sister, because she was very fair, he does not distinguish justly between right and wrong, but unjustly condemns the whole transaction.
+
+[2:1579] Those who think that Abraham sold his wife cannot discern in the light of the eternal law the difference between sin and righteousness; and so they call perseverance obstinacy, and confidence presumption, as in these and similar cases men of wrong judgment are wont to blame what they suppose to be wrong actions.
+
+[2:1580] Abraham did not become partner in crime with his wife by selling her to others: but as she gave her handmaid to her husband, not to gratify his passion, but for the sake of offspring, in the authority she had consistently with the order of nature, requiring the performance of a duty, not complying with a sinful desire; so in this case, the husband, in perfect assurance of the chaste attachment of his wife to himself, and knowing her mind to be the abode of modest and virtuous affection, called her his sister, without saying that she was his wife, lest he himself should be killed, and his wife fall into the hands of strangers and evil-doers: for he was assured by his God that He would not allow her to suffer violence or disgrace.
+
+[2:1581] Nor was he disappointed in his faith and hope; for Pharaoh, terrified by strange occurrences, and after enduring many evils on account of her, when he was informed by God that Sara was Abraham's wife, restored her with honor uninjured.
+
+[2:1582] Abimelech also did the same, after learning the truth in a dream.
+
+[2:1583] 34.
+
+[2:1584] Some people, not scoffers and evil-speakers like Faustus, but men who pay due honor to the Scriptures, which Faustus finds fault with because he does not understand them, or which he fails to understand because of his fault-finding, in commenting on this act of Abraham, are of opinion that he stumbled from weakness of faith, and denied his wife from fear of death, as Peter denied the Lord.
+
+[2:1585] If this is the correct view, we must allow that Abraham sinned; but the sin should not cancel or obliterate all his merits, any more than in the case of the apostle.
+
+[2:1586] Besides, to deny his wife is not the same as to deny the Saviour.
+
+[2:1587] But when there is another explanation, why not abide by it, instead of giving blame without cause, since there is no proof that Abraham told a lie from fear? He did not deny that Sara was his wife in answer to any question on the subject; but when asked who she was, he said she was his sister, without denying her to be his wife: he concealed part of the truth, but said nothing false.
+
+[2:1588] 35.
+
+[2:1589] It is waste of time to observe Faustus' remark, that Abraham falsely called Sara his sister; as if Faustus had discovered the family of Sara, though it is not mentioned in Scripture.
+
+[2:1590] In a matter which Abraham knew, and we do not, it is surely better to believe the patriarch when he says what he knows, than to believe Manich aeus when he finds fault with what he knows nothing about.
+
+[2:1591] Since, then, Abraham lived at that period in human history, when, though marriage had become unlawful between children of the same parents, or of the same father or mother, no law or authority interfered with the custom of marriage between the children of brothers, or any less degree of consanguinity, why should he not have had as wife his sister, that is, a woman descended from his father? For he himself told the king, when he restored Sara, that she was his sister by his father, and not by his mother.
+
+[2:1592] And on this occasion he could not have been led to tell a falsehood from fear, for the king knew that she was his wife, and was restoring her with honor, because he had been warned by God.
+
+[2:1593] We learn from Scripture that, among the ancients, it was customary to call cousins brothers and sisters.
+
+[2:1594] Thus Tobias says in his prayer to God, before having intercourse with his wife, "And now, O Lord, Thou knowest that not in wantonness I take to wife my sister;"  though she was not sprung immediately from the same father or the same mother, but only belonged to the same family.
+
+[2:1595] And Lot is called the brother of Abraham, though Abraham was his uncle.
+
+[2:1596] And, by the same use of the word, those called in the Gospel the Lord's brothers are certainly not children of the Virgin Mary, but all the blood relations of the Lord.
+
+[2:1597] 36.
+
+[2:1598] Some may say, Why did not Abraham's confidence in God prevent his being afraid to confess his wife? God could have warded off from him the death which he feared, and could have protected both him and his wife while among strangers, so that Sara, although very fair, should not have been desired by any one, nor Abraham killed on account of her.
+
+[2:1599] Of course, God could have done this; it would be absurd to deny it.
+
+[2:1600] But if, in reply to the people, Abraham had told them that Sara was his wife, his trust in God would have included both his own life and the chastity of Sara.
+
+[2:1601] Now it is part of sound doctrine, that when a man has any means in his power, he should not tempt the Lord his God.
+
+[2:1602] So it was not because the Saviour was unable to protect His disciples that He told them, "When ye are persecuted in one city, flee to another".
+
+[2:1603] And He Himself set the example.
+
+[2:1604] For though He had the power of laying down His own life, and did not lay it down till He chose to do so, still when an infant He fled to Egypt, carried by His parents;  and when He went up to the feast, He went not openly, but secretly, though at other times He spoke openly to the Jews, who in spite of their rage and hostility could not lay hands on Him, because His hour was not come, —not the hour when He would be obliged to die, but the hour when He would consider it seasonable to be put to death.
+
+[2:1605] Thus He who displayed divine power by teaching and reproving openly, without allowing the rage of his enemies to hurt Him, did also, by escaping and concealing Himself, exhibit the conduct becoming the feebleness of men, that they should not tempt God when they have any means in their power of escaping threatened danger.
+
+[2:1606] So also in the apostle, it was not from despair of divine assistance and protection, or from loss of faith, that he was let down over the wall in a basket, in order to escape being taken by his enemies:  not from want of faith in God did he thus escape, but because not to escape, when this escape was possible, would have been tempting God.
+
+[2:1607] Accordingly, when Abraham was among strangers, and when, on account of the remarkable beauty of Sara, both his life and her chastity were in danger, since it was in his power to protect not both of these, but one only,—his life, namely,—to avoid tempting God he did what he could; and in what he could not do, he trusted to God.
+
+[2:1608] Unable to conceal his being a man, he concealed his being a husband, lest he should be put to death; trusting to God to preserve his wife's purity.
+
+[2:1609] 37.
+
+[2:1610] There might also be a difference of opinion on the nice point whether Sara's chastity would have been violated even if some one had intercourse with her, since she submitted to this to save her husband's life, both with his knowledge and by his authority.
+
+[2:1611] In this there would be no desertion of conjugal fidelity or rebellion against her husband's authority; in the same way as Abraham was not an adulterer, when, in submission to the lawful authority of his wife, he consented to be made a father by his wife's handmaid.
+
+[2:1612] But, from the nature of the relationship, for a wife to have two husbands, both in life, is not the same thing as for a man to have two wives: so that we regard the explanation already given of Abraham's conduct as the most correct and unobjectionable; that our father Abraham avoided tempting God by taking what measures he could for the preservation of his own life, and that he showed his hope in God by entrusting to Him the chastity of his wife.
+
+[2:1613] 38.
+
+[2:1614] But a pleasure which all must feel is obtained from this narrative so faithfully recorded in the Holy Scriptures, when we examine into the prophetic character of the action, and knock with pious faith and diligence at the door of the mystery, that the Lord may open, and show us who was prefigured in the ancient personage, and whose wife this is, who, while in a foreign land and among strangers, is not allowed to be stained or defiled, that she may be brought to her own husband without spot or wrinkle.
+
+[2:1615] Thus we find that the righteous life of the Church is for the glory of Christ, that her beauty may bring honor to her husband, as Abraham was honored on account of the beauty of Sara among the inhabitants of that foreign land.
+
+[2:1616] To the Church, to whom it is said in the Song of Songs, "O thou fairest among women,"  kings offer gifts in acknowledgment of her beauty; as king Abimelech offered gifts to Sara, admiring the grace of her appearance; all the more that, while he loved, he was not allowed to profane it.
+
+[2:1617] The holy Church, too is in secret the spouse of the Lord Jesus Christ.
+
+[2:1618] For it is secretly, and in the hidden depths of the Spirit, that the soul of man is joined to the word of God, so that they two are one flesh; of which the apostle speaks as a great mystery in marriage, as referring to Christ and the Church.
+
+[2:1619] Again, the earthly kingdom of this world, typified by the kings which were not allowed to defile Sara, had no knowledge or experience of the Church as the spouse of Christ, that is, of how faithfully she maintained her relation to her Husband, till it tried to violate her, and was compelled to yield to the divine testimony borne by the faith of the martyrs, and in the person of later monarchs was brought humbly to honor with gifts the Bride whom their predecessors had not been able to humble by subduing her to themselves.
+
+[2:1620] What, in the type, happened in the reign of one and the same king, is fulfilled in the earlier monarchs of this era and their successors.
+
+[2:1621] 39.
+
+[2:1622] Again, when it is said that the Church is the sister of Christ, not by the mother but by the father, we learn the excellence of the relation, which is not of the temporary nature of earthly descent, but of divine grace, which is everlasting.
+
+[2:1623] By this grace we shall no longer be a race of mortals when we receive power to be called and to become sons of God.
+
+[2:1624] This grace we obtain not from the synagogue, which is the mother of Christ after the flesh, but from God the Father.
+
+[2:1625] And when Christ calls us into another life where there is no death, He teaches us, instead of acknowledging, to deny the earthly relationship, where death soon follows upon birth; for He says to His disciples, "Call no man your father upon earth; for you have one Father, who is in heaven".
+
+[2:1626] And He set us an example of this when He said, "Who is my mother, and who are my brethren? And stretching forth His hand to His disciples, He said, These are my brethren".
+
+[2:1627] And lest any one should think that He referred to an earthly relationship, He added, "Whosoever shall do the will of my Father, the same is my brother, and sister, and mother;"  as much as to say, I derive this relationship from God my Father, not from the Synagogue my mother; I call you to eternal life, where I have an immortal birth, not to earthly life, for to call you away from this life I have taken mortality.
+
+[2:1628] 40.
+
+[2:1629] As for the reason why, though it is concealed among strangers whose wife the Church is, it is not hidden whose sister she is, it is plainly because it is obscure and hard to understand how the human soul and the Word of God are united or mingled, or whatever word may be used to express this connection between God and the creature.
+
+[2:1630] It is from this connection that Christ and the Church are called bridegroom and bride, or husband and wife.
+
+[2:1631] The other relationship, in which Christ and all the saints are brethren by divine grace and not by earthly consanguinity, or by the father and not by the mother, is more easily expressed in words, and more easily understood.
+
+[2:1632] For the same grace makes all the saints to be also brethren of one another; while in their society no one is the bridegroom of all the rest.
+
+[2:1633] So also, notwithstanding the surpassing justice and wisdom of Christ, His manhood was much more plainly and readily recognized by strangers, who, indeed, were not wrong in believing Him to be man, but they did not understand His being God as well as man.
+
+[2:1634] Hence Jeremiah says: "He is both a man, and who shall know Him?"  He is a man, for it is made manifest that He is a brother.
+
+[2:1635] And who shall know Him? for it is concealed that He is a husband.
+
+[2:1636] This must suffice as a defense of our father Abraham against Faustus' impudence and ignorance and malice.
+
+[2:1637] 41.
+
+[2:1638] Lot also, the brother of Abraham, was just and hospitable in Sodom, and was found worthy to escape the conflagration which prefigured the future judgment; for he was free from all participation in the corruption of the people of Sodom.
+
+[2:1639] He was a type of the body of Christ, which in the person of all the saints both groans now among the ungodly and wicked, to whose evil deeds it does not consent, and will at the end of the world be rescued from their society, when they are doomed to the punishment of eternal fire.
+
+[2:1640] Lot's wife was the type of a different class of men,—of those, namely, who, when called by the grace of God, look back, instead of, like Paul, forgetting the things that are behind, and looking forward to the things that are before.
+
+[2:1641] The Lord Himself says: "No man that putteth his hand to the plough, and looketh back, is fit for the kingdom of Heaven".
+
+[2:1642] Nor did He omit to mention the case of Lot's wife; for she, for our warning, was turned into a pillar of salt, that being thus seasoned we might not trifle thoughtlessly with this danger, but be on our guard against it.
+
+[2:1643] So, when the Lord was admonishing every one to get rid of the things that are behind by the most strenuous endeavor to reach the things that are before, He said, "Remember Lot's wife".
+
+[2:1644] And, in addition to these, there is still a third type in Lot, when his daughters lay with him.
+
+[2:1645] For here Lot seems to prefigure the future law; for those who spring from the law, and are placed under the law, by misunderstanding it, stupefy it, as it were, and bring forth the works of unbelief by an unlawful use of the law.
+
+[2:1646] "The law is good" says the apostle, "if a man use it lawfully".
+
+[2:1647] 42.
+
+[2:1648] It is no excuse for this action of Lot or of his daughters that it represented the perversity which was afterwards in certain cases to be displayed.
+
+[2:1649] The purpose of Lot's daughters is one thing, and the purpose of God is another, in allowing this to happen that He might make some truth manifest; for God both pronounces judgment on the actions of the people of those times, and arranges in His providence for the prefigurement of the future.
+
+[2:1650] As a part of Scripture, this action is a prophecy; as part of the history of those concerned, it is a crime.
+
+[2:1651] 43.
+
+[2:1652] At the same time there is in this transaction no reason for the torrent of abuse which Faustus' blind hostility discharges on it.
+
+[2:1653] By the eternal law which requires the preservation of the order of nature and condemns its violation, the judgment in this case is not what it would have been if Lot had been prompted by a criminal passion to commit incest with his daughters, or if they had been inflamed with unnatural desires.
+
+[2:1654] In justice, we must ask not only what was done, but with what motive, in order to obtain a fair view of the action as the effect of that motive.
+
+[2:1655] The resolution of Lot's daughters to lie with their father was the effect of the natural desire for offspring in order to preserve the race; for they supposed that there were no other men to be found, thinking that the whole world had been consumed in that conflagration, which, for all they knew, had left no one alive but themselves.
+
+[2:1656] It would have been better for them never to have been mothers, than to have become mothers by their own father.
+
+[2:1657] But still, the fulfillment of a desire like this is very different from the accursed gratification of lust.
+
+[2:1658] 44.
+
+[2:1659] Knowing that their father would condemn their design, Lot's daughters thought it necessary to fulfill it without his knowledge.
+
+[2:1660] We are told that they made him drunk, so that he was unaware of what happened.
+
+[2:1661] His guilt therefore is not that of incest, but of drunkenness.
+
+[2:1662] This, too, is condemned by the eternal law, which allows meat and drink only as required by nature for the preservation of health.
+
+[2:1663] There is, indeed, a great difference between a drunk man and an habitual drunkard; for the drunkard is not always drunk, and a man may be drunk on one occasion without being a drunkard.
+
+[2:1664] However, in the case of a righteous man, we require to account for even one instance of drunkenness.
+
+[2:1665] What can have made Lot consent to receive from his daughters all the cups of wine which they went on mixing for him, or perhaps giving him unmixed? Did they feign excessive grief, and did he resort to this consolation in their loneliness, and in the loss of their mother, thinking that they were drinking too, while they only pretended to drink? But this does not seem a proper method for a righteous man to take in consoling his friends when in trouble.
+
+[2:1666] Had the daughters learned in Sodom some vile art which enabled them to intoxicate their father with a few cups, so that in his ignorance he might sin, or rather be sinned against? But it is not likely that the Scripture would have omitted all notice of this, or that God would have allowed His servant to be thus abused without any fault of his own.
+
+[2:1667] 45.
+
+[2:1668] But we are defending the sacred Scriptures, not man's sins.
+
+[2:1669] Nor are we concerned to justify this action, as if our God had either commanded it or approved of it; or as if, when men are called just in Scripture, it meant that they could not sin if they chose.
+
+[2:1670] And as, in the books which those critics find fault with, God nowhere expresses approval of this action, what thoughtless folly it is to bring a charge from this narrative against these writings, when in other places such actions are condemned by express prohibitions! In the story of Lot's daughters the action is related, not commended.
+
+[2:1671] And it is proper that the judgment of God should be declared in some cases, and concealed in others, that by its manifestation our ignorance may be enlightened, and that by its concealment our minds may be improved by the exercise of recalling what we already know, or our indolence stimulated to seek for an explanation.
+
+[2:1672] Here, then, God, who can bring good out of evil, made nations arise from this origin, as He saw good, but did not bring upon His own Scriptures the guilt of man's sin.
+
+[2:1673] It is God's writing, but not His doing; He does not propose these things for our imitation, but holds them up for our warning.
+
+[2:1674] 46.
+
+[2:1675] Faustus' effrontery appears notably in his accusing Isaac also, the son of Abraham of pretending that his wife Rebecca was his sister.
+
+[2:1676] For as regards the family of Rebecca Scripture is not silent, and it appears that she was his sister in the well-known sense of the word.
+
+[2:1677] His concealing that she was his wife is not surprising, nor is it insignificant, if he did it in imitation of his father, so that he can be justified on the same grounds.
+
+[2:1678] We need only refer to the answer already given to Faustus' charge against Abraham, as being equally applicable to Isaac.
+
+[2:1679] Perhaps, however some inquirer will ask what typical significance there is in the foreign king discovering Rebecca to be the wife of Isaac by seeing him playing with her; for he would not have known, had he not seen Isaac playing with Rebecca as it would have been improper to do with a woman not his wife.
+
+[2:1680] When holy men act thus as husbands, they do it not foolishly, but designedly: for they accommodate themselves to the nature of the weaker sex in words and actions of gentle playfulness; not in effeminacy, but in subdued manliness.
+
+[2:1681] But such behavior towards any woman except a wife would be disgraceful.
+
+[2:1682] This is a question in good manners, which is referred to only in case some stern advocate of insensibility should find fault with the holy man even for playing with his wife.
+
+[2:1683] For if these men without humanity see a sedate man chatting playfully with children that he may adapt himself to the childish understanding with kindly sympathy, they think that he is insane; forgetting that they themselves were once children, or unthankful for their maturity.
+
+[2:1684] The typical meaning, as regards Christ and His Church, which is to be found in this great patriarch playing with his wife, and in the conjugal relation being thus discovered, will be seen by every one who, to avoid offending the Church by erroneous doctrine, carefully studies in Scripture the secret of the Church's Bridegroom.
+
+[2:1685] He will find that the Husband of the Church concealed for a time in the form of a servant the majesty in which He was equal to the Father, as being in the form of God, that feeble humanity might be capable of union with Him, and that so He might accommodate Himself to His spouse.
+
+[2:1686] So far from being absurd, it has a symbolic suitableness that the prophet of God should use a playfulness which is of the flesh to meet the affection of his wife, as the Word of God Himself became flesh that He might dwell among us.
+
+[2:1687] 47.
+
+[2:1688] Again, Jacob the son of Isaac is charged with having committed a great crime because he had four wives.
+
+[2:1689] But here there is no ground for a criminal accusation: for a plurality of wives was no crime when it was the custom; and it is a crime now, because it is no longer the custom.
+
+[2:1690] There are sins against nature, and sins against custom, and sins against the laws.
+
+[2:1691] In which, then, of these senses did Jacob sin in having a plurality of wives? As regards nature, he used the women not for sensual gratification, but for the procreation of children.
+
+[2:1692] For custom, this was the common practice at that time in those countries.
+
+[2:1693] And for the laws, no prohibition existed.
+
+[2:1694] The only reason of its being a crime now to do this, is because custom and the laws forbid it.
+
+[2:1695] Whoever despises these restraints, even though he uses his wives only to get children, still commits sin, and does an injury to human society itself, for the sake of which it is that the procreation of children is required.
+
+[2:1696] In the present altered state of customs and laws, men can have no pleasure in a plurality of wives, except from an excess of lust; and so the mistake arises of supposing that no one could ever have had many wives but from sensuality and the vehemence of sinful desires.
+
+[2:1697] Unable to form an idea of men whose force of mind is beyond their conception, they compare themselves with themselves, as the apostle says,  and so make mistakes.
+
+[2:1698] Conscious that, in their intercourse though with one wife only, they are often influenced by mere animal passion instead of an intelligent motive, they think it an obvious inference that, if the limits of moderation are not observed where there is only one wife, the infirmity must be aggravated where there are more than one.
+
+[2:1699] 48.
+
+[2:1700] But those who have not the virtues of temperance must not be allowed to judge of the conduct of holy men, any more than those in fever of the sweetness and wholesomeness of food.
+
+[2:1701] Nourishment must be provided not by the dictates of the sickly taste, but rather by the judgment and direction of health, so as to cure the sickness.
+
+[2:1702] If our critics, then, wish to attain not a spurious and affected, but a genuine and sound moral health, let them find a cure in believing the Scripture record, that the honorable name of saint is given not without reason to men who had several wives; and that the reason is this, that the mind can exercise such control over the flesh as not to allow the appetite implanted in our nature by Providence to go beyond the limits of deliberate intention.
+
+[2:1703] By a similar misunderstanding, this criticism, which consists rather in dishonest slander than in honest judgment, might accuse the holy apostles too of preaching the gospel to so many people, not from the desire of begetting children to eternal life, but from the love of human praise.
+
+[2:1704] There was no lack of renown to these our fathers in the gospel, for their praise was spread in numerous tongues through the churches of Christ.
+
+[2:1705] In fact, no greater honor and glory could have been paid by men to their fellow-creatures.
+
+[2:1706] It was the sinful desire for this glory in the Church which led the reprobate Simon in his blindness to wish to purchase for money what was freely bestowed on the apostles by divine grace.
+
+[2:1707] There must have been this desire of glory in the man whom the Lord in the Gospel checks in his desire to follow Him, saying, "The foxes have holes, and the birds of the air have nests, but the Son of man hath not where to lay His Head".
+
+[2:1708] The Lord saw that his mind was darkened by false appearances and elated by sudden emotion, and that there was no ground of faith to afford a lodging to the Teacher of humility; for in Christ's discipleship the man sought not Christ's grace, but his own glory.
+
+[2:1709] By this love of glory those were led away whom the Apostle Paul characterizes as preaching Christ not sincerely, but of contention and envy; and yet the apostle rejoices in their preaching, knowing that it might happen that, while the preachers gratified their desire for human praise, believers might be born among their hearers,—not as the result of the envious feeling which made them wish to rival or surpass the fame of the apostles, but by means of the gospel which they preached, though not sincerely; so that God might bring good out of their evil.
+
+[2:1710] So a man may be induced to marry by sensual desire, and not to beget children; and yet a child may be born, a good work of God, due to the natural power, not to the misconduct of the parent.
+
+[2:1711] As, therefore, the holy apostles were gratified when their doctrine met with acceptance from their hearers, not because they were greedy for praise, but because they desired to spread the truth; so the holy patriarchs in their conjugal intercourse were actuated not by the love of pleasure, but by the intelligent desire for the continuance of their family.
+
+[2:1712] Thus the number of their hearers did not make the apostles ambitious; nor did the number of their wives make the patriarchs licentious.
+
+[2:1713] But why defend the husbands, to whose character the divine word bears the highest testimony, when it appears that the wives themselves looked upon their connection with their husbands only as a means of getting sons? So, when they found themselves barren, they gave their handmaids to their husbands; so that while the handmaids had the fleshly motherhood, the wives were mothers in intention.
+
+[2:1714] 49.
+
+[2:1715] Faustus makes a most groundless statement when he accuses the four women of quarreling like abandoned characters for the possession of their husband.
+
+[2:1716] Where Faustus read this I know not, unless it was in his own heart, as in a book of impious delusions, in which Faustus himself is seduced by that serpent with regard to whom the apostle feared for the Church, which he desired to present as a chaste virgin to Christ; lest, as the serpent had deceived Eve by his subtlety, so he should also corrupt their minds by turning them away from the simplicity of Christ.
+
+[2:1717] The Manich aeans are so fond of this serpent, that they assert that he did more good than harm.
+
+[2:1718] From him Faustus must have got his mind corrupted with the lies instilled into it, which he now reproduces in these infamous calumnies, and is even bold enough to put down in writing.
+
+[2:1719] It is not true that one of the handmaids carried off Jacob from the other, or that they quarreled about possessing him.
+
+[2:1720] There was arrangement, because there was no licentious passion; and the law of conjugal authority was all the stronger that there was none of the lawlessness of fleshly desire.
+
+[2:1721] His being hired by one of his wives proves what is here said, in plain opposition to the libels of the Manich aeans.
+
+[2:1722] Why should one have hired him, unless by the arrangement he was to have gone in to the other? It does not follow that he would never have gone in to Leah unless she had hired him.
+
+[2:1723] He must have gone to her always in her turn, for he had many children by her; and in obedience to her he had children by her hand-maid, and afterwards, without any hiring, by herself.
+
+[2:1724] On this occasion it was Rachel's turn, so that she had the power so expressly mentioned in the New Testament by the apostle, "The husband hath not power over his own body, but the wife".
+
+[2:1725] Rachel had a bargain with her sister, and, being in her sister's debt, she referred her to Jacob, her own debtor.
+
+[2:1726] For the apostle uses this figure when he says, "Let the husband render unto the wife what is due".
+
+[2:1727] Rachel gave what was in her power as due from her husband, in return for what she had chosen to take from her sister.
+
+[2:1728] 50.
+
+[2:1729] If Jacob had been of such a character as Faustus in his incurable blindness supposes, and not a servant of righteousness rather than of concupiscence, would he not have been looking forward eagerly all day to the pleasure of passing the night with the more beautiful of his wives, whom he certainly loved more than the other, and for whom he paid the price of twice seven years of gratuitous service? How, then, at the close of the day, on his way to his beloved, could he have consented to be turned aside, if he had been such as the ignorant Manich aeans represent him? Would he not have disregarded the wish of the women, and insisted upon going to the fair Rachel, who belonged to him that night not only as his lawful wife, but also as coming in regular order? He would thus have used his power as a husband, for the wife also has not power over her own body, but the husband; and having on this occasion the arrangement in their obedience in favor of the gratification of his love of beauty, he might have enforced his authority the more successfully.
+
+[2:1730] In that case it would be to the credit of the women, that while he thought of his own pleasure they contended about having a son.
+
+[2:1731] As it was, this virtuous man, in manly control of sensual appetite, thought more of what was due from him than to him, and instead of using his power for his own pleasure, consented to be only the debtor in this mutual obligation.
+
+[2:1732] So he consented to pay the debt to the person to whom she to whom it was due wished him to pay it.
+
+[2:1733] When, by this private bargain of his wives, Jacob was suddenly and unexpectedly forced to turn from the beautiful wife to the plain one, he did not give way either to anger or to disappointment, nor did he try to persuade his wives to let him have his own way; but, like a just husband and an intelligent parent, seeing his wives concerned about the production of children, which was all he himself desired in marriage, he thought it best to yield to their authority, in desiring that each should have a child: for, since all the children were his, his own authority was not impaired.
+
+[2:1734] As if he had said to them: Arrange as you please among yourselves which is to be the mother; it matters not to me, since in any case I am the father.
+
+[2:1735] This control over the appetites, and simple desire to beget children, Faustus would have been clever enough to see and approve, unless his mind had been corrupted by the shocking tenets of his sect, which lead him to find fault with everything in the Scripture, and, moreover, teach him to condemn as the greatest crime the procreation of children, which is the proper design of marriage.
+
+[2:1736] 51.
+
+[2:1737] Now, having defended the character of the patriarch, and refuted an accusation arising from these detestable errors, let us avail ourselves of the opportunity of searching out the symbolical meaning, and let us knock with the reverence of faith, that the Lord may open to us the typical significance of the four wives of Jacob, of whom two were free, and two slaves.
+
+[2:1738] We see that, in the wife and bond-slaves of Abraham, the apostle understands the two Testaments.
+
+[2:1739] But there, one represents each; here, the application does not suit so well, as there are two and two.
+
+[2:1740] There, also, the son of the bond-slave is disinherited; but here the sons of the slaves receive the land of promise along with the sons of the free women: so that this type must have a different meaning.
+
+[2:1741] 52.
+
+[2:1742] Supposing that the two free wives point to the New Testament, by which we are called to liberty, what is the meaning of there being two? Perhaps because in Scripture, as the attentive reader will find, we are said to have two lives in the body of Christ,—one temporal, in which we suffer pain, and one eternal, in which we shall behold the blessedness of God.
+
+[2:1743] We see the one in the Lord's passion, and the other in His resurrection.
+
+[2:1744] The names of the women point to this meaning: It is said that Leah means Suffering, and Rachel the First Principle made visible, or the Word which makes the First Principle visible.
+
+[2:1745] The action, then, of our mortal human life, in which we live by faith, doing many painful tasks without knowing what benefit may result from them to those in whom we are interested, is Leah, Jacob's first wife.
+
+[2:1746] And thus she is said to have had weak eyes.
+
+[2:1747] For the purposes of mortals are timid, and our plans uncertain.
+
+[2:1748] Again, the hope of the eternal contemplation of God, accompanied with a sure and delightful perception of truth, is Rachel.
+
+[2:1749] And on this account she is described as fair and well-formed.
+
+[2:1750] This is the beloved of every pious student, and for this he serves the grace of God, by which our sins, though like scarlet, are made white as snow.
+
+[2:1751] For Laban means making white; and we read that Jacob served Laban for Rachel.
+
+[2:1752] No man turns to serve righteousness, in subjection to the grace of forgiveness, but that he may live in peace in the Word which makes visible the First Principle, or God; that is, he serves for Rachel, not for Leah.
+
+[2:1753] For what a man loves in the works of righteousness is not the toil of doing and suffering.
+
+[2:1754] No one desires this life for its own sake; as Jacob desired not Leah, who yet was brought to him, and became his wife, and the mother of children.
+
+[2:1755] Though she could not be loved of herself, the Lord made her be borne with as a step to Rachel; and then she came to be approved of on account of her children.
+
+[2:1756] Thus every useful servant of God, brought into His grace by which his sins are made white, has in his mind, and heart, and affection, when he thus turns to God, nothing but the knowledge of wisdom.
+
+[2:1757] This we often expect to attain as a reward for practising the seven precepts of the law which concern the love of our neighbor, that we injure no one: namely, Honor thy father and mother; Thou shall not commit adultery; Thou shall not kill; Thou shalt not steal; Thou shall not bear false witness; Thou shalt not desire thy neighbor's wife; Thou shall not covet thy neighbor's property.
+
+[2:1758] When a man has obeyed these to the best of his ability, and, instead of the bright joys of truth which he desired and hoped for, finds in the darkness of the manifold trials of this world that he is bound to painful endurance, or has embraced Leah instead of Rachel, if there is perseverance in his love, he bears with the one in order to attain the other; and as if it were said to him, Serve seven other years for Rachel, he hears seven new commands,—to be poor in spirit, to be meek, to be a mourner, to hunger and thirst after righteousness, to be merciful, pure, and a peacemaker.
+
+[2:1759] A man would desire, if it were possible, to obtain at once the joys of lovely and perfect wisdom, without the endurance of toil in action and suffering; but this is impossible in mortal life.
+
+[2:1760] This seems to be meant, when it is said to Jacob: "It is not the custom in our country to marry the younger before the elder".
+
+[2:1761] The elder may very well mean the first in order of time.
+
+[2:1762] So, in the discipline of man, the toil of doing the work of righteousness precedes the delight of understanding the truth.
+
+[2:1763] 53.
+
+[2:1764] To this purpose it is written: "Thou hast desired wisdom; keep the commandments, and the Lord shall give it thee".
+
+[2:1765] The commandments are those concerning righteousness, and the righteousness is that which is by faith, surrounded with the uncertainty of temptations; so that understanding is the reward of a pious belief of what is not yet understood.
+
+[2:1766] The meaning I have given to these words, "Thou hast desired wisdom; keep the commandments, and the Lord shall give it thee," I find also in the passage, "Unless ye believe, ye shall not understand;"  showing that as righteousness is by faith, understanding comes by wisdom.
+
+[2:1767] Accordingly, in the case of those who eagerly demand evident truth, we must not condemn the desire, but regulate it, so that beginning with faith it may proceed to the desired end through good works.
+
+[2:1768] The life of virtue is one of toil; the end desired is unclouded wisdom.
+
+[2:1769] Why should I believe, says one, what is not clearly proved? Let me hear some word which will disclose the first principle of all things.
+
+[2:1770] This is the one great craving of the rational soul in the pursuit of truth.
+
+[2:1771] And the answer is, What you desire is excellent, and well worthy of your love; but Leah is to be married first, and then Rachel.
+
+[2:1772] The proper effect of your eagerness is to lead you to submit to the right method, instead of rebelling against it; for without this method you cannot attain what you so eagerly long for.
+
+[2:1773] And when it is attained, the possession of the lovely form of knowledge will be in this world accompanied with the toils of righteousness.
+
+[2:1774] For however clear and true our perception in this life may be of the unchangeable good, the mortal body is still a weight on the mind and the earthly tabernacle is a clog on the intellect in its manifold activity.
+
+[2:1775] The end then, is one, but many things must be gone through for the sake of it.
+
+[2:1776] 54.
+
+[2:1777] Thus Jacob has two free wives; for both are daughters of the remission of sins, or of whitening, that is, of Laban.
+
+[2:1778] One is loved, the other is borne.
+
+[2:1779] But she that is borne is the most and the soonest fruitful, that she may be loved, if not for herself, at least for her children.
+
+[2:1780] For the toil of the righteous is specially fruitful in those whom they beget for the kingdom of God, by preaching the gospel amid many trials and temptations; and they call those their joy and crown  for whom they are in labors more abundantly, in stripes above measure, in deaths often, —for whom they have fightings without and fears within.
+
+[2:1781] Such births result most easily and plentifully from the word of faith, the preaching of Christ crucified, which speaks also of His human nature as far as it can be easily understood, so as not to hurt the weak eyes of Leah.
+
+[2:1782] Rachel, again, with clear eye, is beside herself to God,  and sees in the beginning the Word of God with God, and wishes to bring forth, but cannot; for who shall declare His generation? So the life devoted to contemplation, in order to see with no feeble mental eye things invisible to flesh, but understood by the things that are made, and to discern the ineffable manifestation of the eternal power and divinity of God, seeks leisure from all occupation, and is therefore barren.
+
+[2:1783] In this habit of retirement, where the fire of meditation burns bright, there is a want of sympathy with human weakness, and with the need men have of our help in their calamities.
+
+[2:1784] This life also burns with the desire for children (for it wishes to teach what it knows, and not to go with the corruption of envy ), and sees its sister-life fully occupied with work and with bringing forth; and it grieves that men run after that virtue which cares for their wants and weaknesses, instead of that which has a divine imperishable lesson to impart.
+
+[2:1785] This is what is meant when it is said, "Rachel envied her sister".
+
+[2:1786] Moreover, as the pure intellectual perception of that which is not matter, and so is not the object of the bodliy sense, cannot be expressed in words which spring from the flesh, the doctrine of wisdom prefers to get some lodging for divine truth in the mind by whatever material figures and illustrations occur, rather than to give up teaching these things; and thus Rachel preferred that her husband should have children by her handmaid, rather than that she should be without any children.
+
+[2:1787] Bilhah, the name of her handmaid, is said to mean old; and so, even when we speak of the spiritual and unchangeable nature of God, ideas are suggested relating to the old life of the bodily senses.
+
+[2:1788] 55.
+
+[2:1789] Leah, too, got children by her handmaid, from the desire of having a numerous family.
+
+[2:1790] Zilpah, her handmaid, is, interpreted, an open mouth.
+
+[2:1791] So Leah's handmaid represents those who are spoken of in Scripture as engaging in the preaching of the gospel with open mouth, but not with open heart.
+
+[2:1792] Thus it is written of some: "This people honor me with their lips, but their heart is far from me".
+
+[2:1793] To such the apostle says: "Thou that preachest that a man should not steal, dost thou steal? Thou that sayest a man should not commit adultery, dost thou commit adultery?"  But that even by this arrangement the free wife of Jacob, the type of labor or endurance, might obtain children to be heirs of the kingdom, the Lord says: "What they say, do; but do not after their works".
+
+[2:1794] And again, the apostolic life, when enduring imprisonment, says: "Whether Christ is preached in pretence or in truth, I therein do rejoice, yea, and will rejoice".
+
+[2:1795] It is the joy of the mother over her numerous family, though born of her handmaid.
+
+[2:1796] 56.
+
+[2:1797] In one instance Leah owed her becoming a mother to Rachel, who, in return for some mandrakes, allowed her husband to give her night to her sister.
+
+[2:1798] Some, I know, think that eating this fruit has the effect of making barren women productive, and that Rachel, from her desire for children, was thus bent on getting the fruit from her sister.
+
+[2:1799] But I should not agree to this, even had Rachel conceived at the time.
+
+[2:1800] As Leah then conceived, and, besides, had two other children before God opened Rachel's womb, there is no reason for supposing any such quality in the mandrake, without any experience to prove it.
+
+[2:1801] I will give my explanation; those better able than I may give a better.
+
+[2:1802] Though this fruit is not often met with, I had once, to my great satisfaction, on account of its connection with this passage of Scripture, an opportunity of seeing it.
+
+[2:1803] I examined the fruit as carefully as I could, not with the help of any recondite knowledge of the nature of roots or the virtues of plants, but only as to what I or any one might learn from the sight, and smell, and taste.
+
+[2:1804] I thought it a nice-looking fruit, and sweet-smelling, but insipid; and I confess it is hard to say why Rachel desired it so much, unless it was for its rarity and its sweet smell.
+
+[2:1805] Why the incident should be narrated in Scripture, in which the fancies of women would not be mentioned as important unless it was intended that we should learn some important lesson from them, the only thing I can think of is the very simple idea that the fruit represents a good character; not the praise given a man by a few just and wise people, but popular report, which bestows greatness and renown on a man, and which is not desirable for its own sake, but is essential to the success of good men in their endeavors to benefit their fellow-men.
+
+[2:1806] So the apostle says, that it is proper to have a good report of those that are without;  for though they are not infallible, the lustre of their praise and the odor of their good opinion are a great help to the efforts of those who seek to benefit them.
+
+[2:1807] And this popular renown is not obtained by those that are highest in the Church, unless they expose themselves to the toils and hazards of an active life.
+
+[2:1808] Thus the son of Leah found the mandrakes when he went out into the field, that is, when walking honestly towards those that are without.
+
+[2:1809] The pursuit of wisdom, on the other hand, retired from the busy crowd, and lost in calm meditation, could never obtain a particle of this public approval, except through those who take the management of public business, not for the sake of being leaders, but in order to be useful.
+
+[2:1810] These men of action and business exert themselves for the public benefit, and by a popular use of their influence gain the approval of the people even for the quiet life of the student and inquirer after truth; and thus through Leah the mandrakes come into the hands of Rachel.
+
+[2:1811] Leah herself got them from her first-born son, that is, in honor of her fertility, which represents all the useful result of a laborious life exposed to the common vicissitudes; a life which many avoid on account of its troublesome engagements, because, although they might be able to take the lead, they are bent on study, and devote all their powers to the quiet pursuit of knowledge, in love with the beauty of Rachel.
+
+[2:1812] 57.
+
+[2:1813] But as it is right that this studious life should gain public approval by letting itself be known, while it cannot rightly gain this approval if it keeps its follower in retirement, instead of using his powers for the management of ecclesiastical affairs, and so prevents his being generally useful; to this purpose Leah says to her sister, "Is it a small matter that thou hast taken my husband? and wouldest thou take away my son's mandrakes also?"   The husband represents all those who, though fit for active life, and able to govern the Church, in administering to believers the mystery of the faith, from their love of learning and of the pursuit of wisdom, desire to relinquish all troublesome occupations, and to bury themselves in the classroom.
+
+[2:1814] Thus the words, "Is it a small matter that thou hast taken my husband? and wouldest thou take away my son's mandrakes also?" mean, "Is it a small matter that the life of study keeps in retirement men required for the toils of public life? and does it ask for popular renown as well?"  58.
+
+[2:1815] To get this renown justly, Rachel gives her husband to her sister for the night; that is, those who, by a talent for business, are fitted for government, must for the public benefit consent to bear the burden and suffer the hardships of public life; lest the pursuit of wisdom, to which their leisure is devoted, should be evil spoken of, and should not gain from the multitude the good opinion, represented by the fruit, which is necessary for the encouragement of their pupils.
+
+[2:1816] But the life of business must be forced upon them.
+
+[2:1817] This is clearly shown by Leah's meeting Jacob when coming from the field, and laying hold of him, saying, "Thou shalt come in to me; for I have hired thee with my son's mandrakes".
+
+[2:1818] As if she said, Dost thou wish the knowledge which thou lovest to be well thought of? Do not shirk the toil of business.
+
+[2:1819] The same thing happens constantly in the Church.
+
+[2:1820] What we read is explained by what we meet with in our own experience.
+
+[2:1821] Do we not everywhere see men coming from secular employments, to seek leisure for the study and contemplation of truth, their beloved Rachel, and intercepted mid-way by ecclesiastical affairs, which require them to be set to work, as if Leah said to them, You must come in to me? When such men minister in sincerity the mystery of God, so as in the night of this world to beget sons in the faith, popular approval is gained also for that life, in love for which they were led to abandon worldly pursuits, and from the adoption of which they were called away to undertake the benevolent task of government.
+
+[2:1822] In all their labors they aim chiefly at this, that their chosen way of life may have greater and wider renown, as having supplied the people with such leaders; as Jacob consents to go with Leah, that Rachel may obtain the sweet-smelling and good-looking fruit.
+
+[2:1823] Rachel, too, in course of time, by the mercy of God, brings forth a child herself, but not till after some time; for it seldom happens that there is a sound, though only partial, apprehension, without fleshly ideas, of such sacred lessons of wisdom as this: "In the beginning was the Word, and the Word was with God, and the Word was God".
+
+[2:1824] 59.
+
+[2:1825] This must suffice as a reply to the false accusations brought by Faustus against the three fathers, Abraham, Isaac, and Jacob, from whom the God whom the Catholic Church worship was pleased to take His name.
+
+[2:1826] This is not the place to discourse on the merits and piety of these three men, or on the dignity of their prophetic character, which is beyond the comprehension of carnal minds.
+
+[2:1827] It is enough in this treatise to defend them against the calumnious attacks of malevolence and falsehood, in case those who read the Scriptures in a carping and hostile spirit should fancy that they have proved anything against the sacredness and the profitableness of these books, by their attempts to blacken the character of men who are there mentioned so honorably.
+
+[2:1828] 60.
+
+[2:1829] It should be added that Lot, the brother, that is the blood relation, of Abraham, is not to be ranked as equal to those of whom God says, "I am the God of Abraham, of Isaac, and of Jacob;" nor does he belong to those testified to in Scripture as having continued righteous to the end, although in Sodom he lived a pious and virtuous life, and showed a praiseworthy hospitality, so that he was rescued from the fire, and a land was given by God to his seed to dwell in, for the sake of his uncle Abraham.
+
+[2:1830] On these accounts he is commended in Scripture—not for intemperance or incest.
+
+[2:1831] But when we find bad and good actions recorded of the same person, we must take warning from the one, and example from the other.
+
+[2:1832] As, then, the sin of Lot, of whom we are told that he was righteous previous to this sin, instead of bringing a stain on the character of God, or the truth of Scripture, rather calls on us to approve and admire the record in its resemblance to a faithful mirror, which reflects not only the beauties and perfections, but also the faults and deformities, of those who approach it; still more, in the case of Judah, who lay with his daughter-in-law, we may see how groundless are the reproaches cast on the narrative.
+
+[2:1833] The sacred record has an authority which raises it far above not merely the cavils of a handful of Manich aeans, but the determined enmity of the whole Gentile world; for, in confirmation of its claims, we see that already it has brought nearly all people from their idolatrous superstitions to the worship of one God, according to the rule of Christianity.
+
+[2:1834] It has conquered the world, not by violence and warfare, but by the resistless force of truth.
+
+[2:1835] Where, then, is Judah praised in Scripture? Where is anything good said of him, except that in the blessing pronounced by his father he is distinguished above the rest, because of the prophecy that Christ would come in the flesh from his tribe?  61.
+
+[2:1836] Judah, as Faustus says, committed fornication; and besides that, we can accuse him of selling his brother into Egypt.
+
+[2:1837] Is it any disparagement to light, that in revealing all things it discloses what is unsightly? So neither is the character of Scripture affected by the evil deeds of which we are informed by the record itself.
+
+[2:1838] Undoubtedly, by the eternal law, which requires the preservation of natural order, and forbids the transgression of it, conjugal intercourse should take place only for the procreation of children, and after the celebration of marriage, so as to maintain the bond of peace.
+
+[2:1839] Therefore, the prostitution of women, merely for the gratification of sinful passion, is condemned by the divine and eternal law.
+
+[2:1840] To purchase the degradation of another, disgraces the purchaser; so that, though the sin would have been greater if Judah had knowingly lain with his daughter-in-law (for if, as the Lord says, man and wife are no more two, but one flesh,  a daughter-in-law is the same as a daughter); still, it is plain that, as regards his own intention, he was disgraced by his intercourse with an harlot.
+
+[2:1841] The woman, on the other hand, who deceived her father-in-law, sinned not from wantonness, or because she loved the gains of iniquity, but from her desire to have children of this particular family.
+
+[2:1842] So, being disappointed in two of the brothers, and not obtaining the third, she succeeded by craft in getting a child by their father; and the reward which she got was kept, not as an ornament, but as a pledge.
+
+[2:1843] It would certainly have been better to have remained childless than to become a mother without marriage.
+
+[2:1844] Still, her desire to have her father-in-law as the father of her children was very different from having a criminal affection for him.
+
+[2:1845] And when, by his order, she was brought out to be killed, on her producing the staff and necklace and ring, saying that the father of the child was the man who had given her those pledges, Judah acknowledged them, and said, "She hath been more righteous than I"—not praising her, but condemning himself.
+
+[2:1846] He blamed her desire to have children less than his own unlawful passion, which had led him to one whom he thought to be an harlot.
+
+[2:1847] In a similar sense, it is said of some that they justified Sodom;  that is, their sin was so great, that Sodom seemed righteous in comparison.
+
+[2:1848] And even allowing that this woman is not spoken of as comparatively less guilty, but is actually praised by her father-in-law, while, on account of her not observing the established rites of marriage, she is a criminal in the eye of the eternal law of right, which forbids the transgression of natural order, both as regards the body, and first and chiefly as regards the mind, what wonder though one sinner should praise another?  62.
+
+[2:1849] The mistake of Faustus and of Manich aeism generally, is in supposing that these objections prove anything against us, as if our reverence for Scripture, and our profession of regard for its authority, bound us to approve of all the evil actions mentioned in it; whereas the greater our homage for the Scripture, the more decided must be our condemnation of what the truth of Scripture itself teaches us to condemn.
+
+[2:1850] In Scripture, all fornication and adultery are condemned by the divine law; accordingly, when actions of this kind are narrated, without being expressly condemned, it is intended not that we should praise them, but that we should pass judgment on them ourselves.
+
+[2:1851] Every one execrates the cruelty of Herod in the Gospel, when, in his uneasiness on hearing of the birth of Christ, he commanded the slaughter of so many infants.
+
+[2:1852] But this is merely narrated without being condemned.
+
+[2:1853] Or if Manich aean absurdity is bold enough to deny the truth of this narrative, since they do not admit the birth of Christ, which was what troubled Herod, let them read the account of the blind fury of the Jews, which is related without any expression of reproach, although the feeling of abhorrence is the same in all.
+
+[2:1854] 63.
+
+[2:1855] But, it is said, Judah, who lay with his daughter-in-law, is reckoned as one of the twelve patriarchs.
+
+[2:1856] And was not Judas, who betrayed the Lord, reckoned among the twelve apostles? And was not this one of them, who was a devil, sent along with them to preach the gospel?  In reply to this, it will be said that after his crime Judas hanged himself, and was removed from the number of the apostles; while Judah, after his evil conduct, was not only blessed along with his brethren, but got special honor and approval from his father, who is so highly spoken of in Scripture.
+
+[2:1857] But the main lesson to be learned from this is, that this prophecy refers not to Judah, but to Christ, who was foretold as to come in the flesh from his tribe; and the very reason for the mention of this crime of Judah is to be found in the desirableness of teaching us to look for another meaning in the words of his father, which are seen not to be applicable to him in his misconduct, from the praise which they express.
+
+[2:1858] 64.
+
+[2:1859] Doubtless, the intention of Faustus' calumnies is to damage this very assertion, that Christ was born of the tribe of Judah.
+
+[2:1860] Especially, as in the genealogy given by Matthew we find the name of Zara, whom this woman Tamar bore to Judah.
+
+[2:1861] Had Faustus wished to reproach Jacob's family merely, and not Christ's birth, he might have taken the case of Reuben the first-born, who committed the unnatural crime of defiling his father's bed, of which fornication the apostle says, that it was not so much as named among the Gentiles.
+
+[2:1862] Jacob also mentions this in his blessing, charging his son with the infamous deed.
+
+[2:1863] Faustus might have brought up this, as Reuben seems to have been guilty of deliberate incest, and there was no harlot's disguise in this case, were it not that Tamar's conduct in desiring nothing but to have children is more odious to Faustus than if she had acted from criminal passion, and did he not wish to discredit the incarnation, by bringing reproach on Christ's progenitors.
+
+[2:1864] Faustus unhappily is not aware that the most true and truthful Saviour is a teacher, not only in His words, but also in His birth.
+
+[2:1865] In His fleshly origin there is this lesson for those who should believe on Him from all nations, that the sins of their fathers need be no hindrance to them.
+
+[2:1866] Besides, the Bridegroom, who was to call good and bad to His marriage,  was pleased to assimilate Himself to His guests, in being born of good and bad.
+
+[2:1867] He thus confirms as typical of Himself the symbol of the Passover, in which it was commanded that the lamb to be eaten should be taken from the sheep or from the goats—that is, from the righteous or the wicked.
+
+[2:1868] Preserving throughout the indication of divinity and humanity, as man He consented to have both bad and good as His parents, while as God He chose the miraculous birth from a virgin.
+
+[2:1869] 65.
+
+[2:1870] The impiety, therefore, of Faustus' attacks on Scripture can injure no one but himself; for what he thus assails is now deservedly the object of universal reverence.
+
+[2:1871] As has been said already, the sacred record, like a faithful mirror, has no flattery in its portraits, and either itself passes sentence upon human actions as worthy of approval or disapproval, or leaves the reader to do so.
+
+[2:1872] And not only does it distinguish men as blameworthy or praiseworthy, but it also takes notice of cases where the blameworthy deserve praise, and the praiseworthy blame.
+
+[2:1873] Thus, although Saul was blameworthy, it was not the less praiseworthy in him to examine so carefully who had eaten food during the curse, and to pronounce the stern sentence in obedience to the commandment of God.
+
+[2:1874] So, too, he was right in banishing those that had familiar spirits and wizards out of the land.
+
+[2:1875] And although David was praiseworthy, we are not called on to approve or imitate his sins, which God rebukes by the prophet.
+
+[2:1876] And so Pontius Pilate was not wrong in pronouncing the Lord innocent, in spite of the accusations of the Jews;  nor was it praiseworthy in Peter to deny the Lord thrice; nor, again, was he praiseworthy on that occasion when Christ called him Satan because, not understanding the things of God, he wished to withhold Christ from his passion, that is, from our salvation.
+
+[2:1877] Here Peter, immediately after being called blessed, is called Satan.
+
+[2:1878] Which character most truly belonged to him, we may see from his apostleship, and from his crown of martyrdom.
+
+[2:1879] 66.
+
+[2:1880] In the case of David also, we read of both good and bad actions.
+
+[2:1881] But where David's strength lay, and what was the secret of his success, is sufficiently plain, not to the blind malevolence with which Faustus assails holy writings and holy men, but to pious discernment, which bows to the divine authority, and at the same time judges correctly of human conduct.
+
+[2:1882] The Manich aeans will find, if they read the Scriptures, that God rebukes David more than Faustus does.
+
+[2:1883] But they will read also of the sacrifice of his penitence, of his surpassing gentleness to his merciless and bloodthirsty enemy, whom David, pious as he was brave, dismissed unhurt when now and again he fell into his hands.
+
+[2:1884] They will read of his memorable humility under divine chastisement, when the kingly neck was so bowed under the Master's yoke, that he bore with perfect patience bitter taunts from his enemy, though he was armed, and had armed men with him.
+
+[2:1885] And when his companion was enraged at such things being said to the king, and was on the point of requiting the insult on the head of the scoffer, he mildly restrained him, appealing to the fear of God in support of his own royal order, and saying that this bad happened to him as a punishment from God, who had sent the man to curse him.
+
+[2:1886] They will read how, with the love of a shepherd for the flock entrusted to him, he was willing to die for them, when, after he had numbered the people, God saw good to punish his sinful pride by lessening the number he boasted of.
+
+[2:1887] In this destruction, God, with whom there is no iniquity, in His secret judgment, both took away the lives of those whom He knew to be unworthy of life, and by this diminution cured the vainglory which had prided itself on the number of the people.
+
+[2:1888] They will read of that scrupulous fear of God in his regard for the emblem of Christ in the sacred anointing, which made David's heart smite him with regret for having secretly cut off a small piece of Saul's garment, that he might prove to him that he had no wish to kill him, when he might have done it.
+
+[2:1889] They will read of his judicious behavior as regards his children, and also of his tenderness toward them—how, when one was sick, he entreated the Lord for him with many tears and with much self-abasement, but when he died, an innocent child, he did not mourn for him; and again, how, when his youthful son was carried away with unnatural hostility to an infamous violation of his father's bed, and in a parricidal war, he wished him to live, and wept for him when he was killed; for he thought of the eternal doom of a soul guilty of such crimes, and desired that he should live to escape this doom by being brought to submission and repentance.
+
+[2:1890] These, and many other praiseworthy and exemplary things, may be seen in this holy man by a candid examination of the Scripture narrative, especially if in humble piety and unfeigned faith we regard the judgment of God, who knew the secrets of David's heart, and who, in His infallible inspection, so approves of David as to commend him as a pattern to his sons.
+
+[2:1891] 67.
+
+[2:1892] It must have been on account of this inspection of the depths of David's heart by the Spirit of God that, when on being reproved by the prophet, he said, I have sinned, he was considered worthy to be told, immediately after this brief confession, that he was pardoned—that is, that he was admitted to eternal salvation.
+
+[2:1893] For he did not escape the correction of the fatherly rod, of which God spoke in His threatening, that, while by his confession he obtained eternal exemption, he might be tried by temporal chastisement.
+
+[2:1894] And it is a remarkable evidence of the strength of David's faith, and of his meek and submissive spirit, that, when he had been told by the prophet that God had forgiven him, although the threatened consequences were still permitted to follow, he did not accuse the prophet of having deluded him, or murmur against God as having mocked him with a declaration of forgiveness.
+
+[2:1895] This deeply holy man, whose soul was lifted up unto God, and not against God, knew that had not the Lord mercifully accepted his confession and repentance, his sins would have deserved eternal punishment.
+
+[2:1896] So when, instead of this, he was made to smart under temporal correction, he saw that, while the pardon remained good, wholesome discipline was also provided.
+
+[2:1897] Saul, too, when he was reproved by Samuel, said, I have sinned.
+
+[2:1898] Why, then, was he not considered fit to be told, as David was, that the Lord had pardoned his sin? Is there acceptance of persons with God? Far from it.
+
+[2:1899] While to the human ear the words were the same, the divine eye saw a difference in the heart.
+
+[2:1900] The lesson for us to learn from these things is, that the kingdom of heaven is within us,  and that we must worship God from our inmost feelings, that out of the abundance of the heart the mouth may speak, instead of honoring Him with our lips, like the people of old, while our hearts are far from Him.
+
+[2:1901] We may learn also to judge of men, whose hearts we cannot see, only as God judges, who sees what we cannot, and who cannot be biased or misled.
+
+[2:1902] Having, on the high authority of sacred Scripture, the plainest announcement of God's opinion of David, we may regard as absurd or deplorable the rashness of men who hold a different opinion.
+
+[2:1903] The authority of Scripture, as regards the character of these men of ancient times, is supported by the evidence from the prophecies which they contain, and which are now receiving their fulfillment.
+
+[2:1904] 68.
+
+[2:1905] We see the same thing in the Gospel, where the devils confess that Christ is the Son of God in the words used by Peter, but with a very different heart.
+
+[2:1906] So, though the words were the same, Peter is praised for his faith, while the impiety of the devils is checked.
+
+[2:1907] For Christ, not by human sense, but by divine knowledge, could inspect and infallibly discriminate the sources from which the words came.
+
+[2:1908] Besides, there are multitudes who confess that Christ is the Son of the living God, without meriting the same approval as Peter—not only of those who shall say in that day, "Lord, Lord," and shall receive the sentence, "Depart from me," but also of those who shall be placed on the right hand.
+
+[2:1909] They may probably never have denied Christ even once; they may never have opposed His suffering for our salvation; they may never have forced the Gentiles to do as the Jews;  and yet they shall not be honored equally with Peter, who, though he did all these things, will sit on one of the twelve thrones, and judge not only the twelve tribes, but the angels.
+
+[2:1910] So, again, many who have never desired another man's wife, or procured the death of the husband, as David did, will never reach the place which David nevertheless held in the divine favor.
+
+[2:1911] There is a vast difference between what is in itself so undesirable that it must be utterly rejected, and the rich and plenteous harvest which may afterwards appear.
+
+[2:1912] For farmers are best pleased with the fields from which, after weeding them, it may be, of great thistles, they receive an hundred-fold; not with fields which have never had any thistles, and hardly bear thirty-fold.
+
+[2:1913] 69.
+
+[2:1914] So Moses, too, who was so faithful a servant of God in all his house; the minister of the holy, just, and good law; of whose character the apostle speaks in the words here quoted;  the minister also of the symbols which, though not conferring salvation, promised the Saviour, as the Saviour Himself shows, when He says, "If ye believed Moses, ye would also believe me, for he wrote of me,"—from which passage we have already sufficiently answered the presumptuous cavils of the Manich aeans;—this Moses, the servant of the living, the true, the most high God, that made heaven and earth, not of a foreign substance, but of nothing—not from the pressure of necessity, but from plenitude of goodness—not by the suffering of His members, but by the power of His word;—this Moses, who humbly put from him this high ministry, but obediently accepted it, and faithfully kept it, and diligently fulfilled it; who ruled the people with vigilance, reproved them with vehemence, loved them with fervor, and bore with them in patience, standing for his subjects before God to receive His counsel, and to appease His wrath;—this great and good man is not to be judged of from Faustus' malicious representations, but from what is said by God, whose word is a true expression of His true opinion of this man, whom He knew because He made him.
+
+[2:1915] For the sins of men are also known to God, though He is not their author; but He takes notice of them as a judge in those who refuse to own them, and pardons them as a father in those who make confession.
+
+[2:1916] His servant Moses, as thus described, we love and admire and to the best of our power imitate, coming indeed far short of his merits, though we have killed no Egyptian, nor plundered any one, nor carried on any war; which actions of Moses were in one case prompted by the zeal of the future champion of his people, and in the other cases commanded by God.
+
+[2:1917] 70.
+
+[2:1918] It might be shown that, though Moses slew the Egyptian, without being commanded by God, the action was divinely permitted, as, from the prophetic character of Moses, it prefigured something in the future.
+
+[2:1919] Now however, I do not use this argument, but view the action as having no symbolical meaning.
+
+[2:1920] In the light, then, of the eternal law, it was wrong for one who had no legal authority to kill the man, even though he was a bad character, besides being the aggressor.
+
+[2:1921] But in minds where great virtue is to come, there is often an early crop of vices, in which we may still discern a disposition for some particular virtue, which will come when the mind is duly cultivated.
+
+[2:1922] For as farmers, when they see land bringing forth huge crops, though of weeds, pronounce it good for corn; or when they see wild creepers, which have to be rooted out, still consider the land good for useful vines; and when they see a hill covered with wild olives, conclude that with culture it will produce good fruit: so the disposition of mind which led Moses to take the law into his own hands, to prevent the wrong done to his brother, living among strangers, by a wicked citizen of the country from being unrequited, was not unfit for the production of virtue, but from want of culture gave signs of its productiveness in an unjustifiable manner.
+
+[2:1923] He who afterwards, by His angel, called Moses on Mount Sinai, with the divine commission to liberate the people of Israel from Egypt, and who trained him to obedience by the miraculous appearance in the bush burning but not consumed, and by instructing him in his ministry, was the same who, by the call addressed from heaven to Saul when persecuting the Church, humbled him, raised him up, and animated him; or in figurative words, by this stroke He cut off the branch, grafted it, and made it fruitful.
+
+[2:1924] For the fierce energy of Paul, when in his zeal for hereditary traditions he persecuted the Church, thinking that he was doing God service, was like a crop of weeds showing great signs of productiveness.
+
+[2:1925] It was the same in Peter, when he took his sword out of its sheath to defend the Lord, and cut off the right ear of an assailant, when the Lord rebuked him with something like a threat, saying, "Put up thy sword into its sheath; for he that taketh the sword shall perish by the sword".
+
+[2:1926] To take the sword is to use weapons against a man's life, without the sanction of the constituted authority.
+
+[2:1927] The Lord, indeed, had told His disciples to carry a sword; but He did not tell them to use it.
+
+[2:1928] But that after this sin Peter should become a pastor of the Church was no more improper than that Moses, after smiting the Egyptian, should become the leader of the congregation.
+
+[2:1929] In both cases the trespass originated not in inveterate cruelty, but in a hasty zeal which admitted of correction.
+
+[2:1930] In both cases there was resentment against injury, accompanied in one case by love for a brother, and in the other by love, though still carnal, of the Lord.
+
+[2:1931] Here was evil to be subdued or rooted out; but the heart with such capacities needed only, like good soil, to be cultivated to make it fruitful in virtue.
+
+[2:1932] 71.
+
+[2:1933] Then, as for Faustus' objection to the spoiling of the Egyptians, he knows not what he says.
+
+[2:1934] In this Moses not only did not sin, but it would have been sin not to do it.
+
+[2:1935] It was by the command of God,  who, from His knowledge both of the actions and of the hearts of men, can decide on what every one should be made to suffer, and through whose agency.
+
+[2:1936] The people at that time were still carnal, and engrossed with earthly affections; while the Egyptians were in open rebellion against God, for they used the gold, God's creature, in the service of idols, to the dishonor of the Creator, and they had grievously oppressed strangers by making them work without pay.
+
+[2:1937] Thus the Egyptians deserved the punishment, and the Israelites were suitably employed in inflicting it.
+
+[2:1938] Perhaps, indeed, it was not so much a command as a permission to the Hebrews to act in the matter according to their own inclinations; and God, in sending the message by Moses, only wished that they should thus be informed of His permission.
+
+[2:1939] There may also have been mysterious reasons for what God said to the people on this matter.
+
+[2:1940] At any rate, God's commands are to be submissively received, not to be argued against.
+
+[2:1941] The apostle says, "Who hath known the mind of the Lord? or who hath been His counsellor?"  Whether, then, the reason was what I have said, or whether in the secret appointment of God, there was some unknown reason for His telling the people by Moses to borrow things from the Egyptians, and to take them away with them, this remains certain, that this was said for some good reason, and that Moses could not lawfully have done otherwise than God told him, leaving to God the reason of the command, while the servant's duty is to obey.
+
+[2:1942] 72.
+
+[2:1943] But, says Faustus, it cannot be admitted that the true God, who is also good, ever gave such a command.
+
+[2:1944] I answer, such a command can be rightly given by no other than the true and good God, who alone knows the suitable command in every case, and who alone is incapable of inflicting unmerited suffering on any one.
+
+[2:1945] This ignorant and spurious goodness of the human heart may as well deny what Christ says, and object to the wicked being made to suffer by the good God, when He shall say to the angels, "Gather first the tares into bundles to burn them".
+
+[2:1946] The servants, however, were stopped when they wished to do this prematurely: "Lest by chance, when ye would gather the tares, ye root up the wheat also with them".
+
+[2:1947] Thus the true and good God alone knows when, to whom, and by whom to order anything, or to permit anything.
+
+[2:1948] In the same way, this human goodness, or folly rather, might object to the Lord's permitting the devils to enter the swine, which they asked to be allowed to do with a mischievous intent,  especially as the Manich aeans believe that not only pigs, but the vilest insects, have human souls.
+
+[2:1949] But setting aside these absurd notions, this is undeniable, that our Lord Jesus Christ, the only son of God, and therefore the true and good God, permitted the destruction of swine belonging to strangers, implying loss of life and of a great amount of property, at the request of devils.
+
+[2:1950] No one can be so insane as to suppose that Christ could not have driven the devils out of the men without gratifying their malice by the destruction of the swine.
+
+[2:1951] If, then, the Creator and Governor of all natures, in His superintendence, which, though mysterious, is ever just, indulged the violent and unjust inclination of those lost spirits already doomed to eternal fire, why should not the Egyptians, who were unrighteous oppressors, be spoiled by the Hebrews, a free people, who would claim payment for their enforced and painful toil, especially as the earthly possessions which they thus lost were used by the Egyptians in their impious rites, to the dishonor of the Creator? Still, if Moses had originated this order, or if the people had done it spontaneously, undoubtedly it would have been sinful; and perhaps the people did sin, not in doing what God commanded or permitted, but in some desire of their own for what they took.
+
+[2:1952] The permission given to this action by divine authority was in accordance with the just and good counsel of Him who uses punishments both to restrain the wicked and to educate His own people; who knows also how to give more advanced precepts to those able to bear them, while He begins on a lower scale in the treatment of the feeble.
+
+[2:1953] As for Moses, he can be blamed neither for coveting the property, nor for disputing, in any instance, the divine authority.
+
+[2:1954] 73.
+
+[2:1955] According to the eternal law, which requires the preservation of natural order, and forbids the transgression of it, some actions have an indifferent character, so that men are blamed for presumption if they do them without being called upon, while they are deservedly praised for doing them when required.
+
+[2:1956] The act, the agent, and the authority for the action are all of great importance in the order of nature.
+
+[2:1957] For Abraham to sacrifice his son of his own accord is shocking madness.
+
+[2:1958] His doing so at the command of God proves him faithful and submissive.
+
+[2:1959] This is so loudly proclaimed by the very voice of truth, that Faustus, eagerly rummaging for some fault, and reduced at last to slanderous charges, has not the boldness to attack this action.
+
+[2:1960] It is scarcely possible that he can have forgotten a deed so famous, that it recurs to the mind of itself without any study or reflection, and is in fact repeated by so many tongues, and portrayed in so many places, that no one can pretend to shut his eyes or his ears to it.
+
+[2:1961] If, therefore, while Abraham's killing his son of his own accord would have been unnatural, his doing it at the command of God shows not only guiltless but praiseworthy compliance, why does Faustus blame Moses for spoiling the Egyptians? Your feeling of disapproval for the mere human action should be restrained by a regard for the divine sanction.
+
+[2:1962] Will you venture to blame God Himself for desiring such actions? Then "Get thee behind me, Satan, for thou understandest not the things which be of God, but those which be of men".
+
+[2:1963] Would that this rebuke might accomplish in you what it did in Peter, and that you might hereafter preach the truth concerning God, which you now, judging by feeble sense, find fault with! as Peter became a zealous messenger to announce to the Gentiles what he objected to at first, when the Lord spoke of it as His intention.
+
+[2:1964] 74.
+
+[2:1965] Now, if this explanation suffices to satisfy human obstinacy and perverse misinterpretation of right actions of the vast difference between the indulgence of passion and presumption on the part of men, and obedience to the command of God, who knows what to permit or to order, and also the time and the persons, and the due action or suffering in each case, the account of the wars of Moses will not excite surprise or abhorrence, for in wars carried on by divine command, he showed not ferocity but obedience; and God in giving the command, acted not in cruelty, but in righteous retribution, giving to all what they deserved, and warning those who needed warning.
+
+[2:1966] What is the evil in war? Is it the death of some who will soon die in any case, that others may live in peaceful subjection? This is mere cowardly dislike, not any religious feeling.
+
+[2:1967] The real evils in war are love of violence, revengeful cruelty, fierce and implacable enmity, wild resistance, and the lust of power, and such like; and it is generally to punish these things, when force is required to inflict the punishment, that, in obedience to God or some lawful authority, good men undertake wars, when they find themselves in such a position as regards the conduct of human affairs, that right conduct requires them to act, or to make others act in this way.
+
+[2:1968] Otherwise John, when the soldiers who came to be baptized asked, What shall we do? would have replied, Throw away your arms; give up the service; never strike, or wound, or disable any one.
+
+[2:1969] But knowing that such actions in battle were not murderous but authorized by law, and that the soldiers did not thus avenge themselves, but defend the public safety, he replied, "Do violence to no man, accuse no man falsely, and be content with your wages".
+
+[2:1970] But as the Manich aeans are in the habit of speaking evil of John, let them hear the Lord Jesus Christ Himself ordering this money to be given to C aesar, which John tells the soldiers to be content with.
+
+[2:1971] "Give," He says, "to C aesar the things that are C aesar's".
+
+[2:1972] For tribute-money is given on purpose to pay the soldiers for war.
+
+[2:1973] Again, in the case of the centurion who said, "I am a man under authority, and have soldiers under me: and I say to one, Go, and he goeth; and to another, Come, and he cometh; and to my servant, Do this, and he doeth it," Christ gave due praise to his faith;  He did not tell him to leave the service.
+
+[2:1974] But there is no need here to enter on the long discussion of just and unjust ways.
+
+[2:1975] 75.
+
+[2:1976] A great deal depends on the causes for which men undertake wars, and on the authority they have for doing so; for the natural order which seeks the peace of mankind, ordains that the monarch should have the power of undertaking war if he thinks it advisable, and that the soldiers should perform their military duties in behalf of the peace and safety of the community.
+
+[2:1977] When war is undertaken in obedience to God, who would rebuke, or humble, or crush the pride of man, it must be allowed to be a righteous war; for even the wars which arise from human passion cannot harm the eternal well-being of God, nor even hurt His saints; for in the trial of their patience, and the chastening of their spirit, and in bearing fatherly correction, they are rather benefited than injured.
+
+[2:1978] No one can have any power against them but what is given him from above.
+
+[2:1979] For there is no power but of God,  who either orders or permits.
+
+[2:1980] Since, therefore, a righteous man, serving it may be under an ungodly king, may do the duty belonging to his position in the State in fighting by the order of his sovereign,—for in some cases it is plainly the will of God that he should fight, and in others, where this is not so plain, it may be an unrighteous command on the part of the king, while the soldier is innocent, because his position makes obedience a duty,—how much more must the man be blameless who carries on war on the authority of God, of whom every one who serves Him knows that He can never require what is wrong?  76.
+
+[2:1981] If it is supposed that God could not enjoin warfare, because in after times it was said by the Lord Jesus Christ, "I say unto you, That ye resist not evil: but if any one strike thee on the right cheek, turn to him the left also,"  the answer is, that what is here required is not a bodily action, but an inward disposition.
+
+[2:1982] The sacred seat of virtue is the heart, and such were the hearts of our fathers, the righteous men of old.
+
+[2:1983] But order required such a regulation of events, and such a distinction of times, as to show first of all that even earthly blessings (for so temporal kingdoms and victory over enemies are considered to be, and these are the things which the community of the ungodly all over the world are continually begging from idols and devils) are entirely under the control and at the disposal of the one true God.
+
+[2:1984] Thus, under the Old Testament, the secret of the kingdom of heaven, which was to be disclosed in due time, was veiled, and so far obscured, in the disguise of earthly promises.
+
+[2:1985] But when the fullness of time came for the revelation of the New Testament, which was hidden under the types of the Old, clear testimony was to be borne to the truth, that there is another life for which this life ought to be disregarded, and another kingdom for which the opposition of all earthly kingdoms should be patiently borne.
+
+[2:1986] Thus the name martyrs, which means witnesses, was given to those who, by the will of God, bore this testimony, by their confessions, their sufferings, and their death.
+
+[2:1987] The number of such witnesses is so great, that if it pleased Christ—who called Saul by a voice from heaven, and having changed him from a wolf to a sheep, sent him into the midst of wolves—to unite them all in one army, and to give them success in battle, as He gave to the Hebrews, what nation could withstand them? what kingdom would remain unsubdued? But as the doctrine of the New Testament is, that we must serve God not for temporal happiness in this life, but for eternal felicity hereafter, this truth was most strikingly confirmed by the patient endurance of what is commonly called adversity for the sake of that felicity.
+
+[2:1988] So in fullness of time the Son of God, made of a woman, made under the law, that He might redeem them that were under the law, made of the seed of David according to the flesh sends His disciples as sheep into the midst of wolves, and bids them not fear those that can kill the body, but cannot kill the soul, and promises that even the body will be entirely restored, so that not a hair shall be lost.
+
+[2:1989] Peter's sword He orders back into its sheath, restoring as it was before the ear of His enemy that had been cut off.
+
+[2:1990] He says that He could obtain legions of angels to destroy His enemies, but that He must drink the cup which His Father's will had given Him.
+
+[2:1991] He sets the example of drinking this cup, then hands it to His followers, manifesting thus, both in word and deed, the grace of patience.
+
+[2:1992] Therefore God raised Him from the dead, and has given Him a name which is above every name; that in the name of Jesus every knee should bow, of things in heaven and of things in earth, and of things under the earth; and that every tongue should confess that Jesus is Lord, to the glory of God the Father.
+
+[2:1993] The patriarchs and prophets, then, have a kingdom in this world, to show that these kingdoms, too, are given and taken away by God: the apostles and martyrs had no kingdom here, to show the superior desirableness of the kingdom of heaven.
+
+[2:1994] The prophets, however, could even in those times die for the truth, as the Lord Himself says, "From the blood of Abel to the blood of Zacharia;  and in these days, since the commencement of the fulfillment of what is prophesied in the psalm of Christ, under the figure of Solomon, which means the peacemaker, as Christ is our peace,  "All kings of the earth shall bow to Him, all nations shall serve Him,"  we have seen Christian emperors, who have put all their confidence in Christ, gaining splendid victories over ungodly enemies, whose hope was in the rites of idolatry and devil-worship.
+
+[2:1995] There are public and undeniable proofs of the fact, that on one side the prognostications of devils were found to be fallacious, and on the other, the predictions of saints were a means of support; and we have now writings in which those facts are recorded.
+
+[2:1996] 77.
+
+[2:1997] If our foolish opponents are surprised at the difference between the precepts given by God to the ministers of the Old Testament, at a time when the grace of the New was still undisclosed, and those given to the preachers of the New Testament, now that the obscurity of the Old is removed, they will find Christ Himself saying one thing at one time, and another at another.
+
+[2:1998] "When I sent you," He says, "without scrip, or purse, or shoes, did ye lack anything? And they said, Nothing.
+
+[2:1999] Then saith He to them, But now, he that hath a scrip, let him take it, and also a purse; and he that hath not a sword, let him sell his garment, and buy one".
+
+[2:2000] If the Manich aeans found passages in the Old and New Testaments differing in this way, they would proclaim it as a proof that the Testaments are opposed to each other.
+
+[2:2001] But here the difference is in the utterances of one and the same person.
+
+[2:2002] At one time He says, "I sent you without scrip, or purse, or shoes, and ye lacked nothing;" at another, "Now let him that hath a scrip take it, and also a purse; and he that hath a tunic, let him sell it and buy a sword".
+
+[2:2003] Does not this show how, without any inconsistency, precepts and counsels and permissions may be changed, as different times require different arrangements? If it is said that there was a symbolical meaning in the command to take a scrip and purse, and to buy a sword, why may there not be a symbolical meaning in the fact, that one and the same God commanded the prophets in old times to make war, and forbade the apostles? And we find in the passage that we have quoted from the Gospel, that the words spoken by the Lord were carried into effect by His disciples.
+
+[2:2004] For, besides going at first without scrip or purse, and yet lacking nothing, as from the Lord's question and their answer it is plain they did, now that He speaks of buying a sword, they say, "Lo, here are two swords;" and He replied, "It is enough".
+
+[2:2005] Hence we find Peter with a weapon when he cut off the assailant's ear, on which occasion his spontaneous boldness was checked, because, although he had been told to take a sword, he had not been told to use it.
+
+[2:2006] Doubtless, it was mysterious that the Lord should require them to carry weapons, and forbid the use of them.
+
+[2:2007] But it was His part to give the suitable precepts, and it was their part to obey without reserve.
+
+[2:2008] 78.
+
+[2:2009] It is therefore mere groundless calumny to charge Moses with making war, for there would have been less harm in making war of his own accord, than in not doing it when God commanded him.
+
+[2:2010] And to dare to find fault with God Himself for giving such a command, or not to believe it possible that a just and good God did so, shows, to say the least, an inability to consider that in the view of divine providence, which pervades all things from the highest to the lowest, time can neither add anything nor take away; but all things go, or come, or remain according to the order of nature or desert in each separate case, while in men a right will is in union with the divine law, and ungoverned passion is restrained by the order of divine law; so that a good man wills only what is commanded, and a bad man can do only what he is permitted, at the same time that he is punished for what he wills to do unjustly.
+
+[2:2011] Thus, in all the things which appear shocking and terrible to human feebleness, the real evil is the injustice; the rest is only the result of natural properties or of moral demerit.
+
+[2:2012] This injustice is seen in every case where a man loves for their own sake things which are desirable only as means to an end, and seeks for the sake of something else things which ought to be loved for themselves.
+
+[2:2013] For thus, as far as he can, he disturbs in himself the natural order which the eternal law requires us to observe.
+
+[2:2014] Again, a man is just when he seeks to use things only for the end for which God appointed them, and to enjoy God as the end of all, while he enjoys himself and his friend in God and for God.
+
+[2:2015] For to love in a friend the love of God is to love the friend for God.
+
+[2:2016] Now both justice and injustice, to be acts at all, must be voluntary; otherwise, there can be no just rewards or punishments; which no man in his senses will assert.
+
+[2:2017] The ignorance and infirmity which prevent a man from knowing his duty, or from doing all he wishes to do, belong to God's secret penal arrangement, and to His unfathomable judgments, for with Him there is no iniquity.
+
+[2:2018] Thus we are informed by the sure word of God of Adam's sin; and Scripture truly declares that in him all die, and that by him sin entered into the world, and death by sin.
+
+[2:2019] And our experience gives abundant evidence, that in punishment for this sin our body is corrupted, and weighs down the soul, and the clay tabernacle clogs the mind in its manifold activity;  and we know that we can be freed from this punishment only by gracious interposition.
+
+[2:2020] So the apostle cries out in distress, "O wretched man that I am! who shall deliver me from the body of this death? The grace of God through Jesus Christ our Lord".
+
+[2:2021] So much we know; but the reasons for the distribution of divine judgment and mercy, why one is in this condition, and another in that, though just, are unknown.
+
+[2:2022] Still, we are sure that all these things are due either to the mercy or the judgment of God, while the measures and numbers and weights by which the Creator of all natural productions arranges all things are concealed from our view.
+
+[2:2023] For God is not the author, but He is the controller of sin; so that sinful actions, which are sinful because they are against nature, are judged and controlled, and assigned to their proper place and condition, in order that they may not bring discord and disgrace on universal nature.
+
+[2:2024] This being the case, and as the judgments of God and the movements of man's will contain the hidden reason why the same prosperous circumstances which some make a right use of are the ruin of others, and the same afflictions under which some give way are profitable to others, and since the whole mortal life of man upon earth is a trial,  who can tell whether it may be good or bad in any particular case—in time of peace, to reign or to serve, or to be at ease or to die—or in time of war, to command or to fight, or to conquer or to be killed? At the same time, it remains true, that whatever is good is so by the divine blessing, and whatever is bad is so by the divine judgment.
+
+[2:2025] 79.
+
+[2:2026] Let no one, then, be so daring as to make rash charges against men, not to say against God.
+
+[2:2027] If the service of the ministers of the Old Testament, who were also heralds of the New, consisted in putting sinners to death, and that of the ministers of the New Testament, who are also interpreters of the Old, in being put to death by sinners, the service in both cases is rendered to one God, who, varying the lesson to suit the times, teaches both that temporal blessings are to be sought from Him, and that they are to be forsaken for Him, and that temporal distress is both sent by Him and should be endured for Him.
+
+[2:2028] There was, therefore, no cruelty in the command, or in the action of Moses, when, in his holy jealousy for his people, whom he wished to be subject to the one true God, on learning that they had fallen away to the worship of an idol made by their own hands, he impressed their minds at the time with a wholesome fear, and gave them a warning for the future, by using the sword in the punishment of a few, whose just punishment God, against whom they had sinned, appointed in the depth of His secret judgment to be immediately inflicted.
+
+[2:2029] That Moses acted as he did, not in cruelty, but in great love, may be seen from the words in which he prayed for the sins of the people: "If Thou wilt forgive their sin, forgive it; and if not, blot me out of Thy book".
+
+[2:2030] The pious inquirer who compares the slaughter with the prayer will find in this the clearest evidence of the awful nature of the injury done to the soul by prostitution to the images of devils, since such love is roused to such anger.
+
+[2:2031] We see the same in the apostle, who, not in cruelty, but in love, delivered a man up to Satan for the destruction of the flesh, that the spirit might be saved in the day of the Lord Jesus.
+
+[2:2032] Others, too, he delivered up, that they might learn not to blaspheme.
+
+[2:2033] In the apocryphal books of the Manich aeans there is a collection of fables, published by some unknown authors under the name of the apostles.
+
+[2:2034] The books would no doubt have been sanctioned by the Church at the time of their publication, if holy and learned men then in life, and competent to determine the matter, had thought the contents to be true.
+
+[2:2035] One of the stories is, that the Apostle Thomas was once at a marriage feast in a country where he was unknown, when one of the servants struck him, and that he forthwith by his curse brought a terrible punishment on this man.
+
+[2:2036] For when he went out to the fountain to provide water for the guests, a lion fell on him and killed him, and the hand with which he had given a slight blow to the apostle was torn off, in fulfillment of the imprecation, and brought by a dog to the table at which the apostle was reclining.
+
+[2:2037] What could be more cruel than this? And yet, if I mistake not, the story goes on to say, that the apostle made up for the cruelty by obtaining for the man the blessing of pardon in the next world; so that, while the people of this strange country learned to fear the apostle as being so dear to God, the man's eternal welfare was secured in exchange for the loss of this mortal life.
+
+[2:2038] It matters not whether the story is true or false.
+
+[2:2039] At any rate, the Manich aeans, who regard as genuine and authentic books which the canon of the Church rejects, must allow, as shown in the story, that the virtue of patience, which the Lord enjoins when He says, "If any one smite thee on the right cheek, turn to him thy left also," may be in the inward disposition, though it is not exhibited in bodily action or in words.
+
+[2:2040] For when the apostle was struck, instead of turning his other side to the man, or telling him to repeat the blow, he prayed to God to pardon his assailant in the next world, but not to leave the injury unpunished at the time.
+
+[2:2041] Inwardly he preserved a kindly feeling, while outwardly he wished the man to be punished as an example.
+
+[2:2042] As the Manich aeans believe this, rightly or wrongly, they may also believe that such was the intention of Moses, the servant of God, when he cut down with the sword the makers and worshippers of the idol; for his own words show that he so entreated for pardon for their sin of idolatry as to ask to be blotted out of God's book if his prayer was not heard.
+
+[2:2043] There is no comparison between a stranger being struck with the hand, and the dishonor done to God by forsaking Him for an idol, when He had brought the people out of the bondage of Egypt, had led them through the sea, and had covered with the waters the enemy pursuing them.
+
+[2:2044] Nor, as regards the punishment, is there any comparison between being killed with the sword and being torn in pieces by wild beasts.
+
+[2:2045] For judges in administering the law condemn to exposure to wild beasts worse criminals than are condemned to be put to death by the sword.
+
+[2:2046] 80.
+
+[2:2047] Another of Faustus' malicious and impious charges which has to be answered, is about the Lord's saying to the prophet Hosea, "Take unto thee a wife of whoredoms and children of whoredoms".
+
+[2:2048] As regards this passage, the impure mind of our adversaries is so blinded that they do not understand the plain words of the Lord in His gospel, when He says to the Jews, "The publicans and harlots shall go into the kingdom of heaven before you".
+
+[2:2049] There is nothing contrary to the mercifulness of truth, or inconsistent with Christian faith, in a harlot leaving fornication, and becoming a chaste wife.
+
+[2:2050] Indeed, nothing could be more unbecoming in one professing to be a prophet than not to believe that all the sins of the fallen woman were pardoned when she changed for the better.
+
+[2:2051] So when the prophet took the harlot as his wife, it was both good for the woman to have her life amended, and the action symbolized a truth of which we shall speak presently.
+
+[2:2052] But it is plain what offends the Manich aeans in this case; for their great anxiety is to prevent harlots from being with child.
+
+[2:2053] It would have pleased them better that the woman should continue a prostitute, so as not to bring their god into confinement, than that she should become the wife of one man, and have children.
+
+[2:2054] 81.
+
+[2:2055] As regards Solomon, it need only be said that the condemnation of his conduct in the faithful narrative of holy Scripture is much more serious than the childish vehemence of Faustus' attacks.
+
+[2:2056] The Scripture tells us with faithful accuracy both the good that Solomon had at first, and the evil actions by which he lost the good he began with; while Faustus, in his attacks, like a man closing his eyes, or with no eyes at all, seeks no guidance from the light, but is prompted only by violent animosity.
+
+[2:2057] To pious and discerning readers of the sacred Scriptures evidence of the chastity of the holy men who are said to have had several wives is found in this, that Solomon, who by his polygamy gratified his passions, instead of seeking for offspring, is expressly noted as chargeable with being a lover of women.
+
+[2:2058] This, as we are informed by the truth which accepts no man's person, led him down into the abyss of idolatry.
+
+[2:2059] 82.
+
+[2:2060] Having now gone over all the cases in which Faustus finds fault with the Old Testament, and having attended to the merit of each, either defending men of God against the calumnies of carnal heretics, or, where the men were at fault, showing the excellence and the majesty of Scripture, let us again take the cases in the order of Faustus' accusations, and see the meaning of the actions recorded, what they typify, and what they foretell.
+
+[2:2061] This we have already done in the case of Abraham, Isaac, and Jacob, of whom God said that He was their God, as if the God of universal nature were the God of none besides them; not honoring them with an unmeaning title, but because He, who could alone have a full and perfect knowledge, knew the sincere and remarkable charity of these men; and because these three patriarchs united formed a notable type of the future people of God, in not only having free children by free women, as by Sarah, and Rebecca, and Leah, and Rachel, but also bond children, as of this same Rebecca was born Esau, to whom it was said, "Thou shalt serve thy brother;"  and in having by bond women not only bond children, as by Hagar, but also free children, as by Bilhah and Zilphah.
+
+[2:2062] Thus also in the people of God, those spiritually free not only have children born into the enjoyment of liberty, like those to whom it is said, "Be ye followers of me, as I also am of Christ,"  but they have also children born into guilty bondage, as Simon was born of Philip.
+
+[2:2063] Again, from carnal bondmen are born not only children of guilty bondage, who imitate them, but also children of happy liberty, to whom it is said, "What they say, do; but do not after their works".
+
+[2:2064] Whoever rightly observes the fulfillment of this type in the people of God, keeps the unity of the Spirit in the bond of peace, by continuing to the end in union with some, and in patient endurance of others.
+
+[2:2065] Of Lot, also, we have already spoken, and have shown what the Scripture mentions as praiseworthy in him, and what as blameworthy and the meaning of the whole narrative.
+
+[2:2066] 83.
+
+[2:2067] We have next to consider the prophetic significance of the action of Judah in lying with his daughter-in-law.
+
+[2:2068] But, for the sake of those whose understanding is feeble, we shall begin with observing, that in sacred Scripture evil actions are sometimes prophetic not of evil, but of good.
+
+[2:2069] Divine providence preserves throughout its essential goodness, so that, as in the example given above, from adulterous intercourse a man-child is born, a good work of God from the evil of man, by the power of nature, and not due to the misconduct of the parents; so in the prophetic Scriptures, where both good and evil actions are recorded, the narrative being itself prophetic, foretells something good even by the record of what is evil, the credit being due not to the evil-doer, but to the writer.
+
+[2:2070] Judah, when, to gratify his sinful passion, he went in to Tamar, had no intention by his licentious conduct to typify anything connected with the salvation of men, any more than Judas, who betrayed the Lord, intended to produce any result connected with the salvation of men.
+
+[2:2071] So then if from the evil deed of Judas the Lord brought the good work of our redemption by His own passion, why should not His prophet, of whom He Himself says "He wrote of me," for the sake of instructing us make the evil action of Judah significant of something good? Under the guidance and inspiration of the Holy Spirit, the prophet has compiled a narrative of actions so as to make a continuous prophecy of the things he designed to foretell.
+
+[2:2072] In foretelling good, it is of no consequence whether the typical actions are good or bad.
+
+[2:2073] If it is written in red ink that the Ethiopians are black, or in black ink that the Gauls are white, this circumstance does not affect the information which the writing conveys.
+
+[2:2074] No doubt, if it was a painting instead of a writing, the wrong color would be a fault; so when human actions are represented for example or for warning much depends on whether they are good or bad.
+
+[2:2075] But when actions are related or recorded as types, the merit or demerit of the agents is a matter of no importance, as long as there is a true typical relation between the action and the thing signified.
+
+[2:2076] So in the case of Caiaphas in the Gospel as regards his iniquitous and mischievous intention, and even as regards his words in the sense in which he used them, that a just man should be put to death unjustly, assuredly they were bad; and yet there was a good meaning in his words which he did not know of when he said, "It is expedient that one man should die for the people and that the whole nation perish not".
+
+[2:2077] So it is written of Him, "This he spake not of himself; but being the high priest, he prophesied that Jesus should die for the people".
+
+[2:2078] In the same way the action of Judah was bad as regards his sinful passion, but it typified a great good he knew nothing of.
+
+[2:2079] Of himself he did evil while it was not of himself that he typified good.
+
+[2:2080] These introductory remarks apply not only to Judah, but also to all the other cases where in the narrative of bad actions is contained a prophecy of good.
+
+[2:2081] 84.
+
+[2:2082] In Tamar, then, the daughter-in-law of Judah, we see the people of the kingdom of Judah, whose kings, answering to Tamar's husbands, were taken from this tribe.
+
+[2:2083] Tamar means bitterness; and the meaning is suitable, for this people gave the cup of gall to the Lord.
+
+[2:2084] The two sons of Judah represent two classes of kings who governed ill—those who did harm and those who did no good.
+
+[2:2085] One of these sons was evil or cruel before the Lord; the other spilled the seed on the ground that Tamar might not become a mother.
+
+[2:2086] There are only those two kinds of useless people in the world—the injurious and those who will not give the good they have but lose it or spill it on the ground.
+
+[2:2087] And as injury is worse than not doing good, the evil-doer is called the elder and the other the younger.
+
+[2:2088] Er, the name of the elder, means a preparer of skins, which were the coats given to our first parents when they were punished with expulsion from paradise.
+
+[2:2089] Onan, the name of the younger, means, their grief; that is, the grief of those to whom he does no good, wasting the good he has on the earth.
+
+[2:2090] The loss of life implied in the name of the elder is a greater evil than the want of help implied in the name of the younger.
+
+[2:2091] Both being killed by God typifies the removal of the kingdom from men of this character.
+
+[2:2092] The meaning of the third son of Judah not being joined to the woman, is that for a time the kings of Judah were not of that tribe.
+
+[2:2093] So this third son did not become the husband of Tamar; as Tamar represents the tribe of Judah, which continued to exist, although the people received no king from it.
+
+[2:2094] Hence the name of this son, Selom, means, his dismission.
+
+[2:2095] None of those types apply to the holy and righteous men who, like David, though they lived in those times, belong properly to the New Testament, which they served by their enlightened predictions.
+
+[2:2096] Again, in the time when Judah ceased to have a king of its own tribe, the elder Herod does not count as one of the kings typified by the husbands of Tamar; for he was a foreigner, and his union with the people was never consecrated with the holy oil.
+
+[2:2097] His was the power of a stranger, given him by the Romans and by C aesar.
+
+[2:2098] And it was the same with his sons, the tetrarchs, one of whom, called Herod, like his father, agreed with Pilate at the time of the Lord's passion.
+
+[2:2099] So plainly were these foreigners considered as distinct from the sacred monarchy of Judah, that the Jews themselves, when raging against Christ, exclaimed openly, "We have no king but C aesar".
+
+[2:2100] Nor was C aesar properly their king, except in the sense that all the world was subject to Rome.
+
+[2:2101] The Jews thus condemned themselves, only to express their rejection of Christ, and to flatter C aesar.
+
+[2:2102] 85.
+
+[2:2103] The time when the kingdom was removed from the tribe of Judah was the time appointed for the coming of Christ our Lord, the true Saviour, who should come not for harm, but for great good.
+
+[2:2104] Thus was it prophesied, "A prince shall not fail from Judah, nor a leader from his loins, till He come for whom it is reserved: He is the desire of nations".
+
+[2:2105] Not only the kingdom, but all government, of the Jews had ceased, and also, as prophesied by Daniel, the sacred anointing from which the name Christ or Anointed is derived.
+
+[2:2106] Then came He for whom it was reserved, the desire of nations; and the holy of holies was anointed with the oil of gladness above His fellows.
+
+[2:2107] Christ was born in the time of the elder Herod, and suffered in the time of Herod the tetrarch.
+
+[2:2108] He who thus came to the lost sheep of the house of Israel was typified by Judah when he went to shear his sheep in Thamna, which means, failing.
+
+[2:2109] For then the prince had failed from Judah, with all the government and anointing of the Jews, that He might come for whom it was reserved.
+
+[2:2110] Judah, we are told, came with his Adullamite shepherd, whose name was Iras; and Adullamite means, a testimony in water.
+
+[2:2111] So it was with this testimony that the Lord came, having indeed greater testimony than that of John;  but for the sake of his feeble sheep he made use of the testimony in water.
+
+[2:2112] The name Iras, too, means, vision of my brother.
+
+[2:2113] So John saw his brother, a brother in the family of Abraham, and from the relationship of Mary and Elisabeth; and the same person he recognised as his Lord and his God, for, as he himself says, he received of His fullness.
+
+[2:2114] On account of this vision, among those born of woman, there has arisen no greater than he;  because, of all who foretold Christ, he alone saw what many righteous men and prophets desired to see and saw not.
+
+[2:2115] He saluted Christ from the womb;  he knew Him more certainly from seeing the dove; and therefore, as the Adullamite, he gave testimony by water.
+
+[2:2116] The Lord came to shear His sheep, in releasing them from painful burdens, as it is said in praise of the Church in the Song of Songs, that her teeth are like a flock of sheep after shearing.
+
+[2:2117] 86.
+
+[2:2118] Next, we have Tamar changing her dress; for Tamar also means changing.
+
+[2:2119] Still, the name of bitterness must be retained—not that bitterness in which gall was given to the Lord, but that in which Peter wept bitterly.
+
+[2:2120] For Judah means confession; and bitterness is mingled with confession as a type of true repentance.
+
+[2:2121] It is this repentance which gives fruitfulness to the Church established among all nations.
+
+[2:2122] For "it behoved Christ to suffer, and to rise from the dead, and that repentance and the remission of sins be preached among all nations in His name, beginning at Jerusalem".
+
+[2:2123] In the dress Tamar put on there is a confession of sins; and Tamar sitting in this dress at the gate of  aenan or  aenaim, which means fountain, is a type of the Church called from among the nations.
+
+[2:2124] She ran as a hart to the springs of water, to meet with the seed of Abraham; and there she is made fruitful by one who knows her not, as it is foretold, "A people whom I have not known shall serve me".
+
+[2:2125] Tamar received under her disguise a ring, a bracelet, a staff; she is sealed in her calling, adorned in her justification, raised in her glorification.
+
+[2:2126] For "whom He predestinated, them He also called: and whom He called, them He also justified: and whom He justified, them He also glorified".
+
+[2:2127] This was while she was still disguised, as I have said; and in the same state she conceives, and becomes fruitful in holiness.
+
+[2:2128] Also the kid promised is sent to her as to a harlot.
+
+[2:2129] The kid represents rebuke for sin, and it is sent by the Adullamite already mentioned, who, as it were, uses the reproachful words, "O generation of vipers!"  But this rebuke for sin does not reach her, for she has been changed by the bitterness of confession.
+
+[2:2130] Afterwards, by exhibiting the pledges of the ring and bracelet and staff, she prevails over the Jews, in their hasty judgment of her, who are now represented by Judah himself; as at this day we hear the Jews saying that we are not the people of Christ, and have not the seed of Abraham.
+
+[2:2131] But when we exhibit the sure tokens of our calling and justification and glorification, they will immediately be confounded, and will acknowledge that we are justified rather than they.
+
+[2:2132] I should enter into this more particularly, taking, as it were, each limb and joint separately, as the Lord might enable me, were it not that such minute inquiry is prevented by the necessity of bringing this work to a close, for it is already longer than is desirable.
+
+[2:2133] 87.
+
+[2:2134] As regards the prophetic significance of David's sin, a single word must suffice.
+
+[2:2135] The names occurring in the narrative show what it typifies.
+
+[2:2136] David means, strong of hand, or desirable; and what can be stronger than the Lion of the tribe of Judah, who has conquered the world, or more desirable than He of whom the prophet says, "The desire of all nations shall come?"  Bersabee means, well of satisfaction, or seventh well: either of these interpretations will suit our purpose.
+
+[2:2137] So, in the Song of Songs, the spouse, who is the Church, is called a well of living water;  or again, the number seven represents the Holy Spirit, as in the number of days in Pentecost, when the Holy Spirit came from heaven.
+
+[2:2138] We learn also from the book of Tobit, that Pentecost was the feast of seven weeks.
+
+[2:2139] To forty-nine, which is seven times seven, one is added to denote unity.
+
+[2:2140] To this effect is the saying of the apostle: "Bearing with one another in love, endeavoring to keep the unity of the Spirit in the bond of peace".
+
+[2:2141] The Church becomes a well of satisfaction by this gift of the Spirit, the number seven denoting its spirituality; for it is in her a fountain of living water springing up unto everlasting life, and he who has it shall never thirst.
+
+[2:2142] Uriah, Bersabee's husband, must, from the meaning of his name, be understood as representing the devil.
+
+[2:2143] It is in union to the devil that all are bound whom the grace of God sets free, that the Church without spot or wrinkle may be married to her true Saviour.
+
+[2:2144] Uriah means, my light of God; and Hittite means, cut off, referring either to his not abiding in the truth, when he was cut off on account of his pride from the celestial light which he had of God, or to his transforming himself into an angel of light, because after losing his real strength by his fall, he still dares to say, My light is of God.
+
+[2:2145] The literal David, then, was guilty of a heinous crime, which God by the prophet condemned in the rebuke addressed to David, and which David atoned for by his repentance.
+
+[2:2146] On the other hand, He who is the desire of all nations loved the Church when washing herself on the roof, that is, when cleansing herself from the pollution of the world, and in spiritual contemplation mounting above her house of clay, and trampling upon it; and after commencing an acquaintance, He puts to death the devil, whom He first entirely removes from her, and joins her to Himself in perpetual union.
+
+[2:2147] While we hate the sin, we must not overlook the prophetical significance; and while we love, as is His due, that David who in His mercy has freed us from the devil, we may also love the David who by the humility of his repentance healed the wound made by his transgression.
+
+[2:2148] 88.
+
+[2:2149] Little need be said of Solomon, who is spoken of in Holy Scripture in terms of the strongest disapproval and condemnation, while nothing is said of his repentance and restoration to the divine favor.
+
+[2:2150] Nor can I find in his lamentable fall even a symbolical connection with anything good.
+
+[2:2151] Perhaps the strange women he lusted after may be thought to represent the Churches chosen from among the Gentiles.
+
+[2:2152] This idea might have been admissible, if the women had left their gods for Solomon's sake to worship his God.
+
+[2:2153] But as he for their sakes offended his God and worshipped their gods, it seems impossible to think of any good meaning.
+
+[2:2154] Doubtless, something is typified, but it is something bad, as in the case already explained of Lot's wife and daughters.
+
+[2:2155] We see in Solomon a notable pre-eminence and a notable fall.
+
+[2:2156] Now, this good and evil which we see in him at different periods, first good and then evil, are in our day found together in the Church.
+
+[2:2157] What is good in Solomon represents, I think, the good members of the Church; and what was bad in him represents the bad members.
+
+[2:2158] Both are in one man, as the bad and the good are in the chaff and grain of one floor, or in the tares and wheat of one field.
+
+[2:2159] A closer inquiry into what is said of Solomon in Scripture might disclose, either to me or to others of greater learning and greater worth, some more probable interpretation.
+
+[2:2160] But as we are now engaged on a different subject, we must not allow this matter to break the connection of our discourse.
+
+[2:2161] 89.
+
+[2:2162] As regards the prophet Hosea, it is unnecessary for me to explain the meaning of the command, or of the prophet's conduct, when God said to him, "Go and take unto thee a wife of whoredoms and produce children of whoredoms," for the Scripture itself informs us of the origin and purpose of this direction.
+
+[2:2163] It proceeds thus: "For the land hath committed great whoredom, departing from the Lord.
+
+[2:2164] So he went and took Gomer the daughter of Diblaim; which conceived, and bare him a son.
+
+[2:2165] And the Lord said unto him, Call his name Jezreel; for yet a little while, and I will avenge the blood of Jezreel upon the house of Judah, and will cause to cease the kingdom of the house of Israel.
+
+[2:2166] And it shall come to pass at that day, that I will break the bow of Israel in the valley of Jezreel.
+
+[2:2167] And she conceived again, and bare a daughter.
+
+[2:2168] And God said unto him, Call her name No-mercy: for I will no more have mercy upon the house of Israel; but I will utterly take them away.
+
+[2:2169] But I will have mercy upon the house of Judah, and will save them by the Lord their God, and will not save them by bow, nor by sword, nor by battle, by horses, nor by horsemen.
+
+[2:2170] Now when she had weaned No-mercy, she conceived, and bare a son.
+
+[2:2171] Then said God, Call his name Not-my-people: for ye are not my people, and I will not be your God.
+
+[2:2172] Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured for multitude; and it shall come to pass that in the place where it was said unto them, Ye are not my people, there it shall be said unto them, Ye are the sons of the living God.
+
+[2:2173] Then shall the children of Israel and the children of Judah be gathered together, and appoint themselves one head, and they shall come up out of the land: for great shall be the day of Jezreel.
+
+[2:2174] Say ye unto your brethren, My people; and to your sister, She hath found mercy".
+
+[2:2175] Since the typical meaning of the command and of the prophet's conduct is thus explained in the same book by the Lord Himself, and since the writings of the apostles declare the fulfillment of this prophecy in the preaching of the New Testament, every one must accept the explanation thus given of the command and of the action of the prophet as the true explanation.
+
+[2:2176] Thus it is said by the Apostle Paul, "That He might make known the riches of His glory on the vessels of mercy, which He had afore prepared unto glory, even us, whom He hath called, not of the Jews only, but also of the Gentiles.
+
+[2:2177] As He saith also in Hosea, I will call them my people, which were not my people; and her beloved, which was not beloved.
+
+[2:2178] And it shall come to pass, that in the place where it was said unto them, Ye are not my people, there shall they be called the children of the living God".
+
+[2:2179] Here Paul applies the prophecy to the Gentiles.
+
+[2:2180] So also Peter, writing to the Gentiles, without naming the prophet, borrows his expressions when he says, "But ye are a chosen generation, a royal priesthood, a holy nation, a peculiar people; that ye might show forth the praises of Him who has called you out of darkness into His marvellous light; which in time past were not a people, but are now the people of God: which had not obtained mercy, but now have obtained mercy".
+
+[2:2181] From this it is plain that the words of the prophet, "And the number of the children of Israel shall be as the sand of the sea, which cannot be measured for multitude," and the words immediately following, "And it shall be that in the place where it was said unto them, Ye are not my people, there they shall be called the children of the living God," do not apply to that Israel which is after the flesh, but to that of which the apostle says to the Gentiles, "Ye therefore are the seed of Abraham, and heirs according to the promise".
+
+[2:2182] But, as many Jews who were of the Israel after the flesh have believed, and will yet believe; for of these were the apostles, and all the thousands in Jerusalem of the company of the apostles, as also the churches of which Paul speaks, when he says to the Galatians, "I was unknown by face to the churches of Jud aea which were in Christ;"  and again, he explains the passage in the Psalms, where the Lord is called the cornerstone,  as referring to His uniting in Himself the two walls of circumcision and uncircumcision, "that He might make in Himself of twain one new man, so making peace; and that He might reconcile both unto God in one body by the cross, having slain the enmity thereby: and that He might come and preach peace to them that are far off, and to them that are nigh," that is, to the Gentiles and to the Jews; "for He is our peace, who hath made of both one;"  to the same purpose we find the prophet speaking of the Jews as the children of Judah, and of the Gentiles as children of Israel, where he says, "The children of Judah and the children of Israel shall be gathered together, and shall make to themselves one head, and shall go up from the land".
+
+[2:2183] Therefore, to speak against a prophecy thus confirmed by actual events, is to speak against the writings of the apostles as well as those of the prophets; and not only to speak against writings, but to impugn in the most reckless manner the evidence clear as noonday of established facts.
+
+[2:2184] In the case of the narrative of Judah, it is perhaps not so easy to recognize, under the disguise of the woman called Tamar, the harlot representing the Church gathered from among the corruption of Gentile superstition; but here, where Scripture explains itself, and where the explanation is confirmed by the writings of the apostles, instead of dwelling longer on this, we may proceed at once to inquire into the meaning of the very things to which Faustus objects in Moses the servant of God.
+
+[2:2185] 90.
+
+[2:2186] Moses killing the Egyptian in defending one of his brethren reminds us naturally of the destruction of the devil, our assailant in this land of strangers, by our defender the Lord Christ.
+
+[2:2187] And as Moses hid the dead body in the sand, even so the devil, though slain, remains concealed in those who are not firmly settled.
+
+[2:2188] The Lord, we know, builds the Church on a rock; and those who hear His word and do it, He compares to a wise man who builds his house upon a rock, and who does not yield or give way before temptation; and those who hear and do not, He compares to a foolish man who builds on the sand, and when his house is tried its ruin is great.
+
+[2:2189] 91.
+
+[2:2190] Of the prophetic significance of the spoiling of the Egyptians, which was done by Moses at the command of the Lord his God, who commands nothing but what is most just, I remember to have set down what occurred to me at the time in my book entitled On Christian Doctrine;  to the effect that the gold and silver and garments of the Egyptians typified certain branches of learning which may be profitably learned or taught among the Gentiles.
+
+[2:2191] This may be the true explanation; or we may suppose that the vessels of gold and silver represent the precious souls, and the garments the bodies, of those from among the Gentiles who join themselves to the people of God, that along with them they may be freed from the Egypt of this world.
+
+[2:2192] Whatever the true interpretation may be, the pious student of the Scriptures will feel certain that in the command, in the action, and in the narrative there is a purpose and a symbolic meaning.
+
+[2:2193] 92.
+
+[2:2194] It would take too long to go through all the wars of Moses.
+
+[2:2195] It is enough to refer to what has already been said, as sufficient for the purpose in this reply to Faustus of the prophetic and symbolic character of the war with Amalek.
+
+[2:2196] There is also the charge of cruelty made against Moses by the enemies of Scriptures, or by those who have never read anything.
+
+[2:2197] Faustus does not make any specific charge, but speaks of Moses as commanding and doing many cruel things.
+
+[2:2198] But, knowing the things they are in the habit of bringing forward and of misrepresenting, I have already taken a particular case and have defended it, so that any Manich aeans who are willing to be corrected, and all other ignorant and irreligious people, may see that there is no ground for their accusations.
+
+[2:2199] We must now inquire into the prophetic significance of the command, that many of those who, while Moses was absent, made an idol for themselves should be slain without regard to relationship.
+
+[2:2200] It is easy to see that the slaughter of these men represents the warfare against the evil principles which led the people into the same idolatry.
+
+[2:2201] Against such evil we are commanded to wage war in the words of the psalm, "Be ye angry and sin not".
+
+[2:2202] And a similar command is given by the apostle, when he says, "Mortify your members which are on earth fornication, uncleanness, luxury, evil concupiscence, and covetousness, which is idolatry".
+
+[2:2203] 93.
+
+[2:2204] It requires closer examination to see the meaning of the first action of Moses in burning the calf in fire, and grinding it to powder, and sprinkling it in the water for the people to drink.
+
+[2:2205] The tables given to him, written with the finger of God, that is, by the agency of the Holy Spirit, he may have broken, because he judged the people unworthy of having them read to them; and he may have burned the calf, and ground it, and scattered it so as to be carried away by the water, in order to let nothing of it remain among the people.
+
+[2:2206] But why should he have made them drink it? Every one must feel anxious to discover the typical significance of this action.
+
+[2:2207] Pursuing the inquiry, we may find that in the calf there was an embodiment of the devil, as there is in men of all nations who have the devil as their head or leader in their impious rites.
+
+[2:2208] The calf is gold, because there is a semblance of wisdom in the institution of idolatrous worship.
+
+[2:2209] Of this the apostle says, "Knowing God, they glorified Him not as God, nor were thankful; but they became vain in their imaginations, and their foolish heart was darkened.
+
+[2:2210] Professing themselves to be wise they became foolish, and changed the glory of the incorruptible God into the likeness of corruptible man, and of birds, and of four-footed beasts, and of creeping things".
+
+[2:2211] From this so-called wisdom came the golden calf, which was one of the forms of idolatry among the chief men and professed sages of Egypt.
+
+[2:2212] The calf, then, represents every body or society of Gentile idolaters.
+
+[2:2213] This impious society the Lord Christ burns with that fire of which He says in the Gospel, "I am come to send fire on the earth;"  for, as there is nothing hid from His heat,  when the Gentiles believe in Him they lose the form of the devil in the fire of divine influence.
+
+[2:2214] Then all the body is ground, that is, after the dissolution of the combination in the membership of iniquity comes humiliation under the word of truth.
+
+[2:2215] Then the dust is sprinkled in the water, that the Israelites, that is, the preachers of the gospel, may in baptism admit those formerly idolaters into their own body, that is, the body of Christ.
+
+[2:2216] To Peter, who was one of those Israelites, it was said of the Gentiles, "Kill, and eat".
+
+[2:2217] To kill and eat is much the same as to grind and drink.
+
+[2:2218] So this calf, by the fire of zeal, and the keen penetration of the word, and the water of baptism, was swallowed up by the people, instead of their being swallowed up by it.
+
+[2:2219] 94.
+
+[2:2220] Thus, when the very passages on which the heretics found their objections to the Scriptures are studied and examined, the more obscure they are the more wonderful are the secrets which we discover in reply to our questions; so that the mouths of blasphemers are completely stopped, and the evidence of the truth so stifles them that they cannot even utter a sound.
+
+[2:2221] The unhappy men who will not receive into their hearts the sweetness of the truth must feel its force as a gag in their mouths.
+
+[2:2222] All those passages speak of Christ.
+
+[2:2223] The head now ascended into heaven along with the body still suffering on earth is the full development of the whole purpose of the authors of Scripture, which is well called Sacred Scripture.
+
+[2:2224] Every part of the narrative in the prophetical books should be viewed as having a figurative meaning, except what serves merely as a framework for the literal or figurative predictions of this king and of his people.
+
+[2:2225] For as in harps and other musical instruments the musical sound does not come from all parts of the instrument, but from the strings, and the rest is only for fastening and stretching the strings so as to tune them, that when they are struck by the musician they may give a pleasant sound; so in these prophetical narratives the circumstances selected by the prophetic spirit either predict some future event, or if they have no voice of their own, they serve to connect together other significant utterances.
+
+[2:2226] 95.
+
+[2:2227] Should the heretics reject our exposition of those allegorical narratives, or even insist on understanding them only in a literal sense, to dispute about such a difference of understanding would be as useless as to dispute about a difference of taste.
+
+[2:2228] Only, the fact that the divine precepts have either a moral and religious character or a prophetic meaning must be believed, whether intelligently or not.
+
+[2:2229] Moreover, the figurative interpretations must all be in the interest of morality and religion.
+
+[2:2230] So, if the Manich aeans or any others disagree with our interpretation, or differ from us in method or in any particular opinion, suffice it that the character of the fathers whom God commends for their conduct and obedience to His precepts is vindicated on a principle which all but those inveterate in their hostility will acknowledge to be true; and that the purity and dignity of the Scriptures are maintained in reference to those passages which the enemies of the truth find fault with, where certain actions are either praised or blamed, or merely narrated for us to form a judgment of them.
+
+[2:2231] 96.
+
+[2:2232] In fact, nothing could have been devised more likely to instruct and benefit the pious reader of sacred Scripture than that, besides describing praiseworthy characters as examples, and blameworthy characters as warnings, it should also narrate cases where good men have gone back and fallen into evil, whether they are restored to the right path or continue irreclaimable; and also where bad men have changed, and have attained to goodness, whether they persevere in it or relapse into evil; in order that the righteous may be not lifted up in the pride of security, nor the wicked hardened in despair of cure.
+
+[2:2233] And even those passages in Scripture which contain no examples or warnings are either required for connection, so as to pass on to essential matters, or, from their very appearance of superfluity, indicate the presence of some secret symbolical meaning.
+
+[2:2234] For in the books we speak of, so far from there being a want or a scarcity of prophetical announcements, such announcements are numerous and distinct; and now that the fulfillment has actually taken place, the testimony thus borne to the divine authority of the books is irresistibly strong, so that it is mere madness to suppose that there can be any useless or unmeaning passages in books to which all classes of men and of minds do homage, and which themselves predict what we see thus actually coming to pass.
+
+[2:2235] 97.
+
+[2:2236] If, then, any one reading of the action of David, of which he repented when the Lord rebuked and threatened him, find in the narrative an encouragement to sin, is Scripture to be blamed for this? Is not the man's own guilt in proportion to the abuse which he makes for his own injury or destruction of what was written for his recovery and release? David is set forth as a great example of repentance, because men who fall into sin either proudly disregard the cure of repentance, or lose themselves in despair of obtaining salvation or of meriting pardon.
+
+[2:2237] The example is for the benefit of the sick, not for the injury of those in health.
+
+[2:2238] If madmen destroy themselves, or if evil-doers destroy others, with surgical instruments, it is not the fault of surgery.
+
+[2:2239] 98.
+
+[2:2240] Even supposing that our fathers the patriarchs and prophets, of whose devout and religious habits so good a report is given in that Scripture which every one who knows it, and has not lost entirely the use of his reason, must admit to have been provided by God for the salvation of men, were as lustful and cruel as the Manich aeans falsely and fanatically allege, they might still be shown to be superior not only to those whom the Manich aeans call the Elect, but also to their god himself.
+
+[2:2241] Is there in the licentious intercourse of man with woman anything so bad as the self-abasement of unclouded light by mixture with darkness? Here, is a man prompted by avarice and greed to pass off his wife as his sister and sell her to her lover; but worse still and more shocking, that one should disguise his own nature to gratify criminal passion, and submit gratuitously to pollution and degradation.
+
+[2:2242] Why, even one who knowingly lies with his own daughters is not equally criminal with one who lets his members share in the defilement of all sensuality as gross as this, or grosser.
+
+[2:2243] And is not the Manich aean god a partaker in the contamination of the most atrocious acts of uncleanness? Again, if it were true, as Faustus says, that Jacob went from one to another of his four wives, not desiring offspring, but resembling a he-goat in licentiousness, he would still not be sunk so low as your god, who must not only have shared in this degradation, from his being confined in the bodies of Jacob and his wives so as to be mixed up with all their movements, but also, in union with this very he-goat of Faustus' coarse comparison, must have endured all the pains of animal appetite, incurring fresh defilement at every step, as partaking in the passion of the male, the conception of the female, and the birth of the kid.
+
+[2:2244] And, in the same way, supposing Judah to have been guilty not only of fornication, but of incest, a share in the heats and impurities of this incestuous passion would also belong to your god.
+
+[2:2245] David repented of his sin in loving the wife of another, and in ordering the death of her husband; but when will your god repent of giving up his members to the wanton passion of the male and female chiefs of the race of darkness, and of putting to death not the husband of his mistress, but his own children, whom he confines in the members of the very demons who were his own lovers? Even if David had not repented, nor been thus restored to righteousness, he would still have been better than your god.
+
+[2:2246] David may have been defiled by this one act, or to the extent to which one man is capable of such defilement; but your god suffers the pollution of his members in all such actions by whomsoever committed.
+
+[2:2247] The prophet Hosea, too, is accused by Faustus: and, supposing him to have taken the harlot to wife because he had a criminal affection for her, if he is licentious and she a prostitute, their souls, according to your own assertion, are parts and members of your god and of his nature.
+
+[2:2248] In plain language, the harlot herself must be your god.
+
+[2:2249] You cannot pretend that your god is not confined in the contaminated body, or that he is only present, while preserving entire the purity of his own nature; and you acknowledge that the members of your god are so defiled as to require a special purification.
+
+[2:2250] This harlot, then, for whom you venture to find fault with the man of God, even if she had not been changed for the better by becoming a chaste wife, would still have been your god; at least you must admit her soul to have been a part, however small, of your god.
+
+[2:2251] But one single harlot is not so bad as your god, for he on account of his mixture with the race of darkness shares in every act of prostitution; and wherever such impurities are perpetrated, he goes through the corresponding experiences of abandonment, of release, and of confinement, and this from generation to generation, till this most corrupt part reaches its final state in the mass of darkness, like an irreclaimable harlot.
+
+[2:2252] Such are the evils and such the shameful abominations which your god could not ward off from his members, and to which he was brought irresistibly by his merciless enemy; for only by the sacrifice of his own subjects, or rather his own parts, could he effect the destruction of his formidable assailant.
+
+[2:2253] Surely, there was nothing so bad as this in killing an Egyptian so as to preserve uninjured a fellow-countryman.
+
+[2:2254] Yet Faustus finds fault with this most absurdly, while with amazing infatuation he overlooks the case of his own god.
+
+[2:2255] Would it not have been better for him to have carried off the gold and silver vessels of the Egyptians, than to let his members be carried off by the race of darkness? And yet the worshippers of this unfortunate god find fault with the servant of our God for carrying on wars, in which he with his followers were always victorious, so that, under the leadership of Moses, the children of Israel carried captive their enemies, men and women, as your god would have done too, if he had been able.
+
+[2:2256] You profess to accuse Moses of doing wrong, while in fact you envy his success.
+
+[2:2257] There was no cruelty in punishing with the sword those who had sinned grievously against God.
+
+[2:2258] Indeed, Moses entreated pardon for this sin, even offering to bear himself in their stead the divine anger.
+
+[2:2259] But even had he been cruel instead of compassionate, he would still have been better than your god.
+
+[2:2260] For if any of his followers had been sent to break the force of the enemy and had been taken captive, he would never, if victorious, have condemned him when he had done no wrong, but acted in obedience to orders.
+
+[2:2261] And yet this is what your god is to do with the part of himself which is to be fastened in the mass of darkness, because it obeyed orders, and advanced at the risk of its own life in defence of his kingdom against the body of the enemy.
+
+[2:2262] But, says the Manich aean, this part, after mixture and combination with evil during the course of ages, has not been obedient.
+
+[2:2263] But why? If the obedience was voluntary, the guilt is real, and the punishment just.
+
+[2:2264] But from this it would follow that there is no nature opposed to sin; otherwise it would not sin voluntarily; and so the whole system of Manich aeism falls at once.
+
+[2:2265] If, again, this part suffers from the power of this enemy against whom it was sent, and is subdued by a force it was unable to resist, the punishment is unjust, and flagrantly cruel.
+
+[2:2266] The god who is defended on the plea of necessity is a fit object of worship to those who refuse to worship the one true God.
+
+[2:2267] Still, it must be allowed that, however debasing the worship of this god may be, the worshippers are so far better than their deity, that they have an existence, while he is nothing more than a fabulous invention.
+
+[2:2268] Proceed we now to the rest of Faustus' vagaries.
+

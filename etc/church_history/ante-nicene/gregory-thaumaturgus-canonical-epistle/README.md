@@ -1,0 +1,1 @@
+# Gregory Thaumaturgus: Canonical Epistle

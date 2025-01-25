@@ -1,0 +1,334 @@
+# Against Eunomius Book V
+
+[1:1] Book V.
+
+[1:2] 1.
+
+[1:3] The fifth book promises to speak of the words contained in the saying of the Apostle Peter, but delays their exposition.
+
+[1:4] He discourses first of the creation, to the effect that, while nothing therein is deserving of worship, yet men, led astray by their ill-informed and feeble intelligence, and marvelling at its beauty, deified the several parts of the universe.
+
+[1:5] And herein he excellently expounds the passage of Isaiah, "I am God, the first".
+
+[1:6] It is now, perhaps, time to make enquiry into what is said concerning the words of the Apostle Peter, by Eunomius himself, and by our father concerning the latter.
+
+[1:7] If a detailed examination should extend our discourse to considerable length, the fair-minded reader will no doubt pardon this, and will not blame us for wasting time in words, but lay the blame on him who has given occasion for them.
+
+[1:8] Let me be allowed also to make some brief remarks preliminary to the proposed enquiry: it may be that they too will be found not to be out of keeping with the aim of our discussion.
+
+[1:9] That no created thing is deserving of man's worship, the divine word so clearly declares as a law, that such a truth may be learned from almost the whole of the inspired Scripture.
+
+[1:10] Moses, the Tables, the Law, the Prophets that follow, the Gospels, the decrees of the Apostles, all alike forbid the act of reverencing the creation.
+
+[1:11] It would be a lengthy task to set out in order the particular passages which refer to this matter; but though we set out only a few from among the many instances of the inspired testimony, our argument is surely equally convincing, since each of the divine words, albeit the least, has equal force for declaration of the truth.
+
+[1:12] Seeing, then, that our conception of existences is divided into two, the creation and the uncreated Nature, if the present contention of our adversaries should prevail, so that we should say that the Son of God is created, we should be absolutely compelled either to set at naught the proclamation of the Gospel, and to refuse to worship that God the Word Who was in the beginning, on the ground that we must not address worship to the creation, or, if these marvels recorded in the Gospels are too urgent for us, by which we are led to reverence and to worship Him Who is displayed in them, to place, in that case, the created and the Uncreated on the same level of honour; seeing that if, according to our adversaries' opinion, even the created God is worshipped, though having in His nature no prerogative above the rest of the creation, and if this view should get the upper hand, the doctrines of religion will be entirely transformed to a kind of anarchy and democratic independence.
+
+[1:13] For when men believe that the nature they worship is not one, but have their thoughts turned away to diverse Godheads, there will be none who will stay the conception of the Deity in its progress through creation, but the Divine element, once recognized in creation, will become a stepping-stone to the like conception in the case of that which is next contemplated, and that again for the next in order, and as a result of this inferential process the error will extend to all things, as the first deceit makes its way by contiguous cases even to the very last.
+
+[1:14] To show that I am not making a random statement beyond what probability admits of, I will cite as a credible testimony in favour of my assertion the error which still prevails among the heathen.
+
+[1:15] Seeing that they, with their untrained and narrow intelligence, were disposed to look with wonder on the beauties of nature, not employing the things they beheld as a leader and guide to the beauty of the Nature that transcends them, they rather made their intelligence halt on arriving at the objects of its apprehension, and marvelled at each part of the creation severally—for this cause they did not stay their conception of the Deity at any single one of the things they beheld, but deemed everything they looked on in creation to be divine.
+
+[1:16] And thus with the Egyptians, as the error developed its force more in respect of intellectual objects, the countless forms of spiritual beings were reckoned to be so many natures of Gods; while with the Babylonians the unerring circuit of the firmament was accounted a God, to whom they also gave the name of Bel.
+
+[1:17] So, too, the foolishness of the heathen deifying individually the seven successive spheres, one bowed down to one, another to another, according to some individual form of error.
+
+[1:18] For as they perceived all these circles moving in mutual relation, seeing that they had gone astray as to the most exalted, they maintained the same error by logical sequence, even to the last of them.
+
+[1:19] And in addition to these, the ther itself, and the atmosphere diffused beneath it, the earth and sea and the subterranean region, and in the earth itself all things which are useful or needful for man's life,—of all these there was none which they held to be without part or lot in the Divine nature, but they bowed down to each of them, bringing themselves, by means of some one of the objects conspicuous in the creation, into bondage to all the successive parts of the creation, in such a way that, had the act of reverencing the creation been from the beginning even to them a thing evidently unlawful, they would not have been led astray into this deceit of polytheism.
+
+[1:20] Let us look to it, then, lest we too share the same fate,—we who in being taught by Scripture to reverence the true Godhead, were trained to consider all created existence as external to the Divine nature, and to worship and revere that uncreated Nature alone, Whose characteristic and token is that it never either begins to be or ceases to be; since the great Isaiah thus speaks of the Divine nature with reference to these doctrines, in his exalted utterance,—who speaks in the person of the Deity, "I am the first, and hereafter am I, and no God was before Me, and no God shall be after Me".
+
+[1:21] For knowing more perfectly than all others the mystery of the religion of the Gospel, this great prophet, who foretold even that marvellous sign concerning the Virgin, and gave us the good tidings of the birth of the Child, and clearly pointed out to us that Name of the Son,—he, in a word, who by the Spirit includes in himself all the truth,—in order that the characteristic of the Divine Nature, whereby we discern that which really is from that which came into being, might be made as plain as possible to all, utters this saying in the person of God: "I am the first, and hereafter am I, and before Me no God hath been, and after Me is none".
+
+[1:22] Since, then, neither is that God which was before God, nor is that God which is after God, (for that which is after God is the creation, and that which is anterior to God is nothing, and Nothing is not God;—or one should rather say, that which is anterior to God is God in His eternal blessedness, defined in contradistinction to Nothing;—since, I say, this inspired utterance was spoken by the mouth of the prophet, we learn by his means the doctrine that the Divine Nature is one, continuous with Itself and indiscerptible, not admitting in Itself priority and posteriority, though it be declared in Trinity, and with no one of the things we contemplate in it more ancient or more recent than another.
+
+[1:23] Since, then, the saying is the saying of God, whether you grant that the words are the words of the Father or of the Son, the orthodox doctrine is equally upheld by either.
+
+[1:24] For if it is the Father that speaks thus, He bears witness to the Son that He is not "after" Himself: for if the Son is God, and whatever is "after" the Father is not God, it is clear that the saying bears witness to the truth that the Son is in the Father, and not after the Father.
+
+[1:25] If, on the other hand, one were to grant that this utterance is of the Son, the phrase, "None hath been before Me," will be a clear intimation that He Whom we contemplate "in the Beginning" is apprehended together with the eternity of the Beginning.
+
+[1:26] If, then, anything is "after" God, this is discovered, by the passages quoted, to be a creature, and not God: for He says, "That which is after Me is not God".
+
+[2:1] 2.
+
+[2:2] He then explains the phrase of S.
+
+[2:3] Peter, "Him God made Lord and Christ".
+
+[2:4] And herein he sets forth the opposing statement of Eunomius, which he made on account of such phrase against S.
+
+[2:5] Basil, and his lurking revilings and insults.
+
+[2:6] Now that we have had presented to us this preliminary view of existences, it may be opportune to examine the passage before us.
+
+[2:7] It is said, then, by Peter to the Jews, "Him God made Lord and Christ, this Jesus Whom ye crucified," while on our part it is said that it is not pious to refer the word "made" to the Divine Nature of the Only-begotten, but that it is to be referred to that "form of a servant," which came into being by the Incarnation, in the due time of His appearing in the flesh; and, on the other hand, those who press the phrase the contrary way say that in the word "made" the Apostle indicates the pretemporal generation of the Son.
+
+[2:8] We shall, therefore, set forth the passage in the midst, and after a detailed examination of both the suppositions, leave the judgment of the truth to our reader.
+
+[2:9] Of our adversaries' view Eunomius himself may be a sufficient advocate, for he contends gallantly on the matter, so that in going through his argument word by word we shall completely follow out the reasoning of those who strive against us: and we ourselves will act as champion of the doctrine on our side as best we may, following so far as we are able the line of the argument previously set forth by the great Basil.
+
+[2:10] But do you, who by your reading act as judges in the cause, "execute true judgment," as one of the prophets says, not awarding the victory to contentious preconceptions, but to the truth as it is manifested by examination.
+
+[2:11] And now let the accuser of our doctrines come forward, and read his indictment, as in a court of law.
+
+[2:12] "In addition, moreover, to what we have mentioned, by his refusal to take the word 'made' as referring to the essence of the Son, and withal by his being ashamed of the Cross, he ascribes to the Apostles what no one even of those who have done their best to speak ill of them on the score of stupidity, lays to their charge; and at the same time he clearly introduces, by his doctrines and arguments, two Christs and two Lords; for he says that it was not the Word Who was in the beginning Whom God made Lord and Christ, but He Who 'emptied Himself to take the form of a servant,' and 'was crucified through weakness.
+
+[2:13] ' At all events the great Basil writes expressly as follows:—'Nor, moreover, is it the intention of the Apostle to present to us that existence of the Only-begotten which was before the ages (which is now the subject of our argument), for he clearly speaks, not of the very essence of God the Word, Who was in the beginning with God, but of Him Who emptied Himself to take the form of a servant, and became conformable to the body of our humiliation, and was crucified through weakness.
+
+[2:14] ' And again, 'This is known to any one who even in a small degree applies his mind to the meaning of the Apostle's words, that he is not setting forth to us the mode of the Divine existence, but is introducing the terms which belong to the Incarnation; for he says, Him God made Lord and Christ, this Jesus Whom ye crucified, evidently laying stress by the demonstrative word on that in Him which was human and was seen by all.
+
+[2:15] '  "This, then, is what the man has to say who substitutes,—for we may not speak of it as 'application,' lest any one should blame for such madness men holy and chosen for the preaching of godliness, so as to reproach their doctrine with a fall into such extravagance,—who substitutes his own mind for the intention of the Apostles! With what confusion are they not filled, who refer their own nonsense to the memory of the saints! With what absurdity do they not abound, who imagine that the man 'emptied himself' to become man, and who maintain that He Who by obedience 'humbled himself' to take the form of a servant was made conformable to men even before He took that form upon Him! Who, pray, ye most reckless of men, when he has the form of a servant, takes the form of a servant? and how can any one 'empty himself' to become the very thing which he is? You will find no contrivance to meet this, bold as you are in saying or thinking things uncontrivable.
+
+[2:16] Are you not verily of all men most miserable, who suppose that a man has suffered death for all men, and ascribe your own redemption to him? For if it is not of the Word Who was in the beginning and was God that the blessed Peter speaks, but of him who was 'seen,' and who 'emptied Himself,' as Basil says, and if the man who was seen 'emptied Himself' to take 'the form of a servant,' and He Who 'emptied Himself' to take 'the form of a servant,' emptied Himself to come into being as man, then the man who was seen emptied himself to come into being as man.
+
+[2:17] The very nature of things is repugnant to this; and it is expressly contradicted by that writer who celebrates this dispensation in his discourse concerning the Divine Nature, when he says not that the man who was seen, but that the Word Who was in the beginning and was God took upon Him flesh, which is equivalent in other words to taking 'the form of a servant.
+
+[2:18] ' If, then, you hold that these things are to be believed, depart from your error, and cease to believe that the man 'emptied himself' to become man.
+
+[2:19] And if you are not able to persuade those who will not be persuaded, destroy their incredulity by another saying, a second decision against them.
+
+[2:20] Remember him who says, 'Who being in the form of God thought it not robbery to be equal with God, but emptied Himself, taking the form of a servant.
+
+[2:21] ' There is none among men who will appropriate this phrase to himself.
+
+[2:22] None of the saints that ever lived was the Only-begotten God and became man:—for that is what it means to 'take the form of a servant,' 'being in the form of God.
+
+[2:23] ' If, then, the blessed Peter speaks of Him Who 'emptied Himself' to 'take the form of a servant,' and if He Who was 'in the form of God' did 'empty Himself' to 'take the form of a servant,' and if He Who in the beginning was God, being the Word and the Only-begotten God, is He Who was 'in the form of God,' then the blessed Peter speaks to us of Him Who was in the beginning and was God, and expounds to us that it was He Who became Lord and Christ.
+
+[2:24] This, then, is the conflict which Basil wages against himself, and he clearly appears neither to have 'applied his own mind to the intention of the Apostles', nor to be able to preserve the sequence of his own arguments; for, according to them, he must, if he is conscious of their irreconcilable character, admit that the Word Who was in the beginning and was God became Lord; or if he tries to fit together statements that are mutually conflicting, and contentiously stands by them, he will add to them others yet more hostile, and maintain that there are two Christs and two Lords.
+
+[2:25] For if the Word that was in the beginning and was God be one, and He Who 'emptied Himself' and 'took the form of a servant' be another, and if God the Word, by Whom are all things, be Lord, and this Jesus, Who was crucified after all things had come into being, be Lord also, there are, according to his view, two Lords and Christs.
+
+[2:26] Our author, then, cannot by any argument clear himself from this manifest blasphemy.
+
+[2:27] But if any one were to say in support of him that the Word Who was in the beginning is indeed the same Who became Lord, but that He became Lord and Christ in respect of His presence in the flesh, He will surely be constrained to say that the Son was not Lord before His presence in the flesh.
+
+[2:28] At all events, even if Basil and his faithless followers falsely proclaim two Lords and two Christs, for us there is one Lord and Christ, by Whom all things were made, not becoming Lord by way of promotion, but existing before all creation and before all ages, the Lord Jesus, by Whom are all things, while all the saints with one harmonious voice teach us this truth and proclaim it as the most excellent of doctrines.
+
+[2:29] Here the blessed John teaches us that God the Word, by Whom all things were made, has become incarnate, saying, 'And the Word was made flesh'; here the most admirable Paul, urging those who attend to him to humility, speaks of Christ Jesus, Who was in the form of God, and emptied Himself to take the form of a servant, and was humbled to death, even the death of the Cross; and again in another passage calls Him Who was crucified 'the Lord of Glory': 'for had they known it,' he says, 'they would not have crucified the Lord of Glory'.
+
+[2:30] Indeed, he speaks far more openly than this of the very essential nature by the name of 'Lord,' where he says, 'Now the Lord is the Spirit'.
+
+[2:31] If, then, the Word Who was in the beginning, in that He is Spirit, is Lord, and the Lord of glory, and if God made Him Lord and Christ, it was the very Spirit and God the Word that God so made, and not some other Lord Whom Basil dreams about".
+
+[3:1] 3.
+
+[3:2] A remarkable and original reply to these utterances, and a demonstration of the power of the Crucified, and of the fact that this subjection was of the Human Nature, not that which the Only-Begotten has from the Father.
+
+[3:3] Also an explanation of the figure of the Cross, and of the appellation "Christ," and an account of the good gifts bestowed on the Human Nature by the Godhead which was commingled with it.
+
+[3:4] Well, such is his accusation.
+
+[3:5] But I think it necessary in the first place to go briefly, by way of summary, over the points that he urges, and then to proceed to correct by my argument what he has said, that those who are judging the truth may find it easy to remember the indictment against us, which we have to answer, and that we may be able to dispose of each of the charges in regular order.
+
+[3:6] He says that we are ashamed of the Cross of Christ, and slander the saints, and say that a man has "emptied himself" to become man, and suppose that the Lord had the "form of a servant" before His presence by the Incarnation, and ascribe our redemption to a man, and speak in our doctrine of two Christs and two Lords, or, if we do not do this, then we deny that the Only-begotten was Lord and Christ before the Passion.
+
+[3:7] So that we may avoid this blasphemy, he will have us confess that the essence of the Son has been made, on the ground that the Apostle Peter by his own voice establishes such a doctrine.
+
+[3:8] This is the substance of the accusation; for all that he has been at the trouble of saying by way of abuse of ourselves, I will pass by in silence, as being not at all to the point.
+
+[3:9] It may be that this rhetorical stroke of phrases framed according to some artificial theory is the ordinary habit of those who play the rhetorician, an invention to swell the bulk of their indictment.
+
+[3:10] Let our sophist then use his art to display his insolence, and vaunt his strength in reproaches against us, showing off his strokes in the intervals of the contest; let him call us foolish, call us of all men most reckless, of all men most miserable, full of confusion and absurdity, and make light of us at his good pleasure in any way he likes, and we will bear it; for to a reasonable man disgrace lies, not in hearing one who abuses him, but in making retort to what he says.
+
+[3:11] There may even be some good in his expenditure of breath against us; for it may be that while he occupies his railing tongue in denouncing us he will at all events make some truce in his conflict against God.
+
+[3:12] So let him take his fill of insolence as he likes: none will reply to him.
+
+[3:13] For if a man has foul and loathsome breath, by reason of bodily disorder, or of some pestilential and malignant disease, he would not rouse any healthy person to emulate his misfortune so that one should choose, by himself acquiring disease, to repay, in the same evil kind, the unpleasantness of the man's ill odour.
+
+[3:14] Such men our common nature bids us to pity, not to imitate.
+
+[3:15] And so let us pass by everything of this kind which by mockery, indignation, provocation, and abuse, he has assiduously mixed up with his argument, and examine only his arguments as they concern the doctrinal points at issue.
+
+[3:16] We shall begin again, then, from the beginning, and meet each of his charges in turn.
+
+[3:17] The beginning of his accusation was that we are ashamed of the Cross of Him Who for our sakes underwent the Passion.
+
+[3:18] Surely he does not intend to charge against us also that we preach the doctrine of dissimilarity in essence! Why, it is rather to those who turn aside to this opinion that the reproach belongs of going about to make the Cross a shameful thing.
+
+[3:19] For if by both parties alike the dispensation of the Passion is held as part of the faith, while we hold it necessary to honour, even as the Father is honoured, the God Who was manifested by the Cross, and they find the Passion a hindrance to glorifying the Only-begotten God equally with the Father that begat Him, then our sophist's charges recoil upon himself, and in the words with which he imagines himself to be accusing us, he is publishing his own doctrinal impiety.
+
+[3:20] For it is clear that the reason why he sets the Father above the Son, and exalts Him with supreme honour, is this,—that in Him is not seen the shame of the Cross: and the reason why he asseverates that the nature of the Son varies in the sense of inferiority is this,—that the reproach of the Cross is referred to Him alone, and does not touch the Father.
+
+[3:21] And let no one think that in saying this I am only following the general drift of his composition, for in going through all the blasphemy of his speech, which is there laboriously brought together, I found, in a passage later than that before us, this very blasphemy clearly expressed in undisguised language; and I propose to set forth, in the orderly course of my own argument, what they have written, which runs thus:—"If," he says, "he can show that the God Who is over all, Who is the unapproachable Light, was incarnate, or could be incarnate, came under authority, obeyed commands, came under the laws of men, bore the Cross, then let him say that the Light is equal to the Light".
+
+[3:22] Who then is it who is ashamed of the Cross? he who, even after the Passion, worships the Son equally with the Father, or he who even before the Passion insults Him, not only by ranking Him with the creation, but by maintaining that He is of passible nature, on the ground that He could not have come to experience His sufferings had He not had a nature capable of such sufferings? We on our part assert that even the body in which He underwent His Passion, by being mingled with the Divine Nature, was made by that commixture to be that which the assuming Nature is.
+
+[3:23] So far are we from entertaining any low idea concerning the Only-begotten God, that if anything belonging to our lowly nature was assumed in His dispensation of love for man, we believe that even this was transformed to what is Divine and incorruptible; but Eunomius makes the suffering of the Cross to be a sign of divergence in essence, in the sense of inferiority, considering, I know not how, the surpassing act of power, by which He was able to perform this, to be an evidence of weakness; failing to perceive the fact that, while nothing which moves according to its own nature is looked upon as surprisingly wonderful, all things that overpass the limitations of their own nature become especially the objects of admiration, and to them every ear is turned, every mind is attentive, in wonder at the marvel.
+
+[3:24] And hence it is that all who preach the word point out the wonderful character of the mystery in this respect,—that "God was manifested in the flesh," that "the Word was made flesh," that "the Light shined in darkness," "the Life tasted death," and all such declarations which the heralds of the faith are wont to make, whereby is increased the marvellous character of Him Who manifested the superabundance of His power by means external to his own nature.
+
+[3:25] But though they think fit to make this a subject for their insolence, though they make the dispensation of the Cross a reason for partitioning off the Son from equality of glory with the Father, we believe, as those "who from the beginning were eye-witnesses and ministers of the word" delivered to us by the Holy Scriptures, that the God who was in the beginning, "afterwards", as Baruch says, "was seen upon the earth, and conversed with men," and, becoming a ransom for our death, loosed by His own resurrection the bonds of death, and by Himself made the resurrection a way for all flesh, and being on the same throne and in the same glory with His own Father, will in the day of judgment give sentence upon those who are judged, according to the desert of the lives they have led.
+
+[3:26] These are the things which we believe concerning Him Who was crucified, and for this cause we cease not to extol Him exceedingly, according to the measure of our powers, that He Who by reason of His unspeakable and unapproachable greatness is not comprehensible by any, save by Himself and the Father and the Holy Spirit, He, I say, was able even to descend to community with our weakness.
+
+[3:27] But they adduce this proof of the Son's alienation in nature from the Father, that the Lord was manifested by the flesh and by the Cross, arguing on the ground that the Father's nature remained pure in impassibility, and could not in any way admit of a community which tended to passion, while the Son, by reason of the divergence of His nature by way of humiliation, was not incapable of being brought to experience the flesh and death, seeing that the change of condition was not great, but one which took place in a certain sense from one like state to another state kindred and homogeneous, because the nature of man is created, and the nature of the Only-begotten is created also.
+
+[3:28] Who then is fairly charged with being ashamed of the Cross? he who speaks basely of it, or he who contends for its more exalted aspect? I know not whether our accuser, who thus abases the God Who was made known upon the Cross, has heard the lofty speech of Paul, in what terms and at what length he discourses with his exalted lips concerning that Cross.
+
+[3:29] For he, who was able to make himself known by miracles so many and so great, says, "God forbid that I should glory in anything else, than in the Cross of Christ".
+
+[3:30] And to the Corinthians he says that the word of the Cross is "the power of God to them that are in a state of salvation".
+
+[3:31] To the Ephesians, moreover, he describes by the figure of the Cross the power that controls and holds together the universe, when he expresses a desire that they may be exalted to know the exceeding glory of this power, calling it height, and depth, and breadth, and length, speaking of the several projections we behold in the figure of the Cross by their proper names, so that he calls the upper part "height," and that which is below, on the opposite side of the junction, "depth," while by the name "length and breadth" he indicates the cross-beam projecting to either side, that hereby might be manifested this great mystery, that both things in heaven, and things under the earth, and all the furthest bounds of the things that are, are ruled and sustained by Him Who gave an example of this unspeakable and mighty power in the figure of the Cross.
+
+[3:32] But I think there is no need to contend further with such objections, as I judge it superfluous to be anxious about urging arguments against calumny when even a few words suffice to show the truth.
+
+[3:33] Let us therefore pass on to another charge.
+
+[3:34] He says that by us the saints are slandered.
+
+[3:35] Well, if he has heard it himself, let him tell us the words of our defamation: if he thinks we have uttered it to others, let him show the truth of his charge by witnesses: if he demonstrates it from what we have written, let him read the words, and we will bear the blame.
+
+[3:36] But he cannot bring forward anything of the kind: our writings are open for examination to any one who desires it.
+
+[3:37] If it was not said to himself, and he has not heard it from others, and has no proof to offer from our writings, I think he who has to make answer on this point may well hold his peace: silence is surely the fitting answer to an unfounded charge.
+
+[3:38] The Apostle Peter says, "God made this Jesus, Whom ye crucified, Lord and Christ".
+
+[3:39] We, learning this from him, say that the whole context of the passage tends one way,—the Cross itself, the human name, the indicative turn of the phrase.
+
+[3:40] For the word of the Scripture says that in regard to one person two things were wrought,—by the Jews, the Passion, and by God, honour; not as though one person had suffered and another had been honoured by exaltation: and he further explains this yet more clearly by his words in what follows, "being exalted by the right hand of God".
+
+[3:41] Who then was "exalted"? He that was lowly, or He that was the Highest? and what else is the lowly, but the Humanity? what else is the Highest, but the Divinity? Surely, God needs not to be exalted, seeing that He is the Highest.
+
+[3:42] It follows, then, that the Apostle's meaning is that the Humanity was exalted: and its exaltation was effected by its becoming Lord and Christ.
+
+[3:43] And this took place after the Passion.
+
+[3:44] It is not therefore the pre-temporal existence of the Lord which the Apostle indicates by the word "made," but that change of the lowly to the lofty which was effected "by the right hand of God".
+
+[3:45] Even by this phrase is declared the mystery of godliness; for he who says "exalted by the right hand of God" manifestly reveals the unspeakable dispensation of this mystery, that the Right Hand of God, that made all things that are, (which is the Lord, by Whom all things were made, and without Whom nothing that is subsists,) Itself raised to Its own height the Man united with It, making Him also to be what It is by nature.
+
+[3:46] Now It is Lord and King: Christ is the King's name: these things It made Him too.
+
+[3:47] For as He was highly exalted by being in the Highest, so too He became all else,—Immortal in the Immortal, Light in the Light, Incorruptible in the Incorruptible, Invisible in the Invisible, Christ in the Christ, Lord in the Lord.
+
+[3:48] For even in physical combinations.
+
+[3:49] when one of the combined parts exceeds the other in a great degree, the inferior is wont to change completely to that which is more potent.
+
+[3:50] And this we are plainly taught by the voice of the Apostle Peter in his mystic discourse, that the lowly nature of Him Who was crucified through weakness, (and weakness, as we have heard from the Lord, marks the flesh,) that lowly nature, I say, by virtue of its combination with the infinite and boundless element of good, remained no longer in its own measures and properties, but was by the Right Hand of God raised up together with Itself, and became Lord instead of servant, Christ a King instead of a subject, Highest instead of Lowly, God instead of man.
+
+[3:51] What handle then against the saints did he who pretends to give warning against us in defence of the Apostles find in the material of our writings? Let us pass over this charge also in silence; for I think it a mean and unworthy thing to stand up against charges that are false and unfounded.
+
+[3:52] Let us pass on to the more pressing part of his accusation.
+
+[4:1] 4.
+
+[4:2] He shows the falsehood of Eunomius' calumnious charge that the great Basil had said that "man was emptied to become man," and demonstrates that the "emptying" of the Only-begotten took place with a view to the restoration to life of the Man Who had suffered.
+
+[4:3] He asserts that we say that man has emptied Himself to become man, and that He Who by obedience humbled Himself to the form of the servant shared the form of men even before He took that form.
+
+[4:4] No change has been made in the wording; we have simply transferred the very words from his speech to our own.
+
+[4:5] Now if there is anything of this sort in our writings, (for I call my master's writings ours) let no one blame our orator for calumny.
+
+[4:6] I ask for all regard for the truth: and we ourselves will give evidence.
+
+[4:7] But if there is nothing of all this in our writings, while his language not merely lays blame upon us, but is indignant and wrathful as if the matter were clearly proved, calling us full of absurdity, nonsense, confusion, inconsistency, and so on, I am at a loss to see the right course to take.
+
+[4:8] Just as men who are perplexed at the groundless rages of madmen can decide upon no plan to follow, so I myself can find no device to meet this perplexity.
+
+[4:9] Our master says (for I will again recite his argument verbally), "He is not setting forth to us the mode of the Divine existence, but the terms which belong to the Incarnation".
+
+[4:10] Our accuser starts from this point, and says that we maintain that man emptied Himself to become man! What community is there between one statement and the other? If we say that the Apostle has not set forth to us the mode of the Divine existence, but points by his phrase to the dispensation of the Passion, we are on this ground charged with speaking of the "emptying" of man to become man, and with saying that the "form of the servant" had pretemporal existence, and that the Man Who was born of Mary existed before the coming in the flesh! Well, I think it superfluous to spend time in discussing what is admitted, seeing that truth itself frees us from the charge.
+
+[4:11] In a case, indeed, where one may have given the calumniators some handle against oneself, it is proper to resist accusers: but where there is no danger of being suspected of some absurd charge, the accusation becomes a proof, not of the false charge made against him who is calumniated, but of the madness of the accuser.
+
+[4:12] As, however, in dealing with the charge of being ashamed of the Cross, we showed by our examination that the charge recoiled upon the accuser, so we shall show how this charge too returns upon those who make it, since it is they, and not we, who lay down the doctrine of the change of the Son from like to like in the dispensation of the Passion.
+
+[4:13] We will examine briefly, bringing them side by side, the statements of each party.
+
+[4:14] We say that the Only-begotten God, having by His own agency brought all things into being, by Himself has full power over all things, while the nature of man is also one of the things that were made by Him: and that when this had fallen away to evil, and come to be in the destruction of death, He by His own agency drew it up once more to immortal life, by means of the Man in whom He tabernacled, taking to Himself humanity in completeness, and that He mingled His life-giving power with our mortal and perishable nature, and changed, by the combination with Himself, our deadness to living grace and power.
+
+[4:15] And this we declare to be the mystery of the Lord according to the flesh, that He Who is immutable came to be in that which is mutable, to the end that altering it for the better, and changing it from the worse, He might abolish the evil which is mingled with our mutable condition, destroying the evil in Himself.
+
+[4:16] For "our God is a consuming fire," by whom all the material of wickedness is done away.
+
+[4:17] This is our statement.
+
+[4:18] What does our accuser say? Not that He Who was immutable and uncreated was mingled with that which came into being by creation, and which had therefore suffered a change in the direction of evil; but he does say that He, being Himself created, came to that which was kindred and homogeneous with Himself, not coming from a transcendent nature to put on the lowlier nature by reason of His love to man, but becoming that very thing which He was.
+
+[4:19] For as regards the general character of the appellation, the name of "creature" is one, as predicated of all things that have come into being from nothing, while the divisions into sections of the things which we contemplate as included in the term "creature", are separated one from the other by the variation of their properties: so that if He is created, and man is created, He was "emptied," to use Eunomius' phrase, to become Himself, and changed His place, not from the transcendent to the lowly, but from what is similar in kind to what (save in regard of the special character of body and the incorporeal) is similar in dignity.
+
+[4:20] To whom now will the just vote of those who have to try our cause be given, or who will seem to them to be under the weight of these charges? he who says that the created was saved by the uncreated God, or he who refers the cause of our salvation to the creature? Surely the judgment of pious men is not doubtful.
+
+[4:21] For any one who knows clearly the difference which there is between the created and the uncreated, (terms of which the divergence is marked by dominion and slavery, since the uncreated God, as the prophet says, "ruleth with His power for ever," while all things in the creation are servants to Him, according to the voice of the same prophet, which says "all things serve Thee,") he, I say, who carefully considers these matters, surely cannot fail to recognize the person who makes the Only-begotten change from servitude to servitude.
+
+[4:22] For if, according to Paul, the whole creation "is in bondage," and if, according to Eunomius, the essential nature of the Only-begotten is created, our adversaries maintain, surely, by their doctrines, not that the master was mingled with the servant, but that a servant came to be among servants.
+
+[4:23] As for our saying that the Lord was in the form of a servant before His presence in the flesh, that is just like charging us with saying that the stars are black and the sun misty, and the sky low, and water dry, and so on:—a man who does not maintain a charge on the ground of what he has heard, but makes up what seems good to him at his own sweet will, need not be sparing in making against us such charges as these.
+
+[4:24] It is just the same thing for us to be called to account for the one set of charges as for the other, so far as concerns the fact that they have no basis for them in anything that we have said.
+
+[4:25] How could one who says distinctly that the true Son was in the glory of the Father, insult the eternal glory of the Only-begotten by conceiving it to have been "in the form of a servant"? When our author thinks proper to speak evil of us, and at the same time takes care to present his case with some appearance of truth, it may perhaps not be superfluous or useless to rebut his unfounded accusations.
+
+[5:1] 5.
+
+[5:2] Thereafter he shows that there are not two Christs or two Lords, but one Christ and one Lord, and that the Divine nature, after mingling with the Human, preserved the properties of each nature without confusion, and declares that the operations are, by reason of the union, predicated of the two natures in common, in the sense that the Lord took upon Himself the sufferings of the servant, and the humanity is glorified with Him in the honour that is the Lord's, and that by the power of the Divine Nature that is made anew, conformably with that Divine Nature Itself.
+
+[5:3] His next charge too has its own absurdity of the same sort.
+
+[5:4] For he reproaches us with saying that there are "two Christs," and "two Lords," without being able to make good his charge from our words, but employing falsehood at discretion to suit his fancy.
+
+[5:5] Since, then, he deems it within his power to say what he likes, why does he utter his falsehood with such care about detail, and maintain that we speak but of two Christs? Let him say, if he likes, that we preach ten Christs, or ten times ten, or extend the number to a thousand, that he may handle his calumny more vigorously.
+
+[5:6] For blasphemy is equally involved in the doctrine of two Christs, and in that of more, and the character of the two charges is also equally devoid of proof.
+
+[5:7] When he shows, then, that we do speak of two Christs, let him have a verdict against us, as much as though he had given proof of ten thousand.
+
+[5:8] But he says that he convicts us by our own statements.
+
+[5:9] Well, let us look once more at those words of our master by means of which he thinks to raise his charges against us.
+
+[5:10] He says "he" (he, that is, who says "Him God made Lord and Christ, this Jesus Whom ye crucified") "is not setting forth to us the mode of the Divine existence, but the terms which belong to the Incarnation…laying stress by the demonstrative word on that in Him which was human and was seen by all".
+
+[5:11] This is what he wrote.
+
+[5:12] But whence has Eunomius managed by these words to bring on the stage his "two Christs"? Does saying that the demonstrative word lays stress on that which is visible, convey the proof of maintaining "two Christs"? Ought we (to avoid being charged with speaking of "two Highests") to deny the fact that by Him the Lord was highly exalted after His Passion? seeing that God the Word, Who was in the beginning, was Highest, and was also highly exalted after His Passion when He rose from the dead, as the Apostle says.
+
+[5:13] We must of necessity choose one of two courses—either say that He was highly exalted after the Passion (which is just the same as saying that He was made Lord and Christ), and be impeached by Eunomius, or, if we avoid the accusation, deny the confession of the high exaltation of Him Who suffered.
+
+[5:14] Now at this point it seems right to put forward once more our accuser's statement in support of our own defence.
+
+[5:15] We shall therefore repeat word for word the statement laid down by him, which supports our argument as follows:—"The blessed John," he says, "teaches us that God the Word, by Whom all things were made, has become incarnate, saying 'And the Word was made flesh.
+
+[5:16] '" Does he understand what he is writing when he adds this to his own argument? I can hardly myself think that the same man can at once be aware of the meaning of these words and contend against our statement.
+
+[5:17] For if any one examines the words carefully, he will find that there is no mutual conflict between what is said by us and what is said by him.
+
+[5:18] For we both consider the dispensation in the flesh apart, and regard the Divine power in itself: and he, in like manner with ourselves, says that the Word that was in the beginning has been manifested in the flesh: yet no one ever charged him, nor does he charge himself, with preaching "two Words", Him Who was in the beginning, and Him Who was made flesh; for he knows, surely, that the Word is identical with the Word, He who appeared in the flesh with Him Who was with God.
+
+[5:19] But the flesh was not identical with the Godhead, till this too was transformed to the Godhead, so that of necessity one set of attributes befits God the Word, and a different set of attributes befits the "form of the servant".
+
+[5:20] If, then, in view of such a confession, he does not reproach himself with the duality of Words, why are we falsely charged with dividing the object of our faith into "two Christs"?—we, who say that He Who was highly exalted after His Passion, was made Lord and Christ by His union with Him Who is verily Lord and Christ, knowing by what we have learnt that the Divine Nature is always one and the same, and with the same mode of existence, while the flesh in itself is that which reason and sense apprehend concerning it, but when mixed with the Divine no longer remains in its own limitations and properties, but is taken up to that which is overwhelming and transcendent.
+
+[5:21] Our contemplation, however, of the respective properties of the flesh and of the Godhead remains free from confusion, so long as each of these is contemplated by itself, as, for example, "the Word was before the ages, but the flesh came into being in the last times": but one could not reverse this statement, and say that the latter is pretemporal, or that the Word has come into being in the last times.
+
+[5:22] The flesh is of a passible, the Word of an operative nature: and neither is the flesh capable of making the things that are, nor is the power possessed by the Godhead capable of suffering.
+
+[5:23] The Word was in the beginning with God, the man was subject to the trial of death; and neither was the Human Nature from everlasting, nor the Divine Nature mortal: and all the rest of the attributes are contemplated in the same way.
+
+[5:24] It is not the Human Nature that raises up Lazarus, nor is it the power that cannot suffer that weeps for him when he lies in the grave: the tear proceeds from the Man, the life from the true Life.
+
+[5:25] It is not the Human Nature that feeds the thousands, nor is it omnipotent might that hastens to the fig-tree.
+
+[5:26] Who is it that is weary with the journey, and Who is it that by His word made all the world subsist? What is the brightness of the glory, and what is that that was pierced with the nails? What form is it that is buffeted in the Passion, and what form is it that is glorified from everlasting? So much as this is clear, (even if one does not follow the argument into detail,) that the blows belong to the servant in whom the Lord was, the honours to the Lord Whom the servant compassed about, so that by reason of contact and the union of Natures the proper attributes of each belong to both, as the Lord receives the stripes of the servant, while the servant is glorified with the honour of the Lord; for this is why the Cross is said to be the Cross of the Lord of glory, and why every tongue confesses that Jesus Christ is Lord, to the glory of God the Father.
+
+[5:27] But if we are to discuss the other points in the same way, let us consider what it is that dies, and what it is that destroys death; what it is that is renewed, and what it is that empties itself.
+
+[5:28] The Godhead "empties" Itself that It may come within the capacity of the Human Nature, and the Human Nature is renewed by becoming Divine through its commixture with the Divine.
+
+[5:29] For as air is not retained in water when it is dragged down by some weighty body and left in the depth of the water, but rises quickly to its kindred element, while the water is often raised up together with the air in its upward rush, being moulded by the circle of air into a convex shape with a slight and membrane-like surface, so too, when the true Life that underlay the flesh sped up, after the Passion, to Itself, the flesh also was raised up with It, being forced upwards from corruption to incorruptibility by the Divine immortality.
+
+[5:30] And as fire that lies in wood hidden below the surface is often unobserved by the senses of those who see, or even touch it, but is manifest when it blazes up, so too, at His death (which He brought about at His will, Who separated His soul from His Body, Who said to His own Father "Into Thy hands I commend My Spirit," Who, as He says, "had power to lay it down and had power to take it again"), He Who, because He is the Lord of glory, despised that which is shame among men, having concealed, as it were, the flame of His life in His bodily Nature, by the dispensation of His death, kindled and inflamed it once more by the power of His own Godhead, fostering into life that which had been brought to death, having infused with the infinity of His Divine power that humble first-fruits of our nature, made it also to be that which He Himself was—making the servile form to be Lord, and the Man born of Mary to be Christ, and Him Who was crucified through weakness to be Life and power, and making all that is piously conceived to be in God the Word to be also in that which the Word assumed, so that these attributes no longer seem to be in either Nature by way of division, but that the perishable Nature being, by its commixture with the Divine, made anew in conformity with the Nature that overwhelms it, participates in the power of the Godhead, as if one were to say that mixture makes a drop of vinegar mingled in the deep to be sea, by reason that the natural quality of this liquid does not continue in the infinity of that which overwhelms it.
+
+[5:31] This is our doctrine, which does not, as Eunomius charges against it, preach a plurality of Christs, but the union of the Man with the Divinity, and which calls by the name of "making" the transmutation of the Mortal to the Immortal, of the Servant to the Lord, of Sin to Righteousness, of the Curse to the Blessing, of the Man to Christ.
+
+[5:32] What further have our slanderers left to say, to show that we preach "two Christs" in our doctrine, if we refuse to say that He Who was in the beginning from the Father uncreatedly Lord, and Christ, and the Word, and God, was "made," and declare that the blessed Peter was pointing briefly and incidentally to the mystery of the Incarnation, according to the meaning now explained, that the Nature which was crucified through weakness has Itself also, as we have said, become, by the overwhelming power of Him Who dwells in It, that which the Indweller Himself is in fact and in name, even Christ and Lord?.
+

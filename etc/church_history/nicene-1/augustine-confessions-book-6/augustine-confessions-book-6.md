@@ -1,0 +1,468 @@
+# Augustine: Confessions Book VI
+
+[1:1] Confessions Book VI: Chapter I.
+
+[1:2] —His Mother Having Followed Him to Milan, Declares that She Will Not Die Before Her Son Shall Have Embraced the Catholic Faith.
+
+[1:3] O Thou, my hope from my youth, where wert Thou to me, and whither hadst Thou gone? For in truth, hadst Thou not created me, and made a difference between me and the beasts of the field and fowls of the air? Thou hadst made me wiser than they, yet did I wander about in dark and slippery places, and sought Thee abroad out of myself, and found not the God of my heart; and had entered the depths of the sea, and distrusted and despaired finding out the truth.
+
+[1:4] By this time my mother, made strong by her piety, had come to me, following me over sea and land, in all perils feeling secure in Thee.
+
+[1:5] For in the dangers of the sea she comforted the very sailors (to whom the inexperienced passengers, when alarmed, were wont rather to go for comfort), assuring them of a safe arrival, because she had been so assured by Thee in a vision.
+
+[1:6] She found me in grievous danger, through despair of ever finding truth.
+
+[1:7] But when I had disclosed to her that I was now no longer a Manichaean, though not yet a Catholic Christian, she did not leap for joy as at what was unexpected; although she was now reassured as to that part of my misery for which she had mourned me as one dead, but who would be raised to Thee, carrying me forth upon the bier of her thoughts, that Thou mightest say unto the widow's son, "Young man, I say unto Thee, arise," and he should revive, and begin to speak, and Thou shouldest deliver him to his mother.
+
+[1:8] Her heart, then, was not agitated with any violent exultation, when she had heard that to be already in so great a part accomplished which she daily, with tears, entreated of Thee might be done,—that though I had not yet grasped the truth, I was rescued from falsehood.
+
+[1:9] Yea, rather, for that she was fully confident that Thou, who hadst promised the whole, wouldst give the rest, most calmly, and with a breast full of confidence, she replied to me, "She believed in Christ, that before she departed this life, she would see me a Catholic believer".
+
+[1:10] And thus much said she to me; but to Thee, O Fountain of mercies, poured she out more frequent prayers and tears, that Thou wouldest hasten Thy aid, and enlighten my darkness; and she hurried all the more assiduously to the church, and hung upon the words of Ambrose, praying for the fountain of water that springeth up into everlasting life.
+
+[1:11] For she loved that man as an angel of God, because she knew that it was by him that I had been brought, for the present, to that perplexing state of agitation I was now in, through which she was fully persuaded that I should pass from sickness unto health, after an excess, as it were, of a sharper fit, which doctors term the "crisis".
+
+[2:1] Chapter II.
+
+[2:2] —She, on the Prohibition of Ambrose, Abstains from Honouring the Memory of the Martyrs.
+
+[2:3] When, therefore, my mother had at one time—as was her custom in Africa—brought to the oratories built in the memory of the saints certain cakes, and bread, and wine, and was forbidden by the door-keeper, so soon as she learnt that it was the bishop who had forbidden it, she so piously and obediently acceded to it, that I myself marvelled how readily she could bring herself to accuse her own custom, rather than question his prohibition.
+
+[2:4] For wine-bibbing did not take possession of her spirit, nor did the love of wine stimulate her to hatred of the truth, as it doth too many, both male and female, who nauseate at a song of sobriety, as men well drunk at a draught of water.
+
+[2:5] But she, when she had brought her basket with the festive meats, of which she would taste herself first and give the rest away, would never allow herself more than one little cup of wine, diluted according to her own temperate palate, which, out of courtesy, she would taste.
+
+[2:6] And if there were many oratories of departed saints that ought to be honoured in the same way, she still carried round with her the selfsame cup, to be used everywhere; and this, which was not only very much watered, but was also very tepid with carrying about, she would distribute by small sips to those around; for she sought their devotion, not pleasure.
+
+[2:7] As soon, therefore, as she found this custom to be forbidden by that famous preacher and most pious prelate, even to those who would use it with moderation, lest thereby an occasion of excess might be given to such as were drunken, and because these, so to say, festivals in honour of the dead were very like unto the superstition of the Gentiles, she most willingly abstained from it.
+
+[2:8] And in lieu of a basket filled with fruits of the earth, she had learned to bring to the oratories of the martyrs a heart full of more purified petitions, and to give all that she could to the poor; that so the communion of the Lord's body might be rightly celebrated there, where, after the example of His passion, the martyrs had been sacrificed and crowned.
+
+[2:9] But yet it seems to me, O Lord my God, and thus my heart thinks of it in thy sight, that my mother perhaps would not so easily have given way to the relinquishment of this custom had it been forbidden by another whom she loved not as Ambrose, whom, out of regard for my salvation, she loved most dearly; and he loved her truly, on account of her most religious conversation, whereby, in good works so "fervent in spirit," she frequented the church; so that he would often, when he saw me, burst forth into her praises, congratulating me that I had such a mother—little knowing what a son she had in me, who was in doubt as to all these things, and did not imagine the way of life could be found out.
+
+[3:1] Chapter III.
+
+[3:2] —As Ambrose Was Occupied with Business and Study, Augustin Could Seldom Consult Him Concerning the Holy Scriptures.
+
+[3:3] Nor did I now groan in my prayers that Thou wouldest help me; but my mind was wholly intent on knowledge, and eager to dispute.
+
+[3:4] And Ambrose himself I esteemed a happy man, as the world counted happiness, in that such great personages held him in honour; only his celibacy appeared to me a painful thing.
+
+[3:5] But what hope he cherished, what struggles he had against the temptations that beset his very excellences, what solace in adversities, and what savoury joys Thy bread possessed for the hidden mouth of his heart when ruminating on it, I could neither conjecture, nor had I experienced.
+
+[3:6] Nor did he know my embarrassments, nor the pit of my danger.
+
+[3:7] For I could not request of him what I wished as I wished, in that I was debarred from hearing and speaking to him by crowds of busy people, whose infirmities he devoted himself to.
+
+[3:8] With whom when he was not engaged (which was but a little time), he either was refreshing his body with necessary sustenance, or his mind with reading.
+
+[3:9] But while reading, his eyes glanced over the pages, and his heart searched out the sense, but his voice and tongue were silent.
+
+[3:10] Ofttimes, when we had come (for no one was forbidden to enter, nor was it his custom that the arrival of those who came should be announced to him), we saw him thus reading to himself, and never otherwise; and, having long sat in silence (for who durst interrupt one so intent?), we were fain to depart, inferring that in the little time he secured for the recruiting of his mind, free from the clamour of other men's business, he was unwilling to be taken off.
+
+[3:11] And perchance he was fearful lest, if the author he studied should express aught vaguely, some doubtful and attentive hearer should ask him to expound it, or to discuss some of the more abstruse questions, as that, his time being thus occupied, he could not turn over as many volumes as he wished; although the preservation of his voice, which was very easily weakened, might be the truer reason for his reading to himself.
+
+[3:12] But whatever was his motive in so doing, doubtless in such a man was a good one.
+
+[3:13] But verily no opportunity could I find of ascertaining what I desired from that Thy so holy oracle, his breast, unless the thing might be entered into briefly.
+
+[3:14] But those surgings in me required to find him at full leisure, that I might pour them out to him, but never were they able to find him so; and I heard him, indeed, every Lord's day, "rightly dividing the word of truth" among the people; and I was all the more convinced that all those knots of crafty calumnies, which those deceivers of ours had knit against the divine books, could be unravelled.
+
+[3:15] But so soon as I understood, withal, that man made "after the image of Him that created him" was not so understood by Thy spiritual sons (whom of the Catholic mother Thou hadst begotten again through grace), as though they believed and imagined Thee to be bounded by human form,—although what was the nature of a spiritual substance I had not the faintest or dimmest suspicion,—yet rejoicing, I blushed that for so many years I had barked, not against the Catholic faith, but against the fables of carnal imaginations.
+
+[3:16] For I had been both impious and rash in this, that what I ought inquiring to have learnt, I had pronounced on condemning.
+
+[3:17] For Thou, O most high and most near, most secret, yet most present, who hast not limbs some larger some smaller, but art wholly everywhere, and nowhere in space, nor art Thou of such corporeal form, yet hast Thou created man after Thine own image, and, behold, from head to foot is he confined by space.
+
+[4:1] Chapter IV.
+
+[4:2] —He Recognises the Falsity of His Own Opinions, and Commits to Memory the Saying of Ambrose.
+
+[4:3] As, then, I knew not how this image of Thine should subsist, I should have knocked and propounded the doubt how it was to be believed, and not have insultingly opposed it, as if it were believed.
+
+[4:4] Anxiety, therefore, as to what to retain as certain, did all the more sharply gnaw into my soul, the more shame I felt that, having been so long deluded and deceived by the promise of certainties, I had, with puerile error and petulance, prated of so many uncertainties as if they were certainties.
+
+[4:5] For that they were falsehoods became apparent to me afterwards.
+
+[4:6] However, I was certain that they were uncertain, and that I had formerly held them as certain when with a blind contentiousness I accused Thy Catholic Church, which though I had not yet discovered to teach truly, yet not to teach that of which I had so vehemently accused her.
+
+[4:7] In this manner was I confounded and converted, and I rejoiced, O my God, that the one Church, the body of Thine only Son (wherein the name of Christ had been set upon me when an infant), did not appreciate these infantile trifles, nor maintained, in her sound doctrine, any tenet that would confine Thee, the Creator of all, in space—though ever so great and wide, yet bounded on all sides by the restraints of a human form.
+
+[4:8] I rejoiced also that the old Scriptures of the law and the prophets were laid before me, to be perused, not now with that eye to which they seemed most absurd before, when I censured Thy holy ones for so thinking, whereas in truth they thought not so; and with delight I heard Ambrose, in his sermons to the people, oftentimes most diligently recommend this text as a rule,—"The letter killeth, but the Spirit giveth life;" whilst, drawing aside the mystic veil, he spiritually laid open that which, accepted according to the "letter," seemed to teach perverse doctrines—teaching herein nothing that offended me, though he taught such things as I knew not as yet whether they were true.
+
+[4:9] For all this time I restrained my heart from assenting to anything, fearing to fall headlong; but by hanging in suspense I was the worse killed.
+
+[4:10] For my desire was to be as well assured of those things that I saw not, as I was that seven and three are ten.
+
+[4:11] For I was not so insane as to believe that this could not be comprehended; but I desired to have other things as clear as this, whether corporeal things, which were not present to my senses, or spiritual, whereof I knew not how to conceive except corporeally.
+
+[4:12] And by believing I might have been cured, that so the sight of my soul being cleared, it might in some way be directed towards Thy truth, which abideth always, and faileth in naught.
+
+[4:13] But as it happens that he who has tried a bad physician fears to trust himself with a good one, so was it with the health of my soul, which could not be healed but by believing, and, lest it should believe falsehoods, refused to be cured—resisting Thy hands, who hast prepared for us the medicaments of faith, and hast applied them to the maladies of the whole world, and hast bestowed upon them so great authority.
+
+[5:1] Chapter V.
+
+[5:2] —Faith is the Basis of Human Life; Man Cannot Discover that Truth Which Holy Scripture Has Disclosed.
+
+[5:3] From this, however, being led to prefer the Catholic doctrine, I felt that it was with more moderation and honesty that it commanded things to be believed that were not demonstrated (whether it was that they could be demonstrated, but not to any one, or could not be demonstrated at all), than was the method of the Manichaeans, where our credulity was mocked by audacious promise of knowledge, and then so many most fabulous and absurd things were forced upon belief because they were not capable of demonstration.
+
+[5:4] After that, O Lord, Thou, by little and little, with most gentle and most merciful hand, drawing and calming my heart, didst persuade taking into consideration what a multiplicity of things which I had never seen, nor was present when they were enacted, like so many of the things in secular history, and so many accounts of places and cities which I had not seen; so many of friends, so many of physicians, so many now of these men, now of those, which unless we should believe, we should do nothing at all in this life; lastly, with how unalterable an assurance I believed of what parents I was born, which it would have been impossible for me to know otherwise than by hearsay,—taking into consideration all this, Thou persuadest me that not they who believed Thy books (which, with so great authority, Thou hast established among nearly all nations), but those who believed them not were to be blamed; and that those men were not to be listened unto who should say to me, "How dost thou know that those Scriptures were imparted unto mankind by the Spirit of the one true and most true God?" For it was the same thing that was most of all to be believed, since no wranglings of blasphemous questions, whereof I had read so many amongst the self-contradicting philosophers, could once wring the belief from me that Thou art,—whatsoever Thou wert, though what I knew not,—or that the government of human affairs belongs to Thee.
+
+[5:5] Thus much I believed, at one time more strongly than another, yet did I ever believe both that Thou wert, and hadst a care of us, although I was ignorant both what was to be thought of Thy substance, and what way led, or led back to Thee.
+
+[5:6] Seeing, then, that we were too weak by unaided reason to find out the truth, and for this cause needed the authority of the holy writings, I had now begun to believe that Thou wouldest by no means have given such excellency of authority to those Scriptures throughout all lands, had it not been Thy will thereby to be believed in, and thereby sought.
+
+[5:7] For now those things which heretofore appeared incongruous to me in the Scripture, and used to offend me, having heard divers of them expounded reasonably, I referred to the depth of the mysteries, and its authority seemed to me all the more venerable and worthy of religious belief, in that, while it was visible for all to read it, it reserved the majesty of its secret within its profound significance, stooping to all in the great plainness of its language and lowliness of its style, yet exercising the application of such as are not light of heart; that it might receive all into its common bosom, and through narrow passages waft over some few towards Thee, yet many more than if it did not stand upon such a height of authority, nor allured multitudes within its bosom by its holy humility.
+
+[5:8] These things I meditated upon, and Thou wert with me; I sighed, and Thou heardest me; I vacillated, and Thou didst guide me; I roamed through the broad way of the world, and Thou didst not desert me.
+
+[6:1] Chapter VI.
+
+[6:2] —On the Source and Cause of True Joy,—The Example of the Joyous Beggar Being Adduced.
+
+[6:3] I longed for honours, gains, wedlock; and Thou mockedst me.
+
+[6:4] In these desires I underwent most bitter hardships, Thou being the more gracious the less Thou didst suffer anything which was not Thou to grow sweet to me.
+
+[6:5] Behold my heart, O Lord, who wouldest that I should recall all this, and confess unto Thee.
+
+[6:6] Now let my soul cleave to Thee, which Thou hast freed from that fast-holding bird-lime of death.
+
+[6:7] How wretched was it! And Thou didst irritate the feeling of its wound, that, forsaking all else, it might be converted unto Thee,—who art above all, and without whom all things would be naught,—be converted and be healed.
+
+[6:8] How wretched was I at that time, and how didst Thou deal with me, to make me sensible of my wretchedness on that day wherein I was preparing to recite a panegyric on the Emperor, wherein I was to deliver many a lie, and lying was to be applauded by those who knew I lied; and my heart panted with these cares, and boiled over with the feverishness of consuming thoughts.
+
+[6:9] For, while walking along one of the streets of Milan, I observed a poor mendicant,—then, I imagine, with a full belly,—joking and joyous; and I sighed, and spake to the friends around me of the many sorrows resulting from our madness, for that by all such exertions of ours,—as those wherein I then laboured, dragging along, under the spur of desires, the burden of my own unhappiness, and by dragging increasing it, we yet aimed only to attain that very joyousness which that mendicant had reached before us, who, perchance, never would attain it! For what he had obtained through a few begged pence, the same was I scheming for by many a wretched and tortuous turning,—the joy of a temporary felicity.
+
+[6:10] For he verily possessed not true joy, but yet I, with these my ambitions, was seeking one much more untrue.
+
+[6:11] And in truth he was joyous, I anxious; he free from care, I full of alarms.
+
+[6:12] But should any one inquire of me whether I would rather be merry or fearful, I would reply, Merry.
+
+[6:13] Again, were I asked whether I would rather be such as he was, or as I myself then was, I should elect to be myself, though beset with cares and alarms, but out of perversity; for was it so in truth? For I ought not to prefer myself to him because I happened to be more learned than he, seeing that I took no delight therein, but sought rather to please men by it; and that not to instruct, but only to please.
+
+[6:14] Wherefore also didst Thou break my bones with the rod of Thy correction.
+
+[6:15] Away with those, then, from my soul, who say unto it, "It makes a difference from whence a man's joy is derived.
+
+[6:16] That mendicant rejoiced in drunkenness; thou longedst to rejoice in glory".
+
+[6:17] What glory, O Lord? That which is not in Thee.
+
+[6:18] For even as his was no true joy, so was mine no true glory; and it subverted my soul more.
+
+[6:19] He would digest his drunkenness that same night, but many a night had I slept with mine, and risen again with it, and was to sleep again and again to rise with it, I know not how oft.
+
+[6:20] It does indeed "make a difference whence a man's joy is derived".
+
+[6:21] I know it is so, and that the joy of a faithful hope is incomparably beyond such vanity.
+
+[6:22] Yea, and at that time was he beyond me, for he truly was the happier man; not only for that he was thoroughly steeped in mirth, I torn to pieces with cares, but he, by giving good wishes, had gotten wine, I, by lying, was following after pride.
+
+[6:23] Much to this effect said I then to my dear friends, and I often marked in them how it fared with me; and I found that it went ill with me, and fretted, and doubled that very ill.
+
+[6:24] And if any prosperity smiled upon me, I loathed to seize it, for almost before I could grasp it flew away.
+
+[7:1] Chapter VII.
+
+[7:2] —He Leads to Reformation His Friend Alypius, Seized with Madness for the Circensian Games.
+
+[7:3] These things we, who lived like friends together, jointly deplored, but chiefly and most familiarly did I discuss them with Alypius and Nebridius, of whom Alypius was born in the same town as myself, his parents being of the highest rank there, but he being younger than I.
+
+[7:4] For he had studied under me, first, when I taught in our own town, and afterwards at Carthage, and esteemed me highly, because I appeared to him good and learned; and I esteemed him for his innate love of virtue, which, in one of no great age, was sufficiently eminent.
+
+[7:5] But the vortex of Carthaginian customs (amongst whom these frivolous spectacles are hotly followed) had inveigled him into the madness of the Circensian games.
+
+[7:6] But while he was miserably tossed about therein, I was professing rhetoric there, and had a public school.
+
+[7:7] As yet he did not give ear to my teaching, on account of some ill-feeling that had arisen between me and his father.
+
+[7:8] I had then found how fatally he doted upon the circus, and was deeply grieved that he seemed likely—if, indeed, he had not already done so—to cast away his so great promise.
+
+[7:9] Yet had I no means of advising, or by a sort of restraint reclaiming him, either by the kindness of a friend or by the authority of a master.
+
+[7:10] For I imagined that his sentiments towards me were the same as his father's; but he was not such.
+
+[7:11] Disregarding, therefore, his father's will in that matter, he commenced to salute me, and, coming into my lecture-room, to listen for a little and depart.
+
+[7:12] But it slipped my memory to deal with him, so that he should not, through a blind and headstrong desire of empty pastimes, undo so great a wit.
+
+[7:13] But Thou, O Lord, who governest the helm of all Thou hast created, hadst not forgotten him, who was one day to be amongst Thy sons, the President of Thy sacrament; and that his amendment might plainly be attributed to Thyself, Thou broughtest it about through me, but I knowing nothing of it.
+
+[7:14] For one day, when I was sitting in my accustomed place, with my scholars before me, he came in, saluted me, sat himself down, and fixed his attention on the subject I was then handling.
+
+[7:15] It so happened that I had a passage in hand, which while I was explaining, a simile borrowed from the Circensian games occurred to me, as likely to make what I wished to convey pleasanter and plainer, imbued with a biting jibe at those whom that madness had enthralled.
+
+[7:16] Thou knowest, O our God, that I had no thought at that time of curing Alypius of that plague.
+
+[7:17] But he took it to himself, and thought that I would not have said it but for his sake.
+
+[7:18] And what any other man would have made a ground of offence against me, this worthy young man took as a reason for being offended at himself, and for loving me more fervently.
+
+[7:19] For Thou hast said it long ago, and written in Thy book, "Rebuke a wise man, and he will love thee".
+
+[7:20] But I had not rebuked him, but Thou, who makest use of all consciously or unconsciously, in that order which Thyself knowest (and that order is right), wroughtest out of my heart and tongue burning coals, by which Thou mightest set on fire and cure the hopeful mind thus languishing.
+
+[7:21] Let him be silent in Thy praises who meditates not on Thy mercies, which from my inmost parts confess unto Thee.
+
+[7:22] For he upon that speech rushed out from that so deep pit, wherein he was wilfully plunged, and was blinded by its miserable pastimes; and he roused his mind with a resolute moderation; whereupon all the filth of the Circensian pastimes flew off from him, and he did not approach them further.
+
+[7:23] Upon this, he prevailed with his reluctant father to let him be my pupil.
+
+[7:24] He gave in and consented.
+
+[7:25] And Alypius, beginning again to hear me, was involved in the same superstition as I was, loving in the Manichaeans that ostentation of continency which he believed to be true and unfeigned.
+
+[7:26] It was, however, a senseless and seducing continency, ensnaring precious souls, not able as yet to reach the height of virtue, and easily beguiled with the veneer of what was but a shadowy and feigned virtue.
+
+[8:1] Chapter VIII.
+
+[8:2] —The Same When at Rome, Being Led by Others into the Amphitheatre, is Delighted with the Gladiatorial Games.
+
+[8:3] He, not relinquishing that worldly way which his parents had bewitched him to pursue, had gone before me to Rome, to study law, and there he was carried away in an extraordinary manner with an incredible eagerness after the gladiatorial shows.
+
+[8:4] For, being utterly opposed to and detesting such spectacles, he was one day met by chance by divers of his acquaintance and fellow-students returning from dinner, and they with a friendly violence drew him, vehemently objecting and resisting, into the amphitheatre, on a day of these cruel and deadly shows, he thus protesting: "Though you drag my body to that place, and there place me, can you force me to give my mind and lend my eyes to these shows? Thus shall I be absent while present, and so shall overcome both you and them".
+
+[8:5] They hearing this, dragged him on nevertheless, desirous, perchance, to see whether he could do as he said.
+
+[8:6] When they had arrived thither, and had taken their places as they could, the whole place became excited with the inhuman sports.
+
+[8:7] But he, shutting up the doors of his eyes, forbade his mind to roam abroad after such naughtiness; and would that he had shut his ears also! For, upon the fall of one in the fight, a mighty cry from the whole audience stirring him strongly, he, overcome by curiosity, and prepared as it were to despise and rise superior to it, no matter what it were, opened his eyes, and was struck with a deeper wound in his soul than the other, whom he desired to see, was in his body; and he fell more miserably than he on whose fall that mighty clamour was raised, which entered through his ears, and unlocked his eyes, to make way for the striking and beating down of his soul, which was bold rather than valiant hitherto; and so much the weaker in that it presumed on itself, which ought to have depended on Thee.
+
+[8:8] For, directly he saw that blood, he therewith imbibed a sort of savageness; nor did he turn away, but fixed his eye, drinking in madness unconsciously, and was delighted with the guilty contest, and drunken with the bloody pastime.
+
+[8:9] Nor was he now the same he came in, but was one of the throng he came unto, and a true companion of those who had brought him thither.
+
+[8:10] Why need I say more? He looked, shouted, was excited, carried away with him the madness which would stimulate him to return, not only with those who first enticed him, but also before them, yea, and to draw in others.
+
+[8:11] And from all this didst Thou, with a most powerful and most merciful hand, pluck him, and taughtest him not to repose confidence in himself, but in Thee—but not till long after.
+
+[9:1] Chapter IX.
+
+[9:2] —Innocent Alypius, Being Apprehended as a Thief, is Set at Liberty by the Cleverness of an Architect.
+
+[9:3] But this was all being stored up in his memory for a medicine hereafter.
+
+[9:4] As was that also, that when he was yet studying under me at Carthage, and was meditating at noonday in the market-place upon what he had to recite (as scholars are wont to be exercised), Thou sufferedst him to be apprehended as a thief by the officers of the market-place.
+
+[9:5] For no other reason, I apprehend, didst Thou, O our God, suffer it, but that he who was in the future to prove so great a man should now begin to learn that, in judging of causes, man should not with a reckless credulity readily be condemned by man.
+
+[9:6] For as he was walking up and down alone before the judgment-seat with his tablets and pen, lo, a young man, one of the scholars, the real thief, privily bringing a hatchet, got in without Alypius' seeing him as far as the leaden bars which protect the silversmiths' shops, and began to cut away the lead.
+
+[9:7] But the noise of the hatchet being heard, the silversmiths below began to make a stir, and sent to take in custody whomsoever they should find.
+
+[9:8] But the thief, hearing their voices, ran away, leaving his hatchet, fearing to be taken with it.
+
+[9:9] Now Alypius, who had not seen him come in, caught sight of him as he went out, and noted with what speed he made off.
+
+[9:10] And, being curious to know the reasons, he entered the place, where, finding the hatchet, he stood wondering and pondering, when behold, those that were sent caught him alone, hatchet in hand, the noise whereof had startled them and brought them thither.
+
+[9:11] They lay hold of him and drag him away, and, gathering the tenants of the market-place about them, boast of having taken a notorious thief, and thereupon he was being led away to apppear before the judge.
+
+[9:12] But thus far was he to be instructed.
+
+[9:13] For immediately, O Lord, Thou camest to the succour of his innocency, whereof Thou wert the sole witness.
+
+[9:14] For, as he was being led either to prison or to punishment, they were met by a certain architect, who had the chief charge of the public buildings.
+
+[9:15] They were specially glad to come across him, by whom they used to be suspected of stealing the goods lost out of the market-place, as though at last to convince him by whom these thefts were committed.
+
+[9:16] He, however, had at divers times seen Alypius at the house of a certain senator, whom he was wont to visit to pay his respects; and, recognising him at once, he took him aside by the hand, and inquiring of him the cause of so great a misfortune, heard the whole affair, and commanded all the rabble then present (who were very uproarious and full of threatenings) to go with him.
+
+[9:17] And they came to the house of the young man who had committed the deed.
+
+[9:18] There, before the door, was a lad so young as not to refrain from disclosing the whole through the fear of injuring his master.
+
+[9:19] For he had followed his master to the market-place.
+
+[9:20] Whom, so soon as Alypius recognised, he intimated it to the architect; and he, showing the hatchet to the lad, asked him to whom it belonged.
+
+[9:21] "To us," quoth he immediately; and on being further interrogated, he disclosed everything.
+
+[9:22] Thus, the crime being transferred to that house, and the rabble shamed, which had begun to triumph over Alypius, he, the future dispenser of Thy word, and an examiner of numerous causes in Thy Church, went away better experienced and instructed.
+
+[10:1] Chapter X.
+
+[10:2] —The Wonderful Integrity of Alypius in Judgment.
+
+[10:3] The Lasting Friendship of Nebridius with Augustin.
+
+[10:4] Him, therefore, had I lighted upon at Rome, and he clung to me by a most strong tie, and accompanied me to Milan, both that he might not leave me, and that he might practise something of the law he had studied, more with a view of pleasing his parents than himself.
+
+[10:5] There had he thrice sat as assessor with an uncorruptness wondered at by others, he rather wondering at those who could prefer gold to integrity.
+
+[10:6] His character was tested, also, not only by the bait of covetousness, but by the spur of fear.
+
+[10:7] At Rome, he was assessor to the Count of the Italian Treasury.
+
+[10:8] There was at that time a most potent senator, to whose favours many were indebted, of whom also many stood in fear.
+
+[10:9] He would fain, by his usual power, have a thing granted him which was forbidden by the laws.
+
+[10:10] This Alypius resisted; a bribe was promised, he scorned it with all his heart; threats were employed, he trampled them under foot,—all men being astonished at so rare a spirit, which neither coveted the friendship nor feared the enmity of a man at once so powerful and so greatly famed for his innumerable means of doing good or ill.
+
+[10:11] Even the judge whose councillor Alypius was, although also unwilling that it should be done, yet did not openly refuse it, but put the matter off upon Alypius, alleging that it was he who would not permit him to do it; for verily, had the judge done it, Alypius would have decided otherwise.
+
+[10:12] With this one thing in the way of learning was he very nearly led away,—that he might have books copied for him at praetorian prices.
+
+[10:13] But, consulting justice, he changed his mind for the better, esteeming equity, whereby he was hindered, more gainful than the power whereby he was permitted.
+
+[10:14] These are little things, but "He that is faithful in that which is least, is faithful also in much".
+
+[10:15] Nor can that possibly be void which proceedeth out of the mouth of Thy Truth.
+
+[10:16] "If, therefore, ye have not been faithful in the unrighteous mammon, who will commit to your trust the true riches? And if ye have not been faithful in that which is another man's, who shall give you that which is your own?" He, being such, did at that time cling to me, and wavered in purpose, as I did, what course of life was to be taken.
+
+[10:17] Nebridius also, who had left his native country near Carthage, and Carthage itself, where he had usually lived, leaving behind his fine paternal estate, his house, and his mother, who intended not to follow him, had come to Milan, for no other reason than that he might live with me in a most ardent search after truth and wisdom.
+
+[10:18] Like me he sighed, like me he wavered, an ardent seeker after true life, and a most acute examiner of the most abstruse questions.
+
+[10:19] So were there three begging mouths, sighing out their wants one to the other, and waiting upon Thee, that Thou mightest give them their meat in due season.
+
+[10:20] And in all the bitterness which by Thy mercy followed our worldly pursuits, as we contemplated the end, why this suffering should be ours, darkness came upon us; and we turned away groaning and exclaiming, "How long shall these things be?" And this we often said; and saying so, we did not relinquish them, for as yet we had discovered nothing certain to which, when relinquished, we might betake ourselves.
+
+[11:1] Chapter XI.
+
+[11:2] —Being Troubled by His Grievous Errors, He Meditates Entering on a New Life.
+
+[11:3] And I, puzzling over and reviewing these things, most marvelled at the length of time from that my nineteenth year, wherein I began to be inflamed with the desire of wisdom, resolving, when I had found her, to forsake all the empty hopes and lying insanities of vain desires.
+
+[11:4] And behold, I was now getting on to my thirtieth year, sticking in the same mire, eager for the enjoyment of things present, which fly away and destroy me, whilst I say, "Tomorrow I shall discover it; behold, it will appear plainly, and I shall seize it; behold, Faustus will come and explain everything! O ye great men, ye Academicians, it is then true that nothing certain for the ordering of life can be attained! Nay, let us search the more diligently, and let us not despair.
+
+[11:5] Lo, the things in the ecclesiastical books, which appeared to us absurd aforetime, do not appear so now, and may be otherwise and honestly interpreted.
+
+[11:6] I will set my feet upon that step, where, as a child, my parents placed me, until the clear truth be discovered.
+
+[11:7] But where and when shall it be sought? Ambrose has no leisure,—we have no leisure to read.
+
+[11:8] Where are we to find the books? Whence or when procure them? From whom borrow them? Let set times be appointed, and certain hours be set apart for the health of the soul.
+
+[11:9] Great hope has risen upon us, the Catholic faith doth not teach what we conceived, and vainly accused it of.
+
+[11:10] Her learned ones hold it as an abomination to believe that God is limited by the form of a human body.
+
+[11:11] And do we doubt to 'knock,' in order that the rest may be 'opened'? The mornings are taken up by our scholars; how do we employ the rest of the day? Why do we not set about this? But when, then, pay our respects to our great friends, of whose favours we stand in need? When prepare what our scholars buy from us? When recreate ourselves, relaxing our minds from the pressure of care?".
+
+[11:12] "Perish everything, and let us dismiss these empty vanities, and betake ourselves solely to the search after truth! Life is miserable, death uncertain.
+
+[11:13] If it creeps upon us suddenly, in what state shall we depart hence, and where shall we learn what we have neglected here? Or rather shall we not suffer the punishment of this negligence? What if death itself should cut off and put an end to all care and feeling? This also, then, must be inquired into.
+
+[11:14] But God forbid that it should be so.
+
+[11:15] It is not without reason, it is no empty thing, that the so eminent height of the authority of the Christian faith is diffused throughout the entire world.
+
+[11:16] Never would such and so great things be wrought for us, if, by the death of the body, the life of the soul were destroyed.
+
+[11:17] Why, therefore, do we delay to abandon our hopes of this world, and give ourselves wholly to seek after God and the blessed life? But stay! Even those things are enjoyable; and they possess some and no little sweetness.
+
+[11:18] We must not abandon them lightly, for it would be a shame to return to them again.
+
+[11:19] Behold, now is it a great matter to obtain some post of honour! And what more could we desire? We have crowds of influential friends, though we have nothing else, and if we make haste a presidentship may be offered us; and a wife with some money, that she increase not our expenses; and this shall be the height of desire.
+
+[11:20] Many men, who are great and worthy of imitation, have applied themselves to the study of wisdom in the marriage state".
+
+[11:21] Whilst I talked of these things, and these winds veered about and tossed my heart hither and thither, the time passed on; but I was slow to turn to the Lord, and from day to day deferred to live in Thee, and deferred not daily to die in myself.
+
+[11:22] Being enamoured of a happy life, I yet feared it in its own abode, and, fleeing from it, sought after it.
+
+[11:23] I conceived that I should be too unhappy were I deprived of the embracements of a woman; and of Thy merciful medicine to cure that infirmity I thought not, not having tried it.
+
+[11:24] As regards continency, I imagined it to be under the control of our own strength (though in myself I found it not), being so foolish as not to know what is written, that none can be continent unless Thou give it; and that Thou wouldst give it, if with heartfelt groaning I should knock at Thine ears, and should with firm faith cast my care upon Thee.
+
+[12:1] Chapter XII.
+
+[12:2] —Discussion with Alypius Concerning a Life of Celibacy.
+
+[12:3] It was in truth Alypius who prevented me from marrying, alleging that thus we could by no means live together, having so much undistracted leisure in the love of wisdom, as we had long desired.
+
+[12:4] For he himself was so chaste in this matter that it was wonderful—all the more, too, that in his early youth he had entered upon that path, but had not clung to it; rather had he, feeling sorrow and disgust at it, lived from that time to the present most continently.
+
+[12:5] But I opposed him with the examples of those who as married men had loved wisdom, found favour with God, and walked faithfully and lovingly with their friends.
+
+[12:6] From the greatness of whose spirit I fell far short, and, enthralled with the disease of the flesh and its deadly sweetness, dragged my chain along, fearing to be loosed; and, as if it pressed my wound, rejected his kind expostulations, as it were the hand of one who would unchain me.
+
+[12:7] Moreover, it was by me that the serpent spake unto Alypius himself, weaving and laying in his path, by my tongue, pleasant snares, wherein his honourable and free feet might be entangled.
+
+[12:8] For when he wondered that I, for whom he had no slight esteem, stuck so fast in the bird-lime of that pleasure as to affirm whenever we discussed the matter that it would be impossible for me to lead a single life, and urged in my defence when I saw him wonder that there was a vast difference between the life that he had tried by stealth and snatches (of which he had now but a faint recollection, and might therefore, without regret, easily despise), and my sustained acquaintance with it, whereto if but the honourable name of marriage were added, he would not then be astonished at my inability to contemn that course,—then began he also to wish to be married, not as if overpowered by the lust of such pleasure, but from curiosity.
+
+[12:9] For, as he said, he was anxious to know what that could be without which my life, which was so pleasing to him, seemed to me not life but a penalty.
+
+[12:10] For his mind, free from that chain, was astounded at my slavery, and through that astonishment was going on to a desire of trying it, and from it to the trial itself, and thence, perchance, to fall into that bondage whereat he was so astonished, seeing he was ready to enter into "a covenant with death;" and he that loves danger shall fall into it.
+
+[12:11] For whatever the conjugal honour be in the office of well-ordering a married life, and sustaining children, influenced us but slightly.
+
+[12:12] But that which did for the most part afflict me, already made a slave to it, was the habit of satisfying an insatiable lust; him about to be enslaved did an admiring wonder draw on.
+
+[12:13] In this state were we, until Thou, O most High, not forsaking our lowliness, commiserating our misery, didst come to our rescue by wonderful and secret ways.
+
+[13:1] Chapter XIII.
+
+[13:2] —Being Urged by His Mother to Take a Wife, He Sought a Maiden that Was Pleasing Unto Him.
+
+[13:3] Active efforts were made to get me a wife.
+
+[13:4] I wooed, I was engaged, my mother taking the greatest pains in the matter, that when I was once married, the health-giving baptism might cleanse me; for which she rejoiced that I was being daily fitted, remarking that her desires and Thy promises were being fulfilled in my faith.
+
+[13:5] At which time, verily, both at my request and her own desire, with strong heartfelt cries did we daily beg of Thee that Thou wouldest by a vision disclose unto her something concerning my future marriage; but Thou wouldest not.
+
+[13:6] She saw indeed certain vain and fantastic things, such as the earnestness of a human spirit, bent thereon, conjured up; and these she told me of, not with her usual confidence when Thou hadst shown her anything, but slighting them.
+
+[13:7] For she could, she declared, through some feeling which she could not express in words, discern the difference betwixt Thy revelations and the dreams of her own spirit.
+
+[13:8] Yet the affair was pressed on, and a maiden sued who wanted two years of the marriageable age; and, as she was pleasing, she was waited for.
+
+[14:1] Chapter XIV.
+
+[14:2] —The Design of Establishing a Common Household with His Friends is Speedily Hindered.
+
+[14:3] And many of us friends, consulting on and abhorring the turbulent vexations of human life, had considered and now almost determined upon living at ease and separate from the turmoil of men.
+
+[14:4] And this was to be obtained in this way; we were to bring whatever we could severally procure, and make a common household, so that, through the sincerity of our friendship, nothing should belong more to one than the other; but the whole, being derived from all, should as a whole belong to each, and the whole unto all.
+
+[14:5] It seemed to us that this society might consist of ten persons, some of whom were very rich, especially Romanianus, our townsman, an intimate friend of mine from his childhood, whom grave business matters had then brought up to Court; who was the most earnest of us all for this project, and whose voice was of great weight in commending it, because his estate was far more ample than that of the rest.
+
+[14:6] We had arranged, too, that two officers should be chosen yearly, for the providing of all necessary things, whilst the rest were left undisturbed.
+
+[14:7] But when we began to reflect whether the wives which some of us had already, and others hoped to have, would permit this, all that plan, which was being so well framed, broke to pieces in our hands, and was utterly wrecked and cast aside.
+
+[14:8] Thence we fell again to sighs and groans, and our steps to follow the broad and beaten ways of the world; for many thoughts were in our heart, but Thy counsel standeth for ever.
+
+[14:9] Out of which counsel Thou didst mock ours, and preparedst Thine own, purposing to give us meat in due season, and to open Thy hand, and to fill our souls with blessing.
+
+[15:1] Chapter XV.
+
+[15:2] —He Dismisses One Mistress, and Chooses Another.
+
+[15:3] Meanwhile my sins were being multiplied, and my mistress being torn from my side as an impediment to my marriage, my heart, which clave to her, was racked, and wounded, and bleeding.
+
+[15:4] And she went back to Africa, making a vow unto Thee never to know another man, leaving with me my natural son by her.
+
+[15:5] But I, unhappy one, who could not imitate a woman, impatient of delay, since it was not until two years' time I was to obtain her I sought,—being not so much a lover of marriage as a slave to lust,—procured another (not a wife, though), that so by the bondage of a lasting habit the disease of my soul might be nursed up, and kept up in its vigour, or even increased, into the kingdom of marriage.
+
+[15:6] Nor was that wound of mine as yet cured which had been caused by the separation from my former mistress, but after inflammation and most acute anguish it mortified, and the pain became numbed, but more desperate.
+
+[16:1] Chapter XVI.
+
+[16:2] —The Fear of Death and Judgment Called Him, Believing in the Immortality of the Soul, Back from His Wickedness, Him Who Aforetime Believed in the Opinions of Epicurus.
+
+[16:3] Unto Thee be praise, unto Thee be glory, O Fountain of mercies! I became more wretched, and Thou nearer.
+
+[16:4] Thy right hand was ever ready to pluck me out of the mire, and to cleanse me, but I was ignorant of it.
+
+[16:5] Nor did anything recall me from a yet deeper abyss of carnal pleasures, but the fear of death and of Thy future judgment, which, amid all my fluctuations of opinion, never left my breast.
+
+[16:6] And in disputing with my friends, Alypius and Nebridius, concerning the nature of good and evil, I held that Epicurus had, in my judgment, won the palm, had I not believed that after death there remained a life for the soul, and places of recompense, which Epicurus would not believe.
+
+[16:7] And I demanded, "Supposing us to be immortal, and to be living in the enjoyment of perpetual bodily pleasure, and that without any fear of losing it, why, then, should we not be happy, or why should we search for anything else?"—not knowing that even this very thing was a part of my great misery, that, being thus sunk and blinded, I could not discern that light of honour and beauty to be embraced for its own sake, which cannot be seen by the eye of the flesh, it being visible only to the inner man.
+
+[16:8] Nor did I, unhappy one, consider out of what vein it emanated, that even these things, loathsome as they were, I with pleasure discussed with my friends.
+
+[16:9] Nor could I, even in accordance with my then notions of happiness, make myself happy without friends, amid no matter how great abundance of carnal pleasures.
+
+[16:10] And these friends assuredly I loved for their own sakes, and I knew myself to be loved of them again for my own sake.
+
+[16:11] O crooked ways! Woe to the audacious soul which hoped that, if it forsook Thee, it would find some better thing! It hath turned and returned, on hack, sides, and belly, and all was hard, and Thou alone rest.
+
+[16:12] And behold, Thou art near, and deliverest us from our wretched wanderings, and stablishest us in Thy way, and dost comfort us, and say, "Run; I will carry you, yea, I will lead you, and there also will I carry you".
+

@@ -1,0 +1,1732 @@
+# Sulpitius Severus: Sacred History Book I
+
+[1:1] Sacred History, Book I:   Chapter I.
+
+[1:2] I address myself to give a condensed account of those things which are set forth in the sacred Scriptures from the beginning of the world and to tell of them, with distinction of dates and according to their importance, down to period within our own remembrance.
+
+[1:3] Many who were anxious to become acquainted with divine things by means of a compendious treatise, have eagerly entreated me to undertake this work.
+
+[1:4] I, seeking to carry out their wish, have not spared my labor, and have thus succeeded in comprising in two short books things which elsewhere filled many volumes.
+
+[1:5] At the same time, in studying brevity, I have omitted hardly any of the facts.
+
+[1:6] Moreover, it seemed to me not out of place that, after I had run through the sacred history down to the crucifixion of Christ, and the doings of the Apostles, I should add an account of events which subsequently took place.
+
+[1:7] I am, therefore, to tell of the destruction of Jerusalem, the persecutions of the Christian people, the times of peace which followed, and of all things again thrown into confusion by the intestine dangers of the churches.
+
+[1:8] But I will not shrink from confessing that, wherever reason required, I have made use of profane historians to fix dates and preserve the series of events unbroken, and have taken out of these what was wanting to a complete knowledge of the facts, that I might both instruct the ignorant and carry conviction to the learned.
+
+[1:9] Nevertheless, as to those things which I have condensed from the sacred books, I do not wish so to present myself as an author to my readers, that they, neglecting the source from which my materials have been derived, should be satisfied with what I have written.
+
+[1:10] My aim is that one who is already familiar with the original should recognize here what he has read there; for all the mysteries of divine things cannot be brought out except from the fountain-head itself.
+
+[1:11] I shall now enter upon my narrative.
+
+[2:1] Chapter II.
+
+[2:2] The world was created by God nearly six thousand years ago, as we shall set forth in the course of this book; although those who have entered upon and published a calculation of the dates, but little agree among themselves.
+
+[2:3] As, however, this disagreement is due either to the will of God or to the fault of antiquity, it ought not to be a matter of censure.
+
+[2:4] After the formation of the world man was created, the male being named Adam, and the female Eve.
+
+[2:5] Having been placed in Paradise, they ate of the tree from which they were interdicted, and therefore were cast forth as exiles into our earth.
+
+[2:6] To them were born Cain and Abel; but Cain, being an impious man, slew his brother.
+
+[2:7] He had a son called Enoch, by whom a city was first built, and was called after the name of its founder.
+
+[2:8] From him Irad, and from him again Maüiahel was descended.
+
+[2:9] He had a son called Mathusalam, and he, in turn, begat Lamech, by whom a young man is said to have been slain, without, however, the name of the slain man being mentioned—a fact which is thought by the wise to have presaged a future mystery.
+
+[2:10] Adam, then, after the death of his younger son, begat another son called Seth, when he was now two hundred and thirty years old: he lived altogether eight hundred and thirty years.
+
+[2:11] Seth begat Enos, Enos Cainan, Cainan Malaleel, Malaleel Jared, and Jared Enoch, who on account of his righteousness is said to have been translated by God.
+
+[2:12] His son was called Mathusalam who begat Lamech; from whom Noah was descended, remarkable for his righteousness, and above all other mortals dear and acceptable to God.
+
+[2:13] When by this time the human race had increased to a great multitude, certain angels, whose habitation was in heaven, were captivated by the appearance of some beautiful virgins, and cherished illicit desires after them, so much so, that falling beneath their own proper nature and origin, they left the higher regions of which they  were inhabitants, and allied themselves in earthly marriages.
+
+[2:14] These angels gradually spreading wicked habits, corrupted the human family, and from their alliance giants are said to have sprung, for the mixture with them of beings of a different nature, as a matter of course, gave birth to monsters.
+
+[3:1] Chapter III.
+
+[3:2] God being offended by these things, and especially by the wickedness of mankind, which had gone beyond measure, had determined to destroy the whole human race.
+
+[3:3] But he exempted Noah, a righteous man and of blameless life, from the destined doom.
+
+[3:4] He being warned by God that a flood was coming upon the earth, built an ark of wood of immense size, and covered it with pitch so as to render it impervious to water.
+
+[3:5] He was shut into it along with his wife, and his three sons and his three daughters-in-law.
+
+[3:6] Pairs of birds also and of the different kinds of beasts were likewise received into it, while all the rest were cut off by a flood.
+
+[3:7] Noah then, when he understood that the violence of the rain had ceased, and that the ark was quietly floating on the deep, thinking (as really was the case) that the waters were decreasing, sent forth first a raven for the purpose of enquiring into the matter, and on its not returning, having settled, as I conjecture, on the dead bodies, he then sent forth a dove.
+
+[3:8] It, not finding a place of rest, returned to him and being again sent out, it brought back an olive leaf, in manifest proof that the tops of the trees were now to be seen.
+
+[3:9] Then being sent forth a third time, it returned no more, from which it was understood that the waters had subsided; and Noah accordingly went out from the ark.
+
+[3:10] This was done, as I reckon, two thousand two hundred and forty-two years after the beginning of the world.
+
+[4:1] Chapter IV.
+
+[4:2] Then Noah first of all erected an altar to God, and offered sacrifices from among the birds.
+
+[4:3] Immediately afterwards he was blessed by God along with his sons, and received a command that he should not eat blood, or shed the blood of any human being, because Cain, having no such precept, had stained the first age of the world.
+
+[4:4] Accordingly, the sons of Noah were alone left in the then vacant world; for he had three, Shem, Ham, and Japhet.
+
+[4:5] But Ham, because he had mocked his father when senseless with wine, incurred his father's curse.
+
+[4:6] His son, Chas by name, begat the giant Nebroth, by whom the city of Babylon is said to have been built.
+
+[4:7] Many other towns are related to have been founded at that time, which I do not here intend to name one by one.
+
+[4:8] But although the human race was now multiplied, and men occupied different places and islands, nevertheless all made use of one tongue, as long as the multitude, afterwards to be scattered through the whole world, kept itself in one body.
+
+[4:9] These, after the manner of human nature, formed the design of obtaining a great name by constructing some great work before they should be separated from one another.
+
+[4:10] They therefore attempted to build a tower which should reach up to heaven.
+
+[4:11] But by the ordination of God, in order that the labors of those engaged in the work might be hindered, they began to speak in a kind of languages very different from their accustomed form of speech, while no one understood the others.
+
+[4:12] This led to their being all the more readily dispersed, because, regarding each other as foreigners, they were easily induced to separate.
+
+[4:13] And the world was so divided to the sons of Noah, that Shem occupied the East, Japhet the West, and Ham the intermediate parts.
+
+[4:14] After this, till the time of Abraham, their genealogy presented nothing very remarkable or worthy of record.
+
+[5:1] Chapter V.
+
+[5:2] Abraham, whose father was Thara, was born in the one thousand and seventeenth year after the deluge.
+
+[5:3] His wife was called Sara, and his dwelling-place was at first in the country of the Chaldaeans.
+
+[5:4] He then dwelt along with his father at Charrae.
+
+[5:5] Being at this time spoken to by God, he left his country and his father, and taking with him Lot, the son of his brother, he came into the country of the Canaanites, and settled at a place named Sychem.
+
+[5:6] Ere long, owing to the want of corn, he went into Egypt, and again returned.
+
+[5:7] Lot, owing to the size of the household, parted from his uncle, that he might take advantage of more spacious territories in what was then a vacant region, and settled at Sodom.
+
+[5:8] That town was infamous on account of its inhabitants, males forcing themselves upon males, and it is said on that account to have been hateful to God.
+
+[5:9] At that period the kings of the neighboring peoples were in arms, though previously there had been no war among mankind.
+
+[5:10] But the kings of Sodom and Gomorrah and of the adjacent territories went forth to battle against those who were making war upon the regions round about, and being routed at the first onset, yielded the victory to the opposite side.
+
+[5:11] Then Sodom was plundered and made a spoil of by the victorious enemy, while Lot was led into captivity.
+
+[5:12] When Abraham heard of this, he speedily armed his servants, to the number of three hundred and eighteen, and, stripping of their spoils and arms the kings flushed with victory, he put them to flight.
+
+[5:13] Then he was blessed by Melchisedech the priest, and gave him tithes of the spoil.
+
+[5:14] He restored the remainder to those from whom it had been taken.
+
+[6:1] Chapter VI.
+
+[6:2] At the same time God spoke to Abraham, and promised that his seed was to be multiplied as the sand of the sea; and that his predicted seed would live in a land not his own, while his posterity would endure slavery in a hostile country for four hundred years, but would afterwards be restored to liberty.
+
+[6:3] Then his name was changed, as well as that of his wife, by the addition of one letter; so that instead of Abram he was called Abraham, and, instead of Sara, she was called Sarra.
+
+[6:4] The mystery involved in this is by no means trifling, but it is not the part of this work to treat of it.
+
+[6:5] At the same time, the law of circumcision was enjoined on Abraham, and he had by a maid-servant a son called Ishmael.
+
+[6:6] Moreover, when he himself was a hundred years old, and his wife ninety, God promised that they should have a son Isaac, the Lord having come to him along with two angels.
+
+[6:7] Then the angels being sent to Sodom, found Lot sitting in the gate of the city.
+
+[6:8] He supposed them to be human beings, and welcomed them to share in his hospitality, and provided an entertainment for them in his house, but the wicked youth of the town demanded the new arrivals for impure purposes.
+
+[6:9] Lot offered them his daughters in place of his guests, but they did not accept the offer, having a desire rather for things forbidden, and then Lot himself was laid hold of with vile designs.
+
+[6:10] The angels, however, speedily rescued him from danger, by causing blindness to fall upon the eyes of these unchaste sinners.
+
+[6:11] Then Lot, being informed by his guests that the town was to be destroyed, went away from it with his wife and daughters; but they were commanded not to look back upon it.
+
+[6:12] His wife, however, not obeying this precept (in accordance with that evil tendency of human nature which renders it difficult to abstain from things forbidden), turned back her eyes, and is said to have been at once changed into a monument.
+
+[6:13] As for Sodom, it was burned to ashes by fire from heaven.
+
+[6:14] And the daughters of Lot, imagining that the whole human race had perished, sought a union with their father while he was intoxicated, and hence sprung the race of Moab and Ammon.
+
+[7:1] Chapter VII.
+
+[7:2] Almost at the same time, when Abraham was now a hundred years old, his son Isaac was born.
+
+[7:3] Then Sara expelled the maid-servant by whom Abraham had had a son; and she is said to have dwelt in the desert along with her son, and defended by the help of God.
+
+[7:4] Not long after this, God tried the faith of Abraham, and required that his son Isaac should be sacrificed to him by his father.
+
+[7:5] Abraham did not hesitate to offer him, and had already laid the lad upon the altar, and was drawing the sword to slay him, when a voice came from heaven commanding him to spare the young man; and a ram was found at hand to be for a victim.
+
+[7:6] When the sacrifice was offered, God spoke to Abraham, and promised him those things which he had already said he would bestow.
+
+[7:7] But Sara died in her one hundred and twenty-seventh year, and her body was, through the care of her husband, buried in Hebron, a town of the Canaanites, for Abraham was staying in that place.
+
+[7:8] Then Abraham, seeing that his son Isaac was now of youthful age, for he was, in fact, in his fortieth year, enjoined his servant to seek a wife for him, but only from that tribe and territory from which he himself was known to be descended.
+
+[7:9] He was instructed, however, on finding the girl, to bring her into the land of the Canaanites, and not to suppose that Isaac would return into the country of his father for the purpose of obtaining a wife.
+
+[7:10] In order that the servant might carry out those instructions zealously, Abraham administered an oath to him, while his hand rested on the thigh of his master.
+
+[7:11] The servant accordingly set out for Mesopotamia, and came to the town of Nachor, the brother of Abraham.
+
+[7:12] He entered into the house of Bathuel, the Syrian, son of Nachor; and having seen Rebecca, a beautiful virgin, the daughter of Nachor, he asked for her, and brought her to his master.
+
+[7:13] After this, Abraham took a wife named Kethurah, who is called in the Chronicles his concubine, and begat children by her.
+
+[7:14] But he left his possessions to Isaac, the son of Sara, while, at the same time, he distributed gifts to those whom he had begotten by his concubines; and thus they were separated from Isaac.
+
+[7:15] Abraham  died after a life of a hundred and seventy-five years; and his body was laid in the tomb of Sara his wife.
+
+[8:1] Chapter VIII.
+
+[8:2] Now, Rebecca, having long been barren, at length, through the unceasing prayers of her husband to the Lord, brought forth twins about twenty years after the time of her marriage.
+
+[8:3] These are said to have often leaped in the womb of their mother; and it was announced by the answer of the Lord on this subject, that two peoples were foretold in these children, and that the elder would, in rank, be inferior to the younger.
+
+[8:4] Well, the first that was born, bristling over with hair, was called Esau, while Jacob was the name given to the younger.
+
+[8:5] At that time, a grievous famine had taken place.
+
+[8:6] Under the pressure of this necessity, Isaac went to Gerar, to King Abimelech, having been warned by the Lord not to go down into Egypt.
+
+[8:7] There he is promised the possession of the whole land, and is blessed, and having been greatly increased in cattle and every kind of substance, he is, under the influence of envy, driven out by the inhabitants.
+
+[8:8] Thus expelled from that region, he sojourned by the well, known as "the well of the oath".
+
+[8:9] By and by, being advanced in years, and his eyesight being gone, as he made ready to bless his son Esau, Jacob through the counsel of his mother, Rebecca, presented himself to be blessed in the place of his brother.
+
+[8:10] Thus Jacob is set before his brother as the one to be honored by the princes and the peoples.
+
+[8:11] Esau, enraged by these occurrences, plotted the death of his brother.
+
+[8:12] Jacob, owing to the fear thus excited, and by the advice of his mother, fled into Mesopotamia, having been urged by his father to take a wife of the house of Laban, Rebecca's brother: so great was their care, while they dwelt in a strange country, that their children should marry within their own kindred.
+
+[8:13] Thus Jacob, setting out for Mesopotamia, is said in sleep to have had a vision of the Lord; and on that account regarding the place of his dream as sacred, he took a stone from it; and he vowed that, if he returned in prosperity, the name of the pillar should be the "house of the Lord," and that he would devote to God the tithes of all the possessions he had gained.
+
+[8:14] Then he betook himself to Laban, his mother's brother, and was kindly received by him to share in his hospitality as the acknowledged son of his sister.
+
+[9:1] Chapter IX.
+
+[9:2] Laban had two daughters, Leah and Rachel; but Leah had tender eyes, while Rachel is said to have been beautiful.
+
+[9:3] Jacob, captivated by her beauty, burned with love for the virgin, and, asking her in marriage from the father, gave himself up to a servitude of seven years.
+
+[9:4] But when the time was fulfilled, Leah was foisted upon him, and he was subjected to another servitude of seven years, after which Rachel was given him.
+
+[9:5] But we are told that she was long barren, while Leah was fruitful.
+
+[9:6] Of the sons whom Jacob had by Leah, the following are the names: Reuben, Symeon, Levi, Judah, Issachar, Zebulon, and a daughter Dinah; while there were born to him by the handmaid of Leah, Gad and Asher, and by the handmaid of Rachel, Dan and Naphtali.
+
+[9:7] But Rachel, after she had despaired of offspring, bare Joseph.
+
+[9:8] Then Jacob, being desirous of returning to his father, when Laban his father-in-law had given him a portion of the flock as a reward for his service, and Jacob the son-in-law, thinking him not to be acting justly in that matter, while he [also] suspected deceit on his part, privately departed about the thirtieth year after his arrival.
+
+[9:9] Rachel, without the knowledge of her husband, stole the idols of her father, and on account of this injury Laban followed his son-in-law, but not finding his idols, returned, after being reconciled, having straitly charged his son-in-law not to take other wives in addition to his daughters.
+
+[9:10] Then Jacob, going on his way, is said to have had a vision of angels and of the army of the Lord.
+
+[9:11] But, as he directed his journey past the region of Edom, which his brother Esau inhabited, suspecting the temper of Esau, he first sent messengers and gifts to try him.
+
+[9:12] Then he went to meet his brother, but Jacob took care not to trust him beyond what he could help.
+
+[9:13] On the day before the brothers were to meet, God, taking a human form, is said to have wrestled with Jacob.
+
+[9:14] And when he had prevailed with God, still he was not ignorant that his adversary was no mere mortal; and therefore begged to be blessed by him.
+
+[9:15] Then his name was changed by God, so that from Jacob he was called Israel.
+
+[9:16] But when he, in turn, inquired of God the name of God, he was told that that should not be asked after because it was wonderful.
+
+[9:17] Moreover, from that wrestling, the breadth of Jacob's thigh shrank.
+
+[10:1] Chapter X.
+
+[10:2] Israel, therefore, avoiding the house of his brother, sent forward his company to Salem, a town of the Shechemites, and there he pitched his tent on a spot which he had purchased.
+
+[10:3] Emor, a Chorraean prince, was the ruler of that town.
+
+[10:4] His son Sychem defiled Dinah, the daughter of Jacob by Leah.
+
+[10:5] Symeon and Levi, the brothers of Dinah, discovering this, cut off by a stratagem all those of the male sex in the town, and thus terribly avenged the injury done to their sister.
+
+[10:6] The town was plundered by the sons of Jacob, and all the spoil carried off.
+
+[10:7] Jacob is said to have been much displeased with these proceedings.
+
+[10:8] Soon after being instructed by God, he went to Bethel, and there erected an altar to God.
+
+[10:9] Then he fixed his tent in a part of the territory belonging to the tower Gader.
+
+[10:10] Rachel died in childbirth: the boy she bore was called Benjamin.
+
+[10:11] Israel died at the age of one hundred and eighty years.
+
+[10:12] Now, Esau was mighty in wealth, and had taken to himself wives of the nation of the Canaanites.
+
+[10:13] I do not think that, in a work so concise as the present, I am called upon to mention his descendants, and, if any one is curious on the subject, he may turn to the original.
+
+[10:14] After the death of his father, Jacob stayed on in the place where Isaac had lived.
+
+[10:15] His other sons occasionally left him along with the flocks, for the sake of pasturage, but Joseph and the little Benjamin remained at home.
+
+[10:16] Joseph was much beloved by his father, and on that account was hated by his brethren.
+
+[10:17] There was this further cause for their aversion, that by frequent dreams of his it seemed to be indicated that he would be greater than all of them.
+
+[10:18] Accordingly, having been sent by his father to inspect the flocks and pay a visit to his brothers, there seemed to them a fitting opportunity for doing him harm.
+
+[10:19] For, on seeing their brother, they took counsel to slay him.
+
+[10:20] But Reuben, whose mind shuddered at the contemplation of such a crime, opposing their plan, Joseph was let down into a well.
+
+[10:21] Afterwards, by the persuasions of Judah, they were brought to milder measures, and sold him to merchants, who were on their way to Egypt.
+
+[10:22] And by them he was delivered to Petifra, a governor of Pharaoh.
+
+[11:1] Chapter XI.
+
+[11:2] About this same time, Judah, the son of Jacob, took in marriage Sava, a woman of Canaan.
+
+[11:3] By her he had three sons,—Her, Onan, and Sela.
+
+[11:4] Her was allied by concubinage to Thamar.
+
+[11:5] On his death, Onan took his brother's wife; and he is related to have been destroyed by God, because he spilled his seed upon the earth.
+
+[11:6] Then Thamar, assuming the garb of a harlot, united with her brother-in-law, and bore him two sons.
+
+[11:7] But when she brought them forth, there was this remarkable fact, that, when on one of the boys being born, the midwife had bound his hand with a scarlet thread to indicate which of them was born first, he, drawing back again into the womb of his mother, was born the last boy of the two.
+
+[11:8] The names of Fares and Zarah were given to the children.
+
+[11:9] But Joseph, being kindly treated by the royal governor who had obtained him for a sum of money, and having been made manager of his house and family, had drawn the eyes of his master's wife upon himself through his remarkable beauty.
+
+[11:10] And as she was madly laboring under that base passion, she made advances to him oftener than once, and when he would not yield to her desires, she disgraced him by the imputation of a false crime, and complained to her husband that he had made an attempt upon her virtue.
+
+[11:11] Accordingly, Joseph was thrown into prison.
+
+[11:12] There were in the same place of confinement two of the king's servants, who made known their dreams to Joseph, and he, interpreting these as bearing upon the future, declared that one of them would be put to death, and the other would be pardoned.
+
+[11:13] And so it came to pass.
+
+[11:14] Well, after the lapse of two years, the king also had a dream.
+
+[11:15] And when this could not be explained by the wise men among the Egyptians, that servant of the king who was liberated from prison informs the king that Joseph was a wonderful interpreter of dreams.
+
+[11:16] Accordingly, Joseph was brought out of prison, and interpreted to the king his dream, to this effect, that, for the next seven years, there would be the greatest fertility in the land; but in those that followed, famine.
+
+[11:17] The king being alarmed by this terror, and seeing that there was a divine spirit in Joseph, set him over the department of food-supply, and made him equal with himself in the government.
+
+[11:18] Then Joseph, while corn was abundant throughout all Egypt, gathered together an immense quantity, and, by increasing the number of granaries, took measures against the future famine.
+
+[11:19] At that time, the hope and safety of Egypt were placed in him alone.
+
+[11:20] About the same period, Aseneh bore him two sons, Manasseh and Ephraim.
+
+[11:21] He himself, when he received the chief power from the king, was thirty years old; for he was sold by his brothers when he was seventeen years of age.
+
+[12:1] Chapter XII.
+
+[12:2] In the mean time, affairs having been well settled in Egypt to meet the famine, a grievous want of corn began to distress the world.
+
+[12:3] Jacob, constrained by this necessity, sent his sons into Egypt, keeping only Benjamin with himself at home.
+
+[12:4] Joseph, then, being at the head of affairs, and having complete power over the corn-supplies, his brothers come to him, and pay the same honor to him as to a king.
+
+[12:5] He, when he saw them, craftily concealed his recognition of them, and accused them of having come as enemies, subtly to spy out the land.
+
+[12:6] But he was annoyed that he did not see among them his brother Benjamin.
+
+[12:7] Matters, then, are brought to this point, that they promised he should be present, specially that he might be asked whether they had entered Egypt for the purpose of spying out the land.
+
+[12:8] In order to secure the fulfillment of this promise, Symeon was retained as hostage, while to them corn was given freely.
+
+[12:9] Accordingly, they returned, bringing Benjamin with them as had been arranged.
+
+[12:10] Then Joseph made himself known to his brothers to the shame of these evil-deservers.
+
+[12:11] Thus, he sent them home again, laden with corn, and presented with many gifts, forewarning them that there were still five years of famine to come, and advising them to come down with their father, their children, and their whole connections to Egypt.
+
+[12:12] So Jacob went down to Egypt, to the great joy of the Egyptians and of the king himself, while he was tenderly welcomed by his son.
+
+[12:13] That took place in the hundred and thirtieth year of the life of Jacob, and one thousand three hundred and sixty years after the deluge.
+
+[12:14] But from the time when Abraham settled in the land of the Canaanites, to that when Jacob entered Egypt, there are to be reckoned two hundred and fifteen years.
+
+[12:15] After this, Jacob, in the seventeenth year of his residence in Egypt, suffering severely from illness, entreated Joseph to see his remains placed in the tomb.
+
+[12:16] Then Joseph presented his sons to be blessed; and when this had been done, but so that he set the younger before the elder as to the value of the blessing given, Jacob then blessed all his sons in order.
+
+[12:17] He died at the age of one hundred and forty-seven years.
+
+[12:18] His funeral was of a most imposing character, and Joseph laid his remains in the tomb of his fathers.
+
+[12:19] He continued to treat his brothers with kindness, although, after the death of their father, they felt alarmed from a consciousness of the wrong they had done.
+
+[12:20] Joseph himself died in his one hundred and tenth year.
+
+[13:1] Chapter XIII.
+
+[13:2] It is almost incredible to relate how the Hebrews who had come down into Egypt so soon increased in numbers, and filled Egypt with their numerous descendants.
+
+[13:3] But on the death of the king, who kindly cherished them on account of the services of Joseph, they were kept down by the government of the succeeding kings.
+
+[13:4] For both the heavy labor of building cities was laid upon them, and because their abounding numbers were now feared, lest some day they should secure their independence by arms, they were compelled by a royal edict to drown their newly-born male children.
+
+[13:5] And no permission was granted to evade this cruel order.
+
+[13:6] Well, at that time, the daughter of Pharaoh found an infant in the river, and caused it to be brought up as her own son, giving the boy the name of Moses.
+
+[13:7] This Moses, when he had come to manhood, saw a Hebrew being assaulted by an Egyptian; and, filled with sorrow at the sight, he delivered his brother from injury, and killed the Egyptian with a stone.
+
+[13:8] Soon after, fearing punishment on account of what he had done, he fled into the land of Midian, and, taking up his abode with Jothor the priest of that district, he received his daughter Sepphora in marriage, who bore him two sons, Gersam and Eliezer.
+
+[13:9] At this epoch lived Job, who had acquired both the knowledge of God and all righteousness simply from the law of nature.
+
+[13:10] He was exceedingly rich, and on that account all the more illustrious, because he was neither corrupted by that wealth while it remained entire, nor perverted by it when it was lost.
+
+[13:11] For, when, through the agency of the devil, he was stripped of his goods, deprived of his children, and finally covered in his own person with terrible boils, he could not be broken down, so as, from impatience of his sufferings, in any way, to commit sin.
+
+[13:12] At length he obtained the reward of the divine approval, and being restored to health, he got back doubled all that he had lost.
+
+[14:1] Chapter XIV.
+
+[14:2] But the Hebrews, oppressed by the multiplied evils of slavery, directed their complaints to heaven, and cherished the hope of assistance from God.
+
+[14:3] Then, as Moses was feeding his sheep, suddenly a bush appeared to him burning, but, what was surprising, the flames did it no harm.
+
+[14:4] Astonished at such an extraordinary sight, he drew nearer to the bush, and immediately God spoke to him in words to this effect, that he was the Lord of Abraham, Isaac, and Jacob, and that he desired that their descendants, who were kept down under the tyranny of the Egyptians, should be delivered from their sufferings, and that he, therefore, should go to the king of Egypt, and present himself as a leader for restoring them to liberty.
+
+[14:5] When he hesitated, God strengthened him with power, and imparted to him the gift of working miracles.
+
+[14:6] Thus Moses, going into Egypt, after he had first performed miracles in the presence of his own people, and having associated his brother Aaron with him, went to the king, declaring that he had been sent by God, and that he now told him in the words of God to let the Hebrew people go.
+
+[14:7] But the king, affirming that he did not know the Lord, refused to obey the command addressed to him.
+
+[14:8] And when Moses, in proof that the orders he issued were from God, changed his rod into a serpent, and soon after convened all the water into blood, while he filled the whole land with frogs, as the Chaldaeans were doing similar things, the king declared that the wonders performed by Moses were simply due to the arts of magic, and not to the power of God, until the land was covered with stinging insects brought over it, when the Chaldaeans confessed that this was done by the divine majesty.
+
+[14:9] Then the king, constrained by his sufferings, called to him Moses and Aaron, and gave the people liberty to depart, provided that the calamity brought upon the kingdom were removed.
+
+[14:10] But, after the suffering was put an end to, his mind, having no control over itself returned to its former state, and did not allow the Israelites to depart, as had been agreed upon.
+
+[14:11] Finally, however, he was broken down and conquered by the ten plagues which were sent upon his person and his kingdom.
+
+[15:1] Chapter XV.
+
+[15:2] But on the day before the people went out of Egypt, being as yet unacquainted with dates, they were instructed by the command of God to acknowledge that month which was then passing by as the first of all months; and were told that the sacrifice of the day was to be solemnly and regularly offered in coming ages, so that, on the fourteenth day of the month, a lamb without blemish, one year old, should be slain as a victim, and that the door-posts should be sprinkled with its blood; that its flesh was wholly to be eaten, but not a bone of it was to be broken; that they should abstain from what was leavened for seven days, using only unleavened bread; and that they should hand down the observance to their posterity.
+
+[15:3] Thus the people went forth rich, both by their own wealth, and still more by the spoils of Egypt.
+
+[15:4] Their number had grown from those seventy-five Hebrews, who had first gone down into Egypt, to six hundred thousand men.
+
+[15:5] Now, there had elapsed from the time when Abraham first reached the land of the Canaanites a period of four hundred and thirty years, but from the deluge a period of five hundred and seventy-five years.
+
+[15:6] Well, as they went forth in haste, a pillar of cloud by day, and a pillar of fire by night, marched before them.
+
+[15:7] But since, owing to the fact that the gulf of the Red Sea lay between, the way led by the land of the Philistines, in order that an opportunity might not afterwards be offered to the Hebrews, shrinking from the desert, of returning into Egypt by a well-known road through a continuous land-journey, by the command of God they turned aside, and journeyed towards the Red Sea, where they stopped and pitched their camp.
+
+[15:8] When it was announced to the king that the Hebrew people, through mistaking the road, had come to have the sea right before them, and that they had no means of escape since the deep would prevent them, vexed and furious that so many thousand men should escape from his kingdom and power, he hastily led forth his army.
+
+[15:9] And already the arms, and standards, and the lines drawn up in the widespreading plains were visible, when, as the Hebrews were in a state of terror, and gazing up to heaven, Moses being so instructed by God, struck the sea with his rod, and divided it.
+
+[15:10] Thus a road was opened to the people as on firm land, the waters giving way on both sides.
+
+[15:11] Nor did the king of Egypt hesitate to follow the Israelites going forward, for he entered the sea where it had opened; and, as the waters speedily came together again, he, with all his host, was destroyed.
+
+[16:1] Chapter XVI.
+
+[16:2] Then Moses, exulting in the safety of his own people, and in the destruction of the enemy, by such a miracle, sang a song of praise to God, and the whole multitude, both of males and females, took part in it.
+
+[16:3] But, after they had entered the desert, and advanced a journey of three days, want of water distressed them; and, when it was found, it proved of no use on  account of its bitterness.
+
+[16:4] And then for the first time the stubbornness of the impatient people showed itself, and burst forth against Moses; when, as instructed by God, he cast some wood into the waters, and its power was such that it rendered the taste of the fluid sweet.
+
+[16:5] Thence advancing, the multitude found at Elim twelve fountains of waters, with seventy palm-trees, and there they encamped.
+
+[16:6] Again the people, complaining of famine, heaped reproaches upon Moses, and longed for the slavery of Egypt, accompanied as it was with abundance to please their appetite, when a flock of quails was divinely sent, and filled the camp.
+
+[16:7] Besides, on the following day, those who had gone forth from the camp perceived that the ground was covered with a sort of pods, the appearance of which was like a coriander-seed of snowy whiteness, as we often see the earth in the winter months covered with the hoar-frost that has been spread over it.
+
+[16:8] Then the people were informed, through Moses, that this bread had been sent them by the gift of God; that every one should gather in vessels prepared for the purpose only so much of it as would be sufficient for each, according to their number, during one day; but that on the sixth day they should gather double, because it was not lawful to collect it on the Sabbath.
+
+[16:9] The people, however, as they were never prone to obedience, did not, in accordance with human nature, restrain their desires, providing in their stores not merely for one, but also for the following day.
+
+[16:10] But that which was thus laid up swarmed with worms, while its fetid odor was dreadful, yet that which was laid up on the sixth day with a view to the Sabbath remained quite untainted.
+
+[16:11] The Hebrews made use of this food for forty years; its taste was very like that of honey; and its name is handed down as being manna.
+
+[16:12] Moreover, as an abiding witness to the divine gift, Moses is related to have laid up a full gomer of it in a golden vessel.
+
+[17:1] Chapter XVII.
+
+[17:2] The people going on from thence, and being again tried with want of water, hardly restrained themselves from destroying their leader.
+
+[17:3] Then Moses, under divine orders, striking with his rod the rock at the place which is called Horeb, brought forth an abundant supply of water.
+
+[17:4] But when they came to Raphidin, the Amalekites destroyed numbers of the people by their attacks.
+
+[17:5] Moses, leading out his men to battle, placed Joshua at the head of the army; and, in company with Aaron and Hur, was himself simply to be a spectator of the fight, while, at the same time, for the purpose of praying to the Lord, he went up to the top of a mountain.
+
+[17:6] But when the armies had met with doubtful issue, through the prayers of Moses, Joshua slew the enemy until nightfall.
+
+[17:7] At the same time, Jothor, Moses' father-in-law, with his daughter Sepphora (who, having been married to Moses, had remained at home when her husband went into Egypt), and his children, having learned the things which were being done by Moses, came to him.
+
+[17:8] By his advice Moses divided the people into various ranks; and, setting tribunes, centurions, and decurions over them, thus furnished a mode of discipline and order to posterity.
+
+[17:9] Jothor then returned to his own country, while the Israelites came on to Mount Sinai.
+
+[17:10] There Moses was admonished by the Lord that the people should be sanctified, since they were to hearken to the words of God; and that was carefully seen to.
+
+[17:11] But when God rested on the mountain, the air was shaken with the loud sounds of trumpets, and thick clouds rolled around with frequent flashes of lightning.
+
+[17:12] But Moses and Aaron were on the top of the mountain beside the Lord, while the people stood around the bottom of the mountain.
+
+[17:13] Thus a law was given, manifold and full of the words of God, and frequently repeated; but if any one is desirous of knowing particulars regarding it, he must consult the original, as we here only briefly touch upon it.
+
+[17:14] "There shall not be," said God, "any strange gods among you, but ye shall worship me alone; thou shalt not make to time any idol; thou shalt not take the name of thy God in vain; thou shalt do no work upon the Sabbath; honor thy father and thy mother; thou shalt not kill; thou shalt not commit adultery; thou shalt not steal; thou shalt not bear false witness against thy neighbor; thou shalt not covet anything belonging to thy neighbor".
+
+[18:1] Chapter XVIII.
+
+[18:2] These things being said by God, while the trumpets uttered their voices, the lamps blazed, and smoke covered the mountain, the people trembled from terror; and begged of Moses that God should speak to him alone, and that he would report to the people what he thus heard.
+
+[18:3] Now, the commandments of God to Moses were as follows: A Hebrew servant purchased with money shall serve six years, and after that he shall be free; but his ear shall be bored, should he willingly remain in slavery.
+
+[18:4] Whosoever slays a man shall be put to death;  he who does so unwittingly shall in due form be banished.
+
+[18:5] Whosoever shall beat his father or his mother, and utter evil sayings against them, shall suffer death.
+
+[18:6] If any one sell a Hebrew who has been stolen, he shall be put to death.
+
+[18:7] If any one strike his own man-servant or maidservant, and he or she die of the blow, he shall be put on his trial for doing so.
+
+[18:8] If any one cause a woman to miscarry, he shall be put to death.
+
+[18:9] If any one knock out the eye or the tooth of his servant, that servant shall receive his liberty in due form.
+
+[18:10] If a bull kill a man, it shall be stoned; and if its master, knowing the vicious temper of the animal, did not take precautions in connection with it, he also shall be stoned, or shall redeem himself by a price as large as the accuser shall demand.
+
+[18:11] If a bull kill a servant, money to the amount of thirty double-drachmas shall be paid to his master.
+
+[18:12] If any one does not cover up a pit which has been dug, and an animal fall into that pit, he shall pay the price of the animal to its master.
+
+[18:13] If a bull kill the bull of another man, the animal shall be sold, and the two masters shall share the price; they shall also divide the animal that has been killed.
+
+[18:14] But if a master, knowing the vicious temper of the bull, did not take precautions in connection with it, he shall give up the bull.
+
+[18:15] If any one steals a calf, he shall restore five; if he steals a sheep, the penalty shall be fourfold; and if the animals be found alive in the hands of him who drove them off, he shall restore double.
+
+[18:16] It shall be lawful to kill a thief by night, but not one by day.
+
+[18:17] If the cattle of any one has eaten up the corn of another, the master of the cattle shall restore what has been destroyed.
+
+[18:18] If a deposit disappears, he, in whose hands it was deposited, shall swear that he has not been guilty of any deceit.
+
+[18:19] A thief who is caught shall pay double.
+
+[18:20] An animal given in trust, if devoured by a wild beast, shall not be made good.
+
+[18:21] If any one defile a virgin not yet betrothed, he shall bestow a dowry on the girl, and thus take her to wife; but, if the father of the girl shall refuse to give her in marriage, then the ravisher shall give her a dowry.
+
+[18:22] If any one shall join himself to a beast, he shall be put to death.
+
+[18:23] Let him who sacrifices to idols perish.
+
+[18:24] The widow and orphan are not to be oppressed; the poor debtor is not to be hardly treated, nor is usury to be demanded: the garment of the poor is not to be taken as a pledge.
+
+[18:25] A ruler of the people is not to be evil spoken of.
+
+[18:26] All the first-born are to be offered to God.
+
+[18:27] Flesh taken from a wild beast is not to be eaten.
+
+[18:28] Agreements to bear false witness, or for any evil purpose, are not to be made.
+
+[18:29] Thou shalt not pass by any animal of thine enemy which has strayed, but shalt bring it back.
+
+[18:30] If you find an animal of your enemy fallen down under a burden, it will be your duty to raise it up.
+
+[18:31] Thou shalt not slay the innocent and the righteous.
+
+[18:32] Thou shalt not justify the wicked for rewards.
+
+[18:33] Gifts are not to be accepted.
+
+[18:34] A stranger is to be kindly treated.
+
+[18:35] Work is to be done on six days: rest is to be taken on the Sabbath.
+
+[18:36] The crops of the seventh year are not to be reaped, but are to be left for the poor and needy.
+
+[19:1] Chapter XIX.
+
+[19:2] Moses reported these words of God to the people, and placed an altar of twelve stones at the foot of the mountain.
+
+[19:3] Then he again ascended the mountain on which the Lord had taken his place, bringing with him Aaron, Nabad, and seventy of the elders.
+
+[19:4] But these were not able to look upon the Lord; nevertheless, they saw the place in which God stood, whose form is related to have been wonderful, and his splendor glorious.
+
+[19:5] Now, Moses, having been called by God, entered the inner cloud which had gathered round about God, and is related to have remained there forty days and forty nights.
+
+[19:6] During this time, he was taught in the words of God about building the tabernacle and the ark, and about the ritual of sacrifice-things which I, as they were obviously told at great length, have not thought proper to be inserted in such a concise work as the present.
+
+[19:7] But as Moses stayed away a long time, since he spent forty days in the presence of the Lord, the people, despairing of his return, compelled Aaron to construct images.
+
+[19:8] Then, out of metals which had been melted together, there came forth the head of a calf.
+
+[19:9] The people, unmindful of God, having offered sacrifices to this, and given themselves up to eating and drinking, God, looking upon these things, would in his righteous indignation, have destroyed the wicked people, had he not been entreated by Moses' not to do so.
+
+[19:10] But Moses, on his return, bringing down the two tables of stone which had been written by the hand of God, and seeing the people devoted to luxury and sacrilege, broke the tables, thinking the nation unworthy of having the law of the Lord delivered to them.
+
+[19:11] He then called around himself the Levites, who had been assailed with many insults, and commanded them to smite the people with drawn swords.
+
+[19:12] In this onset twenty-three thousand men are said to have been slain.
+
+[19:13] Then Moses set up the tabernacle outside the camp; and, as often  as he entered it, the pillar of cloud was observed to stand before the door; and God spoke, face to face, with Moses.
+
+[19:14] But when Moses entreated that he might see the Lord in his peculiar majesty, he was answered that the form of God could not be seen by mortal eyes; yet it was allowed to see his back parts; and the tables which Moses had formerly broken were constructed afresh.
+
+[19:15] And Moses is reported, during this conference with God, to have stayed forty days with the Lord.
+
+[19:16] Moreover, when he descended from the mountain, bringing with him the tables, his face shone with so great brightness, that the people were not able to look upon him.
+
+[19:17] It was arranged, therefore, that when he was to make known to them the commands of God, he covered his face with a veil, and thus spoke to the people in the words of God.
+
+[19:18] In this part of the history an account is given of the tabernacle, and the building of its inner parts.
+
+[19:19] Which having been finished, the cloud descended from above, and so overshadowed the tabernacle that it prevented Moses himself from entering.
+
+[19:20] These are the principal matters contained in the two books of Genesis and Exodus.
+
+[20:1] Chapter XX.
+
+[20:2] Then follows the book of Leviticus, in which the precepts bearing upon sacrifice are set forth; commandments also are added to the law formerly given; and almost the whole is full of instructions connected with the priests.
+
+[20:3] If any one wishes to become acquainted with these, he will obtain fuller information from that source.
+
+[20:4] For we, keeping within the limits of the work undertaken, touch upon the history only.
+
+[20:5] The tribe of Levi, then, being set apart for the priesthood, the rest of the tribes were numbered, and were found to amount to six hundred and three thousand five hundred persons.
+
+[20:6] When, therefore, the people made use of the manna for food, as we have related above, even amid so many and so great kindnesses of God, showing themselves, as ever, ungrateful, they longed after the worthless viands to which they had been accustomed in Egypt.
+
+[20:7] Then the Lord brought an enormous supply of quails into the camp; and as they were eagerly tearing these to pieces, as soon as their lips touched the flesh, they perished.
+
+[20:8] There was indeed on that day a great destruction in the camp, so that twenty and three thousand men are said to have died.
+
+[20:9] Thus the people were punished by the very food which they desired.
+
+[20:10] Thence the company went forward, and came to Faran; and Moses was instructed by the Lord that the land was now near, the possession of which the Lord had promised them.
+
+[20:11] Spies, accordingly, having been sent into it, they report that it was a land blessed with all abundance, but that the nations were powerful, and the towns fortified with immense walls.
+
+[20:12] When this was made known to the people, fear seized the minds of all; and to such a pitch of wickedness did they come, that, despising the authority of Moses, they prepared to appoint for themselves a leader, under whose guidance they might return to Egypt.
+
+[20:13] Then Joshua and Caleb, who had been of the number of the spies, rent their garments with tears, and implored the people not to believe the spies relating such terrors; for that they themselves had been with them, and had found nothing dreadful in that country; and that it behooved them to trust the promises of God, that these enemies would rather become their prey than prove their destruction.
+
+[20:14] But that stiff-necked race, setting themselves against every good advice, rushed upon them to destroy them.
+
+[20:15] And the Lord, angry on account of these things, exposed a part of the people to be slain by the enemy, while the spies were slain for having excited fear among the people.
+
+[21:1] Chapter XXI.
+
+[21:2] There followed the revolt of those, who, with Dathan and Abiron as leaders, endeavored to set themselves up against Moses and Aaron; but the earth, opening, swallowed them alive.
+
+[21:3] And not long after, a revolt of the whole people arose against Moses and Aaron, so that they rushed into the tabernacle, which it was not lawful for any but the priests to enter.
+
+[21:4] Then truly death mowed them down in heaps; and all would have perished in a moment, had not the Lord, appeased by the prayers of Moses, turned aside the disaster.
+
+[21:5] Nevertheless, the number of those slain amounted to seven hundred and fourteen thousand.
+
+[21:6] And not long after, as had already often happened, a revolt of the people arose on account of the want of water.
+
+[21:7] Then Moses, instructed by God to strike the rock with his rod, with a kind of trial new familiar to him, since he had already done that before, struck the rock once and again, and thus water flowed out of it.
+
+[21:8] In regard, however, to this point, Moses is said to have been reproved by God, that, through want of faith, he did not bring out the water except by repeated blows; in fact, on account of this transgression, he did not enter the land promised to him, as I shall show farther on.
+
+[21:9] Moses, then, moving away from that place, as he was preparing to lead his  company along by the borders of Edom, sent ambassadors to the king to beg liberty to pass by; for he thought it right to abstain from war on account of the connection by blood; for that nation was descended from Esau.
+
+[21:10] But the king despised the suppliants, and refused them liberty to pass by, being ready to contend in arms.
+
+[21:11] Then Moses directed his march towards the mountain, Or, keeping clear of the forbidden road, that he might not furnish any cause of war between those related by blood, and on that route he destroyed the king of the nation of the Canaanites.
+
+[21:12] He smote also Seon the king of the Amorites, and possessed himself of all their towns: he conquered, too, Basan and Balac.
+
+[21:13] He pitched his camp beyond Jordan, not far from Jericho.
+
+[21:14] Then a battle took place against the Midianites, and they were conquered and subdued.
+
+[21:15] Moses died, after he had ruled the people forty years in the wilderness.
+
+[21:16] But the Hebrews are said to have remained in the wilderness for so long a time, with this view, until all those who had not believed the words of God perished.
+
+[21:17] For, except Joshua and Caleb, not one of those who were more than twenty years old on leaving Egypt passed over Jordan.
+
+[21:18] That Moses himself only saw the promised land, and did not reach it, is ascribed to his sin, because, at that time when he was ordered to strike the rock, and bring forth water, he doubted, even after so many proofs of his miraculous power.
+
+[21:19] He died in the one hundred and twentieth year of his age.
+
+[21:20] Nothing is known concerning the place of his burial.
+
+[22:1] Chapter XXII.
+
+[22:2] After the death of Moses, the chief power passed into the hands of Joshua the son of Nun, for Moses had appointed him his successor, being a man very like himself in the good qualities which he displayed.
+
+[22:3] Now, at the commencement of his rule, he sent messengers through the camp to instruct the people to make ready supplies of corn, and announces that they should march on the third day.
+
+[22:4] But the river Jordan, a very powerful stream, hindered their crossing, because they did not have a supply of vessels for the occasion, and the stream could not be crossed by fords, as it was then rushing on in full flood.
+
+[22:5] He, therefore, orders the ark to be carried forward by the priests, and that they should take their stand against the current of the river.
+
+[22:6] On this being done, Jordan is said to have been divided, and thus the army was led over on dry ground.
+
+[22:7] There was in these places a town called Jericho, fortified with very strong walls, and not easy to be taken, either by storm or blockade.
+
+[22:8] But Joshua, putting his trust in God, did not attack the city either by arms or force; he simply ordered the ark of God to be carried round the walls, while the priests walked before the ark, and sounded trumpets.
+
+[22:9] But when the ark had been carried round seven times, the walls and the towers fell; and the city was plundered and burnt.
+
+[22:10] Then Joshua is said to have addressed the Lord, and to have called down a curse upon any one who should attempt to restore the town which had thus by divine help been demolished.
+
+[22:11] Next, the army was led against Geth, and an ambuscade having been placed behind the city, Joshua, pretending fear, fled before the enemy.
+
+[22:12] On seeing this, those who were in the town, opening the gates, began to press upon the enemy giving way.
+
+[22:13] Thus, the men who were in ambush took the city, and all the inhabitants were slain, without one escaping: the king also was taken, and suffered capital punishment.
+
+[23:1] Chapter XXIII.
+
+[23:2] When this became known to the kings of the neighboring nations, they made a warlike alliance to put down the Hebrews by arms.
+
+[23:3] But the Gibeonites, a powerful nation with a wealthy city, spontaneously yielded to the Hebrews, promising to do what they were ordered, and were received under protection, while they were told to bring in wood and water.
+
+[23:4] But their surrender had roused the resentment of the kings of the nearest cities.
+
+[23:5] Accordingly, moving up their troops, they surround with a blockade their town, which was called Gabaoth.
+
+[23:6] The townspeople, therefore, in their distress, send messengers to Joshua, that he would help them in their state of siege.
+
+[23:7] Accordingly, he by a forced march came upon the enemy at unawares, and many thousands of them were completely destroyed.
+
+[23:8] When day failed the victors, and it seemed that night would furnish protection to the vanquished, the Hebrew general, through the power of his faith, kept off the night, and the day continued, so that there was no means of escape for the enemy.
+
+[23:9] Five kings who were taken suffered death.
+
+[23:10] By the same attack, neighboring cities also were brought under the power of Joshua, and their kings were cut off.
+
+[23:11] But as it was not my design, studious as I am of brevity, to follow out all these things in order, I only carefully observe this, that twenty-nine kingdoms were brought under the yoke of the Hebrews, and that their territory was distributed among eleven tribes, to man after man.
+
+[23:12] For to the Levites, who had been set apart for the priesthood, no portion was given, in order that they might the more freely serve God.
+
+[23:13] I desire not, in silence, to pass over the example thus set, but I would earnestly bring it forward as well worthy of being read by the ministers of the Church.
+
+[23:14] For these seem to me not only unmindful of this precept, but even utterly ignorant of it—such a lust for possessing has, in this age, seized, like an incurable disease, upon their minds.
+
+[23:15] They gape upon possessions; they cultivate estates; they repose upon gold; they buy and sell; they study gain by every possible means.
+
+[23:16] And even, if any of them seem to have a better aim in life, neither possessing nor trading, still (what is much more disgraceful) remaining inactive, they look for gifts, and have corrupted the whole glory of life by their mercenary dispositions, while they present an appearance of sanctity, as if even that might be made a source of gain.
+
+[23:17] But I have gone farther than I intended in expressing my loathing and disgust over the character of our times; and I hasten to return to the subject in hand.
+
+[23:18] The vanquished territory, then, as I have already said, having been divided among the tribes, the Hebrews enjoyed profound peace; their neighbors, being terrified by war, did not venture to attempt hostilities against those distinguished by so many victories.
+
+[23:19] At the same period died Joshua in the hundred and tenth year of his age.
+
+[23:20] I do not express any definite opinion as to the length of time he ruled: the prevalent view, however, is, that he was at the head of the Hebrew affairs during twenty-seven years.
+
+[23:21] If this were so, then three thousand eight hundred and eighty-four years had elapsed from the beginning of the world to his death.
+
+[24:1] Chapter XXIV.
+
+[24:2] After the death of Joshua, the people acted without a leader.
+
+[24:3] But a necessity of making war with the Canaanites having arisen, Judah was appointed as general in the war.
+
+[24:4] Under his guidance, matters were successfully conducted: there was the greatest tranquillity both at home and abroad: the people ruled over the nations which had either been subdued or received under terms of surrender.
+
+[24:5] Then, as almost always happens in a time of prosperity, becoming unmindful of morals and discipline, they began to contract marriages from among the conquered, and by and by to adopt foreign customs, yea, even in a sacrilegious manner to offer sacrifice to idols: so pernicious is all alliance with foreigners.
+
+[24:6] God, foreseeing these things long before, had, by a wholesome precept enjoined upon the Hebrews to give over the conquered nations to utter destruction.
+
+[24:7] But the people, through lust for power, preferred (to their own ruin) to rule over those who were conquered.
+
+[24:8] Accordingly, when, forsaking God, they worshiped idols, they were deprived of the divine assistance, and, being vanquished and subdued by the king of Mesopotamia, they paid the penalty of eight years' captivity, until, with Gothoniel as their leader, they were restored to liberty, and enjoyed independence for fifty years.
+
+[24:9] Then again, corrupted by the evil effect of a lengthened peace, they began to sacrifice to idols.
+
+[24:10] And speedily did retribution fall upon them thus sinning.
+
+[24:11] Conquered by Eglon, king of the Moabites, they served him eighteen years, until, by a divine impulse, Aod slew the enemies' king by a stratagem, and, gathering together a hasty army, restored them to liberty by force of arms.
+
+[24:12] The same man ruled the Hebrews in peace for forty years.
+
+[24:13] To him Semigar succeeded, and he, engaging in battle with the Philistines, secured a decisive victory.
+
+[24:14] But again, the king of the Canaanites, Jabin by name, subdued the Hebrews who were once more serving idols, and exercised over them a grievous tyranny for twenty years, until Deborah, a woman, restored them to their former condition.
+
+[24:15] They had to such a degree lost confidence in their generals, that they were now protected by means of a woman.
+
+[24:16] But it is worthy of notice, that this form of deliverance was arranged beforehand, as a type of the Church, by whose aid captivity to the devil is escaped.
+
+[24:17] The Hebrews were forty years under this leader or judge.
+
+[24:18] And being again delivered over to the Midianites for their sins, they were kept under hard rule; and, being afflicted by the evils of slavery, they implored the divine help.
+
+[24:19] Thus always when in prosperity they were unmindful of the kindnesses of heaven, and prayed to idols; but in adversity they cried to God.
+
+[24:20] Wherefore, as often as I reflect that those people who lay under so many obligations to the goodness of God, being chastised with so many disasters when they sinned, and experiencing both the mercy and the severity of God, yet were by no means rendered better, and that, though they always obtained pardon for their transgressions, yet they as constantly sinned again after being pardoned, it can appear nothing wonderful that Christ when he came was not received by them, since already, from the beginning, they were found so often rebelling against the Lord.
+
+[24:21] It is, in fact, far more wonderful that the clemency of God never failed them when they sinned, if only they called upon his name.
+
+[25:1] Chapter XXV.
+
+[25:2] Accordingly, when the Midianites, as we have related above, ruled over them, they turned to the Lord, imploring his wonted tender mercy, and obtained it.
+
+[25:3] There was then among the Hebrews one Gideon by name, a righteous man who was dear and acceptable to God.
+
+[25:4] The angel stood by him as he was returning home from the harvest-field, and said unto him, "The Lord is with thee, thou mighty man of valor".
+
+[25:5] But he in a humble voice complained that the Lord was not with him, because captivity pressed sore upon his people, and he remembered with tears the miracles wrought by the Lord, who had brought them out of the land of Egypt.
+
+[25:6] Then the angel said, "Go, in this spirit in which you have spoken, and deliver the people from captivity".
+
+[25:7] But he declared that he could not, with his feeble strength, since he was a man of very small importance, undertake such a heavy task.
+
+[25:8] The angel, however, persisted in urging him not to doubt that those things could be done which the Lord said.
+
+[25:9] So then, having offered sacrifice, and overthrown the altar which the Midianites had consecrated to the image of Baal, he went to his own people, and pitched his camp near the camp of the enemy.
+
+[25:10] But the nation of the Amalekites had also joined themselves to the Midianites, while Gideon had not gathered more than an army of thirty-two thousand men.
+
+[25:11] But before the battle began, God said to him that this was a larger number than he wished him to lead forth to the conflict; that, if he did make use of so many, the Hebrews would, in accordance with their usual wickedness ascribe the result of the fight, not to God, but to their own bravery; he should therefore furnish an opportunity of leaving to those who desired to do so.
+
+[25:12] When this was made known to the people, twenty and two thousand left the camp.
+
+[25:13] But of the ten thousand who had remained, Gideon, as instructed by God, did not retain more than three hundred: the rest he dismissed from the field.
+
+[25:14] Thus, entering the camp of the enemy in the middle watch of the night, and having ordered all his men to sound their trumpets, he caused great terror to the enemy; and no one had courage to resist; but they made off in a disgraceful flight wherever they could.
+
+[25:15] The Hebrews, however, meeting them in every direction, cut the fugitives to pieces.
+
+[25:16] Gideon pursued the kings beyond Jordan, and having captured them, gave them over to death.
+
+[25:17] In that battle, a hundred and twenty thousand of the enemy are said to have been slain, and fifteen thousand captured.
+
+[25:18] Then, by universal consent, a proposal was made to Gideon that he should be king of the people.
+
+[25:19] But he rejected this proposal, and preferred rather to live on equal terms with his fellow-citizens than to be their ruler.
+
+[25:20] Having, therefore, escaped from their captivity, which had pressed upon the people for seven years, they now enjoyed peace for a period of forty years.
+
+[26:1] Chapter XXVI.
+
+[26:2] But on the death of Gideon, his son Abimelech, whose mother was a concubine, having slain his brothers with the concurrence of a multitude of wicked men, and especially by the help of the chief men among the Shechemites, took possession of the kingdom.
+
+[26:3] And he, being harassed by civil strife, while he pressed hard upon his people by war, attempted to storm a certain tower, into which they, after losing the town, had betaken themselves by flight.
+
+[26:4] But, as he approached the place without sufficient caution, he was slain by a stone which a woman threw, after holding the government for three years.
+
+[26:5] To him succeeded Thola, who reigned two and twenty years.
+
+[26:6] After him came Jair; and after he had held the chief place for a like period of twenty-two years, the people, forsaking God, gave themselves up to idols.
+
+[26:7] On this account, the Israelites were subdued by the Philistines and Ammonites, and remained under their power for eighteen years.
+
+[26:8] At the end of this period, they began to call upon God; but the divine answer to them was that they should rather invoke the aid of their images, for that he would no longer extend his mercy to those who had been so ungrateful.
+
+[26:9] But they with tears confessed their fault, and implored forgiveness; while, throwing away their idols, and earnestly calling upon God, they obtained the divine compassion, though it had been at first refused.
+
+[26:10] Accordingly, under Jephtha as general, they assembled in great numbers for the purpose of recovering their liberty by arms, having first sent ambassadors to King Ammon, begging that, content with his own territories, he should keep from warring against them.
+
+[26:11] But he, far from declining battle, at once drew up his army.
+
+[26:12] Then Jephtha, before the signal for battle was given, is said to have vowed that, if he obtained the victory, the person who first met him as he returned home, should be offered to God as a sacrifice.
+
+[26:13] Accordingly, on the enemy being defeated, as Jephtha was returning home, his daughter met him, having joyfully gone forth with drums and dances to receive her father as a conqueror.
+
+[26:14] Then Jephtha, being overwhelmed with sorrow, rent his clothes in his affliction, and made known to his daughter the stringent  obligation of his vow.
+
+[26:15] But she, with a courage not to be expected from a woman, did not refuse to die; she only begged that her life might be spared for two months, that she might before dying have the opportunity of seeing the friends of her own age.
+
+[26:16] This being done, she willingly returned to her father, and fulfilled the vow to God.
+
+[26:17] Jephtha held the chief power for six years.
+
+[26:18] To him Esebon succeeded, and having ruled in tranquillity for seven years, then died.
+
+[26:19] After him, Elon the Zebulonite ruled for ten years, and Abdon also for eight years; but, as their rule was peaceful, they performed nothing which history might record.
+
+[27:1] Chapter XXVII.
+
+[27:2] The Israelites yet again turned to idols; and, being deprived of the divine protection, were subdued by the Philistines, and paid the penalty of their unfaithfulness by forty years of captivity.
+
+[27:3] At that time, Samson is related to have been born.
+
+[27:4] His mother, after being long barren, had a vision of an angel, and was told to abstain from wine, and strong drink, and everything unclean; for that she should bear a son who would be the restorer of liberty to the Israelites, and their avenger upon their enemies.
+
+[27:5] He, with unshorn locks, is said to have been possessed of marvelous strength, so much so that he tore to pieces with his hands a lion which met him in the way.
+
+[27:6] He had a wife from the Philistines, and when she, in the absence of her husband, had entered into marriage with another, he, through indignation on account of his wife being thus taken from him, wrought destruction to her nation.
+
+[27:7] Trusting in God and his own strength, he openly brought disaster on those hitherto victors.
+
+[27:8] For, catching three hundred foxes, he tied burning torches to their tails, and sent them into the fields of the enemy.
+
+[27:9] It so happened that at the time the harvest was ripe, and thus the fire easily caught, while the vines and olive-trees were burnt to ashes.
+
+[27:10] He was thus seen to have avenged the injury done him in taking away his wife, by a great loss inflicted on the Philistines.
+
+[27:11] And they, enraged at this disaster, destroyed by fire the woman who had been the cause of so great a calamity, along with her house and her father.
+
+[27:12] But Samson, thinking himself as yet but poorly avenged, ceased not to harass the heathen race with all sorts of evil devices.
+
+[27:13] Then the Jews, being compelled to it, handed him over as a prisoner to the Philistines; but, when thus handed over, he burst his bonds and seizing the jaw-bone of an ass, which chance offered him as a weapon, he slew a thousand of his enemies.
+
+[27:14] And, as the heat of the day grew violent, and he began to suffer from thirst, he called upon God, and water flowed forth from the bone which he held in his hand.
+
+[28:1] Chapter XXVIII.
+
+[28:2] At that time Samson ruled over the Hebrews, the Philistines having been subdued by the prowess of a single individual.
+
+[28:3] They, therefore, sought his life by stratagem, not daring to assail him openly, and with this view they bribe his wife (whom he had received after what has been stated took place) to betray to them wherein the strength of her husband lay.
+
+[28:4] She attacked him with female blandishments; and, after he had deceived her, and staved off her purpose for a long time, she persuaded him to tell that his strength was situated in his hair.
+
+[28:5] Presently she cut off his hair stealthily while he was asleep, and thus delivered him up to the Philistines; for although he had often before been given up to them, they had not been able to hold him fast.
+
+[28:6] Then they, having put out his eyes, bound him with fetters, and cast him into prison.
+
+[28:7] But, in course of time, his hair which had been cut off began to grow again, and his strength to return with it.
+
+[28:8] And now Samson, conscious of his recovered strength, was only waiting for an opportunity of righteous revenge.
+
+[28:9] The Philistines had a custom on their festival days of producing Samson as if to make a public spectacle of him, while they mocked their illustrious captive.
+
+[28:10] Accordingly, on a certain day, when they were making a feast in honor of their idol, they ordered Samson to be exhibited.
+
+[28:11] Now, the temple, in which all the people and all the princes of the Philistines feasted, rested on two pillars of remarkable size; and Samson, when brought out, was placed between these pillars.
+
+[28:12] Then he, having first called upon the Lord, seized his opportunity, and threw down the pillars.
+
+[28:13] The whole multitude was overwhelmed in the ruins of the building, and Samson himself died along with his enemies, not without having avenged himself upon them, after he had ruled the Hebrews twenty years.
+
+[28:14] To him Simmichar succeeded, of whom Scripture relates nothing more than that simple fact.
+
+[28:15] For I do not find that even the time when his rule came to an end is mentioned, and I see that the people was for some time without a leader.
+
+[28:16] Accordingly, when civil war arose against the tribe of Benjamin, Judah was chosen as a temporary leader in the war.
+
+[28:17] But most of those who have written about these times note that his rule was only for a single year.
+
+[28:18] On this account, many pass him by altogether, and place Eli, the priest, immediately after Samson.
+
+[28:19] We shall leave that point doubtful, as one not positively ascertained.
+
+[29:1] Chapter XXIX.
+
+[29:2] About these times, civil war, as we have said, had broken out; and the following was the cause of the tumult.
+
+[29:3] A certain Levite was on a journey along with his concubine, and, constrained by the approach of night, he took up his abode in the town of Gabaa, which was inhabited by men of Benjamin.
+
+[29:4] A certain old man having kindly admitted him to hospitality, the young men of the town surrounded the guest, with the view of subjecting him to improper treatment.
+
+[29:5] After being much chidden by the old man, and with difficulty dissuaded from their purpose, they at length received for their wanton sport the person of his concubine as a substitute for his own; and they thus spared the stranger, but abused her through the whole night, and only restored her on the following day.
+
+[29:6] But she (whether from the injury their vile conduct had inflicted on her, or from shame, I do not venture to assert) died on again seeing her husband.
+
+[29:7] Then the Levite, in testimony of the horrible deed, divided her members into twelve parts, and distributed them among the twelve tribes that indignation at such conduct might the more readily be excited in them all.
+
+[29:8] And when this became known to all of them, the other eleven tribes entered into a warlike confederacy against Benjamin.
+
+[29:9] In this war, Judah, as we have said, was the general.
+
+[29:10] But they had bad success in the first two battles.
+
+[29:11] At length, however, in the third, the Benjamites were conquered, and cut off to a man; thus the crime of a few was punished by the destruction of a multitude.
+
+[29:12] These things also are contained in the Book of Judges: the Books of Kings follow.
+
+[29:13] But to me who am following the succession of the years, and the order of the dates, the history does not appear marked by strict chronological accuracy.
+
+[29:14] For, since after Samson as judge, there came Semigar, and a little later the history certifies that the people lived without judges, Eli the priest is related in the Books of Kings to have also been a judge, but the Scripture has not stated how many years there were between Eli and Samson.
+
+[29:15] I see that there was some portion of time between these two, which is left in obscurity.
+
+[29:16] But, from the day of the death of Joshua up to the time at which Samson died, there are reckoned four hundred and eighteen years, and from the beginning of the world, four thousand three hundred and three.
+
+[29:17] Nevertheless, I am not ignorant that others differ from this reckoning of ours; but I am at the same time conscious that I have, not without some care, set forth the order of events in the successive years (a thing hitherto left in obscurity), until I have fallen upon these times, concerning which I confess that I have my doubts.
+
+[29:18] Now I shall go on to what remains.
+
+[30:1] Chapter XXX.
+
+[30:2] The Hebrews, then, as I have narrated above, were living according to their own will, without any judge or general.
+
+[30:3] Eli was priest; and in his days Samuel was born.
+
+[30:4] His father's name was Elchana, and his mother's, Anna.
+
+[30:5] She having long been barren, is said, when she asked a child from God, to have vowed that, if it were a boy, it should be dedicated to God.
+
+[30:6] Accordingly, having brought forth a boy, she delivered him to Eli the priest.
+
+[30:7] By and by, when he had grown up, God spoke to him.
+
+[30:8] He denounced wrath against Eli the priest on account of the life of his sons, who had made the priesthood of their father a means of gain to themselves, and exacted gifts from those who came to sacrifice; and, although their father is related to have often reproved them, yet his reproofs were too gentle to serve the purpose of discipline.
+
+[30:9] Well, the Philistines made an incursion into Judaea, and were met by the Israelites.
+
+[30:10] But the Hebrews, being beaten, prepare to renew the contest: they carry the ark of the Lord with them into battle, and the sons of the priests go forth with it, because he himself, being burdened with years, and afflicted with blindness, could not discharge that duty.
+
+[30:11] But, when the ark was brought within sight of the enemy, terrified as if by the majesty of God's presence, they were ready to take to flight.
+
+[30:12] But again recovering courage, and changing their minds (not without a divine impulse), they rush into battle with their whole strength.
+
+[30:13] The Hebrews were conquered; the ark was taken; the sons of the priest fell.
+
+[30:14] Eli, when the news of the calamity was brought to him, being overwhelmed with grief, breathed his last, after he had held the priesthood for twenty years.
+
+[31:1] Chapter XXXI.
+
+[31:2] The Philistines, victorious in this prosperous battle, brought the ark of God, which had fallen into their hands, into the temple of Dagon in the town of Azotus.
+
+[31:3] But the image, dedicated to a demon, fell down when the ark was brought in there; and, on their setting the idol up again  in its place, in the following night it was torn in pieces.
+
+[31:4] Then mice, springing up throughout all the country, caused by their venomous bites the death of many thousand persons.
+
+[31:5] The men of Azotus, constrained by this source of suffering, in order to escape the calamity, removed the ark to Gath.
+
+[31:6] But the people there being afflicted with the same evils, conveyed the ark to Ascalon.
+
+[31:7] The inhabitants, however, of that place, the chief men of the nation having been called together, formed the design of sending back the ark to the Hebrews.
+
+[31:8] Thus, in accordance with the opinion of the chiefs, and augurs, and priests, it was placed upon a cart, and sent back with many gifts.
+
+[31:9] This remarkable thing then happened, that when they had yoked heifers to the conveyance, and had retained their calves at home, these cattle took their course, without any guide, towards Judaea, and showed no desire of returning, from affection toward their young left behind.
+
+[31:10] The rulers of the Philistines, who had followed the ark into the territory of the Hebrews, were so struck by the marvelousness of this occurrence that they performed a religious service.
+
+[31:11] But the Jews, when they saw the ark brought back, vied with each other in joyously rushing forth from the town of Betsamis to meet it, and in hurrying, exulting, and returning thanks to God.
+
+[31:12] Presently, the Levites, whose business it was, perform a sacrifice to God, and offer those heifers which had brought the ark.
+
+[31:13] But the ark could not be kept in the town which I have named above, and thus severe illness fell by the appointment of God, upon the whole city.
+
+[31:14] The ark was then transferred to the town of Cariathiarim, and there it remained twenty years.
+
+[32:1] Chapter XXXII.
+
+[32:2] At this time, Samuel the priest ruled over the Hebrews; and there being a cessation of all war, the people lived in peace.
+
+[32:3] But this tranquillity was disturbed by an invasion of the Philistines, and all ranks were in a state of terror from their consciousness of guilt.
+
+[32:4] Samuel, having first offered sacrifice, and trusting in God, led his men out to battle, and the enemy being routed at the first onset, victory declared for the Hebrews.
+
+[32:5] But when the fear of the enemy was thus removed, and affairs were now prosperous and peaceful, the people, changing their views for the worse, after the manner of the mob, who are always weary of what they have, and long for things of which they have had no experience, expressed a desire for the kingly name—a name greatly disliked by almost all free nations.
+
+[32:6] Yes, with an example of madness certainly very remarkable, they now preferred to exchange liberty for slavery.
+
+[32:7] They, therefore, come in great numbers to Samuel, in order that, as he himself was now an old man, he might make for them a king.
+
+[32:8] But he endeavored in a useful address, quietly to deter the people from their insane desire; he set forth the tyranny and haughty rule of kings, while he extolled liberty, and denounced slavery; finally, he threatened them with the divine wrath, if they should show themselves men so corrupt in mind as that, when having God as their king, they should demand for themselves a king from among men.
+
+[32:9] Having spoken these and other words of a like nature to no purpose, finding that the people persisted in the determination, he consulted God.
+
+[32:10] And God, moved by the madness of that insane nation, replied that nothing was to be refused to them asking against their own interests.
+
+[33:1] Chapter XXXIII.
+
+[33:2] Accordingly, Saul, having been first anointed by Samuel with the sacerdotal oil, was appointed king.
+
+[33:3] He was of the tribe of Benjamin, and his father's name was Kish.
+
+[33:4] He was modest in mind, and of a singularly handsome figure, so that the dignity of his person worthily corresponded to the royal dignity.
+
+[33:5] But in the beginning of his reign, some portion of the people had revolted from him, refusing to acknowledge his authority, and had joined themselves to the Ammonites.
+
+[33:6] Saul, however, energetically wreaked his vengeance on these people; the enemy were conquered, and pardon was granted to the Hebrews.
+
+[33:7] Then Saul is said to have been anointed by Samuel a second time.
+
+[33:8] Next, a bloody war arose by an invasion of the Philistines; and Saul had appointed Gilgal as the place where his army was to assemble.
+
+[33:9] As they waited there seven days for Samuel, that he might offer sacrifice to God, the people gradually dropped away owing to his delay, and the king, with unlawful presumption, presented a burnt-offering, thus taking upon him the duty of a priest.
+
+[33:10] For this he was severely rebuked by Samuel, and acknowledged his sin with a penitence that was too late.
+
+[33:11] For, as a result of the king's sin, fear had pervaded the whole army.
+
+[33:12] The camp of the enemy lying at no great distance showed them how actual the danger was, and no one had the courage to think of going forth to battle: most had be-taken themselves to the marshes.
+
+[33:13] For besides the want of courage on the part of those who  felt that God was alienated from them on account of the king's sin, the army was in the greatest want of iron weapons; so much so that nobody, except Saul and Jonathan his son, is said to have possessed either sword or spear.
+
+[33:14] For the Philistines, as conquerors in the former wars, had deprived the Hebrews of the use of arms, and no one had had the power of forging any weapon of war, or even making any implement for rural purposes.
+
+[33:15] In these circumstances, Jonathan, with an audacious design, and with his armor-bearer as his only companion, entered the camp of the enemy, and having slain about twenty of them, spread a terror throughout the whole army.
+
+[33:16] And then, through the appointment of God, betaking themselves to flight, they neither carried out orders nor kept their ranks, but placed all the hope of safety in flight.
+
+[33:17] Saul, perceiving this, hastily drew forth his men, and pursuing the fugitives, obtained a victory.
+
+[33:18] The king is said on that day to have issued a proclamation that no one should help himself to food until the enemy were destroyed.
+
+[33:19] But Jonathan, knowing nothing of this prohibition, found a honey-comb, and, dipping the point of his weapon in it, ate up the honey.
+
+[33:20] When that became known to the king through the anger of God which followed, he ordered his son to be put to death.
+
+[33:21] But by the help of the people, he was saved from destruction.
+
+[33:22] At that time, Samuel, being instructed by God, went to the king, and told him in the words of God to make war on the nation of the Amalekites, who had of old hindered the Hebrews when they were coming out of Egypt; and the prohibition was added that they should not covet any of the spoils of the conquered.
+
+[33:23] Accordingly, an army was led into the territory of the enemy, the king was taken, and the nation subdued.
+
+[33:24] But Saul, unable to resist the magnitude of the spoil, and unmindful of the divine injunctions, ordered the booty to be saved and gathered together.
+
+[34:1] Chapter XXXIV.
+
+[34:2] God, displeased with what had been done, spoke to Samuel, saying that he repented that he had made Saul king.
+
+[34:3] The priest reports what he had heard to the king.
+
+[34:4] And ere long, being instructed by God, he anointed David with the royal oil, while he was as yet only a little boy living under the care of his father, and acting as a shepherd, while he was accustomed often to play upon the harp.
+
+[34:5] For this reason, he was taken afterwards by Saul, and reckoned among the servants of the king.
+
+[34:6] And the Philistines and Hebrews being at this time hotly engaged in war, as the armies were stationed opposite to each other, a certain man of the Philistines named Goliath, a man of marvelous size and strength, passing along the ranks of his countrymen, cast insults, in the fiercest terms, upon the enemy, and challenged any one to engage in single combat with him.
+
+[34:7] Then the king promised a great reward and his daughter in marriage to any one who should bring home the spoils of that boaster; but no one out of so great a multitude ventured to make the attempt.
+
+[34:8] In these circumstances, though still a youth, David offered himself for the contest, and rejecting the arms by which his yet tender age was weighed down, simply with a staff and five stones which he had taken, advanced to the battle.
+
+[34:9] And by the first blow, having discharged one of the stones from a sling, he overthrew the Philistine; then he cut off the head of his conquered foe, carried off his spoils, and afterwards laid up his sword in the temple.
+
+[34:10] In the meanwhile, all the Philistines, turning to flight, yielded the victory to the Hebrews.
+
+[34:11] But the great favor shown to David as they were returning from the battle excited the envy of the king.
+
+[34:12] Fearing, however, that if he put to death one so beloved by all, that might give rise to hatred against himself and prove disastrous, he resolved, under an appearance of doing him honor, to expose him to danger.
+
+[34:13] First then he made him a captain, that he might be charged with the affairs of war; and next, although he had promised him his daughter, he broke his word, and gave her to another.
+
+[34:14] Ere long, a younger daughter of the king, Melchol by name, fell violently in love with David.
+
+[34:15] Accordingly, Saul sets before David as the condition of obtaining her in marriage the following proposal: that if he should bring in a hundred foreskins of the enemy, the royal maiden would be given him in marriage; for he hoped that the youth, venturing on so great dangers, would probably perish.
+
+[34:16] But the result proved very different from what he imagined, for David, according to the proposal made to him, speedily brought in a hundred foreskins of the Philistines; and thus he obtained the daughter of the king in marriage.
+
+[35:1] Chapter XXXV.
+
+[35:2] The hatred of the king towards him increased daily, under the influence of jealousy, for the wicked always persecute the good.
+
+[35:3] He, therefore, commanded his servants and Jonathan his son, to prepare snares against his life.
+
+[35:4] But Jonathan had even from the first had a great  regard and affection for David; and therefore the king, being taken to task by his son, suppressed the cruel order he had given.
+
+[35:5] But the wicked are not long good.
+
+[35:6] For, when Saul was afflicted by a spirit of error, and David stood by him, soothing him with the harp under his trouble, Saul tried to pierce him with a spear, and would have done so, had not he rapidly evaded the deadly blow.
+
+[35:7] From this time forth, the king no longer secretly but openly sought to compass his death; and David no longer trusted himself in his power.
+
+[35:8] He fled, and first betook himself to Samuel, then to Abimelech, and finally fled to the king of Moab.
+
+[35:9] By-and-by, under the instructions of the prophet Gad, he returned into the land of Judah, and there ran in danger of his life.
+
+[35:10] At that time, Saul slew Abimelech the priest because he had received David; and when none of the king's servants ventured to lay hands upon the priest, Doeg, the Syrian, fulfilled the cruel duty.
+
+[35:11] After that, David made for the desert.
+
+[35:12] Thither Saul also followed him, but his efforts at his destruction were in vain, for God protected him.
+
+[35:13] There was a cave in the desert, opening with a vast recess.
+
+[35:14] David had thrown himself into the inner parts of this cave.
+
+[35:15] Saul, not knowing that he was there, had gone into it for the purpose of taking bodily refreshment, and there, overcome by sleep, he was resting.
+
+[35:16] When David perceived this, although all urged him to avail himself of the opportunity, he abstained from slaying the king, and simply took away his mantle.
+
+[35:17] Presently going out, he addressed the king from a safe position behind, recounting the services he had done him, how often he had exposed his life to peril for the sake of the kingdom, and how last of all, he had not, on the present occasion, sought to kill him when he was given over to him by God.
+
+[35:18] Upon hearing these things, Saul confessed his fault, entreated pardon, shed tears, extolled the piety of David, and blamed his own wickedness, while he addressed David as king and son.
+
+[35:19] He was so much changed from his former ferocious character, that no one could now have thought he would make any further attempt against his son-in-law.
+
+[35:20] But David, who had thoroughly tested and known his evil disposition, did not think it safe to put himself in the power of the king, and kept himself within the desert.
+
+[35:21] Saul, almost mad with rage, because he was unable to capture his son-in-law, gave in marriage to one Faltim his daughter Melchol, who, as we have related above, had been married to David.
+
+[35:22] David fled to the Philistines.
+
+[36:1] Chapter XXXVI.
+
+[36:2] At that time Samuel died.
+
+[36:3] Saul, when the Philistines made war upon him, consulted God, and no answer was returned to him.
+
+[36:4] Then, by means of a woman whose entrails a spirit of error had filled, he called up and consulted Samuel.
+
+[36:5] Saul was informed by him that on the following day he with his sons, being overcome by the Philistines, would fall in the battle.
+
+[36:6] The Philistines, accordingly, having pitched their camp on the enemy's territory, drew up their army in battle array on the following day, David, however, being sent away from the camp, because they did not believe that he would be faithful to them against his own people.
+
+[36:7] But the battle taking place, the Hebrews were routed and the sons of the king fell; Saul, having sunk down from his horse, that he might not be taken alive by the enemy, fell on his own sword.
+
+[36:8] We do not find any certain statements as to the length of his reign, unless that he is said in the Acts of the Apostles to have reigned forty years.
+
+[36:9] As to this, however, I am inclined to think that Paul, who made the statement in his preaching, then meant to include also the years of Samuel under the length of that king's reign.
+
+[36:10] Most of those, however, who have written about these times, remark that he reigned thirty years.
+
+[36:11] I can, by no means, agree with this opinion, for at the time when the ark of God was transferred to the town of Cariathiarim, Saul had not yet begun to reign, and it is related that the ark was removed by David the king out of that town after it had been there twenty years.
+
+[36:12] Therefore, since Saul reigned and died within that period, he must have held the government only for a very brief space of time.
+
+[36:13] We find the same obscurity concerning the times of Samuel, who, having been born under the priesthood of Eli, is related, when very old, to have fulfilled the duties of a priest.
+
+[36:14] By some, however, who have written about these times (for the sacred history has recorded almost nothing about his years), but by most he is said to have ruled the people seventy years.
+
+[36:15] I have, however, been unable to discover what authority there is for this assumption.
+
+[36:16] Amid such variety of error, we have followed the account of the Chronicles, because we think that it was taken (as said above) from the Acts of the Apostles, and we repeat that Samuel and Saul together held the government for forty years.
+
+[37:1] Chapter XXXVII.
+
+[37:2] Saul having thus been cut off, David, when the news of his death was brought to him in the land of the Philistines, is related to have wept, and to have given a marvelous proof of his affection.
+
+[37:3] He then betook himself to Hebron, a town of Judaea; and, being there again anointed with the royal oil, received the title of king.
+
+[37:4] But Abenner, who had been master of the host of King Saul, despised David, and made Isbaal king, the son of King Saul.
+
+[37:5] Various battles then took place between the generals of the kings.
+
+[37:6] Abenner was generally routed; yet in his flight he cut off the brother of Joab, who had the command of the army on the side of David.
+
+[37:7] Joab, on account of the sorrow he felt for this, afterwards, when Abenner had surrendered to King David, ordered him to be murdered, not without regret on the part of the king, whose honor he had thus tarnished.
+
+[37:8] At the same time, almost all the older men of the Hebrews conferred on him by public consent the sovereignty of the whole nation; for during seven years he had reigned only in Hebron.
+
+[37:9] Thus, he was anointed king for the third time, being about thirty years of age.
+
+[37:10] He repulsed in successful battles the Philistines making inroads upon his kingdom.
+
+[37:11] And at that time, he transferred to Zion the ark of God, which, as I have said above, was in the town of Cariathiarim.
+
+[37:12] And when he had formed the intention of building a temple to God, the divine answer was given him to the effect, that that was reserved for his son.
+
+[37:13] He then conquered the Philistines in war, subjugated the Moabites, and subdued Syria, imposing tribute upon it.
+
+[37:14] He brought back with him an enormous amount of booty in gold and brass.
+
+[37:15] Next, a war arose against the Ammonites on account of the injury which had been done by their king, Annon.
+
+[37:16] And when the Syrians again rebelled, having formed a confederacy for war with the Ammonites, David intrusted the chief command of the war to Joab, the master of his host, and he himself remained in Jerusalem far from the scene of strife.
+
+[38:1] Chapter XXXVIII.
+
+[38:2] At this time, he knew in a guilty way Bersabe, a woman of remarkable beauty.
+
+[38:3] She is said to have been the wife of a certain man called Uriah, who was then in the camp.
+
+[38:4] David caused him to be slain by exposing him to the enemy at a dangerous place in the battle.
+
+[38:5] In this way, he added to the number of his wives the woman who was now free from the bond of marriage, but who was already pregnant through adultery.
+
+[38:6] Then David, after being severely reproved by Nathan the prophet, although he confessed his sin, did not escape the punishment of God.
+
+[38:7] For he lost in a few days the son who was born from the clandestine connection, and many terrible things happened in respect to his house and family.
+
+[38:8] At last his son Absalom lifted impious arms against his father, with the desire of driving him from the throne.
+
+[38:9] Joab encountered him in the field of battle, and the king entreated him to spare the young man when conquered; but he, disregarding this command, avenged with the sword his parricidal attempts.
+
+[38:10] That victory is said to have been a mournful one to the king: so great was his natural affection that he wished even his parricidal son to be forgiven.
+
+[38:11] This war seemed hardly finished when another arose, under a certain general called Sabaea, who had stirred up all the wicked to arms.
+
+[38:12] But the whole commotion was speedily checked by the death of the leader.
+
+[38:13] David then engaged in several battles against the Philistines with favorable results; and all being subdued by war, both foreign and home disturbances having been brought to accord, he possessed in peace a most flourishing kingdom.
+
+[38:14] Then a sudden desire seized him of numbering the people, in order to ascertain the strength of his empire; and accordingly they were numbered by Joab, the master of the host, and were found to amount to one million three hundred thousand citizens.
+
+[38:15] David soon regretted and repented of this proceeding, and implored pardon of God for having lifted up his thoughts to this, that he should reckon the power of his kingdom rather by the multitude of his subjects than by the divine favor.
+
+[38:16] Accordingly, an angel was sent to him to reveal to him a threefold punishment, and to give him the power of choosing either one or another.
+
+[38:17] Well, when a famine for three years was set before him, and flight before his enemies for three months, and a pestilence for three days, shunning both flight and famine, he made choice of pestilence, and, almost in a moment of time, seventy thousand men perished.
+
+[38:18] Then David, beholding the angel by whose right hand the people were overthrown, implored pardon, and offered himself singly to punishment instead of all, saying that he deserved destruction inasmuch as it was he who had sinned.
+
+[38:19] Thus, the punishment of the people was turned aside; and David built an altar to God on the spot where he had beheld the angel.
+
+[38:20] After this, having become infirm through years and illness, he appointed Solomon, who had been born to him by Bersabe, the wife of Uriah, his successor in the kingdom.
+
+[38:21] He, having been anointed with the royal oil by  Sadoc the priest, received the title of king, while his father was still alive.
+
+[38:22] David died, after he had reigned forty years.
+
+[39:1] Chapter XXXIX.
+
+[39:2] Solomon in the beginning of his reign surrounded the city with a wall.
+
+[39:3] To him while asleep God appeared standing by him, and gave him the choice of whatever things he desired.
+
+[39:4] But he asked that nothing more than wisdom should be granted him, deeming all other things of little value.
+
+[39:5] Accordingly, when he arose from sleep, taking his stand before the sanctuary of God, he gave a proof of the wisdom which had been bestowed upon him by God.
+
+[39:6] For two women who dwelt in one house, having given birth to male children at the same time, and one of these having died in the night three days afterwards, the mother of the dead child, while the other woman slept, insidiously substituted her child, and took away the living one.
+
+[39:7] Then there arose an altercation between them, and the matter was at length brought before the king.
+
+[39:8] As no witness was forthcoming, it was a difficult matter to give a judgment between both denying guilt.
+
+[39:9] Then Solomon, in the exercise of his gift of divine wisdom, ordered the child to be slain and its body to be divided between the two doubtful claimants.
+
+[39:10] Well, when one of them acquiesced in this judgment, but the other wished rather to give up the boy than that he should be cut in pieces, Solomon, concluding from the feeling displayed by this woman that she was the true mother, adjudged the child to her.
+
+[39:11] The bystanders could not repress their admiration at this decision, since he had in such a way brought out the hidden truth by his sagacity.
+
+[39:12] Accordingly, the kings of the neighboring nations, out of admiration for his ability and wisdom, courted his friendship and alliance, being prepared to carry out his commands.
+
+[40:1] Chapter XL.
+
+[40:2] Trusting in these resources, Solomon set about erecting a temple of immense size to God, funds for the purpose having been got together during three years, and laid the foundation of it about the fourth year of his reign.
+
+[40:3] This was about the five hundred and eighty-eighth year after the departure of the Hebrews from Egypt, although in the third Book of Kings the years are reckoned at four hundred and forty.
+
+[40:4] This is by no means accurate; for it would have been more likely that, in the order of dates I have given above, I should perhaps reckon fewer years than more.
+
+[40:5] But I do not doubt that the truth had been falsified by the carelessness of copyists, especially since so many ages intervened, rather than that the sacred writer erred.
+
+[40:6] In the same way, in the case of this little work of ours, we believe it will happen that, through the negligence of transcribers, those things which have been put together, not without care on our part, should be corrupted.
+
+[40:7] Well, then, Solomon finished his work of building the temple in the twentieth year from its commencement.
+
+[40:8] Then, having offered sacrifice in that place, as well as uttered a prayer, by which he blessed the people and the temple, God spoke to him, declaring that, if at any time they should sin and forsake God, their temple should be razed to the ground.
+
+[40:9] We see that this has a long time ago been fulfilled, and in due time we shall set forth the connected order of events.
+
+[40:10] In the meantime, Solomon abounded in wealth, and was, in fact, the richest of all the kings that ever lived.
+
+[40:11] But, as always takes place in such circumstances, he sunk from wealth into luxury and vice, forming marriages (in spite of the prohibition of God) with foreign women, until he had seven hundred wives, and three hundred concubines.
+
+[40:12] As a consequence, he set up idols for them, after the manner of their nations, to which they might offer sacrifice.
+
+[40:13] God, turned away from him by such doings, reproved him sharply, and made known to him as a punishment, that the greater part of his kingdom would be taken from his son, and given to a servant.
+
+[40:14] And that happened accordingly.
+
+[41:1] Chapter XLI.
+
+[41:2] For, on the death of Solomon in the fortieth year of his reign, Roboam his son having succeeded to the throne of his father in the sixteenth year of his age, a portion of the people, taking offense, revolted from him.
+
+[41:3] For, having asked that the very heavy tribute which Solomon had imposed upon them might be lessened, he rejected the entreaties of these suppliants, and thus alienated from him the favor of the whole people.
+
+[41:4] Accordingly, by universal consent, the government was bestowed on Jeroboam.
+
+[41:5] He, sprung from a family of middle rank, had for some time been in the service of Solomon.
+
+[41:6] But when the king found that the sovereignty of the Hebrews had been promised to him by a response of the prophet Achia, he had resolved privately to cut him off.
+
+[41:7] Jeroboam, under the influence of this fear, fled into Egypt, and there married a wife of the royal family.
+
+[41:8] But, when at length he heard of the death of Solomon, he returned to his native land, and, by the wish of the people, as we have said above, he assumed the government.
+
+[41:9] Two tribes, however, Judah and Benjamin, had remained under the sway of Roboam; and from these he got ready an army of thirty thousand men.
+
+[41:10] But when the two hosts advanced, the people were instructed by the words of God to abstain from fighting, for that Jeroboam had received the kingdom by divine appointment.
+
+[41:11] Thus the army disdained the command of the king, and dispersed, while the power of Jeroboam was increased.
+
+[41:12] But, since Roboam held Jerusalem, where the people had been accustomed to offer sacrifice to God in the temple built by Solomon, Jeroboam, fearing lest their religious feelings might alienate the people from him, resolved to fill their minds with superstition.
+
+[41:13] Accordingly, he set up one golden calf at Bethel, and another at Dan, to which the people might offer sacrifice; and, passing by the tribe of Levi, he appointed priests from among the people.
+
+[41:14] But censure followed this guilt so hateful to God.
+
+[41:15] Frequent battles then took place between the kings, and so they retained their respective kingdoms on doubtful conditions.
+
+[41:16] Roboam died at the close of the seventeenth year of his reign.
+
+[42:1] Chapter XLII.
+
+[42:2] In his room Abiud his son held the kingdom at Jerusalem for six years, although he is said in the Chronicles to have reigned three years.
+
+[42:3] Asab his son succeeded him, being the fifth from David, as he was his great-great-grandson.
+
+[42:4] He was a pious worshiper of God; for, destroying the altars and the groves of the idols, he removed the traces of his father's faithlessness.
+
+[42:5] He formed an alliance with the king of Syria, and by his help inflicted much loss on the kingdom of Jeroboam, which was then held by his son, and often, after conquering the enemy, carried off spoil as the result of victory.
+
+[42:6] After forty-one years he died, afflicted with disease in his feet.
+
+[42:7] To him sin of a three-fold kind is ascribed; first, that he trusted too much to his alliance with the king of Syria; secondly, that he cast into prison a prophet of God who rebuked him for this; and thirdly, that, when suffering from disease in his feet, he sought a remedy, not from God, but from the physicians.
+
+[42:8] In the beginning of his reign died Jeroboam, king of the ten tribes, and left his throne to his son Nabath.
+
+[42:9] He, from his wicked works, and, both by his own and his father's doings, hateful to God, did not possess the kingdom more than two years, and his children, as being unworthy, were deprived of the government.
+
+[42:10] He had for his successor Baasa, the son of Achia, and he proved himself equally estranged from God.
+
+[42:11] He died in the twenty-sixth year of his reign: and his power passed to Ela his son, but was not retained more than two years.
+
+[42:12] For Zambri, leader of his cavalry, killed him at a banquet, and seized the kingdom,—a man equally odious to God and men.
+
+[42:13] A portion of the people revolted from him, and the royal power was conferred on one Thamnis.
+
+[42:14] But Zambri reigned before him seven years, and at the same time with him twelve years.
+
+[42:15] And, on the death of Asab, Josaphat his son began to reign over part of the tribe of Judah, a man deservedly famous for his pious virtues.
+
+[42:16] He lived at peace with Zambri; and he died, after a reign of twenty-five years.
+
+[43:1] Chapter XLIII.
+
+[43:2] In the time of his reign, Ahab, the son of Ambri, was king of the ten tribes, impious above all against God.
+
+[43:3] For having taken in marriage Jezebel, the daughter of Basa, king of Sidon, he erected an altar and groves to the idol Bahal, and slew the prophets of God.
+
+[43:4] At this time, Elijah the prophet by prayer shut up heaven, that it should not give any rain to the earth, and revealed that to the king, in order that he, in his impiety, might know himself to be the cause of the evil.
+
+[43:5] The waters of heaven, therefore, being restrained, and since the whole country, burned up by the heat of the sun, did not furnish food either for man or beast, the prophet had even exposed himself to the side of perishing from hunger.
+
+[43:6] At that time, when he betook himself to the desert, he depended for life on the ravens furnishing him with food, while a neighboring rivulet furnished him with water, until it was dried up.
+
+[43:7] Then, being instructed by God, he went to the town of Saraptae, and turned aside to lodge with a widow-woman.
+
+[43:8] And when, in his hunger, he begged food from her, she complained that she had only a handful of meal and a little oil, on the consumption of which she expected death along with her children.
+
+[43:9] But when Elijah promised in the words of God that neither should the meal lessen in the barrel nor the oil in the vessel, the woman did not hesitate to believe the prophet demanding faith, and obtained the fulfillment of what was promised, since by daily increase as much  was added as was day by day taken away.
+
+[43:10] At the same time, Elijah restored to life the dead son of the same widow.
+
+[43:11] Then, by the command of God, he went to the king, and having reproved his impiety, he ordered all the people to be gathered together to himself.
+
+[43:12] When these had hastily assembled, the priests of the idols and of the groves to the number of about four hundred and fifty, were also summoned.
+
+[43:13] Then there arose a dispute between them, Elijah setting forth the honor of God, while they upheld their own superstitions.
+
+[43:14] At length they agreed that a trial should be made to this effect, that if fire sent down from heaven should consume the slain victim of either of them, that religion should be accepted as the true one which performed the miracle.
+
+[43:15] Accordingly, the priests, having slain a calf, began to call upon the idol Bahal; and, after wasting their invocations to no purpose, they tacitly acknowledged the helplessness of their God.
+
+[43:16] Then Elijah mocked them and said, "Cry aloud more vehemently, lest perchance he sleeps, and that thus you may rouse him from the slumber in which he is sunk".
+
+[43:17] The wretched men could do nothing but shudder and mutter to themselves, but still they waited to see what Elijah would do.
+
+[43:18] Well, he slew a calf and laid it upon the altar, having first of all filled the sacred place with water; and then, calling upon the name of the Lord, fire fell from heaven in the sight of all, and consumed alike the water and the victim.
+
+[43:19] Then truly the people, casting themselves upon the earth, confessed God and execrated the idols; while finally, by the command of Elijah, the impious priests were seized, and, being brought down to the brook, were there slain.
+
+[43:20] The prophet followed the king as he returned from that place; but as Jezebel, the wife of the king, was devising means for taking his life, he retired to a more remote spot.
+
+[43:21] There God addressed him, telling him that there were still seven thousand men who had not given themselves up to idols.
+
+[43:22] That was to Elijah a marvelous statement, for he had supposed that he himself was the only one who had kept free from impiety.
+
+[44:1] Chapter XLIV.
+
+[44:2] At that time, Ahab, king of Samaria, coveted the vineyard of Naboth, which was adjacent to his own.
+
+[44:3] And as Naboth was unwilling to sell it to him, he was cut off by the wiles of Jezebel.
+
+[44:4] Thus Ahab got possession of the vineyard, though he is said at the same time to have regretted the death of Naboth.
+
+[44:5] Acknowledging his crime, he is related to have done penance clothed in sackcloth; and in this way he turned aside threatening punishment.
+
+[44:6] For the king of Syria with a great army, having formed a military confederacy with thirty-two kings, entered the territories of Samaria, and began to besiege the city with its king.
+
+[44:7] The affairs of the besieged being then in a state of great distress, the Syrian king offers these conditions in the war,—if they should give up their gold and silver and women, he would spare their lives.
+
+[44:8] But, with such iniquitous conditions offered, it seemed better to suffer the greatest extremities.
+
+[44:9] And now when the safety of all was despaired of, a prophet sent by God went to the king, encouraged him to go forth to battle, and when he hesitated, strengthened his confidence in many ways.
+
+[44:10] Accordingly making a sally, the enemy were routed, and an abundant store of booty was secured.
+
+[44:11] But, after a year, the Syrian king returned with recruited strength into Samaria, burning to avenge the defeat he had received, but was again overthrown.
+
+[44:12] In that battle one hundred and twenty thousand of the Syrians perished; the king was pardoned, and his kingdom and former position were granted him.
+
+[44:13] Then Ahab was reproved by the prophet in the words of God, for having abused the divine kindness, and spared the enemy delivered up to him.
+
+[44:14] The Syrian king, therefore, after three years, made war upon the Hebrews.
+
+[44:15] Against him Ahab, under the advice of some false prophet, went forth to battle, having spurned the words of Michea the prophet and cast him into prison, because the prophet had warned him that the fight would prove disastrous to him.
+
+[44:16] Thus, then, Ahab, being slain in that battle, left the kingdom to his son Ochozia.
+
+[45:1] Chapter XLV.
+
+[45:2] He, being sick in body, and having sent some of his servants to consult an idol about his recovery, Elijah, as instructed by God, met them in the way, and, after rebuking them ordered them to inform the king that his death would follow from that disease.
+
+[45:3] Then the king ordered him to be seized and brought into his presence, but those who were sent for this purpose were consumed by fire from heaven.
+
+[45:4] The king died, as the prophet had predicted.
+
+[45:5] To him there succeeded his brother Joram; and he held the government for the space of twelve years.
+
+[45:6] But on the side of the two tribes, Josaphat the king having died, Joram his son possessed the kingdom for eighteen years.
+
+[45:7] He had the daughter of Ahab to wife, and proved himself more like his father-in-law than his father.
+
+[45:8] After him, Ochozias his son obtained the kingdom.
+
+[45:9] During his reign, Elijah is related to have been taken up to heaven.
+
+[45:10] At the same time,  Elisha his disciple showed himself powerful by working many miracles, which are all too well known to need any description from my pen.
+
+[45:11] By him the son of a widow was restored to life, a leper of Syria was cleansed, at a time of famine abundance of all things was brought into the city by the enemy having been put to flight, water was furnished for the use of three armies, and from a little oil the debt of a woman was paid by the oil being immensely multiplied, and sufficient means for a livelihood was provided for herself.
+
+[45:12] In his times, as we have said, Ochozia was king of the two tribes, while Joram, as we have related above, ruled over the ten; and an alliance was formed between them.
+
+[45:13] For war was carried on by them with combined forces both against the Syrians, and against Jeu, who had been anointed by the prophet as king of the ten tribes; and having gone forth to battle in company, they both perished in the same fight.
+
+[46:1] Chapter XLVI.
+
+[46:2] But Jeu possessed the kingdom of Joram.
+
+[46:3] After the death of Ochozia in Judaea, when he had reigned one year, his mother, Gotholiah, seized the supreme power, having deprived her grandson (whose name was Joas) of the government, he being at the time but a little child.
+
+[46:4] But the power thus snatched from him by his grandmother was, after eight years, restored to him through means of the priests and people, while his grandmother was driven into exile.
+
+[46:5] He, at the beginning of his reign, was most devoted to the divine worship, and embellished the temple at great expense; afterwards, however, being corrupted by the flattery of the chief men, and unduly honored by them, he incurred wrath.
+
+[46:6] For Azahel, king of Syria, made war upon him; and, as things went badly with him, he purchased peace with the gold of the temple.
+
+[46:7] He did not, however, obtain it; but through resentment for what he had done he was slain by his own people in the fortieth year of his reign.
+
+[46:8] He was succeeded by his son Amassia.
+
+[46:9] But, on the side of the ten tribes, Jeu having died, Joachas his son began to reign, displeasing to God on account of his wicked works, in punishment of which his kingdom was ravaged by the Syrians, until, through the mercy of God, the enemy was driven back, and the inhabitants of the land began to occupy their former position.
+
+[46:10] Joachas, having ended his days, left the kingdom to his son Joa.
+
+[46:11] He raised civil war against Amassia, king of the two tribes; and, having obtained the victory, conveyed much spoil into his own kingdom.
+
+[46:12] That is related to have occurred to Amassia as a punishment of his sin, for, having entered as a conqueror the territories of the Idumaeans, he had adopted the idols of that nation.
+
+[46:13] He is described as having reigned nine years, so far as I find it stated in the Books of Kings.
+
+[46:14] But in the Chronicles of Scripture, as well as in the Chronicles of Eusebius, he is affirmed to have held the government twenty-nine years; and the mode of reckoning which may easily be perceived in these Books of Kings undoubtedly leads to that conclusion.
+
+[46:15] For Jeroboam is said to have begun to reign as king of the ten tribes in the eighth year of the reign of Amassia, and to have held the government forty-one years, and to have at length died in the fourth year of the reign of Ozia, son of Amassia.
+
+[46:16] By this mode of reckoning, the reign of Amassia is made to extend over twenty-eight years.
+
+[46:17] Accordingly, we, following out this, inasmuch as it is our purpose to adhere in this work to the dates in their proper order, have accepted the authority of the Chronicles.
+
+[47:1] Chapter XLVII.
+
+[47:2] Ozias, then, the son of Amassia, succeeded to him.
+
+[47:3] For, on the side of the ten tribes, Joas, reaching the end of his days, had given place to his son Jeroboa, and after him, again, his son Zacharias began to reign.
+
+[47:4] Of these kings, and of all who ruled over Samaria on the side of the ten tribes, we have not thought it necessary to note the dates, because, aiming at brevity, we have omitted everything superfluous; and we have thought that the years should be carefully traced for a knowledge especially of the times of that portion of the Jews, which being carried into captivity at a later period than the other, passed through a longer time as a kingdom.
+
+[47:5] Ozias, then, having obtained the kingdom of Judah, gave his principal care to knowing the Lord, making great use of Zachariah the prophet (Isaiah, too, is said to have first prophesied under this king); and, on this account, he carried on war against his neighbors with deservedly prosperous results, while he also conquered the Arabians.
+
+[47:6] And already he had shaken Egypt with the terror of his name; but, being elated by prosperity, he ventured on what was forbidden, and offered incense to God, a thing which it was the established custom for the priests alone to do.
+
+[47:7] Being, then, rebuked by Azaria the priest, and compelled to leave the sacred place, he burst out into a rage, but was, when he finally withdrew, covered with leprosy.
+
+[47:8] Under the influence of this disease he ended his  days, after having reigned fifty-two years.
+
+[47:9] Then the kingdom was given to Joathas his son; and he is related to have been very pious, and carried on the government with success: he subdued in war the nation of the Ammonites, and compelled them to pay tribute.
+
+[47:10] He reigned sixteen years, and his son Achaz succeeded him.
+
+[48:1] Chapter XLVIII.
+
+[48:2] The remarkable faith of the Ninevites is related to have been manifested about these times.
+
+[48:3] That town, founded of old by Assure, the son of Sem, was the capital of the kingdom of the Assyrians.
+
+[48:4] It was then full of a multitude of inhabitants, sustaining one hundred and twenty thousand men, and abounding in wickedness, as is usually the case among a vast concourse of people.
+
+[48:5] God, moved by their sinfulness, commanded the prophet Jonah to go from Judaea, and denounce destruction upon the city, as Sodom and Gomorrah had of old been consumed by fire from heaven.
+
+[48:6] But the prophet declined that office of preaching, not out of contumacy, but from foresight, which enabled him to behold God reconciled through the repentance of the people; and he embarked on board a ship which was bound for Tharsus, in a very different direction.
+
+[48:7] But, after they had gone forth into the deep, the sailors, constrained by the violence of the sea, inquired by means of the lot who was the cause of that suffering.
+
+[48:8] And when the lot fell upon Jonah, he was cast into the sea, to be, as it were, a sacrifice for stilling the tempest, and he was seized and swallowed by a whale—a monster of the deep.
+
+[48:9] Cast out three days afterwards on the shores of the Ninevites, he preached as he had been commanded, namely that the city would be destroyed in three days, as a punishment for the sins of the people.
+
+[48:10] The voice of the prophet was listened to, not in a hypocritical fashion, as at Sodom of old; and immediately by the order, and after the example, of the king, the whole people, and even those infants newly born, are commanded to abstain from meat and drink: the very beasts of burden in the place, and animals of different kinds, being forced by hunger and thirst, presented an appearance of those who lamented along with the human inhabitants.
+
+[48:11] In this way, the threatened evil was averted.
+
+[48:12] To Jonah, complaining to God, that his words had not been fulfilled, it was answered that pardon could never be denied to the penitent.
+
+[49:1] Chapter XLIX.
+
+[49:2] But in Samaria, Zacharia the king, who was very wicked, and whom we have spoken of above as occupying the throne, was slain by a certain Sella, who seized the kingdom.
+
+[49:3] He, in turn, perished by the treachery of Mane, who simply repeated the conduct of his predecessor.
+
+[49:4] Mane held the government which he had taken from Sella, and left it to his son Pache.
+
+[49:5] But a certain person of the same name slew Pache, and seized the kingdom.
+
+[49:6] Ere long being cut off by Osee, he lost the sovereignty by the same crime by which he had received it.
+
+[49:7] This man, being ungodly beyond all the kings who had preceded him, brought punishment upon himself from God, and a perpetual captivity on his nation.
+
+[49:8] For Salmanasar, king of the Assyrians, made war with him, and when conquered rendered him tributary.
+
+[49:9] But when, with secret plans, he was preparing for rebellion, and had asked the king of the Ethiopians, who then had possession of Egypt for his assistance, Salmanasar, on discovering that, cast him into prison with fetters never taken off, while he destroyed the city, and carried off the whole people into his own kingdom, Assyrians being placed in the enemy's country to guard it.
+
+[49:10] Hence that district was called Samaria, because in the language of the Assyrians guards are called Samaritae.
+
+[49:11] Very many of their settlers accepted the divine rites of the Jewish religion, while others remained in the errors of heathenism.
+
+[49:12] In this war, Tobias was carried into captivity.
+
+[49:13] But on the side of the two tribes, Achaz, who was displeasing to God on account of his impiety, finding he had frequently the worst of it in wars with his neighbors, resolved to worship the gods of the heathen, undoubtedly because by their help his enemies had proved victorious in frequent battles.
+
+[49:14] He ended his days with this crime in his wicked mind, after a reign of sixteen years.
+
+[50:1] Chapter L.
+
+[50:2] To him succeeded Ezekias his son, a man very unlike his father in character.
+
+[50:3] For, in the beginning of his reign, urging the people and the priests to the worship of God, he discoursed to them in many words, showing how often, after being chastened by the Lord, they had obtained mercy, and how the ten tribes, having been at last carried away into captivity, as had lately happened, were now paying the penalty of their impiety.
+
+[50:4] He added that their duty was carefully to be on their guard lest they should deserve to suffer the same things.
+
+[50:5] Thus, the  minds of all being turned to religion, he appointed the Levites and all the priests to offer sacrifices according to the law, and arranged that the Passover, which had for a long time been neglected, should be celebrated.
+
+[50:6] And when the holy day was at hand, he proclaimed the special day of assembly by messengers sent throughout all the land, so that, if any had remained in Samaria, after the removal of the ten tribes, they might gather together for the sacred observance.
+
+[50:7] Thus, in a very full assemblage, the sacred day was spent with public rejoicing, and, after a long interval, the proper religious rites were restored by means of Ezekias.
+
+[50:8] He then carried on military affairs with the same diligence with which he had attended to divine things, and defeated the Philistines in frequent battles; until Sennacherim, king of the Assyrians, made war against him, having entered his territories with a large army; and then, when the country had been laid waste without any opposition, he laid siege to the city.
+
+[50:9] For Ezekias, being inferior in numbers, did not venture to come to an engagement with him, but kept himself safe within the walls.
+
+[50:10] The king of Assyria, thundering at the gates, threatened destruction, and demanded surrender, exclaiming that in vain did Ezekias put his trust in God, for that he rather had taken up arms by the appointment of God; and that the conqueror of all nations, as well as the overthrower of Samaria could not be escaped, unless the king secured his own safety by a speedy surrender.
+
+[50:11] In this state of affairs, Ezekias, trusting in God, consulted the prophet Isaiah, and from his answer he learned that there would be no danger from the enemy, and that the divine assistance would not fail him.
+
+[50:12] And, in fact, not long after, Tarraca, king of Ethiopia, invaded the kingdom of the Assyrians.
+
+[51:1] Chapter LI.
+
+[51:2] By this news Sennacherim was led to return in order to defend his own territories, and he gave up the war, at the same time murmuring and crying out that victory was snatched from him the victor.
+
+[51:3] He also sent letters to Ezekias, declaring, with many insulting words, that he, after settling his own affairs, would speedily return for the destruction of Judaea.
+
+[51:4] But Ezekias, in no wise disturbed by these threats, is said to have prayed to God that he would not allow the so great insolence of this man to pass unavenged.
+
+[51:5] Accordingly, in the same night, an angel attacking the camp of the Assyrians, caused the death of many thousand men.
+
+[51:6] The king in terror fled to the town of Nineveh, and being there slain by his sons, met with an end worthy of himself.
+
+[51:7] At the same time, Ezekias, sick in body, lay suffering from disease.
+
+[51:8] And when Isaiah had announced to him in the words of the Lord that the end of his life was at hand, the king is related to have wept; and thus he got fifteen years added to his life.
+
+[51:9] These coming to an end, he died in the twenty-ninth year of his reign, and left the kingdom to his son Manasse.
+
+[51:10] He, degenerating much from his father, forsook God, and took to the practice of impious worship; and being, as a punishment for this, delivered into the power of the Assyrians, he was by his sufferings constrained to acknowledge his error, and exhorted the people that, forsaking their idols, they should worship God.
+
+[51:11] He accomplished nothing worthy of special mention, but reigned for fifty-five years.
+
+[51:12] Then Amos his son obtained the kingdom, but possessed it only two years.
+
+[51:13] He was the heir of his father's impiety, and showed himself regardless of God: being entrapped by some stratagems of his friends, he perished.
+
+[52:1] Chapter LII.
+
+[52:2] The government then passed to his son Josia.
+
+[52:3] He is related to have been very pious, and to have attended to divine things with the utmost care, profiting largely by the aid of the priest Helchia.
+
+[52:4] Having read a book written with the words of God, and which had been found in the temple by the priest, in which it was stated that the Hebrew nation would be destroyed on account of their frequent acts of impiety and sacrilege, by his pious supplications to God, and constant tears, he averted the impending overthrow.
+
+[52:5] When he learned through Olda the prophetess that this favor was granted him, he then with still greater care set himself to practice the worship of God, inasmuch as he was now under obligation to the divine goodness.
+
+[52:6] Accordingly, he burned all the vessels which had by the superstitions of former kings been consecrated to idols.
+
+[52:7] For to such a height had profane observances prevailed, that they used to pay divine honors to the sun and moon, and even erected shrines made of metal to these fancied deities.
+
+[52:8] Josia reduced these to powder, and also slew the priests of the profane temples.
+
+[52:9] He did not even spare the tombs of the impious; and it was observed that thus was fulfilled what had of old been predicted by the prophet.
+
+[52:10] In the eighteenth year of his reign, the Passover was celebrated.
+
+[52:11] And about three years afterwards, having gone forth to battle against Nechao, king of Egypt, who was making war upon the Assyrians, before the armies properly engaged, he was wounded by an arrow.
+
+[52:12] And being carried back to the city, he died of that wound, after he had reigned twenty and one years.
+
+[53:1] Chapter LIII.
+
+[53:2] Joachas, his son, having then obtained the kingdom, held it for three months, being doomed to captivity on account of his impiety.
+
+[53:3] For Nechao, king of Egypt, bound him and led him away captive, and not long after, while still a prisoner, he ended his days.
+
+[53:4] An annual tribute was demanded of the Jews, and a king was given them at the will of the victor.
+
+[53:5] His name was Eliakim, but he afterwards changed it to Joachim.
+
+[53:6] He was the brother of Joacha, and the son of Josia, but liker his brother than his father, displeasing God by his impiety.
+
+[53:7] Accordingly, while he was in subjection to the king of Egypt, and in token thereof paid him tribute, Nabuchodonosor, the king of Babylon, seized the land of Judaea, and as victor held it by the right of war for three years.
+
+[53:8] For the king of Egypt now giving way, and the boundaries of their empire being fixed between them, it had been agreed that the Jews should belong to Babylon.
+
+[53:9] Thus after Joachim, having finished his reign of eleven years, had given place to his son of the same name, and he had excited against himself the wrath of the king of Babylon (God undoubtedly overruling everything, having resolved to give the nation of the Jews up to captivity and destruction), Nabuchodonosor entered Jerusalem with an army, and leveled the walls and the temple to the ground.
+
+[53:10] He also carried off an immense amount of gold, with sacred ornaments either public or private, and all of mature age both of the male and female sex, those only being left behind whose weakness or age caused trouble to the conquerors.
+
+[53:11] This useless crowd had the task assigned them of working and cultivating the fields in slavery, in order that the soil might not be neglected.
+
+[53:12] Over them a king called Sedechias was appointed; but while the empty shadow of the name of king was allowed him, all real power was taken away.
+
+[53:13] Joachim, for his part, possessed the sovereignty only for three months.
+
+[53:14] He was carried away, along with the people, to Babylon, and was there thrown into prison; but being, after a period of thirty years released, while he was admitted by the king to his friendship, and made a partaker with him at his table and in his counsels, he died at last, not without some consolation in that his misfortunes had been removed.
+
+[54:1] Chapter LIV.
+
+[54:2] Meanwhile Sedechias, the king of the useless multitude, although without power, being of an unfaithful disposition and neglectful of God, and not understanding that captivity had been brought upon them on account of the sins of the nation, becoming at length ripe for suffering the last evils he could endure, offended the mind of the king.
+
+[54:3] Accordingly, after a period of nine years, Nabuchodonosor made war against him, and having forced him to flee within the walls, besieged him for three years.
+
+[54:4] At this time, he consulted Jeremia the prophet, who had already often proclaimed that captivity impended over the city, to discover if perhaps there might still be some hope.
+
+[54:5] But he, not ignorant of the anger of heaven, having frequently had the same question put to him, at length gave an answer, denouncing special punishment upon the king.
+
+[54:6] Then Sedechias, roused to resentment, ordered the prophet to be thrust into prison.
+
+[54:7] Ere long, however, he regretted this cruel act, but, as the chief men of the Jews (whose practice it had been even from the beginning to afflict the righteous) opposed him, he did not venture to release the innocent man.
+
+[54:8] Under coercion from the same persons, the prophet was let down into a pit of great depth, and which was disgusting from its filth and squalor, while a deadly stench issued from it.
+
+[54:9] This was done that he might not simply die by a common death.
+
+[54:10] But the king, impious though he was, yet showed himself somewhat more merciful than the priests, and ordered the prophet to be taken out of the pit, and restored to the safekeeping of the prison.
+
+[54:11] In the meantime the force of the enemy and want began to press the besieged hard, and everything being consumed that could be eaten, famine took a firm hold of them.
+
+[54:12] Thus, its defenders being worn out with want of food, the town was taken and burnt.
+
+[54:13] The king, as the prophet had declared, had his eyes put out, and was carried away to Babylon, while Jeremia, through the mercy of the enemy, was taken out of his prison.
+
+[54:14] When Nabuzardan, one of the royal princes, was leading him away captive with the rest, the choice was granted by him to the prophet, either to remain in his deserted and desolated native country, or to go along with him in the possession of the highest honors; and Jeremia preferred to abide in his native land.
+
+[54:15] Nabuchodonosor, having carried away the people, appointed as governor over those left behind by the conquerors (either from the circumstances attending the war, or from an absolute weariness of accumulating spoil) Godolia, who belonged to the same nation.
+
+[54:16] He gave  him, however, no royal ensign, or even the name of governor, because there was really no honor in ruling over these few wretched persons.
+

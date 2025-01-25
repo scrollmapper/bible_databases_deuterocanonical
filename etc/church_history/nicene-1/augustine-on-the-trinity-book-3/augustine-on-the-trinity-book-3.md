@@ -1,0 +1,434 @@
+# Augustine: On the Trinity Book III
+
+[1:1] Book III.
+
+[1:2] The question is discussed with respect to the appearances of God spoken of in the previous book, which were made under bodily forms, whether only a creature was formed, for the purpose of manifesting God to human sight in such way as He at each time judged fitting; or whether angels, already existing, were so sent as to speak in the person of God; and this, either by assuming a bodily appearance from the bodily creature, or by changing their own bodies into whatever forms they would, suitable to the particular action, according to the power given to them by the Creator; while the essence itself of God was never seen in itself.
+
+[1:3] Preface.
+
+[1:4] —Why Augustin Writes of the Trinity.
+
+[1:5] What He Claims from Readers.
+
+[1:6] What Has Been Said in the Previous Book.
+
+[1:7] 1  I Would have them believe, who are willing to do so, that I had rather bestow labor in reading, than in dictating what others may read.
+
+[1:8] But let those who will not believe this, but are both able and willing to make the trial, grant me whatever answers may be gathered from reading, either to my own inquiries, or to those interrogations of others, which for the character I bear in the service of Christ, and for the zeal with which I burn that our faith may be fortified against the error of carnal and natural men, I must needs bear with; and then let them see how easily I would refrain from this labor, and with how much even of joy I would give my pen a holiday.
+
+[1:9] But if what we have read upon these subjects is either not sufficiently set forth, or is not to be found at all, or at any rate cannot easily be found by us, in the Latin tongue, while we are not so familiar with the Greek tongue as to be found in any way competent to read and understand therein the books that treat of such topics, in which class of writings, to judge by the little which has been translated for us, I do not doubt that everything is contained that we can profitably seek; while yet I cannot resist my brethren when they exact of me, by that law by which I am made their servant, that I should minister above all to their praiseworthy studies in Christ by my tongue and by my pen, of which two yoked together in me, Love is the charioteer; and while I myself confess that I have by writing learned many things which I did not know: if this be so, then this my labor ought not to seem superfluous to any idle, or to any very learned reader; while it is needful in no small part, to many who are busy, and to many who are unlearned,and among these last to myself.
+
+[1:10] Supported, then, very greatly, and aided by the writings we have already read of others on this subject, I have undertaken to inquire into and to discuss, whatever it seems to my judgment can be reverently inquired into and discussed, concerning the Trinity, the one supreme and supremely good God; He himself exhorting me to the inquiry, and helping me in the discussion of it; in order that, if there are no other writings of the kind, there may be something for those to have and read who are willing and capable; but if any exist already, then it may be so much the easier to find some such writings, the more there are of the kind in existence.
+
+[1:11] 2  Assuredly, as in all my writings I desire not only a pious reader, but also a free corrector, so I especially desire this in the present inquiry, which is so important that I would there were as many inquirers as there are objectors.
+
+[1:12] But as I do not wish my reader to be bound down to me, so I do not wish my corrector to be bound down to himself.
+
+[1:13] Let not the former love me more than the catholic faith, let not the latter love himself more than the catholic verity.
+
+[1:14] As I say to the former, Do not be willing to yield to my writings as to the canonical Scriptures; but in these, when thou hast discovered even what thou didst not previously believe, believe it unhesitatingly; while in those, unless thou hast understood with certainty what thou didst not before hold as certain, be unwilling to hold it fast: so I say to the latter, Do not be willing to amend my writings by thine own opinion or disputation, but from the divine text, or by unanswerable reason.
+
+[1:15] If thou apprehendest anything of truth in them, its being there does not make it mine, but by understanding and loving it, let it be both thine and mine; but if thou convictest anything of falsehood, though it have once been mine, in that I was guilty of the error, yet now by avoiding it let it be neither thine nor mine.
+
+[1:16] 3  Let this third book, then, take its beginning at the point to which the second had reached.
+
+[1:17] For after we had arrived at this, that we desired to show that the Son was not therefore less than the Father, because the Father sent and the Son was sent; nor the Holy Spirit therefore less than both, because we read in the Gospel that He was sent both by the one and by the other; we undertook then to inquire, since the Son was sent thither, where He already was, for He came into the world, and "was in the world;" since also the Holy Spirit was sent thither, where He already was, for "the Spirit of the Lord filleth the world, and that which containeth all things hath knowledge of the voice;" whether the Lord was therefore "sent" because He was born in the flesh so as to be no longer hidden, and, as it were, came forth from the bosom of the Father, and appeared to the eyes of men in the form of a servant; and the Holy Spirit also was therefore "sent," because He too was seen as a dove in a corporeal form, and in cloven tongues, like as of fire; so that, to be sent, when spoken of them, means to go forth to the sight of mortals in some corporeal form from a spiritual hiding-place; which, because the Father did not, He is said only to have sent, not also to be sent.
+
+[1:18] Our next inquiry was, Why the Father also is not sometimes said to be sent, if He Himself was manifested through those corporeal forms which appeared to the eyes of the ancients.
+
+[1:19] But if the Son was manifested at these times, why should He be said to be "sent" so long after, when the fullness of time was come that He should be born of a woman; since, indeed, He was sent before also, viz.
+
+[1:20] , when He appeared corporeally in those forms? Or if He were not rightly said to be "sent," except when the Word was made flesh; why should the Holy Spirit be read of as "sent," of whom such an incarnation never took place? But if neither the Father, nor the Son, but the Holy Spirit was manifested through these ancient appearances; why should He too be said to be "sent" now, when He was also sent before in these various manners? Next we subdivided the subject, that it might be handled most carefully, and we made the question threefold, of which one part was explained in the second book, and two remain, which I shall next proceed to discuss.
+
+[1:21] For we have already inquired and determined, that not only the Father, nor only the Son, nor only the Holy Spirit appeared in those ancient corporeal forms and visions, but either indifferently the Lord God, who is understood to be the Trinity itself, or some one person of the Trinity, whichever the text of the narrative might signify, through intimations supplied by the context.
+
+[1:22] Chapter 1 —What is to Be Said Thereupon.
+
+[1:23] 4  Let us, then, continue our inquiry now in order.
+
+[1:24] For under the second head in that division the question occurred, whether the creature was formed for that work only, wherein God, in such way as He then judged it to be fitting, might be manifested to human sight; or whether angels, who already existed, were so sent as to speak in the person of God, assuming a corporeal appearance from the corporeal creature for the purpose of their ministry; or else changing and turning their own body itself, to which they are not subject, but govern it as subject to themselves, into whatever forms they would, that were appropriate and fit for their actions, according to the power given to them by the Creator.
+
+[1:25] And when this part of the question shall have been investigated, so far as God permit, then, lastly, we shall have to see to that question with which we started, viz.
+
+[1:26] , whether the Son and the Holy Spirit were also "sent" before; and if it be so, then what difference there is between that sending and the one of which we read in the Gospel; or whether neither of them were sent, except when either the Son was made of the Virgin Mary, or when the Holy Spirit appeared in a visible form, whether as a dove or in tongues of fire.
+
+[1:27] 5  I confess, however, that it reaches further than my purpose can carry me to inquire whether the angels, secretly working by the spiritual quality of their body abiding still in them, assume somewhat from the inferior and more bodily elements, which, being fitted to themselves, they may change and turn like a garment into any corporeal appearances they will, and those appearances themselves also real, as real water was changed by our Lord into real wine; or whether they transform their own bodies themselves into that which they would, suitably to the particular act.
+
+[1:28] But it does not signify to the present question which of these it is.
+
+[1:29] And although I be not able to understand these things by actual experience, seeing that I am a man, as the angels do who do these things, and know them better than I know them, viz.
+
+[1:30] , how far my body is changeable by the operation of my will; whether it be by my own experience of myself, or by that which I have gathered from others; yet it is not necessary here to say which of these alternatives I am to believe upon the authority of the divine Scriptures, lest I be compelled to prove it, and so my discourse become too long upon a subject which does not concern the present question.
+
+[1:31] 6  Our present inquiry then is, whether the angels were then the agents both in showing those bodily appearances to the eyes of men and in sounding those words in their ears when the sensible creature itself, serving the Creator at His beck, was turned for the time into whatever was needful; as it is written in the book of Wisdom, "For the creature serveth Thee, who art the Maker, increaseth his strength against the unrighteous for their punishment, and abateth his strength for the benefit of such as put their trust in Thee.
+
+[1:32] Therefore, even then was it altered into all fashions, and was obedient to Thy grace, that nourisheth all things according to the desire of them that longed for Thee".
+
+[1:33] For the power of the will of God reaches through the spiritual creature even to visible and sensible effects of the corporeal creature.
+
+[1:34] For where does not the wisdom of the omnipotent God work that which He wills, which "reacheth from one end to another mightily, and sweetly doth order all things"?.
+
+[2:1] Chapter 2 —The Will of God is the Higher Cause of All Corporeal Change.
+
+[2:2] This is Shown by an Example.
+
+[2:3] 7  But there is one kind of natural order in the conversion and changeableness of bodies, which, although itself also serves the bidding of God, yet by reason of its unbroken continuity has ceased to cause wonder; as is the case, for instance, with those things which are changed either in very short, or at any rate not long, intervals of time, in heaven, or earth, or sea; whether it be in rising, or in setting, or in change of appearance from time to time; while there are other things, which, although arising from that same order, yet are less familiar on account of longer intervals of time.
+
+[2:4] And these things, although the many stupidly wonder at them, yet are understood by those who inquire into this present world, and in the progress of generations become so much the less wonderful, as they are the more often repeated and known by more people.
+
+[2:5] Such are the eclipses of the sun and moon, and some kinds of stars, appearing seldom, and earthquakes, and unnatural births of living creatures, and other similar things; of which not one takes place without the will of God; yet, that it is so, is to most people not apparent.
+
+[2:6] And so the vanity of philosophers has found license to assign these things also to other causes, true causes perhaps, but proximate ones, while they are not able to see at all the cause that is higher than all others, that is, the will of God; or again to false causes, and to such as are not even put forward out of any diligent investigation of corporeal things and motions, but from their own guess and error.
+
+[2:7] 8  I will bring forward an example, if I can, that this may be plainer.
+
+[2:8] There is, we know, in the human body, a certain bulk of flesh and an outward form, and an arrangement and distraction of limbs, and a temperament of health; and a soul breathed into it governs this body, and that soul a rational one; which, therefore, although changeable, yet can be partaker of that unchangeable wisdom, so that "it may partake of that which is in and of itself;" as it is written in the Psalm concerning all saints, of whom as of living stones is built that Jerusalem which is the mother of us all, eternal in the heavens.
+
+[2:9] For so it is sung, "Jerusalem is builded as a city, that is partaker of that which is in and of itself".
+
+[2:10] For "in and of itself," in that place, is understood of that chiefest and unchangeable good, which is God, and of His own wisdom and will.
+
+[2:11] To whom is sung in another place, "Thou shalt change them, and they shall be changed; but Thou art the same".
+
+[3:1] Chapter 3 —Of the Same Argument.
+
+[3:2] Let us take, then, the case of a wise man, such that his rational soul is already partaker of the unchangeable and eternal truth, so that he consults it about all his actions, nor does anything at all, which he does not by it know ought to be done, in order that by being subject to it and obeying it he may do rightly.
+
+[3:3] Suppose now that this man, upon counsel with the highest reason of the divine righteousness, which he hears with the ear of his heart in secret, and by its bidding, should weary his body by toil in some office of mercy, and should contract an illness; and upon consulting the physicians, were to be told by one that the cause of the disease was overmuch dryness of the body, but by another that it was overmuch moisture; one of the two no doubt would allege the true cause and the other would err, but both would pronounce concerning proximate causes only, that is, corporeal ones.
+
+[3:4] But if the cause of that dryness were to be inquired into, and found to be the self-imposed toil, then we should have come to a yet higher cause, which proceeds from the soul so as to affect the body which the soul governs.
+
+[3:5] Yet neither would this be the first cause, for that doubtless was a higher cause still, and lay in the unchangeable wisdom itself, by serving which in love, and by obeying its ineffable commands, the soul of the wise man had undertaken that self-imposed toil; and so nothing else but the will of God would be found most truly to be the first cause of that illness.
+
+[3:6] But suppose now in that office of pious toil this wise man had employed the help of others to co-operate in the good work, who did not serve God with the same will as himself, but either desired to attain the reward of their own carnal desires, or shunned merely carnal unpleasantnesses;—suppose, too, he had employed beasts of burden, if the completion of the work required such a provision, which beasts of burden would be certainly irrational animals, and would not therefore move their limbs under their burdens because they at all thought of that good work, but from the natural appetite of their own liking, and for the avoiding of annoyance;—suppose, lastly, he had employed bodily things themselves that lack all sense, but were necessary for that work, as e.
+
+[3:7] g.
+
+[3:8] corn, and wine, and oils, clothes, or money, or a book, or anything of the kind;—certainly, in all these bodily things thus employed in this work, whether animate or inanimate, whatever took place of movement, of wear and tear, of reparation, of destruction, of renewal or of change in one way or another, as places and times affected them; pray, could there be, I say, any other cause of all these visible and changeable facts, except the invisible and unchangeable will of God, using all these, both bad and irrational souls, and lastly bodies, whether such as were inspired and animated by those souls, or such as lacked all sense, by means of that upright soul as the seat of His wisdom, since primarily that good and holy soul itself employed them, which His wisdom had subjected to itself in a pious and religious obedience?.
+
+[4:1] Chapter 4 —God Uses All Creatures as He Will, and Makes Visible Things for the Manifestation of Himself.
+
+[4:2] 9  What, then, we have alleged by way of example of a single wise man, although of one still bearing a mortal body and still seeing only in part, may be allowably extended also to a family, where there is a society of such men, or to a city, or even to the whole world, if the chief rule and government of human affairs were in the hands of the wise, and of those who were piously and perfectly subject to God; but because this is not the case as yet (for it behoves us first to be exercised in this our pilgrimage after mortal fashion, and to be taught with stripes by force of gentleness and patience), let us turn our thoughts to that country itself that is above and heavenly, from which we here are pilgrims.
+
+[4:3] For there the will of God, "who maketh His angels spirits, and His ministers a flaming fire," presiding among spirits which are joined in perfect peace and friendship, and combined in one will by a kind of spiritual fire of charity, as it were in an elevated and holy and secret seat, as in its own house and in its own temple, thence diffuses itself through all things by certain most perfectly ordered movements of the creature; first spiritual, then corporeal; and uses all according to the unchangeable pleasure of its own purpose, whether incorporeal things or things corporeal, whether rational or irrational spirits, whether good by His grace or evil through their own will.
+
+[4:4] But as the more gross and inferior bodies are governed in due order by the more subtle and powerful ones, so all bodies are governed by the living spirit; and the living spirit devoid of reason, by the reasonable living spirit; and the reasonable living spirit that makes default and sins, by the living and reasonable spirit that is pious and just; and that by God Himself, and so the universal creature by its Creator, from whom and through whom and in whom it is also created and established.
+
+[4:5] And so it comes to pass that the will of God is the first and the highest cause of all corporeal appearances and motions.
+
+[4:6] For nothing is done visibly or sensibly, unless either by command or permission from the interior palace, invisible and intelligible, of the supreme Governor, according to the unspeakable justice of rewards and punishments, of favor and retribution, in that far-reaching and boundless commonwealth of the whole creature.
+
+[4:7] 10  If, therefore, the Apostle Paul, although he still bare the burden of the body, which is subject to corruption and presseth down the soul, and although he still saw only in part and in an enigma, wishing to depart and be with Christ, and groaning within himself, waiting for the adoption, to wit, the redemption of his body, yet was able to preach the Lord Jesus Christ significantly, in one way by his tongue, in another by epistle, in another by the sacrament of His body and blood (since, certainly, we do not call either the tongue of the apostle, or the parchments, or the ink, or the significant sounds which his tongue uttered, or the alphabetical signs written on skins, the body and blood of Christ; but that only which we take of the fruits of the earth and consecrate by mystic prayer, and then receive duly to our spiritual health in memory of the passion of our Lord for us: and this, although it is brought by the hands of men to that visible form, yet is not sanctified to become so great a sacrament, except by the spirit of God working invisibly; since God works everything that is done in that work through corporeal movements, by setting in motion primarily the invisible things of His servants, whether the souls of men, or the services of hidden spirits subject to Himself): what wonder if also in the creature of heaven and earth, of sea and air, God works the sensible and visible things which He wills, in order to signify and manifest Himself in them, as He Himself knows it to be fitting, without any appearing of His very substance itself, whereby He is, which is altogether unchangeable, and more inwardly and secretly exalted than all spirits whom He has created?.
+
+[5:1] Chapter 5 —Why Miracles are Not Usual Works.
+
+[5:2] 11  For since the divine power administers the whole spiritual and corporeal creature, the waters of the sea are summoned and poured out upon the face of the earth on certain days of every year.
+
+[5:3] But when this was done at the prayer of the holy Elijah; because so continued and long a course of fair weather had gone before, that men were famished; and because at that very hour, in which the servant of God prayed, the air itself had not, by any moist aspect, put forth signs of the coming rain; the divine power was apparent in the great and rapid showers that followed, and by which that miracle was granted and dispensed.
+
+[5:4] In like manner, God works ordinarily through thunders and lightnings: but because these were wrought in an unusual manner on Mount Sinai, and those sounds were not uttered with a confused noise, but so that it appeared by most sure proofs that certain intimations were given by them, they were miracles.
+
+[5:5] Who draws up the sap through the root of the vine to the bunch of grapes, and makes the wine, except God; who, while man plants and waters, Himself giveth the increase? But when, at the command of the Lord, the water was turned into wine with an extraordinary quickness, the divine power was made manifest, by the confession even of the foolish.
+
+[5:6] Who ordinarily clothes the trees with leaves and flowers except God? Yet, when the rod of Aaron the priest blossomed, the Godhead in some way conversed with doubting humanity.
+
+[5:7] Again, the earthy matter certainly serves in common to the production and formation both of all kinds of wood and of the flesh of all animals: and who makes these things, but He who said, Let the earth bring them forth; and who governs and guides by the same word of His, those things which He has created? Yet, when He changed the same matter out of the rod of Moses into the flesh of a serpent, immediately and quickly, that change, which was unusual, although of a thing which was changeable, was a miracle.
+
+[5:8] But who is it that gives life to every living thing at its birth, unless He who gave life to that serpent also for the moment, as there was need.
+
+[6:1] Chapter 6 —Diversity Alone Makes a Miracle.
+
+[6:2] And who is it that restored to the corpses their proper souls when the dead rose again, unless He who gives life to the flesh in the mother's womb, in order that they may come into being who yet are to die? But when such things happen in a continuous kind of river of ever-flowing succession, passing from the hidden to the visible, and from the visible to the hidden, by a regular and beaten track, then they are called natural; when, for the admonition of men, they are thrust in by an unusual changeableness, then they are called miracles.
+
+[7:1] Chapter 7 —Great Miracles Wrought by Magic Arts.
+
+[7:2] 12  I see here what may occur to a weak judgment, namely, why such miracles are wrought also by magic arts; for the wise men of Pharaoh likewise made serpents, and did other like things.
+
+[7:3] Yet it is still more a matter of wonder, how it was that the power of those magicians, which was able to make serpents, when it came to very small flies, failed altogether.
+
+[7:4] For the lice, by which third plague the proud people of Egypt were smitten, are very short-lived little flies; yet there certainly the magicians failed, saying, "This is the finger of God".
+
+[7:5] And hence it is given us to understand that not even those angels and powers of the air that transgressed, who have been thrust down into that lowest darkness, as into a peculiar prison, from their habitation in that lofty ethereal purity, through whom magic arts have whatever power they have, can do anything except by power given from above.
+
+[7:6] Now that power is given either to deceive the deceitful, as it was given against the Egyptians, and against the magicians also themselves, in order that in the seducing of those spirits they might seem admirable by whom they were wrought, but to be condemned by the truth of God; or for the admonishing of the faithful, lest they should desire to do anything of the kind as though it were a great thing, for which reason they have been handed down to us also by the authority of Scripture; or lastly, for the exercising, proving, and manifesting of the patience of the righteous.
+
+[7:7] For it was not by any small power of visible miracles that Job lost all that he had, and both his children and his bodily health itself.
+
+[8:1] Chapter 8 —God Alone Creates Those Things Which are Changed by Magic Art.
+
+[8:2] 13  Yet it is not on this account to be thought that the matter of visible things is subservient to the bidding of those wicked angels; but rather to that of God, by whom this power is given, just so far as He, who is unchangeable, determines in His lofty and spiritual abode to give it.
+
+[8:3] For water and fire and earth are subservient even to wicked men, who are condemned to the mines, in order that they may do therewith what they will, but only so far as is permitted.
+
+[8:4] Nor, in truth, are those evil angels to be called creators, because by their means the magicians, withstanding the servant of God, made frogs and serpents; for it was not they who created them.
+
+[8:5] But, in truth, some hidden seeds of all things that are born corporeally and visibly, are concealed in the corporeal elements of this world.
+
+[8:6] For those seeds that are visible now to our eyes from fruits and living things, are quite distinct from the hidden seeds of those former seeds; from which, at the bidding of the Creator, the water produced the first swimming creatures and fowl, and the earth the first buds after their kind, and the first living creatures after their kind.
+
+[8:7] For neither at that time were those seeds so drawn forth into products of their several kinds, as that the power of production was exhausted in those products; but oftentimes, suitable combinations of circumstances are wanting, whereby they may be enabled to burst forth and complete their species.
+
+[8:8] For, consider, the very least shoot is a seed; for, if fitly consigned to the earth, it produces a tree.
+
+[8:9] But of this shoot there is a yet more subtle seed in some grain of the same species, and this is visible even to us.
+
+[8:10] But of this grain also there is further still a seed, which, although we are unable to see it with our eyes, yet we can conjecture its existence from our reason; because, except there were some such power in those elements, there would not so frequently be produced from the earth things which had not been sown there; nor yet so many animals, without any previous commixture of male and female; whether on the land, or in the water, which yet grow, and by commingling bring forth others, while themselves sprang up without any union of parents.
+
+[8:11] And certainly bees do not conceive the seeds of their young by commixture, but gather them as they lie scattered over the earth with their mouth.
+
+[8:12] For the Creator of these invisible seeds is the Creator of all things Himself; since whatever comes forth to our sight by being born, receives the first beginnings of its course from hidden seeds, and takes the successive increments of its proper size and its distinctive forms from these as it were original rules.
+
+[8:13] As therefore we do not call parents the creators of men, nor farmers the creators of corn,—although it is by the outward application of their actions that the power of God operates within for the creating these things;—so it is not right to think not only the bad but even the good angels to be creators, if, through the subtilty of their perception and body, they know the seeds of things which to us are more hidden, and scatter them secretly through fit temperings of the elements, and so furnish opportunities of producing things, and of accelerating their increase.
+
+[8:14] But neither do the good angels do these things, except as far as God commands, nor do the evil ones do them wrongfully, except as far as He righteously permits.
+
+[8:15] For the malignity of the wicked one makes his own will wrongful; but the power to do so, he receives rightfully, whether for his own punishment, or, in the case of others, for the punishment of the wicked, or for the praise of the good.
+
+[8:16] 14  Accordingly, the Apostle Paul, distinguishing God's creating and forming within, from the operations of the creature which are applied from without, and drawing a similitude from agriculture, says, "I planted, Apollos watered; but God gave the increase".
+
+[8:17] As, therefore, in the case of spiritual life itself, no one except God can work righteousness in our minds, yet men also are able to preach the gospel as an outward means, not only the good in sincerity, but also the evil in pretence; so in the creation of visible things it is God that works from within; but the exterior operations, whether of good or bad, of angels or men, or even of any kind of animal, according to His own absolute power, and to the distribution of faculties, and the several appetites for things pleasant, which He Himself has imparted, are applied by Him to that nature of things wherein He creates all things, in like manner as agriculture is to the soil.
+
+[8:18] Wherefore I can no more call the bad angels, evoked by magic arts, the creators of the frogs and serpents, than I can say that bad men were creators of the corn crop, which I see to have sprung up through their labor.
+
+[8:19] 15  Just as Jacob, again, was not the creator of the colors in the flocks, because he placed the various colored rods for the several mothers, as they drank, to look at in conceiving.
+
+[8:20] Yet neither were the cattle themselves creators of the variety of their own offspring, because the variegated image, impressed through their eyes by the sight of the varied rods, clave to their soul, but could affect the body that was animated by the spirit thus affected only through sympathy with this commingling, so far as to stain with color the tender beginnings of their offspring.
+
+[8:21] For that they are so affected from themselves, whether the soul from the body, or the body from the soul, arises in truth from suitable reasons, which immutably exist in that highest wisdom of God Himself, which no extent of place contains; and which, while it is itself unchangeable, yet quits not one even of those things which are changeable, because there is not one of them that is not created by itself.
+
+[8:22] For it was the unchangeable and invisible reason of the wisdom of God, by which all things are created, which caused not rods, but cattle, to be born from cattle; but that the color of the cattle conceived should be in any degree influenced by the variety of the rods, came to pass through the soul of the pregnant cattle being affected through their eyes from without, and so according to its own measure drawing inwardly within itself the rule of formation, which it received from the innermost power of its own Creator.
+
+[8:23] How great, however, may be the power of the soul in affecting and changing corporeal substance (although certainly it cannot be called the creator of the body, because every cause of changeable and sensible substance, and all its measure and number and weight, by which are brought to pass both its being at all and its being of such and such a nature, arise from the intelligible and unchangeable life, which is above all things, and which reaches even to the most distant and earthly things), is a very copious subject, and one not now necessary.
+
+[8:24] But I thought the act of Jacob about the cattle should be noticed, for this reason, viz.
+
+[8:25] in order that it might be perceived that, if the man who thus placed those rods cannot be called the creator of the colors in the lambs and kids; nor yet even the souls themselves of the mothers, which colored the seeds conceived in the flesh by the image of variegated color, conceived through the eyes of the body, so far as nature permitted it; much less can it be said that the creators of the frogs and serpents were the bad angels, through whom the magicians of Pharaoh then made them.
+
+[9:1] Chapter 9 —The Original Cause of All Things is from God.
+
+[9:2] 16  For it is one thing to make and administer the creature from the innermost and highest turning-point of causation, which He alone does who is God the Creator; but quite another thing to apply some operation from without in proportion to the strength and faculties assigned to each by Him, so that what is created may come forth into being at this time or at that, and in this or that way.
+
+[9:3] For all these things in the way of original and beginning have already been created in a kind of texture of the elements, but they come forth when they get the opportunity.
+
+[9:4] For as mothers are pregnant with young, so the world itself is pregnant with the causes of things that are born; which are not created in it, except from that highest essence, where nothing either springs up or dies, either begins to be or ceases.
+
+[9:5] But the applying from without of adventitious causes, which, although they are not natural, yet are to be applied according to nature, in order that those things which are contained and hidden in the secret bosom of nature may break forth and be outwardly created in some way by the unfolding of the proper measures and numbers and weights which they have received in secret from Him "who has ordered all things in measure and number and weight:" this is not only in the power of bad angels, but also of bad men, as I have shown above by the example of agriculture.
+
+[9:6] 17  But lest the somewhat different condition of animals should trouble any one, in that they have the breath of life with the sense of desiring those things that are according to nature, and of avoiding those things that are contrary to it; we must consider also, how many men there are who know from what herbs or flesh, or from what juices or liquids you please, of whatever sort, whether so placed or so buried, or so bruised or so mixed, this or that animal is commonly born; yet who can be so foolish as to dare to call himself the creator of these animals? Is it, therefore, to be wondered at, if just as any, the most worthless of men, can know whence such or such worms and flies are produced; so the evil angels in proportion to the subtlety of their perceptions discern in the more hidden seeds of the elements whence frogs and serpents are produced, and so through certain and known opportune combinations applying these seeds by secret movements, cause them to be created, but do not create them? Only men do not marvel at those things that are usually done by men.
+
+[9:7] But if any one chance to wonder at the quickness of those growths, in that those living beings were so quickly made, let him consider how even this may be brought about by men in proportion to the measure of human capability.
+
+[9:8] For whence is it that the same bodies generate worms more quickly in summer than in winter, or in hotter than in colder places? Only these things are applied by men with so much the more difficulty, in proportion as their earthly and sluggish members are wanting in subtlety of perception, and in rapidity of bodily motion.
+
+[9:9] And hence it arises that in the case of any kind of angels, in proportion as it is easier for them to draw out the proximate causes from the elements, so much the more marvellous is their rapidity in works of this kind.
+
+[9:10] 18  But He only is the creator who is the chief former of these things.
+
+[9:11] Neither can any one be this, unless He with whom primarily rests the measure, number, and weight of all things existing; and He is God the one Creator, by whose unspeakable power it comes to pass, also, that what these angels were able to do if they were permitted, they are therefore not able to do because they are not permitted.
+
+[9:12] For there is no other reason why they who made frogs and serpents were not able to make the most minute flies, unless because the greater power of God was present prohibiting them, through the Holy Spirit; which even the magicians themselves confessed, saying, "This is the finger of God".
+
+[9:13] But what they are able to do by nature, yet cannot do, because they are prohibited; and what the very condition of their nature itself does not suffer them to do; it is difficult, nay, impossible, for man to search out, unless through that gift of God which the apostle mentions when he says, "To another the discerning of spirits".
+
+[9:14] For we know that a man can walk, yet that he cannot do so if he is not permitted; but that he cannot fly, even if he be permitted.
+
+[9:15] So those angels, also, are able to do certain things if they are permitted by more powerful angels, according to the supreme commandment of God; but cannot do certain other things, not even if they are permitted by them; because He does not permit from whom they have received such and such a measure of natural powers: who, even by His angels, does not usually permit what He has given them power to be able to do.
+
+[9:16] 19  Excepting, therefore, those corporeal things which are done in the order of nature in a perfectly usual series of times, as e.
+
+[9:17] g.
+
+[9:18] , the rising and setting of the stars, the generations and deaths of animals, the innumerable diversities of seeds and buds, the vapors and the clouds, the snow and the rain, the lightnings and the thunder, the thunderbolts and the hail, the winds and the fire, cold and heat, and all like things; excepting also those which in the same order of nature occur rarely, such as eclipses, unusual appearances of stars, and monsters, and earthquakes, and such like;—all these, I say, are to be excepted, of which indeed the first and chief cause is only the will of God; whence also in the Psalm, when some things of this kind had been mentioned, "Fire and hail, snow and vapor, stormy wind," lest any one should think those to be brought about either by chance or only from corporeal causes, or even from such as are spiritual, but exist apart from the will of God, it is added immediately, "fulfilling His word".
+
+[10:1] Chapter 10 —In How Many Ways the Creature is to Be Taken by Way of Sign.
+
+[10:2] The Eucharist.
+
+[10:3] Excepting, therefore, all these things as I just now said, there are some also of another kind; which, although from the same corporeal substance, are yet brought within reach of our senses in order to announce something from God, and these are properly called miracles and signs; yet is not the person of God Himself assumed in all things which are announced to us by the Lord God.
+
+[10:4] When, however, that person is assumed, it is sometimes made manifest as an angel; sometimes in that form which is not an angel in his own proper being, although it is ordered and ministered by an angel.
+
+[10:5] Again, when it is assumed in that form which is not an angel in his own proper being; sometimes in this case it is a body itself already existing, assumed after some kind of change, in order to make that message manifest; sometimes it is one that comes into being for the purpose, and that being accomplished, is discarded.
+
+[10:6] Just as, also, when men are the messengers, sometimes they speak the words of God in their own person, as when it is premised, "The Lord said," or, "Thus saith the Lord," or any other such phrase, but sometimes without any such prefix, they take upon themselves the very person of God, as e.
+
+[10:7] g.
+
+[10:8] : "I will instruct thee, and teach thee in the way wherein thou shalt go:" so, not only in word, but also in act, the signifying of the person of God is imposed upon the prophet, in order that he may bear that person in the ministering of the prophecy; just as he, for instance, bore that person who divided his garment into twelve parts, and gave ten of them to the servant of King Solomon, to the future king of Israel.
+
+[10:9] Sometimes, also, a thing which was not a prophet in his own proper self, and which existed already among earthly things, was assumed in order to signify this; as Jacob, when he had seen the dream, upon waking up did with the stone, which when asleep he had under his head.
+
+[10:10] Sometimes a thing is made in the same kind, for the mere purpose; so as either to continue a little while in existence, as that brazen serpent was able to do which was lifted up in the wilderness, and as written records are able to do likewise; or so as to pass away after having accomplished its ministry, as the bread made for the purpose is consumed in the receiving of the sacrament.
+
+[10:11] 20  But because these things are known to men, in that they are done by men, they may well meet with reverence as being holy things, but they cannot cause wonder as being miracles.
+
+[10:12] And therefore those things which are done by angels are the more wonderful to us, in that they are more difficult and more known; but they are known and easy to them as being their own actions.
+
+[10:13] An angel speaks in the person of God to man, saying, "I am the God of Abraham, and the God of Isaac, and the God of Jacob;" the Scripture having said just before, "The angel of the Lord appeared to him".
+
+[10:14] And a man also speaks in the person of God, saying, "Hear, O my people, and I will testify unto thee, O Israel: I am the Lord thy God".
+
+[10:15] A rod was taken to serve as a sign, and was changed into a serpent by angelical power; but although that power is wanting to man, yet a stone was taken also by man for a similar sign.
+
+[10:16] There is a wide difference between the deed of the angel and the deed of the man.
+
+[10:17] The former is both to be wondered at and to be understood, the latter only to be understood.
+
+[10:18] That which is understood from both, is perhaps one and the same; but those things from which it is understood, are different.
+
+[10:19] Just as if the name of God were written both in gold and in ink; the former would be the more precious, the latter the more worthless; yet that which is signified in both is one and the same.
+
+[10:20] And although the serpent that came from Moses' rod signified the same thing as Jacob's stone, yet Jacob's stone signified something better than did the serpents of the magicians.
+
+[10:21] For as the anointing of the stone signified Christ in the flesh, in which He was anointed with the oil of gladness above His fellows; so the rod of Moses, turned into a serpent, signified Christ Himself made obedient unto death, even the death of the cross.
+
+[10:22] Whence it is said, "And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up, that whosoever believeth in Him should not perish, but have everlasting life;" just as by gazing on that serpent which was lifted up in the wilderness, they did not perish by the bites of the serpents.
+
+[10:23] For "our old man is crucified with Him, that the body of sin might be destroyed".
+
+[10:24] For by the serpent death is understood, which was wrought by the serpent in paradise, the mode of speech expressing the effect by the efficient.
+
+[10:25] Therefore the rod passed into the serpent, Christ into death; and the serpent again into the rod, whole Christ with His body into the resurrection; which body is the Church; and this shall be in the end of time, signified by the tail, which Moses held, in order that it might return into a rod.
+
+[10:26] But the serpents of the magicians, like those who are dead in the world, unless by believing in Christ they shall have been as it were swallowed up by, and have entered into, His body, will not be able to rise again in Him.
+
+[10:27] Jacob's stone, therefore, as I said, signified something better than did the serpents of the magicians; yet the deed of the magicians was much more wonderful.
+
+[10:28] But these things in this way are no hindrance to the understanding of the matter; just as if the name of a man were written in gold, and that of God in ink.
+
+[10:29] 21  What man, again, knows how the angels made or took those clouds and fires in order to signify the message they were bearing, even if we supposed that the Lord or the Holy Spirit was manifested in those corporeal forms? Just as infants do not know of that which is placed upon the altar and consumed after the performance of the holy celebration, whence or in what manner it is made, or whence it is taken for religious use.
+
+[10:30] And if they were never to learn from their own experience or that of others, and never to see that species of thing except during the celebration of the sacrament, when it is being offered and given; and if it were told them by the most weighty authority whose body and blood it is; they will believe nothing else, except that the Lord absolutely appeared in this form to the eyes of mortals, and that that liquid actually flowed from the piercing of a side which resembled this.
+
+[10:31] But it is certainly a useful caution to myself, that I should remember what my own powers are, and admonish my brethren that they also remember what theirs are, lest human infirmity pass on beyond what is safe.
+
+[10:32] For how the angels do these things, or rather, how God does these things by His angels, and how far He wills them to be done even by the bad angels, whether by permitting, or commanding, or compelling, from the hidden seat of His own supreme power; this I can neither penetrate by the sight of the eyes, nor make clear by assurance of reason, nor be carried on to comprehend it by reach of intellect, so as to speak thereupon to all questions that may be asked respecting these matters, as certainly as if I were an angel, or a prophet, or an apostle.
+
+[10:33] "For the thoughts of mortal men are miserable, and our devices are but uncertain.
+
+[10:34] For the corruptible body presseth down the soul, and the earthly tabernacle weigheth down the mind, that museth upon many things.
+
+[10:35] And hardly do we guess aright at things that are upon earth, and with labor do we find the things that are before us; but the things that are in heaven, who hath searched out?" But because it goes on to say, "And Thy counsel who hath known, except Thou give wisdom, and send Thy Holy Spirit from above;" therefore we refrain indeed from searching out the things which are in heaven, under which kind are contained both angelical bodies according to their proper dignity, and any corporeal action of those bodies; yet, according to the Spirit of God sent to us from above, and to His grace imparted to our minds, I dare to say confidently, that neither God the Father, nor His Word, nor His Spirit, which is the one God, is in any way changeable in regard to that which He is, and whereby He is that which He is; and much less is in this regard visible.
+
+[10:36] Since there are no doubt some things changeable, yet not visible, as are our thoughts, and memories, and wills, and the whole incorporeal creature; but there is nothing that is visible that is not also changeable.
+
+[11:1] Chapter 11 —The Essence of God Never Appeared in Itself.
+
+[11:2] Divine Appearances to the Fathers Wrought by the Ministry of Angels.
+
+[11:3] An Objection Drawn from the Mode of Speech Removed.
+
+[11:4] That the Appearing of God to Abraham Himself, Just as that to Moses, Was Wrought by Angels.
+
+[11:5] The Same Thing is Proved by the Law Being Given to Moses by Angels.
+
+[11:6] What Has Been Said in This Book, and What Remains to Be Said in the Next.
+
+[11:7] Wherefore the substance, or, if it is better so to say, the essence of God, wherein we understand, in proportion to our measure, in however small a degree, the Father, the Son, and the Holy Spirit, since it is in no way changeable, can in no way in its proper self be visible.
+
+[11:8] 22  It is manifest, accordingly, that all those appearances to the fathers, when God was presented to them according to His own dispensation, suitable to the times, were wrought through the creature.
+
+[11:9] And if we cannot discern in what manner He wrought them by ministry of angels, yet we say that they were wrought by angels; but not from our own power of discernment, lest we should seem to any one to be wise beyond our measure, whereas we are wise so as to think soberly, as God hath dealt to us the measure of faith; and we believe, and therefore speak.
+
+[11:10] For the authority is extant of the divine Scriptures, from which our reason ought not to turn aside; nor by leaving the solid support of the divine utterance, to fall headlong over the precipice of its own surmisings, in matters wherein neither the perceptions of the body rule, nor the clear reason of the truth shines forth.
+
+[11:11] Now, certainly, it is written most clearly in the Epistle to the Hebrews, when the dispensation of the New Testament was to be distinguished from the dispensation of the Old, according to the fitness of ages and of times, that not only those visible things, but also the word itself, was wrought by angels.
+
+[11:12] For it is said thus: "But to which of the angels said He at any time, Sit on my right hand, until I make thine enemies thy footstool? Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation?" Whence it appears that all those things were not only wrought by angels, but wrought also on our account, that is, on account of the people of God, to whom is promised the inheritance of eternal life.
+
+[11:13] As it is written also to the Corinthians, "Now all these things happened unto them in a figure: and they are written for our admonition, upon whom the ends of the world are come".
+
+[11:14] And then, demonstrating by plain consequence that as at that time the word was spoken by the angels, so now by the Son; "Therefore," he says, "we ought to give the more earnest heed to the things which we have heard, lest at any time we should let them slip.
+
+[11:15] For if the word spoken by angels was steadfast, and every transgression and disobedience received a just recompense of reward; how shall we escape, if we neglect so great salvation?" And then, as though you asked, What salvation?—in order to show that he is now speaking of the New Testament, that is, of the word which was spoken not by angels, but by the Lord, he says, "Which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard Him; God also bearing them witness, both with signs and wonders, and with divers miracles, and gifts of the Holy Ghost, according to His own will".
+
+[11:16] 23  But some one may say, Why then is it written, "The Lord said to Moses;" and not, rather, The angel said to Moses? Because, when the crier proclaims the words of the judge, it is not usually written in the record, so and so the crier said, but so and so the judge.
+
+[11:17] In like manner also, when the holy prophet speaks, although we say, The prophet said, we mean nothing else to be understood than that the Lord said; and if we were to say, The Lord said, we should not put the prophet aside, but only intimate who spake by him.
+
+[11:18] And, indeed, these Scriptures often reveal the angel to be the Lord, of whose speaking it is from time to time said, "the Lord said," as we have shown already.
+
+[11:19] But on account of those who, since the Scripture in that place specifies an angel, will have the Son of God Himself and in Himself to be understood, because He is called an angel by the prophet, as announcing the will of His Father and of Himself; I have therefore thought fit to produce a plainer testimony from this epistle, where it is not said by an angel, but "by angels".
+
+[11:20] 24  For Stephen, too, in the Acts of the Apostles, relates these things in that manner in which they are also written in the Old Testament: "Men, brethren, and fathers, hearken," he says; "The God of glory appeared unto our father Abraham, when he was in Mesopotamia".
+
+[11:21] But lest any one should think that the God of glory appeared then to the eyes of any mortal in that which He is in Himself, he goes on to say that an angel appeared to Moses.
+
+[11:22] "Then fled Moses," he says, "at that saying, and was a stranger in the land of Midian, where he begat two sons.
+
+[11:23] And when forty years were expired, there appeared to him in the wilderness of mount Sinai an angel of the Lord in a flame of fire in a bush.
+
+[11:24] When Moses saw it, he wondered at the sight: and as he drew near to behold it, the voice of the Lord came unto him, saying, I am the God of thy fathers, the God of Abraham, and the God of Isaac, and the God of Jacob.
+
+[11:25] Then Moses trembled, and durst not behold.
+
+[11:26] Then said the Lord to him, Put off thy shoes from thy feet," etc.
+
+[11:27] Here, certainly, he speaks both of angel and of Lord; and of the same as the God of Abraham, and the God of Isaac, and the God of Jacob; as is written in Genesis.
+
+[11:28] 25  Can there be any one who will say that the Lord appeared to Moses by an angel, but to Abraham by Himself? Let us not answer this question from Stephen, but from the book itself, whence Stephen took his narrative.
+
+[11:29] For, pray, because it is written, "And the Lord God said unto Abraham;" and a little after, "And the Lord God appeared unto Abraham;" were these things, for this reason, not done by angels? Whereas it is said in like manner in another place, "And the Lord appeared to him in the plains of Mamre, as he sat in the tent door in the heat of the day;" and yet it is added immediately, "And he lift up his eyes and looked, and, lo, three men stood by him:" of whom we have already spoken.
+
+[11:30] For how will these people, who either will not rise from the words to the meaning, or easily throw themselves down from the meaning to the words,—how, I say, will they be able to explain that God was seen in three men, except they confess that they were angels, as that which follows also shows? Because it is not said an angel spoke or appeared to him, will they therefore venture to say that the vision and voice granted to Moses was wrought by an angel because it is so written, but that God appeared and spake in His own substance to Abraham because there is no mention made of an angel? What of the fact, that even in respect to Abraham an angel is not left unmentioned? For when his son was ordered to be offered up as a sacrifice, we read thus: "And it came to pass after these things that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am.
+
+[11:31] And He said, Take now thy son, thine only son Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt-offering upon one of the mountains that I will tell thee of".
+
+[11:32] Certainly God is here mentioned, not an angel.
+
+[11:33] But a little afterwards Scripture hath it thus: "And Abraham stretched forth his hand, and took the knife to slay his son.
+
+[11:34] And the angel of the Lord called unto him out of heaven, and said, Abraham, Abraham: and he said, Here am I.
+
+[11:35] And he said, Lay not thine hand upon the lad, neither do thou anything unto him".
+
+[11:36] What can be answered to this? Will they say that God commanded that Isaac should be slain, and that an angel forbade it? and further, that the father himself, in opposition to the decree of God, who had commanded that he should be slain, obeyed the angel, who had bidden him spare him? Such an interpretation is to be rejected as absurd.
+
+[11:37] Yet not even for it, gross and abject as it is, does Scripture leave any room, for it immediately adds: "For now I know that thou fearest God, seeing thou hast not withheld thy son, thine only son, on account of me".
+
+[11:38] What is "on account of me," except on account of Him who had commanded him to be slain? Was then the God of Abraham the same as the angel, or was it not rather God by an angel? Consider what follows.
+
+[11:39] Here, certainly, already an angel has been most clearly spoken of; yet notice the context: "And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt-offering in the stead of his son.
+
+[11:40] And Abraham called the name of that place, The Lord saw: as it is said to this day, In the mount the Lord was seen".
+
+[11:41] Just as that which a little before God said by an angel, "For now I know that thou fearest God;" not because it was to be understood that God then came to know, but that He brought it to pass that through God Abraham himself came to know what strength of heart he had to obey God, even to the sacrificing of his only son: after that mode of speech in which the effect is signified by the efficient,—as cold is said to be sluggish, because it makes men sluggish; so that He was therefore said to know, because He had made Abraham himself to know, who might well have not discerned the firmness of his own faith, had it not been proved by such a trial.
+
+[11:42] So here, too, Abraham called the name of the place "The Lord saw," that is, caused Himself to be seen.
+
+[11:43] For he goes on immediately to say, "As it is said to this day, In the mount the Lord was seen".
+
+[11:44] Here you see the same angel is called Lord: wherefore, unless because the Lord spake by the angel? But if we pass on to that which follows, the angel altogether speaks as a prophet, and reveals expressly that God is speaking by the angel.
+
+[11:45] "And the angel of the Lord," he says, "called unto Abraham out of heaven the second time, and said, By myself I have sworn, saith the Lord; for because thou hast done this thing, and hast not withheld thy son, thine only son, on account of me," etc.
+
+[11:46] Certainly these words, viz.
+
+[11:47] that he by whom the Lord speaks should say, "Thus saith the Lord," are commonly used by the prophets also.
+
+[11:48] Does the Son of God say of the Father, "The Lord saith," while He Himself is that Angel of the Father? What then? Do they not see how hard pressed they are about these three men who appeared to Abraham, when it had been said before, "The Lord appeared to him?" Were they not angels because they are called men? Let them read Daniel, saying, "Behold the man Gabriel".
+
+[11:49] 26  But why do we delay any longer to stop their mouths by another most clear and most weighty proof, where not an angel in the singular nor men in the plural are spoken of, but simply angels; by whom not any particular word was wrought, but the Law itself is most distinctly declared to be given; which certainly none of the faithful doubts that God gave to Moses for the control of the children of Israel, or yet, that it was given by angels.
+
+[11:50] So Stephen speaks: "Ye stiff-necked," he says, "and uncircumcised in heart and ears, ye do always resist the Holy Ghost: as your fathers did, so do ye.
+
+[11:51] Which of the prophets have not your fathers persecuted? and they have slain them which showed before of the coming of the Just One; of whom ye have been now the betrayers and murderers: who have received the Law by the disposition of angels, and have not kept it".
+
+[11:52] What is more evident than this? What more strong than such an authority? The Law, indeed, was given to that people by the disposition of angels; but the advent of our Lord Jesus Christ was by it prepared and pre-announced; and He Himself, as the Word of God, was in some wonderful and unspeakable manner in the angels, by whose disposition the Law itself was given.
+
+[11:53] And hence He said in the Gospel, "For had ye believed Moses, ye would have believed me; for he wrote of me".
+
+[11:54] Therefore then the Lord was speaking by the angels; and the son of God, who was to be the Mediator of God and men, from the seed of Abraham, was preparing His own advent by the angels, that He might find some by whom He would be received, confessing themselves guilty, whom the Law unfulfilled had made transgressors.
+
+[11:55] And hence the apostle also says to the Galatians, "Wherefore then serveth the Law? It was added because of transgressions, till the seed should come to whom the promise was made, which [seed] was ordered through angels in the hand of a mediator;" that is, ordered through angels in His own hand.
+
+[11:56] For He was not born in limitation, but in power.
+
+[11:57] But you learn in another place that he does not mean any one of the angels as a mediator, but the Lord Jesus Christ Himself, in so far as He deigned to be made man: "For there is one God," he says, "and one Mediator between God and man, the man Christ Jesus".
+
+[11:58] Hence that passover in the killing of the lamb: hence all those things which are figuratively spoken in the Law, of Christ to come in the flesh, and to suffer, but also to rise again, which Law was given by the disposition of angels; in which angels, were certainly the Father, and the Son, and the Holy Spirit; and in which, sometimes the Father, sometimes the Son, sometimes the Holy Spirit, and sometimes God, without any distinction of person, was figuratively signified by them, although appearing in visible and sensible forms, yet by His own creature, not by His substance, in order to the seeing of which, hearts are cleansed through all those things which are seen by the eyes and heard by the ears.
+
+[11:59] 27  But now, as I think, that which we had undertaken to show in this book has been sufficiently discussed and demonstrated, according to our capacity; and it has been established, both by probable reason, so far as a man, or rather, so far as I am able, and by strength of authority, so far as the divine declarations from the Holy Scriptures have been made clear, that those words and bodily appearances which were given to these ancient fathers of ours before the incarnation of the Saviour, when God was said to appear, were wrought by angels: whether themselves speaking or doing something in the person of God, as we have shown that the prophets also were wont to do, or assuming from the creature that which they themselves were not, wherein God might be shown in a figure to men; which manner of showing also, Scripture teaches by many examples, that the prophets, too, did not omit.
+
+[11:60] It remains, therefore, now for us to consider,—since both in the Lord as born of a virgin, and in the Holy Spirit descending in a corporeal form like a dove, and in the tongues like as of fire, which appeared with a sound from heaven on the day of Pentecost, after the ascension of the Lord, it was not the Word of God Himself by His own substance, in which He is equal and eternal with the Father, nor the Spirit of the Father and of the Son by His own substance, in which He Himself also is equal and co-eternal with both, but assuredly a creature, such as could be formed and exist in these fashions, which appeared to corporeal and mortal senses,—it remains, I say, to consider what difference there is between these manifestations and those which were proper to the Son of God and to the Holy Spirit, although wrought by the visible creature; which subject we shall more conveniently begin in another book.
+

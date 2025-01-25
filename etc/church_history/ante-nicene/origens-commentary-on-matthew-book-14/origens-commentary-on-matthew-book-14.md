@@ -1,0 +1,534 @@
+# Origen's Commentary on Matthew Book XIV
+
+[1:1] Origen's Commentary on Matthew, Book XIV:.
+
+[1:2] The Power of Harmony in Relation to Prayer.
+
+[1:3] "Again I say unto you that if two of you shall agree on earth as touching anything that they shall ask, it shall be done for them".
+
+[1:4] The word symphony is strictly applied to the harmonies of sounds in music.
+
+[1:5] And there are indeed among musical sounds some accordant and others discordant.
+
+[1:6] But the Evangelic Scripture is familiar with the name as applied to musical matters in the passage, "He heard a symphony and dancing".
+
+[1:7] For it was fitting that when the son who had been lost and found came by penitence into concord with his father a symphony should be heard on the occasion of the joyous mirth of the house.
+
+[1:8] But the wicked Laban was not acquainted with the word symphony in his saying to Jacob, "And if thou hadst told me I would have sent thee away with mirth and with music and with drums and a harp".
+
+[1:9] But akin to the symphony of this nature is that which is written in the second Book of Kings when "the brethren of Aminadab went before the ark, and David and his son played before the Lord on instruments artistically fitted with might and with songs;" for the instruments thus fitted with might and with songs, had in themselves the musical symphony which is so powerful that when two only, bring along with the symphony which has relation to the music that is divine and spiritual, a request to the Father in heaven about anything whatsoever, the Father grants the request to those who ask along with the symphony on earth,—which is most miraculous,—those things which those who have made the symphony spoken of may have asked.
+
+[1:10] So also I understand the apostolic saying "Defraud ye not one the other except it be by agreement for a season that ye may give yourselves unto prayer".
+
+[1:11] For since the word harmony is applied to those who marry according to God in the passage from Proverbs which is as follows: "Fathers will divide their house and substance to their sons, but from God the woman is married to the man," it is a logical consequence of the harmony being from God, that the name and the deed should enjoy the agreement with a view to prayer, as is indicated in the word, "unless it be by agreement".
+
+[1:12] Then the Word repeating that the agreeing of two on the earth is the same thing as the agreeing with Christ, adds, "For where two or three are gathered together in My name".
+
+[1:13] Therefore the two or three who are gathered together in the name of Christ are those who are in agreement on earth, not two only but sometimes also three.
+
+[1:14] But he who has the power will consider whether this agreement and a congregation of this sort in the midst of which Christ is, can be found in more, since "narrow and straightened is the way that leadeth unto life, and few be they that find it".
+
+[1:15] But perhaps also not even few but two or three make a symphony as Peter and James and John, to whom as making a symphony the Word of God showed His own glory.
+
+[1:16] But two made a symphony, Paul and Sosthenes, when writing the first Epistle to the Corinthians; and after this Paul and Timothy when sending the second Epistle to the same.
+
+[1:17] And even three made a symphony when Paul and Silvanus and Timothy gave instruction by letter to the Thessalonians.
+
+[1:18] But if it be necessary also from the ancient Scriptures to bring forward the three who made a symphony on earth, so that the Word was in the midst of them making them one, attend to the superscription of the Psalms, as for example to that of the forty-first, which is as follows: "Unto the end, unto understanding, for the sons of Korah".
+
+[1:19] For though there were three sons of Korah whose names we find in the Book of Exodus, Aser, which is, by interpretation, "instruction," and the second Elkana, which is translated, "possession of God," and the third Abiasaph, which in the Greek tongue might be rendered, "congregation of the father," yet the prophecies were not divided but were both spoken and written by one spirit, and one voice, and one soul, which wrought with true harmony, and the three speak as one, "As the heart panteth after the springs of the water, so panteth my soul after thee, O God".
+
+[1:20] But also they say in the plural in the forty-fourth Psalm, "O God, we have heard with our ears".
+
+[1:21] But if you wish still further to see those who are making symphony on earth look to those who heard the exhortation, "that ye may be perfected together in the same mind and in the same judgment," and who strove after the goal, "the soul and the heart of all the believers were one," who have become such, if it be possible for such a condition to be found in more than two or three, that there is no discord between them, just as there is no discord between the strings of the ten-stringed psaltery with each other.
+
+[1:22] But they were not in symphony in earth who said, "I am of Paul, and I of Apollos, and I of Cephas, and I of Christ," but there were schisms among them, upon the dissolution of which they were gathered together in company with the spirit in Paul, with the power of the Lord Jesus Christ, that they might no longer "bite and devour one another so that they were consumed by one another;" for discord consumes, as concord brings together, and admits the Son of God who comes in the midst of those who have become at concord.
+
+[1:23] And strictly, indeed, concord takes place in two things generic, through the perfecting together, as the Apostle has called it, of the same mind by an intellectual grasp of the same opinions, and through the perfecting together of the same judgment, by a like way of living.
+
+[1:24] But if whenever two of us agree on earth as touching anything that they shall ask, it shall be done for them of the Father of Jesus who is in heaven, plainly when this is not done for them of the Father in heaven as touching anything that they shall ask, there the two have not been in agreement on earth; and this is the cause why we are not heard when we pray, that we do not agree with one another on earth, neither in opinions nor in life.
+
+[1:25] But further also if we are the body of Christ and God hath set the members each one of them in the body that the members may have the same care one for another, and may agree with one another, and when one member suffers, all the members suffer with it, and if one be glorified, they rejoice with it, we ought to practise the symphony which springs from the divine music, that when we are gathered together in the name of Christ, He may be in the midst of us, the Word of God, and the Wisdom of God, and His Power.
+
+[2:1] The Harmony of Husband and Wife.
+
+[2:2] So much then for the more common understanding of the two or three whom the Word exhorts to be in agreement.
+
+[2:3] But now let us also touch upon another interpretation which was uttered by some one of our predecessors, exhorting those who were married to sanctity and purity; for by the two, he says, whom the Word desires to agree on earth, we must understand the husband and wife, who by agreement defraud each other of bodily intercourse that they may give themselves unto prayer; when if they pray for anything whatever that they shall ask, they shall receive it, the request being granted to them by the Father in heaven of Jesus Christ on the ground of such agreement.
+
+[2:4] And this interpretation does not appear to me to cause dissolution of marriage, but to be an incitement to agreement, so that if the one wished to be pure, but the other did not desire it, and on this account he who willed and was able to fulfil the better part, condescended to the one who had not the power or the will, they would not both have the accomplishment from the Father in heaven of Jesus Christ, of anything whatever that they might ask.
+
+[3:1] The Harmony of Body, Soul, and Spirit.
+
+[3:2] And next to this about the married, I am familiar also with another interpretation of the agreement between the two which is as follows.
+
+[3:3] In the wicked, sin reigns over the soul, being settled as on its own throne in this mortal body, so that the soul obeys the lusts thereof; but in the case of those, who have stirred up the sin which formerly reigned over the body as from a throne and who are in conflict with it, "the flesh lusteth against the spirit, and the spirit against the flesh;" but in the case of those who have now become perfected, the spirit has gained the mastery and put to death the deeds of the body, and imparts to the body of its own life, so that already this is fulfilled, "He shall quicken also your mortal bodies because of His Spirit that dwelleth in you;" and there arises a concord of the two, body and spirit, on the earth, on the successful accomplishment of which there is sent up a harmonious prayer also of him who "with the heart believes unto righteousness, but with the mouth maketh confession unto salvation," so that the heart is no longer far from God, and along with this the righteous man draws nigh to God with his own lips and mouth.
+
+[3:4] But still more blessed is it if the three be gathered together in the name of Jesus that this may be fulfilled, "May God sanctify you wholly, and may your spirit and soul and body be preserved entire without blame at the coming of our Lord Jesus Christ".
+
+[3:5] But some one may inquire with regard to the concord of spirit and body spoken of, if it is possible for these to be at concord without the third being so,—I mean the soul—and whether it does not follow from the concord of these on the earth after the two have been gathered together in the name of Christ, that the three also are already gathered together in His name, in the midst of whom comes the Son of God as all are dedicated to Him,—I mean the three,—and no one is opposed to Him, there being no antagonism not only on the part of the spirit, but not even of the soul, nor further of the body.
+
+[4:1] Harmony of the Old and New Covenants.
+
+[4:2] And likewise it is a pleasant thing to endeavour to understand and exhibit the fact of the concord of the two covenants,—of the one before the bodily advent of the Saviour and of the new covenant; for among those things in which the two covenants are at concord so that there is no discord between them would be found prayers, to the effect that about anything whatever they shall ask it shall be done to them from the Father in heaven.
+
+[4:3] And if also you desire the third that unites the two, do not hesitate to say that it is the Holy Spirit, since "the words of the wise," whether they be of those before the advent, or at the time of the advent, or after it, "are as goads, and as nails firmly fixed, which were given by agreement from one shepherd".
+
+[4:4] And do not let this also pass unobserved, that He did not say, where two or three are gathered together in My name, there "shall I be" in the midst of them, but "there am I," not going to be, not delaying, but at the very moment of the concord being Himself found, and being in the midst of them.
+
+[5:1] The Limit of Forgiveness.
+
+[5:2] "Then came Peter and said unto Him, Lord, how often shall my brother sin against me and I forgive him?" The conception that these things were said in a simple sense by Peter, as if he were inquiring whether he was to forgive his brother when he sinned against him seven times, but no longer if he sinned an eighth time, and by the Saviour, as if He thought that one should sit still and reckon up the sins of his neighbours against him in order that he might forgive seventy times and seven, but that from the seventy-eighth he should not forgive the man who wronged him, seems to me altogether silly and unworthy alike of the progress which Peter had made in the company of Jesus and of the divine magnanimity of Jesus.
+
+[5:3] Perhaps, then, these things also border on an obscurity akin to the words, "Hear My voice, ye wives of Lamech," etc.
+
+[5:4] If any one has already become a friend of Jesus so as to be taught by His spirit which illumines the reason of him who has advanced so far according to his desert, he might know the true meaning, therefore, in regard to these things, and such as Jesus Himself would have clearly expounded it; but we who fall short of the greatness of the friendship of Jesus must be content if we can babble a little about the passage.
+
+[5:5] The number six, then, appears to be working and toilsome, but the number seven to contain the idea of repose.
+
+[5:6] And consider if you can say that he, who loves the world and works the things of the world, and does those things which are material, sins six times, and that the number seven is the end of sin in his case, so that Peter with some such thought in his mind wished to pardon seven sins of those which his brother had committed against him.
+
+[5:7] But since as units the tens and the hundreds have a certain common measure of proportion to the number which is in units, and Jesus knew that the number might be exceeded, on this account, I think, that He added to the number seven also the seventy, and said that there ought to be forgiveness to brethren here, and to them who have sinned in respect to things here.
+
+[5:8] But if any one going beyond the things about the world and this age were to commit sin, even if it were trifling, he could not longer reasonably have forgiveness of sins; for forgiveness extends to the things here, and in relation to the sins committed here, whether the forgiveness comes late or soon; but there is no forgiveness, not even to a brother, who has sinned beyond the seven and seventy times.
+
+[5:9] But you might say that he who has sinned in such wise, whether as against Peter his brother, or as against Peter, against whom the gates of Hades do not prevail, is by sins of this kind in the smaller number of the sin, but according to sins still worse is in the number which has no forgiveness of sins.
+
+[6:1] Concerning the King Who Made a Reckoning with His Own Servants, to Whom Was Brought a Man Who Owed Ten Thousand Talents.
+
+[6:2] "Therefore I say unto you the kingdom of heaven is likened unto a certain king, who wished to make a reckoning with his own servants".
+
+[6:3] The general conception of the parable is to teach us that we should be inclined to forgive the sins committed against us by those who have wronged us, and especially if after the wrongdoing he who has done it supplicates him who has been wronged, asking forgiveness for the sins which he has committed against him.
+
+[6:4] And this the parable wishes to teach us by representing that even when forgiveness has been granted by God to us of the sins in respect of which we have received remission, exaction will be demanded even after the remission, unless we forgive the sins of those who have wronged us, so that there is no longer left in us the least remembrance of the wrong that was done, but the whole heart, assisted by the spirit of forgetfulness of wrongs, which is no common virtue, forgives him who has wronged us those things which have been wickedly done against any of us by him, even treacherously.
+
+[6:5] But next to the general conception of the parable, it is right to examine the whole of it more simply according to the letter, so that he who advances with care to the right investigation of each detail of the things previously written may derive profit from the examination of what is said.
+
+[6:6] Now there is, as is probable, an interpretation, transcendental and hard to trace, as it is somewhat mystical, according to which, after the analogy of the parables which are interpreted by the Evangelists, one would investigate each of the details in this; as, for example, who the king was, and who the servants were, and what was the beginning of his making a reckoning, and who was the one debtor who owed many talents, and who was his wife and who his children, and what were the "all things" spoken of besides those which the king ordered to be sold in order that the debt might be paid out of his belongings, and what was meant by the going out of the man who had been forgiven the many talents, and who was the one of the servants who was found and was a debtor not to the householder, but to the man who had been forgiven, and what is meant by the number of the hundred pence, and what by the word, "He took him by the throat saying, Pay what thou owest," and what is the prison into which he who had been forgiven all the talents went out and cast his fellow-servant, and who were the fellow-servants who were grieved and told the lord all that had been done, and who were the tormentors to whom he who had cast his fellow-servant into prison was delivered, and how he who was delivered to the tormentors paid all that was due, so that he no longer owed anything.
+
+[6:7] But it is probable also that some other things could be added to the number by a more competent investigator, the exposition and interpretation of which I think to be beyond the power of man, and requiring the Spirit of Christ who spoke them in order that Christ may be understood as He spoke; for as "no one among men knows the things of the man, save the spirit which is in him," and "no one knows the things of God, save the Spirit of God," so no one knows after God the things spoken by Christ in proverbs and parables save the Spirit of Christ, in which he who participates in Christ not only so far as He is Spirit, but in Christ as He is Wisdom, as He is Word, would behold the things which were revealed to him in this passage.
+
+[6:8] But with regard to the interpretation of the loftiest type, we make no profession; nor on the other hand with the assistance of Christ who is the Wisdom of God do we despair of apprehending the things signified in the parable; but whether it shall be the case that such things shall be dictated to us in connection with this Scripture or not, may God in Christ suggest the doing of that which is pleasing to Him, if only there be granted to us also concerning these things, the word of wisdom which is given from God through the Spirit, and the word of knowledge which is supplied according to the Spirit.
+
+[7:1] Exposition Continued: the King and the Servants.
+
+[7:2] "The kingdom of heaven," He says, "is likened," etc.
+
+[7:3] But if it be likened to such a king, and one who has done such things, who must we say that it is but the Son of God? For He is the King of the heavens, and as He is absolute Wisdom and absolute Righteousness and absolute Truth, is He not so also absolute Kingdom? But it is not a kingdom of any of those below, nor of a part of those above, but of all the things above, which were called heavens.
+
+[7:4] But if you enquire into the meaning of the words, "Theirs is the kingdom of heaven," you may say that Christ is theirs in so far as He is absolute Kingdom, reigning in every thought of the man who is no longer under the reign of sin which reigns in the mortal body of those who have subjected themselves to it.
+
+[7:5] And if I say, reigning in every thought, I mean something like this, reigning as Righteousness and Wisdom and Truth and the rest of the virtues in him who has become a heaven, because of bearing the image of the heavenly, and in every power, whether angelic, or the rest that are named saints, not only in this age, but also in that which is to come, and who are worthy of a kingdom of such a kind.
+
+[7:6] Accordingly this kingdom of heaven (when it was made "in the likeness of sinful flesh," that for sin it might condemn sin, when God made "Him who knew no sin to be sin on behalf of us," who bear the body of our sin), is likened to a certain king who is understood in relation to Jesus being united to Him, if we may dare so to speak, having more capacity towards being united and becoming entirely one with the "First-born of all creation," than he, who, being joined to the Lord, becomes one spirit with Him.
+
+[7:7] Now of this kingdom of the heavens which is likened unto a certain king, according to the conception of Jesus, and is united to Him, it is said by anticipation that he wished to make a reckoning with his servants.
+
+[7:8] But he is about to make a reckoning with them in order that it may be manifested how each has employed the tried money of the householder and his rational coins.
+
+[7:9] And the image in the parables was indeed taken from masters who made a reckoning with their own servants; but we shall understand more accurately what is signified by this part of the parable, if we fix our thought on the things done by the slaves who had administered their master's goods, and who were asked to give a reckoning concerning them.
+
+[7:10] For each of them, receiving in different measure from his master's goods, has used them either for that which was right so as to increase the goods of his master, or consumed it riotously on things which he ought not, and spent profusely without judgment and without discretion that which had been put into his hands.
+
+[7:11] But there are those who have wisely administered these goods and goods so great, but have lost others, and whenever they give the reckoning when the master makes a reckoning with them, there is gathered together how much loss each has incurred, and there is reckoned up how much gain each has brought, and according to the worthiness of the way in which he has administered it, he is either honoured or punished, or in some cases the debt is forgiven, but in others the talents are taken away.
+
+[7:12] Well, then, from what has been said, let us first look at the rational coins and the tried money of the householder, of which one receives more and another less, for according to the ability of each, to one are given five talents as he has the ability to administer so many, but to another two as not being able to receive the amount of the man before him, and to another one as being also inferior to the second.
+
+[7:13] Are these, then, the only differences, or are we to recognize these differences in the case of certain persons of whom the Gospel goes on to speak while there are also others besides these: In other parables also are found certain persons, as the two debtors, the one who owed five hundred pence, and the other fifty; but whether these had been entrusted with them and had administered them badly as being inferior in ability to him who had been entrusted with a talent, or had received them, we have not learned; but that they owed so much, we seem to be taught from the parable.
+
+[7:14] And there are found other ten servants who were each entrusted with a pound separately.
+
+[7:15] And if any one understood the varied character of the human soul and the wide differences from each other in respect of natural aptitude, or want of aptitude for more or fewer of the virtues, and for these virtues or for those, perhaps he would comprehend how each soul has come with certain coins of the householder which come to light with the full attainment of reason, and with the attention which follows the full attainment of reason, and with exercise in things that are right, or with diligence and exercise in other things, whether they be useful as pursuits, or in part useful and in part not useful, such as the opinions which are not wholly true nor wholly false.
+
+[8:1] The Principle of the Reckoning.
+
+[8:2] But you will here inquire whether all men can be called servants of the king, or some are servants whom he foreknew and fore-ordained, while there are others who transact business with the servants, and are called bankers.
+
+[8:3] And in like manner you will inquire if there are those outside the number of the slaves from whom the householder declares that he will exact his own with usury, not only men alien from piety, but also some of the believers.
+
+[8:4] Now the servants alone are the stewards of the Word, but the king, making a reckoning with the servants, demands from those who have borrowed from the servants, whether a hundred measures of wheat or a hundred measures of oil, or whatever in point of fact those who are outside of the household of the king have received; for he who owed the hundred measures of wheat or the hundred measures of oil is not found to be, according to the parable, a fellow-servant of the unjust steward, as is evident from the question—how much owest thou to my lord? But mark with me that each deed which is good or seemly is like a gain and an increment, but a wicked deed is like a loss; and as there is a certain gain when the money is greater and another when it is less, and as there are differences of more or less, so according to the good deeds, there is as it were a valuing of gains more or less.
+
+[8:5] To reckon what work is a great gain, and what a less gain, and what a least, is the prerogative of him who alone knows to investigate such things, looking at them in the light of the disposition, and the word, and the deed, and from consideration of the things which are not in our power cooperating with those that are; and so also in the case of things opposite, it is his to say what sin, when a reckoning is made with the servants, is found to be a great loss, and what is less, and what, if we may so call it, is the loss of the very last mite, or the last farthing.
+
+[8:6] The account, therefore, of the entire and whole life is exacted by that which is called the kingdom of heaven which is likened to a king, when "we must all stand before the judgment-sent of Christ that each one may receive the things done in the body according to what he hath done, whether good or bad;" and then when the reckoning is being made, shall there be brought into the reckoning that is made also every idle word that men shall speak, and any cup of cold water only which one has given to drink in the name of a disciple.
+
+[9:1] The Time Occupied by the Reckoning.
+
+[9:2] And these things will take place whenever that happens which is written in Daniel, "The books were opened and the judgment was set;" for a record, as it were, is made of all things that have been spoken and done and thought, and by divine power every hidden thing of ours shall be manifested, and everything that is covered shall be revealed, in order that when any one is found who has not "given diligence to be freed from the adversary," he may go in succession through the hands of the magistrate, and the judge, and the attendant into the prison, until he pays the very last mite; but when one has given diligence to be freed from him and owes nothing to any one, and already has made the pound ten pounds or five pounds, or doubled the five talents, or made the two four, he may obtain the due recompense, entering into the joy of his Lord, either being set over all His possessions, or hearing the word, "Have thou authority over ten cities," or "Have thou authority over five cities".
+
+[9:3] But we think that these things are spoken of as if they required a long period of time, in order that an account may be made by us of the whole times of the earthly life, so that we might suppose that when the king makes a reckoning with each one of his many servants the matter would require so vast a period of time, until these things come to an end which have existed from the beginning of the world down to the consummation of the age, not of one age, but of many ages.
+
+[9:4] But the truth is not so; for when God wished all at once to rekindle in the memories of all everything that had been done by each one throughout the whole time, in order that each might become conscious of his own doings whether good or bad, He would do it by His ineffable power.
+
+[9:5] For it is not with God as with us; for if we wish to call some things to remembrance, we require sufficient time for the detailed account of what has been said by us, and to bring to our remembrance the things which we wish to remember; but if He wished to call to our memory the things which have been done in this life, in order that becoming conscious of what we have done we may apprehend for what we are punished or honoured, He could do so.
+
+[9:6] But if any one disbelieves the swiftness of the power of God in regard to these matters, he has not yet had a true conception of the God who made the universe, who did not require times to make the vast creation of heaven and earth and the things in them; for, though He may seem to have made these things in six days, there is need of understanding to comprehend in what sense the words "in six days" are said, on account of this, "This is the book of the generation of heaven and earth," etc.
+
+[9:7] Therefore it may be boldly affirmed that the season of the expected judgment does not require times, but as the resurrection is said to take place "in a moment, in the twinkling of an eye," so I think will the judgment also be.
+
+[10:1] The Man Who Owed Many Talents.
+
+[10:2] Next we must speak in regard to this, "And when he had begun to reckon, there was brought unto him one which owed many talents".
+
+[10:3] The sense of this appears to me to be as follows: The season of beginning the judgment is with the house of God, who says, as also it is written in Ezekiel, to those who are appointed to attend to punishments, "Begin ye with My saints;" and it is like "the twinkling of an eye;" but, the time of making a reckoning includes the same "twinkling," ideally apprehended, for we are not forgetful of what has been previously said of those who owe more.
+
+[10:4] Wherefore it is not written, when he was making reckoning, but it is said, "When he began to reckon," there was brought, at the beginning of his making a reckoning, one who owed many talents; he had lost tens of thousands of talents, having been entrusted with great things, and having had many things committed to his care, but he had brought no gain to his master, but had lost tens of thousands so that he owed many talents; and, perhaps on this account, he owed many talents, seeing that he followed often the woman, who was sitting upon the talent of lead, whose name is wickedness.
+
+[10:5] But observe here that every great sin is a loss of the talents of the master of the house, and such sins are committed by fornicators, adulterers, abusers of themselves with men, effeminate, idolaters, murderers.
+
+[10:6] Perhaps then the one who is brought to the king owing many talents has committed no small sin but all that are great and heinous; and if you were to seek for him among men, perhaps you would find him to be "the man of sin, the son of perdition, he that opposeth and exalteth himself against every God or object of worship;" but if you seek him outside the number of men, who can this be but the devil who has ruined so many who received him, who wrought sin in them.
+
+[10:7] For "man is a great thing, and a pitiful man is precious," precious so as to be worthy of a talent, whether of gold like as the lamp which was equal to a talent of gold, or of silver or of any kind of material whatsoever understood intellectually, the symbols of which are recorded in the Words of the Days, when David became enriched with many talents of which the number is mentioned, so many talents of gold, and so many of silver, and of the rest of the material there named, from which the temple of God was built.
+
+[11:1] The Servant Who Owed a Hundred Pence.
+
+[11:2] Only, though he cannot pay the talents, for he has lost them, he has a wife and children and other things, of which it is written, "All that he has".
+
+[11:3] And it was possible that when he had been sold along with his own, he would have prospered if some one had bought him, and, by his worth and the things that were his, have paid the whole debt in full; and it was possible that he might no longer be the servant of the king, but become that of his purchaser.
+
+[11:4] And he makes a request that he be not sold along with his own, but may continue to abide in the house of the king; wherefore he fell down and worshipped him, knowing that the king was God, and said, "Have patience with me, and I will pay thee all;" for he was, as is probable, an active man, who knew that he could by a second course of action fill up the whole deficiency of the former loss of many talents.
+
+[11:5] And this truly good king was moved with compassion for the man who owed him many talents and then released him, having bestowed upon him a favour greater than the request which had been made; for the debtor promised to the long-suffering master to pay all his debts, but the Lord moved with compassion for him did not merely forgive him with the idea of receiving his own back as a result of his patience, but even entirely released him and forgave him the whole debt.
+
+[11:6] But this wicked servant, who had besought his master to have patience for his many talents, acted without mercy, for, having found one of his fellow-servants which owed him a hundred pence, he laid hold on him and took him by the throat, saying, "Pay if thou owest".
+
+[11:7] And did he not exhibit the very excess of wickedness who laid hold of his fellow-servant for a hundred pence, and took him by the throat and deprived him of freedom to breathe, when he himself, for the many talents, had neither been laid hold of, nor seized by the throat, but at first was ordered to be sold along with his wife and children and all that was his own; but afterwards, when he had worshipped him, the master was moved with compassion for him, and he was released and forgiven in regard to the whole of the debt.
+
+[11:8] But it were indeed a hard task to tell according to the conception of Jesus who is the one fellow-servant who was found to be owing a hundred pence, not to his own lord, but to him who owed many talents, and who are the fellow-servants who saw the one taking by the throat, and the other taken, and were exceedingly sorry, and represented clearly unto their own lord all that had been done.
+
+[11:9] But what the truth in these matters is, I declare that no one can interpret unless Jesus, who explained all things to His own disciples privately, takes up His abode in his reason, and opens up all the treasures in the parable which are dark, hidden, unseen, and confirms by clear demonstrations the man whom He desires to illumine with the light of the knowledge of the things that are in this parable, that he may at once represent who is brought to the king as the debtor of many talents, and who is the other one who owes to him a hundred pence, etc.
+
+[11:10] ; whether he can be the man of sin previously mentioned, or the devil, or neither of these, but some other, whether a man, or some one of these under the sway of the devil; for it is a work of the wisdom of God to exhibit the things that have been prophesied concerning those who are in themselves of a certain nature, or have been made according to such and such qualities, whether among visible powers or also among some men, in whatever way they may have been written by the Holy Spirit.
+
+[11:11] But as we have not yet received the competent mind which is able to be blended with the mind of Christ, and which is capable of attaining to things so great, and which is able with the Spirit to "search all things, even the deep things of God," we, forming an impression still indefinitely with regard to the matters in this passage, are of opinion that the wicked servant indicated by the parable who is here represented in regard to the debt of many talents, refers to some definite one.
+
+[12:1] The Time of the Reckoning.
+
+[12:2] But it is fitting to examine at what time the man—the king—in the parable wished to make a reckoning with his own servants, and to what period we ought to refer the things that are said.
+
+[12:3] For if it be after the consummation, or at it at the time of the expected judgment, how are we to maintain the things about him who owed a hundred pence, and was taken by the throat by the man who had been forgiven the many talents? But if, before the judgment, how can we explain the reckoning that was made before this by the king, with his own servants? But we ought to think in a general way about every parable, the interpretation of which has not been recorded by the evangelists, even though Jesus explained all things to His own disciples privately; and for this reason the writers of the Gospels have concealed the clear exposition of the parables, because the things signified by them were beyond the power of the nature of words to express, and every solution and exposition of such parables was of such a kind that not even the whole world itself could contain the books that should be written in relation to such parables.
+
+[12:4] But it may happen that a fitting heart be found, and, because of its purity, able to receive the letters of the exposition of the parable, so that they could be written in it by the Spirit of the living God.
+
+[12:5] But some one will say that, perhaps, we act with impiety, who, because of the secret and mystical import of some of the Scriptures which are of heavenly origin, wish them to be symbolic, and endeavour to expound them, even though it might seem ex hypothesi that we had an accurate knowledge of their meaning.
+
+[12:6] But to this we must say that, if there be those who have obtained the gift of accurate apprehension of these things, they know what they ought to do; but as for us, who acknowledge that we fall short of the ability to see into the depth of the things here signified, even though we obtain a somewhat crass perception of the things in the passage, we will say, that some of the things which we seem to find after much examination and inquiry, whether by the grace of God, or by the power of our own mind, we do not venture to commit to writing; but some things, for the sake of our own intellectual discipline, and that of those who may chance to read them, we will to some extent set forth.
+
+[12:7] But let these things, then, be said by way of apology, because of the depth of the parable; but, with regard to the question at what time the man—the king—in the parable wished to make a reckoning with his own servants, we will say that it seems that this takes place about the time of the judgment which had been proclaimed.
+
+[12:8] And this is confirmed by two parables, one at the close of the Gospel before us, and one from the Gospel according to Luke.
+
+[12:9] And not to prolong the discussion by quoting the very letter, as any one who wishes can take it from the Scripture himself, we will say that the parable according to Matthew declares, "For it is as when a man going into another country called his own servants, and delivered unto them his own goods, and to one he gave five talents, and to another two, and to another one talent;" then they took action with regard to that which had been entrusted to them, and, after a long time, the lord of those servants cometh, and it is written in the very words, that he also makes a reckoning with them.
+
+[12:10] And compare the words, "And when he began to make a reckoning," and consider that he called the going of the householder into another country the time at which "we are at home in the body but absent from the Lord;" but his advent, when, "after a long time the lord of those servants cometh," the time at the consummation in the judgment; for after a long time the lord of those servants cometh and makes a reckoning with them, and those things which follow take place.
+
+[12:11] But the parable in Luke represents with more clearness, that "a certain nobleman went into a far country to receive for himself a kingdom, and to return," and when going, "he called ten servants, and gave to them ten pounds, and said unto them, Trade ye till I come".
+
+[12:12] But the nobleman, being hated by his own citizens, who sent an ambassage after him, as they did not wish him to reign over them, came back again, having received the kingdom, and told the servants to whom he had given the money to be called to himself that he might know what they had gained by trading.
+
+[12:13] And, seeing what they had done, to him who had made the one pound ten pounds, rendering praise in the words, "Well done, thou good servant, because thou wast found faithful in a very little," he gives to him authority over ten cities, to-wit, those which were under his kingdom.
+
+[12:14] And to another, who had multiplied the pound fivefold, he did not render the praise which he assigned to the first, nor did he specify the word "authority," as in the case of the first, but said to him, "Be thou also over five cities".
+
+[12:15] But to him who had tied up the pound in a napkin, he said, "Out of thine own mouth will I judge thee, thou wicked servant;" and he said to them that stood by, Take from him the pound, and give it unto him that hath the ten pounds.
+
+[12:16] Who, then, in regard to this parable, will not say that the nobleman, who goes into a far country to receive for himself a kingdom and to return, is Christ, going, as it were, into another country to receive the kingdoms of this world, and the things in it? And those who have received the ten talents are those who have been entrusted with the dispensation of the Word which has been committed unto them.
+
+[12:17] And His citizens who did not wish Him to reign over them when He was a citizen in the world in respect of His incarnation, are perhaps Israel who disbelieved Him, and perhaps also the Gentiles who disbelieved Him.
+
+[13:1] No Forgiveness to the Unforgiving.
+
+[13:2] Only, I have said these things with the view of referring his return when he comes with his kingdom to the consummation, when he commanded the servants to whom he had given the money to be called to him that he might know what they had gained by trading, and from a desire to demonstrate from this, and from the parable of the Talents, that the passage "he who wished to make a reckoning with his own servants" is to be referred to the consummation when now he is king, receiving the kingdom, on account of which, according to another parable, he went into a far country, to receive for himself a kingdom and to return.
+
+[13:3] Therefore, when he returned after receiving the kingdom, he wished to make a reckoning with his own servants.
+
+[13:4] And "when he had begun to reckon, there was brought unto him one who owed many talents," and he was brought as to a king by those who had been appointed his ministers—I think, the angels.
+
+[13:5] And perhaps he was one of those under the kingdom who had been entrusted with a great administration and had not dispensed it well, but had wasted what had been entrusted to him, so that he came to owe the many talents which he had lost.
+
+[13:6] This very man, perhaps not having the means to pay, is ordered by the king to be sold along with his wife, by intercourse with whom he became the father of certain children.
+
+[13:7] But it is no easy task to see what is intellectually meant by father and mother and children.
+
+[13:8] What this means in point of truth God may know, and whether He Himself has given insight to us or not, he who can may judge.
+
+[13:9] Only this is our conception of the passage; that, as "the Jerusalem which is above" is "the mother" of Paul and of those like unto him, so there may be a mother of others after the analogy of Jerusalem, the mother, for example, of Syene in Egypt, or Sidon, or as many cities as are named in the Scriptures.
+
+[13:10] Then, as Jerusalem is "a bride adorned for her husband," Christ, so there may be those mothers of certain powers who have been allotted to them as wives or brides.
+
+[13:11] And as there are certain children of Jerusalem, as mother, and of Christ, as father, so there would be certain children of Syene, or Memphis, or Tyre, or Sidon, and the rulers set over them.
+
+[13:12] Perhaps then, too, this one, the debtor of many talents who was brought to the king, has, as we have said, a wife and children, whom at first the king ordered to be sold, and also all that he had to be sold; but afterwards, being moved with compassion, he released him and forgave him all the debt; not, as if he were ignorant of the future, but, in order that we might understand what happened, it was written that he did so.
+
+[13:13] Each one then of those who have, as we have said, a wife and children will render an account whenever the king comes to make a reckoning, having received the kingdom and having returned; and each of them as a ruler of any Syene or Memphis, or Tyre or Sidon, or any like unto them, has also debtors.
+
+[13:14] This one, then, having been released, and having been forgiven all the debt, "went out from the king and found one of his fellow-servants," etc.
+
+[13:15] ; and, on this account, I suppose that he took him by the throat, when he had gone out from the king, for unless he had gone out he would not have taken his own fellow-servant by the throat.
+
+[13:16] Then observe the accuracy of the Scripture, how that the one fell down and "worshipped," but the other fell down and did not worship but "besought;" and the king being moved with compassion released him and forgave him all the debt, but the servant did not wish even to pity his own fellow-servant; and the king before his release ordered him to be sold and what was his, while he who had been forgiven cast him into prison.
+
+[13:17] And observe that his fellow-servants did not bring any accusation or "said," but "told," and that he did not use the epithet "wicked" at the beginning in regard to the money lost, but reserved it afterwards for his action towards the fellow-servant.
+
+[13:18] But mark also the moderation of the king; he does not say, You worshipped me, but You besought me; and no longer did he order him and his to be sold, but, what was worse, he delivered him to the tormentors, because of his wickedness.
+
+[13:19] But who may these be but those who have been appointed in the matter of punishments? But at the same time observe, because of the use made of this parable by adherents of heresies, that if they accuse the Creator of being passionate, because of words that declare the wrath of God, they ought also to accuse this king, because that "being wroth," he delivered the debtor to the tormentors.
+
+[13:20] But it must further be said to those whose view it is that no one is delivered by Jesus to the tormentors,—pray, explain to us, good sirs, who is the king who delivered the wicked servant to the tormentors? And let them also attend to this, "So therefore also shall My heavenly Father do unto you;" and to the same persons also might rather be said the things in the parable of the Ten Pounds that the Son of the good God said, "Howbeit these mine enemies which would not that I should reign over them," etc.
+
+[13:21] The conclusion of the parable, however, is adapted also to the simpler; for all of us who have obtained the forgiveness of our own sins, and have not forgiven our brethren, are taught at once that we shall suffer the lot of him who was forgiven but did not forgive his fellow-servant.
+
+[14:1] How Jesus Finished His Words.
+
+[14:2] "And it came to pass when Jesus had finished these words".
+
+[14:3] He who gives a detailed and complete account of each of the questions before him so that nothing is left out, finishes his own words.
+
+[14:4] But he will give a declaration on this point with more confidence who devotes himself with great diligence to the entire reading of the Old and New Testament; for if the expression, "he finished these words," may be applied to no other, neither to Moses, nor to any of the prophets, but only to Jesus, then one would dare to say that Jesus alone finished His words, He who came to put an end to things, and to fulfil what was defective in the law, by saying, "It was said to them of old time," etc.
+
+[14:5] , and, again, "That the things spoken through the prophets might be fulfilled".
+
+[14:6] But if it is written somewhere also in them, then you may compare and contrast the discourses finished by them with those finished by the Saviour, that you may find the difference between them.
+
+[14:7] And yet at this point, also, investigation might be made whether in the case of the things spoken by way of oracle the expression, "he finished," is applied either to the things spoken by Moses, or any of the prophets, or of both together; for careful observation would suggest very weighty thoughts to those who know how "to compare spiritual things with spiritual," and on this account "speak not in words which man's wisdom teacheth, but which the Spirit teacheth".
+
+[14:8] But perhaps some other one, attending with over-curious spirit to the word "finished," which is assigned to things of a more mystical order, just as we say that some one delivered to those who were under his control mysteries and rites of "perfecting" not in a praiseworthy fashion, and another delivered the mysteries of God to those who are worthy, and rites of "perfecting" proportionate to such mysteries, might say that having initiated them, he made a rite of "perfecting," by which "perfecting" the words were shown to be powerful, so that the gospel of Jesus was preached in the whole world, and by virtue of the divine "perfecting" gained the mastery of every soul which the Father draws to the Son, according to what is said by the Saviour, "No one comes to Me except the Father which has sent Me draw him".
+
+[14:9] Wherefore also "the word" of those who by the grace of God are ambassadors of the gospel, "and their preaching, is not in persuasive words of wisdom, but in demonstration of the spirit of power," to those for whom the words of the doctrine of Jesus were finished.
+
+[14:10] You will therefore observe how often it is said, "He finished," and of what things it is said, and you will take as an illustration that which is said in regard to the beatitudes, and the whole of the discourse to which is subjoined, "And it came to pass when Jesus had finished these words, all the multitudes were astonished at His teaching".
+
+[14:11] But now the saying, "Jesus finished these words," is referred also immediately to the very mystical parable according to which the kingdom of heaven is likened unto a king, but also beyond this parable to the sections which were written before it.
+
+[15:1] How Men Followed Jesus.
+
+[15:2] Only, when Jesus had finished these words, having spoken them in Galilee about Capernaum, then "He departed thence, and came into the borders of Judaea," which were different from Galilee.
+
+[15:3] But He came to the borders of Judaea, and not to the middle of it, but, as it were, to the outermost parts, where great multitudes followed Him, whom He healed at "the borders of Judaea beyond Jordan,"—where baptism had been given.
+
+[15:4] But you will observe the difference between the crowds who simply followed, and Peter and the others who gave up everything and followed, and Matthew, who arose and followed him; he did not simply follow, but "having arisen;" for "having arisen" is an important addition.
+
+[15:5] There are always those, then, who follow like the great multitudes, who have not arisen that they may follow, nor have given up all that was theirs formerly, but few are they who have arisen and followed, who also, in the regeneration, shall sit on twelve thrones.
+
+[15:6] Only, if one wishes to be healed, let him follow Jesus.
+
+[16:1] Concerning the Pharisees and Scribes Tempting Jesus (by Asking) Whether Was Lawful for a Man to Put Away His Wife for Every Cause.
+
+[16:2] After this it is written that "there came unto Him the Pharisees tempting Him and saying, Is it lawful for a man to wife for every cause?" Mark, also, has written to the like effect.
+
+[16:3] Accordingly, of those who came to Jesus and inquired of Him, there were some who put questions to tempt Him; and if our Saviour so transcendent was tempted, which of His disciples who is ordained to teach need be vexed, when he is tempted by some who inquire, not from the love of learning, but from the wish to tempt? And you might find many passages, if you brought them together, in which the Pharisees tempted our Jesus, and others, different from them, as a certain lawyer, and perhaps also a scribe, that by bringing together what is said about those who tempted Him, you might find by investigation what is useful for this kind of inquiries.
+
+[16:4] Only, the Saviour, in response to those who tempted Him, laid down dogmas; for they said, "Is it lawful for a man to put away his own wife for every cause?" and He answered and said, "Have ye not read that He who created them from the beginning made them male and female?" etc.
+
+[16:5] And I think that the Pharisees put forward this word for this reason, that they might attack Him whatever He might say; as, for example, if He had said, "It is lawful," they would have accused Him of dissolving marriages for trifles; but, if He had said, "It is not lawful," they would have accused Him of permitting a man to dwell with a woman, even with sins; so, likewise, in the case of the tribute-money, if He had told them to give, they would have accused Him of making the people subject to the Romans, and not to the law of God, but if He had told them not to give, they would have accused Him of creating war and sedition, and of stirring up those who were not able to stand against so powerful an army.
+
+[16:6] But they did not perceive in what way He answered blamelessly and wisely, in the first place, rejecting the opinion that a wife was to be put away for every cause, and, in the second place, giving answer to the question about the bill of divorcement; for He saw that not every cause is a reasonable ground for the dissolution of marriage, and that the husband must dwell with the wife as the weaker vessel, giving honour, and bearing her burdens in sins; and by what is written in Genesis, He puts to shame the Pharisees who boasted in the Scriptures of Moses, by saying, "Have ye not read that He who created them from the beginning made them male and female," etc.
+
+[16:7] , and, subjoining to these words, because of the saying, "And the twain shall become one flesh," teaching in harmony with one flesh, namely, "So that they are no more twain, but one flesh".
+
+[16:8] And, as tending to convince them that they should not put away their wife for every cause, is it said, "What God hath joined together, let not man put asunder".
+
+[16:9] It is to be observed, however, in the exposition of the words quoted from Genesis in the Gospel, that they were not spoken consecutively as they are written in the Gospel; and I think that it is not even said about the same persons, namely, of those who were formed after the image of God, and of those who were formed from the dust of the ground and from one of the ribs of Adam.
+
+[16:10] For where it is said, "Male and female made He them," the reference is to those formed "after the image," but where He also said, "For this cause shall a man leave his own father and mother," etc.
+
+[16:11] , the reference is not to those formed after the image; for some time after the Lord God formed the man, taking dust from the ground, and from his side the helpmate.
+
+[16:12] And mark, at the same time, that in the case of those who are formed "after the image," the words were not "husband and wife" but "male and female".
+
+[16:13] But we have also observed this in the Hebrew, for man is indicated by the word "is," but male by the word "zachar," and again woman by the word "essa," but female by the word "agkeba".
+
+[16:14] For at no time is it "woman" or "man" "after the image," but the superior class, the male, and the second, the female.
+
+[16:15] But also if a man leave his mother and his father, he cleaves not to the female, but to his own wife, and "they become," since man and woman are one in flesh, "one flesh".
+
+[16:16] Then, describing what ought to be in the case of those who are joined together by God, so that they may be joined together in a manner worthy of God, the Saviour adds, "So that they are no more twain;" and, wherever there is indeed concord, and unison, and harmony, between husband and wife, when he is as ruler and she is obedient to the word, "He shall rule over thee," then of such persons we may truly say, "They are no more twain".
+
+[16:17] Then since it was necessary that for "him who was joined to the Lord," it should be reserved "that he should become one spirit with Him," in the case of those who are joined together by God, after the words, "So that they are no more twain," it is said, "but one flesh".
+
+[16:18] And it is God who has joined together the two in one so that they are no more twain, from the time that the woman is married to the man.
+
+[16:19] And, since God has joined them together, on this account in the case of those who are joined together by God, there is a "gift"; and Paul knowing this, that marriage according to the Word of God was a "gift," like as holy celibacy was a gift, says, "But I would that all men were like myself; howbeit, each man hath his own gift from God, one after this manner, and another after that".
+
+[16:20] And those who are joined together by God both mind and keep the precept, "Husbands love your wives, as Christ also the church".
+
+[16:21] The Saviour then commanded, "What God hath joined together, let not man put asunder," but man wishes to put asunder what God hath joined together, when, "falling away from the sound faith, giving heed to seducing spirits and doctrines of demons, through the hypocrisy of men that speak lies, branded in their own conscience as with a hot iron, forbidding," not only to commit fornication, but "to marry," he dissolves even those who had been before joined together by the providence of God.
+
+[16:22] Let these things then be said, keeping in view what is expressly said concerning the male and the female, and the man and the woman, as the Saviour taught in the answer to the Pharisees.
+
+[17:1] Union of Christ and the Church.
+
+[17:2] But since the Apostle understands the words, "And they twain shall be one flesh," of Christ and the church, we must say that Christ keeping the saying, "What God hath joined together let not man put asunder," did not put away His former wife, so to speak—that is, the former synagogue—for any other cause than that that wife committed fornication, being made an adulteress by the evil one, and along with him plotted against her husband and slew Him, saying, "Away with such a fellow from the earth, crucify Him, crucify Him".
+
+[17:3] It was she therefore who herself revolted, rather than her husband who put her away and dismissed her; wherefore, reproaching her for falling away from him, it says in Isaiah, "Of what kind is the bill of your mother's divorcement, with which I sent her away?" And He who at the beginning created Him "who is in the form of God" after the image, made Him male, and the church female, granting to both oneness after the image.
+
+[17:4] And, for the sake of the church, the Lord—the husband—left the Father whom He saw when He was "in the form of God," left also His mother, as He was the very son of the Jerusalem which is above, and was joined to His wife who had fallen down here, and these two here became one flesh.
+
+[17:5] For because of her, He Himself also became flesh, when "the Word became flesh and dwelt among us," and they are no more two, but now they are one flesh, since it is said to the wife, "Now ye are the body of Christ, and members each in his part;" for the body of Christ is not something apart different from the church, which is His body, and from the members each in his part.
+
+[17:6] And God has joined together these who are not two, but have become one flesh, commanding that men should not separate the church from the Lord.
+
+[17:7] And he who takes heed for himself so as not to be separated, is confident as one who will not possibly be separated and says, "Who shall separate us from the love of Christ?" Here, therefore, the saying, "What God hath joined together, let not man put asunder," was written with relation to the Pharisees, but to those who are superior to the Pharisees, it could be said, "What then God hath joined together, let nothing put asunder," neither principality nor power; for God, who has joined together is stronger than all those which any one could conceive and name.
+
+[18:1] The Bill of Divorcement.
+
+[18:2] After this we will discuss the saying of the Pharisees which they said to Jesus, "Why then did Moses command to give a bill of divorcement and put her away?" And with good reason we will bring forward for this purpose the passage from Deuteronomy concerning the bill of divorcement, which is as follows: "But if a man taketh a wife and cohabit with her, and it shall be, if she do not find favour in his sight because he hath found in her a thing unseemly," etc.
+
+[18:3] , down to the words, "and ye shall not pollute the land which the Lord your God giveth you for an inheritance".
+
+[18:4] Now I inquire whether in these things according to this law, we are to seek nothing in it beyond the letter seeing that God has not given it, or whether to the Pharisees who quoted the saying, "Moses commanded to give a bill of divorcement and put her away," it was of necessity said, "Moses, for your hardness of heart, suffered you to put away your wives; but from the beginning it hath not been so".
+
+[18:5] But if any one ascends to the Gospel of Christ Jesus which teaches that the law is spiritual, he will seek also the spiritual understanding of this law.
+
+[18:6] And he who wishes to interpret these things figuratively will say that, just as it was said by Paul confident in the grace which he had, "A wife is bound for so long time as her husband liveth, but if the husband be dead she is free to be married to whom she will, only in the Lord; but she is happier if she abide as she is, after my judgment, and I think that I also have the Spirit of God" (for here to the words, "after my judgment," lest it should be despised as being without the Spirit of God, he well added, "and I think that I also have the Spirit of God)," so also it would be possible for Moses, by reason of the power given to him to make laws, to the effect that he suffered for the hardness of heart of the people certain things, among which was the putting away of wives, to be persuaded in regard to the laws which he promulgated according to his own judgment, that in these also the legislation took place with the Spirit of God.
+
+[18:7] And he will say that, unless one law is spiritual and another is not such, this is a law, and this is spiritual, and its spiritual significance ought to be investigated.
+
+[19:1] The Divorce of Israel.
+
+[19:2] Now, keeping in mind what we said above in regard to the passage from Isaiah about the bill of divorcement, we will say that the mother of the people separated herself from Christ, her husband, without having received the bill of divorcement, but afterwards when there was found in her an unseemly thing, and she did not find favour in his sight, the bill of divorcement was written out for her; for when the new covenant called those of the Gentiles to the house of Him who had cast away his former wife, it virtually gave the bill of divorcement to her who formerly separated from her husband—the law, and the Word.
+
+[19:3] Therefore he, also, having separated from her, married, so to speak, another, having given into the hands of the former the bill of divorcement; wherefore they can no longer do the things enjoined on them by the law, because of the bill of divorcement.
+
+[19:4] And a sign that she has received the bill of divorcement is this, that Jerusalem was destroyed along with what they called the sanctuary of the things in it which were believed to be holy, and with the altar of burnt offerings, and all the worship associated with it.
+
+[19:5] And a further sign of the bill of divorcement is this, that they cannot keep their feasts, even though according to the letter of the law designedly commanded them, in the place which the Lord God appointed to them for keeping feasts; but there is this also, that the whole synagogue has become unable to stone those who have committed this or that sin; and thousands of things commanded are a sign of the bill of divorcement; and the fact that "there is no more a prophet," and that they say, "We no longer see signs;" for the Lord says, "He hath taken away from Judaea and from Jerusalem," according to the word of Isaiah, "Him that is mighty, and her that is mighty, a powerful giant," etc.
+
+[19:6] , down to the words, "a prudent hearer".
+
+[19:7] Now, He who is the Christ may have taken the synagogue to wife and cohabited with her, but it may be that afterwards she found not favour in His sight; and the reason of her not having found favour in His sight was, that there was found in her an unseemly thing; for what was more unseemly than the circumstance that, when it was proposed to them to release one at the feast, they asked for the release of Barabbas the robber, and the condemnation of Jesus? And what was more unseemly than the fact, that they all said in His case, "Crucify Him, crucify Him," and "Away with such a fellow from the earth"? And can this be freed from the charge of unseemliness, "His blood be upon us, and upon our children"? Wherefore, when He was avenged, Jerusalem was compassed with armies, and its desolation was near, and their house was taken away from it, and "the daughter of Zion was left as a booth in a vineyard, and as a lodge in a garden of cucumbers, and as a besieged city".
+
+[19:8] And, about the same time, I think, the husband wrote out a bill of divorcement to his former wife, and gave it into her hands, and sent her away from his own house, and the bond of her who came from the Gentiles has been cancelled about which the Apostle says, "Having blotted out the bond written in ordinances, which was contrary to us, and He hath taken it out of the way, nailing it to the cross;" for Paul also and others became proselytes of Israel for her who came from the Gentiles.
+
+[19:9] The first wife, accordingly, not having found favour before her husband, because in her had been found an unseemly thing, went out from the dwelling of her husband, and, going away, has become joined to another man, to whom she has subjected herself, whether we should call the husband Barabbas the robber, who is figuratively the devil, or some evil power.
+
+[19:10] And in the case of some of that synagogue there has happened the former thing which was written in the law, but in the case of others, that which was second.
+
+[19:11] For the last husband hated his wife and will write out for her some day at the consummation of things a bill of divorcement, when God so orders it, and will give it into her hands and will send her away from his dwelling; for as the good God will put enmity between the serpent and the woman, and between his seed and her seed, so will He order it that the last husband shall hate her.
+
+[20:1] Christ and the Gentiles.
+
+[20:2] Now there are those in whose case it has happened that the man dwells with them without having hated them, because they abide in the house of the last husband, who took to himself their synagogue as wife.
+
+[20:3] But also in their case the latter husband dies, perhaps whenever the last enemy of Christ, death, is destroyed.
+
+[20:4] But whichever of these things may happen, whether the former or the latter to the wife, the former husband, it says, who sent her away, will not be able to turn back and take her to be a wife to himself after she has been defiled, since "it is abomination," it says, "before the Lord thy God".
+
+[20:5] But these things will not seem to be consistent with this, "If the fulness of the Gentiles be come in, all Israel shall be saved".
+
+[20:6] But consider if it can be said to this, that, if she shall be saved by her former husband returning and taking her to himself as wife, she will in any case be saved after she has been polluted.
+
+[20:7] A priest, then, will not take to himself as a wife one who has been a harlot and an outcast, but no other, as being inferior to the priest, is hindered from doing so.
+
+[20:8] But if you seek for the harlot in regard to the calling of the Gentiles, you may use the passage, "Take to yourself a wife of fornication, and children of fornication," etc.
+
+[20:9] ; for, as "the priests in the temple profane the sabbath, and are guiltless," so he who, casting out his former wife, takes in due season "a wife of fornication," having done it according to the command of Him who says, when it is necessary, and so long as it was necessary, "He shall not take a harlot to wife," and, when it was reasonable, He says, "Take to yourself a wife of fornication".
+
+[20:10] For as the Son of man is Lord of the sabbath, and not the slave of the sabbath as the people are, so He who gives the law has power to give it "until a time of reformation," and to change the law, and, when the time of the reformation is at hand, also to give after the former way and after the former heart another way and another heart, "in an acceptable time, and in a day of salvation".
+
+[20:11] And let these things be said according to our interpretation of the law in regard to the bill of divorcement.
+
+[21:1] Union of Angels and the Souls of Men.
+
+[21:2] But some one may inquire whether the human soul can be figuratively called a wife, and the angel who is set over her and is her ruler, with whom as her sovereign she holds conversation, can be called her husband; so that according to this each lawfully dwells along with the soul which is worthy of the guardianship of a divine angel; but sometimes after long sojourning and intercourse a cause may arise in the soul why she does not find favour in the eyes of the angel who is her lord and ruler, because that in it there is found an unseemly thing; and bonds may be written out, as such are written, and a bill of divorcement be written and put into the hands of her who is cast out, so that she may no longer be familiar with her former guardian, when she is cast out from his dwelling.
+
+[21:3] And even she who has gone away from her former dwelling may be joined to another husband, and be unfortunate with him, not only, as in the case of the former, not finding favour in his sight because an unseemly thing was found in her, but even being hated by him.
+
+[21:4] Yea, and even there might be written out from the second husband a bill of divorcement and it might be put into her hands from the last husband who sends her away from his dwelling.
+
+[21:5] But whether there can be such a change of the life of angels with men, as to amount, so far as concerns their relation to us, to their death, one may put the question rash though it be; but be that as it may, she also who has once fallen away from the former husband will not return again to him, for the former husband who sent her away will not be able to turn back and take her as wife to himself, after she was defiled.
+
+[21:6] And if one should dare, using a Scripture which is in circulation in the church, but not acknowledged by all to be divine, to soften down a precept of this kind, the passage might be taken from The Shepherd, concerning some who as soon as they believe are put in subjection to Michael, but falling away from him from love of pleasure, are put in subjection to the angel of luxury, then to the angel of punishment, and after this to the angel of repentance; for you observe that the wife or soul who has once been given to luxury no longer returns to the first ruler, but also besides suffering punishment, is put in subjection to one inferior to Michael; for the angel of penitence is inferior to him.
+
+[21:7] We must therefore take heed lest there be found in us any unseemly thing, and we should not find favour in the eyes of our husband Christ, or of the angel who has been set over us.
+
+[21:8] For if we do not take heed, perhaps we also shall receive the bill of divorcement, and either be bereft of our guardian, or go to another man.
+
+[21:9] But I consider that it is not of good omen to receive, as it were, the marriage of an angel with our own soul.
+
+[22:1] The Marriage of Church Dignitaries.
+
+[22:2] But, while dealing with the passage, I would say that we will be able perhaps now to understand and clearly set forth a question which is hard to grasp and see into, with regard to the legislation of the Apostle concerning ecclesiastical matters; for Paul wishes no one of those of the church, who has attained to any eminence beyond the many, as is attained in the administration of the sacraments, to make trial of a second marriage.
+
+[22:3] For laying down the law in regard to bishops in the first Epistle to Timothy, he says, "If a man seeketh the office of a bishop, he desireth a good work.
+
+[22:4] The bishop, therefore, must be without reproach, the husbands of one wife, temperate, sober-minded," etc.
+
+[22:5] ; and, in regard to deacons, "Let the deacons," he says, "be the husbands of one wife, ruling their children and their own houses well," etc.
+
+[22:6] Yea, and also when appointing widows, he says, "Let there be no one as a widow under threescore years old, having been the wife of one man;" and after this he says the things superadded, as being second or third in importance to this.
+
+[22:7] And, in the Epistle to Titus, "For this cause," he says, "I left thee in Crete that thou shouldest set in order the things that were wanting, and appoint elders in every city as I gave thee charge.
+
+[22:8] If any one is blameless, the husband of one wife, having children, that believe"—of course—and so on.
+
+[22:9] Now, when we saw that some who have been married twice may be much better than those who have been married once, we were perplexed why Paul does not at all permit those who have been twice married to be appointed to ecclesiastical dignities; for also it seemed to me that such a thing was worthy of examination, as it was possible that a man, who had been unfortunate in two marriages, and had lost his second wife while he was yet young, might have lived for the rest of his years up to old age in the greatest self-control and chastity.
+
+[22:10] Who, then, would not naturally be perplexed why at all, when a ruler of the church is being sought for, we do not appoint such a man, though he has been twice married, because of the expressions about marriage, but lay hold of the man who has been once married as our ruler, even if he chance to have lived to old age with his wife, and sometimes may not have been disciplined in chastity and temperance? But, from what is said in the law about the bill of divorcement, I reflect whether, seeing that the bishop and the presbyter and the deacon are a symbol of things that truly exist in accordance with these names, he wished to appoint those who were figuratively once married, in order that he who is able to give attention to the matter, may find out from the spiritual law the one who was unworthy of ecclesiastical rule, whose soul did not find favour in the eyes of her husband because there had been found in her an unseemly thing, and she had become worthy of the bill of divorcement; for such a soul, having dwelt along with a second husband, and having been hated by such an one, can no longer, after the second bill of divorcement, return to her former husband.
+
+[22:11] It is likely, therefore, also, that other arguments will be found by those who are wiser than we, and have more ability to see into such things, whether in the law about the bill of divorcement, or in the apostolic writings which prohibit those who have been twice married from ruling over the church or being preferred to preside over it.
+
+[22:12] But, until something shall be found that is better and able by the excessive brilliancy of the light of knowledge to cast into the shade what we have uttered, we have said the things which have occurred to us in regard to the passages.
+
+[23:1] Some Laws Given by Concession to Human Weakness.
+
+[23:2] But, even if we have seemed to touch on things too deep for our capacity in the passages, nevertheless, because of the literal expression these things must further be said, that some of the laws were written not as excellent, but as by way of accommodation to the weakness of those to whom the law was given; for something of this kind is indicated in the words, "Moses for your hardness of heart suffered you to put away your wives;" but that which is pre-eminent and superior to the law, which was written for their hardness of heart, is indicated in this, "But from the beginning it hath not been so".
+
+[23:3] But in the new covenant also there are some legal injunctions of the same order as, "Moses for your hardness of heart suffered you to put away your wives;" for example, because of our hardness of heart, it has been written on account of our weakness, "But because of fornications, let each man have his own wife and let each woman have her own husband;" and this, "Let the husband render unto the wife her due, and likewise also the wife unto the husband".
+
+[23:4] To these sayings it is accordingly subjoined, "But this I say by way of permission, not of commandment".
+
+[23:5] But this also, "A wife is bound for so long time as her husband liveth, but if her husband be dead, she is free to be married to whom she will, only in the Lord," was said by Paul in view of our hardness of heart and weakness, to those who do not wish to desire earnestly the greater gifts and become more blessed.
+
+[23:6] But now contrary to what was written, some even of the rulers of the church have permitted a woman to marry, even when her husband was living, doing contrary to what was written, where it is said, "A wife is bound for so long time as her husband liveth," and "So then if while her husband liveth, she shall be joined to another man she shall be called an adulteress," not indeed altogether without reason, for it is probable this concession was permitted in comparison with worse things, contrary to what was from the beginning ordained by law, and written.
+
+[24:1] Jewish Criticism of the Law of Christ.
+
+[24:2] But perhaps some Jewish man of those who dare to oppose the teaching of our Saviour will say, that when Jesus said, "Whosoever shall put away his own wife, saving for the cause of fornication, maketh her an adulteress," He also gave permission to put away a wife like as well as Moses did, who was said by Him to have given laws for the hardness of heart of the people, and will hold that the saying, "Because he found in her an unseemly thing," is to be reckoned as the same as fornication on account of which with good cause a wife could be cast away from her husband.
+
+[24:3] But to him it must be said that, if she who committed adultery was according to the law to be stoned, clearly it is not in this sense that the unseemly thing is to be understood.
+
+[24:4] For it is not necessary for adultery or any such great indecency to write a bill of divorcement and give it into the hands of the wife; but indeed perhaps Moses called every sin an unseemly thing, on the discovery of which by the husband in the wife, as not finding favour in the eyes of her husband, the bill of divorcement is written, and the wife is sent away from the house of her husband; "but from the beginning it hath not been so".
+
+[24:5] After this our Saviour says, not at all permitting the dissolution of marriages for any other sin than fornication alone, when detected in the wife, "Whosoever shall put away his own wife, saving for the cause of fornication, maketh her an adulteress".
+
+[24:6] But it might be a subject for inquiry if on this account He hinders any one putting away a wife, unless she be caught in fornication, for any other reason, as for example for poisoning, or for the destruction during the absence of her husband from home of an infant born to them, or for any form of murder whatsoever.
+
+[24:7] And further, if she were found despoiling and pillaging the house of her husband, though she was not guilty of fornication, one might ask if he would with reason cast away such an one, seeing that the Saviour forbids any one to put away his own wife saving for the cause of fornication.
+
+[24:8] In either case there appears to be something monstrous, whether it be really monstrous, I do not know; for to endure sins of such heinousness which seem to be worse than adultery or fornication, will appear to be irrational; but again on the other hand to act contrary to the design of the teaching of the Saviour, every one would acknowledge to be impious.
+
+[24:9] I wonder therefore why He did not say, Let no one put away his own wife saving for the cause of fornication, but says, "Whosoever shall put away his own wife, saving for the cause of fornication, maketh her an adulteress".
+
+[24:10] For confessedly he who puts away his wife when she is not a fornicator, makes her an adulteress, so far as it lies with him, for if, "when the husband is living she shall be called an adulteress if she be joined to another man;" and when by putting her away, he gives to her the excuse of a second marriage, very plainly in this way he makes her an adulteress.
+
+[24:11] But as to whether her being caught in the act of poisoning or committing murder, furnishes any defence of his dismissal of her, you can inquire yourselves; for the husband can also in other ways than by putting her away cause his own wife to commit adultery; as, for example, allowing her to do what she wishes beyond what is fitting, and stooping to friendship with what men she wishes, for often from the simplicity of husbands such false steps happen to wives; but whether there is a ground of defence or not for such husbands in the case of such false steps, you will inquire carefully, and deliver your opinion also in regard to the difficult questions raised by us on the passage.
+
+[24:12] And even he who withholds himself from his wife makes her oftentimes to be an adulteress when he does not satisfy her desires, even though he does so under the appearance of greater gravity and self-control.
+
+[24:13] And perhaps this man is more culpable who, so far as it rests with him, makes her an adulteress when he does not satisfy her desires than he who, for other reason than fornication, has sent her away,—for poisoning or murder or any of the most grievous sins.
+
+[24:14] But as a woman is an adulteress, even though she seem to be married to a man, while the former husband is still living, so also the man who seems to marry her who has been put away, does not so much marry her as commit adultery with her according to the declaration of our Saviour.
+
+[25:1] Chastity and Prayer.
+
+[25:2] Now after these things, having considered how many possible accidents may arise in marriages, which it was necessary for the man to endure and in this way suffer very great hardships, or if he did not endure, to transgress the word of Christ, the disciples say to him, taking refuge in celibacy as easier, and more expedient than marriage, though the latter appears to be expedient, "If the case of the man is so with his wife, it is not expedient to marry".
+
+[25:3] And to this the Saviour said, teaching us that absolute chastity is a gift given by God, and not merely the fruit of training, but given by God with prayer, "All men cannot receive the saying, but they to whom it is given".
+
+[25:4] Then seeing that some make a sophistical attack on the saying.
+
+[25:5] "To whom it is given," as if those who wished to remain pure in celibacy, but were mastered by their desires, had an excuse, we must say that, if we believe the Scriptures, why at all do we lay hold of the saying, "But they to whom it is given," but no longer attend to this, "Ask and it shall be given you," and to that which is added to it, "For every one that asketh receiveth"? For if they "to whom it is given" can receive this saying about absolute purity, let him who wills ask, obeying and believing Him who said, "Ask and it shall be given you," and not doubting about the saying, "Every one that asketh receiveth".
+
+[25:6] But when there you will inquire who it is that asketh, for no one of those who do not receive has asked, even though he seems to have done so, since it is not lawful to say that the saying, "Every one that asketh receiveth," is a lie.
+
+[25:7] Who then is he that asketh, but he who has obeyed Jesus when He says, "If ye stand praying, believe that ye receive, and ye shall receive"? But he that asketh must do everything in his power that he may pray "with the spirit" and pray also "with the understanding," and pray "without ceasing," keeping in mind also the saying, "And He spake a parable unto them to the end that they ought always to pray, and not to faint, saying, There was in a city a judge," etc.
+
+[25:8] And it is useful to know what it is to ask, and what it is to receive, and what is meant by "Every one that asketh, receiveth," and by "I say unto you though he will not rise and give him, because he is his friend, yet because of his importunity, he will arise and give him as many as he needeth".
+
+[25:9] It is therefore added, "And I say unto you, Ask, and it shall be given you," and so on.
+
+[25:10] Further, let the saying, "All men cannot receive the saying but they to whom it is given," be a stimulus to us to ask worthily of receiving; and this, "What son is there of you who shall ask his father for a fish, will he for a fish give him a serpent," etc.
+
+[25:11] God therefore will give the good gift, perfect purity in celibacy and chastity, to those who ask Him with the whole soul, and with faith, and in prayers without ceasing.
+

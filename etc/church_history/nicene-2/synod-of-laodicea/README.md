@@ -1,0 +1,1 @@
+# Synod of Laodicea

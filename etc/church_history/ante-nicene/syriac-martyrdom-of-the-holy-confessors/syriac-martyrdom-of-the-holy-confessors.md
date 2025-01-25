@@ -1,0 +1,260 @@
+# Syriac: Martyrdom of the Holy Confessors
+
+[1:1] Martyrdom of the Holy Confessors Shamuna, Guria, and Habib, from Simeon Metaphrastes: Martyrdom of the Holy Confessors Shamuna, Guria, and Habib, from Simeon Metaphrastes.
+
+[1:2] In the six hundredth year from the empire of Alexander the Macedonian, when Diocletian had been nine years sovereign of the Romans, and Maximian was consul for the sixth time, and Augar son of Zoaras was praetor, and Cognatus was bishop of the Edessenes, a great persecution was raised against the churches in all the countries which were under the sway of the Romans.
+
+[1:3] The name of Christian was looked upon as execrable, and was assailed and harassed with abuse; while the priests and the monks, on account of their staunch and unconquerable stedfastness, were subjected to shocking punishments, and the pious were at their wits' end with sadness and fear.
+
+[1:4] For, desiring as they did to proclaim the truth because of their yearning affection for Christ, they yet shrunk back from doing so for fear of punishment.
+
+[1:5] For those who took up arms against true religion were bent on making the Christians renounce Christianity and embrace the cause of Saturn and Rhea, whilst the faithful on their part laboured to prove that the objects of heathen worship had no real existence.
+
+[1:6] At this period it was that an accusation was preferred before the judge against Guria and Shamuna.
+
+[1:7] The former was a native of Sarcigitua, and the latter of the village of Ganas; they were, however, both brought up at Edessa—which they call Mesopotamia, because it is situated between the Euphrates and the Tigris:  a city previously to this but little known to fame, but which after the struggles of its martyrs obtained universal notoriety.
+
+[1:8] These holy men would not by any means spend their lives in the city, but removing to a distance from it, as those who wished to be remote from its turmoils, they made it their aim to be manifest to God only.
+
+[1:9] Guria's purity and lovingness were to him a precious and honourable possession, and from his cultivation of the former the surname of the pure was given him:  so that from his name you would not have known who he was, but only when you called him by his surname.
+
+[1:10] Shamuna devoted his body and his youthful and active mind to the service of God, and rivalled Guria in excellence of character.
+
+[1:11] Against these men an indictment was laid before the judge, to the effect that they not only pervaded all the country round about Edessa with their teaching and encouraged the people to hold fast their faith, but also led them to look with contempt on their persecutors, and, in order to induce them to set wholly at nought their impiety, taught them agreeably to that which is written:  "Trust not in princes—in the sons of men, in whom is no safety".
+
+[1:12] By these representations the judge was wrought up to a high pitch of madness, and gave orders that all those who held the Christian religion in honour and followed the teaching of Shamuna and Guria, together with those who persuaded them to this, should be apprehended, and shut up in safe keeping.
+
+[1:13] The order was carried into effect; and, seizing the opportunity, he had some of them flogged, and others tortured in various ways, and induced them to obey the emperor's command, and then, as if he were behaving kindly and mercifully, he allowed others to go to their homes; but our two saints, as being the ringleaders and those who had communicated their piety to others, he ordered to be still further maltreated in prison.
+
+[1:14] They, however, rejoiced in the fellowship of martyrdom.
+
+[1:15] For they heard of many in other provinces who had to pass through the same conflict as themselves:  among them Epiphanius and Petrus and the most holy Pamphilus, with many others, at Caesarea in Palestine; Timotheus at Gaza; at Alexandria, Timotheus the Great; Agapetus at Thessalonica; Hesychius at Nicomedia; Philippus at Adrianopolis; at Melitina Petrus; Hermes and his companions in the confines of Martyropolis:  all of whom were also encircled with the crown of martyrdom by Duke Heraclianus, along with other confessors too numerous for us to become acquainted with.
+
+[1:16] But we must return to the matters of which we were before speaking.
+
+[1:17] Antonius, then, the governor of Edessa, having permitted others to return to their homes, had a lofty judgment-seat erected, and ordered the martyrs to be brought before him.
+
+[1:18] The attendants having done as they were bidden, the governor said to the saints:  Our most divine emperor commands you to renounce Christianity, of which you are followers, and to pay divine honour to Jupiter by offering incense on the altar.
+
+[1:19] To this Shamuna replied:  Far be it from us to abandon the true faith, whereby we hope to obtain immortality, and worship the work of men's hands and an image!  The governor said:  The emperor's orders must by all means be obeyed.
+
+[1:20] Guria answered:  Our pure and divine faith will we never disown, by following the will of men, who are subject to dissolution.
+
+[1:21] For we have a Father in heaven whose will we follow, and He says:  "He that shall confess Me before men, him will I also confess before My Father who is in heaven; but he that shall deny Me before men, him will I also deny before My Father and His angels".
+
+[1:22] The judge said:  You refuse, then, to obey the will of the emperor?  But can you for a moment think, that the purposes of ordinary men and such as have no more power than yourselves are to be really carried into execution, while the commands of those who possess supreme power fall to the ground?  They, said the saints, who do the will of the King of kings spurn and reject the will of the flesh.
+
+[1:23] Then, on the governor's threatening them with death unless they obeyed, Shamuna said:  We shall not die, O tyrant, if we follow the will of the Creator:  nay rather, on the contrary, we shall live; but, if we follow the commands of your emperor, know thou that, even though thou shouldest not put us to death, we shall perish miserably all the same.
+
+[1:24] On hearing this, the governor gave orders to Anovitus the jailor to put them in very safe keeping.
+
+[1:25] For the mind which is naturally inclined to evil cannot bear the truth, any more than diseased eyes the bright beams of the sun.
+
+[1:26] And, when he had done as he was commanded, and the martyrs were in prison, where many other saints also had been previously shut by the soldiers, the Emperor Diocletian sent for Musonius the governor of Antioch and ordered him to go to Edessa and see the Christians who were confined there, whether they were of the common or of the sacred class, and question them about their religion, and deal with them as he should see fit.
+
+[1:27] So he came to Edessa; and he had Shamuna and Guria first of all placed before the tribunal of judgment, and said to them:  This, and no less, is the command of the lord of the world, that you make a libation of wine and place incense on the altar of Jupiter.
+
+[1:28] If you refuse to do so, I will destroy you with manifold punishments:  for I will tear your bodies to pieces with whips, till I get to your very entrails; and I will not cease pouring boiling lead into your armpits until it reaches even to your bowels; after that, I will hang you up, now by your hands, now by your feet, and I will loosen the fastenings of your joints; and I will invent new and unheard of punishments which you will be utterly unable to endure.
+
+[1:29] Shamuna answered:  We dread "the worm," the threat of which is denounced against those who deny the Lord, and "the fire which is not quenched," more than those tortures which thou hast set before us.
+
+[1:30] For God Himself, to whom we offer rational worship, will, first of all, strengthen us to bear these manifold tortures, and will deliver us out of thy hands; and, after that, will also give us to rest in a place of safety, where is the abode of all those who rejoice.
+
+[1:31] Besides, it is against nothing whatever but the body that thou takest up arms:  for what possible harm couldst thou do to the soul? since, as long as it resides in the body, it proves superior to torture; and, when it takes its departure, the body has no feeling whatever left.
+
+[1:32] For, "the more our outward man is destroyed, the more is our inward man renewed day by day;" for by means of patience we go through with this contest which is set before us.
+
+[1:33] The governor, however, again, with a kind of protestation, in order that, in case they did not obey, he might with the more justice punish them, said:  Give up your error, I beg you, and yield to the command of the emperor:  ye will not be able to endure the tortures.
+
+[1:34] The holy Guria answered:  We are neither the slaves of error, as thou sayest, nor will we ever obey the command of the emperor:  God forbid that we should be so weak-minded and so senseless!  For we are His disciples who laid down His life for us, so manifesting the riches of His goodness and His love towards us.
+
+[1:35] We will, therefore, resist sin even to death, nor, come what may, will we be foiled by the stratagems of the adversary, by which the first man was ensnared and plucked death from the tree through his disobedience; and Cain was persuaded, and, after staining his hands with his brother's blood, found the rewards of sin to be wailing and fear.
+
+[1:36] But we, listening to the words of Christ, will "not be afraid of those that kill the body but are not able to kill the soul:"  Him rather will we fear "who is able to destroy our soul and body".
+
+[1:37] The tyrant said:  It is not to give you an opportunity of disproving my allegations by snatches of your own writings that I refrain from anger and show myself forbearing; but that you may perform the command of the emperor and return in peace to your homes.
+
+[1:38] These words did not at all shake the resolution of the martyrs; but, approaching nearer:  What, said they, does it matter to us, if thou art angry, and nursest thine anger, and rainest tortures upon us like snow-flakes?  For then wouldst thou be favouring us all the more, by rendering the proof of our fortitude more conspicuous, and winning for us a greater recompense.
+
+[1:39] For this is the crowning point of our hope, that we shall leave behind our present dwelling, which is but for a time, and depart to one that will last forever.
+
+[1:40] For we have "a tabernacle not made with hands" in heaven, which the Scripture is accustomed also to call "Abraham's bosom," because of the familiar intercourse with God with which he was blessed.
+
+[1:41] The governor, seeing that their firmness underwent no change, forthwith left off speaking and proceeded with the threatened punishments, giving orders to the jailor Anuinus that they should be severally hung up by one hand, and that, when their hands were dislocated by having to bear the entire weight of the body, he should further suspend a heavy stone to their feet, that the sense of pain might be the sharper.
+
+[1:42] This was done, and from the third hour to the eighth they bore this severe torture with fortitude, uttering not a word, nor a groan, nor giving any other indication of a weak or abject mind.
+
+[1:43] You would have said that they were suffering in a body which was not theirs, or that others were suffering and they themselves were nothing more than spectators of what was going on.
+
+[1:44] In the meantime, whilst they were hanging by their hands, the governor was engaged in trying other cases.
+
+[1:45] Having done with these, he ordered the jailor to inquire of the saints whether or not they would obey the emperor and be released from their torture; and on his putting the question to them, when it was found that they either could not or would not return an answer, he ordered that they should be confined in the inner part of the prison, in a dark dungeon, dark both in name and in reality, and that their feet should be made fast in the stocks.
+
+[1:46] At dawn of day, their feet were loosened from the confinement of the stocks; but their prison was close shut up, so that not a single ray even of sunlight could make its way in; and the jailors were ordered not to give them a bit of bread or a single drop of water for three whole days.
+
+[1:47] So that, in addition to all the rest, the martyrs were condemned to a dark prison and a long privation of food.
+
+[1:48] When the third day arrived, about the beginning of the month of August, the prison was opened to admit light, but they were detained in it still up to the th of November.
+
+[1:49] Then the judge had them brought up before his tribunal:  Has not all this time, said he, sufficed to induce you to change your minds and come to some wholesome decision?  They answered:  We have already several times told thee our mind:  do, therefore, what thou hast been commanded.
+
+[1:50] The governor forthwith ordered that Shamuna should be made to kneel down on one side and that an iron chain should be fastened on his knee.
+
+[1:51] This having been done, he hung him up head downwards by the foot with which he had made him kneel; the other he pulled downwards with a heavy piece of iron, which cannot be described in words:  thus endeavouring to rend the champion in twain.
+
+[1:52] By this means the socket of the hip-bone was wrenched out of its place and Shamuna became lame.
+
+[1:53] Guria, however, because he was weak and somewhat pale, he left unpunished:  not that he regarded him with friendly eyes—not that he had any compassion on his weakness; but rather by way of sparing for another opportunity one whom he was anxious to punish:  lest perchance, as he said, through inadvertence on my part he should be worn out before he has undergone the torments in reserve for him.
+
+[1:54] By this time two hours of the day had passed since Shamuna had been hung up; and the fifth hour had now arrived, and he was still suspended on high—when the soldiers who stood around, taking pity upon him, urged him to obey the emperor's command.
+
+[1:55] But the compassion of sinners had no effect upon the saint.
+
+[1:56] For, although he suffered bitterly from the torture, he vouchsafed them no answer whatever, leaving them to lament at their leisure, and to deem themselves rather, and not him, deserving of pity.
+
+[1:57] But, lifting his eyes to heaven, he prayed to God from the depth of his heart, reminding Him of the wonders done in old time:  Lord God, he said, without whom not even a poor little sparrow falls into the snare; who didst cheer the heart of David amid his afflictions; who gavest power to Daniel even against the lions; who madest the children of Abraham victorious over the tyrant and the flame:  do Thou now also, O Lord, look on the war which is being waged against us, acquainted as Thou art with the weakness of our nature.
+
+[1:58] For the enemy is trying to turn away the workmanship of Thy right hand from the glory which is with Thee.
+
+[1:59] But regard Thou us with looks of compassion, and maintain within us, against all attempts to extinguish it, the lamp of Thy commandments; and by Thy light guide our paths, and vouchsafe us the enjoyment of that happiness which is in Thee:  for Thou art blessed for ever, world without end.
+
+[1:60] Thus did he utter the praise of the Umpire of the strife; and a scribe who was present took down in writing what was said.
+
+[1:61] At length the governor ordered the jailor to release him from his punishment.
+
+[1:62] He did so, and carried him away all faint and exhausted with the pain he suffered, and they bore him back to his former prison and laid him down by the side of the holy Guria.
+
+[1:63] On the th of November, however, in the night, about the time of cock-crowing, the judge got up.
+
+[1:64] He was preceded by torches and attendants; and, on arriving at the Basilica, as it is called, where the court was held, he took his seat with great ceremony on the tribunal, and sent to fetch the champions Guria and Shamuna.
+
+[1:65] The latter came in walking between two of the jailors and supported by the hands of both:  for he was worn out with hunger and weighed down with age:  nothing but his good hope sustained him.
+
+[1:66] Guria, too, had also to be carried in:  for he could not walk at all, because his foot had been severely galled by the chain on it.
+
+[1:67] Addressing them both, the advocate of impiety said:  In pursuance of the permission which was granted, you have, doubtless, consulted together about what it is expedient for you to do.
+
+[1:68] Tell me, then, whether any fresh resolution has been come to by you, and whether you have in any respect changed your mind in regard to your former purpose; and obey the command of the most divine emperor.
+
+[1:69] For thus will you be restored to the enjoyment of your property and possessions, yea of this most cheering light also.
+
+[1:70] To this the martyrs reply:  No one who is wise would make any great account of continuing for a little while in the enjoyment of things which are but transient.
+
+[1:71] Sufficient for us is the time already past for the use and the sight of them; nor do we feel the want of any of them.
+
+[1:72] That death, on the contrary, with which thou art threatening us will convey us to imperishable habitations and give us a participation in the happiness which is yonder.
+
+[1:73] The governor replied:  What you have said has filled my ears with great sadness.
+
+[1:74] However, I will explain to you what is determined on:  if you place incense on the altar and sacrifice to the image of Jupiter, all will be well, and each of you will go away to his home; but, if you still persist in disobeying the command of the emperor, you will most certainly lose your heads:  for this is what the great emperor wills and determines.
+
+[1:75] To this the most noble-minded Shamuna replied:  If thou shalt confer upon us so great a favour as to grant us deliverance from the miseries of this life and dismissal to the happiness of the life yonder, so far as in us lies thou shalt be rewarded by Him who lays out our possessions on what is for our good.
+
+[1:76] The governor replied to this somewhat kindly, as it seemed, saying:  I have patiently endured hitherto, putting up with those long speeches of yours, in order that by delay you may change your purpose and betake yourselves to what is for your good, and not have to undergo the punishment of death.
+
+[1:77] Those who submit, said he, to death which is only for a time, for the sake of Christ, will manifestly be delivered from eternal death.
+
+[1:78] For those who die to the world live in Christ.
+
+[1:79] For Peter also, who shines so brightly among the band of apostles, was condemned to the cross and to death; and James, the son of thunder was slain by Herod Agrippa with the sword.
+
+[1:80] Moreover, Stephen also was stoned, who was the first to run the course of martyrdom.
+
+[1:81] What, too, wilt thou say of John the Baptist?  Thou wilt surely acknowledge his distinguished fortitude and boldness of speech, when he preferred death rather than keep silence about conjugal infidelity, and the adulteress received his head as a reward for her dancing?  Again the governor said:  It is not that you may reckon up your saints, as you call them, that I bear so patiently with you, but that, by changing your resolution and yielding to the emperor's commands, you may be rescued from a very bitter death.
+
+[1:82] For, if you behave with such excessive daring and arrogance, what can you expect but that severer punishments are in store for you, under the pressure of which you will be ready even against your will to do what I demand of you:  by which time, however, it will be altogether too late to take refuge in compassion?  For the cry which is wrung from you by force has no power to challenge pity; whilst, on the other hand, that which is made of your own accord is deserving of compassion.
+
+[1:83] The confessors and martyrs of Christ said:  There needs not many words.
+
+[1:84] For lo! we are ready to undergo all the punishments thou mayest lay upon us.
+
+[1:85] What, therefore, has been commanded thee, delay not to perform.
+
+[1:86] For we are the worshippers of Christ the true God, and (again we say it) of Him of whose kingdom there shall be no end; who also is alone able to glorify those in return who glorify His name.
+
+[1:87] In the meantime, whilst these things were being said by the saints, the governor pronounced sentence against them that they should suffer death by the sword.
+
+[1:88] But they, filled with a joy, beyond the power of words to express, exclaimed:  To Thee of right belongeth glory and praise, who art God of all, because it hath pleased Thee that we should carry on to its close the conflict we have entered upon, and that we should also receive at Thy hands the brightness that shall never fade away.
+
+[1:89] When, therefore, the governor saw their unyielding firmness, and how they had heard the final sentence with exultation of soul, he said to the saints:  May God search into what is being done, and be witness that so far as I was concerned it was no wish of mine that you should lose your lives; but the inflexible command of the emperor to me compels me to this.
+
+[1:90] He then ordered a halberdier to take charge of the martyrs, and, putting them in a carriage, to convey them to a distance from the city with some soldiers, and there to end them with the sword.
+
+[1:91] So he, taking the saints out at night by the Roman gate, when the citizens were buried in profound slumber, conveyed them to Mount Bethelabicla on the north of the city.
+
+[1:92] On their arrival at that place, having alighted from the carriage with joy of heart and great firmness of mind, they requested the halberdier and those who were under his orders to give them time to pray; and it was granted.
+
+[1:93] For, just as if their tortures and their blood were not enough to plead for them, they still by reason of their humility deemed it necessary to pray.
+
+[1:94] So they raised their eyes to heaven and prayed earnestly, concluding with the words:  God and Father of our Lord Jesus Christ, receive in peace our spirits to Thyself.
+
+[1:95] Then Shamuna, turning to the halberdier, said:  Perform that which thou hast been commanded.
+
+[1:96] So he kneeled down along with Guria, and they were beheaded, on the th of November.
+
+[1:97] This is the account of what happened to the martyrs.
+
+[1:98] But forasmuch as the number sought for a third in order that in them the Trinity might be glorified, it found, oh admirable providence! Habib—at a subsequent time indeed:  but he also, along with those who had preceded him, had determined to enter on the journey, and on the very day of their martyrdom reached his consummation.
+
+[1:99] Habib, then, great among martyrs, was a native of the same place as they, namely of the village of Thelsaea; and he had the honour of being invested with the sacred office of the diaconate.
+
+[1:100] But, when Licinius swayed the sceptre of the Roman empire and Lysanias had appointed governor of Edessa, a persecution was again raised against the Christians, and the general danger threatened Habib.
+
+[1:101] For he would go about the city, teaching the divine Scriptures to all he met with, and courageously seeking to strengthen them in piety.
+
+[1:102] When this came to the ears of Lysanias, he gave information of it to the Emperor Licinius.
+
+[1:103] For he was anxious to be himself entrusted with the business of bringing the Christians to trial, and especially Habib:  for he had never been entrusted with it before.
+
+[1:104] The emperor, then, sent him a letter and commanded him to put Habib to death.
+
+[1:105] So, when Lysanias had received the letter, search was made everywhere for Habib, who on account of his office in the Church lived in some part of the city, his mother and some of his relations residing with him.
+
+[1:106] When he got intelligence of the matter, fearing lest he should incur punishment for quitting the ranks of martyrdom, he went of his own accord and presented himself to a man who was among the chief of the body-guard, named Theotecnus, and presently he said:  I am Habib for whom ye are seeking.
+
+[1:107] But he, looking kindly at him, said:  No one, my good man, is as yet aware of thy coming to me:  so go away, and look to thy safety; and be not concerned about thy mother, nor about thy relations:  for they cannot possibly get into any trouble.
+
+[1:108] Thus far Theotecnus.
+
+[1:109] But Habib, because the occasion was one that called for martyrdom, refused to yield to a weak and cowardly spirit and secure his safety in any underhand way.
+
+[1:110] He replied, therefore:  It is not for the sake of my dear mother, nor for the sake of my kinsfolk, that I denounce myself; but I have come for the sake of the confession of Christ.
+
+[1:111] For Lo! whether thou consent or no, I will make my appearance before the governor, and I will proclaim my Master Christ before princes and kings.
+
+[1:112] Theotecnus, accordingly, apprehensive that he might go of his own accord to the governor, and that in this way he might himself be in jeopardy for not having denounced him, took Habib and conducted him to the governor:  Here, said he, is Habib, for whom search has been made.
+
+[1:113] When Lysanias learned that Habib had come of his own accord to the contest, he concluded that this was a mark of contempt and overweening boldness, as if he set light by the solemn dignity of the judicial seat; and he had him at once put on his trial.
+
+[1:114] He inquired of him his condition of life, his name, and his country.
+
+[1:115] On his answering that he was a native of the village of Thelsaea, and intimating that he was a minister of Christ, the governor immediately charged the martyr with not obeying the emperor's commands.
+
+[1:116] He insisted that a plain proof of this was his refusal to offer incense to Jupiter.
+
+[1:117] To this Habib kept replying that he was a Christian, and could not forsake the true God, or sacrifice to the lifeless works of men's hands which had no sensation.
+
+[1:118] The governor hereupon ordered, that his arms should be bound with ropes, and that he should be raised up high on a beam and torn with iron claws.
+
+[1:119] The hanging up was far more difficult to bear than the tearing:  for he was in danger of being pulled asunder, through the forcible strain with which his arms were stretched out.
+
+[1:120] In the meantime, as he was hanging up in the air, the governor had recourse to smooth words, and assumed the guise of patience.
+
+[1:121] He, however, continued to threaten him with severer punishments unless he should change his resolution.
+
+[1:122] But he said:  No man shall induce me to forsake the faith, nor persuade me to worship demons, even though he should inflict tortures more and greater.
+
+[1:123] On the governor's asking him what advantage he expected to gain from tortures which destroyed his whole body, Habib, Christ's martyr, replied:  The objects of our regard do not last merely for the present, nor do we pursue the things that are seen; and, if thou too art minded to turn thy look towards our hope and promised recompense, possibly thou wilt even say with Paul:  "The sufferings of this time are not worthy to be compared with the glory which is to be revealed in us".
+
+[1:124] The governor pronounced his words to be the language of imbecility; and, when he saw that, notwithstanding all the efforts he made, by turns using smooth words and assuming the part of patience, and then again threatening him and menacing him with a shocking death, he could not in either way prevail with him, he said, as he pronounced sentence upon him:  I will not inflict on thee a sudden and speedy death; I will bring on thy dissolution gradually by means of a slow fire, and in this way make thee lay aside thy fierce and intractable spirit.
+
+[1:125] Thereupon, some wood was collected together at a place outside the city on the northward, and he was led to the pile, followed by his mother, and also by those who were otherwise by blood related to him.
+
+[1:126] He then prayed, and pronounced a blessing on all, and gave them the kiss in the Lord; and after that the wood was kindled by them, and he was cast into the fire; and, when he had opened his mouth to receive the flame, he yielded up his spirit to Him who had given it.
+
+[1:127] Then, when the fire had subsided, his relatives wrapped him in a costly piece of linen and anointed him with unguents; and, having suitably sung psalms and hymns, they laid him by the side of Shamuna and Guria, to the glory of the Father, and of the Son, and of the Holy Spirit, who constitute a Divine Trinity, which cannot be divided:  to whom is due honour and worship now and always, and for evermore, Amen.
+
+[1:128] Such was the close of the life of the martyr Habib in the time of Licinius, and thus did he obtain the privilege of being laid with the saints, and thus did he bring to the pious rest from their persecutions.
+
+[1:129] For shortly afterwards the power of Licinius waned, and the rule of Constantine prospered, and the sovereignty of the Romans became his; and he was the first of the emperors who openly professed piety, and allowed the Christians to live as Christians.
+

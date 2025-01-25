@@ -1,0 +1,216 @@
+# Dionysius: On Nature
+
+[1:1] From the Books on Nature: I.
+
+[1:2] In Opposition to Those of the School of Epicurus Who Deny the Existence of a Providence, and Refer the Constitution of the Universe to Atomic Bodies.
+
+[1:3] Is the universe one coherent whole, as it seems to be in our own judgment, as well as in that of the wisest of the Greek philosophers, such as Plato and Pythagoras, and the Stoics and Heraclitus? or is it a duality, as some may possibly have conjectured? or is it indeed something manifold and infinite, as has been the opinion of certain others who, with a variety of mad speculations and fanciful usages of terms, have sought to divide and resolve the essential matter of the universe, and lay down the position that it is infinite and unoriginated, and without the sway of Providence? For there are those who, giving the name of atoms to certain imperishable and most minute bodies which are supposed to be infinite in number, and positing also the existence of a certain vacant space of an unlimited vastness, allege that these atoms, as they are borne along casually in the void, and clash all fortuitously against each other in an unregulated whirl, and become commingled one with another in a multitude of forms, enter into combination with each other, and thus gradually form this world and all objects in it; yea, more, that they construct infinite worlds.
+
+[1:4] This was the opinion of Epicurus and Democritus; only they differed in one point, in so far as the former supposed these atoms to be all most minute and consequently imperceptible, while Democritus held that there were also some among them of a very large size.
+
+[1:5] But they both hold that such atoms do exist, and that they are so called on account of their indissoluble consistency.
+
+[1:6] There are some, again, who give the name of atoms to certain bodies which are indivisible into parts, while they are themselves parts of the universe, out of which in their undivided state all things are made up, and into which they are dissolved again.
+
+[1:7] And the allegation is, that Diodorus was the person who gave them their names as bodies indivisible into parts.
+
+[1:8] But it is also said that Heraclides attached another name to them, and called them "weights;" and from him the physician Asclepiades also derived that name.
+
+[2:1] II.
+
+[2:2] A Refutation of This Dogma on the Ground of Familiar Human Analogies.
+
+[2:3] How, shall we bear with these men who assert that all those wise, and consequently also noble, constructions (in the universe) are only the works of common chance? those objects, I mean, of which each taken by itself as it is made, and the whole system collectively, were seen to be good by Him by whose command they came into existence.
+
+[2:4] For, as it is said, "God saw everything that He had made, and, behold, it was very good".
+
+[2:5] But truly these men do not reflect on the analogies even of small familiar things which might come under their observation at any time, and from which they might learn that no object of any utility, and fitted to be serviceable, is made without design or by mere chance, but is wrought by skill of hand, and is contrived so as to meet its proper use.
+
+[2:6] And when the object falls out of service and becomes useless, then it also begins to break up indeterminately, and to decompose and dissipate its materials in every casual and unregulated way, just as the wisdom by which it was skilfully constructed at first no longer controls and maintains it.
+
+[2:7] For a cloak, for example, cannot be made without the weaver, as if the warp could be set aright and the woof could be entwined with it by their own spontaneous action; while, on the other hand, if it is once worn out, its tattered rags are flung aside.
+
+[2:8] Again, when a house or a city is built, it does not take on its stones, as if some of them placed themselves spontaneously upon the foundations, and others lifted themselves up on the several layers, but the builder carefully disposes the skilfully prepared stones in their proper positions; while if the structure happens once to give way, the stones are separated and cast down and scattered about.
+
+[2:9] And so, too, when a ship is built, the keel does not lay itself, neither does the mast erect itself in the centre, nor do all the other timbers take up their positions casually and by their own motion.
+
+[2:10] Nor, again, do the so-called hundred beams in the wain fit themselves spontaneously to the vacant spaces they severally light on.
+
+[2:11] But the carpenter in both cases puts the materials together in the right way and at the right time.
+
+[2:12] And if the ship goes to sea and is wrecked, or if the wain drives along on land and is shattered, their timbers are broken up and cast abroad anywhere,—those of the former by the waves, and those of the latter by the violence of the impetus.
+
+[2:13] In like manner, then, we might with all propriety say also to these men, that those atoms of theirs, which remain idle and unmanipulated and useless, are introduced vainly.
+
+[2:14] Let them, accordingly, seek for themselves to see into what is beyond the reach of sight, and conceive what is beyond the range of conception; unlike him who in these terms confesses to God that things like these had been shown him only by God Himself: "Mine eyes did see Thy work, being till then imperfect".
+
+[2:15] But when they assert now that all those things of grace and beauty, which they declare to be textures finely wrought out of atoms, are fabricated spontaneously by these bodies without either wisdom or perception in them, who can endure to hear them talk in such terms of those unregulated atoms, than which even the spider, that plies its proper craft of itself, is gifted with more sagacity?.
+
+[3:1] III.
+
+[3:2] A Refutation on the Ground of the Constitution of the Universe.
+
+[3:3] Or who can bear to hear it maintained, that this mighty habitation, which is constituted of heaven and earth, and which is called "Cosmos" on account of the magnitude and the plenitude of the wisdom which has been brought to bear upon it, has been established in all its order and beauty by those atoms which hold their course devoid of order and beauty, and that that same state of disorder has grown into this true Cosmos, Order? Or who can believe that those regular movements and courses are the products of a certain unregulated impetus? Or who can allow that the perfect concord subsisting among the celestial bodies derives its harmony from instruments destitute both of concord and harmony? Or, again, if there is but one and the same substance in all things, and if there is the same incorruptible nature in all,—the only elements of difference being, as they aver, size and figure,—how comes it that there are some bodies divine and perfect, and eternal, as they would phrase it, or lasting, as some one may prefer to express it; and among these some that are visible and others that are invisible,—the visible including such as sun, and moon, and stars, and earth, and water; and the invisible including gods, and demons, and spirits? For the existence of such they cannot possibly deny however desirous to do so.
+
+[3:4] And again, there are other objects that are long-lived, both animals and plants.
+
+[3:5] As to animals, there are, for example, among birds, as they say, the eagle, the raven, and the phoenix; and among creatures living on land, there are the stag, and the elephant, and the dragon; and among aquatic creatures there are the whales, and such like monsters of the deep.
+
+[3:6] And as to trees, there are the palm, and the oak, and the persea; and among trees, too, there are some that are evergreens, of which kind fourteen have been reckoned up by some one; and there are others that only bloom for a certain season, and then shed their leaves.
+
+[3:7] And there are other objects, again—which indeed constitute the vast mass of all which either grow or are begotten—that have an early death and a brief life.
+
+[3:8] And among these is man himself, as a certain holy scripture says of him: "Man that is born of woman is of few days".
+
+[3:9] Well, but I suppose they will reply that the varying conjunctions of the atoms account fully for differences so great in the matter of duration.
+
+[3:10] For it is maintained that there are some things that are compressed together by them, and firmly interlaced, so that they become closely compacted bodies, and consequently exceedingly hard to break up; while there are others in which more or less the conjunction of the atoms is of a looser and weaker nature, so that either quickly or after some time they separate themselves from their orderly constitution.
+
+[3:11] And, again, there are some bodies made up of atoms of a definite kind and a certain common figure, while there are others made up of diverse atoms diversely disposed.
+
+[3:12] But who, then, is the sagacious discriminator, that brings certain atoms into collocation, and separates others; and marshals some in such wise as to form the sun, and others in such a way as to originate the moon, and adapts all in natural fitness, and in accordance with the proper constitution of each star? For surely neither would those solar atoms, with their peculiar size and kind, and with their special mode of collocation, ever have reduced themselves so as to effect the production of a moon; nor, on the other hand, would the conjunctions of these lunar atoms ever have developed into a sun.
+
+[3:13] And as certainly neither would Arcturus, resplendent as he is, ever boast his having the atoms possessed by Lucifer, nor would the Pleiades glory in being constituted of those of Orion.
+
+[3:14] For well has Paul expressed the distinction when he says: "There is one glory of the sun, and another glory of the moon, and another glory of the stars: for one star differeth from another star in glory".
+
+[3:15] And if the coalition effected among them has been an unintelligent one, as is the case with soulless objects, then they must needs have had some sagacious artificer; and if their union has been one without the determination of will, and only of necessity, as is the case with irrational objects, then some skilful leader must have brought them together and taken them under his charge.
+
+[3:16] And if they have linked themselves together spontaneously, for a spontaneous work, then some admirable architect must have apportioned their work for them, and assumed the superintendence among them; or there must have been one to do with them as the general does who loves order and discipline, and who does not leave his army in an irregular condition, or suffer all things to go on confusedly, but marshals the cavalry in their proper succession, and disposes the heavy-armed infantry in their due array, and the javelin-men by themselves, and the archers separately, and the slingers in like manner, and sets each force in its appropriate position, in order that all those equipped in the same way may engage together.
+
+[3:17] But if these teachers think that this illustration is but a joke, because I institute a comparison between very large bodies and very small, we may pass to the very smallest.
+
+[3:18] Then we have what follows:—But if neither the word, nor the choice, nor the order of a ruler is laid upon them, and if by their own act they keep themselves right in the vast commotion of the stream in which they move, and convey themselves safely through the mighty uproar of the collisions, and if like atoms meet and group themselves with like, not as being brought together by God, according to the poet's fancy, but rather as naturally recognising the affinities subsisting between each other, then truly we have here a most marvellous democracy of atoms, wherein friends welcome and embrace friends, and all are eager to sojourn together in one domicile; while some by their own determination have rounded themselves off into that mighty luminary the sun, so as to make day; and others have formed themselves into many pyramids of blazing stars, it may be, so as to crown also the whole heavens; and others have reduced themselves into the circular figure, so as to impart a certain solidity to the ether, and arch it over, and constitute it a vast graduated ascent of luminaries, with this object also, that the various conventions of the commoner atoms may select settlements for themselves, and portion out the sky among them for their habitations and stations.
+
+[3:19] Then, after certain other matters, the discourse proceeds thus:—But inconsiderate men do not see even things that are apparent, and certainly they are far from being cognisant of things that are unapparent.
+
+[3:20] For they do not seem even to have any notion of those regulated risings and settings of the heavenly bodies,—those of the sun, with all their wondrous glory, no less than those of the others; nor do they appear to make due application of the aids furnished through these to men, such as the day that rises clear for man's work, and the night that overshadows earth for man's rest.
+
+[3:21] "For man," it is said, "goeth forth unto his work, and to his labour, until the evening".
+
+[3:22] Neither do they consider that other revolution, by which the sun makes out for us determinate times, and convenient seasons, and regular successions, directed by those atoms of which it consists.
+
+[3:23] But even though men like these—and miserable men they are, however they may believe themselves to be righteous—may choose not to admit it, there is a mighty Lord that made the sun, and gave it the impetus for its course by His words.
+
+[3:24] O ye blind ones, do these atoms of yours bring you the winter season and the rains, in order that the earth may yield food for you, and for all creatures living on it? Do they introduce summertime, too, in order that ye may gather their fruits from the trees for your enjoyment? And why, then, do ye not worship these atoms, and offer sacrifices to them as the guardians of earth's fruits? Thankless surely are ye, in not setting solemnly apart for them even the most scanty first-fruits of that abundant bounty which ye receive from them.
+
+[3:25] After a short break he proceeds thus:—Moreover, those stars which form a community so multitudinous and various, which these erratic and ever self-dispersing atoms have constituted, have marked off by a kind of covenant the tracts for their several possessions, portioning these out like colonies and governments, but without the presidency of any founder or house-master; and with pledged fealty and in peace they respect the laws of vicinity with their neighbours, and abstain from passing beyond the boundaries which they received at the outset, just as if they enjoyed the legislative administration of true princes in the atoms.
+
+[3:26] Nevertheless these atoms exercise no rule.
+
+[3:27] For how could these, that are themselves nothing, do that? But listen to the divine oracles: "The works of the Lord are in judgment; from the beginning, and from His making of them, He disposed the parts thereof.
+
+[3:28] He garnished His works for ever, and their principles unto their generations".
+
+[3:29] Again, after a little, he proceeds thus:—Or what phalanx ever traversed the plain in such perfect order, no trooper outmarching the others, or falling out of rank, or obstructing the course, or suffering himself to be distanced by his comrades in the array, as is the case with that steady advance in regular file, as it were, and with close-set shields, which is presented by this serried and unbroken and undisturbed and unobstructed progress of the hosts of the stars? Albeit by side inclinations and flank movements certain of their revolutions become less clear.
+
+[3:30] Yet, however that may be, they assuredly always keep their appointed periods, and again bear onward determinately to the positions from which they have severally risen, as if they made that their deliberate study.
+
+[3:31] Wherefore let these notable anatomizers of atoms, these dividers of the indivisible, these compounders of the uncompoundable, these adepts in the apprehension of the infinite, tell us whence comes this circular march and course of the heavenly bodies, in which it is not any single combination of atoms that merely chances all unexpectedly to swing itself round in this way; but it is one vast circular choir that moves thus, ever equally and concordantly, and whirls in these orbits.
+
+[3:32] And whence comes it that this mighty multitude of fellow-travellers, all unmarshalled by any captain, all ungifted with any determination of will, and all unendowed with any knowledge of each other, have nevertheless held their course in perfect harmony? Surely, well has the prophet ranked this matter among things which are impossible and undemonstrable,—namely, that two strangers should walk together.
+
+[3:33] For he says, "Shall two come to the same lodging unless they know each other?".
+
+[4:1] IV.
+
+[4:2] A Refutation of the Same on the Grounds of the Human Constitution.
+
+[4:3] Further, those men understand neither themselves nor what is proper to themselves.
+
+[4:4] For if any of the leaders in this impious doctrine only considered what manner of person he is himself, and whence he comes, he would surely be led to a wise decision, like one who has obtained understanding of himself, and would say, not to these atoms, but to his Father and Maker, "Thy hands have made me and fashioned me".
+
+[4:5] And he would take up, too, this wonderful account of his formation as it has been given by one of old: "Hast Thou not poured me out as milk, and curdled me as cheese? Thou hast clothed me with skin and flesh, and hast fenced me with bones and sinews.
+
+[4:6] Thou hast granted me life and favour, and Thy visitation hath preserved my spirit".
+
+[4:7] For of what quantity and of what origin were the atoms which the father of Epicurus gave forth from himself when he begat Epicurus? And how, when they were received within his mother's womb, did they coalesce, and take form and figure? and how were they put in motion and made to increase? And how did that little seed of generation draw together the many atoms that were to constitute Epicurus, and change some of them into skin and flesh for a covering, and make bone of others for erectness and strength, and form sinews of others for compact contexture? And how did it frame and adapt the many other members and parts—heart and bowels, and organs of sense, some within and some without—by which the body is made a thing of life? For of all these things there is not one either idle or useless: not even the meanest of them—the hair, or the nails, or such like—is so; but all have their service to do, and all their contribution to make, some of them to the soundness of bodily constitution, and others of them to beauty of appearance.
+
+[4:8] For Providence cares not only for the useful, but also for the seasonable and beautiful.
+
+[4:9] Thus the hair is a kind of protection and covering for the whole head, and the beard is a seemly ornament for the philosopher.
+
+[4:10] It was Providence, then, that formed the constitution of the whole body of man, in all its necessary parts, and imposed on all its members their due connection with each other, and measured out for them their liberal supplies from the universal resources.
+
+[4:11] And the most prominent of these show clearly, even to the uninstructed, by the proof of personal experience, the value and service attaching to them: the head, for example, in the position of supremacy, and the senses set like a guard about the brain, as the ruler in the citadel; and the advancing eyes, and the reporting ears; and the taste which, as it were, is the tribute-gatherer; and the smell, which tracks and searches out its objects: and the touch, which manipulates all put under it.
+
+[4:12] Hence we shall only run over in a summary way, at present, some few of the works of an all-wise Providence; and after a little we shall, if God grant it, go over them more minutely, when we direct our discourse toward one who has the repute of greater learning.
+
+[4:13] So, then, we have the ministry of the hands, by which all kinds of works are wrought, and all skilful professions practised, and which have all their various faculties furnished them, with a view to the discharge of one common function; and we have the shoulders, with their capacity for bearing burdens; and the fingers, with their power of grasping; and the elbows, with their faculty of bending, by which they can turn inwardly, upon the body, or take an outward inclination, so as to be able either to draw objects toward the body, or to thrust them away from it.
+
+[4:14] We have also the service of the feet, by which the whole terrestrial creation is made to come under our power, the earth itself is traversed thereby, the sea is made navigable, the rivers are crossed, and intercourse is established for all with all things.
+
+[4:15] The belly, too, is the storehouse of meats, with all its parts arranged in their proper collocations, so that it apportions for itself the right measure of aliment, and ejects what is over and above that.
+
+[4:16] And so is it with all the other things by which manifestly the due administration of the constitution of man is wisely secured.
+
+[4:17] Of all these, the intelligent and the unintelligent alike enjoy the same use; but they have not the same comprehension of them.
+
+[4:18] For there are some who refer this whole economy to a power which they conceive to be a true divinity, and which they apprehend as at once the highest intelligence in all things, and the best benefactor to themselves, believing that this economy is all the work of a wisdom and a might which are superior to every other, and in themselves truly divine.
+
+[4:19] And there are others who aimlessly attribute this whole structure of most marvellous beauty to chance and fortuitous coincidence.
+
+[4:20] And in addition to these, there are also certain physicians, who, having made a more effective examination into all these things, and having investigated with utmost accuracy the disposition of the inward parts in especial, have been struck with astonishment at the results of their inquiry, and have been led to deify nature itself.
+
+[4:21] The notions of these men we shall review afterwards, as far as we may be able, though we may only touch the surface of the subject.
+
+[4:22] Meantime, to deal with this matter generally and summarily, let me ask who constructed this whole tabernacle of ours, so lofty, erect, graceful, sensitive, mobile, active, and apt for all things? Was it, as they say, the irrational multitude of atoms? Nay, these, by their conjunctions, could not mould even an image of clay, neither could they hew and polish a statue of stone; nor could they cast and finish an idol of silver or gold; but arts and handicrafts calculated for such operations have been discovered by men who fabricate these objects.
+
+[4:23] And if, even in these, representations and models cannot be made without the aid of wisdom, how can the genuine and original patterns of these copies have come into existence spontaneously? And whence have come the soul, and the intelligence, and the reason, which are born with the philosopher? Has he gathered these from those atoms which are destitute alike of soul, and intelligence, and reason? and has each of these atoms inspired him with some appropriate conception and notion? And are we to suppose that the wisdom of man was made up by these atoms, as the myth of Hesiod tells us that Pandora was fashioned by the gods? Then shall the Greeks have, to give up speaking of the various species of poetry, and music, and astronomy, and geometry, and all the other arts and sciences, as the inventions and instructions of the gods, and shall have to allow that these atoms are the only muses with skill and wisdom for all subjects.
+
+[4:24] For this theogony, constructed of atoms by Epicurus, is indeed something extraneous to the infinite worlds of order, and finds its refuge in the infinite disorder.
+
+[5:1] V.
+
+[5:2] That to Work is Not a Matter of Pain and Weariness to God.
+
+[5:3] Now to work, and administer, and do good, and exercise care, and such like actions, may perhaps be hard tasks for the idle, and silly, and weak, and wicked; in whose number truly Epicurus reckons himself, when he propounds such notions about the gods.
+
+[5:4] But to the earnest, and powerful, and intelligent, and prudent, such as philosophers ought to be—and how much more so, therefore, the gods!—these things are not only not disagreeable and irksome, but ever the most delightful, and by far the most welcome of all.
+
+[5:5] To persons of this character, negligence and procrastination in the doing of what is good are a reproach, as the poet admonishes them in these words of counsel:—  "Delay not aught till the morrow".
+
+[5:6] And then he adds this further sentence of threatening:—  "The lazy procrastinator is ever wrestling with miseries".
+
+[5:7] And the prophet teaches us the same lesson in a more solemn fashion, and declares that deeds done according to the standard of virtue are truly worthy of God, and that the man who gives no heed to these is accursed: "For cursed be he that doeth the works of the Lord carelessly".
+
+[5:8] Moreover, those who are unversed in any art, and unable to prosecute it perfectly, feel it to be wearisome when they make their first attempts in it, just by reason of the novelty of their experience, and their want of practice in the works.
+
+[5:9] But those, on the other hand, who have made some advance, and much more those who are perfectly trained in the art, accomplish easily and successfully the objects of their labours, and have great pleasure in the work, and would choose rather thus, in the discharge of the pursuits to which they are accustomed, to finish and carry perfectly out what their efforts aim at, than to be made masters of all those things which are reckoned advantageous among men.
+
+[5:10] Yea, Democritus himself, as it is reported, averred that he would prefer the discovery of one true cause to being put in possession of the kingdom of Persia.
+
+[5:11] And that was the declaration of a man who had only a vain and groundless conception of the causes of things, inasmuch as he started with an unfounded principle, and an erroneous hypothesis, and did not discern the real root and the common law of necessity in the constitution of natural things, and held as the greatest wisdom the apprehension of things that come about simply in an unintelligent and random way, and set up chance as the mistress and queen of things universal, and even things divine, and endeavoured to demonstrate that all things happen by the determination of the same, although at the same time he kept it outside the sphere of the life of men, and convicted those of senselessness who worshipped it.
+
+[5:12] At any rate, at the very beginning of his Precepts he speaks thus: "Men have made an image of chance, as a cover for their own lack of knowledge.
+
+[5:13] For intellect and chance are in their very nature antagonistic to each other.
+
+[5:14] And men have maintained that this greatest adversary to intelligence is its sovereign.
+
+[5:15] Yea, rather, they completely subvert and do away with the one, while they establish the other in its place.
+
+[5:16] For they do not celebrate intelligence as the fortunate, but they laud chance as the most intelligent".
+
+[5:17] Moreover, those who attend to things conducing to the good of life, take special pleasure in what serves the interests of those of the same race with themselves, and seek the recompense of praise and glory in return for labours undertaken in behalf of the general good; while some exert themselves as purveyors of ways and means, others as magistrates, others as physicians, others as statesmen; and even philosophers pride themselves greatly in their efforts after the education of men.
+
+[5:18] Will, then, Epicurus or Democritus be bold enough to assert that in the exertion of philosophizing they only cause distress to themselves? Nay, rather they will reckon this a pleasure of mind second to none.
+
+[5:19] For even though they maintain the opinion that the good is pleasure, they will be ashamed to deny that philosophizing is the greater pleasure to them.
+
+[5:20] But as to the gods, of whom the poets among them sing that they are the "bestowers of good gifts," these philosophers scoffingly celebrate them in strains like these: "The gods are neither the bestowers nor the sharers in any good thing".
+
+[5:21] And in what manner, forsooth, can they demonstrate that there are gods at all, when they neither perceive their presence, nor discern them as the doers of aught, wherein, indeed, they resemble those who, in their admiration and wonder at the sun and the moon and the stars, have held these to have been named gods, from their running such courses: when, further, they do not attribute to them any function or power of operation, so as to hold them gods from their constituting, that is, from their making objects, for thereby in all truth the one maker and operator of all things must be God: and when, in fine, they do not set forth any administration, or judgment, or beneficence of theirs in relation to men, so that we might be bound either by fear or by reverence to worship them? Has Epicurus then been able, forsooth, to see beyond this world, and to overpass the precincts of heaven? or has he gone forth by some secret gates known to himself alone, and thus obtained sight of the gods in the void? and, deeming them blessed in their full felicity, and then becoming himself a passionate aspirant after such pleasure, and an ardent scholar in that life which they pursue in the void, does he now call upon all to participate in this felicity, and urge them thus to make themselves like the gods, preparing as their true symposium of blessedness neither heaven nor Olympus, as the poets feign, but the sheer void, and setting before them the ambrosia of atoms, and pledging them in nectar made of the same? However, in matters which have no relation to us, he introduces into his books a myriad oaths and solemn asseverations, swearing constantly both negatively and affirmatively by Jove, and making those whom he meets, and with whom he discusses his doctrines, swear also by the gods, not certainly that he fears them himself, or has any dread of perjury, but that he pronounces all this to be vain, and false, and idle, and unintelligible, and uses it simply as a kind of accompaniment to his words, just as he might also clear his throat, or spit, or twist his face, or move his hand.
+
+[5:22] So completely senseless and empty a pretence was this whole matter of the naming of the gods, in his estimation.
+
+[5:23] But this is also a very patent fact, that, being in fear of the Athenians after (the warning of) the death of Socrates, and being desirous of preventing his being taken for what he really was—an atheist—the subtle charlatan invented for them certain empty shadows of unsubstantial gods.
+
+[5:24] But never surely did he look up to heaven with eyes of true intelligence, so as to hear the clear voice from above, which another attentive spectator did hear, and of which he testified when he said, "The heavens declare the glory of God, and the firmament showeth His handiwork".
+
+[5:25] And never surely did he look down upon the world's surface with due reflection; for then would he have learned that "the earth is full of the goodness of the Lord" and that "the earth is the Lord's, and the fulness thereof;" and that, as we also read, "After this the Lord looked upon the earth, and filled it with His blessings.
+
+[5:26] With all manner of living things hath He covered the face thereof".
+
+[5:27] And if these men are not hopelessly blinded, let them but survey the vast wealth and variety of living creatures, land animals, and winged creatures, and aquatic; and let them understand then that the declaration made by the Lord on the occasion of His judgment of all things is true: "And all things, in accordance with His command, appeared good".
+

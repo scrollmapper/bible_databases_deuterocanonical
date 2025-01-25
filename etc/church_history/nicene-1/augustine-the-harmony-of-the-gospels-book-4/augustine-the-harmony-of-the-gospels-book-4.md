@@ -1,0 +1,486 @@
+# Augustine: The Harmony of the Gospels Book IV
+
+[1:1] Harmony of the Gospels, Book IV.
+
+[1:2] Prologue.
+
+[1:3] 1.
+
+[1:4] As we have examined Matthew's narrative in its complete connection, and as the comparison which we have carried out between it and the other three on to its conclusion has established the fact, that not one of these evangelists contains anything either at variance with other statements in his own Gospel, or inconsistent with the accounts presented by his fellow-historians, let us now subject Mark to a similar scrutiny.
+
+[1:5] Our plan will be to omit those sections which he has in common with Matthew, which we have already investigated as far as seemed requisite and are now done with, and to take up those paragraphs which remain, with the view of submitting them to discussion and comparison, and of demonstrating their thorough harmony with what is related by the other evangelists on to the notice of the Lord's Supper.
+
+[1:6] For we have already dealt with all the incidents which are reported in all the four Gospels from that point on to the end, and have considered the subject of their mutual consistency.
+
+[1:7] Chapter I.
+
+[1:8] —Of the Question Regarding the Proof that Mark's Gospel is in Harmony with the Rest in What is Narrated (Those Passages Which He Has in Common with Matthew Being Left Out of Account), from Its Beginning Down to the Section Where It is Said, "And They Go into Capharnaum, and Straightway on the Sabbath-Day He Taught Them:" Which Incident is Reported Also by Luke.
+
+[1:9] 2.
+
+[1:10] Mark, then, commences as follows: "The beginning of the gospel of Jesus Christ, the Son of God: as it is written in the prophet Isaiah;" and so on, down to where it is said, "And they go into Capharnaum; and straightway on the Sabbath-day He entered into the synagogue and taught them".
+
+[1:11] In this entire context, everything has been examined above in connection with Matthew.
+
+[1:12] This particular statement, however, about His going into the synagogue at Capharnaum and teaching them on the Sabbath-day, is one which Mark has in common with Luke.
+
+[1:13] But it raises no question of difficulty.
+
+[2:1] Chapter II.
+
+[2:2] —Of the Man Out of Whom the Unclean Spirit that Was Tormenting Him Was Cast, and of the Question Whether Mark's Version is Quite Consistent with that of Luke, Who is at One with Him in Reporting the Incident.
+
+[2:3] 3.
+
+[2:4] Mark proceeds with his narrative in the following terms: "And they were astonished at His doctrine: for He taught them as one that had authority, and not as the scribes.
+
+[2:5] And there was in their synagogue a man with an unclean spirit: and he cried out, saying, What have we to do with thee, thou Jesus of Nazareth? Art thou come to destroy us?" and so on, down to the passage where we read, "And He preached in the synagogues throughout all Galilee, and cast out devils".
+
+[2:6] Although there are some points here which are common only to Mark and Luke, the entire contents of this section have also been already dealt with when we were going over Matthew's narrative in its continuity.
+
+[2:7] For all these matters came into the order of narration in such a manner that I thought they could not be passed over.
+
+[2:8] But Luke says that this unclean spirit went out of the man in such a way as not to hurt him: whereas Mark's statement is to this effect: "And the unclean spirit cometh out of him, tearing him, and crying with a loud voice".
+
+[2:9] There may seem, therefore, to be some discrepancy here.
+
+[2:10] For how could the unclean spirit have been "tearing him," or, as some codices have it, "tormenting him," if, as Luke says, he "hurt him not"? Luke, however, gives the notice in full, thus: "And when the devil had thrown him in the midst, he came out of him, and "hurt him not".
+
+[2:11] Thus we are to understand that when Mark says, "tormenting him," he just refers to what Luke expresses in the sentence, "When he had thrown him in the midst".
+
+[2:12] And when the latter appends the words, "and hurt him not," the meaning simply is, that the said tossing of the man's limbs and tormenting him did not debilitate him, as is often the case with the exit of devils, when, at times, some of the members are even destroyed  in the process of removing the trouble.
+
+[3:1] Chapter III.
+
+[3:2] —Of the Question Whether Mark's Reports of the Repeated Occasions on Which the Name of Peter Was Brought into Prominence are Not at Variance with the Statement Which John Has Given Us of the Particular Time at Which the Apostle Received that Name.
+
+[3:3] 4.
+
+[3:4] The same Mark continues as follows: "And there came a leper to Him, beseeching Him, and kneeling down to Him, and saying unto Him, If thou wilt, thou canst make me clean;" and so on, down to where it is said, "And they cried out, saying, Thou art the Son of God: and He straightway charged them that they should not make Him known".
+
+[3:5] Luke also records something similar to the last passage which we have here adduced.
+
+[3:6] But nothing emerges involving any discrepancy.
+
+[3:7] Mark proceeds thus: "And He goeth up into a mountain, and calleth unto Him whom He would: and they came unto Him.
+
+[3:8] And He ordained twelve that they should be with Him, and that He might send them forth to preach; and He gave them power to heal sicknesses, and to cast out devils.
+
+[3:9] And Simon He surnamed Peter;" and so on, down to where it is said, "And he departed, and began to publish in Decapolis how great things Jesus had done: and all men did marvel".
+
+[3:10] I am aware that I have spoken already of the names of the disciples when following the order of Matthew's narrative.
+
+[3:11] Here, therefore, I repeat the caution, that no one should suppose Simon to have received the name Peter on this occasion for the first time, or fancy that Mark is here in any antagonism with John, who reports that disciple to have been addressed long before in these terms: "Thou shalt be called Cephas, which is, by interpretation, A stone".
+
+[3:12] For John has there recorded the very words in which the Lord gave him that name.
+
+[3:13] Mark, on the other hand, has introduced the matter in the form of a recapitulation in this passage, when he says, "And Simon He surnamed Peter".
+
+[3:14] For, as it was his intention to enumerate the names of the twelve apostles here, and it was necessary for him thus to mention Peter, he decided briefly to intimate the fact that the said name was not borne by that disciple all along, but was given him by the Lord, not, however, at the time with which Mark was immediately dealing, but on the occasion in connection with which John has introduced the very words employed by the Lord.
+
+[3:15] The other matters embraced within this paragraph, present nothing inconsistent with any of the other Gospels, and they have also been discussed previously.
+
+[4:1] Chapter IV.
+
+[4:2] —Of the Words, "The More He Charged Them to Tell No One, So Much the More a Great Deal They Published It;" And of the Question Whether that Statement is Not Inconsistent with His Prescience, Which is Commended to Our Notice in the Gospel.
+
+[4:3] 5.
+
+[4:4] Mark continues thus: "And when Jesus was passed over again by ship unto the other side, much people gathered unto Him: and He was nigh unto the sea;" and so on, down to where we read, "And the apostles gathered themselves together unto Jesus, and told Him all things, both what they had done, and what they had taught".
+
+[4:5] This last portion Mark has in common with Luke, and there is no discrepancy between them.
+
+[4:6] The rest of the contents of this section we have already discussed.
+
+[4:7] Mark continues in these terms: "And He said unto them, Come ye apart into a desert place, and rest a while;" and so on, down to the words, "But the more He charged them, so much the more a great deal they published it; and were beyond measure astonished, saying, He hath done all things well: He maketh both the deaf to hear, and the dumb to speak".
+
+[4:8] In all this there is nothing which presents the appearance of any want of harmony between Mark and Luke; and the whole of the above we have already considered, when we were comparing these evangelists with Matthew.
+
+[4:9] At the same time, we must make sure that no one shall suppose that the last statement, which I have cited here from Mark's Gospel, is in antagonism with the entire body of the evangelists, who, in reporting most of His other deeds and words, make it plain that He knew what went on in men; that is to say, that their thoughts and desires could not be concealed from Him.
+
+[4:10] Thus John puts it very clearly in the following passage: "But Jesus did not commit Himself unto them, because He knew all men, and needed not that any should testify of man; for He knew what was in man".
+
+[4:11] But what wonder is it that He should discern the present thoughts of men, if He announced beforehand to Peter the thought which he was to entertain in the future, but which he certainly had not then, at the very time when he was boldly declaring himself ready to die for Him, or with Him? This being the case, then, how can it fail to appear as if this knowledge and foreknowledge, which He possessed in so supreme a measure, is contradicted by Mark's statement, "He charged them that they should tell no man: but the more He charged them, so much the more a great deal they published it"? For if He, as one who held in His own knowledge all the intentions of men, both present and future was aware that they would publish it all the more the more He charged them not to publish it, what purpose could He have in giving them such a charge? Well, but may not the explanation be this, that he desired to give backward ones to understand how much more zealously and fervently they ought to preach on whom He lays the commission to preach, if even men who were interdicted were unable to keep silent?.
+
+[5:1] Chapter V.
+
+[5:2] —Of the Statement Which John Made Concerning the Man Who Cast Out Devils Although He Did Not Belong to the Circle of the Disciples; And of the Lord's Reply, "Forbid Them Not, for He that is Not Against You is on Your Part;" And of the Question Whether that Response Does Not Contradict the Other Sentence, in Which He Said, "He that is Not with Me is Against Me".
+
+[5:3] 6.
+
+[5:4] Mark proceeds as follows: "In those days again, the multitude being very great, and having nothing to eat;" and so on, down to the words, "John answered Him, saying, Master, we saw one casting out devils in Thy name, and he followeth not us; and we forbade him.
+
+[5:5] But Jesus said, Forbid him not; for there is no man which shall do a miracle in my name, that can lightly speak evil of me; for he that is not against you is on your side".
+
+[5:6] Luke relates this in similar terms, with this exception, that he does not insert the clause, "for there is no man which shall do a miracle in my name that can lightly speak evil of me".
+
+[5:7] Consequently, there is nothing here to raise the question of any discrepancy between these two.
+
+[5:8] We must see, however, whether this sentence must be supposed to stand in opposition to another of the Lord's sayings, namely, the one to this effect, "He that is not with me is against me; and he that gathereth not with me scattereth abroad".
+
+[5:9] For how was this man not against Him, who was not with Him, and of whom John reported that he did not unite with them in following Him, if he is against Him who is not with Him? Or if the man was against Him, how does He say to the disciples, "Forbid him not; for he that is not against you is on your side"? Will any one aver that it is of consequence to observe that here He says to the disciples, "He that is not against you is on your side;" whereas, in the other passage, He spoke of Himself in the terms, "He that is not with me is against me"? That would make it appear, indeed, as if it were possible for one not to be with Him, although he was associated with those disciples of His who are, so to speak, His very members.
+
+[5:10] Besides, how would the truth of such sayings as these stand then: "He that receiveth you receiveth me;" and "Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me"? Or is it possible for one not to be against Him, although he may be against His disciples? Nay; for what shall we make then of words like these: "He that despiseth you, despiseth me;" and, "Inasmuch as ye did it not unto the least of mine, ye did it not unto me;" and, "Saul, Saul, why persecutest thou me,"—although it was His disciples that Saul was persecuting? But, in good truth, the sense intended to be conveyed is just this, that, so far as a man is not with Him, so far is he against Him; and again, that, so far as a man is not against Him, so far is he with Him.
+
+[5:11] For example, take this very case of the individual who was working miracles in the name of Christ, and yet was not in the company of Christ's disciples: so far as this man was working miracles in His name, so far was he with them, and so far he was not against them.
+
+[5:12] But, inasmuch as they had prohibited the man from doing a thing in which, so far forth, he was really with them, the Lord said to them, "Forbid him not".
+
+[5:13] For what they ought to have forbidden was what was outside their fellowship, so that they might bring him over to the unity of the Church, and not a thing like this, in which he was at one with them, that is to say, so far as he commended the name of their Master and Lord in the casting out of devils.
+
+[5:14] And this is the principle on which the Catholic Church acts, not condemning common sacraments among heretics; for in these they are with us, and they are not against us.
+
+[5:15] But she condemns and forbids division and separation, or any sentiment adverse to peace and truth.
+
+[5:16] For therein they are against us, just because they are not with us in that, and because, not gathering with us, they are consequently scattering.
+
+[6:1] Chapter VI.
+
+[6:2] —Of the Circumstance that Mark Has Recorded More Than Luke as Spoken by the Lord in Connection with the Case of This Man Who Was Casting Out Devils in the Name of Christ, Although He Was Not Following with the Disciples; And of the Question How These Additional Words Can Be Shown to Have a Real Bearing Upon What Christ Had in View in Forbidding the Individual to Be Interdicted Who Was Performing Miracles in His Name.
+
+[6:3] 7.
+
+[6:4] Mark proceeds with his narrative in these terms: "For whosoever shall give you a cup of water to drink in my name, because ye belong to Christ, verily I say unto you, he shall not lose his reward.
+
+[6:5] And whosoever shall offend one of these little ones that believe on me, it is better for him that a millstone were hanged about his neck, and he were cast into the sea.
+
+[6:6] And if thy hand offend thee, cut it off: it is better for thee to enter into life maimed, than having two hands to go into hell, into the fire that never shall be quenched; where their worm dieth not, and the fire is not quenched".
+
+[6:7] And so on, down to where it is said, "Have salt in yourselves, and have peace one with another".
+
+[6:8] These words Mark represents to have been spoken by the Lord in the connection immediately following what He said in forbidding the man to be interdicted who was casting out devils in His name, and yet was not following Him along with the disciples.
+
+[6:9] In this section, too, he introduces some matters which are not found in any of the other evangelists, but also some which occur in Matthew as well, and some which we come across in like manner both in Matthew and in Luke.
+
+[6:10] Those other evangelists, however, bring in these matters in different connections, and in another order of facts, and not at this particular point when the statement was made to Christ about the man who did not follow Him along with the disciples, and yet was casting out devils in His name.
+
+[6:11] My opinion, therefore, is, that the Lord did really utter sayings in this connection, according to Mark's attestation, of which he also delivered Himself on other occasions, and this for the simple reason, that they were sufficiently pertinent to this expression of His mind which he gave here, when He forbade the placing of any interdict upon the working of miracles in His name, even although that should be done by a man who did not follow Him along with His disciples.
+
+[6:12] For Mark presents the relation of the one passage to the other thus: "For he that is not against us is on our part; for whosoever shall give you a cup of water to drink in my name, because ye belong to Christ, verily I say unto you, he shall not lose his reward".
+
+[6:13] This makes it plain that even this man, whose case John had taken up, and thus had given occasion for the Lord to commence the discourse referred to, was not separating himself from the society of the disciples to any such effect as to scorn it like a heretic.
+
+[6:14] But his position was something parallel to the familiar one of men who, while not going the length yet of receiving the sacraments of Christ, nevertheless favour the Christian name so far as even to receive Christians, and accommodate themselves to them for this very reason, and none other, that they are Christian; of which type of persons it is that He tells us that they do not lose their reward.
+
+[6:15] This does not mean, however, that they ought at once to think themselves quite safe and secure simply on account of this kindness which they cherish towards Christians, while at the same time they are neither cleansed by Christ's baptism, nor incorporated into the unity of His body.
+
+[6:16] But the import is, that they are now being guided by the mercy of God in such a way that they may also come to these higher things, and so quit this present world in safety.
+
+[6:17] And such persons assuredly are more profitable [servants], even before they become associated with the number of Christians, than those individuals who, while already bearing the Christian name and partaking in the Christian sacraments, recommend courses which are only fitted to drag others, whom they may persuade to adopt them, along with themselves into eternal punishment.
+
+[6:18] These are the persons to whom He refers under the figure of the members of the body, and whom He commands to be cast out from the body, like an offending hand or eye; that is to say, to be cut off from the fellowship of that unity, in order that they should seek rather to enter into life without such associates, than to go into hell in their company.
+
+[6:19] Moreover, they are separated from those from whom they separate themselves, just when no consent is yielded to their evil recommendations, that is to say, to the offences in which they indulge.
+
+[6:20] And if, indeed, they are discovered in the character of their perversity to all good men with whom they have any fellowship, they are cut off completely from the fellowship of all, and also from participation in the divine sacraments.
+
+[6:21] But if they are known in this character only to some, while their perversity is unknown to the majority, they must just be borne with, as the chaff is endured in the thrashing-floor previous to the winnowing; that is to say, they must be dealt with in a manner which will neither involve any agreement with them in the fellowship of unrighteousness, nor lead to a forsaking of the society of the good on their account.
+
+[6:22] This is what is done by those who have salt in themselves, and who have peace one with another.
+
+[7:1] Chapter VII.
+
+[7:2] —Of the Fact that from This Point on to the Lord's Supper, with Which Act the Discussion of All the Narratives of the Four Evangelists Conjointly Commenced, No Question Calling for Special Examination is Raised by Mark's Gospel.
+
+[7:3] 8.
+
+[7:4] Mark continues as follows: "And He arose from thence, and cometh into the coasts of Judaea by the farther side of Jordan: and the people resort unto Him again; and, as He was wont, He taught them again;" and so on, down to where it is said, "For all they did cast in of their abundance; but she of her want did cast in all that she had, even all her living".
+
+[7:5] In this entire context, all the above has been subjected to investigation already, with the view of removing the appearance of any contrariety, when we were comparing the other Gospels in due order with Matthew.
+
+[7:6] This narrative, however, of the poor widow who cast two mites into the treasury is reported only by two of them, namely, Mark and Luke.
+
+[7:7] But their harmony admits of no question.
+
+[7:8] And from this point onwards to the Lord's Supper, which latter act formed the starting-point for our discussion of all the records of the four evangelists taken conjointly, Mark introduces nothing of a kind to make it necessary for us to institute a special comparison between it and any other statement, or to conduct an inquiry with the view of dispelling any appearance of discrepancy.
+
+[8:1] Chapter VIII.
+
+[8:2] —Of Luke's Gospel, and Specially of the Harmony Between Its Commencement and the Beginning of the Book of the Acts of the Apostles.
+
+[8:3] 9.
+
+[8:4] Next in succession, therefore, let us now go over the Gospel of Luke in regular order.
+
+[8:5] We shall omit, however, those passages which he has in common with Matthew and Mark.
+
+[8:6] For all these have been already handled.
+
+[8:7] Luke, then, begins his narrative in the following fashion: "Forasmuch as many have taken in hand to set forth in order a declaration of these things which have been fulfilled among us, even as they delivered them unto us, which from the beginning were eye-witnesses, and ministers of the word; it seemed good to me also, having had perfect understanding of all things from the very first, to write unto thee in order, most excellent Theophilus, that thou mightest know the certainty of those things, wherein thou hast been instructed".
+
+[8:8] This beginning does not pertain immediately to the narrative presented in the Gospel.
+
+[8:9] But it suggests to us to be cognizant of the fact, that this same Luke is also the writer of the other book which bears the name of the Acts of the Apostles.
+
+[8:10] Our ground for holding this opinion is not merely the circumstance that the name of Theophilus occurs there as well as here.
+
+[8:11] For it might quite well happen that there was a second person with the name of Theophilus; and even if it was one and the same person that was referred to in both cases, still another composition might have been addressed to him by a different individual, just as the Gospel was written in his behoof by Luke.
+
+[8:12] We base our view of the identity of authorship, however, on the fact that this second book commences in the following strain: "The former treatise have I made, O Theophilus, of all that Jesus began both to do and teach, until the day in which He, through the Holy Ghost, gave commandment unto the apostles whom He chose to preach the gospel".
+
+[8:13] This statement gives us to understand that, previous to this, he had written one of those four books of the gospel which are held in the loftiest authority in the Church.
+
+[8:14] At the same time, when he tells us that he had composed a treatise of all that Jesus began both to do and teach until the day in which He gave commandment to the apostles, we are not to take this to mean that he actually has given us a full account in his Gospel of all that Jesus did and said when He lived with His apostles on earth.
+
+[8:15] For that would be contrary to what John affirms when he says that there are also many other things which Jesus did, the which, if they should be written every one, the world itself could not contain the books.
+
+[8:16] And besides, it is the admitted fact that not a few things have been narrated by the other evangelists, which Luke himself has not touched upon in his history.
+
+[8:17] The sense therefore is, that he wrote a treatise of all these things, in so far as he made a selection out of the whole mass of materials for his narrative, and introduced those facts which he judged fit and suitable for the satisfactory discharge of the responsible duty laid upon him.
+
+[8:18] Again, when he speaks of many who had "taken in hand to set forth in order a declaration of those things which have been fulfilled among us," he seems to refer to certain parties who had not been able to complete the task which they had assumed.
+
+[8:19] Hence he also says that it seemed good to him also to "write carefully in order, forasmuch as many have taken in hand," etc.
+
+[8:20] The allusion here, however, we ought to take to be to those writers who have attained to no authority in the Church, just because they were utterly incompetent rightly to carry out what they took in hand.
+
+[8:21] Moreover, the author at present before us has not confined himself to the task of bringing down his narrative to the events of the Lord's resurrection and assumption; neither has it been his aim simply to have a place commensurate in honour with his labours in the company of the four writers of the Gospel Scriptures.
+
+[8:22] But he has also undertaken a record of what was done subsequently by the hands of the apostles; and relating as many of those events as he believed to be needful and helpful to the edification of the faith of readers or hearers, he has given us a narrative so faithful, that his is the only book that has been reckoned worthy of acceptance in the Church as a history of the Acts of the Apostles; while all these other writers who attempted, although deficient in the trustworthiness which was the first requisite, to compose an account of the doings and sayings of the apostles, have met with rejection.
+
+[8:23] And, further, Mark and Luke certainly wrote at a time when it was quite possible to put them to the test not only by the Church of Christ, but also by the apostles themselves who were still alive in the flesh.
+
+[9:1] Chapter IX.
+
+[9:2] —Of the Question How It Can Be Shown that the Narrative of the Haul of Fishes Which Luke Has Given Us is Not to Be Identified with the Record of an Apparently Similar Incident Which John Has Reported Subsequently to the Lord's Resurrection; And of the Fact that from This Point on to the Lord's Supper, from Which Event Onwards to the End the Combined Accounts of All the Evangelists Have Been Examined, No Difficulty Calling for Special Consideration Emerges in the Gospel of Luke Any More Than in that of Mark.
+
+[9:3] 10.
+
+[9:4] Luke, then, commences his Gospel in the following fashion: "There was in the days of Herod the king of Judaea, a certain priest named Zacharias, of the course of Abia: and his wife was of the daughters of Aaron, and her name was Elisabeth;"and so on, down to the passage where it is said, "Now when He had left speaking, He said unto Simon, Launch out into the deep, and let down your nets for a draught".
+
+[9:5] In this whole section, there is nothing to stir any question as to discrepancies.
+
+[9:6] It is true that John appears to relate something resembling the last passage.
+
+[9:7] But what he gives is really something widely different.
+
+[9:8] I refer to what took place by the sea of Tiberias after the Lord's resurrection.
+
+[9:9] In that instance, not only is the particular time extremely different, but the circumstances themselves are of quite another character.
+
+[9:10] For there the nets were cast on the right side, and a hundred and fifty and three fishes were caught.
+
+[9:11] It is added, too, that they were great fishes.
+
+[9:12] And the evangelist, therefore, has felt it necessary to state, that "for all there were so many, yet was not the net broken," surely just because he had in view the previous case, which is recorded by Luke, and in connection with which the nets were broken by reason of the multitude of fishes.
+
+[9:13] As for the rest, Luke has not recounted things like those which John has narrated, except in relation to the Lord's passion and resurrection.
+
+[9:14] And this whole section, which comes in between the Lord's Supper and the conclusion, has already been handled by us in a manner which has yielded, as the result of a comparison of the testimonies of all the evangelists conjointly, the demonstration of an entire absence of discrepancies between them.
+
+[10:1] Chapter X.
+
+[10:2] —Of the Evangelist John, and the Distinction Between Him and the Other Three.
+
+[10:3] 11.
+
+[10:4] John remains, between whom and others there is left no comparison to be instituted.
+
+[10:5] For, however the evangelists may each have reported some matters which are not recorded by the others, it will be hard to prove that any question involving real discrepancy arises out of these.
+
+[10:6] Thus, too, it is a clearly admitted position that the first three—namely, Matthew, Mark, and Luke—have occupied themselves chiefly with the humanity of our Lord Jesus Christ, according to which He is both king and priest.
+
+[10:7] And in this way, Mark, who seems to answer to the figure of the man in the well-known mystical symbol of the four living creatures, either appears to be preferentially the companion of Matthew, as he narrates a larger number of matters in unison with him than with the rest, and therein acts in due harmony with the idea of the kingly character whose wont it is, as I have stated in the first book, to be not unaccompanied by attendants; or else, in accordance with the more probable account of the matter, he holds a course in conjunction with both [the other Synoptists].
+
+[10:8] For although he is at one with Matthew in the larger number of passages, he is nevertheless at one rather with Luke in some others.
+
+[10:9] And this very fact shows him to stand related at once to the lion and to the steer, that is to say, to the kingly office which Matthew emphasizes, and to the sacerdotal which Luke introduces, wherein also Christ appears distinctively as man, as the figure which Mark sustains stands related to both these.
+
+[10:10] On the other hand, Christ's divinity, in virtue of which He is equal to the Father, in accordance with which He is the Word, and God with God, and the Word that was made flesh in order to dwell among us, in accordance with which also He and the Father are one, has been taken specially in hand by John with a view to its recommendation to our minds.
+
+[10:11] Like an eagle, he abides among Christ's sayings of the sublimer order, and in no way descends to earth but on rare occasions.
+
+[10:12] In brief, although he declares plainly his own knowledge of the Lord's mother, he nevertheless neither unites with Matthew and Luke in recording His nativity, nor associates himself with all the three in relating His baptism; but all that he does there is simply to present the testimony delivered by John in a lofty and sublime fashion, and then, quitting the company of these others, he proceeds with Him to the marriage in Cana of Galilee.
+
+[10:13] And there, although the evangelist himself mentions His mother by that very name, He nevertheless addresses her thus: "Woman, what have I to do with thee?" In this, however, [it is to be understood that] He does not repel her of whom He received the flesh, but means to convey the conception of His divinity with special fitness at this time, when He is about to change the water into wine; which divinity, likewise, had made that woman, and had not itself been made in her.
+
+[10:14] 12.
+
+[10:15] Then, after noticing the few days spent in Capharnaum, the evangelist comes again to the temple, where he states that Jesus spoke of the temple of His body in these terms: "Destroy this temple, and in three days I will raise it up:" in which declaration emphatic intimation is given not only that God was in that temple in the person of the Word that was made flesh, but also that He Himself raised the said flesh to life, in the veritable exercise of that prerogative which He has in His oneness with the Father, and according to which He does not act separately from Him; whereas it will perhaps be found that, in all other passages, the phrase which Scripture employs is one to the effect that God raised Him: neither is there any such expression found anywhere else as that, when God raised Christ, Christ also raised Himself, because He is one God with the Father; which is the import of the passage now before us, in which He says, "Destroy this temple, and in three days I will raise it up".
+
+[10:16] 13.
+
+[10:17] Then how great and how divine are the words reported to have been spoken with Nicodemus! From these the evangelist proceeds again to the testimony of John, and brings before our notice the fact, that the friend of the bridegroom cannot but rejoice because of the bridegroom's voice.
+
+[10:18] In this statement He gives us to understand that the soul of man neither has light derivable from itself, nor can have blessing, except by participation in the unchangeable wisdom.
+
+[10:19] Thereafter he carries us on to the case of the woman of Samaria, in connection with which mention is made of the water, whereof if a man drinks, he shall never thirst again.
+
+[10:20] Once more, he brings us again to Cana of Galilee, where Jesus had made the water wine.
+
+[10:21] In that narrative he tells us how He spoke to the nobleman, whose son was sick, in these terms: "Except ye see signs and wonders ye believe not:" in which saying He aims at lifting the mind of the believer high above all things mutable, so that He would not have even the miracles themselves, which, however they may bear the impression of what is divine, are yet wrought in the instance of what is changeable in bodies, made objects of seeking on the part of the faithful.
+
+[10:22] 14.
+
+[10:23] Next he brings us back to Jerusalem, and tells the story of the healing of the man who had an infirmity of thirty-eight years' standing.
+
+[10:24] What words are spoken on this occasion, and how ample is the discourse! Here we are met by the sentence, "The Jews sought to kill Him, because He not only broke the Sabbath, but said also that God was His Father, making Himself equal with God".
+
+[10:25] In this passage it is made sufficiently plain that He did not speak of God as His Father in the ordinary sense in which holy men are in the habit of using the phrase, but that He meant that He is His equal.
+
+[10:26] For, a little before this, He had said to those who were impeaching Him with violating the Sabbath-day, "My Father worketh hitherto, and I work".
+
+[10:27] Then their fury flamed forth, not merely because He said that God was His Father, but because He wished it to be understood that He was equal with God, when He used the phrase, "My Father worketh hitherto, and I work".
+
+[10:28] In which utterance He also shows it to be matter of course that, as the Father works, the Son should work also; because the Father does not work without the Son.
+
+[10:29] And this is in accordance with what He states a little further on in the same passage, when these parties were incensed at His declaration, namely, "For what things soever He doeth, these also doeth the Son likewise".
+
+[10:30] 15.
+
+[10:31] Then at length John descends to bear company with the other three, whose course is with the same Lord, but upon the earth, and joins them in recording the feeding of the five thousand men with the five loaves.
+
+[10:32] In this narrative, however, he is the only one who mentions, that when the people wished to make Him a king, Jesus departed into a mountain Himself alone.
+
+[10:33] And in making that statement, his intention appears to me to have been just to communicate to the reasonable soul the truth, that Christ reigns over our mind and reason purely in a sphere in which He is exalted above us, in which He has no community of nature with men, and in which He is verily by Himself alone, as He is the Father's only fellow.
+
+[10:34] This, however, is a mystical truth, which escapes the cognizance of carnal men, whose life creeps upon the lower soil of this earth, just because it is so sublime a mystery.
+
+[10:35] Hence Christ Himself also departs into the mountain from the men whose habit is to seek for His kingdom with earthly conceptions of it.
+
+[10:36] Thus is it that He expresses Himself elsewhere to this effect, "My kingdom is not of this world".
+
+[10:37] And this, again, is something which is reported only by John, who soars high over earth in a kind of ethereal flight, and delights himself in the light of the Sun of righteousness.
+
+[10:38] Then, on passing from the narrative connected with this mountain, and from the miracle of the five loaves, he still keeps company with the same three for a little while, until the notice of the crossing of the sea is reached, and the occasion on which Jesus walked upon the waters.
+
+[10:39] But at this point he at once rises again to the region of the Lord's discourses, and relates those words, so grave, so lengthened, so sustainedly lofty and elevated, which had their occasion in the multiplying of the bread, when He addressed the multitudes to the following effect: "Verily, verily, I say unto you, ye seek me, not because ye saw the miracles, but because ye did eat of the loaves, and were filled.
+
+[10:40] Labour not for the meat which perisheth, but for that meat which endureth unto everlasting life".
+
+[10:41] After which sayings, He continues to discourse in similar terms for a very long period, and in the most exalted strain.
+
+[10:42] At that time, some fell away from the sublime teaching of such words, namely, those who walked no more with Him afterwards.
+
+[10:43] But there were also those who did cleave to Him; and these were they who were able to receive the meaning of this saying, "It is the spirit that quickeneth, but the flesh profiteth nothing".
+
+[10:44] For surely it is true, that even through the flesh it is the spirit that profiteth, and the spirit alone that profiteth; whereas the flesh without the spirit profiteth nothing.
+
+[10:45] 16.
+
+[10:46] Next we come to the passage where His brethren—that is to say, His relations according to the flesh—urge Him to go up to the feast-day, in order that He may have an opportunity of making Himself known to the multitude.
+
+[10:47] And here, again, how supremely elevated is the tone of His reply! "My time is not yet come, but your time is alway ready.
+
+[10:48] The world cannot hate you; but me it hateth, because I testify of it that the works thereof are evil".
+
+[10:49] So it is the case, then, that "your time is alway ready," because ye desire that kind of day to which the prophet refers when he says, "But I have not laboured following Thee, O Lord; and the day of man I have not desired, Thou knowest:" that is to say, to soar to the light of the Word, and to desire that day which Abraham desired to see, and which he did see, and was glad.
+
+[10:50] And again, how wonderful, how divine, how sublime are the words which John represents Him to have spoken after He had gone up to the temple, at the time of the feast! They are such as these: that where He was about to go, thither they could not come; that they both knew Him, and knew whence He was; that He who sent Him is true, whom they knew not, which is much the same as if He had said, "Ye both know whence I am, and know not whence I am".
+
+[10:51] And what else did He wish to be understood by such utterances, but that it was possible for Him to be known to them according to the flesh, in respect of lineage and country, but that, so far as regarded His divinity, He was unknown to them? On this occasion, too, when He spoke of the gift of the Holy Spirit, He showed them who He was, inasmuch as He could hold the power of bestowing that highest boon.
+
+[10:52] 17.
+
+[10:53] Again, how weighty are the things which this evangelist reports Jesus to have spoken, when He came back to the temple from Mount Olivet, and after the forgiveness which He extended to the adulteress, who had been brought before Him by His tempters, as one deserving to be stoned: on which occasion He wrote with His finger upon the ground, as if He would indicate that people of the character of these men would be written on earth, and not in heaven, as He also admonished His disciples to rejoice that their names were written in heaven! Or, it may be that He meant to convey the idea that it was by humbling Himself (which He expressed by bending down His head) that He wrought signs upon the earth; or, that the time was now come when His law should be written, not, as formerly, on the sterile stone, but on a soil which would yield fruit.
+
+[10:54] Accordingly, after these incidents, He affirmed Himself to be the light of the world, and declared that he who followed Him would not walk in darkness, but would have the light of life.
+
+[10:55] He said, also, that He was "the beginning which also discoursed to them".
+
+[10:56] By which designation He clearly distinguished Himself from the light which He made, and presented Himself as the Light by which all things have been made.
+
+[10:57] Consequently, when He said that He was the light of the world, we are not to take the words to bear simply the sense intended when He addressed the disciples in similar terms, saying, "Ye are the light of the world".
+
+[10:58] For they are compared only to the kindled light, which is not to be put beneath a bushel, but to be set upon a candlestick; as He also says of John the Baptist, that "he was a burning and shining light".
+
+[10:59] But He is Himself the beginning, of whom it is likewise declared, that "of His fulness have all we received".
+
+[10:60] On the occasion presently under review, He asserted further that He, the Son, is the Truth, which will make us free, and without which no man will be free.
+
+[10:61] 18.
+
+[10:62] Next, after telling the story of the giving of sight to the man who was blind from his birth, John tarries for a space over the copious discourse to which that incident gave occasion, on the subject of the sheep, and the shepherd, and the door, and the power of laying down His life and taking it again, wherein He gave token of the supreme might of His divinity.
+
+[10:63] Thereafter, he relates how, at the time when the feast of the dedication was being celebrated in Jerusalem, the Jews said to Him, "How long dost thou make us to doubt? If thou be the Christ, tell us plainly".
+
+[10:64] And then he reports the sublime words which the Lord uttered when the opportunity thus arose for a discourse.
+
+[10:65] It was on this occasion that He said, "I and my Father are one".
+
+[10:66] After this, again, he brings before us the raising of Lazarus from the dead: in connection with which miracle the Lord said, "I am the resurrection and the life: he that believeth on me, though he were dead, yet shall he live: and whosoever liveth and believeth in me shall never die".
+
+[10:67] In these words what do we recognise but the sublimity of the Godhead of Him, in fellowship with whom we shall live for ever? Once more, John joins Matthew and Mark in what is recorded about Bethany, where the scene took place with the precious ointment which was poured upon His feet and His head by Mary.
+
+[10:68] And then, on to the Lord's passion and resurrection, John keeps by the other three evangelists, but only in so far as his narrative engages itself with the same places.
+
+[10:69] 19.
+
+[10:70] Moreover, so far as regards the Lord's discourses, he does not cease to ascend to the sublimer and more extended utterances of which, from this point also, He delivered Himself.
+
+[10:71] For he inserts a lofty address which the Lord spoke on the occasion when, through Philip and Andrew, the Gentiles expressed their desire to see Him, and which is introduced by none of the other evangelists.
+
+[10:72] There, too, he reports the remarkable words which were spoken again on the subject of the light which enlightens and makes men the children of light.
+
+[10:73] Thereafter, in connection with the Supper itself, of which none of the evangelists has failed to give us some notice, how affluent and how lofty are those words of Jesus which John records, but which the others have passed over in silence! I may instance not only His commendation of humility, when He washed the disciples' feet, but also that marvellously overpowering and pre-eminently copious discourse which the Lord delivered to the eleven who remained with Him after His betrayer had been indicated by the morsel of bread, and had gone out.
+
+[10:74] It was in this discourse, over which John lingers long, that He said, "He that hath seen me, hath seen the Father also".
+
+[10:75] It was in it, too, that He expressed Himself so largely about the Holy Spirit, the Comforter, whom He was to send to them, and about His own glory, which He had with the Father before the world was, and about His making us one in Himself, even as He and the Father are one,—not that He and the Father and we should be one, but that we should be one as they are one.
+
+[10:76] And many other things of a wonderfully sublime order did He utter in that connection.
+
+[10:77] But who can fail to see that to discuss such themes in any manner that would be worthy of them, even if we were competent to do so, is at least not the task which we have undertaken in the present effort? For our object is to help those who are lovers of the Word of God and students of holy truth to understand that, in his Gospel, John was indeed an announcer and preacher of the same Christ, the true and truthful One of whom the other three who have composed Gospels also testified, and to whom the rest of the apostles likewise bore witness, who, although they did not take in hand the construction of written narratives, did at least discharge the kindred service in officially preaching of Him: but that, at the same time, he was borne to far loftier heights in the doctrine of Christ from the very beginning of his book, and that it was but on rare occasions that he kept to the level pursued by the others.
+
+[10:78] These occasions were the following in particular, namely: first by the Jordan, in reference to the testimony of John the Baptist; secondly, on the other side of the sea of Tiberias, when the Lord fed the multitudes with the five loaves, and walked upon the waters; thirdly, in Bethany, where He had the precious ointment poured over Him by the devotion of a woman of faith.
+
+[10:79] And so he proceeds, until he meets them at the time of the Passion, which, as matter of course, he had to relate in conjunction with them.
+
+[10:80] But, even in that section, and on the particular subject of the Lord's Supper, which has been left unnoticed by none of them, he has presented us with a much more affluent statement, as if he drew his materials directly from the treasure-store of that bosom of the Lord on which it was his wont to recline.
+
+[10:81] Then, again, [John shows us how] He astonishes Pilate with words of a sublimer import, declaring that His kingdom is not of this world, and that He was born a King, and that He came into the world for this purpose, that He might bear witness to the truth.
+
+[10:82] [It is in this Gospel also that] He withdraws Himself from Mary with some deep mystical intention after His resurrection, and says to her, "Touch me not; for I am not yet ascended to my Father".
+
+[10:83] It is here, too, that He imparts the Holy Spirit to the disciples by breathing on them giving us thereby to understand that this Spirit who is consubstantial and co-eternal with the Trinity, should not be considered to be simply the Spirit of the Father, but should also be held to be the Spirit of the Son.
+
+[10:84] 20.
+
+[10:85] Finally, He here commits His sheep to the care of Peter, who loves Him, and thrice confesses that love, and then He states that He wills this very John so to tarry until He comes.
+
+[10:86] In which utterance, again, He seems to me to have conveyed in a profound and mystical way the fact that this evangelical stewardship of John's, in which he is borne aloft into the most liquid light of the Word, where it is possible to behold the equality and unchangeableness of the Trinity, and in which, above all, we see at what a distance from all others in respect of essential character that humanity stands by whose assumption it occurred that the Word was made flesh, cannot be clearly discerned and recognised until the Lord Himself comes.
+
+[10:87] Consequently, it will tarry thus until He comes.
+
+[10:88] At present it will tarry in the faith of believers, but hereafter it will be possible to contemplate it face to face, when He, our Life, shall appear, and when we shall appear with Him in glory.
+
+[10:89] But if any one supposes that with man, living, as he still does, in this mortal life, it may be possible for a person to dispel and clear off every obscurity induced by corporeal and carnal fancies, and to attain to the serenest light of changeless truth, and to cleave constantly and unswervingly to that with a mind thoroughly estranged from the course of this present life, that man understands neither what he asks, nor who he is that put such a supposition.
+
+[10:90] Let such an individual rather accept the authority, at once lofty and free from all deceitfulness, which tells us that, as long as we are in the body, we are absent from the Lord, and that we walk by faith and not by sight.
+
+[10:91] And thus, with all perseverance keeping and guarding his faith and hope and charity, let him look forward to the sight which is promised, in accordance with that earnest which we have received of the Holy Ghost, who shall teach us all truth, when God, who raised up Jesus Christ from the dead, shall also quicken our mortal bodies by His Spirit that dwelleth in us.
+
+[10:92] But before this body, which is dead by reason of sin, is quickened, it is without doubt corruptible, and presseth down the soul.
+
+[10:93] And if, in the body, man is ever helped to reach beyond the cloud with which the whole earth is covered,—that is to say, beyond this carnal darkness with which the whole life of earth is covered,—it is simply as if he were touched with a rapid coruscation, only to sink swiftly into his natural infirmity, the desire surviving by which he may again be excited (to what is evil), and the purity being insufficient to establish him (in what is good).
+
+[10:94] The more, however, any one can do this, the greater is he; while the less he can do so, the less is he.
+
+[10:95] And if the mind of a man has as yet had no such experience—in which mind nevertheless Christ dwells by faith—he ought to strive earnestly to diminish the lusts of this world, and to make an end of them by the exercise of moral virtue, walking, as it were, in the company of these three evangelists with Christ the Mediator.
+
+[10:96] And, with the joy of large hope, let him in faith hold Him who is alway the Son of God, but who, for our sakes, became the Son of man, in order that His eternal power and Godhead might be united with  our weakness and mortality, and, on the basis of what is ours, make a way for us in Himself and to Himself.
+
+[10:97] That a man may be kept from sinning, he should be ruled by Christ the King.
+
+[10:98] If he happens to sin, he may obtain remission from Christ, who is also priest.
+
+[10:99] And thus, nurtured in the exercise of a good conversation and life, and borne out of the atmosphere of earth on the wings of a twofold love, as on a pair of strong pinions, so may he be enlightened by the same Christ, who is also the Word, the Word who was in the beginning, the Word who was with God, and the Word who was God; and although that will still be through a glass darkly, it will be a sublime kind of illumination far superior to every corporeal similitude.
+
+[10:100] Wherefore, although it is the gifts of the active virtue that shine pre-eminent in the first three evangelists, while it is the gift of the contemplative virtue that discerns such subjects, nevertheless, this Gospel of John, in so far as it also is in part, will so tarry until that which is perfect comes.
+
+[10:101] And to one, indeed, is given by the Spirit the word of wisdom, to another the word of knowledge by the same Spirit.
+
+[10:102] One man regardeth the day to the Lord; another receives a clearer draught from the breast of the Lord; another is caught up even to the third heaven, and hears unspeakable words.
+
+[10:103] But all, as long as they are in the body, are absent from the Lord.
+
+[10:104] And for all believers living in the good hope, whose names are written in the book of life, there is still in reserve that which is referred to in the words, "And I will love him, and will manifest myself unto him".
+
+[10:105] Nevertheless, the greater the advance which a man may make in the apprehension and knowledge of this theme during the time of this absence from the Lord, all the more carefully should he guard against those devilish vices, pride and envy.
+
+[10:106] Let him remember that this very Gospel of John, which urges us so pre-eminently to the contemplation of truth, gives a no less remarkable prominence to the inculcation of the sweet grace of charity.
+
+[10:107] Let him also consider that most true and wholesome precept which is couched in the words, "The greater thou art, the more humble thyself in all".
+
+[10:108] For the evangelist who presents Christ to us in a far loftier strain of teaching than all the others, is also the one in whose narrative the Lord washes the disciples' feet.
+

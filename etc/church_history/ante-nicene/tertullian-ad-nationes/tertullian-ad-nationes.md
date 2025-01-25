@@ -1,0 +1,852 @@
+# Tertullian: Ad Nationes
+
+[1:1] Ad Nationes Book The Hatred Felt by the Heathen Against the Christians is Unjust, Because Based on Culpable Ignorance.
+
+[1:2] One proof of that ignorance of yours, which condemns whilst it excuses your injustice, is at once apparent in the fact, that all who once shared in your ignorance and hatred (of the Christian religion), as soon as they have come to know it, leave off their hatred when they cease to be ignorant; nay more, they actually themselves become what they had hated, and take to hating what they had once been.
+
+[1:3] Day after day, indeed, you groan over the increasing number of the Christians.
+
+[1:4] Your constant cry is, that the state is beset (by us); that Christians are in your fields, in your camps, in your islands.
+
+[1:5] You grieve over it as a calamity, that each sex, every age—in short, every rank—is passing over from you to us; yet you do not even after this set your minds upon reflecting whether there be not here some latent good.
+
+[1:6] You do not allow yourselves in suspicions which may prove too true, nor do you like ventures which may be too near the mark.
+
+[1:7] This is the only instance in which human curiosity grows torpid.
+
+[1:8] You love to be ignorant of what other men rejoice to have discovered; you would rather not know it, because you now cherish your hatred as if you were aware that, (with the knowledge,) your hatred would certainly come to an end.
+
+[1:9] Still, if there shall be no just ground for hatred, it will surely be found to be the best course to cease from the past injustice.
+
+[1:10] Should, however, a cause have really existed there will be no diminution of the hatred, which will indeed accumulate so much the more in the consciousness of its justice; unless it be, forsooth, that you are ashamed to cast off your faults, or sorry to free yourselves from blame.
+
+[1:11] I know very well with what answer you usually meet the argument from our rapid increase.
+
+[1:12] That indeed must not, you say, be hastily accounted a good thing which converts a great number of persons, and gains them over to its side.
+
+[1:13] I am aware how the mind is apt to take to evil courses.
+
+[1:14] How many there are which forsake virtuous living!  How many seek refuge in the opposite!  Many, no doubt; nay, very many, as the last days approach.
+
+[1:15] But such a comparison as this fails in fairness of application; for all are agreed in thinking thus of the evil-doer, so that not even the guilty themselves, who take the wrong side, and turn away from the pursuit of good to perverse ways, are bold enough to defend evil as good.
+
+[1:16] Base things excite their fear, impious ones their shame.
+
+[1:17] In short, they are eager for concealment, they shrink from publicity, they tremble when caught; when accused, they deny; even when tortured, they do not readily or invariably confess (their crime); at all events, they grieve when they are condemned.
+
+[1:18] They reproach themselves for their past life; their change from innocence to an evil disposition they even attribute to fate.
+
+[1:19] They cannot say that it is not a wrong thing, therefore they will not admit it to be their own act.
+
+[1:20] As for the Christians, however, in what does their case resemble this? No one is ashamed; no one is sorry, except for his former (sins).
+
+[1:21] If he is pointed at (for his religion), he glories in it; if dragged to trial, he does not resist; if accused, he makes no defence.
+
+[1:22] When questioned, he confesses; when condemned, he rejoices.
+
+[1:23] What sort of evil is this, in which the nature of evil comes to a standstill?.
+
+[2:1] The Heathen Perverted Judgment in the Trial of Christians.
+
+[2:2] They Would Be More Consistent If They Dispensed with All Form of Trial.
+
+[2:3] Tertullian Urges This with Much Indignation.
+
+[2:4] In this case you actually conduct trials contrary to the usual form of judicial process against criminals; for when culprits are brought up for trial, should they deny the charge, you press them for a confession by tortures.
+
+[2:5] When Christians, however, confess without compulsion, you apply the torture to induce them to deny.
+
+[2:6] What great perverseness is this, when you stand out against confession, and change the use of the torture, compelling the man who frankly acknowledges the charge to evade it, and him who is unwilling, to deny it? You, who preside for the purpose of extorting truth, demand falsehood from us alone that we may declare ourselves not to be what we are.
+
+[2:7] I suppose you do not want us to be bad men, and therefore you earnestly wish to exclude us from that character.
+
+[2:8] To be sure, you put others on the rack and the gibbet, to get them to deny what they have the reputation of being.
+
+[2:9] Now, when they deny (the charge against them), you do not believe them but on our denial, you instantly believe us.
+
+[2:10] If you feel sure that we are the most injurious of men, why, even in processes against us, are we dealt with by you differently from other offenders? I do not mean that you make no account of either an accusation or a denial (for your practice is not hastily to condemn men without an indictment and a defence); but, to take an instance in the trial of a murderer, the case is not at once ended, or the inquiry satisfied, on a man's confessing himself the murderer.
+
+[2:11] However complete his confession, you do not readily believe him; but over and above this, you inquire into accessory circumstances—how often had he committed murder; with what weapons, in what place, with what plunder, accomplices, and abettors after the fact (was the crime perpetrated)—to the end that nothing whatever respecting the criminal might escape detection, and that every means should be at hand for arriving at a true verdict.
+
+[2:12] In our case, on the contrary, whom you believe to be guilty of more atrocious and numerous crimes, you frame your indictments in briefer and lighter terms.
+
+[2:13] I suppose you do not care to load with accusations men whom you earnestly wish to get rid of, or else you do not think it necessary to inquire into matters which are known to you already.
+
+[2:14] It is, however, all the more perverse that you compel us to deny charges about which you have the clearest evidence.
+
+[2:15] But, indeed, how much more consistent were it with your hatred of us to dispense with all forms of judicial process, and to strive with all your might not to urge us to say "No," and so have to acquit the objects of your hatred; but to confess all and singular the crimes laid to our charge, that your resentments might be the better glutted with an accumulation of our punishments, when it becomes known how many of those feasts each one of us may have celebrated, and how many incests we may have committed under cover of the night! What am I saying? Since your researches for rooting out our society must needs be made on a wide scale, you ought to extend your inquiry against our friends and companions.
+
+[2:16] Let our infanticides and the dressers (of our horrible repasts) be brought out,—ay, and the very dogs which minister to our (incestuous) nuptials; then the business (of our trial) would be without a fault.
+
+[2:17] Even to the crowds which throng the spectacles a zest would be given; for with how much greater eagerness would they resort to the theatre, when one had to fight in the lists who had devoured a hundred babies! For since such horrid and monstrous crimes are reported of us, they ought, of course, to be brought to light, lest they should seem to be incredible, and the public detestation of us should begin to cool.
+
+[2:18] For most persons are slow to believe such things, feeling a horrible disgust at supposing that our nature could have an appetite for the food of wild beasts, when it has precluded these from all concubinage with the race of man.
+
+[3:1] The Great Offence in the Christians Lies in Their Very Name.
+
+[3:2] The Name Vindicated.
+
+[3:3] Since, therefore, you who are in other cases most scrupulous and persevering in investigating charges of far less serious import, relinquish your care in cases like ours, which are so horrible, and of such surpassing sin that impiety is too mild a word for them, by declining to hear confession, which should always be an important process for those who conduct judicial proceedings; and failing to make a full inquiry, which should be gone into by such as sue for a condemnation, it becomes evident that the crime laid to our charge consists not of any sinful conduct, but lies wholly in our name.
+
+[3:4] If, indeed, any real crimes were clearly adducible against us, their very names would condemn us, if found applicable, so that distinct sentences would be pronounced against us in this wise: Let that murderer, or that incestuous criminal, or whatever it be that we are charged with, be led to execution, be crucified, or be thrown to the beasts.
+
+[3:5] Your sentences, however, import only that one has confessed himself a Christian.
+
+[3:6] No name of a crime stands against us, but only the crime of a name.
+
+[3:7] Now this in very deed is neither more nor less than the entire odium which is felt against us.
+
+[3:8] The name is the cause: some mysterious force intensified by your ignorance assails it, so that you do not wish to know for certain that which for certain you are sure you know nothing of; and therefore, further, you do not believe things which are not submitted to proof, and, lest they should be easily refuted, you refuse to make inquiry, so that the odious name is punished under the presumption of (real) crimes.
+
+[3:9] In order, therefore, that the issue may be withdrawn from the offensive name, we are compelled to deny it; then upon our denial we are acquitted, with an entire absolution for the past: we are no longer murderers, no longer incestuous, because we have lost that name.
+
+[3:10] But since this point is dealt with in a place of its own, do you tell us plainly why you are pursuing this name even to extirpation? What crime, what offence, what fault is there in a name? For you are barred by the rule which puts it out of your power to allege crimes (of any man), which no legal action moots, no indictment specifies, no sentence enumerates.
+
+[3:11] In any case which is submitted to the judge, inquired into against the defendant, responded to by him or denied, and cited from the bench, I acknowledge a legal charge.
+
+[3:12] Concerning, then, the merit of a name, whatever offence names may be charged with, whatever impeachment words may be amenable to, I for my part think, that not even a complaint is due to a word or a name, unless indeed it has a barbarous sound, or smacks of ill-luck, or is immodest, or is indecorous for the speaker, or unpleasant to the hearer.
+
+[3:13] These crimes in (mere) words and names are just like barbarous words and phrases, which have their fault, and their solecism, and their absurdity of figure.
+
+[3:14] The name Christian, however, so far as its meaning goes, bears the sense of anointing.
+
+[3:15] Even when by a faulty pronunciation you call us "Chrestians" (for you are not certain about even the sound of this noted name), you in fact lisp out the sense of pleasantness and goodness.
+
+[3:16] You are therefore vilifying in harmless men even the harmless name we bear, which is not inconvenient for the tongue, nor harsh to the ear, nor injurious to a single being, nor rude for our country, being a good Greek word, as many others also are, and pleasant in sound and sense.
+
+[3:17] Surely, surely, names are not things which deserve punishment by the sword, or the cross, or the beasts.
+
+[4:1] The Truth Hated in the Christians; So in Measure Was It, of Old, in Socrates.
+
+[4:2] The Virtues of the Christians.
+
+[4:3] But the sect, you say, is punished in the name of its founder.
+
+[4:4] Now in the first place it is, no doubt, a fair and usual custom that a sect should be marked out by the name of its founder, since philosophers are called Pythagoreans and Platonists after their masters; in the same way physicians are called after Erasistratus, and grammarians after Aristarchus.
+
+[4:5] If, therefore, a sect has a bad character because its founder was bad, it is punished as the traditional bearer of a bad name.
+
+[4:6] But this would be indulging in a rash assumption.
+
+[4:7] The first step was to find out what the founder was, that his sect might be understood, instead of hindering inquiry into the founder's character from the sect.
+
+[4:8] But in our case, by being necessarily ignorant of the sect, through your ignorance of its founder, or else by not taking a fair survey of the founder, because you make no inquiry into his sect, you fasten merely on the name, just as if you vilified in it both sect and founder, whom you know nothing of whatever.
+
+[4:9] And yet you openly allow your philosophers the right of attaching themselves to any school, and bearing its founder's name as their own; and nobody stirs up any hatred against them, although both in public and in private they bark out their bitterest eloquence against your customs, rites, ceremonies, and manner of life, with so much contempt for the laws, and so little respect for persons, that they even flaunt their licentious words against the emperors themselves with impunity.
+
+[4:10] And yet it is the truth, which is so troublesome to the world, that these philosophers affect, but which Christians possess: they therefore who have it in possession afford the greater displeasure, because he who affects a thing plays with it; he who possesses it maintains it.
+
+[4:11] For example, Socrates was condemned on that side (of his wisdom) in which he came nearest in his search to the truth, by destroying your gods.
+
+[4:12] Although the name of Christian was not at that time in the world, yet truth was always suffering condemnation.
+
+[4:13] Now you will not deny that he was a wise man, to whom your own Pythian (god) had borne witness.
+
+[4:14] Socrates, he said, was the wisest of men.
+
+[4:15] Truth overbore Apollo, and made him pronounce even against himself since he acknowledged that he was no god, when he affirmed that that was the wisest man who was denying the gods.
+
+[4:16] However, on your principle he was the less wise because he denied the gods, although, in truth, he was all the wiser by reason of this denial.
+
+[4:17] It is just in the same way that you are in the habit of saying of us: "Lucius Titius is a good man, only he is a Christian;" while another says; "I wonder that so worthy a man as Caius Seius has become a Christian".
+
+[4:18] According to the blindness of their folly men praise what they know, (and) blame what they are ignorant of; and that which they know, they vitiate by that which they do not know.
+
+[4:19] It occurs to none (to consider) whether a man is not good and wise because he is a Christian, or therefore a Christian because he is wise and good, although it is more usual in human conduct to determine obscurities by what is manifest, than to prejudice what is manifest by what is obscure.
+
+[4:20] Some persons wonder that those whom they had known to be unsteady, worthless, or wicked before they bore this name, have been suddenly converted to virtuous courses; and yet they better know how to wonder (at the change) than to attain to it; others are so obstinate in their strife as to do battle with their own best interests, which they have it in their power to secure by intercourse with that hated name.
+
+[4:21] I know more than one husband, formerly anxious about their wives' conduct, and unable to bear even mice to creep into their bed-room without a groan of suspicion, who have, upon discovering the cause of their new assiduity, and their unwonted attention to the duties of home, offered the entire loan of their wives to others, disclaimed all jealousy, (and) preferred to be the husbands of she-wolves than of Christian women: they could commit themselves to a perverse abuse of nature, but they could not permit their wives to be reformed for the better! A father disinherited his son, with whom he had ceased to find fault.
+
+[4:22] A master sent his slave to bridewell, whom he had even found to be indispensable to him.
+
+[4:23] As soon as they discovered them to be Christians, they wished they were criminals again; for our discipline carries its own evidence in itself, nor are we betrayed by anything else than our own goodness, just as bad men also become conspicuous by their own evil.
+
+[4:24] Else how is it that we alone are, contrary to the lessons of nature, branded as very evil because of our good? For what mark do we exhibit except the prime wisdom, which teaches us not to worship the frivolous works of the human hand; the temperance, by which we abstain from other men's goods; the chastity, which we pollute not even with a look; the compassion, which prompts us to help the needy; the truth itself, which makes us give offence; and liberty, for which we have even learned to die? Whoever wishes to understand who the Christians are, must needs employ these marks for their discovery.
+
+[5:1] The Inconsistent Life of Any False Christian No More Condemns True Disciples of Christ, Than a Passing Cloud Obscures a Summer Sky.
+
+[5:2] As to your saying of us that we are a most shameful set, and utterly steeped in luxury, avarice, and depravity, we will not deny that this is true of some.
+
+[5:3] It is, however, a sufficient testimonial for our name, that this cannot be said of all, not even of the greater part of us.
+
+[5:4] It must happen even in the healthiest and purest body, that a mole should grow, or a wart arise on it, or freckles disfigure it.
+
+[5:5] Not even the sky itself is clear with so perfect a serenity as not to be flecked with some filmy cloud.
+
+[5:6] A slight spot on the face, because it is obvious in so conspicuous a part, only serves to show purity of the entire complexion.
+
+[5:7] The goodness of the larger portion is well attested by the slender flaw.
+
+[5:8] But although you prove that some of our people are evil, you do not hereby prove that they are Christians.
+
+[5:9] Search and see whether there is any sect to which (a partial shortcoming) is imputed as a general stain.
+
+[5:10] You are accustomed in conversation yourselves to say, in disparagement of us, "Why is so-and-so deceitful, when the Christians are so self-denying? why merciless, when they are so merciful?" You thus bear your testimony to the fact that this is not the character of Christians, when you ask, in the way of a retort, how men who are reputed to be Christians can be of such and such a disposition.
+
+[5:11] There is a good deal of difference between an imputation and a name, between an opinion and the truth.
+
+[5:12] For names were appointed for the express purpose of setting their proper limits between mere designation and actual condition.
+
+[5:13] How many indeed are said to be philosophers, who for all that do not fulfil the law of philosophy? All bear the name in respect of their profession; but they hold the designation without the excellence of the profession, and they disgrace the real thing under the shallow pretence of its name.
+
+[5:14] Men are not straightway of such and such a character, because they are said to be so; but when they are not, it is vain to say so of them: they only deceive people who attach reality to a name, when it is its consistency with fact which decides the condition implied in the name.
+
+[5:15] And yet persons of this doubtful stamp do not assemble with us, neither do they belong to our communion: by their delinquency they become yours once more since we should be unwilling to mix even with them whom your violence and cruelty compelled to recant.
+
+[5:16] Yet we should, of course, be more ready to have included amongst us those who have unwillingly forsaken our discipline than wilful apostates.
+
+[5:17] However, you have no right to call them Christians, to whom the Christians themselves deny that name, and who have not learned to deny themselves.
+
+[6:1] The Innocence of the Christians Not Compromised by the Iniquitous Laws Which Were Made Against Them.
+
+[6:2] Whenever these statements and answers of ours, which truth suggests of its own accord, press and restrain your conscience, which is the witness of its own ignorance, you betake yourselves in hot haste to that poor altar of refuge, the authority of the laws, because these, of course, would never punish the offensive sect, if their deserts had not been fully considered by those who made the laws.
+
+[6:3] Then what is it which has prevented a like consideration on the part of those who put the laws in force, when, in the case of all other crimes which are similarly forbidden and punished by the laws, the penalty is not inflicted until it is sought by regular process? Take, for instance, the case of a murderer or an adulterer.
+
+[6:4] An examination is ordered touching the particulars of the crime, even though it is patent to all what its nature is.
+
+[6:5] Whatever wrong has been done by the Christian ought to be brought to light.
+
+[6:6] No law forbids inquiry to be made; on the contrary, inquiry is made in the interest of the laws.
+
+[6:7] For how are you to keep the law by precautions against that which the law forbids, if you neutralize the carefulness of the precaution by your failing to perceive what it is you have to keep? No law must keep to itself the knowledge of its own righteousness, but (it owes it) to those from whom it claims obedience.
+
+[6:8] The law, however, becomes an object of suspicion when it declines to approve itself.
+
+[6:9] Naturally enough, then, are the laws against the Christians supposed to be just and deserving of respect and observance, just as long as men remain ignorant of their aim and purport; but when this is perceived, their extreme injustice is discovered, and they are deservedly rejected with abhorrence, along with (their instruments of torture)—the swords, the crosses, and the lions.
+
+[6:10] An unjust law secures no respect.
+
+[6:11] In my opinion, however, there is a suspicion among you that some of these laws are unjust, since not a day passes without your modifying their severity and iniquity by fresh deliberations and decisions.
+
+[7:1] The Christians Defamed.
+
+[7:2] A Sarcastic Description of Fame; Its Deception and Atrocious Slanders of the Christians Lengthily Described.
+
+[7:3] Whence comes it to pass, you will say to us, that such a character could have been attributed to you, as to have justified the lawmakers perhaps by its imputation? Let me ask on my side, what voucher they had then, or you now, for the truth of the imputation? (You answer,) Fame.
+
+[7:4] Well, now, is not this— "Fama malum, quo non aliud velocius ullum?" Now, why a plague, if it be always true? It never ceases from lying; nor even at the moment when it reports the truth is it so free from the wish to lie, as not to interweave the false with the true, by processes of addition, diminution, or confusion of various facts.
+
+[7:5] Indeed, such is its condition, that it can only continue to exist while it lies.
+
+[7:6] For it lives only just so long as it fails to prove anything.
+
+[7:7] As soon as it proves itself true, it falls; and, as if its office of reporting news were at an end, it quits its post: thenceforward the thing is held to be a fact, and it passes under that name.
+
+[7:8] No one, then, says, to take an instance, "The report is that this happened at Rome," or, "The rumour goes that he has got a province;" but, "He has got a province," and, "This happened at Rome".
+
+[7:9] Nobody mentions a rumour except at an uncertainty, because nobody can be sure of a rumour, but only of certain knowledge; and none but a fool believes a rumour, because no wise man puts faith in an uncertainty.
+
+[7:10] In however wide a circuit a report has been circulated, it must needs have originated some time or other from one mouth; afterwards it creeps on somehow to ears and tongues which pass it on and so obscures the humble error in which it began, that no one considers whether the mouth which first set it a-going disseminated a falsehood,—a circumstance which often happens either from a temper of rivalry, or a suspicious turn, or even the pleasure of feigning news.
+
+[7:11] It is, however, well that time reveals all things, as your own sayings and proverbs testify; yea, as nature herself attests, which has so ordered it that nothing lies hid, not even that which fame has not reported.
+
+[7:12] See, now, what a witness you have suborned against us: it has not been able up to this time to prove the report it set in motion, although it has had so long a time to recommend it to our acceptance.
+
+[7:13] This name of ours took its rise in the reign of Augustus; under Tiberius it was taught with all clearness and publicity; under Nero it was ruthlessly condemned, and you may weigh its worth and character even from the person of its persecutor.
+
+[7:14] If that prince was a pious man, then the Christians are impious; if he was just, if he was pure, then the Christians are unjust and impure; if he was not a public enemy, we are enemies of our country: what sort of men we are, our persecutor himself shows, since he of course punished what produced hostility to himself.
+
+[7:15] Now, although every other institution which existed under Nero has been destroyed, yet this of ours has firmly remained—righteous, it would seem, as being unlike the author (of its persecution).
+
+[7:16] Two hundred and fifty years, then, have not yet passed since our life began.
+
+[7:17] During the interval there have been so many criminals; so many crosses have obtained immortality; so many infants have been slain; so many loaves steeped in blood; so many extinctions of candles; so many dissolute marriages.
+
+[7:18] And up to the present time it is mere report which fights against the Christians.
+
+[7:19] No doubt it has a strong support in the wickedness of the human mind, and utters its falsehoods with more success among cruel and savage men.
+
+[7:20] For the more inclined you are to maliciousness, the more ready are you to believe evil; in short, men more easily believe the evil that is false, than the good which is true.
+
+[7:21] Now, if injustice has left any place within you for the exercise of prudence in investigating the truth of reports, justice of course demanded that you should examine by whom the report could have been spread among the multitude, and thus circulated through the world.
+
+[7:22] For it could not have been by the Christians themselves, I suppose, since by the very constitution and law of all mysteries the obligation of silence is imposed.
+
+[7:23] How much more would this be the case in such (mysteries as are ascribed to us), which, if divulged, could not fail to bring down instant punishment from the prompt resentment of men! Since, therefore, the Christians are not their own betrayers, it follows that it must be strangers.
+
+[7:24] Now I ask, how could strangers obtain knowledge of us, when even true and lawful mysteries exclude every stranger from witnessing them, unless illicit ones are less exclusive? Well, then, it is more in keeping with the character of strangers both to be ignorant (of the true state of a case), and to invent (a false account).
+
+[7:25] Our domestic servants (perhaps) listened, and peeped through crevices and holes, and stealthily got information of our ways.
+
+[7:26] What, then, shall we say when our servants betray them to you? It is better, (to be sure,) for us all not to be betrayed by any; but still, if our practices be so atrocious, how much more proper is it when a righteous indignation bursts asunder even all ties of domestic fidelity?  How was it possible for it to endure what horrified the mind and affrighted the eye? This is also a wonderful thing, both that he who was so overcome with impatient excitement as to turn informer, did not likewise desire to prove (what he reported), and that he who heard the informer's story did not care to see for himself, since no doubt the reward is equal both for the informer who proves what he reports, and for the hearer who convinces himself of the credibility of what he hears.
+
+[7:27] But then you say that (this is precisely what has taken place):  first came the rumour, then the exhibition of the proof; first the hearsay, then the inspection; and after this, fame received its commission.
+
+[7:28] Now this, I must say, surpasses all admiration, that that was once for all detected and divulged which is being for ever repeated, unless, forsooth, we have by this time ceased from the reiteration of such things (as are alleged of us).
+
+[7:29] But we are called still by the same (offensive) name, and we are supposed to be still engaged in the same practices, and we multiply from day to day; the more we are, to the more become we objects of hatred.
+
+[7:30] Hatred increases as the material for it increases.
+
+[7:31] Now, seeing that the multitude of offenders is ever advancing, how is it that the crowd of informers does not keep equal pace therewith? To the best of my belief, even our manner of life has become better known; you know the very days of our assemblies; therefore we are both besieged, and attacked, and kept prisoners actually in our secret congregations.
+
+[7:32] Yet who ever came upon a half-consumed corpse (amongst us)? Who has detected the traces of a bite in our blood-steeped loaf? Who has discovered, by a sudden light invading our darkness, any marks of impurity, I will not say of incest, (in our feasts)? If we save ourselves by a bribe from being dragged out before the public gaze with such a character, how is it that we are still oppressed? We have it indeed in our own power not to be thus apprehended at all; for who either sells or buys information about a crime, if the crime itself has no existence? But why need I disparagingly refer to strange spies and informers, when you allege against us such charges as we certainly do not ourselves divulge with very much noise—either as soon as you hear of them, if we previously show them to you, or after you have yourselves discovered them, if they are for the time concealed from you? For no doubt, when any desire initiation in the mysteries, their custom is first to go to the master or father of the sacred rites.
+
+[7:33] Then he will say (to the applicant), You must bring an infant, as a guarantee for our rites, to be sacrificed, as well as some bread to be broken and dipped in his blood; you also want candles, and dogs tied together to upset them, and bits of meat to rouse the dogs.
+
+[7:34] Moreover, a mother too, or a sister, is necessary for you.
+
+[7:35] What, however, is to be said if you have neither? I suppose in that case you could not be a genuine Christian.
+
+[7:36] Now, do let me ask you, Will such things, when reported by strangers, bear to be spread about (as charges against us)? It is impossible for such persons to understand proceedings in which they take no part.
+
+[7:37] The first step of the process is perpetrated with artifice; our feasts and our marriages are invented and detailed by ignorant persons, who had never before heard about Christian mysteries.
+
+[7:38] And though they afterwards cannot help acquiring some knowledge of them, it is even then as having to be administered by others whom they bring on the scene.
+
+[7:39] Besides, how absurd is it that the profane know mysteries which the priest knows not!  They keep them all to themselves, then, and take them for granted; and so these tragedies, (worse than those) of Thyestes or oedipus, do not at all come forth to light, nor find their way to the public.
+
+[7:40] Even more voracious bites take nothing away from the credit of such as are initiated, whether servants or masters.
+
+[7:41] If, however, none of these allegations can be proved to be true, how incalculable must be esteemed the grandeur (of that religion) which is manifestly not overbalanced even by the burden of these vast atrocities! O ye heathen; who have and deserve our pity, behold, we set before you the promise which our sacred system offers.
+
+[7:42] It guarantees eternal life to such as follow and observe it; on the other hand, it threatens with the eternal punishment of an unending fire those who are profane and hostile; while to both classes alike is preached a resurrection from the dead.
+
+[7:43] We are not now concerned about the doctrine of these (verities), which are discussed in their proper place.
+
+[7:44] Meanwhile, however, believe them, even as we do ourselves, for I want to know whether you are ready to reach them, as we do, through such crimes.
+
+[7:45] Come, whosoever you are, plunge your sword into an infant; or if that is another's office, then simply gaze at the breathing creature dying before it has lived; at any rate, catch its fresh blood in which to steep your bread; then feed yourself without stint; and whilst this is going on, recline.
+
+[7:46] Carefully distinguish the places where your mother or your sister may have made their bed; mark them well, in order that, when the shades of night have fallen upon them, putting of course to the test the care of every one of you, you may not make the awkward mistake of alighting on somebody else: you would have to make an atonement, if you failed of the incest.
+
+[7:47] When you have effected all this, eternal life will be in store for you.
+
+[7:48] I want you to tell me whether you think eternal life worth such a price.
+
+[7:49] No, indeed, you do not believe it: even if you did believe it, I maintain that you would be unwilling to give (the fee); or if willing, would be unable.
+
+[7:50] But why should others be able if you are unable? Why should you be able if others are unable?  What would you wish impunity (and) eternity to stand you in? Do you suppose that these (blessings) can be bought by us at any price? Have Christians teeth of a different sort from others? Have they more ample jaws? Are they of different nerve for incestuous lust? I trow not.
+
+[7:51] It is enough for us to differ from you in condition by truth alone.
+
+[8:1] The Calumny Against the Christians Illustrated in the Discovery of Psammetichus.
+
+[8:2] Refutation of the Story.
+
+[8:3] We are indeed said to be the "third race" of men.
+
+[8:4] What, a dog-faced race? Or broadly shadow-footed? Or some subterranean Antipodes? If you attach any meaning to these names, pray tell us what are the first and the second race, that so we may know something of this "third".
+
+[8:5] Psammetichus thought that he had hit upon the ingenious discovery of the primeval man.
+
+[8:6] He is said to have removed certain new-born infants from all human intercourse, and to have entrusted them to a nurse, whom he had previously deprived of her tongue, in order that, being completely exiled from all sound of the human voice, they might form their speech without hearing it; and thus, deriving it from themselves alone, might indicate what that first nation was whose speech was dictated by nature.
+
+[8:7] Their first utterance was Bekkos, a word which means "bread" in the language of Phrygia: the Phrygians, therefore, are supposed to be the first of the human race.
+
+[8:8] But it will not be out of place if we make one observation, with a view to show how your faith abandons itself more to vanities than to verities.
+
+[8:9] Can it be, then, at all credible that the nurse retained her life, after the loss of so important a member, the very organ of the breath of life,—cut out, too, from the very root, with her throat mutilated, which cannot be wounded even on the outside without danger, and the putrid gore flowing back to the chest, and deprived for so long a time of her food? Come, even suppose that by the remedies of a Philomela she retained her life, in the way supposed by wisest persons, who account for the dumbness not by cutting out the tongue, but from the blush of shame; if on such a supposition she lived, she would still be able to blurt out some dull sound.
+
+[8:10] And a shrill inarticulate noise from opening the mouth only, without any modulation of the lips, might be forced from the mere throat, though there were no tongue to help.
+
+[8:11] This, it is probable, the infants readily imitated, and the more so because it was the only sound; only they did it a little more neatly, as they had tongues; and then they attached to it a definite signification.
+
+[8:12] Granted, then, that the Phrygians were the earliest race, it does not follow that the Christians are the third.
+
+[8:13] For how many other nations come regularly after the Phrygians? Take care, however, lest those whom you call the third race should obtain the first rank, since there is no nation indeed which is not Christian.
+
+[8:14] Whatever nation, therefore, was the first, is nevertheless Christian now.
+
+[8:15] It is ridiculous folly which makes you say we are the latest race, and then specifically call us the third.
+
+[8:16] But it is in respect of our religion, not of our nation, that we are supposed to be the third; the series being the Romans, the Jews, and the Christians after them.
+
+[8:17] Where, then, are the Greeks? or if they are reckoned amongst the Romans in regard to their superstition (since it was from Greece that Rome borrowed even her gods), where at least are the Egyptians, since these have, so far as I know, a mysterious religion peculiar to themselves? Now, if they who belong to the third race are so monstrous, what must they be supposed to be who preceded them in the first and the second place?.
+
+[9:1] The Christians are Not the Cause of Public Calamities: There Were Such Troubles Before Christianity.
+
+[9:2] But why should I be astonished at your vain imputations?  Under the same natural form, malice and folly have always been associated in one body and growth, and have ever opposed us under the one instigator of error.
+
+[9:3] Indeed, I feel no astonishment; and therefore, as it is necessary for my subject, I will enumerate some instances, that you may feel the astonishment by the enumeration of the folly into which you fall, when you insist on our being the causes of every public calamity or injury.
+
+[9:4] If the Tiber has overflowed its banks, if the Nile has remained in its bed, if the sky has been still, or the earth been in commotion, if death has made its devastations, or famine its afflictions, your cry immediately is, "This is the fault of the Christians!" As if they who fear the true God could have to fear a light thing, or at least anything else (than an earthquake or famine, or such visitations).
+
+[9:5] I suppose it is as despisers of your gods that we call down on us these strokes of theirs.
+
+[9:6] As we have remarked already, three hundred years have not yet passed in our existence; but what vast scourges before that time fell on all the world, on its various cities and provinces! what terrible wars, both foreign and domestic! what pestilences, famines, conflagrations, yawnings, and quakings of the earth has history recorded! Where were the Christians, then, when the Roman state furnished so many chronicles of its disasters? Where were the Christians when the islands Hiera, Anaphe, and Delos, and Rhodes, and Cea were desolated with multitudes of men? or, again, when the land mentioned by Plato as larger than Asia or Africa was sunk in the Atlantic Sea? or when fire from heaven overwhelmed Volsinii, and flames from their own mountain consumed Pompeii? when the sea of Corinth was engulphed by an earthquake? when the whole world was destroyed by the deluge? Where then were (I will not say the Christians, who despise your gods, but) your gods themselves, who are proved to be of later origin than that great ruin by the very places and cities in which they were born, sojourned, and were buried, and even those which they founded?  For else they would not have remained to the present day, unless they had been more recent than that catastrophe.
+
+[9:7] If you do not care to peruse and reflect upon these testimonies of history, the record of which affects you differently from us, in order especially that you may not have to tax your gods with extreme injustice, since they injure even their worshippers on account of their despisers, do you not then prove yourselves to be also in the wrong, when you hold them to be gods, who make no distinction between the deserts of yourselves and profane persons? If, however, as it is now and then very vainly said, you incur the chastisement of your gods because you are too slack in our extirpation, you then have settled the question of their weakness and insignificance; for they would not be angry with you for loitering over our punishment, if they could do anything themselves,—although you admit the same thing indeed in another way, whenever by inflicting punishment on us you seem to be avenging them.
+
+[9:8] If one interest is maintained by another party, that which defends is the greater of the two.
+
+[9:9] What a shame, then, must it be for gods to be defended by a human being!.
+
+[10:1] The Christians are Not the Only Contemners of the Gods.
+
+[10:2] Contempt of Them Often Displayed by Heathen Official Persons.
+
+[10:3] Homer Made the Gods Contemptible.
+
+[10:4] Pour out now all your venom; fling against this name of ours all your shafts of calumny: I shall stay no longer to refute them; but they shall by and by be blunted, when we come to explain our entire discipline.
+
+[10:5] I shall content myself now indeed with plucking these shafts out of our own body, and hurling them back on yourselves.
+
+[10:6] The same wounds which you have inflicted on us by your charges I shall show to be imprinted on yourselves, that you may fall by your own swords and javelins.
+
+[10:7] Now, first, when you direct against us the general charge of divorcing ourselves from the institutions of our forefathers, consider again and again whether you are not yourselves open to that accusation in common with us.
+
+[10:8] For when I look through your life and customs, lo, what do I discover but the old order of things corrupted, nay, destroyed by you?  Of the laws I have already said, that you are daily supplanting them with novel decrees and statutes.
+
+[10:9] As to everything else in your manner of life, how great are the changes you have made from your ancestors—in your style, your dress, your equipage, your very food, and even in your speech; for the old-fashioned you banish, as if it were offensive to you! Everywhere, in your public pursuits and private duties, antiquity is repealed; all the authority of your forefathers your own authority has superseded.
+
+[10:10] To be sure, you are for ever praising old customs; but this is only to your greater discredit, for you nevertheless persistently reject them.
+
+[10:11] How great must your perverseness have been, to have bestowed approbation on your ancestors' institutions, which were too inefficient to be lasting, all the while that you were rejecting the very objects of your approbation! But even that very heir-loom of your forefathers, which you seem to guard and defend with greatest fidelity, in which you actually find your strongest grounds for impeaching us as violators of the law, and from which your hatred of the Christian name derives all its life—I mean the worship of the gods—I shall prove to be undergoing ruin and contempt from yourselves no less than (from us),—unless it be that there is no reason for our being regarded as despisers of the gods like yourselves, on the ground that nobody despises what he knows has absolutely no existence.
+
+[10:12] What certainly exists can be despised.
+
+[10:13] That which is nothing, suffers nothing.
+
+[10:14] From those, therefore, to whom it is an existing thing, must necessarily proceed the suffering which affects it.
+
+[10:15] All the heavier, then, is the accusation which burdens you who believe that there are gods and (at the same time) despise them, who worship and also reject them, who honour and also assail them.
+
+[10:16] One may also gather the same conclusion from this consideration, above all:  since you worship various gods, some one and some another, you of course despise those which you do not worship.
+
+[10:17] A preference for the one is not possible without slighting the other, and no choice can be made without a rejection.
+
+[10:18] He who selects some one out of many, has already slighted the other which he does not select.
+
+[10:19] But it is impossible that so many and so great gods can be worshipped by all.
+
+[10:20] Then you must have exercised your contempt (in this matter) even at the beginning, since indeed you were not then afraid of so ordering things, that all the gods could not become objects of worship to all.
+
+[10:21] For those very wise and prudent ancestors of yours, whose institutions you know not how to repeal, especially in respect of your gods, are themselves found to have been impious.
+
+[10:22] I am much mistaken, if they did not sometimes decree that no general should dedicate a temple, which he may have vowed in battle, before the senate gave its sanction; as in the case of Marcus aemilius, who had made a vow to the god Alburnus.
+
+[10:23] Now is it not confessedly the greatest impiety, nay, the greatest insult, to place the honour of the Deity at the will and pleasure of human judgment, so that there cannot be a god except the senate permit him? Many times have the censors destroyed (a god) without consulting the people.
+
+[10:24] Father Bacchus, with all his ritual, was certainly by the consuls, on the senate's authority, cast not only out of the city, but out of all Italy; whilst Varro informs us that Serapis also, and Isis, and Arpocrates, and Anubis, were excluded from the Capitol, and that their altars which the senate had thrown down were only restored by the popular violence.
+
+[10:25] The Consul Gabinius, however, on the first day of the ensuing January, although he gave a tardy consent to some sacrifices, in deference to the crowd which assembled, because he had failed to decide about Serapis and Isis, yet held the judgment of the senate to be more potent than the clamour of the multitude, and forbade the altars to be built.
+
+[10:26] Here, then, you have amongst your own forefathers, if not the name, at all events the procedure, of the Christians, which despises the gods.
+
+[10:27] If, however, you were even innocent of the charge of treason against them in the honour you pay them, I still find that you have made a consistent advance in superstition as well as impiety.
+
+[10:28] For how much more irreligious are you found to be! There are your household gods, the Lares and the Penates, which you possess by a family consecration: you even tread them profanely under foot, you and your domestics, by hawking and pawning them for your wants or your whims.
+
+[10:29] Such insolent sacrilege might be excusable, if it were not practised against your humbler deities; as it is, the case is only the more insolent.
+
+[10:30] There is, however, some consolation for your private household gods under these affronts, that you treat your public deities with still greater indignity and insolence.
+
+[10:31] First of all, you advertise them for auction, submit them to public sale, knock them down to the highest bidder, when you every five years bring them to the hammer among your revenues.
+
+[10:32] For this purpose you frequent the temple of Serapis or the Capitol, hold your sales there, conclude your contracts, as if they were markets, with the well-known voice of the crier, (and) the self-same levy of the quaestor.
+
+[10:33] Now lands become cheaper when burdened with tribute, and men by the capitation tax diminish in value (these are the well-known marks of slavery).
+
+[10:34] But the gods, the more tribute they pay, become more holy; or rather, the more holy they are, the more tribute do they pay.
+
+[10:35] Their majesty is converted into an article of traffic; men drive a business with their religion; the sanctity of the gods is beggared with sales and contracts.
+
+[10:36] You make merchandise of the ground of your temples, of the approach to your altars, of your offerings, of your sacrifices.
+
+[10:37] You sell the whole divinity (of your gods).
+
+[10:38] You will not permit their gratuitous worship.
+
+[10:39] The auctioneers necessitate more repairs than the priests.
+
+[10:40] It was not enough that you had insolently made a profit of your gods, if we would test the amount of your contempt; and you are not content to have withheld honour from them, you must also depreciate the little you do render to them by some indignity or other.
+
+[10:41] What, indeed, do you do by way of honouring your gods, which you do not equally offer to your dead? You build temples for the gods, you erect temples also to the dead; you build altars for the gods, you build them also for the dead; you inscribe the same superscription over both; you sketch out the same lineaments for their statues—as best suits their genius, or profession, or age; you make an old man of Saturn, a beardless youth of Apollo; you form a virgin from Diana; in Mars you consecrate a soldier, a blacksmith in Vulcan.
+
+[10:42] No wonder, therefore, if you slay the same victims and burn the same odours for your dead as you do for your gods.
+
+[10:43] What excuse can be found for that insolence which classes the dead of whatever sort as equal with the gods? Even to your princes there are assigned the services of priests and sacred ceremonies, and chariots, and cars, and the honours of the solisternia and the lectisternia, holidays and games.
+
+[10:44] Rightly enough, since heaven is open to them; still it is none the less contumelious to the gods: in the first place, because it could not possibly be decent that other beings should be numbered with them, even if it has been given to them to become divine after their birth; in the second place, because the witness who beheld the man caught up into heaven would not forswear himself so freely and palpably before the people, if it were not for the contempt felt about the objects sworn to both by himself and those who allow the perjury.
+
+[10:45] For these feel of themselves, that what is sworn to is nothing; and more than that, they go so far as to fee the witness, because he had the courage to publicly despise the avengers of perjury.
+
+[10:46] Now, as to that, who among you is pure of the charge of perjury?  By this time, indeed, there is an end to all danger in swearing by the gods, since the oath by Caesar carries with it more influential scruples, which very circumstance indeed tends to the degradation of your gods; for those who perjure themselves when swearing by Caesar are more readily punished than those who violate an oath to a Jupiter.
+
+[10:47] But, of the two kindred feelings of contempt and derision, contempt is the more honourable, having a certain glory in its arrogance; for it sometimes proceeds from confidence, or the security of consciousness, or a natural loftiness of mind.
+
+[10:48] Derision, however, is a more wanton feeling, and so far it points more directly to a carping insolence.
+
+[10:49] Now only consider what great deriders of your gods you show yourselves to be! I say nothing of your indulgence of this feeling during your sacrificial acts, how you offer for your victims the poorest and most emaciated creatures; or else of the sound and healthy animals only the portions which are useless for food, such as the heads and hoofs, or the plucked feathers and hair, and whatever at home you would have thrown away.
+
+[10:50] I pass over whatever may seem to the taste of the vulgar and profane to have constituted the religion of your forefathers; but then the most learned and serious classes (for seriousness and wisdom to some extent profess to be derived from learning) are always, in fact, the most irreverent towards your gods; and if their learning ever halts, it is only to make up for the remissness by a more shameful invention of follies and falsehoods about their gods.
+
+[10:51] I will begin with that enthusiastic fondness which you show for him from whom every depraved writer gets his dreams, to whom you ascribe as much honour as you derogate from your gods, by magnifying him who has made such sport of them.
+
+[10:52] I mean Homer by this description.
+
+[10:53] He it is, in my opinion, who has treated the majesty of the Divine Being on the low level of human condition, imbuing the gods with the falls and the passions of men; who has pitted them against each other with varying success, like pairs of gladiators: he wounds Venus with an arrow from a human hand; he keeps Mars a prisoner in chains for thirteen months, with the prospect of perishing; he parades Jupiter as suffering a like indignity from a crowd of celestial (rebels;) or he draws from him tears for Sarpedon; or he represents him wantoning with Juno in the most disgraceful way, advocating his incestuous passion for her by a description and enumeration of his various amours.
+
+[10:54] Since then, which of the poets has not, on the authority of their great prince, calumniated the gods, by either betraying truth or feigning falsehood? Have the dramatists also, whether in tragedy or comedy, refrained from making the gods the authors of the calamities and retributions (of their plays)? I say nothing of your philosophers, whom a certain inspiration of truth itself elevates against the gods, and secures from all fear in their proud severity and stern discipline.
+
+[10:55] Take, for example, Socrates.
+
+[10:56] In contempt of your gods, he swears by an oak, and a dog, and a goat.
+
+[10:57] Now, although he was condemned to die for this very reason, the Athenians afterwards repented of that condemnation, and even put to death his accusers.
+
+[10:58] By this conduct of theirs the testimony of Socrates is replaced at its full value, and I am enabled to meet you with this retort, that in his case you have approbation bestowed on that which is now-a-days reprobated in us.
+
+[10:59] But besides this instance there is Diogenes, who, I know not to what extent, made sport of Hercules; whilst Varro, that Diogenes of the Roman cut, introduces to our view some three hundred Joves, or, as they ought to be called, Jupiters, (and all) without heads.
+
+[10:60] Your other wanton wits likewise minister to your pleasures by disgracing the gods.
+
+[10:61] Examine carefully the sacrilegious beauties of your Lentuli and Hostii; now, is it the players or your gods who become the objects of your mirth in their tricks and jokes? Then, again, with what pleasure do you take up the literature of the stage, which describes all the foul conduct of the gods! Their majesty is defiled in your presence in some unchaste body.
+
+[10:62] The mask of some deity, at your will, covers some infamous paltry head.
+
+[10:63] The Sun mourns for the death of his son by a lightning-flash amid your rude rejoicing.
+
+[10:64] Cybele sighs for a shepherd who disdains her, without raising a blush on your cheek; and you quietly endure songs which celebrate the gallantries of Jove.
+
+[10:65] You are, of course, possessed of a more religious spirit in the show of your gladiators, when your gods dance, with equal zest, over the spilling of human blood, (and) over those filthy penalties which are at once their proof and plot for executing your criminals, or else (when) your criminals are punished personating the gods themselves.
+
+[10:66] We have often witnessed in a mutilated criminal your god of Pessinum, Attis; a wretch burnt alive has personated Hercules.
+
+[10:67] We have laughed at the sport of your mid-day game of the gods, when Father Pluto, Jove's own brother, drags away, hammer in hand, the remains of the gladiators; when Mercury, with his winged cap and heated wand, tests with his cautery whether the bodies were really lifeless, or only feigning death.
+
+[10:68] Who now can investigate every particular of this sort although so destructive of the honour of the Divine Being, and so humiliating to His majesty? They all, indeed, have their origin in a contempt (of the gods), on the part both of those who practise these personations, as well as of those who are susceptible of being so represented.
+
+[10:69] I hardly know, therefore, whether your gods have more reason to complain of yourselves or of us.
+
+[10:70] After despising them on the one hand, you flatter them on the other; if you fail in any duty towards them, you appease them with a fee; in short, you allow yourselves to act towards them in any way you please.
+
+[10:71] We, however, live in a consistent and entire aversion to them.
+
+[11:1] The Absurd Cavil of the Ass's Head Disposed of.
+
+[11:2] In this matter we are (said to be) guilty not merely of forsaking the religion of the community, but of introducing a monstrous superstition; for some among you have dreamed that our god is an ass's head,—an absurdity which Cornelius Tacitus first suggested.
+
+[11:3] In the fourth book of his histories, where he is treating of the Jewish war, he begins his description with the origin of that nation, and gives his own views respecting both the origin and the name of their religion.
+
+[11:4] He relates that the Jews, in their migration in the desert, when suffering for want of water, escaped by following for guides some wild asses, which they supposed to be going in quest of water after pasture, and that on this account the image of one of these animals was worshipped by the Jews.
+
+[11:5] From this, I suppose, it was presumed that we, too, from our close connection with the Jewish religion, have ours consecrated under the same emblematic form.
+
+[11:6] The same Cornelius Tacitus, however,—who, to say the truth, is most loquacious in falsehood—forgetting his later statement, relates how Pompey the Great, after conquering the Jews and capturing Jerusalem, entered the temple, but found nothing in the shape of an image, though he examined the place carefully.
+
+[11:7] Where, then, should their God have been found? Nowhere else, of course, than in so memorable a temple which was carefully shut to all but the priests, and into which there could be no fear of a stranger entering.
+
+[11:8] But what apology must I here offer for what I am going to say, when I have no other object at the moment than to make a passing remark or two in a general way which shall be equally applicable to yourselves? Suppose that our God, then, be an asinine person, will you at all events deny that you possess the same characteristics with ourselves in that matter? (Not their heads only, but) entire asses, are, to be sure, objects of adoration to you, along with their tutelar Epona; and all herds, and cattle, and beasts you consecrate, and their stables into the bargain!  This, perhaps, is your grievance against us, that, when surrounded by cattle-worshippers of every kind we are simply devoted to asses!.
+
+[12:1] The Charge of Worshipping a Cross.
+
+[12:2] The Heathens Themselves Made Much of Crosses in Sacred Things; Nay, Their Very Idols Were Formed on a Crucial Frame.
+
+[12:3] As for him who affirms that we are "the priesthood of a cross," we shall claim him as our co-religionist.
+
+[12:4] A cross is, in its material, a sign of wood; amongst yourselves also the object of worship is a wooden figure.
+
+[12:5] Only, whilst with you the figure is a human one, with us the wood is its own figure.
+
+[12:6] Never mind for the present what is the shape, provided the material is the same: the form, too, is of no importance, if so be it be the actual body of a god.
+
+[12:7] If, however, there arises a question of difference on this point what, (let me ask,) is the difference between the Athenian Pallas, or the Pharian Ceres, and wood formed into a cross, when each is represented by a rough stock, without form, and by the merest rudiment of a statue of unformed wood? Every piece of timber which is fixed in the ground in an erect position is a part of a cross, and indeed the greater portion of its mass.
+
+[12:8] But an entire cross is attributed to us, with its transverse beam, of course, and its projecting seat.
+
+[12:9] Now you have the less to excuse you, for you dedicate to religion only a mutilated imperfect piece of wood, while others consecrate to the sacred purpose a complete structure.
+
+[12:10] The truth, however, after all is, that your religion is all cross, as I shall show.
+
+[12:11] You are indeed unaware that your gods in their origin have proceeded from this hated cross.
+
+[12:12] Now, every image, whether carved out of wood or stone, or molten in metal, or produced out of any other richer material, must needs have had plastic hands engaged in its formation.
+
+[12:13] Well, then, this modeller, before he did anything else, hit upon the form of a wooden cross, because even our own body assumes as its natural position the latent and concealed outline of a cross.
+
+[12:14] Since the head rises upwards, and the back takes a straight direction, and the shoulders project laterally, if you simply place a man with his arms and hands outstretched, you will make the general outline of a cross.
+
+[12:15] Starting, then, from this rudimental form and prop, as it were, he applies a covering of clay, and so gradually completes the limbs, and forms the body, and covers the cross within with the shape which he meant to impress upon the clay; then from this design, with the help of compasses and leaden moulds, he has got all ready for his image which is to be brought out into marble, or clay, or whatever the material be of which he has determined to make his god.
+
+[12:16] (This, then, is the process:) after the cross-shaped frame, the clay; after the clay, the god.
+
+[12:17] In a well-understood routine, the cross passes into a god through the clayey medium.
+
+[12:18] The cross then you consecrate, and from it the consecrated (deity) begins to derive his origin.
+
+[12:19] By way of example, let us take the case of a tree which grows up into a system of branches and foliage, and is a reproduction of its own kind, whether it springs from the kernel of an olive, or the stone of a peach, or a grain of pepper which has been duly tempered under ground.
+
+[12:20] Now, if you transplant it, or take a cutting off its branches for another plant, to what will you attribute what is produced by the propagation?  Will it not be to the grain, or the stone, or the kernel? Because, as the third stage is attributable to the second, and the second in like manner to the first, so the third will have to be referred to the first, through the second as the mean.
+
+[12:21] We need not stay any longer in the discussion of this point, since by a natural law every kind of produce throughout nature refers back its growth to its original source; and just as the product is comprised in its primal cause, so does that cause agree in character with the thing produced.
+
+[12:22] Since, then, in the production of your gods, you worship the cross which originates them, here will be the original kernel and grain, from which are propagated the wooden materials of your idolatrous images.
+
+[12:23] Examples are not far to seek.
+
+[12:24] Your victories you celebrate with religious ceremony as deities; and they are the more august in proportion to the joy they bring you.
+
+[12:25] The frames on which you hang up your trophies must be crosses: these are, as it were, the very core of your pageants.
+
+[12:26] Thus, in your victories, the religion of your camp makes even crosses objects of worship; your standards it adores, your standards are the sanction of its oaths; your standards it prefers before Jupiter himself.
+
+[12:27] But all that parade of images, and that display of pure gold, are (as so many) necklaces of the crosses.
+
+[12:28] In like manner also, in the banners and ensigns, which your soldiers guard with no less sacred care, you have the streamers (and) vestments of your crosses.
+
+[12:29] You are ashamed, I suppose, to worship unadorned and simple crosses.
+
+[13:1] The Charge of Worshipping the Sun Met by a Retort.
+
+[13:2] Others, with greater regard to good manners, it must be confessed, suppose that the sun is the god of the Christians, because it is a well-known fact that we pray towards the east, or because we make Sunday a day of festivity.
+
+[13:3] What then? Do you do less than this? Do not many among you, with an affectation of sometimes worshipping the heavenly bodies likewise, move your lips in the direction of the sunrise? It is you, at all events, who have even admitted the sun into the calendar of the week; and you have selected its day, in preference to the preceding day as the most suitable in the week for either an entire abstinence from the bath, or for its postponement until the evening, or for taking rest and for banqueting.
+
+[13:4] By resorting to these customs, you deliberately deviate from your own religious rites to those of strangers.
+
+[13:5] For the Jewish feasts on the Sabbath and "the Purification," and Jewish also are the ceremonies of the lamps, and the fasts of unleavened bread, and the "littoral prayers," all which institutions and practices are of course foreign from your gods.
+
+[13:6] Wherefore, that I may return from this digression, you who reproach us with the sun and Sunday should consider your proximity to us.
+
+[13:7] We are not far off from your Saturn and your days of rest.
+
+[14:1] The Vile Calumny About Onocoetes Retorted on the Heathen by Tertullian.
+
+[14:2] Report has introduced a new calumny respecting our God.
+
+[14:3] Not so long ago, a most abandoned wretch in that city of yours, a man who had deserted indeed his own religion—a Jew, in fact, who had only lost his skin, flayed of course by wild beasts, against which he enters the lists for hire day after day with a sound body, and so in a condition to lose his skin—carried about in public a caricature of us with this label: Onocoetes.
+
+[14:4] This (figure) had ass's ears, and was dressed in a toga with a book, having a hoof on one of his feet.
+
+[14:5] And the crowd believed this infamous Jew.
+
+[14:6] For what other set of men is the seed-plot of all the calumny against us?  Throughout the city, therefore, Onocoetes is all the talk.
+
+[14:7] As, however, it is less then "a nine days' wonder," and so destitute of all authority from time, and weak enough from the character of its author, I shall gratify myself by using it simply in the way of a retort.
+
+[14:8] Let us then see whether you are not here also found in our company.
+
+[14:9] Now it matters not what their form may be, when our concern is about deformed images.
+
+[14:10] You have amongst you gods with a dog's head, and a lion's head, with the horns of a cow, and a ram, and a goat, goat-shaped or serpent-shaped, and winged in foot, head, and back.
+
+[14:11] Why therefore brand our one God so conspicuously? Many an Onocoetes is found amongst yourselves.
+
+[15:1] The Charge of Infanticide Retorted on the Heathen.
+
+[15:2] Since we are on a par in respect of the gods, it follows that there is no difference between us on the point of sacrifice, or even of worship, if I may be allowed to make good our comparison from another sort of evidence.
+
+[15:3] We begin our religious service, or initiate our mysteries, with slaying an infant.
+
+[15:4] As for you, since your own transactions in human blood and infanticide have faded from your memory, you shall be duly reminded of them in the proper place; we now postpone most of the instances, that we may not seem to be everywhere handling the selfsame topics.
+
+[15:5] Meanwhile, as I have said, the comparison between us does not fail in another point of view.
+
+[15:6] For if we are infanticides in one sense, you also can hardly be deemed such in any other sense; because, although you are forbidden by the laws to slay new-born infants, it so happens that no laws are evaded with more impunity or greater safety, with the deliberate knowledge of the public, and the suffrages of this entire age.
+
+[15:7] Yet there is no great difference between us, only you do not kill your infants in the way of a sacred rite, nor (as a service) to God.
+
+[15:8] But then you make away with them in a more cruel manner, because you expose them to the cold and hunger, and to wild beasts, or else you get rid of them by the slower death of drowning.
+
+[15:9] If, however, there does occur any dissimilarity between us in this matter, you must not overlook the fact that it is your own dear children whose life you quench; and this will supplement, nay, abundantly aggravate, on your side of the question, whatever is defective in us on other grounds.
+
+[15:10] Well, but we are said to sup off our impious sacrifice! Whilst we postpone to a more suitable place whatever resemblance even to this practice is discoverable amongst yourselves, we are not far removed from you in voracity.
+
+[15:11] If in the one case there is unchastity, and in ours cruelty, we are still on the same footing (if I may so far admit our guilt) in nature, where cruelty is always found in concord with unchastity.
+
+[15:12] But, after all, what do you less than we; or rather, what do you not do in excess of us?  I wonder whether it be a small matter to you to pant for human entrails, because you devour full-grown men alive? Is it, forsooth, only a trifle to lick up human blood, when you draw out the blood which was destined to live? Is it a light thing in your view to feed on an infant, when you consume one wholly before it is come to the birth?.
+
+[16:1] Other Charges Repelled by the Same Method.
+
+[16:2] The Story of the Noble Roman Youth and His Parents.
+
+[16:3] I am now come to the hour for extinguishing the lamps, and for using the dogs, and practising the deeds of darkness.
+
+[16:4] And on this point I am afraid I must succumb to you; for what similar accusation shall I have to bring against you? But you should at once commend the cleverness with which we make our incest look modest, in that we have devised a spurious night, to avoid polluting the real light and darkness, and have even thought it right to dispense with earthly lights, and to play tricks also with our conscience.
+
+[16:5] For whatever we do ourselves, we suspect in others when we choose (to be suspicious).
+
+[16:6] As for your incestuous deeds, on the contrary, men enjoy them at full liberty, in the face of day, or in the natural night, or before high Heaven; and in proportion to their successful issue is your own ignorance of the result, since you publicly indulge in your incestuous intercourse in the full cognizance of broad day-light.
+
+[16:7] (No ignorance, however, conceals our conduct from our eyes,) for in the very darkness we are able to recognise our own misdeeds.
+
+[16:8] The Persians, you know very well, according to Ctesias, live quite promiscuously with their mothers, in full knowledge of the fact, and without any horror; whilst of the Macedonians it is well known that they constantly do the same thing, and with perfect approbation: for once, when the blinded oedipus came upon their stage, they greeted him with laughter and derisive cheers.
+
+[16:9] The actor, taking off his mask in great alarm, said, "Gentlemen, have I displeased you?" "Certainly not," replied the Macedonians, "you have played your part well enough; but either the author was very silly, if he invented (this mutilation as an atonement for the incest), or else oedipus was a great fool for his pains if he really so punished himself;" and then they shouted out one to the other, ῝Ηλσυνε εἰς τὴν μητέρα.
+
+[16:10] But how insignificant, (say you,) is the stain which one or two nations can make on the whole world! As for us, we of course have infected the very sun, polluted the entire ocean!  Quote, then, one nation which is free from the passions which allure the whole race of men to incest! If there is a single nation which knows nothing of concubinage through the necessity of age and sex—to say nothing of lust and licentiousness—that nation will be a stranger to incest.
+
+[16:11] If any nature can be found so peculiarly removed from the human state as to be liable neither to ignorance, nor error, nor misfortune, that alone may be adduced with any consistency as an answer to the Christians.
+
+[16:12] Reflect, therefore, on the licentiousness which floats about amongst men's passions as if they were the winds, and consider whether there be any communities which the full and strong tides of passion fail to waft to the commission of this great sin.
+
+[16:13] In the first place, when you expose your infants to the mercy of others, or leave them for adoption to better parents than yourselves, do you forget what an opportunity for incest is furnished, how wide a scope is opened for its accidental commission? Undoubtedly, such of you as are more serious from a principle of self-restraint and careful reflection, abstain from lusts which could produce results of such a kind, in whatever place you may happen to be, at home or abroad, so that no indiscriminate diffusion of seed, or licentious reception thereof, will produce children to you unawares, such as their very parents, or else other children, might encounter in inadvertent incest, for no restraint from age is regarded in (the importunities of) lust.
+
+[16:14] All acts of adultery, all cases of fornication, all the licentiousness of public brothels, whether committed at home or perpetrated out of doors, serve to produce confusions of blood and complications of natural relationship, and thence to conduce to incest; from which consummation your players and buffoons draw the materials of their exhibitions.
+
+[16:15] It was from such a source, too, that so flagrant a tragedy recently burst upon the public as that which the prefect Fuscianus had judicially to decide.
+
+[16:16] A boy of noble birth, who, by the unintentional neglect of his attendants, had strolled too far from home, was decoyed by some passers-by, and carried off.
+
+[16:17] The paltry Greek who had the care of him, or somebody else, in true Greek fashion, had gone into the house and captured him.
+
+[16:18] Having been taken away into Asia, he is brought, when arrived at full age, back to Rome, and exposed for sale.
+
+[16:19] His own father buys him unawares, and treats him as a Greek.
+
+[16:20] Afterwards, as was his wont, the youth is sent by his master into the fields, chained as a slave.
+
+[16:21] Thither the tutor and the nurse had already been banished for punishment.
+
+[16:22] The whole case is represented to them; they relate each other's misfortunes: they, on the one hand, how they had lost their ward when he was a boy; he, on the other hand, that he had been lost from his boyhood.
+
+[16:23] But they agreed in the main, that he was a native of Rome of a noble family; perhaps he further gave sure proofs of his identity.
+
+[16:24] Accordingly, as God willed it for the purpose of fastening a stain upon that age, a presentiment about the time excites him, the periods exactly suit his age, even his eyes help to recall his features, some peculiar marks on his body are enumerated.
+
+[16:25] His master and mistress, who are now no other than his own father and mother, anxiously urge a protracted inquiry.
+
+[16:26] The slave-dealer is examined, the unhappy truth is all discovered.
+
+[16:27] When their wickedness becomes manifest, the parents find a remedy for their despair by hanging themselves; to their son, who survives the miserable calamity, their property is awarded by the prefect, not as an inheritance, but as the wages of infamy and incest.
+
+[16:28] That one case was a sufficient example for public exposure of the sins of this sort which are secretly perpetrated among you.
+
+[16:29] Nothing happens among men in solitary isolation.
+
+[16:30] But, as it seems to me, it is only in a solitary case that such a charge can be drawn out against us, even in the mysteries of our religion.
+
+[16:31] You ply us evermore with this charge; yet there are like delinquencies to be traced amongst you, even in your ordinary course of life.
+
+[17:1] The Christian Refusal to Swear by the Genius of Caesar.
+
+[17:2] Flippancy and Irreverence Retorted on the Heathen.
+
+[17:3] As to your charges of obstinacy and presumption, whatever you allege against us, even in these respects, there are not wanting points in which you will bear a comparison with us.
+
+[17:4] Our first step in this contumacious conduct concerns that which is ranked by you immediately after the worship due to God, that is, the worship due to the majesty of the Caesars, in respect of which we are charged with being irreligious towards them, since we neither propitiate their images nor swear by their genius.
+
+[17:5] We are called enemies of the people.
+
+[17:6] Well, be it so; yet at the same time (it must not be forgotten, that) the emperors find enemies amongst you heathen, and are constantly getting surnames to signalize their triumphs—one becoming Parthicus, and another Medicus and Germanicus.
+
+[17:7] On this head the Roman people must see to it who they are amongst whom there still remain nations which are unsubdued and foreign to their rule.
+
+[17:8] But, at all events, you are of us, and yet you conspire against us.
+
+[17:9] (In reply, we need only state) a well-known fact, that we acknowledge the fealty of Romans to the emperors.
+
+[17:10] No conspiracy has ever broken out from our body: no Caesar's blood has ever fixed a stain upon us, in the senate or even in the palace; no assumption of the purple has ever in any of the provinces been affected by us.
+
+[17:11] The Syrias still exhale the odours of their corpses; still do the Gauls fail to wash away (their blood) in the waters of their Rhone.
+
+[17:12] Your allegations of our insanity I omit, because they do not compromise the Roman name.
+
+[17:13] But I will grapple with the charge of sacrilegious vanity, and remind you of the irreverence of your own lower classes, and the scandalous lampoons of which the statues are so cognizant, and the sneers which are sometimes uttered at the public games, and the curses with which the circus resounds.
+
+[17:14] If not in arms, you are in tongue at all events always rebellious.
+
+[17:15] But I suppose it is quite another affair to refuse to swear by the genius of Caesar?  For it is fairly open to doubt as to who are perjurers on this point, when you do not swear honestly even by your gods.
+
+[17:16] Well, we do not call the emperor God; for on this point sannam facimus, as the saying is.
+
+[17:17] But the truth is, that you who call Caesar God both mock him, by calling him what he is not, and curse him, because he does not want to be what you call him.
+
+[17:18] For he prefers living to being made a god.
+
+[18:1] Christians Charged with an Obstinate Contempt of Death.
+
+[18:2] Instances of the Same are Found Amongst the Heathen.
+
+[18:3] The rest of your charge of obstinacy against us you sum up in this indictment, that we boldly refuse neither your swords, nor your crosses, nor your wild beasts, nor fire, nor tortures, such is our obduracy and contempt of death.
+
+[18:4] But (you are inconsistent in your charges); for in former times amongst your own ancestors all these terrors have come in men's intrepidity not only to be despised, but even to be held in great praise.
+
+[18:5] How many swords there were, and what brave men were willing to suffer by them, it were irksome to enumerate.
+
+[18:6] (If we take the torture) of the cross, of which so many instances have occurred, exquisite in cruelty, your own Regulus readily initiated the suffering which up to his day was without a precedent; a queen of Egypt used wild beasts of her own (to accomplish her death); the Carthaginian woman, who in the last extremity of her country was more courageous than her husband Asdrubal, only followed the example, set long before by Dido herself, of going through fire to her death.
+
+[18:7] Then, again, a woman of Athens defied the tyrant, exhausted his tortures, and at last, lest her person and sex might succumb through weakness, she bit off her tongue and spat out of her mouth the only possible instrument of a confession which was now out of her power.
+
+[18:8] But in your own instance you account such deeds glorious, in ours obstinate.
+
+[18:9] Annihilate now the glory of your ancestors, in order that you may thereby annihilate us also.
+
+[18:10] Be content from henceforth to repeal the praises of your forefathers, in order that you may not have to accord commendation to us for the same (sufferings).
+
+[18:11] Perhaps (you will say) the character of a more robust age may have rendered the spirits of antiquity more enduring.
+
+[18:12] Now, however, (we enjoy) the blessing of quietness and peace; so that the minds and dispositions of men (should be) more tolerant even towards strangers.
+
+[18:13] Well, you rejoin, be it so: you may compare yourselves with the ancients; we must needs pursue with hatred all that we find in you offensive to ourselves, because it does not obtain currency among us.
+
+[18:14] Answer me, then, on each particular case by itself.
+
+[18:15] I am not seeking for examples on a uniform scale.
+
+[18:16] Since, forsooth, the sword through their contempt of death produced stories of heroism amongst your ancestors, it is not, of course, from love of life that you go to the trainers sword in hand and offer yourselves as gladiators, (nor) through fear of death do you enrol your names in the army.
+
+[18:17] Since an ordinary woman makes her death famous by wild beasts, it cannot but be of your own pure accord that you encounter wild beasts day after day in the midst of peaceful times.
+
+[18:18] Although no longer any Regulus among you has raised a cross as the instrument of his own crucifixion, yet a contempt of the fire has even now displayed itself, since one of yourselves very lately has offered for a wager to go to any place which may be fixed upon and put on the burning shirt.
+
+[18:19] If a woman once defiantly danced beneath the scourge, the same feat has been very recently performed again by one of your own (circus-) hunters as he traversed the appointed course, not to mention the famous sufferings of the Spartans.
+
+[19:1] If Christians and the Heathen Thus Resemble Each Other, There is Great Difference in the Grounds and Nature of Their Apparently Similar Conduct.
+
+[19:2] Here end, I suppose, your tremendous charges of obstinacy against the Christians.
+
+[19:3] Now, since we are amenable to them in common with yourselves, it only remains that we compare the grounds which the respective parties have for being personally derided.
+
+[19:4] All our obstinacy, however, is with you a foregone conclusion, based on our strong convictions; for we take for granted a resurrection of the dead.
+
+[19:5] Hope in this resurrection amounts to a contempt of death.
+
+[19:6] Ridicule, therefore, as much as you like the excessive stupidity of such minds as die that they may live; but then, in order that you may be able to laugh more merrily, and deride us with greater boldness, you must take your sponge, or perhaps your tongue, and wipe away those records of yours every now and then cropping out, which assert in not dissimilar terms that souls will return to bodies.
+
+[19:7] But how much more worthy of acceptance is our belief which maintains that they will return to the same bodies! And how much more ridiculous is your inherited conceit, that the human spirit is to reappear in a dog, or a mule, or a peacock! Again, we affirm that a judgment has been ordained by God according to the merits of every man.
+
+[19:8] This you ascribe to Minos and Rhadamanthus, while at the same time you reject Aristides, who was a juster judge than either.
+
+[19:9] By the award of the judgment, we say that the wicked will have to spend an eternity in endless fire, the pious and innocent in a region of bliss.
+
+[19:10] In your view likewise an unalterable condition is ascribed to the respective destinations of Pyriphlegethon and Elysium.
+
+[19:11] Now they are not merely your composers of myth and poetry who write songs of this strain; but your philosophers also speak with all confidence of the return of souls to their former state, and of the twofold award of a final judgment.
+
+[20:1] Truth and Reality Pertain to Christians Alone.
+
+[20:2] The Heathen Counselled to Examine and Embrace It.
+
+[20:3] How long therefore, O most unjust heathen, will you refuse to acknowledge us, and (what is more) to execrate your own (worthies), since between us no distinction has place, because we are one and the same? Since you do not (of course) hate what you yourselves are, give us rather your right hands in fellowship, unite your salutations, mingle your embraces, sanguinary with the sanguinary, incestuous with the incestuous, conspirators with conspirators, obstinate and vain with those of the selfsame qualities.
+
+[20:4] In company with each other, we have been traitors to the majesty of the gods; and together do we provoke their indignation.
+
+[20:5] You too have your "third race;" not indeed third in the way of religious rite, but a third race in sex, and, made up as it is of male and female in one, it is more fitted to men and women (for offices of lust).
+
+[20:6] Well, then, do we offend you by the very fact of our approximation and agreement?  Being on a par is apt to furnish unconsciously the materials for rivalry.
+
+[20:7] Thus "a potter envies a potter, and a smith a smith".
+
+[20:8] But we must now discontinue this imaginary confession.
+
+[20:9] Our conscience has returned to the truth, and to the consistency of truth.
+
+[20:10] For all those points which you allege (against us) will be really found in ourselves alone; and we alone can rebut them, against whom they are adduced, by getting you to listen to the other side of the question, whence that full knowledge is learnt which both inspires counsel and directs the judgment.
+
+[20:11] Now it is in fact your own maxim, that no one should determine a cause without hearing both sides of it; and it is only in our own case that you neglect (the equitable principle).
+
+[20:12] You indulge to the full that fault of human nature, that those things which you do not disallow in yourselves you condemn in others, or you boldly charge against others those things the guilt of which you retain a lasting consciousness of in yourselves.
+
+[20:13] The course of life in which you will choose to occupy yourselves is different from ours: whilst chaste in the eyes of others, you are unchaste towards your own selves; whilst vigorous against vice out of doors, you succumb to it at home.
+
+[20:14] This is the injustice (which we have to suffer), that, knowing truth, we are condemned by those who know it not; free from guilt, we are judged by those who are implicated in it.
+
+[20:15] Remove the mote, or rather the beam, out of your own eye, that you may be able to extract the mote from the eyes of others.
+
+[20:16] Amend your own lives first, that you may be able to punish the Christians.
+
+[20:17] Only so far as you shall have effected your own reformation, will you refuse to inflict punishment on them—nay, so far will you have become Christians yourselves; and as you shall have become Christians, so far will you have compassed your own amendment of life.
+
+[20:18] Learn what that is which you accuse in us, and you will accuse no longer; search out what that is which you do not accuse in yourselves, and you will become self-accusers.
+
+[20:19] From these very few and humble remarks, so far as we have been able to open out the subject to you, you will plainly get some insight into (your own) error, and some discovery of our truth.
+
+[20:20] Condemn that truth if you have the heart, but only after you have examined it; and approve the error still, if you are so minded, only first explore it.
+
+[20:21] But if your prescribed rule is to love error and hate truth, why, (let me ask,) do you not probe to a full discovery the objects both of your love and your hatred?.
+

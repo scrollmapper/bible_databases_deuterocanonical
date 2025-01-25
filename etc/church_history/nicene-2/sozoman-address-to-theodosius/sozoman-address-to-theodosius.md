@@ -1,0 +1,78 @@
+# Sozoman: Address to Theodosius
+
+[1:1] Address to the Emperor Theodosius by Salaminius Hermias Sozomen, and Proposal for an Ecclesiastical History.
+
+[1:2] The popular saying is, that the former emperors were zealous about some useful matter or other; such as were fond of ornaments, cared for the royal purple, the crown, and the like; those who were studious of letters, composed some mythical work or treatise capable of fascinating its readers; those who were practiced in war, sought to send the weapon straight to the mark, to hit wild beasts, to hurl the spear, or to leap upon the horse.
+
+[1:3] Every one who was devoted to a craft which was pleasing to the rulers announced himself at the palace.
+
+[1:4] One brings a precious stone not easily susceptible of polish; another undertakes to prepare a more brilliant color than the purple robe; one dedicates a poem or treatise; another introduces an expert and strange fashion of armor.
+
+[1:5] It is considered the greatest and a regal thing for the ruler of the whole people to possess, at least, one of the homely virtues; but no such great estimate has been made of piety, which is, after all, the true ornament of the empire.
+
+[1:6] Thou, however, O most powerful Emperor Theodosius, hast in a word, by God's help, cultivated every virtue.
+
+[1:7] Girt with the purple robe and crown, a symbol of thy dignity to onlookers, thou wearest within always that true ornament of sovereignty, piety and philanthropy.
+
+[1:8] Whence it happens that poets and writers, and the greater part of thy officers as well as the rest of thy subjects, concern themselves on every occasion with thee and thy deeds.
+
+[1:9] And when thou presidest as ruler of contests and judge of discourses, thou art not robbed of thy accuracy by any artificial sound and form, but thou awardest the prize sincerely, observing whether the diction is suitable to the design of the composition; so also with respect to the form of words, divisions, order, unity, phraseology, construction, arguments, thought, and narrative.
+
+[1:10] Thou recompensest the speakers with thy favorable judgment and applause, as well as with golden images, erection of statues, gifts, and every kind of honor.
+
+[1:11] Thou showest greater personal favor toward the speakers than the ancient Cretans did toward the much-sung Homer; or the Alevadae did to Simonides; or Dionysius, the tyrant of Sicily to Plato, the companion of Socrates; or Philip the Macedonian, to Theopompus the historian; or the Emperor Severus to Oppianus, who related in verse the kinds, nature, and catching of fish.
+
+[1:12] For after the Cretans had rewarded Homer with a thousand nummi, they inscribed the amount of the gift on a public column as if to boast of their excessive munificence.
+
+[1:13] The Alevadae, Dionysius, and Philip were not more reserved than the Cretans, who boasted of their modest and philosophical government, but quickly imitated their column, so that they might not be inferior in their donative.
+
+[1:14] But when Severus bestowed upon Oppianus a golden gift for each line of his moderate verse, he so astonished everybody with his liberality, that the poems of Oppianus are popularly called golden words to this day.
+
+[1:15] Such were the donations of former lovers of learning and discourses.
+
+[1:16] But thou, O Emperor, surpassest any of the ancients in thy liberality to letters, and thou seemest to me to do this not unreasonably.
+
+[1:17] For while thou strivest to conquer all by thy virtues, thou dost also conduct thine own affairs successfully, according to thy thorough knowledge of the story of those ancient affairs, so prosperously directed by the Greeks and Romans.
+
+[1:18] Rumor says that during the day, thou takest military and bodily exercise, and arrangest affairs of state by giving judicial decisions, and by making note of what is necessary, and by observation, both in public and private, of the things which ought to be done; and at night that thou busiest thyself with books.
+
+[1:19] It is a saying, that there serves thee for the study of these works, a lamp which causes the oil to flow automatically into the wick, by means of some mechanism, so that not one of the servants in the palace should be compelled to be taxed with thy labors, and to do violence to nature by fighting against sleep.
+
+[1:20] Thus thou art humane and gentle, both to those near, and to all, since thou dost imitate the Heavenly King who is thy pattern; in that He loves to send rain, and causes the sun to rise on the just and unjust, as well as to furnish other blessings ungrudgingly.
+
+[1:21] As is natural, I hear also that by thy various learning, thou art no less familiar with the nature of stones, and the virtues of roots, and forces of remedies, than Solomon, the wisest son of David; while thou excellest him in virtue; for Solomon became the slave of his pleasures, and did not preserve to the end, that piety which had been for him the source of prosperity and wisdom.
+
+[1:22] But thou, most powerful Emperor, because thou settest thy restraining reason in array against levity, art not only an autocrat of men, but also of the passions of soul and body, as one would naturally suppose.
+
+[1:23] And this, too, ought to be remarked: I understand that thou dost conquer the desire for all food and drink; neither the sweeter figs, to speak poetically, nor any other kind of fruit in its season, can take thee prisoner, except the little that thou dost touch and taste, after thou hast returned thanks to the Maker of all things.
+
+[1:24] Thou art wont to vanquish thirst, stifling heat, and cold by thy daily exercise, so that thou seemest to have self-control as a second nature.
+
+[1:25] Lately, as is well known, thou wast anxious to visit the city of Heraclea in Pontus, and to restore it, prostrated by time, and thou tookest the way in the summer season through Bithynia.
+
+[1:26] When the sun about midday was very fiery, one of the body-guard saw thee, heated with much sweat and clouds of dust, and, as if to do thee a favor, he anticipatingly offered to thee a bowl which reflected brilliantly the rays of the sun; he poured in some sweet drink, and added cold water thereto.
+
+[1:27] But thou, most powerful Emperor, didst receive it, and didst praise the man for his good will, and thou didst make it obvious that thou wouldst soon reward him for his well-wrought deed with royal munificence.
+
+[1:28] But when all the soldiers were wondering with open mouth at the dish, and were counting him blessed who should drink, thou, O noble Emperor, didst return the drink to him and didst command him to use it in whatever way he pleased.
+
+[1:29] So that it seems to me that Alexander, the son of Philip, was surpassed by thy virtue; of whom it is reputed by his admirers, that while he, with the Macedonians, was passing through a waterless place, an anxious soldier found water, drew it, and offered it to Alexander; he would not drink it, but poured out the draught.
+
+[1:30] Therefore, in a word, it is appropriate to call thee, according to Homer, more regal than the kings who preceded thee; for we have heard of some who acquired nothing worthy of admiration, and others who adorned their reign with scarcely one or two deeds.
+
+[1:31] But thou, O most powerful Emperor, hast gathered together all the virtues, and hast excelled every one in piety, philanthropy, courage, prudence, justice, munificence, and a magnanimity befitting royal dignity.
+
+[1:32] And every age will boast of thy rule as alone unstained and pure from murder, beyond all governments that ever existed.
+
+[1:33] Thou teachest thy subjects to pursue serious things with pleasure, so that they show zeal for thee and public affairs, with good will and respect.
+
+[1:34] So that for all these reasons, it has appeared to me, as a writer of Ecclesiastical History, necessary to address myself to thee.
+
+[1:35] For to whom can I do this more appropriately, since I am about to relate the virtue of many devoted men, and the events of the Catholic Church; and since her conflicts with so many enemies lead me to thy threshhold and that of thy fathers? Come thou, who knowest all things and possessest every virtue, especially that piety, which the Divine Word says is the beginning of wisdom, receive from me this writing, and marshal its facts and purify it by thy labors, out of thy accurate knowledge, whether by addition or elimination.
+
+[1:36] For whatever course may seem pleasing to thee, that will be wholly advantageous and brilliant for the readers, nor shall any one put a hand to it after thine approval.
+
+[1:37] My history begins with the third consulate of the Caesars, Crispus and Constantine, and stretches to thy seventeenth consulship.
+
+[1:38] I deemed it proper to divide the whole work into nine parts: the first and second books will embrace the ecclesiastical affairs under Constantine; the third and fourth, those under his sons; the fifth and sixth, those under Julian, the cousin of the sons of the great Constantine, and Jovian, and, further, of Valentinian and Valens; the seventh and eighth books, O most powerful Emperor, will open up the affairs under the brothers Gratian and Valentinian, until the proclamation of Theodosius, thy divine grandfather, as far as thy celebrated father Arcadius, together with thy uncle, the most pious and godly Honorius, received the paternal government and shared in the regulation of the Roman world; the ninth book I have devoted to thy Christ-loving and most innocent majesty, which may God always preserve in unbroken good will, triumphing greatly over enemies, and having all things under thy feet and transmitting the holy empire to thy sons' sons with the approbation of Christ, through whom and with whom, be glory to God, and the Father, with the Holy Spirit forever, Amen.
+
