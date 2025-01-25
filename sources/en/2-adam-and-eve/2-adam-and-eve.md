@@ -124,469 +124,245 @@
 **[5:11]** "For in our world we have no God; but we all are gods; we all are of the light, heavenly, powerful, strong and glorious."
 
 
-**[6:1]** When Seth heard these words he was amazed, and inclined his heart to Satan's treacherous speech, and said to him, "Saidst thou there is an-other world created than this; and other creatures more beautiful than the creatures that are in this world?"
-
+**[6:1]** When Seth heard these words he was amazed, and inclined his heart to Satan's treacherous speech, and said to him, "Saidst 
 
 
 **[6:2]** And Satan said "Yes; behold thou hast heard me; but I will yet praise them and their ways, in thy hearing."
 
-
-
 **[6:3]** But Seth said to him, "Thy speech has amazed me; and thy beautiful description of it all."
-
-
 
 **[6:4]** "Yet I cannot go with thee to-day; not until I have gone to my father Adam and to my mother Eve, and told them all thou hast said to me. Then if they give me leave to go with thee, I will come."
 
-
-
 **[6:5]** Again Seth said, "I am afraid of doing any thing without my father's and mother's leave, lest I perish like my brother Cain, and like my father Adam, who transgressed the commandment of God. But, behold, thou knowest this place; come, and meet me here to-morrow."
-
-
 
 **[6:6]** When Satan heard this, he said to Seth, "If thou tellest thy father Adam what I have told thee, he will not let thee come with me.
 
-
-
 **[6:7]** But hearken to me; do not tell thy father and mother what I have said to thee; but come with me to-day, to our world; where thou shalt see beautiful things and enjoy thyself there, and revel this day among my children, beholding them and taking thy fill of mirth; and rejoice ever more. Then I shall bring thee back to this place to-morrow; but if thou wouldest rather abide with me, so be it."
-
-
 
 **[6:8]** Then Seth answered, "The spirit of my father and of my mother, hangs on me; and if I hide from them one day, they will die, and God will hold me guilty of sinning against them.
 
-
-
 **[6:9]** "And except that they know I am come to this place to bring up to it my offering, they would not be separated from me one hour; neither should I go to any other place, unless they let me. But they treat me most kindly, because I come back to them quickly."
-
-
 
 **[6:10]** Then Satan said to him, "What will happen to thee if thou hide thyself from them one night, and return to them at break of day?"
 
-
-
 **[6:11]** But Seth, when he saw how he kept on talking, and that he would not leave him-ran, and went up to the altar, and spread his hands unto God, and sought deliverance from Him.
-
-
 
 **[6:12]** Then God sent His Word, and cursed Satan, who fled from Him.
 
-
-
 **[6:13]** But as for Seth, he had gone up to the altar, saying thus in his heart. "The altar is the place of offering, and God is there; a divine fire shall consume it; so shall Satan be unable to hurt me, and shall not take me away thence."
-
-
 
 **[6:14]** Then Seth came down from the altar and went to his father and mother, whom he found in the way, longing to hear his voice; for he had tarried a while.
 
-
-
 **[6:15]** He then began to tell them what had befallen him from Satan, under the form of an angel.
-
-
 
 **[6:16]** But when Adam heard his account, he kissed his face, and warned him against that angel, telling him it was Satan who thus appeared to him. Then Adam took Seth, and they went to the Cave of Treasures, and rejoiced therein.
 
-
-
 **[6:17]** But from that day forth Adam and Eve never parted from him, to whatever place he might go, whether for his offering or for any thing else.
-
-
 
 **[6:18]** This sign happened to Seth, when he was nine years old.
 
 
-
 **[7:1]** When our father Adam saw that Seth was of a perfect heart, he wished him to marry; lest the enemy should appear to him another time, and overcome him.
-
-
 
 **[7:2]** So Adam said to his son Seth, "I wish, 0 my son, that thou wed thy sister Aklia, Abel's sister, that she may bear thee children, who shall replenish the earth, according to God's promise to us.
 
-
-
 **[7:3]** "Be not afraid, 0 my son; there is no disgrace in it. I wish thee to marry, from fear lest the enemy overcome thee.'
-
-
 
 **[7:4]** Seth, however, did not wish to marry; but in obedience to his father and mother, he said not a word.
 
-
-
 **[7:5]** So Adam married him to Aklia. And he was fifteen years old.
-
-
 
 **[7:6]** But when he was twenty years of age, he begat a son, whom he called Enos; and then begat other children than him,
 
-
-
 **[7:7]** Then Enos grew up, married, and begat Cainan.
-
-
 
 **[7:8]** Cainan also grew up, married, and begat Mahalaleel.
 
-
-
 **[7:9]** Those fathers were born during Adam's lifetime, and dwelt by the Cave of Treasures.
-
-
 
 **[7:10]** Then were the days of Adam nine hundred and thirty years, and those of Mahalaleel one hundred. But Mahalaleel, when he was grown up, loved fasting, praying, and with hard labours, until the end of our father Adam's days drew near.
 
 
-
-**[8:1]** When our father Adam saw that his end was near, he called his son Seth, who came to him in the Cave of Treasures,
-
-
-
-**[8:1]** And he said unto him: -
-
-
+**[8:1]** When our father Adam saw that his end was near, he called his son Seth, who came to him in the Cave of Treasures, and he said unto him: -
 
 **[8:2]** "0 Seth, my son bring me thy children and thy children's children, that I may shed my blessing on them ere I die."
 
-
-
 **[8:3]** When Seth heard these words from his father Adam, he went from him, shed a flood of tears over his face, and gathered together his children and his children's children, and brought them to his father Adam.
-
-
 
 **[8:4]** But when our father Adam saw them around him, he wept at having to be separated from them.
 
-
-
 **[8:5]** And when they saw him weeping, they all wept together, and fell upon his face saying, "How shalt thou be severed from us, 0 our father? And how shall the earth receive thee and hide thee from our eyes?" Thus did they lament much, and in like words.
-
-
 
 **[8:6]** Then our father Adam blessed them all, and said to Seth, after he had blessed them:-
 
-
-
 **[8:7]** "0 Seth, my son, thou knowest this world - that it is full of sorrow, and of weariness; and thou knowest all that has come upon us, from our trials in it I therefore flow command thee in these words: to keep innocency, to be pure and just, and trusting in God; and lean not to the discourses of Satan, nor to the apparitions in which he will show himself to thee.
-
-
 
 **[8:8]** But keep the commandments that I give thee this day; then give the same to thy son Enos; and let Enos give it to his son Cainan; and Cainan to his son Mahalaleel; so that this commandment abide firm among all your children.
 
-
-
 **[8:9]** "0 Seth, my son, the moment I am dead take ye my body and wind it up with myrrh, aloes, and cassia, and leave me here in this Cave of Treasures in which are all these tokens which God gave us from the garden.
-
-
 
 **[8:10]** "0 my son, hereafter shall a flood come and overwhelm all creatures, and leave out only eight souls.
 
-
-
 **[8:11]** "But, 0 my son, let those whom it will leave out from among your children at that time, take my body with them out of this cave; and when they have taken it with them, let the oldest among them command his children to lay my body in a ship until the flood has been assuaged, and they come out of the ship.
-
-
 
 **[8:12]** Then they shall take my body and lay it in the middle of the earth, shortly after they have been saved from the waters of the flood.
 
-
-
 **[8:13]** "For the place where my body shall be laid, is the middle of the earth; God shall come from thence and shall save all our kindred.
-
-
 
 **[8:14]** "But now, 0 Seth, my son, place thyself at the head of thy people; tend them and watch over them in the fear of God; and lead them in the good way. Command them to fast unto God; and make them understand they ought not to hearken to Satan, lest he destroy them.
 
-
-
 **[8:15]** "Then, again, sever thy children and thy children's children from Cain's children; do not let them ever mix with those, nor come near them either in their words or in their deeds."
-
-
 
 **[8:16]** Then Adam let his blessing descend upon Seth, and upon his children, and upon all his children's children.
 
-
-
-**[8:17]** He then turned to his son Seth, and to Eve his wife, and ,said to them, "Preserve this gold, this incense, and this myrrh, that God has given us for a sign; for in days that are coming, a flood will overwhelm the whole creation. But those who shall go into the ark shall take with them the gold, the incense, and the myrrh, together with my body; and will lay the gold, the incense, and the myrrh, with my body in the midst of the earth.
-
-
+**[8:17]** He then turned to his son Seth, and to Eve his wife, and said to them, "Preserve this gold, this incense, and this myrrh, that God has given us for a sign; for in days that are coming, a flood will overwhelm the whole creation. But those who shall go into the ark shall take with them the gold, the incense, and the myrrh, together with my body; and will lay the gold, the incense, and the myrrh, with my body in the midst of the earth.
 
 **[8:18]** "Then, after a long time, the city in which the gold, the incense, and the myrrh are found with my body, shall be plundered. But when it is spoiled, the gold the incense, and the myrrh shall be taken care of with the spoil that is kept; and naught of them shall perish, until the Word of God, made man shall come; when kings shall take them, and shall offer to Him, gold in token of His being King; incense, in token of His being God of heaven and earth; and myrrh, in token of His passion.
 
-
-
 **[8:19]** "Gold also, as a token of His overcoming Satan, and all our foes; incense as a token that He will rise from the dead, and be exalted above things in heaven and things in the earth; and myrrh, in token that He will drink bitter gall; and feel the pains of hell from Satan.
-
-
 
 **[8:20]** "And now, 0 Seth, my son, behold I have revealed unto thee hidden mysteries, which God had revealed unto me. Keep my commandment, for thyself, and for thy people."
 
 
-
 **[9:1]** When Adam had ended his commandment to Seth, his limbs were loosened, his hands and feet lost all power, his mouth became dumb, and his tongue ceased altogether to speak. He closed his eyes and gave up the ghost.
-
-
 
 **[9:2]** But when his children saw that he was dead, they threw themselves over him, men and women, old and young, weeping.
 
-
-
 **[9:3]** The death of Adam took place at the end of nine hundred and thirty years that he lived upon the earth; on the fifteenth day of Barmudeh, after the reckoning of an epact of the sun, at the ninth hour.
-
-
 
 **[9:4]** It was on a Friday, the very day on which he was created, and on which he rested; and the hour at which he died, was the same as that at which he came out of the garden.
 
-
-
 **[9:5]** Then Seth wound him up well, and embalmed him with plenty of sweet spices, from sacred trees and from the Holy Mountain; and he laid his body on the eastern side of the inside of the cave, the side of the incense; and placed in front of him a lamp - stand kept burning.
-
-
 
 **[9:6]** Then his children stood before him weeping and wailing over him the whole night until break of day.
 
-
-
 **[9:7]** Then Seth and his son Enos, and Cainan, the son of Enos, went out and took good offerings to present unto the Lord, and they came to the altar upon which Adam offered gifts to God, when he did offer.
 
-
-
 **[9:8]** But Eve said to them, "Wait until we have first asked God to accept our offering, and to keep by Him the soul of Adam His servant, and to take it up to rest."
-
-
 
 **[9:9]** And they all stood up and prayed.
 
 
-
 **[10:1]** And when they had ended their prayer, the Word of God came and comforted them concerning their father Adam.
-
-
 
 **[10:2]** After this, they offered their gifts for themselves and for their father.
 
-
-
 **[10:3]** And when they had ended their offering, the Word of God came to Seth, the eldest among them, saying unto him, "0 Seth, Seth, Seth, three times. As I was with thy father, so also shall I be with thee, until the fulfilment of the promise I made him - thy father saying, I will send My Word and save thee and thy seed.
-
-
 
 **[10:4]** "But as to thy father Adam, keep thou the commandment he gave thee; and sever thy seed from that of Cain thy brother."
 
-
-
 **[10:5]** And God withdrew His Word from Seth.
-
-
 
 **[10:6]** Then Seth, Eve, and their children, came down from the mountain to the Cave of Treasures.
 
-
-
 **[10:7]** But Adam was the first whose soul died in the land of Eden, in the Cave of Treasures; for no one died before him, but his son Abel, who died murdered.
-
-
 
 **[10:8]** Then all the children of Adam rose up, and wept over their father Adam, and made offerings to him, one hundred and forty days.
 
 
-
 **[11:1]** After the death of Adam and of Eve, Seth severed his children, and his children's children, from Cain's children. Cain and his seed went down and dwelt westward, below the place where he had killed his brother Abel.
-
-
 
 **[11:2]** But Seth and his children, dwelt northwards upon the mountain of the Cave of Treasures, in order to be near to their father Adam.
 
-
-
 **[11:3]** And Seth the elder, tall and good, with a fine soul, and of a strong mind, stood at the head of his people; and tended them in innocence, penitence, and meekness, and did not allow one of them to go down to Cain's children.
-
-
 
 **[11:4]** But because of their own purity, they were named "Children of God," and they were with God, instead of the hosts of angels who fell; for they continued in praises to God, and in singing psalms unto Him, in their cave - the Cave of Treasures.
 
-
-
 **[11:5]** Then Seth stood before the body of his father Adam, and of his mother Eve, and prayed night and day, and asked for mercy towards himself and his children; and that when he had some difficult dealing with a child, He would give him counsel.
-
-
 
 **[11:6]** But Seth and his children did not like earthly work, but gave themselves to heavenly things; for they had no other thought than praises, doxologies, and psalms unto God.
 
-
-
 **[11:7]** Therefore did they at all times hear the voices of angels, praising and glorifying God; from within the garden, or when they were sent by God on an errand, or when they were going up to heaven.
-
-
 
 **[11:8]** For Seth and his children, by reason of their own purity, heard and saw those angels. Then, again, the garden was not far above them, but only some fifteen spiritual cubits.
 
-
-
 **[11:9]** Now one spiritual cubit answers to three cubits of man, altogether forty-five cubits.
 
-
-
-**[11:10]** Seth and his children dwelt on the mountain below the garden; they sowed not, neither did they reap; they wrought no food for the body. not even wheat; but only offerings. They ate of the fruit and of trees well flavoured that grew on the mountain where they dwelt.
-
-
+**[11:10]** Seth and his children dwelt on the mountain below the garden; they sowed not, neither did they reap; they wrought no food for the body, not even wheat; but only offerings. They ate of the fruit and of trees well flavoured that grew on the mountain where they dwelt.
 
 **[11:11]** Then Seth often fasted every forty days, as did also his eldest children. For the family of Seth smelled the smell of the trees in the garden, when the wind blew that way.
 
-
-
 **[11:12]** They were happy, innocent, without sudden fear, there was no jealousy, no evil action, no hatred among them. There was no animal passion; from no mouth among them went forth either foul words or curse; neither evil counsel nor fraud. For the men of that time never swore, but under hard circumstances, when men must swear, they swore by the blood of Abel the just.
 
-
-
 **[11:13]** But they constrained their children and their women every day in the cave to fast and pray, and to worship the most High God. They blessed themselves in the body of their father Adam, and anointed themselves with it.
-
-
 
 **[11:14]** And they did so until the end of Seth drew near.
 
 
-
 **[12:1]** Then Seth, the just, called his son Enos, and Cainan, son of Enos, and Mahalaleel, son of Cainan, and said unto them:-
-
-
 
 **[12:2]** "As my end is near, I wish to build a roof over the altar on which gifts are offered."
 
-
-
 **[12:3]** They hearkened to his commandment and went out, all of them, both old and young, and worked hard at it, and built a beautiful roof over the altar.
-
-
 
 **[12:4]** And Seth's thought, in so doing, was that a blessing should come upon his children on the mountain; and that he should present an offering for them before his death.
 
-
-
 **[12:5]** Then when the building of the roof was completed, he commanded them to make offerings. They worked diligently at these, and brought them to Seth their father who took them and offered them upon the altar; and prayed God to accept their offerings, to have mercy on the souls of his children, and to keep them from the hand of Satan.
-
-
 
 **[12:6]** And God accepted his offering, and sent His blessing upon him and upon his children. And then God made a promise to Seth, saying, "At the end of the great five days and a half, concerning which I have made a promise to thee and to thy father, I will send My Word and save thee and thy seed."
 
-
-
 **[12:7]** Then Seth and his children, and his children's children, met together, and came down from the altar, and went to the Cave of Treasures - where they prayed, and blessed themselves in the body of our father Adam, and anointed themselves with it.
 
-
-
-**[12:8]** But Seth abode in the Cave of Treasures, a few days, and then suffered - sufferings unto death.
-
-
+**[12:8]** But Seth abode in the Cave of Treasures, a few days, and then suffered sufferings unto death.
 
 **[12:9]** Then Enos, his first - born son, came to him, with Cainan, his son, and Mahalaleel, Cainan's son, and Jared, the son of Mahalaleel, and Enoch, Jared's son, with their wives and children to receive a blessing from Seth.
 
-
-
 **[12:10]** Then Seth prayed over them, and blessed them, and adjured them by the blood of Abel the just, saying, "I beg of you my children, not to let one of you go down from this Holy and pure Mountain.
-
-
 
 **[12:11]** Make no fellowship with the children of Cain the murderer and the sinner, who killed his brother; for ye know, 0 my children, that we flee from him, and from all his sin with all our might because he killed his brother Abel."
 
-
-
 **[12:12]** After having said this, Seth blessed Enos, his first - born son, and commanded him habitually to minister in purity before the body of our father Adam, all the days of his life; then, also, to go at times to the altar which he Seth had built. And he commanded him to feed his people in righteousness, in judgment and purity all the days of his life.
 
-
-
-**[12:13]** Then the limbs of Seth were loosened; his hands and feet lost all power; his mouth became dumb and unable to speak; and he gave up the ghost and died the day after his nine hundred and twelfth year; on the twenty - seventh day of the month Abib; Enoch being then twenty years old.
-
-
+**[12:13]** Then the limbs of Seth were loosened; his hands and feet lost all power; his mouth became dumb and unable to speak; and he gave up the ghost and died the day after his nine hundred and twelfth year; on the twenty-seventh day of the month Abib; Enoch being then twenty years old.
 
 **[12:14]** Then they wound up carefull the body of Seth, and embalmed him with sweet spices, and laid him in the Cave Treasures, on the right side of our father Adam's body, and they mourned for him forty days. They offered gifts for him, as they had done for our father Adam.
 
-
-
 **[12:15]** After the death of Seth, Enos rose at the head of his people, whom he fed in righteousness, and judgment, as his father had commanded him.
-
-
 
 **[12:16]** But by the time Enos was eight hundred and twenty years old, Cain had a large progeny; for they married frequently, being given to animal lusts; until the land below the mountain, was filled with them.
 
 
-
 **[13:1]** In those days lived Lamech the blind, who was of the sons of Cain. He had a son whose name was Atun, and they two had much cattle.
-
-
 
 **[13:2]** But Lamech was in the habit of sending them to feed with a young shepherd, who tended them; and who, when coming home in the evening wept before his grandfather, and before his father Atun and his mother Hazina, and said to them, "As for me, I cannot feed those cattle alone, lest one rob me of some of them, or kill me for the sake of them." For among the children of Cain, there was much robbery, murder and sin.
 
-
-
 **[13:3]** Then Lamech pitied him, and he said, "Truly, he when alone, might be overpowered by the men of this place."
-
-
 
 **[13:4]** So Lamech arose, took a bow he had kept ever since he was a youth, ere he became blind, and he took large arrows, and smooth stones, and a sling which he had, and went to the field with the young shepherd, and placed himself behind the cattle; while the young shepherd watched the cattle. Thus did Lamech many days.
 
-
-
 **[13:5]** Meanwhile Cain, ever since God had cast him off, and had cursed him with trembling and terror, could neither settle nor find rest in any one place; but wandered from place to place.
-
-
 
 **[13:6]** In his wanderings he came to Lamech's wives, and asked them about him. They said to him, "He is in the field with the cattle."
 
-
-
 **[13:7]** Then Cain went to look for him; and as he came into the field, the young shepherd heard the noise he made, and the cattle herding together from before him,
-
-
 
 **[13:8]** Then said he to Lamech, "0 my lord, is that a wild beast or a robber?"
 
-
-
 **[13:9]** And Lamech said to him, "Make me understand which way he looks, when he comes up.
-
-
 
 **[13:10]** Then Lamech bent his bow, placed an arrow on it, and fitted a stone in the sling, and when Cain came out from the open country, the shepherd said to Lamech, "Shoot, behold, he is coming."
 
-
-
 **[13:11]** Then Lamech shot at Cain with his arrow and hit him in his side. And Lamech struck him with a stone from his sling, that fell upon his face, and knocked out both his eyes; then Cain fell at once and died.
 
-
-
 **[13:12]** Then Lamech and the young shepherd came up to him, and found him lying on the ground. And the young shepherd said to him, "It is Cain our grandfather, whom thou hast killed, 0 my lord!"
-
-
 
 **[13:18]** Then was Lamech sorry for it, and from the bitterness of his regret, he clapped his hands together, and struck with his flat palm the head of the youth, who fell as if dead; but Lamech thought it was a feint; so he took up a stone and smote him, and smashed his head until he died.
 
 
-
 **[14:1]** When Enos was nine hundred years old, all the children of Seth, and of Cainan, and his first-born, with their wives and children, gathered around him, asking for a blessing from him.
-
-
 
 **[14:2]** He then prayed over them and blessed them, and adjured them by the blood of Abel the just saying to them, "Let not one of your children go down from this Holy Mountain, and let them make no fellowship with the children of Cain the murderer."
 
-
-
 **[14:3]** Then Enos called his son Cainan and said to him, "See, 0 my son, and set thy heart on thy people, and establish them in righteousness, and in innocence; and stand ministering before the body of our father Adam, all the days of thy life."
 
-
-
-**[14:4]** After this Enos entered into rest, aged nine hundred and eighty - five years; and Cainan wound him up, and laid him in the Cave of Treasures on the left of his father Adam; and made offerings for him, after the custom of his fathers.
-
+**[14:4]** After this Enos entered into rest, aged nine hundred and eighty-five years; and Cainan wound him up, and laid him in the Cave of Treasures on the left of his father Adam; and made offerings for him, after the custom of his fathers.
 
 
 **[15:1]** After the death of Enos, Cainan stood at the head of his people in righteousness and innocence, as his father had commanded him; he also continued to minister before the body of Adam, inside the Cave of Treasures.
 
-
-
 **[15:2]** Then when he had lived nine hundred and ten years, suffering and affliction came upon him. And when he was about to enter into rest, all the fathers with their wives and children came to him, and he blessed them, and adjured them by the blood of Abel, the just, saying to them, "Let not one among you go down from this Holy Mountain; and make no fellowship with the children of Cain the murderer."
 
-
-
-**[15:3]** Mahalaleel, his first - born son, received this commandment from his father, who blessed him and died.
-
-
+**[15:3]** Mahalaleel, his first-born son, received this commandment from his father, who blessed him and died.
 
 **[15:4]** Then Mahalaleel embalmed him with sweet spices, and laid him in the Cave of Treasures, with his fathers; and they made offerings for him, after the custom of their fathers.
 
