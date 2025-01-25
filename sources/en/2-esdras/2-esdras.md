@@ -570,11 +570,11 @@
 
 **[6:48]** For the dumb water and without life brought forth living things at the commandment of God, that all people might praise thy wondrous works.
 
-**[6:49]** Then didst thou ordain two living creatures, the one thou calledst Enoch, and the other Leviathan;
+**[6:49]** Then didst thou ordain two living creatures, the one thou calledst Behemoth, and the other Leviathan;
 
 **[6:50]** And didst separate the one from the other: for the seventh part, namely, where the water was gathered together, might not hold them both.
 
-**[6:51]** Unto Enoch thou gavest one part, which was dried up the third day, that he should dwell in the same part, wherein are a thousand hills:
+**[6:51]** Unto Behemoth thou gavest one part, which was dried up the third day, that he should dwell in the same part, wherein are a thousand hills:
 
 **[6:52]** But unto Leviathan thou gavest the seventh part, namely, the moist; and hast kept him to be devoured of whom thou wilt, and when.
 
