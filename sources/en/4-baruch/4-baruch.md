@@ -180,7 +180,7 @@
 
 **[5:34]** And he said: Nisan (which is Abib).
 
-**[5:35]** And taking some of figs, he gave them to the old man and said to him: May God illumine your way to the city above, Jerusalem. 6
+**[5:35]** And taking some of figs, he gave them to the old man and said to him: May God illumine your way to the city above, Jerusalem. 
 
 **[6:1]** After this, Abimelech went out of the city and prayed to the Lord.
 
@@ -304,7 +304,7 @@
 
 **[7:36]** And the eagle took flight and came to Jerusalem and gave the letter to Baruch; and when he had untied it he read it and kissed it and wept when he heard about the distresses and afflictions of the people.
 
-**[7:37]** But Jeremiah took the figs and distributed them to the sick among the people, and he kept teaching them to abstain from the pollutions of the gentiles of Babylon. 6
+**[7:37]** But Jeremiah took the figs and distributed them to the sick among the people, and he kept teaching them to abstain from the pollutions of the gentiles of Babylon. 
 
 **[8:1]** And the day came in which the Lord brought the people out of Babylon.
 
