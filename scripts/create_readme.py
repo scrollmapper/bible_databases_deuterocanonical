@@ -51,15 +51,15 @@ def assemble_readme(template, links, output_path):
 				print(link)
 			readme_file.write("\n")
 
-		if nicene_1:
-			readme_file.write(f"### Nicene 1 ({len(nicene_1)})\n")
-			for link in nicene_1:
-				readme_file.write(f"{link}\n")
-			readme_file.write("\n")
-
 		if ante_nicene:
 			readme_file.write(f"### Ante-Nicene ({len(ante_nicene)})\n")
 			for link in ante_nicene:
+				readme_file.write(f"{link}\n")
+			readme_file.write("\n")
+
+		if nicene_1:
+			readme_file.write(f"### Nicene 1 ({len(nicene_1)})\n")
+			for link in nicene_1:
 				readme_file.write(f"{link}\n")
 			readme_file.write("\n")
 
