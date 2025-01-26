@@ -25,7 +25,7 @@ def generate_links(base_dir):
 
 def assemble_readme(template, links, output_path):
 	main_scrollmapper = []
-	anti_nicene = []
+	ante_nicene = []
 	nicene_1 = []
 	nicene_2 = []
 
@@ -33,8 +33,8 @@ def assemble_readme(template, links, output_path):
 		print(link)
 		if "sources" in link:
 			main_scrollmapper.append(link)
-		elif "anti-nicene" in link:
-			anti_nicene.append(link)
+		elif "ante-nicene" in link:
+			ante_nicene.append(link)
 		elif "nicene-1" in link:
 			nicene_1.append(link)
 		elif "nicene-2" in link:
@@ -57,9 +57,9 @@ def assemble_readme(template, links, output_path):
 				readme_file.write(f"{link}\n")
 			readme_file.write("\n")
 
-		if anti_nicene:
-			readme_file.write(f"### Anti-Nicene ({len(anti_nicene)})\n")
-			for link in anti_nicene:
+		if ante_nicene:
+			readme_file.write(f"### Ante-Nicene ({len(ante_nicene)})\n")
+			for link in ante_nicene:
 				readme_file.write(f"{link}\n")
 			readme_file.write("\n")
 
@@ -73,7 +73,6 @@ def assemble_readme(template, links, output_path):
 if __name__ == "__main__":
 	template_path = "readme/readme.md"
 	output_path = "../README.md"
-
 
 	template = read_template(template_path)
 	links = generate_links("../") 
