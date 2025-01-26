@@ -40,9 +40,11 @@ def assemble_readme(template, links, output_path):
 		elif "nicene-2" in link:
 			nicene_2.append(link)
 
+	total_texts = len(main_scrollmapper) + len(ante_nicene) + len(nicene_1) + len(nicene_2)
+
 	with open(output_path, 'w', encoding='utf-8') as readme_file:
 		readme_file.write(template)
-		readme_file.write("\n\n## Texts\n\n")
+		readme_file.write(f"\n\n## Texts ({total_texts})\n\n")
 
 		if main_scrollmapper:
 			readme_file.write(f"### Scrollmapper Main Texts ({len(main_scrollmapper)})\n")

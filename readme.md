@@ -25,7 +25,7 @@ Please note that this project is currently undergoing reconstruction. We invite 
 > *See the 2024 branch for the old version of this repo: https://github.com/scrollmapper/bible_databases_deuterocanonical/tree/2024 *
 
 
-## Texts
+## Texts (973)
 
 ### Scrollmapper Main Texts (68)
 - [ I Adam and Eve](sources/en/1-adam-and-eve/1-adam-and-eve.md)
