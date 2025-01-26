@@ -30,7 +30,7 @@ def assemble_readme(template, links, output_path):
 	nicene_2 = []
 
 	for link in links:
-		print(link)
+		link = link.replace("\\", "/")
 		if "sources" in link:
 			main_scrollmapper.append(link)
 		elif "ante-nicene" in link:
