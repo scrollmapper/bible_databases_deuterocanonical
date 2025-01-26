@@ -1,0 +1,393 @@
+{
+    "books": [
+        {
+            "name": "Ambrose: Letter LVII",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Ambrose: Letter LVII 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:1",
+                            "text": "Letter LVII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:2",
+                            "text": "St."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:3",
+                            "text": "Ambrose informs the Emperor Eugenius why he was absent from Milan."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:4",
+                            "text": "He then proceeds to reprove him for his conduct with regard to heathen worship."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:5",
+                            "text": "This was, he says, the reason why he did not write sooner, and he promises that for the future he will treat him with the same freedom as the other emperors."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:6",
+                            "text": "Ambrose, Bishop, to the most gracious Emperor Eugenius."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:7",
+                            "text": "1."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:8",
+                            "text": "The cause of my departure was the fear of the Lord, to Whom, so far as I am able, I am accustomed to refer all my acts, and never to turn away my mind from Him, nor to make more of any man than of the grace of Christ."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:9",
+                            "text": "For I do no one an injury, if I set God before all, and, trusting in Him, I am not afraid to tell you emperors my thoughts, such as they are."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:10",
+                            "text": "And so I will not keep silence before you, O Emperor, as to things respecting which I have not kept silence before other emperors."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:11",
+                            "text": "And that I may keep the order of the matters, I will go through, one by one, the things which have to do with this matter."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:12",
+                            "text": "2."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:13",
+                            "text": "The illustrious Symmachus, when prefect of the city, had memorialized the Emperor Valentinian the younger of august memory, requesting that he would command that what had been taken away should be restored to the temples."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:14",
+                            "text": "He performed his part in accordance with his zeal and his religion."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:15",
+                            "text": "And I also, as Bishop, was bound to recognize my part."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:16",
+                            "text": "I presented two petitions to the Emperors, in which I pointed out that a Christian man could not contribute to the cost of the sacrifices; that I indeed had not been the cause of their being abolished, but I certainly did urge that they should not be decreed; and lastly, that he himself would seem to be giving not restoring those sums to the images."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:17",
+                            "text": "For what he had not himself taken away, he could not, as it were, restore, but of his own will to grant towards the expenses of superstition."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:18",
+                            "text": "Lastly, that, if he did it, either he must not come to the Church, or, if he came, he would either not find a priest there, or he would find one withstanding him in the Church."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:19",
+                            "text": "Nor could it be alleged in excuse that he was a catechumen, seeing that catechumens are not allowed to contribute to the idols' expenses."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:20",
+                            "text": "3."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:21",
+                            "text": "My letters were read in the consistory."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:22",
+                            "text": "Count Bauto, a man of the highest rank of military authority was present, and Rumoridus, himself also of the same dignity, addicted to the worship of the gentile nations from the first years of his boyhood."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:23",
+                            "text": "Valentinian at that time listened to my suggestion, and did nothing but what the rule of our faith required."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:24",
+                            "text": "And they yielded to his officer."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:25",
+                            "text": "4."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:26",
+                            "text": "Afterwards I plainly addressed the most clement Emperor Theodosius, and hesitated not to speak to his face."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:27",
+                            "text": "And he, having received a similar message from the Senate, though it was not the request of the whole Senate, at length assented to my recommendation, and so I did not go near him for some days, nor did he take it ill, for he knew that I was not acting for my own advantage, but was not ashamed to say in the sight of the king that which was for the profit of himself and of my own soul."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:28",
+                            "text": "5."
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:29",
+                            "text": "Again a legation sent into Gaul from the Senate to the Emperor Valentinian of august memory could procure nothing; and then I was certainly absent, and had not written anything at that time to him."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:30",
+                            "text": "6."
+                        },
+                        {
+                            "verse": 31,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:31",
+                            "text": "But when your Clemency took up the reins of government it was afterwards discovered that favours of this kind had been granted to men, excellent indeed in matters of state but in religion heathens."
+                        },
+                        {
+                            "verse": 32,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:32",
+                            "text": "And it may, perhaps, be said, august Emperor, that you did not make any restitution to temples, but presented gifts to men who had deserved well of you."
+                        },
+                        {
+                            "verse": 33,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:33",
+                            "text": "But you know that we must constantly act in the cause of God,  as is often done in the cause of liberty, also not only by priests, but also by those who are in your armies, or are reckoned in the number of those who dwell in the provinces."
+                        },
+                        {
+                            "verse": 34,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:34",
+                            "text": "When you became Emperor envoys requested that you would make restitution to the temples, and you did not do it; others came a second time and you resisted, and afterwards you thought fit that this should be granted to those very persons who made the petition."
+                        },
+                        {
+                            "verse": 35,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:35",
+                            "text": "7."
+                        },
+                        {
+                            "verse": 36,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:36",
+                            "text": "Though the imperial power be great, yet consider, O Emperor, how great God is."
+                        },
+                        {
+                            "verse": 37,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:37",
+                            "text": "He sees the hearts of all, He questions the inmost conscience, He knows all things before they happen, He knows the inmost things of your breast."
+                        },
+                        {
+                            "verse": 38,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:38",
+                            "text": "You do not suffer yourselves to be deceived, and do you desire to conceal anything from God? Has not this come into your mind? For although they acted with such perseverance, was it not your duty, O Emperor, to resist with still greater perseverance because of the reverence due to the most high and true and living God, and to refuse what was an offence against His holy law?  8."
+                        },
+                        {
+                            "verse": 39,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:39",
+                            "text": "Who grudges your having given what you would to others? We are not scrutinizers of your liberality, nor envious of the advantages of others, but are interpreters of the faith."
+                        },
+                        {
+                            "verse": 40,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:40",
+                            "text": "How will you offer your gifts to Christ? Not many but will put their own estimate on what you have done, all will do so on your intentions."
+                        },
+                        {
+                            "verse": 41,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:41",
+                            "text": "Whatever they do will be ascribed to you; whatever they do not do, to themselves."
+                        },
+                        {
+                            "verse": 42,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:42",
+                            "text": "Although you are Emperor, you ought to be all the more subject to God."
+                        },
+                        {
+                            "verse": 43,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:43",
+                            "text": "How shall the ministers of Christ dispense your gifts?  9."
+                        },
+                        {
+                            "verse": 44,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:44",
+                            "text": "There was a question of this sort in former times, and yet persecution itself yielded to the faith of our fathers, and heathendom gave way."
+                        },
+                        {
+                            "verse": 45,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:45",
+                            "text": "For when in the city of Tyre the quinquennial game was being kept, and the intensely wicked King of Antioch had come to witness it, Jason appointed officers of sacred rites, who were Antiochians, to carry three hundred didrachms of silver from Jerusalem, and give them to the sacrifice of Hercules."
+                        },
+                        {
+                            "verse": 46,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:46",
+                            "text": "But the fathers did not give the money to the heathen, but having sent faithful men declared that that money should not be spent on sacrifices to the gods, because it was not fitting, but on other expenses."
+                        },
+                        {
+                            "verse": 47,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:47",
+                            "text": "And it was decreed that because he had said that the money was sent for the sacrifice of Hercules, it ought to be taken for that for which it was sent; but, because they, who had brought it, because of their zeal and religion, pleaded that it should not be used for the sacrifice, but for other expenses, the money was given for the building of ships."
+                        },
+                        {
+                            "verse": 48,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:48",
+                            "text": "Being compelled they sent it, but it was not used for sacrifice, but for other expenses of the state."
+                        },
+                        {
+                            "verse": 49,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:49",
+                            "text": "10."
+                        },
+                        {
+                            "verse": 50,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:50",
+                            "text": "Now they who had brought the money might, no doubt, have kept silence, but would have done violence to their faith, because they knew whither the money was being carried, and therefore they sent men who feared God to contrive that what was sent should be assigned, not to the temple, but to the cost of ships."
+                        },
+                        {
+                            "verse": 51,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:51",
+                            "text": "For they entrusted the money to those who should plead the cause of the sacred Law, and He Who absolves the conscience was made judge of the matter."
+                        },
+                        {
+                            "verse": 52,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:52",
+                            "text": "If they when in the power of another were so careful, there can be no doubt what you, O Emperor, ought to have done."
+                        },
+                        {
+                            "verse": 53,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:53",
+                            "text": "You, at any rate, whom no one compelled, whom no one had in his power, ought to have sought counsel from the priest."
+                        },
+                        {
+                            "verse": 54,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:54",
+                            "text": "11."
+                        },
+                        {
+                            "verse": 55,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:55",
+                            "text": "And I certainly when I then resisted, although I was alone in resistance, was not alone in what I wished, and was not alone in what I advised."
+                        },
+                        {
+                            "verse": 56,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:56",
+                            "text": "Since, then, I am bound by my own words both before God and before all men, I felt that nothing else was allowable or needful for me but to act for myself, because I could not well trust you."
+                        },
+                        {
+                            "verse": 57,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:57",
+                            "text": "I kept back and concealed my grief for a long time; I thought it not right to intimate anything to anybody, now I may no longer dissemble, nor is it open to me to keep silence."
+                        },
+                        {
+                            "verse": 58,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:58",
+                            "text": "For this reason also at the commencement of your reign I did not reply when you wrote to me, because I foresaw that this would happen."
+                        },
+                        {
+                            "verse": 59,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:59",
+                            "text": "Then at last, when you required a letter, because I had not written a reply, I said: This is the reason that I think this will be extorted from him."
+                        },
+                        {
+                            "verse": 60,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:60",
+                            "text": "12."
+                        },
+                        {
+                            "verse": 61,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:61",
+                            "text": "But when a reason for exercising my office arose, I both wrote and petitioned for those who were in anxiety about themselves, that I might show that in the canse of God I felt a righteous fear, and that I did not value flattery above my own soul; but in those matters in which it is fitting that petitions should be addressed to you."
+                        },
+                        {
+                            "verse": 62,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:62",
+                            "text": "I also pay the deference due to authority, as it is written: \"Honour to whom honour is due, tribute to whom tribute\"."
+                        },
+                        {
+                            "verse": 63,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LVII 1:63",
+                            "text": "For since I deferred from the bottom of my heart to a private person, how could I not defer to the Emperor? But do you who  desire that deference be paid to you suffer us to pay deference to Him Whom you are desirous to be proved the Author of your power."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

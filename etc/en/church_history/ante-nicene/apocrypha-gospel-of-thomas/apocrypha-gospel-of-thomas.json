@@ -1,0 +1,747 @@
+{
+    "books": [
+        {
+            "name": "Apocrypha: Gospel of Thomas",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Apocrypha: Gospel of Thomas 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:1",
+                            "text": "The Gospel of Thomas:  First Greek Form."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:2",
+                            "text": "Thomas the Israelite Philosopher's Account of the Infancy of the Lord."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:3",
+                            "text": "I Thomas, an Israelite, write you this account, that all the brethren from among the heathen may know the miracles of our Lord Jesus Christ in His infancy, which He did after His birth in our country."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:4",
+                            "text": "The beginning of it is as follows:—."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:5",
+                            "text": "This child Jesus, when five years old, was playing in the ford of a mountain stream; and He collected the flowing waters into pools, and made them clear immediately, and by a word alone He made them obey Him."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:6",
+                            "text": "And having made some soft clay, He fashioned out of it twelve sparrows."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:7",
+                            "text": "And it was the Sabbath when He did these things."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:8",
+                            "text": "And there were also many other children playing with Him."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:9",
+                            "text": "And a certain Jew, seeing what Jesus was doing, playing on the Sabbath, went off immediately, and said to his father Joseph:  Behold, thy son is at the stream, and has taken clay, and made of it twelve birds, and has profaned the Sabbath."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:10",
+                            "text": "And Joseph, coming to the place and seeing, cried out to Him, saying:  Wherefore doest thou on the Sabbath what it is not lawful to do?  And Jesus clapped His hands, and cried out to the sparrows, and said to them:  Off you go!  And the sparrows flew, and went off crying."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:11",
+                            "text": "And the Jews seeing this were amazed, and went away and reported to their chief men what they had seen Jesus doing."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:12",
+                            "text": "And the son of Annas the scribe was standing there with Joseph; and he took a willow branch, and let out the waters which Jesus had collected."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:13",
+                            "text": "And Jesus, seeing what was done, was angry, and said to him:  O wicked, impious, and foolish! what harm did the pools and the waters do to thee?  Behold, even now thou shalt be dried up like a tree, and thou shalt not bring forth either leaves, or root, or fruit."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:14",
+                            "text": "And straightway that boy was quite dried up."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:15",
+                            "text": "And Jesus departed, and went to Joseph's house."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:16",
+                            "text": "But the parents of the boy that had been dried up took him up, bewailing his youth, and brought him to Joseph, and reproached him because, said they, thou hast such a child doing such things."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:17",
+                            "text": "After that He was again passing through the village; and a boy ran up against Him, and struck His shoulder."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:18",
+                            "text": "And Jesus was angry, and said to him:  Thou shalt not go back the way thou camest."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:19",
+                            "text": "And immediately he fell down dead."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:20",
+                            "text": "And some who saw what had taken place, said:  Whence was this child begotten, that every word of his is certainly accomplished?  And the parents of the dead boy went away to Joseph, and blamed him, saying:  Since thou hast such a child, it is impossible for thee to live with us in the village; or else teach him to bless, and not to curse:  for he is killing our children."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:21",
+                            "text": "And Joseph called the child apart, and admonished Him, saying:  Why doest thou such things, and these people suffer, and hate us, and persecute us?  And Jesus said:  I know that these words of thine are not thine own; nevertheless for thy sake I will be silent; but they shall bear their punishment."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:22",
+                            "text": "And straightway those that accused Him were struck blind."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:23",
+                            "text": "And those who saw it were much afraid and in great perplexity, and said about Him:  Every word which he spoke, whether good or bad, was an act, and became a wonder."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:24",
+                            "text": "And when they saw that Jesus had done such a thing, Joseph rose and took hold of His ear, and pulled it hard."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:25",
+                            "text": "And the child was very angry, and said to him:  It is enough for thee to seek, and not to find; and most certainly thou hast not done wisely."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:26",
+                            "text": "Knowest thou not that I am thine?  Do not trouble me."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:27",
+                            "text": "And a certain teacher, Zacchaeus by name, was standing in a certain place, and heard Jesus thus speaking to his father; and he wondered exceedingly, that, being a child, he should speak in such a way."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:28",
+                            "text": "And a few days thereafter he came to Joseph, and said to him:  Thou hast a sensible child, and he has some mind."
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:29",
+                            "text": "Give him to me, then, that he may learn letters; and I shall teach him along with the letters all knowledge, both how to address all the elders, and to honour them as forefathers and fathers, and how to love those of his own age."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:30",
+                            "text": "And He said to him all the letters from the Alpha even to the Omega, clearly and with great exactness."
+                        },
+                        {
+                            "verse": 31,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:31",
+                            "text": "And He looked upon the teacher Zacchaeus, and said to him:  Thou who art ignorant of the nature of the Alpha, how canst thou teach others the Beta?  Thou hypocrite! first, if thou knowest, teach the A, and then we shall believe thee about the B."
+                        },
+                        {
+                            "verse": 32,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:32",
+                            "text": "Then He began to question the teacher about the first letter, and he was not able to answer Him."
+                        },
+                        {
+                            "verse": 33,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:33",
+                            "text": "And in the hearing of many, the child says to Zacchaeus:  Hear, O teacher, the order of the first letter, and notice here how it has lines, and a middle stroke crossing those which thou seest common; (lines) brought together; the highest part supporting them, and again bringing them under one head; with three points of intersection; of the same kind; principal and subordinate; of equal length."
+                        },
+                        {
+                            "verse": 34,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:34",
+                            "text": "Thou hast the lines of the A."
+                        },
+                        {
+                            "verse": 35,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:35",
+                            "text": "And when the teacher Zacchaeus heard the child speaking such and so great allegories of the first letter, he was at a great loss about such a narrative, and about His teaching."
+                        },
+                        {
+                            "verse": 36,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:36",
+                            "text": "And He said to those that were present:  Alas!  I, wretch that I am, am at a loss, bringing shame upon myself by having dragged this child hither."
+                        },
+                        {
+                            "verse": 37,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:37",
+                            "text": "Take him away, then, I beseech thee, brother Joseph."
+                        },
+                        {
+                            "verse": 38,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:38",
+                            "text": "I cannot endure the sternness of his look; I cannot make out his meaning at all."
+                        },
+                        {
+                            "verse": 39,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:39",
+                            "text": "That child does not belong to this earth; he can tame even fire."
+                        },
+                        {
+                            "verse": 40,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:40",
+                            "text": "Assuredly he was born before the creation of the world."
+                        },
+                        {
+                            "verse": 41,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:41",
+                            "text": "What sort of a belly bore him, what sort of a womb nourished him, I do not know."
+                        },
+                        {
+                            "verse": 42,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:42",
+                            "text": "Alas! my friend, he has carried me away; I cannot get at his meaning:  thrice wretched that I am, I have deceived myself."
+                        },
+                        {
+                            "verse": 43,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:43",
+                            "text": "I made a struggle to have a scholar, and I was found to have a teacher."
+                        },
+                        {
+                            "verse": 44,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:44",
+                            "text": "My mind is filled with shame, my friends, because I, an old man, have been conquered by a child."
+                        },
+                        {
+                            "verse": 45,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:45",
+                            "text": "There is nothing for me but despondency and death on account of this boy, for I am not able at this hour to look him in the face; and when everybody says that I have been beaten by a little child, what can I say?  And how can I give an account of the lines of the first letter that he spoke about?  I know not, O my friends; for I can make neither beginning nor end of him."
+                        },
+                        {
+                            "verse": 46,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:46",
+                            "text": "Therefore, I beseech thee, brother Joseph, take him home."
+                        },
+                        {
+                            "verse": 47,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:47",
+                            "text": "What great thing he is, either god or angel, or what I am to say, I know not."
+                        },
+                        {
+                            "verse": 48,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:48",
+                            "text": "And when the Jews were encouraging Zacchaeus, the child laughed aloud, and said:  Now let thy learning bring forth fruit, and let the blind in heart see."
+                        },
+                        {
+                            "verse": 49,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:49",
+                            "text": "I am here from above, that I may curse them, and call them to the things that are above, as He that sent me on your account has commanded me."
+                        },
+                        {
+                            "verse": 50,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:50",
+                            "text": "And when the child ceased speaking, immediately all were made whole who had fallen under His curse."
+                        },
+                        {
+                            "verse": 51,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:51",
+                            "text": "And no one after that dared to make Him angry, lest He should curse him, and he should be maimed."
+                        },
+                        {
+                            "verse": 52,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:52",
+                            "text": "And some days after, Jesus was playing in an upper room of a certain house, and one of the children that were playing with Him fell down from the house, and was killed."
+                        },
+                        {
+                            "verse": 53,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:53",
+                            "text": "And, when the other children saw this, they ran away, and Jesus alone stood still."
+                        },
+                        {
+                            "verse": 54,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:54",
+                            "text": "And the parents of the dead child coming, reproached…and they threatened Him."
+                        },
+                        {
+                            "verse": 55,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:55",
+                            "text": "And Jesus leaped down from the roof, and stood beside the body of the child, and cried with a loud voice, and said:  Zeno—for that was his name—stand up, and tell me; did I throw thee down?  And he stood up immediately, and said:  Certainly not, my lord; thou didst not throw me down, but hast raised me up."
+                        },
+                        {
+                            "verse": 56,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:56",
+                            "text": "And those that saw this were struck with astonishment."
+                        },
+                        {
+                            "verse": 57,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:57",
+                            "text": "And the child's parents glorified God on account of the miracle that had happened, and adored Jesus."
+                        },
+                        {
+                            "verse": 58,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:58",
+                            "text": "A few days after, a young man was splitting wood in the corner,and the axe came down and cut the sole of his foot in two, and he died from loss of blood."
+                        },
+                        {
+                            "verse": 59,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:59",
+                            "text": "And there was a great commotion, and people ran together, and the child Jesus ran there too."
+                        },
+                        {
+                            "verse": 60,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:60",
+                            "text": "And He pressed through the crowd, and laid hold of the young man's wounded foot, and he was cured immediately."
+                        },
+                        {
+                            "verse": 61,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:61",
+                            "text": "And He said to the young man:  Rise up now, split the wood, and remember me."
+                        },
+                        {
+                            "verse": 62,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:62",
+                            "text": "And the crowd seeing what had happened, adored the child, saying:  Truly the Spirit of God dwells in this child."
+                        },
+                        {
+                            "verse": 63,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:63",
+                            "text": "And when He was six years old, His mother gave Him a pitcher, and sent Him to draw water, and bring it into the house."
+                        },
+                        {
+                            "verse": 64,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:64",
+                            "text": "But He struck against some one in the crowd, and the pitcher was broken."
+                        },
+                        {
+                            "verse": 65,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:65",
+                            "text": "And Jesus unfolded the cloak which He had on, and filled it with water, and carried it to His mother."
+                        },
+                        {
+                            "verse": 66,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:66",
+                            "text": "And His mother, seeing the miracle that had happened, kissed Him, and kept within herself the mysteries which she had seen Him doing."
+                        },
+                        {
+                            "verse": 67,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:67",
+                            "text": "And again in seed-time the child went out with His father to sow corn in their land."
+                        },
+                        {
+                            "verse": 68,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:68",
+                            "text": "And while His father was sowing, the child Jesus also sowed one grain of corn."
+                        },
+                        {
+                            "verse": 69,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:69",
+                            "text": "And when He had reaped it, and threshed it, He made a hundred kors; and calling all the poor of the village to the threshing-floor, He gave them the corn, and Joseph took away what was left of the corn."
+                        },
+                        {
+                            "verse": 70,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:70",
+                            "text": "And He was eight years old when He did this miracle."
+                        },
+                        {
+                            "verse": 71,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:71",
+                            "text": "And His father was a carpenter, and at that time made ploughs and yokes."
+                        },
+                        {
+                            "verse": 72,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:72",
+                            "text": "And a certain rich man ordered him to make him a couch."
+                        },
+                        {
+                            "verse": 73,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:73",
+                            "text": "And one of what is called the cross pieces being too short, they did not know what to do."
+                        },
+                        {
+                            "verse": 74,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:74",
+                            "text": "The child Jesus said to His father Joseph:  Put down the two pieces of wood, and make them even in the middle."
+                        },
+                        {
+                            "verse": 75,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:75",
+                            "text": "And Joseph did as the child said to him."
+                        },
+                        {
+                            "verse": 76,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:76",
+                            "text": "And Jesus stood at the other end, and took hold of the shorter piece of wood, and stretched it, and made it equal to the other."
+                        },
+                        {
+                            "verse": 77,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:77",
+                            "text": "And His father Joseph saw it, and wondered, and embraced the child, and blessed Him, saying:  Blessed am I, because God has given me this child."
+                        },
+                        {
+                            "verse": 78,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:78",
+                            "text": "And Joseph, seeing that the child was vigorous in mind and body, again resolved that He should not remain ignorant of the letters, and took Him away, and handed Him over to another teacher."
+                        },
+                        {
+                            "verse": 79,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:79",
+                            "text": "And the teacher said to Joseph:  I shall first teach him the Greek letters, and then the Hebrew."
+                        },
+                        {
+                            "verse": 80,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:80",
+                            "text": "For the teacher was aware of the trial that had been made of the child, and was afraid of Him."
+                        },
+                        {
+                            "verse": 81,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:81",
+                            "text": "Nevertheless he wrote out the alphabet, and gave Him all his attention for a long time, and He made him no answer."
+                        },
+                        {
+                            "verse": 82,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:82",
+                            "text": "And Jesus said to him:  If thou art really a teacher, and art well acquainted with the letters, tell me the power of the Alpha, and I will tell thee the power of the Beta."
+                        },
+                        {
+                            "verse": 83,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:83",
+                            "text": "And the teacher was enraged at this, and struck Him on the head."
+                        },
+                        {
+                            "verse": 84,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:84",
+                            "text": "And the child, being in pain, cursed him; and immediately he swooned away, and fell to the ground on his face."
+                        },
+                        {
+                            "verse": 85,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:85",
+                            "text": "And the child returned to Joseph's house; and Joseph was grieved, and gave orders to His mother, saying:  Do not let him go outside of the door, because those that make him angry die."
+                        },
+                        {
+                            "verse": 86,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:86",
+                            "text": "And after some time, another master again, a genuine friend of Joseph, said to him:  Bring the child to my school; perhaps I shall be able to flatter him into learning his letters."
+                        },
+                        {
+                            "verse": 87,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:87",
+                            "text": "And Joseph said:  If thou hast the courage, brother, take him with thee."
+                        },
+                        {
+                            "verse": 88,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:88",
+                            "text": "And he took Him with him in fear and great agony; but the child went along pleasantly."
+                        },
+                        {
+                            "verse": 89,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:89",
+                            "text": "And going boldly into the school, He found a book lying on the reading-desk; and taking it, He read not the letters that were in it, but opening His mouth, He spoke by the Holy Spirit, and taught the law to those that were standing round."
+                        },
+                        {
+                            "verse": 90,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:90",
+                            "text": "And a great crowd having come together, stood by and heard Him, and wondered at the ripeness of His teaching, and the readiness of His words, and that He, child as He was, spoke in such a way."
+                        },
+                        {
+                            "verse": 91,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:91",
+                            "text": "And Joseph hearing of it, was afraid, and ran to the school, in doubt lest his master too should be without experience."
+                        },
+                        {
+                            "verse": 92,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:92",
+                            "text": "And the master said to Joseph:  Know, brother, that I have taken the child as a scholar, and he is full of much grace and wisdom; but I beseech thee, brother, take him home."
+                        },
+                        {
+                            "verse": 93,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:93",
+                            "text": "And when the child heard this, He laughed at him directly, and said:  Since thou hast spoken aright, and witnessed aright, for thy sake he also that was struck down shall be cured."
+                        },
+                        {
+                            "verse": 94,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:94",
+                            "text": "And immediately the other master was cured."
+                        },
+                        {
+                            "verse": 95,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:95",
+                            "text": "And Joseph took the child, and went away home."
+                        },
+                        {
+                            "verse": 96,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:96",
+                            "text": "And Joseph sent his son James to tie up wood and bring it home, and the child Jesus also followed him."
+                        },
+                        {
+                            "verse": 97,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:97",
+                            "text": "And when James was gathering the fagots, a viper bit James' hand."
+                        },
+                        {
+                            "verse": 98,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:98",
+                            "text": "And when he was racked with pain, and at the point of death, Jesus came near and blew upon the bite; and the pain ceased directly, and the beast burst, and instantly James remained safe and sound."
+                        },
+                        {
+                            "verse": 99,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:99",
+                            "text": "And after this the infant of one of Joseph's neighbours fell sick and died, and its mother wept sore."
+                        },
+                        {
+                            "verse": 100,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:100",
+                            "text": "And Jesus heard that there was great lamentation and commotion, and ran in haste, and found the child dead, and touched his breast, and said:  I say to thee, child, be not dead, but live, and be with thy mother."
+                        },
+                        {
+                            "verse": 101,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:101",
+                            "text": "And directly it looked up and laughed."
+                        },
+                        {
+                            "verse": 102,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:102",
+                            "text": "And He said to the woman:  Take it, and give it milk, and remember me."
+                        },
+                        {
+                            "verse": 103,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:103",
+                            "text": "And seeing this, the crowd that was standing by wondered, and said:  Truly this child was either God or an angel of God, for every word of his is a certain fact."
+                        },
+                        {
+                            "verse": 104,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:104",
+                            "text": "And Jesus went out thence, playing with the other children."
+                        },
+                        {
+                            "verse": 105,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:105",
+                            "text": "And some time after there occurred a great commotion while a house was building, and Jesus stood up and went away to the place."
+                        },
+                        {
+                            "verse": 106,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:106",
+                            "text": "And seeing a man lying dead, He took him by the hand, and said:  Man, I say to thee, arise, and go on with thy work."
+                        },
+                        {
+                            "verse": 107,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:107",
+                            "text": "And directly he rose up, and adored Him."
+                        },
+                        {
+                            "verse": 108,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:108",
+                            "text": "And seeing this, the crowd wondered, and said:  This child is from heaven, for he has saved many souls from death, and he continues to save during all his life."
+                        },
+                        {
+                            "verse": 109,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:109",
+                            "text": "And when He was twelve years old His parents went as usual to Jerusalem to the feast of the passover with their fellow-travellers."
+                        },
+                        {
+                            "verse": 110,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:110",
+                            "text": "And after the passover they were coming home again."
+                        },
+                        {
+                            "verse": 111,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:111",
+                            "text": "And while they were coming home, the child Jesus went back to Jerusalem."
+                        },
+                        {
+                            "verse": 112,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:112",
+                            "text": "And His parents thought that He was in the company."
+                        },
+                        {
+                            "verse": 113,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:113",
+                            "text": "And having gone one day's journey, they sought for Him among their relations; and not finding Him, they were in great grief, and turned back to the city seeking for Him."
+                        },
+                        {
+                            "verse": 114,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:114",
+                            "text": "And after the third day they found Him in the temple, sitting in the midst of the teachers, both hearing the law and asking them questions."
+                        },
+                        {
+                            "verse": 115,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:115",
+                            "text": "And they were all attending to Him, and wondering that He, being a child, was shutting the mouths of the elders and teachers of the people, explaining the main points of the law and the parables of the prophets."
+                        },
+                        {
+                            "verse": 116,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:116",
+                            "text": "And His mother Mary coming up, said to Him:  Why hast thou done this to us, child?  Behold, we have been seeking for thee in great trouble."
+                        },
+                        {
+                            "verse": 117,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:117",
+                            "text": "And Jesus said to them:  Why do you seek me?  Do you not know that I must be about my Father's business?  And the scribes and the Pharisees said:  Art thou the mother of this child?  And she said:  I am."
+                        },
+                        {
+                            "verse": 118,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:118",
+                            "text": "And they said to her:  Blessed art thou among women, for God hath blessed the fruit of thy womb; for such glory, and such virtue and wisdom, we have neither seen nor heard ever."
+                        },
+                        {
+                            "verse": 119,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:119",
+                            "text": "And Jesus rose up, and followed His mother, and was subject to His parents."
+                        },
+                        {
+                            "verse": 120,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:120",
+                            "text": "And His mother observed all these things that had happened."
+                        },
+                        {
+                            "verse": 121,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:121",
+                            "text": "And Jesus advanced in wisdom, and stature, and grace."
+                        },
+                        {
+                            "verse": 122,
+                            "chapter": 1,
+                            "name": "Apocrypha: Gospel of Thomas 1:122",
+                            "text": "To whom be glory for ever and ever,  Amen."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

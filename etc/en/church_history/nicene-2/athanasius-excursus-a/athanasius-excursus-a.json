@@ -1,0 +1,1755 @@
+{
+    "books": [
+        {
+            "name": "Athanasius: Excursus A",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Athanasius: Excursus A 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:1",
+                            "text": "Excursus A."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:2",
+                            "text": "On the meaning of the phrase ἐξ ἑτέρας ὑποστάσεως ἢ οὐσίας in the Nicene Anathema."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:3",
+                            "text": "Bishop Bull has made it a question, whether these words in the Nicene Creed mean the same thing, or are to be considered distinct from each other, advocating himself the latter opinion against Petavius."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:4",
+                            "text": "The history of the word ὑπόστασις is of too intricate a character to enter upon here; but a few words may be in place in illustration of its sense as it occurs in the Creed, and with reference to the view taken of it by the great divine, who has commented on it."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:5",
+                            "text": "Bishop Bull, as I understood him (Defens."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:6",
+                            "text": "F."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:7",
+                            "text": "N."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:8",
+                            "text": "ii."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:9",
+                            "text": "9."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:10",
+                            "text": "§11."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:11",
+                            "text": "), considers that two distinct ideas are intended by the words οὐσία and ὑπόστασις, in the clause ἐξ ἑτέρας ὑποστάσεως ἢ οὐσίας; as if the Creed condemned those who said that the Son was not from the Father's essence, and those also who said that He was not from the Father's hypostasis or subsistence; as if a man might hold at least one of the two without holding the other."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:12",
+                            "text": "And in matter of fact, he does profess to assign two parties of heretics, who denied this or that proposition respectively."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:13",
+                            "text": "Petavius, on the other hand (de Trin."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:14",
+                            "text": "iv."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:15",
+                            "text": "I."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:16",
+                            "text": "), considers that the word ὑπόστασις is but another term for οὐσία, and that not two but one proposition is contained in the clause in question; the word ὑπόστασις not being publicly recognised in its present meaning till the Council of Alexandria, in the year 362."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:17",
+                            "text": "Coustant."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:18",
+                            "text": "(Epist."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:19",
+                            "text": "Pont."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:20",
+                            "text": "Rom."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:21",
+                            "text": "pp."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:22",
+                            "text": "274."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:23",
+                            "text": "290."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:24",
+                            "text": "462."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:25",
+                            "text": ") Tillemont (Memoires S."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:26",
+                            "text": "Denys."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:27",
+                            "text": "d'Alex."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:28",
+                            "text": "§15."
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:29",
+                            "text": "), Huet (Origenian."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:30",
+                            "text": "ii."
+                        },
+                        {
+                            "verse": 31,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:31",
+                            "text": "2."
+                        },
+                        {
+                            "verse": 32,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:32",
+                            "text": "n."
+                        },
+                        {
+                            "verse": 33,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:33",
+                            "text": "3."
+                        },
+                        {
+                            "verse": 34,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:34",
+                            "text": "), Thomassin (de Incarn."
+                        },
+                        {
+                            "verse": 35,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:35",
+                            "text": "iii."
+                        },
+                        {
+                            "verse": 36,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:36",
+                            "text": "1."
+                        },
+                        {
+                            "verse": 37,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:37",
+                            "text": "), and Morinus (de Sacr."
+                        },
+                        {
+                            "verse": 38,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:38",
+                            "text": "Ordin."
+                        },
+                        {
+                            "verse": 39,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:39",
+                            "text": "ii."
+                        },
+                        {
+                            "verse": 40,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:40",
+                            "text": "6."
+                        },
+                        {
+                            "verse": 41,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:41",
+                            "text": "), take substantially the same view; while Maranus (Praef."
+                        },
+                        {
+                            "verse": 42,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:42",
+                            "text": "ad S."
+                        },
+                        {
+                            "verse": 43,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:43",
+                            "text": "Basil."
+                        },
+                        {
+                            "verse": 44,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:44",
+                            "text": "§1."
+                        },
+                        {
+                            "verse": 45,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:45",
+                            "text": "tom."
+                        },
+                        {
+                            "verse": 46,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:46",
+                            "text": "3."
+                        },
+                        {
+                            "verse": 47,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:47",
+                            "text": "ed."
+                        },
+                        {
+                            "verse": 48,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:48",
+                            "text": "Bened."
+                        },
+                        {
+                            "verse": 49,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:49",
+                            "text": "), Natalis Alexander, Hist."
+                        },
+                        {
+                            "verse": 50,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:50",
+                            "text": "(Saec."
+                        },
+                        {
+                            "verse": 51,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:51",
+                            "text": "1."
+                        },
+                        {
+                            "verse": 52,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:52",
+                            "text": "Diss."
+                        },
+                        {
+                            "verse": 53,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:53",
+                            "text": "22."
+                        },
+                        {
+                            "verse": 54,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:54",
+                            "text": "circ."
+                        },
+                        {
+                            "verse": 55,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:55",
+                            "text": "fin."
+                        },
+                        {
+                            "verse": 56,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:56",
+                            "text": "), Burton (Testimonies to the Trinity, No."
+                        },
+                        {
+                            "verse": 57,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:57",
+                            "text": "71), and [Routh] (Reliqu."
+                        },
+                        {
+                            "verse": 58,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:58",
+                            "text": "Sacr."
+                        },
+                        {
+                            "verse": 59,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:59",
+                            "text": "vol."
+                        },
+                        {
+                            "verse": 60,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:60",
+                            "text": "iii."
+                        },
+                        {
+                            "verse": 61,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:61",
+                            "text": "p."
+                        },
+                        {
+                            "verse": 62,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:62",
+                            "text": "189."
+                        },
+                        {
+                            "verse": 63,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:63",
+                            "text": "), differ from Petavius, if they do not agree with Bull."
+                        },
+                        {
+                            "verse": 64,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:64",
+                            "text": "Bull's principal argument lies in the strong fact, that S."
+                        },
+                        {
+                            "verse": 65,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:65",
+                            "text": "Basil expressly asserts, that the Council did mean the two terms to be distinct, and this when he is answering the Sabellians, who grounded their assertion that there was but one ὑπόστασις, on the alleged fact that the Council had used οὐσία and ὑπόστασις indifferently."
+                        },
+                        {
+                            "verse": 66,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:66",
+                            "text": "Bull refers also to Anastasius Hodeg."
+                        },
+                        {
+                            "verse": 67,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:67",
+                            "text": "21."
+                        },
+                        {
+                            "verse": 68,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:68",
+                            "text": "(22."
+                        },
+                        {
+                            "verse": 69,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:69",
+                            "text": "p."
+                        },
+                        {
+                            "verse": 70,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:70",
+                            "text": "343."
+                        },
+                        {
+                            "verse": 71,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:71",
+                            "text": "?) who says, that the Nicene Fathers defined that there are three hypostases or Persons in the Holy Trinity."
+                        },
+                        {
+                            "verse": 72,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:72",
+                            "text": "Petavius considers that he derived this from Gelasius of Cyzicus, a writer of no great authority; but, as the passage occurs in Anastasius, they are the words of Andrew of Samosata."
+                        },
+                        {
+                            "verse": 73,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:73",
+                            "text": "But what is more important, elsewhere Anastasius quotes a passage from Amphilochius to something of the same effect."
+                        },
+                        {
+                            "verse": 74,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:74",
+                            "text": "c."
+                        },
+                        {
+                            "verse": 75,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:75",
+                            "text": "10."
+                        },
+                        {
+                            "verse": 76,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:76",
+                            "text": "p."
+                        },
+                        {
+                            "verse": 77,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:77",
+                            "text": "164."
+                        },
+                        {
+                            "verse": 78,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:78",
+                            "text": "He states it besides himself, c."
+                        },
+                        {
+                            "verse": 79,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:79",
+                            "text": "9."
+                        },
+                        {
+                            "verse": 80,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:80",
+                            "text": "p."
+                        },
+                        {
+                            "verse": 81,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:81",
+                            "text": "150."
+                        },
+                        {
+                            "verse": 82,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:82",
+                            "text": "and c."
+                        },
+                        {
+                            "verse": 83,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:83",
+                            "text": "24."
+                        },
+                        {
+                            "verse": 84,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:84",
+                            "text": "p."
+                        },
+                        {
+                            "verse": 85,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:85",
+                            "text": "364."
+                        },
+                        {
+                            "verse": 86,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:86",
+                            "text": "In addition, Bull quotes passages from S."
+                        },
+                        {
+                            "verse": 87,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:87",
+                            "text": "Dionysius of Alexandria, S."
+                        },
+                        {
+                            "verse": 88,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:88",
+                            "text": "Dionysius of Rome (vid."
+                        },
+                        {
+                            "verse": 89,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:89",
+                            "text": "below, de Decr."
+                        },
+                        {
+                            "verse": 90,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:90",
+                            "text": "25–27 and notes), Eusebius of Caesarea, and afterwards Origen; in all of which three hypostases being spoken of, whereas antiquity, early or late, never speaks in the same way of three οὐσίαι, it is plain that ὑπόστασις then conveyed an idea which οὐσία did not."
+                        },
+                        {
+                            "verse": 91,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:91",
+                            "text": "To these may be added a passage in Athanasius, in Illud, Omnia, §6."
+                        },
+                        {
+                            "verse": 92,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:92",
+                            "text": "Bishop Bull adds the following explanation of the two words as they occur in the Creed: he conceives that the one is intended to reach the Arians, and the other the Semi-arians; that the Semi-arians did actually make a distinction between οὐσία and ὑπόστασις, admitting in a certain sense that the Son was from the ὑπόστασις of the Father, while they denied that He was from His οὐσία."
+                        },
+                        {
+                            "verse": 93,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:93",
+                            "text": "They then are anathematized in the words ἐξ ἑτέρας οὐσίας; and, as he would seem to mean, the Arians in the ἐξ ἑτέρας ὑποστάσεως."
+                        },
+                        {
+                            "verse": 94,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:94",
+                            "text": "Now I hope it will not be considered any disrespect to so great an authority, if I differ from this view, and express my reasons for doing so."
+                        },
+                        {
+                            "verse": 95,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:95",
+                            "text": "1."
+                        },
+                        {
+                            "verse": 96,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:96",
+                            "text": "First then, supposing his account of the Semi-arian doctrine ever so free from objection, granting that they denied the ἐξ οὐσίας, and admitted the ἐξ ὑποστάσεως, yet who are they who, according to his view, denied the ἐξ ὑποστάσεως, or said that the Son was ἐξ ἑτέρας ὑποστάσεως? he does not assign any parties, though he implies the Arians."
+                        },
+                        {
+                            "verse": 97,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:97",
+                            "text": "Yet though, as is notorious, they denied the ἐξ οὐσίας, there is nothing to shew that they or any other party of Arians maintained specifically that the Son was not [from] the ὑπόστασις, or subsistence of the Father."
+                        },
+                        {
+                            "verse": 98,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:98",
+                            "text": "That is, the hypothesis supported by this eminent divine does not answer the very question which it raises."
+                        },
+                        {
+                            "verse": 99,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:99",
+                            "text": "It professes that those who denied the ἐξ ὑποστάσεως, were not the same as those who denied the ἐξ οὐσίας; yet it fails to tell us who did deny the ἐξ ὑποστάσεως, in a sense distinct from ἐξ οὐσίας."
+                        },
+                        {
+                            "verse": 100,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:100",
+                            "text": "2."
+                        },
+                        {
+                            "verse": 101,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:101",
+                            "text": "Next, his only proof that the Semi-arians did hold the ἐξ ὑποστάσεως as distinct from the ἐξ οὐσίας, lies in the circumstance, that the three (commonly called) Semi-arian confessions of a."
+                        },
+                        {
+                            "verse": 102,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:102",
+                            "text": "d."
+                        },
+                        {
+                            "verse": 103,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:103",
+                            "text": "341, 344, 351, known as Mark's of Arethusa [i-e: the 'fourth Antiochene'], the Macrostich, and the first Sirmian, anathematize those who say that the Son is ἐξ ἑτέρας ὑποστάσεως, not anathematizing the καὶ μὴ ἐκ τοῦ θεοῦ, which he thence infers was their own belief."
+                        },
+                        {
+                            "verse": 104,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:104",
+                            "text": "Another explanation of this passage will be offered presently; meanwhile, it is well to observe, that Hilary, in speaking of the confession of Philippopolis which was taken from Mark's, far from suspecting that the clause involved an omission, defends it on the ground of its retaining the Anathema (de Synod."
+                        },
+                        {
+                            "verse": 105,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:105",
+                            "text": "35."
+                        },
+                        {
+                            "verse": 106,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:106",
+                            "text": "), thus implying that ἐξ ἑτέρας ὑποστάσεως καὶ μὴ ἐκ τοῦ θεοῦ was equivalent to ἐξ ἑτέρας ὑποστάσεως ἢ οὐσίας."
+                        },
+                        {
+                            "verse": 107,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:107",
+                            "text": "And it may be added, that Athanasius in like manner, in his account of the Nicene Council (de Decret."
+                        },
+                        {
+                            "verse": 108,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:108",
+                            "text": "§20."
+                        },
+                        {
+                            "verse": 109,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:109",
+                            "text": "fin."
+                        },
+                        {
+                            "verse": 110,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:110",
+                            "text": "), when repeating its anathema, drops the ἐξ ὑποστάσεως altogether, and reads τοὺς δὲ λέγοντας ἐξ οὐκ ὄντων,."
+                        },
+                        {
+                            "verse": 111,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:111",
+                            "text": "…ἢ ποίημα, ἢ ἐξ ἑτέρας οὐσίας, τούτους ἀναθεματίζει κ."
+                        },
+                        {
+                            "verse": 112,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:112",
+                            "text": "τ."
+                        },
+                        {
+                            "verse": 113,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:113",
+                            "text": "λ."
+                        },
+                        {
+                            "verse": 114,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:114",
+                            "text": "3."
+                        },
+                        {
+                            "verse": 115,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:115",
+                            "text": "Further, Bull gives us no proof whatever that the Semi-arians did deny the ἐξ οὐσίας; while it is very clear, if it is right to contradict so great a writer, that most of them did not deny it."
+                        },
+                        {
+                            "verse": 116,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:116",
+                            "text": "He says that it is \"certissimum\" that the heretics who wrote the three confessions above noticed, that is, the Semi-arians, \"nunquam fassos, nunquam fassuros fuisse filium ἐξ οὐσίας, e substantia, Patris progenitum\"."
+                        },
+                        {
+                            "verse": 117,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:117",
+                            "text": "His reason for not offering any proof for this naturally is, that Petavius, with whom he is in controversy, maintains it also, and he makes use of Petavius's admission against himself."
+                        },
+                        {
+                            "verse": 118,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:118",
+                            "text": "Now it may seem bold in a writer of this day to differ not only with Bull, but with Petavius; but the reason for doing so is simple; it is because Athanasius asserts the very thing which Petavius and Bull deny, and Petavius admits that he does; that is, he allows it by implication when he complains that Athanasius had not got to the bottom of the doctrine of the Semi-arians, and thought too favourably of them."
+                        },
+                        {
+                            "verse": 119,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:119",
+                            "text": "\"Horum Semi-arianorum, quorum antesignanus fuit Basilius Ancyrae episcopus, prorsus obscura fuit haeresis."
+                        },
+                        {
+                            "verse": 120,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:120",
+                            "text": "…ut ne ipse quidem Athanasius satis illam exploratam habuerit\"."
+                        },
+                        {
+                            "verse": 121,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:121",
+                            "text": "de Trin."
+                        },
+                        {
+                            "verse": 122,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:122",
+                            "text": "i."
+                        },
+                        {
+                            "verse": 123,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:123",
+                            "text": "x."
+                        },
+                        {
+                            "verse": 124,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:124",
+                            "text": "§7."
+                        },
+                        {
+                            "verse": 125,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:125",
+                            "text": "Now S."
+                        },
+                        {
+                            "verse": 126,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:126",
+                            "text": "Athanasius's words are most distinct and express; \"As to those who receive all else that was defined at Nicaea, but dispute about the 'One in essence' only, we must not feel as towards enemies."
+                        },
+                        {
+                            "verse": 127,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:127",
+                            "text": "…for, as confessing that the Son is from the essence of the Father and not of other subsistence, ἐκ τῆς οὐσίας τοῦ πατρὸς εἶναι, καὶ μὴ ἐξ ἑτέρας ὑποστάσεως τὸν υἱον,…they are not far from receiving the phrase 'One in essence' also."
+                        },
+                        {
+                            "verse": 128,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:128",
+                            "text": "Such is Basil of Ancyra, in what he has written about the faith\" de Syn."
+                        },
+                        {
+                            "verse": 129,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:129",
+                            "text": "§41;—a passage, not only express for the matter in hand, but remarkable too, as apparently using ὑπόστασις and οὐσία as synonymous, which is the main point which Bull denies."
+                        },
+                        {
+                            "verse": 130,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:130",
+                            "text": "What follows in Athanasius is equally to the purpose: he urges the Semi-arians to accept the ὁμοούσιον, in consistency, because they maintain the ἐξ οὐσίας and the ὁμοιούσιον would not sufficiently secure it."
+                        },
+                        {
+                            "verse": 131,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:131",
+                            "text": "Moreover Hilary, while defending the Semi-arian decrees of Ancyra or Sirmium, says expressly, that according to them, among other truths, \"non creatura est Filius genitus, sed a natura Patris indiscreta substantia est\"."
+                        },
+                        {
+                            "verse": 132,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:132",
+                            "text": "de Syn."
+                        },
+                        {
+                            "verse": 133,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:133",
+                            "text": "27."
+                        },
+                        {
+                            "verse": 134,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:134",
+                            "text": "Petavius, however, in the passage to which Bull appeals, refers in proof of this view of Semi-arianism, to those Ancyrene documents, which Epiphanius has preserved, Haer."
+                        },
+                        {
+                            "verse": 135,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:135",
+                            "text": "73."
+                        },
+                        {
+                            "verse": 136,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:136",
+                            "text": "and which he considers to shew, that according to the Semi-arians the Son was not ἐξ οὐσίας τοῦ πατρός."
+                        },
+                        {
+                            "verse": 137,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:137",
+                            "text": "He says, that it is plain from their own explanations that they considered our Lord to be, not ἐκ τῆς οὐσίας, but ἐκ τῆς ὁμοιότητος (he does not say ὑποστάσεως, as Bull wishes) τοῦ πατρὸς and that, ἐνεργεί& 139· γεννητικῇ, which was one of the divine ἐνέργειαι, as creation, ἡ κτιστικὴ, was another."
+                        },
+                        {
+                            "verse": 138,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:138",
+                            "text": "Yet surely Epiphanius does not bear out this representation better than Athanasius; since the Semi-arians, whose words he reports, speak of \"υἱ& 232·ν ὅμοιον καὶ κατ᾽ οὐσίαν ἐκ τοῦ πατρὸς, p."
+                        },
+                        {
+                            "verse": 139,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:139",
+                            "text": "825 b, ὡς ἡ σοφία τοῦ σοφοῦ υἱ& 232·ς, οὐσία οὐσίας, p."
+                        },
+                        {
+                            "verse": 140,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:140",
+                            "text": "853 c, κατ᾽ οὐσίαν υἱ& 232·ν τοῦ Θεοῦ καὶ πατρός, p."
+                        },
+                        {
+                            "verse": 141,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:141",
+                            "text": "854 c, ἐξουσί& 139· ὁμοῦ καὶ οὐσί& 139· πατρὸς μονογενοῦς υἱοῦ."
+                        },
+                        {
+                            "verse": 142,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:142",
+                            "text": "p."
+                        },
+                        {
+                            "verse": 143,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:143",
+                            "text": "858 d, besides the strong word γνήσιος, ibid."
+                        },
+                        {
+                            "verse": 144,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:144",
+                            "text": "and Athan."
+                        },
+                        {
+                            "verse": 145,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:145",
+                            "text": "de Syn."
+                        },
+                        {
+                            "verse": 146,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:146",
+                            "text": "§41."
+                        },
+                        {
+                            "verse": 147,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:147",
+                            "text": "not to insist on other of their statements."
+                        },
+                        {
+                            "verse": 148,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:148",
+                            "text": "The same fact is brought before us even in a more striking way in the conference at Constantinople, a."
+                        },
+                        {
+                            "verse": 149,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:149",
+                            "text": "d."
+                        },
+                        {
+                            "verse": 150,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:150",
+                            "text": "360, before Constantius, between the Anomoeans and Semi-arians, where the latter, according to Theodoret, shew no unwillingness to acknowledge even the ὁμοούσιον, because they acknowledge the ἐξ οὐσίας."
+                        },
+                        {
+                            "verse": 151,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:151",
+                            "text": "When the Anomoeans wished the former condemned, Silvanus of Tarsus said, \"If God the Word be not out of nothing, nor a creature, nor of other essence, οὐσίας, therefore is He one in essence, ὁμοούσιος, with God who begot Him, as God from God, and Light from Light, and He has the same nature with His Father\"."
+                        },
+                        {
+                            "verse": 152,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:152",
+                            "text": "H."
+                        },
+                        {
+                            "verse": 153,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:153",
+                            "text": "E."
+                        },
+                        {
+                            "verse": 154,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:154",
+                            "text": "ii."
+                        },
+                        {
+                            "verse": 155,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:155",
+                            "text": "23."
+                        },
+                        {
+                            "verse": 156,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:156",
+                            "text": "Here again it is observable, as in the passage from Athanasius above, that, while apparently reciting the Nicene Anathema, he omits ἐξ ἑτέρας ὑποστάσεως, as if it were superfluous to mention a synonym."
+                        },
+                        {
+                            "verse": 157,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:157",
+                            "text": "At the same time there certainly is reason to suspect that the Semi-arians approximated towards orthodoxy as time went on; and perhaps it is hardly fair to determine what they held at Nicaea by their statements at Ancyra, though to the latter Petavius appeals."
+                        },
+                        {
+                            "verse": 158,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:158",
+                            "text": "Several of the most eminent among them, as Meletius, Cyril, and Eusebius of Samosata conformed soon after; on the other hand in Eusebius, who is their representative at Nicaea, it will perhaps be difficult to find a clear admission of the ἐξ οὐσίας."
+                        },
+                        {
+                            "verse": 159,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:159",
+                            "text": "But at any rate he does not maintain the ἐξ ὑποστάσεως, which Bull's theory requires."
+                        },
+                        {
+                            "verse": 160,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:160",
+                            "text": "On various grounds then, because the Semi-arians as a body did not deny the ἐξ οὐσίας, nor confess the ἐξ ὑποστάσεως, nor the Arians deny it, there is reason for declining Bishop Bull's explanation of these words as they occur in the Creed; and now let us turn to the consideration of the authorities on which that explanation rests."
+                        },
+                        {
+                            "verse": 161,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:161",
+                            "text": "As to Gelasius, Bull himself does not insist upon his testimony, and Anastasius [about 700 a."
+                        },
+                        {
+                            "verse": 162,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:162",
+                            "text": "d."
+                        },
+                        {
+                            "verse": 163,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:163",
+                            "text": "] is too late to be of authority."
+                        },
+                        {
+                            "verse": 164,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:164",
+                            "text": "The passage indeed which he quotes from Amphilochius is important, but as he was a friend of S."
+                        },
+                        {
+                            "verse": 165,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:165",
+                            "text": "Basil, perhaps it does not very much increase the weight of S."
+                        },
+                        {
+                            "verse": 166,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:166",
+                            "text": "Basil's more distinct and detailed testimony to the same point, and no one can say that that weight is inconsiderable."
+                        },
+                        {
+                            "verse": 167,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:167",
+                            "text": "Yet there is evidence the other way which overbalances it."
+                        },
+                        {
+                            "verse": 168,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:168",
+                            "text": "Bull, who complains of Petavius's rejection of S."
+                        },
+                        {
+                            "verse": 169,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:169",
+                            "text": "Basil's testimony concerning a Council which was held before his birth, cannot maintain his own explanation of its Creed without rejecting Athanasius's testimony respecting the doctrine of his contemporaries, the Semi-arians; and moreover the more direct evidence, as we shall see, of the Council of Alexandria, a."
+                        },
+                        {
+                            "verse": 170,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:170",
+                            "text": "d."
+                        },
+                        {
+                            "verse": 171,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:171",
+                            "text": "362, S."
+                        },
+                        {
+                            "verse": 172,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:172",
+                            "text": "Jerome, Basil of Ancyra, and Socrates."
+                        },
+                        {
+                            "verse": 173,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:173",
+                            "text": "First, however, no better comment upon the sense of the Council can be required than the incidental language of Athanasius and others, who in a foregoing extract exchanges οὐσία for ὑπόστασις in a way which is natural only on the supposition that he used them as synonyms."
+                        },
+                        {
+                            "verse": 174,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:174",
+                            "text": "Elsewhere, as we have seen, he omits the word ἢ ὑποστάσεως in the Nicene Anathema, while Hilary considers the Anathema sufficient with that omission."
+                        },
+                        {
+                            "verse": 175,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:175",
+                            "text": "In like manner Hilary expressly translates the clause in the Creed by ex altera substantia vel essentia."
+                        },
+                        {
+                            "verse": 176,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:176",
+                            "text": "Fragm."
+                        },
+                        {
+                            "verse": 177,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:177",
+                            "text": "ii."
+                        },
+                        {
+                            "verse": 178,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:178",
+                            "text": "27."
+                        },
+                        {
+                            "verse": 179,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:179",
+                            "text": "And somewhat in the same way Eusebius says in his letter, ἐξ ἑτέρας τινὸς ὑποστάσεώς τε καὶ οὐσίας."
+                        },
+                        {
+                            "verse": 180,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:180",
+                            "text": "But further, Athanasius says expressly, ad Afros,—\"Hypostasis is essence, οὐσία, and means nothing else than simply being, which Jeremiah calls existence when he says,\" &c."
+                        },
+                        {
+                            "verse": 181,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:181",
+                            "text": "§4."
+                        },
+                        {
+                            "verse": 182,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:182",
+                            "text": "It is true, he elsewhere speaks of three Hypostases, but this only shews that he attached no fixed sense to the word."
+                        },
+                        {
+                            "verse": 183,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:183",
+                            "text": "[Rather, he abandons the latter usage in his middle and later writings."
+                        },
+                        {
+                            "verse": 184,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:184",
+                            "text": "] This is just what I would maintain; its sense must be determined by the context; and, whereas it always stands in all Catholic writers for the Una Res (as the 4th Lateran speaks), which οὐσία denotes, when Athanasius says, \"three hypostases,\" he takes the word to mean οὐσία in that particular sense in which it is three, and when he makes it synonymous with οὐσία, he uses it to signify Almighty God in that sense in which He is one."
+                        },
+                        {
+                            "verse": 185,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:185",
+                            "text": "Leaving Athanasius, we have the following evidence concerning the history of the word ὑπόστασις."
+                        },
+                        {
+                            "verse": 186,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:186",
+                            "text": "S."
+                        },
+                        {
+                            "verse": 187,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:187",
+                            "text": "Jerome says, \"The whole school of secular learning understanding nothing else by hypostasis than usia, essence,\" Ep."
+                        },
+                        {
+                            "verse": 188,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:188",
+                            "text": "xv."
+                        },
+                        {
+                            "verse": 189,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:189",
+                            "text": "4, where, speaking of the Three Hypostases he uses the strong language, \"If you desire it, then be a new faith framed after the Nicene, and let the orthodox confess in terms like the Arian\"."
+                        },
+                        {
+                            "verse": 190,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:190",
+                            "text": "In like manner, Basil of Ancyra, George, and the other Semi-arians, say distinctly, \"This hypostasis our Fathers called essence,\" οὐσία."
+                        },
+                        {
+                            "verse": 191,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:191",
+                            "text": "Epiph."
+                        },
+                        {
+                            "verse": 192,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:192",
+                            "text": "Haer."
+                        },
+                        {
+                            "verse": 193,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:193",
+                            "text": "74."
+                        },
+                        {
+                            "verse": 194,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:194",
+                            "text": "12."
+                        },
+                        {
+                            "verse": 195,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:195",
+                            "text": "fin."
+                        },
+                        {
+                            "verse": 196,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:196",
+                            "text": "; in accordance with which is the unauthorized addition to the Sardican Epistle, \"ὑπόστασιν, ἣν αὐτοὶ οἱ αἱρετικοὶ οὐσίαν προσαγορεύουσι\"."
+                        },
+                        {
+                            "verse": 197,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:197",
+                            "text": "Theod."
+                        },
+                        {
+                            "verse": 198,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:198",
+                            "text": "H."
+                        },
+                        {
+                            "verse": 199,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:199",
+                            "text": "E."
+                        },
+                        {
+                            "verse": 200,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:200",
+                            "text": "ii."
+                        },
+                        {
+                            "verse": 201,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:201",
+                            "text": "6."
+                        },
+                        {
+                            "verse": 202,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:202",
+                            "text": "If it be said that Jerome from his Roman connection, and Basil and George as Semi-arians, would be led by their respective theologies for distinct reasons thus to speak, it is true, and may have led them to too broad a statement of the fact; but then on the other hand it was in accordance also with the theology of S."
+                        },
+                        {
+                            "verse": 203,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:203",
+                            "text": "Basil, so strenuous a defender of the formula of the Three Hypostases, to suppose that the Nicene Fathers meant to distinguish ὑπόστασις from οὐσία in their anathema."
+                        },
+                        {
+                            "verse": 204,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:204",
+                            "text": "Again, Socrates informs us that, though there was some dispute about hypostasis at Alexandria shortly before the Nicene Council, yet the Council itself \"devoted not a word to the question,\" H."
+                        },
+                        {
+                            "verse": 205,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:205",
+                            "text": "E."
+                        },
+                        {
+                            "verse": 206,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:206",
+                            "text": "iii."
+                        },
+                        {
+                            "verse": 207,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:207",
+                            "text": "7."
+                        },
+                        {
+                            "verse": 208,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:208",
+                            "text": "; which hardly consists with its having intended to rule that ἐξ ἑτέρας ὑποστάσεως was distinct from ἐξ ἑτέρας οὐσίας."
+                        },
+                        {
+                            "verse": 209,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:209",
+                            "text": "And in like manner the Council of Alexandria, a."
+                        },
+                        {
+                            "verse": 210,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:210",
+                            "text": "d."
+                        },
+                        {
+                            "verse": 211,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:211",
+                            "text": "362, in deciding that the sense of Hypostasis was an open question, not only from the very nature of the case goes on the supposition that the Nicene Council had not closed it, but says so in words again and again in its Synodal Letter."
+                        },
+                        {
+                            "verse": 212,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:212",
+                            "text": "If the Nicene Council had already used \"hypostasis\" in its present sense, what remained to Athanasius at Alexandria but to submit to it?  Indeed the history of this Council is perhaps the strongest argument against the supposed discrimination of the two terms by the Council of Nicaea."
+                        },
+                        {
+                            "verse": 213,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:213",
+                            "text": "Bull can only meet it by considering that an innovation upon the \"veterem vocabuli usum\" began at the date of the Council of Sardica, though Socrates mentions the dispute as existing at Alexandria before the Nicene Council, H."
+                        },
+                        {
+                            "verse": 214,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:214",
+                            "text": "E."
+                        },
+                        {
+                            "verse": 215,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:215",
+                            "text": "iii."
+                        },
+                        {
+                            "verse": 216,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:216",
+                            "text": "4."
+                        },
+                        {
+                            "verse": 217,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:217",
+                            "text": "5."
+                        },
+                        {
+                            "verse": 218,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:218",
+                            "text": "while the supposititious confession of Sardica professes to have received the doctrine of the one hypostasis by tradition as Catholic."
+                        },
+                        {
+                            "verse": 219,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:219",
+                            "text": "Nor is the use of the word in earlier times inconsistent with these testimonies; though it occurs so seldom, in spite of its being a word of S."
+                        },
+                        {
+                            "verse": 220,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:220",
+                            "text": "Paul [i-e: Heb."
+                        },
+                        {
+                            "verse": 221,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:221",
+                            "text": "i."
+                        },
+                        {
+                            "verse": 222,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:222",
+                            "text": "3], that testimony is our principal evidence."
+                        },
+                        {
+                            "verse": 223,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:223",
+                            "text": "Socrates' remarks deserve to be quoted; \"Those among the Greeks who have treated of the Greek philosophy, have defined essence, οὐσία, in many ways, but they had made no mention at all of hypostasis."
+                        },
+                        {
+                            "verse": 224,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:224",
+                            "text": "Irenaeus the Grammarian, in his alphabetical Atticist, even calls the term barbarous; because it is not used by any of the ancients, and if anywhere found, it does not mean what it is now taken for."
+                        },
+                        {
+                            "verse": 225,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:225",
+                            "text": "Thus in the Phoenix of Sophocles it means an 'ambush;' but in Menander, 'preserves,' as if one were to call the wine-lees in a cask 'hypostasis."
+                        },
+                        {
+                            "verse": 226,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:226",
+                            "text": "' However it must be observed, that, in spite of the old philosophers being silent about the term, the more modern continually use it for essence, οὐσίας, H."
+                        },
+                        {
+                            "verse": 227,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:227",
+                            "text": "E."
+                        },
+                        {
+                            "verse": 228,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:228",
+                            "text": "iii."
+                        },
+                        {
+                            "verse": 229,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:229",
+                            "text": "7."
+                        },
+                        {
+                            "verse": 230,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:230",
+                            "text": "The word principally occurs in Origen among Ante-Nicene writers, and he, it must be confessed uses it, as far as the context decides its sense, to mean subsistence or person."
+                        },
+                        {
+                            "verse": 231,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:231",
+                            "text": "In other words, it was the word of a certain school in the Church, which afterwards was accepted by the Church; but this proves nothing about the sense in which it was used at Nicaea."
+                        },
+                        {
+                            "verse": 232,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:232",
+                            "text": "The three Hypostases are spoken of by Origen, his pupil Dionysius, as afterwards by Eusebius of Caesarea (though he may notwithstanding have considered hypostasis synonymous with essence), and Athanasius (Origen in Joan."
+                        },
+                        {
+                            "verse": 233,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:233",
+                            "text": "ii."
+                        },
+                        {
+                            "verse": 234,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:234",
+                            "text": "6."
+                        },
+                        {
+                            "verse": 235,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:235",
+                            "text": "Dionys."
+                        },
+                        {
+                            "verse": 236,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:236",
+                            "text": "ap."
+                        },
+                        {
+                            "verse": 237,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:237",
+                            "text": "Basil de Sp."
+                        },
+                        {
+                            "verse": 238,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:238",
+                            "text": "S."
+                        },
+                        {
+                            "verse": 239,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:239",
+                            "text": "n."
+                        },
+                        {
+                            "verse": 240,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:240",
+                            "text": "72."
+                        },
+                        {
+                            "verse": 241,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:241",
+                            "text": "Euseb."
+                        },
+                        {
+                            "verse": 242,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:242",
+                            "text": "ap."
+                        },
+                        {
+                            "verse": 243,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:243",
+                            "text": "Socr."
+                        },
+                        {
+                            "verse": 244,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:244",
+                            "text": "i."
+                        },
+                        {
+                            "verse": 245,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:245",
+                            "text": "23."
+                        },
+                        {
+                            "verse": 246,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:246",
+                            "text": "Athan."
+                        },
+                        {
+                            "verse": 247,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:247",
+                            "text": "in Illud Omnia, &c."
+                        },
+                        {
+                            "verse": 248,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:248",
+                            "text": "6); and the Two Hypostases of the Father and the Son, by Origen, Ammonius, and Alexander (Origen c."
+                        },
+                        {
+                            "verse": 249,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:249",
+                            "text": "Cels."
+                        },
+                        {
+                            "verse": 250,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:250",
+                            "text": "viii."
+                        },
+                        {
+                            "verse": 251,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:251",
+                            "text": "2."
+                        },
+                        {
+                            "verse": 252,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:252",
+                            "text": "Ammon."
+                        },
+                        {
+                            "verse": 253,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:253",
+                            "text": "ap."
+                        },
+                        {
+                            "verse": 254,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:254",
+                            "text": "Caten."
+                        },
+                        {
+                            "verse": 255,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:255",
+                            "text": "in Joan."
+                        },
+                        {
+                            "verse": 256,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:256",
+                            "text": "x."
+                        },
+                        {
+                            "verse": 257,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:257",
+                            "text": "30."
+                        },
+                        {
+                            "verse": 258,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:258",
+                            "text": "Alex."
+                        },
+                        {
+                            "verse": 259,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:259",
+                            "text": "ap."
+                        },
+                        {
+                            "verse": 260,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:260",
+                            "text": "Theod."
+                        },
+                        {
+                            "verse": 261,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:261",
+                            "text": "i."
+                        },
+                        {
+                            "verse": 262,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:262",
+                            "text": "3."
+                        },
+                        {
+                            "verse": 263,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:263",
+                            "text": "p."
+                        },
+                        {
+                            "verse": 264,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:264",
+                            "text": "740)."
+                        },
+                        {
+                            "verse": 265,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:265",
+                            "text": "As to the passage in which two hypostases are spoken of in Dionysius' letter to Paul of Samosata, that letter certainly is not genuine, as might be shewn on a fitting occasion, though it is acknowledged by very great authorities."
+                        },
+                        {
+                            "verse": 266,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:266",
+                            "text": "I confess that to my mind there is an antecedent probability that the view which has here been followed is correct."
+                        },
+                        {
+                            "verse": 267,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:267",
+                            "text": "Judging by the general history of doctrine, one should not expect that the formal ecclesiastical meaning of the word should have obtained everywhere so early."
+                        },
+                        {
+                            "verse": 268,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:268",
+                            "text": "Nothing is more certain than that the doctrines themselves of the Holy Trinity and the Incarnation were developed, or, to speak more definitely, that the propositions containing them were acknowledged, from the earliest times; but the particular terms which now belong to them are most uniformly of a later date."
+                        },
+                        {
+                            "verse": 269,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:269",
+                            "text": "Ideas were brought out, but technical phrases did not obtain."
+                        },
+                        {
+                            "verse": 270,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:270",
+                            "text": "Not that these phrases did not exist, but either not as technical, or in use in a particular School or Church, or with a particular writer, or as ἅπαξ λεγόμενα, as words discussed, nay resisted, perhaps used by some local Council, and then at length accepted generally from their obvious propriety."
+                        },
+                        {
+                            "verse": 271,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:271",
+                            "text": "Thus the words of the Schools pass into the service of the Catholic Church."
+                        },
+                        {
+                            "verse": 272,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:272",
+                            "text": "Instead then of the word ὑπόστασις being, as Maran says, received in the East \"summo consensu,\" from the date of Noetus or at least Sabellius, or of Bull's opinion \"apud Catholicos Dionysii aetate ratum et fixum illud fuisse, tres esse in divinis hypostases,\" I would consider that the present use of the word was in the first instance Alexandrian, and that it was little more than Alexandrian till the middle of the fourth century."
+                        },
+                        {
+                            "verse": 273,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:273",
+                            "text": "Lastly, it comes to be considered how the two words are to be accounted for in the Creed, if they have not distinct senses."
+                        },
+                        {
+                            "verse": 274,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:274",
+                            "text": "Coustant supposes that ἐξ οὐσίας was added to explain ἐξ ὑποστάσεως, lest the latter should be taken in a Sabellian sense."
+                        },
+                        {
+                            "verse": 275,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:275",
+                            "text": "On which we may perhaps remark besides, that the reason why ὑπόστασις was selected as the principal term was, that it was agreeable to the Westerns as well as admitted by the Orientals."
+                        },
+                        {
+                            "verse": 276,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:276",
+                            "text": "Thus, by way of contrast, we find the Second General Council, at which there were no Latins, speaking of Three Hypostases, and Pope Damasus and the Roman Council speaking a few years sooner of the Holy Ghost as of the same hypostasis and usia with the Father and the Son."
+                        },
+                        {
+                            "verse": 277,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:277",
+                            "text": "Theod."
+                        },
+                        {
+                            "verse": 278,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:278",
+                            "text": "H."
+                        },
+                        {
+                            "verse": 279,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:279",
+                            "text": "E."
+                        },
+                        {
+                            "verse": 280,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:280",
+                            "text": "ii."
+                        },
+                        {
+                            "verse": 281,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:281",
+                            "text": "17."
+                        },
+                        {
+                            "verse": 282,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:282",
+                            "text": "Many things go to make this probable."
+                        },
+                        {
+                            "verse": 283,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:283",
+                            "text": "For instance, Coustant acutely points out, though Maran and the President of Magdalen [Routh, Rel."
+                        },
+                        {
+                            "verse": 284,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:284",
+                            "text": "Sac."
+                        },
+                        {
+                            "verse": 285,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:285",
+                            "text": "iii."
+                        },
+                        {
+                            "verse": 286,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:286",
+                            "text": "383] dissent, that this probably was a point of dispute between the two Dionysii; the Bishop of Alexandria asserting, as we know he did assert, Three Hypostases, the Bishop of Rome protesting in reply against \"Three partitive Hypostases,\" as involving tritheism, and his namesake rejoining, \"If because there are Three Hypostases, any say that they are partitive, three there are, though they like it not\"."
+                        },
+                        {
+                            "verse": 287,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:287",
+                            "text": "Again, the influence of the West shews itself in the language of Athanasius, who, contrary to the custom of his Church, of Origen, Dionysius, and his own immediate patron and master Alexander, so varies his own use of the word, as to make his writings almost an example of that freedom which he vindicated in the Council of Alexandria."
+                        },
+                        {
+                            "verse": 288,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:288",
+                            "text": "Again, when Hosius went to Alexandria before the Nicene Council, and a dispute arose with reference to Sabellianism about the words ὑπόστασις and οὐσία, what is this too, but the collision of East and West? It should be remembered moreover that Hosius presided at Nicaea, a Latin in an Eastern city; and again at Sardica, where, though the decree in favour of the One Hypostasis was not passed, it seems clear from the history that he was resisting persons with whom in great measure he agreed."
+                        },
+                        {
+                            "verse": 289,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:289",
+                            "text": "Further, the same consideration accounts for the omission of the ἐξ οὐσίας from the Confession of Mark and the two which follow, on which Bull relies in proof that the Semi-arians rejected this formula."
+                        },
+                        {
+                            "verse": 290,
+                            "chapter": 1,
+                            "name": "Athanasius: Excursus A 1:290",
+                            "text": "These three Semi-arian Creeds, and these only, were addressed to the Latins, and therefore their compilers naturally select that synonym which was most pleasing to them, as the means of securing a hearing; just as Athanasius on the other hand in his de Decretis, writing to the Greeks, omits ὑποστάσεως and writes οὐσίας."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

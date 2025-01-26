@@ -1,0 +1,951 @@
+{
+    "books": [
+        {
+            "name": "I Pseudo-Clement",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "I Pseudo-Clement 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "I Pseudo-Clement 1:1",
+                            "text": "Epistles Concerning Virginity, First Pseudo-Clement: The First Epistle of the Blessed Clement, the Disciple of Peter the Apostle."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "I Pseudo-Clement 1:2",
+                            "text": "Chapter I."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "I Pseudo-Clement 1:3",
+                            "text": "—The Salutation."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "I Pseudo-Clement 1:4",
+                            "text": "To all those who love and cherish their life in Christ through God the Father, and obey the truth of God in hope of eternal life; to those who bear affection towards their brethren and towards their neighbours in the love of God; to the blessed virgins, who devote themselves to preserve virginity \"for the sake of the kingdom of heaven;\" and to the holy virgins:  the peace which is in God."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 2,
+                    "name": "I Pseudo-Clement 2",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 2,
+                            "name": "I Pseudo-Clement 2:1",
+                            "text": "Chapter II."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 2,
+                            "name": "I Pseudo-Clement 2:2",
+                            "text": "—For True Virginity Perfect Virtue is Necessary."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 2,
+                            "name": "I Pseudo-Clement 2:3",
+                            "text": "Of all virgins of either sex who have truly resolved to preserve virginity for the sake of the kingdom of heaven—of each and every one of them it is required that he be worthy of the kingdom of heaven in every thing."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 2,
+                            "name": "I Pseudo-Clement 2:4",
+                            "text": "For not by eloquence or renown, by station and descent, or by beauty or strength, or by length of life, is the kingdom of heaven obtained; but it is obtained by the power of faith, when a man exhibits the works of faith."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 2,
+                            "name": "I Pseudo-Clement 2:5",
+                            "text": "For whosoever is truly righteous, his works testify concerning his faith, that he is truly a believer, with a faith which is great, a faith which is perfect, a faith which is in God, a faith which shines in good works, that the Father of all may be glorified through Christ."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 2,
+                            "name": "I Pseudo-Clement 2:6",
+                            "text": "Now, those who are truly virgins for the sake of God give heed to Him who hath said, \"Let not righteousness and faith fail thee; bind them on thy neck, and thou shalt find favour for thyself; and devise thou good things before God and before men\"."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 2,
+                            "name": "I Pseudo-Clement 2:7",
+                            "text": "\"The paths,\" therefore, \"of the righteous shine as the light, and the light of them advances until the day is perfect\"."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 2,
+                            "name": "I Pseudo-Clement 2:8",
+                            "text": "For the beams of their light illumine the whole creation even now by good works, as those who are truly \"the light of the world,\" giving light to \"those who sit in darkness,\" that they may arise and go forth from the darkness by the light of the good works of the fear of God, \"that they may see our good works and glorify our Father who is in heaven\"."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 2,
+                            "name": "I Pseudo-Clement 2:9",
+                            "text": "For it is required of the man of God, that in all his words and works he be perfect, and that in his life he be adorned with all exemplary and well-ordered behaviour, and do all his deeds in righteousness, as a man of God."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 3,
+                    "name": "I Pseudo-Clement 3",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 3,
+                            "name": "I Pseudo-Clement 3:1",
+                            "text": "Chapter III."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 3,
+                            "name": "I Pseudo-Clement 3:2",
+                            "text": "—True Virgins Prove Themselves Such by Self-Denial, as Does the True Believer by Good Works."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 3,
+                            "name": "I Pseudo-Clement 3:3",
+                            "text": "For virgins are a beautiful pattern to believers, and to those who shall believe."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 3,
+                            "name": "I Pseudo-Clement 3:4",
+                            "text": "The name alone, indeed, without works, does not introduce into the kingdom of heaven; but, if a man be truly a believer, such an one can be saved."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 3,
+                            "name": "I Pseudo-Clement 3:5",
+                            "text": "For, if a person be only called a believer in name, whilst he is not such in works, he cannot possibly be a believer."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 3,
+                            "name": "I Pseudo-Clement 3:6",
+                            "text": "\"Let no one,\" therefore, \"lead you astray with the empty words of error\"."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 3,
+                            "name": "I Pseudo-Clement 3:7",
+                            "text": "For, merely because a person is called a virgin, if he be destitute of works excellent and comely, and suitable to virginity, he cannot possibly be saved."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 3,
+                            "name": "I Pseudo-Clement 3:8",
+                            "text": "For our Lord called such virginity as that \"foolish,\" as He said in the Gospel; and because it had neither oil nor light, it was left outside of the kingdom of heaven, and was shut out from the joy of the bridegroom, and was reckoned with His enemies."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 3,
+                            "name": "I Pseudo-Clement 3:9",
+                            "text": "For such persons as these \"have the appearance only of the fear of God, but the power of it they deny\"."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 3,
+                            "name": "I Pseudo-Clement 3:10",
+                            "text": "For they \"think with themselves that they are something, whilst they are nothing, and are deceived."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 3,
+                            "name": "I Pseudo-Clement 3:11",
+                            "text": "But let every one constantly try his works,\" and know himself; for empty worship does he offer, whosoever he be that makes profession of virginity and sanctity, \"and denies its power\"."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 3,
+                            "name": "I Pseudo-Clement 3:12",
+                            "text": "For virginity of such a kind is impure, and disowned by all good works."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 3,
+                            "name": "I Pseudo-Clement 3:13",
+                            "text": "For \"every tree whatsoever is known from its fruits\"."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 3,
+                            "name": "I Pseudo-Clement 3:14",
+                            "text": "\"See that thou understand what I say:  God will give thee understanding\"."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 3,
+                            "name": "I Pseudo-Clement 3:15",
+                            "text": "For whosoever engages before God to preserve sanctity must be girded with all the holy power of God."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 3,
+                            "name": "I Pseudo-Clement 3:16",
+                            "text": "And, if with true fear he crucify his body, he for the sake of the fear of God excuses himself from that word in which the Scripturehas said:  \"Be fruitful, and multiply,\" and shuns all the display, and care, and sensuality, and fascination of this world, and its revelries and its drunkenness, and all its luxury and ease, and withdraws from the entire life of this world, and from its snares, and nets, and hindrances; and, whilst thou walkest upon the earth, be zealous that thy work and thy business be in heaven."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 4,
+                    "name": "I Pseudo-Clement 4",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 4,
+                            "name": "I Pseudo-Clement 4:1",
+                            "text": "Chapter IV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 4,
+                            "name": "I Pseudo-Clement 4:2",
+                            "text": "—Continuation of the Remarks on Self-Denial; Object and Reward of True Virgins."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 4,
+                            "name": "I Pseudo-Clement 4:3",
+                            "text": "For he who covets for himself these things so great and excellent, withdraws and severs himself on this account from all the world, that he may go and live a life divine and heavenly, like the holy angels, in work pure and holy, and \"in the holiness of the Spirit of God,\" and that he may serve God Almighty through Jesus Christ for the sake of the kingdom of heaven."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 4,
+                            "name": "I Pseudo-Clement 4:4",
+                            "text": "On this account he severs himself from all the appetites of the body."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 4,
+                            "name": "I Pseudo-Clement 4:5",
+                            "text": "And not only does he excuse himself from this command, \"Be fruitful, and multiply,\" but he longs for the \"hope promised\" and prepared \"and laid up in heaven\" by God, who has declared with His mouth, and He does not lie, that it is \"better than sons and daughters,\" and that He will give to virgins a notable place in the house of God, which is something \"better than sons and daughters,\" and better than the place of those who have passed a wedded life in sanctity, and whose \"bed has not been defiled\"."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 4,
+                            "name": "I Pseudo-Clement 4:6",
+                            "text": "For God will give to virgins the kingdom of heaven, as to the holy angels, by reason of this great and noble profession."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 5,
+                    "name": "I Pseudo-Clement 5",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 5,
+                            "name": "I Pseudo-Clement 5:1",
+                            "text": "Chapter V."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 5,
+                            "name": "I Pseudo-Clement 5:2",
+                            "text": "—The Irksomeness and the Enemies of Virginity."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 5,
+                            "name": "I Pseudo-Clement 5:3",
+                            "text": "Thou desirest, then, to be a virgin?  Knowest thou what hardship and irksomeness there is in true virginity—that which stands constantly at all seasons before God, and does not withdraw from His service, and \"is anxious how it may please its Lord with a holy body, and with its spirit?\"  Knowest thou what great glory pertains to virginity, and is it for this that thou dost set thyself to practise it?  Dost thou really know and understand what it is thou art eager to do?  Art thou acquainted with the noble task of holy virginity?  Dost thou know how, like a man, to enter \"lawfully\" upon this contest and \"strive,\" that, in the might of the Holy Spirit, thou choosest this for thyself, that thou mayest be crowned with a crown of light, and that they may lead thee about in triumph through \"the Jerusalem above\"?  If so be, then, that thou longest for all these things, conquer the body; conquer the appetites of the flesh; conquer the world in the Spirit of God; conquer these vain things of time, which pass away and grow old, and decay, and come to an end; conquer the dragon; conquer the lion; conquer the serpent; conquer Satan;—through Jesus Christ, who doth strengthen thee by the hearing of His words and the divine Eucharist."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 5,
+                            "name": "I Pseudo-Clement 5:4",
+                            "text": "\"Take up thy cross and follow\" Him who makes thee clean, Jesus Christ thy Lord."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 5,
+                            "name": "I Pseudo-Clement 5:5",
+                            "text": "Strive to run straight forward and boldly, not with fear, but with courage, relying on the promise of thy Lord, that thou shalt obtain the victor-crown of thy \"calling on high\" through Jesus Christ."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 5,
+                            "name": "I Pseudo-Clement 5:6",
+                            "text": "For whosoever walks perfect in faith, and not fearing, doth in very deed receive the crown of virginity, which is great in its toil and great in its reward."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 5,
+                            "name": "I Pseudo-Clement 5:7",
+                            "text": "Dost thou understand and know how honourable a thing is sanctity?  Dost thou understand how great and exalted and excellent is the glory of virginity?."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 6,
+                    "name": "I Pseudo-Clement 6",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 6,
+                            "name": "I Pseudo-Clement 6:1",
+                            "text": "Chapter VI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 6,
+                            "name": "I Pseudo-Clement 6:2",
+                            "text": "—Divinity of Virginity."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 6,
+                            "name": "I Pseudo-Clement 6:3",
+                            "text": "The womb of a holy virgin carried our Lord Jesus Christ, the Son of God; and the body which our Lord wore, and in which He carried on the conflict in this world, He put on from a holy virgin."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 6,
+                            "name": "I Pseudo-Clement 6:4",
+                            "text": "From this, therefore, understand the greatness and dignity of virginity."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 6,
+                            "name": "I Pseudo-Clement 6:5",
+                            "text": "Dost thou wish to be a Christian?  Imitate Christ in everything."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 6,
+                            "name": "I Pseudo-Clement 6:6",
+                            "text": "John, the ambassador, he who came before our Lord, he \"than whom there was not a greater among those born of women,\" the holy messenger of our Lord, was a virgin."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 6,
+                            "name": "I Pseudo-Clement 6:7",
+                            "text": "Imitate, therefore, the ambassador of our Lord, and be his follower in every thing."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 6,
+                            "name": "I Pseudo-Clement 6:8",
+                            "text": "That John, again, who \"reclined on the bosom of our Lord, and whom He greatly loved,\"—he, too, was a holy person."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 6,
+                            "name": "I Pseudo-Clement 6:9",
+                            "text": "For it was not without reason that our Lord loved him."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 6,
+                            "name": "I Pseudo-Clement 6:10",
+                            "text": "Paul, also, and Barnabas, and Timothy, with all the others, \"whose names are written in the book of life,\"—these, I say, all cherished and loved sanctity, and ran in the contest, and finished their course without blemish, as imitators of Christ, and as sons of the living God."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 6,
+                            "name": "I Pseudo-Clement 6:11",
+                            "text": "Moreover, also, Elijah and Elisha, and many other holy men, we find to have lived a holy and spotless life."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 6,
+                            "name": "I Pseudo-Clement 6:12",
+                            "text": "If, therefore, thou desirest to be like these, imitate them with all thy power."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 6,
+                            "name": "I Pseudo-Clement 6:13",
+                            "text": "For the Scripture has said, \"The elders who are among you, honour; and, seeing their manner of life and conduct, imitate their faith\"."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 6,
+                            "name": "I Pseudo-Clement 6:14",
+                            "text": "And again it saith, \"Imitate me, my brethren, as I imitate Christ\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 7,
+                    "name": "I Pseudo-Clement 7",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 7,
+                            "name": "I Pseudo-Clement 7:1",
+                            "text": "Chapter VII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 7,
+                            "name": "I Pseudo-Clement 7:2",
+                            "text": "—The True Virgin."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 7,
+                            "name": "I Pseudo-Clement 7:3",
+                            "text": "Those, therefore, who imitate Christ, imitate Him earnestly."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 7,
+                            "name": "I Pseudo-Clement 7:4",
+                            "text": "For those who have \"put on Christ\" in truth, express His likeness in their thoughts, and in their whole life, and in all their behaviour:  in word, and in deeds, and in patience, and in fortitude, and in knowledge, and in chastity, and in long-suffering, and in a pure heart, and in faith, and in hope, and in full and perfect love towards God."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 7,
+                            "name": "I Pseudo-Clement 7:5",
+                            "text": "No virgin, therefore, unless they be in everything as Christ, and as those \"who are Christs,\" can be saved."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 7,
+                            "name": "I Pseudo-Clement 7:6",
+                            "text": "For every virgin who is in God is holy in her body and in her spirit, and is constant in the service of her Lord, not turning away from it any whither, but waiting upon Him always in purity and holiness in the Spirit of God, being \"solicitous how she may please her Lord,\" by living purely and without stain, and solicitous to be pleasing before Him in every thing."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 7,
+                            "name": "I Pseudo-Clement 7:7",
+                            "text": "She who is such does not withdraw from our Lord, but in spirit is ever with her Lord:  as it is written, \"Be ye holy, as I am holy, saith the Lord\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 8,
+                    "name": "I Pseudo-Clement 8",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 8,
+                            "name": "I Pseudo-Clement 8:1",
+                            "text": "Chapter VIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 8,
+                            "name": "I Pseudo-Clement 8:2",
+                            "text": "—Virgins, by the Laying Aside of All Carnal Affection, are Imitators of God."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 8,
+                            "name": "I Pseudo-Clement 8:3",
+                            "text": "For, if a man be only in name called holy, he is not holy; but he must be holy in everything:  in his body and in his spirit."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 8,
+                            "name": "I Pseudo-Clement 8:4",
+                            "text": "And those who are virgins rejoice at all times in becoming like God and His Christ, and are imitators of them."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 8,
+                            "name": "I Pseudo-Clement 8:5",
+                            "text": "For in those that are such there is not \"the mind of the flesh\"."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 8,
+                            "name": "I Pseudo-Clement 8:6",
+                            "text": "In those who are truly believers, and \"in whom the Spirit of Christ dwells\"—in them \"the mind of the flesh\" cannot be:  which is fornication, uncleanness, wantonness; idolatry, sorcery; enmity, jealousy, rivalry, wrath, disputes, dissensions, ill-will; drunkenness, revelry; buffoonery, foolish talking, boisterous laughter; backbiting, insinuations; bitterness, rage; clamour, abuse, insolence of speech; malice, inventing of evil, falsehood; talkativeness, babbling; threatenings, gnashing of teeth, readiness to accuse, jarring, disdainings, blows; perversions of the right,laxness in judgment; haughtiness, arrogance, ostentation, pompousness, boasting of family, of beauty, of position, of wealth, of an arm of flesh; quarrelsomeness, injustice, eagerness for victory; hatred, anger, envy, perfidy, retaliation; debauchery, gluttony, \"overreaching (which is idolatry),\" \"the love of money (which is the root of all evils);\" love of display, vainglory, love of rule, assumption, pride (which is called death, and which \"God fights against\")."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 8,
+                            "name": "I Pseudo-Clement 8:7",
+                            "text": "Every man with whom are these and such like things—every such man is of the flesh."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 8,
+                            "name": "I Pseudo-Clement 8:8",
+                            "text": "For, \"he that is born of the flesh is flesh; and he that is of the earth speaketh of the earth,\" and his thoughts are of the earth."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 8,
+                            "name": "I Pseudo-Clement 8:9",
+                            "text": "And \"the mind of the flesh is enmity towards God."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 8,
+                            "name": "I Pseudo-Clement 8:10",
+                            "text": "For it does not submit itself to the law of God; for it cannot do so,\" because it is in the flesh, \"in which dwells no good,\" because the Spirit of God is not in it."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 8,
+                            "name": "I Pseudo-Clement 8:11",
+                            "text": "For this cause justly does the Scripture say regarding such a generation as this:  \"My Spirit shall not dwell in men for ever, because they are flesh\"."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 8,
+                            "name": "I Pseudo-Clement 8:12",
+                            "text": "\"Whosoever, therefore, has not the Spirit of God in him, is none of His:\"  as it is written, \"The Spirit of God departed from Saul, and an evil spirit troubled him, which was sent upon him from God\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 9,
+                    "name": "I Pseudo-Clement 9",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 9,
+                            "name": "I Pseudo-Clement 9:1",
+                            "text": "Chapter IX."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 9,
+                            "name": "I Pseudo-Clement 9:2",
+                            "text": "—Continuation of the Subject of Mortification; Dignity of Persons Consecrated to God."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 9,
+                            "name": "I Pseudo-Clement 9:3",
+                            "text": "He in whomsoever the Spirit of God is, is in accord with the will of the Spirit of God; and, because he is in accord with the Spirit of God, therefore does he mortify the deeds of the body and live unto God, \"treading down and subjugating the body and keeping it under; so that, while preaching to others,\" he may be a beautiful example and pattern to believers, and may spend his life in works which are worthy of the Holy Spirit, so that he may \"not be cast away,\" but may be approved before God and before men."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 9,
+                            "name": "I Pseudo-Clement 9:4",
+                            "text": "For in \"the man who is of God,\" with him I say there is nothing of the mind of the flesh; and especially in virgins of either sex; but the fruits of all of them are \"the fruits of the Spirit\" and of life, and they are truly the city of God, and the houses and temples in which God abides and dwells, and among which He walks, as in the holy city of heaven."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 9,
+                            "name": "I Pseudo-Clement 9:5",
+                            "text": "For in this \"do ye appear to the world as lights, in that ye give heed to the Word of life,\" and thus ye are in truth the praise, and the boast, and the crown of rejoicing, and the delight of good servants in our Lord Jesus Christ."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 9,
+                            "name": "I Pseudo-Clement 9:6",
+                            "text": "For all who see you will \"acknowledge that ye are the seed which the Lord hath blessed;\" in very deed a seed honourable and holy, and \"a priestly kingdom, a holy people, the people of the inheritance,\" the heirs of the promises of God; of things which do not decay, nor wither; of \"that which eye hath not seen, and ear hath not heard, and which hath not come up into the heart of man; of that which God hath prepared for those who love Him and keep His commandments\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 10,
+                    "name": "I Pseudo-Clement 10",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 10,
+                            "name": "I Pseudo-Clement 10:1",
+                            "text": "Chapter X."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 10,
+                            "name": "I Pseudo-Clement 10:2",
+                            "text": "—Denunciation of Dangerous and Scandalous Association with Maidens."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 10,
+                            "name": "I Pseudo-Clement 10:3",
+                            "text": "Now, we are persuaded of you, my brethren, that your thoughts are occupied about those things which are requisite for your salvation."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 10,
+                            "name": "I Pseudo-Clement 10:4",
+                            "text": "But we speak thus in consequence of the evil rumours and reports concerning shameless men, who, under pretext of the fear of God, have their dwelling with maidens, and so, expose themselves to danger, and walk with them along the road and in solitary places alone—a course which is full of dangers, and full of stumbling-blocks and snares and pitfalls; nor is it in any respect right for Christians and those who fear God so to conduct themselves."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 10,
+                            "name": "I Pseudo-Clement 10:5",
+                            "text": "Others, too, eat and drink with them at entertainments allowing themselves in loose behaviour and much uncleanness—such as ought not to be among believers, and especially among those who have chosen for themselves a life of holiness."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 10,
+                            "name": "I Pseudo-Clement 10:6",
+                            "text": "Others, again, meet together for vain and trifling conversation and merriment, and that they may speak evil of one another; and they hunt up tales against one another, and are idle:  persons with whom we do not allow you even to eat bread."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 10,
+                            "name": "I Pseudo-Clement 10:7",
+                            "text": "Then, others gad about among the houses of virgin brethren or sisters, on pretence of visiting them, or reading the Scriptures to them, or exorcising them."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 10,
+                            "name": "I Pseudo-Clement 10:8",
+                            "text": "Forasmuch as they are idle and do no work, they pry into those things which ought not to be inquired into, and by means of plausible words make merchandise of the name of Christ."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 10,
+                            "name": "I Pseudo-Clement 10:9",
+                            "text": "These are men from whom the divine apostle kept aloof, because of the multitude of their evil deeds; as it is written:  \"Thorns sprout in the hands of the idle;\" and, \"The ways of the idle are full of thorns\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 11,
+                    "name": "I Pseudo-Clement 11",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 11,
+                            "name": "I Pseudo-Clement 11:1",
+                            "text": "Chapter XI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 11,
+                            "name": "I Pseudo-Clement 11:2",
+                            "text": "—Perniciousness of Idleness; Warning Against the Empty Longing to Be Teachers; Advice About Teaching and the Use of Divine Gifts."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 11,
+                            "name": "I Pseudo-Clement 11:3",
+                            "text": "Such are the ways of all those who do not work, but go hunting for tales, and think to themselves that this is profitable and right."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 11,
+                            "name": "I Pseudo-Clement 11:4",
+                            "text": "For such persons are like those idle and prating widows \"who go wandering about among houses\" with their prating, and hunt for idle tales, and carry them from house to house with much exaggeration, without fear of God."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 11,
+                            "name": "I Pseudo-Clement 11:5",
+                            "text": "And besides all this, barefaced men as they are, under pretence of teaching, they set forth a variety of doctrines."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 11,
+                            "name": "I Pseudo-Clement 11:6",
+                            "text": "And would that they taught the doctrines of truth!  But it is this which is so disquieting, that they understand not what they mean, and assert that which is not true:  because they wish to be teachers, and to display themselves as skilful in speaking; because they traffic in iniquity in the name of Christ—which it is not right for the servants of God to do."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 11,
+                            "name": "I Pseudo-Clement 11:7",
+                            "text": "And they hearken not to that which the Scripture has said:  \"Let not many be teachers among you, my brethren, and be not all of you prophets\"."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 11,
+                            "name": "I Pseudo-Clement 11:8",
+                            "text": "For \"he who does not transgress in word is a perfect man, able to keep down and subjugate his whole body\"."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 11,
+                            "name": "I Pseudo-Clement 11:9",
+                            "text": "And, \"If a man speak, let him speak in the words of God\"."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 11,
+                            "name": "I Pseudo-Clement 11:10",
+                            "text": "And, \"If there is in thee understanding, give an answer to thy brother but if not, put thy hand on thy mouth\"."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 11,
+                            "name": "I Pseudo-Clement 11:11",
+                            "text": "For, \"at one time it is proper to keep silence, and at another thee to speak\"."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 11,
+                            "name": "I Pseudo-Clement 11:12",
+                            "text": "And again it says \"When a man speaks in season, it is honourable to him\"."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 11,
+                            "name": "I Pseudo-Clement 11:13",
+                            "text": "And again it says:  \"Let your speech be seasoned with grace."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 11,
+                            "name": "I Pseudo-Clement 11:14",
+                            "text": "For it is required of a man to know how to give an answer to every one in season\"."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 11,
+                            "name": "I Pseudo-Clement 11:15",
+                            "text": "For \"he that utters whatsoever comes to his mouth, that man produces strife; and he that utters a superfluity of words increases vexation; and he that is hasty with his lips falls into evil."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 11,
+                            "name": "I Pseudo-Clement 11:16",
+                            "text": "For because of the unruliness of the tongue cometh anger; but the perfect man keeps watch over his tongue, and loves his soul's life\"."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 11,
+                            "name": "I Pseudo-Clement 11:17",
+                            "text": "For these are they \"who by good words and fair speeches lead astray the hearts of the simple, and, while offering them blessings, lead them astray\"."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 11,
+                            "name": "I Pseudo-Clement 11:18",
+                            "text": "Let us, therefore, fear the judgment which awaits teachers."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 11,
+                            "name": "I Pseudo-Clement 11:19",
+                            "text": "For a severe judgment will those teachers receive \"who teach, but do not,\" and those who take upon them the name of Christ falsely, and say:  We teach the truth, and yet go wandering about idly, and exalt themselves, and make their boast\" in the mind of the flesh\"."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 11,
+                            "name": "I Pseudo-Clement 11:20",
+                            "text": "These, moreover, are like \"the blind man who leads the blind man, and they both fall into the ditch\"."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 11,
+                            "name": "I Pseudo-Clement 11:21",
+                            "text": "And they will receive judgment, because in their talkativeness and their frivolous teaching they teach natural wisdom and the \"frivolous error of the plausible words of the wisdom of men,\" \"according to the will of the prince of the dominion of the air, and of the spirit which works in those men who will not obey, according to the training of this world, and not according to the doctrine of Christ\"."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 11,
+                            "name": "I Pseudo-Clement 11:22",
+                            "text": "But if thou hast received \"the word of knowledge, or the word of instruction, or of prophecy,\" blessed be God, \"who helps every man without grudging—that God who gives to every man and does not upbraid him\"."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 11,
+                            "name": "I Pseudo-Clement 11:23",
+                            "text": "With the gift, therefore, which thou hast received from our Lord, serve thy spiritual brethren, the prophets who know that the words which thou speakest are those of our Lord; and declare the gift which thou hast received in the Church for the edification of the brethren in Christ (for good and excellent are those things which help the men of God), if so be that they are truly with thee."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 12,
+                    "name": "I Pseudo-Clement 12",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 12,
+                            "name": "I Pseudo-Clement 12:1",
+                            "text": "Chapter XII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 12,
+                            "name": "I Pseudo-Clement 12:2",
+                            "text": "—Rules for Visits, Exorcisms, and How People are to Assist the Sick, and to Walk in All Things Without Offence."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 12,
+                            "name": "I Pseudo-Clement 12:3",
+                            "text": "Moreover, also, this is comely and useful, that a man \"visit orphans and widows,\" and especially those poor persons who have many children."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 12,
+                            "name": "I Pseudo-Clement 12:4",
+                            "text": "These things are, without controversy, required of the servants of God, and comely and suitable for them."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 12,
+                            "name": "I Pseudo-Clement 12:5",
+                            "text": "This also, again, is suitable and right and comely for those who are brethren in Christ, that they should visit those who are harassed by evil spirits, and pray and pronounce adjurations over them, intelligently, offering such prayer as is acceptable before God; not with a multitude of fine words, well prepared and arranged, so that they may appear to men eloquent and of a good memory."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 12,
+                            "name": "I Pseudo-Clement 12:6",
+                            "text": "Such men are \"like a sounding pipe, or a tinkling cymbal;\" and they bring no help to those over whom they make their adjurations; but they speak with terrible words, and affright people, but do not act with true faith, according to the teaching of our Lord, who hath said:  \"This kind goeth not out but by fasting and prayer,\" offered unceasingly and with earnest mind."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 12,
+                            "name": "I Pseudo-Clement 12:7",
+                            "text": "And let them holily ask and beg of God, with cheerfulness and all circumspection and purity, without hatred and without malice."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 12,
+                            "name": "I Pseudo-Clement 12:8",
+                            "text": "In this way let us approach a brother or a sister who is sick, and visit them in a way that is right, without guile, and without covetousness, and without noise, and without talkativeness, and without such behaviour as is alien from the fear of God, and without haughtiness, but with the meek and lowly spirit of Christ."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 12,
+                            "name": "I Pseudo-Clement 12:9",
+                            "text": "Let them, therefore, with fasting and with prayer make their adjurations, and not with the elegant and well-arranged and fitly-ordered words of learning, but as men who have received the gift of healing from God, confidently, to the glory of God."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 12,
+                            "name": "I Pseudo-Clement 12:10",
+                            "text": "By your fastings and prayers and perpetual watching, together with your other good works, mortify the works of the flesh by the power of the Holy Spirit."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 12,
+                            "name": "I Pseudo-Clement 12:11",
+                            "text": "He who acts thus \"is a temple of the Holy Spirit of God\"."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 12,
+                            "name": "I Pseudo-Clement 12:12",
+                            "text": "Let this man cast out demons, and God will help him."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 12,
+                            "name": "I Pseudo-Clement 12:13",
+                            "text": "For it is good that a man help those that are sick."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 12,
+                            "name": "I Pseudo-Clement 12:14",
+                            "text": "Our Lord hath said:  \"Cast out demons,\" at the same time commanding many other acts of healing; and, \"Freely ye have received, freely give\"."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 12,
+                            "name": "I Pseudo-Clement 12:15",
+                            "text": "For such persons as these a goodly recompense is laid up by God, because they serve their brethren with the gifts which have been given them by the Lord."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 12,
+                            "name": "I Pseudo-Clement 12:16",
+                            "text": "This is also comely and helpful to the servants of God, because they act according to the injunctions of our Lord, who hath said:  \"I was sick, and ye visited Me, and so on\"."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 12,
+                            "name": "I Pseudo-Clement 12:17",
+                            "text": "And this is comely and right and just, that we visit our neighbours for the sake of God with all seemliness of manner and purity of behaviour; as the Apostle hath said:  \"Who is sick, and I am not sick? who is offended, and I am not offended?\"  But all these things are spoken in reference to the love with which a man should love his neighbour."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 12,
+                            "name": "I Pseudo-Clement 12:18",
+                            "text": "And in these things let us occupy ourselves, without giving offence, and let us not do anything with partiality or for the shaming of others, but let us love the poor as the servants of God, and especially let us visit them."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 12,
+                            "name": "I Pseudo-Clement 12:19",
+                            "text": "For this is comely before God and before men, that we should remember the poor, and be lovers of the brethren and of strangers, for the sake of God and for the sake of those who believe in God, as we have learnt from the law and from the prophets, and from our Lord Jesus Christ, concerning the love of the brotherhood and the love of strangers:  for ye know the words which have been spoken concerning the love of the brotherhood and the love of strangers; powerfully are the words spoken to all those who do them."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 13,
+                    "name": "I Pseudo-Clement 13",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 13,
+                            "name": "I Pseudo-Clement 13:1",
+                            "text": "Chapter XIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 13,
+                            "name": "I Pseudo-Clement 13:2",
+                            "text": "—What Priests Should Be and Should Not Be."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 13,
+                            "name": "I Pseudo-Clement 13:3",
+                            "text": "Beloved brethren! that a man should build up and establish the brethren on the faith in one God, this also is manifest and well-known."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 13,
+                            "name": "I Pseudo-Clement 13:4",
+                            "text": "This too, again, is comely, that a man should not be envious of his neighbour."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 13,
+                            "name": "I Pseudo-Clement 13:5",
+                            "text": "And moreover, again, it is suitable and comely that all those who work the works of the Lord should work the works of the Lord in the fear of God."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 13,
+                            "name": "I Pseudo-Clement 13:6",
+                            "text": "Thus is it required of them to conduct themselves."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 13,
+                            "name": "I Pseudo-Clement 13:7",
+                            "text": "That \"the harvest is great, but the workmen are few,\" this also is well-known and manifest."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 13,
+                            "name": "I Pseudo-Clement 13:8",
+                            "text": "Let us, therefore, \"ask of the Lord of the harvest\" that He would send forth workmen into the harvest; such workmen as \"shall skilfully dispense the word of truth;\" workmen \"who shall not be ashamed;\" faithful workmen; workmen who shall be \"the light of the world;\" workmen who \"work not for the food that perisheth, but for that food which abideth unto life eternal;\" workmen who shall be such as the apostles; workmen who imitate the Father, and the Son, and the Holy Spirit; who are concerned for the salvation of men; not \"hireling\" workmen; not workmen to whom the fear of God and righteousness appear to be gain; not workmen who \"serve their belly;\" not workmen who \"with fair speeches and pleasant words mislead the hearts of the innocent;\" not workmen who imitate the children of light, while they are not light but darkness—\"men whose end is destruction;\" not workmen who practise iniquity and wickedness and fraud; not \"crafty workmen;\" not workmen \"drunken\" and \"faithless;\" nor workmen who traffic in Christ; not misleaders; not \"lovers of money; not malevolent\"."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 13,
+                            "name": "I Pseudo-Clement 13:9",
+                            "text": "Let us, therefore, contemplate and imitate the faithful who have conducted themselves well in the Lord, as is becoming and suitable to our calling and profession."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 13,
+                            "name": "I Pseudo-Clement 13:10",
+                            "text": "Thus let us do service before God in justice and righteousness, and without blemish, \"occupying ourselves with things good and comely before God and also before men\"."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 13,
+                            "name": "I Pseudo-Clement 13:11",
+                            "text": "For this is comely, that God be glorified in us in all things."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 13,
+                            "name": "I Pseudo-Clement 13:12",
+                            "text": "Here endeth the first Epistle of Clement."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

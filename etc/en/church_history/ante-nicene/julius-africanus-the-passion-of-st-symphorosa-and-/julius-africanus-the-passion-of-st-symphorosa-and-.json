@@ -1,0 +1,549 @@
+{
+    "books": [
+        {
+            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:1",
+                            "text": "The Passion of St."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:2",
+                            "text": "Symbphorosa and Her Seven Sons: The text is given from the edition of Ruinart."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:3",
+                            "text": "His preface, which Migne also cites, is as follows: \"The narrative of the martyrdom of St."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:4",
+                            "text": "Symphorosa and her seven sons, which we here publish, is ascribed in the mss."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:5",
+                            "text": "to Julius Africanus, a writer of the highest repute."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:6",
+                            "text": "And it may perhaps have been inserted in his books on Chronography,—a work which Eusebius (Hist."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:7",
+                            "text": "Eccles."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:8",
+                            "text": ", vi."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:9",
+                            "text": ") testifies to have been written with the greatest care, since in these he detailed the chief events in history from the foundation of the world to the times of the Emperor Heliogabalus."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:10",
+                            "text": "As that work, however, is lost, that this narrative is really to be ascribed to Africanus, I would not venture positively to assert, although at the same time there seems no ground for doubting its genuineness."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:11",
+                            "text": "We print it, moreover, from the editions of Mombritius, Surius, and Cardulus, collated with two Colbert mss."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:12",
+                            "text": "and one in the library of the Sorbonne."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:13",
+                            "text": "The occasion for the death of these saints was found in the vicinity of that most famous palace which was built by Adrian at his country seat at Tiber, according to Spartianus."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:14",
+                            "text": "For when the emperor gave orders that this palace, which he had built for his pleasure, should be purified by some piacular ceremonies, the priests seized this opportunity for accusing Symphorosa, alleging that the gods would not be satisfied until Symphorosa should either sacrifice to them or be herself sacrificed; which last thing was done by Hadrian, whom, from many others of his deeds, we know to have been exceedingly superstitious, about the year of Christ , that is, about the beginning of his reign, at which period indeed, as Dio Cassius observes, that emperor put a great number to death."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:15",
+                            "text": "The memory of these martyrs, moreover, is celebrated in all the most ancient martyrologies, although they assign different days for it."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:16",
+                            "text": "The Roman, along with Notker, fixes their festival for the th July, Rabanus for the st of the same month, Usuardus and Ado for the st June."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:17",
+                            "text": "In the Tiburtine road there still exists the rubbish of an old church, as Aringhi states (Rom."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:18",
+                            "text": "Subter."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:19",
+                            "text": ", iv."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:20",
+                            "text": "), which was consecrated to God under their name, and which still retains the title, To the Seven Brothers."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:21",
+                            "text": "I have no doubt that it was built in that place to which the pontiffs in the Acta, sec."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:22",
+                            "text": "iv."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:23",
+                            "text": ", gave the name, To the Seven Biothanati, i-e:, those cut off by a violent death, as Baronius remarks, at the year \"."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:24",
+                            "text": "So far Ruinart: see also Tillemont, Mém."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:25",
+                            "text": "Eccles."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:26",
+                            "text": ", ii."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:27",
+                            "text": "pp."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:28",
+                            "text": "and ; and the Bollandists, Act."
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:29",
+                            "text": "S."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:30",
+                            "text": "S."
+                        },
+                        {
+                            "verse": 31,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:31",
+                            "text": "Junii, vol."
+                        },
+                        {
+                            "verse": 32,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:32",
+                            "text": "iv."
+                        },
+                        {
+                            "verse": 33,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:33",
+                            "text": "p."
+                        },
+                        {
+                            "verse": 34,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:34",
+                            "text": "When Adrian had built a palace, and wished to dedicate it by that wicked ceremonial, and began to seek responses by sacrifices to idols, and to the demons that dwell in idols, they replied, and said: \"The widow Symphorosa, with her seven sons, wounds us day by day in invoking her God."
+                        },
+                        {
+                            "verse": 35,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:35",
+                            "text": "If she therefore, together with her sons, shall offer sacrifice, we promise to make good all that you ask\"."
+                        },
+                        {
+                            "verse": 36,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:36",
+                            "text": "Then Adrian ordered her to be seized, along with her sons, and advised them in courteous terms to consent to offer sacrifice to the idols."
+                        },
+                        {
+                            "verse": 37,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:37",
+                            "text": "To him, however, the blessed Symphorosa answered: \"My husband Getulius, together with his brother Amantius, when they were tribunes in thy service, suffered different punishments for the name of Christ, rather than consent to sacrifice to idols, and, like good athletes, they overcame thy demons in death."
+                        },
+                        {
+                            "verse": 38,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:38",
+                            "text": "For, rather than be prevailed on, they chose to be beheaded, and suffered death: which death, being endured for the name of Christ, gained them temporal ignominy indeed among men of this earth, but everlasting honour and glory among the angels; and moving now among them, and exhibiting trophies of their sufferings, they enjoy eternal life with the King eternal in the heavens\"."
+                        },
+                        {
+                            "verse": 39,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:39",
+                            "text": "The Emperor Adrian said to the holy Symphorosa: \"Either sacrifice thou along with thy sons to the omnipotent gods, or else I shall cause thee to be sacrificed thyself, together with thy sons\"."
+                        },
+                        {
+                            "verse": 40,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:40",
+                            "text": "The blessed Symphorosa answered: \"And whence is this great good to me, that I should be deemed worthy along with my sons to be offered as an oblation to God?\" The Emperor Adrian said: \"I shall cause thee to be sacrificed to my gods\"."
+                        },
+                        {
+                            "verse": 41,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:41",
+                            "text": "The blessed Symphorosa replied: \"Thy gods cannot take me in sacrifice; but if I am burned for the name of Christ, my God, I shall rather consume those demons of thine\"."
+                        },
+                        {
+                            "verse": 42,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:42",
+                            "text": "The Emperor Adrian said: \"Choose thou one of these alternatives: either sacrifice to my gods, or perish by an evil death\"."
+                        },
+                        {
+                            "verse": 43,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:43",
+                            "text": "The blessed Symphorosa replied: \"Thou thinkest that my mind can be altered by some kind of terror; whereas I long to rest with my husband Getulius, whom thou didst put to death for Christ's name\"."
+                        },
+                        {
+                            "verse": 44,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:44",
+                            "text": "Then the Emperor Adrian ordered her to be led away to the temple of Hercules, and there first to be beaten with blows on the cheek, and afterwards to be suspended by the hair."
+                        },
+                        {
+                            "verse": 45,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:45",
+                            "text": "But when by no argument and by no terror could he divert her from her good resolution, he ordered her to be thrown into the river with a large stone fastened to her neck."
+                        },
+                        {
+                            "verse": 46,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:46",
+                            "text": "And her brother Eugenius, principal of the district of Tiber, picked up her body, and buried it in a suburb of the same city."
+                        },
+                        {
+                            "verse": 47,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:47",
+                            "text": "Then, on another day, the Emperor Adrian ordered all her seven sons to be brought before him in company; and when he had challenged them to sacrifice to idols, and perceived that they yielded by no means to his threats and terrors, he ordered seven stakes to be fixed around the temple of Hercules, and commanded them to be stretched on the blocks there."
+                        },
+                        {
+                            "verse": 48,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:48",
+                            "text": "And he ordered Crescens, the first, to be transfixed in the throat; and Julian, the second, to be stabbed in the breast; and Nemesius, the third, to be struck through the heart; and Primitivus, the fourth, to be wounded in the navel; and Justin, the fifth, to be struck through in the back with a sword; and Stracteus, the sixth, to be wounded in the side; and Eugenius, the seventh, to be cleft in twain from the head downwards."
+                        },
+                        {
+                            "verse": 49,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:49",
+                            "text": "The next day again the Emperor Adrian came to the temple of Hercules, and ordered their bodies to be carried off together, and cast into a deep pit; and the pontiffs gave to that place the name, To the Seven Biothanati."
+                        },
+                        {
+                            "verse": 50,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:50",
+                            "text": "After these things the persecution ceased for a year and a half, in which period the holy bodies of all the martyrs were honoured, and consigned with all care to tumuli erected for that purpose, and their names are written in the book of life."
+                        },
+                        {
+                            "verse": 51,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:51",
+                            "text": "The natal day, moreover, of the holy martyrs of Christ, the blessed Symphorosa and her seven sons, Crescens, Julian, Nemesius, Primitivus, Justin, Stracteus, and Eugenius, is held on the th July."
+                        },
+                        {
+                            "verse": 52,
+                            "chapter": 1,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 1:52",
+                            "text": "Their bodies rest on the Tiburtine road, at the eighth mile-stone from the city, under the kingship of our Lord Jesus Christ, to whom is honour and glory for ever and ever, Amen."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 2,
+                    "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:1",
+                            "text": "Elucidations."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:2",
+                            "text": "I."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:3",
+                            "text": "(Joseph the son of both, p."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:4",
+                            "text": ")  The opinion that Luke's genealogy is that of Mary was unknown to Christian antiquity."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:5",
+                            "text": "In the fifteenth century it was first propounded by Latin divines to do honour (as they supposed) to the Blessed Virgin."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:6",
+                            "text": "It was first broached by Annius of Viterbo,."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:7",
+                            "text": "Christian antiquity is agreed that:—."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:8",
+                            "text": "Both genealogies are those of Joseph."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:9",
+                            "text": "That Joseph was the son of Jacob or of Heli, either by adoption, or because Jacob and Heli were either own brothers or half-brothers; so that,—."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:10",
+                            "text": "On the death of one of the brothers, without issue, the surviving brother married his widow, who became the mother of Joseph by this marriage; so that Joseph was reckoned the son of Jacob and the son of Heli."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:11",
+                            "text": "Joseph and Mary were of the same lineage, but the Hebrews did not reckon descent from the side of the woman."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:12",
+                            "text": "For them St."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:13",
+                            "text": "Luke's genealogy is the sufficient register of Christ's royal descent and official claim."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:14",
+                            "text": "St."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:15",
+                            "text": "Luke gives his personal pedigree, ascending to Adam, and identifying Him with the whole human race."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:16",
+                            "text": "II."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:17",
+                            "text": "(Conclusion, cap."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:18",
+                            "text": "xix."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:19",
+                            "text": "p."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:20",
+                            "text": ")  On Jewish genealogies, note Dean Prideaux, vol."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:21",
+                            "text": "i."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:22",
+                            "text": "p."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:23",
+                            "text": ", and compare Lardner, vol."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:24",
+                            "text": "ii."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:25",
+                            "text": ", et alibi."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:26",
+                            "text": "Stillingfleet should not be overlooked in what he says of the uncertainties of heathen chronology."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:27",
+                            "text": "Lardner repeatedly calls our author a \"great man;\" and his most valuable account, digested from divers ancient and modern writers, must be consulted by the student."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:28",
+                            "text": "Let us observe the books of Scripture which his citations attest, and the great value of his attestation of the two genealogies of our Lord."
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:29",
+                            "text": "Lardner dates the Letter to Origen   or , according to divers conjectures of the learned."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:30",
+                            "text": "He concludes with this beautiful tribute: \"We may glory in Africanus as a Christian\" among those \"whose shining abilities rendered them the ornament of the age in which they lived,—men of unspotted characters, giving evident proofs of honesty and integrity\"."
+                        },
+                        {
+                            "verse": 31,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:31",
+                            "text": "Note."
+                        },
+                        {
+                            "verse": 32,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:32",
+                            "text": "The valuable works of Africanus are found in vol."
+                        },
+                        {
+                            "verse": 33,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:33",
+                            "text": "ix."
+                        },
+                        {
+                            "verse": 34,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:34",
+                            "text": "of the Edinburgh edition, mixed up with the spurious Decretals and remnants of preceding volumes."
+                        },
+                        {
+                            "verse": 35,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:35",
+                            "text": "I am unable to make out very clearly who is the translator, but infer that Drs."
+                        },
+                        {
+                            "verse": 36,
+                            "chapter": 2,
+                            "name": "Julius Africanus: The Passion of St. Symphorosa and her Seven Sons 2:36",
+                            "text": "Roberts and Donaldson should be credited with this work."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

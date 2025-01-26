@@ -1,0 +1,82 @@
+# To Eustathia, Ambrosia, and Basilissa
+
+**[1:1]** Letter XVII.
+
+**[1:2]** —To Eustathia, Ambrosia, and Basilissa.
+
+**[1:3]** To the most discreet and devout Sisters, Eustathia and Ambrosia, and to the most discreet and noble Daughter, Basilissa, Gregory sends greeting in the Lord.
+
+**[1:4]** The meeting with the good and the beloved, and the memorials of the immense love of the Lord for us men, which are shown in your localities, have been the source to me of the most intense joy and gladness.
+
+**[1:5]** Doubly indeed have these shone upon divinely festal days; both in beholding the saving tokens of the God who gave us life, and in meeting with souls in whom the tokens of the Lord's grace are to be discerned spiritually in such clearness, that one can believe that Bethlehem and Golgotha, and Olivet, and the scene of the Resurrection are really in the God-containing heart.
+
+**[1:6]** For when through a good conscience Christ has been formed in any, when any has by dint of godly fear nailed down the promptings of the flesh and become crucified to Christ, when any has rolled away from himself the heavy stone of this world's illusions, and coming forth from the grave of the body has begun to walk as it were in a newness of life, abandoning this low-lying valley of human life, and mounting with a soaring desire to that heavenly country with all its elevated thoughts, where Christ is, no longer feeling the body's burden, but lifting it by chastity, so that the flesh with cloud-like lightness accompanies the ascending soul—such an one, in my opinion, is to be counted in the number of those famous ones in whom the memorials of the Lord's love for us men are to be seen.
+
+**[1:7]** When, then, I not only saw with the sense of sight those Sacred Places, but I saw the tokens of places like them, plain in yourselves as well, I was filled with joy so great that the description of its blessing is beyond the power of utterance.
+
+**[1:8]** But because it is a difficult, not to say an impossible thing for a human being to enjoy unmixed with evil any blessing, therefore something of bitterness was mingled with the sweets I tasted: and by this, after the enjoyment of those blessings, I was saddened in my journey back to my native land, estimating now the truth of the Lord's words, that "the whole world lieth in wickedness," so that no single part of the inhabited earth is without its share of degeneracy.
+
+**[1:9]** For if the spot itself that has received the footprints of the very Life is not clear of the wicked thorns, what are we to think of other places where communion with the Blessing has been inculcated by hearing and preaching alone.
+
+**[1:10]** With what view I say this, need not be explained more fully in words; facts themselves proclaim more loudly than any speech, however intelligible, the melancholy truth.
+
+**[1:11]** The Lawgiver of our life has enjoined upon us one single hatred.
+
+**[1:12]** I mean, that of the Serpent: for no other purpose has He bidden us exercise this faculty of hatred, but as a resource against wickedness.
+
+**[1:13]** "I will put enmity," He says, "between thee and him".
+
+**[1:14]** Since wickedness is a complicated and multifarious thing, the Word allegorizes it by the Serpent, the dense array of whose scales is symbolic of this multiformity of evil.
+
+**[1:15]** And we by working the will of our Adversary make an alliance with this serpent, and so turn this hatred against one another, and perhaps not against ourselves alone, but against Him Who gave the commandment; for He says, "Thou shalt love thy neighbour and hate thine enemy," commanding us to hold the foe to our humanity as our only enemy, and declaring that all who share that humanity are the neighbours of each one of us.
+
+**[1:16]** But this gross-hearted age has disunited us from our neighbour, and has made us welcome the serpent, and revel in his spotted scales.
+
+**[1:17]** I affirm, then, that it is a lawful thing to hate God's enemies, and that this kind of hatred is pleasing to our Lord: and by God's enemies I mean those who deny the glory of our Lord, be they Jews, or downright idolaters, or those who through Arius' teaching idolize the creature, and so adopt the error of the Jews.
+
+**[1:18]** Now when the Father, the Son, and the Holy Ghost, are with orthodox devotion being glorified and adored by those who believe that in a distinct and unconfused Trinity there is One Substance, Glory, Kingship, Power, and Universal Rule, in such a case as this what good excuse for fighting can there be? At the time, certainly, when the heretical views prevailed, to try issues with the authorities, by whom the adversaries' cause was seen to be strengthened, was well; there was fear then lest our saving Doctrine should be over-ruled by human rulers.
+
+**[1:19]** But now, when over the whole world from one end of heaven to the other the orthodox Faith is being preached, the man who fights with them who preach it, fights not with them, but with Him Who is thus preached.
+
+**[1:20]** What other aim, indeed, ought that man's to be, who has the zeal for God, than in every possible way to announce the glory of God? As long, then, as the Only-begotten is adored with all the heart and soul and mind, believed to be in everything that which the Father is, and in like manner the Holy Ghost is glorified with an equal amount of adoration, what plausible excuse for fighting is left these over-refined disputants, who are rending the seamless robe, and parting the Lord's name between Paul and Cephas, and undisguisedly abhorring contact with those who worship Christ, all but exclaiming in so many words, "Away from me, I am holy"?  Granting that the knowledge which they believe themselves to have acquired is somewhat greater than that of others: yet can they possess more than the belief that the Son of the Very God is Very God, seeing that in that article of the Very God every idea that is orthodox, every idea that is our salvation, is included? It includes the idea of His Goodness, His Justice, His Omnipotence: that He admits of no variableness nor alteration, but is always the same; incapable of changing to worse or changing to better, because the first is not His nature, the second He does not admit of; for what can be higher than the Highest, what can be better than the Best? In fact, He is thus associated with all perfection, and, as to every form of alteration, is unalterable; He did not on occasions display this attribute, but was always so, both before the Dispensation that made Him man, and during it, and after it; and in all His activities in our behalf He never lowered any part of that changeless and unvarying character to that which was out of keeping with it.
+
+**[1:21]** What is essentially imperishable and changeless is always such; it does not follow the variation of a lower order of things, when it comes by dispensation to be there; just as the sun, for example, when he plunges his beam into the gloom, does not dim the brightness of that beam; but instead, the dark is changed by the beam into light; thus also the True Light, shining in our gloom, was not itself overshadowed with that shade, but enlightened it by means of itself.
+
+**[1:22]** Well, seeing that our humanity was in darkness, as it is written, "They know not, neither will they understand, they walk on in darkness," the Illuminator of this darkened world darted the beam of His Divinity through the whole compound of our nature, through soul, I say, and body too, and so appropriated humanity entire by means of His own light, and took it up and made it just that thing which He is Himself.
+
+**[1:23]** And as this Divinity was not made perishable, though it inhabited a perishable body, so neither did it alter in the direction of any change, though it healed the changeful in our soul: in medicine, too, the physician of the body, when he takes hold of his patient, so far from himself contracting the disease, thereby perfects the cure of the suffering part.
+
+**[1:24]** Let no one, either, putting a wrong interpretation on the words of the Gospel, suppose that our human nature in Christ was transformed to something more divine by any gradations and advance: for the increasing in stature and in wisdom and in favour, is recorded in Holy Writ only to prove that Christ really was present in the human compound, and so to leave no room for their surmise, who propound that a phantom, or form in human outline, and not a real Divine Manifestation, was there.
+
+**[1:25]** It is for this reason that Holy Writ records unabashed with regard to Him all the accidents of our nature, even eating, drinking, sleeping, weariness, nurture, increase in bodily stature, growing up—everything that marks humanity, except the tendency to sin.
+
+**[1:26]** Sin, indeed, is a miscarriage, not a quality of human nature: just as disease and deformity are not congenital to it in the first instance, but are its unnatural accretions, so activity in the direction of sin is to be thought of as a mere mutilation of the goodness innate in us; it is not found to be itself a real thing, but we see it only in the absence of that goodness.
+
+**[1:27]** Therefore He Who transformed the elements of our nature into His divine abilities, rendered it secure from mutilation and disease, because He admitted not in Himself the deformity which sin works in the will.
+
+**[1:28]** "He did no sin," it says, "neither was guile found in his mouth".
+
+**[1:29]** And this in Him is not to be regarded in connection with any interval of time: for at once the man in Mary (where Wisdom built her house), though naturally part of our sensuous compound, along with the coming upon her of the Holy Ghost, and her overshadowing with the power of the Highest, became that which that overshadowing power in essence was: for, without controversy, it is the Less that is blest by the Greater.
+
+**[1:30]** Seeing, then, that the power of the Godhead is an immense and immeasurable thing, while man is a weak atom, at the moment when the Holy Ghost came upon the Virgin, and the power of the Highest overshadowed her, the tabernacle formed by such an impulse was not clothed with anything of human corruption; but, just as it was first constituted, so it remained, even though it was man, Spirit nevertheless, and Grace, and Power; and the special attributes of our humanity derived lustre from this abundance of Divine Power.
+
+**[1:31]** There are indeed two limits of human life: the one we start from, and the one we end in: and so it was necessary that the Physician of our being should enfold us at both these extremities, and grasp not only the end, but the beginning too, in order to secure in both the raising of the sufferer.
+
+**[1:32]** That, then, which we find to have happened on the side of the finish we conclude also as to the beginning.
+
+**[1:33]** As at the end He caused by virtue of the Incarnation that, though the body was disunited from the soul, yet the indivisible Godhead which had been blended once for all with the subject (who possessed them) was not stripped from that body any more than it was from that soul, but while it was in Paradise along with the soul, and paved an entrance there in the person of the Thief for all humanity, it remained by means of the body in the heart of the earth, and therein destroyed him that had the power of Death (wherefore His body too is called "the Lord" on account of that inherent Godhead)—so also, at the beginning, we conclude that the power of the Highest, coalescing with our entire nature by that coming upon (the Virgin) of the Holy Ghost, both resides in our soul, so far as reason sees it possible that it should reside there, and is blended with our body, so that our salvation throughout every element may be perfect, that heavenly passionlessness which is peculiar to the Deity being nevertheless preserved both in the beginning and in the end of this life as Man.
+
+**[1:34]** Thus the beginning was not as our beginning, nor the end as our end.
+
+**[1:35]** Both in the one and in the other He evinced His Divine independence; the beginning had no stain of pleasure upon it, the end was not the end in dissolution.
+
+**[1:36]** Now if we loudly preach all this, and testify to all this, namely that Christ is the power of God and the wisdom of God, always changeless, always imperishable, though He comes in the changeable and the perishable; never stained Himself, but making clean that which is stained; what is the crime that we commit, and wherefore are we hated? And what means this opposing array of new Altars? Do we announce another Jesus? Do we hint at another? Do we produce other scriptures? Have any of ourselves dared to say "Mother of Man" of the Holy Virgin, the Mother of God: which is what we hear that some of them say without restraint? Do we romance about three Resurrections? Do we promise the gluttony of the Millennium? Do we declare that the Jewish animal-sacrifices shall be restored? Do we lower men's hopes again to the Jerusalem below, imagining its rebuilding with stones of a more brilliant material? What charge like these can be brought against us, that our company should be reckoned a thing to be avoided, and that in some places another altar should be erected in opposition to us, as if we should defile their sanctuaries? My heart was in a state of burning indignation about this: and now that I have set foot in the City again, I am eager to unburden my soul of its bitterness, by appealing, in a letter, to your love.
+
+**[1:37]** Do ye, whithersoever the Holy Spirit shall lead you, there remain; walk with God before you; confer not with flesh and blood; lend no occasion to any of them for glorying, that they may not glory in you, enlarging their ambition by anything in your lives.
+
+**[1:38]** Remember the Holy Fathers, into whose hands ye were commended by your Father now in bliss, and to whom we by God's grace were deemed worthy to succeed and remove not the boundaries which our Fathers have laid down, nor put aside in any way the plainness of our simpler proclamation in favour of their subtler school.
+
+**[1:39]** Walk by the primitive rule of the Faith: and the God of peace shall be with you, and ye shall be strong in mind and body.
+
+**[1:40]** May God keep you uncorrupted, is our prayer.
+

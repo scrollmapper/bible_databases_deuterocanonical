@@ -1,0 +1,51 @@
+{
+    "books": [
+        {
+            "name": "Ignatius: Reply of the Blessed Virgin",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Ignatius: Reply of the Blessed Virgin 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Ignatius: Reply of the Blessed Virgin 1:1",
+                            "text": "Reply of the Blessed Virgin to this Letter."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Ignatius: Reply of the Blessed Virgin 1:2",
+                            "text": "The lowly handmaid of Christ Jesus to Ignatius, her beloved fellow-disciple."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Ignatius: Reply of the Blessed Virgin 1:3",
+                            "text": "The things which thou hast heard and learned from John concerning Jesus are true."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Ignatius: Reply of the Blessed Virgin 1:4",
+                            "text": "Believe them, cling to them, and hold fast the profession of that Christianity which thou hast embraced, and conform thy habits and life to thy profession."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Ignatius: Reply of the Blessed Virgin 1:5",
+                            "text": "Now I will come in company with John to visit thee, and those that are with thee."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Ignatius: Reply of the Blessed Virgin 1:6",
+                            "text": "Stand fast in the faith, and show thyself a man; nor let the fierceness of persecution move thee, but let thy spirit be strong and rejoice in God thy Saviour, Amen."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

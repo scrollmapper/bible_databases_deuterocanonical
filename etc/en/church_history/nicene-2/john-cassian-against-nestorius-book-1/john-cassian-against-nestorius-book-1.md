@@ -1,0 +1,150 @@
+# John Cassian: Against Nestorius Book I
+
+**[1:1]** The SEVEN BOOKS OF JOHN CASSIAN  ON THE  INCARNATION OF THE LORD, AGAINST NESTORIUS.
+
+**[1:2]** Book I.
+
+**[1:3]** Chapter I.
+
+**[1:4]** The heresy compared to the hydra of the poets.
+
+**[1:5]** The tales of poets tell us that of old the hydra when its heads were cut off gained by its injuries, and sprang up more abundantly: so that owing to a miracle of a strange and unheard-of kind, its loss proved a kind of gain to the monster which was thus increased by death, while that extraordinary fecundity doubled everything which the knife of the executioner cut off, until the man who was eagerly seeking its destruction, toiling and sweating, and finding his efforts so often baffled by useless labours, added to the courage of battle the arts of craft, and by the application of fire, as they tell us, cut off with a fiery sword the manifold offspring of that monstrous body; and so when the inward parts were thus burnt, by cauterizing the rebellious throbbings of that ghastly fecundity, at length those prodigious births were brought to an end.
+
+**[1:6]** Thus also heresies in the churches bear some likeness to that hydra which the poets' imagination invented; for they too hiss against us with deadly tongues; and they too cast forth their deadly poison, and spring up again when their heads are cut off.
+
+**[1:7]** But because the medicine should not be wanting when the disease revives, and because the remedy should be the more speedy as the sickness is the more dangerous, our Lord God is able to bring to pass that that may be a truth in the church's warfare, which Gentile fictions imagined of the death of the hydra, and that the fiery sword of the Holy Spirit may cauterize the inward parts of that most dangerous birth, in the new heresy to be put down, so that at last its monstrous fecundity may cease to answer to its dying throbs.
+
+**[2:1]** Chapter II.
+
+**[2:2]** Description of the different heretical monsters which spring from one another.
+
+**[2:3]** For these shoots of an unnatural seed are no new thing in the churches.
+
+**[2:4]** The harvest of the Lord's field has always had to put up with burrs and briars, and in it the shoots of choking tares have constantly sprung up.
+
+**[2:5]** For hence have arisen the Ebionites, Sabellians, Arians, as well as Eunomians and Macedonians, and Photinians and Apollinarians, and all the other tares of the churches, and thistles which destroy the fruits of good faith.
+
+**[2:6]** And of these the earliest was Ebion, who while over-anxious about asserting our Lord's humanity robbed it of its union with Divinity.
+
+**[2:7]** But after him the schism of Sabellius burst forth out of reaction against the above mentioned heresy, and as he declared that there was no distinction between the Father, Son and Holy Ghost, he impiously confounded, as far as was possible, the Persons, and failed to distinguish the holy and ineffable Trinity.
+
+**[2:8]** Next after him whom we have mentioned there followed the blasphemy of Arian perversity, which, in order to avoid the appearance of confounding the Sacred Persons, declared that there were different and  dissimilar substances in the Trinity.
+
+**[2:9]** But after him in time though like him in wickedness came Eunomius, who, though allowing that the Persons of the Holy Trinity were divine and like each other, yet insisted that they were separate from each other; and so while admitting their likeness denied their equality.
+
+**[2:10]** Macedonius also blaspheming against the Holy Ghost with unpardonable wickedness, while allowing that the Father and the Son were of one substance, termed the Holy Ghost a creature, and so sinned against the entire Divinity, because no injury can be offered to anything in the Trinity without affecting the entire Trinity.
+
+**[2:11]** But Photinus, though allowing that Jesus who was born of the Virgin was God, yet erred in his notion that His Godhead began with the beginning of His manhood; while Apollinaris through inaccurately conceiving the union of God and man wrongly believed that He was without a human soul.
+
+**[2:12]** For it is as bad an error to add to our Lord Jesus Christ what does not belong to Him as to rob Him of that which is His.
+
+**[2:13]** For where He is spoken of otherwise than as He is—even though it seems to add to His glory—yet it is an offence.
+
+**[2:14]** And so one after another out of reaction against heresies they give rise to heresies, and all teach things different from each other, but equally opposed to the faith.
+
+**[2:15]** And just lately also, i-e:, in our own days, we saw a most poisonous heresy spring up from the greatest city of the Belgae, and though there was no doubt about its error, yet there was a doubt about its name, because it arose with a fresh head from the old stock of the Ebionites, and so it is still a question whether it ought to be called old or new.
+
+**[2:16]** For it was new as far as its upholders were concerned; but old in the character of its errors.
+
+**[2:17]** Indeed it blasphemously taught that our Lord Jesus Christ was born as a mere man, and maintained that the fact that He afterwards obtained the glory and power of the Godhead resulted from His human worth and not from His Divine nature; and by this it taught that He had not always His Divinity by the right of His very own Divine nature which belonged to Him, but that He obtained it afterwards as a reward for His labours and sufferings.
+
+**[2:18]** Whereas then it blasphemously taught that our Lord and Saviour was not God at His birth, but was subsequently taken into the Godhead, it was indeed bordering on this heresy which has now sprung up, and is as it were its first cousin and akin to it, and, harmonizing both with Ebionism and these new ones, came in point of time between them, and was linked with them both in point of wickedness.
+
+**[2:19]** And although there are some others like those which we have mentioned yet it would take too long to describe them all.
+
+**[2:20]** Nor have we now undertaken to enumerate those that are dead and gone, but to refute those which are novel.
+
+**[3:1]** Chapter III.
+
+**[3:2]** He describes the pestilent error of the Pelagian.
+
+**[3:3]** At any rate we think that this fact ought not to be omitted, which was special and peculiar to that heresy mentioned above which sprang from the error of Pelagius; viz.
+
+**[3:4]** , that in saying that Jesus Christ had lived as a mere man without any stain of sin, they actually went so far as to declare that men could also be without sin if they liked.
+
+**[3:5]** For they imagined that it followed that if Jesus Christ being a mere man was without sin, all men also could without the help of God be whatever He as a mere man without participating in the Godhead, could be.
+
+**[3:6]** And so they made out that there was no difference between any man and our Lord Jesus Christ, as any man could by effort and striving obtain just the same as Christ had obtained by His earnestness and efforts.
+
+**[3:7]** Whence it resulted that they broke out into a more grievous and unnatural madness, and said that our Lord Jesus Christ had come into this world not to bring redemption to mankind but to give an example of good works, to wit, that men, by following His teaching, and by  walking along the same path of virtue, might arrive at the same reward of virtue: thus destroying, as far as they could, all the good of His sacred advent and all the grace of Divine redemption, as they declared that men could by their own lives obtain just that which God had wrought by dying for man's salvation.
+
+**[3:8]** They added as well that our Lord and Saviour became the Christ after His Baptism, and God after His Resurrection, tracing the former to the mystery of His anointing, the latter to the merits of His Passion.
+
+**[3:9]** Whence this new author of a heresy that is not new, who declares that our Lord and Saviour was born a mere man, observes that he says exactly the same thing which the Pelagians said before him, and allows that it follows from his error that as he asserts that our Lord Jesus Christ lived as a mere man entirely without sin, so he must maintain in his blasphemy that all men can of themselves be without sin, nor would he admit that our Lord's redemption was a thing needful for His example, since men can (as they say) reach the heavenly kingdom by their own exertions.
+
+**[3:10]** Nor is there any doubt about this, as the thing itself shows us.
+
+**[3:11]** For hence it comes that he encourages the complaints of the Pelagians by his intervention, and introduces their case into his writings, because he cleverly or (to speak more truly) cunningly patronizes them and by his wicked liking for them recommends their mischievous teaching which is akin to his own, for he is well aware that he is of the same opinion and of the same spirit, and therefore is distressed that a heresy akin to his own has been cast out of the church, as he knows that it is entirely allied to his own in wickedness.
+
+**[4:1]** Chapter IV.
+
+**[4:2]** Leporius together with some others recants his Pelagianism.
+
+**[4:3]** But still as those who were the outcome of this stock of pestilent thorns have already by the Divine help and goodness been healed, we should also now pray to our Lord God that as in some points that older heresy and this new one are akin to each other, He would grant a like happy ending to those which had a like bad beginning.
+
+**[4:4]** For Leporius, then a monk, now a presbyter, who followed the teaching or rather the evil deeds of Pelagius, as we said above, and was among the earliest and greatest champions of the aforesaid heresy in Gaul, was admonished by us and corrected by God, and so nobly condemned his former erroneous persuasion that his amendment was almost as much a matter for congratulation as is the unimpaired faith of many.
+
+**[4:5]** For it is the best thing never to fall into error: the second best thing to make a good repudiation of it.
+
+**[4:6]** He then coming to himself confessed his mistake with grief but without shame not only in Africa, where he was then and is now, but also gave to all the cities of Gaul penitent letters containing his confession and grief; in order that his return to the faith might be made known where his deviation from it had been first published, and that those who had formerly been witnesses of his error might also afterwards be witnesses of his amendment.
+
+**[5:1]** Chapter V.
+
+**[5:2]** By the case of Leporius he establishes the fact that an open sin ought to be expiated by an open confession; and also teaches from his words what is the right view to be held on the Incarnation.
+
+**[5:3]** And from his confession or rather lamentation we have thought it well to quote some part, for two reasons: that their recantation might be a testimony to us, and an example to those who are weak, and that they might not be ashamed to follow in their amendment, the men whom they were not ashamed to follow in their error; and that they might be cured by a like remedy as they suffered from a like disease.
+
+**[5:4]** He then acknowledging the perverseness of his views, and seeing the light of faith, wrote to the Gallican Bishops, and thus began: "I scarcely know, O my most venerable lords and blessed priests, what first to accuse myself of, and what first to excuse myself for.
+
+**[5:5]** Clumsiness and pride and foolish ignorance together with wrong notions, zeal combined with indiscretion, and (to speak truly) a weak faith which was gradually failing, all these were admitted by me and flourished to such an extent that I am ashamed of having yielded to such and so many sins, while  at the same time I am profoundly thankful for having been able to cast them out of my soul".
+
+**[5:6]** And after a little he adds: "If then, not understanding this power of God, and wise in our conceits and opinions, from fear lest God should seem to act a part that was beneath Him, we suppose that a man was born in conjunction with God, in such a way that we ascribe to God alone what belongs to God separately, and attribute to man alone what belongs to man separately, we clearly add a fourth Person to the Trinity and out of the one God the Son begin to make not one but two Christs; from which may our Lord and God Jesus Christ Himself preserve us.
+
+**[5:7]** Therefore we confess that our Lord and God Jesus Christ the only Son of God, who for His own sake was begotten of the Father before all worlds, when in time He was for our sakes made man of the Holy Ghost and the ever-virgin Mary, was God at His birth; and while we confess the two substances of the flesh and the Word, we always acknowledge with pious belief and faith one and the same Person to be indivisibly God and man; and we say that from the time when He took upon Him flesh all that belonged to God was given to man, as all that belonged to man was joined to God.
+
+**[5:8]** And in this sense 'the Word was made flesh:' not that He began by any conversion or change to be what He was not, but that by the Divine 'economy' the Word of the Father never left the Father, and yet vouchsafed to become truly man, and the Only Begotten was incarnate through that hidden mystery which He alone understands (for it is ours to believe: His to understand).
+
+**[5:9]** And thus God 'the Word' Himself receiving everything that belongs to man, is made man, and the manhood which is assumed, receiving everything that belongs to God cannot but be God; but whereas He is said to be incarnate and unmixed, we must not hold that there is any diminution of His substance: for God knows how to communicate Himself without suffering any corruption, and yet truly to communicate Himself.
+
+**[5:10]** He knows how to receive into Himself without Himself being increased thereby, just as He knows how to impart Himself in such a way as Himself to suffer no loss.
+
+**[5:11]** We should not then in our feeble minds make guesses, in accordance with visible proofs and experiments, from the case of creatures which are equal, and which mutually enter into each other, nor think that God and man are mixed together, and that out of such a fusion of flesh and the Word (i-e:, the Godhead and manhood) some sort of body is produced.
+
+**[5:12]** God forbid that we should imagine that the two natures being in a way moulded together should become one substance.
+
+**[5:13]** For a mixture of this sort is destructive of both parts.
+
+**[5:14]** For God, who contains and is not Himself contained, who enters into things and is not Himself entered into, who fills things and is not Himself filled, who is everywhere at once in His completeness and is diffused everywhere, communicates Himself graciously to human nature by the infusion of His power".
+
+**[5:15]** And after a little: "Therefore the God-man, Jesus Christ, the Son of God, is truly born for us of the Holy Ghost and the ever-virgin Mary.
+
+**[5:16]** And so in the two natures the Word and Flesh become one, so that while each substance continues naturally perfect in itself, what is Divine imparteth without suffering any loss, to the humanity, and what is human participates in the Divine; nor is there one person God, and another person man, but the same person is God who is also man: and again the man who is also God is called and indeed is Jesus Christ the only Son of God; and so we must always take care and believe so as not to deny that our Lord Jesus Christ, the Son of God, Very God (whom we confess as existing ever with the Father and equal to the Father before all worlds) became from the moment when He took flesh the God-man.
+
+**[5:17]** Nor may we imagine that gradually as time went on He became God, and that He was in one condition before the resurrection and in another after it, but that He was always of the same fulness and power".
+
+**[5:18]** And again a little later on: "But because the Word of God vouchsafed to come down upon manhood by assuming manhood, and manhood was taken up into the Word by being assumed by God, God the Word in His completeness became complete man.
+
+**[5:19]** For it was not God the Father who was made man, nor the Holy Ghost, but the Only Begotten  of the Father; and so we must hold that there is one Person of the Flesh and the Word: so as faithfully and without any doubt to believe that one and the same Son of God, who can never be divided, existing in two natures (who was also spoken of as a "giant") in the days of His Flesh truly took upon Him all that belongs to man, and ever truly had as His own what belongs to God: since even though He was crucified in weakness, yet He liveth by the power of God".
+
+**[6:1]** Chapter VI.
+
+**[6:2]** The united doctrine of the Catholics is to be received as the orthodox faith.
+
+**[6:3]** This confession of his therefore, which was the faith of all Catholics was approved of by all the Bishops of Africa, whence he wrote, and by all those of Gaul, to whom he wrote.
+
+**[6:4]** Nor has there ever been anyone who quarrelled with this faith, without being guilty of unbelief: for to deny what is right and proved is to confess what is wrong.
+
+**[6:5]** The agreement of all ought then to be in itself already sufficient to confute heresy: for the authority of all shows undoubted truth, and a perfect reason results where no one disputes it: so that if a man endeavours to hold opinions contrary to these, we should in the first instance rather condemn his perverseness than listen to his assertions, for one who impugns the judgment of all announces beforehand his own condemnation, and a man who disturbs what has been determined by all, is not even given a hearing.
+
+**[6:6]** For when the truth has once for all been established by all men, whatever arises contrary to it is by this very fact to be recognized at once as falsehood, because it differs from the truth.
+
+**[6:7]** And thus it is agreed that this alone is sufficient to condemn a man; viz.
+
+**[6:8]** , that he differs from the judgment of truth.
+
+**[6:9]** But still as an explanation of a system does no harm to the system, and truth always shines brighter when thoroughly ventilated, and as it is better that those who are wrong should be set right by discussion rather than condemned by severe censures, we should cure, as far as we can with the Divine assistance, this old heresy appearing in the persons of new heretics, that when through God's mercy they have recovered their health, their cure may bear testimony to our holy faith instead of their condemnation proving an instance of just severity.
+
+**[6:10]** Only may the Truth indeed be present at our discussion and discourse concerning it, and assist our human weakness with that goodness with which God vouchsafed to come to men, as for this purpose above all He willed to be born on earth and among men; viz.
+
+**[6:11]** , that there might be no more room for falsehood.
+

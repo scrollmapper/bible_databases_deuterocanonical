@@ -1,0 +1,45 @@
+{
+    "books": [
+        {
+            "name": "Methodius: Two Fragments",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Methodius: Two Fragments 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Methodius: Two Fragments 1:1",
+                            "text": "Two Fragments, Uncertain: I."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Methodius: Two Fragments 1:2",
+                            "text": "The beginning of every good action has its foundation in our wills, but the conclusion is of God."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 2,
+                    "name": "Methodius: Two Fragments 2",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 2,
+                            "name": "Methodius: Two Fragments 2:1",
+                            "text": "II."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 2,
+                            "name": "Methodius: Two Fragments 2:2",
+                            "text": "Perhaps these three persons of our ancestors, being in an image the consubstantial representatives of humanity, are, as also Methodius thinks, types of the Holy and Consubstantial Trinity, the innocent and unbegotten Adam being the type and resemblance of God the Father Almighty, who is uncaused, and the cause of all; his begotten son shadowing forth the image of the begotten Son and Word of God; whilst Eve, that proceedeth forth from Adam, signifies the person and procession of the Holy Spirit."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

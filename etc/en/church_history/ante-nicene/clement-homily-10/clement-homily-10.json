@@ -1,0 +1,1233 @@
+{
+    "books": [
+        {
+            "name": "Clement: Homily X",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Clement: Homily X 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Clement: Homily X 1:1",
+                            "text": "Homily X: Chapter I."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Clement: Homily X 1:2",
+                            "text": "—The Third Day in Tripolis."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Clement: Homily X 1:3",
+                            "text": "Therefore on the third day in Tripolis, Peter rose early and went into the garden, where there was a great water-reservoir, into which a full stream of water constantly flowed."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Clement: Homily X 1:4",
+                            "text": "There having bathed, and then having prayed, he sat down; and perceiving us sitting around and eagerly observing him, as wishing to hear something from him, he said:—."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 2,
+                    "name": "Clement: Homily X 2",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 2,
+                            "name": "Clement: Homily X 2:1",
+                            "text": "Chapter II."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 2,
+                            "name": "Clement: Homily X 2:2",
+                            "text": "—Ignorance and Error."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 2,
+                            "name": "Clement: Homily X 2:3",
+                            "text": "\"There seems to me to be a great difference between the ignorant and the erring."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 2,
+                            "name": "Clement: Homily X 2:4",
+                            "text": "For the ignorant man seems to me to be like a man who does not wish to set out for a richly stored city, through his not knowing the excellent things that are there; but the erring man to be like one who has learned indeed the good things that are in the city, but who has forsaken the highway in proceeding towards it, and so has wandered."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 2,
+                            "name": "Clement: Homily X 2:5",
+                            "text": "Thus, therefore, it seems to me that there is a great difference between those who worship idols and those who are faulty in the worship of God."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 2,
+                            "name": "Clement: Homily X 2:6",
+                            "text": "For they who worship idols are ignorant of eternal life, and therefore they do not desire it; for what they do not know, they cannot love."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 2,
+                            "name": "Clement: Homily X 2:7",
+                            "text": "But those who have chosen to worship one God, and who have learned of the eternal life given to the good, if they either believe or do anything different from what is pleasing to God, are like to those who have gone out from the city of punishment, and are desirous to come to the well-stored city, and on the road have strayed from the right path\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 3,
+                    "name": "Clement: Homily X 3",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 3,
+                            "name": "Clement: Homily X 3:1",
+                            "text": "Chapter III."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 3,
+                            "name": "Clement: Homily X 3:2",
+                            "text": "—Man the Lord of All."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 3,
+                            "name": "Clement: Homily X 3:3",
+                            "text": "While he was thus discoursing to us, there entered one of our people, who had been appointed to make the following announcement to him, and said:  \"My lord Peter, there are great multitudes standing before the doors\"."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 3,
+                            "name": "Clement: Homily X 3:4",
+                            "text": "With his consent, therefore, a great multitude entered."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 3,
+                            "name": "Clement: Homily X 3:5",
+                            "text": "Then he rose up, and stood on the basis, as he had done the day before; and having saluted them in religious fashion, he said:  \"God having formed the heaven and the earth, and having made all things in them, as the true Prophet has said to us, man, being made after the image and likeness of God, was appointed to be ruler and lord of things, I say, in air and earth and water, as may be known from the very fact that by his intelligence he brings down the creatures that are in the air, and brings up those that are in the deep, hunts those that are on the earth, and that although they are much greater in strength than he; I mean elephants, and lions, and such like."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 4,
+                    "name": "Clement: Homily X 4",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 4,
+                            "name": "Clement: Homily X 4:1",
+                            "text": "Chapter IV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 4,
+                            "name": "Clement: Homily X 4:2",
+                            "text": "—Faith and Duty."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 4,
+                            "name": "Clement: Homily X 4:3",
+                            "text": "\"While, therefore, he was righteous, he was also superior to all sufferings, as being unable by his immortal body to have any experience of pain; but when he sinned, as I showed you yesterday and the day before, becoming as it were the servant of sin, he became subject to all sufferings, being by a righteous judgment deprived of all excellent things."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 4,
+                            "name": "Clement: Homily X 4:4",
+                            "text": "For it was not reasonable, the Giver having been forsaken, that the gifts should remain with the ungrateful."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 4,
+                            "name": "Clement: Homily X 4:5",
+                            "text": "Whence, of His abundant mercy, in order to our receiving, with the first, also future blessings, He sent His Prophet."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 4,
+                            "name": "Clement: Homily X 4:6",
+                            "text": "And the Prophet has given in charge to us to tell you what you ought to think, and what to do."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 4,
+                            "name": "Clement: Homily X 4:7",
+                            "text": "Choose, therefore; and this is in your power."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 4,
+                            "name": "Clement: Homily X 4:8",
+                            "text": "What, therefore, you ought to think is this, to worship the God who made all things; whom if you receive in your minds, you shall receive from Him, along with the first excellent things, also the future eternal blessings."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 5,
+                    "name": "Clement: Homily X 5",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 5,
+                            "name": "Clement: Homily X 5:1",
+                            "text": "Chapter V."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 5,
+                            "name": "Clement: Homily X 5:2",
+                            "text": "—The Fear of God."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 5,
+                            "name": "Clement: Homily X 5:3",
+                            "text": "\"Therefore you shall be able to persuade yourselves with respect to the things that are profitable, if, like charmers, you say to the horrible serpent which lurks in your heart, 'The Lord God thou shalt fear, and Him alone thou shalt serve."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 5,
+                            "name": "Clement: Homily X 5:4",
+                            "text": "'  On every account it is advantageous to fear Him alone, not as an unjust, but as a righteous God."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 5,
+                            "name": "Clement: Homily X 5:5",
+                            "text": "For one fears an unjust being, lest he be wrongfully destroyed, but a righteous one, lest he be caught in sin and punished."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 5,
+                            "name": "Clement: Homily X 5:6",
+                            "text": "You can therefore, by fear towards Him, be freed from many hurtful fears."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 5,
+                            "name": "Clement: Homily X 5:7",
+                            "text": "For if you do not fear the one Lord and Maker of all, you shall be the slaves of all evils to your own hurt, I mean of demons and diseases, and of everything that can in any way hurt you."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 6,
+                    "name": "Clement: Homily X 6",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 6,
+                            "name": "Clement: Homily X 6:1",
+                            "text": "Chapter VI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 6,
+                            "name": "Clement: Homily X 6:2",
+                            "text": "—Restoration of the Divine Image."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 6,
+                            "name": "Clement: Homily X 6:3",
+                            "text": "\"Therefore approach with confidence to God, you who at first were made to be rulers and lords of all things:  ye who have His image in your bodies, have in like manner the likeness of His judgment in your minds."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 6,
+                            "name": "Clement: Homily X 6:4",
+                            "text": "Since, then, by acting like irrational animals, you have lost the soul of man from your soul, becoming like swine, you are the prey of demons."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 6,
+                            "name": "Clement: Homily X 6:5",
+                            "text": "If, therefore, you receive the law of God, you become men."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 6,
+                            "name": "Clement: Homily X 6:6",
+                            "text": "For it cannot be said to irrational animals, 'Thou shalt not kill, thou shalt not commit adultery, thou shalt not steal,' and so forth."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 6,
+                            "name": "Clement: Homily X 6:7",
+                            "text": "Therefore do not refuse, when invited, to return to your first nobility; for it is possible, if ye be conformed to God by good works."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 6,
+                            "name": "Clement: Homily X 6:8",
+                            "text": "And being accounted to be sons by reason of your likeness to Him, you shall be reinstated as lords of all."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 7,
+                    "name": "Clement: Homily X 7",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 7,
+                            "name": "Clement: Homily X 7:1",
+                            "text": "Chapter VII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 7,
+                            "name": "Clement: Homily X 7:2",
+                            "text": "—Unprofitableness of Idols."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 7,
+                            "name": "Clement: Homily X 7:3",
+                            "text": "\"Begin, then, to divest yourselves of the injurious fear of vain idols, that you may escape unrighteous bondage."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 7,
+                            "name": "Clement: Homily X 7:4",
+                            "text": "For they have become your masters, who even as servants are unprofitable to you."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 7,
+                            "name": "Clement: Homily X 7:5",
+                            "text": "I speak of the material of the lifeless images, which are of no use to you as far as service is concerned."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 7,
+                            "name": "Clement: Homily X 7:6",
+                            "text": "For they neither hear nor see nor feel, nor can they be moved."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 7,
+                            "name": "Clement: Homily X 7:7",
+                            "text": "For is there any one of you who would like to see as they see, and to hear as they hear, and to feel as they feel, and to be moved as they are?  God forbid that such a wrong should be done to any man bearing the image of God, though he have lost His likeness."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 8,
+                    "name": "Clement: Homily X 8",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 8,
+                            "name": "Clement: Homily X 8:1",
+                            "text": "Chapter VIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 8,
+                            "name": "Clement: Homily X 8:2",
+                            "text": "—No Gods Which are Made with Hands."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 8,
+                            "name": "Clement: Homily X 8:3",
+                            "text": "\"Therefore reduce your gods of gold and silver, or any other material, to their original nature; I mean into cups and basins and all other utensils, such as may be useful to you for service; and those good things which were given you at first shall be able to be restored."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 8,
+                            "name": "Clement: Homily X 8:4",
+                            "text": "But perhaps you will say, The laws of the emperors do not permit us to do this."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 8,
+                            "name": "Clement: Homily X 8:5",
+                            "text": "You say well that it is the law, and not the power of the vain idols themselves, which is nothing."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 8,
+                            "name": "Clement: Homily X 8:6",
+                            "text": "How, then, have ye regarded them as gods, who are avenged by human laws, guarded by dogs, kept by multitudes?—and that if they are of gold, or silver, or brass."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 8,
+                            "name": "Clement: Homily X 8:7",
+                            "text": "For those of wood or earthenware are preserved by their worthlessness, because no man desires to steal a wooden or earthenware god!  So that your gods are exposed to danger in proportion to the value of the material of which they are made."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 8,
+                            "name": "Clement: Homily X 8:8",
+                            "text": "How, then, can they be gods, which are stolen, molten, weighed, guarded?."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 9,
+                    "name": "Clement: Homily X 9",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 9,
+                            "name": "Clement: Homily X 9:1",
+                            "text": "Chapter IX."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 9,
+                            "name": "Clement: Homily X 9:2",
+                            "text": "—\"Eyes Have They, But They See Not\"."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 9,
+                            "name": "Clement: Homily X 9:3",
+                            "text": "\"Oh the minds of wretched men, who fear things deader than dead men!  For I cannot call them even dead, which have never lived, unless they are the tombs of ancient men."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 9,
+                            "name": "Clement: Homily X 9:4",
+                            "text": "For sometimes a person, visiting unknown places, does not know whether the temples which he sees are monuments of dead men, or whether they belong to the so-called gods; but on inquiring and hearing that they belong to the gods, he worships, without being ashamed that if he had not learned on inquiring, he would have passed them by as the monuments of a dead man, on account of the strictness of the resemblance."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 9,
+                            "name": "Clement: Homily X 9:5",
+                            "text": "However, it is not necessary that I should adduce much proof in regard to such superstition."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 9,
+                            "name": "Clement: Homily X 9:6",
+                            "text": "For it is easy for any one who pleases to understand that it, an idol, is nothing, unless there be any one who does not see."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 9,
+                            "name": "Clement: Homily X 9:7",
+                            "text": "However, now at least hear that it does not hear, and understand that it does not understand."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 9,
+                            "name": "Clement: Homily X 9:8",
+                            "text": "For the hands of a man who is dead made it."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 9,
+                            "name": "Clement: Homily X 9:9",
+                            "text": "If, then, the maker is dead, how can it be that which was made by him shall not be dissolved?  Why, then, do you worship the work of a mortal which is altogether senseless? whereas those who have reason do not worship animals, nor do they seek to propitiate the elements which have been made by God,—I mean the heaven, the sun, the moon, lightning, the sea, and all things in them,—rightly judging not to worship the things that He has made, but to reverence the Maker and Sustainer of them."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 9,
+                            "name": "Clement: Homily X 9:10",
+                            "text": "For in this they themselves also rejoice, that no one ascribes to them the honour that belongs to their Maker."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 10,
+                    "name": "Clement: Homily X 10",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 10,
+                            "name": "Clement: Homily X 10:1",
+                            "text": "Chapter X."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 10,
+                            "name": "Clement: Homily X 10:2",
+                            "text": "—Idolatry a Delusion of the Serpent."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 10,
+                            "name": "Clement: Homily X 10:3",
+                            "text": "\"For His alone is the excellent glory of being alone uncreated, while all else is created."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 10,
+                            "name": "Clement: Homily X 10:4",
+                            "text": "As, therefore, it is the prerogative of the uncreated to be God, so whatever is created is not God indeed."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 10,
+                            "name": "Clement: Homily X 10:5",
+                            "text": "Before all things, therefore, you ought to consider the evil-working suggestion of the deceiving serpent that is in you, which seduces you by the promise of better reason, creeping from your brain to your spinal marrow, and setting great value upon deceiving you."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 11,
+                    "name": "Clement: Homily X 11",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 11,
+                            "name": "Clement: Homily X 11:1",
+                            "text": "Chapter XI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 11,
+                            "name": "Clement: Homily X 11:2",
+                            "text": "—Why the Serpent Tempts to Sin."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 11,
+                            "name": "Clement: Homily X 11:3",
+                            "text": "\"For he knows the original law, that if he bring you to the persuasion of the so-called gods, so that you sin against the one good of monarchy, your overthrow becomes a gain to him."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 11,
+                            "name": "Clement: Homily X 11:4",
+                            "text": "And that for this reason, because he being condemned eats earth, he has power to eat him who through sin being dissolved into earth, has become earth, your souls going into his belly of fire."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 11,
+                            "name": "Clement: Homily X 11:5",
+                            "text": "In order, therefore, that you may suffer these things, he suggests every thought to your hurt."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 12,
+                    "name": "Clement: Homily X 12",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 12,
+                            "name": "Clement: Homily X 12:1",
+                            "text": "Chapter XII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 12,
+                            "name": "Clement: Homily X 12:2",
+                            "text": "—Ignorantia Neminem Excusat  \"For all the deceitful conceptions against the monarchy are sown in your mind by him to your hurt."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 12,
+                            "name": "Clement: Homily X 12:3",
+                            "text": "First, that you may not hear the discourses of piety, and so drive away ignorance, which is the occasion of evils, he ensnares you by a pretence of knowledge, giving in the first instance, and using throughout this presumption, which is to think and to be unhappily advised, that if any one do not hear the word of piety, he is not subject to judgments."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 12,
+                            "name": "Clement: Homily X 12:4",
+                            "text": "Wherefore also some, being thus deceived, are not willing to hear, that they may be ignorant, not knowing that ignorance is of itself a sufficient deadly drug."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 12,
+                            "name": "Clement: Homily X 12:5",
+                            "text": "For if any one should take a deadly drug in ignorance, does he not die?  So naturally sins destroy the sinner, though he commit them in ignorance of what is right."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 13,
+                    "name": "Clement: Homily X 13",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 13,
+                            "name": "Clement: Homily X 13:1",
+                            "text": "Chapter XIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 13,
+                            "name": "Clement: Homily X 13:2",
+                            "text": "—Condemnation of the Ignorant."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 13,
+                            "name": "Clement: Homily X 13:3",
+                            "text": "\"But if judgment follows upon disobedience to instruction, much more shall God destroy those who will not undertake His worship."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 13,
+                            "name": "Clement: Homily X 13:4",
+                            "text": "For he who will not learn, lest that should make him subject to judgment, is already judged as knowing, for he knew what he will not hear; so that imagination avails nothing as an apology in presence of the heart-knowing God."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 13,
+                            "name": "Clement: Homily X 13:5",
+                            "text": "Wherefore avoid that cunning thought suggested by the serpent to your minds."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 13,
+                            "name": "Clement: Homily X 13:6",
+                            "text": "But if any one end this life in real ignorance, this charge will lie against him, that, having lived so long, he did not know who was the bestower of the food supplied to him:  and as a senseless, and ungrateful, and very unworthy servant, he is rejected from the kingdom of God."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 14,
+                    "name": "Clement: Homily X 14",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 14,
+                            "name": "Clement: Homily X 14:1",
+                            "text": "Chapter XIV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 14,
+                            "name": "Clement: Homily X 14:2",
+                            "text": "—Polytheistic Illustration."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 14,
+                            "name": "Clement: Homily X 14:3",
+                            "text": "\"Again, the terrible serpent suggests this supposition to you, to think and to say that very thing which most of you do say; viz."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 14,
+                            "name": "Clement: Homily X 14:4",
+                            "text": ", We know that there is one Lord of all, but there also are gods."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 14,
+                            "name": "Clement: Homily X 14:5",
+                            "text": "For in like manner as there is one Caesar, but he has under him procurators, proconsuls, prefects, commanders of thousands, and of hundreds, and of tens; in the same way, there being one great God, as there is one Caesar, there also, after the manner of inferior powers, are gods, inferior indeed to Him, but ruling over us."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 14,
+                            "name": "Clement: Homily X 14:6",
+                            "text": "Hear, therefore, ye who have been led away by this conception as by a terrible poison—I mean the evil conception of this illustration—that you may know what is good and what is evil."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 14,
+                            "name": "Clement: Homily X 14:7",
+                            "text": "For you do not yet see it, nor do you look into the things that you utter."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 15,
+                    "name": "Clement: Homily X 15",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 15,
+                            "name": "Clement: Homily X 15:1",
+                            "text": "Chapter XV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 15,
+                            "name": "Clement: Homily X 15:2",
+                            "text": "—Its Inconclusiveness."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 15,
+                            "name": "Clement: Homily X 15:3",
+                            "text": "\"For if you say that, after the manner of Caesar, God has subordinate powers—those, namely, which are called gods—you do not thus go by your illustration."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 15,
+                            "name": "Clement: Homily X 15:4",
+                            "text": "For if you went by it, you must of necessity know that it is not lawful to give the name of Caesar to another, whether he be consul, or prefect, or captain, or any one else, and that he who gives such a name shall not live, and he who takes it shall be cut off."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 15,
+                            "name": "Clement: Homily X 15:5",
+                            "text": "Thus, according to your own illustration, the name of God must not be given to another; and he who is tempted either to take or give it is destroyed."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 15,
+                            "name": "Clement: Homily X 15:6",
+                            "text": "Now, if this insult of a man induces punishment, much more they who call others gods shall be subject to eternal punishment, as insulting God."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 15,
+                            "name": "Clement: Homily X 15:7",
+                            "text": "And with good reason; because you subject to all the insult that you can the name which it was committed to you to honour, in order to His monarchy."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 15,
+                            "name": "Clement: Homily X 15:8",
+                            "text": "For God is not properly His name; but you having in the meantime received it, insult what has been given you, that it may be accounted as done against the real name, according as you use that."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 15,
+                            "name": "Clement: Homily X 15:9",
+                            "text": "But you subject it to every kind of insult."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 16,
+                    "name": "Clement: Homily X 16",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 16,
+                            "name": "Clement: Homily X 16:1",
+                            "text": "Chapter XVI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 16,
+                            "name": "Clement: Homily X 16:2",
+                            "text": "—Gods of the Egyptians."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 16,
+                            "name": "Clement: Homily X 16:3",
+                            "text": "\"Therefore you ringleaders among the Egyptians, boasting of meteorology, and promising to judge the natures of the stars, by reason of the evil opinion lurking in them, subjected that name to all manner of dishonour as far as in them lay."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 16,
+                            "name": "Clement: Homily X 16:4",
+                            "text": "For some of them taught the worship of an ox called Apis, some that of a he-goat, some of a cat, some of a serpent; yea, even of a fish, and of onions, and rumblings in the stomach, and common sewers, and members of irrational animals, and to myriads of other base abominations they gave the name of god\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 17,
+                    "name": "Clement: Homily X 17",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 17,
+                            "name": "Clement: Homily X 17:1",
+                            "text": "Chapter XVII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 17,
+                            "name": "Clement: Homily X 17:2",
+                            "text": "—The Egyptians' Defence of Their System."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 17,
+                            "name": "Clement: Homily X 17:3",
+                            "text": "On Peter's saying this, the surrounding multitude laughed."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 17,
+                            "name": "Clement: Homily X 17:4",
+                            "text": "Then Peter said to the laughing multitude:  \"You laugh at their proceedings, not knowing that you are yourselves much more objects of ridicule to them."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 17,
+                            "name": "Clement: Homily X 17:5",
+                            "text": "But you laugh at one another's proceedings; for, being led by evil custom into deceit, you do not see your own."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 17,
+                            "name": "Clement: Homily X 17:6",
+                            "text": "But I admit that you have reason to laugh at the idols of the Egyptians, since they, being rational, worship irrational animals, and these altogether dying."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 17,
+                            "name": "Clement: Homily X 17:7",
+                            "text": "But listen to what they say when they deride you."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 17,
+                            "name": "Clement: Homily X 17:8",
+                            "text": "We, they say, though we worship dying creatures, yet still such as have once had life:  but you reverence things that never lived."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 17,
+                            "name": "Clement: Homily X 17:9",
+                            "text": "And in addition to this, they say, We wish to honour the form of the one God, but we cannot find out what it is, and so we choose to give honour to every form."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 17,
+                            "name": "Clement: Homily X 17:10",
+                            "text": "And so, making some such statements as these, they think that they judge more rightly than you do."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 18,
+                    "name": "Clement: Homily X 18",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 18,
+                            "name": "Clement: Homily X 18:1",
+                            "text": "Chapter XVIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 18,
+                            "name": "Clement: Homily X 18:2",
+                            "text": "—Answer to the Egyptians."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 18,
+                            "name": "Clement: Homily X 18:3",
+                            "text": "\"Wherefore answer them thus:  You lie, for you do not worship these things in honour of the true God, for then all of you would worship every form; not as ye do."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 18,
+                            "name": "Clement: Homily X 18:4",
+                            "text": "For those of you who suppose the onion to be the divinity, and those who worship rumblings in the stomach, contend with one another; and thus all in like manner preferring some one thing, revile those that are preferred by others."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 18,
+                            "name": "Clement: Homily X 18:5",
+                            "text": "And with diverse judgments, one reverences one and another of the limbs of the same animal."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 18,
+                            "name": "Clement: Homily X 18:6",
+                            "text": "Moreover, those of them who still have a breath of right reason, being ashamed of the manifest baseness, attempt to drive these things into allegories, wishing by another vagary to establish their deadly error."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 18,
+                            "name": "Clement: Homily X 18:7",
+                            "text": "But we should confute the allegories, if we were there, the foolish passion for which has prevailed to such an extent as to constitute a great disease of the understanding."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 18,
+                            "name": "Clement: Homily X 18:8",
+                            "text": "For it is not necessary to apply a plaster to a whole part of the body, but to a diseased part."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 18,
+                            "name": "Clement: Homily X 18:9",
+                            "text": "Since then, you, by your laughing at the Egyptians, show that you are not affected with their disease, with respect to your own disease it were reasonable I should afford to you a present cure of your own malady."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 19,
+                    "name": "Clement: Homily X 19",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 19,
+                            "name": "Clement: Homily X 19:1",
+                            "text": "Chapter XIX."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 19,
+                            "name": "Clement: Homily X 19:2",
+                            "text": "—God's Peculiar Attribute."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 19,
+                            "name": "Clement: Homily X 19:3",
+                            "text": "\"He who would worship God ought before all things to know what alone is peculiar to the nature of God, which cannot pertain to another, that, looking at His peculiarity, and not finding it in any other, he may not be seduced into ascribing godhead to another."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 19,
+                            "name": "Clement: Homily X 19:4",
+                            "text": "But this is peculiar to God, that He alone is, as the Maker of all, so also the best of all."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 19,
+                            "name": "Clement: Homily X 19:5",
+                            "text": "That which makes is indeed superior in power to that which is made; that which is boundless is superior in magnitude to that which is bounded:  in respect of beauty, that which is comeliest; in respect of happiness, that which is most blessed; in respect of understanding, that which is most perfect."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 19,
+                            "name": "Clement: Homily X 19:6",
+                            "text": "And in like manner, in other respects, He has incomparably the pre-eminence."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 19,
+                            "name": "Clement: Homily X 19:7",
+                            "text": "Since then, as I said, this very thing, viz."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 19,
+                            "name": "Clement: Homily X 19:8",
+                            "text": ", to be the best of all, is peculiar to God, and the all-comprehending world was made by Him, none of the things made by Him can come into equal comparison with Him."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 20,
+                    "name": "Clement: Homily X 20",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 20,
+                            "name": "Clement: Homily X 20:1",
+                            "text": "Chapter XX."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 20,
+                            "name": "Clement: Homily X 20:2",
+                            "text": "—Neither the World Nor Any of Its Parts Can Be God."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 20,
+                            "name": "Clement: Homily X 20:3",
+                            "text": "\"But the world, not being incomparable and unsurpassable, and altogether in all respects without defect, cannot be God."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 20,
+                            "name": "Clement: Homily X 20:4",
+                            "text": "But if the whole world cannot be God, in respect of its having been made, how much more should not its parts be reasonably called God; I mean the parts that are by you called gods, being made of gold and silver, brass and stone, or of any other material whatsoever; and they constructed by mortal hand."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 20,
+                            "name": "Clement: Homily X 20:5",
+                            "text": "However, let us further see how the terrible serpent through man's mouth poisons those who are seduced by his solicitations."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 21,
+                    "name": "Clement: Homily X 21",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 21,
+                            "name": "Clement: Homily X 21:1",
+                            "text": "Chapter XXI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 21,
+                            "name": "Clement: Homily X 21:2",
+                            "text": "—Idols Not Animated by the Divine Spirit."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 21,
+                            "name": "Clement: Homily X 21:3",
+                            "text": "\"For many say, We do not worship the gold or the silver, the wood or the stone, of the objects of our worship."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 21,
+                            "name": "Clement: Homily X 21:4",
+                            "text": "For we also know that these are nothing but lifeless matter, and the art of mortal man."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 21,
+                            "name": "Clement: Homily X 21:5",
+                            "text": "But the spirit that dwells in them, that we call God."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 21,
+                            "name": "Clement: Homily X 21:6",
+                            "text": "Behold the immorality of those who speak thus!  For when that which appears is easily proved to be nothing, they have recourse to the invisible, as not being able to be convicted in respect of what is non-apparent."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 21,
+                            "name": "Clement: Homily X 21:7",
+                            "text": "However, they agree with us in part, that one half of their images is not God, but senseless matter."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 21,
+                            "name": "Clement: Homily X 21:8",
+                            "text": "It remains for them to show how we are to believe that these images have a divine spirit."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 21,
+                            "name": "Clement: Homily X 21:9",
+                            "text": "But they cannot prove to us that it is so, for it is not so; and we do not believe them when they say that they have seen it."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 21,
+                            "name": "Clement: Homily X 21:10",
+                            "text": "We shall afford them proofs that they have not a divine spirit, that lovers of truth, hearing the refutation of the thought that they are animated, may turn away from the hurtful delusion."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 22,
+                    "name": "Clement: Homily X 22",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 22,
+                            "name": "Clement: Homily X 22:1",
+                            "text": "Chapter XXII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 22,
+                            "name": "Clement: Homily X 22:2",
+                            "text": "—Confutation of Idol-Worship."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 22,
+                            "name": "Clement: Homily X 22:3",
+                            "text": "\"In the first place, indeed, if you worship them as being animated, why do you also worship the sepulchres of memorable men of old, who confessedly had no divine spirit?  Thus you do not at all speak truth respecting this."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 22,
+                            "name": "Clement: Homily X 22:4",
+                            "text": "But if your objects of worship were really animated, they would move of themselves; they would have a voice; they would shake off the spiders that are on them; they would thrust forth those that wish to surprise and to steal them; they would easily capture those who pilfer the offerings."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 22,
+                            "name": "Clement: Homily X 22:5",
+                            "text": "But now they do none of these things, but are guarded, like culprits, and especially the more costly of them, as we have already said."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 22,
+                            "name": "Clement: Homily X 22:6",
+                            "text": "But what?  Is it not so, that the rulers demand of you imposts and taxes on their account, as if you were greatly benefited by them?  But what?  Have they not often been taken as plunder by enemies, and been broken and scattered?  And do not the priests, more than the outside worshippers, carry off many of the offerings, thus acknowledging the uselessness of their worship?."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 23,
+                    "name": "Clement: Homily X 23",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 23,
+                            "name": "Clement: Homily X 23:1",
+                            "text": "Chapter XXIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 23,
+                            "name": "Clement: Homily X 23:2",
+                            "text": "—Folly of Idolatry."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 23,
+                            "name": "Clement: Homily X 23:3",
+                            "text": "\"Nay, it will be said; but they are detected by their foresight."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 23,
+                            "name": "Clement: Homily X 23:4",
+                            "text": "It is false; for how many of them have not been detected?  And if on account of the capture of some it be said that they have power, it is a mistake."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 23,
+                            "name": "Clement: Homily X 23:5",
+                            "text": "For of those who rob tombs, some are found out and some escape; but it is not by the power of the dead that those who are apprehended are detected."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 23,
+                            "name": "Clement: Homily X 23:6",
+                            "text": "And such ought to be our conclusion with respect to those who steal and pilfer the gods."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 23,
+                            "name": "Clement: Homily X 23:7",
+                            "text": "But it will be said, The gods that are in them take no care of their images."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 23,
+                            "name": "Clement: Homily X 23:8",
+                            "text": "Why, then, do you tend them, wiping them, and washing them, and scouring them, crowning them, and sacrificing to them?  Wherefore agree with me that you act altogether without right reason."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 23,
+                            "name": "Clement: Homily X 23:9",
+                            "text": "For as you lament over the dead, so you sacrifice and make libations to your gods."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 24,
+                    "name": "Clement: Homily X 24",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 24,
+                            "name": "Clement: Homily X 24:1",
+                            "text": "Chapter XXIV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 24,
+                            "name": "Clement: Homily X 24:2",
+                            "text": "—Impotence of Idols."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 24,
+                            "name": "Clement: Homily X 24:3",
+                            "text": "\"Nor yet is that in harmony with the illustration of Caesar, and of the powers under him, to call them administrators; whereas you take all care of them, as I said, tending your images in every respect."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 24,
+                            "name": "Clement: Homily X 24:4",
+                            "text": "For they, having no power, do nothing."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 24,
+                            "name": "Clement: Homily X 24:5",
+                            "text": "Wherefore tell us what do they administer? what do they of that sort which rulers in different places do? and what influence do they exert, as the stars of God?  Do they show anything like the sun, or do you light lamps before them?  Are they able to bring showers, as the clouds bring rain,—they which cannot even move themselves, unless men carry them?  Do they make the earth fruitful to your labours, these to whom you supply sacrifices?  Thus they can do nothing."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 25,
+                    "name": "Clement: Homily X 25",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 25,
+                            "name": "Clement: Homily X 25:1",
+                            "text": "Chapter XXV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 25,
+                            "name": "Clement: Homily X 25:2",
+                            "text": "—Servants Become Masters."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 25,
+                            "name": "Clement: Homily X 25:3",
+                            "text": "\"But if they were able to do something, you should not be right in calling them gods:  for it is not right to call the elements gods, by which good things are supplied; but only Him who ordereth them, to accomplish all things for our use, and who commandeth them to be serviceable to man,—Him alone we call God in propriety of speech, whose beneficence you do not perceive, but permit those elements to rule over you which have been assigned to you as your servants."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 25,
+                            "name": "Clement: Homily X 25:4",
+                            "text": "And why should I speak of the elements, when you not only have made and do worship lifeless images, but deign to be subject to them in all respects as servants?  Wherefore, by reason of your erroneous judgments, you have become subject to demons."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 25,
+                            "name": "Clement: Homily X 25:5",
+                            "text": "However, by acknowledgment of God Himself, by good deeds you can again become masters, and command the demons as slaves, and as sons of God be constituted heirs of the eternal kingdom\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 26,
+                    "name": "Clement: Homily X 26",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 26,
+                            "name": "Clement: Homily X 26:1",
+                            "text": "Chapter XXVI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 26,
+                            "name": "Clement: Homily X 26:2",
+                            "text": "—The Sick Healed."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 26,
+                            "name": "Clement: Homily X 26:3",
+                            "text": "Having said this, he ordered the demoniacs, and those taken with diseases, to be brought to him; and when they were brought, he laid his hands on them, and prayed, and dismissed them healed, reminding them and the rest of the multitude to attend upon him there every day that he should discourse."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 26,
+                            "name": "Clement: Homily X 26:4",
+                            "text": "Then, when the others had withdrawn, Peter bathed in the reservoir that was there, with those who pleased; and then ordering a table to be spread on the ground under the thick foliage of the trees, for the sake of shade, he ordered us each to recline, according to our worth; and thus we partook of food."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 26,
+                            "name": "Clement: Homily X 26:5",
+                            "text": "Therefore having blessed and having given thanks to God for the enjoyment, according to the accustomed faith of the Hebrews; and there being still a long time before us, he permitted us to ask him questions about whatever we pleased; and thus, though there were twenty of us putting questions to him all round, he satisfied every one."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 26,
+                            "name": "Clement: Homily X 26:6",
+                            "text": "And now evening having descended, we all went with him into the largest apartment of the lodging, and there we all slept."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

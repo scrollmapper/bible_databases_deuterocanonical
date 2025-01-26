@@ -1,0 +1,555 @@
+{
+    "books": [
+        {
+            "name": "Clement: Homily VII",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Clement: Homily VII 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Clement: Homily VII 1:1",
+                            "text": "Homily VII: Chapter I."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Clement: Homily VII 1:2",
+                            "text": "—Peter Addresses the People."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Clement: Homily VII 1:3",
+                            "text": "And on the fourth day of our stay in Tyre, Peter went out about daybreak, and there met him not a few of the dwellers round about, with very many of the inhabitants of Tyre itself, who cried out, and said, \"God through you have mercy upon us, God through you heal us!\"  And Peter stood on a high stone, that all might see him; and having greeted them in a godly manner, thus began:—."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 2,
+                    "name": "Clement: Homily VII 2",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 2,
+                            "name": "Clement: Homily VII 2:1",
+                            "text": "Chapter II."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 2,
+                            "name": "Clement: Homily VII 2:2",
+                            "text": "—Reason of Simon's Power."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 2,
+                            "name": "Clement: Homily VII 2:3",
+                            "text": "\"God, who created the heavens and the whole universe, does not want occasion for the salvation of those who would be saved."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 2,
+                            "name": "Clement: Homily VII 2:4",
+                            "text": "Wherefore let no one, in seeming evils, rashly charge Him with unkindness to man."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 2,
+                            "name": "Clement: Homily VII 2:5",
+                            "text": "For men do not know the issue of those things which happen to them, nay, suspect that the result will be evil; but God knows that they will turn out well."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 2,
+                            "name": "Clement: Homily VII 2:6",
+                            "text": "So is it in the case of Simon."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 2,
+                            "name": "Clement: Homily VII 2:7",
+                            "text": "He is a power of the left hand of God, and has authority to do harm to those who know not God, so that he has been able to involve you in diseases; but by these very diseases, which have been permitted to come upon you by the good providence of God, you, seeking and finding him who is able to cure, have been compelled to submit to the will of God on the occasion of the cure of the body, and to think of believing, in order that in this way you may have your souls as well as your bodies in a healthy state."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 3,
+                    "name": "Clement: Homily VII 3",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 3,
+                            "name": "Clement: Homily VII 3:1",
+                            "text": "Chapter III."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 3,
+                            "name": "Clement: Homily VII 3:2",
+                            "text": "—The Remedy."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 3,
+                            "name": "Clement: Homily VII 3:3",
+                            "text": "\"Now I have been told, that after he had sacrificed an ox he feasted you in the middle of the forum, and that you, being carried away with much wine, made friends with not only the evil demons, but their prince also, and that in this way the most of you were seized by these sicknesses, unwittingly drawing upon yourselves with your own hands the sword of destruction."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 3,
+                            "name": "Clement: Homily VII 3:4",
+                            "text": "For the demons would never have had power over you, had not you first supped with their prince."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 3,
+                            "name": "Clement: Homily VII 3:5",
+                            "text": "For thus from the beginning was a law laid by God, the Creator of all things, on each of the two princes, him of the right hand and him of the left, that neither should have power over any one whom they might wish to benefit or to hurt, unless first he had sat down at the same table with them."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 3,
+                            "name": "Clement: Homily VII 3:6",
+                            "text": "As, then, when you partook of meat offered to idols, you became servants to the prince of evil, in like manner, if you cease from these things, and flee for refuge to God through the good Prince of His right hand, honouring Him without sacrifices, by doing whatsoever He wills, know of a truth that not only will your bodies be healed, but your souls also will become healthy."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 3,
+                            "name": "Clement: Homily VII 3:7",
+                            "text": "For He only, destroying with His left hand, can quicken with His right; He only can both smite and raise the fallen."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 4,
+                    "name": "Clement: Homily VII 4",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 4,
+                            "name": "Clement: Homily VII 4:1",
+                            "text": "Chapter IV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 4,
+                            "name": "Clement: Homily VII 4:2",
+                            "text": "—The Golden Rule."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 4,
+                            "name": "Clement: Homily VII 4:3",
+                            "text": "\"Wherefore, as then ye were deceived by the forerunner Simon, and so became dead in your souls to God, and were smitten in your bodies; so now, if you repent, as I said, and submit to those things which are well-pleasing to God, you may get new strength to your bodies, and recover your soul's health."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 4,
+                            "name": "Clement: Homily VII 4:4",
+                            "text": "And the things which are well-pleasing to God are these:  to pray to Him, to ask from Him, recognising that He is the giver of all things, and gives with discriminating law; to abstain from the table of devils, not to taste dead flesh, not to touch blood; to be washed from all pollution; and the rest in one word,—as the God-fearing Jews have heard, do you also hear, and be of one mind in many bodies; let each man be minded to do to his neighbour those good things he wishes for himself."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 4,
+                            "name": "Clement: Homily VII 4:5",
+                            "text": "And you may all find out what is good, by holding some such conversation as the following with yourselves:  You would not like to be murdered; do not murder another man:  you would not like your wife to be seduced by another; do not you commit adultery:  you would not like any of your things to be stolen from you; steal nothing from another."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 4,
+                            "name": "Clement: Homily VII 4:6",
+                            "text": "And so understanding by yourselves what is reasonable, and doing it, you will become dear to God, and will obtain healing; otherwise in the life which now is your bodies will be tormented, and in that which is to come your souls will be punished\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 5,
+                    "name": "Clement: Homily VII 5",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 5,
+                            "name": "Clement: Homily VII 5:1",
+                            "text": "Chapter V."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 5,
+                            "name": "Clement: Homily VII 5:2",
+                            "text": "—Peter Departs for Sidon."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 5,
+                            "name": "Clement: Homily VII 5:3",
+                            "text": "After Peter had spent a few days in teaching them in this way, and in healing them, they were baptized."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 5,
+                            "name": "Clement: Homily VII 5:4",
+                            "text": "And after that, all sat down together in the market-places in sackcloth and ashes, grieving because of his other wondrous works, and repenting their former sins."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 5,
+                            "name": "Clement: Homily VII 5:5",
+                            "text": "And when they of Sidon heard it, they did likewise, and sent to beseech Peter, since they could not come themselves for their diseases."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 5,
+                            "name": "Clement: Homily VII 5:6",
+                            "text": "And Peter did not spend many days in Tyre; but when he had instructed all its inhabitants, and freed them from all manners of diseases and had founded a church, and set over it as bishop one of the elders who were with him, he departed for Sidon."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 5,
+                            "name": "Clement: Homily VII 5:7",
+                            "text": "But when Simon heard that Peter was coming, he straightway fled to Beyrout with Appion and his friends."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 6,
+                    "name": "Clement: Homily VII 6",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 6,
+                            "name": "Clement: Homily VII 6:1",
+                            "text": "Chapter VI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 6,
+                            "name": "Clement: Homily VII 6:2",
+                            "text": "—Peter in Sidon."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 6,
+                            "name": "Clement: Homily VII 6:3",
+                            "text": "And as Peter entered Sidon, they brought many in couches, and laid them before him."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 6,
+                            "name": "Clement: Homily VII 6:4",
+                            "text": "And he said to them:  \"Think not, I pray you, that I can do anything to heal you, who am a mortal man, myself subject to many evils."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 6,
+                            "name": "Clement: Homily VII 6:5",
+                            "text": "But I shall not refuse to show you the way in which you must be saved."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 6,
+                            "name": "Clement: Homily VII 6:6",
+                            "text": "For I have learned from the Prophet of truth the conditions fore-ordained of God before the foundation of the world; that is to say, the evil deeds which if men do He has ordained that they shall be injured by the prince of evil, and in like manner the good deeds for which He has decreed that they who have believed in Him as their Physician shall have their bodies made whole, and their souls established in safety."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 7,
+                    "name": "Clement: Homily VII 7",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 7,
+                            "name": "Clement: Homily VII 7:1",
+                            "text": "Chapter VII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 7,
+                            "name": "Clement: Homily VII 7:2",
+                            "text": "—The Two Paths."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 7,
+                            "name": "Clement: Homily VII 7:3",
+                            "text": "\"Knowing, then, these good and evil deeds, I make known unto you as it were two paths, and I shall show you by which travellers are lost and by which they are saved, being guided of God."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 7,
+                            "name": "Clement: Homily VII 7:4",
+                            "text": "The path of the lost, then, is broad and very smooth—it ruins them without troubling them; but the path of the saved is narrow, rugged, and in the end it saves, not without much toil, those who have journeyed through it."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 7,
+                            "name": "Clement: Homily VII 7:5",
+                            "text": "And these two paths are presided over by unbelief and faith; and these journey through the path of unbelief, those who have preferred pleasure, on account of which they have forgotten the day of judgment, doing that which is not pleasing to God, and not caring to save their souls by the word, and have not anxiously sought their own good."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 7,
+                            "name": "Clement: Homily VII 7:6",
+                            "text": "Truly they know not that the counsels of God are not like men's counsels; for, in the first place, He knows the thoughts of all men, and all must give an account not only of their actions, but also of their thoughts."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 7,
+                            "name": "Clement: Homily VII 7:7",
+                            "text": "And their sin is much less who strive to understand well and fall, than that of those who do not at all strive after good things."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 7,
+                            "name": "Clement: Homily VII 7:8",
+                            "text": "Because it has pleased God that he who errs in his knowledge of good, as men count errors, should be saved after being slightly punished."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 7,
+                            "name": "Clement: Homily VII 7:9",
+                            "text": "But they who have taken no care at all to know the better way, even though they may have done countless other good deeds, if they have not stood in the service He has Himself appointed, come under the charge of indifference, and are severely punished, and utterly destroyed."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 8,
+                    "name": "Clement: Homily VII 8",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 8,
+                            "name": "Clement: Homily VII 8:1",
+                            "text": "Chapter VIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 8,
+                            "name": "Clement: Homily VII 8:2",
+                            "text": "—The Service of God's Appointment."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 8,
+                            "name": "Clement: Homily VII 8:3",
+                            "text": "\"And this is the service He has appointed:  To worship Him only, and trust only in the Prophet of truth, and to be baptized for the remission of sins, and thus by this pure baptism to be born again unto God by saving water; to abstain from the table of devils, that is, from food offered to idols, from dead carcases, from animals which have been suffocated or caught by wild beasts, and from blood; not to live any longer impurely; to wash after intercourse; that the women on their part should keep the law of purification; that all should be sober-minded, given to good works, refraining from wrongdoing, looking for eternal life from the all-powerful God, and asking with prayer and continual supplication that they may win it\"."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 8,
+                            "name": "Clement: Homily VII 8:4",
+                            "text": "Such was Peter's counsel to the men of Sidon also."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 8,
+                            "name": "Clement: Homily VII 8:5",
+                            "text": "And in few days many repented and believed, and were healed."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 8,
+                            "name": "Clement: Homily VII 8:6",
+                            "text": "And Peter having founded a church, and set over it as bishop one of the elders who were with him, left Sidon."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 9,
+                    "name": "Clement: Homily VII 9",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 9,
+                            "name": "Clement: Homily VII 9:1",
+                            "text": "Chapter IX."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 9,
+                            "name": "Clement: Homily VII 9:2",
+                            "text": "—Simon Attacks Peter."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 9,
+                            "name": "Clement: Homily VII 9:3",
+                            "text": "No sooner had he reached Beyrout than an earthquake took place; and the multitude, running to Peter, said, \"Help us, for we are afraid we shall all utterly perish\"."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 9,
+                            "name": "Clement: Homily VII 9:4",
+                            "text": "Then Simon ventured, along with Appion and Anubion and Athenodorus, and the rest of his companions, to cry out to the people against Peter in public:  \"Flee, friends, from this man! he is a magician; trust us, he it was who caused this earthquake: he sent us these diseases to terrify us, as if he were God Himself\"."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 9,
+                            "name": "Clement: Homily VII 9:5",
+                            "text": "And many such false charges did Simon and his friends bring against Peter, as one who could do things above human power."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 9,
+                            "name": "Clement: Homily VII 9:6",
+                            "text": "But as soon as the people gave him a moment's quiet, Peter with surprising boldness gave a little laugh, and said, \"Friends, I admit that I can do, God willing, what these men say; and more than that, I am ready, if you do not believe what I say, to overturn your city from top to bottom\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 10,
+                    "name": "Clement: Homily VII 10",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 10,
+                            "name": "Clement: Homily VII 10:1",
+                            "text": "Chapter X."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 10,
+                            "name": "Clement: Homily VII 10:2",
+                            "text": "—Simon is Driven Away."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 10,
+                            "name": "Clement: Homily VII 10:3",
+                            "text": "And the people were afraid, and promised to do whatever he should command."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 10,
+                            "name": "Clement: Homily VII 10:4",
+                            "text": "\"Let none of you, then,\" said Peter, \"either hold conversation with these sorcerers, or have any thing to do with them\"."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 10,
+                            "name": "Clement: Homily VII 10:5",
+                            "text": "And as soon as the people heard this concise command, they took up sticks, and pursued them till they had driven them wholly out of the town."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 10,
+                            "name": "Clement: Homily VII 10:6",
+                            "text": "And they who were sick and possessed with devils came and cast themselves at Peter's feet."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 10,
+                            "name": "Clement: Homily VII 10:7",
+                            "text": "And he seeing all this, and anxious to free them from their terror, said to them:—."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 11,
+                    "name": "Clement: Homily VII 11",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 11,
+                            "name": "Clement: Homily VII 11:1",
+                            "text": "Chapter XI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 11,
+                            "name": "Clement: Homily VII 11:2",
+                            "text": "—The Way of Salvation."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 11,
+                            "name": "Clement: Homily VII 11:3",
+                            "text": "\"Were I able to cause earthquakes, and do all that I wish, I assure you I would not destroy Simon and his friends (for not to destroy men am I sent), but would make him my friend, that he might no longer, by his slanders against my preaching the truth, hinder the salvation of many."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 11,
+                            "name": "Clement: Homily VII 11:4",
+                            "text": "But if you believe me, he himself is a magician; he is a slanderer; he is a minister of evil to them who know not the truth."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 11,
+                            "name": "Clement: Homily VII 11:5",
+                            "text": "Therefore he has power to bring diseases on sinners, having the sinners themselves to help him in his power over them."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 11,
+                            "name": "Clement: Homily VII 11:6",
+                            "text": "But I am a servant of God the Creator of all things, and a disciple of His Prophet who is at His right hand."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 11,
+                            "name": "Clement: Homily VII 11:7",
+                            "text": "Wherefore I, being His apostle, preach the truth:  to serve a good man I drive away diseases, for I am His second messenger, since first the disease comes, but after that the healing."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 11,
+                            "name": "Clement: Homily VII 11:8",
+                            "text": "By that evil-working magician, then, you were stricken with disease because you revolted from God."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 11,
+                            "name": "Clement: Homily VII 11:9",
+                            "text": "By me, if you believe on Him ye shall be cured:  and so having had experience that He is able, you may turn to good works, and have your souls saved\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 12,
+                    "name": "Clement: Homily VII 12",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 12,
+                            "name": "Clement: Homily VII 12:1",
+                            "text": "Chapter XII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 12,
+                            "name": "Clement: Homily VII 12:2",
+                            "text": "—Peter Goes to Byblus and Tripolis."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 12,
+                            "name": "Clement: Homily VII 12:3",
+                            "text": "As he said these things, all fell on their knees before his feet."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 12,
+                            "name": "Clement: Homily VII 12:4",
+                            "text": "And he, lifting up his hands to heaven, prayed to God, and healed them all by his simple prayer alone."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 12,
+                            "name": "Clement: Homily VII 12:5",
+                            "text": "And he remained not many days in Beyrout; but after he had accustomed many to the service of the one God, and had baptized them, and had set over them a bishop from the elders who were with him, he went to Byblus."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 12,
+                            "name": "Clement: Homily VII 12:6",
+                            "text": "And when he came there, and learned that Simon had not waited for them for a day, but had gone straightway to Tripolis, he remained there only a few days; and after that he had healed not a few, and exercised them in the Scriptures, he followed in Simon's track to Tripolis, preferring to pursue him rather than flee from him."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -66,4 +66,6 @@ def iterate_and_convert(base_dir):
 
 if __name__ == "__main__":
     base_directory = "../sources/"  # Change this to your base directory
+    etc_directory = "../etc/"
     iterate_and_convert(base_directory)
+    iterate_and_convert(etc_directory)

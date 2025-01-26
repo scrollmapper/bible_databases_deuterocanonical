@@ -1,0 +1,2307 @@
+{
+    "books": [
+        {
+            "name": "Methodius: On the Resurrection",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Methodius: On the Resurrection 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:1",
+                            "text": "From the Discourse on the Ressurection: Part I."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:2",
+                            "text": "I."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:3",
+                            "text": "God did not make evil, nor is He at all in any way the author of evil; but whatever failed to keep the law, which He in all justice ordained, after being made by Him with the faculty of free-will, for the purpose of guarding and keeping it, is called evil."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:4",
+                            "text": "Now it is the gravest fault to disobey God, by overstepping the bounds of that righteousness which is consistent with free-will."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:5",
+                            "text": "II."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:6",
+                            "text": "Now the question has already been raised, and answered, that the \"coats of skins\" are not bodies."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:7",
+                            "text": "Nevertheless, let us speak of it again, for it is not enough to have mentioned it once."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:8",
+                            "text": "Before the preparation of these coats of skins, the first man himself acknowledges that he has both bones and flesh; for when he saw the woman brought to him: \"This is now,\" he cried, \"bone of my bone and flesh of my flesh\"."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:9",
+                            "text": "And again: She shall be called Woman, because she was taken out of man."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:10",
+                            "text": "For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh\"."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:11",
+                            "text": "For I cannot endure the trifling of some who shamelessly do violence to Scripture, in order that their opinion, that the resurrection is without flesh, may find support; supposing rational bones and flesh, and in different ways changing it backwards and forwards by allegorizing."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:12",
+                            "text": "And Christ confirms the taking of these things as they are written, when, to the question of the Pharisees about putting away a wife, He answers: \"Have ye not read that He which made them at the beginning made them male and female; and said, For this cause shall a man leave his father,\" and so on."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:13",
+                            "text": "III."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:14",
+                            "text": "But it is evidently absurd to think that the body will not co-exist with the soul in the eternal state, because it is a bond and fetters; in order that, according to their view, we who are to live in the kingdom of light may not be for ever condemned to be bondmen of corruption."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:15",
+                            "text": "For as the question has been sufficiently solved, and the statement refitted in which they defined the flesh to be the soul's chain, the argument also is destroyed, that the flesh will not rise again, lest, if we resume it, we be prisoners in the kingdom of light."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:16",
+                            "text": "IV."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:17",
+                            "text": "In order, then, that man might not be an undying or ever-living evil, as would have been the case if sin were dominant within him, as it had sprung up in an immortal body, and was provided with immortal sustenance, God for this cause pronounced him mortal, and clothed him with mortality."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:18",
+                            "text": "For this is what was meant by the coats of skins, in order that, by the dissolution of the body, sin might be altogether destroyed from the very roots, that there might not be left even the smallest particle of root from which new shoots of sin might again burst forth."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:19",
+                            "text": "V."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:20",
+                            "text": "For as a fig-tree, which has grown in the splendid buildings of a temple, and has reached a great size, and is spread over all the joints of the stones with thickly-branching roots, ceases not to grow, till, by the loosening of the stones from the place in which it sprung up, it is altogether torn away; for it is possible for the stones to be fitted into their own places, when the fig tree is taken away, so that the temple may be preserved, having no longer to support what was the cause of its own destruction; while the fig-tree, torn away by the roots, dies; in the same way also, God, the builder, checked by the seasonable application of death, His own temple, man, when he had fostered sin, like a wild fig-tree, \"killing,\" in the words of Scripture, \"and making alive,\" in order that the flesh, after sin is withered and dead, may, like a restored temple, be raised up again with the same parts, uninjured and immortal, while sin is utterly and entirely destroyed."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:21",
+                            "text": "For while the body still lives, before it has passed through death, sin must also live with it, as it has its roots concealed within us even though it be externally checked by the wounds inflicted by corrections and warnings; since, otherwise, it would not happen that we do wrong after baptism, as we should be entirely and absolutely free from sin."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:22",
+                            "text": "But now, even after believing, and after the time of being touched by the water of sanctification, we are oftentimes found in sin."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:23",
+                            "text": "For no one can boast of being so free from sin as not even to have an evil thought."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:24",
+                            "text": "So that it is come to pass that sin is now restrained and lulled to sleep by faith, so that it does not produce injurious fruits, but yet is not torn up by the roots."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:25",
+                            "text": "For the present we restrain its sprouts, such as evil imaginations, \"lest any root of bitterness springing up trouble\" us, not suffering its leaves to unclose and open into shoots; while the Word, like an axe, cuts at its roots which grow below."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:26",
+                            "text": "But hereafter the very thought of evil will disappear."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:27",
+                            "text": "VI."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:28",
+                            "text": "But come now, since there is need of many examples in matters of this kind, let us examine them particularly from this point of view, without desisting till our argument ends in clearer explanation and proof."
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:29",
+                            "text": "It appears, then, as if an eminent craftsman were to cast over again a noble image, wrought by himself of gold or other material, and beautifully proportioned in all its members, upon his suddenly perceiving that it had been mutilated by some infamous man, who, too envious to endure the image being beautiful, spoiled it, and thus enjoyed the empty pleasure of indulged jealousy."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:30",
+                            "text": "For take notice, most wise Aglaophon, that, if the artificer wish that that upon which he has bestowed so much pains and care and labour, shall be quite free from injury, he will be impelled to melt it down, and restore it to its former condition."
+                        },
+                        {
+                            "verse": 31,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:31",
+                            "text": "But if he should not cast it afresh, nor reconstruct it, but allow it to remain as it is, repairing and restoring it, it must be that the image, being passed through the fire and forged, cannot any longer be preserved unchanged, but will be altered and wasted."
+                        },
+                        {
+                            "verse": 32,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:32",
+                            "text": "Wherefore, if he should wish it to be perfectly beautiful and faultless, it must be broken up and recast, in order that all the disfigurements and mutilations inflicted upon it by treachery and envy, may be got rid of by the breaking up and recasting of it, while the image is restored again uninjured and unalloyed to the same form as before, and made as like itself as possible."
+                        },
+                        {
+                            "verse": 33,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:33",
+                            "text": "For it is impossible for an image under the hands of the original artist to be lost, even if it be melted down again, for it may be restored; but it is possible for blemishes and injuries to be put off, for they melt away and cannot be restored; because in every work of art the best craftsman looks not for blemish or failure, but for symmetry and correctness in his work."
+                        },
+                        {
+                            "verse": 34,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:34",
+                            "text": "Now God's plan seems to me to have been the same as that which prevails among ourselves."
+                        },
+                        {
+                            "verse": 35,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:35",
+                            "text": "For seeing man, His fairest work, corrupted by envious treachery, He could not endure, with His love for man, to leave him in such a condition, lest he should be for ever faulty, and bear the blame to eternity; but dissolved him again into his original materials, in order that, by remodelling, all the blemishes in him might waste away and disappear."
+                        },
+                        {
+                            "verse": 36,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:36",
+                            "text": "For the melting down of the statue in the former case corresponds to the death and dissolution of the body in the latter, and the remoulding of the material in the former, to the resurrection after death in the latter; as also saith the prophet Jeremiah, for he addresses the Jews in these words, \"And I went down to the potter's house; and, behold, he wrought a work upon the stones."
+                        },
+                        {
+                            "verse": 37,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:37",
+                            "text": "And the vessel which he made in his hands was broken; and again he made another vessel, as it pleased him to make it."
+                        },
+                        {
+                            "verse": 38,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:38",
+                            "text": "And the word of the Lord came to me, saying, Cannot I do to you as this potter, O house of Israel? Behold, as the clay of the potter are ye in my hands\"."
+                        },
+                        {
+                            "verse": 39,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:39",
+                            "text": "VII."
+                        },
+                        {
+                            "verse": 40,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:40",
+                            "text": "For I call your attention to this, that, as I said, after man's transgression the Great Hand was not content to leave as a trophy of victory its own work, debased by the Evil One, who wickedly injured it from motives of envy; but moistened and reduced it to clay, as a potter breaks up a vessel, that by the remodelling of it all the blemishes and bruises in it may disappear, and it may be made afresh faultless and pleasing."
+                        },
+                        {
+                            "verse": 41,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:41",
+                            "text": "VIII."
+                        },
+                        {
+                            "verse": 42,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:42",
+                            "text": "But it is not satisfactory to say that the universe will be utterly destroyed, and sea and air and sky will be no longer."
+                        },
+                        {
+                            "verse": 43,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:43",
+                            "text": "For the whole world will be deluged with fire from heaven, and burnt for the purpose of purification and renewal; it will not, however, come to complete ruin and corruption."
+                        },
+                        {
+                            "verse": 44,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:44",
+                            "text": "For if it were better for the world not to be than to be, why did God, in making the world, take the worse course? But God did not work in vain, or do that which was worst."
+                        },
+                        {
+                            "verse": 45,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:45",
+                            "text": "God therefore ordered the creation with a view to its existence and continuance, as also the Book of Wisdom confirms, saying, \"For God created all things that they might have their being; and the generations of the world were healthful, and there is no poison of destruction in them\"."
+                        },
+                        {
+                            "verse": 46,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:46",
+                            "text": "And Paul clearly testifies this, saying, \"For the earnest expectation of the creature waiteth for the manifestation of the sons of God."
+                        },
+                        {
+                            "verse": 47,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:47",
+                            "text": "For the creature was made subject to vanity, not willingly, but by reason of him that subjected the same in hope: because the creature itself also shall be delivered from the bondage of corruption into the glorious liberty of the children of God\"."
+                        },
+                        {
+                            "verse": 48,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:48",
+                            "text": "For the creation was made subject to vanity, he says, and he expects that it will be set free from such servitude, as he intends to call this world by the name of creation."
+                        },
+                        {
+                            "verse": 49,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:49",
+                            "text": "For it is not what is unseen but what is seen that is subject to corruption."
+                        },
+                        {
+                            "verse": 50,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:50",
+                            "text": "The creation, then, after being restored to a better and more seemly state, remains, rejoicing and exulting over the children of God at the resurrection; for whose sake it now groans and travails, waiting itself also for our redemption from the corruption of the body, that, when we have risen and shaken off the mortality of the flesh, according to that which is written, \"Shake off the dust, and arise, and sit down, O Jerusalem,\" and have been set free from sin, it also shall be freed from corruption and be subject no longer to vanity, but to righteousness."
+                        },
+                        {
+                            "verse": 51,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:51",
+                            "text": "Isaiah says, too, \"For as the new heaven and the new earth which I make, remaineth before me, saith the Lord, so shall your seed and your name be;\" and again, \"Thus saith the Lord that created the heaven, it is He who prepared the earth and created it, He determined it; He created it not in vain, but formed it to be inhabited\"."
+                        },
+                        {
+                            "verse": 52,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:52",
+                            "text": "For in reality God did not establish the universe in vain, or to no purpose but destruction, as those weak-minded men say, but to exist, and be inhabited, and continue."
+                        },
+                        {
+                            "verse": 53,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:53",
+                            "text": "Wherefore the earth and the heaven must exist again after the conflagration and shaking of all things."
+                        },
+                        {
+                            "verse": 54,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:54",
+                            "text": "IX."
+                        },
+                        {
+                            "verse": 55,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:55",
+                            "text": "But if our opponents say, How then is it, if the universe be not destroyed, that the Lord says that \"heaven and earth shall pass away;\" and the prophet, that \"the heaven shall perish as smoke, and the earth shall grow old as a garment;\" we answer, because it is usual for the Scriptures to call the change of the world from its present condition to a better and more glorious one, destruction; as its earlier form is lost in the change of all things to a state of greater splendour; for there is no contradiction nor absurdity in the Holy Scriptures."
+                        },
+                        {
+                            "verse": 56,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:56",
+                            "text": "For not \"the world\" but the \"fashion of this world\" passeth away, it is said; so it is usual for the Scriptures to call the change from an earlier form to a better and more comely state, destruction; just as when one calls by the name of destruction the change from a childish form into a perfect man, as the stature of the child is turned into manly size and beauty."
+                        },
+                        {
+                            "verse": 57,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:57",
+                            "text": "We may expect that the creation will pass away, as if it were to perish in the burning, in order that it may be renewed, not however that it will be destroyed, that we who are renewed may dwell in a renewed world without taste of sorrow; according as it is said, \"When Thou lettest Thy breath go forth, they shall be made, and Thou shalt renew the face of the earth;\" God henceforth providing for the due temperature of that which surrounds it."
+                        },
+                        {
+                            "verse": 58,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:58",
+                            "text": "For as the earth is to exist after the present age, there must be by all means inhabitants for it, who shall no longer be liable to death, nor shall marry, nor beget children, but live in all happiness, like the angels, without change or decay."
+                        },
+                        {
+                            "verse": 59,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:59",
+                            "text": "Wherefore it is silly to discuss in what way of life our bodies will then exist, if there is no longer air, nor earth, nor anything else."
+                        },
+                        {
+                            "verse": 60,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:60",
+                            "text": "X."
+                        },
+                        {
+                            "verse": 61,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:61",
+                            "text": "But in addition to what has been said, there is this point worth consideration, since it misleads very much, if we may be outspoken about matters of such importance, Aglaophon."
+                        },
+                        {
+                            "verse": 62,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:62",
+                            "text": "For you said that the Lord declared plainly that those who shall obtain the resurrection shall then be as the angels."
+                        },
+                        {
+                            "verse": 63,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:63",
+                            "text": "You brought this objection: The angels, being without flesh, are on this account in the utmost happiness and glory."
+                        },
+                        {
+                            "verse": 64,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:64",
+                            "text": "We must then, as we are to be made equal to the angels, be like them stripped of flesh, and be angels."
+                        },
+                        {
+                            "verse": 65,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:65",
+                            "text": "But you overlooked this, my excellent friend, that He who created and set in order the universe out of nothing, ordained the nature of immortal beings to be distributed not only among angels and ministers, but also among principalities, and thrones, and powers."
+                        },
+                        {
+                            "verse": 66,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:66",
+                            "text": "For the race of angels is one, and that of principalities and powers another; because immortal beings are not all of one order, and constitution, and tribe, and family, but there are differences of race and tribe."
+                        },
+                        {
+                            "verse": 67,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:67",
+                            "text": "And neither do the cherubim, departing from their own nature, assume the form of angels; nor, again, do angels assume the form of the others."
+                        },
+                        {
+                            "verse": 68,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:68",
+                            "text": "For they cannot be anything but what they are and have been made."
+                        },
+                        {
+                            "verse": 69,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:69",
+                            "text": "Moreover, man also having been appointed by the original order of things to inhabit the world, and to rule over all that is in it, when he is immortal, will never be changed from being a man into the form either of angels or any other; for neither do angels undergo a change from their original form to another."
+                        },
+                        {
+                            "verse": 70,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:70",
+                            "text": "For Christ at His coming did not proclaim that the human nature should, when it is immortal, be remoulded or transformed into another nature, but into what it was before the fall."
+                        },
+                        {
+                            "verse": 71,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:71",
+                            "text": "For each one among created things must remain in its own proper place, that none may be wanting to any, but all may be full: heaven of angels, thrones of powers, luminaries of ministers; and the more divine spots, and the undefiled and untainted luminaries, with seraphim, who attend the Supreme Council, and uphold the universe; and the world of men."
+                        },
+                        {
+                            "verse": 72,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:72",
+                            "text": "For if we granted that men are changed into angels, it would follow that we say that angels also are changed into powers, and these into one thing and the other, until our argument proceed too far for safety."
+                        },
+                        {
+                            "verse": 73,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:73",
+                            "text": "XI."
+                        },
+                        {
+                            "verse": 74,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:74",
+                            "text": "Neither did God, as if He had made man badly, or committed a mistake in the formation of him, determine afterwards to make an angel, repenting of His work, as the worst of craftsmen do; nor did He fashion man, after He had wished originally to make an angel, and failed; for this would be a sign of weakness, etc."
+                        },
+                        {
+                            "verse": 75,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:75",
+                            "text": "Why even then did He make man and not angels, if He wished men to be angels and not men? Was it because He was unable? It is blasphemy to suppose so."
+                        },
+                        {
+                            "verse": 76,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:76",
+                            "text": "Or was He so busy in making the worse as to loiter about the better? This too is absurd."
+                        },
+                        {
+                            "verse": 77,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:77",
+                            "text": "For He does not fail in making what is good, nor defers it, nor is incapable of it; but He has the power to act how and when He pleases, inasmuch as He is Himself power."
+                        },
+                        {
+                            "verse": 78,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:78",
+                            "text": "Wherefore it was because He intended man to be man, that He originally made him so."
+                        },
+                        {
+                            "verse": 79,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:79",
+                            "text": "But if He so intended—since He intends what is good—man is good."
+                        },
+                        {
+                            "verse": 80,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:80",
+                            "text": "Now man is said to be composed of soul and body; he cannot then exist without a body, but with a body, unless there be produced another man besides man."
+                        },
+                        {
+                            "verse": 81,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:81",
+                            "text": "For all the orders of immortal beings must be preserved by God, and among these is man."
+                        },
+                        {
+                            "verse": 82,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:82",
+                            "text": "\"For,\" says the Book of Wisdom, \"God created man to be immortal, and made him to be an image of His own eternity\"."
+                        },
+                        {
+                            "verse": 83,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:83",
+                            "text": "The body then perishes not; for man is composed of soul and body."
+                        },
+                        {
+                            "verse": 84,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:84",
+                            "text": "XII."
+                        },
+                        {
+                            "verse": 85,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:85",
+                            "text": "Wherefore observe that these are the very things which the Lord wished to teach to the Sadducees, who did not believe in the resurrection of the flesh."
+                        },
+                        {
+                            "verse": 86,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:86",
+                            "text": "For this was the opinion of the Sadducees."
+                        },
+                        {
+                            "verse": 87,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:87",
+                            "text": "Whence it was that, having contrived the parable about the woman and the seven brethren, that they might cast doubt upon the resurrection of the flesh, \"There came to Him,\" it is said, \"the Sadducees also, who say that there is no resurrection\"."
+                        },
+                        {
+                            "verse": 88,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:88",
+                            "text": "Christ, then, if there had been no resurrection of the flesh, but the soul only were saved, would have agreed with their opinion as a right and excellent one."
+                        },
+                        {
+                            "verse": 89,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:89",
+                            "text": "But as it was, He answered and said, \"In the resurrection they neither marry, nor are given in marriage, but are as the angels in heaven,\" not on account of having no flesh, but of not marrying nor being married, but being henceforth incorruptible."
+                        },
+                        {
+                            "verse": 90,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:90",
+                            "text": "And He speaks of our being near the angels in this respect, that as the angels in heaven, so we also in paradise, spend our time no more in marriage-feasts or other festivities."
+                        },
+                        {
+                            "verse": 91,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:91",
+                            "text": "but in seeing God and cultivating life, under the direction of Christ."
+                        },
+                        {
+                            "verse": 92,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:92",
+                            "text": "For He did not say \"they shall be angels,\" but like angels, in being, for instance, crowned, as it is written, with glory and honour; differing a little from the angels, while near to being angels."
+                        },
+                        {
+                            "verse": 93,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:93",
+                            "text": "Just as if He had said, while observing the fair order of the sky, and the stillness of the night, and everything illumined by the heavenly light of the moon, \"the moon shines like the sun\"."
+                        },
+                        {
+                            "verse": 94,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:94",
+                            "text": "We should not then say that He asserted that the moon was absolutely the sun, but like the sun."
+                        },
+                        {
+                            "verse": 95,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:95",
+                            "text": "As also that which is not gold, but approaching the nature of gold, is said not to be gold, but to be like gold."
+                        },
+                        {
+                            "verse": 96,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:96",
+                            "text": "But if it were gold, it would be said to be, and not to be like, gold."
+                        },
+                        {
+                            "verse": 97,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:97",
+                            "text": "But since it is not gold, but approaching to the nature of it, and has the appearance of it, it is said to be like gold; so also when He says that the saints shall."
+                        },
+                        {
+                            "verse": 98,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:98",
+                            "text": "in the resurrection be like the angels, we do not understand Him to assert that they will then be actually angels, but approaching to the condition of angels."
+                        },
+                        {
+                            "verse": 99,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:99",
+                            "text": "So that it is most unreasonable to say, \"Since Christ declared that the saints in the resurrection appear as angels, therefore their bodies do not rise,\" although the very words employed give a clear proof of the real state of the case."
+                        },
+                        {
+                            "verse": 100,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:100",
+                            "text": "For the term \"resurrection\" is not applied to that which has not fallen, but to that which has fallen and rises again; as when the prophet says, \"I will also raise up again the tabernacle of David which has fallen down\"."
+                        },
+                        {
+                            "verse": 101,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:101",
+                            "text": "Now the much-desired tabernacle of the soul is fallen, and sunk down into \"the dust of the earth\"."
+                        },
+                        {
+                            "verse": 102,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:102",
+                            "text": "For it is not that which is not dead, but that which is dead, that is laid down."
+                        },
+                        {
+                            "verse": 103,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:103",
+                            "text": "But it is the flesh which dies; the soul is immortal."
+                        },
+                        {
+                            "verse": 104,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:104",
+                            "text": "So, then, if the soul be immortal, and the body be the corpse, those who say that there is a resurrection, but not of the flesh, deny any resurrection; because it is not that which remains standing, but that which has fallen and been laid down, that is set up; according to that which is written, \"Does not he who falls rise again, and he who turns aside return?\"  XIII."
+                        },
+                        {
+                            "verse": 105,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:105",
+                            "text": "Since flesh was made to border on incorruption and corruption, being itself neither the one nor the other, and was overcome by corruption for the sake of pleasure, though it was the work and property of incorruption; therefore it became corruptible, and was laid in the dust of the earth."
+                        },
+                        {
+                            "verse": 106,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:106",
+                            "text": "When, then, it was overcome by corruption, and delivered over to death through disobedience, God did not leave it to corruption to be triumphed over as an inheritance; but, after conquering death by the resurrection, delivered it again to incorruption, in order that corruption might not receive the property of incorruption, but incorruption that of corruption."
+                        },
+                        {
+                            "verse": 107,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:107",
+                            "text": "Therefore the apostle answers thus, \"For this corruptible must put on incorruption, and this mortal must put on immortality\"."
+                        },
+                        {
+                            "verse": 108,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:108",
+                            "text": "Now the corruptible and mortal putting on immortality, what else is it but that which is \"sown in corruption and raised in incorruption,\"—for the soul is not corruptible or mortal; but this which is mortal and corrupting is of flesh,—in order that, \"as we have borne the image of the earthy, we shall also bear the image of the heavenly?\" For the image of the earthy which we have borne is this, \"Dust thou art, and unto dust shalt thou return\"."
+                        },
+                        {
+                            "verse": 109,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:109",
+                            "text": "But the image of the heavenly is the resurrection from the dead, and incorruption, in order that \"as Christ was raised up from the dead by the glory of the Father, so we also should walk in newness of life\"."
+                        },
+                        {
+                            "verse": 110,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:110",
+                            "text": "But if any one were to think that the earthy image is the flesh itself, but the heavenly image some other spiritual body besides the flesh; let him first consider that Christ, the heavenly man, when He appeared, bore the same form of limbs and the same image of flesh as ours, through which also He, who was not man, became man, that \"as in Adam all die, even so in Christ shall all be made alive\"."
+                        },
+                        {
+                            "verse": 111,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:111",
+                            "text": "For if He bore flesh for any other reason than that of setting the flesh free, and raising it up, why did He bear flesh superfluously, as He purposed neither to save it, nor to raise it up? But the Son of God does nothing superfluously."
+                        },
+                        {
+                            "verse": 112,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:112",
+                            "text": "He did not then take the form of a servant uselessly, but to raise it up and save it."
+                        },
+                        {
+                            "verse": 113,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:113",
+                            "text": "For He truly was made man, and died, and not in mere appearance, but that He might truly be shown to be the first begotten from the dead, changing the earthy into the heavenly, and the mortal into the immortal."
+                        },
+                        {
+                            "verse": 114,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:114",
+                            "text": "When, then, Paul says that \"flesh and blood cannot inherit the kingdom of God,\" he does not give a disparaging opinion of the regeneration of the flesh, but would teach that the kingdom of God, which is eternal life, is not possessed by the body, but the body by the life."
+                        },
+                        {
+                            "verse": 115,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:115",
+                            "text": "For if the kingdom of God, which is life, were possessed by the body, it would happen that the life would be consumed by corruption."
+                        },
+                        {
+                            "verse": 116,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:116",
+                            "text": "But now the life possesses what is dying, in order that \"death may be swallowed up in victory\" by life, and the corruptible may be seen to be the possession of incorruption and immortality, while it becomes unbound and free from death and sin, but the slave and servant of immortality; so that the body may be the possession of incorruption, and not incorruption that of the body."
+                        },
+                        {
+                            "verse": 117,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:117",
+                            "text": "XIV."
+                        },
+                        {
+                            "verse": 118,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:118",
+                            "text": "If, then, out of such a drop, small, and previously without any existence, in its actual state of moistness, contractedness, and insignificance, in fact out of nothing, man is brought into being, how much rather shall man spring again into being out of a previously existing man? For it is not so difficult to make anything anew after it has once existed and fallen into decay, as to produce out of nothing that which has never existed."
+                        },
+                        {
+                            "verse": 119,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:119",
+                            "text": "Now, in case we choose to exhibit the seminal fluid discharged from a man, and place by it a corpse, each by itself, which of them, as they both lie exposed to view, will the spectators think most likely to become a man—that drop, which is nothing at all, or that which has already shape, and size, and substance? For if the very thing which is nothing at all, merely because God pleases, becomes a man, how much rather shall that which has existence and is brought to perfection become again a man, if God pleases? For what was the purpose of the theologian Moses, in introducing, under a mystical sense, the Feast of Tabernacles in the Book of Leviticus? Was it that we may keep a feast to God, as the Jews with their low view of the Scriptures interpret it? as if God took pleasure in such tabernacles, decked out with fruits and boughs and leaves, which immediately wither and lose their verdure."
+                        },
+                        {
+                            "verse": 120,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:120",
+                            "text": "We cannot say so."
+                        },
+                        {
+                            "verse": 121,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:121",
+                            "text": "Tell me, then, what was the object of the Feast of Tabernacles? It was introduced to point to this real tabernacle of ours, which, after it was fallen down to corruption through the transgression of the law, and broken up by sin, God promised to put together again, and to raise up in incorruptibility, in order that we may truly celebrate in His honour the great and renowned Feast of Tabernacles at the resurrection; when our tabernacles are put together in the perfect order of immortality and harmony, and raised up from the dust in incorruption; when the dry bones, according to the most true prophecy, shall hear a voice, and be brought to their joints by God, the Creator and Perfect Artificer, who will then renew the flesh and bind it on, no more with such ties as those by which it was at first held together, but by such as shall be for ever undecaying and indissoluble."
+                        },
+                        {
+                            "verse": 122,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:122",
+                            "text": "For I once saw on Olympus, which is a mountain of Lycia, fire bursting up from the ground spontaneously on the summit of the mountain; and by it was standing an Agnos tree, so flourishing, green, and shady, that one might suppose a never-failing stream of water had nourished its growth, rather than what was really the case."
+                        },
+                        {
+                            "verse": 123,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:123",
+                            "text": "For which cause, therefore, though the natures of things are corruptible, and their bodies consumed by fire, and it is impossible for things which are once of an inflammable nature to remain unaffected by fire; yet this tree, so far from being burnt, is actually more vigorous and green than usual, though it is naturally inflammable, and that too when the fire is glowing about its very roots."
+                        },
+                        {
+                            "verse": 124,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:124",
+                            "text": "I certainly cast some boughs of trees from the adjoining wood on to the place where the fire burst forth, and they immediately caught fire and were burnt to ashes."
+                        },
+                        {
+                            "verse": 125,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:125",
+                            "text": "Now, then, tell me why it is that that which cannot bear even to feel the heat of the sun, but withers up under it unless it be sprinkled with water, is not consumed when beset by such fiery heat, but both lives and thrives? What is the meaning of this marvel? God appointed this as an example and introduction to the day that is coming, in order that we may know more certainly that, when all things are deluged with fire from heaven, the bodies which are distinguished by chastity and righteousness will be taken up by Him as free from all injury from the fire as from cold water."
+                        },
+                        {
+                            "verse": 126,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:126",
+                            "text": "For truly, O beneficent and bountiful Lord, \"the creature that serveth Thee, who art the Maker, increaseth his strength against the unrighteous for their punishment, and abateth his strength for the benefit of such as put their trust in Thee;\" and at Thy pleasure fire cools, and injures nothing that Thou determinest to be preserved; and again, water burns more fiercely than fire, and nothing opposes Thine unconquerable power and might."
+                        },
+                        {
+                            "verse": 127,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:127",
+                            "text": "For Thou createdst all things out of nothing; wherefore also Thou changest and transformest all things as Thou wilt, seeing they are Thine, and Thou alone art God."
+                        },
+                        {
+                            "verse": 128,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:128",
+                            "text": "XV."
+                        },
+                        {
+                            "verse": 129,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:129",
+                            "text": "The apostle certainly, after assigning the planting and watering to art and earth and water, conceded the growth to God alone, where he says, \"Neither is he that planteth anything, neither he that watereth; but God that giveth the increase\"."
+                        },
+                        {
+                            "verse": 130,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:130",
+                            "text": "For he knew that Wisdom, the first-born of God, the parent and artificer of all things, brings forth everything into the world; whom the ancients called Nature and Providence, because she, with constant provision and care, gives to all things birth and growth."
+                        },
+                        {
+                            "verse": 131,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:131",
+                            "text": "\"For,\" says the Wisdom of God, \"my Father worketh hitherto, and I work\"."
+                        },
+                        {
+                            "verse": 132,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:132",
+                            "text": "Now it is on this account that Solomon called Wisdom the artificer of all things, since God is in no respect poor, but able richly to create, and make, and vary, and increase all things."
+                        },
+                        {
+                            "verse": 133,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:133",
+                            "text": "XVI."
+                        },
+                        {
+                            "verse": 134,
+                            "chapter": 1,
+                            "name": "Methodius: On the Resurrection 1:134",
+                            "text": "God, who created all things, and provides and cares for all things, took dust from the ground, and made our outer man."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 2,
+                    "name": "Methodius: On the Resurrection 2",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 2,
+                            "name": "Methodius: On the Resurrection 2:1",
+                            "text": "Part II."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 2,
+                            "name": "Methodius: On the Resurrection 2:2",
+                            "text": "The Second Discourse on the Resurrection."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 2,
+                            "name": "Methodius: On the Resurrection 2:3",
+                            "text": "For instance, then, the images of our kings here, even though they be not formed of the more precious materials—gold or silver—are honoured by all."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 2,
+                            "name": "Methodius: On the Resurrection 2:4",
+                            "text": "For men do not, while they treat with respect those of the far more precious material, slight those of a less valuable, but honour every image in the world, even though it be of chalk or bronze."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 2,
+                            "name": "Methodius: On the Resurrection 2:5",
+                            "text": "And one who speaks against either of them, is not acquitted as if he had only spoken against clay, nor condemned for having despised gold, but for having been disrespectful towards the King and Lord Himself."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 2,
+                            "name": "Methodius: On the Resurrection 2:6",
+                            "text": "The images of God's angels, which are fashioned of gold, the principalities and powers, we make to His honour and glory."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 3,
+                    "name": "Methodius: On the Resurrection 3",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:1",
+                            "text": "Fragment I:  Part III."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:2",
+                            "text": "I."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:3",
+                            "text": "From the Discourse on the Resurrection."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:4",
+                            "text": "I."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:5",
+                            "text": "Read the Book on the Resurrection by St."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:6",
+                            "text": "Methodius, Bishop and Martyr, of which that which follows is a selection, that the body is not the fetter of the soul, as Origen thought, nor are souls called by the prophet Jeremiah \"fettered\" on account of their being within bodies."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:7",
+                            "text": "For he lays down the principle that the body does not hinder the energies of the soul, but that rather the body is carried about with it, and cooperates in whatever the soul commits to it."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:8",
+                            "text": "But how are we to understand the opinion of Gregory the theologian, and many others?  II."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:9",
+                            "text": "That Origen said that the body was given to the soul as a fetter after the fall, and that previously it lived without a body; but that this body which we wear is the cause of our sins; wherefore also he called it a fetter, as it can hinder the soul from good works."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:10",
+                            "text": "III."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:11",
+                            "text": "That if the body was given to the soul after the fall as a fetter, it must have been given as a fetter upon the evil or the good."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:12",
+                            "text": "Now it is impossible that it should be upon the good; for no physician or artificer gives to that which has gone wrong a remedy to cause further error, much less would God do so."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:13",
+                            "text": "It remains, then, that it was a fetter upon evil."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:14",
+                            "text": "But surely we see that, at the beginning, Cain, clad in this body, committed murder; and it is evident into what wickedness those who succeeded him ran."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:15",
+                            "text": "The body is not, then, a fetter upon evil, nor indeed a fetter at all; nor was the soul clothed in it for the first time after the fall."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:16",
+                            "text": "IV."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:17",
+                            "text": "That man, with respect to his nature, is most truly said to be neither soul without body, nor, on the other hand, body without soul; but a being composed out of the union of soul and body into one form of the beautiful."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:18",
+                            "text": "But Origen said that the soul alone is man, as did Plato."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:19",
+                            "text": "V."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:20",
+                            "text": "That there is a difference between man and other living creatures; and to them are given varieties of natural form and shape, as many as the tangible and visible forces of nature produced at the command of God; while to him was given the form and image of God, with every part accurately finished, after the very original likeness of the Father and the only-begotten Son."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:21",
+                            "text": "Now we must consider how the saint states this."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:22",
+                            "text": "VI."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:23",
+                            "text": "He says that Phidias the statuary, after he had made the Pisaean image of ivory, ordered oil to be poured out before it, that, as far as he could secure it, it might be preserved imperishable."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:24",
+                            "text": "VII."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:25",
+                            "text": "He says, as was said also by Athenagoras, that the devil is a spirit, made by God, in the neighbourhood of matter, as of course the rest of the angels are, and that he was entrusted with the oversight of matter, and the forms of matter."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:26",
+                            "text": "For, according to the original constitution of angels, they were made by God, in His providence, for the care of the universe; in order that, while God exercises a perfect and general supervision over the whole, and keeps the supreme authority and power over all—for upon Him their existence depends—the angels appointed for this purpose take charge of particulars."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:27",
+                            "text": "Now the rest of them remained in the positions for which God made and appointed them; but the devil was insolent, and having conceived envy of us, behaved wickedly in the charge committed to him; as also did those who subsequently were enamoured of fleshly charms, and had illicit intercourse with the daughters of men."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:28",
+                            "text": "For to them also, as was the case with men, God granted the possession of their own choice."
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:29",
+                            "text": "And how is this to be taken?  VIII."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:30",
+                            "text": "He says that by the coats of skins is signified death."
+                        },
+                        {
+                            "verse": 31,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:31",
+                            "text": "For he says of Adam, that when the Almighty God saw that by treachery he, an immortal being, had become evil, just as his deceiver the devil was, He prepared the coats of skins on this account; that when he was thus, as it were, clothed in mortality, all that was evil in him might die in the dissolution of the body."
+                        },
+                        {
+                            "verse": 32,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:32",
+                            "text": "IX."
+                        },
+                        {
+                            "verse": 33,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:33",
+                            "text": "He holds that St."
+                        },
+                        {
+                            "verse": 34,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:34",
+                            "text": "Paul had two revelations."
+                        },
+                        {
+                            "verse": 35,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:35",
+                            "text": "For the apostle, he says, does not suppose paradise to be in the third heaven, in the opinion of those who knew how to observe the niceties of language, when he says, \"I know such a man caught up to the third heaven; and I know such a man, whether in the body or out of the body, God knoweth, that was caught up into paradise\"."
+                        },
+                        {
+                            "verse": 36,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:36",
+                            "text": "Here he signifies that he has seen two revelations, having been evidently taken up twice, once to the third heaven, and once into paradise."
+                        },
+                        {
+                            "verse": 37,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:37",
+                            "text": "For the words, \"I know such a man caught up,\" make it certain that he was personally shown a revelation respecting the third heaven."
+                        },
+                        {
+                            "verse": 38,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:38",
+                            "text": "And the words which follow, \"And I know such a man, whether in the body or out of the body, God knoweth, that he was caught up into paradise,\" show that another revelation was made to him respecting paradise."
+                        },
+                        {
+                            "verse": 39,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:39",
+                            "text": "Now he was led to make this statement by his opponent's having laid it down from the apostle's words that paradise is a mere conception, as it is above the heaven, in order to draw the conclusion that life in paradise is incorporeal."
+                        },
+                        {
+                            "verse": 40,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:40",
+                            "text": "X."
+                        },
+                        {
+                            "verse": 41,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:41",
+                            "text": "He says that it is in our power to do, or to avoid doing, evil; since otherwise we should not be punished for doing evil, nor be rewarded for doing well; but the presence or absence of evil thoughts does not depend upon ourselves."
+                        },
+                        {
+                            "verse": 42,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:42",
+                            "text": "Wherefore even the sainted Paul says, \"For what I would, that do I not, but what I would not, that I do;\" that is to say, \"My thoughts are not what I would, but what I would not\"."
+                        },
+                        {
+                            "verse": 43,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:43",
+                            "text": "Now he says that the habit of imagining evil is rooted out by the approach of physical death,—since it was for this reason that death was appointed by God for the sinner, that evil might not remain for ever."
+                        },
+                        {
+                            "verse": 44,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:44",
+                            "text": "But what is the meaning of this statement? It is to be noted that it has been made by others of our Fathers as well."
+                        },
+                        {
+                            "verse": 45,
+                            "chapter": 3,
+                            "name": "Methodius: On the Resurrection 3:45",
+                            "text": "What is the meaning, seeing that those who meet death find in it at the time neither increase nor decrease of sins?."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 4,
+                    "name": "Methodius: On the Resurrection 4",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:1",
+                            "text": "Fragment II:  II."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:2",
+                            "text": "A Synopsis of Some Apostolic Words from the Same Discourse."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:3",
+                            "text": "I."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:4",
+                            "text": "Read a compendious interpretation of some apostolic words from the same discourse."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:5",
+                            "text": "Let us see, then, what it is that we have endeavoured to say respecting the apostle."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:6",
+                            "text": "For this saying of his, \"I was alive without the law once,\" refers to the life which was lived in paradise before the law, not without a body, but with a body, by our first parents, as we have shown above; for we lived without concupiscence, being altogether ignorant of its assaults."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:7",
+                            "text": "For not to have a law according to which we ought to live, nor a power of establishing what manner of life we ought to adopt, so that we might justly be approved or blamed, is considered to exempt a person from accusation."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:8",
+                            "text": "Because one cannot lust after those things from which he is not restrained, and even if he lusted after them, he would not be blamed."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:9",
+                            "text": "For lust is not directed to things which are before us, and subject to our power, but to those which are before us, and not in our power."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:10",
+                            "text": "For how should one care for a thing which is neither forbidden nor necessary to him? And for this reason it is said, \"I had not known lust, except the law had said, Thou shalt not covet\"."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:11",
+                            "text": "For when (our first parents) heard, \"Of the tree of the knowledge of good and evil, thou shalt not eat of it; for in the day thou eatest thereof thou shalt surely die,\" then they conceived lust, and gathered it."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:12",
+                            "text": "Therefore was it said, I had not known lust, except the law had said, Thou shalt not covet;\" nor would they have desired to eat, except it had been said, \"Thou shalt not eat of it\"."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:13",
+                            "text": "For it was thence that sin took occasion to deceive me."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:14",
+                            "text": "For when the law was given, the devil had it in his power to work lust in me; \"for without the law, sin was dead;\" which means \"when the law was not given, sin could not be committed\"."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:15",
+                            "text": "But I was alive and blameless before the law, having no commandment in accordance with which it was necessary to live; \"but when the commandment came, sin revived, and I died."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:16",
+                            "text": "And the commandment, which was ordained to life, I found to be unto death\"."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:17",
+                            "text": "For after God had given the law, and had commanded me what I ought to do, and what I ought not to do, the devil wrought lust in me."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:18",
+                            "text": "For the promise of God which was given to me, this was for life and incorruption, so that obeying it I might have ever-blooming life and joy unto incorruption; but to him who disobeyed it, it would issue in death."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:19",
+                            "text": "But the devil, whom he calls sin, because he is the author of sin, taking occasion by the commandment to deceive me to disobedience, deceived and slew me, thus rendering me subject to the condemnation, \"In the day that thou eatest thereof thou shalt surely die\"."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:20",
+                            "text": "\"Wherefore the law is holy, and the commandment holy, and just and good;\" because it was given, not for injury, but for safety; for let us not suppose that God makes anything useless or hurtful."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:21",
+                            "text": "What then? \"Was then that which is good made death unto me?\" namely, that which was given as a law, that it might be the cause of the greatest good? \"God forbid\"."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:22",
+                            "text": "For it was not the law of God that became the cause of my being brought into subjection to corruption, but the devil; that he might be made manifested who, through that which is good, wrought evil; that the inventor of evil might become and be proved the greatest of all sinners."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:23",
+                            "text": "\"For we know that the law is spiritual;\" and therefore it can in no respect be injurious to any one; for spiritual things are far removed from irrational lust and sin."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:24",
+                            "text": "\"But I am carnal, sold under sin;\" which means: But I being carnal, and being placed between good and evil as a voluntary agent, am so that I may have it in my power to choose what I will."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:25",
+                            "text": "For \"behold I set before thee life and death;\" meaning that death would result from disobedience of the spiritual law, that is of the commandment; and from obedience to the carnal law, that is the counsel of the serpent; for by such a choice \"I am sold\" to the devil, fallen under sin."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:26",
+                            "text": "Hence evil, as though besieging me, cleaves to me and dwells in me, justice giving me up to be sold to the Evil One, in consequence of having violated the law."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:27",
+                            "text": "Therefore also the expressions: \"That which I do, I allow not,\" and \"what I hate, that do I,\" are not to be understood of doing evil, but of only thinking it."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:28",
+                            "text": "For it is not in our power to think or not to think of improper things, but to act or not to act upon our thoughts."
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:29",
+                            "text": "For we cannot hinder thoughts from coming into our minds, since we receive them when they are inspired into us from without; but we are able to abstain from obeying them and acting upon them."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:30",
+                            "text": "Therefore it is in our power to will not to think these things; but not to bring it about that they shall pass away, so as not to come into the mind again; for this does not lie in our power, as I said; which is the meaning of that statement, \"The good that I would, I do not;\" for I do not will to think the things which injure me; for this good is altogether innocent."
+                        },
+                        {
+                            "verse": 31,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:31",
+                            "text": "But \"the good that I would, I do not; but the evil which I would not, that I do;\" not willing to think, and yet thinking what I do not will."
+                        },
+                        {
+                            "verse": 32,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:32",
+                            "text": "And consider whether it was not for these very things that David entreated God, grieving that he thought of those things which he did not will: \"O cleanse Thou me from my secret faults."
+                        },
+                        {
+                            "verse": 33,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:33",
+                            "text": "Keep Thy servant also from presumptuous sins, lest they get the dominion over me; so shall I be undefiled, and innocent from the great offence\"."
+                        },
+                        {
+                            "verse": 34,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:34",
+                            "text": "And the apostle too, in another place: \"Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ\"."
+                        },
+                        {
+                            "verse": 35,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:35",
+                            "text": "II."
+                        },
+                        {
+                            "verse": 36,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:36",
+                            "text": "But if any one should venture to oppose this statement, and reply, that the apostle teaches that we hate not only the evil which is in thought, but that we do that which we will not, and we hate it even in the very act of doing it, for he says, \"The good which I would, I do not; but the evil which I would not, that I do;\" if he who says so speaks the truth, let us ask him to explain what was the evil which the apostle hated and willed not to do, but did; and the good which he willed to do, but did not; and conversely, whether as often as he willed to do good, so often he did not do the good which he willed, but did the evil which he willed not? And how he can say, when exhorting us to shake off all manner of sin, \"Be ye followers of me, even as I also am of Christ?\" Thus he meant the things already mentioned which he willed not to do, not to be done, but only to be thought of."
+                        },
+                        {
+                            "verse": 37,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:37",
+                            "text": "For how otherwise could he be an exact imitation of Christ? It would be excellent then, and most delightful, if we had not those who oppose us, and contend with us; but since this is impossible, we cannot do what we will."
+                        },
+                        {
+                            "verse": 38,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:38",
+                            "text": "For we will not to have those who lead us to passion, for then we could be saved without weariness and effort; but that does not come to pass which we will, but that which we will not."
+                        },
+                        {
+                            "verse": 39,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:39",
+                            "text": "For it is necessary, as I said, that we should be tried."
+                        },
+                        {
+                            "verse": 40,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:40",
+                            "text": "Let us not then, O my soul, let us not give in to the Evil One; but putting on \"the whole armour of God,\" which is our protection, let us have \"the breastplate of righteousness, and your feet shod with the preparation of the Gospel (of peace)."
+                        },
+                        {
+                            "verse": 41,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:41",
+                            "text": "Above all, taking the shield of faith, wherewith ye shall be able to quench all the fiery darts of the wicked."
+                        },
+                        {
+                            "verse": 42,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:42",
+                            "text": "And take the helmet of salvation, and the sword of the spirit, which is the Word of God,\" that ye may be able to stand against the wiles of the devil; \"casting down imaginations, and every high thing that exalteth itself against the knowledge of Christ,\" \"for we wrestle not against flesh and blood;\" \"for that which I do, I allow not; for what I would, that do I not: but what I hate, that do I."
+                        },
+                        {
+                            "verse": 43,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:43",
+                            "text": "If then I do that which I would not, I consent unto the law that it is good."
+                        },
+                        {
+                            "verse": 44,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:44",
+                            "text": "Now then it is no more I that do it, but sin that dwelleth in me."
+                        },
+                        {
+                            "verse": 45,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:45",
+                            "text": "For I know that in me—that is, in my flesh—dwelleth no good thing\"."
+                        },
+                        {
+                            "verse": 46,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:46",
+                            "text": "And this is rightly said."
+                        },
+                        {
+                            "verse": 47,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:47",
+                            "text": "For remember how it has been already shown that, from the time when man went astray and disobeyed the law, thence sin, receiving its birth from his disobedience, dwelt in him."
+                        },
+                        {
+                            "verse": 48,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:48",
+                            "text": "For thus a commotion was stirred up, and we were filled with agitations and foreign imaginations, being emptied of the divine inspiration and filled with carnal desire, which the cunning serpent infused into us."
+                        },
+                        {
+                            "verse": 49,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:49",
+                            "text": "And, therefore, God invented death for our sakes, that He might destroy sin, lest rising up in us immortals, as I said, it should be immortal."
+                        },
+                        {
+                            "verse": 50,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:50",
+                            "text": "When the apostle says, \"for I know that in me—that is, in my flesh—dwelleth no good thing,\" by which words he means to indicate that sin dwells in us, from the transgression, through lust; out of which, like young shoots, the imaginations of pleasure rise around us."
+                        },
+                        {
+                            "verse": 51,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:51",
+                            "text": "For there are two kinds of thoughts in us; the one which arises from the lust which lies in the body, which, as I said, came from the craft of the Evil Spirit; the other from the law, which is in accordance with the commandment, which we had implanted in us as a natural law, stirring up our thoughts to good, when we delight in the law of God according to our mind, for this is the inner man; but in the law of the devil according to the lust which dwells in the flesh."
+                        },
+                        {
+                            "verse": 52,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:52",
+                            "text": "For he who wars against and opposes the law of God, that is, against the tendency of the mind to good, is the same who stirs up the carnal and sensual impulses to lawlessness."
+                        },
+                        {
+                            "verse": 53,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:53",
+                            "text": "III."
+                        },
+                        {
+                            "verse": 54,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:54",
+                            "text": "For the apostle here sets forth clearly, as I think, three laws: One in accordance with the good which is implanted in us, which clearly he calls the law of the mind."
+                        },
+                        {
+                            "verse": 55,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:55",
+                            "text": "One the law which arises from the assault of evil, and which often draws on the soul to lustful fancies, which, he says,\" wars against the law of the mind\"."
+                        },
+                        {
+                            "verse": 56,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:56",
+                            "text": "And the third, which is in accordance with sin, settled in the flesh from lust, which he calls the \"law of sin which dwells in our members;\" which the Evil One, urging on, often stirs up against us, driving us to unrighteousness and evil deeds."
+                        },
+                        {
+                            "verse": 57,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:57",
+                            "text": "For there seems to be in ourselves one thing which is better and another which is worse."
+                        },
+                        {
+                            "verse": 58,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:58",
+                            "text": "And when that which is in its nature better is about to become more powerful than that which is worse, the whole mind is carried on to that which is good; but when that which is worse increases and overbalances, man is on the contrary urged on to evil imaginations."
+                        },
+                        {
+                            "verse": 59,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:59",
+                            "text": "On account of which the apostle prays to be delivered from it, regarding it as death and destruction; as also does the prophet when he says, \"Cleanse Thou me from my secret faults\"."
+                        },
+                        {
+                            "verse": 60,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:60",
+                            "text": "And the same is denoted by the words, \"For I delight in the law of God after the inward man; but I see another law in my members, warring against the law of my mind, and bringing me into captivity to the law of sin which is in my members."
+                        },
+                        {
+                            "verse": 61,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:61",
+                            "text": "O wretched man that I am! who shall deliver me from the body of this death?\" By which he does not mean that the body is death, but the law of sin which is in his members, lying hidden in us through the transgression, and ever deluding the soul to the death of unrighteousness."
+                        },
+                        {
+                            "verse": 62,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:62",
+                            "text": "And he immediately adds, clearly showing from what kind of death he desired to be delivered, and who he was who delivered him, \"I thank God, through Jesus Christ\"."
+                        },
+                        {
+                            "verse": 63,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:63",
+                            "text": "And it should be considered, if he said that this body was death, O Aglaophon, as you supposed, he would not afterwards mention Christ as delivering him from so great an evil."
+                        },
+                        {
+                            "verse": 64,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:64",
+                            "text": "For in that case what a strange thing should we have had from the advent of Christ? And how could the apostle have said this, as being able to be delivered from death by the advent of Christ; when it was the lot of all to die before Christ's coming into the world? And, therefore, O Aglaophon, he says not that this body was death, but the sin which dwells in the body through lust, from which God has delivered him by the coming of Christ."
+                        },
+                        {
+                            "verse": 65,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:65",
+                            "text": "\"For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death;\" so that \"He that raised up Jesus from the dead shall also quicken your mortal bodies by His Spirit that dwelleth in you;\" having \"condemned sin\" which is in the body to its destruction; \"that the righteousness of the law\" of nature which draws us to good, and is in accordance with the commandment, might be kindled and manifested."
+                        },
+                        {
+                            "verse": 66,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:66",
+                            "text": "For the good which \"the law\" of nature \"could not do, in that it was weak,\" being overcome by the lust which lies in the body, God gave strength to accomplish, \"sending His own Son in the likeness of sinful flesh;\" so that sin being condemned, to its destruction, so that it should never bear fruit in the flesh, the righteousness of the law of nature might be fulfilled, abounding in the obedience of those who walk not according to the lust of the flesh, but according to the lust and guidance of the Spirit; \"for the law of the Spirit of life,\" which is the Gospel, being different from earlier laws, leading by its preaching to obedience and the remission of sins, delivered us from the law of sin and death, having conquered entirely sin which reigned over our flesh."
+                        },
+                        {
+                            "verse": 67,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:67",
+                            "text": "IV."
+                        },
+                        {
+                            "verse": 68,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:68",
+                            "text": "He says that plants are neither nourished nor increased from the earth."
+                        },
+                        {
+                            "verse": 69,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:69",
+                            "text": "For he says, let any one consider how the earth can be changed and taken up into the substance of trees."
+                        },
+                        {
+                            "verse": 70,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:70",
+                            "text": "For then the place of the earth which lay around, and was drawn up through the roots into the whole compass of the tree, where the tree grew, must needs be hollowed out; so that such a thing as they hold respecting the flux of bodies, is absurd."
+                        },
+                        {
+                            "verse": 71,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:71",
+                            "text": "For how could the earth first enter in through the roots into the trunks of the plants, and then, passing through their channels into all their branches, be turned into leaves and fruit? Now there are large trees, such as the cedar, pines, firs, which annually bear much leaves and fruit; and one may see that they consume none of the surrounding earth into the bulk and substance of the tree."
+                        },
+                        {
+                            "verse": 72,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:72",
+                            "text": "For it would be necessary, if it were true that the earth went up through the roots, and was turned into wood, that the whole place where the earth lay round about them should be hollowed out; for it is not the nature of a dry substance to flow in, like a moist substance, and fill up the place of that which moves away."
+                        },
+                        {
+                            "verse": 73,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:73",
+                            "text": "Moreover, there are fig-trees, and other similar plants, which frequently grow in the buildings of monuments, and yet they never consume the entire building into themselves."
+                        },
+                        {
+                            "verse": 74,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:74",
+                            "text": "But if any one should choose to collect their fruit and leaves for many years, he would perceive that their bulk had become much larger than the earth upon the monuments."
+                        },
+                        {
+                            "verse": 75,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:75",
+                            "text": "Hence it is absurd to suppose that the earth is consumed into the crop of fruits and leaves; and even if they were all made by it, they would be so only as using it for their seat and place."
+                        },
+                        {
+                            "verse": 76,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:76",
+                            "text": "For bread is not made without a mill, and a place, and time, and fire; and yet bread is not made out of any of these things."
+                        },
+                        {
+                            "verse": 77,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:77",
+                            "text": "And the same may be said of a thousand other things."
+                        },
+                        {
+                            "verse": 78,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:78",
+                            "text": "V."
+                        },
+                        {
+                            "verse": 79,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:79",
+                            "text": "Now the followers of Origen bring forward this passage, \"For we know that if our earthly house of this tabernacle were dissolved,\" and so forth, to disprove the resurrection of the body, saying that the \"tabernacle\" is the body, and the \"house not made with hands\" \"in the heavens\" is our spiritual clothing."
+                        },
+                        {
+                            "verse": 80,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:80",
+                            "text": "Therefore, says the holy Methodius, by this earthly house must metaphorically be understood our short-lived existence here, and not this tabernacle; for if you decide to consider the body as being the earthly house which is dissolved, tell us what is the tabernacle whose house is dissolved? For the tabernacle is one thing, and the house of the tabernacle another, and still another we who have the tabernacle."
+                        },
+                        {
+                            "verse": 81,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:81",
+                            "text": "\"For,\" he says, \"if our earthly house of this tabernacle be dissolved\"—by which he points out that the souls are ourselves, that the body is a tabernacle, and that the house of the tabernacle figuratively represents the enjoyment of the flesh in the present life."
+                        },
+                        {
+                            "verse": 82,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:82",
+                            "text": "If, then, this present life of the body be dissolved like a house, we shall have that which is not made with hands in the heavens."
+                        },
+                        {
+                            "verse": 83,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:83",
+                            "text": "\"Not made with hands,\" he says, to point out the difference; because this life may be said to be made with hands, seeing that all the employments and pursuits of life are carried on by the hands of men."
+                        },
+                        {
+                            "verse": 84,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:84",
+                            "text": "For the body, being the workmanship of God, is not said to be made with hands, inasmuch as it is not formed by the arts of men."
+                        },
+                        {
+                            "verse": 85,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:85",
+                            "text": "But if they shall say that it is made with hands, because it was the workmanship of God, then our souls also, and the angels, and the spiritual clothing in the heavens, are made with hands; for all these things, also, are the workmanship of God."
+                        },
+                        {
+                            "verse": 86,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:86",
+                            "text": "What, then, is the house which is made with hands? It is, as I have said, the short-lived existence which is sustained by human hands."
+                        },
+                        {
+                            "verse": 87,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:87",
+                            "text": "For God said, \"In the sweat of thy face shalt thou eat bread;\" and when that life is dissolved, we have the life which is not made with hands."
+                        },
+                        {
+                            "verse": 88,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:88",
+                            "text": "As also the Lord showed, when He said: \"Make to yourselves friends of the mammon of unrighteousness; that, when ye fail, they may receive you into everlasting habitations\"."
+                        },
+                        {
+                            "verse": 89,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:89",
+                            "text": "For what the Lord then called \"habitations,\" the apostle here calls \"clothing\"."
+                        },
+                        {
+                            "verse": 90,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:90",
+                            "text": "And what He there calls \"friends\" \"of unrighteousness,\" the apostle here calls \"houses\" \"dissolved\"."
+                        },
+                        {
+                            "verse": 91,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:91",
+                            "text": "As then, when the days of our present life shall fail, those good deeds of beneficence to which we have attained in this unrighteous life, and in this \"world\" which \"lieth in wickedness,\" will receive our souls; so when this perishable life shall be dissolved, we shall have the habitation which is before the resurrection—that is, our souls shall be with God, until we shall receive the new house which is prepared for us, and which shall never fall."
+                        },
+                        {
+                            "verse": 92,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:92",
+                            "text": "Whence also \"we groan,\" \"not for that we would be unclothed,\" as to the body, \"but clothed upon\" by it in the other life."
+                        },
+                        {
+                            "verse": 93,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:93",
+                            "text": "For the \"house in heaven,\" with which we desire to be \"clothed,\" is immortality; with which, when we are clothed, every weakness and mortality will be entirely \"swallowed up\" in it, being consumed by endless life."
+                        },
+                        {
+                            "verse": 94,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:94",
+                            "text": "\"For we walk by faith, not by sight;\" that is, for we still go forward by faith, viewing the things which are beyond with a darkened understanding, and not clearly, so that we may see these things, and enjoy them, and be in them."
+                        },
+                        {
+                            "verse": 95,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:95",
+                            "text": "\"Now this I say, brethren, that flesh and blood cannot inherit the kingdom of God; neither doth corruption inherit incorruption\"."
+                        },
+                        {
+                            "verse": 96,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:96",
+                            "text": "By flesh, he did not mean flesh itself, but the irrational impulse towards the lascivious pleasures of the soul."
+                        },
+                        {
+                            "verse": 97,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:97",
+                            "text": "And therefore when he says, \"Flesh and blood cannot inherit the kingdom of God,\" he adds the explanation, \"Neither doth corruption inherit incorruption\"."
+                        },
+                        {
+                            "verse": 98,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:98",
+                            "text": "Now corruption is not the thing which is corrupted, but the thing which corrupts."
+                        },
+                        {
+                            "verse": 99,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:99",
+                            "text": "For when death prevails the body sinks into corruption; but when life still remains in it, it stands uncorrupted."
+                        },
+                        {
+                            "verse": 100,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:100",
+                            "text": "Therefore, since the flesh is the boundary between corruption and incorruption, not being either corruption or incorruption, it was vanquished by corruption on account of pleasure, although it was the work and the possession of incorruption."
+                        },
+                        {
+                            "verse": 101,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:101",
+                            "text": "Therefore it became subject to corruption."
+                        },
+                        {
+                            "verse": 102,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:102",
+                            "text": "When, then, it had been overcome by corruption, and was given over to death for chastisement, He did not leave it to be vanquished and given over as an inheritance to corruption; but again conquering death by the resurrection, He restored it to incorruption, that corruption might not inherit incorruption, but incorruption that which is corruptible."
+                        },
+                        {
+                            "verse": 103,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:103",
+                            "text": "And therefore the apostle answers, \"This corruptible must put on incorruption, and this mortal immortality\"."
+                        },
+                        {
+                            "verse": 104,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:104",
+                            "text": "But the corruptible and mortal putting on incorruption and immortality, what else is this, but that which is sown in corruption rising in incorruption? For, \"as we have borne the image of the earthly, we shall also bear the image of the heavenly\"."
+                        },
+                        {
+                            "verse": 105,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:105",
+                            "text": "For the \"image of the earthly\" which we have borne refers to the saying, \"Dust thou art, and unto dust thou shalt return\"."
+                        },
+                        {
+                            "verse": 106,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:106",
+                            "text": "And the \"image of the heavenly is the resurrection from the dead and incorruption\"."
+                        },
+                        {
+                            "verse": 107,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:107",
+                            "text": "VI."
+                        },
+                        {
+                            "verse": 108,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:108",
+                            "text": "Now Justin of Neapolis, a man not far removed either from the times or from the virtues of the apostles, says that that which is mortal is inherited, but that life inherits; and that flesh dies, but that the kingdom of heaven lives."
+                        },
+                        {
+                            "verse": 109,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:109",
+                            "text": "When then, Paul says that \"flesh and blood cannot inherit the kingdom of heaven,\" he does not so speak as seeming to slight the regeneration of the flesh, but as teaching that the kingdom of God, which is eternal life, is not inherited by the body, but the body by life."
+                        },
+                        {
+                            "verse": 110,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:110",
+                            "text": "For if the kingdom of God, which is life, were inherited by the body, it would happen that life was swallowed up by corruption."
+                        },
+                        {
+                            "verse": 111,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:111",
+                            "text": "But now life inherits that which is mortal, that death may be swallowed up of life unto victory, and that which is corruptible appear the possession of incorruption; being made free from death and sin, and become the slave and subject of immortality, that the body may become the possession of incorruption, and not incorruption of the body."
+                        },
+                        {
+                            "verse": 112,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:112",
+                            "text": "VII."
+                        },
+                        {
+                            "verse": 113,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:113",
+                            "text": "Now the passage, \"The dead in Christ shall rise first: then we which are alive,\" St."
+                        },
+                        {
+                            "verse": 114,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:114",
+                            "text": "Methodius thus explains: Those are our bodies; for the souls are we ourselves, who, rising, resume that which is dead from the earth; so that being caught up with them to meet the Lord, we may gloriously celebrate the splendid festival of the resurrection, because we have received our everlasting tabernacles, which shall no longer die nor be dissolved."
+                        },
+                        {
+                            "verse": 115,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:115",
+                            "text": "VIII."
+                        },
+                        {
+                            "verse": 116,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:116",
+                            "text": "I saw, he says, on Olympus (Olympus is a mountain in Lycia), a fire spontaneously arising on the top of the mountain from the earth, beside which is the plant Puragnos, so flourishing, green, and shady, that it seemed rather as though it grew from a fountain."
+                        },
+                        {
+                            "verse": 117,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:117",
+                            "text": "For what cause, although they are by nature corruptible, and their bodies consumed by fire, was this plant not only not burnt, but rather more flourishing, although in its nature it is easily burnt, and the fire was burning about its roots? Then I cast branches of trees out of the surrounding wood into the place where the fire streamed forth, and, immediately bursting up into flame, they were converted into cinders."
+                        },
+                        {
+                            "verse": 118,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:118",
+                            "text": "What then is the meaning of this contradiction? This God appointed as a sign and prelude of the coming Day, that we may know that, when all things are overwhelmed by fire, the bodies which are endowed with chastity and righteousness shall pass through it as though it were cold water."
+                        },
+                        {
+                            "verse": 119,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:119",
+                            "text": "IX."
+                        },
+                        {
+                            "verse": 120,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:120",
+                            "text": "Consider, he says, whether too the blessed John, when he says, \"And the sea gave up the dead which were in it: and death and hell delivered up the dead which were in them,\" does not mean the parts which are given up by the elements for the reconstruction of each one? By the sea is meant the moist element; by hell, the air, derived from ἀειδές, because it is invisible, as was said by Origen; and by death, the earth, because those who die are laid in it; whence also it is called in the Psalms the \"dust of death,\" Christ saying that He is brought \"into the dust of death\"."
+                        },
+                        {
+                            "verse": 121,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:121",
+                            "text": "X."
+                        },
+                        {
+                            "verse": 122,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:122",
+                            "text": "For, he says, whatever is composed and consists of pure air and pure fire, and is of like substance with the angelic beings, cannot have the nature of earth and water; since it would then be earthy."
+                        },
+                        {
+                            "verse": 123,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:123",
+                            "text": "And of such nature, and consisting of such things, Origen has shown that the body of man shall be which shall rise, which he also said would be spiritual."
+                        },
+                        {
+                            "verse": 124,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:124",
+                            "text": "XI."
+                        },
+                        {
+                            "verse": 125,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:125",
+                            "text": "And he asks what will be the appearance of the risen body, when this human form, as according to him useless, shall wholly disappear; since it is the most lovely of all things which are combined in living creatures, as being the form which the Deity Himself employs, as the most wise Paul explains: \"For a man indeed ought not to cover his head, forasmuch as he is the image and glory of God;\" in accordance with which the rational bodies of the angels are set in order? will it be circular, or polygonal, or cubical, or pyramidal? For there are very many kinds of forms; but this is impossible."
+                        },
+                        {
+                            "verse": 126,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:126",
+                            "text": "Well then, what are we to think of the assertion, that the godlike shape is to be rejected as more ignoble, for he himself allows that the soul is like the body, and that man is to rise again without hands or feet?  XII."
+                        },
+                        {
+                            "verse": 127,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:127",
+                            "text": "The transformation, he says, is the restoration into an impassible and glorious state."
+                        },
+                        {
+                            "verse": 128,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:128",
+                            "text": "For now the body is a body of desire and of humiliation, and therefore Daniel was called \"a man of desires\"."
+                        },
+                        {
+                            "verse": 129,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:129",
+                            "text": "But then it will be transfigured into an impassible body, not by the change of the arrangement of the members, but by its not desiring carnal pleasures."
+                        },
+                        {
+                            "verse": 130,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:130",
+                            "text": "Then he says, refuting Origen, Origen therefore thinks that the same flesh will not be restored to the soul, but that the form of each, according to the appearance by which the flesh is now distinguished, shall arise stamped upon another spiritual body; so that every one will again appear the same form; and that this is the resurrection which is promised."
+                        },
+                        {
+                            "verse": 131,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:131",
+                            "text": "For, he says, the material body being fluid, and in no wise remaining in itself, but wearing out and being replaced around the appearance by which its shape is distinguished, and by which the figure is contained, it is necessary that the resurrection should be only that of the form."
+                        },
+                        {
+                            "verse": 132,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:132",
+                            "text": "XIII."
+                        },
+                        {
+                            "verse": 133,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:133",
+                            "text": "Then, after a little, he says: If then, O Origen, you maintain that the resurrection of the body changed into a spiritual body is to be expected only in appearance, and put forth the vision of Moses and Elias as a most convincing proof of it; saying that they appeared after their departure from life, preserving no different appearance from that which they had from the beginning; in the same way will be the resurrection of all men."
+                        },
+                        {
+                            "verse": 134,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:134",
+                            "text": "But Moses and Elias arose and appeared with this form of which you speak, before Christ suffered and rose."
+                        },
+                        {
+                            "verse": 135,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:135",
+                            "text": "How then could Christ be celebrated by prophets and apostles as \"the first begotten of the dead?\" For if the Christ is believed to be the first begotten of the dead, He is the first begotten of the dead as having risen before all others."
+                        },
+                        {
+                            "verse": 136,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:136",
+                            "text": "But Moses appeared to the apostles before Christ suffered, having this form in which you say the resurrection is fulfilled."
+                        },
+                        {
+                            "verse": 137,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:137",
+                            "text": "Hence then, there is no resurrection of the form without the flesh."
+                        },
+                        {
+                            "verse": 138,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:138",
+                            "text": "For either there is a resurrection of the form as you teach, and then Christ is no longer \"the first begotten of the dead,\" from the fact that souls appeared before Him, having this form after death; or He is truly the first begotten, and it is quite impossible that any should have been thought meet for a resurrection before Him, so as not to die again."
+                        },
+                        {
+                            "verse": 139,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:139",
+                            "text": "But if no one arose before Him, and Moses and Elias appeared to the apostles not having flesh, but only its appearance, the resurrection in the flesh is clearly manifested."
+                        },
+                        {
+                            "verse": 140,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:140",
+                            "text": "For it is most absurd that the resurrection should be set forth only in form, since the souls, after their departure from the flesh, never appear to lay aside the form which, he says, rises again."
+                        },
+                        {
+                            "verse": 141,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:141",
+                            "text": "But if that remains with them, so that it cannot be taken away, as with the soul of Moses and Elias; and neither perishes, as you think, nor is destroyed, but is everywhere present with them; then surely that form which never fell cannot be said to rise again."
+                        },
+                        {
+                            "verse": 142,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:142",
+                            "text": "XIV."
+                        },
+                        {
+                            "verse": 143,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:143",
+                            "text": "But if any one, finding this inadmissible, answers, But how then, if no one rose before Christ went down into Hades, are several recorded as having risen before Him? Among whom is the son of the widow of Sarepta, and the son of the Shunammite, and Lazarus."
+                        },
+                        {
+                            "verse": 144,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:144",
+                            "text": "We must say: These rose to die again; but we are speaking of those who shall never die after their rising."
+                        },
+                        {
+                            "verse": 145,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:145",
+                            "text": "And if any one should speak doubtfully concerning the soul of Elias, as that the Scriptures say that he was taken up in the flesh, and we say that he appeared to the apostles divested of the flesh, we must say, that to allow that he appeared to the apostles in the flesh is more in favour of our argument."
+                        },
+                        {
+                            "verse": 146,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:146",
+                            "text": "For it is shown by this case that the body is susceptible of immortality, as was also proved by the translation of Enoch."
+                        },
+                        {
+                            "verse": 147,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:147",
+                            "text": "For if he could not receive immortality, he could not remain in a state of insensibility so long a time."
+                        },
+                        {
+                            "verse": 148,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:148",
+                            "text": "If, then, he appeared with the body, that was truly after he was dead, but certainly not as having arisen from the dead."
+                        },
+                        {
+                            "verse": 149,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:149",
+                            "text": "And this, we may say, if we agree with Origen when he says that the same form is given to the soul after death; when it is separated from the body, which is of all things the most impossible, from the fact that the form of the flesh was destroyed before by its changes, as also the form of the melted statue before its entire dissolution."
+                        },
+                        {
+                            "verse": 150,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:150",
+                            "text": "Because the quality cannot be separated from the material, so as to exist by itself; for the shape which disappears around the brass is separated from the melted statue, and has not longer a substantial existence."
+                        },
+                        {
+                            "verse": 151,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:151",
+                            "text": "XV."
+                        },
+                        {
+                            "verse": 152,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:152",
+                            "text": "Since the form is said to be separated in death from the flesh, come, let us consider in how many ways that which is separated is said to be separated."
+                        },
+                        {
+                            "verse": 153,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:153",
+                            "text": "Now a thing is said to be separated from another either in act and subsistence, or in thought; or else in act, but not in subsistence."
+                        },
+                        {
+                            "verse": 154,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:154",
+                            "text": "As if, for instance, one should separate from each other wheat and barley which had been mingled together; in as far as they are separated in motion, they are said to be separated in act; in as far as they stand apart when separated, they are said to be separated in subsistence."
+                        },
+                        {
+                            "verse": 155,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:155",
+                            "text": "They are separated in thought when we separate matter from its qualities, and qualities from matter; in act, but not in subsistence, when a thing separated from another no longer exists, not having a substantive existence."
+                        },
+                        {
+                            "verse": 156,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:156",
+                            "text": "And it may be observed that it is so also in mechanics, when one looks upon a statue or a brazen horse melted."
+                        },
+                        {
+                            "verse": 157,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:157",
+                            "text": "For, when he considers these things, he will see their natural form changing; and they alter into another figure from which the original form disappears."
+                        },
+                        {
+                            "verse": 158,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:158",
+                            "text": "For if any one should melt down the works formed into the semblance of a man or a horse, he will find the appearance of the form disappearing, but the material itself remaining."
+                        },
+                        {
+                            "verse": 159,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:159",
+                            "text": "It is, therefore, untenable to say, that the form shall arise in nowise corrupted, but that the body in which the form was stamped shall be destroyed."
+                        },
+                        {
+                            "verse": 160,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:160",
+                            "text": "XVI."
+                        },
+                        {
+                            "verse": 161,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:161",
+                            "text": "But he says that it will be so; for it will be changed in a spiritual body."
+                        },
+                        {
+                            "verse": 162,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:162",
+                            "text": "Therefore, it is necessary to confess that the very same form as at first does not arise, from its being changed and corrupted with the flesh."
+                        },
+                        {
+                            "verse": 163,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:163",
+                            "text": "For although it be changed into a spiritual body, that will not be properly the original substance, but a certain resemblance of it, fashioned in an ethereal body."
+                        },
+                        {
+                            "verse": 164,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:164",
+                            "text": "If, however, it is not the same form, nor yet the body which arises, then it is another in the place of the first."
+                        },
+                        {
+                            "verse": 165,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:165",
+                            "text": "For that which is like, being different from that which it resembles, cannot be that very first thing in accordance with which it was made."
+                        },
+                        {
+                            "verse": 166,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:166",
+                            "text": "XVII."
+                        },
+                        {
+                            "verse": 167,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:167",
+                            "text": "Moreover, he says that that is the appearance or form which shows forth the identity of the members in the distinctive character of the form."
+                        },
+                        {
+                            "verse": 168,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:168",
+                            "text": "XVIII."
+                        },
+                        {
+                            "verse": 169,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:169",
+                            "text": "And, when Origen allegorises that which is said by the prophet Ezekiel concerning the resurrection of the dead, and perverts it to the return of the Israelites from their captivity in Babylon, the saint in refuting him, after many other remarks, says this also: For neither did they obtain a perfect liberty, nor did they overcome their enemies by a greater power, and dwell again in Jerusalem; and when they frequently intended to build (the temple), they were prevented by other nations."
+                        },
+                        {
+                            "verse": 170,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:170",
+                            "text": "Whence, also, they were scarce able to build that in forty-six years, which Solomon completed from the foundations in seven years."
+                        },
+                        {
+                            "verse": 171,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:171",
+                            "text": "But what need we say on this subject? For from the time of Nebuchadnezzar, and those who after him reigned over Babylon, until the time of the Persian expedition against the Assyrians, and the empire of Alexander, and the war which was stirred up by the Romans against the Jews, Jerusalem was six times overthrown by its enemies."
+                        },
+                        {
+                            "verse": 172,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:172",
+                            "text": "And this is recorded by Josephus, who says: \"Jerusalem was taken in the second year of the reign of Vespasian."
+                        },
+                        {
+                            "verse": 173,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:173",
+                            "text": "It had been taken before five times; but now for the second time it was destroyed."
+                        },
+                        {
+                            "verse": 174,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:174",
+                            "text": "For Asochaeus, king of Egypt, and after him Antiochus, next Pompey, and after these Sosius, with Herod, took the city and burnt it; but before these, the king of Babylon conquered and destroyed it\"."
+                        },
+                        {
+                            "verse": 175,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:175",
+                            "text": "XIX."
+                        },
+                        {
+                            "verse": 176,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:176",
+                            "text": "He says that Origen holds these opinions which he refutes."
+                        },
+                        {
+                            "verse": 177,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:177",
+                            "text": "And there may be a doubt concerning Lazarus and the rich man."
+                        },
+                        {
+                            "verse": 178,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:178",
+                            "text": "The simpler persons think that these things were spoken as though both were receiving their due for the things which they had done in life in their bodies; but the more accurate think that, since no one is left in life after the resurrection, these things do not happen at the resurrection."
+                        },
+                        {
+                            "verse": 179,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:179",
+                            "text": "For the rich man says: \"I have five brethren;…lest they also come into this place of torment,\" send Lazarus, that he may tell them of those things which are here."
+                        },
+                        {
+                            "verse": 180,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:180",
+                            "text": "And, therefore, if we ask respecting the \"tongue,\" and the \"finger,\" and \"Abraham's bosom,\" and the reclining there, it may perhaps be that the soul receives in the change a form similar in appearance to its gross and earthly body."
+                        },
+                        {
+                            "verse": 181,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:181",
+                            "text": "If, then, any one of those who have fallen asleep is recorded as having appeared, in the same way he has been seen in the form which he had when he was in the flesh."
+                        },
+                        {
+                            "verse": 182,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:182",
+                            "text": "Besides, when Samuel appeared, it is clear that, being seen, he was clothed in a body; and this must especially be admitted, if we are pressed by arguments which prove that the essence of the soul is incorporeal, and is manifested by itself."
+                        },
+                        {
+                            "verse": 183,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:183",
+                            "text": "But the rich man in torment, and the poor man who was comforted in the bosom of Abraham, are said, the one to be punished in Hades, and the other to be comforted in Abraham's bosom, before the appearing of the Saviour, and before the end of the world, and therefore before the resurrection; teaching that now already, at the change, the soul rises a body."
+                        },
+                        {
+                            "verse": 184,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:184",
+                            "text": "Wherefore, the saint says as follows: Setting forth that the soul, after its removal hence, has a form similar in appearance to this sensitive body; does Origen represent the soul, after Plato, as being incorporeal? And how should that which, after removal from the world, is said to have need of a vehicle and a clothing, so that it might not be found naked, be in itself other than incorporeal? But if it be incorporeal, must it not also be incapable of passion? For it follows, from its being incorporeal, that it is also impassible and imperturbable."
+                        },
+                        {
+                            "verse": 185,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:185",
+                            "text": "If, then, it was not distracted by any irrational desire, neither was it changed by a pained or suffering body."
+                        },
+                        {
+                            "verse": 186,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:186",
+                            "text": "For neither can that which is incorporeal sympathize with a body, nor a body with that which is incorporeal, if, indeed, the soul should seem to be incorporeal, in accordance with what has been said."
+                        },
+                        {
+                            "verse": 187,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:187",
+                            "text": "But if it sympathize with the body, as is proved by the testimony of those who appear, it cannot be incorporeal."
+                        },
+                        {
+                            "verse": 188,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:188",
+                            "text": "Therefore God alone is celebrated, as the unbegotten, independent, and unwearied nature; being incorporeal, and therefore invisible; for \"no man hath seen God\"."
+                        },
+                        {
+                            "verse": 189,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:189",
+                            "text": "But souls, being rational bodies, are arranged by the Maker and Father of all things into members which are visible to reason, having received this impression."
+                        },
+                        {
+                            "verse": 190,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:190",
+                            "text": "Whence, also, in Hades, as in the case of Lazarus and the rich man, they are spoken of as having a tongue, and a finger, and the other members; not as though they had with them another invisible body, but that the souls themselves, naturally, when entirely stripped of their covering, are such according to their essence."
+                        },
+                        {
+                            "verse": 191,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:191",
+                            "text": "XX."
+                        },
+                        {
+                            "verse": 192,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:192",
+                            "text": "The saint says at the end: The words, \"For to this end Christ both died, and rose, and revived, that He might be Lord both of the dead and living,\" must be taken as referring to souls and bodies; the souls being the living, as being immortal, and the bodies being dead."
+                        },
+                        {
+                            "verse": 193,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:193",
+                            "text": "XXI."
+                        },
+                        {
+                            "verse": 194,
+                            "chapter": 4,
+                            "name": "Methodius: On the Resurrection 4:194",
+                            "text": "Since the body of man is more honourable than other living creatures, because it is said to have been formed by the hands of God, and because it has attained to be the vehicle of the reasonable soul; how is it that it is so short-lived, shorter even than some of the irrational creatures? Is it not clear that its long-lived existence will be after the resurrection?."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

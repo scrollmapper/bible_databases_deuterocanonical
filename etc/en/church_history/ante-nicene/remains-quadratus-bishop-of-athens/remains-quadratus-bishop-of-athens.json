@@ -1,0 +1,69 @@
+{
+    "books": [
+        {
+            "name": "Remains: Quadratus, Bishop of Athens",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Remains: Quadratus, Bishop of Athens 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Remains: Quadratus, Bishop of Athens 1:1",
+                            "text": "Quadratus, Bishop of Athens."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Remains: Quadratus, Bishop of Athens 1:2",
+                            "text": "a."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Remains: Quadratus, Bishop of Athens 1:3",
+                            "text": "d."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Remains: Quadratus, Bishop of Athens 1:4",
+                            "text": "Quadratus is spoken of by Eusebius as a \"man of understanding and of Apostolic faith\"."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Remains: Quadratus, Bishop of Athens 1:5",
+                            "text": "And he celebrates Aristides as a man of similar character."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Remains: Quadratus, Bishop of Athens 1:6",
+                            "text": "These were the earliest apologists; both addressed their writings to Hadrian, and they were extant and valued in the churches in the time of Eusebius."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "Remains: Quadratus, Bishop of Athens 1:7",
+                            "text": "From the Apology for the Christian Religion."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 1,
+                            "name": "Remains: Quadratus, Bishop of Athens 1:8",
+                            "text": "Our Saviour's works, moreover, were always present:  for they were real, consisting of those who had been healed of their diseases, those who had been raised from the dead; who were not only seen whilst they were being healed and raised up, but were afterwards constantly present."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 1,
+                            "name": "Remains: Quadratus, Bishop of Athens 1:9",
+                            "text": "Nor did they remain only during the sojourn of the Saviour on earth, but also a considerable time after His departure; and, indeed, some of them have survived even down to our own times."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,363 @@
+{
+    "books": [
+        {
+            "name": "Tatian: Fragments",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Tatian: Fragments 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:1",
+                            "text": "Fragments."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:2",
+                            "text": "I."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:3",
+                            "text": "In his treatise, Concerning Perfection according to the Saviour, he writes, \"Consent indeed fits for prayer, but fellowship in corruption weakens supplication."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:4",
+                            "text": "At any rate, by the permission he certainly, though delicately, forbids; for while he permits them to return to the same on account of Satan and incontinence, he exhibits a man who will attempt to serve two masters—God by the 'consent' ( Cor."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:5",
+                            "text": ":), but by want of consent, incontinence, fornication, and the devil\"."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:6",
+                            "text": "—Clem."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:7",
+                            "text": "Alex."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:8",
+                            "text": ": Strom."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:9",
+                            "text": ", 3 - c  2  A certain person inveighs against generation, calling it corruptible and destructive; and some one does violence to Scripture, applying to pro-creation the Saviour's words, \"Lay not up treasure on earth, where moth and rust corrupt;\" and he is not ashamed to add to these the words of the prophet: \"You all shall grow old as a garment, and the moth shall devour you\"."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:10",
+                            "text": "And, in like manner, they adduce the saying concerning the resurrection of the dead, \"The sons of that world neither marry nor are given in marriage\"."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:11",
+                            "text": "—Clem."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:12",
+                            "text": "Alex."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:13",
+                            "text": ": 3 - 100 - , §."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:14",
+                            "text": "3  Tatian, who maintaining the imaginary flesh of Christ, pronounces all sexual connection impure, who was also the very violent heresiarch of the Encratites, employs an argument of this sort: \"If any one sows to the flesh, of the flesh he shall reap corruption;\" but he sows to the flesh who is joined to a woman; therefore he who takes a wife and sows in the flesh, of the flesh he shall reap corruption."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:15",
+                            "text": "—Hieron."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:16",
+                            "text": ": Com."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:17",
+                            "text": "in Ep."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:18",
+                            "text": "ad Gal."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:19",
+                            "text": "4  Seceding from the Church, and being elated and puffed up by a conceit of his teacher, as if he were superior to the rest, he formed his own peculiar type of doctrine."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:20",
+                            "text": "Imagining certain invisible aeons like those of Valentinus, and denouncing marriage as defilement and fornication in the same way as Marcion and Saturninus, and denying the salvation of Adam as an opinion of his own."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:21",
+                            "text": "—Irenaeus: Adv."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:22",
+                            "text": "Hoer."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:23",
+                            "text": ", i  5  Tatian attempting from time to time to make use of Paul's language, that in Adam all die, but ignoring that \"where sin abounded, grace has much more abounded\"."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:24",
+                            "text": "—Irenaeus: Adv."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:25",
+                            "text": "Heres."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:26",
+                            "text": ", iii  6  Against Tatian, who says that the words, \"Let there be light,\" are to be taken as a prayer."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:27",
+                            "text": "If He who uttered it knew a superior God, how is it that He says, \"I am God, and there is none beside me\"?  He said that there are punishments for blasphemies, foolish talking, and licentious words, which are punished and chastised by the Logos."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:28",
+                            "text": "And he said that women were punished on account of their hair and ornaments by a power placed over those things, which also gave strength to Samson by his hair, and punishes those who by the ornament of their hair are urged on to fornication."
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:29",
+                            "text": "—Clem."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:30",
+                            "text": "Alex."
+                        },
+                        {
+                            "verse": 31,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:31",
+                            "text": ": Frag."
+                        },
+                        {
+                            "verse": 32,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:32",
+                            "text": "7  But Tatian, not understanding that the expression \"Let there be\" is not always precative but sometimes imperative, most impiously imagined concerning God, who said \"Let there be light,\" that He prayed rather than commanded light to be, as if, as he impiously thought, God was in darkness."
+                        },
+                        {
+                            "verse": 33,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:33",
+                            "text": "—Origen: De Orat."
+                        },
+                        {
+                            "verse": 34,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:34",
+                            "text": "8  Tatian separates the old man and the new, but not, as we say, understanding the old man to be the law, and the new man to be the Gospel."
+                        },
+                        {
+                            "verse": 35,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:35",
+                            "text": "We agree with him in saying the same thing, but not in the sense he wishes, abrogating the law as if it belonged to another God."
+                        },
+                        {
+                            "verse": 36,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:36",
+                            "text": "—Clem."
+                        },
+                        {
+                            "verse": 37,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:37",
+                            "text": "Alex."
+                        },
+                        {
+                            "verse": 38,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:38",
+                            "text": ": Strom."
+                        },
+                        {
+                            "verse": 39,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:39",
+                            "text": ", iii  9  Tatian condemns and rejects not only marriage, but also meats which God has created for use."
+                        },
+                        {
+                            "verse": 40,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:40",
+                            "text": "—Hieron."
+                        },
+                        {
+                            "verse": 41,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:41",
+                            "text": ": Adv."
+                        },
+                        {
+                            "verse": 42,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:42",
+                            "text": "Jovin."
+                        },
+                        {
+                            "verse": 43,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:43",
+                            "text": ", i  10  \"But ye gave the Nazarites wine to drink, and commanded the prophets, saying, Prophesy not\"."
+                        },
+                        {
+                            "verse": 44,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:44",
+                            "text": "On this, perhaps, Tatian the chief of the Encratites endeavours to build his heresy, asserting that wine is not to be drunk, since it was  commanded in the law that the Nazarites were not to drink wine, and now those who give the Nazarites wine are accused by the prophet."
+                        },
+                        {
+                            "verse": 45,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:45",
+                            "text": "—Hieron."
+                        },
+                        {
+                            "verse": 46,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:46",
+                            "text": ": Com."
+                        },
+                        {
+                            "verse": 47,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:47",
+                            "text": "in Amos."
+                        },
+                        {
+                            "verse": 48,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:48",
+                            "text": "11  Tatian, the patriarch of the Encratites, who himself rejected some of Paul's Epistles, believed this especially, that is addressed to Titus, ought to be declared to be the apostle's, thinking little of the assertion of Marcion and others, who agree with him on this point."
+                        },
+                        {
+                            "verse": 49,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:49",
+                            "text": "—Hieron."
+                        },
+                        {
+                            "verse": 50,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:50",
+                            "text": ": Praef."
+                        },
+                        {
+                            "verse": 51,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:51",
+                            "text": "in Com."
+                        },
+                        {
+                            "verse": 52,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:52",
+                            "text": "ad Tit."
+                        },
+                        {
+                            "verse": 53,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:53",
+                            "text": "12  Archelaus (a."
+                        },
+                        {
+                            "verse": 54,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:54",
+                            "text": "d."
+                        },
+                        {
+                            "verse": 55,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:55",
+                            "text": "), Bishop of Carrha in Mesopotamia, classes his countryman Tatian with \"Marcion, Sabellius, and others who have made up for themselves a peculiar science,\" i-e:, a theology of their own."
+                        },
+                        {
+                            "verse": 56,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:56",
+                            "text": "—Routh: Reliquiae, tom."
+                        },
+                        {
+                            "verse": 57,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:57",
+                            "text": "5 - p But see Edinburgh Series of this work, vol."
+                        },
+                        {
+                            "verse": 58,
+                            "chapter": 1,
+                            "name": "Tatian: Fragments 1:58",
+                            "text": "20 - p."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

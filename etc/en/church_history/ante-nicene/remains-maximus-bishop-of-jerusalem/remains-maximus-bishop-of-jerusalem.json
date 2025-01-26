@@ -1,0 +1,951 @@
+{
+    "books": [
+        {
+            "name": "Remains: Maximus Bishop of Jerusalem",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Remains: Maximus Bishop of Jerusalem 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:1",
+                            "text": "Maximus, Bishop of Jerusalem."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:2",
+                            "text": "a."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:3",
+                            "text": "d."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:4",
+                            "text": "–."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:5",
+                            "text": "He was a noted character among Christians, according to Eusebius; living, according to Jerome, under Commodus and Severus."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:6",
+                            "text": "He wrote on the inveterate question concerning the Origin of Evil; and the fragment here translated, as given by Eusebius, is also textually cited by Origen against the Marcionites, if that Dialogue be his."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:7",
+                            "text": "The reader will not fail to recollect that liberal citations out of this work are also to be found in Methodius, On Free-Will."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:8",
+                            "text": "But all who desire fuller information on the subject will be gratified by the learned prolegomena and notes of Routh, to which I refer them."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:9",
+                            "text": "Whether Maximus was the bishop of Jerusalem (a."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:10",
+                            "text": "d."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:11",
+                            "text": ") mentioned by Eusebius as presiding in that See in the sixth year of Commodus, seems to be uncertain."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:12",
+                            "text": "From the Book Concerning Matter, or in Defence of the Proposition that Matter is Created, and is Not the Cause of Evil."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:13",
+                            "text": "\"That there cannot exist two uncreated substances at one and the same time, I presume that you hold equally with myself."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:14",
+                            "text": "You appear, however, very decidedly to have assumed, and to have introduced into the argument, this principle, that we must of unavoidable necessity maintain one of two things:  either that God is separate from matter; or else, on the contrary, that He is indissolubly connected with it."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:15",
+                            "text": "\"If, then, any one should choose to assert that He exists in union with matter, that would be saying that there is only one uncreated substance."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:16",
+                            "text": "For either of the two must constitute a part of the other; and, since they form parts of each other, they cannot be two uncreated substances."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:17",
+                            "text": "Just as, in speaking of man, we do not describe him as subdivided into a number of distinct parts, each forming a separate created substance, but, as reason requires us to do, assert that he was made by God a single created substance consisting of many parts,—so, in like manner, if God is not separate from matter, we are driven to the conclusion that there is only one uncreated substance."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:18",
+                            "text": "\"If, on the other hand, it be affirmed that He is separate from matter, it necessarily follows that there is some other substance intermediate between the two, by which their separation is made apparent."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:19",
+                            "text": "For it is impossible that one thing should be shown to be severed by an interval from another, unless there be something else by which the interval between the two is produced."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:20",
+                            "text": "This principle, too, holds good not only with regard to this or any other single case, but in any number of cases you please."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:21",
+                            "text": "For the same argument which we have employed in dealing with the two uncreated substances must in like manner be valid if the substances in question be given as three."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:22",
+                            "text": "For in regard to these also I should have to inquire whether they are separate from one another, or whether, on the contrary, each of them is united to its fellow."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:23",
+                            "text": "For, if you should say that they are united, you would hear from me the same argument as before; but if, on the contrary, you should say that they are separate, you could not escape the unavoidable assumption of a separating medium."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:24",
+                            "text": "\"If, again, perchance any one should think that there is a third view which may be consistently maintained with regard to uncreated substances,—namely, that God is not separate from matter, nor yet, on the other hand, united to it as a part, but that God exists in matter as in a place, or possibly matter exists in God,—let such a person observe the consequence:—  \"That, if we make matter God's place, we must of necessity admit that He can be contained, and that He is circumscribed by matter."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:25",
+                            "text": "Nay, further, he must grant that He is, in the same way as matter, driven about hither and thither, unable to maintain His place and to stay where He is, since that in which He exists is perpetually being driven about in one direction or another."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:26",
+                            "text": "Beside this, he must also admit that God has had His place among the worst kind of elements."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:27",
+                            "text": "For if matter was once in disorder, and if he reduced it to order for the purpose of rendering it better, there was a time when God existed among the disordered elements of matter."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:28",
+                            "text": "\"I might also fairly put this question:  whether God filled the whole of matter, or was in some part of it."
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:29",
+                            "text": "If any one should choose to say that God was in some part of matter, he would be making Him indefinitely smaller than matter, inasmuch as a part of it contained the whole of Him; but, if he maintained that He pervaded the whole of matter, I need to be informed how He became the Fashioner of this matter."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:30",
+                            "text": "For we must necessarily assume, either that there was on the part of God a contraction, so to speak, of Himself, and a withdrawal from matter, whereupon He proceeded to fashion that from which He had retired; or else that He fashioned Himself in conjunction with matter, in consequence of having no place to retire to."
+                        },
+                        {
+                            "verse": 31,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:31",
+                            "text": "\"But suppose it to be maintained, on the other hand, that matter is in God, it will behove us similarly to inquire, whether we are to understand by this that He is sundered from Himself, and that, just like the air, which contains various kinds of animals, so is He sundered and divided into parts for the reception of those creatures which from time to time exist in Him; or whether matter is in God as in a place,—for instance, as water is contained in earth."
+                        },
+                        {
+                            "verse": 32,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:32",
+                            "text": "For should we say 'as in air,' we should perforce be speaking of God as divisible into parts; but if 'as water in earth,' and if matter was, as is admitted, in confusion and disorder, and moreover also contained what was evil, we should have to admit that God is the place of disorder and evil."
+                        },
+                        {
+                            "verse": 33,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:33",
+                            "text": "But this it does not seem to me consistent with reverence to say, but hazardous rather."
+                        },
+                        {
+                            "verse": 34,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:34",
+                            "text": "For you contend that matter is uncreated, that you may not have to admit that God is the author of evil; and yet, while aiming to escape this difficulty, you make Him the receptacle of evil."
+                        },
+                        {
+                            "verse": 35,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:35",
+                            "text": "\"If you had stated that your suspicion that matter was uncreated arose from the nature of created things as we find them, I should have employed abundant argument in proof that it cannot be so."
+                        },
+                        {
+                            "verse": 36,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:36",
+                            "text": "But, since you have spoken of the existence of evil as the cause of such suspicion, I am disposed to enter upon a separate examination of this point."
+                        },
+                        {
+                            "verse": 37,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:37",
+                            "text": "For, when once it has been made clear how it is that evil exists, and when it is seen to be impossible to deny that God is the author of evil, in consequence of His having had recourse to matter for His materials, it seems to me that a suspicion of this kind disappears."
+                        },
+                        {
+                            "verse": 38,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:38",
+                            "text": "\"You assert, then, that matter, destitute of all qualities good or bad, co-existed at the outset with God, and that out of it He fashioned the world as we now find it\"."
+                        },
+                        {
+                            "verse": 39,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:39",
+                            "text": "\"Such is my opinion\"."
+                        },
+                        {
+                            "verse": 40,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:40",
+                            "text": "\"Well, then, if matter was without any qualities, and the world has come into existence from God, and if the world possesses qualities, the author of those qualities must be God\"."
+                        },
+                        {
+                            "verse": 41,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:41",
+                            "text": "\"Exactly so\"."
+                        },
+                        {
+                            "verse": 42,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:42",
+                            "text": "\"Since, too, I heard you say yourself just now that out of nothing nothing can possibly come, give me an answer to the question I am about to ask you."
+                        },
+                        {
+                            "verse": 43,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:43",
+                            "text": "You seem to me to think that the qualities of the world have not sprung from pre-existing qualities, and moreover that they are something different from the substances themselves\"."
+                        },
+                        {
+                            "verse": 44,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:44",
+                            "text": "\"I do\"."
+                        },
+                        {
+                            "verse": 45,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:45",
+                            "text": "\"If, therefore, God did not produce the qualities in question from qualities already existing, nor yet from substances, by reason that they are not substances, the conclusion is inevitable, that they were made by God out of nothing."
+                        },
+                        {
+                            "verse": 46,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:46",
+                            "text": "So that you seemed to me to affirm more than you were warranted to do, when you said that it had been proved impossible to hold the opinion that anything was made by God out of nothing."
+                        },
+                        {
+                            "verse": 47,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:47",
+                            "text": "\"But let us put the matter thus."
+                        },
+                        {
+                            "verse": 48,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:48",
+                            "text": "We see persons among ourselves making certain things out of nothing, however true it may be that they make them by means of something."
+                        },
+                        {
+                            "verse": 49,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:49",
+                            "text": "Let us take our illustration, say, from builders."
+                        },
+                        {
+                            "verse": 50,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:50",
+                            "text": "These men do not make cities out of cities; nor, similarly, temples out of temples."
+                        },
+                        {
+                            "verse": 51,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:51",
+                            "text": "Nay, if you suppose that, because the substances necessary for these constructions are already provided, therefore they make them out of that which already exists, your reasoning is fallacious."
+                        },
+                        {
+                            "verse": 52,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:52",
+                            "text": "For it is not the substance that makes the city or the temples, but the art which is employed about the substance."
+                        },
+                        {
+                            "verse": 53,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:53",
+                            "text": "Neither, again, does the art proceed from any art inhering in the substances, but it arises independently of any such art in them."
+                        },
+                        {
+                            "verse": 54,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:54",
+                            "text": "\"But I fancy you will meet the argument by saying that the artist produces the art which is manifest in the substance he has fashioned out of the art which he himself already has."
+                        },
+                        {
+                            "verse": 55,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:55",
+                            "text": "In reply to this, however, I think it may be fairly said, that neither in man does art spring from any already existing art."
+                        },
+                        {
+                            "verse": 56,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:56",
+                            "text": "For we cannot possibly allow that art exists by itself, since it belongs to the class of things which are accidentals, and which receive their existence only when they appear in connection with substance."
+                        },
+                        {
+                            "verse": 57,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:57",
+                            "text": "For man will exist though there should be no architecture, but the latter will have no existence unless there be first of all man."
+                        },
+                        {
+                            "verse": 58,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:58",
+                            "text": "Thus we cannot avoid the conclusion, that it is the nature of art to spring up in man out of nothing."
+                        },
+                        {
+                            "verse": 59,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:59",
+                            "text": "If, then, we have shown that this is the case with man, we surely must allow that God can make not only the qualities of substances out of nothing, but also the substances themselves."
+                        },
+                        {
+                            "verse": 60,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:60",
+                            "text": "For, if it appears possible that anything whatever can be made out of nothing, it is proved that this may be the case with substances also."
+                        },
+                        {
+                            "verse": 61,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:61",
+                            "text": "\"But, since you are specially desirous of inquiring about the origin of evil, I will proceed to the discussion of this topic."
+                        },
+                        {
+                            "verse": 62,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:62",
+                            "text": "And I should like to ask you a few questions."
+                        },
+                        {
+                            "verse": 63,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:63",
+                            "text": "Is it your opinion that things evil are substances, or that they are qualities of substances?\"  \"Qualities of substances, I am disposed to say\"."
+                        },
+                        {
+                            "verse": 64,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:64",
+                            "text": "\"But matter was destitute of qualities and of form:  this I assumed at the outset of the discussion."
+                        },
+                        {
+                            "verse": 65,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:65",
+                            "text": "Therefore, if things evil are qualities of substances, and matter was destitute of qualities, and you have called God the author of qualities, God will also be the former of that which is evil."
+                        },
+                        {
+                            "verse": 66,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:66",
+                            "text": "Since, then, it is not possible, on this supposition any more than on the other, to speak of God as not the cause of evil, it seems to me superfluous to add matter to Him, as if that were the cause of evil."
+                        },
+                        {
+                            "verse": 67,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:67",
+                            "text": "If you have any reply to make to this, begin your argument\"."
+                        },
+                        {
+                            "verse": 68,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:68",
+                            "text": "\"If, indeed, our discussion had arisen from a love of contention, I should not be willing to have the inquiry raised a second time about the origin of evil; but, since we are prompted rather by friendship and the good of our neighbour to engage in controversy, I readily consent to have the question raised afresh on this subject."
+                        },
+                        {
+                            "verse": 69,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:69",
+                            "text": "You have no doubt long been aware of the character of my mind, and of the object at which I aim in dispute:  that I have no wish to vanquish falsehood by plausible reasoning, but rather that truth should be established in connection with thorough investigation."
+                        },
+                        {
+                            "verse": 70,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:70",
+                            "text": "You yourself, too, are of the same mind, I am well assured."
+                        },
+                        {
+                            "verse": 71,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:71",
+                            "text": "Whatever method, therefore, you deem successful for the discovery of truth, do not shrink from using it."
+                        },
+                        {
+                            "verse": 72,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:72",
+                            "text": "For, by following a better course of argument, you will not only confer a benefit on yourself, but most assuredly on me also, instructing me concerning matters of which I am ignorant\"."
+                        },
+                        {
+                            "verse": 73,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:73",
+                            "text": "\"You seem clearly to agree with me, that things evil are in some sort substances: for, apart from substances, I do not see them to have any existence."
+                        },
+                        {
+                            "verse": 74,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:74",
+                            "text": "Since, then, my good friend, you say that things evil are substances, it is necessary to inquire into the nature of substance."
+                        },
+                        {
+                            "verse": 75,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:75",
+                            "text": "Is it your opinion that substance is a kind of bodily structure?\"  \"It is\"."
+                        },
+                        {
+                            "verse": 76,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:76",
+                            "text": "\"And does that bodily structure exist by itself, without the need of any one to come and give it existence?\"  \"Yes\"."
+                        },
+                        {
+                            "verse": 77,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:77",
+                            "text": "\"And does it seem to you that things evil are connected with certain courses of action?\"  \"That is my belief\"."
+                        },
+                        {
+                            "verse": 78,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:78",
+                            "text": "\"And do actions come into existence only when an actor is there?\"  \"Yes\"."
+                        },
+                        {
+                            "verse": 79,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:79",
+                            "text": "\"And, when there is no actor, neither will his action ever take place?\"  \"It will not\"."
+                        },
+                        {
+                            "verse": 80,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:80",
+                            "text": "\"If, therefore, substance is a kind of bodily structure, and this does not stand in need of some one in and through whom it may receive its existence, and if things evil are actions of some one, and actions require some one in and through whom they receive their existence,—things evil will 'not' be substances."
+                        },
+                        {
+                            "verse": 81,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:81",
+                            "text": "And if things evil are not substances, and murder is an evil, and is the action of some one, it follows that murder is not a substance."
+                        },
+                        {
+                            "verse": 82,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:82",
+                            "text": "But, if you insist that agents are substance, then I myself agree with you."
+                        },
+                        {
+                            "verse": 83,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:83",
+                            "text": "A man, for instance, who is a murderer, is, in so far as he is a man, a substance; but the murder which he commits is not a substance, but a work of the substance."
+                        },
+                        {
+                            "verse": 84,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:84",
+                            "text": "Moreover, we speak of a man sometimes as bad because he commits murder; and sometimes, again, because he performs acts of beneficence, as good:  and these names adhere to the substance, in consequence of the things which are accidents of it, which, however, are not the substance itself."
+                        },
+                        {
+                            "verse": 85,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:85",
+                            "text": "For neither is the substance murder, nor, again, is it adultery, nor is it any other similar evil."
+                        },
+                        {
+                            "verse": 86,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:86",
+                            "text": "But, just as the grammarian derives his name from grammar, and the orator from oratory, and the physician from physic, though the substance is not physic, nor yet oratory, nor grammar, but receives its appellation from the things which are accidents of it, from which it popularly receives its name, though it is not any one of them,—so in like manner it appears to me that the substance receives name from things regarded as evil, though it is not itself any one of them."
+                        },
+                        {
+                            "verse": 87,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:87",
+                            "text": "\"I must beg you also to consider that, if you represent some other being as the cause of evil to men, he also, in so far as he acts in them, and incites them to do evil, is himself evil, by reason of the things he does."
+                        },
+                        {
+                            "verse": 88,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:88",
+                            "text": "For he too is said to be evil, for the simple reason that he is the doer of evil things; but the things which a being does are not the being himself, but his actions, from which he receives his appellation, and is called evil."
+                        },
+                        {
+                            "verse": 89,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:89",
+                            "text": "For if we should say that the things he does are himself, and these consist in murder, and adultery, and theft, and such-like, these things will be himself."
+                        },
+                        {
+                            "verse": 90,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:90",
+                            "text": "And if these things are himself, and if when they take place they get to have a substantial existence, but by not taking place they also cease to exist, and if these things are done by men,—men will be the doers of these things, and the causes of existing and of no longer existing."
+                        },
+                        {
+                            "verse": 91,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:91",
+                            "text": "But, if you affirm that these things are his actions, he gets to be evil from the things he does, not from those things of which the substance of him consists."
+                        },
+                        {
+                            "verse": 92,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:92",
+                            "text": "\"Moreover, we have said that he is called evil from those things which are accidents of the substance, which are not themselves the substance:  as a physician from the art of physic."
+                        },
+                        {
+                            "verse": 93,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:93",
+                            "text": "But, if he receives the beginning of his existence from the actions he performs, he too began to be evil, and these evil things likewise began to exist."
+                        },
+                        {
+                            "verse": 94,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:94",
+                            "text": "And, if so, an evil being will not be without a beginning, nor will evil things be unoriginated, since we have said that they are originated by him\"."
+                        },
+                        {
+                            "verse": 95,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:95",
+                            "text": "\"The argument relating to the opinion I before expressed, you seem to me, my friend, to have handled satisfactorily:  for, from the premises you assumed in the discussion, I think you have drawn a fair conclusion."
+                        },
+                        {
+                            "verse": 96,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:96",
+                            "text": "For, beyond doubt, if matter was at first destitute of qualities, and if God is the fashioner of the qualities it now has, and if evil things are qualities, God is the author of those evil things."
+                        },
+                        {
+                            "verse": 97,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:97",
+                            "text": "The argument, then, relating to that opinion we may consider as well discussed, and to me it now seems false to speak of matter as destitute of qualities."
+                        },
+                        {
+                            "verse": 98,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:98",
+                            "text": "For it is not possible to say of any substance whatsoever that it is without qualities."
+                        },
+                        {
+                            "verse": 99,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:99",
+                            "text": "For, in the very act of saying that it is destitute of qualities, you do in fact indicate its quality, representing of what kind matter is, which of course is ascribing to it a species of quality."
+                        },
+                        {
+                            "verse": 100,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:100",
+                            "text": "Wherefore, if it is agreeable to you, rehearse the argument to me from the beginning:  for, to me, matter seems to have had qualifies from all eternity."
+                        },
+                        {
+                            "verse": 101,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:101",
+                            "text": "For in this way I can affirm that evil things also come from it in the way of emanation, so that the cause of evil things may not be ascribed to God, but that matter may be regarded as the cause of all such things\"."
+                        },
+                        {
+                            "verse": 102,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:102",
+                            "text": "\"I approve your desire, my friend, and praise the zeal you manifest in the discussion of opinions."
+                        },
+                        {
+                            "verse": 103,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:103",
+                            "text": "For it assuredly becomes every one who is desirous of knowledge, not simply and out of hand to agree with what is said, but to make a careful examination of the arguments adduced."
+                        },
+                        {
+                            "verse": 104,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:104",
+                            "text": "For, though a disputant, by laying down false premises, may make his opponent draw the conclusion he wishes, yet he will not convince a hearer of this; but only when he says that which it seems possible to say with fairness."
+                        },
+                        {
+                            "verse": 105,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:105",
+                            "text": "So that one of two things will happen:  either he will, as he listens, be decisively helped to reach that conclusion towards which he already feels himself impelled, or he will convict his adversary of not speaking the truth."
+                        },
+                        {
+                            "verse": 106,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:106",
+                            "text": "\"Now, it seems to me that you have not sufficiently discussed the statement that matter has qualities from the first."
+                        },
+                        {
+                            "verse": 107,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:107",
+                            "text": "For, if this is the case, what will God be the maker of?  For, if we speak of substances, we affirm these to exist beforehand; or if again of qualities, we declare these also to exist already."
+                        },
+                        {
+                            "verse": 108,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:108",
+                            "text": "Since, therefore both substance and qualities exist, it seems to me unreasonable to call God a creator."
+                        },
+                        {
+                            "verse": 109,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:109",
+                            "text": "\"But, lest I should seem to be constructing an argument to suit my purpose, be so good as to answer the question:  In what way do you assert God to be a creator?  Is He such because He changed the substances, so that they should no longer be the same as they had once been but become different from what they were; or because, while He kept the substances the same as they were before that period, He changed their qualities?\"  \"I do not at all think that any alteration took place in substances:  for it appears to me absurd to say this."
+                        },
+                        {
+                            "verse": 110,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:110",
+                            "text": "But I affirm that a certain change was made in their qualities; and it is in respect of these that I speak of God as a creator."
+                        },
+                        {
+                            "verse": 111,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:111",
+                            "text": "Just as we might happen to speak of a house as made out of stones, in which case we could not say that the stones no longer continue to be stones as regards their substance, now that they are made into a house (for I affirm that the house owes its existence to the quality of its construction, forasmuch as the previous quality of the stones has been changed),—so does it seem to me that God, while the substance remains the same, has made a certain change in its qualities; and it is in respect of such change that I speak of the origin of this world as having come from God\"."
+                        },
+                        {
+                            "verse": 112,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:112",
+                            "text": "\"Since, then, you maintain that a certain change—namely, of qualities—has been produced by God, answer me briefly what I am desirous to ask you\"."
+                        },
+                        {
+                            "verse": 113,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:113",
+                            "text": "\"Proceed, pray, with your question\"."
+                        },
+                        {
+                            "verse": 114,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:114",
+                            "text": "\"Do you agree in the opinion that evil things are qualities of substances?\"  \"I do\"."
+                        },
+                        {
+                            "verse": 115,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:115",
+                            "text": "\"Were these qualities in matter from the first, or did they begin to be?\"  \"I hold that these qualifies existed in combination with matter, without being originated\"."
+                        },
+                        {
+                            "verse": 116,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:116",
+                            "text": "\"But do you not affirm that God has made a certain change in the qualities?\"  \"That is what I affirm\"."
+                        },
+                        {
+                            "verse": 117,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:117",
+                            "text": "\"For the better, or for the worse?\"  \"For the better, I should say\"."
+                        },
+                        {
+                            "verse": 118,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:118",
+                            "text": "\"Well, then, if evil things are qualities of matter, and if the Lord of all changed its qualities for the better, whence, it behoves us to ask, come evil things?  For either the qualities remained the same in their nature as they previously were, or, if they were not evil before, but you assert that, in consequence of a change wrought on them by God, the first qualities of this kind came into existence in connection with matter,—God will be the author of evil, inasmuch as He changed the qualities which were not evil, so as to make them evil."
+                        },
+                        {
+                            "verse": 119,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:119",
+                            "text": "\"Possibly, however, it is not your view that God changed evil qualities for the better; but you mean that all those other qualities which happened to be neither good nor bad, were changed by God with a view to the adornment of the creation\"."
+                        },
+                        {
+                            "verse": 120,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:120",
+                            "text": "\"That has been my opinion from the outset\"."
+                        },
+                        {
+                            "verse": 121,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:121",
+                            "text": "\"How, then, can you say that He has left the qualities of bad things just as they were?  Is it that, although He was able to destroy those qualities as well as the others, He was not willing; or did He refrain because He had not the power?  For, if you say He had the power, but not the will, you must admit Him to be the cause of these qualities:  since, when He could have put a stop to the existence of evil, He chose to let it remain as it was, and that, too, at the very time when He began to fashion matter."
+                        },
+                        {
+                            "verse": 122,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:122",
+                            "text": "For, if He had not concerned Himself at all with matter, He would not have been the cause of those things which He allowed to remain."
+                        },
+                        {
+                            "verse": 123,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:123",
+                            "text": "But, seeing that He fashioned a certain part of it, and left a certain part as we have described it, although He could have changed that also for the better, it seems to me that He deserves to have the blame cast on Him, for having permitted a part of matter to be evil, to the ruin of that other part which He fashioned."
+                        },
+                        {
+                            "verse": 124,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:124",
+                            "text": "\"Nay, more, it seems to me that the most serious wrong has been committed as regards this part, in that He constituted this part of matter so as to be now affected by evil."
+                        },
+                        {
+                            "verse": 125,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:125",
+                            "text": "For, if we were to examine carefully into things, we should find that the condition of matter is worse now than in its former state, before it was reduced to order."
+                        },
+                        {
+                            "verse": 126,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:126",
+                            "text": "For, before it was separated into parts, it had no sense of evil; but now every one of its parts is afflicted with a sense of evil."
+                        },
+                        {
+                            "verse": 127,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:127",
+                            "text": "\"Take an illustration from man."
+                        },
+                        {
+                            "verse": 128,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:128",
+                            "text": "Before he was fashioned, and became a living being through the art of the Creator, he was by nature exempt from any contact whatever with evil; but, as soon as ever he was made by God a man, he became liable to the sense of even approaching evil:  and thus that very thing which you say was brought about by God for the benefit of matter, is found to have turned out rather to its detriment."
+                        },
+                        {
+                            "verse": 129,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:129",
+                            "text": "\"But, if you say that evil has not been put a stop to, because God was unable to do away with it, you will be making God powerless."
+                        },
+                        {
+                            "verse": 130,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:130",
+                            "text": "But, if He is powerless, it will be either because He is weak by nature, or because He is overcome by fear, and reduced to subjection by a stronger."
+                        },
+                        {
+                            "verse": 131,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:131",
+                            "text": "If, then, you go so far as to say that God is weak by nature, it seems to me that you imperil your salvation itself; but, if you say that He is weak through being overcome by fear of a greater, things evil will be greater than God, since they frustrate the carrying out of His purpose."
+                        },
+                        {
+                            "verse": 132,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:132",
+                            "text": "But this, as it seems to me, it would be absurd to say of God."
+                        },
+                        {
+                            "verse": 133,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:133",
+                            "text": "For why should not 'they' rather be considered gods, since according to your account they are able to overcome God:  if, that is to say, we mean by God that which has a controlling power over all things?  \"But I wish to ask you a few questions concerning matter itself."
+                        },
+                        {
+                            "verse": 134,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:134",
+                            "text": "Pray tell me, therefore, whether matter was something simple or compound."
+                        },
+                        {
+                            "verse": 135,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:135",
+                            "text": "I am induced to adopt this method of investigating the subject before us by considering the diversity that obtains in existing things."
+                        },
+                        {
+                            "verse": 136,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:136",
+                            "text": "For, if perchance matter was something simple and uniform, how comes it that the world is compound, and consists of divers substances and combinations?  For by 'compound' we denote a mixture of certain simple elements."
+                        },
+                        {
+                            "verse": 137,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:137",
+                            "text": "But if, on the contrary, you prefer to call matter compound, you will, of course, be asserting that it is compounded of certain simple elements."
+                        },
+                        {
+                            "verse": 138,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:138",
+                            "text": "And, if it was compounded of simple elements, these simple elements must have existed at some time or other separately by themselves, and when they were compounded together matter came into being:  from which it of course follows that matter is created."
+                        },
+                        {
+                            "verse": 139,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:139",
+                            "text": "For, if matter is compound, and compound things are constituted from simple, there was once a time when matter had no existence,—namely, before the simple elements came together."
+                        },
+                        {
+                            "verse": 140,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:140",
+                            "text": "And, if there was once a time when matter was not, and there was never a time when the uncreated was not, matter cannot be uncreated."
+                        },
+                        {
+                            "verse": 141,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:141",
+                            "text": "And hence there will be many uncreated substances."
+                        },
+                        {
+                            "verse": 142,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:142",
+                            "text": "For, if God was uncreated, and the simple elements out of which matter was compounded were also uncreated, there will not be two uncreated things only,—not to discuss the question what it is which constitutes objects simple, whether matter or form."
+                        },
+                        {
+                            "verse": 143,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:143",
+                            "text": "\"Is it, further, your opinion that nothing in existence is opposed to itself?\"  \"It is\"."
+                        },
+                        {
+                            "verse": 144,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:144",
+                            "text": "\"Is water, then, opposed to fire?\"  \"So it appears to me\"."
+                        },
+                        {
+                            "verse": 145,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:145",
+                            "text": "\"Similarly, is darkness opposed to light, and warm to cold, and moreover moist to dry?\"  \"It seems to me to be so\"."
+                        },
+                        {
+                            "verse": 146,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:146",
+                            "text": "\"Well, then, if nothing in existence is opposed to itself, and these things are opposed to each other, they cannot be one and the same matter; no, nor yet be made out of one and the same matter."
+                        },
+                        {
+                            "verse": 147,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:147",
+                            "text": "\"I wish further to ask your opinion on a matter kindred to that of which we have been speaking."
+                        },
+                        {
+                            "verse": 148,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:148",
+                            "text": "Do you believe that the parts of a thing are not mutually destructive?\"  \"I do\"."
+                        },
+                        {
+                            "verse": 149,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:149",
+                            "text": "\"And you believe that fire and water, and so on, are parts of matter?\"  \"Quite so\"."
+                        },
+                        {
+                            "verse": 150,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:150",
+                            "text": "\"Do you not also believe that water is subversive of fire, and light of darkness, and so of all similar things?\"  \"Yes\"."
+                        },
+                        {
+                            "verse": 151,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:151",
+                            "text": "\"Well, then, if the parts of a whole are not mutually destructive, and yet the parts of matter are mutually destructive, they cannot be parts of one matter."
+                        },
+                        {
+                            "verse": 152,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:152",
+                            "text": "And, if they are not parts of one another, they cannot be composed of one and the same matter; nay, they cannot be matter at all, since nothing in existence is destructive of itself, as we learn from the doctrine of opposites:  for nothing is opposed to itself—an opposite being by nature opposed to something else."
+                        },
+                        {
+                            "verse": 153,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:153",
+                            "text": "White, for example, is not opposed to itself, but is said to be the opposite of black; and, similarly, light is shown not to be opposed to itself, but is considered an opposite in relation to darkness; and so of a very great number of things besides."
+                        },
+                        {
+                            "verse": 154,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:154",
+                            "text": "If, then, matter were some one thing, it could not be opposed to itself."
+                        },
+                        {
+                            "verse": 155,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:155",
+                            "text": "This, then, being the nature of opposites, it is proved that matter has no existence\"."
+                        },
+                        {
+                            "verse": 156,
+                            "chapter": 1,
+                            "name": "Remains: Maximus Bishop of Jerusalem 1:156",
+                            "text": "'."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

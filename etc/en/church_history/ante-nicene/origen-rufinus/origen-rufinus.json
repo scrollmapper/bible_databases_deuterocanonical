@@ -1,0 +1,123 @@
+{
+    "books": [
+        {
+            "name": "Origen: Rufinus",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Origen: Rufinus 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Origen: Rufinus 1:1",
+                            "text": "Prologue of Rufinus: I know that very many of the brethren, induced by their thirst for a knowledge of the Scriptures, have requested some distinguished men, well versed in Greek learning, to translate Origen into Latin, and so make him accessible to Roman readers."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Origen: Rufinus 1:2",
+                            "text": "Among these, when our brother and colleague had, at the earnest entreaty of Bishop Damasus, translated two of the Homilies on the Song of Songs out of Greek into Latin, he prefixed so elegant and noble a preface to that work, as to inspire every one with a most eager desire to read and study Origen, saying that the expression, \"The King hath brought me into his chamber,\" was appropriate to his feelings, and declaring that while Origen in his other works surpassed all writers, he in the Song of Songs surpassed even himself."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Origen: Rufinus 1:3",
+                            "text": "He promises, indeed, in that very preface, that he will present the books on the Song of Songs, and numerous others of the works of Origen, in a Latin translation, to Roman readers."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Origen: Rufinus 1:4",
+                            "text": "But he, finding greater pleasure in compositions of his own, pursues an end that is attended with greater fame, viz."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Origen: Rufinus 1:5",
+                            "text": ", in being the author rather than the translator of works."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Origen: Rufinus 1:6",
+                            "text": "Accordingly we enter upon the undertaking, which was thus begun and approved of by him, although we cannot compose in a style of elegance equal to that of a man of such distinguished eloquence; and therefore I am afraid lest, through my fault, the result should follow, that that man, whom he deservedly esteems as the second teacher of knowledge and wisdom in the Church after the apostles, should, through the poverty of my language, appear far inferior to what he is."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "Origen: Rufinus 1:7",
+                            "text": "And this consideration, which frequently recurred to my mind, kept me silent, and prevented me from yielding to the numerous entreaties of my brethren, until your influence, my very faithful brother Macarius, which is so great, rendered it impossible for my unskilfulness any longer to offer resistance."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 1,
+                            "name": "Origen: Rufinus 1:8",
+                            "text": "And therefore, that I might not find you too grievous an exactor, I gave way, even contrary to my resolution; on the condition and arrangement, however, that in my translation I should follow as far as possible the rule observed by my predecessors, and especially by that distinguished man whom I have mentioned above, who, after translating into Latin more than seventy of those treatises of Origen which are styled Homilies and a considerable number also of his writings on the apostles, in which a good many \"stumbling-blocks\" are found in the original Greek, so smoothed and corrected them in his translation, that a Latin reader would meet with nothing which could appear discordant with our belief."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 1,
+                            "name": "Origen: Rufinus 1:9",
+                            "text": "His example, therefore, we follow, to the best of our ability; if not with equal power of eloquence, yet at least with the same strictness of rule, taking care not to reproduce those expressions occurring in the works of Origen which are inconsistent with and opposed to each other."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 1,
+                            "name": "Origen: Rufinus 1:10",
+                            "text": "The cause of these variations we have explained more freely in the Apologeticus, which Pamphilus wrote in defence of the works of Origen, where we added a brief tract, in which we showed, I think, by unmistakeable proofs, that his books had been corrupted in numerous places by heretics and malevolent persons, and especially those books of which you now require me to undertake the translation, i-e:, the books which may be entitled De Principiis or De Principatibus, and which are indeed in other respects full of obscurities and difficulties."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 1,
+                            "name": "Origen: Rufinus 1:11",
+                            "text": "For he there discusses those subjects with respect to which philosophers, after spending all their lives upon them, have been unable to discover anything."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 1,
+                            "name": "Origen: Rufinus 1:12",
+                            "text": "But here our author strove, as much as in him lay, to turn to the service of religion the belief in a Creator, and the rational nature of created beings, which the latter had degraded to purposes of wickedness."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 1,
+                            "name": "Origen: Rufinus 1:13",
+                            "text": "If, therefore, we have found anywhere in his writings, any statement opposed to that view, which elsewhere in his works he had himself piously laid down regarding the Trinity, we have either omitted it, as being corrupt, and not the composition of Origen, or we have brought it forward agreeably to the rule which we frequently find affirmed by himself."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 1,
+                            "name": "Origen: Rufinus 1:14",
+                            "text": "If, indeed, in his desire to pass rapidly on, he has, as speaking to persons of skill and knowledge, sometimes expressed himself obscurely, we have, in order that the passage might be clearer, added what we had read more fully stated on the same subject in his other works, keeping explanation in view, but adding nothing of our own, but simply restoring to him what was his, although occurring in other portions of his writings."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 1,
+                            "name": "Origen: Rufinus 1:15",
+                            "text": "These remarks, therefore, by way of admonition, I have made in the preface, lest slanderous individuals perhaps should think that they had a second time discovered matter of accusation."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 1,
+                            "name": "Origen: Rufinus 1:16",
+                            "text": "But let perverse and disputatious men have a care what they are about."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 1,
+                            "name": "Origen: Rufinus 1:17",
+                            "text": "For we have in the meantime undertaken this heavy labour, if God should aid your prayers, not to shut the mouths of slanderers (which is impossible, although God perhaps will do it), but to afford material to those who desire to advance in the knowledge of these things."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 1,
+                            "name": "Origen: Rufinus 1:18",
+                            "text": "And, verily, in the presence of God the Father, and of the Son, and of the Holy Spirit, I adjure and beseech every one, who may either transcribe or read these books, by his belief in the kingdom to come, by the mystery of the resurrection from the dead, and by that everlasting fire prepared for the devil and his angels, that, as he would not possess for an eternal inheritance that place where there is weeping and gnashing of teeth, and where their fire is not quenched and their worm dieth not, he add nothing to Scripture, and take nothing away from it, and make no insertion or alteration, but that he compare his transcript with the copies from which he made it, and make the emendations and distinctions according to the letter, and not have his manuscript incorrect or indistinct, lest the difficulty of ascertaining the sense, from the indistinctness of the copy, should cause greater difficulties to the readers."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

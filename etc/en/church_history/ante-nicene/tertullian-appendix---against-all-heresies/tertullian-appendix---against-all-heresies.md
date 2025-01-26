@@ -1,0 +1,270 @@
+# Tertullian: Appendix - Against all Heresies
+
+**[1:1]** Appendix: Against All Heresies Earliest Heretics: Simon Magus, Menander, Saturninus, Basilides, Nicolaus.
+
+**[1:2]** The Work Begins as a Fragment.
+
+**[1:3]** Of which heretics I will (to pass by a good deal) summarize some few particulars.
+
+**[1:4]** For of Judaism's heretics I am silent—Dositheus the Samaritan, I mean, who was the first who had the hardihood to repudiate the prophets, on the ground that they had not spoken under inspiration of the Holy Spirit.
+
+**[1:5]** Of the Sadducees I am silent, who, springing from the root of this error, had the hardihood to adjoin to this heresy the denial likewise of the resurrection of the flesh.
+
+**[1:6]** The Pharisees I pretermit, who were "divided" from the Jews by their superimposing of certain additaments to the law, which fact likewise made them worthy of receiving this very name; and, together with them, the Herodians likewise, who said that Herod was Christ.
+
+**[1:7]** To those I betake myself who have chosen to make the gospel the starting-point of their heresies.
+
+**[1:8]** Of these the first of all is Simon Magus, who in the Acts of the Apostles earned a condign and just sentence from the Apostle Peter.
+
+**[1:9]** He had the hardihood to call himself the Supreme Virtue, that is, the Supreme God; and moreover, (to assert) that the universe had been originated by his angels; that he had descended in quest of an erring daemon, which was Wisdom; that, in a phantasmal semblance of God, he had not suffered among the Jews, but was as if he had suffered.
+
+**[1:10]** After him Menander, his disciple (likewise a magician), saying the same as Simon.
+
+**[1:11]** Whatever Simon had affirmed himself to be, this did Menander equally affirm himself to be, asserting that none could possibly have salvation without being baptized in his name.
+
+**[1:12]** Afterwards, again, followed Saturninus: he, too, affirming that the innascible Virtue, that is God, abides in the highest regions, and that those regions are infinite, and in the regions immediately above us; but that angels far removed from Him made the lower world; and that, because light from above had flashed refulgently in the lower regions, the angels had carefully tried to form man after the similitude of that light; that man lay crawling on the surface of the earth; that this light and this higher virtue was, thanks to mercy, the salvable spark in man, while all the rest of him perishes; that Christ had not existed in a bodily substance, and had endured a quasi-passion in a phantasmal shape merely; that a resurrection of the flesh there will by no means be.
+
+**[1:13]** Afterwards broke out the heretic Basilides.
+
+**[1:14]** He affirms that there is a supreme Deity, by name Abraxas, by whom was created Mind, which in Greek he calls Νοῦς; that thence sprang the Word; that of Him issued Providence, Virtue, and Wisdom; that out of these subsequently were made Principalities, powers, and Angels; that there ensued infinite issues and processions of angels; that by these angels  heavens were formed, and the world, in honour of Abraxas, whose name, if computed, has in itself this number.
+
+**[1:15]** Now, among the last of the angels, those who made this world, he places the God of the Jews latest, that is, the God of the Law and of the Prophets, whom he denies to be a God, but affirms to be an angel.
+
+**[1:16]** To him, he says, was allotted the seed of Abraham, and accordingly he it was who transferred the sons of Israel from the land of Egypt into the land of Canaan; affirming him to be turbulent above the other angels, and accordingly given to the frequent arousing of seditions and wars, yes, and the shedding of human blood.
+
+**[1:17]** Christ, moreover, he affirms to have been sent, not by this maker of the world, but by the above-named Abraxas; and to have come in a phantasm, and been destitute of the substance of flesh:  that it was not He who suffered among the Jews, but that Simon was crucified in His stead: whence, again, there must be no believing on him who was crucified, lest one confess to having believed on Simon.
+
+**[1:18]** Martyrdoms, he says, are not to be endured.
+
+**[1:19]** The resurrection of the flesh he strenuously impugns, affirming that salvation has not been promised to bodies.
+
+**[1:20]** A brother heretic emerged in Nicolaus.
+
+**[1:21]** He was one of the seven deacons who were appointed in the Acts of the Apostles.
+
+**[1:22]** He affirms that Darkness was seized with a concupiscence—and, indeed, a foul and obscene one—after Light: out of this permixture it is a shame to say what fetid and unclean (combinations arose).
+
+**[1:23]** The rest (of his tenets), too, are obscene.
+
+**[1:24]** For he tells of certain aeons, sons of turpitude, and of conjunctions of execrable and obscene embraces and permixtures, and certain yet baser outcomes of these.
+
+**[1:25]** He teaches that there were born, moreover, daemons, and gods, and spirits seven, and other things sufficiently sacrilegious.
+
+**[1:26]** alike and foul, which we blush to recount, and at once pass them by.
+
+**[1:27]** Enough it is for us that this heresy of the Nicolaitans has been condemned by the Apocalypse of the Lord with the weightiest authority attaching to a sentence, in saying "Because this thou holdest, thou hatest the doctrine of the Nicolaitans, which I too hate".
+
+**[2:1]** Ophites, Cainites, Sethites.
+
+**[2:2]** To these are added those heretics likewise who are called Ophites: for they magnify the serpent to such a degree, that they prefer him even to Christ Himself; for it was he, they say, who gave us the origin of the knowledge of good and of evil.
+
+**[2:3]** His power and majesty (they say) Moses perceiving, set up the brazen serpent; and whoever gazed upon him obtained health.
+
+**[2:4]** Christ Himself (they say further) in His gospel imitates Moses' serpent's sacred power, in saying: "And as Moses upreared the serpent in the desert, so it behoveth the Son of man to be upreared".
+
+**[2:5]** Him they introduce to bless their eucharistic (elements).
+
+**[2:6]** Now the whole parade and doctrine of this error flowed from the following source.
+
+**[2:7]** They say that from the supreme primary aeon whom men speak of there emanated several other inferior aeons.
+
+**[2:8]** To all these, however, there opposed himself an aeon who name is Ialdabaoth.
+
+**[2:9]** He had been conceived by the permixture of a second aeon with inferior aeons; and afterwards, when he had been desirous of forcing his way into the higher regions, had been disabled by the permixture of the gravity of matter with himself to arrive at the higher regions; had been left in the midst, and had extended himself to his full dimensions, and thus had made the sky.
+
+**[2:10]** Ialdabaoth, however, had descended lower, and had made him seven sons, and had shut from their view the upper regions by self-distension, in order that, since (these) angels could not know what was above, they might think him the sole God.
+
+**[2:11]** These inferior Virtues and angels, therefore, had made man; and, because he had been originated by weaker and mediocre powers, he lay crawling, worm-like.
+
+**[2:12]** That aeon, however, out of which Ialdaboath had proceeded, moved to the heart with envy, had injected into man as he lay a certain spark; excited whereby, he was through prudence to grow wise, and be able to understand the things above.
+
+**[2:13]** So, again, the Ialdaboath aforesaid, turning indignant, had emitted out of himself the Virtue and similitude of the serpent; and this had been the Virtue in paradise—that is, this had been the serpent—whom Eve had believed as if he had been God the Son.
+
+**[2:14]** He plucked, say they, from the fruit of the tree, and thus conferred on mankind the knowledge of things good and evil.
+
+**[2:15]** Christ, moreover, existed not in substance of flesh: salvation of the flesh is not to be hoped for at all.
+
+**[2:16]** Moreover, also, there has broken out another heresy also, which is called that of the Cainites.
+
+**[2:17]** And the reason is, that they magnify Cain as if he had been conceived of some potent Virtue which operated in him; for Abel had been procreated after being conceived of an inferior Virtue, and accordingly had been found inferior.
+
+**[2:18]** They who assert this likewise defend the traitor Judas, telling us that he is admirable and great, because of the advantages he is vaunted to have conferred on mankind; for some of them think that thanksgiving is to be rendered to Judas on this account: viz.
+
+**[2:19]** , Judas, they say, observing that Christ wished to subvert the truth, betrayed Him, in order that there might be no possibility of truth's being subverted.
+
+**[2:20]** And others thus dispute against them, and say: Because the powers of this world were unwilling that Christ should suffer, lest through His death salvation should be prepared for mankind, he, consulting for the salvation of mankind, betrayed Christ, in order that there might be no possibility at all of the salvation being impeded, which was being impeded through the Virtues which were opposing Christ's passion; and thus, through the passion of Christ, there might be no possibility of the salvation of mankind being retarded.
+
+**[2:21]** But, again, the heresy has started forth which is called that of the Sethites.
+
+**[2:22]** The doctrine of this perversity is as follows.
+
+**[2:23]** Two human beings were formed by the angels—Cain and Abel.
+
+**[2:24]** On their account arose great contentions and discords among the angels; for this reason, that Virtue which was above all the Virtues—which they style the Mother—when they said that Abel had been slain, willed this Seth of theirs to be conceived and born in place of Abel, in order that those angels might be escheated who had created those two former human beings, while this pure seed rises and is born.
+
+**[2:25]** For they say that there had been iniquitous permixtures of two angels and human beings; for which reason that Virtue which (as we have said) they style the Mother brought on the deluge even, for the purpose of vengeance, in order that that seed of permixture might be swept away, and this only seed which was pure be kept entire.
+
+**[2:26]** But (in vain): for they who had originated those of the former seed sent into the ark (secretly and stealthily, and unknown to that Mother-Virtue), together with those "eight souls," the seed likewise of Ham, in order that the seed of evil should not perish, but should, together with the rest, be preserved, and after the deluge be restored to the earth, and, by example of the rest, should grow up and diffuse itself, and fill and occupy the whole orb.
+
+**[2:27]** Of Christ, moreover, their sentiments are such that they call Him merely Seth, and say that He was instead of the actual Seth.
+
+**[3:1]** Carpocrates, Cerinthus, Ebion.
+
+**[3:2]** Carpocrates, furthermore, introduced the following sect.
+
+**[3:3]** He affirms that there is one Virtue, the chief among the upper (regions): that out of this were produced angels and Virtues, which, being far distant from the upper Virtues, created this world in the lower regions: that Christ was not born of the Virgin Mary, but was generated—a mere human being—of the seed of Joseph, superior (they admit) above all others in the practice of righteousness and in integrity of life; that He suffered among the Jews; and that His soul alone was received in heaven as having been more firm and hardy than all others: whence he would infer, retaining only the salvation of souls, that there are no resurrections of the body.
+
+**[3:4]** After him brake out the heretic Cerinthus, teaching similarly.
+
+**[3:5]** For he, too, says that the world was originated by those angels; and sets forth Christ as born of the seed of Joseph, contending that He was merely human, without divinity; affirming also that the Law was given by angels; representing the God of the Jews as not the Lord, but an angel.
+
+**[3:6]** His successor was Ebion, not agreeing with Cerinthus in every point; in that he affirms the world to have been made by God, not by angels; and because it is written, "No disciple above his master, nor servant above his lord," sets forth likewise the law as binding, of course for the purpose of excluding the gospel and vindicating Judaism.
+
+**[4:1]** Valentinus, Ptolemy and Secundus, Heracleon.
+
+**[4:2]** Valentinus the heretic, moreover, introduced many fables.
+
+**[4:3]** These I will retrench and briefly summarize.
+
+**[4:4]** For he introduces the Pleroma and the thirty aeons.
+
+**[4:5]** These aeons, moreover, he explains in the way of syzygies, that is, conjugal unions of some kind.
+
+**[4:6]** For among the first, he says, were Depth and Silence; of these proceeded Mind and Truth; out of whom burst the Word and Life; from whom, again, were created Man and the Church.
+
+**[4:7]** But (these are not all); for of these last also proceeded twelve aeons; from Speech, moreover, and Life proceeded other ten aeons: such is the Triacontad of aeons, which is made up in the Pleroma of an ogdoad, a decad, and a duodecad.
+
+**[4:8]** The thirtieth aeon, moreover, willed to see the great Bythus; and, to see him, had the hardihood to ascend into the upper regions; and not being capable of seeing his magnitude, desponded, and almost suffered dissolution, had not some one,—he whom he calls Horos, to wit,—sent to invigorate him, strengthened him by pronouncing the word "Iao".
+
+**[4:9]** This aeon, moreover, which was thus reduced to despondency, he calls Achamoth, (and says) that he was seized with certain regretful passions, and out of his passions gave birth to material essences.
+
+**[4:10]** For he was panic-stricken, he says, and terror-stricken, and overcome with sadness; and of these passions he conceived and bare.
+
+**[4:11]** Hence he made the heaven, and the earth, and the sea, and whatever is in them: for which cause all things made by him are infirm, and frail, and capable of falling, and mortal, inasmuch as he himself was conceived and produced from despondency.
+
+**[4:12]** He, however, originated this world out of those material essences which Achamoth, by his panic, or terror, or sadness, or sweat, had supplied.
+
+**[4:13]** For of his panic, he says, was made darkness; of his fear and ignorance, the spirits of wickedness and malignity; of his sadness and tears, the humidities of founts, the material essence of floods and sea.
+
+**[4:14]** Christ, moreover, was sent by that First-Father who is Bythus.
+
+**[4:15]** He, moreover, was not in the substance of our flesh; but, bringing down from heaven some spiritual body or other, passed through the Virgin Mary as water through a pipe, neither receiving nor borrowing aught thence.
+
+**[4:16]** The resurrection of our present flesh he denies, but (maintains that) of some sister-flesh.
+
+**[4:17]** Of the Law and the prophets some parts he approves, some he disapproves; that is, he disapproves all in reprobating some.
+
+**[4:18]** A Gospel of his own he likewise has, beside these of ours.
+
+**[4:19]** After him arose the heretics Ptolemy and Secundus, who agree throughout with Valentinus, differing only in the following point: viz.
+
+**[4:20]** , whereas Valentinus had feigned but thirty aeons, they have added several more; for they first added four, and subsequently four more.
+
+**[4:21]** And Valentine's assertion, that it was the thirtieth aeon which strayed out from the Pleroma, (as falling into despondency,) they deny; for the one which desponded on account of disappointed yearning to see the First-Father was not of the original triacontad, they say.
+
+**[4:22]** There arose, besides, Heracleon, a brother-heretic, whose sentiments pair with Valentine's; but, by some novelty of terminology, he is desirous of seeming to differ in sentiment.
+
+**[4:23]** For he introduces the notion that there existed first what he terms (a Monad); and then out of that Monad (arose) two, and then the rest of the aeons.
+
+**[4:24]** Then he introduces the whole system of Valentine.
+
+**[5:1]** Marcus and Colarbasus.
+
+**[5:2]** After these there were not wanting a Marcus and a Colarbasus, composing a novel heresy out of the Greek alphabet.
+
+**[5:3]** For they affirm that without those letters truth cannot be found; nay more, that in those letters the whole plenitude and perfection of truth is comprised; for this was why Christ said, "I am the Alpha and the Omega".
+
+**[5:4]** In fact, they say that Jesus Christ descended, that is, that the dove came down on Jesus; and, since the dove is styled by the Greek name περιστερά —(peristera), it has in itself this number DCCCI.
+
+**[5:5]** These men run through their Ω, Ψ, Χ, Φ, Υ, Τ—through the whole alphabet, indeed, up to Α and Β—and compute ogdoads and decads.
+
+**[5:6]** So we may grant it useless and idle to recount all their trifles.
+
+**[5:7]** What, however, must be allowed not merely vain, but likewise dangerous, is this:  they feign a second God, beside the Creator; they affirm that Christ was not in the substance of flesh; they say there is to be no resurrection of the flesh.
+
+**[6:1]** Cerdo, Marcion, Lucan, Apelles.
+
+**[6:2]** To this is added one Cerdo.
+
+**[6:3]** He introduces two first causes, that is, two Gods—one good, the other cruel: the good being the superior; the latter, the cruel one, being the creator of the world.
+
+**[6:4]** He repudiates the prophecies and the Law; renounces God the Creator; maintains that Christ who came was the Son of the superior God; affirms that He was not in the substance of flesh; states Him to have been only in a phantasmal shape, to have not really suffered, but undergone a quasipassion, and not to have been born of a virgin, nay, really not to have been born at all.
+
+**[6:5]** A resurrection of the soul merely does he approve, denying that of the body.
+
+**[6:6]** The Gospel of Luke alone, and that not entire, does he receive.
+
+**[6:7]** Of the Apostle Paul he takes neither all the epistles, nor in their integrity.
+
+**[6:8]** The Acts of the Apostles and the Apocalypse he rejects as false.
+
+**[6:9]** After him emerged a disciple of his, one Marcion by name, a native of Pontus, son of a bishop, excommunicated because of a rape committed on a certain virgin.
+
+**[6:10]** He, starting from the fact that it is said, "Every good tree beareth good fruit, but an evil evil," attempted to approve the heresy of Cerdo; so that his assertions are identical with those of the former heretic before him.
+
+**[6:11]** After him arose one Lucan by name, a follower and disciple of Marcion.
+
+**[6:12]** He, too, wading through the same kinds of blasphemy, teaches the same as Marcion and Cerdo had taught.
+
+**[6:13]** Close on their heels follows Apelles, a disciple of Marcion, who after lapsing, into his own carnality, was severed from Marcion.
+
+**[6:14]** He introduces one God in the infinite upper regions, and states that He made many powers and angels; beside Him, withal, another Virtue, which he affirms to be called Lord, but represents as an angel.
+
+**[6:15]** By him he will have it appear that the world was originated in imitation of a superior world.
+
+**[6:16]** With this lower world he mingled throughout (a principle of) repentance, because he had not made it so perfectly as that superior world had been originated.
+
+**[6:17]** The Law and the prophets he repudiates.
+
+**[6:18]** Christ he neither, like Marcion, affirms to have been in a phantasmal shape, nor yet in substance of a true body, as the Gospel teaches; but says, because He descended from the upper regions, that in the course of His descent He wove together for Himself a starry and airy flesh; and, in His resurrection, restored, in the course of His ascent, to the several individual elements whatever had been borrowed in His descent: and thus—the several parts of His body dispersed—He reinstated in heaven His spirit only.
+
+**[6:19]** This man denies the resurrection of the flesh.
+
+**[6:20]** He uses, too, one only apostle; but that is Marcion's, that is, a mutilated one.
+
+**[6:21]** He teaches the salvation of souls alone.
+
+**[6:22]** He has, besides, private but extraordinary lections of his own, which he calls "Manifestations" of one Philumene, a girl whom he follows as a prophetess.
+
+**[6:23]** He has, besides, his own books, which he has entitled books of Syllogisms, in which he seeks to prove that whatever Moses has written about God is not true, but is false.
+
+**[7:1]** Tatian, Cataphrygians, Cataproclans, Cataeschinetans.
+
+**[7:2]** To all these heretics is added one Tatian, a brother-heretic.
+
+**[7:3]** This man was Justin Martyr's disciple.
+
+**[7:4]** After Justin's death he began to cherish different opinions from his.
+
+**[7:5]** For he wholly savours of Valentinus; adding this, that Adam cannot even attain salvation:  as if, when the branches become salvable, the root were not!  Other heretics swell the list who are called Cataphrygians, but their teaching is not uniform.
+
+**[7:6]** For there are (of them) some who are called Cataproclans; there are others who are termed Cataeschinetans.
+
+**[7:7]** These have a blasphemy common, and a blasphemy not common, but peculiar and special.
+
+**[7:8]** The common blasphemy lies in their saying that the Holy Spirit was in the apostles indeed, the Paraclete was not; and in their saying that the Paraclete has spoken in Montanus more things than Christ brought forward into (the compass of) the Gospel, and not merely more, but likewise better and greater.
+
+**[7:9]** But the particular one they who follow aeschines have; this, namely, whereby they add this, that they affirm Christ to be Himself Son and Father.
+
+**[8:1]** Blastus, Two Theodoti, Praxeas.
+
+**[8:2]** In addition to all these, there is likewise Blastus, who would latently introduce Judaism.
+
+**[8:3]** For he says the passover is not to be kept otherwise than according to the law of Moses, on the fourteenth of the month.
+
+**[8:4]** But who would fail to see that evangelical grace is escheated if he recalls Christ to the Law?  Add to these Theodotus the Byzantine, who, after being apprehended for Christ's Name, and apostatizing, ceased not to blaspheme against Christ.
+
+**[8:5]** For he introduced a doctrine by which to affirm that Christ was merely a human being, but deny His deity; teaching that He was born of the Holy Spirit indeed of a virgin, but was a solitary and bare human being, with no pre-eminence above the rest (of mankind), but only that of righteousness.
+
+**[8:6]** After him brake out a second heretical Theodotus, who again himself introduced a sister-sect, and says that the human being Christ Himself was merely conceived alike, and born, of the Holy Spirit and the Virgin Mary, but that He was inferior to Melchizedek; because it is said of Christ, "Thou art a priest unto eternity, after the order of Melchizedek".
+
+**[8:7]** For that Melchizedek, he says, was a heavenly Virtue of pre-eminent grace; in that Christ acts for human beings, being made their Deprecator and Advocate:  Melchizedek does so for heavenly angels and Virtues.
+
+**[8:8]** For to such a degree, he says, is he better than Christ, that he is ἀπάτωρ (fatherless), ἀμήτωρ (motherless), ἀγενεαλογητον (without genealogy), of whom neither the beginning nor the end has been comprehended, nor can be comprehended.
+
+**[8:9]** But after all these, again, one Praxeas introduced a heresy which Victorinus was careful to corroborate.
+
+**[8:10]** He asserts that Jesus Christ is God the Father Almighty.
+
+**[8:11]** Him he contends to have been crucified, and suffered, and died; beside which, with a profane and sacrilegious temerity, he maintains the proposition that He is Himself sitting at His own right hand.
+

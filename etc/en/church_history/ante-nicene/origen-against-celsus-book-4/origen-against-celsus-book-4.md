@@ -1,0 +1,1448 @@
+# Origen: Against Celsus Book IV
+
+**[1:1]** Book  Origen Against Celsus: Having, in the three preceding books, fully stated what occurred to us by way of answer to the treatise of Celsus, we now, reverend Ambrosius, with prayer to God through Christ, offer this fourth book as a reply to what follows.
+
+**[1:2]** And we pray that words may be given us, as it is written in the book of Jeremiah that the Lord said to the prophet: "Behold, I have put My words in thy mouth as fire.
+
+**[1:3]** See, I have set thee this day over the nations, and over the kingdoms, to root out and to pull down, and to destroy, and to throw down, and to build and to plant".
+
+**[1:4]** For we need words now which will root out of every wounded soul the reproaches uttered against the truth by this treatise of Celsus, or which proceed from opinions like his.
+
+**[1:5]** And we need also thoughts which will pull down all edifices based on false opinions, and especially the edifice raised by Celsus in his work which resembles the building of those who said, "Come, let us build us a city, and a tower whose top shall reach to heaven".
+
+**[1:6]** Yea, we even require a wisdom which will throw down all high things that rise against the knowledge of God, and especially that height of arrogance which Celsus displays against us.
+
+**[1:7]** And in the next place, as we must not stop with rooting out and pulling down the hindrances which have just been mentioned, but must, in room of what has been rooted out, plant the plants of "God's husbandry;" and in place of what has been pulled down, rear up the building of God, and the temple of His glory,—we must for that reason pray also to the Lord, who bestowed the gifts named in the book of Jeremiah, that He may grant even to us words adapted both for building up the (temple) of Christ, and for planting the spiritual law, and the prophetic words referring to the same.
+
+**[1:8]** And above all is it necessary to show, as against the assertions of Celsus which follow those he has already made, that the prophecies regarding Christ are true predictions.
+
+**[1:9]** For, arraying himself at the same time against both parties—against the Jews on the one hand, who deny that the advent of Christ has taken place, but who expect it as future, and against Christians on the other, who acknowledge that Jesus is the Christ spoken of in prophecy—he makes the following statement:—.
+
+**[2:1]** "But that certain Christians and (all) Jews should maintain, the former that there has already descended, the latter that there will descend, upon the earth a certain God, or Son of a God, who will make the inhabitants of the earth righteous, is a most shameless assertion, and one the refutation of which does not need many words".
+
+**[2:2]** Now here he appears to pronounce correctly regarding not "certain" of the Jews, but all of them, that they imagine that there is a certain (God) who will descend upon the earth; and with regard to Christians, that certain of them say that He has already come down.
+
+**[2:3]** For he means those who prove from the Jewish Scriptures that the advent of Christ has already taken place, and he seems to know that there are certain heretical sects which deny that Christ Jesus was predicted by the prophets.
+
+**[2:4]** In the preceding pages, however, we have already discussed, to the best of our ability, the question of Christ having been the subject of prophecy, and therefore, to avoid tautology, we do not repeat much that might be advanced upon this head.
+
+**[2:5]** Observe, now, that if he had wished with a kind of apparent force to subvert faith in the prophetic writings, either with regard to the future or past advent of Christ, he ought to have set forth the prophecies themselves which we Christians and Jews quote in our discussions with each other.
+
+**[2:6]** For in this way he would have appeared to turn aside those who are carried away by the plausible character of the prophetic statements, as he regards it, from assenting to their truth, and from believing, on account of these prophecies, that Jesus is the Christ; whereas now, being unable to answer the prophecies relating to Christ, or else not knowing at all what are the prophecies relating to Him, he brings forward no prophetic declaration, although there are countless numbers which refer to Christ; but he thinks that he prefers an accusation against the prophetic Scriptures, while he does not even state what he himself would call their "plausible character!" He is not, however, aware that it is not at all the Jews who say that Christ will descend as a God, or the Son of a God, as we have shown in the foregoing pages.
+
+**[2:7]** And when he asserts that "he is said by us to have already come, but by the Jews that his advent as Messiah is still future," he appears by the very charge to censure our statement as one that is most shameless, and which needs no lengthened refutation.
+
+**[3:1]** And he continues: "What is the meaning of such a descent upon the part of God?" not observing that, according to our teaching, the meaning of the descent is pre-eminently to convert what are called in the Gospel the lost "sheep of the house of Israel;" and secondly, to take away from them, on account of their disobedience, what is called the "kingdom of God," and to give to other husbandmen than the ancient Jews, viz.
+
+**[3:2]** to the Christians, who will render to God the fruits of His kingdom in due season (each action being a "fruit of the kingdom").
+
+**[3:3]** We shall therefore, out of a greater number, select a few remarks by way of answer to the question of Celsus, when he says, "What is the meaning of such a descent upon the part of God?" And Celsus here returns to himself an answer which would have been given neither by Jews nor by us, when he asks, "Was it in order to learn what goes on amongst men?" For not one of us asserts that it was in order to learn what goes on amongst men that Christ entered into this life.
+
+**[3:4]** Immediately after, however, as if some would reply that it was "in order to learn what goes on among men," he makes this objection to his own statement: "Does he not know all things?" Then, as if we were to answer that He does know all things, he raises a new question, saying, "Then he does know, but does not make (men) better, nor is it possible for him by means of his divine power to make (men) better".
+
+**[3:5]** Now all this on his part is silly talk; for God, by means of His word, which is continually passing from generation to generation into holy souls, and constituting them friends of God and prophets, does improve those who listen to His words; and by the coming of Christ He improves, through the doctrine of Christianity, not those who are unwilling, but those who have chosen the better life, and that which is pleasing to God.
+
+**[3:6]** I do not know, moreover, what kind of improvement Celsus wished to take place when he raised the objection, asking, "Is it then not possible for him, by means of his divine power, to make (men) better, unless he send some one for that special purpose?" Would he then have the improvement to take place by God's filling the minds of men with new ideas, removing at once the (inherent) wickedness, and implanting virtue (in its stead)? Another person now would inquire whether this was not inconsistent or impossible in the very nature of things; we, however, would say, "Grant it to be so, and let it be possible".
+
+**[3:7]** Where, then, is our free will? and what credit is there in assenting to the truth? or how is the rejection of what is false praiseworthy? But even if it were once granted that such a course was not only possible, but could be accomplished with propriety (by God), why would not one rather inquire (asking a question like that of Celsus) why it was not possible for God, by means of His divine power, to create men who needed no improvement, but who were of themselves virtuous and perfect, evil being altogether non-existent? These questions may perplex ignorant and foolish individuals, but not him who sees into the nature of things; for if you take away the spontaneity of virtue, you destroy its essence.
+
+**[3:8]** But it would need an entire treatise to discuss these matters; and on this subject the Greeks have expressed themselves at great length in their works on providence.
+
+**[3:9]** They truly would not say what Celsus has expressed in words, that "God knows (all things) indeed, but does not make (men) better, nor is able to do so by His divine power".
+
+**[3:10]** We ourselves have spoken in many parts of our writings on these points to the best of our ability, and the Holy Scriptures have established the same to those who are able to understand them.
+
+**[4:1]** The argument which Celsus employs against us and the Jews will be turned against himself thus: My good sir, does the God who is over all things know what takes place among men, or does He not know? Now if you admit the existence of a God and of providence, as your treatise indicates, He must of necessity know.
+
+**[4:2]** And if He does know, why does He not make (men) better? Is it obligatory, then, on us to defend God's procedure in not making men better, although He knows their state, but not equally binding on you, who do not distinctly show by your treatise that you are an Epicurean, but pretend to recognise a providence, to explain why God, although knowing all that takes place among men, does not make them better, nor by divine power liberate all men from evil? We are not ashamed, however, to say that God is constantly sending (instructors) in order to make men better; for there are to be found amongst men reasons given by God which exhort them to enter on a better life.
+
+**[4:3]** But there are many diversities amongst those who serve God, and they are few in number who are perfect and pure ambassadors of the truth, and who produce a complete reformation, as did Moses and the prophets.
+
+**[4:4]** But above all these, great was the reformation effected by Jesus, who desired to heal not only those who lived in one corner of the world, but as far as in Him lay, men in every country, for He came as the Saviour of all men.
+
+**[5:1]** The illustrious Celsus, taking occasion I know not from what, next raises an additional objection against us, as if we asserted that "God Himself will come down to men".
+
+**[5:2]** He imagines also that it follows from this, that "He has left His own abode;" for he does not know the power of God, and that "the Spirit of the Lord filleth the world, and that which upholdeth all things hath knowledge of the voice".
+
+**[5:3]** Nor is he able to understand the words, "Do I not fill heaven and earth? saith the Lord".
+
+**[5:4]** Nor does he see that, according to the doctrine of Christianity, we all "in Him live, and move, and have our being," as Paul also taught in his address to the Athenians; and therefore, although the God of the universe should through His own power descend with Jesus into the life of men, and although the Word which was in the beginning with God, which is also God Himself, should come to us, He does not give His place or vacate His own seat, so that one place should be empty of Him, and another which did not formerly contain Him be filled.
+
+**[5:5]** But the power and divinity of God comes through him whom God chooses, and resides in him in whom it finds a place, not changing its situation, nor leaving its own place empty and filling another: for, in speaking of His quitting one place and occupying another, we do not mean such expressions to be taken topically; but we say that the soul of the bad man, and of him who is overwhelmed in wickedness, is abandoned by God, while we mean that the soul of him who wishes to live virtuously, or of him who is making progress (in a virtuous life), or who is already living conformably thereto, is filled with or becomes a partaker of the Divine Spirit.
+
+**[5:6]** It is not necessary, then, for the descent of Christ, or for the coming of God to men, that He should abandon a greater seat, and that things on earth should be changed, as Celsus imagines when he says, "If you were to change a single one, even the least, of things on earth, all things would be overturned and disappear".
+
+**[5:7]** And if we must speak of a change in any one by the appearing of the power of God, and by the entrance of the word among men, we shall not be reluctant to speak of changing from a wicked to a virtuous, from a dissolute to a temperate, and from a superstitious to a religious life, the person who has allowed the word of God to find entrance into his soul.
+
+**[6:1]** But if you will have us to meet the most ridiculous among the charges of Celsus, listen to him when he says: "Now God, being unknown amongst men, and deeming himself on that account to have less than his due, would desire to make himself known, and to make trial both of those who believe upon him and of those who do not, like those of mankind who have recently come into the possession of riches, and who make a display of their wealth; and thus they testify to an excessive but very mortal ambition on the part of God".
+
+**[6:2]** We answer, then, that God, not being known by wicked men, would desire to make Himself known, not because He thinks that He meets with less than His due, but because the knowledge of Him will free the possessor from unhappiness.
+
+**[6:3]** Nay, not even with the desire to try those who do or who do not believe upon Him, does He, by His unspeakable and divine power, Himself take up His abode in certain individuals, or send His Christ; but He does this in order to liberate from all their wretchedness those who do believe upon Him, and who accept His divinity, and that those who do not believe may no longer have this as a ground of excuse, viz.
+
+**[6:4]** , that their unbelief is the consequence of their not having heard the word of instruction.
+
+**[6:5]** What argument, then, proves that it follows from our views that God, according to our representations, is "like those of mankind who have recently come into the possession of riches, and who make a display of their wealth?" For God makes no display towards us, from a desire that we should understand and consider His pre-eminence; but desiring that the blessedness which results from His being known by us should be implanted in our souls, He brings it to pass through Christ, and His ever-indwelling word, that we come to an intimate fellowship with Him.
+
+**[6:6]** No mortal ambition, then, does the Christian doctrine testify as existing on the part of God.
+
+**[7:1]** I do not know how it is, that after the foolish remarks which he has made upon the subject which we have just been discussing, he should add the following, that "God does not desire to make himself known for his own sake, but because he wishes to bestow upon us the knowledge of himself for the sake of our salvation, in order that those who accept it may become virtuous and be saved, while those who do not accept may be shown to be wicked and be punished".
+
+**[7:2]** And yet, after making such a statement, he raises a new objection, saying: "After so long a period of time, then, did God now bethink himself of making men live righteous lives, but neglect to do so before?" To which we answer, that there never was a time when God did not wish to make men live righteous lives; but He continually evinced His care for the improvement of the rational animal, by affording him occasions for the exercise of virtue.
+
+**[7:3]** For in every generation the wisdom of God, passing into those souls which it ascertains to be holy, converts them into friends and prophets of God.
+
+**[7:4]** And there may be found in the sacred book (the names of) those who in each generation were holy, and were recipients of the Divine Spirit, and who strove to convert their contemporaries so far as in their power.
+
+**[8:1]** And it is not matter of surprise that in certain generations there have existed prophets who, in the reception of divine influence, surpassed, by means of their stronger and more powerful (religious) life, other prophets who were their contemporaries, and others also who lived before and after them.
+
+**[8:2]** And so it is not at all wonderful that there should also have been a time when something of surpassing excellence took up its abode among the human race, and which was distinguished above all that preceded or even that followed.
+
+**[8:3]** But there is an element of profound mystery in the account of these things, and one which is incapable of being received by the popular understanding.
+
+**[8:4]** And in order that these difficulties should be made to disappear, and that the objections raised against the advent of Christ should be answered—viz.
+
+**[8:5]** , that, "after so long a period of time, then, did God now bethink himself of making men live righteous lives, but neglect to do so before?"—it is necessary to touch upon the narrative of the divisions (of the nations), and to make it evident why it was, that "when the Most High divided the nations, when He separated the sons of Adam, He set the bounds of the nations according to the number of the angels of God, and the portion of the Lord was His people Jacob, Israel the cord of His inheritance;" and it will be necessary to state the reason why the birth of each man took place within each particular boundary, under him who obtained the boundary by lot, and how it rightly happened that "the portion of the Lord was His people Jacob, and Israel the cord of His inheritance," and why formerly the portion of the Lord was His people Jacob, and Israel the cord of His inheritance.
+
+**[8:6]** But with respect to those who come after, it is said to the Saviour by the Father, "Ask of Me, and I will give Thee the heathen for Thine inheritance, and the uttermost parts of the earth for Thy possession".
+
+**[8:7]** For there are certain connected and related reasons, bearing upon the different treatment of human souls, which are difficult to state and to investigate.
+
+**[9:1]** There came, then, although Celsus may not wish to admit it, after the numerous prophets who were the reformers of that well-known Israel, the Christ, the Reformer of the whole world, who did not need to employ against men whips, and chains, and tortures, as was the case under the former economy.
+
+**[9:2]** For when the sower went forth to sow, the doctrine sufficed to sow the word everywhere.
+
+**[9:3]** But if there is a time coming which will necessarily circumscribe the duration of the world, by reason of its having had a beginning, and if there is to be an end to the world, and after the end a just judgment of all things, it will be incumbent on him who treats the declarations of the Gospels philosophically, to establish these doctrines by arguments of all kinds, not only derived directly from the sacred Scriptures, but also by inferences deducible from them; while the more numerous and simpler class of believers, and those who are unable to comprehend the many varied aspects of the divine wisdom, must entrust themselves to God, and to the Saviour of our race, and be contented with His "ipse dixit," instead of this or any other demonstration whatever.
+
+**[10:1]** In the next place, Celsus, as is his custom, having neither proved nor established anything, proceeds to say, as if we talked of God in a manner that was neither holy nor pious, that "it is perfectly manifest that they babble about God in a way that is neither holy nor reverential;" and he imagines that we do these things to excite the astonishment of the ignorant, and that we do not speak the truth regarding the necessity of punishments for those who have sinned.
+
+**[10:2]** And accordingly he likens us to those who "in the Bacchic mysteries introduce phantoms and objects of terror".
+
+**[10:3]** With respect to the mysteries of Bacchus, whether there is any trustworthy account of them, or none that is such, let the Greeks tell, and let Celsus and his boon-companions listen.
+
+**[10:4]** But we defend our own procedure, when we say that our object is to reform the human race, either by the threats of punishments which we are persuaded are necessary for the whole world, and which perhaps are not without use to those who are to endure them; or by the promises made to those who have lived virtuous lives, and in which are contained the statements regarding the blessed termination which is to be found in the kingdom of God, reserved for those who are worthy of becoming His subjects.
+
+**[11:1]** After this, being desirous to show that it is nothing either wonderful or new which we state regarding floods or conflagrations, but that, from misunderstanding the accounts of these things which are current among Greeks or barbarous nations, we have accorded our belief to our own Scriptures when treating of them, he writes as follows: "The belief has spread among them, from a misunderstanding of the accounts of these occurrences, that after lengthened cycles of time, and the returns and conjunctions of planets, conflagrations and floods are wont to happen, and because after the last flood, which took place in the time of Deucalion, the lapse of time, agreeably to the vicissitude of all things, requires a conflagration and this made them give utterance to the erroneous opinion that God will descend, bringing fire like a torturer".
+
+**[11:2]** Now in answer to this we say, that I do not understand how Celsus, who has read a great deal, and who shows that he has perused many histories, had not his attention arrested by the antiquity of Moses, who is related by certain Greek historians to have lived about the time of Inachus the son of Phoroneus, and is acknowledged by the Egyptians to be a man of great antiquity, as well as by those who have studied the history of the Phoenicians.
+
+**[11:3]** And any one who likes may peruse the two books of Flavius Josephus on the antiquities of the Jews, in order that he may see in what way Moses was more ancient than those who asserted that floods and conflagrations take place in the world after long intervals of time; which statement Celsus alleges the Jews and Christians to have misunderstood, and, not comprehending what was said about a conflagration, to have declared that "God will descend, bringing fire like a torturer".
+
+**[12:1]** Whether, then, there are cycles of time, and floods, or conflagrations which occur periodically or not, and whether the Scripture is aware of this, not only in many passages, but especially where Solomon says, "What is the thing which hath been? Even that which shall be.
+
+**[12:2]** And what is the thing which hath been done? Even that which shall be done," etc.
+
+**[12:3]** , etc.
+
+**[12:4]** , belongs not to the present occasion to discuss.
+
+**[12:5]** For it is sufficient only to observe, that Moses and certain of the prophets, being men of very great antiquity, did not receive from others the statements relating to the (future) conflagration of the world; but, on the contrary (if we must attend to the matter of time), others rather misunderstanding them, and not inquiring accurately into their statements, invented the fiction of the same events recurring at certain intervals, and differing neither in their essential nor accidental qualities.
+
+**[12:6]** But we do not refer either the deluge or the conflagration to cycles and planetary periods; but the cause of them we declare to be the extensive prevalence of wickedness, and its (consequent) removal by a deluge or a conflagration.
+
+**[12:7]** And if the voices of the prophets say that God "comes down," who has said, "Do I not fill heaven and earth? saith the Lord," the term is used in a figurative sense.
+
+**[12:8]** For God "comes down" from His own height and greatness when He arranges the affairs of men, and especially those of the wicked.
+
+**[12:9]** And as custom leads men to say that teachers "condescend" to children, and wise men to those youths who have just betaken themselves to philosophy, not by "descending" in a bodily manner; so, if God is said anywhere in the holy Scriptures to "come down," it is understood as spoken in conformity with the usage which so employs the word, and, in like manner also with the expression "go up".
+
+**[13:1]** But as it is in mockery that Celsus says we speak of "God coming down like a torturer bearing fire," and thus compels us unseasonably to investigate words of deeper meaning, we shall make a few remarks, sufficient to enable our hearers to form an idea of the defence which disposes of the ridicule of Celsus against us, and then we shall turn to what follows.
+
+**[13:2]** The divine word says that our God is "a consuming fire," and that "He draws rivers of fire before Him;" nay, that He even entereth in as "a refiner's fire, and as a fuller's herb," to purify His own people.
+
+**[13:3]** But when He is said to be a "consuming fire," we inquire what are the things which are appropriate to be consumed by God.
+
+**[13:4]** And we assert that they are wickedness, and the works which result from it, and which, being figuratively called "wood, hay, stubble," God consumes as a fire.
+
+**[13:5]** The wicked man, accordingly, is said to build up on the previously-laid foundation of reason, "wood, and hay, and stubble".
+
+**[13:6]** If, then, any one can show that these words were differently understood by the writer, and can prove that the wicked man literally builds up "wood, or hay, or stubble," it is evident that the fire must be understood to be material, and an object of sense.
+
+**[13:7]** But if, on the contrary, the works of the wicked man are spoken of figuratively under the names of "wood, or hay, or stubble," why does it not at once occur (to inquire) in what sense the word "fire" is to be taken, so that "wood" of such a kind should be consumed? for (the Scripture) says: "The fire will try each man's work of what sort it is.
+
+**[13:8]** If any man's work abide which he hath built thereupon, he shall receive a reward.
+
+**[13:9]** If any man's work be burned, he shall suffer loss".
+
+**[13:10]** But what work can be spoken of in these words as being "burned," save all that results from wickedness? Therefore our God is a "consuming fire" in the sense in which we have taken the word; and thus He enters in as a "refiner's fire," to refine the rational nature, which has been filled with the lead of wickedness, and to free it from the other impure materials, which adulterate the natural gold or silver, so to speak, of the soul.
+
+**[13:11]** And, in like manner, "rivers of fire" are said to be before God, who will thoroughly cleanse away the evil which is intermingled throughout the whole soul.
+
+**[13:12]** But these remarks are sufficient in answer to the assertion, "that thus they were made to give expression to the erroneous opinion that God will come down bearing fire like a torturer".
+
+**[14:1]** But let us look at what Celsus next with great ostentation announces in the following fashion: "And again," he says, "let us resume the subject from the beginning, with a larger array of proofs.
+
+**[14:2]** And I make no new statement, but say what has been long settled.
+
+**[14:3]** God is good, and beautiful, and blessed, and that in the best and most beautiful degree.
+
+**[14:4]** But if he come down among men, he must undergo a change, and a change from good to evil, from virtue to vice, from happiness to misery, and from best to worst.
+
+**[14:5]** Who, then, would make choice of such a change? It is the nature of a mortal, indeed, to undergo change and remoulding, but of an immortal to remain the same and unaltered.
+
+**[14:6]** God, then, could not admit of such a change".
+
+**[14:7]** Now it appears to me that the fitting answer has been returned to these objections, when I have related what is called in Scripture the "condescension" of God to human affairs; for which purpose He did not need to undergo a transformation, as Celsus thinks we assert, nor a change from good to evil, nor from virtue to vice, nor from happiness to misery, nor from best to worst.
+
+**[14:8]** For, continuing unchangeable in His essence, He condescends to human affairs by the economy of His providence.
+
+**[14:9]** We show, accordingly, that the holy Scriptures represent God as unchangeable, both by such words as "Thou art the same," and" I change not;" whereas the gods of Epicurus, being composed of atoms, and, so far as their structure is concerned, capable of dissolution, endeavour to throw off the atoms which contain the elements of destruction.
+
+**[14:10]** Nay, even the god of the Stoics, as being corporeal, at one time has his whole essence composed of the guiding principle when the conflagration (of the world) takes place; and at another, when a rearrangement of things occurs, he again becomes partly material.
+
+**[14:11]** For even the Stoics were unable distinctly to comprehend the natural idea of God, as of a being altogether incorruptible and simple, and uncompounded and indivisible.
+
+**[15:1]** And with respect to His having descended among men, He was "previously in the form of God;" and through benevolence, divested Himself (of His glory), that He might be capable of being received by men.
+
+**[15:2]** But He did not, I imagine, undergo any change from "good to evil," for "He did no sin;" nor from "virtue to vice," for "He knew no sin".
+
+**[15:3]** Nor did He pass from "happiness to misery," but He humbled Himself, and nevertheless was blessed, even when His humiliation was undergone in order to benefit our race.
+
+**[15:4]** Nor was there any change in Him from "best to worst," for how can goodness and benevolence be of "the worst?" Is it befitting to say of the physician, who looks on dreadful sights and handles unsightly objects in order to cure the sufferers, that he passes from "good to evil," or from "virtue to vice," or from "happiness to misery?" And yet the physician, in looking on dreadful sights and handling unsightly objects, does not wholly escape the possibility of being involved in the same fate.
+
+**[15:5]** But He who heals the wounds of our souls, through the word of God that is in Him, is Himself incapable of admitting any wickedness.
+
+**[15:6]** But if the immortal God—the Word—by assuming a mortal body and a human soul, appears to Celsus to undergo a change and transformation, let him learn that the Word, still remaining essentially the Word, suffers none of those things which are suffered by the body or the soul; but, condescending occasionally to (the weakness of) him who is unable to look upon the splendours and brilliancy of Deity, He becomes as it were flesh, speaking with a literal voice, until he who has received Him in such a form is able, through being elevated in some slight degree by the teaching of the Word, to gaze upon what is, so to speak, His real and pre-eminent appearance.
+
+**[16:1]** For there are different appearances, as it were, of the Word, according as He shows Himself to each one of those who come to His doctrine; and this in a manner corresponding to the condition of him who is just becoming a disciple, or of him who has made a little progress, or of him who has advanced further, or of him who has already nearly attained to virtue, or who has even already attained it.
+
+**[16:2]** And hence it is not the case, as Celsus and those like him would have it, that our God was transformed, and ascending the lofty mountain, showed that His real appearance was something different, and far more excellent than what those who remained below, and were unable to follow Him on high, beheld.
+
+**[16:3]** For those below did not possess eyes capable of seeing the transformation of the Word into His glorious and more divine condition.
+
+**[16:4]** But with difficulty were they able to receive Him as He was; so that it might be said of Him by those who were unable to behold His more excellent nature: "We saw Him, and He had no form nor comeliness; but His form was mean, and inferior to that of the sons of men".
+
+**[16:5]** And let these remarks be an answer to the suppositions of Celsus, who does not understand the changes or transformations of Jesus, as related in the histories, nor His mortal and immortal nature.
+
+**[17:1]** But will not those narratives, especially when they are understood in their proper sense, appear far more worthy of respect than the story that Dionysus was deceived by the Titans, and expelled from the throne of Jupiter, and torn in pieces by them, and his remains being afterwards put together again, he returned as it were once more to life, and ascended to heaven? Or are the Greeks at liberty to refer such stories to the doctrine of the soul, and to interpret them figuratively, while the door of a consistent explanation, and one everywhere in accord and harmony with the writings of the Divine Spirit, who had His abode in pure souls, is closed against us? Celsus, then, is altogether ignorant of the purpose of our writings, and it is therefore upon his own acceptation of them that he casts discredit, and not upon their real meaning; whereas, if he had reflected on what is appropriate to a soul which is to enjoy an everlasting life, and on the opinion which we are to form of its essence and principles, he would not so have ridiculed the entrance of the immortal into a mortal body, which took place not according to the metempsychosis of Plato, but agreeably to another and higher view of things.
+
+**[17:2]** And he would have observed one "descent," distinguished by its great benevolence, undertaken to convert (as the Scripture mystically terms them) the "lost sheep of the house of Israel," which had strayed down from the mountains, and to which the Shepherd is said in certain parables to have gone down, leaving on the mountains those "which had not strayed".
+
+**[18:1]** But Celsus, lingering over matters which he does not understand, leads us to be guilty of tautology, as we do not wish even in appearance to leave any one of his objections unexamined.
+
+**[18:2]** He proceeds, accordingly, as follows: "God either really changes himself, as these assert, into a mortal body, and the impossibility of that has been already declared; or else he does not undergo a change, but only causes the beholders to imagine so, and thus deceives them, and is guilty of falsehood.
+
+**[18:3]** Now deceit and falsehood are nothing but evils, and would only be employed as a medicine, either in the case of sick and lunatic friends, with a view to their cure, or in that of enemies when one is taking measures to escape danger.
+
+**[18:4]** But no sick man or lunatic is a friend of God, nor does God fear any one to such a degree as to shun danger by leading him into error".
+
+**[18:5]** Now the answer to these statements might have respect partly to the nature of the Divine Word, who is God, and partly to the soul of Jesus.
+
+**[18:6]** As respects the nature of the Word, in the same way as the quality of the food changes in the nurse into milk with reference to the nature of the child, or is arranged by the physician with a view to the good of his health in the case of a sick man or (is specially) prepared for a stronger man, because he possesses greater vigour, so does God appropriately change, in the case of each individual, the power of the Word to which belongs the natural property of nourishing the human soul.
+
+**[18:7]** And to one is given, as the Scripture terms it, "the sincere milk of the word;" and to another, who is weaker, as it were, "herbs;" and to another who is full-grown, "strong meat".
+
+**[18:8]** And the Word does not, I imagine, prove false to His own nature, in contributing nourishment to each one, according as he is capable of receiving Him.
+
+**[18:9]** Nor does He mislead or prove false.
+
+**[18:10]** But if one were to take the change as referring to the soul of Jesus after it had entered the body, we would inquire in what sense the term "change" is used.
+
+**[18:11]** For if it be meant to apply to its essence, such a supposition is inadmissible, not only in relation to the soul of Jesus, but also to the rational soul of any other being.
+
+**[18:12]** And if it be alleged that it suffers anything from the body when united with it, or from the place to which it has come, then what inconvenience can happen to the Word who, in great benevolence, brought down a Saviour to the human race?—seeing none of those who formerly professed to effect a cure could accomplish so much as that soul showed it could do, by what it performed, even by voluntarily descending to the level of human destinies for the benefit of our race.
+
+**[18:13]** And the Divine Word, well knowing this, speaks to that effect in many passages of Scripture, although it is sufficient at present to quote one testimony of Paul to the following effect: "Let this mind be in you which was also in Christ Jesus; who, being in the form of God, thought it not robbery to be equal with God, but made Himself of no reputation, and took upon Him the form of a servant, and was made in the likeness of men; and being found in fashion as a man, He humbled Himself, and became obedient unto death, even the death of the cross.
+
+**[18:14]** Wherefore God also hath highly exalted Him, and given Him a name which is above every name".
+
+**[19:1]** Others, then, may concede to Celsus that God does not undergo a change, but leads the spectators to imagine that He does; whereas we who are persuaded that the advent of Jesus among men was no mere appearance, but a real manifestation, are not affected by this charge of Celsus.
+
+**[19:2]** We nevertheless will attempt a reply, because you assert, Celsus, do you not, that it is sometimes allowable to employ deceit and falsehood by way, as it were, of medicine? Where, then, is the absurdity, if such a saving result were to be accomplished, that some such events should have taken place? For certain words, when savouring of falsehood, produce upon such characters a corrective effect (like the similar declarations of physicians to their patients), rather than when spoken in the spirit of truth.
+
+**[19:3]** This, however, must be our defence against other opponents.
+
+**[19:4]** For there is no absurdity in Him who healed sick friends, healing the dear human race by means of such remedies as He would not employ preferentially, but only according to circumstances.
+
+**[19:5]** The human race, moreover, when in a state of mental alienation, had to be cured by methods which the Word saw would aid in bringing back those so afflicted to a sound state of mind.
+
+**[19:6]** But Celsus says also, that "one acts thus towards enemies when taking measures to escape danger.
+
+**[19:7]** But God does not fear any one, so as to escape danger by leading into error those who conspire against him".
+
+**[19:8]** Now it is altogether unnecessary and absurd to answer a charge which is advanced by no one against our Saviour.
+
+**[19:9]** And we have already replied, when answering other charges, to the statement that "no one who is either in a state of sickness or mental alienation is a friend of God".
+
+**[19:10]** For the answer is, that such arrangements have been made, not for the sake of those who, being already friends, afterwards fell sick or became afflicted with mental disease, but in order that those who were still enemies through sickness of the soul, and alienation of the natural reason, might become the friends of God.
+
+**[19:11]** For it is distinctly stated that Jesus endured all things on behalf of sinners, that He might free them from sin, and convert them to righteousness.
+
+**[20:1]** In the next place, as he represents the Jews accounting in a way peculiar to themselves for their belief that the advent of Christ among them is still in the future, and the Christians as maintaining in their way that the coming of the Son of God into the life of men has already taken place, let us, as far as we can, briefly consider these points.
+
+**[20:2]** According to Celsus, the Jews say that "(human) life, being filled with all wickedness, needed one sent from God, that the wicked might be punished, and all things purified in a manner analogous to the first deluge which happened".
+
+**[20:3]** And as the Christians are said to make statements additional to this, it is evident that he alleges that they admit these.
+
+**[20:4]** Now, where is the absurdity in the coming of one who is, on account of the prevailing flood of wickedness, to purify the world, and to treat every one according to his deserts? For it is not in keeping with the character of God that the diffusion of wickedness should not cease, and all things be renewed.
+
+**[20:5]** The Greeks, moreover, know of the earth's being purified at certain times by a deluge or a fire, as Plato, too, says somewhere to this effect: "And when the gods overwhelm the earth, purifying it with water, some of them on the mountains," etc.
+
+**[20:6]** , etc.
+
+**[20:7]** Must it be said, then, that if the Greeks make such assertions, they are to be deemed worthy of respect and consideration, but that if we too maintain certain of these views, which are quoted with approval by the Greeks, they cease to be honourable? And yet they who care to attend to the connection and truth of all our records, will endeavour to establish not only the antiquity of the writers, but the venerable nature of their writings, and the consistency of their several parts.
+
+**[21:1]** But I do not understand how he can imagine the overturning of the tower (of Babel) to have happened with a similar object to that of the deluge, which effected a purification of the earth, according to the accounts both of Jews and Christians.
+
+**[21:2]** For, in order that the narrative contained in Genesis respecting the tower may be held to convey no secret meaning, but, as Celsus supposes, may be taken as true to the letter, the event does not on such a view appear to have taken place for the purpose of purifying the earth; unless, indeed, he imagines that the so-called confusion of tongues is such a purificatory process.
+
+**[21:3]** But on this point, he who has the opportunity will treat more seasonably when his object is to show not only what is the meaning of the narrative in its historical connection, but what metaphorical meaning may be deduced from it.
+
+**[21:4]** Seeing that he imagines, however, that Moses, who wrote the account of the tower, and the confusion of tongues, has perverted the story of the sons of Aloeus, and referred it to the tower, we must remark that I do not think any one prior to the time of Homer has mentioned the sons of Aloeus, while I am persuaded that what is related about the tower has been recorded by Moses as being much older not only than Homer, but even than the invention of letters among the Greeks.
+
+**[21:5]** Who, then, are the perverters of each other's narratives? Whether do they who relate the story of the Aloadae pervert the history of the time, or he who wrote the account of the tower and the confusion of tongues the story of the Aloadae? Now to impartial hearers Moses appears to be more ancient than Homer.
+
+**[21:6]** The destruction by fire, moreover, of Sodom and Gomorrah on account of their sins, related by Moses in Genesis, is compared by Celsus to the story of Phaethon,—all these statements of his resulting from one blunder, viz.
+
+**[21:7]** , his not attending to the (greater) antiquity of Moses.
+
+**[21:8]** For they who relate the story of Phaethon seem to be younger even than Homer, who, again, is much younger than Moses.
+
+**[21:9]** We do not deny, then, that the purificatory fire and the destruction of the world took place in order that evil might be swept away, and all things be renewed; for we assert that we have learned these things from the sacred books of the prophets.
+
+**[21:10]** But since, as we have said in the preceding pages, the prophets, in uttering many predictions regarding future events, show that they have spoken the truth concerning many things that are past, and thus give evidence of the indwelling of the Divine Spirit, it is manifest that, with respect to things still future, we should repose faith in them, or rather in the Divine Spirit that is in them.
+
+**[22:1]** But, according to Celsus, "the Christians, making certain additional statements to those of the Jews, assert that the Son of God has been already sent on account of the sins of the Jews; and that the Jews having chastised Jesus, and given him gall to drink, have brought upon themselves the divine wrath".
+
+**[22:2]** And any one who likes may convict this statement of falsehood, if it be not the case that the whole Jewish nation was overthrown within one single generation after Jesus had undergone these sufferings at their hands.
+
+**[22:3]** For forty and two years, I think, after the date of the crucifixion of Jesus, did the destruction of Jerusalem take place.
+
+**[22:4]** Now it has never been recorded, since the Jewish nation began to exist, that they have been expelled for so long a period from their venerable temple-worship and service, and enslaved by more powerful nations; for if at any time they appeared to be abandoned because of their sins, they were notwithstanding visited (by God), and returned to their own country, and recovered their possessions, and performed unhindered the observances of their law.
+
+**[22:5]** One fact, then, which proves that Jesus was something divine and sacred, is this, that Jews should have suffered on His account now for a lengthened time calamities of such severity.
+
+**[22:6]** And we say with confidence that they will never be restored to their former condition.
+
+**[22:7]** For they committed a crime of the most unhallowed kind, in conspiring against the Saviour of the human race in that city where they offered up to God a worship containing the symbols of mighty mysteries.
+
+**[22:8]** It accordingly behoved that city where Jesus underwent these sufferings to perish utterly, and the Jewish nation to be overthrown, and the invitation to happiness offered them by God to pass to others,—the Christians, I mean, to whom has come the doctrine of a pure and holy worship, and who have obtained new laws, in harmony with the established constitution in all countries; seeing those which were formerly imposed, as on a single nation which was ruled by princes of its own race and of similar manners, could not now be observed in all their entireness.
+
+**[23:1]** In the next place, ridiculing after his usual style the race of Jews and Christians, he compares them all "to a flight of bats or to a swarm of ants issuing out of their nest, or to frogs holding council in a marsh, or to worms crawling together in the corner of a dunghill, and quarrelling with one another as to which of them were the greater sinners, and asserting that God shows and announces to us all things beforehand; and that, abandoning the whole world, and the regions of heaven, and this great earth, he becomes a citizen among us alone, and to us alone makes his intimations, and does not cease sending and inquiring, in what way we may be associated with him for ever".
+
+**[23:2]** And in his fictitious representation, he compares us to "worms which assert that there is a God, and that immediately after him, we who are made by him are altogether like unto God, and that all things have been made subject to us,—earth, and water, and air, and stars,—and that all things exist for our sake, and are ordained to be subject to us".
+
+**[23:3]** And, according to his representation, the worms—that is, we ourselves—say that "now, since certain amongst us commit sin, God will come or will send his Son to consume the wicked with fire, that the rest of us may have eternal life with him".
+
+**[23:4]** And to all this he subjoins the remark, that "such wranglings would be more endurable amongst worms and frogs than betwixt Jews and Christians".
+
+**[24:1]** In reply to these, we ask of those who accept such aspersions as are scattered against us, Do you regard all men as a collection of bats, or as frogs, or as worms, in consequence of the pre-eminence of God or do you not include the rest of mankind in this proposed comparison, but on account of their possession of reason, and of the established laws, treat them as men, while you hold cheap Christians and Jews, because their opinions are distasteful to you, and compare them to the animals above mentioned? And whatever answer you may return to our question, we shall reply by endeavouring to show that such assertions are most unbecoming, whether spoken of all men in general, or of us in particular.
+
+**[24:2]** For, let it be supposed that you say justly that all men, as compared with God, are (rightly) likened to these worthless animals, since their littleness is not at all to be compared with the superiority of God, what then do you mean by littleness? Answer me, good sirs.
+
+**[24:3]** If you refer to littleness of body, know that superiority and inferiority, if truth is to be judge, are not determined by a bodily standard.
+
+**[24:4]** For, on such a view, vultures and elephants would be superior to us men; for they are larger, and stronger, and longer-lived than we.
+
+**[24:5]** But no sensible person would maintain that these irrational creatures are superior to rational beings, merely on account of their bodies: for the possession of reason raises a rational being to a vast superiority over all irrational creatures.
+
+**[24:6]** Even the race of virtuous and blessed beings would admit this, whether they are, as ye say, good demons, or, as we are accustomed to call them, the angels of God, or any other natures whatever superior to that of man, since the rational faculty within them has been made perfect, and endowed with all virtuous qualities.
+
+**[25:1]** But if you depreciate the littleness of man, not on account of his body, but of his soul, regarding it as inferior to that of other rational beings, and especially of those who are virtuous; and inferior, because evil dwells in it,—why should those among Christians who are wicked, and those among the Jews who lead sinful lives, be termed a collection of bats, or ants, or worms, or frogs, rather than those individuals among other nations who are guilty of wickedness?—seeing, in this respect, any individual whatever, especially if carried away by the tide of evil, is, in comparison with the rest of mankind, a bat, and worm, and frog, and ant.
+
+**[25:2]** And although a man may be an orator like Demosthenes, yet, if stained with wickedness like his, and guilty of deeds proceeding, like his, from a wicked nature; or an Antiphon, who was also considered to be indeed an orator, yet who annihilated the doctrine of providence in his writings, which were entitled Concerning Truth, like that discourse of Celsus,—such individuals are notwithstanding worms, rolling in a corner of the dung-heap of stupidity and ignorance.
+
+**[25:3]** Indeed, whatever be the nature of the rational faculty, it could not reasonably be compared to a worm, because it possesses capabilities of virtue.
+
+**[25:4]** For these adumbrations towards virtue do not allow of those who possess the power of acquiring it, and who are incapable of wholly losing its seeds, to be likened to a worm.
+
+**[25:5]** It appears, therefore, that neither can men in general be deemed worms in comparison with God.
+
+**[25:6]** For reason, having its beginning in the reason of God, cannot allow of the rational animal being considered wholly alien from Deity.
+
+**[25:7]** Nor can those among Christians and Jews who are wicked, and who, in truth, are neither Christians nor Jews, be compared, more than other wicked men, to worms rolling in a corner of a dunghill.
+
+**[25:8]** And if the nature of reason will not permit of such comparisons, it is manifest that we must not calumniate human nature, which has been formed for virtue, even if it should sin through ignorance, nor liken it to animals of the kind described.
+
+**[26:1]** But if it is on account of those opinions of the Christians and Jews which displease Celsus (and which he does not at all appear to understand) that they are to be regarded as worms and ants, and the rest of mankind as different, let us examine the acknowledged opinions of Christians and Jews, and compare them with those of the rest of mankind, and see whether it will not appear to those who have once admitted that certain men are worms and ants, that they are the worms and ants and frogs who have fallen away from sound views of God, and, under a vain appearance of piety, worship either irrational animals, or images, or other objects, the works of men's hands; whereas, from the beauty of such, they ought to admire the Maker of them, and worship Him: while those are indeed men, and more honourable than men (if there be anything that is so), who, in obedience to their reason, are able to ascend from stocks and stones, nay, even from what is reckoned the most precious of all matter—silver and gold; and who ascend up also from the beautiful things in the world to the Maker of all, and entrust themselves to Him who alone is able to satisfy all existing things, and to overlook the thoughts of all, and to hear the prayers of all; who send up their prayers to Him, and do all things as in the presence of Him who beholds everything, and who are careful, as in the presence of the Hearer of all things, to say nothing which might not with propriety be reported to God.
+
+**[26:2]** Will not such piety as this—which can be overcome neither by labours, nor by the dangers of death, nor by logical plausibilities—be of no avail in preventing those who have obtained it from being any longer compared to worms, even if they had been so represented before their assumption of a piety so remarkable? Will they who subdue that fierce longing for sexual pleasures which has reduced the souls of many to a weak and feeble condition, and who subdue it because they are persuaded that they cannot otherwise have communion with God, unless they ascend to Him through the exercise of temperance, appear to you to be the brothers of worms, and relatives of ants, and to bear a likeness to frogs? What! is the brilliant quality of justice, which keeps inviolate the rights common to our neighbour, and our kindred, and which observes fairness, and benevolence, and goodness, of no avail in saving him who practises it from being termed a bird of the night? And are not they who wallow in dissoluteness, as do the majority of mankind, and they who associate promiscuously with common harlots, and who teach that such practices are not wholly contrary to propriety, worms who roll in mire?—especially when they are compared with those who have been taught not to take the "members of Christ," and the body inhabited by the Word, and make them the "members of a harlot;" and who have already learned that the body of the rational being, as consecrated to the God of all things, is the temple of the God whom they worship, becoming such from the pure conceptions which they entertain of the Creator, and who also, being careful not to corrupt the temple of God by unlawful pleasure; practise temperance as constituting piety towards God!.
+
+**[27:1]** And I have not yet spoken of the other evils which prevail amongst men, from which even those who have the appearance of philosophers are not speedily freed, for in philosophy there are many pretenders.
+
+**[27:2]** Nor do I say anything on the point that many such evils are found to exist among those who are neither Jews nor Christians.
+
+**[27:3]** Of a truth, such evil practices do not at all prevail among Christians, if you properly examine what constitutes a Christian.
+
+**[27:4]** Or, if any persons of that kind should be discovered, they are at least not to be found among those who frequent the assemblies, and come to the public prayers, without their being excluded from them, unless it should happen, and that rarely, that some one individual of such a character escapes notice in the crowd.
+
+**[27:5]** We, then, are not worms who assemble together; who take our stand against the Jews on those Scriptures which they believe to be divine, and who show that He who was spoken of in prophecy has come, and that they have been abandoned on account of the greatness of their sins, and that we who have accepted the Word have the highest hopes in God, both because of our faith in Him, and of His ability to receive us into His communion pure from all evil and wickedness of life.
+
+**[27:6]** If a man, then, should call himself a Jew or a Christian, he would not say without qualification that God had made the whole world, and the vault of heaven for us in particular.
+
+**[27:7]** But if a man is, as Jesus taught, pure in heart, and meek, and peaceful, and cheerfully submits to dangers for the sake of his religion, such an one might reasonably have confidence in God, and with a full apprehension of the word contained in the prophecies, might say this also: "All these things has God shown beforehand, and announced to us who believe".
+
+**[28:1]** But since he has represented those whom he regards as worms, viz.
+
+**[28:2]** , the Christians, as saying that "God, having abandoned the heavenly regions, and despising this great earth, takes up His abode amongst us alone, and to us alone makes His announcements, and ceases not His messages and inquiries as to how we may become His associates for ever," we have to answer that he attributes to us words which we never uttered, seeing we both read and know that God loves all existing things, and loathes nothing which He has made, for He would not have created anything in hatred.
+
+**[28:3]** We have, moreover, read the declaration: "And Thou sparest all things, because they are Thine, O lover of souls.
+
+**[28:4]** For Thine incorruptible Spirit is in all.
+
+**[28:5]** And therefore those also who have fallen away for a little time Thou rebukest, and admonishest, reminding them of their sins".
+
+**[28:6]** How can we assert that "God, leaving the regions of heaven, and the whole world, and despising this great earth, takes up His abode amongst us only," when we have found that all thoughtful persons must say in their prayers, that "the earth is full of the mercy of the Lord," and that "the mercy of the Lord is upon all flesh;" and that God, being good, "maketh His sun to arise upon the evil and the good, and sendeth His rain upon the just and the unjust;" and that He encourages us to a similar course of action, in order that we may become His sons, and teaches us to extend the benefits which we enjoy, so far as in our power, to all men? For He Himself is said to be the Saviour of all men, especially of them that believe; and His Christ to be the "propitiation for our sins, and not for ours only, but also for the sins of the whole world".
+
+**[28:7]** And this, then, is our answer to the allegations of Celsus.
+
+**[28:8]** Certain other statements, in keeping with the character of the Jews, might be made by some of that nation, but certainly not by the Christians, who have been taught that "God commendeth His love towards us, in that, while we were yet sinners, Christ died for us;" and although "scarcely for a righteous man will one die, yet peradventure for a good man some would even dare to die".
+
+**[28:9]** But now is Jesus declared to have come for the sake of sinners in all parts of the world (that they may forsake their sin, and entrust themselves to God), being called also, agreeably to an ancient custom of these Scriptures, the "Christ of God".
+
+**[29:1]** But Celsus perhaps has misunderstood certain of those whom he has termed "worms," when they affirm that "God exists, and that we are next to Him".
+
+**[29:2]** And he acts like those who would find fault with an entire sect of philosophers, on account of certain words uttered by some rash youth who, after a three days' attendance upon the lectures of a philosopher, should exalt himself above other people as inferior to himself, and devoid of philosophy.
+
+**[29:3]** For we know that there are many creatures more honourable than man; and we have read that "God standeth in the congregation of gods," but of gods who are not worshipped by the nations, "for all the gods of the nations are idols".
+
+**[29:4]** We have read also, that "God, standing in the congregation of the gods, judgeth among the gods".
+
+**[29:5]** We know, moreover, that "though there be that are called gods, whether in heaven or in earth (as there be gods many and lords many), but to us there is one God, the Father, of whom are all things, and we in Him; and one Lord Jesus Christ, by whom are all things, and we by Him".
+
+**[29:6]** And we know that in this way the angels are superior to men; so that men, when made perfect, become like the angels.
+
+**[29:7]** "For in the resurrection they neither marry nor are given in marriage, but the righteous are as the angels in heaven," and also become "equal to the angels".
+
+**[29:8]** We know, too, that in the arrangement of the universe there are certain beings termed "thrones," and others "dominions," and others "powers," and others "principalities;" and we see that we men, who are far inferior to these, may entertain the hope that by a virtuous life, and by acting in all things agreeably to reason, we may rise to a likeness with all these.
+
+**[29:9]** And, lastly, because "it doth not yet appear what we shall be; but we know that when He shall appear, we shall be like God, and shall see Him as He is".
+
+**[29:10]** And if any one were to maintain what is asserted by some (either by those who possess intelligence or who do not, but have misconceived sound reason), that "God exists, and we are next to Him," I would interpret the word "we," by using in its stead, "We who act according to reason," or rather, "We virtuous, who act according to reason".
+
+**[29:11]** For, in our opinion, the same virtue belongs to all the blessed, so that the virtue of man and of God is identical.
+
+**[29:12]** And therefore we are taught to become "perfect," as our Father in heaven is perfect.
+
+**[29:13]** No good and virtuous man, then, is a "worm rolling in filth," nor is a pious man an "ant," nor a righteous man a "frog;" nor could one whose soul is enlightened with the bright light of truth be reasonably likened to a "bird of the night".
+
+**[30:1]** It appears to me that Celsus has also misunderstood this statement, "Let Us make man in Our image and likeness;" and has therefore represented the "worms" as saying that, being created by God, we altogether resemble Him.
+
+**[30:2]** If, however, he had known the difference between man being created "in the image of God" and "after His likeness," and that God is recorded to have said, "Let Us make man after Our image and likeness," but that He made man "after the image" of God, but not then also "after His likeness," he would not have represented us as saying that "we are altogether like Him".
+
+**[30:3]** Moreover, we do not assert that the stars are subject to us; since the resurrection which is called the "resurrection of the just," and which is understood by wise men, is compared to the sun, and moon, and stars, by him who said, "There is one glory of the sun, and another glory of the moon, and another glory of the stars; for one star differeth from another star in glory.
+
+**[30:4]** So also is the resurrection of the dead".
+
+**[30:5]** Daniel also prophesied long ago regarding these things.
+
+**[30:6]** Celsus says further, that we assert that "all things have been arranged so as to be subject to us," having perhaps heard some of the intelligent among us speaking to that effect, and perhaps also not understanding the saying, that "he who is the greatest amongst us is the servant of all".
+
+**[30:7]** And if the Greeks say, "Then sun and moon are the slaves of mortal men," they express approval of the statement, and give an explanation of its meaning; but since such a statement is either not made at all by us, or is expressed in a different way, Celsus here too falsely accuses us.
+
+**[30:8]** Moreover, we who, according to Celsus, are "worms," are represented by him as saying that, "seeing some among us are guilty of sin, God will come to us, or will send His own Son, that He may consume the wicked, and that we other frogs may enjoy eternal life with Him".
+
+**[30:9]** Observe how this venerable philosopher, like a low buffoon, turns into ridicule and mockery, and a subject of laughter, the announcement of a divine judgment, and of the punishment of the wicked, and of the reward of the righteous; and subjoins to all this the remark, that "such statements would be more endurable if made by worms and frogs than by Christians and Jews who quarrel with one another!" We shall not, however, imitate his example, nor say similar things regarding those philosophers who profess to know the nature of all things, and who discuss with each other the manner in which all things were created, and how the heaven and earth originated, and all things in them; and how the souls (of men), being either unbegotten, and not created by God, are yet governed by Him, and pass from one body to another; or being formed at the same time with the body, exist for ever or pass away.
+
+**[30:10]** For instead of treating with respect and accepting the intention of those who have devoted themselves to the investigation of the truth, one might mockingly and revilingly say that such men were "worms," who did not measure themselves by their corner of their dung-heap in human life, and who accordingly gave forth their opinions on matters of such importance as if they understood them, and who strenuously assert that they have obtained a view of those things which cannot be seen without a higher inspiration and a diviner power.
+
+**[30:11]** "For no man knoweth the things of a man, save the spirit of man which is in him: even so the things of God knoweth no man, but the Spirit of God".
+
+**[30:12]** We are not, however, mad, nor do we compare such human wisdom (I use the word "wisdom" in the common acceptation), which busies itself not about the affairs of the multitude, but in the investigation of truth, to the wrigglings of worms or any other such creatures; but in the spirit of truth, we testify of certain Greek philosophers that they knew God, seeing "He manifested Himself to them," although "they glorified Him not as God, neither were thankful, but became vain in their imaginations; and professing themselves to be wise, they became foolish, and changed the glory of the incorruptible God into an image made like to corruptible man, and to birds, and four-footed beasts, and creeping things".
+
+**[31:1]** After this, wishing to prove that there is no difference between Jews and Christians, and those animals previously enumerated by him, he asserts that the Jews were "fugitives from Egypt, who never performed anything worthy of note, and never were held in any reputation or account".
+
+**[31:2]** Now, on the point of their not being fugitives, nor Egyptians, but Hebrews who settled in Egypt, we have spoken in the preceding pages.
+
+**[31:3]** But if he thinks his statement, that "they were never held in any reputation or account," to be proved, because no remarkable event in their history is found recorded by the Greeks, we would answer, that if one will examine their polity from its first beginning, and the arrangement of their laws, he will find that they were men who represented upon earth the shadow of a heavenly life, and that amongst them God is recognised as nothing else, save He who is over all things, and that amongst them no maker of images was permitted to enjoy the rights of citizenship.
+
+**[31:4]** For neither painter nor image-maker existed in their state, the law expelling all such from it; that there might be no pretext for the construction of images,—an art which attracts the attention of foolish men, and which drags down the eyes of the soul from God to earth.
+
+**[31:5]** There was, accordingly, amongst them a law to the following effect: "Do not transgress the law, and make to yourselves a graven image, any likeness of male or female; either a likeness of any one of the creatures that are upon the earth, or a likeness of any winged fowl that flieth under the heaven, or a likeness of any creeping thing that creepeth upon the earth, or a likeness of any of the fishes which are in the waters under the earth".
+
+**[31:6]** The law, indeed, wished them to have regard to the truth of each individual thing, and not to form representations of things contrary to reality, feigning the appearance merely of what was really male or really female, or the nature of animals, or of birds, or of creeping things, or of fishes.
+
+**[31:7]** Venerable, too, and grand was this prohibition of theirs: "Lift not up thine eyes unto heaven, lest, when thou seest the sun, and the moon, and the stars, and all the host of heaven, thou shouldst be led astray to worship them, and serve them".
+
+**[31:8]** And what a régime was that under which the whole nation was placed, and which rendered it impossible for any effeminate person to appear in public; and worthy of admiration, too, was the arrangement by which harlots were removed out of the state, those incentives to the passions of the youth! Their courts of justice also were composed of men of the strictest integrity, who, after having for a lengthened period set the example of an unstained life, were entrusted with the duty of presiding over the tribunals, and who, on account of the superhuman purity of their character, were said to be gods, in conformity with an ancient Jewish usage of speech.
+
+**[31:9]** Here was the spectacle of a whole nation devoted to philosophy; and in order that there might be leisure to listen to their sacred laws, the days termed "Sabbath," and the other festivals which existed among them, were instituted.
+
+**[31:10]** And why need I speak of the orders of their priests and sacrifices, which contain innumerable indications (of deeper truths) to those who wish to ascertain the signification of things?.
+
+**[32:1]** But since nothing belonging to human nature is permanent, this polity also must gradually be corrupted and changed.
+
+**[32:2]** And Providence, having remodelled their venerable system where it needed to be changed, so as to adapt it to men of all countries, gave to believers of all nations, in place of the Jews, the venerable religion of Jesus, who, being adorned not only with understanding, but also with a share of divinity, and having overthrown the doctrine regarding earthly demons, who delight in frankincense, and blood, and in the exhalations of sacrificial odours, and who, like the fabled Titans or Giants, drag down men from thoughts of God; and having Himself disregarded their plots, directed chiefly against the better class of men, enacted laws which ensure happiness to those who live according to them, and who do not flatter the demons by means of sacrifices, but altogether despise them, through help of the word of God, which aids those who look upwards to Him.
+
+**[32:3]** And as it was the will of God that the doctrine of Jesus should prevail amongst men, the demons could effect nothing, although straining every nerve to accomplish the destruction of Christians; for they stirred up both princes, and senates, and rulers in every place,—nay, even nations themselves, who did not perceive the irrational and wicked procedure of the demons,—against the word, and those who believed in it; yet, notwithstanding, the word of God, which is more powerful than all other things, even when meeting with opposition, deriving from the opposition, as it were, a means of increase, advanced onwards, and won many souls, such being the will of God.
+
+**[32:4]** And we have offered these remarks by way of a necessary digression.
+
+**[32:5]** For we wished to answer the assertion of Celsus concerning the Jews, that they were "fugitives from Egypt, and that these men, beloved by God, never accomplished anything worthy of note".
+
+**[32:6]** And further, in answer to the statement that "they were never held in any reputation or account," we say, that living apart as a "chosen nation and a royal priesthood," and shunning intercourse with the many nations around them, in order that their morals might escape corruption, they enjoyed the protection of the divine power, neither coveting like the most of mankind the acquisition of other kingdoms, nor yet being abandoned so as to become, on account of their smallness, an easy object of attack to others, and thus be altogether destroyed; and this lasted so long as they were worthy of the divine protection.
+
+**[32:7]** But when it became necessary for them, as a nation wholly given to sin, to be brought back by their sufferings to their God, they were abandoned (by Him), sometimes for a longer, sometimes for a shorter period, until in the time of the Romans, having committed the greatest of sins in putting Jesus to death, they were completely deserted.
+
+**[33:1]** Immediately after this, Celsus, assailing the contents of the first book of Moses, which is entitled "Genesis," asserts that "the Jews accordingly endeavoured to derive their origin from the first race of jugglers and deceivers, appealing to the testimony of dark and ambiguous words, whose meaning was veiled in obscurity, and which they misinterpreted to the unlearned and ignorant, and that, too, when such a point had never been called in question during the long preceding period".
+
+**[33:2]** Now Celsus appears to me in these words to have expressed very obscurely the meaning which he intended to convey.
+
+**[33:3]** It is probable, indeed, that his obscurity on this subject is intentional, inasmuch as he saw the strength of the argument which establishes the descent of the Jews from their ancestors; while again, on the other hand, he wished not to appear ignorant that the question regarding the Jews and their descent was one that could not be lightly disposed of.
+
+**[33:4]** It is certain, however, that the Jews trace their genealogy back to the three fathers, Abraham, Isaac, and Jacob.
+
+**[33:5]** And the names of these individuals possess such efficacy, when united with the name of God, that not only do those belonging to the nation employ in their prayers to God, and in the exorcising of demons, the words, "God of Abraham, and God of Isaac, and God of Jacob," but so also do almost all those who occupy themselves with incantations and magical rites.
+
+**[33:6]** For there is found in treatises on magic in many countries such an invocation of God, and assumption of the divine name, as implies a familiar use of it by these men in their dealings with demons.
+
+**[33:7]** These facts, then—adduced by Jews and Christians to prove the sacred character of Abraham, and Isaac, and Jacob, the fathers of the Jewish race—appear to me not to have been altogether unknown to Celsus, but not to have been distinctly set forth by him, because he was unable to answer the argument which might be founded on them.
+
+**[34:1]** For we inquire of all those who employ such invocations of God, saying: Tell us, friends, who was Abraham, and what sort of person was Isaac, and what power did Jacob possess, that the appellation "God," when joined with their name, could effect such wonders? And from whom have you learned, or can you learn, the facts relating to these individuals? And who has occupied himself with writing a history about them, either directly magnifying these men by ascribing to them mysterious powers, or hinting obscurely at their possession of certain great and marvellous qualities, patent to those who are qualified to see them? And when, in answer to our inquiry, no one can show from what history—whether Greek or Barbarian—or, if not a history, yet at least from what mystical narrative, the accounts of these men are derived, we shall bring forward the book entitled "Genesis," which contains the acts of these men, and the divine oracles addressed to them, and will say, Does not the use by you of the names of these three ancestors of the race, establishing in the clearest manner that effects not to be lightly regarded are produced by the invocation of them, evidence the divinity of the men? And yet we know them from no other source than the sacred books of the Jews! Moreover, the phrases, "the God of Israel," and "the God of the Hebrews," and "the God who drowned in the Red Sea the king of Egypt and the Egyptians," are formulae frequently employed against demons and certain wicked powers.
+
+**[34:2]** And we learn the history of the names and their interpretation from those Hebrews, who in their national literature and national tongue dwell with pride upon these things, and explain their meaning.
+
+**[34:3]** How, then, should the Jews attempt to derive their origin from the first race of those whom Celsus supposed to be jugglers and deceivers, and shamelessly endeavour to trace themselves and their beginning back to these?—whose names, being Hebrew, are an evidence to the Hebrews, who have their sacred books written in the Hebrew language and letters, that their nation is akin to these men.
+
+**[34:4]** For up to the present time, the Jewish names belonging to the Hebrew language were either taken from their writings, or generally from words the meaning of which was made known by the Hebrew language.
+
+**[35:1]** And let any one who peruses the treatise of Celsus observe whether it does not convey some such insinuation as the above, when he says: "And they attempted to derive their origin from the first race of jugglers and deceivers, appealing to the testimony of dark and ambiguous words, whose meaning was veiled in obscurity".
+
+**[35:2]** For these names are indeed obscure, and not within the comprehension and knowledge of many, though not in our opinion of doubtful meaning, even although assumed by those who are aliens to our religion; but as, according to Celsus, they do not convey any ambiguity, I am at a loss to know why he has rejected them.
+
+**[35:3]** And yet, if he had wished honestly to overturn the genealogy which he deemed the Jews to have so shamelessly arrogated, in boasting of Abraham and his descendants (as their progenitors), he ought to have quoted all the passages bearing on the subject; and, in the first place, to have advocated his cause with such arguments as he thought likely to be convincing, and in the next to have bravely refuted, by means of what appeared to him to be the true meaning, and by arguments in its favour, the errors existing on the subject.
+
+**[35:4]** But neither Celsus nor any one else will be able, by their discussions regarding the nature of names employed for miraculous purposes, to lay down the correct doctrine regarding them, and to demonstrate that those men were to be lightly esteemed whose names merely, not among their countrymen alone, but also amongst foreigners, could accomplish (such results).
+
+**[35:5]** He ought to have shown, moreover, how we, in misinterpreting the passages in which these names are found, deceive our hearers, as he imagines, while he himself, who boasts that he is not ignorant or unintelligent, gives the true interpretation of them.
+
+**[35:6]** And he hazarded the assertion, in speaking of those names, from which the Jews deduce their genealogies, that "never, during the long antecedent period, has there been any dispute about these names, but that at the present time the Jews dispute about them with certain others," whom he does not mention.
+
+**[35:7]** Now, let him who chooses show who these are that dispute with the Jews, and who adduce even probable arguments to show that Jews and Christians do not decide correctly on the points relating to these names, but that there are others who have discussed these questions with the greatest learning and accuracy.
+
+**[35:8]** But we are well assured that none can establish anything of the sort, it being manifest that these names are derived from the Hebrew language, which is found only among the Jews.
+
+**[36:1]** Celsus in the next place, producing from history other than that of the divine record, those passages which bear upon the claims to great antiquity put forth by many nations, as the Athenians, and Egyptians, and Arcadians, and Phrygians, who assert that certain individuals have existed among them who sprang from the earth, and who each adduce proofs of these assertions, says: "The Jews, then, leading a grovelling life in some corner of Palestine, and being a wholly uneducated people, who had not heard that these matters had been committed to verse long ago by Hesiod and innumerable other inspired men, wove together some most incredible and insipid stories, viz.
+
+**[36:2]** , that a certain man was formed by the hands of God, and had breathed into him the breath of life, and that a woman was taken from his side, and that God issued certain commands, and that a serpent opposed these, and gained a victory over the commandments of God; thus relating certain old wives' fables, and most impiously representing God as weak at the very beginning (of things), and unable to convince even a single human being whom He Himself had formed".
+
+**[36:3]** By these instances, indeed, this deeply read and learned Celsus, who accuses Jews and Christians of ignorance and want of instruction, clearly evinces the accuracy of his knowledge of the chronology of the respective historians, whether Greek or Barbarian, since he imagines that Hesiod and the "innumerable" others, whom he styles "inspired" men, are older than Moses and his writings—that very Moses who is shown to be much older than the time of the Trojan war! It is not the Jews, then, who have composed incredible and insipid stories regarding the birth of man from the earth, but these "inspired" men of Celsus, Hesiod and his other "innumerable" companions, who, having neither learned nor heard of the far older and most venerable accounts existing in Palestine, have written such histories as their Theogonies, attributing, so far as in their power, "generation" to their deities, and innumerable other absurdities.
+
+**[36:4]** And these are the writers whom Plato expels from his "State" as being corrupters of the youth,—Homer, viz.
+
+**[36:5]** , and those who have composed poems of a similar description! Now it is evident that Plato did not regard as "inspired" those men who had left behind them such works.
+
+**[36:6]** But perhaps it was from a desire to cast reproach upon us, that this Epicurean Celsus, who is better able to judge than Plato (if it be the same Celsus who composed two other books against the Christians), called those individuals "inspired" whom he did not in reality regard as such.
+
+**[37:1]** He charges us, moreover, with introducing "a man formed by the hands of God," although the book of Genesis has made no mention of the "hands" of God, either when relating the creation or the "fashioning" of the man; while it is Job and David who have used the expression, "Thy hands have made me and fashioned me;" with reference to which it would need a lengthened discourse to point out the sense in which these words were understood by those who used them, both as regards the difference between "making" and "fashioning," and also the "hands" of God.
+
+**[37:2]** For those who do not understand these and similar expressions in the sacred Scriptures, imagine that we attribute to the God who is over all things a form such as that of man; and according to their conceptions, it follows that we consider the body of God to be furnished with wings, since the Scriptures, literally understood, attribute such appendages to God.
+
+**[37:3]** The subject before us, however, does not require us to interpret these expressions; for, in our explanatory remarks upon the book of Genesis, these matters have been made, to the best of our ability, a special subject of investigation.
+
+**[37:4]** Observe next the malignity of Celsus in what follows.
+
+**[37:5]** For the Scripture, speaking of the "fashioning" of the man, says, "And breathed into his face the breath of life, and the man became a living soul".
+
+**[37:6]** Whereon Celsus, wishing maliciously to ridicule the "inbreathing into his face of the breath of life," and not understanding the sense in which the expression was employed, states that "they composed a story that a man was fashioned by the hands of God, and was inflated by breath blown into him," in order that, taking the word "inflated" to be used in a similar way to the inflation of skins, he might ridicule the statement, "He breathed into his face the breath of life,"—terms which are used figuratively, and require to be explained in order to show that God communicated to man of His incorruptible Spirit; as it is said, "For Thine incorruptible Spirit is in all things".
+
+**[38:1]** In the next place, as it is his object to slander our Scriptures, he ridicules the following statement: "And God caused a deep sleep to fall upon Adam, and he slept: and He took one of his ribs, and closed up the flesh instead thereof.
+
+**[38:2]** And the rib, which He had taken from the man, made He a woman," and so on; without quoting the words, which would give the hearer the impression that they are spoken with a figurative meaning.
+
+**[38:3]** He would not even have it appear that the words were used allegorically, although he says afterwards, that "the more modest among Jews and Christians are ashamed of these things, and endeavour to give them somehow an allegorical signification".
+
+**[38:4]** Now we might say to him, Are the statements of your "inspired" Hesiod, which he makes regarding the woman in the form of a myth, to be explained allegorically, in the sense that she was given by Jove to men as an evil thing, and as a retribution for the theft of "the fire;" while that regarding the woman who was taken from the side of the man (after he had been buried in deep slumber), and was formed by God, appears to you to be related without any rational meaning and secret signification? But is it not uncandid, not to ridicule the former as myths, but to admire them as philosophical ideas in a mythical dress, and to treat with contempt the latter, as offending the understanding, and to declare that they are of no account? For if, because of the mere phraseology, we are to find fault with what is intended to have a secret meaning, see whether the following lines of Hesiod, a man, as you say," inspired," are not better fitted to excite laughter:— "'Son of Iapetus!' with wrathful heart  Spake the cloud-gatherer: 'Oh, unmatched in art!  Exultest thou in this the flame retrieved,  And dost thou triumph in the god deceived?  But thou, with the posterity of man,  Shalt rue the fraud whence mightier ills began;  I will send evil for thy stealthy fire,  While all embrace it, and their bane desire.
+
+**[38:5]** '  The sire, who rules the earth, and sways the pole,  Had said, and laughter fill'd his secret soul.
+
+**[38:6]** He bade the artist-god his hest obey,  And mould with tempering waters ductile clay:  Infuse, as breathing life and form began,  The supple vigour, and the voice of man:  Her aspect fair as goddesses above,  A virgin's likeness, with the brows of love.
+
+**[38:7]** He bade Minerva teach the skill that dyes  The web with colours, as the shuttle flies;  He called the magic of Love's Queen to shed  A nameless grace around her courteous head;  Instil the wish that longs with restless aim,  And cares of dress that feed upon the frame:  Bade Hermes last implant the craft refined  Of artful manners, and a shameless mind.
+
+**[38:8]** He said; their king th' inferior powers obeyed:  The fictile likeness of a bashful maid  Rose from the temper'd earth, by Jove's behest,  Under the forming god; the zone and vest  Were clasp'd and folded by Minerva's hand:  The heaven-born graces, and persuasion bland  Deck'd her round limbs with chains of gold: the hours  Of loose locks twined her temples with spring flowers.
+
+**[38:9]** The whole attire Minerva's curious care  Form'd to her shape, and fitted to her air.
+
+**[38:10]** But in her breast the herald from above,  Full of the counsels of deep thundering Jove,  Wrought artful manners, wrought perfidious lies,  And speech that thrills the blood, and lulls the wise.
+
+**[38:11]** Her did th' interpreter of gods proclaim,  And named the woman with Pandora's name;  Since all the gods conferr'd their gifts, to charm,  For man's inventive race, this beauteous harm".
+
+**[38:12]** Moreover, what is said also about the casket is fitted of itself to excite laughter; for example:—  "Whilome on earth the sons of men abode  From ills apart, and labour's irksome load,  And sore diseases, bringing age to man;  Now the sad life of mortals is a span.
+
+**[38:13]** The woman's hands a mighty casket bear;  She lifts the lid; she scatters griefs in air:  Alone, beneath the vessel's rims detained,  Hope still within th' unbroken cell remained,  Nor fled abroad; so will'd cloud-gatherer Jove:  The woman's hand had dropp'd the lid above".
+
+**[38:14]** Now, to him who would give to these lines a grave allegorical meaning (whether any such meaning be contained in them or not), we would say: Are the Greeks alone at liberty to convey a philosophic meaning in a secret covering? or perhaps also the Egyptians, and those of the Barbarians who pride themselves upon their mysteries and the truth (which is concealed within them); while the Jews alone, with their lawgiver and historians, appear to you the most unintelligent of men? And is this the only nation which has not received a share of divine power, and which yet was so grandly instructed how to rise upwards to the uncreated nature of God, and to gaze on Him alone, and to expect from Him alone (the fulfilment of) their hopes?.
+
+**[39:1]** But as Celsus makes a jest also of the serpent, as counteracting the injunctions given by God to the man, taking the narrative to be an old wife's fable, and has purposely neither mentioned the paradise of God, nor stated that God is said to have planted it in Eden towards the east, and that there afterwards sprang up from the earth every tree that was beautiful to the sight, and good for food, and the tree of life in the midst of the paradise, and the tree of the knowledge of good and evil, and the other statements which follow, which might of themselves lead a candid reader to see that all these things had not inappropriately an allegorical meaning, let us contrast with this the words of Socrates regarding Eros in the Symposium of Plato, and which are put in the mouth of Socrates as being more appropriate than what was said regarding him by all the others at the Symposium.
+
+**[39:2]** The words of Plato are as follow: "When Aphrodite was born, the gods held a banquet, and there was present, along with the others, Porus the son of Metis.
+
+**[39:3]** And after they had dined, Penia came to beg for something (seeing there was an entertainment), and she stood at the gate.
+
+**[39:4]** Porus meantime, having become intoxicated with the nectar (for there was then no wine), went into the garden of Zeus, and, being heavy with liquor, lay down to sleep.
+
+**[39:5]** Penia accordingly formed a secret plot, with a view of freeing herself from her condition of poverty, to get a child by Porus, and accordingly lay down beside him, and became pregnant with Eros.
+
+**[39:6]** And on this account Eros has become the follower and attendant of Aphrodite, having been begotten on her birthday feast, and being at the same time by nature a lover of the beautiful, because Aphrodite too is beautiful.
+
+**[39:7]** Seeing, then, that Eros is the son of Porus and Penia, the following is his condition.
+
+**[39:8]** In the first place, he is always poor, and far from being delicate and beautiful, as most persons imagine; but is withered, and sunburnt, and unshod, and without a home, sleeping always upon the ground, and without a covering; lying in the open air beside gates, and on public roads; possessing the nature of his mother, and dwelling continually with indigence.
+
+**[39:9]** But, on the other hand, in conformity with the character of his father, he is given to plotting against the beautiful and the good, being courageous, and hasty, and vehement; a keen hunter, perpetually devising contrivances; both much given to forethought, and also fertile in resources; acting like a philosopher throughout the whole of his life; a terrible sorcerer, and dealer in drugs, and a sophist as well; neither immortal by nature nor yet mortal, but on the same day, at one time he flourishes and lives when he has plenty, and again at another time dies, and once more is recalled to life through possessing the nature of his father.
+
+**[39:10]** But the supplies furnished to him are always gradually disappearing, so that he is never at any time in want, nor yet rich; and, on the other hand, he occupies an intermediate position between wisdom and ignorance".
+
+**[39:11]** Now, if those who read these words were to imitate the malignity of Celsus—which be it far from Christians to do!—they would ridicule the myth, and would turn this great Plato into a subject of jest; but if, on investigating in a philosophic spirit what is conveyed in the dress of a myth, they should be able to discover the meaning of Plato, (they will admire) the manner in which he was able to conceal, on account of the multitude, in the form of this myth, the great ideas which presented themselves to him, and to speak in a befitting manner to those who know how to ascertain from the myths the true meaning of him who wove them together.
+
+**[39:12]** Now I have brought forward this myth occurring in the writings of Plato, because of the mention in it of the garden of Zeus, which appears to bear some resemblance to the paradise of God, and of the comparison between Penia and the serpent, and the plot against Porus by Penia, which may be compared with the plot of the serpent against the man.
+
+**[39:13]** It is not very clear, indeed, whether Plato fell in with these stories by chance, or whether, as some think, meeting during his visit to Egypt with certain individuals who philosophized on the Jewish mysteries, and learning some things from them, he may have preserved a few of their ideas, and thrown others aside, being careful not to offend the Greeks by a complete adoption of all the points of the philosophy of the Jews, who were in bad repute with the multitude, on account of the foreign character of their laws and their peculiar polity.
+
+**[39:14]** The present, however, is not the proper time for explaining either the myth of Plato, or the story of the serpent and the paradise of God, and all that is related to have taken place in it, as in our exposition of the book of Genesis we have especially occupied ourselves as we best could with these matters.
+
+**[40:1]** But as he asserts that "the Mosaic narrative most impiously represents God as in a state of weakness from the very commencement (of things), and as unable to gain over (to obedience) even one single man whom He Himself had formed," we say in answer that the objection is much the same as if one were to find fault with the existence of evil, which God has not been able to prevent even in the case of a single individual, so that one man might be found from the very beginning of things who was born into the world untainted by sin.
+
+**[40:2]** For as those whose business it is to defend the doctrine of providence do so by means of arguments which are not to be despised, so also the subjects of Adam and his son will be philosophically dealt with by those who are aware that in the Hebrew language Adam signifies man; and that in those parts of the narrative which appear to refer to Adam as an individual, Moses is discoursing upon the nature of man in general.
+
+**[40:3]** For "in Adam" (as the Scripture says) "all die," and were condemned in the likeness of Adam's transgression, the word of God asserting this not so much of one particular individual as of the whole human race.
+
+**[40:4]** For in the connected series of statements which appears to apply as to one particular individual, the curse pronounced upon Adam is regarded as common to all (the members of the race), and what was spoken with reference to the woman is spoken of every woman without exception.
+
+**[40:5]** And the expulsion of the man and woman from paradise, and their being clothed with tunics of skins (which God, because of the transgression of men, made for those who had sinned), contain a certain secret and mystical doctrine (far transcending that of Plato) of the souls losing its wings, and being borne downwards to earth, until it can lay hold of some stable resting-place.
+
+**[41:1]** After this he continues as follows: "They speak, in the next place, of a deluge, and of a monstrous ark, having within it all things, and of a dove and a crow as messengers, falsifying and recklessly altering the story of Deucalion; not expecting, I suppose, that these things would come to light, but imagining that they were inventing stories merely for young children".
+
+**[41:2]** Now in these remarks observe the hostility—so unbecoming a philosopher—displayed by this man towards this very ancient Jewish narrative.
+
+**[41:3]** For, not being able to say anything against the history of the deluge, and not perceiving what he might have urged against the ark and its dimensions,—viz.
+
+**[41:4]** , that, according to the general opinion, which accepted the statements that it was three hundred cubits in length, and fifty in breadth, and thirty in height, it was impossible to maintain that it contained (all) the animals that were upon the earth, fourteen specimens of every clean and four of every unclean beast,—he merely termed it "monstrous, containing all things within it".
+
+**[41:5]** Now wherein was its "monstrous" character, seeing it is related to have been a hundred years in building, and to have had the three hundred cubits of its length and the fifty of its breadth contracted, until the thirty cubits of its height terminated in a top one cubit long and one cubit broad? Why should we not rather admire a structure which resembled an extensive city, if its measurements be taken to mean what they are capable of meaning, so that it was nine myriads of cubits long in the base, and two thousand five hundred in breadth? And why should we not admire the design evinced in having it so compactly built, and rendered capable of sustaining a tempest which caused a deluge? For it was not daubed with pitch, or any material of that kind, but was securely coated with bitumen.
+
+**[41:6]** And is it not a subject of admiration, that by the providential arrangement of God, the elements of all the races were brought into it, that the earth might receive again the seeds of all living things, while God made use of a most righteous man to be the progenitor of those who were to be born after the deluge?.
+
+**[42:1]** In order to show that he had read the book of Genesis, Celsus rejects the story of the dove, although unable to adduce any reason which might prove it to be a fiction.
+
+**[42:2]** In the next place, as his habit is, in order to put the narrative in a more ridiculous light, he converts the "raven" into a "crow," and imagines that Moses so wrote, having recklessly altered the accounts related of the Grecian Deucalion; unless perhaps he regards the narrative as not having proceeded from Moses, but from several individuals, as appears from his employing the plural number in the expressions, "falsifying and recklessly altering the story of Deucalion," as well as from the words, "For they did not expect, I suppose, that these things would come to light".
+
+**[42:3]** But how should they, who gave their Scriptures to the whole nation, not expect that they would come to light, and who predicted, moreover, that this religion should be proclaimed to all nations? Jesus declared, "The kingdom of God shall be taken from you, and given to a nation bringing forth the fruits thereof;" and in uttering these words to the Jews, what other meaning did He intend to convey than this, viz.
+
+**[42:4]** , that He Himself should, through his divine power, bring forth into light the whole of the Jewish Scriptures, which contain the mysteries of the kingdom of God? If, then, they peruse the Theogonies of the Greeks, and the stories about the twelve gods, they impart to them an air of dignity, by investing them with an allegorical signification; but when they wish to throw contempt upon our biblical narratives, they assert that they are fables, clumsily invented for infant children!.
+
+**[43:1]** "Altogether absurd, and out of season," he continues, "is the (account of the) begetting of children," where, although he has mentioned no names, it is evident that he is referring to the history of Abraham and Sarah.
+
+**[43:2]** Cavilling also at the "conspiracies of the brothers," he allies either to the story of Cain plotting against Abel, or, in addition, to that of Esau against Jacob; and (speaking) of "a father's sorrow," he probably refers to that of Isaac on account of the absence of Jacob, and perhaps also to that of Jacob because of Joseph having been sold into Egypt.
+
+**[43:3]** And when relating the "crafty procedure of mothers," I suppose he means the conduct of Rebecca, who contrived that the blessing of Isaac should descend, not upon Esau, but upon Jacob.
+
+**[43:4]** Now if we assert that in all these cases God interposed in a very marked degree, what absurdity do we commit, seeing we are persuaded that He never withdraws His providence from those who devote themselves to Him in an honourable and vigorous life? He ridicules, moreover, the acquisition of property made by Jacob while living with Laban, not understanding to what these words refer: "And those which had no spots were Laban's, and those which were spotted were Jacob's;" and he says that "God presented his sons with asses, and sheep, and camels," and did not see that "all these things happened unto them for ensamples, and were written for our sake, upon whom the ends of the world are come".
+
+**[43:5]** The varying customs (prevailing among the different nations) becoming famous, are regulated by the word of God, being given as a possession to him who is figuratively termed Jacob.
+
+**[43:6]** For those who become converts to Christ from among the heathen, are indicated by the history of Laban and Jacob.
+
+**[44:1]** And erring widely from the meaning of Scripture, he says that "God gave wells also to the righteous".
+
+**[44:2]** Now he did not observe that the righteous do not construct cisterns, but dig wells, seeking to discover the inherent ground and source of potable blessings, inasmuch as they receive in a figurative sense the commandment which enjoins, "Drink waters from your own vessels, and from your own wells of fresh water.
+
+**[44:3]** Let not your water be poured out beyond your own fountain, but let it pass into your own streets.
+
+**[44:4]** Let it belong to you alone, and let no alien partake with thee".
+
+**[44:5]** Scripture frequently makes use of the histories of real events, in order to present to view more important truths, which are but obscurely intimated; and of this kind are the narratives relating to the "wells," and to the "marriages," and to the various acts of "sexual intercourse" recorded of righteous persons, respecting which, however, it will be more seasonable to offer an explanation in the exegetical writings referring to those very passages.
+
+**[44:6]** But that wells were constructed by righteous men in the land of the Philistines, as related in the book of Genesis, is manifest from the wonderful wells which are shown at Ascalon, and which are deserving of mention on account of their structure, so foreign and peculiar compared with that of other wells.
+
+**[44:7]** Moreover, that both young women and female servants are to be understood metaphorically, is not our doctrine merely, but one which we have received from the beginning from wise men, among whom a certain one said, when exhorting his hearers to investigate the figurative meaning: "Tell me, ye that read the law, do ye not hear the law? For it is written that Abraham had two sons; the one by a bond maid, the other by a free woman.
+
+**[44:8]** But he who was of the bond woman was born after the flesh; but he of the free woman was by promise.
+
+**[44:9]** Which things are an allegory: for these are the two covenants; the one from the Mount Sinai, which gendereth to bondage, which is Agar".
+
+**[44:10]** And a little after, "But Jerusalem which is above is free, which is the mother of us all".
+
+**[44:11]** And any one who will take up the Epistle to the Galatians may learn how the passages relating to the "marriages," and the intercourse with "the maid-servants," have been allegorized; the Scripture desiring us to imitate not the literal acts of those who did these things, but (as the apostles of Jesus are accustomed to call them) the spiritual.
+
+**[45:1]** And whereas Celsus ought to have recognised the love of truth displayed by the writers of sacred Scripture, who have not concealed even what is to their discredit, and thus been led to accept the other and more marvellous accounts as true, he has done the reverse, and has characterized the story of Lot and his daughters (without examining either its literal or its figurative meaning) as "worse than the crimes of Thyestes".
+
+**[45:2]** The figurative signification of that passage of history it is not necessary at present to explain, nor what is meant by Sodom, and by the words of the angels to him who was escaping thence, when they said: "Look not behind thee, neither stay thou in all the surrounding district; escape to the mountain, lest thou be consumed;" nor what is intended by Lot and his wife, who became a pillar of salt because she turned back; nor by his daughters intoxicating their father, that they might become mothers by him.
+
+**[45:3]** But let us in a few words soften down the repulsive features of the history.
+
+**[45:4]** The nature of actions—good, bad, and indifferent—has been investigated by the Greeks; and the more successful of such investigators lay down the principle that intention alone gives to actions the character of good or bad, and that all things which are done without a purpose are, strictly speaking, indifferent; that when the intention is directed to a becoming end, it is praiseworthy; when the reverse, it is censurable.
+
+**[45:5]** They have said, accordingly, in the section relating to "things indifferent," that, strictly speaking, for a man to have sexual intercourse with his daughters is a thing indifferent, although such a thing ought not to take place in established communities.
+
+**[45:6]** And for the sake of hypothesis, in order to show that such an act belongs to the class of things indifferent, they have assumed the case of a wise man being left with an only daughter, the entire human race besides having perished; and they put the question whether the father can fitly have intercourse with his daughter, in order, agreeably to the supposition, to prevent the extermination of mankind.
+
+**[45:7]** Is this to be accounted sound reasoning among the Greeks, and to be commended by the influential sect of the Stoics; but when young maidens, who had heard of the burning of the world, though without comprehending (its full meaning), saw fire devastating their city and country, and supposing that the only means left of rekindling the flame of human life lay in their father and themselves, should, on such a supposition, conceive the desire that the world should continue, shall their conduct be deemed worse than that of the wise man who, according to the hypothesis of the Stoics, acts becomingly in having intercourse with his daughter in the case already supposed, of all men having been destroyed? I am not unaware, however, that some have taken offence at the desire of Lot's daughters, and have regarded their conduct as very wicked; and have said that two accursed nations—Moab and Ammon—have sprung from that unhallowed intercourse.
+
+**[45:8]** And yet truly sacred Scripture is nowhere found distinctly approving of their conduct as good, nor yet passing sentence upon it as blameworthy.
+
+**[45:9]** Nevertheless, whatever be the real state of the case, it admits not only of a figurative meaning, but also of being defended on its own merits.
+
+**[46:1]** Celsus, moreover, sneers at the "hatred" of Esau (to which, I suppose, he refers) against Jacob, although he was a man who, according to the Scriptures, is acknowledged to have been wicked; and not clearly stating the story of Simeon and Levi, who sallied out (on the Shechemites) on account of the insult offered to their sister, who had been violated by the son of the Shechemite king, he inveighs against their conduct.
+
+**[46:2]** And passing on, he speaks of "brothers selling (one another)," alluding to the sons of Jacob; and of "a brother sold," Joseph to wit; and of "a father deceived," viz.
+
+**[46:3]** , Jacob, because he entertained no suspicion of his sons when they showed him Joseph's coat of many colours, but believed their statement, and mourned for his son, who was a slave in Egypt, as if he were dead.
+
+**[46:4]** And observe in what a spirit of hatred and falsehood Celsus collects together the statements of the sacred history; so that wherever it appeared to him to contain a ground of accusation he produces the passage, but wherever there is any exhibition of virtue worthy of mention—as when Joseph would not gratify the lust of his mistress, refusing alike her allurements and her threats—he does not even mention the circumstance! He should see, indeed, that the conduct of Joseph was far superior to what is related of Bellerophon, since the former chose rather to be shut up in prison than do violence to his virtue.
+
+**[46:5]** For although he might have offered a just defence against his accuser, he magnanimously remained silent, entrusting his cause to God.
+
+**[47:1]** Celsus next, for form's sake, and with great want of precision, speaks of "the dreams of the chief butler and chief baker, and of Pharaoh, and of the explanation of them, in consequence of which Joseph was taken out of prison in order to be entrusted by Pharaoh with the second place in Egypt".
+
+**[47:2]** What absurdity, then, did the history contain, looked at even in itself, that it should be adduced as matter of accusation by this Celsus, who gave the title of True Discourse to a treatise not containing doctrines, but full of charges against Jews and Christians? He adds: "He who had been sold behaved kindly to his brethren (who had sold him), when they were suffering from hunger, and had been sent with their asses to purchase (provisions);" although he has not related these occurrences (in his treatise).
+
+**[47:3]** But he does mention the circumstance of Joseph making himself known to his brethren, although I know not with what view, or what absurdity he can point out in such an occurrence; since it is impossible for Momus himself, we might say, to find any reasonable fault with events which, apart from their figurative meaning, present so much that is attractive.
+
+**[47:4]** He relates, further, that "Joseph, who had been sold as a slave, was restored to liberty, and went up with a solemn procession to his father's funeral," and thinks that the narrative furnishes matter of accusation against us, as he makes the following remark: "By whom (Joseph, namely) the illustrious and divine nation of the Jews, after growing up in Egypt to be a multitude of people, was commanded to sojourn somewhere beyond the limits of the kingdom, and to pasture their flocks in districts of no repute".
+
+**[47:5]** Now the words, "that they were commanded to pasture their flocks in districts of no repute," are an addition, proceeding from his own feelings of hatred; for he has not shown that Goshen, the district of Egypt, is a place of no repute.
+
+**[47:6]** The exodus of the people from Egypt he calls a flight, not at all remembering what is written in the book of Exodus regarding the departure of the Hebrews from the land of Egypt.
+
+**[47:7]** We have enumerated these instances to show that what, literally considered, might appear to furnish ground of accusation, Celsus has not succeeded in proving to be either objectionable or foolish, having utterly failed to establish the evil character, as he regards it, of our Scriptures.
+
+**[48:1]** In the next place, as if he had devoted himself solely to the manifestation of his hatred and dislike of the Jewish and Christian doctrine, he says: "The more modest of Jewish and Christian writers give all these things an allegorical meaning;" and, "Because they are ashamed of these things, they take refuge in allegory".
+
+**[48:2]** Now one might say to him, that if we must admit fables and fictions, whether written with a concealed meaning or with any other object, to be shameful narratives when taken in their literal acceptation, of what histories can this be said more truly than of the Grecian? In these histories, gods who are sons castrate the gods who are their fathers, and gods who are parents devour their own children, and a goddess-mother gives to the "father of gods and men" a stone to swallow instead of his own son, and a father has intercourse with his daughter, and a wife binds her own husband, having as her allies in the work the brother of the fettered god and his own daughter! But why should I enumerate these absurd stories of the Greeks regarding their gods, which are most shameful in themselves, even though invested with an allegorical meaning? (Take the instance) where Chrysippus of Soli, who is considered to be an ornament of the Stoic sect, on account of his numerous and learned treatises, explains a picture at Samos, in which Juno was represented as committing unspeakable abominations with Jupiter.
+
+**[48:3]** This reverend philosopher says in his treatises, that matter receives the spermatic words of the god, and retains them within herself, in order to ornament the universe.
+
+**[48:4]** For in the picture at Samos Juno represents matter, and Jupiter god.
+
+**[48:5]** Now it is on account of these, and of countless other similar fables, that we would not even in word call the God of all things Jupiter, or the sun Apollo, or the moon Diana.
+
+**[48:6]** But we offer to the Creator a worship which is pure, and speak with religious respect of His noble works of creation, not contaminating even in word the things of God; approving of the language of Plato in the Philebus, who would not admit that pleasure was a goddess, "so great is my reverence, Protarchus," he says, "for the very names of the gods".
+
+**[48:7]** We verily entertain such reverence for the name of God, and for His noble works of creation, that we would not, even under pretext of an allegorical meaning, admit any fable which might do injury to the young.
+
+**[49:1]** If Celsus had read the Scriptures in an impartial spirit, he would not have said that "our writings are incapable of admitting an allegorical meaning".
+
+**[49:2]** For from the prophetic Scriptures, in which historical events are recorded (not from the historical), it is possible to be convinced that the historical portions also were written with an allegorical purpose, and were most skilfully adapted not only to the multitude of the simpler believers, but also to the few who are able or willing to investigate matters in an intelligent spirit.
+
+**[49:3]** If, indeed, those writers at the present day who are deemed by Celsus the "more modest of the Jews and Christians" were the (first) allegorical interpreters of our Scriptures, he would have the appearance, perhaps, of making a plausible allegation.
+
+**[49:4]** But since the very fathers and authors of the doctrines themselves give them an allegorical signification, what other inference can be drawn than that they were composed so as to be allegorically understood in their chief signification? And we shall adduce a few instances out of very many to show that Celsus brings an empty charge against the Scriptures, when he says "that they are incapable of admitting an allegorical meaning".
+
+**[49:5]** Paul, the apostle of Jesus, says: "It is written in the law, Thou shalt not muzzle the mouth of the ox that treadeth out the corn.
+
+**[49:6]** Doth God take care for oxen? or saith He it altogether for our sakes? For our sakes, no doubt, this is written, that he that plougheth should plough in hope, and he that thresheth in hope of partaking".
+
+**[49:7]** And in another passage the same Paul says: "For it is written, For this cause shall a man leave his father and mother and shall be joined to his wife, and they two shall be one flesh.
+
+**[49:8]** This is a great mystery; but I speak concerning Christ and the Church".
+
+**[49:9]** And again, in another place: "We know that all our fathers were under the cloud, and all passed through the sea; and were all baptized unto Moses in the cloud, and in the sea".
+
+**[49:10]** Then, explaining the history relating to the manna, and that referring to the miraculous issue of the water from the rock, he continues as follows: "And they did all eat the same spiritual meat, and did all drink the same spiritual drink.
+
+**[49:11]** For they drank of that spiritual Rock that followed them, and that Rock was Christ".
+
+**[49:12]** Asaph, moreover, who, in showing the histories in Exodus and Numbers to be full of difficulties and parables, begins in the following manner, as recorded in the book of Psalms, where he is about to make mention of these things: "Give ear, O my people, to my law: incline your ears to the words of my mouth.
+
+**[49:13]** I will open my mouth in parables; I will utter dark sayings of old, which we have heard and known, and our fathers have told us".
+
+**[50:1]** Moreover, if the law of Moses had contained nothing which was to be understood as having a secret meaning, the prophet would not have said in his prayer to God, "Open Thou mine eyes, and I will behold wondrous things out of Thy law;" whereas he knew that there was a veil of ignorance lying upon the heart of those who read but do not understand the figurative meaning, which veil is taken away by the gift of God, when He hears him who has done all that he can, and who by reason of habit has his senses exercised to distinguish between good and evil, and who continually utters the prayer, "Open Thou mine eyes, and I will behold wondrous things out of Thy law".
+
+**[50:2]** And who is there that, on reading of the dragon that lives in the Egyptian river, and of the fishes which lurk in his scales, or of the excrement of Pharaoh which fills the mountains of Egypt, is not led at once to inquire who he is that fills the Egyptian mountains with his stinking excrement, and what the Egyptian mountains are; and what the rivers in Egypt are, of which the aforesaid Pharaoh boastfully says, "The rivers are mine, and I have made them;" and who the dragon is, and the fishes in its scales,—and this so as to harmonize with the interpretation to be given of the rivers? But why establish at greater length what needs no demonstration? For to these things applies the saying: "Who is wise, and he shall understand these things? or who is prudent, and he shall know them?" Now I have gone at some length into the subject, because I wished to show the unsoundness of the assertion of Celsus, that "the more modest among the Jews and Christians endeavour somehow to give these stories an allegorical signification, although some of them do not admit of this, but on the contrary are exceedingly silly inventions".
+
+**[50:3]** Much rather are the stories of the Greeks not only very silly, but very impious inventions.
+
+**[50:4]** For our narratives keep expressly in view the multitude of simpler believers, which was not done by those who invented the Grecian fables.
+
+**[50:5]** And therefore not without propriety does Plato expel from his state all fables and poems of such a nature as those of which we have been speaking.
+
+**[51:1]** Celsus appears to me to have heard that there are treatises in existence which contain allegorical explanations of the law of Moses.
+
+**[51:2]** These however, he could not have read; for if he had he would not have said: "The allegorical explanations, however, which have been devised are much more shameful and absurd than the fables themselves, inasmuch as they endeavour to unite with marvellous and altogether insensate folly things which cannot at all be made to harmonize".
+
+**[51:3]** He seems to refer in these words to the works of Philo, or to those of still older writers, such as Aristobulus.
+
+**[51:4]** But I conjecture that Celsus has not read their books, since it appears to me that in many passages they have so successfully hit the meaning (of the sacred writers), that even Grecian philosophers would have been captivated by their explanations; for in their writings we find not only a polished style, but exquisite thoughts and doctrines, and a rational use of what Celsus imagines to be fables in the sacred writings.
+
+**[51:5]** I know, moreover, that Numenius the Pythagorean—a surpassingly excellent expounder of Plato, and who held a foremost place as a teacher of the doctrines of Pythagoras—in many of his works quotes from the writings of Moses and the prophets, and applies to the passages in question a not improbable allegorical meaning, as in his work called Epops, and in those which treat of "Numbers" and of "Place".
+
+**[51:6]** And in the third book of his dissertation on The Good, he quotes also a narrative regarding Jesus—without, however, mentioning His name—and gives it an allegorical signification, whether successfully or the reverse I may state on another occasion.
+
+**[51:7]** He relates also the account respecting Moses, and Jannes, and Jambres.
+
+**[51:8]** But we are not elated on account of this instance, though we express our approval of Numenius, rather than of Celsus and other Greeks, because he was willing to investigate our histories from a desire to acquire knowledge, and was (duly) affected by them as narratives which were to be allegorically understood, and which did not belong to the category of foolish compositions.
+
+**[52:1]** After this, selecting from all the treatises which contain allegorical explanations and interpretations, expressed in a language and style not to be despised, the least important, such as might contribute, indeed, to strengthen the faith of the multitude of simple believers, but were not adapted to impress those of more intelligent mind, he continues: "Of such a nature do I know the work to be, entitled Controversy between one Papiscus and Jason, which is fitted to excite pity and hatred instead of laughter.
+
+**[52:2]** It is not my purpose, however, to confute the statements contained in such works; for their fallacy is manifest to all, especially if any one will have the patience to read the books themselves.
+
+**[52:3]** Rather do I wish to show that Nature teaches this, that God made nothing that is mortal, but that His works, whatever they are, are immortal, and theirs mortal.
+
+**[52:4]** And the soul is the work of God, while the nature of the body is different.
+
+**[52:5]** And in this respect there is no difference between the body of a bat, or of a worm, or of a frog, and that of a man; for the matter is the same, and their corruptible part is alike".
+
+**[52:6]** Nevertheless I could wish that every one who heard Celsus declaiming and asserting that the treatise entitled Controversy between Jason and Papiscus regarding Christ was fitted to excite not laughter, but hatred, could take the work into his hands, and patiently listen to its contents; that, finding in it nothing to excite hatred, he might condemn Celsus out of the book itself.
+
+**[52:7]** For if it be impartially perused, it will be found that there is nothing to excite even laughter in a work in which a Christian is described as conversing with a Jew on the subject of the Jewish Scriptures, and proving that the predictions regarding Christ fitly apply to Jesus; although the other disputant maintains the discussion in no ignoble style, and in a manner not unbecoming the character of a Jew.
+
+**[53:1]** I do not know, indeed, how he could conjoin things that do not admit of union, and which cannot exist together at the same time in human nature, in saying, as he did, that "the above treatise deserved to be treated both with pity and hatred".
+
+**[53:2]** For every one will admit that he who is the object of pity is not at the same moment an object of hatred, and that he who is the object of hatred is not at the same time a subject of pity.
+
+**[53:3]** Celsus, moreover, says that it was not his purpose to refute such statements, because he thinks that their absurdity is evident to all, and that, even before offering any logical refutation, they will appear to be bad, and to merit both pity and hatred.
+
+**[53:4]** But we invite him who peruses this reply of ours to the charges of Celsus to have patience, and to listen to our sacred writings themselves, and, as far as possible, to form an opinion from their contents of the purpose of the writers, and of their consciences and disposition of mind; for he will discover that they are men who strenuously contend for what they uphold, and that some of them show that the history which they narrate is one which they have both seen and experienced, which was miraculous, and worthy of being recorded for the advantage of their future hearers.
+
+**[53:5]** Will any one indeed venture to say that it is not the source and fountain of all blessing (to men) to believe in the God of all things, and to perform all our actions with the view of pleasing Him in everything whatever, and not to entertain even a thought unpleasing to Him, seeing that not only our words and deeds, but our very thoughts, will be the subject of future judgment? And what other arguments would more effectually lead human nature to adopt a virtuous life, than the belief or opinion that the supreme God beholds all things, not only what is said and done, but even what is thought by us? And let any one who likes compare any other system which at the same time converts and ameliorates, not merely one or two individuals, but, as far as in it lies, countless numbers, that by the comparison of both methods he may form a correct idea of the arguments which dispose to a virtuous life.
+
+**[54:1]** But as in the words which I quoted from Celsus, which are a paraphrase from the Timaeus, certain expressions occur, such as, "God made nothing mortal, but immortal things alone, while mortal things are the works of others, and the soul is a work of God, but the nature of the body is different, and there is no difference between the body of a man and that of a bat, or of a worm, or of a frog; for the matter is the same, and their corruptible part alike,"—let us discuss these points for a little; and let us show that Celsus either does not disclose his Epicurean opinions, or, as might be said by one person, has exchanged them for better, or, as another might say, has nothing in common save the name, with Celsus, the Epicurean.
+
+**[54:2]** For he ought, in giving expression to such opinions, and in proposing to contradict not only us, but the by no means obscure sect of philosophers who are the adherents of Zeno of Citium, to have proved that the bodies of animals are not the work of God, and that the great skill displayed in their construction did not proceed from the highest intelligence.
+
+**[54:3]** And he ought also, with regard to the countless diversities of plants, which are regulated by an inherent, incomprehensible nature, and which have been created for the by no means despicable use of man in general, and of the animals which minister to man, whatever other reasons may be adduced for their existence, not only to have stated his opinion, but also to have shown us that it was no perfect intelligence which impressed these qualities upon the matter of plants.
+
+**[54:4]** And when he had once represented (various) divinities as the creators of all the bodies, the soul alone being the work of God, why did not he, who separated these great acts of creation, and apportioned them among a plurality of creators, next demonstrate by some convincing reason the existence of these diversities among divinities, some of which construct the bodies of men, and others—those, say, of beasts of burden, and others—those of wild animals? And he who saw that some divinities were the creators of dragons, and of asps, and of basilisks, and others of each plant and herb according to its species, ought to have explained the causes of these diversities.
+
+**[54:5]** For probably, had he given himself carefully to the investigation of each particular point, he would either have observed that it was one God who was the creator of all, and who made each thing with a certain object and for a certain reason; or if he had failed to observe this, he would have discovered the answer which he ought to return to those who assert that corruptibility is a thing indifferent in its nature; and that there was no absurdity in a world which consists of diverse materials, being formed by one architect, who constructed the different kinds of things so as to secure the good of the whole.
+
+**[54:6]** Or, finally, he ought to have expressed no opinion at all on so important a doctrine, since he did not intend to prove what he professed to demonstrate; unless, indeed, he who censures others for professing a simple faith, would have us to believe his mere assertions, although he gave out that he would not merely assert, but would prove his assertions.
+
+**[55:1]** But I maintain that, if he had the patience (to use his own expression) to listen to the writings of Moses and the prophets, he would have had his attention arrested by the circumstance that the expression "God made" is applied to heaven and earth, and to what is called the firmament, and also to the lights and stars; and after these, to the great fishes, and to every living thing among creeping animals which the waters brought forth after their kinds, and to every fowl of heaven after its kind; and after these, to the wild beasts of the earth after their kind, and the beasts after their kind, and to every creeping thing upon the earth after its kind; and last of all to man.
+
+**[55:2]** The expression "made," however, is not applied to other things; but it is deemed sufficient to say regarding light, "And it was light;" and regarding the one gathering together of all the waters that are under the whole heaven, "It was so".
+
+**[55:3]** And in like manner also, with regard to what grew upon the earth, where it is said, "The earth brought forth grass, and herb yielding seed after its kind and after its likeness, and the fruit-tree yielding fruit, whose seed is in itself, after its kind, upon the earth".
+
+**[55:4]** He would have inquired, moreover, whether the recorded commands of God respecting the coming into existence of each part of the world were addressed to one thing or to several; and he would not lightly have charged with being unintelligible, and as having no secret meaning, the accounts related in these books, either by Moses, or, as we would say, by the Divine Spirit speaking in Moses, from whom also he derived the power of prophesying; since he "knew both the present, and the future, and the past," in a higher degree than those priests who are alleged by the poets to have possessed a knowledge of these things.
+
+**[56:1]** Moreover, since Celsus asserts that "the soul is the work of God, but that the nature of body is different; and that in this respect there is no difference between the body of a bat, or of a worm, or of a frog, and that of a man, for the matter is the same, and their corruptible part alike,"—we have to say in answer to this argument of his, that if, since the same matter underlies the body of a bat, or of a worm, or of a frog, or of a man, these bodies will differ in no respect from one another, it is evident then that these bodies also will differ in no respect from the sun, or the moon, or the stars, or the sky, or any other thing which is called by the Greeks a god, cognisable by the senses.
+
+**[56:2]** For the same matter, underlying all bodies, is, properly speaking, without qualities and without form, and derives its qualities from some (other) source, I know not whence, since Celsus will have it that nothing corruptible can be the work of God.
+
+**[56:3]** Now the corruptible part of everything whatever, being produced from the same underlying matter, must necessarily be the same, by Celsus' own showing; unless, indeed, finding himself here hard pressed, he should desert Plato, who makes the soul arise from a certain bowl, and take refuge with Aristotle and the Peripatetics, who maintain that the ether is immaterial, and consists of a fifth nature, separate from the other four elements, against which view both the Platonists and the Stoics have nobly protested.
+
+**[56:4]** And we too, who are despised by Celsus, will contravene it, seeing we are required to explain and maintain the following statement of the prophet: The heavens shall perish, but Thou remainest: and they all shall wax old as a garment; and as a vesture shalt Thou fold them up, and they shall be changed: but Thou art the same".
+
+**[56:5]** These remarks, however, are sufficient in reply to Celsus, when he asserts that "the soul is the work of God, but that the nature of body is different;" for from his argument it follows that there is no difference between the body of a bat, or of a worm, or of a frog, and that of a heavenly being.
+
+**[57:1]** See, then, whether we ought to yield to one who, holding such opinions, calumniates the Christians, and thus abandon a doctrine which explains the difference existing among bodies as due to the different qualities, internal and external, which are implanted in them.
+
+**[57:2]** For we, too, know that there are "bodies celestial, and bodies terrestrial;" and that "the glory of the celestial is one, and the glory of the terrestrial another;" and that even the glory of the celestial bodies is not alike: for "one is the glory of the sun, and another the glory of the stars;" and among the stars themselves, "one star differeth from another star in glory".
+
+**[57:3]** And therefore, as those who expect the resurrection of the dead, we assert that the qualities which are in bodies undergo change: since some bodies, which are sown in corruption, are raised in incorruption; and others, sown in dishonour, are raised in glory; and others, again, sown in weakness, are raised in power; and those which are sown natural bodies, are raised as spiritual.
+
+**[57:4]** That the matter which underlies bodies is capable of receiving those qualities which the Creator pleases to bestow, is a point which all of us who accept the doctrine of providence firmly hold; so that, if God so willed, one quality is at the present time implanted in this portion of matter, and afterwards another of a different and better kind.
+
+**[57:5]** But since there are, from the beginning of the world, laws established for the purpose of regulating the changes of bodies, and which will continue while the world lasts, I do not know whether, when a new and different order of things has succeeded after the destruction of the world, and what our Scriptures call the end (of the ages), it is not wonderful that at the present time a snake should be formed out of a dead man, growing, as the multitude affirm, out of the marrow of the back, and that a bee should spring from an ox, and a wasp from a horse, and a beetle from an ass, and, generally, worms from the most of bodies.
+
+**[57:6]** Celsus, indeed, thinks that this can be shown to be the consequence of none of these bodies being the work of God, and that qualities (I know not whence it was so arranged that one should spring out of another) are not the work of a divine intelligence, producing the changes which occur in the qualities of matter.
+
+**[58:1]** But we have something more to say to Celsus, when he declares that "the soul is the work of God, and that the nature of body is different," and puts forward such an opinion not only without proof, but even without clearly defining his meaning; for he did not make it evident whether he meant that every soul is the work of God, or only the rational soul.
+
+**[58:2]** This, then, is what we have to say: If every soul is the work of God, it is manifest that those of the meanest irrational animals are God's work, so that the nature of all bodies is different from that of the soul.
+
+**[58:3]** He appears, however, in what follows, where he says that "irrational animals are more beloved by God than we, and have a purer knowledge of divinity," to maintain that not only is the soul of man, but in a much greater degree that of irrational animals, the work of God; for this follows from their being said to be more beloved by God than we.
+
+**[58:4]** Now if the rational soul alone be the work of God, then, in the first place, he did not clearly indicate that such was his opinion; and in the second place, this deduction follows from his indefinite language regarding the soul—viz.
+
+**[58:5]** , whether not every one, but only the rational, is the work of God—that neither is the nature of all bodies different (from the soul).
+
+**[58:6]** But if the nature of all bodies be not different, although the body of each animal correspond to its soul, it is evident that the body of that animal whose soul was the work of God, would differ from the body of that animal in which dwells a soul which was not the work of God.
+
+**[58:7]** And so the assertion will be false, that there is no difference between the body of a bat, or of a worm, or of a frog, and that of a man.
+
+**[59:1]** For it would, indeed, be absurd that certain stones and buildings should be regarded as more sacred or more profane than others, according as they were constructed for the honour of God, or for the reception of dishonourable and accursed persons; while bodies should not differ from bodies, according as they are inhabited by rational or irrational beings, and according as these rational beings are the most virtuous or most worthless of mankind.
+
+**[59:2]** Such a principle of distinction, indeed, has led some to deify the bodies of distinguished men, as having received a virtuous soul, and to reject and treat with dishonour those of very wicked individuals.
+
+**[59:3]** I do not maintain that such a principle has been always soundly exercised, but that it had its origin in a correct idea.
+
+**[59:4]** Would a wise man, indeed, after the death of Anytus and Socrates, think of burying the bodies of both with like honours? And would he raise the same mound or tomb to the memory of both? These instances we have adduced because of the language of Celsus, that "none of these is the work of God" (where the words "of these" refer to the body of a man or to the snakes which come out of the body and to that of an ox, or of the bees which come from the body of an ox; and to that of a horse or of an ass, and to the wasps which come from a horse, and the beetles which proceed from an ass); for which reason we have been obliged to return to the consideration of his statement, that "the soul is the work of God, but that the nature of body is different".
+
+**[60:1]** He next proceeds to say, that "a common nature pervades all the previously mentioned bodies, and one which goes and returns the same amid recurring changes".
+
+**[60:2]** In answer to this it is evident from what has been already said that not only does a common nature pervade those bodies which have been previously enumerated, but the heavenly bodies as well.
+
+**[60:3]** And if this is the case, it is clear also that, according to Celsus (although I do not know whether it is according to truth), it is one nature which goes and returns the same through all bodies amid recurring changes.
+
+**[60:4]** It is evident also that this is the case in the opinion of those who hold that the world is to perish; while those also who hold the opposite view will endeavour to show, with out the assumption of a fifth substance, that in their judgment too it is one nature "which goes and returns the same through all bodies amid recurring changes".
+
+**[60:5]** And thus, even that which is perishable remains in order to undergo a change; for the matter which underlies (all things), while its properties perish, still abides, according to the opinion of those who hold it to be uncreated.
+
+**[60:6]** If, however, it can be shown by any arguments not to be uncreated, but to have been created for certain purposes, it is clear that it will not have the same nature of permanency which it would possess on the hypothesis of being uncreated.
+
+**[60:7]** But it is not our object at present, in answering the charges of Celsus, to discuss these questions of natural philosophy.
+
+**[61:1]** He maintains, moreover, that "no product of matter is immortal".
+
+**[61:2]** Now, in answer to this it may be said, that if no product of matter is immortal, then either the whole world is immortal, and thus not a product of matter, or it is not immortal.
+
+**[61:3]** If, accordingly, the world is immortal (which is agreeable to the view of those who say that the soul alone is the work of God, and was produced from a certain bowl), let Celsus show that the world was not produced from a matter devoid of qualities, remembering his own assertion that "no product of matter is immortal".
+
+**[61:4]** If, however, the world is not immortal (seeing it is a product of matter), but mortal, does it also perish, or does it not? For if it perish, it will perish as being a work of God; and then, in the event of the world perishing, what will become of the soul, which is also a work of God? Let Celsus answer this! But if, perverting the notion of immortality, he will assert that, although perishable, it is immortal, because it does not really perish; that it is capable of dying, but does not actually die,—it is evident that, according to him, there will exist something which is at the same time mortal and immortal, by being capable of both conditions; and that which does not die will be mortal, and that which is not immortal by nature will be termed in a peculiar sense immortal, because it does not die! According to what distinction, then, in the meaning of words, will he maintain that no product of matter is immortal? And thus you see that the ideas contained in his writings, when closely examined and tested, are proved not to be sound and incontrovertible.
+
+**[61:5]** And after making these assertions he adds: "On this point these remarks are sufficient; and if any one is capable of hearing and examining further, he will come to know (the truth)".
+
+**[61:6]** Let us, then, who in his opinion are unintelligent individuals, see what will result from our being able to listen to him for a little, and so continue our investigation.
+
+**[62:1]** After these matters, then, he thinks that he can make us acquainted in a few words with the questions regarding the nature of evil, which have been variously discussed in many important treatises, and which have received very opposite explanations.
+
+**[62:2]** His words are: "There neither were formerly, nor are there now, nor will there be again, more or fewer evils in the world (than have always been).
+
+**[62:3]** For the nature of all things is one and the same, and the generation of evils is always the same".
+
+**[62:4]** He seems to have paraphrased these words from the discussions in the Theaetetus, where Plato makes Socrates say: "It is neither possible for evils to disappear from among men, nor for them to become established among the gods," and so on.
+
+**[62:5]** But he appears to me not to have understood Plato correctly, although professing to include all truth in this one treatise, and giving to his own book against us the title of A True Discourse.
+
+**[62:6]** For the language in the Timaeus, where it is said, "When the gods purify the earth with water," shows that the earth, when purified with water, contains less evil than it did before its purification.
+
+**[62:7]** And this assertion, that there at one time were fewer evils in the world, is one which we make, in harmony with the opinion of Plato, because of the language in the Theaetetus, where he says that "evils cannot disappear from among men".
+
+**[63:1]** I do not understand how Celsus, while admitting the existence of Providence, at least so far as appears from the language of this book, can say that there never existed (at any time) either more or fewer evils, but, as it were, a fixed number; thus annihilating the beautiful doctrine regarding the indefinite nature of evil, and asserting that evil, even in its own nature, is infinite.
+
+**[63:2]** Now it appears to follow from the position, that there never have been, nor are now, nor ever will be, more or fewer evils in the world; that as, according to the view of those who hold the indestructibility of the world, the equipoise of the elements is maintained by a Providence (which does not permit one to gain the preponderance over the others, in order to prevent the destruction of the world), so a kind of Providence presides, as it were, over evils (the number of which is fixed), to prevent their being either increased or diminished! In other ways, too, are the arguments of Celsus concerning evil confuted, by those philosophers who have investigated the subjects of good and evil, and who have proved also from history that in former times it was without the city, and with their faces concealed by masks, that loose women hired themselves to those who wanted them; that subsequently, becoming more impudent, they laid aside their masks, though not being permitted by the laws to enter the cities, they (still) remained without them, until, as the dissoluteness of manners daily increased, they dared even to enter the cities.
+
+**[63:3]** Such accounts are given by Chrysippus in the introduction to his work on Good and Evil.
+
+**[63:4]** From this also it may be seen that evils both increase and decrease, viz.
+
+**[63:5]** , that those individuals who were called "Ambiguous" used formerly to present themselves openly to view, suffering and committing all shameful things, while subserving the passions of those who frequented their society; but recently they have been expelled by the authorities.
+
+**[63:6]** And of countless evils which, owing to the spread of wickedness, have made their appearance in human life, we may say that formerly they did not exist.
+
+**[63:7]** For the most ancient histories, which bring innumerable other accusations against sinful men, know nothing of the perpetrators of abominable crimes.
+
+**[64:1]** And now, after these arguments, and others of a similar kind, how can Celsus escape appearing in a ridiculous light, when he imagines that there never has been in the past, nor will be in the future, a greater or less number of evils? For although the nature of all things is one and the same, it does not at all follow that the production of evils is a constant quantity.
+
+**[64:2]** For although the nature of a certain individual is one and the same, yet his mind, and his reason, and his actions, are not always alike: there being a time when he had not yet attained to reason; and another, when, with the possession of reason, he had become stained with wickedness, and when this increased to a greater or less degree; and again, a time when he devoted himself to virtue, and made greater or less progress therein, attaining sometimes the very summit of perfection, through longer or shorter periods of contemplation.
+
+**[64:3]** In like manner, we may make the same assertion in a higher degree of the nature of the universe, that although it is one and the same in kind, yet neither do exactly the same things, nor yet things that are similar, occur in it; for we neither have invariably productive nor unproductive seasons, nor yet periods of continuous rain or of drought.
+
+**[64:4]** And so in the same way, with regard to virtuous souls, there are neither appointed periods of fertility nor of barrenness; and the same is the case with the greater or less spread of evil.
+
+**[64:5]** And those who desire to investigate all things to the best of their ability, must keep in view this estimate of evils, that their amount is not always the same, owing to the working of a Providence which either preserves earthly things, or purges them by means of floods and conflagrations; and effects this, perhaps, not merely with reference to things on earth, but also to the whole universe of things which stands in need of purification, when the wickedness that is in it has become great.
+
+**[65:1]** After this Celsus continues: "It is not easy, indeed, for one who is not a philosopher to ascertain the origin of evils, though it is sufficient for the multitude to say that they do not proceed from God, but cleave to matter, and have their abode among mortal things; while the course of mortal things being the same from beginning to end, the same things must always, agreeably to the appointed cycles, recur in the past, present, and future".
+
+**[65:2]** Celsus here observes that it is not easy for one who is not a philosopher to ascertain the origin of evils, as if it were an easy matter for a philosopher to gain this knowledge, while for one who is not a philosopher it was difficult, though still possible, for such an one, although with great labour, to attain it.
+
+**[65:3]** Now, to this we say, that the origin of evils is a subject which is not easy even for a philosopher to master, and that perhaps it is impossible even for such to attain a clear understanding of it, unless it be revealed to them by divine inspiration, both what evils are, and how they originated, and how they shall be made to disappear.
+
+**[65:4]** But although ignorance of God is an evil, and one of the greatest of these is not to know how God is to be served and worshipped, yet, as even Celsus would admit, there are undoubtedly some philosophers who have been ignorant of this, as is evident from the views of the different philosophical sects; whereas, according to our judgment, no one is capable of ascertaining the origin of evils who does not know that it is wicked to suppose that piety is preserved uninjured amid the laws that are established in different states, in conformity with the generally prevailing ideas of government.
+
+**[65:5]** No one, moreover, who has not heard what is related of him who is called "devil," and of his "angels," and what he was before he became a devil, and how he became such, and what was the cause of the simultaneous apostasy of those who are termed his angels, will be able to ascertain the origin of evils.
+
+**[65:6]** But he who would attain to this knowledge must learn more accurately the nature of demons, and know that they are not the work of God so far as respects their demoniacal nature, but only in so far as they are possessed of reason; and also what their origin was, so that they became beings of such a nature, that while converted into demons, the powers of their mind remain.
+
+**[65:7]** And if there be any topic of human investigation which is difficult for our nature to grasp, certainly the origin of evils may be considered to be such.
+
+**[66:1]** Celsus in the next place, as if he were able to tell certain secrets regarding the origin of evils, but chose rather to keep silence, and say only what was suitable to the multitude, continues as follows: "It is sufficient to say to the multitude regarding the origin of evils, that they do not proceed from God, but cleave to matter, and dwell among mortal things".
+
+**[66:2]** It is true, certainly, that evils do not proceed from God; for according to Jeremiah, one of our prophets, it is certain that "out of the mouth of the Most High proceedeth not evil and good".
+
+**[66:3]** But to maintain that matter, dwelling among mortal things, is the cause of evils, is in our opinion not true.
+
+**[66:4]** For it is the mind of each individual which is the cause of the evil which arises in him, and this is evil (in the abstract); while the actions which proceed from it are wicked, and there is, to speak with accuracy, nothing else in our view that is evil.
+
+**[66:5]** I am aware, however, that this topic requires very elaborate treatment, which (by the grace of God enlightening the mind) may be successfully attempted by him who is deemed by God worthy to attain the necessary knowledge on this subject.
+
+**[67:1]** I do not understand how Celsus should deem it of advantage, in writing a treatise against us, to adopt an opinion which requires at least much plausible reasoning to make it appear, as far as he can do so, that "the course of mortal things is the same from beginning to end, and that the same things must always, according to the appointed cycles, recur in the past, present, and future".
+
+**[67:2]** Now, if this be true, our free-will is annihilated.
+
+**[67:3]** For if, in the revolution of mortal things, the same events must perpetually occur in the past, present, and future, according to the appointed cycles, it is clear that, of necessity, Socrates will always be a philosopher, and be condemned for introducing strange gods and for corrupting the youth.
+
+**[67:4]** And Anytus and Melitus must always be his accusers, and the council of the Areopagus must ever condemn him to death by hemlock.
+
+**[67:5]** And in the same way, according to the appointed cycles, Phalaris must always play the tyrant, and Alexander of Pherae commit the same acts of cruelty, and those condemned to the bull of Phalaris continually pour forth their wailings from it.
+
+**[67:6]** But if these things be granted, I do not see how our free-will can be preserved, or how praise or blame can be administered with propriety.
+
+**[67:7]** We may say further to Celsus, in answer to such a view, that "if the course of moral things be always the same from beginning to end, and if, according to the appointed cycles, the same events must always occur in the past, present, and future," then, according to the appointed cycles, Moses must again come forth from Egypt with the Jewish people, and Jesus again come to dwell in human life, and perform the same actions which (according to this view) he has done not once, but countless times, as the periods have revolved.
+
+**[67:8]** Nay, Christians too will be the same in the appointed cycles; and Celsus will again write this treatise of his, which he has done innumerable times before.
+
+**[68:1]** Celsus, however, says that it is only "the course of mortal things which, according to the appointed cycles, must always be the same in the past, present, and future;" whereas the majority of the Stoics maintain that this is the case not only with the course of mortal, but also with that of immortal things, and of those whom they regard as gods.
+
+**[68:2]** For after the conflagration of the world, which has taken place countless times in the past, and will happen countless times in the future, there has been, and will be, the same arrangement of all things from the beginning to the end.
+
+**[68:3]** The Stoics, indeed, in endeavouring to parry, I don't know how, the objections raised to their views, allege that as cycle after cycle returns, all men will be altogether unchanged from those who lived in former cycles; so that Socrates will not live again, but one altogether like to Socrates, who will marry a wife exactly like Xanthippe, and will be accused by men exactly like Anytus and Melitus.
+
+**[68:4]** I do not understand, however, how the world is to be always the same, and one individual not different from another, and yet the things in it not the same, though exactly alike.
+
+**[68:5]** But the main argument in answer to the statements of Celsus and of the Stoics will be more appropriately investigated elsewhere, since on the present occasion it is not consistent with the purpose we have in view to expatiate on these points.
+
+**[69:1]** He continues to say that "neither have visible things been given to man (by God), but each individual thing comes into existence and perishes for the sake of the safety of the whole passing agreeably to the change, which I have already mentioned, from one thing to another".
+
+**[69:2]** It is unnecessary, however, to linger over the refutation of these statements, which have been already refuted to the best of my ability.
+
+**[69:3]** And the following, too, has been answered, viz.
+
+**[69:4]** , that "there will neither be more nor less good and evil among mortals".
+
+**[69:5]** This point also has been referred to, viz.
+
+**[69:6]** , that "God does not need to amend His work afresh".
+
+**[69:7]** But it is not as a man who has imperfectly designed some piece of workmanship, and executed it unskilfully, that God administers correction to the world, in purifying it by a flood or by a conflagration, but in order to prevent the tide of evil from rising to a greater height; and, moreover, I am of opinion that it is at periods which are precisely determined beforehand that He sweeps wickedness away, so as to contribute to the good of the whole world.
+
+**[69:8]** If, however, he should assert that, after the disappearance of evil, it again comes into existence, such questions will have to be examined in a special treatise.
+
+**[69:9]** It is, then, always in order to repair what has become faulty that God desires to amend His work afresh.
+
+**[69:10]** For although, in the creation of the world, all things had been arranged by Him in the most beautiful and stable manner, He nevertheless needed to exercise some healing power upon those who were labouring under the disease of wickedness, and upon a whole world, which was polluted as it were thereby.
+
+**[69:11]** But nothing has been neglected by God, or will be neglected by Him; for He does at each particular juncture what it becomes Him to do in a perverted and changed world.
+
+**[69:12]** And as a husbandman performs different acts of husbandry upon the soil and its productions, according to the varying seasons of the year, so God administers entire ages of time, as if they were, so to speak, so many individual years, performing during each one of them what is requisite with a reasonable regard to the care of the world; and this, as it is truly understood by God alone, so also is it accomplished by Him.
+
+**[70:1]** Celsus has made a statement regarding evils of the following nature, viz.
+
+**[70:2]** , that "although a thing may seem to you to be evil, it is by no means certain that it is so; for you do not know what is of advantage to yourself, or to another, or to the whole world".
+
+**[70:3]** Now this assertion is made with a certain degree of caution; and it hints that the nature of evil is not wholly wicked, because that which may be considered so in individual cases, may contain something which is of advantage to the whole community.
+
+**[70:4]** However, lest any one should mistake my words, and find a pretence of wrongdoing, as if his wickedness were profitable to the world, or at least might be so, we have to say, that although God, who preserves the free-will of each individual, may make use of the evil of the wicked for the administration of the world, so disposing them as to conduce to the benefit of the whole; yet, notwithstanding, such an individual is deserving of censure, and as such has been appointed for a use, which is a subject of loathing to each separate individual, although of advantage to the whole community.
+
+**[70:5]** It is as if one were to say that in the case of a city, a man who had committed certain crimes, and on account of these had been condemned to serve in public works that were useful to the community, did something that was of advantage to the entire city, while he himself was engaged in an abominable task, in which no one possessed of moderate understanding would wish to be engaged.
+
+**[70:6]** Paul also, the apostle of Jesus, teaches us that even the very wicked will contribute to the good of the whole, while in themselves they will be amongst the vile, but that the most virtuous men, too, will be of the greatest advantage to the world, and will therefore on that account occupy the noblest position.
+
+**[70:7]** His words are: "But in a great house there are not only vessels of gold and silver, but also of wood and of earth; and some to honour, and some to dishonour.
+
+**[70:8]** If a man therefore purge himself, he shall be a vessel unto honour, sanctified and meet for the Master's use, prepared unto every good work".
+
+**[70:9]** These remarks I have thought it necessary to make in reply to the assertion, that "although a thing may seem to you to be evil, it is by no means certain that it is so, for you do not know what is of advantage either to yourself or to another," in order that no one may take occasion from what has been said on the subject to commit sin, on the pretext that he will thus be useful to the world.
+
+**[71:1]** But as, in what follows, Celsus, not understanding that the language of Scripture regarding God is adapted to an anthropopathic point of view, ridicules those passages which speak of words of anger addressed to the ungodly, and of threatenings directed against sinners, we have to say that, as we ourselves, when talking with very young children, do not aim at exerting our own power of eloquence, but, adapting ourselves to the weakness of our charge, both say and do those things which may appear to us useful for the correction and improvement of the children as children, so the word of God appears to have dealt with the history, making the capacity of the hearers, and the benefit which they were to receive, the standard of the appropriateness of its announcements (regarding Him).
+
+**[71:2]** And, generally, with regard to such a style of speaking about God, we find in the book of Deuteronomy the following: "The Lord thy God bare with your manners, as a man would bear with the manners of his son".
+
+**[71:3]** It is, as it were, assuming the manners of a man in order to secure the advantage of men that the Scripture makes use of such expressions; for it would not have been suitable to the condition of the multitude, that what God had to say to them should be spoken by Him in a manner more befitting the majesty of His own person.
+
+**[71:4]** And yet he who is anxious to attain a true understanding of holy Scripture, will discover the spiritual truths which are spoken by it to those who are called "spiritual," by comparing the meaning of what is addressed to those of weaker mind with what is announced to such as are of acuter understanding, both meanings being frequently found in the same passage by him who is capable of comprehending it.
+
+**[72:1]** We speak, indeed, of the "wrath" of God.
+
+**[72:2]** We do not, however, assert that it indicates any "passion" on His part, but that it is something which is assumed in order to discipline by stern means those sinners who have committed many and grievous sins.
+
+**[72:3]** For that which is called God's "wrath," and "anger," is a means of discipline; and that such a view is agreeable to Scripture, is evident from what is said in the sixth Psalm, "O Lord, rebuke me not in Thine anger, neither chasten me in Thy hot displeasure;" and also in Jeremiah.
+
+**[72:4]** "O Lord, correct me, but with judgment: not in Thine anger, lest Thou bring me to nothing".
+
+**[72:5]** Any one, moreover, who reads in the second book of Kings of the "wrath" of God, inducing David to number the people, and finds from the first book of Chronicles that it was the devil who suggested this measure, will, on comparing together the two statements, easily see for what purpose the "wrath" is mentioned, of which "wrath," as the Apostle Paul declares, all men are children: "We were by nature children of wrath, even as others".
+
+**[72:6]** Moreover, that "wrath" is no passion on the part of God, but that each one brings it upon himself by his sins, will be clear from the further statement of Paul: "Or despisest thou the riches of His goodness, and forbearance, and long-suffering, not knowing that the goodness of God leadeth thee to repentance? But after thy hardness and impenitent heart, treasurest up unto thyself wrath against the day of wrath, and revelation of the righteous judgment of God".
+
+**[72:7]** How, then, can any one treasure up for himself "wrath" against a "day of wrath," if "wrath" be understood in the sense of "passion?" or how can the "passion of wrath" be a help to discipline? Besides, the Scripture, which tells us not to be angry at all, and which says in the thirty-seventh Psalm, "Cease from anger, and forsake wrath," and which commands us by the mouth of Paul to "put off all these, anger, wrath, malice, blasphemy, filthy communication," would not involve God in the same passion from which it would have us to be altogether free.
+
+**[72:8]** It is manifest, further, that the language used regarding the wrath of God is to be understood figuratively from what is related of His "sleep," from which, as if awaking Him, the prophet says: "Awake, why sleepest Thou, Lord?" and again: "Then the Lord awaked as one out of sleep, and like a mighty man that shouteth by reason of wine".
+
+**[72:9]** If, then, "sleep" must mean something else, and not what the first acceptation of the word conveys, why should not "wrath" also be understood in a similar way? The "threatenings," again, are intimations of the (punishments) which are to befall the wicked: for it is as if one were to call the words of a physician "threats," when he tells his patients, "I will have to use the knife, and apply cauteries, if you do not obey my prescriptions, and regulate your diet and mode of life in such a way as I direct you".
+
+**[72:10]** It is no human passions, then, which we ascribe to God, nor impious opinions which we entertain of Him; nor do we err when we present the various narratives concerning Him, drawn from the Scriptures themselves, after careful comparison one with another.
+
+**[72:11]** For those who are wise ambassadors of the "word" have no other object in view than to free as far as they can their hearers from weak opinions, and to endue them with intelligence.
+
+**[73:1]** And as a sequel to his non-understanding of the statements regarding the "wrath" of God, he continues: "Is it not ridiculous to suppose that, whereas a man, who became angry with the Jews, slew them all from the youth upwards, and burned their city (so powerless were they to resist him), the mighty God, as they say, being angry, and indignant, and uttering threats, should, (instead of punishing them) send His own Son, who endured the sufferings which He did?" If the Jews, then, after the treatment which they dared to inflict upon Jesus, perished with all their youth, and had their city consumed by fire, they suffered this punishment in consequence of no other wrath than that which they treasured up for themselves; for the judgment of God against them, which was determined by the divine appointment, is termed "wrath" agreeably to a traditional usage of the Hebrews.
+
+**[73:2]** And what the Son of the mighty God suffered, He suffered voluntarily for the salvation of men, as has been stated to the best of my ability in the preceding pages.
+
+**[73:3]** He then continues: "But that I may speak not of the Jews alone (for that is not my object), but of the whole of nature, as I promised, I will bring out more clearly what has been already stated".
+
+**[73:4]** Now what modest man, on reading these words, and knowing the weakness of humanity, would not be indignant at the offensive nature of the promise to give an account of the "whole of nature," and at an arrogance like that which prompted him to inscribe upon his book the title which he ventured to give it (of a True Discourse)? But let us see what he has to say regarding the "whole of nature," and what he is to place "in a clearer light".
+
+**[74:1]** He next, in many words, blames us for asserting that God made all things for the sake of man.
+
+**[74:2]** Because from the history of animals, and from the sagacity manifested by them, he would show that all things came into existence not more for the sake of man than of the irrational animals.
+
+**[74:3]** And here he seems to me to speak in a similar manner to those who, through dislike of their enemies, accuse them of the same things for which their own friends are commended.
+
+**[74:4]** For as, in the instance referred to, hatred blinds these persons from seeing that they are accusing their very dearest friends by the means through which they think they are slandering their enemies; so in the same way, Celsus also, becoming confused in his argument, does not see that he is bringing a charge against the philosophers of the Porch, who, not amiss, place man in the foremost rank, and rational nature in general before irrational animals, and who maintain that Providence created all things mainly on account of rational nature.
+
+**[74:5]** Rational beings, then, as being the principal ones, occupy the place, as it were, of children in the womb, while irrational and soulless beings hold that of the envelope which is created along with the child.
+
+**[74:6]** I think, too, that as in cities the superintendents of the goods and market discharge their duties for the sake of no other than human beings, while dogs and other irrational animals have the benefit of the superabundance; so Providence provides in a special manner for rational creatures; while this also follows, that irrational creatures likewise enjoy the benefit of what is done for the sake of man.
+
+**[74:7]** And as he is in error who alleges that the superintendents of the markets make provision in no greater degree for men than for dogs, because dogs also get their share of the goods; so in a far greater degree are Celsus and they who think with him guilty of impiety towards the God who makes provision for rational beings, in asserting that His arrangements are made in no greater degree for the sustenance of human beings than for that of plants, and trees, and herbs, and thorns.
+
+**[75:1]** For, in the first place, he is of opinion that "thunders, and lightnings, and rains are not the works of God,"—thus showing more clearly at last his Epicurean leanings; and in the second place, that "even if one were to grant that these were the works of God, they are brought into existence not more for the support of us who are human beings, than for that of plants, and trees, and herbs, and thorns,"—maintaining, like a true Epicurean, that these things are the product of chance, and not the work of Providence.
+
+**[75:2]** For if these things are of no more use to us than to plants, and trees, and herbs, and thorns, it is evident either that they do not proceed from Providence at all, or from a providence which does not provide for us in a greater degree than for trees, and herbs, and thorns.
+
+**[75:3]** Now, either of these suppositions is impious in itself, and it would be foolish to refute such statements by answering any one who brought against us the charge of impiety; for it is manifest to every one, from what has been said, who is the person guilty of impiety.
+
+**[75:4]** In the next place, he adds: "Although you may say that these things, viz.
+
+**[75:5]** , plants, and trees, and herbs, and thorns, grow for the use of men, why will you maintain that they grow for the use of men rather than for that of the most savage of irrational animals?" Let Celsus then say distinctly that the great diversity among the products of the earth is not the work of Providence, but that a certain fortuitous concurrence of atoms gave birth to qualities so diverse, and that it was owing to chance that so many kinds of plants, and trees, and herbs resemble one another, and that no disposing reason gave existence to them, and that they do not derive their origin from an understanding that is beyond all admiration.
+
+**[75:6]** We Christians, however, who are devoted to the worship of the only God, who created these things, feel grateful for them to Him who made them, because not only for us, but also (on our account) for the animals which are subject to us, He has prepared such a home, seeing "He causeth the grass to grow for the cattle, and herb for the service of man, that He may bring forth food out of the earth, and wine that maketh glad the heart of man, and oil to make his face to shine, and bread which strengtheneth man's heart".
+
+**[75:7]** But that He should have provided food even for the most savage animals is not matter of surprise, for these very animals are said by some who have philosophized (upon the subject) to have been created for the purpose of affording exercise to the rational creature.
+
+**[75:8]** And one of our own wise men says somewhere: "Do not say, What is this? or Wherefore is that? for all things have been made for their uses.
+
+**[75:9]** And do not say, What is this? or Wherefore is that? for everything shall be sought out in its season".
+
+**[76:1]** After this, Celsus, desirous of maintaining that Providence created the products of the earth, not more on our account than on that of the most savage animals, thus proceeds: "We indeed by labour and suffering earn a scanty and toilsome subsistence, while all things are produced for them without their sowing and ploughing".
+
+**[76:2]** He does not observe that God, wishing to exercise the human understanding in all countries (that it might not remain idle and unacquainted with the arts), created man a being full of wants, in order that by virtue of his very needy condition he might be compelled to be the inventor of arts, some of which minister to his subsistence, and others to his protection.
+
+**[76:3]** For it was better that those who would not have sought out divine things, nor engaged in the study of philosophy, should be placed in a condition of want, in order that they might employ their understanding in the invention of the arts, than that they should altogether neglect the cultivation of their minds, because their condition was one of abundance.
+
+**[76:4]** The want of the necessaries of human life led to the invention on the one hand of the art of husbandry, on the other to that of the cultivation of the vine; again, to the art of gardening, and the arts of carpentry and smithwork, by means of which were formed the tools required for the arts which minister to the support of life.
+
+**[76:5]** The want of covering, again, introduced the art of weaving, which followed that of wool-carding and spinning; and again, that of house-building: and thus the intelligence of men ascended even to the art of architecture.
+
+**[76:6]** The want of necessaries caused the products also of other places to be conveyed, by means of the arts of sailing and pilotage, to those who were without them; so that even on that account one might admire the Providence which made the rational being subject to want in a far higher degree than the irrational animals, and yet all with a view to his advantage.
+
+**[76:7]** For the irrational animals have their food provided for them, because there is not in them even an impulse towards the invention of the arts.
+
+**[76:8]** They have, besides, a natural covering; for they are provided either with hair, or wings, or scales, or shells.
+
+**[76:9]** Let the above, then, be our answer to the assertions of Celsus, when he says that "we indeed by labour and suffering earn a scanty and toilsome subsistence, while all things are produced for them without their sowing and ploughing".
+
+**[77:1]** In the next place, forgetting that his object is to accuse both Jews and Christians, he quotes against himself an iambic verse of Euripides, which is opposed to his view, and, joining issue with the words, charges them with being an erroneous statement.
+
+**[77:2]** His words are as follow: "But if you will quote the saying of Euripides, that  'The Sun and Night are to mortals slaves,'  why should they be so in a greater degree to us than to ants and flies? For the night is created for them in order that they may rest, and the day that they may see and resume their work".
+
+**[77:3]** Now it is undoubted, that not only have certain of the Jews and Christians declared that the sun and the heavenly bodies are our servants; but he also has said this, who, according to some, is the philosopher of the stage, and who was a hearer of the lectures on the philosophy of nature delivered by Anaxagoras.
+
+**[77:4]** But this man asserts that all things in the world are subject to all rational beings,—one rational nature being taken to represent all, on the principle of a part standing for the whole; which, again, clearly appears from the verse:—  "The Sun and Night are to mortals slaves".
+
+**[77:5]** Perhaps the tragic poet meant the day when he said the sun, inasmuch as it is the cause of the day,—teaching that those things which most need the day and night are the things which are under the moon, and other things in a less degree than those which are upon the earth.
+
+**[77:6]** Day and night, then, are subject to mortals, being created for the sake of rational beings.
+
+**[77:7]** And if ants and flies, which labour by day and rest by night, have, besides, the benefit of those things which were created for the sake of men, we must not say that day and night were brought into being for the sake of ants and flies, nor must we suppose that they were created for the sake of nothing, but, agreeably to the design of Providence, were formed for the sake of man.
+
+**[78:1]** In the next place, in answer to the human race, who perceive their own superiority, which far exceeds that of the irrational animals, he says: "With respect to your assertion, that God gave you the power to capture wild beasts, and to make your own use of them, we would say that, in all probability, before cities were built, and arts invented, and societies such as now exist were formed, and weapons and nets employed, men were generally caught and devoured by wild beasts, while wild beasts were very seldom captured by men".
+
+**[78:2]** Now, in reference to this, observe that although men catch wild beasts, and wild beasts make prey of men, there is a great difference between the case of such as by means of their understanding obtain the mastery over those whose superiority consists in their savage and cruel nature, and that of those who do not make use of their understanding to secure their safety from injury by wild beasts.
+
+**[78:3]** But when Celsus says, "before cities were built, and arts invented, and societies such as now exist were formed," he appears to have forgotten what he had before said, that "the world was uncreated and incorruptible, and that it was only the things on earth which underwent deluges and conflagrations, and that all these things did not happen at the same time".
+
+**[78:4]** Now let it be granted that these admissions on his part are entirely in harmony with our views, though not at all with him and his statements made above; yet what does it all avail to prove that in the beginning men were mostly captured and devoured by wild beasts, while wild beasts were never caught by men? For, since the world was created in conformity with the will of Providence, and God presided over the universe of things, it was necessary that the elements of the human race should at the commencement of its existence be placed under some protection of the higher powers, so that there might be formed from the beginning a union of the divine nature with that of men.
+
+**[78:5]** And the poet of Ascra, perceiving this, sings:—  "For common then were banquets, and common were seats,  Alike to immortal gods and mortal men".
+
+**[79:1]** Those holy Scriptures, moreover, which bear the name of Moses, introduce the first men as hearing divine voices and oracles, and beholding sometimes the angels of God coming to visit them.
+
+**[79:2]** For it was probable that in the beginning of the world's existence human nature would be assisted to a greater degree (than afterwards), until progress had been made towards the attainment of understanding and the other virtues, and the invention of the arts, and they should thus be able to maintain life of themselves, and no longer stand in need of superintendents, and of those to guide them who do so with a miraculous manifestation of the means which subserve the will of God.
+
+**[79:3]** Now it follows from this, that it is false that "in the beginning men were captured and devoured by wild beasts, while wild beasts were very seldom caught by men".
+
+**[79:4]** And from this, too, it is evident that the following statement of Celsus is untrue, that "in this way God rather subjected men to wild beasts".
+
+**[79:5]** For God did not subject men to wild beasts, but gave wild beasts to be a prey to the understanding of man, and to the arts, which are directed against them, and which are the product of the understanding.
+
+**[79:6]** For it was not without the help of God that men desired for themselves the means of protection against wild beasts, and of securing the mastery over them.
+
+**[80:1]** Our noble opponent, however, not observing how many philosophers there are who admit the existence of Providence, and who hold that Providence created all things for the sake of rational beings, overturns as far as he can those doctrines which are of use in showing the harmony that prevails in these matters between Christianity and philosophy; nor does he see how great is the injury done to religion from accepting the statement that before God there is no difference between a man and an ant or a bee, but proceeds to add, that "if men appear to be superior to irrational animals on this account, that they have built cities, and make use of a political constitution, and forms of government, and sovereignties, this is to say nothing to the purpose, for ants and bees do the same.
+
+**[80:2]** Bees, indeed, have a sovereign, who has followers and attendants; and there occur among them wars and victories, and slaughterings of the vanquished, and cities and suburbs, and a succession of labours, and judgments passed upon the idle and the wicked; for the drones are driven away and punished".
+
+**[80:3]** Now here he did not observe the difference that exists between what is done after reason and consideration, and what is the result of an irrational nature, and is purely mechanical.
+
+**[80:4]** For the origin of these things is not explained by the existence of any rational principle in those who make them, because they do not possess any such principle; but the most ancient Being, who is also the Son of God, and the King of all things that exist, has created an irrational nature, which, as being irrational, acts as a help to those who are deemed worthy of reason.
+
+**[80:5]** Cities, accordingly, were established among men, with many arts and well-arranged laws; while constitutions, and governments, and sovereignties among men are either such as are properly so termed, and which exemplify certain virtuous tendencies and workings, or they are those which are improperly so called, and which were devised, so far as could be done, in imitation of the former: for it was by contemplating these that the most successful legislators established the best constitutions, and governments, and sovereignties.
+
+**[80:6]** None of these things, however, can be found among irrational animals, although Celsus may transfer rational names, and arrangements which belong to rational beings, as cities and constitutions, and rulers and sovereignties, even to ants and bees; in respect to which matters, however, ants and bees merit no approval, because they do not act from reflection.
+
+**[80:7]** But we ought to admire the divine nature, which extended even to irrational animals the capacity, as it were, of imitating rational beings, perhaps with a view of putting rational beings to shame; so that by looking upon ants, for instance, they might become more industrious and more thrifty in the management of their goods; while, by considering the bees, they might place themselves in subjection to their Ruler, and take their respective parts in those constitutional duties which are of use in ensuring the safety of cities.
+
+**[81:1]** Perhaps also the so-called wars among the bees convey instruction as to the manner in which wars, if ever there arise a necessity for them, should be waged in a just and orderly way among men.
+
+**[81:2]** But the bees have no cities or suburbs; while their hives and hexagonal cells, and succession of labours, are for the sake of men, who require honey for many purposes, both for cure of disordered bodies, and as a pure article of food.
+
+**[81:3]** Nor ought we to compare the proceedings taken by the bees against the drones with the judgments and punishments inflicted on the idle and wicked in cities.
+
+**[81:4]** But, as I formerly said, we ought on the one hand in these things to admire the divine nature, and on the other to express our admiration of man, who is capable of considering and admiring all things (as co-operating with Providence), and who executes not merely the works which are determined by the providence of God, but also those which are the consequences of his own foresight.
+
+**[82:1]** After Celsus has finished speaking of the bees, in order to depreciate (as far as he can) the cities, and constitutions, and governments, and sovereignties not only of us Christians, but of all mankind, as well as the wars which men undertake on behalf of their native countries, he proceeds, by way of digression, to pass a eulogy upon the ants, in order that, while praising them, he may compare the measures which men take to secure their subsistence with those adopted by these insects, and so evince his contempt for the forethought which makes provision for winter, as being nothing higher than the irrational providence of the ants, as he regards it.
+
+**[82:2]** Now might not some of the more simple-minded, and such as know not how to look into the nature of all things, be turned away (so far, at least, as Celsus could accomplish it) from helping those who are weighed down with the burdens (of life), and from sharing their toils, when he says of the ants, that "they help one another with their loads, when they see one of their number toiling under them?" For he who needs to be disciplined by the word, but who does not at all understand its voice, will say: "Since, then, there is no difference between us and the ants, even when we help those who are weary with bearing their heavy burdens, why should we continue to do so to no purpose?" And would not the ants, as being irrational creature, be greatly puffed up, and think highly of themselves, because their works were compared to those of men? while men, on the other hand, who by means of their reason are enabled to hear how their philanthropy towards others is contemned, would be injured, so far as could be effected by Celsus and his arguments: for he does not perceive that, while he wishes to turn away from Christianity those who read his treatise, he turns away also the sympathy of those who are not Christians from those who bear the heaviest burdens (of life).
+
+**[82:3]** Whereas, had he been a philosopher, who was capable of perceiving the good which men may do each other, he ought, in addition to not removing along with Christianity the blessings which are found amongst men, to have lent his aid to co-operate (if he had it in his power) with those principles of excellence which are common to Christianity and the rest of mankind.
+
+**[82:4]** Moreover, even if the ants set apart in a place by themselves those grains which sprout forth, that they may not swell into bud, but may continue throughout the year as their food, this is not to be deemed as evidence of the existence of reason among ants, but as the work of the universal mother, Nature, which adorned even irrational animals, so that even the most insignificant is not omitted, but bears traces of the reason implanted in it by nature.
+
+**[82:5]** Unless, indeed, by these assertions Celsus means obscurely to intimate (for in many instances he would like to adopt Platonic ideas) that all souls are of the same species, and that there is no difference between that of a man and those of ants and bees, which is the act of one who would bring down the soul from the vault of heaven, and cause it to enter not only a human body, but that of an animal.
+
+**[82:6]** Christians, however, will not yield their assent to such opinions: for they have been instructed before now that the human soul was created in the image of God; and they see that it is impossible for a nature fashioned in the divine image to have its (original) features altogether obliterated, and to assume others, formed after I know not what likeness of irrational animals.
+
+**[83:1]** And since he asserts that, "when ants die, the survivors set apart a special place (for their interment), and that their ancestral sepulchres such a place is," we have to answer, that the greater the laudations which he heaps upon irrational animals, so much the more does he magnify (although against his will) the work of that reason which arranged all things in order, and points out the skill which exists among men, and which is capable of adorning by its reason even the gifts which are bestowed by nature on the irrational creation.
+
+**[83:2]** But why do I say "irrational," since Celsus is of opinion that these animals, which, agreeably to the common ideas of all men, are termed irrational, are not really so? Nor does he regard the ants as devoid of reason, who professed to speak of "universal nature," and who boasted of his truthfulness in the inscription of his book.
+
+**[83:3]** For, speaking of the ants conversing with one another, he uses the following language: "And when they meet one another they enter into conversation, for which reason they never mistake their way; consequently they possess a full endowment of reason, and some common ideas on certain general subjects, and a voice by which they express themselves regarding accidental things".
+
+**[83:4]** Now conversation between one man and another is carried on by means of a voice, which gives expression to the meaning intended, and which also gives utterances concerning what are called "accidental things;" but to say that this was the case with ants would be a most ridiculous assertion.
+
+**[84:1]** He is not ashamed, moreover, to say, in addition to these statements (that the unseemly character of his opinions may be manifest to those who will live after him): "Come now, if one were to look down from heaven upon earth, in what respect would our actions appear to differ from those of ants and bees?" Now does he who, according to his own supposition, looks from heaven upon the proceedings of men and ants, look upon their bodies alone, and not rather have regard to the controlling reason which is called into action by reflection; while, on the other hand, the guiding principle of the latter is irrational, and set in motion irrationally by impulse and fancy, in conjunction with a certain natural apparatus? But it is absurd to suppose that he who looks from heaven upon earthly things would desire to look from such a distance upon the bodies of men and ants, and would not rather consider the nature of the guiding principles, and the source of impulses, whether that be rational or irrational.
+
+**[84:2]** And if he once look upon the source of all impulses, it is manifest that he would behold also the difference which exists, and the superiority of man, not only over ants, but even over elephants.
+
+**[84:3]** For he who looks from heaven will see among irrational creatures, however large their bodies, no other principle than, so to speak, irrationality; while amongst rational beings he will discover reason, the common possession of men, and of divine and heavenly beings, and perhaps of the Supreme God Himself, on account of which man is said to have been created in the image of God, for the image of the Supreme God is his reason.
+
+**[85:1]** Immediately after this, as if doing his utmost to reduce the human race to a still lower position, and to bring them to the level of the irrational animals, and desiring to omit not a single circumstance related of the latter which manifests their greatness, he declares that "in certain individuals among the irrational creation there exists the power of sorcery;" so that even in this particular men cannot specially pride themselves, nor wish to arrogate a superiority over irrational creatures.
+
+**[85:2]** And the following are his words: "If, however, men entertain lofty notions because of their possessing the power of sorcery, yet even in that respect are serpents and eagles their superiors in wisdom; for they are acquainted with many prophylactics against persons and diseases, and also with the virtues of certain stones which help to preserve their young.
+
+**[85:3]** If men, however, fall in with these, they think that they have gained a wonderful possession".
+
+**[85:4]** Now, in the first place, I know not why he should designate as sorcery the knowledge of natural prophylactics displayed by animals,—whether that knowledge be the result of experience, or of some natural power of apprehension; for the term "sorcery" has by usage been assigned to something else.
+
+**[85:5]** Perhaps, indeed, he wishes quietly, as an Epicurean, to censure the entire use of such arts, as resting only on the professions of sorcerers.
+
+**[85:6]** However, let it be granted him that men do pride themselves greatly upon the knowledge of such arts, whether they are sorcerers or not: how can serpents be in this respect wiser than men, when they make use of the well-known fennel to sharpen their power of vision and to produce rapidity of movement, having obtained this natural power not from the exercise of reflection, but from the constitution of their body, while men do not, like serpents, arrive at such knowledge merely by nature, but partly by experiment, partly by reason, and sometimes by reflection and knowledge? So, if eagles, too, in order to preserve their young in the nest, carry thither the eagle-stone when they have discovered it, how does it appear that they are wise, and more intelligent than men, who find out by the exercise of their reflective powers and of their understanding what has been bestowed by nature upon eagles as a gift?.
+
+**[86:1]** Let it be granted, however, that there are other prophylactics against poisons known to animals: what does that avail to prove that it is not nature, but reason, which leads to the discovery of such things among them? For if reason were the discoverer, this one thing (or, if you will, one or two more things) would not be (exclusive of all others) the sole discovery made by serpents, and some other thing the sole discovery of the eagle, and so on with the rest of the animals; but as many discoveries would have been made amongst them as among men.
+
+**[86:2]** But now it is manifest from the determinate inclination of the nature of each animal towards certain kinds of help, that they possess neither wisdom nor reason, but a natural constitutional tendency implanted by the Logos towards such things in order to ensure the preservation of the animal.
+
+**[86:3]** And, indeed, if I wished to join issue with Celsus in these matters, I might quote the words of Solomon from the book of Proverbs, which run thus: "There be four things which are little upon the earth, but these are wiser than the wise: The ants are a people not strong, yet they prepare their meat in the summer; the conies are but a feeble folk, yet make they their houses in the rocks; the locusts have no king, yet go they forth in order at one command; and the spotted lizard, though leaning upon its hands, and being easily captured, dwelleth in kings' fortresses".
+
+**[86:4]** I do not quote these words, however, as taking them in their literal signification, but, agreeably to the title of the book (for it is inscribed "Proverbs"), I investigate them as containing a secret meaning.
+
+**[86:5]** For it is the custom of these writers (of Scripture) to distribute into many classes those writings which express one sense when taken literally, but which convey a different signification as their hidden meaning; and one of these kinds of writing is "Proverbs".
+
+**[86:6]** And for this reason, in our Gospels too, is our Saviour described as saying: "These things have I spoken to you in proverbs, but the time cometh when I shall no more speak unto you in proverbs".
+
+**[86:7]** It is not, then, the visible ants which are "wiser even than the wise," but they who are indicated as such under the "proverbial" style of expression.
+
+**[86:8]** And such must be our conclusion regarding the rest of the animal creation, although Celsus regards the books of the Jews and Christians as exceedingly simple and commonplace, and imagines that those who give them an allegorical interpretation do violence to the meaning of the writers.
+
+**[86:9]** By what we have said, then, let it appear that Celsus calumniates us in vain, and let his assertions that serpents and eagles are wiser than men also receive their refutation.
+
+**[87:1]** And wishing to show at greater length that even the thoughts of God entertained by the human race are not superior to those of all other mortal creatures, but that certain of the irrational animals are capable of thinking about Him regarding whom opinions so discordant have existed among the most acute of mankind—Greeks and Barbarians—he continues: "If, because man has been able to grasp the idea of God, he is deemed superior to the other animals, let those who hold this opinion know that this capacity will be claimed by many of the other animals; and with good reason: for what would any one maintain to be more divine than the power of foreknowing and predicting future events? Men accordingly acquire the art from the other animals, and especially from birds.
+
+**[87:2]** And those who listen to the indications furnished by them, become possessed of the gift of prophecy.
+
+**[87:3]** If, then, birds, and the other prophetic animals, which are enabled by the gift of God to foreknow events, instruct us by means of signs, so much the nearer do they seem to be to the society of God, and to be endowed with greater wisdom, and to be more beloved by Him.
+
+**[87:4]** The more intelligent of men, moreover, say that the animals hold meetings which are more sacred than our assemblies, and that they know what is said at these meetings, and show that in reality they possess this knowledge, when, having previously stated that the birds have declared their intention of departing to some particular place, and of doing this thing or the other, the truth of their assertions is established by the departure of the birds to the place in question, and by their doing what was foretold.
+
+**[87:5]** And no race of animals appears to be more observant of oaths than the elephants are, or to show greater devotion to divine things; and this, I presume, solely because they have some knowledge of God".
+
+**[87:6]** See here now how he at once lays hold of, and brings forward as acknowledged facts, questions which are the subject of dispute among those philosophers, not only among the Greeks, but also among the Barbarians, who have either discovered or learned from certain demons some things about birds of augury and other animals, by which certain prophetic intimations are said to be made to men.
+
+**[87:7]** For, in the first place, it has been disputed whether there is an art of augury, and, in general, a method of divination by animals, or not.
+
+**[87:8]** And, in the second place, they who admit that there is an art of divination by birds, are not agreed about the manner of the divination; since some maintain that it is from certain demons or gods of divination that the animals receive their impulses to action—the birds to flights and sounds of different kinds, and the other animals to movements of one sort or another.
+
+**[87:9]** Others, again, believe that their souls are more divine in their nature, and fitted to operations of that kind, which is a most incredible supposition.
+
+**[88:1]** Celsus, however, seeing he wished to prove by the foregoing statements that the irrational animals are more divine and intelligent than human beings, ought to have established at greater length the actual existence of such an art of divination, and in the next place have energetically undertaken its defence, and effectually refuted the arguments of those who would annihilate such arts of divination, and have overturned in a convincing manner also the arguments of those who say that it is from demons or from gods that animals receive the movements which lead them to divination, and to have proved in the next place that the soul of irrational animals is more divine than that of man.
+
+**[88:2]** For, had he done so, and manifested a philosophical spirit in dealing with such things, we should to the best of our power have met his confident assertions, refuting in the first place the allegation that irrational animals are wiser than men, and showing the falsity of the statement that they have ideas of God more sacred than ours, and that they hold among themselves certain sacred assemblies.
+
+**[88:3]** But now, on the contrary, he who accuses us because we believe in the Supreme God, requires us to believe that the souls of birds entertain ideas of God more divine and distinct than those of men.
+
+**[88:4]** Yet if this is true, the birds have clearer ideas of God than Celsus himself; and it is not matter of surprise that it should be so with him, who so greatly depreciates human beings.
+
+**[88:5]** Nay, so far as Celsus can make it appear, the birds possess grander and more divine ideas than, I do not say we Christians do, or than the Jews, who use the same Scriptures with ourselves, but even than are possessed by the theologians among the Greeks, for they were only human beings.
+
+**[88:6]** According to Celsus, indeed, the tribe of birds that practise divination, forsooth, understand the nature of the Divine Being better than Pherecydes, and Pythagoras, and Socrates and Plato! We ought then to go to the birds as our teachers, in order that as, according to the view of Celsus, they instruct us by their power of divination in the knowledge of future events, so also they may free men from doubts regarding the Divine Being, by imparting to them the clear ideas which they have obtained respecting Him! It follows, accordingly, that Celsus, who regards birds as superior to men, ought to employ them as his instructors, and not one of the Greek philosophers.
+
+**[89:1]** But we have a few remarks to make, out of a larger number, in answer to these statements of Celsus, that we may show the ingratitude towards his Maker which is involved in his holding these false opinions.
+
+**[89:2]** For Celsus, although a man, and "being in honour," does not possess understanding, and therefore he did not compare himself with the birds and the other irrational animals, which he regards as capable of divining; but yielding to them the foremost place, he lowered himself, and as far as he could the whole human race with him (as entertaining lower and inferior views of God than the irrational animals), beneath the Egyptians, who worship irrational animals as divinities.
+
+**[89:3]** Let the principal point of investigation, however, be this: whether there actually is or not an art of divination, by means of birds and other living things believed to have such power.
+
+**[89:4]** For the arguments which tend to establish either view are not to be despised.
+
+**[89:5]** On the one hand, it is pressed upon us not to admit such an art, lest the rational being should abandon the divine oracles, and betake himself to birds; and on the other, there is the energetic testimony of many, that numerous individuals have been saved from the greatest dangers by putting their trust in divination by birds.
+
+**[89:6]** For the present, however, let it be granted that an art of divination does exist, in order that I may in this way show to those who are prejudiced on the subject, that if this be admitted, the superiority of man over irrational animals, even over those that are endowed with power of divination, is great, and beyond all reach of comparison with the latter.
+
+**[89:7]** We have then to say, that if there was in them any divine nature capable of foretelling future events, and so rich (in that knowledge) as out of its superabundance to make them known to any man who wished to know them, it is manifest that they would know what concerned themselves far sooner (than what concerned others); and had they possessed this knowledge, they would have been upon their guard against flying to any particular place where men had planted snares and nets to catch them, or where archers took aim and shot at them in their flight.
+
+**[89:8]** And especially, were eagles aware beforehand of the designs formed against their young, either by serpents crawling up to their nests and destroying them, or by men who take them for their amusement, or for any other useful purpose or service, they would not have placed their young in a spot where they were to be attacked; and, in general, not one of these animals would have been captured by men, because they were more divine and intelligent than they.
+
+**[90:1]** But besides, if birds of augury converse with one another, as Celsus maintains they do, the prophetic birds having a divine nature, and the other rational animals also ideas of the divinity and foreknowledge of future events; and if they had communicated this knowledge to others, the sparrow mentioned in Homer would not have built her nest in the spot where a serpent was to devour her and her young ones, nor would the serpent in the writings of the same poet have failed to take precautions against being captured by the eagle.
+
+**[90:2]** For this wonderful poet says, in his poem regarding the former:—  "A mighty dragon shot, of dire portent;  From Jove himself the dreadful sign was sent.
+
+**[90:3]** Straight to the tree his sanguine spires he rolled,  And curled around in many a winding fold.
+
+**[90:4]** The topmost branch a mother-bird possessed;  Eight callow infants filled the mossy nest;  Herself the ninth: the serpent, as he hung,  Stretched his black jaws, and crashed the dying young;  While hovering near, with miserable moan,  The drooping mother wailed her children gone.
+
+**[90:5]** The mother last, as round the nest she flew,  Seized by the beating wing, the monster slew:  Nor long survived: to marble turned, he stands  A lasting prodigy on Aulis' sands.
+
+**[90:6]** Such was the will of Jove; and hence we dare  Trust in his omen, and support the war".
+
+**[90:7]** And regarding the second—the bird—the poet says:—  "Jove's bird on sounding pinions beat the skies;  A bleeding serpent of enormous size,  His talons twined; alive, and curling round,  He stung the bird, whose throat received the wound.
+
+**[90:8]** Mad with the smart, he drops the fatal prey,  In airy circles wings his painful way,  Floats on the winds, and rends the heaven with cries;  Amidst the host, the fallen serpent lies.
+
+**[90:9]** They, pale with terror, mark its spires unrolled,  And Jove's portent with beating hearts behold".
+
+**[90:10]** Did the eagle, then, possess the power of divination, and the serpent (since this animal also is made use of by the augurs) not? But as this distinction can be easily refuted, cannot the assertion that both were capable of divination be refuted also? For if the serpent had possessed this knowledge, would not he have been on his guard against suffering what he did from the eagle? And innumerable other instances of a similar character may be found, to show that animals do not possess a prophetic soul, but that, according to the poet and the majority of mankind, it is the "Olympian himself who sent him to the light".
+
+**[90:11]** And it is with a symbolical meaning that Apollo employs the hawk as his messenger, for the hawk is called the "swift messenger of Apollo".
+
+**[91:1]** In my opinion, however, it is certain wicked demons, and, so to speak, of the race of Titans or Giants, who have been guilty of impiety towards the true God, and towards the angels in heaven, and who have fallen from it, and who haunt the denser parts of bodies, and frequent unclean places upon earth, and who, possessing some power of distinguishing future events, because they are without bodies of earthly material, engage in an employment of this kind, and desiring to lead the human race away from the true God, secretly enter the bodies of the more rapacious and savage and wicked of animals, and stir them up to do whatever they choose, and at whatever time they choose: either turning the fancies of these animals to make flights and movements of various kinds, in order that men may be caught by the divining power that is in the irrational animals, and neglect to seek after the God who contains all things; or to search after the pure worship of God, but allow their reasoning powers to grovel on the earth, and amongst birds and serpents, and even foxes and wolves.
+
+**[91:2]** For it has been observed by those who are skilled in such matters, that the clearest prognostications are obtained from animals of this kind; because the demons cannot act so effectively in the milder sort of animals as they can in these, in consequence of the similarity between them in point of wickedness; and yet it is not wickedness, but something like wickedness, which exist in these animals.
+
+**[92:1]** For which reason, whatever else there may be in the writings of Moses which excites my wonder, I would say that the following is worthy of admiration, viz.
+
+**[92:2]** , that Moses, having observed the varying natures of animals, and having either learned from God what was peculiar to them, and to the demons which are kindred to each of the animals, or having himself ascertained these things by his own wisdom, has, in arranging the different kinds of animals, pronounced all those which are supposed by the Egyptians and the rest of mankind to possess the power of divination to be unclean, and, as a general rule, all that are not of that class to be clean.
+
+**[92:3]** And amongst the unclean animals mentioned by Moses are the wolf, and fox, and serpent, and eagle, and hawk, and such like.
+
+**[92:4]** And, generally speaking, you will find that not only in the law, but also in the prophets, these animals are employed as examples of all that is most wicked; and that a wolf or a fox is never mentioned for a good purpose.
+
+**[92:5]** Each species of demon, consequently, would seem to possess a certain affinity with a certain species of animal.
+
+**[92:6]** And as among men there are some who are stronger than others, and this not at all owing to their moral character, so, in the same way, some demons will be more powerful in things indifferent than others; and one class of them employs one kind of animal for the purpose of deluding men, in accordance with the will of him who is called in our Scriptures the "prince of this world," while others predict future events by means of another kind of animal.
+
+**[92:7]** Observe, moreover, to what a pitch of wickedness the demons proceed, so that they even assume the bodies of weasels in order to reveal the future! And now, consider with yourself whether it is better to accept the belief that it is the Supreme God and His Son who stir up the birds and the other living creatures to divination, or that those who stir up these creatures, and not human beings (although they are present before them), are wicked, and, as they are called by our Scriptures, unclean demons.
+
+**[93:1]** But if the soul of birds is to be esteemed divine because future events are predicted by them, why should we not rather maintain, that when omens are accepted by men, the souls of those are divine through which the omens are heard? Accordingly, among such would be ranked the female slave mentioned in Homer, who ground the corn, when she said regarding the suitors:—  "For the very last time, now, will they sup here".
+
+**[93:2]** This slave, then, was divine, while the great Ulysses, the friend of Homer's Pallas Athene, was not divine, but understanding the words spoken by this "divine" grinder of corn as an omen, rejoiced, as the poet says:—  "The divine Ulysses rejoiced at the omen".
+
+**[93:3]** Observe, now, as the birds are possessed of a divine soul, and are capable of perceiving God, or, as Celsus says, the gods, it is clear that when we men also sneeze, we do so in consequence of a kind of divinity that is within us, and which imparts a prophetic power to our soul.
+
+**[93:4]** For this belief is testified by many witnesses, and therefore the poet also says:—  "And while he prayed, he sneezed".
+
+**[93:5]** And Penelope, too, said:—  "Perceiv'st thou not that at every word my son did sneeze?".
+
+**[94:1]** The true God, however, neither employs irrational animals, nor any individuals whom chance may offer, to convey a knowledge of the future; but, on the contrary, the most pure and holy of human souls, whom He inspires and endows with prophetic power.
+
+**[94:2]** And therefore, whatever else in the Mosaic writings may excite our wonder, the following must be considered as fitted to do so: "Ye shall not practise augury, nor observe the flight of birds;" and in another place: "For the nations whom the Lord thy God will destroy from before thy face, shall listen to omens and divinations; but as for thee, the Lord thy God has not suffered thee to do so".
+
+**[94:3]** And he adds: "A prophet shall the Lord your God raise up unto you from among your brethren".
+
+**[94:4]** On one occasion, moreover, God, wishing by means of an augur to turn away (His people) from the practice of divination, caused the spirit that was in the augur to speak as follows: "For there is no enchantment in Jacob, nor is there divination in Israel.
+
+**[94:5]** In due time will it be declared to Jacob and Israel what the Lord will do".
+
+**[94:6]** And now, we who knew these and similar sayings wish to observe this precept with the mystical meaning, viz.
+
+**[94:7]** , "Keep thy heart with all diligence," that nothing of a demoniacal nature may enter into our minds, or any spirit of our adversaries turn our imagination whither it chooses.
+
+**[94:8]** But we pray that the light of the knowledge of the glory of God may shine in our hearts, and that the Spirit of God may dwell in our imaginations, and lead them to contemplate the things of God; for "as many as are led by the Spirit of God, they are the sons of God".
+
+**[95:1]** We ought to take note, however, that the power of foreknowing the future is by no means a proof of divinity; for in itself it is a thing indifferent, and is found occurring amongst both good and bad.
+
+**[95:2]** Physicians, at any rate, by means of their professional skill foreknow certain things, although their character may happen to be bad.
+
+**[95:3]** And in the same way also pilots, although perhaps wicked men, are able to foretell the signs (of good or bad weather), and the approach of violent tempests of wind, and atmospheric changes, because they gather this knowledge from experience and observation, although I do not suppose that on that account any one would term them "gods" if their characters happened to be bad.
+
+**[95:4]** The assertion, then, of Celsus is false, when he says: "What could be called more divine than the power of foreknowing and foretelling the future?" And so also is this, that "many of the animals claim to have ideas of God;" for none of the irrational animals possess any idea of God.
+
+**[95:5]** And wholly false, too, is his assertion, that "the irrational animals are nearer the society of God (than men)," when even men who are still in a state of wickedness, however great their progress in knowledge, are far removed from that society.
+
+**[95:6]** It is, then, those alone who are truly wise and sincerely religious who are nearer to God's society; such persons as were our prophets, and Moses, to the latter of whom, on account of his exceeding purity, the Scripture said: "Moses alone shall come near the Lord, but the rest shall not come nigh".
+
+**[96:1]** How impious, indeed, is the assertion of this man, who charges us with impiety, that "not only are the irrational animals wiser than the human race, but that they are more beloved by God (than they)!" And who would not be repelled (by horror) from paying any attention to a man who declared that a serpent, and a fox, and a wolf, and an eagle, and a hawk, were more beloved by God than the human race? For it follows from his maintaining such a position, that if these animals be more beloved by God than human beings, it is manifest that they are dearer to God than Socrates, and Plato, and Pythagoras, and Pherecydes, and those theologians whose praises he had sung a little before.
+
+**[96:2]** And one might address him with the prayer: "If these animals be dearer to God than men, may you be beloved of God along with them, and be made like to those whom you consider as dearer to Him than human beings!" And let no one suppose that such a prayer is meant as an imprecation; for who would not pray to resemble in all respects those whom he believes to be dearer to God than others, in order that he, like them, may enjoy the divine love? And as Celsus is desirous to show that the assemblies of the irrational animals are more sacred than ours, he ascribes the statement to that effect not to any ordinary individuals, but to persons of intelligence.
+
+**[96:3]** Yet it is the virtuous alone who are truly wise, for no wicked man is so.
+
+**[96:4]** He speaks, accordingly, in the following style: "Intelligent men say that these animals hold assemblies which are more sacred than ours, and that they know what is spoken at them, and actually prove that they are not without such knowledge, when they mention beforehand that the birds have announced their intention of departing to a particular place, or of doing this thing or that, and then show that they have departed to the place in question, and have done the particular thing which was foretold".
+
+**[96:5]** Now, truly, no person of intelligence ever related such things; nor did any wise man ever say that the assemblies of the irrational animals were more sacred than those of men.
+
+**[96:6]** But if, for the purpose of examining (the soundness of) his statements, we look to their consequences, it is evident that, in his opinion, the assemblies of the irrational animals are more sacred than those of the venerable Pherecydes, and Pythagoras, and Socrates, and Plato, and of philosophers in general; which assertion is not only incongruous in itself, but full of absurdity.
+
+**[96:7]** In order that we may believe, however, that certain individuals do learn from the indistinct sound of birds that they are about to take their departure, and do this thing or that, and announce these things beforehand, we would say that this information is imparted to men by demons by means of signs, with the view of having men deceived by demons, and having their understanding dragged down from God and heaven to earth, and to places lower still.
+
+**[97:1]** I do not know, moreover, how Celsus could hear of the elephants' (fidelity to) oaths, and of their great devotedness to our God, and of the knowledge which they possess of Him.
+
+**[97:2]** For I know many wonderful things which are related of the nature of this animal, and of its gentle disposition.
+
+**[97:3]** But I am not aware that any one has spoken of its observance of oaths; unless indeed to its gentle disposition, and its observance of compacts, so to speak, when once concluded between it and man, he give the name of keeping its oath, which statement also in itself is false.
+
+**[97:4]** For although rarely, yet sometimes it has been recorded that, after their apparent tameness, they have broken out against men in the most savage manner, and have committed murder, and have been on that account condemned to death, because no longer of any use.
+
+**[97:5]** And seeing that after this, in order to establish (as he thinks he does) that the stork is more pious than any human being, he adduces the accounts which are narrated regarding that creature's display of filial affection in bringing food to its parents for their support, we have to say in reply, that this is done by the storks, not from a regard to what is proper, nor from reflection, but from a natural instinct; the nature which formed them being desirous to show an instance among the irrational animals which might put men to shame, in the matter of exhibiting their gratitude to their parents.
+
+**[97:6]** And if Celsus had known how great the difference is between acting in this way from reason, and from an irrational natural impulse, he would not have said that storks are more pious than human beings.
+
+**[97:7]** But further, Celsus, as still contending for the piety of the irrational creation, quotes the instance of the Arabian bird the phoenix, which after many years repairs to Egypt, and bears thither its parent, when dead and buried in a ball of myrrh, and deposits its body in the Temple of the Sun.
+
+**[97:8]** Now this story is indeed recorded, and, if it be true, it is possible that it may occur in consequence of some provision of nature; divine providence freely displaying to human beings, by the differences which exist among living things, the variety of constitution which prevails in the world, and which extends even to birds, and in harmony with which He has brought into existence one creature, the only one of its kind, in order that by it men may be led to admire, not the creature, but Him who created it.
+
+**[98:1]** In addition to all that he has already said, Celsus subjoins the following: "All things, accordingly, were not made for man, any more than they were made for lions, or eagles, or dolphins, but that this world, as being God's work, might be perfect and entire in all respects.
+
+**[98:2]** For this reason all things have been adjusted, not with reference to each other, but with regard to their bearing upon the whole.
+
+**[98:3]** And God takes care of the whole, and (His) providence will never forsake it; and it does not become worse; nor does God after a time bring it back to himself; nor is He angry on account of men any more than on account of apes or flies; nor does He threaten these beings, each one of which has received its appointed lot in its proper place".
+
+**[98:4]** Let us then briefly reply to these statements.
+
+**[98:5]** I think, indeed, that I have shown in the preceding pages that all things were created for man, and every rational being, and that it was chiefly for the sake of the rational creature that the creation took place.
+
+**[98:6]** Celsus, indeed, may say that this was done not more for man than for lions, or the other creatures which he mentions; but we maintain that the Creator did not form these things for lions, or eagles, or dolphins, but all for the sake of the rational creature, and "in order that this world, as being God's work, might be perfect and complete in all things".
+
+**[98:7]** For to this sentiment we must yield our assent as being well said.
+
+**[98:8]** And God takes care, not, as Celsus supposes, merely of the whole, but beyond the whole, in a special degree of every rational being.
+
+**[98:9]** Nor will Providence ever abandon the whole; for although it should become more wicked, owing to the sin of the rational being, which is a portion of the whole, He makes arrangements to purify it, and after a time to bring back the whole to Himself.
+
+**[98:10]** Moreover, He is not angry with apes or flies; but on human beings, as those who have transgressed the laws of nature, He sends judgments and chastisements, and threatens them by the mouth of the prophets, and by the Saviour who came to visit the whole human race, that those who hear the threatenings may be converted by them, while those who neglect these calls to conversion may deservedly suffer those punishments which it becomes God, in conformity with that will of His which acts for the advantage of the whole, to inflict upon those who need such painful discipline and correction.
+
+**[98:11]** But as our fourth book has now attained sufficient dimensions, we shall here terminate our discourse.
+
+**[98:12]** And may God grant, through His Son, who is God the Word, and Wisdom, and Truth, and Righteousness, and everything else which the sacred Scriptures when speaking of God call Him, that we may make a good beginning of the fifth book, to the benefit of our readers, and may bring it to a successful conclusion, with the aid of His word abiding in our soul.
+
+**[99:1]** Turn back to the Second Apology of Justin (cap.
+
+**[99:2]** ix.
+
+**[99:3]** ), "Eternal punishment not a mere threat;" also to Clement (Stromata, iv.
+
+**[99:4]** cap.
+
+**[99:5]** xxiv.
+
+**[99:6]** ), "the reason and end of divine punishments".
+
+**[99:7]** Now compare Gieseler (vol.
+
+**[99:8]** i.
+
+**[99:9]** p.
+
+**[99:10]** ) for what he so sweepingly asserts.
+
+**[99:11]** And on the doctrine of Origen, let me quote a very learned and on such points a most capable judge, the late erudite and pious half-Gallican Dr.
+
+**[99:12]** Pusey.
+
+**[99:13]** He says:—  "Celsus and Origen are both witnesses that Christians believed in the eternity of punishment.
+
+**[99:14]** Celsus, to weaken the force of the argument from the sufferings which the martyrs underwent sooner than abjure Christianity, tells Origen that heathen priests taught the same doctrine of eternal punishment as the Christians, and that the only question was, which was right.
+
+**[99:15]** "Origen answers, 'I should say that the truth lies with those who are able to induce their hearers to live as men convinced of the truth of what they have heard.
+
+**[99:16]** Jews and Christians have been thus affected by the doctrines which they hold about the world to come, the rewards of the righteous, and the punishments of the wicked.
+
+**[99:17]** Who have been moved in this way, in regard to eternal punishments, by the teaching of heathen priests and mystagogues?'  "Origen's answer acknowledges that the doctrine of eternal punishment had been taught to Christians, that One Christ had taught it, and that it had produced the effects He had in view in teaching it; viz.
+
+**[99:18]** , to set Christians to strive with all their might to conquer the sin which produced it".
+
+**[99:19]** On this most painful subject my natural feelings are much with Canon Farrar; but, after lifelong application to the subject, I must think Dr.
+
+**[99:20]** Pusey holds with his Master, Christ.
+
+**[99:21]** I feel willing to leave it all with Him who died for sinners, and the cross shuts my mouth.
+
+**[99:22]** "Herein is love;" and I cannot dictate to such love, from my limited mind, and capacity, and knowledge of His universe.
+
+**[99:23]** Here let "every thought be brought into captivity to the obedience of Christ".
+
+**[99:24]** Let us sacrifice "imaginations and every high thing that exalteth itself," and leave our Master alike supreme in our affections and over our intellectual powers.
+
+**[99:25]** He merits such subjection.
+
+**[99:26]** Let us preach His words, and leave Him to explain them when He shall "condemn every tongue that shall rise against Him in judgment".
+
+**[99:27]** Let me also refer to Bledsoe's most solemn and searching reply to John Foster; also to his answer to Lord Kames's effort to help the Lord out of a supposed difficulty.
+
+**[99:28]** I am sorry that Tillotson exposed himself to a witty retort by the same author, in these words: "If the Almighty really undertook to deceive the world for its own good, it is a pity He did not take the precaution to prevent the archbishop from detecting the cheat,…not suffering his secret to get into the possession of one who has so indiscreetly published it".
+
+**[99:29]** The awful importance of the subject, and the recently awakened interest in its discussion, have led me to enlarge this annotation.
+

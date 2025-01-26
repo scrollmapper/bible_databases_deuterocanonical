@@ -1,0 +1,123 @@
+{
+    "books": [
+        {
+            "name": "Pierus of Alexandria: Fragment Epistle of Paul to the Corinthians",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Pierus of Alexandria: Fragment Epistle of Paul to the Corinthians 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Pierus of Alexandria: Fragment Epistle of Paul to the Corinthians 1:1",
+                            "text": "Pierus of Alexandria: I."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Pierus of Alexandria: Fragment Epistle of Paul to the Corinthians 1:2",
+                            "text": "—A Fragment of a Work of Pierius on the First Epistle of Paul to the Corinthians."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Pierus of Alexandria: Fragment Epistle of Paul to the Corinthians 1:3",
+                            "text": "Origen, Dionysius, Pierius, Eusebius of Caesareia, Didymus, and Apollinaris, have interpreted this epistle most copiously; of whom Pierius, when he was expounding and unfolding the meaning of the apostle, and purposed to explain the words, For I would that all men were even as I myself, added this remark: In saying this, Paul, without disguise, preaches celibacy."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 2,
+                    "name": "Pierus of Alexandria: Fragment Epistle of Paul to the Corinthians 2",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 2,
+                            "name": "Pierus of Alexandria: Fragment Epistle of Paul to the Corinthians 2:1",
+                            "text": "II."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 2,
+                            "name": "Pierus of Alexandria: Fragment Epistle of Paul to the Corinthians 2:2",
+                            "text": "—A Section on the Writings of Pierius."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 2,
+                            "name": "Pierus of Alexandria: Fragment Epistle of Paul to the Corinthians 2:3",
+                            "text": "Different Discourses of the Presbyter Pierius."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 2,
+                            "name": "Pierus of Alexandria: Fragment Epistle of Paul to the Corinthians 2:4",
+                            "text": "There was read a book by Pierius the presbyter, who, they say, endured the conflict for Christ, along with his brother Isidorus."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 2,
+                            "name": "Pierus of Alexandria: Fragment Epistle of Paul to the Corinthians 2:5",
+                            "text": "And he is reputed to have been the teacher of the martyr Pamphilus in ecclesiastical studies, and to have been president of the school at Alexandria."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 2,
+                            "name": "Pierus of Alexandria: Fragment Epistle of Paul to the Corinthians 2:6",
+                            "text": "The work contained twelve books."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 2,
+                            "name": "Pierus of Alexandria: Fragment Epistle of Paul to the Corinthians 2:7",
+                            "text": "And in style he is perspicuous and clear, with the easy flow, as it were, of a spoken address, displaying no signs of laboured art, but bearing us quietly along, smoothly and gently, like off-hand speaking."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 2,
+                            "name": "Pierus of Alexandria: Fragment Epistle of Paul to the Corinthians 2:8",
+                            "text": "And in argument he is most fertile, if any one is so."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 2,
+                            "name": "Pierus of Alexandria: Fragment Epistle of Paul to the Corinthians 2:9",
+                            "text": "And he expresses his opinion on many things outside what is now established in the Church, perhaps in an antique manner; but with respect to the Father and the Son, he sets forth his sentiments piously, except that he speaks of two substances and two natures; using, however, the terms substance and nature, as is apparent from what follows, and from what precedes this passage, in the sense of person and not in the sense put on it by the adherents of Arius."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 2,
+                            "name": "Pierus of Alexandria: Fragment Epistle of Paul to the Corinthians 2:10",
+                            "text": "With respect to the Spirit, however, he lays down his opinion in a very dangerous and far from pious manner."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 2,
+                            "name": "Pierus of Alexandria: Fragment Epistle of Paul to the Corinthians 2:11",
+                            "text": "For he affirms that He is inferior to the Father and the Son in glory."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 2,
+                            "name": "Pierus of Alexandria: Fragment Epistle of Paul to the Corinthians 2:12",
+                            "text": "He has a passage also in the book entitled, On the Gospel according to Luke, from which it is possible to show that the honour or dishonour of the image is also the honour or dishonour of the original."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 2,
+                            "name": "Pierus of Alexandria: Fragment Epistle of Paul to the Corinthians 2:13",
+                            "text": "And, again, he indulges in some obscure speculations, after the manner of the nonsense of Origen, on the subject of the \"pre-existence of souls\"."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 2,
+                            "name": "Pierus of Alexandria: Fragment Epistle of Paul to the Corinthians 2:14",
+                            "text": "And also in the book on the Passover (Easter) and on Hosea, he treats both of the cherubim made by Moses, and of the pillar of Jacob, in which passages he admits the actual construction of those things, but propounds the foolish theory that they were given economically, and that they were in no respect like other things which are made; inasmuch as they bore the likeness of no other form, but had only, as he foolishly says, the appearance of wings."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

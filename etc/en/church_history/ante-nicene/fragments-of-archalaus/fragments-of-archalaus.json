@@ -1,0 +1,567 @@
+{
+    "books": [
+        {
+            "name": "Fragments of Archalaus",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Fragments of Archalaus 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Fragments of Archalaus 1:1",
+                            "text": "Fragments of the Same Disputation:."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Fragments of Archalaus 1:2",
+                            "text": "Archelaus said to Manes: Give us a statement now of the doctrines you promulgate."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Fragments of Archalaus 1:3",
+                            "text": "—Thereupon the man, whose mouth was like an open sepulchre, began at once with a word of blasphemy against the Maker of all things, saying: The God of the Old Testament is the inventor of evil, who speaks thus of Himself: \"I am a consuming fire\"."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Fragments of Archalaus 1:4",
+                            "text": "—But the sagacious Archelaus completely undid this blasphemy."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Fragments of Archalaus 1:5",
+                            "text": "For he said: If the God of the Old Testament, according to your allegation, calls Himself a fire, whose son is He who says, \"I am come to send fire upon the earth?\" If you find fault with one who says, \"The Lord killeth and maketh alive,\" why do you honour Peter, who raised Tabitha to life, but also put Sapphira to death? And if again, you find fault with the one because He has prepared a fire, why do you not find fault with the other, who says, \"Depart from me into everlasting fire?\" If you find fault with Him who says, \"I, God, make peace, and create evil,\" explain to us how Jesus says, \"I came not to send peace, but a sword\"."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Fragments of Archalaus 1:6",
+                            "text": "Since both persons speak in the same terms, one or other of these two things must follow: namely, either they are both good because they use the same language; or, if Jesus passes without censure though He speaks in such terms, you must tell us why you reprehend Him who employs a similar mode of address in the Old Testament."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 2,
+                    "name": "Fragments of Archalaus 2",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 2,
+                            "name": "Fragments of Archalaus 2:1",
+                            "text": "Then Manes made the following reply to him: And what manner of God now is it that blinds one? For it is Paul who uses these words: \"In whom the God of this world hath blinded the minds of them which believe not, lest the light of the Gospel should shine in them\"."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 2,
+                            "name": "Fragments of Archalaus 2:2",
+                            "text": "But Archelaus broke in and refuted this very well, saying: Read, however, a word or two of what precedes that sentence, namely, \"But if our Gospel be hid, it is hid in them that are lost\"."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 2,
+                            "name": "Fragments of Archalaus 2:3",
+                            "text": "You see that it is hid in them that are lost."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 2,
+                            "name": "Fragments of Archalaus 2:4",
+                            "text": "\"For it is not meet to give the holy things to dogs\"."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 2,
+                            "name": "Fragments of Archalaus 2:5",
+                            "text": "And furthermore, is it only the God of the Old Testament that has blinded the minds of them who believe not? Nay, has not Jesus Himself also said: \"Therefore speak I to them in parables: that seeing, they may not see?\" Is it then because He hated them that He desired them not to see? Or is it not on account of their unworthiness, since they closed their own eyes? For wherever wickedness is a matter self-chosen, there too there is the absence of grace."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 2,
+                            "name": "Fragments of Archalaus 2:6",
+                            "text": "\"For unto him that hath shall be given, but from him that hath not shall be taken away even that which he seemeth to have\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 3,
+                    "name": "Fragments of Archalaus 3",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 3,
+                            "name": "Fragments of Archalaus 3:1",
+                            "text": "But even although we should be under the necessity of accepting the exegesis advocated by some,—for the subject is not altogether unworthy of notice,—and of saying thus, that He hath actually blinded the minds of them that believe not, we should still have to affirm that He hath blinded them for good, in order that they may recover their sight to behold things that are holy."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 3,
+                            "name": "Fragments of Archalaus 3:2",
+                            "text": "For it is not said that He hath blinded their soul, but only that He hath blinded the minds of them that believe not."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 3,
+                            "name": "Fragments of Archalaus 3:3",
+                            "text": "And that mode of expression means something like this: Blind the whorish mind of the whore-monger, and the man is saved; blind the rapacious and thievish mind of the thief and the man is saved."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 3,
+                            "name": "Fragments of Archalaus 3:4",
+                            "text": "But do you decline to understand the sentence thus? Well, there is still another interpretation."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 3,
+                            "name": "Fragments of Archalaus 3:5",
+                            "text": "For the sun blinds those who have bad sight; and those who have watery eyes are also blinded when they are smitten by the light: not, however, because it is of the nature of the sun to blind, but because the eye's own constitution is not one of correct vision."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 3,
+                            "name": "Fragments of Archalaus 3:6",
+                            "text": "And in like manner, those whose hearts are afflicted with the ailment of unbelief are not capable of looking upon the rays of the glory of the Godhead."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 3,
+                            "name": "Fragments of Archalaus 3:7",
+                            "text": "And again, it is not said, \"He hath blinded their minds lest they should hear the Gospel,\" but rather \"lest the light of the glory of the Gospel of our Lord Jesus Christ should shine unto them\"."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 3,
+                            "name": "Fragments of Archalaus 3:8",
+                            "text": "For to hear the Gospel is a thing committed to all; but the glory of the Gospel of Christ is imparted only to the sincere and genuine."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 3,
+                            "name": "Fragments of Archalaus 3:9",
+                            "text": "For this reason the Lord spake in parables to those who were incapable of hearing, but to His disciples He explained these parables in private."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 3,
+                            "name": "Fragments of Archalaus 3:10",
+                            "text": "For the illumination of the glory is for those who have been enlightened, while the blinding is for them who believe not."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 3,
+                            "name": "Fragments of Archalaus 3:11",
+                            "text": "These mysteries, which the Church now declares to you who are transferred from the lists of the catechumens, it is not her custom to declare to the Gentiles."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 3,
+                            "name": "Fragments of Archalaus 3:12",
+                            "text": "For we do not declare the mysteries touching the Father, and the Son, and the Holy Spirit to a Gentile; neither do we speak of the mysteries plainly in presence of the catechumens; but many a time we express ourselves in an occult manner, so that the faithful who have intelligence may apprehend the truths referred to, while those who have not that intelligence may receive no hurt."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 4,
+                    "name": "Fragments of Archalaus 4",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:1",
+                            "text": "Elucidations."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:2",
+                            "text": "I."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:3",
+                            "text": "(Spotless virgin, etc."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:4",
+                            "text": "p."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:5",
+                            "text": "and note."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:6",
+                            "text": ")  Oh that \"foolish and unlearned questions\" had been avoided, as the Scripture bids! Surely, we should be as decent about the conjugal relations of the Blessed Virgin as we are socially in all such matters."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:7",
+                            "text": "Pearson, as in the note, says all that should be said on such a subject."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:8",
+                            "text": "Photius, in his thirtieth epistle, expounds the text Matt."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:9",
+                            "text": "i."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:10",
+                            "text": "But it did not rest there."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:11",
+                            "text": "Let it rest here."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:12",
+                            "text": "II."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:13",
+                            "text": "(Get thee behind me, Satan, p."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:14",
+                            "text": "and note."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:15",
+                            "text": ")  I adopt the views of those who reverently suppose that when it was said, \"Let us make man,\" etc."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:16",
+                            "text": ", Lucifer conceived rebellion, and said, \"This be far from Thee, Lord;\" fearing the creature made in God's own image might outshine himself."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:17",
+                            "text": "Hence our Lord applies the epithet \"Satan\" to Peter when he ventures to use similar language."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:18",
+                            "text": "Possibly there lurks a reference to this in such language as Job iv."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:19",
+                            "text": "I have previously referred to the Messias and Anti-Messias of the Rev."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:20",
+                            "text": "Charles Ingham Black (London, ), in which this view is singularly well argued."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:21",
+                            "text": "It is well to halt, however, with a confession, that, while it seems intimated in Holy Scripture, it cannot be proved as revealed."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:22",
+                            "text": "Hence let us reverently say what is said by the Psalmist in Psa."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:23",
+                            "text": "cxxxi."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:24",
+                            "text": ", and confess what is written in Deut."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:25",
+                            "text": "xxix."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:26",
+                            "text": "I go so far, only because the words on which this note is a comment seem to authorize inquiry as to the force of \"Satan\" just there."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:27",
+                            "text": "I state what seems the reference, but go no farther."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:28",
+                            "text": "Compare Dan."
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:29",
+                            "text": "iv."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:30",
+                            "text": "III."
+                        },
+                        {
+                            "verse": 31,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:31",
+                            "text": "(I shrink from repeating, p."
+                        },
+                        {
+                            "verse": 32,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:32",
+                            "text": "and note."
+                        },
+                        {
+                            "verse": 33,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:33",
+                            "text": ")  The delicacy of feeling here expressed is most honourable to the sentiment of the Church at this period."
+                        },
+                        {
+                            "verse": 34,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:34",
+                            "text": "Not till St."
+                        },
+                        {
+                            "verse": 35,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:35",
+                            "text": "Bernard's day was it hinted even in the West, that the Blessed Virgin was conceived without taint of original sin; and he rebukes the innovators with a holy indignation."
+                        },
+                        {
+                            "verse": 36,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:36",
+                            "text": "It shocks him that questions were thus raised as to her parents, their amplexus maritales, etc."
+                        },
+                        {
+                            "verse": 37,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:37",
+                            "text": "IV."
+                        },
+                        {
+                            "verse": 38,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:38",
+                            "text": "(In presence of the catechumens, p."
+                        },
+                        {
+                            "verse": 39,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:39",
+                            "text": ")  Here is testimony to the catechumen system of the primitive Church which appears to me not inconsistent with the period to which it is assigned."
+                        },
+                        {
+                            "verse": 40,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:40",
+                            "text": "No doubt this gradual instruction of the disciple is based upon the example of our Lord Himself, who spoke in parables, and taught \"as they were able to hear it\"."
+                        },
+                        {
+                            "verse": 41,
+                            "chapter": 4,
+                            "name": "Fragments of Archalaus 4:41",
+                            "text": "But the disciplina arcani was designed chiefly to protect the Church from the profaneness of the heathen, and it fell into desuetude after the Council of Nice."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 5,
+                    "name": "Fragments of Archalaus 5",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 5,
+                            "name": "Fragments of Archalaus 5:1",
+                            "text": "General Note."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 5,
+                            "name": "Fragments of Archalaus 5:2",
+                            "text": "As I have not infrequently treated the rise of the great Alexandrian school as an outcrop from the learning and piety of Apollos, I take this space to record my reasons:."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 5,
+                            "name": "Fragments of Archalaus 5:3",
+                            "text": "Apart from the question in formal shape, I hold that the character and influence of this brilliant Alexandrian must have operated upon Alexandrian converts."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 5,
+                            "name": "Fragments of Archalaus 5:4",
+                            "text": "But the frequent employment by the Alexandrians of the expressions (Acts xviii."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 5,
+                            "name": "Fragments of Archalaus 5:5",
+                            "text": ") used concerning him by St."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 5,
+                            "name": "Fragments of Archalaus 5:6",
+                            "text": "Luke, almost textually, confirms my suspicion that they had his high example always before them."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 5,
+                            "name": "Fragments of Archalaus 5:7",
+                            "text": "The catechetical school was certainly established in Alexandria from apostolic times."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 5,
+                            "name": "Fragments of Archalaus 5:8",
+                            "text": "By whom more probably than by Apollos?."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 5,
+                            "name": "Fragments of Archalaus 5:9",
+                            "text": "St."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 5,
+                            "name": "Fragments of Archalaus 5:10",
+                            "text": "Mark's connection with Alexandria rests on no scriptural evidence, yet it is credited."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 5,
+                            "name": "Fragments of Archalaus 5:11",
+                            "text": "That of Apollos is narrated in Scripture, and I can conceive of nothing so probable as that, remembering his own instruction by Aquila and Priscilla (Acts xviii."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 5,
+                            "name": "Fragments of Archalaus 5:12",
+                            "text": "), he should have founded catechetical schools for others."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 5,
+                            "name": "Fragments of Archalaus 5:13",
+                            "text": "All this is conjectural, indeed, but it agrees with known facts."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 5,
+                            "name": "Fragments of Archalaus 5:14",
+                            "text": "The silence of Clement and the rest is an objection quite as fatal to the claims of St."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 5,
+                            "name": "Fragments of Archalaus 5:15",
+                            "text": "Mark."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 5,
+                            "name": "Fragments of Archalaus 5:16",
+                            "text": "The unanimity of the Alexandrians, from Pantaenus downward, in assigning to St."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 5,
+                            "name": "Fragments of Archalaus 5:17",
+                            "text": "Paul the authorship of the Epistle to the Hebrews, while it was so much debated elsewhere, suggests that they had early evidence on this point."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 5,
+                            "name": "Fragments of Archalaus 5:18",
+                            "text": "Clement's testimony about St."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 5,
+                            "name": "Fragments of Archalaus 5:19",
+                            "text": "Luke convinces me that Apollos had no claim to it, but had testified to the Alexandrians that the Apostle was the author, and St."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 5,
+                            "name": "Fragments of Archalaus 5:20",
+                            "text": "Luke his inspired amanuensis by whom the words were not servilely taken down, but reported in idioms of his own: whether out of St."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 5,
+                            "name": "Fragments of Archalaus 5:21",
+                            "text": "Paul's \"Hebrew\" or not, is another question."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 5,
+                            "name": "Fragments of Archalaus 5:22",
+                            "text": "Apollos disappears from history about  , on his way homeward, bearing the Epistle to Titus, and (who can doubt?) a copy of that to the Hebrews, written the previous year."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 5,
+                            "name": "Fragments of Archalaus 5:23",
+                            "text": "All these facts agree with my conjectures that Apollos closed his labours in his native city."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

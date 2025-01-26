@@ -1,0 +1,1372 @@
+# Athanasius: Against the Arians Discourse III
+
+**[1:1]** Discourse III.
+
+**[1:2]**   Chapter XXIII.
+
+**[1:3]** —Texts Explained; Seventhly, John xiv.
+
+**[1:4]** Introduction.
+
+**[1:5]** The doctrine of the coinherence.
+
+**[1:6]** The Father and the Son Each whole and perfect God.
+
+**[1:7]** They are in Each Other, because their Essence is One and the Same.
+
+**[1:8]** They are Each Perfect and have One Essence, because the Second Person is the Son of the First.
+
+**[1:9]** Asterius's evasive explanation of the text under review; refuted.
+
+**[1:10]** Since the Son has all that the Father has, He is His Image; and the Father is the One God, because the Son is in the Father.
+
+**[1:11]** The Ario-maniacs, as it appears, having once made up their minds to transgress and revolt from the Truth, are strenuous in appropriating the words of Scripture, 'When the impious cometh into a depth of evils, he despiseth;' for refutation does not stop them, nor perplexity abash them; but, as having 'a whore's forehead,' they 'refuse to be ashamed' before all men in their irreligion.
+
+**[1:12]** For whereas the passages which they alleged, 'The Lord created me,' and 'Made better than the Angels,' and 'First-born,' and 'Faithful to Him that made Him' have a right sense, and inculcate religiousness towards Christ, so it is that these men still, as if bedewed with the serpent's poison, not seeing what they ought to see, nor understanding what they read, as if in vomit from the depth of their irreligious heart, have next proceeded to disparage our Lord's words, 'I in the Father and the Father in Me;' saying, 'How can the One be contained in the Other and the Other in the One?' or 'How at all can the Father who is the greater be contained in the Son who is the less?' or 'What wonder, if the Son is in the Father,' considering it is written even of us, 'In Him we live and move and have our being?' And this state of mind is consistent with their perverseness, who think God to be material, and understand not what is 'True Father' and 'True Son,' nor 'Light Invisible' and 'Eternal,' and Its 'Radiance Invisible,' nor 'Invisible Subsistence,' and 'Immaterial Expression' and 'Immaterial Image.
+
+**[1:13]** ' For did they know, they would not dishonour and ridicule the Lord of glory, nor interpreting things immaterial after a material manner, pervert good words.
+
+**[1:14]** It were sufficient indeed, on hearing only words which are the Lord's, at once to believe, since the faith of simplicity is better than an elaborate process of persuasion; but since they have endeavoured to profane even this passage to their own heresy, it becomes necessary to expose their perverseness and to shew the mind of the truth, at least for the security of the faithful.
+
+**[1:15]** For when it is said, 'I in the Father and the Father in Me,' They are not therefore, as these suppose, discharged into Each Other, filling the One the Other, as in the case of empty vessels, so that the Son fills the emptiness of the Father and the Father that of the Son, and Each of Them by Himself is not complete and perfect (for this is proper to bodies, and therefore the mere assertion of it is full of irreligion), for the Father is full and perfect, and the Son is the Fulness of Godhead.
+
+**[1:16]** Nor again, as God, by coming into the Saints, strengthens them, thus is He also in the Son.
+
+**[1:17]** For He is Himself the Father's Power and Wisdom, and by partaking of Him things originate are sanctified in the Spirit; but the Son Himself is not Son by participation, but is the Father's own Offspring.
+
+**[1:18]** Nor again is the Son in the Father, in the sense of the passage, 'In Him we live and move and have our being;' for, He as being from the Fount of the Father is the Life, in which all things are both quickened and consist; for the Life does not live in life, else it would not be Life, but rather He gives life to all things.
+
+**[1:19]** But now let us see what Asterius the Sophist says, the retained pleader for the heresy.
+
+**[1:20]** In imitation then of the Jews so far, he writes as follows; 'It is very plain that He has said, that He is in the Father and the Father again in Him, for this reason, that neither the word on which He was discoursing is, as He says, His own, but the Father's, nor the works belong to Him, but to the Father who gave Him the power.
+
+**[1:21]** ' Now this, if uttered at random by a little child, had been excused from his age; but when one who bears the title of Sophist, and professes universal knowledge, is the writer, what a serious condemnation does he deserve! And does he not shew himself a stranger to the Apostle, as being puffed up with persuasive words of wisdom, and thinking thereby to succeed in deceiving, not understanding himself what he says nor whereof he affirms? For what the Son has said as proper and suitable to a Son only, who is Word and Wisdom and Image of the Father's Essence, that he levels to all the creatures, and makes common to the Son and to them; and he says, lawless man, that the Power of the Father receives power, that from this his irreligion it may follow to say that in a son the Son was made a son, and the Word received a word's authority; and, far from granting that He spoke this as a Son, He ranks Him with all things made as having learned it as they have.
+
+**[1:22]** For if the Son said, 'I am in the Father and the Father in Me,' because His discourses were not His own words but the Father's, and so of His works, then,—since David says, 'I will hear what the Lord God shall say in me,' and again Solomon, 'My words are spoken by God,' and since Moses was minister of words which were from God, and each of the Prophets spoke not what was his own but what was from God, 'Thus saith the Lord,' and since the works of the Saints, as they professed, were not their own but God's who gave the power, Elijah for instance and Elisha invoking God that He Himself would raise the dead, and Elisha saying to Naaman, on cleansing him from the leprosy, 'that thou mayest know that there is a God in Israel,' and Samuel too in the days of the harvest praying to God to grant rain, and the Apostles saying that not in their own power they did miracles but in the Lord's grace—it is plain that, according to Asterius such a statement must be common to all, so that each of them is able to say, 'I in the Father and the Father in me;' and as a consequence that He is no longer one Son of God and Word and Wisdom, but, as others, is only one out of many.
+
+**[1:23]** But if the Lord said this, His words would not rightly have been, 'I in the Father and the Father in Me,' but rather, 'I too am in the Father, and the Father is in Me too,' that He may have nothing of His own and by prerogative, relatively to the Father, as a Son, but the same grace in common with all.
+
+**[1:24]** But it is not so, as they think; for not understanding that He is genuine Son from the Father, they belie Him who is such, whom alone it befits to say, 'I in the Father and the Father in Me.
+
+**[1:25]** ' For the Son is in the Father, as it is allowed us to know, because the whole Being of the Son is proper to the Father's essence, as radiance from light, and stream from fountain; so that whoso sees the Son, sees what is proper to the Father, and knows that the Son's Being, because from the Father, is therefore in the Father.
+
+**[1:26]** For the Father is in the Son, since the Son is what is from the Father and proper to Him, as in the radiance the sun, and in the word the thought, and in the stream the fountain: for whoso thus contemplates the Son, contemplates what is proper to the Father's Essence, and knows that the Father is in the Son.
+
+**[1:27]** For whereas the Form and Godhead of the Father is the Being of the Son, it follows that the Son is in the Father and the Father in the Son.
+
+**[1:28]** On this account and reasonably, having said before, 'I and the Father are One,' He added, 'I in the Father and the Father in Me,' by way of shewing the identity of Godhead and the unity of Essence.
+
+**[1:29]** For they are one, not as one thing divided into two parts, and these nothing but one, nor as one thing twice named, so that the Same becomes at one time Father, at another His own Son, for this Sabellius holding was judged an heretic.
+
+**[1:30]** But They are two, because the Father is Father and is not also Son, and the Son is Son and not also Father; but the nature is one; (for the offspring is not unlike its parent, for it is his image), and all that is the Father's, is the Son's.
+
+**[1:31]** Wherefore neither is the Son another God, for He was not procured from without, else were there many, if a godhead be procured foreign from the Father's; for if the Son be other, as an Offspring, still He is the Same as God; and He and the Father are one in propriety and peculiarity of nature, and in the identity of the one Godhead, as has been said.
+
+**[1:32]** For the radiance also is light, not second to the sun, nor a different light, nor from participation of it, but a whole and proper offspring of it.
+
+**[1:33]** And such an offspring is necessarily one light; and no one would say that they are two lights, but sun and radiance two, yet one the light from the sun enlightening in its radiance all things.
+
+**[1:34]** So also the Godhead of the Son is the Father's; whence also it is indivisible; and thus there is one God and none other but He.
+
+**[1:35]** And so, since they are one, and the Godhead itself one, the same things are said of the Son, which are said of the Father, except His being said to be Father:—for instance, that He is God, 'And the Word was God;' Almighty, 'Thus saith He which was and is and is to come, the Almighty;' Lord, 'One Lord Jesus Christ;' that He is Light, 'I am the Light;' that He wipes out sins, 'that ye may know,' He says, 'that the Son of man hath power upon earth to forgive sins;' and so with other attributes.
+
+**[1:36]** For 'all things,' says the Son Himself, 'whatsoever the Father hath, are Mine;' and again, 'And Mine are Thine.
+
+**[1:37]** '.
+
+**[1:38]** And on hearing the attributes of the Father spoken of a Son, we shall thereby see the Father in the Son; and we shall contemplate the Son in the Father, when what is said of the Son is said of the Father also.
+
+**[1:39]** And why are the attributes of the Father ascribed to the Son, except that the Son is an Offspring from Him? and why are the Son's attributes proper to the Father, except again because the Son is the proper Offspring of His Essence? And the Son, being the proper Offspring of the Father's Essence, reasonably says that the Father's attributes are His own also; whence suitably and consistently with saying, 'I and the Father are One,' He adds, 'that ye may know that I am in the Father and the Father in Me.
+
+**[1:40]** ' Moreover, He has added this again, 'He that hath seen Me, hath seen the Father;' and there is one and the same sense in these three passages.
+
+**[1:41]** For he who in this sense understands that the Son and the Father are one, knows that He is in the Father and the Father in the Son; for the Godhead of the Son is the Father's, and it is in the Son; and whoso enters into this, is convinced that 'He that hath seen the Son, hath seen the Father;' for in the Son is contemplated the Father's Godhead.
+
+**[1:42]** And we may perceive this at once from the illustration of the Emperor's image.
+
+**[1:43]** For in the image is the shape and form of the Emperor, and in the Emperor is that shape which is in the image.
+
+**[1:44]** For the likeness of the Emperor in the image is exact; so that a person who looks at the image, sees in it the Emperor; and he again who sees the Emperor, recognises that it is he who is in the image.
+
+**[1:45]** And from the likeness not differing, to one who after the image wished to view the Emperor, the image might say, 'I and the Emperor are one; for I am in him, and he in me; and what thou seest in me, that thou beholdest in him, and what thou hast seen in him, that thou holdest in me.
+
+**[1:46]** ' Accordingly he who worships the image, in it worships the Emperor also; for the image is his form and appearance.
+
+**[1:47]** Since then the Son too is the Father's Image, it must necessarily be understood that the Godhead and propriety of the Father is the Being of the Son.
+
+**[1:48]** And this is what is said, 'Who being in the form of God,' and 'the Father in Me.
+
+**[1:49]** ' Nor is this Form of the Godhead partial merely, but the fulness of the Father's Godhead is the Being of the Son, and the Son is whole God.
+
+**[1:50]** Therefore also, being equal to God, He 'thought it not a prize to be equal to God;' and again since the Godhead and the Form of the Son is none other's than the Father's, this is what He says, 'I in the Father.
+
+**[1:51]** ' Thus 'God was in Christ reconciling the world unto Himself;' for the propriety of the Father's Essence is that Son, in whom the creation was then reconciled with God.
+
+**[1:52]** Thus what things the Son then wrought are the Father's works, for the Son is the Form of that Godhead of the Father, which wrought the works.
+
+**[1:53]** And thus he who looks at the Son, sees the Father; for in the Father's Godhead is and is contemplated the Son; and the Father's Form which is in Him shews in Him the Father; and thus the Father is in the Son.
+
+**[1:54]** And that propriety and Godhead which is from the Father in the Son, shews the Son in the Father, and His inseparability from Him; and whoso hears and beholds that what is said of the Father is also said of the Son, not as accruing to His Essence by grace or participation, but because the very Being of the Son is the proper Offspring of the Father's Essence, will fitly understand the words, as I said before, 'I in the Father, and the Father in Me;' and 'I and the Father are One.
+
+**[1:55]** ' For the Son is such as the Father is, because He has all that is the Father's.
+
+**[1:56]** Wherefore also is He implied together with the Father.
+
+**[1:57]** For, a son not being, one cannot say father; whereas when we call God a Maker, we do not of necessity intimate the things which have come to be; for a maker is before his works.
+
+**[1:58]** But when we call God Father, at once with the Father we signify the Son's existence.
+
+**[1:59]** Therefore also he who believes in the Son, believes also in the Father: for he believes in what is proper to the Father's Essence; and thus the faith is one in one God.
+
+**[1:60]** And he who worships and honours the Son, in the Son worships and honours the Father; for one is the Godhead; and therefore one the honour and one the worship which is paid to the Father in and through the Son.
+
+**[1:61]** And he who thus worships, worships one God; for there is one God and none other than He.
+
+**[1:62]** Accordingly when the Father is called the only God, and we read that there is one God, and 'I am,' and 'beside Me there is no God,' and 'I the first and I the last,' this has a fit meaning.
+
+**[1:63]** For God is One and Only and First; but this is not said to the denial of the Son, perish the thought; for He is in that One, and First and Only, as being of that One and Only and First the Only Word and Wisdom and Radiance.
+
+**[1:64]** And He too is the First, as the Fulness of the Godhead of the First and Only, being whole and full God.
+
+**[1:65]** This then is not said on His account, but to deny that there is other such as the Father and His Word.
+
+**[2:1]** Chapter XXIV.
+
+**[2:2]** —Texts Explained; Eighthly, John xvii.
+
+**[2:3]** and the Like.
+
+**[2:4]** Our Lord's divinity cannot interfere with His Father's prerogatives, as the One God, which were so earnestly upheld by the Son.
+
+**[2:5]** 'One' is used in contrast to false gods and idols, not to the Son, through whom the Father spoke.
+
+**[2:6]** Our Lord adds His Name to the Father's, as included in Him.
+
+**[2:7]** The Father the First, not as if the Son were not First too, but as Origin.
+
+**[2:8]** Now that this is the sense of the Prophet is clear and manifest to all; but since the irreligious men, alleging such passages also, dishonour the Lord and reproach us, saying, 'Behold God is said to be One and Only and First; how say ye that the Son is God? for if He were God, He had not said, "I Alone," nor "God is One;"' it is necessary to declare the sense of these phrases in addition, as far as we can, that all may know from this also that the Arians are really contending with God.
+
+**[2:9]** If there then is rivalry of the Son towards the Father, then be such words uttered against Him; and if according to what is said to David concerning Adonijah and Absalom, so also the Father looks upon the Son, then let Him utter and urge such words against Himself, lest He the Son, calling Himself God, make any to revolt from the Father.
+
+**[2:10]** But if he who knows the Son, on the contrary, knows the Father, the Son Himself revealing Him to him, and in the Word he shall rather see the Father, as has been said, and if the Son on coming, glorified not Himself but the Father, saying to one who came to Him, 'Why callest thou Me good? none is good save One, that is, God;' and to one who asked, what was the great commandment in the Law, answering, 'Hear, O Israel, the Lord our God is One Lord;' and saying to the multitudes, 'I came down from heaven, not to do My own will, but the will of Him that sent Me;' and teaching the disciples, 'My Father is greater than I,' and 'He that honoureth Me, honoureth Him that sent Me;' if the Son is such towards His own Father, what is the difficulty, that one must need take such a view of such passages? and on the other hand, if the Son is the Father's Word, who is so wild, besides these Christ-opposers, as to think that God has thus spoken, as traducing and denying His own Word? This is not the mind of Christians; perish the thought; for not with reference to the Son is it thus written, but for the denial of those falsely called gods, invented by men.
+
+**[2:11]** And this account of the meaning of such passages is satisfactory; for since those who are devoted to gods falsely so called, revolt from the True God, therefore God, being good and careful for mankind, recalling the wanderers, says, 'I am Only God,' and 'I Am,' and 'Besides Me there is no God,' and the like; that He may condemn things which are not, and may convert all men to Himself.
+
+**[2:12]** And as, supposing in the daytime when the sun was shining, a man were rudely to paint a piece of wood, which had not even the appearance of light, and call that image the cause of light, and if the sun with regard to it were to say, 'I alone am the light of the day, and there is no other light of the day but I,' he would say this, with regard, not to his own radiance, but to the error arising from the wooden image and the dissimilitude of that vain representation; so it is with 'I am,' and 'I am Only God,' and 'There is none other besides Me,' viz.
+
+**[2:13]** that He may make men renounce falsely called gods, and that they may recognise Him the true God instead.
+
+**[2:14]** Indeed when God said this, He said it through His own Word, unless forsooth the modern Jews add this too, that He has not said this through His Word; but so hath He spoken, though they rave, these followers of the devil.
+
+**[2:15]** For the Word of the Lord came to the Prophet, and this was what was heard; nor is there a thing which God says or does, but He says and does it in the Word.
+
+**[2:16]** Not then with reference to Him is this said, O Christ's enemies, but to things foreign to Him and not from Him.
+
+**[2:17]** For according to the aforesaid illustration, if the sun had spoken those words, he would have been setting right the error and have so spoken, not as having his radiance without him, but in the radiance shewing his own light.
+
+**[2:18]** Therefore not for the denial of the Son, nor with reference to Him, are such passages, but to the overthrow of falsehood.
+
+**[2:19]** Accordingly God spoke not such words to Adam at the beginning, though His Word was with Him, by whom all things came to be; for there was no need, before idols came in; but when men made insurrection against the truth and named for themselves gods such as they would, then it was that need arose of such words, for the denial of gods that were not.
+
+**[2:20]** Nay I would add, that they were said even in anticipation of the folly of these Christ-opposers, that they might know, that whatsoever god they devise external to the Father's Essence, he is not True God, nor Image and Son of the Only and First.
+
+**[2:21]** If then the Father be called the only true God, this is said not to the denial of Him who said, 'I am the Truth,' but of those on the other hand who by nature are not true, as the Father and His Word are.
+
+**[2:22]** And hence the Lord Himself added at once, 'And Jesus Christ whom Thou didst send.
+
+**[2:23]** ' Now had He been a creature, He would not have added this, and ranked Himself with His Creator (for what fellowship is there between the True and the not true?); but as it is, by adding Himself to the Father, He has shewn that He is of the Father's nature; and He has given us to know that of the True Father He is True Offspring.
+
+**[2:24]** And John too, as he had learned, so he teaches this, writing in his Epistle, 'And we are in the True, even in His Son Jesus Christ; This is the True God and eternal life.
+
+**[2:25]** ' And when the Prophet says concerning the creation, 'That stretcheth forth the heavens alone,' and when God says, 'I only stretch out the heavens,' it is made plain to every one, that in the Only is signified also the Word of the Only, in whom 'all things were made,' and without whom 'was made not one thing.
+
+**[2:26]** ' Therefore, if they were made through the Word, and yet He says, 'I Only,' and together with that Only is understood the Son, through whom the heavens were made, so also then, if it be said, 'One God,' and 'I Only,' and 'I the First,' in that One and Only and First is understood the Word coexisting, as in the Light the Radiance.
+
+**[2:27]** And this can be understood of no other than the Word alone.
+
+**[2:28]** For all other things subsisted out of nothing through the Son, and are greatly different in nature; but the Son Himself is natural and true Offspring from the Father; and thus the very passage which these insensates have thought fit to adduce, 'I the First,' in defence of their heresy, doth rather expose their perverse spirit.
+
+**[2:29]** For God says, 'I the First and I the Last;' if then, as though ranked with the things after Him, He is said to be first of them, so that they come next to Him, then certainly you will have shewn that He Himself precedes the works in time only; which, to go no further, is extreme irreligion; but if it is in order to prove that He is not from any, nor any before Him, but that He is Origin and Cause of all things, and to destroy the Gentile fables, that He has said 'I the First,' it is plain also, that when the Son is called First-born, this is done not for the sake of ranking Him with the creation, but to prove the framing and adoption of all things through the Son.
+
+**[2:30]** For as the Father is First, so also is He both First, as Image of the First, and because the First is in Him, and also Offspring from the Father, in whom the whole creation is created and adopted into sonship.
+
+**[3:1]** Chapter XXV.
+
+**[3:2]** —Texts Explained; Ninthly, John x.
+
+**[3:3]** ; xvii.
+
+**[3:4]** , &c.
+
+**[3:5]** Arian explanation, that the Son is one with the Father in will and judgment; but so are all good men, nay things inanimate; contrast of the Son.
+
+**[3:6]** Oneness between Them is in nature, because oneness in operation.
+
+**[3:7]** Angels not objects of prayer, because they do not work together with God, but the Son; texts quoted.
+
+**[3:8]** Seeing an Angel, is not seeing God.
+
+**[3:9]** Arians in fact hold two Gods, and tend to Gentile polytheism.
+
+**[3:10]** Arian explanation that the Father and Son are one as we are one with Christ, is put aside by the Regula Fidei, and shewn invalid by the usage of Scripture in illustrations; the true force of the comparison; force of the terms used.
+
+**[3:11]** Force of 'in us;' force of 'as;' confirmed by S.
+
+**[3:12]** John.
+
+**[3:13]** In what sense we are 'in God' and His 'sons.
+
+**[3:14]** '.
+
+**[3:15]** However here too they introduce their private fictions, and contend that the Son and the Father are not in such wise 'one,' or 'like,' as the Church preaches, but, as they themselves would have it.
+
+**[3:16]** For they say, since what the Father wills, the Son wills also, and is not contrary either in what He thinks or in what He judges, but is in all respects concordant with Him, declaring doctrines which are the same, and a word consistent and united with the Father's teaching, therefore it is that He and the Father are One; and some of them have dared to write as well as say this.
+
+**[3:17]** Now what can be more unseemly or irrational than this? for if therefore the Son and the Father are One and if in this way the Word is like the Father, it follows forthwith that the Angels too, and the other beings above us, Powers and Authorities, and Thrones and Dominions, and what we see, Sun and Moon, and the Stars, should be sons also, as the Son; and that it should be said of them too, that they and the Father are one, and that each is God's Image and Word.
+
+**[3:18]** For what God wills, that will they; and neither in judging nor in doctrine are they discordant, but in all things are obedient to their Maker.
+
+**[3:19]** For they would not have remained in their own glory, unless, what the Father willed, that they had willed also.
+
+**[3:20]** He, for instance, who did not remain, but went astray, heard the words, 'How art thou fallen from heaven, O Lucifer, son of the morning?' But if this be so, how is only He Only-begotten Son and Word and Wisdom? or how, whereas so many are like the Father, is He only an Image? for among men too will be found many like the Father, numbers, for instance, of martyrs, and before them the Apostles and Prophets, and again before them the Patriarchs.
+
+**[3:21]** And many now too keep the Saviour's command, being merciful 'as their Father which is in heaven,' and observing the exhortation, 'Be ye therefore followers of God as dear children, and walk in love, as Christ also hath loved us;' many too have become followers of Paul as he also of Christ.
+
+**[3:22]** And yet no one of these is Word or Wisdom or Only-begotten Son or Image; nor did any one of them make bold to say, 'I and the Father are One,' or, 'I in the Father, and the Father in Me;' but it is said of all of them, 'Who is like unto Thee among the gods, O Lord? and who shall be likened to the Lord among the sons of Gods?' and of Him on the contrary that He only is Image true and natural of the Father.
+
+**[3:23]** For though we have been made after the Image, and called both image and glory of God, yet not on our own account still, but for that Image and true Glory of God inhabiting us, which is His Word, who was for us afterwards made flesh, have we this grace of our designation.
+
+**[3:24]** This their notion then being evidently unseemly and irrational as well as the rest, the likeness and the oneness must be referred to the very Essence of the Son; for unless it be so taken, He will not be shown to have anything beyond things originate, as has been said, nor will He be like the Father, but He will be like the Father's doctrines; and He differs from the Father, in that the Father is Father, but the doctrines and teaching are the Father's.
+
+**[3:25]** If then in respect to the doctrines and the teaching the Son is like the Father, then the Father according to them will be Father in name only, and the Son will not be an exact Image, or rather will be seen to have no propriety at all or likeness of the Father; for what likeness or propriety has he who is so utterly different from the Father? for Paul taught like the Saviour, yet was not like 'Him in essence.
+
+**[3:26]** ' Having then such notions, they speak falsely; whereas the Son and the Father are one in such wise as has been said, and in such wise is the Son like the Father Himself and from Him, as we may see and understand son to be towards father, and as we may see the radiance towards the sun.
+
+**[3:27]** Such then being the Son, therefore when the Son works, the Father is the Worker, and the Son coming to the Saints, the Father is He who cometh in the Son, as He promised when He said, 'I and My Father will come, and will make Our abode with him;' for in the Image is contemplated the Father, and in the Radiance is the Light.
+
+**[3:28]** Therefore also, as we said just now, when the Father gives grace and peace, the Son also gives it, as Paul signifies in every Epistle, writing, 'Grace to you and peace from God our Father and the Lord Jesus Christ.
+
+**[3:29]** ' For one and the same grace is from the Father in the Son, as the light of the sun and of the radiance is one, and as the sun's illumination is effected through the radiance; and so too when he prays for the Thessalonians, in saying, 'Now God Himself even our Father, and the Lord Jesus Christ, may He direct our way unto you,' he has guarded the unity of the Father and of the Son.
+
+**[3:30]** For he has not said, 'May they direct,' as if a double grace were given from two Sources, This and That, but 'May He direct,' to shew that the Father gives it through the Son;—at which these irreligious ones will not blush, though they well might.
+
+**[3:31]** For if there were no unity, nor the Word the own Offspring of the Father's Essence, as the radiance of the light, but the Son were divided in nature from the Father, it were sufficient that the Father alone should give, since none of originate things is a partner with his Maker in His givings; but, as it is, such a mode of giving shews the oneness of the Father and the Son.
+
+**[3:32]** No one, for instance, would pray to receive from God and the Angels, or from any other creature, nor would any one say, 'May God and the Angel give thee;' but from Father and the Son, because of Their oneness and the oneness of Their giving.
+
+**[3:33]** For through the Son is given what is given; and there is nothing but the Father operates it through the Son; for thus is grace secure to him who receives it.
+
+**[3:34]** And if the Patriarch Jacob, blessing his grandchildren Ephraim and Manasses, said, 'God which fed me all my life long unto this day, the Angel which delivered me from all evil, bless the lads,' yet none of created and natural Angels did he join to God their Creator, nor rejecting God that fed him, did he from Angel ask the blessing on his grandsons; but in saying, 'Who delivered me from all evil,' he shewed that it was no created Angel, but the Word of God, whom he joined to the Father in his prayer, through whom, whomsoever He will, God doth deliver.
+
+**[3:35]** For knowing that He is also called the Father's 'Angel of great Counsel,' he said that none other than He was the Giver of blessing, and Deliverer from evil.
+
+**[3:36]** Nor was it that he desired a blessing for himself from God but for his grandchildren from the Angel, but whom He Himself had besought saying, 'I will not let Thee go except Thou bless me' (for that was God, as he says himself, 'I have seen God face to face'), Him he prayed to bless also the sons of Joseph.
+
+**[3:37]** It is proper then to an Angel to minister at the command of God, and often does he go forth to cast out the Amorite, and is sent to guard the people in the way; but these are not his doings, but of God who commanded and sent him, whose also it is to deliver, whom He will deliver.
+
+**[3:38]** Therefore it was no other than the Lord God Himself whom he had seen, who said to him, 'And behold I am with thee, to guard thee in all the way whither thou goest;' and it was no other than God whom he had seen, who kept Laban from his treachery, ordering him not to speak evil words to Jacob; and none other than God did he himself beseech, saying, 'Rescue me from the hand of my brother Esau, for I fear him;' for in conversation too with his wives he said, 'God hath not suffered Laban to injure me.
+
+**[3:39]** '.
+
+**[3:40]** Therefore it was none other than God Himself that David too besought concerning his deliverance, 'When I was in trouble, I called upon the Lord, and He heard me; deliver my soul, O Lord, from lying lips and from a deceitful tongue.
+
+**[3:41]** ' To Him also giving thanks he spoke the words of the Song in the seventeenth Psalm, in the day in which the Lord delivered him from the hand of all his enemies and from the hand of Saul, saying, 'I will love Thee, O Lord my strength; the Lord is my strong rock and my defence and deliverer.
+
+**[3:42]** ' And Paul, after enduring many persecutions, to none other than God gave thanks, saying, 'Out of them all the Lord delivered me; and He will deliver in Whom we trust.
+
+**[3:43]** ' And none other than God blessed Abraham and Isaac; and Isaac praying for Jacob, said, 'May God bless thee and increase thee and multiply thee, and thou shalt be for many companies of nations, and may He give thee the blessing of Abraham my father.
+
+**[3:44]** ' But if it belong to none other than God to bless and to deliver, and none other was the deliverer of Jacob than the Lord Himself and Him that delivered him the Patriarch besought for his grandsons, evidently none other did he join to God in his prayer, than God's Word, whom therefore he called Angel, because it is He alone who reveals the Father.
+
+**[3:45]** Which the Apostle also did when he said, 'Grace unto you and peace from God our Father and the Lord Jesus Christ.
+
+**[3:46]** ' For thus the blessing was secure, because of the Son's indivisibility from the Father, and for that the grace given by Them is one and the same.
+
+**[3:47]** For though the Father gives it, through the Son is the gift; and though the Son be said to vouchsafe it, it is the Father who supplies it through and in the Son; for 'I thank my God,' says the Apostle writing to the Corinthians, 'always on your behalf, for the grace of God which is given you in Christ Jesus.
+
+**[3:48]** ' And this one may see in the instance of light and radiance; for what the light enlightens, that the radiance irradiates; and what the radiance irradiates, from the light is its enlightenment.
+
+**[3:49]** So also when the Son is beheld, so is the Father, for He is the Father's radiance; and thus the Father and the Son are one.
+
+**[3:50]** But this is not so with things originate and creatures; for when the Father works, it is not that any Angel works, or any other creature; for none of these is an efficient cause, but they are of things which come to be; and moreover being separate and divided from the only God, and other in nature, and being works, they can neither work what God works, nor, as I said before, when God gives grace, can they give grace with Him.
+
+**[3:51]** Nor, on seeing an Angel would a man say that he had seen the Father; for Angels, as it is written, are 'ministering spirits sent forth to minister,' and are heralds of gifts given by Him through the Word to those who receive them.
+
+**[3:52]** And the Angel on his appearance, himself confesses that he has been sent by his Lord; as Gabriel confessed in the case of Zacharias, and also in the case of Mary, bearer of God.
+
+**[3:53]** And he who beholds a vision of Angels, knows that he has seen the Angel and not God.
+
+**[3:54]** For Zacharias saw an Angel; and Isaiah saw the Lord.
+
+**[3:55]** Manoah, the father of Samson, saw an Angel; but Moses beheld God.
+
+**[3:56]** Gideon saw an Angel, but to Abraham appeared God.
+
+**[3:57]** And neither he who saw God, beheld an Angel, nor he who saw an Angel, considered that he saw God; for greatly, or rather wholly, do things by nature originate differ from God the Creator.
+
+**[3:58]** But if at any time, when the Angel was seen, he who saw it heard God's voice, as took place at the bush; for 'the Angel of the Lord was seen in a flame of fire out of the bush, and the Lord called Moses out of the bush, saying, I am the God of thy father, the God of Abraham and the God of Isaac and the God of Jacob,' yet was not the Angel the God of Abraham, but in the Angel God spoke.
+
+**[3:59]** And what was seen was an Angel; but God spoke in him.
+
+**[3:60]** For as He spoke to Moses in the pillar of a cloud in the tabernacle, so also God appears and speaks in Angels.
+
+**[3:61]** So again to the son of Nun He spake by an Angel.
+
+**[3:62]** But what God speaks, it is very plain He speaks through the Word, and not through another.
+
+**[3:63]** And the Word, as being not separate from the Father, nor unlike and foreign to the Father's Essence, what He works, those are the Father's works, and His framing of all things is one with His; and what the Son gives, that is the Father's gift.
+
+**[3:64]** And he who hath seen the Son, knows that, in seeing Him, he has seen, not Angel, nor one merely greater than Angels, nor in short any creature, but the Father Himself.
+
+**[3:65]** And he who hears the Word, knows that he hears the Father; as he who is irradiated by the radiance, knows that he is enlightened by the sun.
+
+**[3:66]** For divine Scripture wishing us thus to understand the matter, has given such illustrations, as we have said above, from which we are able both to press the traitorous Jews, and to refute the allegation of Gentiles who maintain and think, on account of the Trinity, that we profess many gods.
+
+**[3:67]** For, as the illustration shows, we do not introduce three Origins or three Fathers, as the followers of Marcion and Manichaeus; since we have not suggested the image of three suns, but sun and radiance.
+
+**[3:68]** And one is the light from the sun in the radiance; and so we know of but one origin; and the All-framing Word we profess to have no other manner of godhead, than that of the Only God, because He is born from Him.
+
+**[3:69]** Rather then will the Ario-maniacs with reason incur the charge of polytheism or else of atheism, because they idly talk of the Son as external and a creature, and again the Spirit as from nothing.
+
+**[3:70]** For either they will say that the Word is not God; or saying that He is God, because it is so written, but not proper to the Father's Essence, they will introduce many because of their difference of kind (unless forsooth they shall dare to say that by participation only, He, as all things else, is called God; though, if this be their sentiment, their irreligion is the same, since they consider the Word as one among all things).
+
+**[3:71]** But let this never even come into our mind.
+
+**[3:72]** For there is but one form of Godhead, which is also in the Word; and one God, the Father, existing by Himself according as He is above all, and appearing in the Son according as He pervades all things, and in the Spirit according as in Him He acts in all things through the Word.
+
+**[3:73]** For thus we confess God to be one through the Triad, and we say that it is much more religious than the godhead of the heretics with its many kinds, and many parts, to entertain a belief of the One Godhead in a Triad.
+
+**[3:74]** For if it be not so, but the Word is a creature and a work out of nothing, either He is not True God because He is Himself one of the creatures, or if they name Him God from regard for the Scriptures, they must of necessity say that there are two Gods, one Creator, the other creature, and must serve two Lords, one Unoriginate, and the other originate and a creature; and must have two faiths, one in the True God, and the other in one who is made and fashioned by themselves and called God.
+
+**[3:75]** And it follows of necessity in so great blindness, that, when they worship the Unoriginate, they renounce the originate, and when they come to the creature, they turn from the Creator.
+
+**[3:76]** For they cannot see the One in the Other, because their natures and operations are foreign and distinct.
+
+**[3:77]** And with such sentiments, they will certainly be going on to more gods, for this will be the essay of those who revolt from the One God.
+
+**[3:78]** Wherefore then, when the Arians have these speculations and views, do they not rank themselves with the Gentiles? for they too, as these, worship the creature rather than God the Creator of all, and though they shrink from the Gentile name, in order to deceive the unskilful, yet they secretly hold a like sentiment with them.
+
+**[3:79]** For their subtle saying which they are accustomed to urge, We say not two 'Unoriginates,' they plainly say to deceive the simple; for in their very professing 'We say not two Unoriginates,' they imply two Gods, and these with different natures, one originate and one Unoriginate.
+
+**[3:80]** And though the Greeks worship one Unoriginate and many originate, but these one Unoriginate and one originate, this is no difference from them; for the God whom they call originate is one out of many, and again the many gods of the Greeks have the same nature with this one, for both he and they are creatures.
+
+**[3:81]** Unhappy are they, and the more for that their hurt is from thinking against Christ; for they have fallen from the truth, and are greater traitors than the Jews in denying the Christ, and they wallow with the Gentiles, hateful as they are to God, worshipping the creature and many deities.
+
+**[3:82]** For there is One God, and not many, and One is His Word, and not many; for the Word is God, and He alone has the Form of the Father.
+
+**[3:83]** Being then such, the Saviour Himself troubled the Jews with these words, 'The Father Himself which hath sent Me, hath borne witness of Me; ye have neither heard His voice at any time nor seen His Form; and ye have not His Word abiding in you; for whom He hath sent, Him ye believe not.
+
+**[3:84]** ' Suitably has He joined the 'Word' to the 'Form,' to shew that the Word of God is Himself Image and Expression and Form of His Father; and that the Jews who did not receive Him who spoke to them, thereby did not receive the Word, which is the Form of God.
+
+**[3:85]** This too it was that the Patriarch Jacob having seen, received a blessing from Him and the name of Israel instead of Jacob, as divine Scripture witnesses, saying, 'And as he passed by the Form of God, the Sun rose upon him.
+
+**[3:86]** ' And This it was who said, 'He that hath seen Me hath seen the Father,' and, 'I in the Father and the Father in Me,' and, 'I and the Father are one;' for thus God is One, and one the faith in the Father and Son; for, though the Word be God, the Lord our God is one Lord; for the Son is proper to that One, and inseparable according to the propriety and peculiarity of His Essence.
+
+**[3:87]** The Arians, however, not even thus abashed, reply, 'Not as you say, but as we will;' for, whereas you have overthrown our former expedients, we have invented a new one, and it is this:—So are the Son and the Father One, and so is the Father in the Son and the Son in the Father, as we too may become one in Him.
+
+**[3:88]** For this is written in the Gospel according to John, and Christ desired it for us in these words, 'Holy Father, keep through Thine own Name, those whom Thou hast given Me, that they may be one, as We are.
+
+**[3:89]** ' And shortly after; 'Neither pray I for these alone, but for them also which shall believe on Me through their Word; that they all may be one, as Thou, Father, art in Me, and I in Thee, that they also may be one in Us, that the world may believe that Thou hast sent Me.
+
+**[3:90]** And the glory which Thou gavest Me I have given them, that they may be one, even as We are one; I in them, and Thou in Me, that they may be made perfect in one, and that the world may know that Thou didst send Me.
+
+**[3:91]** ' Then, as having found an evasion, these men of craft add, 'If, as we become one in the Father, so also He and the Father are one, and thus He too is in the Father, how pretend you from His saying, "I and the Father are One," and "I in the Father and the Father in Me," that He is proper and like the Father's Essence? for it follows either that we too are proper to the Father's Essence, or He foreign to it, as we are foreign.
+
+**[3:92]** ' Thus they idly babble; but in this their perverseness I see nothing but unreasoning audacity and recklessness from the devil, since it is saying after his pattern, 'We will ascend to heaven, we will be like the Most High.
+
+**[3:93]** ' For what is given to man by grace, this they would make equal to the Godhead of the Giver.
+
+**[3:94]** Thus hearing that men are called sons, they thought themselves equal to the True Son by nature such.
+
+**[3:95]** And now again hearing from the Saviour, 'that they may be one as We are,' they deceive themselves, and are arrogant enough to think that they may be such as the Son is in the Father and the Father in the Son; not considering the fall of their 'father the devil,' which happened upon such an imagination.
+
+**[3:96]** If then, as we have many times said, the Word of God is the same with us, and nothing differs from us except in time, let Him be like us, and have the same place with the Father as we have; nor let Him be called Only-begotten, nor Only Word or Wisdom of the Father; but let the same name be of common application to all us who are like Him.
+
+**[3:97]** For it is right, that they who have one nature, should have their name in common, though they differ from each other in point of time.
+
+**[3:98]** For Adam was a man, and Paul a man, and he who is now born is a man, and time is not that which alters the nature of the race.
+
+**[3:99]** If then the Word also differs from us only in time, then we must be as He.
+
+**[3:100]** But in truth neither we are Word or Wisdom, nor is He creature or work; else why are we all sprung from one, and He the Only Word? but though it be suitable in them thus to speak, in us at least it is unsuitable to entertain their blasphemies.
+
+**[3:101]** And yet, needless though it be to refine upon these passages, considering their so clear and religious sense, and our own orthodox belief, yet that their irreligion may be shewn here also, come let us shortly, as we have received from the fathers, expose their heterodoxy from the passage.
+
+**[3:102]** It is a custom with divine Scripture to take the things of nature as images and illustrations for mankind; and this it does, that from these physical objects the moral impulses of man may be explained; and thus their conduct shewn to be either bad or righteous.
+
+**[3:103]** For instance, in the case of the bad, as when it charges, 'Be ye not like to horse and mule which have no understanding.
+
+**[3:104]** ' Or as when it says, complaining of those who have become such, 'Man, being in honour, hath no understanding, but is compared unto the beasts that perish.
+
+**[3:105]** ' And again, 'They were as wanton horses.
+
+**[3:106]** ' And the Saviour to expose Herod said, 'Tell that fox;' but, on the other hand, charged His disciples, 'Behold I send you forth as sheep in the midst of wolves; be ye therefore wise as serpents and harmless as doves.
+
+**[3:107]** ' And He said this, not that we may become in nature beasts of burden, or become serpents and doves; for He hath not so made us Himself, and therefore nature does not allow of it; but that we might eschew the irrational motions of the one, and being aware of the wisdom of that other animal, might not be deceived by it, and might take on us the meekness of the dove.
+
+**[3:108]** Again, taking patterns for man from divine subjects, the Saviour says; 'Be ye merciful, as your Father which is in heaven is merciful;' and, 'Be ye perfect, as your heavenly Father is perfect.
+
+**[3:109]** ' And He said this too, not that we might become such as the Father; for to become as the Father, is impossible for us creatures, who have been brought to be out of nothing; but as He charged us, 'Be ye not like to horse,' not lest we should become as draught animals, but that we should not imitate their want of reason, so, not that we might become as God, did He say, 'Be ye merciful as your Father,' but that looking at His beneficent acts, what we do well, we might do, not for men's sake, but for His sake, so that from Him and not from men we may have the reward.
+
+**[3:110]** For as, although there be one Son by nature, True and Only-begotten, we too become sons, not as He in nature and truth, but according to the grace of Him that calleth, and though we are men from the earth, are yet called gods, not as the True God or His Word, but as has pleased God who has given us that grace; so also, as God do we become merciful, not by being made equal to God, nor becoming in nature and truth benefactors (for it is not our gift to benefit but belongs to God), but in order that what has accrued to us from God Himself by grace, these things we may impart to others, without making distinctions, but largely towards all extending our kind service.
+
+**[3:111]** For only in this way can we anyhow become imitators, and in no other, when we minister to others what comes from Him.
+
+**[3:112]** And as we put a fair and right sense upon these texts, such again is the sense of the lection in John.
+
+**[3:113]** For he does not say, that, as the Son is in the Father, such we must become:—whence could it be? when He is God's Word and Wisdom, and we were fashioned out of the earth, and He is by nature and essence Word and true God (for thus speaks John, 'We know that the Son of God is come, and He hath given us an understanding to know Him that is true, and we are in Him that is true, even in His Son Jesus Christ; this is the true God and eternal life') and we are made sons through Him by adoption and grace, as partaking of His Spirit (for 'as many as received Him,' he says, 'to them gave He power to become children of God, even to them that believe on His Name'), and therefore also He is the Truth (saying, 'I am the Truth,' and in His address to His Father, He said, 'Sanctify them through Thy Truth, Thy Word is Truth'); but we by imitation become virtuous and sons:—therefore not that we might become such as He, did He say 'that they may be one as We are;' but that as He, being the Word, is in His own Father, so that we too, taking an examplar and looking at Him, might become one towards each other in concord and oneness of spirit, nor be at variance as the Corinthians, but mind the same thing, as those five thousand in the Acts, who were as one.
+
+**[3:114]** For it is as 'sons,' not as the Son; as 'gods,' not as He Himself; and not as the Father, but 'merciful as the Father.
+
+**[3:115]** ' And, as has been said, by so becoming one, as the Father and the Son, we shall be such, not as the Father is by nature in the Son and the Son in the Father, but according to our own nature, and as it is possible for us thence to be moulded and to learn how we ought to be one, just as we learned also to be merciful.
+
+**[3:116]** For like things are naturally one with like; thus all flesh is ranked together in kind; but the Word is unlike us and like the Father.
+
+**[3:117]** And therefore, while He is in nature and truth one with His own Father, we, as being of one kind with each other (for from one were all made, and one is the nature of all men), become one with each other in good disposition, having as our copy the Son's natural unity with the Father.
+
+**[3:118]** For as He taught us meekness from Himself, saying, 'Learn of Me for I am meek and lowly in heart,' not that we may become equal to Him, which is impossible, but that looking towards Him, we may remain meek continually, so also here wishing that our good disposition towards each other should be true and firm and indissoluble, from Himself taking the pattern, He says, 'that they may be one as We are,' whose oneness is indivisible; that is, that they learning from us of that indivisible Nature, may preserve in like manner agreement one with another.
+
+**[3:119]** And this imitation of natural conditions is especially safe for man, as has been said; for, since they remain and never change, whereas the conduct of men is very changeable, one may look to what is unchangeable by nature, and avoid what is bad and remodel himself on what is best.
+
+**[3:120]** And for this reason also the words, 'that they may be one in Us,' have a right sense.
+
+**[3:121]** If, for instance, it were possible for us to become as the Son in the Father, the words ought to run, 'that they may be one in Thee,' as the Son is in the Father; but, as it is, He has not said this; but by saying 'in Us' He has pointed out the distance and difference; that He indeed is alone in the Father alone, as Only Word and Wisdom; but we in the Son, and through Him in the Father.
+
+**[3:122]** And thus speaking, He meant this only, 'By Our unity may they also be so one with each other, as We are one in nature and truth; for otherwise they could not be one, except by learning unity in Us.
+
+**[3:123]** ' And that 'in Us' has this signification, we may learn from Paul, who says, 'These things I have in a figure transferred to myself and to Apollos, that ye may learn in us not to be puffed up above that is written.
+
+**[3:124]** ' The words 'in Us' then, are not 'in the Father,' as the Son is in Him; but imply an example and image, instead of saying, 'Let them learn of Us.
+
+**[3:125]** ' For as Paul to the Corinthians, so is the oneness of the Son and the Father a pattern and lesson to all, by which they may learn, looking to that natural unity of the Father and the Son, how they themselves ought to be one in spirit towards each other.
+
+**[3:126]** Or if it needs to account for the phrase otherwise, the words 'in Us' may mean the same as saying, that in the power of the Father and the Son they may be one, speaking the same things; for without God this is impossible.
+
+**[3:127]** And this mode of speech also we may find in the divine writings, as 'In God will we do great acts;' and 'In God I shall leap over the wall;' and 'In Thee will we tread down our enemies.
+
+**[3:128]** ' Therefore it is plain, that in the Name of Father and Son we shall be able, becoming one, to hold firm the bond of charity.
+
+**[3:129]** For, dwelling still on the same thought, the Lord says, 'And the glory which Thou gavest Me, I have given to them, that they may be one as We are one.
+
+**[3:130]** ' Suitably has He here too said, not, 'that they may be in Thee as I am,' but 'as We are;' now he who says 'as', signifies not identity, but an image and example of the matter in hand.
+
+**[3:131]** The Word then has the real and true identity of nature with the Father; but to us it is given to imitate it, as has been said; for He immediately adds, 'I in them and Thou in Me; that they may be made perfect in one.
+
+**[3:132]** ' Here at length the Lord asks something greater and more perfect for us; for it is plain that the Word has come to be in us, for He has put on our body.
+
+**[3:133]** 'And Thou Father in Me;' 'for I am Thy Word, and since Thou art in Me, because I am Thy Word, and I in them because of the body, and because of Thee the salvation of men is perfected in Me, therefore I ask that they also may become one, according to the body that is in Me and according to its perfection; that they too may become perfect, having oneness with It, and having become one in It; that, as if all were carried by Me, all may be one body and one spirit, and may grow up unto a perfect man.
+
+**[3:134]** ' For we all, partaking of the Same, become one body, having the one Lord in ourselves.
+
+**[3:135]** The passage then having this meaning, still more plainly is refuted the heterodoxy of Christ's enemies.
+
+**[3:136]** I repeat it; if He had said simply and absolutely 'that they may be one in Thee,' or 'that they and I may be one in Thee,' God's enemies had had some plea, though a shameless one; but in fact He has not spoken simply, but, 'As Thou, Father, in Me, and I in Thee, that they may be all one.
+
+**[3:137]** ' Moreover, using the word 'as,' He signifies those who become distantly as He is in the Father; distantly not in place but in nature; for in place nothing is far from God, but in nature only all things are far from Him.
+
+**[3:138]** And, as I said before, whoso uses the particle 'as' implies, not identity, nor equality, but a pattern of the matter in question, viewed in a certain respect.
+
+**[3:139]** Indeed we may learn also from the Saviour Himself, when He says, 'For as Jonah was three days and three nights in the whale's belly, so shall the Son of man be three days and three nights in the heart of the earth.
+
+**[3:140]** ' For Jonah was not as the Saviour, nor did Jonah go down to hades; nor was the whale hades; nor did Jonah, when swallowed up, bring up those who had before been swallowed by the whale, but he alone came forth, when the whale was bidden.
+
+**[3:141]** Therefore there is no identity nor equality signified in the term 'as,' but one thing and another; and it shews a certain kind of parallel in the case of Jonah, on account of the three days.
+
+**[3:142]** In like manner then we too, when the Lord says 'as,' neither become as the Son in the Father, nor as the Father is in the Son.
+
+**[3:143]** For we become one as the Father and the Son in mind and agreement of spirit, and the Saviour will be as Jonah in the earth; but as the Saviour is not Jonah, nor, as he was swallowed up, so did the Saviour descend into hades, but it is but a parallel, in like manner, if we too become one, as the Son in the Father, we shall not be as the Son, nor equal to Him; for He and we are but parallel.
+
+**[3:144]** For on this account is the word 'as' applied to us; since things differing from others in nature, become as they, when viewed in a certain relation.
+
+**[3:145]** Wherefore the Son Himself, simply and without any condition is in the Father; for this attribute He has by nature; but for us, to whom it is not natural, there is needed an image and example, that He may say of us, 'As Thou in Me, and I in Thee.
+
+**[3:146]** ' 'And when they shall be so perfected,' He says, 'then the world knows that Thou hast sent Me, for unless I had come and borne this their body, no one of them had been perfected, but one and all had remained corruptible.
+
+**[3:147]** Work Thou then in them, O Father, and as Thou hast given to Me to bear this, grant to them Thy Spirit, that they too in It may become one, and may be perfected in Me.
+
+**[3:148]** For their perfecting shews that Thy Word has sojourned among them; and the world seeing them perfect and full of God, will believe altogether that Thou hast sent Me, and I have sojourned here.
+
+**[3:149]** For whence is this their perfecting, but that I, Thy Word, having borne their body, and become man, have perfected the work, which Thou gavest Me, O Father? And the work is perfected, because men, redeemed from sin, no longer remain dead; but being deified, have in each other, by looking at Me, the bond of charity.
+
+**[3:150]** '.
+
+**[3:151]** We then, by way of giving a rude view of the expressions in this passage, have been led into many words, but blessed John will shew from his Epistle the sense of the words, concisely and much more perfectly than we can.
+
+**[3:152]** And he will both disprove the interpretation of these irreligious men, and will teach how we become in God and God in us; and how again we become One in Him, and how far the Son differs in nature from us, and will stop the Arians from any longer thinking that they shall be as the Son, lest they hear it said to them, 'Thou art a man and not God,' and 'Stretch not thyself, being poor, beside a rich man.
+
+**[3:153]** ' John then thus writes; 'Hereby know we that we dwell in Him and He in us, because He hath given us of His Spirit.
+
+**[3:154]** ' Therefore because of the grace of the Spirit which has been given to us, in Him we come to be, and He in us; and since it is the Spirit of God, therefore through His becoming in us, reasonably are we, as having the Spirit, considered to be in God, and thus is God in us.
+
+**[3:155]** Not then as the Son in the Father, so also we become in the Father; for the Son does not merely partake the Spirit, that therefore He too may be in the Father; nor does He receive the Spirit, but rather He supplies It Himself to all; and the Spirit does not unite the Word to the Father, but rather the Spirit receives from the Word.
+
+**[3:156]** And the Son is in the Father, as His own Word and Radiance; but we, apart from the Spirit, are strange and distant from God, and by the participation of the Spirit we are knit into the Godhead; so that our being in the Father is not ours, but is the Spirit's which is in us and abides in us, while by the true confession we preserve it in us, John again saying, 'Whosoever shall confess that Jesus is the Son of God, God dwelleth in him and he in God.
+
+**[3:157]** ' What then is our likeness and equality to the Son? rather, are not the Arians confuted on every side? and especially by John, that the Son is in the Father in one way, and we become in Him in another, and that neither we shall ever be as He, nor is the Word as we; except they shall dare, as commonly, so now to say, that the Son also by participation of the Spirit and by improvement of conduct came to be Himself also in the Father.
+
+**[3:158]** But here again is an excess of irreligion, even in admitting the thought.
+
+**[3:159]** For He, as has been said, gives to the Spirit, and whatever the Spirit hath, He hath from the Word.
+
+**[3:160]** The Saviour, then, saying of us, 'As Thou, Father, art in Me, and I in Thee, that they too may be one in Us,' does not signify that we were to have identity with Him; for this was shewn from the instance of Jonah; but it is a request to the Father, as John has written, that the Spirit should be vouchsafed through Him to those who believe, through whom we are found to be in God, and in this respect to be conjoined in Him.
+
+**[3:161]** For since the Word is in the Father, and the Spirit is given from the Word, He wills that we should receive the Spirit, that, when we receive It, thus having the Spirit of the Word which is in the Father, we too may be found on account of the Spirit to become One in the Word, and through Him in the Father.
+
+**[3:162]** And if He say, 'as we,' this again is only a request that such grace of the Spirit as is given to the disciples may be without failure or revocation.
+
+**[3:163]** For what the Word has by nature, as I said, in the Father, that He wishes to be given to us through the Spirit irrevocably; which the Apostle knowing, said, 'Who shall separate us from the love of Christ?' for 'the gifts of God' and 'grace of His calling are without repentance.
+
+**[3:164]** ' It is the Spirit then which is in God, and not we viewed in our own selves; and as we are sons and gods because of the Word in us, so we shall be in the Son and in the Father, and we shall be accounted to have become one in Son and in Father, because that that Spirit is in us, which is in the Word which is in the Father.
+
+**[3:165]** When then a man falls from the Spirit for any wickedness, if he repent upon his fall, the grace remains irrevocably to such as are willing; otherwise he who has fallen is no longer in God (because that Holy Spirit and Paraclete which is in God has deserted him), but the sinner shall be in him to whom he has subjected himself, as took place in Saul's instance; for the Spirit of God departed from him and an evil spirit was afflicting him.
+
+**[3:166]** God's enemies hearing this ought to be henceforth abashed, and no longer to feign themselves equal to God.
+
+**[3:167]** But they neither understand (for 'the irreligious,' he saith, 'does not understand knowledge') nor endure religious words, but find them heavy even to hear.
+
+**[4:1]** Chapter XXVI.
+
+**[4:2]** —Introductory to Texts from the Gospels on the Incarnation.
+
+**[4:3]** Enumeration of texts still to be explained.
+
+**[4:4]** Arians compared to the Jews.
+
+**[4:5]** We must recur to the Regula Fidei.
+
+**[4:6]** Our Lord did not come into, but became, man, and therefore had the acts and affections of the flesh.
+
+**[4:7]** The same works divine and human.
+
+**[4:8]** Thus the flesh was purified, and men were made immortal.
+
+**[4:9]** Reference to I Pet.
+
+**[4:10]** iv.
+
+**[4:11]** For behold, as if not wearied in their words of irreligion, but hardened with Pharaoh, while they hear and see the Saviour's human attributes in the Gospels, they have utterly forgotten, like the Samosatene, the Son's paternal Godhead, and with arrogant and audacious tongue they say, 'How can the Son be from the Father by nature, and be like Him in essence,' who says, 'All power is given unto Me;' and 'The Father judgeth no man, but hath committed all judgment unto the Son;' and 'The Father loveth the Son, and hath given all things into His hand; he that believeth in the Son hath everlasting life;' and again, 'All things were delivered unto Me of My Father, and no one knoweth the Father save the Son, and he to whomsoever the Son will reveal Him;' and again, 'All that the Father hath given unto Me, shall come to Me.
+
+**[4:12]** ' On this they observe, 'If He was, as ye say, Son by nature, He had no need to receive, but He had by nature as a Son.
+
+**[4:13]** ' "Or how can He be the natural and true Power of the Father, who near upon the season of the passion says, 'Now is My soul troubled, and what shall I say? Father, save Me from this hour; but for this came I unto this hour.
+
+**[4:14]** Father, glorify Thy Name.
+
+**[4:15]** Then came there a voice from heaven, saying, I have both glorified it, and will glorify it again.
+
+**[4:16]** ' And He said the same another time; 'Father, if it be possible, let this cup pass from Me;' and 'When Jesus had thus said, He was troubled in spirit and testified and said, Verily, verily, I say unto you, that one of you shall betray Me.
+
+**[4:17]** '" Then these perverse men argue; 'If He were Power, He had not feared, but rather He had supplied power to others.
+
+**[4:18]** ' Further they say; 'If He were by nature the true and own Wisdom of the Father,' how is it written, 'And Jesus increased in wisdom and stature, and in favour with God and man?' In like manner, when He had come into the parts of Caesarea Philippi, He asked the disciples whom men said that He was; and when He was at Bethany He asked where Lazarus lay; and He said besides to His disciples, 'How many loaves have ye? How then,' say they, 'is He Wisdom, who increased in wisdom and was ignorant of what He asked of others?' This too they urge; "How can He be the own Word of the Father, without whom the Father never was, through whom He makes all things, as ye think, who said upon the Cross 'My God, My God, why hast Thou forsaken Me?' and before that had prayed, 'Glorify Thy Name,' and, 'O Father, glorify Thou Me with the glory which I had with Thee before the world was.
+
+**[4:19]** ' And He used to pray in the deserts and charge His disciples to pray lest they should enter into temptation; and, 'The spirit indeed is willing,' He said, 'but the flesh is weak.
+
+**[4:20]** ' And, 'Of that day and that hour knoweth no man, no, nor the Angels, neither the Son.
+
+**[4:21]** '" Upon this again say the miserable men, "If the Son were, according to your interpretation, eternally existent with God, He had not been ignorant of the Day, but had known as Word; nor had been forsaken as being coexistent; nor had asked to receive glory, as having it in the Father; nor would have prayed at all; for, being the Word, He had needed nothing; but since He is a creature and one of things originate, therefore He thus spoke, and needed what He had not; for it is proper to creatures to require and to need what they have not".
+
+**[4:22]** This then is what the irreligious men allege in their discourses; and if they thus argue, they might consistently speak yet more daringly; 'Why did the Word become flesh at all?' and they might add; 'For how could He, being God, become man?' or, 'How could the Immaterial bear a body?' or they might speak with Caiaphas still more Judaically, 'Wherefore at all did Christ, being a man, make Himself God?' for this and the like the Jews then muttered when they saw, and now the Ario-maniacs disbelieve when they read, and have fallen away into blasphemies.
+
+**[4:23]** If then a man should carefully parallel the words of these and those, he will of a certainty find them both arriving at the same unbelief, and the daring of their irreligion equal, and their dispute with us a common one.
+
+**[4:24]** For the Jews said; 'How, being a man, can He be God?' And the Arians, 'If He were very God from God, how could He become man?' And the Jews were offended then and mocked, saying, 'Had He been Son of God, He had not endured the Cross;' and the Arians standing over against them, urge upon us, 'How dare ye say that He is the Word proper to the Father's Essence, who had a body, so as to endure all this?' Next, while the Jews sought to kill the Lord, because He said that God was His own Father and made Himself equal to Him, as working what the Father works, the Arians also, not only have learned to deny, both that He is equal to God and that God is the own and natural Father of the Word, but those who hold this they seek to kill.
+
+**[4:25]** Again, whereas the Jews said, 'Is not this the Son of Joseph, whose father and mother we know? how then is it that He saith, Before Abraham was, I am, and I came down from heaven?' the Arians on the other hand make response and say conformably, 'How can He be Word or God who slept as man, and wept, and inquired?' Thus both parties deny the Eternity and Godhead of the Word in consequence of those human attributes which the Saviour took on Him by reason of that flesh which He bore.
+
+**[4:26]** Such error then being Judaic, and Judaic after the mind of Judas the traitor, let them openly confess themselves scholars of Caiaphas and Herod, instead of cloking Judaism with the name of Christianity, and let them deny outright, as we have said before, the Saviour's appearance in the flesh, for this doctrine is akin to their heresy; or if they fear openly to Judaize and be circumcised, from servility towards Constantius and for their sake whom they have beguiled, then let them not say what the Jews say; for if they disown the name, let them in fairness renounce the doctrine.
+
+**[4:27]** For we are Christians, O Arians, Christians we; our privilege is it well to know the Gospels concerning the Saviour, and neither, with Jews to stone Him, if we hear of His Godhead and Eternity, nor with you to stumble at such lowly sayings as He may speak for our sakes as man.
+
+**[4:28]** If then you would become Christians, put off Arius's madness, and cleanse with the words of religion those ears of yours which blaspheming has defiled; knowing that, by ceasing to be Arians, you will cease also from the malevolence of the present Jews.
+
+**[4:29]** Then at once will truth shine on you out of darkness, and ye will no longer reproach us with holding two Eternals, but ye will yourselves acknowledge that the Lord is God's true Son by nature, and not as merely eternal, but revealed as co-existing in the Father's eternity.
+
+**[4:30]** For there are things called eternal of which He is Framer; for in the twenty-third Psalm it is written, 'Lift up your gates, O ye rulers, and be ye lift up, ye everlasting gates;' and it is plain that through Him these things were made; but if even of things everlasting He is the Framer, who of us shall be able henceforth to dispute that He is anterior to those things eternal, and in consequence is proved to be Lord not so much from His eternity, as in that He is God's Son; for being the Son, He is inseparable from the Father, and never was there when He was not, but He was always; and being the Father's Image and Radiance, He has the Father's eternity.
+
+**[4:31]** Now what has been briefly said above may suffice to shew their misunderstanding of the passages they then alleged; and that of what they now allege from the Gospels they certainly give an unsound interpretation, we may easily see, if we now consider the scope of that faith which we Christians hold, and using it as a rule, apply ourselves, as the Apostle teaches, to the reading of inspired Scripture.
+
+**[4:32]** For Christ's enemies, being ignorant of this scope, have wandered from the way of truth, and have stumbled on a stone of stumbling, thinking otherwise than they should think.
+
+**[4:33]** Now the scope and character of Holy Scripture, as we have often said, is this,—it contains a double account of the Saviour; that He was ever God, and is the Son, being the Father's Word and Radiance and Wisdom; and that afterwards for us He took flesh of a Virgin, Mary Bearer of God, and was made man.
+
+**[4:34]** And this scope is to be found throughout inspired Scripture, as the Lord Himself has said, 'Search the Scriptures, for they are they which testify of Me.
+
+**[4:35]** ' But lest I should exceed in writing, by bringing together all the passages on the subject, let it suffice to mention as a specimen, first John saying, 'In the beginning was the Word, and the Word was with God, and the Word was God.
+
+**[4:36]** The same was in the beginning with God.
+
+**[4:37]** All things were made by Him, and without Him was made not one thing;' next, 'And the Word was made flesh and dwelt among us, and we beheld His glory, the glory as of one Only-begotten from the Father;' and next Paul writing, 'Who being in the form of God, thought it not a prize to be equal with God, but emptied Himself, taking the form of a servant, being made in the likeness of men, and being found in fashion like a man, He humbled Himself, becoming obedient unto death, even the death of the Cross.
+
+**[4:38]** ' Any one, beginning with these passages and going through the whole of the Scripture upon the interpretation which they suggest, will perceive how in the beginning the Father said to Him, 'Let there be light,' and 'Let there be a firmament,' and 'Let us make man;' but in fulness of the ages, He sent Him into the world, not that He might judge the world, but that the world by Him might be saved, and how it is written 'Behold, the Virgin shall be with child, and shall bring forth a Son, and they shall call his Name Emmanuel, which, being interpreted, is God with us.
+
+**[4:39]** '.
+
+**[4:40]** The reader then of divine Scripture may acquaint himself with these passages from the ancient books; and from the Gospels on the other hand he will perceive that the Lord became man; for 'the Word,' he says, 'became flesh, and dwelt among us.
+
+**[4:41]** ' And He became man, and did not come into man; for this it is necessary to know, lest perchance these irreligious men fall into this notion also, and beguile any into thinking, that, as in former times the Word was used to come into each of the Saints, so now He sojourned in a man, hallowing him also, and manifesting Himself as in the others.
+
+**[4:42]** For if it were so, and He only appeared in a man, it were nothing strange, nor had those who saw Him been startled, saying, Whence is He? and wherefore dost Thou, being a man, make Thyself God? for they were familiar with the idea, from the words, 'And the Word of the Lord came' to this or that of the Prophets.
+
+**[4:43]** But now, since the Word of God, by whom all things came to be, endured to become also Son of man, and humbled Himself, taking a servant's form, therefore to the Jews the Cross of Christ is a scandal, but to us Christ is 'God's power' and 'God's wisdom;' for 'the Word,' as John says, 'became flesh' (it being the custom of Scripture to call man by the name of 'flesh,' as it says by Joel the Prophet, 'I will pour out My Spirit upon all flesh;' and as Daniel said to Astyages, 'I do not worship idols made with hands, but the Living God, who hath created the heaven and the earth, and hath sovereignty over all flesh;' for both he and Joel call mankind flesh).
+
+**[4:44]** Of old time He was wont to come to the Saints individually, and to hallow those who rightly received Him; but neither, when they were begotten was it said that He had become man, nor, when they suffered, was it said that He Himself suffered.
+
+**[4:45]** But when He came among us from Mary once at the end of the ages for the abolition of sin (for so it was pleasing to the Father, to send His own Son 'made of a woman, made under the Law'), then it is said, that He took flesh and became man, and in that flesh He suffered for us (as Peter says, 'Christ therefore having suffered for us in the flesh,' that it might be shewn, and that all might believe, that whereas He was ever God, and hallowed those to whom He came, and ordered all things according to the Father's will, afterwards for our sakes He became man, and 'bodily,' as the Apostle says, the Godhead dwelt in the flesh; as much as to say, 'Being God, He had His own body, and using this as an instrument, He became man for our sakes.
+
+**[4:46]** ' And on account of this, the properties of the flesh are said to be His, since He was in it, such as to hunger, to thirst, to suffer, to weary, and the like, of which the flesh is capable; while on the other hand the works proper to the Word Himself, such as to raise the dead, to restore sight to the blind, and to cure the woman with an issue of blood, He did through His own body.
+
+**[4:47]** And the Word bore the infirmities of the flesh, as His own, for His was the flesh; and the flesh ministered to the works of the Godhead, because the Godhead was in it, for the body was God's.
+
+**[4:48]** And well has the Prophet said 'carried;' and has not said, 'He remedied our infirmities,' lest, as being external to the body, and only healing it, as He has always done, He should leave men subject still to death; but He carries our infirmities, and He Himself bears our sins, that it might be shewn that He has become man for us, and that the body which in Him bore them, was His own body; and, while He received no hurt Himself by 'bearing our sins in His body on the tree,' as Peter speaks, we men were redeemed from our own affections, and were filled with the righteousness of the Word.
+
+**[4:49]** Whence it was that, when the flesh suffered, the Word was not external to it; and therefore is the passion said to be His: and when He did divinely His Father's works, the flesh was not external to Him, but in the body itself did the Lord do them.
+
+**[4:50]** Hence, when made man, He said, 'If I do not the works of the Father, believe Me not; but if I do, though ye believe not Me, believe the works, that ye may know that the Father is in Me and I in Him.
+
+**[4:51]** ' And thus when there was need to raise Peter's wife's mother, who was sick of a fever, He stretched forth His hand humanly, but He stopped the illness divinely.
+
+**[4:52]** And in the case of the man blind from the birth, human was the spittle which He gave forth from the flesh, but divinely did He open the eyes through the clay.
+
+**[4:53]** And in the case of Lazarus, He gave forth a human voice as man; but divinely, as God, did He raise Lazarus from the dead.
+
+**[4:54]** These things were so done, were so manifested, because He had a body, not in appearance, but in truth; and it became the Lord, in putting on human flesh, to put it on whole with the affections proper to it; that, as we say that the body was His own, so also we may say that the affections of the body were proper to Him alone, though they did not touch Him according to His Godhead.
+
+**[4:55]** If then the body had been another's, to him too had been the affections attributed; but if the flesh is the Word's (for 'the Word became flesh'), of necessity then the affections also of the flesh are ascribed to Him, whose the flesh is.
+
+**[4:56]** And to whom the affections are ascribed, such namely as to be condemned, to be scourged, to thirst, and the cross, and death, and the other infirmities of the body, of Him too is the triumph and the grace.
+
+**[4:57]** For this cause then, consistently and fittingly such affections are ascribed not to another, but to the Lord; that the grace also may be from Him, and that we may become, not worshippers of any other, but truly devout towards God, because we invoke no originate thing, no ordinary man, but the natural and true Son from God, who has become man, yet is not the less Lord and God and Saviour.
+
+**[4:58]** Who will not admire this? or who will not agree that such a thing is truly divine? for if the works of the Word's Godhead had not taken place through the body, man had not been deified; and again, had not the properties of the flesh been ascribed to the Word, man had not been thoroughly delivered from them; but though they had ceased for a little while, as I said before, still sin had remained in him and corruption, as was the case with mankind before Him; and for this reason:—Many for instance have been made holy and clean from all sin; nay, Jeremiah was hallowed even from the womb, and John, while yet in the womb, leapt for joy at the voice of Mary Bearer of God; nevertheless 'death reigned from Adam to Moses, even over those that had not sinned after the similitude of Adam's transgression;' and thus man remained mortal and corruptible as before, liable to the affections proper to their nature.
+
+**[4:59]** But now the Word having become man and having appropriated what pertains to the flesh, no longer do these things touch the body, because of the Word who has come in it, but they are destroyed by Him, and henceforth men no longer remain sinners and dead according to their proper affections, but having risen according to the Word's power, they abide ever immortal and incorruptible.
+
+**[4:60]** Whence also, whereas the flesh is born of Mary Bearer of God, He Himself is said to have been born, who furnishes to others an origin of being; in order that He may transfer our origin into Himself, and we may no longer, as mere earth, return to earth, but as being knit into the Word from heaven, may be carried to heaven by Him.
+
+**[4:61]** Therefore in like manner not without reason has He transferred to Himself the other affections of the body also; that we, no longer as being men, but as proper to the Word, may have share in eternal life.
+
+**[4:62]** For no longer according to our former origin in Adam do we die; but henceforward our origin and all infirmity of flesh being transferred to the Word, we rise from the earth, the curse from sin being removed, because of Him who is in us, and who has become a curse for us.
+
+**[4:63]** And with reason; for as we are all from earth and die in Adam, so being regenerated from above of water and Spirit, in the Christ we are all quickened; the flesh being no longer earthly, but being henceforth made Word, by reason of God's Word who for our sake 'became flesh.
+
+**[4:64]** '.
+
+**[4:65]** And that one may attain to a more exact knowledge of the impassibility of the Word's nature and of the infirmities ascribed to Him because of the flesh, it will be well to listen to the blessed Peter; for he will be a trustworthy witness concerning the Saviour.
+
+**[4:66]** He writes then in his Epistle thus; 'Christ then having suffered for us in the flesh.
+
+**[4:67]** ' Therefore also when He is said to hunger and thirst and to toil and not to know, and to sleep, and to weep, and to ask, and to flee, and to be born, and to deprecate the cup, and in a word to undergo all that belongs to the flesh, let it be said, as is congruous, in each case 'Christ then hungering and thirsting "for us in the flesh;"' and saying 'He did not know, and being buffeted, and toiling "for us in the flesh;"' and 'being exalted too, and born, and growing "in the flesh;"' and 'fearing and hiding "in the flesh;"' and 'saying, "If it be possible let this cup pass from Me," and being beaten, and receiving, "for us in the flesh;"' and in a word all such things 'for us in the flesh.
+
+**[4:68]** ' For on this account has the Apostle himself said, 'Christ then having suffered,' not in His Godhead, but 'for us in the flesh,' that these affections may be acknowledged as, not proper to the very Word by nature, but proper by nature to the very flesh.
+
+**[4:69]** Let no one then stumble at what belongs to man, but rather let a man know that in nature the Word Himself is impassible, and yet because of that flesh which He put on, these things are ascribed to Him, since they are proper to the flesh, and the body itself is proper to the Saviour.
+
+**[4:70]** And while He Himself, being impassible in nature, remains as He is, not harmed by these affections, but rather obliterating and destroying them, men, their passions as if changed and abolished in the Impassible, henceforth become themselves also impassible and free from them for ever, as John taught, saying, 'And ye know that He was manifested to take away our sins, and in Him is no sin.
+
+**[4:71]** ' And this being so, no heretic shall object, 'Wherefore rises the flesh, being by nature mortal? and if it rises, why not hunger too and thirst, and suffer, and remain mortal? for it came from the earth, and how can its natural condition pass from it?' since the flesh is able now to make answer to this so contentious heretic, 'I am from earth, being by nature mortal, but afterwards I have become the Word's flesh,' and He 'carried' my affections, though He is without them; and so I became free from them, being no more abandoned to their service because of the Lord who has made me free from them.
+
+**[4:72]** For if you object to my being rid of that corruption which is by nature, see that you object not to God's Word having taken my form of servitude; for as the Lord, putting on the body, became man, so we men are deified by the Word as being taken to Him through His flesh, and henceforward inherit life 'everlasting.
+
+**[4:73]** '.
+
+**[4:74]** These points we have found it necessary first to examine, that, when we see Him doing or saying aught divinely through the instrument of His own body, we may know that He so works, being God, and also, if we see Him speaking or suffering humanly, we may not be ignorant that He bore flesh and became man, and hence He so acts and so speaks.
+
+**[4:75]** For if we recognise what is proper to each, and see and understand that both these things and those are done by One, we are right in our faith, and shall never stray.
+
+**[4:76]** But if a man looking at what is done divinely by the Word, deny the body, or looking at what is proper to the body, deny the Word's presence in the flesh, or from what is human entertain low thoughts concerning the Word, such a one, as a Jewish vintner, mixing water with the wine, shall account the Cross an offence, or as a Gentile, will deem the preaching folly.
+
+**[4:77]** This then is what happens to God's enemies the Arians; for looking at what is human in the Saviour, they have judged Him a creature.
+
+**[4:78]** Therefore they ought, looking also at the divine works of the Word, to deny the origination of His body, and henceforth to rank themselves with Manichees.
+
+**[4:79]** But for them, learn they, however tardily, that 'the Word became flesh;' and let us, retaining the general scope of the faith, acknowledge that what they interpret ill, has a right interpretation.
+
+**[5:1]** Chapter XXVII.
+
+**[5:2]** —Texts Explained; Tenthly, Matthew xi.
+
+**[5:3]** ; John iii.
+
+**[5:4]** , &c.
+
+**[5:5]** These texts intended to preclude the Sabellian notion of the Son; they fall in with the Catholic doctrine concerning the Son; they are explained by 'so' in John v.
+
+**[5:6]** (Anticipation of the next chapter.
+
+**[5:7]** ) Again they are used with reference to our Lord's human nature; for our sake, that we might receive and not lose, as receiving in Him.
+
+**[5:8]** And consistently with other parts of Scripture, which shew that He had the power, &c.
+
+**[5:9]** , before He received it.
+
+**[5:10]** He was God and man, and His actions are often at once divine and human.
+
+**[5:11]** (continued).
+
+**[5:12]** For, 'The Father loveth the Son, and hath given all things into His hand;' and, 'All things were given unto Me of My Father;' and, 'I can do nothing of Myself, but as I hear, I judge;' and the like passages do not shew that the Son once had not these prerogatives—(for had not He eternally what the Father has, who is the Only Word and Wisdom of the Father in essence, who also says, 'All that the Father hath are Mine,' and what are Mine, are the Father's? for if the things of the Father are the Son's and the Father hath them ever, it is plain that what the Son hath, being the Father's, were ever in the Son),—not then because once He had them not, did He say this, but because, whereas the Son hath eternally what He hath, yet He hath them from the Father.
+
+**[5:13]** For lest a man, perceiving that the Son has all that the Father hath, from the exact likeness and identity of that He hath, should wander into the irreligion of Sabellius, considering Him to be the Father, therefore He has said 'Was given unto Me,' and 'I received,' and 'Were delivered to Me,' only to shew that He is not the Father, but the Father's Word, and the Eternal Son, who because of His likeness to the Father, has eternally what He has from Him, and because He is the Son, has from the Father what He has eternally.
+
+**[5:14]** Moreover that 'Was given' and 'Were delivered,' and the like, do not impair the Godhead of the Son, but rather shew Him to be truly Son, we may learn from the passages themselves.
+
+**[5:15]** For if all things are delivered unto Him, first, He is other than that all which He has received; next, being Heir of all things, He alone is the Son and proper according to the Essence of the Father.
+
+**[5:16]** For if He were one of all, then He were not 'heir of all,' but every one had received according as the Father willed and gave.
+
+**[5:17]** But now, as receiving all things, He is other than them all, and alone proper to the Father.
+
+**[5:18]** Moreover that 'Was given' and 'Were delivered' do not shew that once He had them not, we may conclude from a similar passage, and in like manner concerning them all; for the Saviour Himself says, 'As the Father hath life in Himself, so hath He given also to the Son to have life in Himself.
+
+**[5:19]** ' Now from the words 'Hath given,' He signifies that He is not the Father; but in saying 'so,' He shews the Son's natural likeness and propriety towards the Father.
+
+**[5:20]** If then once the Father had not, plainly the Son once had not; for as the Father, 'so' also the Son has.
+
+**[5:21]** But if this is irreligious to say, and religious on the contrary to say that the Father had ever, is it not unseemly in them when the Son says that, 'as' the Father has, 'so' also the Son has, to say that He has not 'so,' but otherwise? Rather then is the Word faithful, and all things which He says that He has received, He has always, yet has from the Father; and the Father indeed not from any, but the Son from the Father.
+
+**[5:22]** For as in the instance of the radiance, if the radiance itself should say, 'All places the light hath given me to enlighten, and I do not enlighten from myself, but as the light wills,' yet, in saying this, it does not imply that it once had not, but it means, 'I am proper to the light, and all things of the light are mine;' so, and much more, must we understand in the instance of the Son.
+
+**[5:23]** For the Father, having given all things to the Son, in the Son still hath all things; and the Son having, still the Father hath them; for the Son's Godhead is the Father's Godhead, and thus the Father in the Son exercises His Providence over all things.
+
+**[5:24]** And while such is the sense of expressions like these, those which speak humanly concerning the Saviour admit of a religious meaning also.
+
+**[5:25]** For with this end have we examined them beforehand, that, if we should hear Him asking where Lazarus is laid, or when He asks on coming into the parts of Caesarea, 'Whom do men say that I am?' or, 'How many loaves have ye?' and, 'What will ye that I shall do unto you?' we may know, from what has been already said, the right sense of the passages, and may not stumble as Christ's enemies the Arians.
+
+**[5:26]** First then we must put this question to the irreligious, why they consider Him ignorant? for one who asks, does not for certain ask from ignorance; but it is possible for one who knows, still to ask concerning what He knows.
+
+**[5:27]** Thus John was aware that Christ, when asking, 'How many loaves have ye?' was not ignorant, for he says, 'And this He said to prove him, for He Himself knew what He would do.
+
+**[5:28]** ' But if He knew what He was doing, therefore not in ignorance, but with knowledge did He ask.
+
+**[5:29]** From this instance we may understand similar ones; that, when the Lord asks, He does not ask in ignorance, where Lazarus lies, nor again, whom men do say that He is; but knowing the thing which He was asking, aware what He was about to do.
+
+**[5:30]** And thus with ease is their clever point exploded; but if they still persist on account of His asking, then they must be told that in the Godhead indeed ignorance is not, but to the flesh ignorance is proper, as has been said.
+
+**[5:31]** And that this is really so, observe how the Lord who inquired where Lazarus lay, Himself said, when He was not on the spot but a great way off, 'Lazarus is dead,' and where he was dead; and how that He who is considered by them as ignorant, is He Himself who foreknew the reasonings of the disciples, and was aware of what was in the heart of each, and of 'what was in man,' and, what is greater, alone knows the Father and says, 'I in the Father and the Father in Me.
+
+**[5:32]** '.
+
+**[5:33]** Therefore this is plain to every one, that the flesh indeed is ignorant, but the Word Himself, considered as the Word, knows all things even before they come to be.
+
+**[5:34]** For He did not, when He became man, cease to be God; nor, whereas He is God does He shrink from what is man's; perish the thought; but rather, being God, He has taken to Him the flesh, and being in the flesh deifies the flesh.
+
+**[5:35]** For as He asked questions in it, so also in it did He raise the dead; and He shewed to all that He who quickens the dead and recalls the soul, much more discerns the secret of all.
+
+**[5:36]** And He knew where Lazarus lay, and yet He asked; for the All-holy Word of God, who endured all things for our sakes, did this, that so carrying our ignorance, He might vouchsafe to us the knowledge of His own only and true Father, and of Himself, sent because of us for the salvation of all, than which no grace could be greater.
+
+**[5:37]** When then the Saviour uses the words which they allege in their defence, 'Power is given to Me,' and, 'Glorify Thy Son,' and Peter says, 'Power is given unto Him,' we understand all these passages in the same sense, that humanly because of the body He says all this.
+
+**[5:38]** For though He had no need, nevertheless He is said to have received what He received humanly, that on the other hand, inasmuch as the Lord has received, and the grant is lodged with Him, the grace may remain sure.
+
+**[5:39]** For while mere man receives, he is liable to lose again (as was shewn in the case of Adam, for he received and he lost), but that the grace may be irrevocable, and may be kept sure by men, therefore He Himself appropriates the gift; and He says that He has received power, as man, which He ever had as God, and He says, 'Glorify Me,' who glorifies others, to shew that He hath a flesh which has need of these things.
+
+**[5:40]** Wherefore, when the flesh receives, since that which receives is in Him, and by taking it He hath become man, therefore He is said Himself to have received.
+
+**[5:41]** If then (as has many times been said) the Word has not become man, then ascribe to the Word, as you would have it, to receive, and to need glory, and to be ignorant; but if He has become man (and He has become), and it is man's to receive, and to need, and to be ignorant, wherefore do we consider the Giver as receiver, and the Dispenser to others do we suspect to be in need, and divide the Word from the Father as imperfect and needy, while we strip human nature of grace? For if the Word Himself, considered as Word, has received and been glorified for His own sake, and if He according to His Godhead is He who is hallowed and has risen again, what hope is there for men? for they remain as they were, naked, and wretched, and dead, having no interest in the things given to the Son.
+
+**[5:42]** Why too did the Word come among us, and become flesh? if that He might receive these things, which He says that He has received, He was without them before that, and of necessity will rather owe thanks Himself to the body, because, when He came into it, then He receives these things from the Father, which He had not before His descent into the flesh.
+
+**[5:43]** For on this shewing He seems rather to be Himself promoted because of the body, than the body promoted because of Him.
+
+**[5:44]** But this notion is Judaic.
+
+**[5:45]** But if that He might redeem mankind, the Word did come among us; and that He might hallow and deify them, the Word became flesh (and for this He did become), who does not see that it follows, that what He says that He received, when He became flesh, that He mentions, not for His own sake, but for the flesh? for to it, in which He was speaking, pertained the gifts given through Him from the Father.
+
+**[5:46]** But let us see what He asked, and what the things altogether were which He said that He had received, that in this way also they may be brought to feeling.
+
+**[5:47]** He asked then glory, yet He had said, 'All things were delivered unto Me.
+
+**[5:48]** ' And after the resurrection, He says that He has received all power; but even before that He had said, 'All things were delivered unto Me,' He was Lord of all, for 'all things were made by Him;' and 'there is One Lord by whom are all things.
+
+**[5:49]** ' And when He asked glory, He was as He is, the Lord of glory; as Paul says, 'If they had known it, they would not have crucified the Lord of glory;' for He had that glory which He asked when He said, 'the glory which I had with Thee before the world was.
+
+**[5:50]** '.
+
+**[5:51]** Also the power which He said He received after the resurrection, that He had before He received it, and before the resurrection.
+
+**[5:52]** For He of Himself rebuked Satan, saying, 'Get thee behind Me, Satan;' and to the disciples He gave the power against him, when on their return He said, 'I beheld Satan, as lightning, fall from heaven.
+
+**[5:53]** ' And again, that what He said that He had received, that He possessed before receiving it, appears from His driving away the demons, and from His unbinding what Satan had bound, as He did in the case of the daughter of Abraham; and from His remitting sins, saying to the paralytic, and to the woman who washed His feet, 'Thy sins be forgiven thee;' and from His both raising the dead, and repairing the first nature of the blind, granting to him to see.
+
+**[5:54]** And all this He did, not waiting till He should receive, but being 'possessed of power.
+
+**[5:55]** ' From all this it is plain that what He had as Word, that when He had become man and was risen again, He says that He received humanly; that for His sake men might henceforward upon earth have power against demons, as having become partakers of a divine nature; and in heaven, as being delivered from corruption, might reign everlastingly.
+
+**[5:56]** Thus we must acknowledge this once for all, that nothing which He says that He received, did He receive as not possessing before; for the Word, as being God, had them always; but in these passages He is said humanly to have received, that, whereas the flesh received in Him, henceforth from it the gift might abide surely for us.
+
+**[5:57]** For what is said by Peter, 'receiving from God honour and glory, Angels being made subject unto Him,' has this meaning.
+
+**[5:58]** As He inquired humanly, and raised Lazarus divinely, so 'He received' is spoken of Him humanly, but the subjection of the Angels marks the Word's Godhead.
+
+**[5:59]** Cease then, O abhorred of God, and degrade not the Word; nor detract from His Godhead, which is the Father's, as though He needed or were ignorant; lest ye be casting your own arguments against the Christ, as the Jews who once stoned Him.
+
+**[5:60]** For these belong not to the Word, as the Word; but are proper to men and, as when He spat, and stretched forth the hand, and called Lazarus, we did not say that the triumphs were human, though they were done through the body, but were God's, so, on the other hand, though human things are ascribed to the Saviour in the Gospel, let us, considering the nature of what is said and that they are foreign to God, not impute them to the Word's Godhead, but to His manhood.
+
+**[5:61]** For though 'the Word became flesh,' yet to the flesh are the affections proper; and though the flesh is possessed by God in the Word, yet to the Word belong the grace and the power.
+
+**[5:62]** He did then the Father's works through the flesh; and as truly contrariwise were the affections of the flesh displayed in Him; for instance, He inquired and He raised Lazarus, He chid His Mother, saying, 'My hour is not yet come,' and then at once He made the water wine.
+
+**[5:63]** For He was Very God in the flesh, and He was true flesh in the Word.
+
+**[5:64]** Therefore from His works He revealed both Himself as Son of God, and His own Father, and from the affections of the flesh He shewed that He bore a true body, and that it was His own.
+
+**[6:1]** Chapter XXVIII.
+
+**[6:2]** —Texts Explained; Eleventhly, Mark xiii.
+
+**[6:3]** and Luke ii.
+
+**[6:4]** Arian explanation of the former text is against the Regula Fidei; and against the context.
+
+**[6:5]** Our Lord said He was ignorant of the Day, by reason of His human nature.
+
+**[6:6]** If the Holy Spirit knows the Day, therefore the Son knows; if the Son knows the Father, therefore He knows the Day; if He has all that is the Father's, therefore knowledge of the Day; if in the Father, He knows the Day in the Father; if He created and upholds all things, He knows when they will cease to be.
+
+**[6:7]** He knows not as Man, argued from Matt.
+
+**[6:8]** xxiv.
+
+**[6:9]** As He asked about Lazarus's grave, &c.
+
+**[6:10]** , yet knew, so He knows; as S.
+
+**[6:11]** Paul says, 'whether in the body I know not,' &c.
+
+**[6:12]** , yet knew, so He knows.
+
+**[6:13]** He said He knew not for our profit, that we be not curious (as in Acts i.
+
+**[6:14]** , where on the contrary He did not say He knew not).
+
+**[6:15]** As the Almighty asks of Adam and of Cain, yet knew, so the Son knows[as God].
+
+**[6:16]** Again, He advanced in wisdom also as man, else He made Angels perfect before Himself.
+
+**[6:17]** He advanced, in that the Godhead was manifested in Him more fully as time went on.
+
+**[6:18]** These things being so, come let us now examine into 'But of that day and that hour knoweth no man, neither the Angels of God, nor the Son;' for being in great ignorance as regards these words, and being stupefied about them, they think they have in them an important argument for their heresy.
+
+**[6:19]** But I, when the heretics allege it and prepare themselves with it, see in them the giants again fighting against God.
+
+**[6:20]** For the Lord of heaven and earth, by whom all things were made, has to litigate before them about day and hour; and the Word who knows all things is accused by them of ignorance about a day; and the Son who knows the Father is said to be ignorant of an hour of a day; now what can be spoken more contrary to sense, or what madness can be likened to this? Through the Word all things have been made, times and seasons and night and day and the whole creation; and is the Framer of all said to be ignorant of His work? And the very context of the lection shews that the Son of God knows that hour and that day, though the Arians fall headlong in their ignorance.
+
+**[6:21]** For after saying, 'nor the Son,' He relates to the disciples what precedes the day, saying, 'This and that shall be, and then the end.
+
+**[6:22]** ' But He who speaks of what precedes the day, knows certainly the day also, which shall be manifested subsequently to the things foretold.
+
+**[6:23]** But if He had not known the hour, He had not signified the events before it, as not knowing when it should be.
+
+**[6:24]** And as any one, who, by way of pointing out a house or city to those who were ignorant of it, gave an account of what comes before the house or city, and having described all, said, 'Then immediately comes the city or the house,' would know of course where the house or the city was (for had he not known, he had not described what comes before lest from ignorance he should throw his hearers far out of the way, or in speaking he should unawares go beyond the object), so the Lord saying what precedes that day and that hour, knows exactly, nor is ignorant, when the hour and the day are at hand.
+
+**[6:25]** Now why it was that, though He knew, He did not tell His disciples plainly at that time, no one may be curious where He has been silent; for 'Who hath known the mind of the Lord, or who hath been His counsellor?' but why, though He knew, He said, 'no, not the Son knows,' this I think none of the faithful is ignorant, viz.
+
+**[6:26]** that He made this as those other declarations as man by reason of the flesh.
+
+**[6:27]** For this as before is not the Word's deficiency, but of that human nature whose property it is to be ignorant.
+
+**[6:28]** And this again will be well seen by honestly examining into the occasion, when and to whom the Saviour spoke thus.
+
+**[6:29]** Not then when the heaven was made by Him, nor when He was with the Father Himself, the Word 'disposing all things,' nor before He became man did He say it, but when 'the Word became flesh.
+
+**[6:30]** ' On this account it is reasonable to ascribe to His manhood everything which, after He became man, He speaks humanly.
+
+**[6:31]** For it is proper to the Word to know what was made, nor be ignorant either of the beginning or of the end of these (for the works are His), and He knows how many things He wrought, and the limit of their consistence.
+
+**[6:32]** And knowing of each the beginning and the end, He knows surely the general and common end of all.
+
+**[6:33]** Certainly when He says in the Gospel concerning Himself in His human character, 'Father, the hour is come, glorify Thy Son,' it is plain that He knows also the hour of the end of all things, as the Word, though as man He is ignorant of it, for ignorance is proper to man, and especially ignorance of these things.
+
+**[6:34]** Moreover this is proper to the Saviour's love of man; for since He was made man, He is not ashamed, because of the flesh which is ignorant, to say 'I know not,' that He may shew that knowing as God, He is but ignorant according to the flesh.
+
+**[6:35]** And therefore He said not, 'no, not the Son of God knows,' lest the Godhead should seem ignorant, but simply, 'no, not the Son,' that the ignorance might be the Son's as born from among men.
+
+**[6:36]** On this account, He alludes to the Angels, but He did not go further and say, 'not the Holy Ghost;' but He was silent, with a double intimation; first that if the Spirit knew, much more must the Word know, considered as the Word, from whom the Spirit receives; and next by His silence about the Spirit, He made it clear, that He said of His human ministry, 'no, not the Son.
+
+**[6:37]** ' And a proof of it is this; that, when He had spoken humanly 'No, not the Son knows,' He yet shews that divinely He knew all things.
+
+**[6:38]** For that Son whom He declares not to know the day, Him He declares to know the Father; for 'No one,' He says, 'knoweth the Father save the Son.
+
+**[6:39]** ' And all men but the Arians would join in confessing, that He who knows the Father, much more knows the whole of the creation; and in that whole, its end.
+
+**[6:40]** And if already the day and the hour be determined by the Father, it is plain that through the Son are they determined, and He knows Himself what through Him has been determined, for there is nothing but has come to be and has been determined through the Son.
+
+**[6:41]** Therefore He, being the Framer of the universe, knows of what nature, and of what magnitude, and with what limits, the Father has willed it to be made; and in the how much and how far is included its period.
+
+**[6:42]** And again, if all that is the Father's, is the Son's (and this He Himself has said), and it is the Father's attribute to know the day, it is plain that the Son too knows it, having this proper to Him from the Father.
+
+**[6:43]** And again, if the Son be in the Father and the Father in the Son, and the Father knows the day and the hour, it is clear that the Son, being in the Father and knowing the things of the Father, knows Himself also the day and the hour.
+
+**[6:44]** And if the Son is also the Father's Very Image, and the Father knows the day and the hour, it is plain that the Son has this likeness also to the Father of knowing them.
+
+**[6:45]** And it is not wonderful if He, through whom all things were made, and in whom the universe consists, Himself knows what has been brought to be, and when the end will be of each and of all together; rather is it wonderful that this audacity, suitable as it is to the madness of the Ario-maniacs, should have forced us to have recourse to so long a defence.
+
+**[6:46]** For ranking the Son of God, the Eternal Word, among things originate, they are not far from venturing to maintain that the Father Himself is second to the creation; for if He who knows the Father knows not the day nor the hour, I fear lest the knowledge of the creation, or rather of the lower portion of it, be greater, as they in their madness would say, than knowledge concerning the Father.
+
+**[6:47]** But for them, when they thus blaspheme the Spirit, they must expect no remission ever of such irreligion, as the Lord has said; but let us, who love Christ and bear Christ within us, know that the Word, not as ignorant, considered as Word, has said 'I know not,' for He knows, but as shewing His manhood, in that to be ignorant is proper to man, and that He had put on flesh that was ignorant, being in which, He said according to the flesh, 'I know not.
+
+**[6:48]** ' And for this reason, after saying, 'No not the Son knows,' and mentioning the ignorance of the men in Noah's day, immediately He added, 'Watch therefore, for ye know not in what hour your Lord doth come,' and again, 'In such an hour as ye think not, the Son of man cometh.
+
+**[6:49]** ' For I too, having become as you for you, said 'no, not the Son.
+
+**[6:50]** ' For, had He been ignorant divinely, He must have said, 'Watch therefore, for I know not,' and, 'In an hour when I think not;' but in fact this hath He not said; but by saying 'Ye know not' and 'When ye think not,' He has signified that it belongs to man to be ignorant; for whose sake He too having a flesh like theirs and having become man, said 'No, not the Son knows,' for He knew not in flesh, though knowing as Word.
+
+**[6:51]** And again the example from Noah exposes the shamelessness of Christ's enemies; for there too He said not, 'I knew not,' but 'They knew not until the flood came.
+
+**[6:52]** ' For men did not know, but He who brought the flood (and it was the Saviour Himself) knew the day and the hour in which He opened the cataracts of heaven and broke up the great deep, and said to Noah, 'Come thou and all thy house into the ark.
+
+**[6:53]** ' For were He ignorant, He had not foretold to Noah, 'Yet seven days and I will bring a flood upon the earth.
+
+**[6:54]** ' But if in describing the day He makes use of the parallel of Noah's time, and He did know the day of the flood, therefore He knows also the day of His own coming.
+
+**[6:55]** Moreover, after narrating the parable of the Virgins, again He shews more clearly who they are who are ignorant of the day and the hour, saying, 'Watch therefore, for ye know neither the day nor the hour.
+
+**[6:56]** ' He who said shortly before, 'No one knoweth, no not the Son,' now says not 'I know not,' but 'ye know not.
+
+**[6:57]** ' In like manner then, when His disciples asked about the end, suitably said He then, 'no, nor the Son,' according to the flesh because of the body; that He might shew that, as man, He knows not; for ignorance is proper to man.
+
+**[6:58]** If however He is the Word, if it is He who is to come, He to be Judge, He to be the Bridegroom, He knoweth when and in what hour He cometh, and when He is to say, 'Awake, thou that sleepest, and arise from the dead, and Christ shall give thee light.
+
+**[6:59]** ' For as, on becoming man, He hungers and thirsts and suffers with men, so with men as man He knows not; though divinely, being in the Father Word and Wisdom, He knows, and there is nothing which He knows not.
+
+**[6:60]** In like manner also about Lazarus He asks humanly, who was on His way to raise him, and knew whence He should recall Lazarus's soul; and it was a greater thing to know where the soul was, than to know where the body lay; but He asked humanly, that He might raise divinely.
+
+**[6:61]** So too He asks of the disciples, on coming into the parts of Caesarea, though knowing even before Peter made answer.
+
+**[6:62]** For if the Father revealed to Peter the answer to the Lord's question, it is plain that through the Son was the revelation, for 'No one knoweth the Son,' saith He, 'save the Father, neither the Father save the Son, and he to whomsoever the Son will reveal Him.
+
+**[6:63]** ' But if through the Son is revealed the knowledge both of the Father and the Son, there is no room for doubting that the Lord who asked, having first revealed it to Peter from the Father, next asked humanly; in order to shew, that asking after the flesh, He knew divinely what Peter was about to say.
+
+**[6:64]** The Son then knew, as knowing all things, and knowing His own Father, than which knowledge nothing can be greater or more perfect.
+
+**[6:65]** This is sufficient to confute them; but to shew still further that they are hostile to the truth and Christ's enemies, I could wish to ask them a question.
+
+**[6:66]** The Apostle in the Second Epistle to the Corinthians writes, 'I knew a man in Christ, above fourteen years ago, whether in the body I do not know, or whether out of the body I do not know; God knoweth.
+
+**[6:67]** ' What now say ye? Knew the Apostle what had happened to him in the vision, though he says 'I know not,' or knew he not? If he knew not, see to it, lest, being familiar with error, ye err in the trespass of the Phrygians, who say that the Prophets and the other ministers of the Word know neither what they do nor concerning what they announce.
+
+**[6:68]** But if he knew when he said 'I know not,' for he had Christ within him revealing to him all things, is not the heart of God's enemies indeed perverted and 'self-condemned?' for when the Apostle says, 'I know not,' they say that he knows; but when the Lord says, 'I know not,' they say that He does not know.
+
+**[6:69]** For if since Christ was within him, Paul knew that of which he says, 'I know not,' does not much more Christ Himself know, though He say, 'I know not?' The Apostle then, the Lord revealing it to him, knew what happened to him; for on this account he says, 'I knew a man in Christ;' and knowing the man, he knew also how the man was caught away.
+
+**[6:70]** Thus Elisha, who beheld Elijah, knew also how he was taken up; but though knowing, yet when the sons of the Prophets thought that Elijah was cast upon one of the mountains by the Spirit, he knowing from the first what he had seen, tried to persuade them; but when they urged it, he was silent, and suffered them to go after him.
+
+**[6:71]** Did he then not know, because he was silent? he knew indeed, but as if not knowing, he suffered them, that they being convinced, might no more doubt about the taking up of Elijah.
+
+**[6:72]** Therefore much more Paul, himself being the person caught away, knew also how he was caught; for Elijah knew; and had any one asked, he would have said how.
+
+**[6:73]** And yet Paul says 'I know not,' for these two reasons, as I think at least; one, as he has said himself, lest because of the abundance of the revelations any one should think of him beyond what he saw; the other, because, our Saviour having said 'I know not,' it became him also to say 'I know not,' lest the servant should appear above his Lord, and the disciple above his Master.
+
+**[6:74]** Therefore He who gave to Paul to know, much rather knew Himself; for since He spoke of the antecedents of the day, He also knew, as I said before, when the Day and when the Hour, and yet though knowing, He says, 'No, not the Son knoweth.
+
+**[6:75]** ' Why then said He at that time 'I know not,' what He as Lord, knew? as we may by searching conjecture, for our profit, as I think at least, did He this; and may He grant to what we are now proposing a true meaning! On both sides did the Saviour secure our advantage; for He has made known what comes before the end, that, as He said Himself, we might not be startled nor scared, when they happen, but from them may expect the end after them.
+
+**[6:76]** And concerning the day and the hour He was not willing to say according to His divine nature, 'I know,' but after the flesh, 'I know not,' for the sake of the flesh which was ignorant, as I have said before; lest they should ask Him further, and then either He should have to pain the disciples by not speaking, or by speaking might act to the prejudice of them and us all.
+
+**[6:77]** For whatever He does, that altogether He does for our sakes, since also for us 'the Word became flesh.
+
+**[6:78]** ' For us therefore He said 'No, not the Son knoweth;' and neither was He untrue in thus saying (for He said humanly, as man, 'I know not'), nor did He suffer the disciples to force Him to speak, for by saying 'I know not' He stopped their inquiries.
+
+**[6:79]** And so in the Acts of the Apostles it is written, when He went upon the Angels, ascending as man, and carrying up to heaven the flesh which He bore, on the disciples seeing this, and again asking, 'When shall the end be, and when wilt Thou be present?' He said to them more clearly, 'It is not for you to know the times or the seasons which the Father hath put in His own power.
+
+**[6:80]** ' And He did not then say, 'No, not the Son,' as He said before humanly, but, 'It is not for you to know.
+
+**[6:81]** ' For now the flesh had risen and put off its mortality and been deified; and no longer did it become Him to answer after the flesh when He was going into the heavens; but henceforth to teach after a divine manner, 'It is not for you to know times or seasons which the Father hath put in His own power; but ye shall receive Power.
+
+**[6:82]** ' And what is that Power of the Father but the Son? for Christ is 'God's Power and God's Wisdom.
+
+**[6:83]** '.
+
+**[6:84]** The Son then did know, as being the Word; for He implied this in what He said,—'I know but it is not for you to know;' for it was for your sakes that sitting also on the mount I said according to the flesh, 'No, not the Son knoweth,' for the profit of you and all.
+
+**[6:85]** For it is profitable to you to hear so much both of the Angels and of the Son, because of the deceivers which shall be afterwards; that though demons should be transfigured as Angels, and should attempt to speak concerning the end, you should not believe, since they are ignorant; and that, if Antichrist too, disguising himself, should say, 'I am Christ,' and should try in his turn to speak of that day and end, to deceive the hearers, ye, having these words from Me, 'No, not the Son,' may disbelieve him also.
+
+**[6:86]** And further, not to know when the end is, or when the day of the end, is expedient for man, lest knowing, they might become negligent of the time between, awaiting the days near the end; for they will argue that then only must they attend to themselves.
+
+**[6:87]** Therefore also has He been silent of the time when each shall die, lest men, being elated on the ground of knowledge, should forthwith neglect themselves for the greater part of their time.
+
+**[6:88]** Both then, the end of all things and the limit of each of us hath the Word concealed from us (for in the end of all is the end of each, and in the end of each the end of all is comprehended), that, whereas it is uncertain and always in prospect, we may advance day by day as if summoned, reaching forward to the things before us and forgetting the things behind.
+
+**[6:89]** For who, knowing the day of the end, would not be dilatory with the interval? but, if ignorant, would not be ready day by day? It was on this account that the Saviour added, 'Watch therefore, for ye know not what hour your Lord doth come;' and, 'In such an hour as ye think not, the Son of man cometh.
+
+**[6:90]** ' For the advantage then which comes of ignorance has He said this; for in saying it, He wishes that we should always be prepared; 'for you,' He says, 'know not; but I, the Lord, know when I come, though the Arians do not wait for Me, who am the Word of the Father.
+
+**[6:91]** '.
+
+**[6:92]** The Lord then, knowing what is good for us beyond ourselves, thus secured the disciples; and they, being thus taught, set right those of Thessalonica when likely on this point to run into error.
+
+**[6:93]** However, since Christ's enemies do not yield even to these considerations, I wish, though knowing that they have a heart harder than Pharaoh, to ask them again concerning this.
+
+**[6:94]** In Paradise God asks, 'Adam, where art Thou' and He inquires of Cain also, 'Where is Abel thy brother?' What then say you to this? for if you think Him ignorant and therefore to have asked, you are already of the party of the Manichees, for this is their bold thought; but if, fearing the open name, ye force yourselves to say, that He asks knowing, what is there extravagant or strange in the doctrine, that ye should thus fall, on finding that the Son, in whom God then inquired, that same Son who now is clad in flesh, inquires of the disciples as man? unless forsooth, having become Manichees, you are willing to blame the question then put to Adam and all that you may give full play to your perverseness.
+
+**[6:95]** For being exposed on all sides, you still make a whispering from the words of Luke, which are rightly said, but ill understood by you.
+
+**[6:96]** And what this is, we must state, that so also their corrupt meaning may be shewn.
+
+**[6:97]** Now Luke says, 'And Jesus advanced in wisdom and stature, and in grace with God and man.
+
+**[6:98]** ' This then is the passage, and since they stumble in it, we are compelled to ask them, like the Pharisees and the Sadducees, of the person concerning whom Luke speaks.
+
+**[6:99]** And the case stands thus.
+
+**[6:100]** Is Jesus Christ man, as all other men, or is He God bearing flesh? If then He is an ordinary man as the rest, then let Him, as a man, advance; this however is the sentiment of the Samosatene, which virtually indeed you entertain also, though in name you deny it because of men.
+
+**[6:101]** But if He be God bearing flesh, as He truly is, and 'the Word became flesh,' and being God descended upon earth, what advance had He who existed equal to God? or how had the Son increase, being ever in the Father? For if He who was ever in the Father, advanced, what, I ask, is there beyond the Father from which His advance might be made? Next it is suitable here to repeat what was said upon the point of His receiving and being glorified.
+
+**[6:102]** If He advanced when He became man, it is plain that, before He became man, He was imperfect; and rather the flesh became to Him a cause of perfection, than He to the flesh.
+
+**[6:103]** And again, if, as being the Word, He advances, what has He more to become than Word and Wisdom and Son and God's Power? For the Word is all these, of which if one can anyhow partake as it were one ray, such a man becomes all perfect among men, and equal to Angels.
+
+**[6:104]** For Angels, and Archangels, and Dominions, and all the Powers, and Thrones, as partaking the Word, behold always the face of His Father.
+
+**[6:105]** How then does He who to others supplies perfection, Himself advance later than they? For Angels even ministered to His human birth, and the passage from Luke comes later than the ministration of the Angels.
+
+**[6:106]** How then at all can it even come into thought of man? or how did Wisdom advance in wisdom? or how did He who to others gives grace (as Paul says in every Epistle, knowing that through Him grace is given, 'The grace of our Lord Jesus Christ be with you all'), how did He advance in grace? for either let them say that the Apostle is untrue, and presume to say that the Son is not Wisdom, or else if He is Wisdom as Solomon said, and if Paul wrote, 'Christ God's Power and God's Wisdom,' of what advance did Wisdom admit further?.
+
+**[6:107]** For men, creatures as they are, are capable in a certain way of reaching forward and advancing in virtue.
+
+**[6:108]** Enoch, for instance, was thus translated, and Moses increased and was perfected; and Isaac 'by advancing became great;' and the Apostle said that he 'reached forth' day by day to what was before him.
+
+**[6:109]** For each had room for advancing, looking to the step before him.
+
+**[6:110]** But the Son of God, who is One and Only, what room had He for reaching forward? for all things advance by looking at Him; and He, being One and Only, is in the Only Father, from whom again He does not reach forward, but in Him abideth ever.
+
+**[6:111]** To men then belongs advance; but the Son of God, since He could not advance, being perfect in the Father, humbled Himself for us, that in His humbling we on the other hand might be able to increase.
+
+**[6:112]** And our increase is no other than the renouncing things sensible, and coming to the Word Himself; since His humbling is nothing else than His taking our flesh.
+
+**[6:113]** It was not then the Word, considered as the Word, who advanced; who is perfect from the perfect Father, who needs nothing, nay brings forward others to an advance; but humanly is He here also said to advance, since advance belongs to man.
+
+**[6:114]** Hence the Evangelist, speaking with cautious exactness, has mentioned stature in the advance; but being Word and God He is not measured by stature, which belongs to bodies.
+
+**[6:115]** Of the body then is the advance; for, it advancing, in it advanced also the manifestation of the Godhead to those who saw it.
+
+**[6:116]** And, as the Godhead was more and more revealed, by so much more did His grace as man increase before all men.
+
+**[6:117]** For as a child He was carried to the Temple; and when He became a boy, He remained there, and questioned the priests about the Law.
+
+**[6:118]** And by degrees His body increasing, and the Word manifesting Himself in it, He is confessed henceforth by Peter first, then also by all, 'Truly this is the Son of God;' however wilfully the Jews, both the ancient and these modern, shut fast their eyes, lest they see that to advance in wisdom is not the advance of Wisdom Itself, but rather the manhood's advance in It.
+
+**[6:119]** For 'Jesus advanced in wisdom and grace;' and, if we may speak what is explanatory as well as true, He advanced in Himself; for 'Wisdom builded herself an house,' and in herself she gave the house advancement.
+
+**[6:120]** (What moreover is this advance that is spoken of, but, as I said before, the deifying and grace imparted from Wisdom to men, sin being obliterated in them and their inward corruption, according to their likeness and relationship to the flesh of the Word?) For thus, the body increasing in stature, there developed in it the manifestation of the Godhead also, and to all was it displayed that the body was God's Temple, and that God was in the body.
+
+**[6:121]** And if they urge, that 'The Word become flesh' is called Jesus, and refer to Him the term 'advanced,' they must be told that neither does this impair the Father's Light, which is the Son, but that it still shews that the Word has become man, and bore true flesh.
+
+**[6:122]** And as we said that He suffered in the flesh, and hungered in the flesh, and was fatigued in the flesh, so also reasonably may He be said to have advanced in the flesh; for neither did the advance, such as we have described it, take place with the Word external to the flesh, for in Him was the flesh which advanced and His is it called, and that as before, that man's advance might abide and fail not, because of the Word which is with it.
+
+**[6:123]** Neither then was the advance the Word's, nor was the flesh Wisdom, but the flesh became the body of Wisdom.
+
+**[6:124]** Therefore, as we have already said, not Wisdom, as Wisdom, advanced in respect of Itself; but the manhood advanced in Wisdom, transcending by degrees human nature, and being deified, and becoming and appearing to all as the organ of Wisdom for the operation and the shining forth of the Godhead.
+
+**[6:125]** Wherefore neither said he, 'The Word advanced,' but Jesus, by which Name the Lord was called when He became man; so that the advance is of the human nature in such wise as we explained above.
+
+**[7:1]** Chapter XXIX.
+
+**[7:2]** —Texts Explained; Twelfthly, Matthew xxvi.
+
+**[7:3]** ; John xii.
+
+**[7:4]** , &c.
+
+**[7:5]** Arian inferences are against the Regula Fidei, as before.
+
+**[7:6]** He wept and the like, as man.
+
+**[7:7]** Other texts prove Him God.
+
+**[7:8]** God could not fear.
+
+**[7:9]** He feared because His flesh feared.
+
+**[7:10]** Therefore as, when the flesh advanced, He is said to have advanced, because the body was His own, so also what is said at the season of His death, that He was troubled, that He wept, must be taken in the same sense.
+
+**[7:11]** For they, going up and down, as if thereby recommending their heresy anew, allege; "Behold, 'He wept,' and said, 'Now is My soul troubled,' and He besought that the cup might pass away; how then, if He so spoke, is He God, and Word of the Father?" Yea, it is written that He wept, O God's enemies, and that He said, 'I am troubled,' and on the Cross He said, 'Eloi, Eloi, lama sabachthani,' that is, 'My God, My God, why hast Thou forsaken Me?' and He besought that the cup might pass away.
+
+**[7:12]** Thus certainly it is written; but again I would ask you (for the same rejoinder must of necessity be made to each of your objections), If the speaker is mere man, let him weep and fear death, as being man; but if He is the Word in flesh (for one must not be reluctant to repeat), whom had He to fear being God? or wherefore should He fear death, who was Himself Life, and was rescuing others from death? or how, whereas He said, 'Fear not him that kills the body,' should He Himself fear? And how should He who said to Abraham, 'Fear not, for I am with thee,' and encouraged Moses against Pharaoh, and said to the son of Nun, 'Be strong, and of a good courage,' Himself feel terror before Herod and Pilate? Further, He who succours others against fear (for 'the Lord,' says Scripture, 'is on my side, I will not fear what man shall do unto me'), did He fear governors, mortal men? did He who Himself was come against death, feel terror of death? Is it not both unseemly and irreligious to say that He was terrified at death or hades, whom the keepers of the gates of hades saw and shuddered? But if, as you would hold, the Word was in terror wherefore, when He spoke long before of the conspiracy of the Jews, did He not flee, nay said when actually sought, 'I am He?' for He could have avoided death, as He said, 'I have power to lay down My life, and I have power to take it again;' and 'No one taketh it from Me.
+
+**[7:13]** '.
+
+**[7:14]** But these affections were not proper to the nature of the Word, as far as He was Word; but in the flesh which was thus affected was the Word, O Christ's enemies and unthankful Jews! For He said not all this prior to the flesh; but when the 'Word became flesh,' and has become man, then is it written that He said this, that is, humanly.
+
+**[7:15]** Surely He of whom this is written was He who raised Lazarus from the dead, and made the water wine, and vouchsafed sight to the man born blind, and said, 'I and My Father are one.
+
+**[7:16]** ' If then they make His human attributes a ground for low thoughts concerning the Son of God, nay consider Him altogether man from the earth, and not from heaven, wherefore not from His divine works recognise the Word who is in the Father, and henceforward renounce their self-willed irreligion? For they are given to see, how He who did the works is the same as He who shewed that His body was passible by His permitting it to weep and hunger, and to shew other properties of a body.
+
+**[7:17]** For while by means of such He made it known that, though God impassible, He had taken a passible flesh; yet from the works He shewed Himself the Word of God, who had afterwards become man, saying, Though ye believe not Me, beholding Me clad in a human body, yet believe the works, that ye may know that "I am in the Father, and the Father in Me".
+
+**[7:18]** 'And Christ's enemies seem to me to shew plain shamelessness and blasphemy;' for, when they hear 'I and the Father are one,' they violently distort the sense, and separate the unity of the Father and the Son; but reading of His tears or sweat or sufferings, they do not advert to His body, but on account of these rank in the creation Him by whom the creation was made.
+
+**[7:19]** What then is left for them to differ from the Jews in? for as the Jews blasphemously ascribed God's works to Beelzebub, so also will these, ranking with the creatures the Lord who wrought those works, undergo the same condemnation as theirs without mercy.
+
+**[7:20]** But they ought, when they hear 'I and the Father are one,' to see in Him the oneness of the Godhead and the propriety of the Father's Essence; and again when they hear, 'He wept' and the like, to say that these are proper to the body; especially since on each side they have an intelligible ground, viz.
+
+**[7:21]** that this is written as of God and that with reference to His manhood.
+
+**[7:22]** For in the incorporeal, the properties of body had not been, unless He had taken a body corruptible and mortal; for mortal was Holy Mary, from whom was His body.
+
+**[7:23]** Wherefore of necessity when He was in a body suffering, and weeping, and toiling, these things which are proper to the flesh, are ascribed to Him together with the body.
+
+**[7:24]** If then He wept and was troubled, it was not the Word, considered as the Word, who wept and was troubled, but it was proper to the flesh; and if too He besought that the cup might pass away, it was not the Godhead that was in terror, but this affection too was proper to the manhood.
+
+**[7:25]** And that the words 'Why hast Thou forsaken Me?' are His, according to the foregoing explanations (though He suffered nothing, for the Word was impassible), is notwithstanding declared by the Evangelists; since the Lord became man, and these things are done and said as from a man, that He might Himself lighten these very sufferings of the flesh, and free it from them.
+
+**[7:26]** Whence neither can the Lord be forsaken by the Father, who is ever in the Father, both before He spoke, and when He uttered this cry.
+
+**[7:27]** Nor is it lawful to say that the Lord was in terror, at whom the keepers of hell's gates shuddered and set open hell, and the graves did gape, and many bodies of the saints arose and appeared to their own people.
+
+**[7:28]** Therefore be every heretic dumb, nor dare to ascribe terror to the Lord whom death, as a serpent, flees, at whom demons tremble, and the sea is in alarm; for whom the heavens are rent and all the powers are shaken.
+
+**[7:29]** For behold when He says, 'Why hast Thou forsaken Me?' the Father shewed that He was ever and even then in Him; for the earth knowing its Lord who spoke, straightway trembled, and the vail was rent, and the sun was hidden, and the rocks were torn asunder, and the graves, as I have said, did gape, and the dead in them arose; and, what is wonderful, they who were then present and had before denied Him, then seeing these signs, confessed that 'truly He was the Son of God.
+
+**[7:30]** '.
+
+**[7:31]** And as to His saying, 'If it be possible, let the cup pass,' observe how, though He thus spake, He rebuked Peter, saying, 'Thou savourest not the things that be of God, but those that be of men.
+
+**[7:32]** ' For He willed what He deprecated, for therefore had He come; but His was the willing (for for it He came), but the terror belonged to the flesh.
+
+**[7:33]** Wherefore as man He utters this speech also, and yet both were said by the Same, to shew that He was God, willing in Himself, but when He had become man, having a flesh that was in terror.
+
+**[7:34]** For the sake of this flesh He combined His own will with human weakness, that destroying this affection He might in turn make man undaunted in face of death.
+
+**[7:35]** Behold then a thing strange indeed! He to whom Christ's enemies impute words of terror, He by that so-called tenor renders men undaunted and fearless.
+
+**[7:36]** And so the Blessed Apostles after Him from such words of His conceived so great a contempt of death, as not even to care for those who questioned them, but to answer, 'We ought to obey God rather than men.
+
+**[7:37]** ' And the other Holy Martyrs were so bold, as to think that they were rather passing to life than undergoing death.
+
+**[7:38]** Is it not extravagant then, to admire the courage of the servants of the Word, yet to say that the Word Himself was in terror, through whom they despised death? But from that most enduring purpose and courage of the Holy Martyrs is shewn, that the Godhead was not in terror, but the Saviour took away our terror.
+
+**[7:39]** For as He abolished death by death, and by human means all human evils, so by this so-called terror did He remove our terror, and brought about that never more should men fear death.
+
+**[7:40]** His word and deed go together.
+
+**[7:41]** For human were the sayings, 'Let the cup pass,' and 'Why hast Thou forsaken Me?' and divine the act whereby the Same did cause the sun to fail and the dead to rise.
+
+**[7:42]** Again He said humanly, 'Now is My soul troubled;' and He said divinely, 'I have power to lay down My life, and power to take it again.
+
+**[7:43]** ' For to be troubled was proper to the flesh, and to have power to lay down His life and take it again, when He will, was no property of men but of the Word's power.
+
+**[7:44]** For man dies, not by his own power, but by necessity of nature and against his will; but the Lord, being Himself immortal, but having a mortal flesh, had power, as God, to become separate from the body and to take it again, when He would.
+
+**[7:45]** Concerning this too speaks David in the Psalm, 'Thou shalt not leave My soul in hades, neither shalt Thou suffer Thy Holy One to see corruption.
+
+**[7:46]** ' For it beseemed that the flesh, corruptible as it was, should no longer after its own nature remain mortal, but because of the Word who had put it on, should abide incorruptible.
+
+**[7:47]** For as He, having come in our body, was conformed to our condition, so we, receiving Him, partake of the immortality that is from Him.
+
+**[7:48]** Idle then is the excuse for stumbling, and petty the notions concerning the Word, of these Ario-maniacs, because it is written, 'He was troubled,' and 'He wept.
+
+**[7:49]** ' For they seem not even to have human feeling, if they are thus ignorant of man's nature and properties; which do but make it the greater wonder, that the Word should be in such a suffering flesh, and neither prevented those who were conspiring against Him, nor took vengeance of those who were putting Him to death, though He was able, He who hindered some from dying, and raised others from the dead.
+
+**[7:50]** And He let His own body suffer, for therefore did He come, as I said before, that in the flesh He might suffer, and thenceforth the flesh might be made impassible and immortal, and that, as we have many times said, contumely and other troubles might determine upon Him and come short of others after Him, being by Him annulled utterly; and that henceforth men might for ever abide incorruptible, as a temple of the Word.
+
+**[7:51]** Had Christ's enemies thus dwelt on these thoughts, and recognised the ecclesiastical scope as an anchor for the faith, they would not have made shipwreck of the faith, nor been so shameless as to resist those who would fain recover them from their fall, and to deem those as enemies who are admonishing them to be religious.
+
+**[8:1]** Chapter XXX.
+
+**[8:2]** —Objections continued, as in Chapters vii.
+
+**[8:3]** —x.
+
+**[8:4]** Whether the Son is begotten of the Father's will? This virtually the same as whether once He was not? and used by the Arians to introduce the latter question.
+
+**[8:5]** The Regula Fidei answers it at once in the negative by contrary texts.
+
+**[8:6]** The Arians follow the Valentinians in maintaining a precedent will; which really is only exercised by God towards creatures.
+
+**[8:7]** Instances from Scripture.
+
+**[8:8]** Inconsistency of Asterius.
+
+**[8:9]** If the Son by will, there must be another Word before Him.
+
+**[8:10]** If God is good, or exist, by His will, then is the Son by His will.
+
+**[8:11]** If He willed to have reason or wisdom, then is His Word and Wisdom at His will.
+
+**[8:12]** The Son is the Living Will, and has all titles which denote connaturality.
+
+**[8:13]** That will which the Father has to the Son, the Son has to the Father.
+
+**[8:14]** The Father wills the Son and the Son wills the Father.
+
+**[8:15]** (continued).
+
+**[8:16]** But, as it seems, a heretic is a wicked thing in truth, and in every respect his heart is depraved and irreligious.
+
+**[8:17]** For behold, though convicted on all points, and shewn to be utterly bereft of understanding, they feel no shame; but as the hydra of Gentile fable, when its former serpents were destroyed, gave birth to fresh ones, contending against the slayer of the old by the production of new, so also they, hostile and hateful to God, as hydras, losing their life in the objections which they advance, invent for themselves other questions Judaic and foolish, and new expedients, as if Truth were their enemy, thereby to shew the rather that they are Christ's opponents in all things.
+
+**[8:18]** After so many proofs against them, at which even the devil who is their father had himself been abashed and gone back, again as from their perverse heart they mutter forth other expedients, sometimes in whispers, sometimes with the drone of gnats; 'Be it so,' say they; 'interpret these places thus, and gain the victory in reasonings and proofs; still you must say that the Son has received being from the Father at His will and pleasure;' for thus they deceive many, putting forward the will and the pleasure of God.
+
+**[8:19]** Now if any of those who believe aright were to say this in simplicity, there would be no cause to be suspicious of the expression, the right intention prevailing over that somewhat simple use of words.
+
+**[8:20]** But since the phrase is from the heretics and the words of heretics are suspicious, and, as it is written, 'The wicked are deceitful,' and 'The words of the wicked are deceit,' even though they but make signs, for their heart is depraved, come let us examine this phrase also, lest, though convicted on all sides, still, as hydras, they invent a fresh word, and by such clever language and specious evasion, they sow again that irreligion of theirs in another way.
+
+**[8:21]** For he who says, 'The Son came to be at the Divine will,' has the same meaning as another who says, 'Once He was not,' and 'The Son came to be out of nothing,' and 'He is a creature.
+
+**[8:22]** ' But since they are now ashamed of these phrases, these crafty ones have endeavoured to convey their meaning in another way, putting forth the word 'will,' as cuttlefish their blackness, thereby to blind the simple, and to keep in mind their peculiar heresy.
+
+**[8:23]** For whence bring they 'by will and pleasure?' or from what Scripture? let them say, who are so suspicious in their words and so inventive of irreligion.
+
+**[8:24]** For the Father who revealed from heaven His own Word, declared, 'This is My beloved Son;' and by David He said, 'My heart uttered a good Word;' and John He bade say, 'In the beginning was the Word;' and David says in the Psalm, 'With Thee is the well of life, and in Thy light shall we see light;' and the Apostle writes, 'Who being the Radiance of Glory,' and again, 'Who being in the form of God,' and, 'Who is the Image of the invisible God.
+
+**[8:25]** '.
+
+**[8:26]** All everywhere tell us of the being of the Word, but none of His being 'by will,' nor at all of His making; but they, where, I ask, did they find will or pleasure 'precedent' to the Word of God, unless forsooth, leaving the Scriptures, they simulate the perverseness of Valentinus? For Ptolemy the Valentinian said that the Unoriginate had a pair of attributes, Thought and Will, and first He thought and then He willed; and what He thought, He could not put forth, unless when the power of the Will was added.
+
+**[8:27]** Thence the Arians taking a lesson, wish will and pleasure to precede the Word.
+
+**[8:28]** For them then, let them rival the doctrine of Valentinus; but we, when we read the divine discourses, found 'He was' applied to the Son, but of Him only did we hear as being in the Father and the Father's Image; while in the case of things originate only, since also by nature these things once were not, but afterwards came to be, did we recognise a precedent will and pleasure, David saying in the hundred and thirteenth Psalm, 'As for our God He is in heaven, He hath done whatsoever pleased Him,' and in the hundred and tenth, 'The works of the Lord are great, sought out unto all His good pleasure;' and again, in the hundred and thirty-fourth, 'Whatsoever the Lord pleased, that did He in heaven, and in earth, and in the sea, and in all deep places.
+
+**[8:29]** ' If then He be work and thing made, and one among others, let Him, as others, be said 'by will' to have come to be, and Scripture shews that these are thus brought into being.
+
+**[8:30]** And Asterius, the advocate for the heresy, acquiesces, when he thus writes, 'For if it be unworthy of the Framer of all, to make at pleasure, let His being pleased be removed equally in the case of all, that His Majesty be preserved unimpaired.
+
+**[8:31]** Or if it be befitting God to will, then let this better way obtain in the case of the first Offspring.
+
+**[8:32]** For it is not possible that it should be fitting for one and the same God to make things at His pleasure, and not at His will also.
+
+**[8:33]** ' In spite of the Sophist having introduced abundant irreligion in his words, namely, that the Offspring and the thing made are the same, and that the Son is one offspring out of all offsprings that are, He ends with the conclusion that it is fitting to say that the works are by will and pleasure.
+
+**[8:34]** Therefore if He be other than all things, as has been above shewn, and through Him the works rather came to be, let not 'by will' be applied to Him, or He has similarly come to be as the things consist which through Him come to be.
+
+**[8:35]** For Paul, whereas he was not before, became afterwards an Apostle 'by the will of God;' and our own calling, as itself once not being, but now taking place afterwards, is preceded by will, and, as Paul himself says again, has been made 'according to the good pleasure of His will.
+
+**[8:36]** ' And what Moses relates, 'Let there be light,' and 'Let the earth appear,' and 'Let Us make man,' is, I think, according to what has gone before, significant of the will of the Agent.
+
+**[8:37]** For things which once were not but happened afterwards from external causes, these the Framer counsels to make; but His own Word begotten from Him by nature, concerning Him He did not counsel beforehand; for in Him the Father makes, in Him frames, other things whatever He counsels; as also James the Apostle teaches, saying, 'Of His own will begat He us with the Word of truth.
+
+**[8:38]** ' Therefore the Will of God concerning all things, whether they be begotten again or are brought into being at the first, is in His Word, in whom He both makes and begets again what seems right to Him; as the Apostle again signifies, writing to Thessalonica; 'for this is the will of God in Christ Jesus concerning you.
+
+**[8:39]** ' But if, in whom He makes, in Him also is the will, and in Christ is the pleasure of the Father, how can He, as others, come into being by will and pleasure? For if He too came to be as you maintain, by will, it follows that the will concerning Him consists in some other Word, through whom He in turn comes to be; for it has been shewn that God's will is not in the things which He brings into being, but in Him through whom and in whom all things made are brought to be.
+
+**[8:40]** Next, since it is all one to say 'By will' and Once He was not,' let them make up their minds to say, 'Once He was not,' that, perceiving with shame that times are signified by the latter, they may understand that to say 'by will' is to place times before the Son; for counselling goes before things which once were not, as in the case of all creatures.
+
+**[8:41]** But if the Word is the Framer of the creatures, and He coexists with the Father, how can to counsel precede the Everlasting as if He were not? for if counsel precedes, how through Him are all things? For rather He too, as one among others is by will begotten to be a Son, as we too were made sons by the Word of Truth; and it rests, as was said, to seek another Word, through whom He too has come to be, and was begotten together with all things, which were according to God's pleasure.
+
+**[8:42]** If then there is another Word of God, then be the Son originated by a word; but if there be not, as is the case, but all things by Him have come to be, which the Father has willed, does not this expose the many-headed craftiness of these men? that feeling shame at saying 'work,' and 'creature,' and 'God's Word was not before His generation,' yet in another way they assert that He is a creature, putting forward 'will,' and saying, 'Unless He has by will come to be, therefore God had a Son by necessity and against His good pleasure.
+
+**[8:43]** ' And who is it then who imposes necessity on Him, O men most wicked, who draw everything to the purpose of your heresy? for what is contrary to will they see; but what is greater and transcends it has escaped their perception.
+
+**[8:44]** For as what is beside purpose is contrary to will, so what is according to nature transcends and precedes counselling.
+
+**[8:45]** A man by counsel builds a house, but by nature he begets a son; and what is in building began to come into being at will, and is external to the maker; but the son is proper offspring of the father's essence, and is not external to him; wherefore neither does he counsel concerning him, lest he appear to counsel about himself.
+
+**[8:46]** As far then as the Son transcends the creature, by so much does what is by nature transcend the will.
+
+**[8:47]** And they, on hearing of Him, ought not to measure by will what is by nature; forgetting however that they are hearing about God's Son, they dare to apply human contrarieties in the instance of God, 'necessity' and 'beside purpose,' to be able thereby to deny that there is a true Son of God.
+
+**[8:48]** For let them tell us themselves,—that God is good and merciful, does this attach to Him by will or not? if by will, we must consider that He began to be good, and that His not being good is possible; for to counsel and choose implies an inclination two ways, and is incidental to a rational nature.
+
+**[8:49]** But if it be too unseemly that He should be called good and merciful upon will, then what they have said themselves must be retorted on them,—'therefore by necessity and not at His pleasure He is good;' and, 'who is it that imposes this necessity on Him?' But if it be unseemly to speak of necessity in the case of God, and therefore it is by nature that He is good, much more is He, and more truly, Father of the Son by nature and not by will.
+
+**[8:50]** Moreover let them answer us this:—(for against their shamelessness I wish to urge a further question, bold indeed, but with a religious intent; be propitious, O Lord!)—the Father Himself, does He exist, first having counselled, then being pleased, or before counselling? For since they are so bold in the instance of the Word, they must receive the like answer, that they may know that this their presumption reaches even to the Father Himself.
+
+**[8:51]** If then they shall themselves take counsel about will, and say that even He is from will, what then was He before He counselled, or what gained He, as ye consider, after counselling? But if such a question be unseemly and self-destructive, and shocking even to ask (for it is enough only to hear God's Name for us to know and understand that He is He that Is), will it not also be against reason to have parallel thoughts concerning the Word of God, and to make pretences of will and pleasure? for it is enough in like manner only to hear the Name of the Word, to know and understand that He who is God not by will, has not by will but by nature His own Word.
+
+**[8:52]** And does it not surpass all conceivable madness, to entertain the thought only, that God Himself counsels and considers and chooses and proceeds to have a good pleasure, that He be not without Word and without Wisdom, but have both? for He seems to be considering about Himself, who counsels about what is proper to His Essence.
+
+**[8:53]** There being then much blasphemy in such a thought, it will be religious to say that things originate have come to be 'by favour and will,' but the Son is not a work of will, nor has come after, as the creation, but is by nature the own Offspring of God's Essence.
+
+**[8:54]** For being the own Word of the Father, He allows us not to account of will as before Himself, since He is Himself the Father's Living Counsel, and Power, and Framer of the things which seemed good to the Father.
+
+**[8:55]** And this is what He says of Himself in the Proverbs; 'Counsel is mine and security, mine is understanding, and mine strength.
+
+**[8:56]** ' For as, although Himself the 'Understanding,' in which He prepared the heavens, and Himself 'Strength and Power' (for Christ is 'God's Power and God's Wisdom'), He here has altered the terms and said, 'Mine is understanding' and 'Mine strength,' so while He says, 'Mine is counsel,' He must Himself be the Living Counsel of the Father; as we have learned from the Prophet also, that He becomes 'the Angel of great Counsel,' and was called the good pleasure of the Father; for thus we must refute them, using human illustrations concerning God.
+
+**[8:57]** Therefore if the works subsist 'by will and favour,' and the whole creature is made 'at God's good pleasure,' and Paul was called to be an Apostle 'by the will of God,' and our calling has come about 'by His good pleasure and will,' and all things have come into being through the Word, He is external to the things which have come to be by will, but rather is Himself the Living Counsel of the Father, by which all these things have come to be; by which David also gives thanks in the seventy-second Psalm.
+
+**[8:58]** 'Thou hast holden me by my right hand; Thou shalt guide me with Thy Counsel.
+
+**[8:59]** ' How then can the Word, being the Counsel and Good Pleasure of the Father, come into being Himself 'by good pleasure and will,' like every one else? unless, as I said before, in their madness they repeat that He has come into being through Himself, or through some other.
+
+**[8:60]** Who then is it through whom He has come to be? let them fashion another Word; and let them name another Christ, rivalling the doctrine of Valentinus; for Scripture it is not.
+
+**[8:61]** And though they fashion another, yet assuredly he too comes into being through some one; and so, while we are thus reckoning up and investigating the succession of them, the many-headed heresy of the Atheists is discovered to issue in polytheism and madness unlimited; in the which, wishing the Son to be a creature and from nothing, they imply the same thing in other words by pretending the words will and pleasure, which rightly belong to things originate and creatures.
+
+**[8:62]** Is it not irreligious then to impute the characteristics of things originate to the Framer of all? and is it not blasphemous to say that will was in the Father before the Word? for if will precedes in the Father, the Son's words are not true, 'I in the Father;' or even if He is in the Father, yet He will hold but a second place, and it became Him not to say 'I in the Father,' since will was before Him, in which all things were brought into being and He Himself subsisted, as you hold.
+
+**[8:63]** For though He excel in glory, He is not the less one of the things which by will come into being.
+
+**[8:64]** And, as we have said before, if it be so, how is He Lord and they servants? but He is Lord of all, because He is one with the Father's Lordship; and the creation is all in bondage, since it is external to the Oneness of the Father, and, whereas it once was not, was brought to be.
+
+**[8:65]** Moreover, if they say that the Son is by will, they should say also that He came to be by understanding; for I consider understanding and will to be the same.
+
+**[8:66]** For what a man counsels, about that also he has understanding; and what he has in understanding, that also he counsels.
+
+**[8:67]** Certainly the Saviour Himself has made them correspond, as being cognate, when He says, 'Counsel is mine and security; mine is understanding, and mine strength.
+
+**[8:68]** ' For as strength and security are the same (for they mean one attribute), so we may say that Understanding and Counsel are the same, which is the Lord.
+
+**[8:69]** But these irreligious men are unwilling that the Son should be Word and Living Counsel; but they fable that there is with God, as if a habit, coming and going, after the manner of men, understanding, counsel, wisdom; and they leave nothing undone, and they put forward the 'Thought' and 'Will' of Valentinus, so that they may but separate the Son from the Father, and may call Him a creature instead of the proper Word of the Father.
+
+**[8:70]** To them then must be said what was said to Simon Magus; 'the irreligion of Valentinus perish with you;' and let every one rather trust to Solomon, who says, that the Word is Wisdom and Understanding.
+
+**[8:71]** For he says, 'The Lord by Wisdom founded the earth, by Understanding He established the heavens.
+
+**[8:72]** ' And as here by Understanding, so in the Psalms, 'By the Word of the Lord were the heavens made.
+
+**[8:73]** ' And as by the Word the heavens, so 'He hath done whatsoever pleased Him.
+
+**[8:74]** ' And as the Apostle writes to Thessalonians, 'the will of God is in Christ Jesus.
+
+**[8:75]** ' The Son of God then, He is the 'Word' and the 'Wisdom;' He the 'Understanding' and the Living 'Counsel;' and in Him is the 'Good Pleasure of the Father;' He is 'Truth' and 'Light' and 'Power' of the Father.
+
+**[8:76]** But if the Will of God is Wisdom and Understanding, and the Son is Wisdom, he who says that the Son is 'by will,' says virtually that Wisdom has come into being in wisdom, and the Son is made in a son, and the Word created through the Word; which is incompatible with God and is opposed to His Scriptures.
+
+**[8:77]** For the Apostle proclaims the Son to be the own Radiance and Expression, not of the Father's will, but of His Essence Itself, saying, 'Who being the Radiance of His glory and the Expression of His Subsistence.
+
+**[8:78]** ' But if, as we have said before, the Father's Essence and Subsistence be not from will, neither, as is very plain, is what is proper to the Father's Subsistence from will; for such as, and so as, that Blessed Subsistence, must also be the proper Offspring from It.
+
+**[8:79]** And accordingly the Father Himself said not, 'This is the Son originated at My will,' nor 'the Son whom I have by My favour,' but simply 'My Son,' and more than that, 'in whom I am well pleased;' meaning by this, This is the Son by nature; and 'in Him is lodged My will about what pleases Me.
+
+**[8:80]** '.
+
+**[8:81]** Since then the Son is by nature and not by will, is He without the pleasure of the Father and not with the Father's will? No, verily; but the Son is with the pleasure of the Father, and, as He says Himself, 'The Father loveth the Son, and sheweth Him all things.
+
+**[8:82]** ' For as not 'from will' did He begin to be good, nor yet is good without will and pleasure (for what He is, that also is His pleasure), so also that the Son should be, though it came not 'from will,' yet it is not without His pleasure or against His purpose.
+
+**[8:83]** For as His own Subsistence is by His pleasure, so also the Son, being proper to His Essence, is not without His pleasure.
+
+**[8:84]** Be then the Son the object of the Father's pleasure and love; and thus let every one religiously account of the pleasure and the not-unwillingness of God.
+
+**[8:85]** For by that good pleasure wherewith the Son is the object of the Father's pleasure, is the Father the object of the Son's love, pleasure, and honour; and one is the good pleasure which is from Father in Son, so that here too we may contemplate the Son in the Father and the Father in the Son.
+
+**[8:86]** Let no one then, with Valentinus, introduce a precedent will; nor let any one, by this pretence of 'counsel,' intrude between the Only Father and the Only Word; for it were madness to place will and consideration between them.
+
+**[8:87]** For it is one thing to say, 'Of will He came to be,' and another, that the Father has love and good pleasure towards His Son who is His own by nature.
+
+**[8:88]** For to say, 'Of will He came to be,' in the first place implies that once He was not; and next it implies an inclination two ways, as has been said, so that one might suppose that the Father could even not will the Son.
+
+**[8:89]** But to say of the Son, 'He might not have been,' is an irreligious presumption reaching even to the Essence of the Father, as if what is His own might not have been.
+
+**[8:90]** For it is the same as saying, 'The Father might not have been good.
+
+**[8:91]** ' And as the Father is always good by nature, so He is always generative by nature; and to say, 'The Father's good pleasure is the Son,' and 'The Word's good pleasure is the Father,' implies, not a precedent will, but genuineness of nature, and propriety and likeness of Essence.
+
+**[8:92]** For as in the case of the radiance and light one might say, that there is no will preceding radiance in the light, but it is its natural offspring, at the pleasure of the light which begat it, not by will and consideration, but in nature and truth, so also in the instance of the Father and the Son, one might rightly say, that the Father has love and good pleasure towards the Son, and the Son has love and good pleasure towards the Father.
+
+**[8:93]** Therefore call not the Son a work of good pleasure; nor bring in the doctrine of Valentinus into the Church; but be He the Living Counsel, and Offspring in truth and nature, as the Radiance from the Light.
+
+**[8:94]** For thus has the Father spoken, 'My heart uttered a good Word;' and the Son conformably, 'I in the Father and the Father in Me.
+
+**[8:95]** ' But if the Word be in the heart, where is will? and if the Son in the Father, where is good pleasure? and if He be Will Himself, how is counsel in Will? it is unseemly; lest the Word come into being in a word, and the Son in a son, and Wisdom in a wisdom, as has been repeatedly said.
+
+**[8:96]** For the Son is the Father's All; and nothing was in the Father before the Word; but in the Word is will also, and through Him the objects of will are carried into effect, as holy Scriptures have shewn.
+
+**[8:97]** And I could wish that the irreligious men, having fallen into such want of reason as to be considering about will, would now ask their childbearing women no more, whom they used to ask, 'Hadst thou a son before conceiving him?' but the father, 'Do ye become fathers by counsel, or by the natural law of your will?' or 'Are your children like your nature and essence?' that, even from fathers they may learn shame, from whom they assumed this proposition about birth, and from whom they hoped to gain knowledge in point.
+
+**[8:98]** For they will reply to them, 'What we beget, is like, not our good pleasure, but like ourselves; nor become we parents by previous counsel, but to beget is proper to our nature; since we too are images of our fathers.
+
+**[8:99]** ' Either then let them condemn themselves, and cease asking women about the Son of God, or let them learn from them, that the Son is begotten not by will, but in nature and truth.
+
+**[8:100]** Becoming and suitable to them is a refutation from human instances, since the perverse-minded men dispute in a human way concerning the Godhead.
+
+**[8:101]** Why then are Christ's enemies still mad? for this, as well as their other pretences, is shewn and proved to be mere fantasy and fable; and on this account, they ought, however late, contemplating the precipice of folly down which they have fallen, to rise again from the depth and to flee the snare of the devil, as we admonish them.
+
+**[8:102]** For Truth is loving unto men and cries continually, 'If because of My clothing of the body ye believe Me not, yet believe the works, that ye may know that "I am in the Father and the Father in Me," and "I and the Father are one," and "He that hath seen Me hath seen the Father".
+
+**[8:103]** ' But the Lord according to His wont is loving to man, and would fain 'help them that are fallen,' as the praise of David says; but the irreligious men, not desirous to hear the Lord's voice, nor bearing to see Him acknowledged by all as God and God's Son, go about, miserable men, as beetles, seeking with their father the devil pretexts for irreligion.
+
+**[8:104]** What pretexts then, and whence will they be able next to find? unless they borrow blasphemies of Jews and Caiaphas, and take atheism from Gentiles? for the divine Scriptures are closed to them, and from every part of them they are refuted as insensate and Christ's enemies.
+

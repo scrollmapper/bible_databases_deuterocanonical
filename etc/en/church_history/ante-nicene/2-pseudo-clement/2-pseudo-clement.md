@@ -1,0 +1,294 @@
+# II Pseudo-Clement
+
+**[1:1]** Second Pseudo-Clement: Chapter I.
+
+**[1:2]** —He Describes the Circumspectness of His Intercourse with the Other Sex, and Tells How in His Journeys He Acts at Places Where There are Brethren Only.
+
+**[1:3]** I would, moreover, have you know, my brethren, of what sort is our conduct in Christ, as well as that of all our brethren, in the various places in which we are.
+
+**[1:4]** And if so be that you approve it, do ye also conduct yourselves in like manner in the Lord.
+
+**[1:5]** Now we, if God help us, conduct ourselves thus:  with maidens we do not dwell, nor have we anything in common with them; with maidens we do not eat, nor drink; and, where a maiden sleeps, we do not sleep; neither do women wash our feet, nor anoint us; and on no account do we sleep where a maiden sleeps who is unmarried or has taken the vow:  even though she be in some other place if she be alone, we do not pass the night there.
+
+**[1:6]** Moreover, if it chance that the time for rest overtake us in a place, whether in the country, or in a village, or in a town, or in a hamlet, or wheresoever we happen to be, and there are found brethren in that place, we turn in to one who is a brother, and call together there all the brethren, and speak to them words of encouragement and exhortation.
+
+**[1:7]** And those among us who are gifted in speaking will speak such words as are earnest, and serious, and chaste, in the fear of God, and exhort them to please God in everything, and abound and go forward in good works, and "be free from anxious care in everything," as is fit and right for the people of God.
+
+**[2:1]** Chapter II.
+
+**[2:2]** —His Behaviour in Places Where There Were Christians of Both Sexes.
+
+**[2:3]** And if, moreover, it chance that we are distant from our homes and from our neighbours, and the day decline and the eventide overtake us, and the brethren press us, through love of the brotherhood and by reason of their affection for strangers, to stay with them, so that we may watch with them, and they may hear the holy word of God and do it, and be fed with the words of the Lord, so that they may be mindful of them, and they set before us bread and water and that which God provides, and we be willing and consent to stay through the night with them; if there be there a holy man, with him we turn in and lodge, and that same brother will provide and prepare whatever is necessary for us; and he himself waits upon us, and he himself washes our feet for us and anoints us with ointment, and he himself gets ready a bed for us, that we may sleep in reliance on God.
+
+**[2:4]** All these things will that consecrated brother, who is in the place in which we tarry, do in his own person.
+
+**[2:5]** He will himself serve the brethren, and each one of the brethren who are in the same place will join with him in rendering all those services which are requisite for the brethren.
+
+**[2:6]** But with us may no female, whether young maiden or married woman, be there at that time; nor she that is aged, nor she that has taken the vow; not even a maid-servant, whether Christian or heathen; but there shall only be men with men.
+
+**[2:7]** And, if we see it to be requisite to stand and pray for the sake of the women, and to speak words of exhortation and edification, we call together the brethren and all the holy sisters and maidens, and likewise all the other women who are there, inviting them with all modesty and becoming behaviour to come and feast on the truth.
+
+**[2:8]** And those among us who are skilled in speaking speak to them, and exhort them in those words which God has given us.
+
+**[2:9]** And then we pray, and salute one another, the men the men.
+
+**[2:10]** But the women and the maidens will wrap their hands in their garments; and we also, with circumspection and with all purity, our eyes looking upwards, shall wrap our right hand in our garments; and then they will come and give us the salutation on our right hand wrapped in our garments.
+
+**[2:11]** Then we go where God permits us.
+
+**[3:1]** Chapter III.
+
+**[3:2]** —Rules for the Conduct of Celibate Brethren in Places Where There are Only Married Christians.
+
+**[3:3]** And if again we chance to come into a place where there is no consecrated brother, but all are married, all those who are there will receive the brother who comes to them, and minister to him, and care for his wants in everything, assiduously, with good-will.
+
+**[3:4]** And the brother shall be ministered to by them in the way that is suitable.
+
+**[3:5]** And the brother will say to the married persons who are in that place:  We holy men do not eat or drink with women, nor are we waited on by women or by maidens, nor do women wash our feet for us, nor do women anoint us, nor do women prepare our bed for us, nor do we sleep where women sleep, so that we may be without reproach in everything, lest any one should be offended or stumble at us.
+
+**[3:6]** And, whilst we observe all these things, "we are without offence to every man".
+
+**[3:7]** As persons, therefore, "who know the fear of the Lord, we persuade men, and to God we are made manifest".
+
+**[4:1]** Chapter IV.
+
+**[4:2]** —Conduct of the Holy Man Where There are Women Only.
+
+**[4:3]** But if we chance to come into a place where there are no Christian men, but all the believers are women and maidens, and they press us to pass the night there in that place, we call them all together to some suitable place, and ask them how they do; and according to that which we learn from them, and what we see to be their state of mind, we address them in a suitable manner, as men fearing God.
+
+**[4:4]** And when they have all assembled and come together, and we see that they are in peace, we address to them words of exhortation in the fear of God, and read the Scripture to them, with purity and in the concise and weighty words of the fear of God.
+
+**[4:5]** We do everything as for their edification.
+
+**[4:6]** And as to those who are married, we speak to them in the Lord in a manner suited to them.
+
+**[4:7]** And if, moreover, the day decline and the eventide draw on, we select, in order to pass the night there, a woman who is aged and the most exemplary of them all; and we speak to her to give us a place all to ourselves, where no woman enters, nor maiden.
+
+**[4:8]** And this old woman herself will bring us a lamp, and whatever is requisite for us she will herself bring us.
+
+**[4:9]** From love to the brethren, she will bring whatever is requisite for the service of stranger brethren.
+
+**[4:10]** And she herself, when the time for sleep is come, will depart and go to her house in peace.
+
+**[5:1]** Chapter V.
+
+**[5:2]** —Where There is Only One Woman, the Father Does Not Make a Stay; How Carefully Stumbling-Blocks Must Be Avoided.
+
+**[5:3]** But if, moreover, we chance upon a place, and find there one believing woman only, and no other person be there but she only, we do not stop there, nor pray there, nor read the Scriptures there, but we flee as from before the face of a serpent, and as from before the face of sin.
+
+**[5:4]** Not that we disdain the believing woman—far be it from us to be so minded towards our brethren in Christ!—but, because she is alone, we are afraid lest any one should make insinuations against us in words of falsehood.
+
+**[5:5]** For the hearts of men are firmly set on evil.
+
+**[5:6]** And, that we may not give a pretext to those who desire to get a pretext against us and to speak evil of us, and that we may not be a stumbling-block to any one, on this account we cut off the pretext of those who desire to get a pretext against us; on this account we must be "on our guard that we be to no one a stumbling-block, neither to the Jews, nor to the Gentiles, nor yet to the Church of God; and we must not seek that which is profitable to ourselves only, but that which is for the profit of many, so that they may be saved".
+
+**[5:7]** For this does not profit us, that another stumble because of us.
+
+**[5:8]** Let us, therefore, be studiously on our guard at all times, that we do not smite our brethren and give them to drink of a disquieting conscience through our being to them a stumbling-block.
+
+**[5:9]** For "if for the sake of meat our brother be made sad, or shocked, or made weak, or caused to stumble, we are not walking in the love of God.
+
+**[5:10]** For the sake of meat thou causest him to perish for whose sake Christ died".
+
+**[5:11]** For, in "thus sinning against your brethren and wounding their sickly consciences, ye sin against Christ Himself.
+
+**[5:12]** For, if for the sake of meat my brother is made to stumble," let us who are believers say, "Never will we eat flesh, that we may not make our brother to stumble".
+
+**[5:13]** These things, moreover, does ever one who truly loves God, who truly takes up his cross, and puts on Christ, and loves his neighbour; the man who watches over himself that he be not a stumbling-block to any one, that no one be caused to stumble because of him and die because he is constantly with maidens and lives in the same house with them—a thing which is not right—to the overthrow of those who see and hear.
+
+**[5:14]** Evil conduct like this is fraught with stumbling and peril, and is akin to death.
+
+**[5:15]** But blessed is that man who is circumspect and fearful in everything for the sake of purity!.
+
+**[6:1]** Chapter VI.
+
+**[6:2]** —How Christians Should Behave Themselves Among Heathens.
+
+**[6:3]** If, moreover, it chance that we go to a place in which there are no Christians, and it be important for us to stay there a few days, let us be "wise as serpents, and harmless as doves;" and let us "not be as the foolish, but as the wise," in all the self-restraint of the fear of God, that God may be glorified in everything through our Lord Jesus Christ, through our chaste and holy behaviour.
+
+**[6:4]** For, "whether we eat, or drink, or do anything else, let us do it as for the glory of God".
+
+**[6:5]** Let "all those who see us acknowledge that we are a blessed seed," "sons of the living God," in everything—in all our words in shamefastness, in purity, in humility, forasmuch as we do not copy the heathen in anything, nor are as believers like other men, but in everything are estranged from the wicked.
+
+**[6:6]** And we "do not cast that which is holy before dogs, nor pearls before swine;" but with all possible self-restraint, and with all discretion, and with all fear of God, and with earnestness of mind we praise God.
+
+**[6:7]** For we do not minister where heathens are drinking and blaspheming in their feasts with words of impurity, because of their wickedness.
+
+**[6:8]** Therefore do we not sing psalms to the heathens, nor do we read to them the Scriptures, that we may not be like common singers, either those who play on the lyre, or those who sing with the voice, or like soothsayers, as many are, who follow these practices and do these things, that they may sate themselves with a paltry mouthful of bread, and who, for the sake of a sorry cup of wine, go about "singing the songs of the Lord in the strange land" of the heathen, and doing what is not right.
+
+**[6:9]** Do not so, my brethren; we beseech you, my brethren, let not these deeds be done among you; but put away those who choose thus to behave themselves with infamy and disgrace.
+
+**[6:10]** It is not proper, my brethren, that these things should be so.
+
+**[6:11]** But we beseech you, brethren in righteousness, that these things be so done with you as with us, as for a pattern of believers, and of those who shall believe.
+
+**[6:12]** Let us be of the flock of Christ, in all righteousness, and in all holy and unblemished conduct, behaving ourselves with uprightness and sanctity, as is right for believers, and observing those things which are praiseworthy, and pure, and holy, and honourable, and noble; and do ye promote all those things which are profitable.
+
+**[6:13]** For ye are "our joy, and our crown," and our hope, and our life, "if so be that ye stand in the Lord".
+
+**[6:14]** So be it!.
+
+**[7:1]** Chapter VII.
+
+**[7:2]** —Uses of Considering Admonitory Examples, as Well as Instructive Patterns.
+
+**[7:3]** Let us consider, therefore, my brethren, and see how all the righteous fathers conducted themselves during the whole time of their sojourn in this life, and let us search and examine from the law down to the New Testament.
+
+**[7:4]** For this is both becoming and profitable, that we should know how many men there have been, and who they were, that have perished through women; and who and how many have been the women that have perished through men, by reason of the constancy with which they have associated with one another.
+
+**[7:5]** And further, also, for the same reason, I will show how many have been the men, and who they were, that lived all their lifetime, and continued even to the close, with one another in the performance of chaste works without blemish.
+
+**[7:6]** And it is manifest and well-known that this is so.
+
+**[8:1]** Chapter VIII.
+
+**[8:2]** —Joseph and Potiphar's Wife; Of What Kind Love to Females Ought to Be.
+
+**[8:3]** There is Joseph, faithful, and intelligent, and wise, and who feared God in everything.
+
+**[8:4]** Did not a woman conceive an excessive passion for the beauty of this chaste and upright man?  And, when he would not yield and consent to gratify her passionate desire, she cast the righteous man into every kind of distress and torment, to within a little of death, by bearing false witness.
+
+**[8:5]** But God delivered him from all the evils that came upon him through this wretched woman.
+
+**[8:6]** Ye see, my brethren, what distresses the constant sight of the person of the Egyptian woman brought upon the righteous man.
+
+**[8:7]** Therefore, let us not be constantly with women, nor with maidens.
+
+**[8:8]** For this is not profitable for those who truly wish to "gird up their loins".
+
+**[8:9]** For it is required that we love the sisters in all purity and chasteness, and with all curbing of thought, in the fear of God, not associating constantly with them, nor finding access to them at every hour.
+
+**[9:1]** Chapter IX.
+
+**[9:2]** —Samson's Admonitory Fall.
+
+**[9:3]** Hast thou not heard concerning Samson the Nazarite, "with whom was the Spirit of God," the man of great strength?  This man, who was a Nazarite, and consecrated to God, and who was gifted with strength and might, a woman brought to ruin with her wretched body, and with her vile passion.
+
+**[9:4]** Art thou, perchance, such a man as he?  Know thyself, and know the measure of thy strength.
+
+**[9:5]** "The married woman catcheth precious souls".
+
+**[9:6]** Therefore, we do not allow any man whatsoever to sit with a married woman; much less to live in the same house with a maiden who has taken the vow, or to sleep where she sleeps, or to be constantly with her.
+
+**[9:7]** For this is to be hated and abominated by those who fear God.
+
+**[10:1]** Chapter X.
+
+**[10:2]** —David's Sin, So Admonitory to Us Weak Men.
+
+**[10:3]** Does not the case of David instruct thee, whom God "found a man after His heart," one faithful, faultless, pious, true?  This same man saw the beauty of a woman—I mean of Bathsheba—when he saw her as she was cleansing herself and washing unclothed.
+
+**[10:4]** This woman the holy man saw, and was thoroughly captivated with desire by the sight of her.
+
+**[10:5]** See, then, what evils he committed because of a woman, and how this righteous man sinned, and gave command that the husband of this woman should be killed in battle.
+
+**[10:6]** Ye have seen what wicked schemes he laid and executed, and how, because of his passion for a woman, he perpetrated a murder—he, David, who was called "the anointed of the Lord".
+
+**[10:7]** Be admonished, O man:  for, if such men as these have been brought to ruin through women, what is thy righteousness, or what art thou among the holy, that thou consortest with women and with maidens day and night, with much silliness, without fear of God?  Not thus, my brethren, not thus let us conduct ourselves; but let us be mindful of that word which is spoken concerning a woman:  "Her hands lay snares, and her heart spreadeth nets; but the just shall escape from her, whilst the wicked falleth into her hands".
+
+**[10:8]** Therefore let us, who are consecrated, be careful not to live in the same house with females who have taken the vow.
+
+**[10:9]** For such conduct as this is not becoming nor right for the servants of God.
+
+**[11:1]** Chapter XI.
+
+**[11:2]** —Admonitory History of the Incestuous Children of David.
+
+**[11:3]** Hast thou not read concerning Amnon and Tamar, the children of David?  This Amnon conceived a passion for his sister, and humbled her, and did not spare her, because he longed for her with a shameful passion; and he proved wicked and profligate because of his constant intercourse with her, without the fear of God, and he "wrought uncleanness in Israel".
+
+**[11:4]** Therefore, it is not proper for us, nor right for us, to associate with sisters, indulging in laughter and looseness; but we ought to behave towards them with all chasteness and purity, and in the fear of the Lord.
+
+**[12:1]** Chapter XII.
+
+**[12:2]** —Solomon's Infatuation Through Women.
+
+**[12:3]** Hast thou not read the history of Solomon, the son of David, the man to whom God gave wisdom, and knowledge, and largeness of mind, and riches, and much glory, beyond all men?  Yet this same man, through women, came to ruin, and departed from the Lord.
+
+**[13:1]** Chapter XIII.
+
+**[13:2]** —The History of Susanna Teaches Circumspection with the Eyes and in Society.
+
+**[13:3]** Hast thou not read, and dost thou not know, concerning those elders who were in the days of Susanna, who, because they were constantly with women, and looking upon the beauty which was another's, fell into the depths of wantonness, and were not able to keep themselves in a chaste mind, but were overcome by a depraved disposition, and came suddenly upon the blessed Susanna to corrupt her.
+
+**[13:4]** But she did not consent to their foul passion, but cried unto God, and God saved her out of the hands of the bad old men.
+
+**[13:5]** Does it not, therefore, behove us to tremble and be afraid, forasmuch as these old men, judges and elders of the people of God, fell from their dignity because of a woman?  For they did not keep in mind that which is said:  "Look thou not on the beauty which is another's;" and, "The beauty of woman has destroyed many;" and "With a married woman do not sit;" and that, again, in which it says:  "Is there any one that puts fire in his bosom, and does not burn his clothes;" or, "Does a man walk on fire, and his feet are not scorched?  So whosoever goeth in to another man's wife is not pure from evil, and whosoever comes near to her shall not escape".
+
+**[13:6]** And again it says:  "Thou shalt not long after the beauty a woman, lest she take thee captive with her eyelids;" and, "Thou shalt not look upon a maiden, lest thou perish through desire of her;" and, "With a woman that sings beautifully thou shalt not constantly be;" and, "Let him that thinketh he standeth take heed lest he fall".
+
+**[14:1]** Chapter XIV.
+
+**[14:2]** —Examples of Circumspect Behaviour from the Old Testament.
+
+**[14:3]** But see what it says also concerning those holy men, the prophets, and concerning the apostles of our Lord.
+
+**[14:4]** Let us see whether any one of these holy men was constantly with maidens, or with young married women, or with such widows as the divine apostle declines to receive.
+
+**[14:5]** Let us consider, in the fear of God, the manner of life of these holy men.
+
+**[14:6]** Lo! we find it written concerning Moses and Aaron, that they acted and lived in the company of men, who themselves also followed a course of conduct like theirs.
+
+**[14:7]** And thus did Joshua also, the son of Nun.
+
+**[14:8]** Woman was there none with them; but they by themselves used holily to minister before God, men with men.
+
+**[14:9]** And not only so; but they taught the people, that, whensoever the host moved, every tribe should move on apart, and the women with the women apart, and that they should go into the rear behind the host, and the men also apart by their tribes.
+
+**[14:10]** And, according to the command of the Lord, so did they set out, like a wise people, that there might be no disorder on account of the women when the host moved.
+
+**[14:11]** With beautiful and well-ordered arrangements did they march without stumbling.
+
+**[14:12]** For lo! the Scriptures bear testimony to my words:  "When the children of Israel had crossed over the Sea of Suth, Moses and the children of Israel sang the praises of the Lord, and said:  We will praise the Lord, because He is exceedingly to be praised".
+
+**[14:13]** And, after that Moses had finished singing praises, then Miriam, the sister of Moses and Aaron, took a timbrel in her hands, and all the women went out after her, and sang praises with her, women with women apart, and men with men apart.
+
+**[14:14]** Then again, we find that Elisha and Gehazi and the sons of the prophets lived together in the fear of God, and that they had no females living with them.
+
+**[14:15]** Micah too, and all the prophets likewise, we find to have lived in this manner in the fear of the Lord.
+
+**[15:1]** Chapter XV.
+
+**[15:2]** —The Example of Jesus; How We May Allow Ourselves to Be Served by Women.
+
+**[15:3]** And, not to extend our discourse to too great length, what shall we say concerning our Lord Jesus Christ?  Our Lord Himself was constantly with His twelve disciples when He had come forth to the world.
+
+**[15:4]** And not only so; but also, when He was sending them out, He sent them out two and two together, men with men; but women were not sent with them, and neither in the highway nor in the house did they associate with women or with maidens:  and thus they pleased God in everything.
+
+**[15:5]** Also, when our Lord Jesus Christ Himself was talking with the woman of Samaria by the well alone, "His disciples came" and found Him talking with her, "and wondered that Jesus was standing and talking with a woman".
+
+**[15:6]** Is He not a rule, such as may not be set aside, an example, and a pattern to all the tribes of men?  And not only so; but also, when our Lord was risen from the place of the dead, and Mary came to the place of sepulture, she ran and fell at the feet of our Lord and worshipped Him, and would have taken hold of Him.
+
+**[15:7]** But He said to her:  "Touch Me not; for I am not yet ascended to My Father".
+
+**[15:8]** Is it not, then, matter for astonishment, that, while our Lord did not allow Mary, the blessed woman, to touch His feet, yet thou livest with them, and art waited on by women and maidens, and sleepest where they sleep, and women wash thy feet for thee, and anoint thee!  Alas for this culpable state of mind!  Alas for this state of mind which is destitute of fear!  Alas for this affrontery and folly, which is without fear of God!  Dost thou not judge thine own self?  Dost thou not examine thine own self?  Dost thou not know thine own self and the measure of thy strength?  These things, moreover, are trustworthy, and these things are true and right; and these are rules immutable for those who behave themselves uprightly in our Lord.
+
+**[15:9]** Many holy women, again, ministered to holy men of their substance, as the Shunammite woman ministered to Elisha; but she did not live with him, but the prophet lived in a house apart.
+
+**[15:10]** And, when her son died, she wanted to throw herself at the feet of the prophet; but his attendant would not allow her, but restrained her.
+
+**[15:11]** But Elisha said to his servant:  "Let her alone, because her soul is distressed".
+
+**[15:12]** From these things, then, we ought to understand their manner of life.
+
+**[15:13]** To Jesus Christ our Lord women ministered of their substance:  but they did not live with him; but chastely, and holily, and unblameably they behaved before the Lord, and finished their course, and received the crown in our Lord God Almighty.
+
+**[16:1]** Chapter XVI.
+
+**[16:2]** —Exhortation to Union and to Obedience; Conclusion.
+
+**[16:3]** Therefore, we beseech you, our brethren in our Lord, that these things be observed with you, as with us, and that we may be of the same mind, that we may be one in you and ye may be one in us, and that in everything we may be of one soul and one heart in our Lord.
+
+**[16:4]** Whosoever knoweth the Lord heareth us; and every one who is not of God heareth not us.
+
+**[16:5]** He who desires truly to keep sanctity heareth us; and the virgin who truly desires to keep virginity heareth us; but she who does not truly desire to keep virginity doth not hear us.
+
+**[16:6]** Finally, farewell in our Lord, and rejoice in the Lord, all ye saints.
+
+**[16:7]** Peace and joy be with you from God the Father through Jesus Christ our Lord.
+
+**[16:8]** So be it.
+
+**[16:9]** Here endeth the Second Epistle of Clement, the disciple of Peter.
+
+**[16:10]** His prayer be with us!  So be it.
+

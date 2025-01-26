@@ -1,0 +1,190 @@
+# Apocrypha: Acts of the Holy Apostle and Evangelist John the Theologian
+
+**[1:1]** Acts of the Holy Apostle and Evangelist John the Theologian: When Agrippa, whom, on account of his plotting against Peace, they stoned and put to death, was king of the Jews, Vespasian Caesar, coming with a great army, invested Jerusalem; and some prisoners of war he took and slew, others he destroyed by famine in the siege, and most he banished, and at length scattered up and down.
+
+**[1:2]** And having destroyed the temple, and put the holy vessels on board a ship, he sent them to Rome, to make for himself a temple of peace, and adorned it with the spoils of war.
+
+**[1:3]** And when Vespasian was dead, his son Domitian, having got possession of the kingdom, along with his other wrongful acts, set himself also to make a persecution against the righteous men.
+
+**[1:4]** For, having learned that the city was filled with Jews, remembering the orders given by his father about them, he purposed casting them all out of the city of the Romans.
+
+**[1:5]** And some of the Jews took courage, and gave Domitian a book, in which was written as follows:—  O Domitian, Caesar and king of all the world, as many of us as are Jews entreat thee, as suppliants we beseech of thy power not to banish us from thy divine and benignant countenance; for we are obedient to thee, and the customs, and laws, and practices, and policy, doing wrong in nothing, but being of the same mind with the Romans.
+
+**[1:6]** But there is a new and strange nation, neither agreeing with other nations nor consenting to the religious observances of the Jews, uncircumcised, inhuman, lawless, subverting whole houses, proclaiming a man as God, all assembling together under a strange name, that of Christian.
+
+**[1:7]** These men reject God, paying no heed to the law given by Him, and proclaim to be the Son of God a man born of ourselves, Jesus by name, whose parents and brothers and all his family have been connected with the Hebrews; whom on account of his great blasphemy and his wicked fooleries we gave up to the cross.
+
+**[1:8]** And they add another blasphemous lie to their first one:  him that was nailed up and buried, they glorify as having risen from the dead; and, more than this, they falsely assert that he has been taken up by clouds into the heavens.
+
+**[1:9]** At all this the king, being affected with rage, ordered the senate to publish a decree that they should put to death all who confessed themselves to be Christians.
+
+**[1:10]** Those, then, who were found in the time of his rage, and who reaped the fruit of patience, and were crowned in the triumphant contest against the works of the devil, received the repose of incorruption.
+
+**[1:11]** And the fame of the teaching of John was spread abroad in Rome; and it came to the ears of Domitian that there was a certain Hebrew in Ephesus, John by name, who spread a report about the seat of empire of the Romans, saying that it would quickly be rooted out, and that the kingdom of the Romans would be given over to another.
+
+**[1:12]** And Domitian, troubled by what was said, sent a centurion with soldiers to seize John, and bring him.
+
+**[1:13]** And having gone to Ephesus, they asked where John lived.
+
+**[1:14]** And having come up to his gate, they found him standing before the door; and, thinking that he was the porter, they inquired of him where John lived.
+
+**[1:15]** And he answered and said:  I am he.
+
+**[1:16]** And they, despising his common, and low, and poor appearance, were filled with threats, and said:  Tell us the truth.
+
+**[1:17]** And when he declared again that he was the man they sought, the neighbours moreover bearing witness to it, they said that he was to go with them at once to the king in Rome.
+
+**[1:18]** And, urging them to take provisions for the journey, he turned and took a few dates, and straightway went forth.
+
+**[1:19]** And the soldiers, having taken the public conveyances, travelled fast, having seated him in the midst of them.
+
+**[1:20]** And when they came to the first change, it being the hour of breakfast, they entreated him to be of good courage, and to take bread, and eat with them.
+
+**[1:21]** And John said:  I rejoice in soul indeed, but in the meantime I do not wish to take any food.
+
+**[1:22]** And they started, and were carried along quickly.
+
+**[1:23]** And when it was evening they stopped at a certain inn; and as, besides, it was the hour of supper, the centurion and the soldiers being most kindly disposed, entreated John to make use of what was set before them.
+
+**[1:24]** But he said that he was very tired, and in want of sleep more than any food.
+
+**[1:25]** And as he did this each day, all the soldiers were struck with amazement, and were afraid lest John should die, and involve them in danger.
+
+**[1:26]** But the Holy Spirit showed him to them as more cheerful.
+
+**[1:27]** And on the seventh day, it being the Lord's day, he said to them:  Now it is time for me also to partake of food.
+
+**[1:28]** And having washed his hands and face, he prayed, and brought out the linen cloth, and took one of the dates, and ate it in the sight of all.
+
+**[1:29]** And when they had ridden a long time they came to the end of their journey, John thus fasting.
+
+**[1:30]** And they brought him before the king, and said:  Worshipful king, we bring to thee John, a god, not a man; for, from the hour in which we apprehended him, to the present, he has not tasted bread.
+
+**[1:31]** At this Domitian being amazed, stretched out his mouth on account of the wonder, wishing to salute him with a kiss; but John bent down his head, and kissed his breast.
+
+**[1:32]** And Domitian said:  Why hast thou done this?  Didst thou not think me worthy to kiss thee?  And John said to him:  It is right to adore the hand of God first of all, and in this way to kiss the mouth of the king; for it is written in the holy books, The heart of a king is in the hand of God.
+
+**[1:33]** And the king said to him:  Art thou John, who said that my kingdom would speedily be uprooted, and that another king, Jesus, was going to reign instead of me?  And John answered and said to him:  Thou also shalt reign for many years given thee by God, and after thee very many others; and when the times of the things upon earth have been fulfilled, out of heaven shall come a King, eternal, true, Judge of living and dead, to whom every nation and tribe shall confess, through whom every earthly power and dominion shall be brought to nothing, and every mouth speaking great things shall be shut.
+
+**[1:34]** This is the mighty Lord and King of everything that hath breath and flesh, the Word and Son of the living One, who is Jesus Christ.
+
+**[1:35]** At this Domitian said to him:  What is the proof of these things?  I am not persuaded by words only; words are a sight of the unseen.
+
+**[1:36]** What canst thou show in earth or heaven by the power of him who is destined to reign, as thou sayest?  For he will do it, if he is the Son of God.
+
+**[1:37]** And immediately John asked for a deadly poison.
+
+**[1:38]** And the king having ordered poison to be given to him, they brought it on the instant.
+
+**[1:39]** John therefore, having taken it, put it into a large cup, and filled it with water, and mixed it, and cried out with a loud voice, and said:  In Thy name, Jesus Christ, Son of God, I drink the cup which Thou wilt sweeten; and the poison in it do Thou mingle with Thy Holy Spirit, and make it become a draught of life and salvation, for the healing of soul and body, for digestion and harmless assimilation, for faith not to be repented of, for an undeniable testimony of death as the cup of thanksgiving.
+
+**[1:40]** And when he had drunk the cup, those standing beside Domitian expected that he was going to fall to the ground in convulsions.
+
+**[1:41]** And when John stood, cheerful, and talked with them safe, Domitian was enraged against those who had given the poison, as having spared John.
+
+**[1:42]** But they swore by the fortune and health of the king, and said that there could not be a stronger poison than this.
+
+**[1:43]** And John, understanding what they were whispering to one another, said to the king:  Do not take it ill, O king, but let a trial be made, and thou shalt learn the power of the poison.
+
+**[1:44]** Make some condemned criminal be brought from the prison.
+
+**[1:45]** And when he had come, John put water into the cup, and swirled it round, and gave it with all the dregs to the condemned criminal.
+
+**[1:46]** And he, having taken it and drunk, immediately fell down and died.
+
+**[1:47]** And when all wondered at the signs that had been done, and when Domitian had retired and gone to his palace, John said to him:  O Domitian, king of the Romans, didst thou contrive this, that, thou being present and bearing witness, I might to-day become a murderer?  What is to be done about the dead body which is lying?  And he ordered it to be taken and thrown away.
+
+**[1:48]** But John, going up to the dead body, said:  O God, Maker of the heavens, Lord and Master of angels, of glories, of powers, in the name of Jesus Christ, Thine only begotten Son, give to this man who has died for this occasion a renewal of life, and restore him his soul, that Domitian may learn that the Word is much more powerful than poison, and is the ruler of life.
+
+**[1:49]** And having taken him by the hand, he raised him up alive.
+
+**[1:50]** And when all were glorifying God, and wondering at the faith of John, Domitian said to him:  I have put forth a decree of the senate, that all such persons should be summarily dealt with, without trial; but since I find from thee that they are innocent, and that their religion is rather beneficial, I banish thee to an island, that I may not seem myself to do away with my own decrees.
+
+**[1:51]** He asked then that the condemned criminal should be let go; and when he was let go, John said:  Depart, give thanks to God, who has this day delivered thee from prison and from death.
+
+**[1:52]** And while they were standing, a certain home-born slave of Domitian's, of those in the bed-chamber, was suddenly seized by the unclean demon, and lay dead; and word was brought to the king.
+
+**[1:53]** And the king was moved, and entreated John to help her.
+
+**[1:54]** And John said:  It is not in man to do this; but since thou knowest how to reign, but dost not know from whom thou hast received it, learn who has the power over both thee and thy kingdom.
+
+**[1:55]** And he prayed thus:  O Lord, the God of every kingdom, and master of every creature, give to this maiden the breath of life.
+
+**[1:56]** And having prayed, he raised her up.
+
+**[1:57]** And Domitian, astonished at all the wonders, sent him away to an island, appointing for him a set time.
+
+**[1:58]** And straightway John sailed to Patmos, where also he was deemed worthy to see the revelation of the end.
+
+**[1:59]** And when Domitian was dead, Nerva succeeded to the kingdom, and recalled all who had been banished; and having kept the kingdom for a year, he made Trajan his successor in the kingdom.
+
+**[1:60]** And when he was king over the Romans, John went to Ephesus, and regulated all the teaching of the church, holding many conferences, and reminding them of what the Lord had said to them, and what duty he had assigned to each.
+
+**[1:61]** And when he was old and changed, he ordered Polycarp to be bishop over the church.
+
+**[1:62]** And what like his end was, or his departure from men, who cannot give an account of?  For on the following day, which was the Lord's day, and in the presence of the brethren, he began to say to them:  Brethren, and fellow-servants, and co-heirs, and copartners of the kingdom of the Lord, know the Lord what miracles He hath shown you through me, what wonders, what cures, what signs, what gracious gifts, teachings, rulings, rests, services, glories, graces, gifts, faiths, communions; how many things you have seen with your eyes, that ear hath not heard.
+
+**[1:63]** Be strong, therefore, in Him, remembering Him in all your doings, knowing the mystery of the dispensation that has come to men, for the sake of which the Lord has worked.
+
+**[1:64]** He then, through me, exhorts you:  Brethren, I wish to remain without grief, without insult, without treachery, without punishment.
+
+**[1:65]** For He also knows insult from you, He knows also dishonour, He knows also treachery, He knows also punishment from those that disobey His commandments.
+
+**[1:66]** Let not therefore our God be grieved, the good, the compassionate, the merciful, the holy, the pure, the undefiled, the only, the one, the immutable, the sincere, the guileless, the slow to anger, He that is higher and more exalted than every name that we speak or think of—our God, Jesus Christ.
+
+**[1:67]** Let Him rejoice along with us because we conduct ourselves well; let Him be glad because we live in purity; let Him rest because we behave reverently; let Him be pleased because we live in fellowship; let Him smile because we are sober-minded; let Him be delighted because we love.
+
+**[1:68]** These things, brethren, I communicate to you, pressing on to the work set before me, already perfected for me by the Lord.
+
+**[1:69]** For what else have I to say to you?  Keep the sureties of your God; keep His presence, that shall not be taken away from you.
+
+**[1:70]** And if then ye sin no more, He will forgive you what ye have done in ignorance; but if, after ye have known Him, and He has had compassion upon you, you return to the like courses, even your former offences will be laid to your charge, and ye shall have no portion or compassion before His face.
+
+**[1:71]** And when he had said this to them, he thus prayed:  Jesus, who didst wreathe this crown by Thy twining, who hast inserted these many flowers into the everlasting flower of Thy countenance, who hast sown these words among them, be Thou Thyself the protector and healer of Thy people.
+
+**[1:72]** Thou alone art benignant and not haughty, alone merciful and kind, alone a Saviour, and just; Thou who always seest what belongs to all, and art in all, and everywhere present, God Lord Jesus Christ; who with Thy gifts and Thy compassion coverest those that hope in Thee; who knowest intimately those that everywhere speak against us, and blaspheme Thy holy name, do Thou alone, O Lord, help Thy servants with Thy watchful care.
+
+**[1:73]** So be it, Lord.
+
+**[1:74]** And having asked bread, he gave thanks thus, saying:  What praise, or what sort of offering, or what thanksgiving, shall we, breaking the bread, invoke, but Thee only?  We glorify the name by which Thou hast been called by the Father; we glorify the name by which Thou hast been called through the Son; we glorify the resurrection which has been manifested to us through Thee; of Thee we glorify the seed, the word, the grace, the true pearl, the treasure, the plough, the net, the majesty, the diadem, Him called Son of man for our sakes, the truth, the rest, the knowledge, the freedom, the place of refuge in Thee.
+
+**[1:75]** For Thou alone art Lord, the root of immortality, and the fountain of incorruption, and the seat of the ages; Thou who hast been called all these for our sakes, that now we, calling upon Thee through these, may recognise Thine illimitable majesty, presented to us by Thy presence, that can be seen only by the pure, seen in Thine only Son.
+
+**[1:76]** And having broken the bread, he gave it to us, praying for each of the brethren, that he might be worthy of the Eucharist of the Lord.
+
+**[1:77]** He also therefore, having likewise tasted it, said:  To me also let there be a portion with you, and peace, O beloved.
+
+**[1:78]** And having thus spoken, and confirmed the brethren, he said to Eutyches, also named Verus:  Behold, I appoint thee a minister of the Church of Christ, and I entrust to thee the flock of Christ.
+
+**[1:79]** Be mindful, therefore, of the commandments of the Lord; and if thou shouldst fall into trials or dangers, be not afraid:  for thou shalt fall under many troubles, and thou shalt be shown to be an eminent witness of the Lord.
+
+**[1:80]** Thus, then, Verus, attend to the flock as a servant of God, until the time appointed for thy testimony.
+
+**[1:81]** And when John had spoken this, and more than this, having entrusted to him the flock of Christ, he says to him:  Take some brethren, with baskets and vessels, and follow me.
+
+**[1:82]** And Eutyches, without considering, did what he was bid.
+
+**[1:83]** And the blessed John having gone forth from the house, went outside of the gates, having told the multitude to stand off from him.
+
+**[1:84]** And having come to the tomb of one of our brethren, he told them to dig.
+
+**[1:85]** And they dug.
+
+**[1:86]** And he says:  Let the trench be deeper.
+
+**[1:87]** And as they dug, he conversed with those who had come out of the house with him, building them up, and furnishing them thoroughly into the majesty of the Lord.
+
+**[1:88]** And when the young men had finished the trench, as he had wished, while we knew nothing, he takes off the clothes he had on, and throws them, as if they were some bedding, into the depth of the trench; and, standing in only his drawers, stretched forth his hands, and prayed.
+
+**[1:89]** O God, who hast chosen us for the mission of the Gentiles, who hast sent us out into the world, who hast declared Thyself through the apostles; who hast never rested, but always savest from the foundation of the world; who hast made Thyself known through all nature; who hast made our wild and savage nature quiet and peaceable; who hast given Thyself to it when thirsting after knowledge; who hast put to death its adversary, when it took refuge in Thee; who hast given it Thy hand, and raised it from the things done in Hades; who hast shown it its own enemy; who hast in purity turned its thoughts upon Thee, O Christ Jesus, Lord of things in heaven, and law of things on earth, the course of things aerial, and guardian of things etherial, the fear of those under the earth, and grace of Thine own people, receive also the soul of Thy John, which has been certainly deemed worthy by Thee, Thou who hast preserved me also till the present hour pure to Thyself, and free from intercourse with woman; who, when I wished in my youth to marry, didst appear to me, and say, I am in need of thee, John; who didst strengthen for me beforehand my bodily weakness; who, when a third time I wished to marry, didst say to me at the third hour, in the sea, John, if thou wert not mine, I would let thee marry; who hast opened up the sight of my mind, and hast favoured my bodily eyes; who, when I was looking about me, didst call even the gazing upon a woman hateful; who didst deliver me from temporary show, and preserve me for that which endureth for ever; who didst separate me from the filthy madness of the flesh; who didst stop up the secret disease of the soul, and cut out its open actions; who didst afflict and banish him who rebelled in me; who didst establish my love to Thee spotless and unimpaired; who didst give me undoubting faith in Thee; who hast drawn out for me pure thoughts towards Thee; who hast given me the due reward of my works; who hast set it in my soul to have no other possession than Thee alone:  for what is more precious than Thou?  Now, O Lord, when I have accomplished Thy stewardship with which I was entrusted, make me worthy of Thy repose, having wrought that which is perfect in Thee, which is ineffable salvation.
+
+**[1:90]** And as I go to Thee, let the fire withdraw, let darkness be overcome, let the furnace be slackened, let Gehenna be extinguished, let the angels follow, let the demons be afraid, let the princes be broken in pieces, let the powers of darkness fall, let the places on the right hand stand firm, let those on the left abide not, let the devil be muzzled, let Satan be laughed to scorn, let his madness be tamed, let his wrath be broken, let his children be trodden under foot, and let all his root be uprooted; and grant to me to accomplish the journey to Thee, not insulted, not despitefully treated, and to receive what Thou hast promised to those that live in purity, and that have loved a holy life.
+
+**[1:91]** And gazing towards heaven, he glorified God; and having sealed himself altogether, he stood and said to us, Peace and grace be with you, brethren! and sent the brethren away.
+
+**[1:92]** And when they went on the morrow they did not find him, but his sandals, and a fountain welling up.
+
+**[1:93]** And after that they remembered what had been said to Peter by the Lord about him:  For what does it concern thee if I should wish him to remain until I come?  And they glorified God for the miracle that had happened.
+
+**[1:94]** And having thus believed, they retired praising and blessing the benignant God; because to Him is due glory now and ever, and to ages of ages,  Amen.
+

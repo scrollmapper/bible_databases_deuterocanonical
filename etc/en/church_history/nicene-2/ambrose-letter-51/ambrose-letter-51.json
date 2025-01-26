@@ -1,0 +1,603 @@
+{
+    "books": [
+        {
+            "name": "Ambrose: Letter LI",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Ambrose: Letter LI 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:1",
+                            "text": "Letter LI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:2",
+                            "text": "Addressed to the Emperor Theodosius after the massacre at Thessalonica."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:3",
+                            "text": "St."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:4",
+                            "text": "Ambrose begins by stating his reasons for not having met the Emperor on his return to Milan."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:5",
+                            "text": "He then mentions the sentiments of the bishops with regard to the slaughter at Thessalonica, and points out that repentance for that deed is necessary to obtain forgiveness and a victory over the devil, the instigator to that crime."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:6",
+                            "text": "St."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:7",
+                            "text": "Ambrose could not offer the sacrifice in the Emperor's presence, and, as truly loving the Emperor, grieves and yet hopes."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:8",
+                            "text": "1."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:9",
+                            "text": "The memory of your old friendship is pleasant to me, and I gratefully call to mind the kindnesses which, in reply to my frequent intercessions, you have most graciously conferred on others."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:10",
+                            "text": "Whence it may be inferred that I did not from any ungrateful feeling avoid meeting you on your arrival, which I had always before earnestly desired."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:11",
+                            "text": "And I will now briefly set forth the reason for my acting as I did."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:12",
+                            "text": "2."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:13",
+                            "text": "I saw that from me alone in your court the natural right of hearing was withdrawn, so that I was deprived also of the office of speaking; for you were frequently troubled because certain matters which had been decided in your consistory had come to my knowledge."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:14",
+                            "text": "I, therefore, am without a part in the common privilege, since the Lord Jesus says: \"That nothing is hidden, which shall not be made known\"."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:15",
+                            "text": "I, therefore, as reverently as I could, complied with the imperial will, and took heed that neither yourself should have any reason for displeasure, when I effected that nothing should be related to me of the imperial decrees; and that I, when present, either should not hear, through fear of all others, and so incur the reputation of connivance, or should hear in such a fashion that my ears might be open, my utterance prevented, that I might not be able to utter what I had heard lest I should injure and bring in peril those who had incurred the suspicion of treachery."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:16",
+                            "text": "3."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:17",
+                            "text": "What, then, could I do? Should I not hear? But I could not close my ears with the wax of the old fables."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:18",
+                            "text": "Should I utter what I heard? But I was bound to be on my guard in my words against that which I  feared in your commands, namely, lest some deed of blood should be committed."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:19",
+                            "text": "Should I keep silence? But then my conscience would be bound, my utterance taken away, which would be the most wretched condition of all."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:20",
+                            "text": "And where would be that text? If the priest speak not to him that erreth, he who errs shall die in his sin, and the priest shall be liable to the penalty because he warned not the erring."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:21",
+                            "text": "4."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:22",
+                            "text": "Listen, august Emperor."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:23",
+                            "text": "I cannot deny that you have a zeal for the faith; I do confess that you have the fear of God."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:24",
+                            "text": "But you have a natural vehemence, which, if any one endeavours to soothe, you quickly turn to mercy; if any one stirs it up, you rouse it so much more that you can scarcely restrain it."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:25",
+                            "text": "Would that if no one soothe it, at least no one may inflame it! To yourself I willingly entrust it, you restrain yourself, and overcome your natural vehemence by the love of piety."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:26",
+                            "text": "5."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:27",
+                            "text": "This vehemence of yours I preferred to commend privately to your own consideration, rather than possibly raise it by any action of mine in public."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:28",
+                            "text": "And so I have preferred to be somewhat wanting in duty rather than in humility, and that other, should rather think me wanting in priestly authority than that you should find me lacking in most loving reverence, that having restrained your vehemence your power of deciding on your counsel should not be weakened."
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:29",
+                            "text": "I excuse myself by bodily sickness, which was in truth severe, and scarcely to be lightened but by great care."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:30",
+                            "text": "Yet I would rather have died than not wait two or three days for your arrival."
+                        },
+                        {
+                            "verse": 31,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:31",
+                            "text": "But it was not possible for me to do so."
+                        },
+                        {
+                            "verse": 32,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:32",
+                            "text": "6."
+                        },
+                        {
+                            "verse": 33,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:33",
+                            "text": "There was that done in the city of the Thessalonians of which no similar record exists, which I was not able to prevent happening; which, indeed, I had before said would be most atrocious when I so often petitioned against it, and that which you yourself show by revoking it too late you consider to be grave, this I could not extenuate when done."
+                        },
+                        {
+                            "verse": 34,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:34",
+                            "text": "When it was first heard of, a synod had met because of the arrival of the Gallican Bishops."
+                        },
+                        {
+                            "verse": 35,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:35",
+                            "text": "There was not one who did not lament it, not one who thought lightly of it; your being in fellowship with Ambrose was no excuse for your deed."
+                        },
+                        {
+                            "verse": 36,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:36",
+                            "text": "Blame for what had been done would have been heaped more and more on me, had no one said that your reconciliation to our God was necessary."
+                        },
+                        {
+                            "verse": 37,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:37",
+                            "text": "7."
+                        },
+                        {
+                            "verse": 38,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:38",
+                            "text": "Are you ashamed, O Emperor, to do that which the royal prophet David, the forefather of Christ, according to the flesh, did? To him it was told how the rich man who had many flocks seized and killed the poor man's one lamb, because of the arrival of his guest, and recognizing that he himself was being condemned in the tale, for that he himself had done it, he said: \"I have sinned against the Lord\"."
+                        },
+                        {
+                            "verse": 39,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:39",
+                            "text": "Bear it, then, without impatience, O Emperor, if it be said to you: \"You have done that which was spoken of to King David by the prophet\"."
+                        },
+                        {
+                            "verse": 40,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:40",
+                            "text": "For if you listen obediently to this, and say: \"I have sinned against the Lord,\" if you repeat those words of the royal prophet: \"O come let us worship and fall down before Him, and mourn before the Lord our God, Who made us,\" it shall be said to you also: \"Since thou repentest, the Lord putteth away thy sin, and thou shalt not die\"."
+                        },
+                        {
+                            "verse": 41,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:41",
+                            "text": "8."
+                        },
+                        {
+                            "verse": 42,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:42",
+                            "text": "And again, David, after he had commanded the people to be numbered, was smitten in heart, and said to the Lord: \"I have sinned exceedingly, because I have commanded this, and now, O Lord, take away the iniquity of Thy servant, for I have transgressed exceedingly\"."
+                        },
+                        {
+                            "verse": 43,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:43",
+                            "text": "And the prophet Nathan was sent again to him, to offer him the choice of three things, that he should select the one he chose—famine in the land for three years, or that he should flee for three months before his enemies, or mortal pestilence in the land for three days."
+                        },
+                        {
+                            "verse": 44,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:44",
+                            "text": "And David answered: \"These three things are a great strait to me, but let me fall into the hand of the Lord, for very many are His mercies, and let me not fall into the hands of man\"."
+                        },
+                        {
+                            "verse": 45,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:45",
+                            "text": "Now his fault was that he desired to know the number of the whole of the people which was with him, which knowledge he ought to have left to God alone."
+                        },
+                        {
+                            "verse": 46,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:46",
+                            "text": "9."
+                        },
+                        {
+                            "verse": 47,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:47",
+                            "text": "And, we are told, when death came upon the people, on the very first day at dinner time, when David saw the angel smiting the people, he said: \"I have sinned, and I, the shepherd, have done wickedly, and this flock, what hath it done? Let Thine hand be upon me, and upon my father's house\"."
+                        },
+                        {
+                            "verse": 48,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:48",
+                            "text": "And so it repented the Lord, and He commanded the angel to spare the people, and David to offer a sacrifice, for sacrifices were then offered for sins; sacrifices are now those of penitence."
+                        },
+                        {
+                            "verse": 49,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:49",
+                            "text": "And  so by that humbling of himself he became more acceptable to God, for it is no matter of wonder that a man should sin, but this is reprehensible, if he does not recognize that he has erred, and humble himself before God."
+                        },
+                        {
+                            "verse": 50,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:50",
+                            "text": "10."
+                        },
+                        {
+                            "verse": 51,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:51",
+                            "text": "Holy Job, himself also powerful in this world, says: \"I hid not my sin, but declared it before all the people\"."
+                        },
+                        {
+                            "verse": 52,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:52",
+                            "text": "His son Jonathan said to the fierce King Saul himself: \"Do not sin against thy servant David;\" and: \"Why dost thou sin against innocent blood, to slay David without a cause?\" For, although he was a king, yet he would have sinned if he slew the innocent."
+                        },
+                        {
+                            "verse": 53,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:53",
+                            "text": "And again, David also, when he was in possession of the kingdom, and had heard that innocent Abner had been slain by Joab, the leader of his host, said: \"I am guiltless and my kingdom is guiltless henceforth and for ever of the blood of Abner, the son of Ner,\" and he fasted for sorrow."
+                        },
+                        {
+                            "verse": 54,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:54",
+                            "text": "11."
+                        },
+                        {
+                            "verse": 55,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:55",
+                            "text": "I have written this, not in order to confound you, but that the examples of these kings may stir you up to put away this sin from your kingdom, for you will do it away by humbling your soul before God."
+                        },
+                        {
+                            "verse": 56,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:56",
+                            "text": "You are a man, and it has come upon you, conquer it."
+                        },
+                        {
+                            "verse": 57,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:57",
+                            "text": "Sin is not done away but by tears and penitence."
+                        },
+                        {
+                            "verse": 58,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:58",
+                            "text": "Neither angel can do it, nor archangel."
+                        },
+                        {
+                            "verse": 59,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:59",
+                            "text": "The Lord Himself, Who alone can say, \"I am with you,\" if we have sinned, does not forgive any but those who repent."
+                        },
+                        {
+                            "verse": 60,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:60",
+                            "text": "12."
+                        },
+                        {
+                            "verse": 61,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:61",
+                            "text": "I urge, I beg, I exhort, I warn, for it is a grief to me, that you who were an example of unusual piety, who were conspicuous for clemency, who would not suffer single offenders to be put in peril, should not mourn that so many have perished."
+                        },
+                        {
+                            "verse": 62,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:62",
+                            "text": "Though you have waged battle most successfully, though in other matters, too, you are worthy of praise, yet piety was ever the crown of your actions."
+                        },
+                        {
+                            "verse": 63,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:63",
+                            "text": "The devil envied that which was your most excellent possession."
+                        },
+                        {
+                            "verse": 64,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:64",
+                            "text": "Conquer him whilst you still possess that wherewith you may conquer."
+                        },
+                        {
+                            "verse": 65,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:65",
+                            "text": "Do not add another sin to your sin by a course of action which has injured many."
+                        },
+                        {
+                            "verse": 66,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:66",
+                            "text": "13."
+                        },
+                        {
+                            "verse": 67,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:67",
+                            "text": "I, indeed, though a debtor to your kindness, for which I cannot be ungrateful, that kindness which has surpassed that of many emperors, and has been equalled by one only; I, I say, have no cause for a charge of contumacy against you, but have cause for fear; I dare not offer the sacrifice if you intend to be present."
+                        },
+                        {
+                            "verse": 68,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:68",
+                            "text": "Is that which is not allowed after shedding the blood of one innocent person, allowed after shedding the blood of many? I do not think so."
+                        },
+                        {
+                            "verse": 69,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:69",
+                            "text": "14."
+                        },
+                        {
+                            "verse": 70,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:70",
+                            "text": "Lastly, I am writing with my own hand that which you alone may read."
+                        },
+                        {
+                            "verse": 71,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:71",
+                            "text": "As I hope that the Lord will deliver me from all troubles, I have been warned, not by man, nor through man, but plainly by Himself that this is forbidden me."
+                        },
+                        {
+                            "verse": 72,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:72",
+                            "text": "For when I was anxious, in the very night in which I was preparing to set out, you appeared to me in a dream to have come into the Church, and I was not permitted to offer the sacrifice."
+                        },
+                        {
+                            "verse": 73,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:73",
+                            "text": "I pass over other things, which I could have avoided, but I bore them for love of you, as I believe."
+                        },
+                        {
+                            "verse": 74,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:74",
+                            "text": "May the Lord cause all things to pass peaceably."
+                        },
+                        {
+                            "verse": 75,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:75",
+                            "text": "Our God gives warnings in many ways, by heavenly signs, by the precepts of the prophets; by the visions even of sinners He wills that we should understand, that we should entreat Him to take away all disturbances, to preserve peace for you emperors, that the faith and peace of the Church, whose advantage it is that emperors should be Christians and devout, may continue."
+                        },
+                        {
+                            "verse": 76,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:76",
+                            "text": "15."
+                        },
+                        {
+                            "verse": 77,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:77",
+                            "text": "You certainly desire to be approved by God."
+                        },
+                        {
+                            "verse": 78,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:78",
+                            "text": "\"To everything there is a time,\" as it is written: \"It is time for Thee, Lord, to work\"."
+                        },
+                        {
+                            "verse": 79,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:79",
+                            "text": "\"It is an acceptable time, O Lord\"."
+                        },
+                        {
+                            "verse": 80,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:80",
+                            "text": "You shall then make your offering when you have received permission to sacrifice, when your offering shall be acceptable to God."
+                        },
+                        {
+                            "verse": 81,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:81",
+                            "text": "Would it not delight me to enjoy the favour of the Emperor, to act according to your wish, if the case allowed it? And prayer by itself is a sacrifice, it obtains pardon, when the oblation would bring offence, for the one is a sign of humility, the other of contempt."
+                        },
+                        {
+                            "verse": 82,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:82",
+                            "text": "For the Word of God Himself tells us that He prefers the performance of His commandments to the offering of sacrifice."
+                        },
+                        {
+                            "verse": 83,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:83",
+                            "text": "God proclaims this, Moses declares it to the people, Paul preaches it to the Gentiles."
+                        },
+                        {
+                            "verse": 84,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:84",
+                            "text": "Do that which you understand is most profitable for the time."
+                        },
+                        {
+                            "verse": 85,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:85",
+                            "text": "\"I prefer mercy,\" it is said, \"rather than sacrifice\"."
+                        },
+                        {
+                            "verse": 86,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:86",
+                            "text": "Are they not, then, rather Christians in truth who condemn their own sin, than they who think to defend it? \"The just is an accuser of himself in the beginning of his words\"."
+                        },
+                        {
+                            "verse": 87,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:87",
+                            "text": "He who accuses himself when he has sinned is just, not he who praises himself."
+                        },
+                        {
+                            "verse": 88,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:88",
+                            "text": "16."
+                        },
+                        {
+                            "verse": 89,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:89",
+                            "text": "I wish, O Emperor, that before this I  had trusted rather to myself, than to your habits."
+                        },
+                        {
+                            "verse": 90,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:90",
+                            "text": "When I consider that you quickly pardon, and quickly revoke your sentence, as you have often done; you have been anticipated, and I have not shunned that which I needed not to fear."
+                        },
+                        {
+                            "verse": 91,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:91",
+                            "text": "But thanks be to the Lord, Who willeth to chastise His servants, that He may not lose them."
+                        },
+                        {
+                            "verse": 92,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:92",
+                            "text": "This I have in common with the prophets, and you shall have it in common with the saints."
+                        },
+                        {
+                            "verse": 93,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:93",
+                            "text": "17."
+                        },
+                        {
+                            "verse": 94,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:94",
+                            "text": "Shall I not value the father of Gratian more than my very eyes? Your other holy pledges also claim pardon."
+                        },
+                        {
+                            "verse": 95,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:95",
+                            "text": "I conferred beforehand a dear name on those to whom I bore a common love."
+                        },
+                        {
+                            "verse": 96,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:96",
+                            "text": "I follow you with my love, my affection, and my prayers."
+                        },
+                        {
+                            "verse": 97,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:97",
+                            "text": "If you believe me, be guided by me; if, I say, you believe me, acknowledge what I say; if you believe me not, pardon that which I do, in that I set God before you."
+                        },
+                        {
+                            "verse": 98,
+                            "chapter": 1,
+                            "name": "Ambrose: Letter LI 1:98",
+                            "text": "May you, most august Emperor, with your holy offspring, enjoy perpetual peace with perfect happiness and prosperity."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2871 @@
+{
+    "books": [
+        {
+            "name": "Cyprian: Against the Jews Book II",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Cyprian: Against the Jews Book II 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Cyprian: Against the Jews Book II 1:1",
+                            "text": "Testimonies Against the Jews Book : Heads."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Cyprian: Against the Jews Book II 1:2",
+                            "text": "That Christ is the First-born, and that He is the Wisdom of God, by whom all things were made."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Cyprian: Against the Jews Book II 1:3",
+                            "text": "That Christ is the Wisdom of God; and about the sacrament of His incarnation, and passion, and cup, and altar, and the apostles who were sent and preached."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Cyprian: Against the Jews Book II 1:4",
+                            "text": "That Christ also is Himself the Word of God."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Cyprian: Against the Jews Book II 1:5",
+                            "text": "That the same Christ is God's hand and arm."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Cyprian: Against the Jews Book II 1:6",
+                            "text": "That the same is Angel and God."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "Cyprian: Against the Jews Book II 1:7",
+                            "text": "That Christ is God."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 1,
+                            "name": "Cyprian: Against the Jews Book II 1:8",
+                            "text": "That Christ our God should come as the Illuminator and Saviour of the human race."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 1,
+                            "name": "Cyprian: Against the Jews Book II 1:9",
+                            "text": "That although from the beginning He had been Son of God, He had yet to be begotten again according to the flesh."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 1,
+                            "name": "Cyprian: Against the Jews Book II 1:10",
+                            "text": "That this should be the sign of His nativity, that He should be born of a virgin—man and God—Son of man and of God."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 1,
+                            "name": "Cyprian: Against the Jews Book II 1:11",
+                            "text": "That Christ is man and God, compounded of either nature, that He might be a mediator between us and the Father."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 1,
+                            "name": "Cyprian: Against the Jews Book II 1:12",
+                            "text": "That He was to be born of the seed of David after the flesh."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 1,
+                            "name": "Cyprian: Against the Jews Book II 1:13",
+                            "text": "That He should be born in Bethlehem."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 1,
+                            "name": "Cyprian: Against the Jews Book II 1:14",
+                            "text": "That He should come in lowly condition on His first advent."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 1,
+                            "name": "Cyprian: Against the Jews Book II 1:15",
+                            "text": "That He was the righteous One whom the Jews should put to death."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 1,
+                            "name": "Cyprian: Against the Jews Book II 1:16",
+                            "text": "That He was called a Sheep and a Lamb who would have to be slain, and concerning the sacrament of the passion."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 1,
+                            "name": "Cyprian: Against the Jews Book II 1:17",
+                            "text": "That He is also called a Stone."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 1,
+                            "name": "Cyprian: Against the Jews Book II 1:18",
+                            "text": "That subsequently that stone should become a mountain, and should fill the whole earth."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 1,
+                            "name": "Cyprian: Against the Jews Book II 1:19",
+                            "text": "That in the last times the same mountain should be manifested, upon which the Gentiles should come, and on which the righteous should go up."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 1,
+                            "name": "Cyprian: Against the Jews Book II 1:20",
+                            "text": "That He is the Bridegroom, having the Church as His bride, from whom children should be spiritually born."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 1,
+                            "name": "Cyprian: Against the Jews Book II 1:21",
+                            "text": "That the Jews should fasten Him to the Cross."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 1,
+                            "name": "Cyprian: Against the Jews Book II 1:22",
+                            "text": "That in the passion and the sign of the cross is all virtue and power."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 1,
+                            "name": "Cyprian: Against the Jews Book II 1:23",
+                            "text": "That in this sign of the cross is salvation for all who are marked on their foreheads."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 1,
+                            "name": "Cyprian: Against the Jews Book II 1:24",
+                            "text": "That at mid-day, during His passion, there should be darkness."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 1,
+                            "name": "Cyprian: Against the Jews Book II 1:25",
+                            "text": "That He should not be overcome of death, nor should remain in hell."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 1,
+                            "name": "Cyprian: Against the Jews Book II 1:26",
+                            "text": "That He should rise again from hell on the third day."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 1,
+                            "name": "Cyprian: Against the Jews Book II 1:27",
+                            "text": "That when He had risen, He should receive from His Father all power, and His power should be eternal."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 1,
+                            "name": "Cyprian: Against the Jews Book II 1:28",
+                            "text": "That it is impossible to attain to God the Father, except through the Son Jesus Christ."
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 1,
+                            "name": "Cyprian: Against the Jews Book II 1:29",
+                            "text": "That He is to come as a Judge."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 1,
+                            "name": "Cyprian: Against the Jews Book II 1:30",
+                            "text": "That He is to reign as a King for ever."
+                        },
+                        {
+                            "verse": 31,
+                            "chapter": 1,
+                            "name": "Cyprian: Against the Jews Book II 1:31",
+                            "text": "That He is both Judge and King."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 2,
+                    "name": "Cyprian: Against the Jews Book II 2",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 2,
+                            "name": "Cyprian: Against the Jews Book II 2:1",
+                            "text": "That Christ is the First-born, and that He is the Wisdom of God, by whom all things were made."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 2,
+                            "name": "Cyprian: Against the Jews Book II 2:2",
+                            "text": "In Solomon in the Proverbs: \"The Lord established me in the beginning of His ways, into His works: before the world He founded me."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 2,
+                            "name": "Cyprian: Against the Jews Book II 2:3",
+                            "text": "In the beginning, before He made the earth, and before He appointed the abysses, before the fountains of waters gushed forth, before the mountains were settled, before all the hills, the Lord begot me."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 2,
+                            "name": "Cyprian: Against the Jews Book II 2:4",
+                            "text": "He made the countries, and the uninhabitable places, and the uninhabitable bounds under heaven."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 2,
+                            "name": "Cyprian: Against the Jews Book II 2:5",
+                            "text": "When He prepared the heaven, I was present with Him; and when He set apart His seat."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 2,
+                            "name": "Cyprian: Against the Jews Book II 2:6",
+                            "text": "When He made the strong clouds above the winds, and when He placed the strengthened fountains under heaven, when He made the mighty foundations of the earth, I was by His side, ordering them: I was He in whom He delighted: moreover, I daily rejoiced before His face in all time, when He rejoiced in the perfected earth\"."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 2,
+                            "name": "Cyprian: Against the Jews Book II 2:7",
+                            "text": "Also in the same in Ecclesiasticus: \"I went forth out of the mouth of the Most High, first-born before every creature: I made the unwearying light to rise in the heavens, and I covered the whole earth with a cloud: I dwelt in the high places, and my throne in the pillar of the cloud: I compassed the circle of heaven, and I penetrated into the depth of the abyss, and I walked on the waves of the sea, and I stood in all the earth; and in every people and in every nation I had the pre-eminence, and by my own strength I have trodden the hearts of all the excellent and the humble: in me is all hope of life and virtue: pass over to me, all ye who desire me\"."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 2,
+                            "name": "Cyprian: Against the Jews Book II 2:8",
+                            "text": "Also in the eighty-eighth Psalm: \"And I will establish Him as my first-born, the highest among the kings of the earth."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 2,
+                            "name": "Cyprian: Against the Jews Book II 2:9",
+                            "text": "I will keep my mercy for Him for ever, and my faithful covenant for Him; and I will establish his seed for ever and ever."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 2,
+                            "name": "Cyprian: Against the Jews Book II 2:10",
+                            "text": "If his children forsake my law, and walk not in my judgments; if they profane my judgments, and do not observe my precepts, I will visit their wickednesses with a rod, and their sins with scourges; but my mercy will I not scatter away from them\"."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 2,
+                            "name": "Cyprian: Against the Jews Book II 2:11",
+                            "text": "Also in the Gospel according to John, the Lord says: \"And this is life eternal, that they should know Thee, the only and true God, and Jesus Christ, whom Thou hast sent."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 2,
+                            "name": "Cyprian: Against the Jews Book II 2:12",
+                            "text": "I have glorified Thee on the earth: I have finished the work which Thou gavest me to do."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 2,
+                            "name": "Cyprian: Against the Jews Book II 2:13",
+                            "text": "And now, do Thou glorify me with Thyself, with the glory which I had with Thee before the world was made\"."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 2,
+                            "name": "Cyprian: Against the Jews Book II 2:14",
+                            "text": "Also Paul to the Colossians: \"Who is the image of the invisible God, and the first-born of every creature\"."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 2,
+                            "name": "Cyprian: Against the Jews Book II 2:15",
+                            "text": "Also in the same place: \"The first-born from the dead, that He might in all things become the holder of the pre-eminence\"."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 2,
+                            "name": "Cyprian: Against the Jews Book II 2:16",
+                            "text": "In the Apocalypse too: \"I am Alpha and Omega, the beginning and the end."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 2,
+                            "name": "Cyprian: Against the Jews Book II 2:17",
+                            "text": "I will give unto Him that is thirsting from the fountain of the water of life freely\"."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 2,
+                            "name": "Cyprian: Against the Jews Book II 2:18",
+                            "text": "That He also is both the wisdom and the power of God, Paul proves in his first Epistle to the Corinthians."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 2,
+                            "name": "Cyprian: Against the Jews Book II 2:19",
+                            "text": "\"Because the Jews require a sign, and the Greeks seek after wisdom: but we preach Christ crucified, to the Jews indeed a stumbling-block, and to the Gentiles foolishness; but to them that are called, both Jews and Greeks, Christ the power of God and the wisdom of God\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 3,
+                    "name": "Cyprian: Against the Jews Book II 3",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 3,
+                            "name": "Cyprian: Against the Jews Book II 3:1",
+                            "text": "That Christ is the Wisdom of God; and concerning the sacrament of His incarnation and of His passion, and cup and altar; and of the apostles who were sent, and preached."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 3,
+                            "name": "Cyprian: Against the Jews Book II 3:2",
+                            "text": "In Solomon in the Proverbs: \"Wisdom hath builded herself an house, and she has placed under it seven pillars; she has slain her victims; she hath mingled her wine in the goblet, and hath made ready her table, and hath sent her servants, calling with a loud announcement to the cup, saying, Let him who is foolish turn to me: and to them that want understanding she has said, Come, eat of my loaves, and drink the wine which I have mingled for you."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 3,
+                            "name": "Cyprian: Against the Jews Book II 3:3",
+                            "text": "Forsake foolishness, and seek wisdom, and correct knowledge by understanding\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 4,
+                    "name": "Cyprian: Against the Jews Book II 4",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 4,
+                            "name": "Cyprian: Against the Jews Book II 4:1",
+                            "text": "That the same Christ is the Word of God."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 4,
+                            "name": "Cyprian: Against the Jews Book II 4:2",
+                            "text": "In the forty-fourth Psalm: \"My heart hath breathed out a good Word."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 4,
+                            "name": "Cyprian: Against the Jews Book II 4:3",
+                            "text": "I tell my works to the King\"."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 4,
+                            "name": "Cyprian: Against the Jews Book II 4:4",
+                            "text": "Also in the thirty-second Psalm: \"By the Word of God were the heavens made fast; and all their strength by the breath of His mouth\"."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 4,
+                            "name": "Cyprian: Against the Jews Book II 4:5",
+                            "text": "Also in Isaiah: \"A Word completing and shortening in righteousness, because a shortened word will God make in the whole earth\"."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 4,
+                            "name": "Cyprian: Against the Jews Book II 4:6",
+                            "text": "Also in the cvith Psalm: \"He sent His Word, and healed them\"."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 4,
+                            "name": "Cyprian: Against the Jews Book II 4:7",
+                            "text": "Moreover, in the Gospel according to John: \"In the beginning was the Word, and the Word was with God, and God was the Word."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 4,
+                            "name": "Cyprian: Against the Jews Book II 4:8",
+                            "text": "The same was in the beginning with God."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 4,
+                            "name": "Cyprian: Against the Jews Book II 4:9",
+                            "text": "All things were made by Him, and without Him was nothing made that was made."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 4,
+                            "name": "Cyprian: Against the Jews Book II 4:10",
+                            "text": "In Him was life; and the life was the light of men."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 4,
+                            "name": "Cyprian: Against the Jews Book II 4:11",
+                            "text": "And the light shineth in darkness; and the darkness comprehended it not\"."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 4,
+                            "name": "Cyprian: Against the Jews Book II 4:12",
+                            "text": "Also in the Apocalypse: \"And I saw the heaven opened, and lo, a white horse; and he who sate upon him was called Faithful and True, judging rightly and justly; and He made war."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 4,
+                            "name": "Cyprian: Against the Jews Book II 4:13",
+                            "text": "And He was covered with a garment sprinkled with blood; and His name is called the Word of God\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 5,
+                    "name": "Cyprian: Against the Jews Book II 5",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 5,
+                            "name": "Cyprian: Against the Jews Book II 5:1",
+                            "text": "That Christ is the Hand and Arm of God."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 5,
+                            "name": "Cyprian: Against the Jews Book II 5:2",
+                            "text": "In Isaiah: \"Is God's Hand not strong to save? or has He made His ear heavy, that He cannot hear? But your sins separate between you and God; and on account of your sins He turns His face away from you, that He may not pity."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 5,
+                            "name": "Cyprian: Against the Jews Book II 5:3",
+                            "text": "For your hands are defiled with blood, and your fingers with sins."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 5,
+                            "name": "Cyprian: Against the Jews Book II 5:4",
+                            "text": "Moreover, your lips have spoken wickedness, and your tongue meditates unrighteousness."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 5,
+                            "name": "Cyprian: Against the Jews Book II 5:5",
+                            "text": "No one speaketh truth, nor is there true judgment: they trust in vanity, and speak emptiness, who conceive sorrow, and bring forth wickedness\"."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 5,
+                            "name": "Cyprian: Against the Jews Book II 5:6",
+                            "text": "Also in the same place: \"Lord, who hath believed our report? and to whom is the Arm of God revealed?\" Also in the same: \"Thus saith the Lord, Heaven is my throne, and the earth is the support of my feet."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 5,
+                            "name": "Cyprian: Against the Jews Book II 5:7",
+                            "text": "What house will ye build unto me? or what is the place for my rest? For all these things hath mine hand made\"."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 5,
+                            "name": "Cyprian: Against the Jews Book II 5:8",
+                            "text": "Also in the same: \"O Lord God, Thine Arm is high, and they knew it not; but when they know it, they shall be confounded\"."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 5,
+                            "name": "Cyprian: Against the Jews Book II 5:9",
+                            "text": "Also in the same: \"The Lord hath revealed His Arm, that holy Arm, in the sight of all nations; all nations, even the ends of the earth, shall see salvation from God\"."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 5,
+                            "name": "Cyprian: Against the Jews Book II 5:10",
+                            "text": "Also in the same place: \"Behold, I have made thee as the wheels of a thrashing chariot, new and turned back upon themselves;\" and thou shalt thrash the mountains, and shalt beat the hills small, and shalt make them as chaff, and shall winnow them; and the wind shall seize them, and the whirlwind shall scatter them: but thou shalt rejoice in the saints of Israel; and the poor and needy shall exult."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 5,
+                            "name": "Cyprian: Against the Jews Book II 5:11",
+                            "text": "For they shall seek water, and there shall be none."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 5,
+                            "name": "Cyprian: Against the Jews Book II 5:12",
+                            "text": "For their tongue shall be dry for thirst."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 5,
+                            "name": "Cyprian: Against the Jews Book II 5:13",
+                            "text": "I the Lord God, I the God of Israel, will hear them, and will not forsake them; but I will open rivers in the mountains, and fountains in the midst of the fields."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 5,
+                            "name": "Cyprian: Against the Jews Book II 5:14",
+                            "text": "I will make the wildernesses watery groves, and a thirsty land into watercourses."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 5,
+                            "name": "Cyprian: Against the Jews Book II 5:15",
+                            "text": "I will establish in the land of drought the cedar-tree and the box-tree, and the myrtle and the cypress, and the elm and the poplar, that they may see and acknowledge, and know and believe together, that the Hand of the Lord hath done these things, and the Holy One of Israel hath shown them\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 6,
+                    "name": "Cyprian: Against the Jews Book II 6",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 6,
+                            "name": "Cyprian: Against the Jews Book II 6:1",
+                            "text": "That Christ is at once Angel and God."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 6,
+                            "name": "Cyprian: Against the Jews Book II 6:2",
+                            "text": "In Genesis, to Abraham: \"And the Angel of the Lord called him from heaven, and said unto him, Abraham, Abraham! And he said, Here am I."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 6,
+                            "name": "Cyprian: Against the Jews Book II 6:3",
+                            "text": "And He said, Lay not thine hand upon the lad, neither do thou anything unto him."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 6,
+                            "name": "Cyprian: Against the Jews Book II 6:4",
+                            "text": "For now I know that thou fearest thy God, and hast not spared thy son, thy beloved son, for my sake\"."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 6,
+                            "name": "Cyprian: Against the Jews Book II 6:5",
+                            "text": "Also in the same place, to Jacob: \"And the Angel of the Lord spake unto me in dreams, I am God, whom thou sawest in the place of God where thou anointedst me a pillar of stone, and vowedst to me a vow\"."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 6,
+                            "name": "Cyprian: Against the Jews Book II 6:6",
+                            "text": "Also in Exodus: \"But God went before them by day indeed in a pillar of cloud, to show them the way; and by night in a pillar of fire\"."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 6,
+                            "name": "Cyprian: Against the Jews Book II 6:7",
+                            "text": "And afterwards, in the same place: \"And the Angel of God moved forward, which went before the army of the children of Israel\"."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 6,
+                            "name": "Cyprian: Against the Jews Book II 6:8",
+                            "text": "Also in the same place: \"Lo, I send my Angel before thy face, to keep thee in the way, that He may lead thee into the land which I have prepared for thee."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 6,
+                            "name": "Cyprian: Against the Jews Book II 6:9",
+                            "text": "Observe Him, and obey Him, and be not disobedient to Him, and He will not be wanting to thee."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 6,
+                            "name": "Cyprian: Against the Jews Book II 6:10",
+                            "text": "For my Name is in Him\"."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 6,
+                            "name": "Cyprian: Against the Jews Book II 6:11",
+                            "text": "Whence He Himself says in the Gospel: \"I came in the name of my Father, and ye received me not."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 6,
+                            "name": "Cyprian: Against the Jews Book II 6:12",
+                            "text": "When another shall come in his own name, him ye will receive\"."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 6,
+                            "name": "Cyprian: Against the Jews Book II 6:13",
+                            "text": "And again in the cxviith Psalm: \"Blessed is He who cometh in the name of the Lord\"."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 6,
+                            "name": "Cyprian: Against the Jews Book II 6:14",
+                            "text": "Also in Malachi: \"My covenant of life and peace was with Levi; and I gave him fear, that he should fear me, that he should go from the face of my name."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 6,
+                            "name": "Cyprian: Against the Jews Book II 6:15",
+                            "text": "The law of truth was in his mouth, and unrighteousness was not found in his lips."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 6,
+                            "name": "Cyprian: Against the Jews Book II 6:16",
+                            "text": "In the peace of the tongue correcting, he walked with us, and turned many away from unrighteousness."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 6,
+                            "name": "Cyprian: Against the Jews Book II 6:17",
+                            "text": "Because the lips of the priests shall keep knowledge, and they shall seek the law at His mouth; for He is the Angel of the Almighty\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 7,
+                    "name": "Cyprian: Against the Jews Book II 7",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 7,
+                            "name": "Cyprian: Against the Jews Book II 7:1",
+                            "text": "That Christ is God."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 7,
+                            "name": "Cyprian: Against the Jews Book II 7:2",
+                            "text": "In Genesis: \"And God said unto Jacob, Arise, and go up to the place of Bethel, and dwell there; and make there an altar to that God who appeared unto thee when thou fleddest from the face of thy brother Esau\"."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 7,
+                            "name": "Cyprian: Against the Jews Book II 7:3",
+                            "text": "Also in Isaiah: \"Thus saith the Lord, the God of Sabaoth, Egypt is wearied; and the merchandise of the Ethiopians, and the tall men of the Sabeans, shall pass over unto Thee, and shall be Thy servants; and shall walk after Thee bound with chains; and shall worship Thee, and shall pray to Thee, because God is in Thee, and there is no other God beside Thee."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 7,
+                            "name": "Cyprian: Against the Jews Book II 7:4",
+                            "text": "For Thou art God, and we knew it not, O God of Israel, our Saviour."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 7,
+                            "name": "Cyprian: Against the Jews Book II 7:5",
+                            "text": "They shall all be confounded and fear who oppose Thee, and shall fall into confusion\"."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 7,
+                            "name": "Cyprian: Against the Jews Book II 7:6",
+                            "text": "Likewise in the same: \"The voice of one crying in the wilderness, Prepare ye the way of the Lord, make straight the paths of our God."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 7,
+                            "name": "Cyprian: Against the Jews Book II 7:7",
+                            "text": "Every channel shall be filled up, and every mountain and hill shall be made low, and all crooked places shall be made straight, and rough places plain; and the glory of the Lord shall be seen, and all flesh shall see the salvation of God, because the Lord hath spoken it\"."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 7,
+                            "name": "Cyprian: Against the Jews Book II 7:8",
+                            "text": "Moreover, in Jeremiah: This is our God, and no other shall be esteemed beside Him, who hath found all the way of knowledge, and hath given it to Jacob His son, and to Israel His beloved."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 7,
+                            "name": "Cyprian: Against the Jews Book II 7:9",
+                            "text": "After this He was seen upon earth, and He conversed with men\"."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 7,
+                            "name": "Cyprian: Against the Jews Book II 7:10",
+                            "text": "Also in Zechariah God says: \"And they shall cross over through the narrow sea, and they shall smite the waves in the sea, and they shall dry up all the depths of the rivers; and all the haughtiness of the Assyrians shall be confounded, and the sceptre of Egypt shall be taken away."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 7,
+                            "name": "Cyprian: Against the Jews Book II 7:11",
+                            "text": "And I will strengthen them in the Lord their God, and in His name shall they glory, saith the Lord\"."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 7,
+                            "name": "Cyprian: Against the Jews Book II 7:12",
+                            "text": "Moreover, in Hosea the Lord saith: \"I will not do according to the anger of mine indignation, I will not allow Ephraim to be destroyed: for I am God, and there is not a holy man in thee: and I will not enter into the city; I will go after God\"."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 7,
+                            "name": "Cyprian: Against the Jews Book II 7:13",
+                            "text": "Also in the forty-fourth Psalm: \"Thy throne, O God, is for ever and ever: the sceptre of righteousness is the sceptre of Thy kingdom."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 7,
+                            "name": "Cyprian: Against the Jews Book II 7:14",
+                            "text": "Thou hast loved righteousness, and hated iniquity: wherefore God, Thy God, hath anointed Thee with the oil of gladness above Thy fellows\"."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 7,
+                            "name": "Cyprian: Against the Jews Book II 7:15",
+                            "text": "So, too, in the forty-fifth Psalm: \"Be still, and know that I am God."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 7,
+                            "name": "Cyprian: Against the Jews Book II 7:16",
+                            "text": "I will be exalted among the nations, and I will be exalted in the earth\"."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 7,
+                            "name": "Cyprian: Against the Jews Book II 7:17",
+                            "text": "Also in the eighty-first Psalm: \"They have not known, neither have they understood: they will walk on in darkness\"."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 7,
+                            "name": "Cyprian: Against the Jews Book II 7:18",
+                            "text": "Also in the sixty-seventh Psalm: \"Sing unto God, sing praises unto His name: make a way for Him who goeth up into the west: God is His name\"."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 7,
+                            "name": "Cyprian: Against the Jews Book II 7:19",
+                            "text": "Also in the Gospel according to John: \"In the beginning was the Word, and the Word was with God, and God was the Word\"."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 7,
+                            "name": "Cyprian: Against the Jews Book II 7:20",
+                            "text": "Also in the same: \"The Lord said to Thomas, Reach hither thy finger, and behold my hands: and be not faithless, but believing."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 7,
+                            "name": "Cyprian: Against the Jews Book II 7:21",
+                            "text": "Thomas answered and said unto Him, My Lord and my God."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 7,
+                            "name": "Cyprian: Against the Jews Book II 7:22",
+                            "text": "Jesus saith unto him, Because thou hast seen me, thou hast believed: blessed are they who have not seen, and yet have believed\"."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 7,
+                            "name": "Cyprian: Against the Jews Book II 7:23",
+                            "text": "Also Paul to the Romans: \"I could wish that I myself were accursed from Christ for my brethren and my kindred according to the flesh: who are Israelites: whose are the adoption, and the glory, and the covenant, and the appointment of the law, and the service (of God), and the promises; whose are the fathers, of whom, according to the flesh, Christ came, who is God over all, blessed for evermore\"."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 7,
+                            "name": "Cyprian: Against the Jews Book II 7:24",
+                            "text": "Also in the Apocalypse: \"I am Alpha and Omega, the beginning and the end: I will give to him that is athirst, of the fountain of living water freely."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 7,
+                            "name": "Cyprian: Against the Jews Book II 7:25",
+                            "text": "He that overcometh shall possess these things, and their inheritance; and I will be his God, and he shall be my son\"."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 7,
+                            "name": "Cyprian: Against the Jews Book II 7:26",
+                            "text": "Also in the eighty-first Psalm: \"God stood in the congregation of gods, and judging gods in the midst\"."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 7,
+                            "name": "Cyprian: Against the Jews Book II 7:27",
+                            "text": "And again in the same place: \"I have said, Ye are gods; and ye are all the children of the Highest: but ye shall die like men\"."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 7,
+                            "name": "Cyprian: Against the Jews Book II 7:28",
+                            "text": "But if they who have been righteous, and have obeyed the divine precepts, may be called gods, how much more is Christ, the Son of God, God! Thus He Himself says in the Gospel according to John: \"Is it not written in the law, that I said, Ye are gods? If He called them gods to whom the word of God was given, and the Scripture cannot be relaxed, do ye say to Him whom the Father hath sanctified and sent into the world, that thou blasphemest, because I said, I am the Son of God? But if I do not the works of my Father, believe me not; but if I do, and ye will not believe me, believe the works, and know that the Father is in me, and I in Him\"."
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 7,
+                            "name": "Cyprian: Against the Jews Book II 7:29",
+                            "text": "Also in the Gospel according to Matthew: \"And ye shall call His name Emmanuel, which is, being interpreted, God with us\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 8,
+                    "name": "Cyprian: Against the Jews Book II 8",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 8,
+                            "name": "Cyprian: Against the Jews Book II 8:1",
+                            "text": "That Christ our God should come, the Enlightener and Saviour of the human race."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 8,
+                            "name": "Cyprian: Against the Jews Book II 8:2",
+                            "text": "In Isaiah: \"Be comforted, ye weakened hands; and ye weak knees, be strengthened."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 8,
+                            "name": "Cyprian: Against the Jews Book II 8:3",
+                            "text": "Ye who are of a timorous heart, fear not."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 8,
+                            "name": "Cyprian: Against the Jews Book II 8:4",
+                            "text": "Our God will recompense judgment, He Himself will come, and will save us."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 8,
+                            "name": "Cyprian: Against the Jews Book II 8:5",
+                            "text": "Then shall be opened the eyes of the blind, and the ears of the deaf shall hear."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 8,
+                            "name": "Cyprian: Against the Jews Book II 8:6",
+                            "text": "Then the lame man shall leap as a stag, and the tongue of the dumb shall be intelligible; because in the wilderness the water is broken forth, and the stream in the thirsty land\"."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 8,
+                            "name": "Cyprian: Against the Jews Book II 8:7",
+                            "text": "Also in that place: \"Not an elder nor an angel, but the Lord Himself shall deliver them; because He shall love them, and shall spare them, and He Himself shall redeem them\"."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 8,
+                            "name": "Cyprian: Against the Jews Book II 8:8",
+                            "text": "Also in the same place: \"I the Lord God have called Thee in righteousness, that I may hold Thine hand, and I will comfort Thee; and I have given Thee for a covenant of my people, for a light of the nations; to open the eyes of the blind, to bring forth them that are bound from chains, and those who sit in darkness from the prison-house."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 8,
+                            "name": "Cyprian: Against the Jews Book II 8:9",
+                            "text": "I am the Lord God, that is my name."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 8,
+                            "name": "Cyprian: Against the Jews Book II 8:10",
+                            "text": "I will not give my glory to another, nor my powers to graven images\"."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 8,
+                            "name": "Cyprian: Against the Jews Book II 8:11",
+                            "text": "Also in the twenty-fourth Psalm: \"Show me Thy ways, O Lord, and teach me Thy paths, and lead me unto Thy truth, and teach me; for Thou art the God of my salvation\"."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 8,
+                            "name": "Cyprian: Against the Jews Book II 8:12",
+                            "text": "Whence, in the Gospel according to John, the Lord says: \"I am the light of the world."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 8,
+                            "name": "Cyprian: Against the Jews Book II 8:13",
+                            "text": "He that will follow me shall not walk in darkness, but shall have the light of life\"."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 8,
+                            "name": "Cyprian: Against the Jews Book II 8:14",
+                            "text": "Moreover, in that according to Matthew, the angel Gabriel says to Joseph: \"Joseph, thou son of David, fear not to take unto thee Mary thy wife."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 8,
+                            "name": "Cyprian: Against the Jews Book II 8:15",
+                            "text": "For that which shall be born to her is of the Holy Ghost."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 8,
+                            "name": "Cyprian: Against the Jews Book II 8:16",
+                            "text": "And she shall bring forth a son, and thou shalt call His name Jesus; for He shall save His people from their sins\"."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 8,
+                            "name": "Cyprian: Against the Jews Book II 8:17",
+                            "text": "Also in that according to Luke: \"And Zacharias was filled with the Holy Ghost, and prophesied, saying, Blessed be the Lord God of Israel, who hath foreseen redemption for His people, and hath raised up an horn of salvation for us in the house of His servant David\"."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 8,
+                            "name": "Cyprian: Against the Jews Book II 8:18",
+                            "text": "Also in the same place, the angel said to the shepherds: \"Fear not; for, behold, I bring you tidings that unto you is born this day in the city of David a Saviour, which is Christ Jesus\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 9,
+                    "name": "Cyprian: Against the Jews Book II 9",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 9,
+                            "name": "Cyprian: Against the Jews Book II 9:1",
+                            "text": "That although from the beginning He had been the Son of God, yet He had to be begotten again according to the flesh."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 9,
+                            "name": "Cyprian: Against the Jews Book II 9:2",
+                            "text": "In the second Psalm: \"The Lord said unto me, Thou art my Son; this day have I begotten Thee."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 9,
+                            "name": "Cyprian: Against the Jews Book II 9:3",
+                            "text": "Ask of me, and I will give Thee the nations for Thine inheritance, and the bounds of the earth for Thy possession\"."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 9,
+                            "name": "Cyprian: Against the Jews Book II 9:4",
+                            "text": "Also in the Gospel according to Luke: \"And it came to pass, when Elisabeth heard the salutation of Mary, the babe leaped in her womb; and she was filled with the Holy Ghost, and she cried out with a loud voice, and said, Blessed art thou among women, and blessed is the fruit of thy womb."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 9,
+                            "name": "Cyprian: Against the Jews Book II 9:5",
+                            "text": "And whence does this happen to me, that the mother of my Lord should come to me?\" Also Paul to the Galatians: \"But when the fulness of the time was come, God sent His Son, born of a woman\"."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 9,
+                            "name": "Cyprian: Against the Jews Book II 9:6",
+                            "text": "Also in the Epistle of John: \"Every spirit which confesses that Jesus Christ is come in the flesh is of God."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 9,
+                            "name": "Cyprian: Against the Jews Book II 9:7",
+                            "text": "But whosoever denies that He is come in the flesh is not of God, but is of the spirit of Antichrist\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 10,
+                    "name": "Cyprian: Against the Jews Book II 10",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 10,
+                            "name": "Cyprian: Against the Jews Book II 10:1",
+                            "text": "That this should be the sign of His nativity, that He should be born of a virgin—man and God—a son of man and a Son of God."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 10,
+                            "name": "Cyprian: Against the Jews Book II 10:2",
+                            "text": "In Isaiah: \"And the Lord went on to speak to Ahaz, saying, Ask thee a sign from the Lord thy God, in the height above and in the depth below."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 10,
+                            "name": "Cyprian: Against the Jews Book II 10:3",
+                            "text": "And Ahaz said, I will not ask, and I will not tempt the Lord my God."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 10,
+                            "name": "Cyprian: Against the Jews Book II 10:4",
+                            "text": "And He said, Hear ye, therefore, O house of David: it is no trifling contest unto you with men, since God supplies the struggle."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 10,
+                            "name": "Cyprian: Against the Jews Book II 10:5",
+                            "text": "On this account God Himself will give you a sign."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 10,
+                            "name": "Cyprian: Against the Jews Book II 10:6",
+                            "text": "Behold, a virgin shall conceive, and shall bear a son, and ye shall call His name Emmanuel."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 10,
+                            "name": "Cyprian: Against the Jews Book II 10:7",
+                            "text": "Butter and honey shall He eat; before that He knows to prefer the evil, He shall exchange the good\"."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 10,
+                            "name": "Cyprian: Against the Jews Book II 10:8",
+                            "text": "This seed God had foretold would proceed from the woman that should trample on the head of the devil."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 10,
+                            "name": "Cyprian: Against the Jews Book II 10:9",
+                            "text": "In Genesis: \"Then God said unto the serpent, Because thou hast done this, cursed art thou from every kind of the beasts of the earth."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 10,
+                            "name": "Cyprian: Against the Jews Book II 10:10",
+                            "text": "Upon thy breast and thy belly shalt thou crawl, and earth shall be thy food all the days of thy life."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 10,
+                            "name": "Cyprian: Against the Jews Book II 10:11",
+                            "text": "And I will place enmity between thee and the woman and her seed."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 10,
+                            "name": "Cyprian: Against the Jews Book II 10:12",
+                            "text": "He shall regard thy head, and thou shalt watch his heel\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 11,
+                    "name": "Cyprian: Against the Jews Book II 11",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 11,
+                            "name": "Cyprian: Against the Jews Book II 11:1",
+                            "text": "That Christ is both man and God, compounded of both natures, that He might be a Mediator between us and the Father."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 11,
+                            "name": "Cyprian: Against the Jews Book II 11:2",
+                            "text": "In Jeremiah: \"And He is man, and who shall know Him?\" Also in Numbers: \"A Star shall arise out of Jacob, and a man shall rise up from Israel\"."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 11,
+                            "name": "Cyprian: Against the Jews Book II 11:3",
+                            "text": "Also in the same place: \"A Man shall go forth out of his seed, and shall rule over many nations; and His kingdom shall be exalted as Gog, and His kingdom shall be increased; and God brought Him forth out of Egypt."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 11,
+                            "name": "Cyprian: Against the Jews Book II 11:4",
+                            "text": "His glory is as of the unicorn, and He shall eat the nations of His enemies, and shall take out the marrow of their fatnesses, and will pierce His enemy with His arrows."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 11,
+                            "name": "Cyprian: Against the Jews Book II 11:5",
+                            "text": "He couched and lay down as a lion, and as a lion's whelp."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 11,
+                            "name": "Cyprian: Against the Jews Book II 11:6",
+                            "text": "Who shall raise Him up? Blessed are they who bless Thee, and cursed are they who curse Thee\"."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 11,
+                            "name": "Cyprian: Against the Jews Book II 11:7",
+                            "text": "Also in Isaiah: \"The Spirit of the Lord is upon me; on account whereof He hath anointed me: He hath sent me to tell good tidings to the poor; to heal the bruised in heart, to preach deliverance to the captives, and sight to the blind, to proclaim the acceptable year of the Lord, and the day of retribution\"."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 11,
+                            "name": "Cyprian: Against the Jews Book II 11:8",
+                            "text": "Whence, in the Gospel according to Luke, Gabriel says to Mary: \"And the angel, answering, said to her, The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 11,
+                            "name": "Cyprian: Against the Jews Book II 11:9",
+                            "text": "Wherefore that holy thing which is born of thee shall be called the Son of God\"."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 11,
+                            "name": "Cyprian: Against the Jews Book II 11:10",
+                            "text": "Also in the first Epistle of Paul to the Corinthians: \"The first man is of the mud of the earth; the second man is from heaven."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 11,
+                            "name": "Cyprian: Against the Jews Book II 11:11",
+                            "text": "As was he from the soil, such are they also that are of the earth; and as is the heavenly, such also are the heavenly."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 11,
+                            "name": "Cyprian: Against the Jews Book II 11:12",
+                            "text": "As we have borne the image of him who is of the earth, let us also bear the image of Him who is from heaven\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 12,
+                    "name": "Cyprian: Against the Jews Book II 12",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 12,
+                            "name": "Cyprian: Against the Jews Book II 12:1",
+                            "text": "That Christ was to be born of the seed of David, according to the flesh."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 12,
+                            "name": "Cyprian: Against the Jews Book II 12:2",
+                            "text": "In the second of Kings: \"And the word of the Lord came to Nathan, saying, Go and tell my servant David, Thus saith the Lord, Thou shalt not build me an house to dwell in; but it shall come to pass, when thy days shall be fulfilled, and thou shalt sleep with thy fathers, I will raise up thy seed after thee who shall come from thy loins, and I will establish His kingdom."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 12,
+                            "name": "Cyprian: Against the Jews Book II 12:3",
+                            "text": "He shall build me a house in my name, and I will set up His throne for ever; and I will be to Him a Father, and He shall be to me a Son; and His house shall obtain confidence, and His kingdom for ever in my sight\"."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 12,
+                            "name": "Cyprian: Against the Jews Book II 12:4",
+                            "text": "Also in Isaiah: \"And a rod shall go forth of the root of Jesse, and a flower shall go up from his root; and the Spirit of the Lord shall rest upon Him, the spirit of wisdom and of understanding, the spirit of counsel and might, the spirit of knowledge and piety; and the spirit of the fear of the Lord shall fill Him\"."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 12,
+                            "name": "Cyprian: Against the Jews Book II 12:5",
+                            "text": "Also in the cxxxist Psalm: \"God hath sworn the truth unto David himself, and He has not repudiated it; of the fruit of thy belly will I set upon my throne\"."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 12,
+                            "name": "Cyprian: Against the Jews Book II 12:6",
+                            "text": "Also in the Gospel according to Luke: \"And the angel said unto her, Fear not, Mary."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 12,
+                            "name": "Cyprian: Against the Jews Book II 12:7",
+                            "text": "For thou hast found favour before God."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 12,
+                            "name": "Cyprian: Against the Jews Book II 12:8",
+                            "text": "Behold, thou shalt conceive, and shalt bring forth a son, and shalt call His name Jesus."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 12,
+                            "name": "Cyprian: Against the Jews Book II 12:9",
+                            "text": "The same shall be great, and He shall be called the Son of the Highest; and the Lord God shall give Him the throne of His father David, and He shall reign over the house of Jacob for ever, and of His kingdom there shall be no end\"."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 12,
+                            "name": "Cyprian: Against the Jews Book II 12:10",
+                            "text": "Also in the Apocalypse: \"And I saw in the right hand of God, who sate on the throne, a book written within, and on the back sealed with seven seals; and I saw a strong angel proclaiming with a loud voice, Who is worthy to receive the book, and to open its seals? Nor was there any one either in heaven or upon the earth, or under the earth, who was able to open the book, nor even to look into it."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 12,
+                            "name": "Cyprian: Against the Jews Book II 12:11",
+                            "text": "And I wept much because nobody was found worthy to open the book, nor to look into it."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 12,
+                            "name": "Cyprian: Against the Jews Book II 12:12",
+                            "text": "And one of the elders said unto me, Weep not; behold, the Lion of the tribe of Judah, the Root of David, hath prevailed to open the book, and to loose its seven seals\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 13,
+                    "name": "Cyprian: Against the Jews Book II 13",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 13,
+                            "name": "Cyprian: Against the Jews Book II 13:1",
+                            "text": "That Christ should be born in Bethlehem."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 13,
+                            "name": "Cyprian: Against the Jews Book II 13:2",
+                            "text": "In Micah: \"And thou, Bethlehem, house of Ephrata, art not little, that thou shouldst be appointed among the thousands of Judah."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 13,
+                            "name": "Cyprian: Against the Jews Book II 13:3",
+                            "text": "Out of thee shall He come forth to me, that He may be a prince in Israel, and His goings forth from the beginning from the days of old\"."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 13,
+                            "name": "Cyprian: Against the Jews Book II 13:4",
+                            "text": "Also in the Gospel: \"And when Jesus was born in Bethlehem of Judah, in the days of Herod the king, behold, Magi came from the east to Jerusalem, saying, Where is He that is born King of the Jews? For we have seen His star in the east, and we have come with gifts to worship Him\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 14,
+                    "name": "Cyprian: Against the Jews Book II 14",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 14,
+                            "name": "Cyprian: Against the Jews Book II 14:1",
+                            "text": "That Christ was to come in low estate in His first advent."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 14,
+                            "name": "Cyprian: Against the Jews Book II 14:2",
+                            "text": "In Isaiah: \"Lord, who hath believed our report, and to whom is the Arm of the Lord revealed? We have declared in His presence as children, as a root in a thirsty ground."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 14,
+                            "name": "Cyprian: Against the Jews Book II 14:3",
+                            "text": "There is no form nor glory in Him; and we saw Him, and He had no form nor beauty; but His form was without honour, and lacking beyond other men."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 14,
+                            "name": "Cyprian: Against the Jews Book II 14:4",
+                            "text": "He was a man set in a plague, and knowing how to bear weakness; because His face was turned away, He was dishonoured, and was not accounted of."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 14,
+                            "name": "Cyprian: Against the Jews Book II 14:5",
+                            "text": "He bears our sins, and grieves for us; and we thought that He was in grief, and in wounding, and in affliction; but He was wounded for our transgressions, and He was weakened for our sins."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 14,
+                            "name": "Cyprian: Against the Jews Book II 14:6",
+                            "text": "The discipline of our peace was upon Him, and with His bruise we are healed."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 14,
+                            "name": "Cyprian: Against the Jews Book II 14:7",
+                            "text": "We all like sheep have gone astray; man has gone out of his way."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 14,
+                            "name": "Cyprian: Against the Jews Book II 14:8",
+                            "text": "And God has delivered Him for our sins; and He, because He was afflicted, opened not His mouth\"."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 14,
+                            "name": "Cyprian: Against the Jews Book II 14:9",
+                            "text": "Also in the same: \"I am not rebellious, nor do I contradict."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 14,
+                            "name": "Cyprian: Against the Jews Book II 14:10",
+                            "text": "I gave my back to the stripes, and my cheeks to the palms of the hands."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 14,
+                            "name": "Cyprian: Against the Jews Book II 14:11",
+                            "text": "Moreover, I did not turn away my face from the foulness of spitting, and God was my helper\"."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 14,
+                            "name": "Cyprian: Against the Jews Book II 14:12",
+                            "text": "Also in the same: \"He shall not cry, nor will any one hear His voice in the streets."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 14,
+                            "name": "Cyprian: Against the Jews Book II 14:13",
+                            "text": "He shall not break a bruised reed, and a smoking flax He shall not extinguish; but He shall bring forth judgment in truth."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 14,
+                            "name": "Cyprian: Against the Jews Book II 14:14",
+                            "text": "He shall shine forth, and shall not be shaken, until He set judgment in the earth, and in His name shall the nations trust\"."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 14,
+                            "name": "Cyprian: Against the Jews Book II 14:15",
+                            "text": "Also in the twenty-first Psalm: \"But I am a worm, and no man; the accursed of man, and the casting away of the people."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 14,
+                            "name": "Cyprian: Against the Jews Book II 14:16",
+                            "text": "All they who saw me despised me, and spoke within their lips, and moved their head."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 14,
+                            "name": "Cyprian: Against the Jews Book II 14:17",
+                            "text": "He hoped in the Lord, let Him deliver him; let Him save him, since he will have Him\"."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 14,
+                            "name": "Cyprian: Against the Jews Book II 14:18",
+                            "text": "Also in that place: \"My strength is dried up like a potsherd, and my tongue is glued to my jaws\"."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 14,
+                            "name": "Cyprian: Against the Jews Book II 14:19",
+                            "text": "Also in Zechariah: \"And the Lord showed me Jesus, that great priest, standing before the face of the Angel of the Lord, and the devil was standing at his right hand to oppose him."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 14,
+                            "name": "Cyprian: Against the Jews Book II 14:20",
+                            "text": "And Jesus was clothed in filthy garments, and he stood before the face of the Angel Himself; and He answered and said to them who were standing before His face, saying, Take away his filthy garments from him."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 14,
+                            "name": "Cyprian: Against the Jews Book II 14:21",
+                            "text": "And he said to him, Behold, I have taken away thine iniquities."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 14,
+                            "name": "Cyprian: Against the Jews Book II 14:22",
+                            "text": "And put upon him a priestly garment, and set a fair mitre upon his head\"."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 14,
+                            "name": "Cyprian: Against the Jews Book II 14:23",
+                            "text": "Also Paul to the Philippians: \"Who, being established in the form of God, thought it not robbery that He was equal with God, but emptied Himself, taking the form of a servant, and was made in the likeness of men; and being found in fashion as a man, He humbled Himself, becoming obedient even unto death, even the death of the cross."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 14,
+                            "name": "Cyprian: Against the Jews Book II 14:24",
+                            "text": "Wherefore also God exalted Him, and gave Him a name which is above every name, that in the name of Jesus every knee should bow, of things in heaven, of things in earth, and of infernal things, and every tongue should confess that Jesus Christ is Lord in the glory of God the Father\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 15,
+                    "name": "Cyprian: Against the Jews Book II 15",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 15,
+                            "name": "Cyprian: Against the Jews Book II 15:1",
+                            "text": "That He is the righteous One whom the Jews should put to death."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 15,
+                            "name": "Cyprian: Against the Jews Book II 15:2",
+                            "text": "In the Wisdom of Solomon: \"Let us lay hold of the righteous, because He is disagreeable to us, and is contrary to our works, and reproacheth us with our transgressions of the law."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 15,
+                            "name": "Cyprian: Against the Jews Book II 15:3",
+                            "text": "He professeth that He has the knowledge of God, and calls Himself the Son of God; He has become to us an exposure of our thoughts; He is grievous unto us even to look upon, because His life is unlike to others, and His ways are changed."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 15,
+                            "name": "Cyprian: Against the Jews Book II 15:4",
+                            "text": "We are esteemed by Him as frivolous, and He restraineth Himself from our ways, as if from uncleanness; and He extols the last end of the righteous, and boasts that He has God for His Father."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 15,
+                            "name": "Cyprian: Against the Jews Book II 15:5",
+                            "text": "Let us see, then, if His words are true, and let us try what will come to Him."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 15,
+                            "name": "Cyprian: Against the Jews Book II 15:6",
+                            "text": "Let us interrogate Him with reproach and torture, that we may know His reverence and prove His patience."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 15,
+                            "name": "Cyprian: Against the Jews Book II 15:7",
+                            "text": "Let us condemn Him with a most shameful death."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 15,
+                            "name": "Cyprian: Against the Jews Book II 15:8",
+                            "text": "These things they considered, and erred."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 15,
+                            "name": "Cyprian: Against the Jews Book II 15:9",
+                            "text": "For their maliciousness hath blinded them, and they knew not the sacraments of God\"."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 15,
+                            "name": "Cyprian: Against the Jews Book II 15:10",
+                            "text": "Also in Isaiah: \"See ye how the righteous perisheth, and no man understandeth; and righteous men are taken away, and no man regardeth."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 15,
+                            "name": "Cyprian: Against the Jews Book II 15:11",
+                            "text": "For the righteous man is taken away from the face of unrighteousness, and his burial shall be in peace\"."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 15,
+                            "name": "Cyprian: Against the Jews Book II 15:12",
+                            "text": "Concerning this very thing it was before foretold in Exodus: \"Thou shalt not slay the innocent and the righteous\"."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 15,
+                            "name": "Cyprian: Against the Jews Book II 15:13",
+                            "text": "Also in the Gospel: \"Judas, led by penitence, said to the priests and elders, I have sinned, in that I have betrayed the innocent blood\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 16,
+                    "name": "Cyprian: Against the Jews Book II 16",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 16,
+                            "name": "Cyprian: Against the Jews Book II 16:1",
+                            "text": "That Christ is called a sheep and a lamb who was to be slain, and concerning the sacrament (mystery) of the passion."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 16,
+                            "name": "Cyprian: Against the Jews Book II 16:2",
+                            "text": "In Isaiah: \"He was led as a sheep to the slaughter, and as a lamb before his shearer is dumb, so He opened not His mouth."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 16,
+                            "name": "Cyprian: Against the Jews Book II 16:3",
+                            "text": "In His humiliation His judgment was taken away: who shall relate His nativity? Because His life shall be taken away from the earth."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 16,
+                            "name": "Cyprian: Against the Jews Book II 16:4",
+                            "text": "By the transgressions of my people He was led to death; and I will give the wicked for His burial, and the rich themselves for His death; because He did no wickedness, nor deceits with His mouth."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 16,
+                            "name": "Cyprian: Against the Jews Book II 16:5",
+                            "text": "Wherefore He shall gain many, and shall divide the spoils of the strong; because His soul was delivered up to death, and He was counted among transgressors."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 16,
+                            "name": "Cyprian: Against the Jews Book II 16:6",
+                            "text": "And He bare the sins of many, and was delivered for their offences\"."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 16,
+                            "name": "Cyprian: Against the Jews Book II 16:7",
+                            "text": "Also in Jeremiah: \"Lord, give me knowledge, and I shall know it: then I saw their meditations."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 16,
+                            "name": "Cyprian: Against the Jews Book II 16:8",
+                            "text": "I was led like a lamb without malice to the slaughter; against me they devised a device, saying, Come, let us cast the tree into His bread, and let us erase His life from the earth, and His name shall no more be a remembrance\"."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 16,
+                            "name": "Cyprian: Against the Jews Book II 16:9",
+                            "text": "Also in Exodus God said to Moses: \"Let them take to themselves each man a sheep, through the houses of the tribes, a sheep without blemish, perfect, male, of a year old it shall be to you."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 16,
+                            "name": "Cyprian: Against the Jews Book II 16:10",
+                            "text": "Ye shall take it from the lambs and from the goats, and all the congregation of the synagogue of the children of Israel shall kill it in the evening; and they shall take of its blood, and shall place it upon the two posts, and upon the threshold in the houses, in the very houses in which they shall eat it."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 16,
+                            "name": "Cyprian: Against the Jews Book II 16:11",
+                            "text": "And they shall eat the flesh on the same night, roasted with fire; and they shall eat unleavened bread with bitter herbs."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 16,
+                            "name": "Cyprian: Against the Jews Book II 16:12",
+                            "text": "Ye shall not eat of them raw nor dressed in water, but roasted with fire; the head with the feet and the inward parts."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 16,
+                            "name": "Cyprian: Against the Jews Book II 16:13",
+                            "text": "Ye shall leave nothing of them to the morning; and ye shall not break a bone of it."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 16,
+                            "name": "Cyprian: Against the Jews Book II 16:14",
+                            "text": "But what of it shall be left to the morning shall be burnt with fire."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 16,
+                            "name": "Cyprian: Against the Jews Book II 16:15",
+                            "text": "But thus ye shall eat it; your loins girt, and your sandals on your feet, and your staff in your hands; and ye shall eat it in haste: for it is the Lord's passover\"."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 16,
+                            "name": "Cyprian: Against the Jews Book II 16:16",
+                            "text": "Also in the Apocalypse: \"And I saw in the midst of the throne, and of the four living creatures, and in the midst of the elders, a Lamb standing as if slain, having seven horns and seven eyes, which are the seven spirits of God sent forth throughout all the earth."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 16,
+                            "name": "Cyprian: Against the Jews Book II 16:17",
+                            "text": "And He came and took the book from the right hand of God, who sate on the throne."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 16,
+                            "name": "Cyprian: Against the Jews Book II 16:18",
+                            "text": "And when He had taken the book, the four living creatures and the four and twenty elders cast themselves before the Lamb, having every one of them harps and golden cups full of odours of supplications, which are the prayers of the saints; and they sang a new song, saying, Worthy art Thou, O Lord, to take the book, and to open its seals: for Thou wast slain, and hast redeemed us with Thy blood from every tribe, and tongue, and people, and nation; and Thou hast made us a kingdom unto our God, and hast made us priests, and they shall reign upon the earth\"."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 16,
+                            "name": "Cyprian: Against the Jews Book II 16:19",
+                            "text": "Also in the Gospel: \"On the next day John saw Jesus coming to him, and saith, Behold the Lamb of God, and behold Him that taketh away the sins of the world!\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 17,
+                    "name": "Cyprian: Against the Jews Book II 17",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 17,
+                            "name": "Cyprian: Against the Jews Book II 17:1",
+                            "text": "That Christ also is called a Stone."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 17,
+                            "name": "Cyprian: Against the Jews Book II 17:2",
+                            "text": "In Isaiah: \"Thus saith the Lord, Behold, I place on the foundations of Sion a precious stone, elect, chief, a corner stone, honourable; and he who trusteth in Him shall not be confounded\"."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 17,
+                            "name": "Cyprian: Against the Jews Book II 17:3",
+                            "text": "Also in the cxviith Psalm: \"The stone which the builders rejected, the same is become the head of the corner."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 17,
+                            "name": "Cyprian: Against the Jews Book II 17:4",
+                            "text": "This is done by the Lord, and it is wonderful in our eyes."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 17,
+                            "name": "Cyprian: Against the Jews Book II 17:5",
+                            "text": "This is the day which the Lord hath made; let us rejoice and be glad in it."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 17,
+                            "name": "Cyprian: Against the Jews Book II 17:6",
+                            "text": "O Lord, save therefore, O Lord, direct therefore."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 17,
+                            "name": "Cyprian: Against the Jews Book II 17:7",
+                            "text": "Blessed is He who cometh in the name of the Lord\"."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 17,
+                            "name": "Cyprian: Against the Jews Book II 17:8",
+                            "text": "Also in Zechariah: \"Behold, I bring forth my servant."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 17,
+                            "name": "Cyprian: Against the Jews Book II 17:9",
+                            "text": "The Orient is his name, because the stone which I have placed before the face of Jesus; upon that one stone are seven eyes\"."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 17,
+                            "name": "Cyprian: Against the Jews Book II 17:10",
+                            "text": "Also in Deuteronomy: \"And thou shalt write upon the stone all this law, very plainly\"."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 17,
+                            "name": "Cyprian: Against the Jews Book II 17:11",
+                            "text": "Also in Jesus the son of Nave: \"And he took a great stone, and placed it there before the Lord; and Jesus said unto the people, Behold, this stone shall be to you for a testimony, because it hath heard all the things which were spoken by the Lord, which He hath spoken to you to-day; and it shall be for a testimony to you in the last of the days, when ye shall have departed from your God\"."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 17,
+                            "name": "Cyprian: Against the Jews Book II 17:12",
+                            "text": "Also in the Acts of the Apostles, Peter: \"Ye princes of the people, and elders of Israel, hearken: Behold, we are this day interrogated by you about the good deed done to the impotent man, by means of which he is made whole."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 17,
+                            "name": "Cyprian: Against the Jews Book II 17:13",
+                            "text": "Be it known unto you all, and to all the people of Israel, that in the name of Jesus Christ of Nazareth, whom ye have crucified, whom God hath raised up from the dead, by Him he stands whole in your presence, but by none other."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 17,
+                            "name": "Cyprian: Against the Jews Book II 17:14",
+                            "text": "This is the stone which was despised by you builders, which has become the head of the corner."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 17,
+                            "name": "Cyprian: Against the Jews Book II 17:15",
+                            "text": "For there is no other name given to men under heaven in which we must be saved\"."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 17,
+                            "name": "Cyprian: Against the Jews Book II 17:16",
+                            "text": "This is the stone in Genesis, which Jacob places at his head, because the head of the man is Christ; and as he slept he saw a ladder reaching to heaven, on which the Lord was placed, and angels were ascending and descending."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 17,
+                            "name": "Cyprian: Against the Jews Book II 17:17",
+                            "text": "And this stone he designating Christ consecrated and anointed with the sacrament of unction."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 17,
+                            "name": "Cyprian: Against the Jews Book II 17:18",
+                            "text": "This is the stone in Exodus upon which Moses sate on the top of a hill when Jesus the son of Nave fought against Amalek; and by the sacrament of the stone, and the stedfastness of his sitting, Amalek was overcome by Jesus, that is, the devil was overcome by Christ."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 17,
+                            "name": "Cyprian: Against the Jews Book II 17:19",
+                            "text": "This is the great stone in the first book of Kings, upon which was placed the ark of the covenant when the oxen brought it back in the cart, sent back and returned by the strangers."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 17,
+                            "name": "Cyprian: Against the Jews Book II 17:20",
+                            "text": "Also, this is the stone in the first book of Kings, with which David smote the forehead of Goliath and slew him; signifying that the devil and his servants are thereby thrown down—that part of the head, namely, being conquered which they have not had sealed."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 17,
+                            "name": "Cyprian: Against the Jews Book II 17:21",
+                            "text": "And by this seal we also are always safe and live."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 17,
+                            "name": "Cyprian: Against the Jews Book II 17:22",
+                            "text": "This is the stone which, when Israel had conquered the aliens, Samuel set up and called its name Ebenezer; that is, the stone that helpeth."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 18,
+                    "name": "Cyprian: Against the Jews Book II 18",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 18,
+                            "name": "Cyprian: Against the Jews Book II 18:1",
+                            "text": "That afterwards this Stone should become a mountain, and should fill the whole earth."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 18,
+                            "name": "Cyprian: Against the Jews Book II 18:2",
+                            "text": "In Daniel: \"And behold a very great image; and the aspect of this image was fearful, and it stood erect before thee; whose head was of fine gold, its breast and arms were silver, its belly and thighs were of brass, and its feet were partly indeed of iron, and partly of clay, until that a stone was cut out of the mountain, without the hands of those that should cut it, and struck the image upon the feet of iron and clay, and brake them into small fragments."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 18,
+                            "name": "Cyprian: Against the Jews Book II 18:3",
+                            "text": "And the iron, and the clay, and the brass, and the silver, and the gold, was made altogether; and they became small as chaff, or dust in the threshing-floor in summer; and the wind blew them away, so that nothing remained of them."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 18,
+                            "name": "Cyprian: Against the Jews Book II 18:4",
+                            "text": "And the stone which struck the image became a great mountain, and filled the whole earth\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 19,
+                    "name": "Cyprian: Against the Jews Book II 19",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 19,
+                            "name": "Cyprian: Against the Jews Book II 19:1",
+                            "text": "That in the last times the same mountain should be manifested, and upon it the Gentiles should come, and on it all the righteous should go up."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 19,
+                            "name": "Cyprian: Against the Jews Book II 19:2",
+                            "text": "In Isaiah: \"In the last times the mountain of the Lord shall be revealed, and the house of God upon the tops of the mountains; and it shall be exalted above the hills, and all nations shall come upon it, and many shall walk and say, Come, and let us go up into the mountain of the Lord, and into the house of the God of Jacob; and He will tell us His way, and we will walk in it."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 19,
+                            "name": "Cyprian: Against the Jews Book II 19:3",
+                            "text": "For from Sion shall proceed the law, and the word of the Lord from Jerusalem; and He shall judge among the nations, and shall rebuke much people; and they shall beat their swords into ploughshares, and their spears into pruning-hooks, and they shall no more learn to fight\"."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 19,
+                            "name": "Cyprian: Against the Jews Book II 19:4",
+                            "text": "Also in the twenty-third Psalm: \"Who shall ascend into the hill of the Lord, or who shall stand in His holy place? He that is innocent in his hands, and of a clean heart; who hath not received his life in vanity, and hath not sworn craftily to his neighbour."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 19,
+                            "name": "Cyprian: Against the Jews Book II 19:5",
+                            "text": "He shall receive the blessing from the Lord, and mercy from the God that saveth him."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 19,
+                            "name": "Cyprian: Against the Jews Book II 19:6",
+                            "text": "This is the generation of those who seek Him, that seek the face of the God of Jacob\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 20,
+                    "name": "Cyprian: Against the Jews Book II 20",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 20,
+                            "name": "Cyprian: Against the Jews Book II 20:1",
+                            "text": "That Christ is the Bridegroom, having the Church as His bride, from which spiritual children were to be born."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 20,
+                            "name": "Cyprian: Against the Jews Book II 20:2",
+                            "text": "In Joel: \"Blow with the trumpet in Sion; sanctify a fast, and call a healing; assemble the people, sanctify the Church, gather the elders, collect the little ones that suck the breast; let the Bridegroom go forth of His chamber, and the bride out of her closet\"."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 20,
+                            "name": "Cyprian: Against the Jews Book II 20:3",
+                            "text": "Also in Jeremiah: \"And I will take away from the cities of Judah, and from the streets of Jerusalem, the voice of the joyous, and the voice of the glad; the voice of the bridegroom, and the voice of the bride\"."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 20,
+                            "name": "Cyprian: Against the Jews Book II 20:4",
+                            "text": "Also in the eighteenth Psalm: \"And he is as a bridegroom going forth from his chamber; he exulted as a giant to run his course."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 20,
+                            "name": "Cyprian: Against the Jews Book II 20:5",
+                            "text": "From the height of heaven is his going forth, and his circuit even to the end of it; and there is nothing which is hid from his heat\"."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 20,
+                            "name": "Cyprian: Against the Jews Book II 20:6",
+                            "text": "Also in the Apocalypse: \"Come, I will show thee the new bride, the Lamb's wife."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 20,
+                            "name": "Cyprian: Against the Jews Book II 20:7",
+                            "text": "And he took me in the Spirit to a great mountain, and he showed me the holy city Jerusalem descending out of heaven from God, having the glory of God\"."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 20,
+                            "name": "Cyprian: Against the Jews Book II 20:8",
+                            "text": "Also in the Gospel according to John: \"Ye are my witnesses, that I said to them who were sent from Jerusalem to me, that I am not the Christ, but that I am sent before Him."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 20,
+                            "name": "Cyprian: Against the Jews Book II 20:9",
+                            "text": "For he who has the bride is the bridegroom; but the friend of the bridegroom is he who standeth and heareth him with joy, and rejoiceth because of the voice of the bridegroom\"."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 20,
+                            "name": "Cyprian: Against the Jews Book II 20:10",
+                            "text": "The mystery of this matter was shown in Jesus the son of Nave, when he was bidden to put his shoes from off him, doubtless because he himself was not the bridegroom."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 20,
+                            "name": "Cyprian: Against the Jews Book II 20:11",
+                            "text": "For it was in the law, that whoever should refuse marriage should put off his shoe, but that he should be shod who was to be the bridegroom: \"And it happened, when Jesus was in Jericho, he looked around with his eyes, and saw a man standing before his face, and holding a javelin in his hand, and said, Art thou for us or for our enemies? And he said, I am the leader of the host of the Lord; now draw near."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 20,
+                            "name": "Cyprian: Against the Jews Book II 20:12",
+                            "text": "And Jesus fell on his face to the earth, and said to him, Lord, what dost Thou command unto Thy servant."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 20,
+                            "name": "Cyprian: Against the Jews Book II 20:13",
+                            "text": "And the leader of the Lord's host said, Loose thy shoe from thy feet, for the place whereon thou standest is holy ground\"."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 20,
+                            "name": "Cyprian: Against the Jews Book II 20:14",
+                            "text": "Also, in Exodus, Moses is bidden to put off his shoe, because he, too, was not the bridegroom: \"And there appeared unto him the angel of the Lord in a flame of fire out of a bush; and he saw that the bush burned with fire, but the bush was not consumed."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 20,
+                            "name": "Cyprian: Against the Jews Book II 20:15",
+                            "text": "And Moses said, I will pass over and see this great sight, why the bush is not consumed."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 20,
+                            "name": "Cyprian: Against the Jews Book II 20:16",
+                            "text": "But when He saw that he drew near to see, the Lord God called him from the bush, saying, Moses, Moses."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 20,
+                            "name": "Cyprian: Against the Jews Book II 20:17",
+                            "text": "And he said, What is it? And He said, Draw not nigh hither, unless thou hast loosed thy shoe from off thy feet; for the place on which thou standest is holy ground."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 20,
+                            "name": "Cyprian: Against the Jews Book II 20:18",
+                            "text": "And He said unto him, I am the God of thy father, the God of Abraham, and the God of Isaac, and the God of Jacob\"."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 20,
+                            "name": "Cyprian: Against the Jews Book II 20:19",
+                            "text": "This was also made plain in the Gospel according to John: \"And John answered them, I indeed baptize with water, but there standeth One in the midst of you whom ye know not: He it is of whom I said, The man that cometh after me is made before me, the latchet of whose shoe I am not worthy to unloose\"."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 20,
+                            "name": "Cyprian: Against the Jews Book II 20:20",
+                            "text": "Also according to Luke: \"Let your loins be girt, and your lamps burning, and ye like to men that wait for their master when he shall come from the wedding, that when he cometh and knocketh, they may open unto him."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 20,
+                            "name": "Cyprian: Against the Jews Book II 20:21",
+                            "text": "Blessed are those servants whom their Lord, when He cometh, shall find watching\"."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 20,
+                            "name": "Cyprian: Against the Jews Book II 20:22",
+                            "text": "Also in the Apocalypse: \"The Lord God omnipotent reigneth: let us be glad and rejoice, and let us give to Him the honour of glory; for the marriage of the Lamb is come, and His wife hath made herself ready\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 21,
+                    "name": "Cyprian: Against the Jews Book II 21",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 21,
+                            "name": "Cyprian: Against the Jews Book II 21:1",
+                            "text": "That the Jews would fasten Christ to the cross."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 21,
+                            "name": "Cyprian: Against the Jews Book II 21:2",
+                            "text": "In Isaiah: \"I have spread out my hands all day to a people disobedient and contradicting me, who walk in ways that are not good, but after their own sins\"."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 21,
+                            "name": "Cyprian: Against the Jews Book II 21:3",
+                            "text": "Also in Jeremiah: \"Come, let us cast the tree into His bread, and let us blot out His life from the earth\"."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 21,
+                            "name": "Cyprian: Against the Jews Book II 21:4",
+                            "text": "Also in Deuteronomy: \"And Thy life shall be hanging (in doubt) before Thine eyes; and Thou shalt fear day and night, and shalt not trust to Thy life\"."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 21,
+                            "name": "Cyprian: Against the Jews Book II 21:5",
+                            "text": "Also in the twenty-first Psalm: \"They tore my hands and my feet; they numbered all my bones."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 21,
+                            "name": "Cyprian: Against the Jews Book II 21:6",
+                            "text": "And they gazed upon me, and saw me, and divided my garments among them, and upon my vesture they cast a lot."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 21,
+                            "name": "Cyprian: Against the Jews Book II 21:7",
+                            "text": "But Thou, O Lord, remove not Thy help far from me; attend unto my help."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 21,
+                            "name": "Cyprian: Against the Jews Book II 21:8",
+                            "text": "Deliver my soul from the sword, and my only one from the paw of the dog."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 21,
+                            "name": "Cyprian: Against the Jews Book II 21:9",
+                            "text": "Save me from the mouth of the lion, and my lowliness from the horns of the unicorns."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 21,
+                            "name": "Cyprian: Against the Jews Book II 21:10",
+                            "text": "I will declare Thy name unto my brethren; in the midst of the Church I will praise Thee\"."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 21,
+                            "name": "Cyprian: Against the Jews Book II 21:11",
+                            "text": "Also in the cxviiith Psalm: \"Pierce my flesh with nails through fear of Thee\"."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 21,
+                            "name": "Cyprian: Against the Jews Book II 21:12",
+                            "text": "Also in the cxlth Psalm: \"The lifting up of my hands is an evening sacrifice\"."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 21,
+                            "name": "Cyprian: Against the Jews Book II 21:13",
+                            "text": "Of which sacrifice Sophonias said: \"Fear from the presence of the Lord God, since His day is near, because the Lord hath prepared His sacrifice, He hath sanctified His elect\"."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 21,
+                            "name": "Cyprian: Against the Jews Book II 21:14",
+                            "text": "Also in Zechariah: \"And they shall look upon me, whom they have pierced\"."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 21,
+                            "name": "Cyprian: Against the Jews Book II 21:15",
+                            "text": "Also in the eighty-seventh Psalm: \"I have called unto Thee, O Lord, the whole day; I have stretched out my hands unto Thee\"."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 21,
+                            "name": "Cyprian: Against the Jews Book II 21:16",
+                            "text": "Also in Numbers: \"Not as a man is God suspended, nor as the son of man does He suffer threats\"."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 21,
+                            "name": "Cyprian: Against the Jews Book II 21:17",
+                            "text": "Whence in the Gospel the Lord says: \"As Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up, that whosoever believeth in the Son may have life eternal\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 22,
+                    "name": "Cyprian: Against the Jews Book II 22",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 22,
+                            "name": "Cyprian: Against the Jews Book II 22:1",
+                            "text": "That in the passion and the sign of the cross is all virtue and power."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 22,
+                            "name": "Cyprian: Against the Jews Book II 22:2",
+                            "text": "In Habakkuk: \"His virtue covered the heavens, and the earth is full of His praise, and His splendour shall be as the light; there shall be horns in His hands."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 22,
+                            "name": "Cyprian: Against the Jews Book II 22:3",
+                            "text": "And there the virtue of His glory was established, and He founded His strong love."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 22,
+                            "name": "Cyprian: Against the Jews Book II 22:4",
+                            "text": "Before His face shall go the Word, and shall go forth unto the plains according to His steps\"."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 22,
+                            "name": "Cyprian: Against the Jews Book II 22:5",
+                            "text": "In Isaiah also: \"Behold, unto us a child is born, and to us a Son is given, upon whose shoulders shall be government; and His name shall be called the Messenger of a mighty thought\"."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 22,
+                            "name": "Cyprian: Against the Jews Book II 22:6",
+                            "text": "By this sign of the cross also Amalek was conquered by Jesus through Moses."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 22,
+                            "name": "Cyprian: Against the Jews Book II 22:7",
+                            "text": "In Exodus Moses said to Jesus: \"Choose thee out men, and go forth, and order yourselves with Amalek until the morrow."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 22,
+                            "name": "Cyprian: Against the Jews Book II 22:8",
+                            "text": "Behold, I will stand on the top of the hill, and the rod of God in mine hand."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 22,
+                            "name": "Cyprian: Against the Jews Book II 22:9",
+                            "text": "And it came to pass, when Moses lifted up his hands, Israel prevailed; but when Moses had let down his hands, Amalek waxed strong."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 22,
+                            "name": "Cyprian: Against the Jews Book II 22:10",
+                            "text": "But the hands of Moses were heavy; and they took a stone, and placed it under him, and he sat upon it and Aaron and Hur held up his hands, on the one side and on the other side; and the hands of Moses were made steady even to the setting of the sun."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 22,
+                            "name": "Cyprian: Against the Jews Book II 22:11",
+                            "text": "And Jesus routed Amalek and all his people."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 22,
+                            "name": "Cyprian: Against the Jews Book II 22:12",
+                            "text": "And the Lord said unto Moses, Write this, that it may be a memorial in a book, and tell it unto the ears of Jesus, that I may utterly destroy the memory of Amalek from under heaven\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 23,
+                    "name": "Cyprian: Against the Jews Book II 23",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 23,
+                            "name": "Cyprian: Against the Jews Book II 23:1",
+                            "text": "That in this sign of the Cross is salvation for all people who are marked on their foreheads."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 23,
+                            "name": "Cyprian: Against the Jews Book II 23:2",
+                            "text": "In Ezekiel the Lord says: \"Pass through the midst of Jerusalem, and thou shalt mark the sign upon the men's foreheads, who groan and grieve for the iniquities which are done in the midst of them\"."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 23,
+                            "name": "Cyprian: Against the Jews Book II 23:3",
+                            "text": "Also in the same place: \"Go and smite, and do not spare your eyes."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 23,
+                            "name": "Cyprian: Against the Jews Book II 23:4",
+                            "text": "Have no pity on the old man, and the youth, and the virgin, and slay little children and women, that they may be utterly destroyed."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 23,
+                            "name": "Cyprian: Against the Jews Book II 23:5",
+                            "text": "But ye shall not touch any one upon whom the sign is written, and begin with my holy places themselves\"."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 23,
+                            "name": "Cyprian: Against the Jews Book II 23:6",
+                            "text": "Also in Exodus God says to Moses: \"And there shall be blood for a sign to you upon the houses wherein ye shall be; and I will look on the blood, and will protect you."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 23,
+                            "name": "Cyprian: Against the Jews Book II 23:7",
+                            "text": "And there shall not be in you the plague of wasting when I shall smite the land of Egypt\"."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 23,
+                            "name": "Cyprian: Against the Jews Book II 23:8",
+                            "text": "Also in the Apocalypse: \"And I saw a Lamb standing on Mount Sion, and with Him a hundred and forty and four thousand; and they had His name and the name of His Father written on their foreheads\"."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 23,
+                            "name": "Cyprian: Against the Jews Book II 23:9",
+                            "text": "Also in the same place: \"I am Alpha and Omega, the first and the last, the beginning and the end."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 23,
+                            "name": "Cyprian: Against the Jews Book II 23:10",
+                            "text": "Blessed are they that do His commandments, that they may have power over the tree of life\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 24,
+                    "name": "Cyprian: Against the Jews Book II 24",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 24,
+                            "name": "Cyprian: Against the Jews Book II 24:1",
+                            "text": "That at mid-day in His passion there should be darkness."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 24,
+                            "name": "Cyprian: Against the Jews Book II 24:2",
+                            "text": "In Amos: \"And it shall come to pass in that day, saith the Lord, the sun shall set at noonday, and the day of light shall be darkened; and I will turn your feast-days into grief, and all your songs into lamentation\"."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 24,
+                            "name": "Cyprian: Against the Jews Book II 24:3",
+                            "text": "Also in Jeremiah: \"She is frightened that hath borne children, and her soul hath grown weary."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 24,
+                            "name": "Cyprian: Against the Jews Book II 24:4",
+                            "text": "Her sun hath gone down while as yet it was mid-day; she hath been confounded and accursed: I will give the rest of them to the sword in the sight of their enemies\"."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 24,
+                            "name": "Cyprian: Against the Jews Book II 24:5",
+                            "text": "Also in the Gospel: \"Now from the sixth hour there was darkness over all the earth even to the ninth hour\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 25,
+                    "name": "Cyprian: Against the Jews Book II 25",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 25,
+                            "name": "Cyprian: Against the Jews Book II 25:1",
+                            "text": "That He was not to be overcome of death, nor should remain in Hades."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 25,
+                            "name": "Cyprian: Against the Jews Book II 25:2",
+                            "text": "In the twenty-ninth Psalm: \"O Lord, Thou hast brought back my soul from hell\"."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 25,
+                            "name": "Cyprian: Against the Jews Book II 25:3",
+                            "text": "Also in the fifteenth Psalm: \"Thou wilt not leave my soul in hell, neither wilt Thou suffer Thine Holy One to see corruption\"."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 25,
+                            "name": "Cyprian: Against the Jews Book II 25:4",
+                            "text": "Also in the third Psalm: \"I laid me down and slept, and rose up again, because the Lord helped me\"."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 25,
+                            "name": "Cyprian: Against the Jews Book II 25:5",
+                            "text": "Also according to John: \"No man taketh away my life from me; but I lay it down of myself."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 25,
+                            "name": "Cyprian: Against the Jews Book II 25:6",
+                            "text": "I have the power of laying it down, and I have the power of taking it again."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 25,
+                            "name": "Cyprian: Against the Jews Book II 25:7",
+                            "text": "For this commandment I have received from my Father\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 26,
+                    "name": "Cyprian: Against the Jews Book II 26",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 26,
+                            "name": "Cyprian: Against the Jews Book II 26:1",
+                            "text": "That He should rise again from the dead on the third day."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 26,
+                            "name": "Cyprian: Against the Jews Book II 26:2",
+                            "text": "In Hosea: \"After two days He will revive us; we shall rise again on the third day\"."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 26,
+                            "name": "Cyprian: Against the Jews Book II 26:3",
+                            "text": "Also in Exodus: \"And the Lord said unto Moses, Go down and testify to the people, and sanctify them to-day and to-morrow; and let them wash their garments, and let them be prepared against the day after to-morrow."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 26,
+                            "name": "Cyprian: Against the Jews Book II 26:4",
+                            "text": "For on the third day the Lord will come down on Mount Sinai\"."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 26,
+                            "name": "Cyprian: Against the Jews Book II 26:5",
+                            "text": "Also in the Gospel: \"A wicked and adulterous generation seeketh after a sign; and there shall no sign be given unto it but the sign of the prophet Jonas: for as Jonas was in the whale's belly three days and three nights, so shall the Son of man be three days and three nights in the heart of the earth\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 27,
+                    "name": "Cyprian: Against the Jews Book II 27",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 27,
+                            "name": "Cyprian: Against the Jews Book II 27:1",
+                            "text": "That after He had risen again He should receive from His Father all power, and His power should be everlasting."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 27,
+                            "name": "Cyprian: Against the Jews Book II 27:2",
+                            "text": "In Daniel: \"I saw in a vision by night, and behold as it were the Son of man, coming in the clouds of heaven, came even to the Ancient of days, and stood in His sight."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 27,
+                            "name": "Cyprian: Against the Jews Book II 27:3",
+                            "text": "And they who stood beside Him brought Him before Him: and to Him was given a royal power, and all the kings of the earth by their generation, and all glory obeying Him: and His power is eternal, which shall not be taken away, and His kingdom shall not be destroyed\"."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 27,
+                            "name": "Cyprian: Against the Jews Book II 27:4",
+                            "text": "Also in Isaiah: \"Now will I arise, saith the Lord; now will I be glorified, now will I be exalted, now ye shall see, now ye shall understand, now ye shall be confounded."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 27,
+                            "name": "Cyprian: Against the Jews Book II 27:5",
+                            "text": "Vain will be the strength of your spirit: the fire shall consume you\"."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 27,
+                            "name": "Cyprian: Against the Jews Book II 27:6",
+                            "text": "Also in the cixth Psalm: \"The Lord said unto my Lord, Sit Thou on my right hand, until I make Thine enemies the footstool of Thy feet."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 27,
+                            "name": "Cyprian: Against the Jews Book II 27:7",
+                            "text": "God will send the rod of Thy power out of Sion, and Thou shalt rule in the midst of Thine enemies\"."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 27,
+                            "name": "Cyprian: Against the Jews Book II 27:8",
+                            "text": "Also in the Apocalypse: \"And I turned and looked to see the voice which spake with me."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 27,
+                            "name": "Cyprian: Against the Jews Book II 27:9",
+                            "text": "And I saw seven golden candlesticks, and in the midst of the candlesticks one like unto the Son of man, clothed with a long garment, and He was girt about the paps with a golden girdle."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 27,
+                            "name": "Cyprian: Against the Jews Book II 27:10",
+                            "text": "And His head and His hairs were white as wool or snow, and His eyes as a flame of fire, and His feet like to fine brass from a furnace of fire, and His voice like the sound of many waters."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 27,
+                            "name": "Cyprian: Against the Jews Book II 27:11",
+                            "text": "And He had in His right hand seven stars: and out of His mouth went a sharp two-edged sword; and His face shone as the sun in his might."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 27,
+                            "name": "Cyprian: Against the Jews Book II 27:12",
+                            "text": "And when I saw Him, I fell at His feet as dead."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 27,
+                            "name": "Cyprian: Against the Jews Book II 27:13",
+                            "text": "And He laid His right hand upon me, and said, Fear not; I am the first and the last, and He that liveth and was dead; and, lo, I am living for evermore and I have the keys of death and of hell\"."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 27,
+                            "name": "Cyprian: Against the Jews Book II 27:14",
+                            "text": "Likewise in the Gospel, the Lord after His resurrection says to His disciples: \"All power is given unto me in heaven and in earth."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 27,
+                            "name": "Cyprian: Against the Jews Book II 27:15",
+                            "text": "Go therefore and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost, teaching them to observe all things whatsoever I have commanded you\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 28,
+                    "name": "Cyprian: Against the Jews Book II 28",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 28,
+                            "name": "Cyprian: Against the Jews Book II 28:1",
+                            "text": "That it is impossible to attain to God the Father, except by His Son Jesus Christ."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 28,
+                            "name": "Cyprian: Against the Jews Book II 28:2",
+                            "text": "In the Gospel: \"I am the way, and the truth, and the life: no one cometh to the Father but by me\"."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 28,
+                            "name": "Cyprian: Against the Jews Book II 28:3",
+                            "text": "Also in the same place: \"I am the door: by me if any man shall enter in, he shall be saved\"."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 28,
+                            "name": "Cyprian: Against the Jews Book II 28:4",
+                            "text": "Also in the same place: \"Many prophets and righteous men have desired to see the things which ye see, and have not seen them; and to hear those things which ye hear, and have not heard them\"."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 28,
+                            "name": "Cyprian: Against the Jews Book II 28:5",
+                            "text": "Also in the same place: \"He that believeth on the Son hath eternal life: he that is not obedient in word to the Son hath not life; but the wrath of God shall abide upon him\"."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 28,
+                            "name": "Cyprian: Against the Jews Book II 28:6",
+                            "text": "Also Paul to the Ephesians: \"And when He had come, He preached peace to you, to those which are afar off, and peace to those which are near, because through Him we both have access in one Spirit unto the Father\"."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 28,
+                            "name": "Cyprian: Against the Jews Book II 28:7",
+                            "text": "Also to the Romans: \"For all have sinned, and fail of the glory of God; but they are justified by His gift and grace, through the redemption which is in Christ Jesus\"."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 28,
+                            "name": "Cyprian: Against the Jews Book II 28:8",
+                            "text": "Also in the Epistle of Peter the apostle: \"Christ hath died once for our sins, the just for the unjust, that He might present us to God\"."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 28,
+                            "name": "Cyprian: Against the Jews Book II 28:9",
+                            "text": "Also in the same place: \"For in this also was it preached to them that are dead, that they might be raised again\"."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 28,
+                            "name": "Cyprian: Against the Jews Book II 28:10",
+                            "text": "Also in the Epistle of John: \"Whosoever denieth the Son, the same also hath not the Father."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 28,
+                            "name": "Cyprian: Against the Jews Book II 28:11",
+                            "text": "He that confesseth the Son, hath both the Son and the Father\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 29,
+                    "name": "Cyprian: Against the Jews Book II 29",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 29,
+                            "name": "Cyprian: Against the Jews Book II 29:1",
+                            "text": "That Jesus Christ shall come as a Judge."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 29,
+                            "name": "Cyprian: Against the Jews Book II 29:2",
+                            "text": "In Malachi: \"Behold, the day of the Lord cometh, burning as an oven; and all the aliens and all the wicked shall be as stubble; and the day that cometh shall burn them up, saith the Lord\"."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 29,
+                            "name": "Cyprian: Against the Jews Book II 29:3",
+                            "text": "Also in the forty-ninth (or fiftieth) Psalm: \"God the Lord of gods hath spoken, and called the earth."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 29,
+                            "name": "Cyprian: Against the Jews Book II 29:4",
+                            "text": "From the rising of the sun even to the going down thereof, out of Sion is the beauty of His glory."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 29,
+                            "name": "Cyprian: Against the Jews Book II 29:5",
+                            "text": "God shall come manifestly, our God, and shall not keep silence."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 29,
+                            "name": "Cyprian: Against the Jews Book II 29:6",
+                            "text": "A fire shall burn before Him, and round about Him shall be a great storm."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 29,
+                            "name": "Cyprian: Against the Jews Book II 29:7",
+                            "text": "He hath called the heaven above, and the earth, that He may separate His people."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 29,
+                            "name": "Cyprian: Against the Jews Book II 29:8",
+                            "text": "Gather together His saints unto Him, those who arrange His covenant with sacrifices."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 29,
+                            "name": "Cyprian: Against the Jews Book II 29:9",
+                            "text": "And the heavens shall announce His righteousness, for God is the judge\"."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 29,
+                            "name": "Cyprian: Against the Jews Book II 29:10",
+                            "text": "Also in Isaiah: \"The Lord God of strength shall go forth, and shall break war in pieces: He shall stir up contest, and shall cry over His enemies with strength."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 29,
+                            "name": "Cyprian: Against the Jews Book II 29:11",
+                            "text": "I have been silent; shall I always be silent?\" Also in the sixty-seventh Psalm: \"Let God arise, and let His enemies be scattered: and let those who hate Him flee from His face."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 29,
+                            "name": "Cyprian: Against the Jews Book II 29:12",
+                            "text": "As smoke vanisheth, let them vanish: as wax melteth from the face of fire, thus let the sinners perish from the face of God."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 29,
+                            "name": "Cyprian: Against the Jews Book II 29:13",
+                            "text": "And let the righteous be glad and rejoice in the sight of God: and let them be glad with joyfulness."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 29,
+                            "name": "Cyprian: Against the Jews Book II 29:14",
+                            "text": "Sing unto God, sing praises unto His name: make a way to Him who goeth up into the west."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 29,
+                            "name": "Cyprian: Against the Jews Book II 29:15",
+                            "text": "God is His name."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 29,
+                            "name": "Cyprian: Against the Jews Book II 29:16",
+                            "text": "They shall be put to confusion from the face of Him who is the Father of the orphans, and the Judge of the widows."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 29,
+                            "name": "Cyprian: Against the Jews Book II 29:17",
+                            "text": "God is in His holy place: God, who maketh men to dwell with one mind in an house, bringing forth them that are bound with might, and equally those who provoke unto anger, who dwell in the sepulchres: God, when Thou wentest forth in the sight of Thy people, in passing into the desert\"."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 29,
+                            "name": "Cyprian: Against the Jews Book II 29:18",
+                            "text": "Also in the eighty-first Psalm: \"Arise, O God; judge the earth: for Thou wilt exterminate among all nations\"."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 29,
+                            "name": "Cyprian: Against the Jews Book II 29:19",
+                            "text": "Also in the Gospel according to Matthew: \"What have we to do with Thee, Thou Son of David? why art Thou come hither to punish us before the time?\" Likewise according to John: \"The Father judgeth nothing, but hath given all judgment to the Son, that all may honour the Son as they honour the Father."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 29,
+                            "name": "Cyprian: Against the Jews Book II 29:20",
+                            "text": "He that honoureth not the Son, honoureth not the Father who hath sent Him\"."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 29,
+                            "name": "Cyprian: Against the Jews Book II 29:21",
+                            "text": "So too in the second Epistle of Paul to the Corinthians: \"We must all appear before the judgment-seat of Christ, that every one may bear the things proper to his body, according to those things which he hath done, whether they be good or evil\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 30,
+                    "name": "Cyprian: Against the Jews Book II 30",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 30,
+                            "name": "Cyprian: Against the Jews Book II 30:1",
+                            "text": "That He will reign as a King for ever."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 30,
+                            "name": "Cyprian: Against the Jews Book II 30:2",
+                            "text": "In Zechariah: \"Tell ye the daughter of Zion, Behold, thy King cometh unto thee: just, and having salvation; meek, sitting upon an ass that hath not been tamed\"."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 30,
+                            "name": "Cyprian: Against the Jews Book II 30:3",
+                            "text": "Also in Isaiah: \"Who will declare to you that eternal place? He that walketh in righteousness, and holdeth back his hands from gifts; stopping his ears that he may not hear the judgment of blood; and closing his eyes, that he may not see unrighteousness: this man shall dwell in the lofty cavern of the strong rock; bread shall be given him, and his water shall be sure."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 30,
+                            "name": "Cyprian: Against the Jews Book II 30:4",
+                            "text": "Ye shall see the King with glory\"."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 30,
+                            "name": "Cyprian: Against the Jews Book II 30:5",
+                            "text": "Likewise in Malachi: \"I am a great King, saith the Lord, and my name is illustrious among the nations\"."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 30,
+                            "name": "Cyprian: Against the Jews Book II 30:6",
+                            "text": "Also in the second Psalm: \"But I am established as a King by Him upon His holy hill of Zion, announcing His empire\"."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 30,
+                            "name": "Cyprian: Against the Jews Book II 30:7",
+                            "text": "Also in the twenty-first Psalm: \"All the ends of the world shall be reminded, and shall turn to the Lord: and all the countries of the nations shall worship in Thy sight."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 30,
+                            "name": "Cyprian: Against the Jews Book II 30:8",
+                            "text": "For the kingdom is the Lord's: and He shall rule over all nations\"."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 30,
+                            "name": "Cyprian: Against the Jews Book II 30:9",
+                            "text": "Also in the twenty-third Psalm: \"Lift up your gates, ye princes; and be ye lifted up, ye everlasting doors; and the King of glory shall come in."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 30,
+                            "name": "Cyprian: Against the Jews Book II 30:10",
+                            "text": "Who is this King of glory? The Lord strong and mighty, the Lord strong in battle."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 30,
+                            "name": "Cyprian: Against the Jews Book II 30:11",
+                            "text": "Lift up your gates, O ye princes; and be ye lifted up, ye everlasting doors; and the King of glory shall come in."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 30,
+                            "name": "Cyprian: Against the Jews Book II 30:12",
+                            "text": "Who is this King of glory? The Lord of hosts, He is the King of glory\"."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 30,
+                            "name": "Cyprian: Against the Jews Book II 30:13",
+                            "text": "Also in the forty-fourth Psalm: \"My heart hath breathed forth a good discourse: I tell my works to the king: my tongue is the pen of a writer intelligently writing."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 30,
+                            "name": "Cyprian: Against the Jews Book II 30:14",
+                            "text": "Thou art lovely in beauty above the children of men: grace is shed forth on Thy lips, because God hath blessed Thee for ever."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 30,
+                            "name": "Cyprian: Against the Jews Book II 30:15",
+                            "text": "Be girt with Thy sword on Thy thigh, O most mighty."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 30,
+                            "name": "Cyprian: Against the Jews Book II 30:16",
+                            "text": "To Thy honour and to Thy beauty both attend, and direct Thyself, and reign, because of truth, and meekness, and righteousness\"."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 30,
+                            "name": "Cyprian: Against the Jews Book II 30:17",
+                            "text": "Also in the fifth Psalm: \"My King, and my God, because unto Thee will I pray."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 30,
+                            "name": "Cyprian: Against the Jews Book II 30:18",
+                            "text": "O Lord, in the morning Thou shalt hear my voice; in the morning I will stand before Thee, and will contemplate Thee\"."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 30,
+                            "name": "Cyprian: Against the Jews Book II 30:19",
+                            "text": "Also in the ninety-sixth Psalm: \"The Lord hath reigned; let the earth rejoice; let the many isles be glad\"."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 30,
+                            "name": "Cyprian: Against the Jews Book II 30:20",
+                            "text": "Moreover, in the forty-fourth Psalm: \"The queen stood at thy right hand in a golden garment; she is clothed in many colours."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 30,
+                            "name": "Cyprian: Against the Jews Book II 30:21",
+                            "text": "Hear, O daughter, and see, and incline thine ear, and forget thy people and thy father's house; for the King hath desired thy beauty, for He is thy Lord God\"."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 30,
+                            "name": "Cyprian: Against the Jews Book II 30:22",
+                            "text": "Also in the seventy-third Psalm: \"But God is our King before the world; He hath wrought salvation in the midst of the earth\"."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 30,
+                            "name": "Cyprian: Against the Jews Book II 30:23",
+                            "text": "Also in the Gospel according to Matthew: \"And when Jesus was born in Bethlehem of Judah in the days of Herod the king, behold, Magi from the east came to Jerusalem, saying, Where is He who is born King of the Jews? for we have seen His star in the east, and have come to worship Him\"."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 30,
+                            "name": "Cyprian: Against the Jews Book II 30:24",
+                            "text": "Also, according to John, Jesus said: \"My kingdom is not of this world."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 30,
+                            "name": "Cyprian: Against the Jews Book II 30:25",
+                            "text": "If my kingdom were of this world, my servants would be in trouble, that I should not be delivered to the Jews; but now is my kingdom not from hence."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 30,
+                            "name": "Cyprian: Against the Jews Book II 30:26",
+                            "text": "Pilate said, Art thou a king, then? Jesus answered, Thou sayest that I am a king."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 30,
+                            "name": "Cyprian: Against the Jews Book II 30:27",
+                            "text": "For this cause I was born, and for this cause I am come into the world, that I might bear testimony to the truth."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 30,
+                            "name": "Cyprian: Against the Jews Book II 30:28",
+                            "text": "Every one that is of the truth heareth my voice\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 31,
+                    "name": "Cyprian: Against the Jews Book II 31",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 31,
+                            "name": "Cyprian: Against the Jews Book II 31:1",
+                            "text": "That He Himself is both Judge and King."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 31,
+                            "name": "Cyprian: Against the Jews Book II 31:2",
+                            "text": "In the seventy-first Psalm: \"O God, give Thy judgment to the king, and Thy righteousness to the king's son, to judge Thy people in righteousness\"."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 31,
+                            "name": "Cyprian: Against the Jews Book II 31:3",
+                            "text": "Also in the Apocalypse: \"And I saw the heaven opened, and behold a white horse; and He who sate upon him was called Faithful and True; and He judgeth justice and righteousness, and maketh war."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 31,
+                            "name": "Cyprian: Against the Jews Book II 31:4",
+                            "text": "And His eyes were, as it were, a flame of fire, and upon His head were many crowns; and He bare a name written that was known to none other than Himself: and He was clothed with a garment sprinkled with blood, and His name is called the Word of God."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 31,
+                            "name": "Cyprian: Against the Jews Book II 31:5",
+                            "text": "And the armies which are in heaven followed Him on white horses, clothed in linen white and clean."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 31,
+                            "name": "Cyprian: Against the Jews Book II 31:6",
+                            "text": "And out of His mouth went forth a sword with two edges, that with it He should smite the nations, which He shall shepherd with a rod of iron; and He shall tread the winepress of the wrath of God Almighty."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 31,
+                            "name": "Cyprian: Against the Jews Book II 31:7",
+                            "text": "Also He has on His garment and on His thigh the name written, King of kings, and Lord of lords\"."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 31,
+                            "name": "Cyprian: Against the Jews Book II 31:8",
+                            "text": "Likewise in the Gospel: \"When the Son of man shall come in His glory, and all the angels with Him, then He shall sit in the throne of His glory; and all nations shall be gathered together before Him, and He shall separate them one from another, even as a shepherd separates the sheep from the goats; and He shall place the sheep at His right hand, but the goats at His left hand."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 31,
+                            "name": "Cyprian: Against the Jews Book II 31:9",
+                            "text": "Then shall the King say unto them who shall be at His right hand, Come, ye blessed of my Father, receive the kingdom which is prepared for you from the beginning of the world: for I was hungry, and ye gave me to eat: I was thirsty, and ye gave me to drink: I was a stranger, and ye received me: naked, and ye clothed me: sick, and ye visited me: I was in prison, and ye came unto me."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 31,
+                            "name": "Cyprian: Against the Jews Book II 31:10",
+                            "text": "Then shall the righteous answer, and say unto Him, Lord, when saw we Thee hungry, and fed Thee? thirsty, and gave Thee to drink? And when saw we Thee a stranger, and received Thee? naked, and clothed Thee? And when saw we Thee sick, and in prison, and came unto Thee? And the King, answering, shall say unto them, Verily I say unto you, In as far as ye have done it to the least of these my brethren, ye have done it unto me."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 31,
+                            "name": "Cyprian: Against the Jews Book II 31:11",
+                            "text": "Then shall He say unto them who shall be on His left hand, Depart from me, ye cursed, into everlasting fire, which my Father hath prepared for the devil and his angels: for I have been hungry, and ye gave me not to eat: I have been thirsty, and ye gave me not to drink: I was a stranger, and ye received me not: naked, and ye clothed me not: sick, and in prison, and ye visited me not."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 31,
+                            "name": "Cyprian: Against the Jews Book II 31:12",
+                            "text": "Then shall they also answer and say, Lord, when saw we Thee hungry, or thirsty, or a stranger, or naked, or sick, or in prison, and have not ministered unto Thee? And He shall answer unto them, Verily I say unto you, Inasmuch as ye have not done it to one of the least of these, ye have not done it unto me."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 31,
+                            "name": "Cyprian: Against the Jews Book II 31:13",
+                            "text": "And these shall go away into everlasting burning, but the righteous into life eternal\"."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

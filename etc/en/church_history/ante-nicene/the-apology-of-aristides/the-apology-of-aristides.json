@@ -1,0 +1,993 @@
+{
+    "books": [
+        {
+            "name": "The Apology of Aristides",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "The Apology of Aristides 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:1",
+                            "text": "The Apology of Aristides  as it is preserved in the history of  Barlaam and Josaphat."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:2",
+                            "text": "Translated from the Greek."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:3",
+                            "text": "I."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:4",
+                            "text": "I, O King in the providence of God came into the world; and when I had considered the heaven and the earth, the sun and the moon and the rest, I marvelled at their orderly arrangement."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:5",
+                            "text": "And when I saw that the universe and all that is therein is moved by necessity, I perceived that the mover and controller is God."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:6",
+                            "text": "For everything which causes motion is stronger than that which is moved, and that which controls is stronger than that which is controlled."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:7",
+                            "text": "The self-same being, then, who first established and now controls the universe—him do I affirm to be God who is without beginning and without end, immortal and self-sufficing, above all passions and infirmities, above anger and forgetfulness and ignorance and the rest."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:8",
+                            "text": "Through Him too all things consist."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:9",
+                            "text": "He requires not sacrifice and libation nor anyone of the things that appear to sense; but all men stand in need of Him."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:10",
+                            "text": "II."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:11",
+                            "text": "Having thus spoken concerning God, so far as it was possible for me to speak of Him, let us next proceed to the human race, that we may see which of them participate in the truth and which of them in error."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:12",
+                            "text": "For it is clear to us, O King, that there are three classes of men in this world; these being the worshippers of the gods acknowledged among you, and Jews, and Christians."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:13",
+                            "text": "Further they who pay homage to many gods are themselves divided into three classes, Chaldaeans namely, and Greeks, and Egyptians; for these have been guides and preceptors to the rest of the nations in the service and worship of these many-titled deities."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:14",
+                            "text": "III."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:15",
+                            "text": "Let us see then which of them participate in truth and which of them in error."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:16",
+                            "text": "The Chaldaeans, then, not knowing God went astray after the elements and began to worship the creation more than their Creator."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:17",
+                            "text": "And of these they formed certain shapes and styled them a representation of the heaven and the earth and the sea, of the sun too and the moon and the other primal bodies or luminaries."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:18",
+                            "text": "And they shut them up together in shrines, and worship them, calling them gods, even though they have to guard them securely for fear they should be stolen by robbers."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:19",
+                            "text": "And they did not perceive that anything which acts as guard is greater than that which is guarded, and that he who makes is greater than that which is made."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:20",
+                            "text": "For if their gods are unfit to look after their own safety, how shall they bestow protection upon others? Great then is the error into which the Chaldaeans wandered in adoring lifeless and good-for-nothing images."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:21",
+                            "text": "And it occurs to me as surprising, O King, how it is that their so-called philosophers have quite failed to observe that the elements themselves are perishable."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:22",
+                            "text": "And if the elements are perishable and subject to necessity, how are they gods?  And if the elements are not gods, how do the images made in their honour come to be gods?  IV."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:23",
+                            "text": "Let us proceed then, O King, to the elements themselves that we may show in regard to them that they are not gods, but perishable and mutable, produced out of that which did not exist at the command of the true God, who is indestructible and immutable and invisible; yet He sees all things and as He wills, modifies and changes things."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:24",
+                            "text": "What then shall I say concerning the elements?  They err who believe that the sky is a god."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:25",
+                            "text": "For we see that it revolves and moves by necessity and is compacted of many parts, being thence called the ordered universe (Kosmos)."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:26",
+                            "text": "Now the universe is the construction of some designer; and that which has been constructed has a beginning and an end."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:27",
+                            "text": "And the sky with its luminaries moves by necessity."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:28",
+                            "text": "For the stars are carried along in array at fixed intervals from sign to sign, and, some setting, others rising, they traverse their courses in due season so as to mark off summers and winters, as it has been appointed for them by God; and obeying the inevitable necessity of their nature they transgress not their proper limits, keeping company with the heavenly order."
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:29",
+                            "text": "Whence it is plain that the sky is not a god but rather a work of God."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:30",
+                            "text": "They erred also who believed the earth to be a goddess."
+                        },
+                        {
+                            "verse": 31,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:31",
+                            "text": "For we see that it is despitefully used and tyrannized over by men, and is furrowed and kneaded and becomes of no account."
+                        },
+                        {
+                            "verse": 32,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:32",
+                            "text": "For, if it be burned with fire, it becomes devoid of life; for nothing will grow from the ashes."
+                        },
+                        {
+                            "verse": 33,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:33",
+                            "text": "Besides if there fall upon it an excess of rain it dissolves away, both it and its fruits."
+                        },
+                        {
+                            "verse": 34,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:34",
+                            "text": "Moreover it is trodden under foot of men and the other creatures; it is dyed with the blood of the murdered; it is dug open and filled with dead bodies and becomes a tomb for corpses."
+                        },
+                        {
+                            "verse": 35,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:35",
+                            "text": "In face of all this, it is inadmissible that the earth is a goddess but rather it is a work of God for the use of men."
+                        },
+                        {
+                            "verse": 36,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:36",
+                            "text": "V."
+                        },
+                        {
+                            "verse": 37,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:37",
+                            "text": "They also erred who believed the water to be a god."
+                        },
+                        {
+                            "verse": 38,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:38",
+                            "text": "For it, too, has been made for the use of men, and is controlled by them; it is defiled and destroyed and suffers change on being boiled and dyed with colours; and it is congealed by the frost, and polluted with blood, and is introduced for the washing of all unclean things."
+                        },
+                        {
+                            "verse": 39,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:39",
+                            "text": "Wherefore it is impossible that water should be a god, but it is a work of God."
+                        },
+                        {
+                            "verse": 40,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:40",
+                            "text": "They also err who believe that fire is a god."
+                        },
+                        {
+                            "verse": 41,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:41",
+                            "text": "For fire was made for the use of men, and it is controlled by them, being carried about from place to place for boiling and roasting all kinds of meat, and even for (the burning of) dead bodies."
+                        },
+                        {
+                            "verse": 42,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:42",
+                            "text": "Moreover it is extinguished in many ways, being quenched through man's agency."
+                        },
+                        {
+                            "verse": 43,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:43",
+                            "text": "So it cannot be allowed that fire is a god, but it is a work of God."
+                        },
+                        {
+                            "verse": 44,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:44",
+                            "text": "They also err who think the blowing of the winds is a goddess."
+                        },
+                        {
+                            "verse": 45,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:45",
+                            "text": "For it is clear that it is under the dominion of another; and for the sake of man it has been designed by God for the transport of ships and the conveyance of grain and for man's other wants."
+                        },
+                        {
+                            "verse": 46,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:46",
+                            "text": "It rises too and falls at the bidding of God, whence it is concluded that the blowing of the winds is not a goddess but only a work of God."
+                        },
+                        {
+                            "verse": 47,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:47",
+                            "text": "VI."
+                        },
+                        {
+                            "verse": 48,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:48",
+                            "text": "They also err who believe the sun to be a god."
+                        },
+                        {
+                            "verse": 49,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:49",
+                            "text": "For we see that it moves by necessity and revolves and passes from sign to sign, setting and rising so as to give warmth to plants and tender shoots for the use of man."
+                        },
+                        {
+                            "verse": 50,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:50",
+                            "text": "Besides it has its part in common with the rest of the stars, and is much smaller than the sky; it suffers eclipse of its light and is not the subject of its own laws."
+                        },
+                        {
+                            "verse": 51,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:51",
+                            "text": "Wherefore it is concluded that the sun is not a god, but only a work of God."
+                        },
+                        {
+                            "verse": 52,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:52",
+                            "text": "They also err who believe that the moon is a goddess."
+                        },
+                        {
+                            "verse": 53,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:53",
+                            "text": "For we see that it moves by necessity and revolves and passes from sign to sign, setting and rising for the benefit of men; and it is less than the sun and waxes and wanes and has eclipses."
+                        },
+                        {
+                            "verse": 54,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:54",
+                            "text": "Wherefore it is concluded that the moon is not a goddess but a work of God."
+                        },
+                        {
+                            "verse": 55,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:55",
+                            "text": "VII."
+                        },
+                        {
+                            "verse": 56,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:56",
+                            "text": "They also err who believe that man is a god."
+                        },
+                        {
+                            "verse": 57,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:57",
+                            "text": "For we see that he is moved by necessity, and is made to grow up, and becomes old even though he would not."
+                        },
+                        {
+                            "verse": 58,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:58",
+                            "text": "And at one time he is joyous, at another he is grieved when he lacks food and drink and clothing."
+                        },
+                        {
+                            "verse": 59,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:59",
+                            "text": "And we see that he is subject to anger and jealousy and desire and change of purpose and has many infirmities."
+                        },
+                        {
+                            "verse": 60,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:60",
+                            "text": "He is destroyed too in many ways by means of the elements and animals, and by ever-assailing death."
+                        },
+                        {
+                            "verse": 61,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:61",
+                            "text": "It cannot be admitted, then, that man is a god, but only a work of God."
+                        },
+                        {
+                            "verse": 62,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:62",
+                            "text": "Great therefore is the error into which the Chaldaeans wandered, following after their own desires."
+                        },
+                        {
+                            "verse": 63,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:63",
+                            "text": "For they reverence the perishable elements and lifeless images, and do not perceive that they themselves make these things to be gods."
+                        },
+                        {
+                            "verse": 64,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:64",
+                            "text": "VIII."
+                        },
+                        {
+                            "verse": 65,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:65",
+                            "text": "Let us proceed then to the Greeks, that we may see whether they have any discernment concerning God."
+                        },
+                        {
+                            "verse": 66,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:66",
+                            "text": "The Greeks, indeed, though they call themselves wise proved more deluded than the Chaldaeans in alleging that many gods have come into being, some of them male, some female, practised masters in every passion and every variety of folly."
+                        },
+                        {
+                            "verse": 67,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:67",
+                            "text": "And the Greeks themselves represented them to be adulterers and murderers, wrathful and envious and passionate, slayers of fathers and brothers, thieves and robbers, crippled and limping, workers in magic, and victims of frenzy."
+                        },
+                        {
+                            "verse": 68,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:68",
+                            "text": "Some of them died (as their account goes), and some were struck by thunderbolts, and became slaves to men, and were fugitives, and they mourned and lamented, and changed themselves into animals for wicked and shameful ends."
+                        },
+                        {
+                            "verse": 69,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:69",
+                            "text": "Wherefore, O King, they are ridiculous and absurd and impious tales that the Greeks have introduced, giving the name of gods to those who are not gods, to suit their unholy desires, in order that, having them as patrons of vice, they might commit adultery and robbery and do murder and other shocking deeds."
+                        },
+                        {
+                            "verse": 70,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:70",
+                            "text": "For if their gods did such deeds why should not they also do them?  So that from these misguided practices it has been the lot of mankind to have frequent wars and slaughters and bitter captivities."
+                        },
+                        {
+                            "verse": 71,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:71",
+                            "text": "IX."
+                        },
+                        {
+                            "verse": 72,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:72",
+                            "text": "But, further, if we be minded to discuss their gods individually, you will see how great is the absurdity; for instance, how Kronos is brought forward by them as a god above all, and they sacrifice their own children to him."
+                        },
+                        {
+                            "verse": 73,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:73",
+                            "text": "And he had many sons by Rhea, and in his madness devoured his own offspring."
+                        },
+                        {
+                            "verse": 74,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:74",
+                            "text": "And they say that Zeus cut off his members and cast them into the sea, whence Aphrodite is said in fable to be engendered."
+                        },
+                        {
+                            "verse": 75,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:75",
+                            "text": "Zeus, then, having bound his own father, cast him into Tartaros."
+                        },
+                        {
+                            "verse": 76,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:76",
+                            "text": "You see the error and brutality which they advance against their god?  Is it possible, then, that a god should be manacled and mutilated?  What absurdity!  Who with any wit would ever say so?  Next Zeus is introduced, and they say that he was king of their gods, and that he changed himself into animals that he might debauch mortal women."
+                        },
+                        {
+                            "verse": 77,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:77",
+                            "text": "For they allege that he transformed himself into a bull for Europe, and into gold for Danae, and into a swan for Leda, and into a satyr for Antiope, and into a thunderbolt for Semele."
+                        },
+                        {
+                            "verse": 78,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:78",
+                            "text": "Then by these there were many children, Dionysos and Zethus and Amphion and Herakles and Apollo and Artemis and Perseus, Kastor and Helenes and Polydeukes and Minos and Rhadamanthys and Sarpedon, and the nine daughters whom they called the Muses."
+                        },
+                        {
+                            "verse": 79,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:79",
+                            "text": "Then too they bring forward statements about the matter of Ganymedes."
+                        },
+                        {
+                            "verse": 80,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:80",
+                            "text": "Hence it happened, O King, to mankind to imitate all these things and to become adulterous men and lascivious women, and to be workers of other terrible iniquities, through the imitation of their god."
+                        },
+                        {
+                            "verse": 81,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:81",
+                            "text": "Now how is it possible that a god should be an adulterer or an obscene person or a parricide?  X."
+                        },
+                        {
+                            "verse": 82,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:82",
+                            "text": "Along with him, too, they bring forward one Hephaistos as a god, and they say that he is lame and wields a hammer and tongs, working as a smith for his living."
+                        },
+                        {
+                            "verse": 83,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:83",
+                            "text": "Is he then badly off?  But it cannot be admitted that a god should be a cripple, and besides be dependent on mankind."
+                        },
+                        {
+                            "verse": 84,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:84",
+                            "text": "Then they bring forward Hermes as a god, representing him to be lustful, and a thief, and covetous, and a magician (and maimed) and an interpreter of language."
+                        },
+                        {
+                            "verse": 85,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:85",
+                            "text": "But it cannot be admitted that such an one is a god."
+                        },
+                        {
+                            "verse": 86,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:86",
+                            "text": "They also bring forward Asklepios as a god who is a doctor and prepares drugs and compounds plasters for the sake of a living."
+                        },
+                        {
+                            "verse": 87,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:87",
+                            "text": "For he was badly off."
+                        },
+                        {
+                            "verse": 88,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:88",
+                            "text": "And afterwards he was struck, they say, with a thunderbolt by Zeus on account of Tyndareos, son of Lacedaimon; and so was killed."
+                        },
+                        {
+                            "verse": 89,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:89",
+                            "text": "Now if Asklepios in spite of his divinity could not help himself when struck by lightning, how will he come to the rescue of others?  Again Ares is represented as a god, fond of strife and given to jealousy, and a lover of animals and other such things."
+                        },
+                        {
+                            "verse": 90,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:90",
+                            "text": "And at last while corrupting Aphrodite, he was bound by the youthful Eros and by Hephaistos."
+                        },
+                        {
+                            "verse": 91,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:91",
+                            "text": "How then was he a god who was subject to desire, and a warrior, and a prisoner and an adulterer?  They allege that Dionysos also is a god who holds nightly revels and teaches drunkenness, and carries off the neighbours' wives, and goes mad and takes to flight."
+                        },
+                        {
+                            "verse": 92,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:92",
+                            "text": "And at last he was put to death by the Titans."
+                        },
+                        {
+                            "verse": 93,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:93",
+                            "text": "If then Dionysos could not save himself when he was being killed, and besides used to be mad, and drunk with wine, and a fugitive, how should he be a god?  They allege also that Herakles got drunk and went mad and cut the throats of his own children, then he was consumed by fire and so died."
+                        },
+                        {
+                            "verse": 94,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:94",
+                            "text": "Now how should he be a god, who was drunk and a slayer of children and burned to death? or how will he come to the help of others, when he was unable to help himself?  XI."
+                        },
+                        {
+                            "verse": 95,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:95",
+                            "text": "They represent Apollo also as a jealous god, and besides as the master of the bow and quiver, and sometimes of the lyre and flute, and as divining to men for pay?  Can he then be very badly off?  But it cannot be admitted that a god should be in want, and jealous, and a harping minstrel."
+                        },
+                        {
+                            "verse": 96,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:96",
+                            "text": "They represent Artemis also as his sister, who is a huntress and has a bow with a quiver; and she roams alone upon the hills with the dogs to hunt the stag or the wild boar."
+                        },
+                        {
+                            "verse": 97,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:97",
+                            "text": "How then should such a woman, who hunts and roams with her dogs, be a divine being?  Even Aphrodite herself they affirm to be a goddess who is adulterous."
+                        },
+                        {
+                            "verse": 98,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:98",
+                            "text": "For at one time she had Ares as a paramour, and at another time Anchises and again Adonis, whose death she also laments, feeling the want of her lover."
+                        },
+                        {
+                            "verse": 99,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:99",
+                            "text": "And they say that she even went down to Hades to purchase back Adonis from Persephone."
+                        },
+                        {
+                            "verse": 100,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:100",
+                            "text": "Did you ever see, O King, greater folly than this, to bring forward as a goddess one who is adulterous and given to weeping and wailing?  And they represent that Adonis is a hunter god, who came to a violent end, being wounded by a wild boar and having no power to help himself in his distress."
+                        },
+                        {
+                            "verse": 101,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:101",
+                            "text": "How then will one who is adulterous and a hunter and mortal give himself any concern for mankind?  All this and much more of a like nature, and even far more disgraceful and offensive details, have the Greeks narrated, O King, concerning their gods;—details which it is not proper either to state or for a moment to remember."
+                        },
+                        {
+                            "verse": 102,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:102",
+                            "text": "And hence mankind, taking an impulse from their gods, practised all lawlessness and brutality and impiety, polluting both earth and air by their awful deeds."
+                        },
+                        {
+                            "verse": 103,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:103",
+                            "text": "XII."
+                        },
+                        {
+                            "verse": 104,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:104",
+                            "text": "The Egyptians, again, being more stupid and witless than these have gone further astray than all the nations."
+                        },
+                        {
+                            "verse": 105,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:105",
+                            "text": "For they were not content with the objects of worship of the Chaldaeans and the Greeks, but in addition to these brought forward also brute creatures as gods, both land and water animals, and plants and herbs; and they were defiled with all madness and brutality more deeply than all the nations on the earth."
+                        },
+                        {
+                            "verse": 106,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:106",
+                            "text": "For originally they worshipped Isis, who had Osiris as brother and husband."
+                        },
+                        {
+                            "verse": 107,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:107",
+                            "text": "He was slain by his own brother Typhon; and therefore Isis with Horos her son fled for refuge to Byblus in Syria, mourning for Osiris with bitter lamentation, until Horos grew up and slew Typhon."
+                        },
+                        {
+                            "verse": 108,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:108",
+                            "text": "So that neither had Isis power to help her own brother and husband; nor could Osiris defend himself when he was being slain by Typhon; nor did Typhon, the slayer of his brother, when he was perishing at the hands of Horos and Isis, find means to rescue himself from death."
+                        },
+                        {
+                            "verse": 109,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:109",
+                            "text": "And though they were revealed in their true character by such mishaps, they were believed to be very gods by the simple Egyptians, who were not satisfied even with these or the other deities of the nations, but brought forward also brute creatures as gods."
+                        },
+                        {
+                            "verse": 110,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:110",
+                            "text": "For some of them worshipped the sheep, and some the goat; another tribe (worshipped) the bull and the pig; others again, the raven and the hawk, and the vulture and the eagle; and others the crocodile; and some the cat and the dog, and the wolf and the ape, and the dragon and the asp; and others the onion and the garlic and thorns and other created things."
+                        },
+                        {
+                            "verse": 111,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:111",
+                            "text": "And the poor creatures do not perceive about all these that they are utterly helpless."
+                        },
+                        {
+                            "verse": 112,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:112",
+                            "text": "For though they see their gods eaten by men of other tribes, and burnt as offerings and slain as victims and mouldering in decay, they have not perceived that they are not gods."
+                        },
+                        {
+                            "verse": 113,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:113",
+                            "text": "XIII."
+                        },
+                        {
+                            "verse": 114,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:114",
+                            "text": "So the Egyptians and the Chaldaeans and the Greeks made a great error in bringing forward such beings as gods, and in making images of them, and in deifying dumb and senseless idols."
+                        },
+                        {
+                            "verse": 115,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:115",
+                            "text": "And I wonder how they saw their gods sawn out and hacked and docked by the workmen, and besides aging with time and falling to pieces, and being cast from metal, and yet did not discern concerning them that they were not gods."
+                        },
+                        {
+                            "verse": 116,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:116",
+                            "text": "For when they have no power to see to their own safety, how will they take forethought for men?  But further, the poets and philosophers, alike of the Chaldaeans and the Greeks and the Egyptians, while they desired by their poems and writings to magnify the gods of their countries, rather revealed their shame, and laid it bare before all men."
+                        },
+                        {
+                            "verse": 117,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:117",
+                            "text": "For if the body of man while consisting of many parts does not cast off any of its own members, but preserving an unbroken unity in all its members, is harmonious with itself, how shall variance and discord be so great in the nature of God?  For if there had been a unity of nature among the gods, then one god ought not to have pursued or slain or injured another."
+                        },
+                        {
+                            "verse": 118,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:118",
+                            "text": "And if the gods were pursued by gods, and slain, and kidnapped and struck with lightning by them, then there is no longer any unity of nature, but divided counsels, all mischievous."
+                        },
+                        {
+                            "verse": 119,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:119",
+                            "text": "So that not one of them is a god."
+                        },
+                        {
+                            "verse": 120,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:120",
+                            "text": "It is clear then, O King, that all their discourse on the nature of the gods is an error."
+                        },
+                        {
+                            "verse": 121,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:121",
+                            "text": "But how did the wise and erudite men of the Greeks not observe that inasmuch as they make laws for themselves they are judged by their own laws?  For if the laws are righteous, their gods are altogether unrighteous, as they have committed transgressions of laws, in slaying one another, and practising sorceries, and adultery and thefts and intercourse with males."
+                        },
+                        {
+                            "verse": 122,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:122",
+                            "text": "If they were right in doing these things, then the laws are unrighteous, being framed contrary to the gods."
+                        },
+                        {
+                            "verse": 123,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:123",
+                            "text": "Whereas in fact, the laws are good and just, commending what is good and forbidding what is bad."
+                        },
+                        {
+                            "verse": 124,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:124",
+                            "text": "But the deeds of their gods are contrary to law."
+                        },
+                        {
+                            "verse": 125,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:125",
+                            "text": "Their gods, therefore, are lawbreakers, and all liable to the punishment of death; and they are impious men who introduce such gods."
+                        },
+                        {
+                            "verse": 126,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:126",
+                            "text": "For if the stories about them be mythical, the gods are nothing more than mere names; and if the stories be founded on nature, still they who did and suffered these things are no longer gods; and if the stories be allegorical, they are myths and nothing more."
+                        },
+                        {
+                            "verse": 127,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:127",
+                            "text": "It has been shown then, O King, that all these polytheistic objects of worship are the works of error and perdition."
+                        },
+                        {
+                            "verse": 128,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:128",
+                            "text": "For it is not right to give the name of gods to beings which may be seen but cannot see; but one ought to reverence the invisible and all-seeing and all-creating God."
+                        },
+                        {
+                            "verse": 129,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:129",
+                            "text": "XIV."
+                        },
+                        {
+                            "verse": 130,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:130",
+                            "text": "Let us proceed then, O King, to the Jews also, that we may see what truth there is in their view of God."
+                        },
+                        {
+                            "verse": 131,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:131",
+                            "text": "For they were descendants of Abraham and Isaac and Jacob, and migrated to Egypt."
+                        },
+                        {
+                            "verse": 132,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:132",
+                            "text": "And thence God brought them forth with a mighty hand and an uplifted arm through Moses, their lawgiver; and by many wonders and signs He made known His power to them."
+                        },
+                        {
+                            "verse": 133,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:133",
+                            "text": "But even they proved stubborn and ungrateful, and often served the idols of the nations, and put to death the prophets and just men who were sent to them."
+                        },
+                        {
+                            "verse": 134,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:134",
+                            "text": "Then when the Son of God was pleased to come upon the earth, they received him with wanton violence and betrayed him into the hands of Pilate the Roman governor; and paying no respect to his good deeds and the countless miracles he wrought among them, they demanded a sentence of death by the cross."
+                        },
+                        {
+                            "verse": 135,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:135",
+                            "text": "And they perished by their own transgression; for to this day they worship the one God Almighty, but not according to knowledge."
+                        },
+                        {
+                            "verse": 136,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:136",
+                            "text": "For they deny that Christ is the Son of God; and they are much like to the heathen, even although they may seem to make some approach to the truth from which they have removed themselves."
+                        },
+                        {
+                            "verse": 137,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:137",
+                            "text": "So much for the Jews."
+                        },
+                        {
+                            "verse": 138,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:138",
+                            "text": "XV."
+                        },
+                        {
+                            "verse": 139,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:139",
+                            "text": "Now the Christians trace their origin from the Lord Jesus Christ."
+                        },
+                        {
+                            "verse": 140,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:140",
+                            "text": "And He is acknowledged by the Holy Spirit to be the son of the most high God, who came down from heaven for the salvation of men."
+                        },
+                        {
+                            "verse": 141,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:141",
+                            "text": "And being born of a pure virgin, unbegotten and immaculate, He assumed flesh and revealed himself among men that He might recall them to Himself from their wandering after many gods."
+                        },
+                        {
+                            "verse": 142,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:142",
+                            "text": "And having accomplished His wonderful dispensation, by a voluntary choice He tasted death on the cross, fulfilling an august dispensation."
+                        },
+                        {
+                            "verse": 143,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:143",
+                            "text": "And after three days He came to life again and ascended into heaven."
+                        },
+                        {
+                            "verse": 144,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:144",
+                            "text": "And if you would read, O King, you may judge the glory of His presence from the holy gospel writing, as it is called among themselves."
+                        },
+                        {
+                            "verse": 145,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:145",
+                            "text": "He had twelve disciples, who after His ascension to heaven went forth into the provinces of the whole world, and declared His greatness."
+                        },
+                        {
+                            "verse": 146,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:146",
+                            "text": "As for instance, one of them traversed the countries about us, proclaiming the doctrine of the truth."
+                        },
+                        {
+                            "verse": 147,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:147",
+                            "text": "From this it is, that they who still observe the righteousness enjoined by their preaching are called Christians."
+                        },
+                        {
+                            "verse": 148,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:148",
+                            "text": "And these are they who more than all the nations on the earth have found the truth."
+                        },
+                        {
+                            "verse": 149,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:149",
+                            "text": "For they know God, the Creator and Fashioner of all things through the only-begotten Son and the Holy Spirit; and beside Him they worship no other God."
+                        },
+                        {
+                            "verse": 150,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:150",
+                            "text": "They have the commands of the Lord Jesus Christ Himself graven upon their hearts; and they observe them, looking forward to the resurrection of the dead and life in the world to come."
+                        },
+                        {
+                            "verse": 151,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:151",
+                            "text": "They do not commit adultery nor fornication, nor bear false witness, nor covet the things of others; they honour father and mother, and love their neighbours; they judge justly, and they never do to others what they would not wish to happen to themselves; they appeal to those who injure them, and try to win them as friends; they are eager to do good to their enemies; they are gentle and easy to be entreated; they abstain from all unlawful conversation and from all impurity; they despise not the widow, nor oppress the orphan; and he that has, gives ungrudgingly for the maintenance of him who has not."
+                        },
+                        {
+                            "verse": 152,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:152",
+                            "text": "If they see a stranger, they take him under their roof, and rejoice over him as over a very brother; for they call themselves brethren not after the flesh but after the spirit."
+                        },
+                        {
+                            "verse": 153,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:153",
+                            "text": "And they are ready to sacrifice their lives for the sake of Christ; for they observe His commands without swerving, and live holy and just lives, as the Lord God enjoined upon them."
+                        },
+                        {
+                            "verse": 154,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:154",
+                            "text": "And they give thanks unto Him every hour, for all meat and drink and other blessings."
+                        },
+                        {
+                            "verse": 155,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:155",
+                            "text": "XVI."
+                        },
+                        {
+                            "verse": 156,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:156",
+                            "text": "Verily then, this is the way of the truth which leads those who travel therein to the everlasting kingdom promised through Christ in the life to come."
+                        },
+                        {
+                            "verse": 157,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:157",
+                            "text": "And that you may know, O King, that in saying these things I do not speak at my own instance, if you deign to look into the writings of the Christians, you will find that I state nothing beyond the truth."
+                        },
+                        {
+                            "verse": 158,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:158",
+                            "text": "Rightly then, did thy son apprehend, and justly was he taught to serve the living God and to be saved for the age that is destined to come upon us."
+                        },
+                        {
+                            "verse": 159,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:159",
+                            "text": "For great and wonderful are the sayings and deeds of the Christians; for they speak not the words of men but those of God."
+                        },
+                        {
+                            "verse": 160,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:160",
+                            "text": "But the rest of the nations go astray and deceive themselves; for they walk in darkness and bruise themselves like drunken men."
+                        },
+                        {
+                            "verse": 161,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:161",
+                            "text": "XVII."
+                        },
+                        {
+                            "verse": 162,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:162",
+                            "text": "Thus far, O King, extends my discourse to you, which has been dictated in my mind by the Truth."
+                        },
+                        {
+                            "verse": 163,
+                            "chapter": 1,
+                            "name": "The Apology of Aristides 1:163",
+                            "text": "Wherefore let thy foolish sages cease their idle talk against the Lord; for it is profitable for you to worship God the Creator, and to give ear to His incorruptible words, that ye may escape from condemnation and punishment, and be found to be heirs of life everlasting."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

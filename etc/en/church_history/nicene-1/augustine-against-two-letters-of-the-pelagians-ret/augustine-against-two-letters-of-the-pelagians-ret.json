@@ -1,0 +1,39 @@
+{
+    "books": [
+        {
+            "name": "Augustine: Against Two Letters of the Pelagians (Retractions)",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Augustine: Against Two Letters of the Pelagians (Retractions) 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Augustine: Against Two Letters of the Pelagians (Retractions) 1:1",
+                            "text": "Against Two Letters of the Pelagians: Extract from Augustin's \"Retractations,\"  Book II."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Augustine: Against Two Letters of the Pelagians (Retractions) 1:2",
+                            "text": "Chapter 61,  On the Following Treatise,  \"contra duas epistolas pelagianorum\"."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Augustine: Against Two Letters of the Pelagians (Retractions) 1:3",
+                            "text": "Then follow four books which I wrote to Boniface, bishop of the Roman Church, in opposition to two letters of the Pelagians, because when they came into his hands he had sent them to me, finding in them a calumnious mention of my name."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Augustine: Against Two Letters of the Pelagians (Retractions) 1:4",
+                            "text": "This work commences on this wise: \"I had indeed known you by the praise of your renowned fame\"."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

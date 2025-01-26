@@ -1,0 +1,2901 @@
+{
+    "books": [
+        {
+            "name": "Socrates: Book V",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Socrates: Book V 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Socrates: Book V 1:1",
+                            "text": "Socrates, Book V."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Socrates: Book V 1:2",
+                            "text": "Introduction."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Socrates: Book V 1:3",
+                            "text": "Before we begin the fifth book of our history, we must beg those who may peruse this treatise, not to censure us too hastily because having set out to write a church history we still intermingle with ecclesiastical matters, such an account of the wars which took place during the period under consideration, as could be duly authenticated."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Socrates: Book V 1:4",
+                            "text": "For this we have done for several reasons: first, in order to lay before our readers an exact statement of facts; but secondly, in order that the minds of the readers might not become satiated with the repetition of the contentious disputes of bishops, and their insidious designs against one another; but more especially that it might be made apparent, that whenever the affairs of the state were disturbed, those of the Church, as if by some vital sympathy, became disordered also."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Socrates: Book V 1:5",
+                            "text": "Indeed whoever shall attentively examine the subject will find, that the mischiefs of the state, and the troubles of the church have been inseparably connected; for he will perceive that they have either arisen together, or immediately succeeded one another."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Socrates: Book V 1:6",
+                            "text": "Sometimes the affairs of the Church come first in order; then commotions in the state follow, and sometimes the reverse, so that I cannot believe this invariable interchange is merely fortuitous, but am persuaded that it proceeds from our iniquities; and that these evils are inflicted upon us as merited chastisements, if indeed as the apostle truly says, 'Some men's sins are open beforehand, going before to judgment; and some men they follow after."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "Socrates: Book V 1:7",
+                            "text": "'  For this reason we have interwoven many affairs of the state with our ecclesiastical history."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 1,
+                            "name": "Socrates: Book V 1:8",
+                            "text": "Of the wars carried on during the reign of Constantine we have made no mention, having found no account of them that could be depended upon because of their iniquity: but of subsequent events, as much information as we could gather from those still living  in the order of their occurrence, we have passed in rapid review."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 1,
+                            "name": "Socrates: Book V 1:9",
+                            "text": "We have continually included the emperors in these historical details; because from the time they began to profess the Christian religion, the affairs of the Church have depended on them, so that even the greatest Synods have been, and still are convened by their appointment."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 1,
+                            "name": "Socrates: Book V 1:10",
+                            "text": "Finally, we have particularly noticed the Arian heresy, because it has so greatly disquieted the churches."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 1,
+                            "name": "Socrates: Book V 1:11",
+                            "text": "Let these remarks be considered sufficient in the way of preface: we shall now proceed with our history."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 1,
+                            "name": "Socrates: Book V 1:12",
+                            "text": "Chapter I."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 1,
+                            "name": "Socrates: Book V 1:13",
+                            "text": "—After the Death of Valens the Goths again attack Constantinople, and are repulsed by the Citizens, aided by Some Saracen Auxiliaries."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 1,
+                            "name": "Socrates: Book V 1:14",
+                            "text": "After the Emperor Valens had thus lost his life, in a manner which has never been satisfactorily ascertained,  the barbarians again approached the very walls of Constantinople, and laid waste the suburbs on every side of it."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 1,
+                            "name": "Socrates: Book V 1:15",
+                            "text": "Whereat the people becoming indignant armed themselves with whatever weapons they could severally lay hands on, and sallied forth of their own accord against the enemy."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 1,
+                            "name": "Socrates: Book V 1:16",
+                            "text": "The empress Dominica caused the same pay to be distributed out of the imperial treasury to such as volunteered to go out on this service, as was usually allowed to soldiers."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 1,
+                            "name": "Socrates: Book V 1:17",
+                            "text": "A few Saracens also assisted the citizens, being confederates, who had been sent by Mavia their queen: the latter we have already mentioned."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 1,
+                            "name": "Socrates: Book V 1:18",
+                            "text": "In this way the people having fought at this time, the barbarians retired to a great distance from the city."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 2,
+                    "name": "Socrates: Book V 2",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 2,
+                            "name": "Socrates: Book V 2:1",
+                            "text": "Chapter II."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 2,
+                            "name": "Socrates: Book V 2:2",
+                            "text": "—The Emperor Gratian recalls the Orthodox Bishops, and expels the Heretics from the Churches."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 2,
+                            "name": "Socrates: Book V 2:3",
+                            "text": "He takes Theodosius as his Colleague in the Empire."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 2,
+                            "name": "Socrates: Book V 2:4",
+                            "text": "Gratian being now in possession of the empire, together with Valentinian the younger, and condemning the cruel policy of his uncle Valens towards the [orthodox] Christians, recalled those whom he had sent into exile."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 2,
+                            "name": "Socrates: Book V 2:5",
+                            "text": "He moreover enacted that persons of all sects, without distinction, might securely assemble together in their churches; and that only the Eunomians,  Photinians,  and Manichaeans  should be excluded from the churches."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 2,
+                            "name": "Socrates: Book V 2:6",
+                            "text": "Being also sensible of the languishing condition of the Roman empire, and of the growing power of the barbarians and perceiving that the state was in need of a brave and prudent man, he took Theodosius as his colleague in the sovereign power."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 2,
+                            "name": "Socrates: Book V 2:7",
+                            "text": "This [Theodosius] was descended from a noble family in Spain, and had acquired so distinguished a celebrity for his prowess in the wars, that he was universally considered worthy of imperial dignity, even before Gratian's election of him."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 2,
+                            "name": "Socrates: Book V 2:8",
+                            "text": "Having therefore proclaimed him emperor at Sirmium a city of Illyricum in the consulate  of Ausonius and Olybrius, on the 16th of January, he divided with him the care of managing the war against the barbarians."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 3,
+                    "name": "Socrates: Book V 3",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 3,
+                            "name": "Socrates: Book V 3:1",
+                            "text": "Chapter III."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 3,
+                            "name": "Socrates: Book V 3:2",
+                            "text": "—The Principal Bishops who flourished at that Time."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 3,
+                            "name": "Socrates: Book V 3:3",
+                            "text": "Now at this time Damasus who had succeeded Liberius then presided over the church at Rome."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 3,
+                            "name": "Socrates: Book V 3:4",
+                            "text": "Cyril was still in possession of that at Jerusalem."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 3,
+                            "name": "Socrates: Book V 3:5",
+                            "text": "The Antiochian church, as we have stated, was divided into three parts: for the Arians had chosen Dorotheus as the successor of their bishop Euzoïus; while one portion of the rest was under the government of Paulinus, and the others ranged themselves with Melitius, who had been recalled from exile."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 3,
+                            "name": "Socrates: Book V 3:6",
+                            "text": "Lucius, although absent, having been compelled to leave Alexandria, yet maintained the episcopal authority among the Arians of that city; the Homoousians there being headed by Timothy, who succeeded Peter."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 3,
+                            "name": "Socrates: Book V 3:7",
+                            "text": "At Constantinople Demophilus the successor of Eudoxius presided over the Arian faction, and was in possession of the churches; but those who were averse to communion with him held their assemblies apart."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 4,
+                    "name": "Socrates: Book V 4",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 4,
+                            "name": "Socrates: Book V 4:1",
+                            "text": "Chapter IV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 4,
+                            "name": "Socrates: Book V 4:2",
+                            "text": "—The Macedonians, who had subscribed the 'Homoousian' Doctrine, return to their Former Error."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 4,
+                            "name": "Socrates: Book V 4:3",
+                            "text": "After the deputation from the Macedonians to Liberius, that sect was admitted to entire communion with the churches in every city, intermixing themselves indiscriminately with those who from the beginning had embraced the form of faith published at Nicaea."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 4,
+                            "name": "Socrates: Book V 4:4",
+                            "text": "But when the law of the Emperor Gratian permitted the several sects to reunite without restraint in the public services of religion, they again resolved to separate themselves; and having met at Antioch in Syria, they decided to avoid the word homoousios again, and in no way to hold communion with the supporters of the Nicene Creed."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 4,
+                            "name": "Socrates: Book V 4:5",
+                            "text": "They however derived no advantage from this attempt; for the majority of their own party being disgusted at the fickleness with which they sometimes maintained one opinion, and then another, withdrew from them, and thenceforward became firm adherents of those who professed the doctrine of the homoousion."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 5,
+                    "name": "Socrates: Book V 5",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 5,
+                            "name": "Socrates: Book V 5:1",
+                            "text": "Chapter V."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 5,
+                            "name": "Socrates: Book V 5:2",
+                            "text": "—Events at Antioch in Connection with Paulinus and Meletius."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 5,
+                            "name": "Socrates: Book V 5:3",
+                            "text": "About this time a serious contest was excited at Antioch in Syria, on account of Melitius."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 5,
+                            "name": "Socrates: Book V 5:4",
+                            "text": "We have already observed  that Paulinus, bishop of that city, because of his eminent piety was not sent into exile: and that Melitius after being restored by Julian, was again banished by Valens, and at length recalled in Gratian's reign."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 5,
+                            "name": "Socrates: Book V 5:5",
+                            "text": "On his return to Antioch, he found Paulinus greatly enfeebled by old age; his partisans therefore immediately used their utmost endeavors to get him associated with that bishop in the episcopal office."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 5,
+                            "name": "Socrates: Book V 5:6",
+                            "text": "And when Paulinus declared that 'it was contrary to the canons  to take as a coadjutor one who had been ordained by the Arians,' the people had recourse to violence, and caused him to be consecrated in one of the churches without the city."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 5,
+                            "name": "Socrates: Book V 5:7",
+                            "text": "When this was done, a great disturbance arose; but afterwards the people were brought to unite on the following stipulations."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 5,
+                            "name": "Socrates: Book V 5:8",
+                            "text": "Having assembled such of the clergy as might be considered worthy candidates for the bishopric, they found them six in number, of whom Flavian was one."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 5,
+                            "name": "Socrates: Book V 5:9",
+                            "text": "All these they bound by an oath, not to use any effort to get themselves ordained, when either of the two bishops should die, but to permit the survivor to retain undisturbed possession of the see of the deceased."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 5,
+                            "name": "Socrates: Book V 5:10",
+                            "text": "Thus pledges were given, and the people had peace and so no longer quarreled with one another."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 5,
+                            "name": "Socrates: Book V 5:11",
+                            "text": "The Luciferians,  however, separated themselves from the rest, because Melitius who had been ordained by the Arians was admitted to the episcopate."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 5,
+                            "name": "Socrates: Book V 5:12",
+                            "text": "In this state of the Antiochian church, Melitius was under the necessity of going to Constantinople."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 6,
+                    "name": "Socrates: Book V 6",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 6,
+                            "name": "Socrates: Book V 6:1",
+                            "text": "Chapter VI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 6,
+                            "name": "Socrates: Book V 6:2",
+                            "text": "—Gregory of Nazianzus is transferred to the See of Constantinople."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 6,
+                            "name": "Socrates: Book V 6:3",
+                            "text": "The Emperor Theodosius falling Sick at Thessalonica, after his Victory over the Barbarians, is there baptized by Ascholius the Bishop."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 6,
+                            "name": "Socrates: Book V 6:4",
+                            "text": "By the common suffrage of many bishops, Gregory was at this time translated from the see of Nazianzus to that of Constantinople,  and this happened in the manner before described."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 6,
+                            "name": "Socrates: Book V 6:5",
+                            "text": "About the same time the emperors Gratian and Theodosius each obtained a victory over the barbarians."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 6,
+                            "name": "Socrates: Book V 6:6",
+                            "text": "And Gratian immediately set out for Gaul, because the Alemanni were ravaging those provinces: but Theodosius, after erecting a trophy, hastened towards Constantinople, and arrived at Thessalonica."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 6,
+                            "name": "Socrates: Book V 6:7",
+                            "text": "There he was taken dangerously ill, and expressed a desire to receive Christian baptism."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 6,
+                            "name": "Socrates: Book V 6:8",
+                            "text": "Now he had been instructed in Christian principles by his ancestors, and professed the 'homoousian' faith."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 6,
+                            "name": "Socrates: Book V 6:9",
+                            "text": "Becoming increasingly anxious to be baptized therefore, as his malady grew worse, he sent for the bishop of Thessalonica, and first asked him what doctrinal views he held? The bishop having replied, 'that the opinion of Arius had not yet invaded the provinces of Illyricum, nor had the novelty to which that heretic had given birth begun to prey upon the churches in those countries; but they continued to preserve unshaken that faith which from the beginning was delivered by the apostles, and had been confirmed in the Nicene Synod,' the emperor was most gladly baptized by the bishop Ascholius; and having recovered from his disease not many days after, he came to Constantinople on the twenty-fourth of November, in the fifth consulate of Gratian, and the first of his own."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 7,
+                    "name": "Socrates: Book V 7",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 7,
+                            "name": "Socrates: Book V 7:1",
+                            "text": "Chapter VII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 7,
+                            "name": "Socrates: Book V 7:2",
+                            "text": "—Gregory, finding Some Dissatisfaction about his Appointment, abdicates the Episcopate of Constantinople."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 7,
+                            "name": "Socrates: Book V 7:3",
+                            "text": "The Emperor orders Demophilus the Arian Bishop either to assent to the 'Homoousion,' or leave the City."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 7,
+                            "name": "Socrates: Book V 7:4",
+                            "text": "He chooses the Latter."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 7,
+                            "name": "Socrates: Book V 7:5",
+                            "text": "Now at that time Gregory of Nazianzus, after his translation to Constantinople, held his assemblies within the city in a small oratory, adjoining to which the emperors afterwards built a magnificent church, and named it Anastasia."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 7,
+                            "name": "Socrates: Book V 7:6",
+                            "text": "But Gregory, who far excelled in eloquence and piety all those of the age in which he lived, understanding that some murmured at his preferment because he was a stranger, after expressing his joy at the emperor's arrival, resigned the bishopric of Constantinople."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 7,
+                            "name": "Socrates: Book V 7:7",
+                            "text": "When the emperor found the church in this state, he began to consider by what means he could make peace, effect a union, and enlarge the churches."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 7,
+                            "name": "Socrates: Book V 7:8",
+                            "text": "Immediately, therefore, he intimated his desire to Demophilus,  who presided over the Arian party; and enquired whether he was willing to assent to the Nicene Creed, and thus reunite the people, and establish peace."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 7,
+                            "name": "Socrates: Book V 7:9",
+                            "text": "Upon Demophilus' declining to accede to this proposal, the emperor said to him, 'Since you reject peace and harmony, I order you to quit the churches."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 7,
+                            "name": "Socrates: Book V 7:10",
+                            "text": "' When Demophilus heard this, weighing with himself the difficulty of contending against superior power, he convoked his followers in the church, and standing in the midst of them, thus spoke: 'Brethren, it is written in the Gospel,  \"If they persecute you in one city, flee ye into another\"."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 7,
+                            "name": "Socrates: Book V 7:11",
+                            "text": "Since therefore the emperor needs the churches, take notice that we will henceforth hold our assemblies without the city."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 7,
+                            "name": "Socrates: Book V 7:12",
+                            "text": "' Having said this he departed; not however as rightly apprehending the meaning of that expression in the Evangelist, for the real import of the sacred oracle is that such as would avoid the course of this world must seek the heavenly Jerusalem."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 7,
+                            "name": "Socrates: Book V 7:13",
+                            "text": "He therefore went outside the city gates, and there in future held his assemblies."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 7,
+                            "name": "Socrates: Book V 7:14",
+                            "text": "With him also Lucius went out, who being ejected from Alexandria, as we have before related,  had made his escape to Constantinople, and there abode."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 7,
+                            "name": "Socrates: Book V 7:15",
+                            "text": "Thus the Arians, after having been in possession of the churches for forty years, were in consequence of their opposition to the peace proposed by the emperor Theodosius, driven out of the city, in Gratian's fifth consulate,  and the first of Theodosius Angustus, on the 26th of November."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 7,
+                            "name": "Socrates: Book V 7:16",
+                            "text": "The adherents of the 'homoousian' faith in this manner regained possession of the churches."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 8,
+                    "name": "Socrates: Book V 8",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 8,
+                            "name": "Socrates: Book V 8:1",
+                            "text": "Chapter VIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 8,
+                            "name": "Socrates: Book V 8:2",
+                            "text": "—A Synod consisting of One Hundred and Fifty Bishops meets at Constantinople."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 8,
+                            "name": "Socrates: Book V 8:3",
+                            "text": "The Decrees passed."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 8,
+                            "name": "Socrates: Book V 8:4",
+                            "text": "Ordination of Nectarius."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 8,
+                            "name": "Socrates: Book V 8:5",
+                            "text": "The emperor making no delay summoned a Synod  of the prelates of his own faith, in order that he might establish the Nicene Creed, and appoint a bishop of Constantinople: and inasmuch as he was not without hope that he might win the Macedonians over to his own views, he invited those who presided over that sect to be present also."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 8,
+                            "name": "Socrates: Book V 8:6",
+                            "text": "There met therefore on this occasion of the Homoousian party, Timothy from Alexandria, Cyril from Jerusalem, who at that time recognized the doctrine of homoousion,  having retracted his former opinion; Melitius from Antioch, he having arrived there previously to assist at the installation of Gregory; Ascholius also from Thessalonica, and many others, amounting in all to one hundred and fifty."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 8,
+                            "name": "Socrates: Book V 8:7",
+                            "text": "Of the Macedonians, the leaders were Eleusius of Cyzicus, and Marcian of Lampsacus; these with the rest, most of whom came from the cities of the Hellespont, were thirty-six in number."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 8,
+                            "name": "Socrates: Book V 8:8",
+                            "text": "Accordingly they were assembled in the month of May, under the consulate  of Eucharius and Evagrius, and the emperor used his utmost exertions, in conjunction with the bishops who entertained similar sentiments to his own, to bring over Eleusius and his adherents to his own side."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 8,
+                            "name": "Socrates: Book V 8:9",
+                            "text": "They were reminded of the deputation they had sent by Eustathius to Liberius  then bishop of Rome; that they had of their own accord not long before entered into promiscuous communion with the orthodox; and the inconsistency and fickleness of their conduct was represented to them, in now attempting to subvert the faith which they once acknowledged, and professed agreement with the catholics in."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 8,
+                            "name": "Socrates: Book V 8:10",
+                            "text": "But they paying little heed alike to admonitions and reproofs, chose rather to maintain the Arian dogma, than to assent to the 'homoousian' doctrine."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 8,
+                            "name": "Socrates: Book V 8:11",
+                            "text": "Having made this declaration, they departed from Constantinople; moreover they wrote to their partisans in every city, and charged them by no means to harmonize with the creed of the Nicene Synod."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 8,
+                            "name": "Socrates: Book V 8:12",
+                            "text": "The bishops of the other party remaining at Constantinople, entered into a consultation about the ordination of a bishop; for Gregory, as we have before said,  had resigned that see, and was preparing to return to Nazianzus."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 8,
+                            "name": "Socrates: Book V 8:13",
+                            "text": "Now there was a person named Nectarius, of a senatorial family, mild and gentle in his manners, and admirable in his whole course of life, although he at that time bore the office of proctor."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 8,
+                            "name": "Socrates: Book V 8:14",
+                            "text": "This man was seized upon by the people, and elected  to the episcopate, and was ordained accordingly by one hundred and fifty bishops then present."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 8,
+                            "name": "Socrates: Book V 8:15",
+                            "text": "The same prelates moreover published a decree,  prescribing 'that the bishop of Constantinople should have the next prerogative of honor after the bishop of Rome, because that city was New Rome."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 8,
+                            "name": "Socrates: Book V 8:16",
+                            "text": "' They also again confirmed the Nicene Creed."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 8,
+                            "name": "Socrates: Book V 8:17",
+                            "text": "Then too patriarchs were constituted, and the provinces distributed, so that no bishop might exercise any jurisdiction over other churches  out of his own diocese: for this had been often indiscriminately done before, in consequence of the persecutions."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 8,
+                            "name": "Socrates: Book V 8:18",
+                            "text": "To Nectarius therefore was allotted the great city and Thrace."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 8,
+                            "name": "Socrates: Book V 8:19",
+                            "text": "Helladius, the successor of Basil in the bishopric of Caesarea in Cappadocia, obtained the patriarchate of the diocese of Pontus in conjunction with Gregory Basil's brother, bishop of Nyssa  in Cappadocia, and Otreïus bishop of Melitina in Armenia."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 8,
+                            "name": "Socrates: Book V 8:20",
+                            "text": "To Amphilochius of Iconium and Optimus of Antioch in Pisidia, was the Asiatic diocese assigned."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 8,
+                            "name": "Socrates: Book V 8:21",
+                            "text": "The superintendence of the churches throughout Egypt was committed to Timothy of Alexandria."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 8,
+                            "name": "Socrates: Book V 8:22",
+                            "text": "On Pelagius of Laodicea, and Diodorus of Tarsus, devolved the administration of the churches of the East; without infringement however on the prerogatives of honor reserved to the Antiochian church, and conferred on Melitius then present."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 8,
+                            "name": "Socrates: Book V 8:23",
+                            "text": "They further decreed that as necessity required it, the ecclesiastical affairs of each province should be managed by a Synod of the province."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 8,
+                            "name": "Socrates: Book V 8:24",
+                            "text": "These arrangements were confirmed by the emperor's approbation."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 8,
+                            "name": "Socrates: Book V 8:25",
+                            "text": "Such was the result of this Synod."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 9,
+                    "name": "Socrates: Book V 9",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 9,
+                            "name": "Socrates: Book V 9:1",
+                            "text": "Chapter IX."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 9,
+                            "name": "Socrates: Book V 9:2",
+                            "text": "—The Body of Paul, Bishop of Constantinople, is honorably transferred from his Place of Exile."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 9,
+                            "name": "Socrates: Book V 9:3",
+                            "text": "Death of Meletius."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 9,
+                            "name": "Socrates: Book V 9:4",
+                            "text": "The emperor at that time caused to be removed from the city of Ancyra, the body of the bishop Paul, whom Philip the prefect of the Praetorium  had banished at the instigation of Macedonius, and ordered to be strangled at Cucusus a town of Armenia, as I have already mentioned."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 9,
+                            "name": "Socrates: Book V 9:5",
+                            "text": "He therefore received the remains with great reverence and honor, and deposited in the church which now takes its name from him; which the Macedonian party were formerly in possession of while they remained separate from the Arians, but were expelled at that time by the emperor, because they refused to adopt his sentiments."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 9,
+                            "name": "Socrates: Book V 9:6",
+                            "text": "About this period Melitius, bishop of Antioch, fell sick and died: in whose praise Gregory, the brother of Basil, pronounced a funeral oration."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 9,
+                            "name": "Socrates: Book V 9:7",
+                            "text": "The body of the deceased bishop was by his friends conveyed to Antioch; where those who had identified themselves with his interests again refused subjection to Paulinus, but caused Flavian to be substituted in the place of Melitius, and the people began to quarrel anew."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 9,
+                            "name": "Socrates: Book V 9:8",
+                            "text": "Thus again the Antiochian church was divided into rival factions, not grounded on any difference of faith, but simply on a preference of bishops."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 10,
+                    "name": "Socrates: Book V 10",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 10,
+                            "name": "Socrates: Book V 10:1",
+                            "text": "Chapter X."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 10,
+                            "name": "Socrates: Book V 10:2",
+                            "text": "—The Emperor orders a Convention composed of All the Various Sects."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 10,
+                            "name": "Socrates: Book V 10:3",
+                            "text": "Arcadius is proclaimed Augustus."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 10,
+                            "name": "Socrates: Book V 10:4",
+                            "text": "The Novatians permitted to hold their Assemblies in the City of Constantinople: Other Heretics driven out."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 10,
+                            "name": "Socrates: Book V 10:5",
+                            "text": "Great disturbances occurred in other cities also, as the Arians were ejected from the churches."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 10,
+                            "name": "Socrates: Book V 10:6",
+                            "text": "But I cannot sufficiently admire the emperor's prudence in this contingency."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 10,
+                            "name": "Socrates: Book V 10:7",
+                            "text": "For he was unwilling to fill the cities with disturbance, as far as this was dependent on him, and so after a very short time  he called together a general conference of the sects, thinking that by a discussion among their bishops, their mutual differences might be adjusted, and unanimity established."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 10,
+                            "name": "Socrates: Book V 10:8",
+                            "text": "And this purpose of the emperor's I am persuaded was the reason that his affairs were so prosperous at that time."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 10,
+                            "name": "Socrates: Book V 10:9",
+                            "text": "In fact by a special dispensation of Divine Providence the barbarous nations were reduced to subjection under him: and among others, Athanaric king of the Goths made a voluntary surrender of himself to him,  with all his people, and died soon after at Constantinople."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 10,
+                            "name": "Socrates: Book V 10:10",
+                            "text": "At this juncture the emperor proclaimed his son Arcadius Augustus, on the sixteenth of January, in the second consulate  of Merobaudes and Saturnilus."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 10,
+                            "name": "Socrates: Book V 10:11",
+                            "text": "Not long afterwards in the month of June, under the same consulate, the bishops of every sect arrived from all places: the emperor, therefore, sent for Nectarius the bishop, and consulted with him on the best means of freeing the Christian religion from dissensions, and reducing the church to a state of unity."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 10,
+                            "name": "Socrates: Book V 10:12",
+                            "text": "'The subjects of controversy,' said he, 'ought to be fairly discussed, that by the detection and removal of the sources of discord, a universal agreement may be effected."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 10,
+                            "name": "Socrates: Book V 10:13",
+                            "text": "' Hearing this proposition Nectarius fell into uneasiness, and communicated it to Agelius bishop of the Novatians, inasmuch as he entertained the same sentiments as himself in matters of faith."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 10,
+                            "name": "Socrates: Book V 10:14",
+                            "text": "This man, though eminently pious, was by no means competent to maintain a dispute on doctrinal points; he therefore proposed to refer the subject to Sisinnius  his reader, as a fit person to manage a conference."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 10,
+                            "name": "Socrates: Book V 10:15",
+                            "text": "Sisinnius, who was not only learned, but possessed of great experience, and was well informed both in the expositions of the sacred Scriptures and the principles of philosophy, being convinced that disputations, far from healing divisions usually create heresies of a more inveterate character, gave the following advice to Nectarius, knowing well that the ancients have nowhere attributed a beginning of existence to the Son of God, conceiving him to be co-eternal with the Father, he advised that they should avoid dialectic warfare and bring forward as evidences of the truth the testimonies of the ancients."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 10,
+                            "name": "Socrates: Book V 10:16",
+                            "text": "'Let the emperor,' said he, 'demand of the heads of each sect, whether they would pay any deference to the ancients who flourished before schism distracted the church; or whether they would repudiate them, as alienated from the Christian faith? If they reject their authority, then let them also anathematize them: and should they presume to take such a step, they would themselves be instantly thrust out by the people, and so the truth will be manifestly victorious."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 10,
+                            "name": "Socrates: Book V 10:17",
+                            "text": "But if, on the other hand, they are not willing to set aside the fathers, it will then be our business to produce their books, by which our views will be fully attested."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 10,
+                            "name": "Socrates: Book V 10:18",
+                            "text": "' Nectarius having heard these words of Sisinnius, hastened to the palace, and acquainted the emperor with the plan which had been suggested to him; who at once perceiving its wisdom and propriety, carried it into execution with consummate prudence."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 10,
+                            "name": "Socrates: Book V 10:19",
+                            "text": "For without discovering his object, he simply asked the chiefs of the heretics whether they had any respect for and would accept the teachings of those teachers who lived previous to the dissension in the church? As they did not repudiate them, but replied that they highly revered them as their masters; the emperor enquired of them again whether they would defer to them as accredited witnesses of Christian doctrine? At this question, the leaders of the several parties, with their logical champions,—for many had come prepared for sophistical debate,—found themselves extremely embarrassed."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 10,
+                            "name": "Socrates: Book V 10:20",
+                            "text": "For a division was caused among them as some acquiesced in the reasonableness of the emperor's proposition while others shrunk from it, conscious that it was by no means favorable to their interests: so that all being variously affected towards the writings of the ancients, they could no longer agree among themselves, dissenting not only from other sects, but those of the same sect differing from one another."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 10,
+                            "name": "Socrates: Book V 10:21",
+                            "text": "Accordant malice therefore, like the tongue of the giants of old, was confounded, and their tower of mischief overturned."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 10,
+                            "name": "Socrates: Book V 10:22",
+                            "text": "The emperor perceiving by their confusion that their sole confidence was in subtle arguments, and that they feared to appeal to the expositions of the fathers, had recourse to another method: he commanded every sect to set forth in writing their own peculiar tenets."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 10,
+                            "name": "Socrates: Book V 10:23",
+                            "text": "Accordingly those who were accounted the most skillful among them, drew up a statement of their respective creeds, couched in terms the most circumspect they could devise; a day was appointed, and the bishops selected for this purpose presented themselves at the palace."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 10,
+                            "name": "Socrates: Book V 10:24",
+                            "text": "Nectarius and Agelius appeared as the defenders of the 'homoousian' faith; Demophilus supported the Arian dogma; Eunomius himself undertook the cause of the Eunomians; and Eleusius, bishop of Cyzicus, represented the opinions of those who were denominated Macedonians."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 10,
+                            "name": "Socrates: Book V 10:25",
+                            "text": "The emperor gave them all a courteous reception; and receiving from each their written avowal of faith, he shut himself up alone, and prayed very earnestly that God would assist him in his endeavors to ascertain the truth."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 10,
+                            "name": "Socrates: Book V 10:26",
+                            "text": "Then perusing with great care the statement which each had submitted to him, he condemned all the rest, inasmuch as they introduced a separation of the Trinity, and approved of that only which contained the doctrine of the homoousion."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 10,
+                            "name": "Socrates: Book V 10:27",
+                            "text": "This decision caused the Novatians to flourish again, and hold their meetings within the city: for the emperor delighted with the agreement of their profession with that which he embraced, promulgated a law securing to them the peaceful possession of their own church buildings, and assigned to their churches equal privileges with those to which he gave his more especial sanction."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 10,
+                            "name": "Socrates: Book V 10:28",
+                            "text": "But the bishops of the other sects, on account of their disagreement among themselves, were despised and censured even by their own followers: so that overwhelmed with perplexity and vexation they departed, addressing consolatory letters to their adherents, whom they exhorted not to be troubled because many had deserted them and gone over to the homoousian party; for they said, 'Many are called, but few chosen'  —an expression which they never used when on account of force and terror the majority of the people was on their side."
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 10,
+                            "name": "Socrates: Book V 10:29",
+                            "text": "Nevertheless the orthodox believers were not wholly exempt from inquietude; for the affairs of the Antiochian church caused divisions among those who were present at the Synod."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 10,
+                            "name": "Socrates: Book V 10:30",
+                            "text": "The bishops of Egypt, Arabia and Cyprus, combined against Flavian, and insisted on his expulsion from Antioch: but those of Palestine, Phoenicia, and Syria, contended with equal zeal in his favor."
+                        },
+                        {
+                            "verse": 31,
+                            "chapter": 10,
+                            "name": "Socrates: Book V 10:31",
+                            "text": "What result issued from this contest I shall describe in its proper place."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 11,
+                    "name": "Socrates: Book V 11",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 11,
+                            "name": "Socrates: Book V 11:1",
+                            "text": "Chapter XI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 11,
+                            "name": "Socrates: Book V 11:2",
+                            "text": "—The Emperor Gratian is slain by the Treachery of the Usurper Maximus."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 11,
+                            "name": "Socrates: Book V 11:3",
+                            "text": "From Fear of him Justina ceases persecuting Ambrose."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 11,
+                            "name": "Socrates: Book V 11:4",
+                            "text": "Nearly at the same time with the holding of these Synods at Constantinople, the following events occurred in the Western parts."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 11,
+                            "name": "Socrates: Book V 11:5",
+                            "text": "Maximus, from the island of Britain, rebelled against the Roman empire, and attacked Gratian, who was then wearied and exhausted in a war with the Alemanni."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 11,
+                            "name": "Socrates: Book V 11:6",
+                            "text": "In Italy, Valentinian being still a minor, Probus, a man of consular dignity, had the chief administration of affairs, and was at that time prefect of the Praetorium."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 11,
+                            "name": "Socrates: Book V 11:7",
+                            "text": "Justina, the mother of the young prince, who entertained Arian sentiments, as long as her husband lived had been unable to molest the Homoousians; but going to Milan while her son was still young, she manifested great hostility to Ambrose the bishop, and commanded that he should be banished."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 11,
+                            "name": "Socrates: Book V 11:8",
+                            "text": "While the people from their excessive attachment to Ambrose, were offering resistance to those who were charged with taking him into exile, intelligence was brought that Gratian had been assassinated by the treachery of the usurper Maximus."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 11,
+                            "name": "Socrates: Book V 11:9",
+                            "text": "In fact Andragathius, a general under Maximus, having concealed himself in a litter resembling a couch, which was carried by mules, ordered his guards to spread a report before him that the litter contained the Emperor Gratian's wife."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 11,
+                            "name": "Socrates: Book V 11:10",
+                            "text": "They met the emperor near the city of Lyons in France just as he had crossed the river: who believing it to be his wife, and not suspecting any treachery, fell into the hands of his enemy as a blind man into the ditch; for Andragathius, suddenly springing forth from the litter, slew him."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 11,
+                            "name": "Socrates: Book V 11:11",
+                            "text": "Gratian thus perished in the consulate of Merogaudes and Saturninus,  in the twenty-fourth year of his age, and the fifteenth of his reign."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 11,
+                            "name": "Socrates: Book V 11:12",
+                            "text": "When this happened the Empress Justina's indignation against Ambrose was repressed."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 11,
+                            "name": "Socrates: Book V 11:13",
+                            "text": "Afterwards Valentinian most unwillingly, but constrained by the necessity of the time, admitted Maximus as his colleague in the empire."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 11,
+                            "name": "Socrates: Book V 11:14",
+                            "text": "Probus alarmed at the power of Maximus, resolved to retreat into the regions of the East: leaving Italy therefore, he proceeded to Illyricum, and fixed his residence at Thessalonica a city of Macedonia."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 12,
+                    "name": "Socrates: Book V 12",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 12,
+                            "name": "Socrates: Book V 12:1",
+                            "text": "Chapter XII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 12,
+                            "name": "Socrates: Book V 12:2",
+                            "text": "—While the Emperor Theodosius is engaged in Military Preparations against Maximus, his Son Honorius is born."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 12,
+                            "name": "Socrates: Book V 12:3",
+                            "text": "He then proceeds to Milan in Order to encounter the Usurper."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 12,
+                            "name": "Socrates: Book V 12:4",
+                            "text": "But the Emperor Theodosius was filled with great solicitude, and levied a powerful army against the usurper, fearing lest he should meditate the assassination of the young Valentinian also."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 12,
+                            "name": "Socrates: Book V 12:5",
+                            "text": "While engaged in this preparation, an embassy arrived from the Persians, requesting peace from the emperor."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 12,
+                            "name": "Socrates: Book V 12:6",
+                            "text": "Then also the empress Flaccilla bore him a son named Honorius, on the 9th of September, in the consulate of Richomelius and Clearchus."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 12,
+                            "name": "Socrates: Book V 12:7",
+                            "text": "Under the same consulate, and a little previously, Agelius bishop of the Novatians died."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 12,
+                            "name": "Socrates: Book V 12:8",
+                            "text": "In the year following, wherein Arcadius Augustus bore his first consulate in conjunction with Baudon,  Timothy bishop of Alexandria died, and was succeeded in the episcopate by Theophilus."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 12,
+                            "name": "Socrates: Book V 12:9",
+                            "text": "About a year after this, Demophilus the Arian prelate having departed this life, the Arians sent for Marinus a leader of their own heresy out of Thrace, to whom they entrusted the bishopric: but Marinus did not long occupy that position, for under him that sect was divided into two parties, as we shall hereafter explain;  for they invited Dorotheus  to come to them from Antioch in Syria, and constituted him their bishop."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 12,
+                            "name": "Socrates: Book V 12:10",
+                            "text": "Meanwhile the emperor Theodosius proceeded to the war against Maximus, leaving his son Arcadius with imperial authority at Constantinople."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 12,
+                            "name": "Socrates: Book V 12:11",
+                            "text": "Accordingly arriving at Thessalonica he found Valentinian and those about him in great anxiety, because through compulsion they had acknowledged the usurper as emperor."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 12,
+                            "name": "Socrates: Book V 12:12",
+                            "text": "Theodosius, however, gave no expression to his sentiments in public; he neither rejected nor admitted  the embassy of Maximus: but unable to endure tyrannical domination over the Roman empire, under the assumption of an imperial name, he hastily mustered his forces and advanced to Milan,  whither the usurper had already gone."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 13,
+                    "name": "Socrates: Book V 13",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 13,
+                            "name": "Socrates: Book V 13:1",
+                            "text": "Chapter XIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 13,
+                            "name": "Socrates: Book V 13:2",
+                            "text": "—The Arians excite a Tumult at Constantinople."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 13,
+                            "name": "Socrates: Book V 13:3",
+                            "text": "At the time when the emperor was thus occupied on his military expedition, the Arians excited a great tumult at Constantinople by such devices as these."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 13,
+                            "name": "Socrates: Book V 13:4",
+                            "text": "Men are fond of fabricating statements respecting matters about which they are in ignorance; and if at any time they are given occasion they swell to a prodigious extent rumors concerning what they wish, being ever fond of change."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 13,
+                            "name": "Socrates: Book V 13:5",
+                            "text": "This was strongly exemplified at Constantinople on the present occasion: for each invented news concerning the war which was carrying on at a distance, according to his own caprice, always presuming upon the most disastrous results; and before the contest had yet commenced, they spoke of transactions in reference to it, of which they knew nothing, with as much assurance as if they had been spectators on the very scene of action."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 13,
+                            "name": "Socrates: Book V 13:6",
+                            "text": "Thus it was confidently affirmed that 'the usurper had defeated the emperor's army,' even the number of men slain on both sides being specified; and that 'the emperor himself had nearly fallen into the usurper's hands."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 13,
+                            "name": "Socrates: Book V 13:7",
+                            "text": "' Then the Arians, who had been excessively exasperated by those being put in possession of the churches within the city who had previously been the objects of their persecution, began to augment these rumors by additions of their own."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 13,
+                            "name": "Socrates: Book V 13:8",
+                            "text": "But since the currency of such stories with increasing exaggeration, in time made even the farmers themselves believe them—for those who had circulated them from hearsay, affirmed to the authors of these falsehoods, that the accounts they had received from them had been fully corroborated elsewhere; then indeed the Arians were emboldened to commit acts of violence, and among other outrages, to set fire to the house of Nectarius the bishop."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 13,
+                            "name": "Socrates: Book V 13:9",
+                            "text": "This was done in the second consulate  of Theodosius Augustus, which he bore with Cynegius."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 14,
+                    "name": "Socrates: Book V 14",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 14,
+                            "name": "Socrates: Book V 14:1",
+                            "text": "Chapter XIV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 14,
+                            "name": "Socrates: Book V 14:2",
+                            "text": "—Overthrow and Death of the Usurper Maximus."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 14,
+                            "name": "Socrates: Book V 14:3",
+                            "text": "As the emperor marched against the usurper the intelligence of the formidable preparations made by him so alarmed the troops under Maximus, that instead of fighting for him, they delivered him bound to the emperor, who caused him to be put to death, on the twenty-seventh of August, under the same consulate."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 14,
+                            "name": "Socrates: Book V 14:4",
+                            "text": "Andragathius, who with his own hand had slain Gratian, understanding the fate of Maximus, precipitated himself into the adjacent river, and was drowned."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 14,
+                            "name": "Socrates: Book V 14:5",
+                            "text": "Then the victorious emperors made their public entry into Rome, accompanied by Honorius the son of Theodosius, still a mere boy, whom his father had sent for from Constantinople immediately after Maximus had been vanquished."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 14,
+                            "name": "Socrates: Book V 14:6",
+                            "text": "They continued therefore at Rome celebrating their triumphal festivals: during which time the Emperor Theodosius exhibited a remarkable instance of clemency toward Symmachus, a man who had borne the consular office, and was at the head of the senate at Rome."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 14,
+                            "name": "Socrates: Book V 14:7",
+                            "text": "For this Symmachus was distinguished for his eloquence, and many of his orations are still extant composed in the Latin tongue: but inasmuch as he had written a panegyric on Maximus, and pronounced it before him publicly, he was afterwards impeached for high treason; wherefore to escape capital punishment he took sanctuary in a church."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 14,
+                            "name": "Socrates: Book V 14:8",
+                            "text": "The emperor's veneration for religion led him not only to honor the bishops of his own communion, but to treat with consideration those of the Novatians also, who embraced the 'homoousian' creed: to gratify therefore Leontius the bishop of the Novatian church at Rome, who interceded in behalf of Symmachus, he graciously pardoned him for that crime."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 14,
+                            "name": "Socrates: Book V 14:9",
+                            "text": "Symmachus, after he had obtained his pardon, wrote an apologetic address to the Emperor Theodosius."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 14,
+                            "name": "Socrates: Book V 14:10",
+                            "text": "Thus the war, which at its commencement threatened so seriously, was brought to a speedy termination."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 15,
+                    "name": "Socrates: Book V 15",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 15,
+                            "name": "Socrates: Book V 15:1",
+                            "text": "Chapter XV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 15,
+                            "name": "Socrates: Book V 15:2",
+                            "text": "—Of Flavian Bishop of Antioch."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 15,
+                            "name": "Socrates: Book V 15:3",
+                            "text": "About the same period, the following events took place at Antioch in Syria."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 15,
+                            "name": "Socrates: Book V 15:4",
+                            "text": "After the death of Paulinus, the people who had been under his superintendence refused to submit to the authority of Flavian, but caused Evagrius to be ordained bishop of their own party."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 15,
+                            "name": "Socrates: Book V 15:5",
+                            "text": "As he did not survive his ordination long, no other was constituted in his place, Flavian having brought this about: nevertheless those who disliked Flavian on account of his having violated his oath, held their assemblies apart."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 15,
+                            "name": "Socrates: Book V 15:6",
+                            "text": "Meanwhile Flavian 'left no stone unturned,' as the phrase is, to bring these also under his control; and this he soon after effected, when he appeased the anger of Theophilus, then bishop of Alexandria, by whose mediation he conciliated, Damasus bishop of Rome also."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 15,
+                            "name": "Socrates: Book V 15:7",
+                            "text": "For both these had been greatly displeased with Flavian, as well for the perjury of which he had been guilty, as for the schism he had occasioned among the previously united people."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 15,
+                            "name": "Socrates: Book V 15:8",
+                            "text": "Theophilus therefore being pacified, sent Isidore a presbyter to Rome, and thus reconciled Damasus, who was still offended; representing to him the propriety of overlooking Flavian's past misconduct, for the sake of producing concord among the people."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 15,
+                            "name": "Socrates: Book V 15:9",
+                            "text": "Communion being in this way restored to Flavian, the people of Antioch were in the course of a little while induced to acquiesce in the union secured."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 15,
+                            "name": "Socrates: Book V 15:10",
+                            "text": "Such was the conclusion of this affair at Antioch."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 15,
+                            "name": "Socrates: Book V 15:11",
+                            "text": "But the Arians of that city being ejected from the churches, were accustomed to hold their meetings in the suburbs."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 15,
+                            "name": "Socrates: Book V 15:12",
+                            "text": "Meanwhile Cyril bishop of Jerusalem having died about this time,  was succeeded by John."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 16,
+                    "name": "Socrates: Book V 16",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 16,
+                            "name": "Socrates: Book V 16:1",
+                            "text": "Chapter XVI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 16,
+                            "name": "Socrates: Book V 16:2",
+                            "text": "—Demolition of the Idolatrous Temples at Alexandria, and the Consequent Conflict between the Pagans and Christians."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 16,
+                            "name": "Socrates: Book V 16:3",
+                            "text": "At the solicitation of Theophilus bishop of Alexandria the emperor issued an order at this time for the demolition of the heathen temples in that city; commanding also that it should be put in execution under the direction of Theophilus."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 16,
+                            "name": "Socrates: Book V 16:4",
+                            "text": "Seizing this opportunity, Theophilus exerted himself to the utmost to expose the pagan mysteries to contempt."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 16,
+                            "name": "Socrates: Book V 16:5",
+                            "text": "And to begin with, he caused the Mithreum  to be cleaned out, and exhibited to public view the tokens of its bloody mysteries."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 16,
+                            "name": "Socrates: Book V 16:6",
+                            "text": "Then he destroyed the Serapeum, and the bloody rights of the Mithreum he publicly caricatured; the Serapeum also he showed full of extravagant superstitions, and he had the phalli of Priapus carried through the midst of the forum."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 16,
+                            "name": "Socrates: Book V 16:7",
+                            "text": "The pagans of Alexandria, and especially the professors of philosophy, were unable to repress their rage at this exposure, and exceeded in revengeful ferocity their outrages on a former occasion: for with one accord, at a preconcerted signal, they rushed impetuously upon the Christians, and murdered every one they could lay hands on."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 16,
+                            "name": "Socrates: Book V 16:8",
+                            "text": "The Christians also made an attempt to resist the assailants, and so the mischief was the more augmented."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 16,
+                            "name": "Socrates: Book V 16:9",
+                            "text": "This desperate affray was prolonged until satiety of bloodshed put an end to it."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 16,
+                            "name": "Socrates: Book V 16:10",
+                            "text": "Then it was discovered that very few of the heathens had been killed, but a great number of Christians; while the number of wounded on each side was almost innumerable."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 16,
+                            "name": "Socrates: Book V 16:11",
+                            "text": "Fear then possessed the pagans on account of what was done, as they considered the emperor's displeasure."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 16,
+                            "name": "Socrates: Book V 16:12",
+                            "text": "For having done what seemed good in their own eyes, and by their bloodshed having quenched their courage, some fled in one direction, some in another, and many quitting Alexandria, dispersed themselves in various cities."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 16,
+                            "name": "Socrates: Book V 16:13",
+                            "text": "Among these were the two grammarians Helladius and Ammonius, whose pupil I was in my youth at Constantinople."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 16,
+                            "name": "Socrates: Book V 16:14",
+                            "text": "Helladius was said to be the priest of Jupiter, and Ammonius of Simius."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 16,
+                            "name": "Socrates: Book V 16:15",
+                            "text": "Thus this disturbance having been terminated, the governor of Alexandria, and the commander-in-chief of the troops in Egypt, assisted Theophilus in demolishing the heathen temples."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 16,
+                            "name": "Socrates: Book V 16:16",
+                            "text": "These were therefore razed to the ground, and the images of their gods molten into pots and other convenient utensils for the use of the Alexandrian church; for the emperor had instructed Theophilus to distribute them for the relief of the poor."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 16,
+                            "name": "Socrates: Book V 16:17",
+                            "text": "All the images were accordingly broken to pieces, except one statue of the god before mentioned, which Theophilus preserved and set up in a public place; 'Lest,' said he, 'at a future time the heathens should deny that they had ever worshiped such gods."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 16,
+                            "name": "Socrates: Book V 16:18",
+                            "text": "' This action gave great umbrage to Ammonius the grammarian in particular, who to my knowledge was accustomed to say that 'the religion of the Gentiles was grossly abused in that that single statue was not also molten, but preserved, in order to render that religion ridiculous."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 16,
+                            "name": "Socrates: Book V 16:19",
+                            "text": "' Helladius however boasted in the presence of some that he had slain in that desperate onset nine men with his own hand."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 16,
+                            "name": "Socrates: Book V 16:20",
+                            "text": "Such were the doings at Alexandria at that time."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 17,
+                    "name": "Socrates: Book V 17",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 17,
+                            "name": "Socrates: Book V 17:1",
+                            "text": "Chapter XVII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 17,
+                            "name": "Socrates: Book V 17:2",
+                            "text": "—Of the Hieroglyphics found in the Temple of Serapis."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 17,
+                            "name": "Socrates: Book V 17:3",
+                            "text": "When the Temple of Serapis was torn down and laid bare, there were found in it, engraven on stones, certain characters which they call hieroglyphics, having the forms of crosses."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 17,
+                            "name": "Socrates: Book V 17:4",
+                            "text": "Both the Christians and pagans on seeing them, appropriated and applied them to their respective religions: for the Christians who affirm that the cross is the sign of Christ's saving passion, claimed this character as peculiarly theirs; but the pagans alleged that it might appertain to Christ and Serapis in common; 'for,' said they, 'it symbolizes one thing to Christians and another to heathens."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 17,
+                            "name": "Socrates: Book V 17:5",
+                            "text": "' Whilst this point was controverted amongst them, some of the heathen converts to Christianity, who were conversant with these hieroglyphic characters, interpreted the form of a cross and said that it signifies 'Life to come."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 17,
+                            "name": "Socrates: Book V 17:6",
+                            "text": "' This the Christians exultingly laid hold of, as decidedly favorable to their religion."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 17,
+                            "name": "Socrates: Book V 17:7",
+                            "text": "But after other hieroglyphics had been deciphered containing a prediction that 'When the cross should appear,'—for this was 'life to come,'—'the Temple of Serapis would be destroyed,' a very great number of the pagans embraced Christianity, and confessing their sins, were baptized."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 17,
+                            "name": "Socrates: Book V 17:8",
+                            "text": "Such are the reports I have heard respecting the discovery of this symbol in form of a cross."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 17,
+                            "name": "Socrates: Book V 17:9",
+                            "text": "But I cannot imagine that the Egyptian priests foreknew the things concerning Christ, when they engraved the figure of a cross."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 17,
+                            "name": "Socrates: Book V 17:10",
+                            "text": "For if 'the advent' of our Saviour into the world 'was a mystery hid from ages and from generations,'  as the apostle declares; and if the devil himself, the prince of wickedness, knew nothing of it, his ministers, the Egyptian priests, are likely to have been still more ignorant of the matter; but Providence doubtless purposed that in the enquiry concerning this character, there should something take place analogous to what happened heretofore at the preaching of Paul."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 17,
+                            "name": "Socrates: Book V 17:11",
+                            "text": "For he, made wise by the Divine Spirit, employed a similar method in relation to the Athenians,  and brought over many of them to the faith, when on reading the inscription on one of their altars, he accommodated and applied it to his own discourse."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 17,
+                            "name": "Socrates: Book V 17:12",
+                            "text": "Unless indeed any one should say, that the Word of God wrought in the Egyptian priests, as it did on Balaam  and Caiaphas;  for these men uttered prophecies of good things in spite of themselves."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 17,
+                            "name": "Socrates: Book V 17:13",
+                            "text": "This will suffice on the subject."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 18,
+                    "name": "Socrates: Book V 18",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 18,
+                            "name": "Socrates: Book V 18:1",
+                            "text": "Chapter XVIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 18,
+                            "name": "Socrates: Book V 18:2",
+                            "text": "—Reformation of Abuses at Rome by the Emperor Theodosius."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 18,
+                            "name": "Socrates: Book V 18:3",
+                            "text": "The emperor Theodosius during his short stay in Italy, conferred the greatest benefit on the city of Rome, by grants on the one hand, and abrogations on the other."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 18,
+                            "name": "Socrates: Book V 18:4",
+                            "text": "His largesses were indeed very munificent; and he removed two most infamous abuses which existed in the city."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 18,
+                            "name": "Socrates: Book V 18:5",
+                            "text": "One of them was the following: there were buildings of immense magnitude, erected in ancient Rome in former times, in which bread was made for distribution among the people."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 18,
+                            "name": "Socrates: Book V 18:6",
+                            "text": "Those who had the charge of these edifices, who Mancipes  were called in the Latin language, in process of time converted them into receptacles for thieves."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 18,
+                            "name": "Socrates: Book V 18:7",
+                            "text": "Now as the bake-houses in these structures were placed underneath, they build taverns at the side of each, where they kept prostitutes; by which means they entrapped many of those who went thither either for the sake of refreshment, or to gratify their lusts, for by a certain mechanical contrivance they precipitated them from the tavern into the bake-house below."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 18,
+                            "name": "Socrates: Book V 18:8",
+                            "text": "This was practiced chiefly upon strangers; and such as were in this way kidnapped were compelled to work in the bake-houses, where many of them were immured until old age, not being allowed to go out, and giving the impression to their friends that they were dead."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 18,
+                            "name": "Socrates: Book V 18:9",
+                            "text": "It happened that one of the soldiers of the emperor Theodosius fell into this snare; who being shut up in the bake-house, and hindered from going out, drew a dagger which he wore and killed those who stood in his way: the rest being terrified, suffered him to escape."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 18,
+                            "name": "Socrates: Book V 18:10",
+                            "text": "When the emperor was made acquainted with the circumstance he punished the Mancipes, and ordered these haunts of lawless and abandoned characters to be pulled down."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 18,
+                            "name": "Socrates: Book V 18:11",
+                            "text": "This was one of the disgraceful nuisances of which the emperor purged the imperial city: the other was of this nature."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 18,
+                            "name": "Socrates: Book V 18:12",
+                            "text": "When a woman was detected in adultery, they punished the delinquent not in the way of correction but rather of aggravation of her crime."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 18,
+                            "name": "Socrates: Book V 18:13",
+                            "text": "For shutting her up in a narrow brothel, they obliged her to prostitute herself in a most disgusting manner; causing little bells to be rung at the time of the unclean deed that those who passed might not be ignorant of what was doing within."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 18,
+                            "name": "Socrates: Book V 18:14",
+                            "text": "This was doubtless intended to brand the crime with greater ignominy in public opinion."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 18,
+                            "name": "Socrates: Book V 18:15",
+                            "text": "As soon as the emperor was apprised of this indecent usage, he would by no means tolerate it; but having ordered the Sistra  —for so these places of penal prostitution were denominated—to be pulled down, he appointed other laws for the punishment of adulteresses."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 18,
+                            "name": "Socrates: Book V 18:16",
+                            "text": "Thus did the emperor Theodosius free the city from two of its most discreditable abuses: and when he had arranged all other affairs to his satisfaction, he left the emperor Valentinian at Rome, and returned himself with his son Honorius to Constantinople, and entered that city of the 10th of November, in the consulate of Tatian and Symmachus."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 19,
+                    "name": "Socrates: Book V 19",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 19,
+                            "name": "Socrates: Book V 19:1",
+                            "text": "Chapter XIX."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 19,
+                            "name": "Socrates: Book V 19:2",
+                            "text": "—Of the Office of Penitentiary Presbyters and its Abolition."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 19,
+                            "name": "Socrates: Book V 19:3",
+                            "text": "At this time it was deemed requisite to abolish the office of those presbyters in the churches who had charge of the penitences:  this was done on the following account."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 19,
+                            "name": "Socrates: Book V 19:4",
+                            "text": "When the Novatians separated themselves from the Church because they would not communicate with those who had lapsed during the persecution under Decius, the bishops added to the ecclesiastical canon  a presbyter of penitence in order that those who had sinned after baptism might confess their sins in the presence of the presbyter thus appointed."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 19,
+                            "name": "Socrates: Book V 19:5",
+                            "text": "And this mode of discipline is still maintained among other heretical institutions by all the rest of the sects; the Homoousians only, together with the Novatians who hold the same doctrinal views, have abandoned it."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 19,
+                            "name": "Socrates: Book V 19:6",
+                            "text": "The latter indeed would never admit of its establishment:  and the Homoousians who are now in possession of the churches, after retaining this function for a considerable period, abrogated it in the time of Nectarius, in consequence of an event which occured in the Constantinopolitan church, which is as follows: A woman of noble family coming to the penitentiary, made a general confession of those sins she had committed since her baptism: and the presbyter enjoined fasting and prayer continually, that together with the acknowledgment of error, she might have to show works also meet for repentance."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 19,
+                            "name": "Socrates: Book V 19:7",
+                            "text": "Some time after this, the same lady again presented herself, and confessed that she had been guilty of another crime, a deacon of the church having slept with her."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 19,
+                            "name": "Socrates: Book V 19:8",
+                            "text": "When this was proved the deacon was ejected from the church:  but the people were very indignant, being not only offended at what had taken place, but also because the deed had brought scandal and degradation upon the Church."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 19,
+                            "name": "Socrates: Book V 19:9",
+                            "text": "When in consequence of this, ecclesiastics were subjected to taunting and reproach, Eudaemon a presbyter of the church, by birth an Alexandrian, persuaded Nectarius the bishop to abolish the office of penitentiary presbyter, and to leave every one to his own conscience with regard to the participation of the sacred mysteries:  for thus only, in his judgment, could the Church be preserved from obloquy."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 19,
+                            "name": "Socrates: Book V 19:10",
+                            "text": "Having heard this explanation of the matter from Eudaemon I have ventured to put in the present treatise: for as I have often remarked,  I have spared no pains to procure an authentic account of affairs from those who were best acquainted with them, and to scrutinize every report, lest I should advance what might be untrue."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 19,
+                            "name": "Socrates: Book V 19:11",
+                            "text": "My observation to Eudaemon, when he first related the circumstance, was this: 'Whether, O presbyter, your counsel has been profitable for the Church or otherwise, God knows; but I see that it takes away the means of rebuking one another's faults, and prevents our acting upon that precept of the apostle,  \"Have no fellowship with the unfruitful works of darkness, but rather reprove them\"."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 19,
+                            "name": "Socrates: Book V 19:12",
+                            "text": "' Concerning this affair let this suffice."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 20,
+                    "name": "Socrates: Book V 20",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 20,
+                            "name": "Socrates: Book V 20:1",
+                            "text": "Chapter XX."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 20,
+                            "name": "Socrates: Book V 20:2",
+                            "text": "—Divisions among the Arians and Other Heretics."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 20,
+                            "name": "Socrates: Book V 20:3",
+                            "text": "I conceive it right moreover not to leave unnoticed the proceedings of the other religious bodies, viz."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 20,
+                            "name": "Socrates: Book V 20:4",
+                            "text": "the Arians,  Novatians, and those who received their denominations from Macedonius and Eunomius."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 20,
+                            "name": "Socrates: Book V 20:5",
+                            "text": "For the Church once being divided, rested not in that schism, but the separatists taking occasion from the slightest and most frivolous pretences, disagreed among themselves."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 20,
+                            "name": "Socrates: Book V 20:6",
+                            "text": "The manner and time, as well as the causes for which they raised mutual dissensions, we will state as we proceed."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 20,
+                            "name": "Socrates: Book V 20:7",
+                            "text": "But let it be observed here, that the emperor Theodosius persecuted none of them except Eunomius; but inasmuch as the latter, by holding meetings in private houses at Constantinople, where he read the works he had composed, corrupted many with his doctrines, he ordered him to be sent into exile."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 20,
+                            "name": "Socrates: Book V 20:8",
+                            "text": "Of the other heretics he interfered with no one; nor did he constrain them to hold communion with himself; but he allowed them all to assemble in their own conventicles, and to entertain their own opinions on points of Christian faith."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 20,
+                            "name": "Socrates: Book V 20:9",
+                            "text": "Permission to build themselves churches without the cities was granted to the rest: but inasmuch as the Novatians held sentiments precisely identical with his own as to faith, he ordered that they should be suffered to continue unmolested in their churches within the cities, as I have before noticed."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 20,
+                            "name": "Socrates: Book V 20:10",
+                            "text": "Concerning these I think it opportune, however, to give in this place some farther account, and shall therefore retrace a few circumstances in their history."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 21,
+                    "name": "Socrates: Book V 21",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 21,
+                            "name": "Socrates: Book V 21:1",
+                            "text": "Chapter XXI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 21,
+                            "name": "Socrates: Book V 21:2",
+                            "text": "—Peculiar Schism among the Novatians."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 21,
+                            "name": "Socrates: Book V 21:3",
+                            "text": "Of the Novatian church at Constantinople Agelius was the bishop for the space of forty years,  viz."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 21,
+                            "name": "Socrates: Book V 21:4",
+                            "text": "from the reign of Constantine until the sixth year of that of the emperor Theodosius, as I have stated somewhere previously."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 21,
+                            "name": "Socrates: Book V 21:5",
+                            "text": "He perceiving his end approaching, ordained Sisinnius to succeed him in the bishopric."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 21,
+                            "name": "Socrates: Book V 21:6",
+                            "text": "This person was a presbyter of the church over which Agelius presided, remarkably eloquent, and had been instructed in philosophy by Maximus, at the same time as the emperor Julian."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 21,
+                            "name": "Socrates: Book V 21:7",
+                            "text": "Now as the Novatian laity were dissatisfied with this election, and wished rather that he had ordained Marcian, a man of eminent piety, on account of whose influence their sect had been left unmolested during the reign of Valens, Agelius therefore to allay his people's discontent, laid his hands on Marcian also."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 21,
+                            "name": "Socrates: Book V 21:8",
+                            "text": "Having recovered a little from his illness, he went to the church and thus of his own accord addressed the congregation: 'After my decease let Marcian be your bishop; and after Marcian, Sisinnius."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 21,
+                            "name": "Socrates: Book V 21:9",
+                            "text": "' He survived these words but a short time; Marcian accordingly having been constituted bishop of the Novatians, a division arose in their church also, from this cause."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 21,
+                            "name": "Socrates: Book V 21:10",
+                            "text": "Marcian had promoted to the rank of presbyter a converted Jew named Sabbatius, who nevertheless continued to retain many of his Jewish prejudices; and moreover he was very ambitious of being made a bishop."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 21,
+                            "name": "Socrates: Book V 21:11",
+                            "text": "Having therefore confidentially attached to his interest two presbyters, Theoctistus and Macarius, who were cognizant of his designs, he resolved to defend that innovation made by the Novatians in the time of Valens, at Pazum a village of Phrygia, concerning the festival of Easter, to which I have already adverted."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 21,
+                            "name": "Socrates: Book V 21:12",
+                            "text": "And in the first place, under pretext of more ascetic austerity, he privately withdrew from the church, saying that 'he was grieved on account of certain persons whom he suspected of being unworthy of participation in the sacrament."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 21,
+                            "name": "Socrates: Book V 21:13",
+                            "text": "' It was however soon discovered that his object was to hold assemblies apart."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 21,
+                            "name": "Socrates: Book V 21:14",
+                            "text": "When Marcian understood this, he bitterly censured his own error, in ordaining to the presbyterate persons so intent on vain-glory; and frequently said, 'That it had been better for him to have laid his hands on thorns, than to have imposed them on Sabbatius."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 21,
+                            "name": "Socrates: Book V 21:15",
+                            "text": "' To check his proceedings, he procured a Synod of Novatian bishops to be convened at Angarum,  a commercial town near Helenopolis in Bithynia."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 21,
+                            "name": "Socrates: Book V 21:16",
+                            "text": "On assembling here they summoned Sabbatius, and desired him to explain the cause of his discontent."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 21,
+                            "name": "Socrates: Book V 21:17",
+                            "text": "Upon his affirming that he was troubled about the disagreement that existed respecting the Feast of Easter, and that it ought to be kept according to the custom of the Jews, and agreeable to that sanction which those convened at Pazum had appointed, the bishops present at the Synod perceiving that this assertion was a mere subterfuge to disguise his desire after the episcopal chair, obliged him to pledge himself on oath that he would never accept a bishopric."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 21,
+                            "name": "Socrates: Book V 21:18",
+                            "text": "When he had so sworn, they passed a canon respecting this feast, which they entitled 'indifferent,' declaring that 'a disagreement on such a point was not a sufficient reason for separation from the church; and that the council of Pazum had done nothing prejudicial to the catholic canon."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 21,
+                            "name": "Socrates: Book V 21:19",
+                            "text": "That although the ancients who lived nearest to the times of the apostles differed about the observance of this festival, it did not prevent their communion with one another, nor create any dissension."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 21,
+                            "name": "Socrates: Book V 21:20",
+                            "text": "Besides that the Novatians at imperial Rome had never followed the Jewish usage, but always kept Easter after the equinox; and yet they did not separate from those of their own faith, who celebrated it on a different day."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 21,
+                            "name": "Socrates: Book V 21:21",
+                            "text": "' From these and many such considerations, they made the 'Indifferent' Canon, above-mentioned, concerning Easter, whereby every one was at liberty to keep the custom which he had by predilection in this matter, if he so pleased; and that it should make no difference as regards communion, but even though celebrating differently they should be in accord in the church."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 21,
+                            "name": "Socrates: Book V 21:22",
+                            "text": "After this rule had been thus established, Sabbatius being bound by his oath, anticipated the fast by keeping it in private, whenever any discrepancy existed in the time of the Paschal solemnity, and having watched all night, he celebrated the sabbath of the passover; then on the next day he went to church, and with the rest of the congregation partook of the sacraments."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 21,
+                            "name": "Socrates: Book V 21:23",
+                            "text": "He pursued this course for many years, so that it could not be concealed from the people; in imitation of which some of the more ignorant, and chiefly the Phrygians and Galatians, supposing they should be justified by this conduct imitated him, and kept the passover in secret after his manner."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 21,
+                            "name": "Socrates: Book V 21:24",
+                            "text": "But Sabbatius afterwards disregarding the oath by which he had renounced the episcopal dignity, held schismatic meetings, and was constituted bishop of his followers, as we shall show hereafter."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 22,
+                    "name": "Socrates: Book V 22",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:1",
+                            "text": "Chapter XXII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:2",
+                            "text": "—The Author's Views respecting the Celebration of Easter, Baptism, Fasting, Marriage, the Eucharist, and Other Ecclesiastical Rites."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:3",
+                            "text": "As we have touched the subject I deem it not unreasonable to say a few words concerning Easter."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:4",
+                            "text": "It appears to me that neither the ancients nor moderns who have affected to follow the Jews, have had any rational foundation for contending so obstinately about it."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:5",
+                            "text": "For they have not taken into consideration the fact that when Judaism was changed into Christianity, the obligation to observe the Mosaic law and the ceremonial types ceased."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:6",
+                            "text": "And the proof of the matter is plain; for no law of Christ permits Christians to imitate the Jews."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:7",
+                            "text": "On the contrary the apostle expressly forbids it; not only rejecting circumcision, but also deprecating contention about festival days."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:8",
+                            "text": "In his epistle to the Galatians  he writes, 'Tell me ye that desire to be under the law, do ye not hear the law?' And continuing his train of argument, he demonstrates that the Jews were in bondage as servants, but that those who have come to Christ are 'called into the liberty of sons."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:9",
+                            "text": "'  Moreover he exhorts them in no way to regard 'days, and months, and years."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:10",
+                            "text": "'  Again in his epistle to the Colossians  he distinctly declares, that such observances are merely shadows: wherefore he says, 'Let no man judge you in meat, or in drink, or in respect of any holy-day, or of the new moon, or of the sabbath-days; which are a shadow of things to come."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:11",
+                            "text": "' The same truths are also confirmed by him in the epistle to the Hebrews  in these words: 'For the priesthood being changed, there is made of necessity a change also of the law."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:12",
+                            "text": "' Neither the apostles, therefore, nor the Gospels,  have anywhere imposed the 'yoke of servitude'  on those who have embraced the truth; but have left Easter and every other feast to be honored by the gratitude of the recipients of grace."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:13",
+                            "text": "Wherefore, inasmuch as men love festivals, because they afford them cessation from labor: each individual in every place, according to his own pleasure, has by a prevalent custom celebrated the memory of the saving passion."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:14",
+                            "text": "The Saviour and his apostles have enjoined us by no law to keep this feast: nor do the Gospels and apostles threaten us with any penalty, punishment, or curse for the neglect of it, as the Mosaic law does the Jews."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:15",
+                            "text": "It is merely for the sake of historical accuracy, and for the reproach of the Jews, because they polluted themselves with blood on their very feasts, that it is recorded in the Gospels that our Saviour suffered in the days of 'unleavened bread."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:16",
+                            "text": "'  The aim of the apostles was not to appoint festival days, but to teach a righteous life and piety."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:17",
+                            "text": "And it seems to me that just as many other customs have been established in individual localities according to usage."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:18",
+                            "text": "So also the feast of Easter came to be observed in each place according to the individual peculiarities of the peoples inasmuch as none of the apostles legislated on the matter."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:19",
+                            "text": "And that the observance originated not by legislation, but as a custom the facts themselves indicate."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:20",
+                            "text": "In Asia Minor most people kept the fourteenth day of the moon, disregarding the sabbath: yet they never separated from those who did otherwise, until Victor, bishop of Rome, influenced by too ardent a zeal, fulminated a sentence of excommunication against the Quartodecimans  in Asia."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:21",
+                            "text": "Wherefore also Irenaeus, bishop of Lyons in France, severely censured Victor by letter for his immoderate heat;  telling him that although the ancients differed in their celebration of Easter, they did not desist from intercommunion."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:22",
+                            "text": "Also that Polycarp, bishop of Smyrna, who afterwards suffered martyrdom under Gordian,  continued to communicate with Anicetus bishop of Rome, although he himself, according to the usage of his native Smyrna, kept Easter on the fourteenth day of the moon, as Eusebius attests in the fifth book of his Ecclesiastical History."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:23",
+                            "text": "While therefore some in Asia Minor observed the day above-mentioned, others in the East kept that feast on the sabbath indeed, but differed as regards the month."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:24",
+                            "text": "The former thought the Jews should be followed, though they were not exact: the latter kept Easter after the equinox, refusing to celebrate with the Jews; 'for,' said they, 'it ought to be celebrated when the sun is in Aries, in the month called Xanthicus by the Antiochians, and April by the Romans."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:25",
+                            "text": "' In this practice, they averred, they conformed not to the modern Jews, who are mistaken in almost everything, but to the ancients, and to Josephus according to what he has written in the third book of his Jewish Antiquities."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:26",
+                            "text": "Thus these people were at issue among themselves."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:27",
+                            "text": "But all other Christians in the Western parts, and as far as the ocean itself, are found to have celebrated Easter after the equinox, from a very ancient tradition."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:28",
+                            "text": "And in fact these acting in this manner have never disagreed on this subject."
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:29",
+                            "text": "It is not true, as some have pretended, that the Synod under Constantine altered this festival:  for Constantine himself, writing to those who differed respecting it, recommended that as they were few in number, they could agree with the majority of their brethren."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:30",
+                            "text": "His letter will be found at length in the third book of the Life of Constantine by Eusebius; but the passage in it relative to Easter runs thus:      'It is a becoming order which all the churches in the Western, Southern, and Northern parts of the world observe, and some places in the East also."
+                        },
+                        {
+                            "verse": 31,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:31",
+                            "text": "Wherefore all on the present occasion have judged it right, and I have pledged myself that it will have the acquiescence of your prudence, that what is unanimously observed in the city of Rome, throughout Italy, Africa, and the whole of Egypt, in Spain, France, Britain, Libya, and all Greece, the diocese of Asia and Pontus, and Cilicia, your wisdom also will readily embrace; considering not only that the number of churches in the aforesaid places is greater, but also that while there should be a universal concurrence in what is most reasonable, it becomes us to have nothing in common with the perfidious Jews."
+                        },
+                        {
+                            "verse": 32,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:32",
+                            "text": "'  Such is the tenor of the emperor's letter."
+                        },
+                        {
+                            "verse": 33,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:33",
+                            "text": "Moreover the Quartodecimans affirm that the observance of the fourteenth day was delivered to them by the apostle John: while the Romans and those in the Western parts assure us that their usage originated with the apostles Peter and Paul."
+                        },
+                        {
+                            "verse": 34,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:34",
+                            "text": "Neither of these parties however can produce any written testimony in confirmation of what they assert."
+                        },
+                        {
+                            "verse": 35,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:35",
+                            "text": "But that the time of keeping Easter in various places is dependent on usage, I infer from this, that those who agree in faith, differ among themselves on questions of usage."
+                        },
+                        {
+                            "verse": 36,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:36",
+                            "text": "And it will not perhaps be unseasonable to notice here the diversity of customs in the churches."
+                        },
+                        {
+                            "verse": 37,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:37",
+                            "text": "The fasts before Easter will be found to be differently observed among different people."
+                        },
+                        {
+                            "verse": 38,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:38",
+                            "text": "Those at Rome fast three successive weeks before Easter, excepting Saturdays and Sundays."
+                        },
+                        {
+                            "verse": 39,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:39",
+                            "text": "Those in Illyrica and all over Greece and Alexandria observe a fast of six weeks, which they term 'The forty days' fast."
+                        },
+                        {
+                            "verse": 40,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:40",
+                            "text": "'  Others commencing their fast from the seventh week before Easter, and fasting three five days only, and that at intervals, yet call that time 'The forty days' fast."
+                        },
+                        {
+                            "verse": 41,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:41",
+                            "text": "' It is indeed surprising to me that thus differing in the number of days, they should both give it one common appellation; but some assign one reason for it, and others another, according to their several fancies."
+                        },
+                        {
+                            "verse": 42,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:42",
+                            "text": "One can see also a disagreement about the manner of abstinence from food, as well as about the number of days."
+                        },
+                        {
+                            "verse": 43,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:43",
+                            "text": "Some wholly abstain from things that have life: others feed on fish only of all living creatures: many together with fish, eat fowl also, saying that according to Moses,  these were likewise made out of the waters."
+                        },
+                        {
+                            "verse": 44,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:44",
+                            "text": "Some abstain from eggs, and all kinds of fruits: others partake of dry bread only; still others eat not even this: while others having fasted till the ninth hour,  afterwards take any sort of food without distinction."
+                        },
+                        {
+                            "verse": 45,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:45",
+                            "text": "And among various nations there are other usages, for which innumerable reasons are assigned."
+                        },
+                        {
+                            "verse": 46,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:46",
+                            "text": "Since however no one can produce a written command as an authority, it is evident that the apostles left each one to his own free will in the matter, to the end that each might perform what is good not by constraint or necessity."
+                        },
+                        {
+                            "verse": 47,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:47",
+                            "text": "Such is the difference in the churches on the subject of fasts."
+                        },
+                        {
+                            "verse": 48,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:48",
+                            "text": "Nor is there less variation in regard to religious assemblies."
+                        },
+                        {
+                            "verse": 49,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:49",
+                            "text": "For although almost all churches throughout the world celebrate the sacred mysteries on the sabbath  of every week, yet the Christians of Alexandria and at Rome, on account of some ancient tradition, have ceased to do this."
+                        },
+                        {
+                            "verse": 50,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:50",
+                            "text": "The Egyptians in the neighborhood of Alexandria, and the inhabitants of Thebaïs, hold their religious assemblies on the sabbath, but do not participate of the mysteries in the manner usual among Christians in general: for after having eaten and satisfied themselves with food of all kinds, in the evening making their offerings  they partake of the mysteries."
+                        },
+                        {
+                            "verse": 51,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:51",
+                            "text": "At Alexandria again, on the Wednesday  in Passion week and on Good Friday, the scriptures are read, and the doctors expound them; and all the usual services are performed in their assemblies, except the celebration of the mysteries."
+                        },
+                        {
+                            "verse": 52,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:52",
+                            "text": "This practice in Alexandria is of great antiquity, for it appears that Origen most commonly taught in the church on those days."
+                        },
+                        {
+                            "verse": 53,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:53",
+                            "text": "He being a very learned teacher in the Sacred Books, and perceiving that the 'impotence of the law'  of Moses was weakened by literal explanation, gave it a spiritual interpretation; declaring that there has never been but one true Passover, which the Saviour celebrated when he hung upon the cross: for that he then vanquished the adverse powers, and erected this as a trophy against the devil."
+                        },
+                        {
+                            "verse": 54,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:54",
+                            "text": "In the same city of Alexandria, readers and chanters  are chosen indifferently from the catechumens and the faithful; whereas in all other churches the faithful only are promoted to these offices."
+                        },
+                        {
+                            "verse": 55,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:55",
+                            "text": "I myself, also, learned of another custom in Thessaly."
+                        },
+                        {
+                            "verse": 56,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:56",
+                            "text": "If a clergyman in that country, after taking orders, should sleep with his wife, whom he had legally married before his ordination, he would be degraded."
+                        },
+                        {
+                            "verse": 57,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:57",
+                            "text": "In the East, indeed, all clergymen, and even the bishops themselves, abstain from their wives: but this they do of their own accord, and not by the necessity of any law; for there have been among them many bishops, who have had children by their lawful wives, during their episcopate."
+                        },
+                        {
+                            "verse": 58,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:58",
+                            "text": "It is said that the author of the usage which obtains in Thessaly was Heliodorus bishop of Tricca in that country; under whose name there are love books extant, entitled Ethiopica,  which he composed in his youth."
+                        },
+                        {
+                            "verse": 59,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:59",
+                            "text": "The same custom prevails at Thessalonica, and in Macedonia, and in Greece."
+                        },
+                        {
+                            "verse": 60,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:60",
+                            "text": "I have also known of another peculiarity in Thessaly, which is, that they baptize there on the days of Easter only; in consequence of which a very great number of them die without having received baptism."
+                        },
+                        {
+                            "verse": 61,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:61",
+                            "text": "At Antioch in Syria the site of the church is inverted; so that the altar does not face toward the east, but toward the west."
+                        },
+                        {
+                            "verse": 62,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:62",
+                            "text": "In Greece, however, and at Jerusalem and in Thessaly they go to prayers as soon as the candles are lighted, in the same manner as the Novatians do at Constantinople."
+                        },
+                        {
+                            "verse": 63,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:63",
+                            "text": "At Caesarea likewise, and in Cappadocia, and in Cyprus, the presbyters and bishops expound the Scriptures in the evening, after the candles are lighted."
+                        },
+                        {
+                            "verse": 64,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:64",
+                            "text": "The Novatians of the Hellespont do not perform their prayers altogether in the same manner as those of Constantinople; in most things, however, their usage is similar to that of the prevailing  church."
+                        },
+                        {
+                            "verse": 65,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:65",
+                            "text": "In short, it is impossible to find anywhere, among all the sects, two churches which agree exactly in their ritual respecting prayers."
+                        },
+                        {
+                            "verse": 66,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:66",
+                            "text": "At Alexandria no presbyter is allowed to address the public: a regulation which was made after Arius had raised a disturbance in that church."
+                        },
+                        {
+                            "verse": 67,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:67",
+                            "text": "At Rome they fast every Saturday."
+                        },
+                        {
+                            "verse": 68,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:68",
+                            "text": "At Caesarea of Cappadocia they exclude from communion those who have sinned after baptism as the Novatians do."
+                        },
+                        {
+                            "verse": 69,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:69",
+                            "text": "The same discipline was practiced by the Macedonians in the Hellespont, and by the Quartodecimans in Asia."
+                        },
+                        {
+                            "verse": 70,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:70",
+                            "text": "The Novatians in Phrygia do not admit such as have twice married;  but those of Constantinople neither admit nor reject them openly, while in the Western parts they are openly received."
+                        },
+                        {
+                            "verse": 71,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:71",
+                            "text": "This diversity was occasioned, as I imagine, by the bishops who in their respective eras governed the churches; and those who received these several rites and usages, transmitted them as laws to their posterity."
+                        },
+                        {
+                            "verse": 72,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:72",
+                            "text": "However, to give a complete catalogue of all the various customs and ceremonial observances in use throughout every city and country would be difficult—rather impossible; but the instances we have adduced are sufficient to show that the Easter Festival was from some remote precedent differently celebrated in every particular province."
+                        },
+                        {
+                            "verse": 73,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:73",
+                            "text": "They talk at random therefore who assert that the time of keeping Easter was altered in the Nicene Synod; for the bishops there convened earnestly labored to reduce the first dissenting minority to uniformity of practice with the rest of the people."
+                        },
+                        {
+                            "verse": 74,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:74",
+                            "text": "Now that many differences existed even in the apostolic age of the church occasioned by such subjects, was not unknown even to the apostles themselves, as the book of The Acts testifies."
+                        },
+                        {
+                            "verse": 75,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:75",
+                            "text": "For when they understood that a disturbance occurred among believers on account of a dissension of the Gentiles, having all met together, they promulgated a Divine law, giving it the form of a letter."
+                        },
+                        {
+                            "verse": 76,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:76",
+                            "text": "By this sanction they liberated Christians from the bondage of formal observances, and all vain contention about these things; and they taught them the path of true piety, prescribing such things only as were conducive to its attainment."
+                        },
+                        {
+                            "verse": 77,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:77",
+                            "text": "The epistle itself, which I shall here transcribe, is recorded in The Acts of the Apostles."
+                        },
+                        {
+                            "verse": 78,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:78",
+                            "text": "'The apostles and elders and brethren send greeting unto the brethren which are of the Gentiles in Antioch and Syria and Cilicia."
+                        },
+                        {
+                            "verse": 79,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:79",
+                            "text": "Forasmuch as we have heard, that certain which went out from us have troubled you with words, subverting your souls, saying, Ye must be circumcised, and keep the law; to whom we gave no such commandment: it seemed good unto us, being assembled with one accord, to send chosen men unto you, with our beloved Barnabas and Paul, men that have hazarded their lives for the name of our Lord Jesus Christ."
+                        },
+                        {
+                            "verse": 80,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:80",
+                            "text": "We have sent therefore Judas and Silas, who shall also tell you the same thing by mouth."
+                        },
+                        {
+                            "verse": 81,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:81",
+                            "text": "For it seemed good to the Holy Ghost and to us, to lay upon you no greater burden than these necessary things: that ye abstain from meats offered to idols, and from blood, and from things strangled, and from fornication; from which if ye keep yourselves, ye shall do well."
+                        },
+                        {
+                            "verse": 82,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:82",
+                            "text": "Fare ye well."
+                        },
+                        {
+                            "verse": 83,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:83",
+                            "text": "'  These things indeed pleased God: for the letter expressly says, 'It seemed good to the Holy Ghost to lay upon you no greater burden than these necessary things."
+                        },
+                        {
+                            "verse": 84,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:84",
+                            "text": "' There are nevertheless some persons who, disregarding these precepts, suppose all fornication to be an indifferent matter; but contend about holy-days as if their lives were at stake, thus contravening the commands of God, and legislating for themselves, and making of none effect the decree of the apostles: neither do they perceive that they are themselves practicing the contrary to those things which God approved."
+                        },
+                        {
+                            "verse": 85,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:85",
+                            "text": "It is possible easily to extend our discourse respecting Easter, and demonstrate that the Jews observe no exact rule either in the time or manner of celebrating the paschal solemnity: and that the Samaritans, who are an offshoot from the Jews, always celebrate this festival after the equinox."
+                        },
+                        {
+                            "verse": 86,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:86",
+                            "text": "But this subject would require a distinct and copious treatise: I shall therefore merely add, that those who affect so much to imitate the Jews, and are so very anxious about an accurate observance of types, ought to depart from them in no particular."
+                        },
+                        {
+                            "verse": 87,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:87",
+                            "text": "For if they have chosen to be so correct, they must not only observe days and months, but all other things also, which Christ (who was 'made under the law')  did in the manner of the Jews; or which he unjustly suffered from them; or wrought typically for the good of all men."
+                        },
+                        {
+                            "verse": 88,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:88",
+                            "text": "He entered into a ship and taught."
+                        },
+                        {
+                            "verse": 89,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:89",
+                            "text": "He ordered the Passover to be made ready in an upper room."
+                        },
+                        {
+                            "verse": 90,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:90",
+                            "text": "He commanded an ass that was tied to be loosed."
+                        },
+                        {
+                            "verse": 91,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:91",
+                            "text": "He proposed a man bearing a pitcher of water as a sign to them for hastening their preparations for the Passover."
+                        },
+                        {
+                            "verse": 92,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:92",
+                            "text": "[He did] an infinite number of other things of this nature which are recorded in the gospels."
+                        },
+                        {
+                            "verse": 93,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:93",
+                            "text": "And yet those who suppose themselves to be justified by keeping this feast, would think it absurd to observe any of these things in a bodily manner."
+                        },
+                        {
+                            "verse": 94,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:94",
+                            "text": "For no doctor ever dreams of going to preach from a ship—no person imagines it necessary to go up into an upper room to celebrate the Passover there—they never tie, and then loose an ass again—and finally no one enjoins another to carry a pitcher of water, in order that the symbols might be fulfilled."
+                        },
+                        {
+                            "verse": 95,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:95",
+                            "text": "They have justly regarded such things as savoring rather of Judaism: for the Jews are more solicitous about outward solemnities than the obedience of the heart; and therefore are they under the curse, because they do not discern the spiritual bearing of the Mosaic law, but rest in its types and shadows."
+                        },
+                        {
+                            "verse": 96,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:96",
+                            "text": "Those who favor the Jews admit the allegorical meaning of these things; and yet they wage a deadly warfare against the observance of days and months, without applying to them a similar sense: thus do they necessarily involve themselves in a common condemnation with the Jews."
+                        },
+                        {
+                            "verse": 97,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:97",
+                            "text": "But enough I think has been said concerning these things."
+                        },
+                        {
+                            "verse": 98,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:98",
+                            "text": "Let us now return to the subject we were previously treating of, the fact that the Church once divided did not stay with that division, but that those separated were again divided among themselves, taking occasion from the most trivial grounds."
+                        },
+                        {
+                            "verse": 99,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:99",
+                            "text": "The Novatians, as I have stated, were divided among themselves on account of the feast of Easter, the controversy not being restricted to one point only."
+                        },
+                        {
+                            "verse": 100,
+                            "chapter": 22,
+                            "name": "Socrates: Book V 22:100",
+                            "text": "For in the different provinces some took one view of the question, and some another, disagreeing not only about the month, but the days of the week also, and other unimportant matters; in some places they hold separate assemblies because of it, in others they unite in mutual communion."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 23,
+                    "name": "Socrates: Book V 23",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 23,
+                            "name": "Socrates: Book V 23:1",
+                            "text": "Chapter XXIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 23,
+                            "name": "Socrates: Book V 23:2",
+                            "text": "—Further Dissensions among the Arians at Constantinople."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 23,
+                            "name": "Socrates: Book V 23:3",
+                            "text": "The Psathyrians."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 23,
+                            "name": "Socrates: Book V 23:4",
+                            "text": "But dissensions arose among the Arians  also on this account."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 23,
+                            "name": "Socrates: Book V 23:5",
+                            "text": "The contentious questions which were daily agitated among them, led them to start the most absurd propositions."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 23,
+                            "name": "Socrates: Book V 23:6",
+                            "text": "For whereas it has been always believed in the church that God is the Father of the Son, the Word, it was asked whether God could be called 'Father' before the Son had subsistence? Thus in asserting that the Word of God was not begotten of the Father, but was created out 'of nothing,' and thus falling into error on the chief and main point, they deservedly fell into absurd cavilings about a mere name."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 23,
+                            "name": "Socrates: Book V 23:7",
+                            "text": "Dorotheus therefore being sent for by them from Antioch maintained that God neither was nor could be called Father before the Son existed."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 23,
+                            "name": "Socrates: Book V 23:8",
+                            "text": "But Marinus whom they had summoned out of Thrace before Dorotheus, piqued at the superior deference which was paid to his rival, undertook to defend the contrary opinion."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 23,
+                            "name": "Socrates: Book V 23:9",
+                            "text": "In consequence of these things there arose a schism among them, and being thus divided respecting this term, each party held separate meetings."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 23,
+                            "name": "Socrates: Book V 23:10",
+                            "text": "Those under Dorotheus retained their original places of assembly: but the followers of Marinus built distinct oratories for themselves, and asserted that the Father had always been Father, even when the Son was not."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 23,
+                            "name": "Socrates: Book V 23:11",
+                            "text": "This section of the Arians was denominated Psathyrians,  because one of the most zealous defenders of this opinion was Theoctistus, a Syrian by birth, and a cake-seller [Psathyropola]  by trade."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 23,
+                            "name": "Socrates: Book V 23:12",
+                            "text": "Selenas  bishop of the Goths adopted the views of this party, a man of mixed descent; he was a Goth by his father's side, but by his mother's a Phrygian, by which means he taught in the church with great readiness in both these languages."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 23,
+                            "name": "Socrates: Book V 23:13",
+                            "text": "This faction however soon quarreled among themselves, Marinus disagreeing with Agapius, whom he himself had preferred to the bishopric of Ephesus."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 23,
+                            "name": "Socrates: Book V 23:14",
+                            "text": "They disputed, however, not about any point of religion, but in narrow-mindedness about precedence, in which the Goths sided with Agapius."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 23,
+                            "name": "Socrates: Book V 23:15",
+                            "text": "Wherefore many of the ecclesiastics under their jurisdiction, abominating the vain-glorious contest between these two, abandoned them both, and became adherents to the 'homoousian' faith."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 23,
+                            "name": "Socrates: Book V 23:16",
+                            "text": "The Arians having continued thus divided among themselves during the space of thirty-five years, were reunited in the reign of Theodosius the Younger, under the consulate  of Plintha the commander-in-chief of the army, he being a member of the sect of Psathyrians; these were prevailed on to desist from contention."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 23,
+                            "name": "Socrates: Book V 23:17",
+                            "text": "They afterwards passed a resolution, giving it all the cogency of law, that the question which had led to their separation, should never be mooted again."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 23,
+                            "name": "Socrates: Book V 23:18",
+                            "text": "But this reconciliation extended no farther than Constantinople; for in other cities where any of these two parties were found, they persisted in their former separation."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 23,
+                            "name": "Socrates: Book V 23:19",
+                            "text": "So much respecting the division among the Arians."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 24,
+                    "name": "Socrates: Book V 24",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 24,
+                            "name": "Socrates: Book V 24:1",
+                            "text": "Chapter XXIV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 24,
+                            "name": "Socrates: Book V 24:2",
+                            "text": "—The Eunomians divide into Several Factions."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 24,
+                            "name": "Socrates: Book V 24:3",
+                            "text": "But neither did the followers of Eunomius remain without dissensions: for Eunomius  himself had long before this separated from Eudoxius who ordained him bishop of Cyzicus, taking occasion from that bishop's refusal to restore to communion his master Aëtius who had been ejected."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 24,
+                            "name": "Socrates: Book V 24:4",
+                            "text": "But those who derived their name from him were subsequently divided into several factions."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 24,
+                            "name": "Socrates: Book V 24:5",
+                            "text": "For first Theophronius a Cappadocian, who had been instructed in the art of disputation by Eunomius, and had acquired a smattering of Aristotle's Categories, and his Book of Interpretation, composed some treatises which he entitled, On the Exercise of the Mind."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 24,
+                            "name": "Socrates: Book V 24:6",
+                            "text": "Having, however, drawn down upon himself the reprobation of his own sect, he was ejected as an apostate."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 24,
+                            "name": "Socrates: Book V 24:7",
+                            "text": "He afterwards held assemblies apart from them, and left behind him a heresy which bore his own name."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 24,
+                            "name": "Socrates: Book V 24:8",
+                            "text": "Furthermore at Constantinople a certain Eutychius from some absurd dispute, withdrew from the Eunomians, and still continues to hold separate meetings."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 24,
+                            "name": "Socrates: Book V 24:9",
+                            "text": "The followers of Theophronius are denominated 'Eunomiotheophronians'; and those of Eutychius have the appellation of 'Eunomieutychians."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 24,
+                            "name": "Socrates: Book V 24:10",
+                            "text": "' What those nonsensical terms were about which they differed I consider unworthy of being recorded in this history, lest I should go into matters foreign to my purpose."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 24,
+                            "name": "Socrates: Book V 24:11",
+                            "text": "I shall merely observe that they adulterated baptism: for they do not baptize in the name of the Trinity, but into the death of Christ."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 24,
+                            "name": "Socrates: Book V 24:12",
+                            "text": "Among the Macedonians also there was for some time a division, when Eutropius a presbyter held separate assemblies, and Carterius did not agree with him."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 24,
+                            "name": "Socrates: Book V 24:13",
+                            "text": "There are possibly in other cities sects which have emanated from these: but living at Constantinople, where I was born and educated, I describe more particularly what has taken place in that city; both because I have myself witnessed some of these transactions, and also because the events which have there occurred are of pre-eminent importance, and are therefore more worth of commemoration."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 24,
+                            "name": "Socrates: Book V 24:14",
+                            "text": "Let it however be understood that what I have here related happened at different periods, and not at the same time."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 24,
+                            "name": "Socrates: Book V 24:15",
+                            "text": "But if any one should be desirous of knowing the names of the various sects, he may easily satisfy himself, by reading a book entitled Ancoratus,  composed by Epiphanius, bishop of Cyprus: but I shall content myself with what I have already stated."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 24,
+                            "name": "Socrates: Book V 24:16",
+                            "text": "The public affairs were again thrown into agitation from a cause I shall now refer to."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 25,
+                    "name": "Socrates: Book V 25",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 25,
+                            "name": "Socrates: Book V 25:1",
+                            "text": "Chapter XXV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 25,
+                            "name": "Socrates: Book V 25:2",
+                            "text": "—The Usurper Eugenius compasses the Death of Valentinian the Younger."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 25,
+                            "name": "Socrates: Book V 25:3",
+                            "text": "Theodosius obtains a Victory over him."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 25,
+                            "name": "Socrates: Book V 25:4",
+                            "text": "There was in the Western regions a grammarian named Eugenius, who after having for some time taught the Latin language, left his school, and was appointed to service at the palace, being constituted chief secretary to the emperor."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 25,
+                            "name": "Socrates: Book V 25:5",
+                            "text": "Possessing a considerable degree of eloquence, and being on that account treated with greater distinction than others, he was unable to bear his good fortune with moderation."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 25,
+                            "name": "Socrates: Book V 25:6",
+                            "text": "For associating with himself Arbogastes, a native of Galatia Minor, who then had the command of a division of the army, a man harsh in manner and very bloodthirsty, he determined to usurp the sovereignty."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 25,
+                            "name": "Socrates: Book V 25:7",
+                            "text": "These two therefore agreed to murder the Emperor Valentinian, having corrupted the eunuchs of the imperial bed-chamber."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 25,
+                            "name": "Socrates: Book V 25:8",
+                            "text": "These, on receiving tempting promises of promotion, strangled the emperor in his sleep."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 25,
+                            "name": "Socrates: Book V 25:9",
+                            "text": "Eugenius immediately assuming the supreme authority in the Western parts of the empire, conducted himself in such a manner as might be expected from a usurper."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 25,
+                            "name": "Socrates: Book V 25:10",
+                            "text": "When the Emperor Theodosius was made acquainted with these things, he was exceedingly distressed, because his defeat of Maximus had only prepared the way for fresh troubles."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 25,
+                            "name": "Socrates: Book V 25:11",
+                            "text": "He accordingly assembled his military forces, and having proclaimed his son Honorius Augustus, on the 10th of January, in his own third consulate which he bore with Abundantius, he again set out in great haste toward the Western parts, leaving both his sons invested with imperial authority at Constantinople."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 25,
+                            "name": "Socrates: Book V 25:12",
+                            "text": "As he marched against Eugenius a very great number of the barbarians beyond the Danube volunteered their services, and followed him in this expedition."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 25,
+                            "name": "Socrates: Book V 25:13",
+                            "text": "After a rapid march he arrived in the Gauls with a numerous army, where Eugenius awaited him, also at the head of an immense body of troops."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 25,
+                            "name": "Socrates: Book V 25:14",
+                            "text": "Accordingly an engagement took place near the river Frigidus, which is [about thirty-six miles] distant [from Aquileia]."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 25,
+                            "name": "Socrates: Book V 25:15",
+                            "text": "In that part of the battle where the Romans fought against their own countrymen, the conflict was doubtful: but where the barbarian auxiliaries of the Emperor Theodosius were engaged, the forces of Eugenius had greatly the advantage."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 25,
+                            "name": "Socrates: Book V 25:16",
+                            "text": "When the emperor saw the barbarians perishing, he cast himself in great agony upon the ground, and invoked the help of God in this emergency: nor was his request unheeded; for Bacurius, his principal officer, inspired with sudden and extraordinary ardor, rushed with his vanguard to the part where the barbarians were hardest pressed, broke through the ranks of the enemy, and put to flight those who a little before were themselves engaged in pursuit."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 25,
+                            "name": "Socrates: Book V 25:17",
+                            "text": "Another marvelous circumstance also occurred."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 25,
+                            "name": "Socrates: Book V 25:18",
+                            "text": "A violent wind suddenly arose, which retorted upon themselves the darts cast by the soldiers of Eugenius, and at the same time drove those hurled by the imperial forces with increased impetus against their adversaries."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 25,
+                            "name": "Socrates: Book V 25:19",
+                            "text": "So prevalent was the emperor's prayer."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 25,
+                            "name": "Socrates: Book V 25:20",
+                            "text": "The success of the struggle being in this way turned, the usurper threw himself at the emperor's feet, and begged that his life might be spared: but as he lay a prostrate suppliant at the feet [of the emperor] he was beheaded by the soldiers, on the 6th of September, in the third consulate of Arcadius, and the second of Honorius."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 25,
+                            "name": "Socrates: Book V 25:21",
+                            "text": "Arbogastes, who had been the chief cause of so much mischief, having continued his flight for two days after the battle, and seeing no chance of escape, despatched himself with his own sword."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 26,
+                    "name": "Socrates: Book V 26",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 26,
+                            "name": "Socrates: Book V 26:1",
+                            "text": "Chapter XXVI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 26,
+                            "name": "Socrates: Book V 26:2",
+                            "text": "—Illness and Death of Theodosius the Elder."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 26,
+                            "name": "Socrates: Book V 26:3",
+                            "text": "The Emperor Theodosius was in consequence of the anxiety and fatigues connected with this war thrown into bodily illness; and believing the disease which had attacked him would be fatal, he became more concerned about the public affairs than his own life, considering how great calamities often overtook the people after the death of their sovereign."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 26,
+                            "name": "Socrates: Book V 26:4",
+                            "text": "He therefore hastily summoned his son Honorius from Constantinople, being principally desirous of setting in order the state of things in the western parts of the empire."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 26,
+                            "name": "Socrates: Book V 26:5",
+                            "text": "After his son's arrival at Milan, he seemed to recover a little, and gave directions for the celebration of the games of the hippodrome on account of his victory."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 26,
+                            "name": "Socrates: Book V 26:6",
+                            "text": "Before dinner he was pretty well, and a spectator of the sports; but after he had dined he became suddenly too ill to return to them, and sent his son to preside in his stead; when the night came on he died, it being the seventeenth of January, during consulate of Olybrius and Probus."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 26,
+                            "name": "Socrates: Book V 26:7",
+                            "text": "This was in the first year of the two hundred and ninety-fourth Olympiad."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 26,
+                            "name": "Socrates: Book V 26:8",
+                            "text": "The emperor Theodosius lived sixty years,  and reigned sixteen."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 26,
+                            "name": "Socrates: Book V 26:9",
+                            "text": "This book therefore comprehends the transactions of sixteen years and eight months."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

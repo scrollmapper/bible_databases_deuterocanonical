@@ -1,0 +1,621 @@
+{
+    "books": [
+        {
+            "name": "Ignatius: Epistle to Antiochians",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Ignatius: Epistle to Antiochians 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Ignatius: Epistle to Antiochians 1:1",
+                            "text": "The Epistle of Ignatius to the Antiochians  Ignatius, who is also called Theophorus, to the Church sojourning in Syria, which has obtained mercy from God, and been elected by Christ, and which first received the name Christ, wishes happiness in God the Father, and the Lord Jesus Christ."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Ignatius: Epistle to Antiochians 1:2",
+                            "text": "Chapter 1 — Cautions against error."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Ignatius: Epistle to Antiochians 1:3",
+                            "text": "The Lord has rendered my bonds light and easy since I learnt that you are in peace, that you live in all harmony both of the flesh and spirit."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Ignatius: Epistle to Antiochians 1:4",
+                            "text": "\"I therefore, the prisoner of the Lord, beseech you, that ye walk worthy of the vocation wherewith ye are called,\" guarding against those heresies of the wicked one which have broken in upon us, to the deceiving and destruction of those that accept of them; but that ye give heed to the doctrine of the apostles, and believe both the law and the prophets: that ye reject every Jewish and Gentile error, and neither introduce a multiplicity of gods, nor yet deny Christ under the pretence of maintaining the unity of God."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 2,
+                    "name": "Ignatius: Epistle to Antiochians 2",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 2,
+                            "name": "Ignatius: Epistle to Antiochians 2:1",
+                            "text": "Chapter 2 — The true doctrine respecting God and Christ."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 2,
+                            "name": "Ignatius: Epistle to Antiochians 2:2",
+                            "text": "For Moses, the faithful servant of God, when he said, \"The Lord thy God is one Lord,\" and thus proclaimed that there was only one God, did yet forthwith confess also our Lord when he said, \"The Lord rained upon Sodom and Gomorrah fire and brimstone from the Lord\"."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 2,
+                            "name": "Ignatius: Epistle to Antiochians 2:3",
+                            "text": "And again, \"And God said, Let Us make man after our image: and so God made man, after the image of God made He him\"."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 2,
+                            "name": "Ignatius: Epistle to Antiochians 2:4",
+                            "text": "And further \"In the image of God made He man\"."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 2,
+                            "name": "Ignatius: Epistle to Antiochians 2:5",
+                            "text": "And that the Son of God was to be made man Moses shows when he says, \"A prophet shall the Lord raise up unto you of your brethren, like unto me\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 3,
+                    "name": "Ignatius: Epistle to Antiochians 3",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 3,
+                            "name": "Ignatius: Epistle to Antiochians 3:1",
+                            "text": "Chapter 3 — The same continued."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 3,
+                            "name": "Ignatius: Epistle to Antiochians 3:2",
+                            "text": "The prophets also, when they speak as in the person of God, saying, \"I am God, the first of beings, and I am also the last, and besides Me there is no God,\" concerning the Father of the universe, do also speak of our Lord Jesus Christ."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 3,
+                            "name": "Ignatius: Epistle to Antiochians 3:3",
+                            "text": "\"A Son,\" they say, has been given to us, on whose shoulder the government is from above; and His name is called the Angel of great counsel, Wonderful, Counsellor, the strong and mighty God\"."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 3,
+                            "name": "Ignatius: Epistle to Antiochians 3:4",
+                            "text": "And concerning His incarnation, \"Behold, a virgin shall be with Child, and shall bring forth a Son; and they shall call his name Immanuel\"."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 3,
+                            "name": "Ignatius: Epistle to Antiochians 3:5",
+                            "text": "And concerning the passion, \"He was led as a sheep to the slaughter; and as a lamb before her shearers is dumb, I also was an innocent lamb led to be sacrificed\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 4,
+                    "name": "Ignatius: Epistle to Antiochians 4",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 4,
+                            "name": "Ignatius: Epistle to Antiochians 4:1",
+                            "text": "Chapter 4 — Continuation."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 4,
+                            "name": "Ignatius: Epistle to Antiochians 4:2",
+                            "text": "The Evangelists, too, when they declared that the one Father was \"the only true God,\" did not omit what concerned our Lord, but wrote: \"In the beginning was the Word, and the Word was with God, and the Word was God."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 4,
+                            "name": "Ignatius: Epistle to Antiochians 4:3",
+                            "text": "The same was in the beginning with God."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 4,
+                            "name": "Ignatius: Epistle to Antiochians 4:4",
+                            "text": "All things were made by Him, and without Him was not anything made that was made\"."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 4,
+                            "name": "Ignatius: Epistle to Antiochians 4:5",
+                            "text": "And concerning the incarnation: \"The Word,\" says the Scripture, \"became flesh, and dwelt among us\"."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 4,
+                            "name": "Ignatius: Epistle to Antiochians 4:6",
+                            "text": "And again: \"The book of the generation of Jesus Christ, the son of David, the son of Abraham\"."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 4,
+                            "name": "Ignatius: Epistle to Antiochians 4:7",
+                            "text": "And those very apostles, who said \"that there is one God,\" said also that \"there is one Mediator between God and men\"."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 4,
+                            "name": "Ignatius: Epistle to Antiochians 4:8",
+                            "text": "Nor were they ashamed of the incarnation and the passion."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 4,
+                            "name": "Ignatius: Epistle to Antiochians 4:9",
+                            "text": "For what says one? \"The man Christ Jesus, who gave Himself\" for the life and salvation of the world."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 5,
+                    "name": "Ignatius: Epistle to Antiochians 5",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 5,
+                            "name": "Ignatius: Epistle to Antiochians 5:1",
+                            "text": "Chapter 5 — Denunciation of false teachers."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 5,
+                            "name": "Ignatius: Epistle to Antiochians 5:2",
+                            "text": "Whosoever, therefore, declares that there is but one God, only so as to take away the divinity of Christ, is a devil, and an enemy of all righteousness."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 5,
+                            "name": "Ignatius: Epistle to Antiochians 5:3",
+                            "text": "He also that confesseth Christ, yet not as the Son of the Maker of the world, but of some other unknown being, different from Him whom the law and the prophets have proclaimed, this man is an instrument of the devil."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 5,
+                            "name": "Ignatius: Epistle to Antiochians 5:4",
+                            "text": "And he that rejects the incarnation, and is ashamed of the cross for which I am in bonds, this man is antichrist."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 5,
+                            "name": "Ignatius: Epistle to Antiochians 5:5",
+                            "text": "Moreover, he who affirms Christ to be a mere man is accursed, according to the declaration of the prophet, since he puts not his trust in God, but in man."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 5,
+                            "name": "Ignatius: Epistle to Antiochians 5:6",
+                            "text": "Wherefore also he is unfruitful, like the wild myrtle-tree."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 6,
+                    "name": "Ignatius: Epistle to Antiochians 6",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 6,
+                            "name": "Ignatius: Epistle to Antiochians 6:1",
+                            "text": "Chapter 6 — Renewed cautions."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 6,
+                            "name": "Ignatius: Epistle to Antiochians 6:2",
+                            "text": "These things I write to you, thou new olive-tree of Christ, not that I am aware you hold any such opinions, but that I may put you on your guard, as a father does his children."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 6,
+                            "name": "Ignatius: Epistle to Antiochians 6:3",
+                            "text": "Beware, therefore, of those that hasten to work mischief, those \"enemies of the cross of Christ, whose end is destruction, whose glory is in their shame\"."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 6,
+                            "name": "Ignatius: Epistle to Antiochians 6:4",
+                            "text": "Beware of those \"dumb dogs,\" those trailing serpents, those scaly dragons, those asps, and basilisks, and scorpions."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 6,
+                            "name": "Ignatius: Epistle to Antiochians 6:5",
+                            "text": "For these are subtle wolves, and apes that mimic the appearance of men."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 7,
+                    "name": "Ignatius: Epistle to Antiochians 7",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 7,
+                            "name": "Ignatius: Epistle to Antiochians 7:1",
+                            "text": "Chapter 7 — Exhortation to consistency of conduct."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 7,
+                            "name": "Ignatius: Epistle to Antiochians 7:2",
+                            "text": "Ye have been the disciples of Paul and Peter; do not lose what was committed to your trust."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 7,
+                            "name": "Ignatius: Epistle to Antiochians 7:3",
+                            "text": "Keep in remembrance Euodias, your deservedly-blessed pastor, into whose hands the government over you was first entrusted by the apostles."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 7,
+                            "name": "Ignatius: Epistle to Antiochians 7:4",
+                            "text": "Let us not bring disgrace upon our Father."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 7,
+                            "name": "Ignatius: Epistle to Antiochians 7:5",
+                            "text": "Let us prove ourselves His true-born children, and not bastards."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 7,
+                            "name": "Ignatius: Epistle to Antiochians 7:6",
+                            "text": "Ye know after what manner I have acted among you."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 7,
+                            "name": "Ignatius: Epistle to Antiochians 7:7",
+                            "text": "The things which, when present, I spoke to you, these same, when absent, I now write to you."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 7,
+                            "name": "Ignatius: Epistle to Antiochians 7:8",
+                            "text": "\"If any man love not the Lord Jesus Christ, let him be Anathema\"."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 7,
+                            "name": "Ignatius: Epistle to Antiochians 7:9",
+                            "text": "Be ye followers of me."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 7,
+                            "name": "Ignatius: Epistle to Antiochians 7:10",
+                            "text": "My soul be for yours, when I attain to Jesus."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 7,
+                            "name": "Ignatius: Epistle to Antiochians 7:11",
+                            "text": "Remember my bonds."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 8,
+                    "name": "Ignatius: Epistle to Antiochians 8",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 8,
+                            "name": "Ignatius: Epistle to Antiochians 8:1",
+                            "text": "Chapter 8 — Exhortations to the presbyters and others."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 8,
+                            "name": "Ignatius: Epistle to Antiochians 8:2",
+                            "text": "Ye presbyters, \"feed the flock which is among you,\" till God shall show who is to hold the rule over you."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 8,
+                            "name": "Ignatius: Epistle to Antiochians 8:3",
+                            "text": "For \"I am now ready to be offered,\" that I \"may win Christ\"."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 8,
+                            "name": "Ignatius: Epistle to Antiochians 8:4",
+                            "text": "Let the deacons know of what dignity they are, and let them study to be blameless, that they may be the followers of Christ."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 8,
+                            "name": "Ignatius: Epistle to Antiochians 8:5",
+                            "text": "Let the people be subject to the presbyters and the deacons."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 8,
+                            "name": "Ignatius: Epistle to Antiochians 8:6",
+                            "text": "Let the virgins know to whom they have consecrated themselves."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 9,
+                    "name": "Ignatius: Epistle to Antiochians 9",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 9,
+                            "name": "Ignatius: Epistle to Antiochians 9:1",
+                            "text": "Chapter 9 — Duties of husbands, wives, parents, and children."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 9,
+                            "name": "Ignatius: Epistle to Antiochians 9:2",
+                            "text": "Let the husbands love their wives, remembering that, at the creation, one woman, and not many, was given to one man."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 9,
+                            "name": "Ignatius: Epistle to Antiochians 9:3",
+                            "text": "Let the wives honour their husbands, as their own flesh; and let them not presume to address them by their names."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 9,
+                            "name": "Ignatius: Epistle to Antiochians 9:4",
+                            "text": "Let them also be chaste, reckoning their husbands as their only partners, to whom indeed they have been united according to the will of God."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 9,
+                            "name": "Ignatius: Epistle to Antiochians 9:5",
+                            "text": "Ye parents, impart a holy training to your children."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 9,
+                            "name": "Ignatius: Epistle to Antiochians 9:6",
+                            "text": "Ye children, \"honour your parents, that it may be well with you\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 10,
+                    "name": "Ignatius: Epistle to Antiochians 10",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 10,
+                            "name": "Ignatius: Epistle to Antiochians 10:1",
+                            "text": "Chapter 10 — Duties of masters and servants."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 10,
+                            "name": "Ignatius: Epistle to Antiochians 10:2",
+                            "text": "Ye masters, do not treat your servants with haughtiness, but imitate patient Job, who declares, \"I did not despise the cause of my man-servant, or of my maid-servant, when they contended with me."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 10,
+                            "name": "Ignatius: Epistle to Antiochians 10:3",
+                            "text": "For what in that case shall I do when the Lord makes an inquisition regarding me?\" And you know what follows."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 10,
+                            "name": "Ignatius: Epistle to Antiochians 10:4",
+                            "text": "Ye servants, do not provoke your masters to anger in anything, lest ye become the authors of incurable mischiefs to yourselves."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 11,
+                    "name": "Ignatius: Epistle to Antiochians 11",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 11,
+                            "name": "Ignatius: Epistle to Antiochians 11:1",
+                            "text": "Chapter 11 — Inculcation of various moral duties."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 11,
+                            "name": "Ignatius: Epistle to Antiochians 11:2",
+                            "text": "Let no one addicted to idleness eat, lest he become a wanderer about, and a whoremonger."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 11,
+                            "name": "Ignatius: Epistle to Antiochians 11:3",
+                            "text": "Let drunkenness, anger, envy, reviling, clamour, and blasphemy \"be not so much as named among you\"."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 11,
+                            "name": "Ignatius: Epistle to Antiochians 11:4",
+                            "text": "Let not the widows live a life of pleasure, lest they wax wanton against the word."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 11,
+                            "name": "Ignatius: Epistle to Antiochians 11:5",
+                            "text": "Be subject to Caesar in everything in which subjection implies no spiritual danger."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 11,
+                            "name": "Ignatius: Epistle to Antiochians 11:6",
+                            "text": "Provoke not those that rule over you to wrath, that you may give no occasion against yourselves to those that seek for it."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 11,
+                            "name": "Ignatius: Epistle to Antiochians 11:7",
+                            "text": "But as to the practice of magic, or the impure love of boys, or murder, it is superfluous to write to you, since such vices are forbidden to be committed even by the Gentiles."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 11,
+                            "name": "Ignatius: Epistle to Antiochians 11:8",
+                            "text": "I do not issue commands on these points as if I were an apostle; but, as your fellow-servant, I put you in mind of them."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 12,
+                    "name": "Ignatius: Epistle to Antiochians 12",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 12,
+                            "name": "Ignatius: Epistle to Antiochians 12:1",
+                            "text": "Chapter 12 — Salutations."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 12,
+                            "name": "Ignatius: Epistle to Antiochians 12:2",
+                            "text": "I salute the holy presbytery."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 12,
+                            "name": "Ignatius: Epistle to Antiochians 12:3",
+                            "text": "I salute the sacred deacons, and that person most dear to me, whom may I behold, through the Holy Spirit, occupying my place when I shall attain to Christ."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 12,
+                            "name": "Ignatius: Epistle to Antiochians 12:4",
+                            "text": "My soul be in place of his."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 12,
+                            "name": "Ignatius: Epistle to Antiochians 12:5",
+                            "text": "I salute the sub-deacons, the readers, the singers, the doorkeepers, the labourers, the exorcists, the confessors."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 12,
+                            "name": "Ignatius: Epistle to Antiochians 12:6",
+                            "text": "I salute the keepers of the holy gates, the deaconesses in Christ."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 12,
+                            "name": "Ignatius: Epistle to Antiochians 12:7",
+                            "text": "I salute the virgins betrothed to Christ, of whom may I have joy in the Lord Jesus."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 12,
+                            "name": "Ignatius: Epistle to Antiochians 12:8",
+                            "text": "I salute the people of the Lord, from the smallest to the greatest, and all my sisters in the Lord."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 13,
+                    "name": "Ignatius: Epistle to Antiochians 13",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 13,
+                            "name": "Ignatius: Epistle to Antiochians 13:1",
+                            "text": "Chapter 13 — Salutations continued."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 13,
+                            "name": "Ignatius: Epistle to Antiochians 13:2",
+                            "text": "I salute Cassian and his partner in life, and their very dear children."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 13,
+                            "name": "Ignatius: Epistle to Antiochians 13:3",
+                            "text": "Polycarp, that most worthy bishop, who is also deeply interested in you, salutes you; and to him I have commended you in the Lord."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 13,
+                            "name": "Ignatius: Epistle to Antiochians 13:4",
+                            "text": "The whole Church of the Smyrnaeans, indeed, is mindful of you in their prayers in the Lord."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 13,
+                            "name": "Ignatius: Epistle to Antiochians 13:5",
+                            "text": "Onesimus, the pastor of the Ephesians, salutes you."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 13,
+                            "name": "Ignatius: Epistle to Antiochians 13:6",
+                            "text": "Damas, the bishop of Magnesia, salutes you."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 13,
+                            "name": "Ignatius: Epistle to Antiochians 13:7",
+                            "text": "Polybius, bishop of the Trallians, salutes you."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 13,
+                            "name": "Ignatius: Epistle to Antiochians 13:8",
+                            "text": "Philo and Agathopus, the deacons, my companions, salute you, \"Salute one another with a holy kiss\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 14,
+                    "name": "Ignatius: Epistle to Antiochians 14",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 14,
+                            "name": "Ignatius: Epistle to Antiochians 14:1",
+                            "text": "Chapter 14 — Conclusion."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 14,
+                            "name": "Ignatius: Epistle to Antiochians 14:2",
+                            "text": "I write this letter to you from Philippi."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 14,
+                            "name": "Ignatius: Epistle to Antiochians 14:3",
+                            "text": "May He who is alone unbegotten, keep you stedfast both in the spirit and in the flesh, through Him who was begotten before time began! And may I behold you in the kingdom of Christ! I salute him who is to bear rule over you in my stead: may I have joy of him in the Lord! Fare ye well in God, and in Christ, being enlightened by the Holy Spirit."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

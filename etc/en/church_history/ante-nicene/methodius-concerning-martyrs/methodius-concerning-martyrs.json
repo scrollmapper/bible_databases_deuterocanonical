@@ -1,0 +1,27 @@
+{
+    "books": [
+        {
+            "name": "Methodius: Concerning Martyrs",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Methodius: Concerning Martyrs 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Methodius: Concerning Martyrs 1:1",
+                            "text": "From His Discourse Concerning Martyrs."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Methodius: Concerning Martyrs 1:2",
+                            "text": "For martyrdom is so admirable and desirable, that the Lord, the Son of God Himself, honouring it, testified, \"He thought it not robbery to be equal with God,\" that He might honour man to whom He descended with this gift."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

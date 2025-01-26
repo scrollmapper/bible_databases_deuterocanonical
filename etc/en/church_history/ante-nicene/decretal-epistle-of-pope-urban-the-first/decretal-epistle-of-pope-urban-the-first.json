@@ -1,0 +1,459 @@
+{
+    "books": [
+        {
+            "name": "Decretal: Epistle of Pope Urban the First",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Decretal: Epistle of Pope Urban the First 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Decretal: Epistle of Pope Urban the First 1:1",
+                            "text": "The Epistle of Pope Urban First: To All Christians."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Decretal: Epistle of Pope Urban the First 1:2",
+                            "text": "Of the church's receiving only the property of the faithful, and not the price of the same, as in the times of the apostles; and as to why elevated seats should be prepared in the churches for the bishops; and as to the fact that no one should have intercourse with those whom the bishops excommunicate, and that no one should receive those whom they have cast out in any manner whatever."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Decretal: Epistle of Pope Urban the First 1:3",
+                            "text": "Urban, bishop, to all Christians, in sanctification of the spirit, in obedience and sprinkling of the blood of Jesus Christ our Lord, greeting."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Decretal: Epistle of Pope Urban the First 1:4",
+                            "text": "It becomes all Christians, most dearly beloved, to imitate Him whose name they have received."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Decretal: Epistle of Pope Urban the First 1:5",
+                            "text": "\"What doth it profit, my brethren,\" says the Apostle James, \"though a man say he hath faith, and have not works?\"  \"My brethren, be not many masters, knowing that ye receive (sumitis) the greater condemnation; for in many things we offend all\"."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Decretal: Epistle of Pope Urban the First 1:6",
+                            "text": "\"Let him who is a wise man, and endued with knowledge among you, show out of a good conversation his works with meekness of wisdom\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 2,
+                    "name": "Decretal: Epistle of Pope Urban the First 2",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Urban the First 2:1",
+                            "text": "I."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Urban the First 2:2",
+                            "text": "Of the life in common, and of the reason why the Church has begun to hold property."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Urban the First 2:3",
+                            "text": "We know that you are not ignorant of the fact that hitherto the principle of living with all things in common has been in vigorous operation among good Christians, and is still so by the grace of God; and most of all among those who have been chosen to the lot of the Lord, that is to say, the clergy, even as we read in the Acts of the Apostles:  \"And the multitude of them that believed were of one heart and of one soul:  neither said any of them that ought of the things which he possessed was his own; but they had all things common."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Urban the First 2:4",
+                            "text": "And with great power gave the apostles witness of the resurrection of Jesus Christ:  and great grace was upon them all."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Urban the First 2:5",
+                            "text": "Neither was there any among them that lacked:  for as many as were possessors of lands or houses sold them, and brought the prices of the things that were sold, and laid them down at the apostles' feet:  and distribution was made unto every man according as he had need."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Urban the First 2:6",
+                            "text": "And Joseph, who by the apostles was surnamed Barnabas (which is, being interpreted, the son of consolation), a Levite, and of the country of Cyprus, having land, sold it, and brought the money, and laid it at the apostles' feet;\" and so forth."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Urban the First 2:7",
+                            "text": "Accordingly, as the chief priests and others, and the Levites, and the rest of the faithful, perceived that it might be of more advantage if they handed over to the churches over which the bishops presided the heritages and fields which they were in the way of selling, inasmuch as they might furnish a larger and better maintenance for the faithful who hold the common faith, not only in present but also in future times, out of the revenues of such property than out of the money for which they might at once be sold, they began to consign to the mother churches the property and lands which they were wont to sell, and got into the manner of living on the revenues of these."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 3,
+                    "name": "Decretal: Epistle of Pope Urban the First 3",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 3,
+                            "name": "Decretal: Epistle of Pope Urban the First 3:1",
+                            "text": "II."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 3,
+                            "name": "Decretal: Epistle of Pope Urban the First 3:2",
+                            "text": "Of the persons by whom, and the uses for which, ecclesiastical property should be managed, and of the invaders thereof."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 3,
+                            "name": "Decretal: Epistle of Pope Urban the First 3:3",
+                            "text": "The property, moreover, in the possession of the several parishes was left in the hands of the bishops, who hold the place of the apostles; and it is so to this day, and ought to be so in all future time."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 3,
+                            "name": "Decretal: Epistle of Pope Urban the First 3:4",
+                            "text": "And out of those possessions the bishops and the faithful as their stewards ought to furnish to all who wish to enter the life in common all necessaries as they best can, so that none may be found in want among them."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 3,
+                            "name": "Decretal: Epistle of Pope Urban the First 3:5",
+                            "text": "For the possessions of the faithful are also called oblations, because they are offered to the Lord."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 3,
+                            "name": "Decretal: Epistle of Pope Urban the First 3:6",
+                            "text": "They ought not therefore to be turned to any other uses than those of the Church, and in behoof of Christian brethren before mentioned, and of the poor; for they are the offerings of the faithful, and they are redemption moneys for sins (pretia peccatorum), and the patrimony of the poor, and are given over to the Lord for the purpose already named."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 3,
+                            "name": "Decretal: Epistle of Pope Urban the First 3:7",
+                            "text": "But if any one act otherwise (which may God forbid), let him take care lest he meet the condemnation of Ananias and Sapphira, and be found guilty of sacrilege, as those were who lied as to the price of the property designated, of whom we read thus in the before-cited passage of the Acts of the Apostles:  \"But a certain man named Ananias, with Sapphira his wife, sold land (agrum), and kept back part of the price, his wife also being privy to it, and brought a certain part, and laid it at the apostles' feet."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 3,
+                            "name": "Decretal: Epistle of Pope Urban the First 3:8",
+                            "text": "But Peter said to Ananias, Why hath Satan tempted (tentavit) thine heart to lie to the Holy Ghost, and to keep back part of the price of the land?  Whilst it remained, was it not thine own? and after it was sold, was it not in thine own power?  Why hast thou conceived this thing in thine heart?  Thou hast not lied unto men, but unto the Lord."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 3,
+                            "name": "Decretal: Epistle of Pope Urban the First 3:9",
+                            "text": "And Ananias, hearing these words, fell down, and gave up the ghost."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 3,
+                            "name": "Decretal: Epistle of Pope Urban the First 3:10",
+                            "text": "And great fear came on all them that heard these things."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 3,
+                            "name": "Decretal: Epistle of Pope Urban the First 3:11",
+                            "text": "And the young men arose, and removed him (amoverunt), and carried him out, and buried him."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 3,
+                            "name": "Decretal: Epistle of Pope Urban the First 3:12",
+                            "text": "And it was about the space of three hours after, when his wife, not knowing what was done, came in."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 3,
+                            "name": "Decretal: Epistle of Pope Urban the First 3:13",
+                            "text": "And Peter answered unto her, and said, Tell me whether ye sold the land for so much?  And she said, Yea, for so much."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 3,
+                            "name": "Decretal: Epistle of Pope Urban the First 3:14",
+                            "text": "Then Peter said unto her, How is it that ye have agreed together to tempt the Spirit of the Lord?  Behold, the feet of them which have buried thy husband are at the door, and shall carry thee out."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 3,
+                            "name": "Decretal: Epistle of Pope Urban the First 3:15",
+                            "text": "Then fell she down straightway at his feet, and yielded up the ghost."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 3,
+                            "name": "Decretal: Epistle of Pope Urban the First 3:16",
+                            "text": "And the young men came in, and found her dead, and, carrying her forth, buried her by her husband."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 3,
+                            "name": "Decretal: Epistle of Pope Urban the First 3:17",
+                            "text": "And great fear came upon all the Church, and upon as many as heard these things\"."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 3,
+                            "name": "Decretal: Epistle of Pope Urban the First 3:18",
+                            "text": "These things, brethren, are carefully to be guarded against, and greatly to be feared."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 3,
+                            "name": "Decretal: Epistle of Pope Urban the First 3:19",
+                            "text": "For the property of the Church, not being like personal, but like common property, and property offered to the Lord, is to be dispensed with the deepest fear, in the spirit of faithfulness, and for no other objects than the above-named, lest those should incur the guilt of sacrilege who divert it from the hands to which it was consigned, and lest they should come under the punishment and death of Ananias and Sapphira, and lest (which is yet worse) they should become anathema maranatha, and lest, though their body may not fall dead like that of Ananias and Sapphira, their soul, which is nobler than the body, should fall dead, and be cut off from the company of the faithful, and sink into the depths of the pit."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 3,
+                            "name": "Decretal: Epistle of Pope Urban the First 3:20",
+                            "text": "Wherefore all must give heed to this matter, and watch in faithfulness, and avert the dishonour of such usurpation, lest possessions dedicated to the uses of things secret (or sacred) and heavenly be spoiled by any parties invading them."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 3,
+                            "name": "Decretal: Epistle of Pope Urban the First 3:21",
+                            "text": "And if any one do so, then, after the sharp vengeance which is due to such a crime, and which is justly to be carried out against the sacrilegious, let him be condemned to perpetual infamy, and cast into prison or consigned to life-long exile."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 3,
+                            "name": "Decretal: Epistle of Pope Urban the First 3:22",
+                            "text": "For, according to the apostle, we ought to deliver such a man to Satan, that the spirit may be saved in the day of the Lord."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 4,
+                    "name": "Decretal: Epistle of Pope Urban the First 4",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 4,
+                            "name": "Decretal: Epistle of Pope Urban the First 4:1",
+                            "text": "III."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 4,
+                            "name": "Decretal: Epistle of Pope Urban the First 4:2",
+                            "text": "As to any one's attempting to take from the Church the right of holding property."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 4,
+                            "name": "Decretal: Epistle of Pope Urban the First 4:3",
+                            "text": "By the increase, therefore, and the mode of life which have been mentioned, the churches over which the bishops preside have grown so greatly with the help of the Lord, and the greater part of them are now in possession of so much property, that among them there is not a man who, selecting the life in common, is kept in poverty; but such an one receives all necessaries from the bishop and his ministers."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 4,
+                            "name": "Decretal: Epistle of Pope Urban the First 4:4",
+                            "text": "Therefore, if any one in modern or in future time shall rise up and attempt to divert that property, let him be smitten with the judgment which has been already mentioned."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 5,
+                    "name": "Decretal: Epistle of Pope Urban the First 5",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 5,
+                            "name": "Decretal: Epistle of Pope Urban the First 5:1",
+                            "text": "IV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 5,
+                            "name": "Decretal: Epistle of Pope Urban the First 5:2",
+                            "text": "Of the seats of the bishops."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 5,
+                            "name": "Decretal: Epistle of Pope Urban the First 5:3",
+                            "text": "Furthermore, as to the fact that in the churches of the bishops there are found elevated seats set up and prepared like a throne, they show by these that the power of inspection and of judging, and the authority to loose and bind, are given to them by the Lord."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 5,
+                            "name": "Decretal: Epistle of Pope Urban the First 5:4",
+                            "text": "Whence the Saviour Himself says in the Gospel, \"Whatsoever ye shall bind on earth shall be bound in heaven; and whatsoever ye shall loose on earth shall be loosed in heaven\"."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 5,
+                            "name": "Decretal: Epistle of Pope Urban the First 5:5",
+                            "text": "And elsewhere:  \"Receive ye the Holy Ghost."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 5,
+                            "name": "Decretal: Epistle of Pope Urban the First 5:6",
+                            "text": "Whose soever sins ye remit, are remitted unto them; and whose soever sins ye retain, they are retained\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 6,
+                    "name": "Decretal: Epistle of Pope Urban the First 6",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 6,
+                            "name": "Decretal: Epistle of Pope Urban the First 6:1",
+                            "text": "V."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 6,
+                            "name": "Decretal: Epistle of Pope Urban the First 6:2",
+                            "text": "That no one should have intercourse with those with whom the bishop has no intercourse, or receive those whom he rejects."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 6,
+                            "name": "Decretal: Epistle of Pope Urban the First 6:3",
+                            "text": "These things, then, we have set before you, most dearly beloved, in order that ye may understand the power of your bishops, and give reverence to God in them, and love them as your own souls; and in order that ye may have no communication with those with whom they have none, and that ye may not receive those whom they have cast out."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 6,
+                            "name": "Decretal: Epistle of Pope Urban the First 6:4",
+                            "text": "For the judgment of a bishop is greatly to be feared, although he may bind one unjustly, which, however, he ought to guard against with the utmost care."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 7,
+                    "name": "Decretal: Epistle of Pope Urban the First 7",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 7,
+                            "name": "Decretal: Epistle of Pope Urban the First 7:1",
+                            "text": "VI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 7,
+                            "name": "Decretal: Epistle of Pope Urban the First 7:2",
+                            "text": "Of the engagement made in baptism, and of those who have given themselves to the life in common."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 7,
+                            "name": "Decretal: Epistle of Pope Urban the First 7:3",
+                            "text": "And in exhorting you, we also admonish all who have embraced the faith of Christ, and who have taken from Christ the name of Christian, that ye make your Christianity vain in no respect, but keep stedfastly the engagement which ye took upon yourselves in baptism, so that ye may be found not reprobate, but worthy in His presence."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 7,
+                            "name": "Decretal: Epistle of Pope Urban the First 7:4",
+                            "text": "And if any one of you has entered the life which has all things common, and has taken the vow to hold no private property, let him see to it that he make not his promise vain, but let him keep with all faithfulness this engagement which he has made to the Lord, so that he may acquire for himself not damnation, but a reward; for it is better for a man not to take a vow at all than not to discharge to the best of his ability the vow that he has made."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 7,
+                            "name": "Decretal: Epistle of Pope Urban the First 7:5",
+                            "text": "For they who have made a vow, or taken on them the faith, and have not kept their vow, or have carried out their life in things evil, are punished more severely than those who have carried out their life without a vow, or have died without faith, but not without doing good works."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 7,
+                            "name": "Decretal: Epistle of Pope Urban the First 7:6",
+                            "text": "For to this end have we received a reasonable mind by the gift of nature, and the renewal also of the second birth, that, according to the apostle, we may discern (sapiamus) rather things above, and not things on the earth; for the wisdom of this world is foolishness with God."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 7,
+                            "name": "Decretal: Epistle of Pope Urban the First 7:7",
+                            "text": "For to what, most dearly beloved, does the wisdom of this world urge us, but to seek things that are hurtful, and to love things that are to perish, and to neglect things that are healthful, and to esteem as of no value things that are lasting?  It commends the love of money, of which it is said, The love of money is the root of all evil; and which has this evil in especial, that while it obtrudes the transitory, it hides from view the eternal; and while it looks on things that are outside, it does not look in upon things that lurk within; and while it seeks after strange things, it is an evil that makes itself strange to him who does it."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 7,
+                            "name": "Decretal: Epistle of Pope Urban the First 7:8",
+                            "text": "Behold, to what does the wisdom of this world urge a man?  To live in pleasures."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 7,
+                            "name": "Decretal: Epistle of Pope Urban the First 7:9",
+                            "text": "Whence it is said:  A widow that liveth in pleasure, is dead while she liveth."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 7,
+                            "name": "Decretal: Epistle of Pope Urban the First 7:10",
+                            "text": "It urges a man to feed the flesh with the softest delights, with sins, and vices, and flames, to press the soul with intemperance in food and wine, and to check the life of the spirit, and to put into his enemy's hand the sword to be used against himself."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 7,
+                            "name": "Decretal: Epistle of Pope Urban the First 7:11",
+                            "text": "Behold, what is the counsel which the wisdom of this world gives?  That those who are good should choose rather to be evil, and that in error of mind they should be zealous to be sinners, and should not bethink themselves of that terrible voice of God, when the wicked shall be burned up like grass."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 8,
+                    "name": "Decretal: Epistle of Pope Urban the First 8",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 8,
+                            "name": "Decretal: Epistle of Pope Urban the First 8:1",
+                            "text": "VII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 8,
+                            "name": "Decretal: Epistle of Pope Urban the First 8:2",
+                            "text": "Of the imposition of the bishop's hand."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 8,
+                            "name": "Decretal: Epistle of Pope Urban the First 8:3",
+                            "text": "For all the faithful ought to receive the Holy Spirit after baptism by imposition of the hand of the bishops, so that they may be found to be Christians fully; because when the Holy Spirit is shed upon them, the believing heart is enlarged for prudence and stedfastness."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 8,
+                            "name": "Decretal: Epistle of Pope Urban the First 8:4",
+                            "text": "We receive of the Holy Spirit in order that we may be made spiritual; for the natural man receiveth not the things of the Spirit of God."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 8,
+                            "name": "Decretal: Epistle of Pope Urban the First 8:5",
+                            "text": "We receive of the Holy Spirit in order that we may be wise to discern between good and evil, to love the just, and to loathe the unjust, so as to withstand malice and pride, and resist luxury and divers allurements, and impure and unworthy lust."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 8,
+                            "name": "Decretal: Epistle of Pope Urban the First 8:6",
+                            "text": "We receive of the Holy Spirit in order that, fired with the love of life and the ardour of glory, we may be able to raise our mind from things earthly to things heavenly and divine."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 8,
+                            "name": "Decretal: Epistle of Pope Urban the First 8:7",
+                            "text": "—Given on the Nones of September,—that is, on the fifth day of the same month, in the consulship of the most illustrious Antonine and Alexander."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

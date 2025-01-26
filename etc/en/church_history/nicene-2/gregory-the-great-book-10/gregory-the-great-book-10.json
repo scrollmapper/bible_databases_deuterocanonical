@@ -1,0 +1,1791 @@
+{
+    "books": [
+        {
+            "name": "Gregory the Great: Book X",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Gregory the Great: Book X 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Gregory the Great: Book X 1:1",
+                            "text": "Book X."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Gregory the Great: Book X 1:2",
+                            "text": "Epistle X."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Gregory the Great: Book X 1:3",
+                            "text": "To Romanus, Guardian (Defensorem)."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Gregory the Great: Book X 1:4",
+                            "text": "Gregory to Romanus, our guardian in Sicily."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Gregory the Great: Book X 1:5",
+                            "text": "It has been reported to us that our most reverend brother the bishop Basilius is occupied in legal suits as though he were one of the last of the people, and unprofitably attends the courts."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Gregory the Great: Book X 1:6",
+                            "text": "Now, since this thing both renders the man himself vile and does away with the reverence due to priests, let thy Experience, immediately on receiving this order, so compel him by strict execution of it to return to his duty that, through thy insistency, a delay of five days be not under any excuse allowed him; lest, if thou shouldest in any way permit him to make such delay, thou with him shouldest come to be gravely culpable before us."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "Gregory the Great: Book X 1:7",
+                            "text": "Given in the month of December, Indiction 3."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 2,
+                    "name": "Gregory the Great: Book X 2",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 2,
+                            "name": "Gregory the Great: Book X 2:1",
+                            "text": "Epistle XV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 2,
+                            "name": "Gregory the Great: Book X 2:2",
+                            "text": "To Clementina, Patrician."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 2,
+                            "name": "Gregory the Great: Book X 2:3",
+                            "text": "Gregory to Clementina, &c."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 2,
+                            "name": "Gregory the Great: Book X 2:4",
+                            "text": "It has reached us by the report of a certain Abbot that your Glory has been told by certain evil-speakers that we have a pique against you."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 2,
+                            "name": "Gregory the Great: Book X 2:5",
+                            "text": "If this is so, whosoever have made up this story have been double towards you under a shew of sincerity, so as to shew themselves off as faithful, and wickedly cause you to doubt us."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 2,
+                            "name": "Gregory the Great: Book X 2:6",
+                            "text": "But I, glorious daughter, knowing thy good qualities of old, and especially the chastity which has been thy companion from youth, have ever regarded thee with great respect and affection."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 2,
+                            "name": "Gregory the Great: Book X 2:7",
+                            "text": "But, lest even now your Glory should suspect that my heart is changed, I declare that there is not in me a scruple of ill-feeling or anger towards you; but be assured that I evince paternal affection for you."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 2,
+                            "name": "Gregory the Great: Book X 2:8",
+                            "text": "One thing, however, that has been told me I ought not to pass over in silence, lest there should begin to be a diminution of charity, if what needs to be said for amendment were suppressed."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 2,
+                            "name": "Gregory the Great: Book X 2:9",
+                            "text": "For indeed it has been reported to me that, when any one has offended you, you retain soreness unremittingly."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 2,
+                            "name": "Gregory the Great: Book X 2:10",
+                            "text": "Now, if this is true, since the more I love you the more grieved I am, I beg that you would nobly rid yourself of this fault, and not suffer the seed of the enemy to grow to the detriment of your crop of well-doing."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 2,
+                            "name": "Gregory the Great: Book X 2:11",
+                            "text": "Let the words of the Lord's Prayer be brought back to your memory, and let not blame prevail with you over pardon."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 2,
+                            "name": "Gregory the Great: Book X 2:12",
+                            "text": "Let the goodness of your Glory get the better of transgressions, and by salubriously pardoning make the offender devoted to you more than persistent asperity can make him undevoted."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 2,
+                            "name": "Gregory the Great: Book X 2:13",
+                            "text": "Let there be left to him what may make him ashamed, and not kept up what may grieve him."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 2,
+                            "name": "Gregory the Great: Book X 2:14",
+                            "text": "For usually discreet remission has more effect for correction than strictness in executing vengeance; so much so that sometimes the one makes a man more faithful and subdued, while the other makes him obstinate and spiteful."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 2,
+                            "name": "Gregory the Great: Book X 2:15",
+                            "text": "And indeed we do not say this to you in order that you should abate your zeal for righteousness, but lest you should be in the least things such as you ought to be in the greatest."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 2,
+                            "name": "Gregory the Great: Book X 2:16",
+                            "text": "For, if ever the quality of a transgression requires severity, it should be so dealt with that both vengeance may correct the fault and grace not be denied afterwards to those that have been corrected."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 2,
+                            "name": "Gregory the Great: Book X 2:17",
+                            "text": "Seeing, then, that we warn you under the dictates of paternal affection for your soul's good, receive our words with the charity wherewith they are spoken, and take them to yourself for the advantage of your Glory, so that your good qualities may become clearer before men and very pure before Almighty God."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 2,
+                            "name": "Gregory the Great: Book X 2:18",
+                            "text": "But count on us, dearest daughter, confidently in all things, as indeed you may; and, since we always desire to hear of your prosperity, refresh us often by your letters."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 3,
+                    "name": "Gregory the Great: Book X 3",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 3,
+                            "name": "Gregory the Great: Book X 3:1",
+                            "text": "Epistle XVIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 3,
+                            "name": "Gregory the Great: Book X 3:2",
+                            "text": "To Clementina, Patrician."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 3,
+                            "name": "Gregory the Great: Book X 3:3",
+                            "text": "Gregory to Clementina, &c."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 3,
+                            "name": "Gregory the Great: Book X 3:4",
+                            "text": "Know, glorious daughter, that the presbyter Amandus has been elected to the episcopate by the people of Surrentum."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 3,
+                            "name": "Gregory the Great: Book X 3:5",
+                            "text": "And, we having written for him to be sent hither, you ought not to be saddened for his absence, seeing that one who is with you in heart should not even be believed to be departing from you."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 3,
+                            "name": "Gregory the Great: Book X 3:6",
+                            "text": "And, since he who once pleased you is acceptable to those who want a bishop, bless Almighty God for this, and with Christian devotion rejoice the more; and gladly do your best to further his coming to us for the advantage of others speedily, since it is the part of sincere charity to exult when one who is loved is called that he may grow."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 4,
+                    "name": "Gregory the Great: Book X 4",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 4,
+                            "name": "Gregory the Great: Book X 4:1",
+                            "text": "Epistle XIX."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 4,
+                            "name": "Gregory the Great: Book X 4:2",
+                            "text": "To Anthemius, Subdeacon."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 4,
+                            "name": "Gregory the Great: Book X 4:3",
+                            "text": "Gregory to Anthemius, Subdeacon of Campania."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 4,
+                            "name": "Gregory the Great: Book X 4:4",
+                            "text": "After he who had been elected to the episcopate of the city of Surrentum had appeared to us to be unfit, they elected Amandus, presbyter of the oratory of Saint Severinus, which is in the Lucullan camp."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 4,
+                            "name": "Gregory the Great: Book X 4:5",
+                            "text": "Wherefore we enjoin on thy Experience, laying aside excuses, to take care to send the said presbyter to us with all speed, to the end that, if there is nothing to hinder him from coming, the desires of the petitioners may with the help of Christ be fulfilled."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 4,
+                            "name": "Gregory the Great: Book X 4:6",
+                            "text": "As to his life and deeds, seeing that they can be better known where he has long lived, let it be thy care, together with our brother and fellow-bishop, Fortunatus, to make diligent enquiry."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 4,
+                            "name": "Gregory the Great: Book X 4:7",
+                            "text": "And if there is nothing in the way of his promotion to the sacred order, he should be sent to us without any delay."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 4,
+                            "name": "Gregory the Great: Book X 4:8",
+                            "text": "But, lest our glorious daughter Clementina should take this amiss, let thy Experience go to her, and do this thing with her consent."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 4,
+                            "name": "Gregory the Great: Book X 4:9",
+                            "text": "If, however, she should be disposed to resist, let thy Experience still send him hither without delay, since we ought so to pacify the minds of our children as still not to obstruct benefit to souls."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 5,
+                    "name": "Gregory the Great: Book X 5",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 5,
+                            "name": "Gregory the Great: Book X 5:1",
+                            "text": "Epistle XXIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 5,
+                            "name": "Gregory the Great: Book X 5:2",
+                            "text": "To Adrian, Notary of Sicily."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 5,
+                            "name": "Gregory the Great: Book X 5:3",
+                            "text": "Gregory to Adrian, &c."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 5,
+                            "name": "Gregory the Great: Book X 5:4",
+                            "text": "A thing to us altogether detestable and infamous has come to our ears, and we wonder why, if it is true, thou hast not taken notice of it."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 5,
+                            "name": "Gregory the Great: Book X 5:5",
+                            "text": "For Martianus, a monk of the monastery of Saint Vitus, situate on Mount aetna, has come to us, and presented a petition, complaining among other things that the monks of this monastery live so perversely and wickedly as to dare to have women living with them, which is a thing atrocious to be spoken of."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 5,
+                            "name": "Gregory the Great: Book X 5:6",
+                            "text": "And, seeing that we have written on this matter to our brother and fellow-bishop Leo, in order that, having enquired into the truth, he may, if he should find it to be so, be at pains to correct it with the strictest severity, it is necessary for thy Experience also to shew thyself in all respects solicitous for investigation of the truth, and punishment of so great a wickedness; so that nothing may be found to be done remissly or negligently."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 5,
+                            "name": "Gregory the Great: Book X 5:7",
+                            "text": "Further, for the interests in other respects of the same monastery, lend thy assistance so far as equity may require, to the end that if, as is said, there has been any invasion of it, it may be redressed according to justice, and that for the future nothing prejudicial may in any way arise there contrary to the fear of God and the order of law."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 6,
+                    "name": "Gregory the Great: Book X 6",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 6,
+                            "name": "Gregory the Great: Book X 6:1",
+                            "text": "Epistle XXIV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 6,
+                            "name": "Gregory the Great: Book X 6:2",
+                            "text": "To Fortunatus, Bishop of Neapolis (Naples)."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 6,
+                            "name": "Gregory the Great: Book X 6:3",
+                            "text": "Gregory to Fortunatus, &c."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 6,
+                            "name": "Gregory the Great: Book X 6:4",
+                            "text": "When your Fraternity pays too little attention to the monasteries that are under you, you both lay yourself open to reproof, and make us sorry for your laxity."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 6,
+                            "name": "Gregory the Great: Book X 6:5",
+                            "text": "Now it has come to our ears that one Mauricius, who lately became a monk in the monastery of Barbacianus, has fled from the same monastery, taking other monks with him."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 6,
+                            "name": "Gregory the Great: Book X 6:6",
+                            "text": "In this case the hastiness of the aforesaid Barbacianus inculpates him exceedingly in our sight, in that he rashly tonsured a secular person without even previous probation."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 6,
+                            "name": "Gregory the Great: Book X 6:7",
+                            "text": "Did we not write to you that you should prove him first, and then, if he were fit, should make him abbot? Even now, then, look well after him whom you chose."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 6,
+                            "name": "Gregory the Great: Book X 6:8",
+                            "text": "For you are delinquent in his delinquency, if he has begun so to demean himself as to shew himself unfit to have the government of brethren."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 6,
+                            "name": "Gregory the Great: Book X 6:9",
+                            "text": "Further, let your Fraternity more strictly interdict all monasteries from venturing by any means to tonsure those whom they may have received for monastic profession before they have completed two years in monastic life."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 6,
+                            "name": "Gregory the Great: Book X 6:10",
+                            "text": "But in this space of time let their life and manners be carefully proved, lest any one of them should either not be content with what he had desired or not keep firm to what he had chosen."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 6,
+                            "name": "Gregory the Great: Book X 6:11",
+                            "text": "For, it being a serious matter that untried men should be associated under obedience to any master, how much more serious is it that any who have not been proved should be attached to the service of God?  Further, if a soldier should wish to become a monk, let no one for any cause whatever presume to receive him without our consent, or before it has been reported to us."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 6,
+                            "name": "Gregory the Great: Book X 6:12",
+                            "text": "If this rule is not diligently observed, know that all the guilt of those that are under thee redounds on thyself, seeing that thou provest thyself by the very facts of the case to be too little anxious about them."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 7,
+                    "name": "Gregory the Great: Book X 7",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 7,
+                            "name": "Gregory the Great: Book X 7:1",
+                            "text": "Epistle XXXI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 7,
+                            "name": "Gregory the Great: Book X 7:2",
+                            "text": "To Libertinus, Ex-Praetor."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 7,
+                            "name": "Gregory the Great: Book X 7:3",
+                            "text": "Gregory to Libertinus, &c."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 7,
+                            "name": "Gregory the Great: Book X 7:4",
+                            "text": "What straits you are in with regard to the things of this world is not unknown to us."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 7,
+                            "name": "Gregory the Great: Book X 7:5",
+                            "text": "But, since to those who are placed in the utmost tribulation the only comfort is the mercy of the Creator, rest your hope on Him, and turn to Him with your whole heart, Who both justly allows whom He will to be afflicted and will mercifully deliver one who trusts in Him."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 7,
+                            "name": "Gregory the Great: Book X 7:6",
+                            "text": "To Him, then, give thanks, and patiently endure what has been brought upon you."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 7,
+                            "name": "Gregory the Great: Book X 7:7",
+                            "text": "For it is the part of a right mind not only to bless God in prosperity, but also in adversities to join in praising Him."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 7,
+                            "name": "Gregory the Great: Book X 7:8",
+                            "text": "In these things therefore that you are suffering let no murmur against God creep into your heart, since for what purpose our Creator thus works is unknown."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 7,
+                            "name": "Gregory the Great: Book X 7:9",
+                            "text": "For perchance, magnificent son, thou didst offend Him in something when in a state of prosperity, from which He would purge thee by kindly bitterness."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 7,
+                            "name": "Gregory the Great: Book X 7:10",
+                            "text": "And so neither let temporal affliction break thee down nor losses of thy goods distract thee, since if, returning thanks in adversity, thou make God propitious to thee by thy patience, both the things that were lost are multiplied, and in addition to this, eternal joys held out to thee."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 7,
+                            "name": "Gregory the Great: Book X 7:11",
+                            "text": "I beg thee, however, not to take it amiss that we have written through Romanus the guardian to order twenty suits of clothing to be supplied from us to your servants, seeing that things, however small, which are offered from the goods of the blessed Apostle Peter are always to be taken for a great blessing, since he will have power both to bestow on you greater things, and to hold out to you eternal benefits with Almighty God."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 7,
+                            "name": "Gregory the Great: Book X 7:12",
+                            "text": "The month of June, Indiction 3."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 8,
+                    "name": "Gregory the Great: Book X 8",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 8,
+                            "name": "Gregory the Great: Book X 8:1",
+                            "text": "Epistle XXXV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 8,
+                            "name": "Gregory the Great: Book X 8:2",
+                            "text": "To Eulogius, Patriarch of Alexandria."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 8,
+                            "name": "Gregory the Great: Book X 8:3",
+                            "text": "Gregory to Eulogius, &c."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 8,
+                            "name": "Gregory the Great: Book X 8:4",
+                            "text": "In the past year I received the letters of your most sweet Holiness; but on account of the extreme severity of my sickness have been unable to reply to them until now."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 8,
+                            "name": "Gregory the Great: Book X 8:5",
+                            "text": "For lo, it is now almost full two years that I have been confined to my bed, afflicted with such pains of gout that I have hardly been able to rise on feast-days for as much as three hours space to solemnize mass."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 8,
+                            "name": "Gregory the Great: Book X 8:6",
+                            "text": "And I am soon compelled by severe pain to lie down, that I may be able to bear my torment with intervening groans."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 8,
+                            "name": "Gregory the Great: Book X 8:7",
+                            "text": "This pain of mine is sometimes moderate, and sometimes excessive: but neither so moderate as to depart, nor so excessive as to kill me."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 8,
+                            "name": "Gregory the Great: Book X 8:8",
+                            "text": "Hence it comes to pass that, being daily in death, I am daily debarred from death."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 8,
+                            "name": "Gregory the Great: Book X 8:9",
+                            "text": "Nor it is surprising that, grievous sinner as I am, I am long kept confined in the prison of such corruption."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 8,
+                            "name": "Gregory the Great: Book X 8:10",
+                            "text": "Whence I am compelled to exclaim, Bring my soul out of prison, that I may confess thy name (Ps."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 8,
+                            "name": "Gregory the Great: Book X 8:11",
+                            "text": "cxli."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 8,
+                            "name": "Gregory the Great: Book X 8:12",
+                            "text": "8)."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 8,
+                            "name": "Gregory the Great: Book X 8:13",
+                            "text": "But, since I am not yet worthy to obtain this by my prayers, I beg that the prayer of your Holiness may afford me the aid of its intercession, and deliver me from the weight of sin and corruption into that liberty, which you know well, of the glory of the children of God."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 8,
+                            "name": "Gregory the Great: Book X 8:14",
+                            "text": "Your to me most sweet and ever to be honoured Blessedness has informed me in your letter that our common son Anatolius, deacon of the city of Constantinople, had written to you to say that certain monks from the parts about Jerusalem had come to me to make some enquiry concerning the error of the Agnoitae, and you say that he begged your Holiness to write to me to express your opinion with respect to this enquiry."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 8,
+                            "name": "Gregory the Great: Book X 8:15",
+                            "text": "But neither have monks come to me from the parts about Jerusalem to make any enquiry, nor do I think that the said our common son can have told you in his letters what was not the case; but I suspect that the interpreter has mistaken the meaning of his letters."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 8,
+                            "name": "Gregory the Great: Book X 8:16",
+                            "text": "For the same deacon, now more than two years ago, wrote to me that monks had come from the aforesaid parts to the city of Constantinople making such enquiries, and he desired to ask me what I thought."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 8,
+                            "name": "Gregory the Great: Book X 8:17",
+                            "text": "To him, long before I received your letters, I made the very same reply against that same heresy as I found afterwards in the epistle of your Holiness: and I returned great thanks to Almighty God that concerning all questions the Fathers of the Romans and of the Greeks, whose followers we are, have spoken with one spirit."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 8,
+                            "name": "Gregory the Great: Book X 8:18",
+                            "text": "For in many parts I found this your epistle to be as though I had been reading the writings of the Latin Fathers against the aforesaid heresy."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 8,
+                            "name": "Gregory the Great: Book X 8:19",
+                            "text": "And consider how much I must love and praise the excellence of my most holy brother, in whose mouth I recognised the venerable Fathers, whom I love so much."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 8,
+                            "name": "Gregory the Great: Book X 8:20",
+                            "text": "Praise therefore be to Him, to Him be glory in the highest, of whose gift the voice of Mark still cries aloud in the See of Peter; from the effusion of whose spirit, when the priest enters into the Holy of Holies for searching into mysteries, spiritual bells resound in holy Church, as in the tabernacle, from the words of preaching."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 8,
+                            "name": "Gregory the Great: Book X 8:21",
+                            "text": "Right, then, and highly to be praised is your preaching."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 8,
+                            "name": "Gregory the Great: Book X 8:22",
+                            "text": "But we implore the Almighty Lord to keep you long even in this life, that from the organ of God, which you are, the voice of truth may in this world sound more widely."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 8,
+                            "name": "Gregory the Great: Book X 8:23",
+                            "text": "And for me, I pray you, intercede, that the way of this pilgrimage, which has become too rough for me, may with speed be finished, to the end that I, who cannot by my own merits, may by yours be able to attain to the promises of the eternal country, and to rejoice with the citizens of heaven."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 9,
+                    "name": "Gregory the Great: Book X 9",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 9,
+                            "name": "Gregory the Great: Book X 9:1",
+                            "text": "Epistle XXXVI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 9,
+                            "name": "Gregory the Great: Book X 9:2",
+                            "text": "To Maximus, Bishop of Salona."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 9,
+                            "name": "Gregory the Great: Book X 9:3",
+                            "text": "Gregory to Maximus, &c."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 9,
+                            "name": "Gregory the Great: Book X 9:4",
+                            "text": "When our common son the presbyter Veteranus came to the Roman city, he found me so weak from the pains of gout as to be quite unable to answer thy Fraternity's letters myself."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 9,
+                            "name": "Gregory the Great: Book X 9:5",
+                            "text": "And indeed with regard to the nation of the Sclaves, from which you are in great danger, I am exceedingly afflicted and disturbed."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 9,
+                            "name": "Gregory the Great: Book X 9:6",
+                            "text": "I am afflicted as suffering already in your suffering: I am disturbed, because they have already begun to enter Italy by way of Istria."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 9,
+                            "name": "Gregory the Great: Book X 9:7",
+                            "text": "Further, of Julian the scribo, what shall I say, seeing that I see everywhere how our sins find us out, so as to cause us to be disturbed by the nations from without and by judges from within? But be not at all saddened by such things, since those who shall live after us will see worse times; so much so, that they will regard us as having had happy days in comparison with their own."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 9,
+                            "name": "Gregory the Great: Book X 9:8",
+                            "text": "But, so far as thy Fraternity has power, thou oughtest to oppose thyself in behalf of the poor, in behalf of the oppressed."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 9,
+                            "name": "Gregory the Great: Book X 9:9",
+                            "text": "And, even if thou shouldest be unable to do any good, the very devotion of thy heart, which Almighty God has given, is enough for Him."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 9,
+                            "name": "Gregory the Great: Book X 9:10",
+                            "text": "For it is written, Rescue them that are drawn unto death, and forbear not to deliver them that are ready to be slain (Prov."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 9,
+                            "name": "Gregory the Great: Book X 9:11",
+                            "text": "xxiv."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 9,
+                            "name": "Gregory the Great: Book X 9:12",
+                            "text": "11)."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 9,
+                            "name": "Gregory the Great: Book X 9:13",
+                            "text": "But if thou shouldest say, My powers are insufficient, He who sees into the heart understands."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 9,
+                            "name": "Gregory the Great: Book X 9:14",
+                            "text": "In all that thou doest, then, desire to have Him Who sees into the heart well-pleased with thee."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 9,
+                            "name": "Gregory the Great: Book X 9:15",
+                            "text": "But whatever there is whereby He may be pleased omit not thou to do."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 9,
+                            "name": "Gregory the Great: Book X 9:16",
+                            "text": "For human terrors and favours are like smoke, which is snatched by a light breeze and vanishes away."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 9,
+                            "name": "Gregory the Great: Book X 9:17",
+                            "text": "Know this most assuredly, that no one can please God and bad men."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 9,
+                            "name": "Gregory the Great: Book X 9:18",
+                            "text": "Let, therefore, thy Fraternity esteem thyself to have pleased Almighty God in such degree as thou knowest thyself to have displeased froward men."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 9,
+                            "name": "Gregory the Great: Book X 9:19",
+                            "text": "Yet let thy defence of the poor itself be moderate and grave, lest, if anything be done too rigidly, men should think you actuated by the pride of youth."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 9,
+                            "name": "Gregory the Great: Book X 9:20",
+                            "text": "But our defence of the poor must needs be found of such sort that both the humble may feel protection and oppressors may not easily find what out of a malevolent disposition they may blame."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 9,
+                            "name": "Gregory the Great: Book X 9:21",
+                            "text": "Attend, then, to what is said to Ezekiel, Son of man, unbelievers and destroyers are with thee, and thou dost dwell among scorpions (Ezek."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 9,
+                            "name": "Gregory the Great: Book X 9:22",
+                            "text": "ii."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 9,
+                            "name": "Gregory the Great: Book X 9:23",
+                            "text": "6)."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 9,
+                            "name": "Gregory the Great: Book X 9:24",
+                            "text": "And the blessed Job says, I have been a brother of dragons, and a companion of owls (Job xxx."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 9,
+                            "name": "Gregory the Great: Book X 9:25",
+                            "text": "29)."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 9,
+                            "name": "Gregory the Great: Book X 9:26",
+                            "text": "And Paul says to his disciples, In the midst of a crooked and perverse nation, among whom ye shine as lights in the world (Philip."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 9,
+                            "name": "Gregory the Great: Book X 9:27",
+                            "text": "ii."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 9,
+                            "name": "Gregory the Great: Book X 9:28",
+                            "text": "15)."
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 9,
+                            "name": "Gregory the Great: Book X 9:29",
+                            "text": "We ought, then, to walk all the more cautiously as we know that we are living among the enemies of God."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 9,
+                            "name": "Gregory the Great: Book X 9:30",
+                            "text": "Further, with regard to the Photinianists, let thy Fraternity pay the utmost attention; and, as thou hast begun, study how to recall them to the bosom of holy Church."
+                        },
+                        {
+                            "verse": 31,
+                            "chapter": 9,
+                            "name": "Gregory the Great: Book X 9:31",
+                            "text": "But, if any should wish to come to me, and to receive an explanation, let them first make oath that they will not permit their followers to persist in their error even after an explanation has been received."
+                        },
+                        {
+                            "verse": 32,
+                            "chapter": 9,
+                            "name": "Gregory the Great: Book X 9:32",
+                            "text": "And then let thy Holiness promise them that they will suffer no wrong from me, but that I will give them an explanation."
+                        },
+                        {
+                            "verse": 33,
+                            "chapter": 9,
+                            "name": "Gregory the Great: Book X 9:33",
+                            "text": "If they should acknowledge the truth, let them accept it; if they should not acknowledge it, I will dismiss them unharmed."
+                        },
+                        {
+                            "verse": 34,
+                            "chapter": 9,
+                            "name": "Gregory the Great: Book X 9:34",
+                            "text": "But, if any of them should wish to come to us against you, let thy Fraternity by no means detain them; for, when they come, they shall either accept an explanation, or assuredly they will not see that land any more."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 10,
+                    "name": "Gregory the Great: Book X 10",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 10,
+                            "name": "Gregory the Great: Book X 10:1",
+                            "text": "Epistle XXXVII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 10,
+                            "name": "Gregory the Great: Book X 10:2",
+                            "text": "To Innocent, Praefect of Africa."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 10,
+                            "name": "Gregory the Great: Book X 10:3",
+                            "text": "Gregory to Innocent, &c."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 10,
+                            "name": "Gregory the Great: Book X 10:4",
+                            "text": "The lucid eloquence of your Eminence, seasoned with the honey of the heart, has so infused its savour into our inmost soul, and ravished us with love of it, that both what you write sounds sweet, and what you do has a pleasant savour; nor this without good cause, since one who is accomplished in good studies is great in the eye of judgment, and not of partiality."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 10,
+                            "name": "Gregory the Great: Book X 10:5",
+                            "text": "Further, as we understand that you have taken upon you the belts of the prefecture, sadness is mingled with our joy."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 10,
+                            "name": "Gregory the Great: Book X 10:6",
+                            "text": "For on the one hand we are rejoiced for the promotion of our most sweet son, but are saddened on the other, because we feel in fact from our own sorrow how heavy a burden it is in times of confusion to be advanced to high positions."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 10,
+                            "name": "Gregory the Great: Book X 10:7",
+                            "text": "Wherefore all pains ought to be taken that troublesome circumstances may become an occasion of reward."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 10,
+                            "name": "Gregory the Great: Book X 10:8",
+                            "text": "For, as you know, corn springs from land that is full of thistles, and the rose is produced from thorns."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 10,
+                            "name": "Gregory the Great: Book X 10:9",
+                            "text": "While, then, you have a time given you meet for sowing, delay not to sow the seed of good works, that in the day of harvest you may carry home the greater armfuls of joy, and from good service in a transitory dignity may come to eternal glory."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 10,
+                            "name": "Gregory the Great: Book X 10:10",
+                            "text": "Knowing, then, of the pains you have taken in the preparation of swift-sailing vessels, we relieve your anxiety by wished for news, informing you that, by the mercy of God, we have come to terms about peace with the king of the Lombards until the month of March in the coming fourth Indiction."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 10,
+                            "name": "Gregory the Great: Book X 10:11",
+                            "text": "Whether it will hold or not we know not, since the said king is reported to have died since, though the fact so far is held to be uncertain."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 10,
+                            "name": "Gregory the Great: Book X 10:12",
+                            "text": "We have done what you wrote to ask us to do about Anamundarus, and would that the result might answer to our wish; for, as far as we are concerned, we do not deny the succour of our intercession to the afflicted."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 10,
+                            "name": "Gregory the Great: Book X 10:13",
+                            "text": "As to your wishing the book on the exposition of holy Job to be sent to you, we altogether rejoice at your earnest desire; since we see that your Eminence earnestly desires what may both prevent you from going entirely outside yourself, and bring your heart back to itself after being distracted by secular cares."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 10,
+                            "name": "Gregory the Great: Book X 10:14",
+                            "text": "But, if you desire to be satiated with delicious food, read the works of the blessed Augustine, your countryman, and seek not our chaff in comparison with his fine wheat."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 10,
+                            "name": "Gregory the Great: Book X 10:15",
+                            "text": "Furthermore, we have learnt from the testimony of Hilarius our Chartularius what patronage and what kindness your Glory has bestowed in the interests of the poor of the blessed Peter, Prince of the apostles, who loves you."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 10,
+                            "name": "Gregory the Great: Book X 10:16",
+                            "text": "On this account, returning you abundant thanks, we implore the mercy of Almighty God, that He would defend you with the protection of His grace, and permit neither bad men to prevail against you without, nor malignant spirits within; but that He would of His mercy so order your doings in His fear that, as He has made you glorious among men, He may also make you so after the course of a long life in the number of His saints."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 11,
+                    "name": "Gregory the Great: Book X 11",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:1",
+                            "text": "Epistle XXXIX."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:2",
+                            "text": "To Eulogius, Patriarch of Alexandria."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:3",
+                            "text": "Gregory to Eulogius, &c."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:4",
+                            "text": "As cold water to a thirsty soul, so is good news from a far country (Prov."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:5",
+                            "text": "xxv."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:6",
+                            "text": "25)."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:7",
+                            "text": "But what can be good news to me, so far as concerns the behoof of holy Church, but to hear of the health and safety of your to me most sweet Holiness, who, from your perception of the light of truth, both illuminate the same Church with the word of preaching, and mould it to a better way by the example of your manners? As often, too, as I recall in my heart your oneness of mind with me, and feel that I remain fixed in your heart, I give thanks to Almighty God that charity cannot be divided by distance of place."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:8",
+                            "text": "For, though in body we are far disjoined, yet in soul we are indivisible."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:9",
+                            "text": "Our common son Anatolius the deacon has notified to me in his letters that in the royal city nothing ecclesiastical has at any time been disturbed from earthly causes."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:10",
+                            "text": "But I believe that he had before announced to me how your Blessedness had spoken in the cause of the Church and I rejoice to think that, where you chanced to be present, I do not consider that there was any want of me."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:11",
+                            "text": "For I know that you, as a minister of the truth, a follower of Peter, and a preacher of Holy Church, would speak what ought to have been heard through the mouth of a teacher from the Apostle Peter's See."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:12",
+                            "text": "Moreover, before these days, when Abramius of Alexandria came to me, I had written in reply to your Holiness both what I thought of your writings which you issued against the Agnoite heretics, and why I had been so late in replying."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:13",
+                            "text": "But the said Abramius, compelled by difficulties of navigation, is reported to have delayed long in the city of Naples; and so I write again in the same sense in which I had formerly written, since in your teaching against the heretics that are called Agnoitae there was much for us to admire; but to displease us there was nothing."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:14",
+                            "text": "And in the same sense I had already written at length to our son Anatolius the deacon."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:15",
+                            "text": "Moreover, your doctrine so agreed in all respects with the Latin Fathers that I find, not to my surprise, that in diverse languages the Spirit has not been diverse."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:16",
+                            "text": "For, as to what you have said about the fig-tree, Augustine speaks aptly in the same sense; for, when the evangelist subjoined, For the time of figs was not yet (Mark xi."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:17",
+                            "text": "13), it is plainly shown that the figs which the Lord had sought were fruit in the synagogue, which had the leaves of the Law, but not the fruit of works."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:18",
+                            "text": "For the Creator of all things could not be ignorant that the fig-tree had no fruit; which was a thing that all might know, since it was not the time of figs."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:19",
+                            "text": "But concerning what is written, That the day and hour neither the Son nor the angels know (Mark xiii."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:20",
+                            "text": "32), your Holiness has quite rightly perceived that this is most certainly to be referred, not to the said Son with respect to His being the Head, but with respect to His body, which we are."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:21",
+                            "text": "With regard to which matter, the same blessed Augustine in many places adopts this sense (Quaest."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:22",
+                            "text": "lib."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:23",
+                            "text": "lxxxiii."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:24",
+                            "text": "q."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:25",
+                            "text": "60; lib."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:26",
+                            "text": "1 de Trinit."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:27",
+                            "text": ", c."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:28",
+                            "text": "12; in psalm vi."
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:29",
+                            "text": ", init."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:30",
+                            "text": "; in ps."
+                        },
+                        {
+                            "verse": 31,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:31",
+                            "text": "xxxiv."
+                        },
+                        {
+                            "verse": 32,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:32",
+                            "text": "serm."
+                        },
+                        {
+                            "verse": 33,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:33",
+                            "text": "2)."
+                        },
+                        {
+                            "verse": 34,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:34",
+                            "text": "He mentions also another thing that may be understood of the same Son, namely that Almighty God sometimes speaks in a human manner, even as He says to Abraham, Now I know that thou fearest God (Genes."
+                        },
+                        {
+                            "verse": 35,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:35",
+                            "text": "xxii."
+                        },
+                        {
+                            "verse": 36,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:36",
+                            "text": "12)."
+                        },
+                        {
+                            "verse": 37,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:37",
+                            "text": "It was not that God then came to know that He was feared, but that He then made Abraham know that he feared God."
+                        },
+                        {
+                            "verse": 38,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:38",
+                            "text": "For, as we speak of a glad day, not meaning that the day itself is glad, but that it makes us glad, so also the Almighty Son says that He does not know the day which He causes not to be known; not that He Himself does not know it, but that He does not allow it to be known."
+                        },
+                        {
+                            "verse": 39,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:39",
+                            "text": "Whence also the Father alone is said to know it, because the Son Who is consubstantial with Him has His knowledge of what the angels are ignorant of from His divine nature, whereby He is above the angels."
+                        },
+                        {
+                            "verse": 40,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:40",
+                            "text": "Whence also it may be more nicely understood thus; that the Only-begotten, being incarnate and made for us a perfect man, knew indeed in the nature of His humanity the day and hour of the judgment, but still it was not from the nature of His humanity that He knew it."
+                        },
+                        {
+                            "verse": 41,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:41",
+                            "text": "What then He knew in it He knew not from it, because God, made man, knew the day and hour of the judgment through the power of His Deity: as also at the marriage, when the Virgin Mother said that wine was wanting, He replied, Woman, what have I to do with thee? Mine hour is not yet come (Joh."
+                        },
+                        {
+                            "verse": 42,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:42",
+                            "text": "ii."
+                        },
+                        {
+                            "verse": 43,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:43",
+                            "text": "4)."
+                        },
+                        {
+                            "verse": 44,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:44",
+                            "text": "For it was not that the Lord of the angels was subject to the hour, having, among all things which He had created, made hours and times; but, because the Virgin Mother, when wine was wanting, wished a miracle to be done by Him, it was at once answered her, Woman, what have I to do with thee? As if to say plainly, That I can do a miracle comes to me of my Father, not of my Mother."
+                        },
+                        {
+                            "verse": 45,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:45",
+                            "text": "For He who of the nature of His Father did miracles had it of His mother that He could die."
+                        },
+                        {
+                            "verse": 46,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:46",
+                            "text": "Whence also, when He was on the cross, in dying He acknowledged His mother, whom He commended to the disciple, saying, Behold thy mother (Joh."
+                        },
+                        {
+                            "verse": 47,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:47",
+                            "text": "xix."
+                        },
+                        {
+                            "verse": 48,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:48",
+                            "text": "27)."
+                        },
+                        {
+                            "verse": 49,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:49",
+                            "text": "He says, then, Woman, what have I to do with thee? Mine hour is not yet come."
+                        },
+                        {
+                            "verse": 50,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:50",
+                            "text": "—That is, \"In the miracle, which I have not of thy nature, I do not acknowledge thee."
+                        },
+                        {
+                            "verse": 51,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:51",
+                            "text": "When the hour of death shall come, I shall acknowledge thee as my mother, since I have it of thee that I can die\"."
+                        },
+                        {
+                            "verse": 52,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:52",
+                            "text": "And thus the knowledge, which He had not of the nature of humanity whereby He was with the angels a creature, this He denied that He had with the angels, who are creatures."
+                        },
+                        {
+                            "verse": 53,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:53",
+                            "text": "The day, then, and the hour of the judgment He knows as God and man, but for this reason, that God is man."
+                        },
+                        {
+                            "verse": 54,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:54",
+                            "text": "It is moreover a thing quite manifest, that whoso is not a Nestorian cannot in any wise be an Agnoite."
+                        },
+                        {
+                            "verse": 55,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:55",
+                            "text": "For with what meaning can one that confesses that the very Wisdom of God was incarnate say that there is anything that the Wisdom of God is ignorant of? It is written, In the beginning was the Word, and the Word was with God, and the Word was God."
+                        },
+                        {
+                            "verse": 56,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:56",
+                            "text": "All things were made by him (Joh."
+                        },
+                        {
+                            "verse": 57,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:57",
+                            "text": "i."
+                        },
+                        {
+                            "verse": 58,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:58",
+                            "text": "1)."
+                        },
+                        {
+                            "verse": 59,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:59",
+                            "text": "If all things, then without doubt the day and hour of the judgment."
+                        },
+                        {
+                            "verse": 60,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:60",
+                            "text": "Who then can be so senseless as to presume to say that the Word of the Father made what He is ignorant of? It is written also, Jesus knowing that the Father had given all things into his hands (Job xxii."
+                        },
+                        {
+                            "verse": 61,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:61",
+                            "text": "3)."
+                        },
+                        {
+                            "verse": 62,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:62",
+                            "text": "If all things, certainly both the day and the hour of the judgment."
+                        },
+                        {
+                            "verse": 63,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:63",
+                            "text": "Who, then, is so foolish as to say that the Son received into His hands what He knows not?  But, with respect to the passage in which He says to the women about Lazarus, Where have ye laid him (Joh."
+                        },
+                        {
+                            "verse": 64,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:64",
+                            "text": "xi."
+                        },
+                        {
+                            "verse": 65,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:65",
+                            "text": "34), I felt exactly as you felt, that, if they say that the Lord did not know where Lazarus had been buried, and for that reason enquired, they will undoubtedly be compelled to acknowledge that the Lord did not know in what places Adam and Eve had hidden themselves after their sin, when He said in Paradise, Adam, where art thou (Gen."
+                        },
+                        {
+                            "verse": 66,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:66",
+                            "text": "iii."
+                        },
+                        {
+                            "verse": 67,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:67",
+                            "text": "9)? or when He chides Cain saying, Where is Abel thy brother (Gen."
+                        },
+                        {
+                            "verse": 68,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:68",
+                            "text": "iv."
+                        },
+                        {
+                            "verse": 69,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:69",
+                            "text": "9)? But, if He did not know, why did He forthwith add, Thy brother's blood crieth unto me from the ground? However, on this passage Severianus Gabalensis speaks differently, saying that the Lord spoke thus to the women as it were in the way of rebuke, in that He enquired where they had laid the dead Lazarus; as if with plain reference to the sin of Eve He had said, I placed the man in Paradise, whom you have placed in the sepulchre."
+                        },
+                        {
+                            "verse": 70,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:70",
+                            "text": "But to these things our said common son Anatolius the deacon has replied by putting another question:—What if it should be objected to me that, even as He who is immortal vouchsafed to die that He might deliver us from death, and He who is eternal before all time willed to become subject to time, so the Wisdom of God vouchsafed to take upon Himself our ignorance that He might deliver us from ignorance? But I have not yet given him any reply to this, having been confined until now by grievous sickness."
+                        },
+                        {
+                            "verse": 71,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:71",
+                            "text": "Now, however, through your prayers I have already begun to recover; and, if I should so recover as to be able to dictate, with the help of the Lord I will reply to him."
+                        },
+                        {
+                            "verse": 72,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:72",
+                            "text": "To you it is not for me to say anything on this subject, lest I should seem to teach you what you know, seeing that even medicines lose their power of healing, if applied to sound and strong members."
+                        },
+                        {
+                            "verse": 73,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:73",
+                            "text": "Furthermore, we apprize you that in this place we suffer from serious difficulty for want of good interpreters."
+                        },
+                        {
+                            "verse": 74,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:74",
+                            "text": "For there are none who can express the sense, while all ever try to translate the words exactly: and so they confuse the whole sense of what has been said."
+                        },
+                        {
+                            "verse": 75,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:75",
+                            "text": "Whence it comes to pass that we are by no means able without severe labour to understand what has been translated."
+                        },
+                        {
+                            "verse": 76,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:76",
+                            "text": "I have received the blessing of Saint Mark the Evangelist and of your Blessedness."
+                        },
+                        {
+                            "verse": 77,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:77",
+                            "text": "And I have been desirous of sending you some timber; but the ship which came was too small to carry it."
+                        },
+                        {
+                            "verse": 78,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:78",
+                            "text": "And yet even that which the Alexandrians saw when they came is of small size."
+                        },
+                        {
+                            "verse": 79,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:79",
+                            "text": "For I had prepared some that is much larger for you, which has not yet been conveyed to the Roman city: for I waited for it to be conveyed when the Alexandrian ship should arrive; and it has remained in the place where it was felled."
+                        },
+                        {
+                            "verse": 80,
+                            "chapter": 11,
+                            "name": "Gregory the Great: Book X 11:80",
+                            "text": "May Almighty God long guard your life for the edification of Holy Church, and inspire you to pray earnestly for me; that, being pressed down by my own sins, I may be lifted up before Almighty God by your prayers."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 12,
+                    "name": "Gregory the Great: Book X 12",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 12,
+                            "name": "Gregory the Great: Book X 12:1",
+                            "text": "Epistle XLII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 12,
+                            "name": "Gregory the Great: Book X 12:2",
+                            "text": "To Eusebius, Archbishop of Thessalonica."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 12,
+                            "name": "Gregory the Great: Book X 12:3",
+                            "text": "Gregory to Eusebius, &c."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 12,
+                            "name": "Gregory the Great: Book X 12:4",
+                            "text": "If, most dear brother, we consider attentively how great is the excellence of peace, we shall recognize with what earnestness it should be cultivated by us."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 12,
+                            "name": "Gregory the Great: Book X 12:5",
+                            "text": "For indeed our Lord and Redeemer vouchsafed to leave and give it as a great boon to His disciples, that He might thereby make those who were united to Him in firmness of faith His associates in loving participation with Himself."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 12,
+                            "name": "Gregory the Great: Book X 12:6",
+                            "text": "For it is written, Blessed are the peacemakers, for they shall be called the children of God (Matth."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 12,
+                            "name": "Gregory the Great: Book X 12:7",
+                            "text": "v."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 12,
+                            "name": "Gregory the Great: Book X 12:8",
+                            "text": "9)."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 12,
+                            "name": "Gregory the Great: Book X 12:9",
+                            "text": "Whosoever, then, desires to be the father's heir, let him, by keeping peace, not refuse to be his child."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 12,
+                            "name": "Gregory the Great: Book X 12:10",
+                            "text": "For he who gives place to discord surely makes himself to be without lot in so great a gift."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 12,
+                            "name": "Gregory the Great: Book X 12:11",
+                            "text": "Seeing then that by the mercy of God the purity of thy faith has been declared to us, as was meet, with catholic rectitude, we are taken up with great surprise that thou shouldest suffer those whom thou knowest to believe well and to think aright to be needlessly scandalised by the fault of certain persons, so that the reputation of thy Fraternity is clouded by the guilt of others."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 12,
+                            "name": "Gregory the Great: Book X 12:12",
+                            "text": "For how can one avoid suspicion of error who extends sufferance to them that are in error? Or what estimate of himself can he expect, if he provides not for purging by open satisfaction what fervour of faith requires to be purged?  For indeed it is said that Luke thy presbyter and Peter refuse to receive the Chalcedonian synod, and that on this account the hearts of thy orthodox children are perturbed with no slight offence."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 12,
+                            "name": "Gregory the Great: Book X 12:13",
+                            "text": "And, since their zeal is not only to be praised but also to be altogether cherished, we exhort that the care of thy Fraternity hesitate not to investigate the matter with all activity and solicitude."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 12,
+                            "name": "Gregory the Great: Book X 12:14",
+                            "text": "And, if those persons should be found innocent of that pravity, remove offence from the minds of thy children by giving them satisfaction, and among all heresies anathematise especially Severus and Nestorius, so that purification may engender charity among those with whom a sinister suspicion concerning those heretics has, out of love of the faith, produced dissension; and that one feeling of concord may salubriously knit together those whom a pure and single confession of catholic truth unites."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 12,
+                            "name": "Gregory the Great: Book X 12:15",
+                            "text": "Nor let the doubters be thought unworthy of satisfaction, since we are instructed by the Divine voice, Despise not one of these who are the least (Matth."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 12,
+                            "name": "Gregory the Great: Book X 12:16",
+                            "text": "xxviii."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 12,
+                            "name": "Gregory the Great: Book X 12:17",
+                            "text": "18)."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 12,
+                            "name": "Gregory the Great: Book X 12:18",
+                            "text": "Whoso, then, desires not that he who instructs us should be despised, let him not reject the words of the instructor; since he also of whom our Redeemer testified that he was a vessel of election unto Himself admonishes us to keep the unity of the Spirit in the bond of peace (Ephes."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 12,
+                            "name": "Gregory the Great: Book X 12:19",
+                            "text": "iv."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 12,
+                            "name": "Gregory the Great: Book X 12:20",
+                            "text": ")."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 12,
+                            "name": "Gregory the Great: Book X 12:21",
+                            "text": "Hence whosoever refuses not to be held by this bond of salvation, let him study the things that make for peace, and afford no place for the foe; so that, having been enabled to advance by the fierce dissension of brethren, he may be more stoutly trampled on, when unity is established."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 12,
+                            "name": "Gregory the Great: Book X 12:22",
+                            "text": "If however, as we do not expect, they should be found to be wounded by the dart of this error, the cure of ecclesiastical exhortation must be applied to them, so that they may either remain among the Lord's sheep if healed, or be cut off from the unity of the ecclesiastical body; to the end that from a slight loss there may be a great gain, and that the removal of a part may make the whole body free."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 12,
+                            "name": "Gregory the Great: Book X 12:23",
+                            "text": "For it is the care also of a provident shepherd not to delay casting out from consort with his sound sheep a sickly one that admits not of cure, lest it should contaminate others with the taint of its sickness, knowing that he cannot preserve the soundness of the rest but by the ejection of this one."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 12,
+                            "name": "Gregory the Great: Book X 12:24",
+                            "text": "Accordingly I once more warn you in brotherly charity to investigate this matter with the utmost vigilance, and to observe what we have written with the utmost care, lest by consort with others you should make the right faith which you hold doubtful."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 12,
+                            "name": "Gregory the Great: Book X 12:25",
+                            "text": "For he who does not correct things that should be cut off commits them."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 12,
+                            "name": "Gregory the Great: Book X 12:26",
+                            "text": "Wherefore you must take thought with great solicitude and with great provision in all ways, that the persons of those men be not an offence to others, or common opinion injurious to you; that so a shepherd's gains may accrue to your Fraternity from the sheep committed to you all the more as both sincere love and approved care shall have made you solicitous for their custody."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 13,
+                    "name": "Gregory the Great: Book X 13",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 13,
+                            "name": "Gregory the Great: Book X 13:1",
+                            "text": "Epistle LXII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 13,
+                            "name": "Gregory the Great: Book X 13:2",
+                            "text": "To the Neapolitans."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 13,
+                            "name": "Gregory the Great: Book X 13:3",
+                            "text": "Gregory to the clergy and noble citizens of Naples."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 13,
+                            "name": "Gregory the Great: Book X 13:4",
+                            "text": "It is not a new thing, nor is it reprehensible, that in the election of a bishop the votes of the people should be divided between two parties: but it is a serious matter when in cases of this kind the election goes not by judgment, but by favour only."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 13,
+                            "name": "Gregory the Great: Book X 13:5",
+                            "text": "For before your letter reached us we had learnt from the report of certain persons that the deacon John, who has been elected by the other party, has a little daughter."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 13,
+                            "name": "Gregory the Great: Book X 13:6",
+                            "text": "Hence, if they had had a mind to attend to reason, neither would others have elected him nor would he have consented."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 13,
+                            "name": "Gregory the Great: Book X 13:7",
+                            "text": "For what presumption must his be who dares to approach the episcopate while convicted by the evidence of the little girl, of not having had long control over his own body! Moreover, Peter the deacon, who you say has been elected by you, is, according to what is said, quite without astuteness."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 13,
+                            "name": "Gregory the Great: Book X 13:8",
+                            "text": "And you know that at the present time the person to be constituted in the highest place of government, should be one who knows how to be careful, not only for the salvation of souls, but also with regard to the external advantage and safeguard of his subjects."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 13,
+                            "name": "Gregory the Great: Book X 13:9",
+                            "text": "But know ye further that it has come to our ears concerning him, that he has given money on usury; which thing you ought to enquire into thoroughly, and, if it is so, elect another, and without delay hold yourselves aloof from a person of this kind."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 13,
+                            "name": "Gregory the Great: Book X 13:10",
+                            "text": "For we will on no account lay hands on lovers of usury."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 13,
+                            "name": "Gregory the Great: Book X 13:11",
+                            "text": "If, however, after accurate enquiry made, this should prove to be false (since his person is unknown to us, and we know not whether what has been reported to us of his simplicity be true), he must needs come to us with your decree in his favour, that, having made careful enquiry into his life and manners, we may at the same time become acquainted with his intelligence; and thus, in case of his satisfying this enquiry, we may in him, with the Lord's help, fulfil your desires."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 13,
+                            "name": "Gregory the Great: Book X 13:12",
+                            "text": "Further, let it be your care to look out also for another person who may be suitable, so that, if this one should by any chance appear unfit for appointment to this order, there may be some one else to whom you may transfer your choice."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 13,
+                            "name": "Gregory the Great: Book X 13:13",
+                            "text": "For it will be a serious disgrace to your clergy, in case of this man by any chance not being approved, if they should say that they have no one else fit to be elected."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 14,
+                    "name": "Gregory the Great: Book X 14",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 14,
+                            "name": "Gregory the Great: Book X 14:1",
+                            "text": "Epistle LXIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 14,
+                            "name": "Gregory the Great: Book X 14:2",
+                            "text": "To Dominicus, Bishop of Carthage."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 14,
+                            "name": "Gregory the Great: Book X 14:3",
+                            "text": "Gregory to Dominicus, &c."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 14,
+                            "name": "Gregory the Great: Book X 14:4",
+                            "text": "We have already learnt what great pestilence has invaded the African parts; and, inasmuch as neither is Italy free from such affliction, doubled are the groans of our sorrows."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 14,
+                            "name": "Gregory the Great: Book X 14:5",
+                            "text": "But amid these evils and other innumerable calamities our heart, dearest brother, would fail from desperate distress, had not the Lord's voice fortified our weakness beforehand."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 14,
+                            "name": "Gregory the Great: Book X 14:6",
+                            "text": "For long ago to the faithful the trumpet of the Gospel lesson sounded, warning them that at the approach of the end of the world wars and many other things, which, as you know, are now feared, would come to pass (Matth."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 14,
+                            "name": "Gregory the Great: Book X 14:7",
+                            "text": "xxiv; Luke xxi."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 14,
+                            "name": "Gregory the Great: Book X 14:8",
+                            "text": ")."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 14,
+                            "name": "Gregory the Great: Book X 14:9",
+                            "text": "We ought not, then, to be too much afflicted in suffering things that we knew of beforehand, as though they had been unknown."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 14,
+                            "name": "Gregory the Great: Book X 14:10",
+                            "text": "Frequently also, in our consideration of another's death, the kind of death may be an alleviation."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 14,
+                            "name": "Gregory the Great: Book X 14:11",
+                            "text": "For what manglings, what cruelties have we seen, where death was the only remedy, and life was a torment! Did not David, when a choice of deaths was offered him, refuse famine or the sword, and choose that his people should fall under the hand of God? Gather ye from this how great favour is granted to such as perish under Divine smiting, since they die by the call that was offered to the holy prophet for a boon."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 14,
+                            "name": "Gregory the Great: Book X 14:12",
+                            "text": "Wherefore let us return thanks to our Creator in all adversities, and, trusting in His mercy, bear all things patiently, since we suffer much less than we deserve."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 14,
+                            "name": "Gregory the Great: Book X 14:13",
+                            "text": "Since, however, we are so scourged temporally that we may not be left without the consolation of life eternal, it is needful (since we are not ignorant, through the announcements of these signs, that the Judge Who is to come is at hand) that we should so much the more, by zeal for good works and the wailing of penitence, make secure our accounts which we shall have to submit to His scrutiny; so that such great smitings may be to us, by the favour of His grace, not the beginning of damnation, but a purgation for our good."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 14,
+                            "name": "Gregory the Great: Book X 14:14",
+                            "text": "Since, however, the nature of our infirmity is such that we cannot but grieve for those who pass away, let the teaching of your Fraternity be a consolation to the afflicted."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 14,
+                            "name": "Gregory the Great: Book X 14:15",
+                            "text": "Instil into them that the good things which are promised will remain with them; so that, strengthened by a most sure hope, they may learn not to grieve for the loss of temporal things in comparison with the gift to come."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 14,
+                            "name": "Gregory the Great: Book X 14:16",
+                            "text": "Let your tongue, as indeed we believe it does, restrain them more and more from the perpetration of evil deeds; let it announce the rewards of the good, the punishments of the bad, so that those who have little love for good things may at least be greatly afraid of bad things, and keep themselves from the things which must be punished."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 14,
+                            "name": "Gregory the Great: Book X 14:17",
+                            "text": "For to commit things worthy of scourges when placed in the midst of scourges is to be peculiarly proud against the smiter, and provokes the incensed one to fiercer anger."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 14,
+                            "name": "Gregory the Great: Book X 14:18",
+                            "text": "And it is a prime kind of madness for any one to be unwilling to desist justly from his own evil, and to wish God to cease unjustly from His vengeance."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 14,
+                            "name": "Gregory the Great: Book X 14:19",
+                            "text": "But, since in all this there is need of Divine help, let us, beloved brother, with united prayers implore the clemency of Almighty God, that He would both grant unto us thus to acquit ourselves worthily, and mercifully stir the hearts of the people to perform such things; to the end that, while we order our actions wholesomely in His fear, we may be counted worthy both to be delivered from impending evils, and, by the leading of His grace, without which we can do nothing, to come to supernal joys."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 14,
+                            "name": "Gregory the Great: Book X 14:20",
+                            "text": "The month of August, Indiction 3."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

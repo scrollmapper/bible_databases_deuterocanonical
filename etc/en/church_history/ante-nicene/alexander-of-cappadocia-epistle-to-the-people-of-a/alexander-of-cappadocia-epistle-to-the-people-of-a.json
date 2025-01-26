@@ -1,0 +1,147 @@
+{
+    "books": [
+        {
+            "name": "Alexander of Cappadocia: Epistle to the People of Antioch",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Alexander of Cappadocia: Epistle to the People of Antioch 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Alexander of Cappadocia: Epistle to the People of Antioch 1:1",
+                            "text": "Alexander of Cappadocia: I."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Alexander of Cappadocia: Epistle to the People of Antioch 1:2",
+                            "text": "An Epistle to the People of Antioch."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Alexander of Cappadocia: Epistle to the People of Antioch 1:3",
+                            "text": "Alexander, a servant and prisoner of Jesus Christ, sends greeting in the Lord to the blessed church of Antioch."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Alexander of Cappadocia: Epistle to the People of Antioch 1:4",
+                            "text": "Easy and light has the Lord made my bonds to me during the time of my imprisonment since I have learned that in the providence of God, Asclepiades—who, in regard to the right faith, is most eminently qualified for the office—has undertaken the episcopate of your holy church of Antioch."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Alexander of Cappadocia: Epistle to the People of Antioch 1:5",
+                            "text": "And this epistle, my brethren and masters, I have sent by the hand of the blessed presbyter Clement, a man virtuous and well tried, whom ye know already, and will know yet better; who also, coming here by the providence and supervision of the Master, has strengthened and increased the Church of the Lord."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 2,
+                    "name": "Alexander of Cappadocia: Epistle to the People of Antioch 2",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 2,
+                            "name": "Alexander of Cappadocia: Epistle to the People of Antioch 2:1",
+                            "text": "II."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 2,
+                            "name": "Alexander of Cappadocia: Epistle to the People of Antioch 2:2",
+                            "text": "From an Epistle to the Antinoites."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 2,
+                            "name": "Alexander of Cappadocia: Epistle to the People of Antioch 2:3",
+                            "text": "Narcissus salutes you, who held the episcopate in this district before me, who is now also my colleague and competitor in prayer for you, and who, having now attained to his hundred and tenth year, unites with me in exhorting you to be of one mind."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 3,
+                    "name": "Alexander of Cappadocia: Epistle to the People of Antioch 3",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 3,
+                            "name": "Alexander of Cappadocia: Epistle to the People of Antioch 3:1",
+                            "text": "III."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 3,
+                            "name": "Alexander of Cappadocia: Epistle to the People of Antioch 3:2",
+                            "text": "From an Epistle to Origen."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 3,
+                            "name": "Alexander of Cappadocia: Epistle to the People of Antioch 3:3",
+                            "text": "For this, as thou knowest, was the will of God, that the friendship subsisting between us from our forefathers should be maintained unbroken, yea rather, that it should increase in fervency and strength."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 3,
+                            "name": "Alexander of Cappadocia: Epistle to the People of Antioch 3:4",
+                            "text": "For we are well acquainted with those blessed fathers who have trodden the course before us, and to whom we too shall soon go: Pantaenus, namely, that man verily blessed, my master; and also the holy Clement, who was once my master and my benefactor; and all the rest who may be like them, by whose means also I have come to know thee, my lord and brother, who excellest all."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 4,
+                    "name": "Alexander of Cappadocia: Epistle to the People of Antioch 4",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 4,
+                            "name": "Alexander of Cappadocia: Epistle to the People of Antioch 4:1",
+                            "text": "IV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 4,
+                            "name": "Alexander of Cappadocia: Epistle to the People of Antioch 4:2",
+                            "text": "From an Epistle to Demetrius, Bishop of Alexandria."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 4,
+                            "name": "Alexander of Cappadocia: Epistle to the People of Antioch 4:3",
+                            "text": "And he—i-e:, Demetrius—has added to his letter that this is a matter that was never heard of before, and has never been done now,—namely, that laymen should take part in public speaking, when there are bishops present."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 4,
+                            "name": "Alexander of Cappadocia: Epistle to the People of Antioch 4:4",
+                            "text": "But in this assertion he has departed evidently far from the truth by some means."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 4,
+                            "name": "Alexander of Cappadocia: Epistle to the People of Antioch 4:5",
+                            "text": "For, indeed, wherever there are found persons capable of profiting the brethren, such persons are exhorted by the holy bishops to address the people."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 4,
+                            "name": "Alexander of Cappadocia: Epistle to the People of Antioch 4:6",
+                            "text": "Such was the case at Laranda, where Evelpis was thus exhorted by Neon; and at Iconium, Paulinus was thus exhorted by Celsus; and at Synada, Theodorus also by Atticus, our blessed brethren."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 4,
+                            "name": "Alexander of Cappadocia: Epistle to the People of Antioch 4:7",
+                            "text": "And it is probable that this is done in other places also, although we know not the fact."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

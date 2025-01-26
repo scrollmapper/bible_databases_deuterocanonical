@@ -1,0 +1,501 @@
+{
+    "books": [
+        {
+            "name": "Ambrose: Epistle XVII",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Ambrose: Epistle XVII 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:1",
+                            "text": "Epistle XVII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:2",
+                            "text": "This Epistle was written when Symmachus sent his memorial to Valentinian II."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:3",
+                            "text": "St."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:4",
+                            "text": "Ambrose presses on the Emperor the consideration that it is his business to defend religion, and not superstition."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:5",
+                            "text": "The memorial was sent without the adhesion of the Christian senators, and therefore did not represent that body."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:6",
+                            "text": "He warns Valentinian that if he accedes to the request he will incur the censures of the Church, besides acting in a manner derogatory to the memory of his father and brother."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:7",
+                            "text": "Ambrose, Bishop, to the most blessed Prince and most Christian Emperor Valentinian."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:8",
+                            "text": "1."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:9",
+                            "text": "As all men who live under the Roman sway engage in military service under you, the Emperors and Princes of the world, so too do you yourselves owe service to Almighty God and our holy faith."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:10",
+                            "text": "For salvation is not sure unless everyone worship in truth the true God, that is the God of the Christians, under Whose sway are all things; for He alone is the true God, Who is to be worshipped from the bottom of the heart; for \"the gods of the heathen,\" as Scripture says, \"are devils\"."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:11",
+                            "text": "2."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:12",
+                            "text": "Now everyone is a soldier of this true God, and he who receives and worships  Him in his inmost spirit, does not bring to His service dissimulation, or pretence, but earnest faith and devotion."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:13",
+                            "text": "And if, in fine, he does not attain to this, at least he ought not to give any countenance to the worship of idols and to profane ceremonies."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:14",
+                            "text": "For no one deceives God, to whom all things, even the hidden things of the heart, are manifest."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:15",
+                            "text": "3."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:16",
+                            "text": "Since, then, most Christian Emperor, there is due from you to the true God both faith and zeal, care and devotion for the faith, I wonder how the hope has risen up to some, that you would feel it a duty to restore by your command altars to the gods of the heathen, and furnish the funds requisite for profane sacrifices; for whatsoever has long been claimed by either the imperial or the city treasury you will seem to give rather from your own funds, than to be restoring what is theirs."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:17",
+                            "text": "4."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:18",
+                            "text": "And they are complaining of their losses, who never spared our blood, who destroyed the very buildings of the churches."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:19",
+                            "text": "And they petition you to grant them privileges, who by the last Julian law denied us the common right of speaking and teaching, and those privileges whereby Christians also have often been deceived; for by those privileges they endeavoured to ensnare some, partly through inadvertence, partly in order to escape the burden of public requirements; and, because all are not found to be brave, even under Christian princes, many have lapsed."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:20",
+                            "text": "5."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:21",
+                            "text": "Had these things not been abolished I could prove that they ought to be done away by your authority; but since they have been forbidden and prohibited by many princes throughout nearly the whole world, and were abolished at Rome by Gratian of august memory, the brother of your Clemency, in consideration of the true faith, and rendered void by a rescript; do not, I pray you, either pluck up what has been established in accordance with the faith, nor rescind your brother's precepts."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:22",
+                            "text": "In civil matters if he established anything, no one thinks that it ought to be treated lightly, while a precept about religion is trodden under foot."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:23",
+                            "text": "6."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:24",
+                            "text": "Let no one take advantage of your youth; if he be a heathen who demands this, it is not right that he should bind your mind with the bonds of his own superstition; but by his zeal he ought to teach and admonish you how to be zealous for the true faith, since he defends vain things with all the passion of truth."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:25",
+                            "text": "I myself advise you to defer to the merits of illustrious men, but undoubtedly God must be preferred to all."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:26",
+                            "text": "7."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:27",
+                            "text": "If we have to consult concerning military affairs, the opinion of a man experienced in warfare should be waited for, and his counsel be followed; when the question concerns religion, think upon God."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:28",
+                            "text": "No one is injured because God is set before him."
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:29",
+                            "text": "He keeps his own opinion."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:30",
+                            "text": "You do not compel a man against his will to worship what he dislikes."
+                        },
+                        {
+                            "verse": 31,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:31",
+                            "text": "Let the same liberty be given to you, O Emperor, and let every one bear it with patience, if he cannot extort from the Emperor what he would take it ill if the Emperor desired to extort from him."
+                        },
+                        {
+                            "verse": 32,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:32",
+                            "text": "A shuffling spirit is displeasing to the heathen themselves, for everyone ought freely to defend and maintain the faith and purpose of his own mind."
+                        },
+                        {
+                            "verse": 33,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:33",
+                            "text": "8."
+                        },
+                        {
+                            "verse": 34,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:34",
+                            "text": "But if any, Christians in name, think that any such decree should be made, let not bare words mislead your mind, let not empty words deceive you."
+                        },
+                        {
+                            "verse": 35,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:35",
+                            "text": "Whoever advises this, and whoever decrees it, sacrifices."
+                        },
+                        {
+                            "verse": 36,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:36",
+                            "text": "But that one should sacrifice is more tolerable than that all should fall."
+                        },
+                        {
+                            "verse": 37,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:37",
+                            "text": "Here the whole Senate of Christians is in danger."
+                        },
+                        {
+                            "verse": 38,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:38",
+                            "text": "9."
+                        },
+                        {
+                            "verse": 39,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:39",
+                            "text": "If to-day any heathen Emperor should build an altar, which God forbid, to idols, and should compel Christians to come together thither, in order to be amongst those who were sacrificing, so that the smoke and ashes from the altar, the sparks from the sacrilege, the smoke from the burning might choke the breath and throats of the faithful; and should give judgment in that court where members were compelled to vote after swearing at the altar of an idol (for they explain that an altar is so placed for this purpose, that every assembly should deliberate under its sanction, as they suppose, though the Senate is now made up with a majority of Christians), a Christian who was compelled with a choice such as this to come to the Senate, would consider it to be persecution, which often happens, for they are compelled to come together even by violence."
+                        },
+                        {
+                            "verse": 40,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:40",
+                            "text": "Are these Christians, when you are Emperor, compelled to swear at a heathen altar? What is an oath, but a confession of the divine power of Him Whom you invoke as watcher over your good faith? When you are Emperor, this is sought and demanded, that you should command an  altar to be built, and the cost of profane sacrifices to be granted."
+                        },
+                        {
+                            "verse": 41,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:41",
+                            "text": "10."
+                        },
+                        {
+                            "verse": 42,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:42",
+                            "text": "But this cannot be decreed without sacrilege, wherefore I implore you not to decree or order it, nor to subscribe to any decrees of that sort."
+                        },
+                        {
+                            "verse": 43,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:43",
+                            "text": "I, as a priest of Christ, call upon your faith, all of us bishops would have joined in calling upon you, were not the report so sudden and incredible, that any such thing had been either suggested in your council, or petitioned for by the Senate."
+                        },
+                        {
+                            "verse": 44,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:44",
+                            "text": "But far be it from the Senate to have petitioned this, a few heathen are making use of the common name."
+                        },
+                        {
+                            "verse": 45,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:45",
+                            "text": "For, nearly two years ago, when the same attempt was being made, holy Damasus, Bishop of the Roman Church, elected by the judgment of God, sent to me a memorial, which the Christian senators in great numbers put forth, protesting that they had given no such authority, that they did not agree with such requests of the heathen, nor give consent to them, and they declared publicly and privately that they would not come to the Senate, if any such thing were decreed."
+                        },
+                        {
+                            "verse": 46,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:46",
+                            "text": "Is it agreeable to the dignity of your, that is Christian, times, that Christian senators should be deprived of their dignity, in order that effect should be given to the profane will of the heathen? This memorial I sent to your Clemency's brother, and from it was plain that the Senate had made no order about the expenses of superstition."
+                        },
+                        {
+                            "verse": 47,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:47",
+                            "text": "11."
+                        },
+                        {
+                            "verse": 48,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:48",
+                            "text": "But perhaps it may be said, why were they not before present in the Senate when those petitions were made? By not being present they sufficiently say what they wish, they said enough in what they said to the Emperor."
+                        },
+                        {
+                            "verse": 49,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:49",
+                            "text": "And do we wonder if those persons deprive private persons at Rome of the liberty of resisting, who are unwilling that you should be free not to command what you do not approve, or to maintain your own opinion?  12."
+                        },
+                        {
+                            "verse": 50,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:50",
+                            "text": "And so, remembering the legation lately entrusted to me, I call again upon your faith."
+                        },
+                        {
+                            "verse": 51,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:51",
+                            "text": "I call upon your own feelings not to determine to answer according to this petition of the heathen, nor to attach to an answer of such a sort the sacrilege of your subscription."
+                        },
+                        {
+                            "verse": 52,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:52",
+                            "text": "Refer to the father of your Piety, the Emperor Theodosius, whom you have been wont to consult in almost all matters of greater importance."
+                        },
+                        {
+                            "verse": 53,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:53",
+                            "text": "Nothing is greater than religion, nothing more exalted than faith."
+                        },
+                        {
+                            "verse": 54,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:54",
+                            "text": "13."
+                        },
+                        {
+                            "verse": 55,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:55",
+                            "text": "If it were a civil cause the right of reply would be reserved for the opposing party; it is a religious cause, and I the bishop make a claim."
+                        },
+                        {
+                            "verse": 56,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:56",
+                            "text": "Let a copy of the memorial which has been sent be given me, that I may answer more fully, and then let your Clemency's father be consulted on the whole subject, and vouchsafe an answer."
+                        },
+                        {
+                            "verse": 57,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:57",
+                            "text": "Certainly if anything else is decreed, we bishops cannot contentedly suffer it and take no notice; you indeed may come to the church, but will find either no priest there, or one who will resist you."
+                        },
+                        {
+                            "verse": 58,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:58",
+                            "text": "14."
+                        },
+                        {
+                            "verse": 59,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:59",
+                            "text": "What will you answer a priest who says to you, \"The church does not seek your gifts, because you have adorned the heathen temples with gifts."
+                        },
+                        {
+                            "verse": 60,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:60",
+                            "text": "The Altar of Christ rejects your gifts, because you have made an altar for idols, for the voice is yours, the hand is yours, the subscription is yours, the deed is yours."
+                        },
+                        {
+                            "verse": 61,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:61",
+                            "text": "The Lord Jesus refuses and rejects your service, because you have served idols, for He said to you: 'Ye cannot serve two masters."
+                        },
+                        {
+                            "verse": 62,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:62",
+                            "text": "' The Virgins consecrated to God have no privileges from you, and do the Vestal Virgins claim them? Why do you ask for the priests of God, to whom you have preferred the profane petitions of the heathen? We cannot take up a share of the errors of others\"."
+                        },
+                        {
+                            "verse": 63,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:63",
+                            "text": "15."
+                        },
+                        {
+                            "verse": 64,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:64",
+                            "text": "What will you answer to these words? That you who have fallen are but a boy? Every age is perfect in Christ, every age is full of God."
+                        },
+                        {
+                            "verse": 65,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:65",
+                            "text": "No childhood is allowed in faith, for even children have confessed Christ against their persecutors with fearless mouth."
+                        },
+                        {
+                            "verse": 66,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:66",
+                            "text": "16."
+                        },
+                        {
+                            "verse": 67,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:67",
+                            "text": "What will you answer your brother? Will he not say to you, \"I did not feel that I was overcome, because I left you as Emperor; I did not grieve at dying, because I had you as my heir; I did not mourn at leaving my imperial command, because I believed that my commands, especially those concerning divine religion, would endure through all ages."
+                        },
+                        {
+                            "verse": 68,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:68",
+                            "text": "I had set up these memorials of piety and virtue, I offered up these spoils gained from the world, these trophies of victory over the devil, these I offered up as gained from the enemy of all, and in them is eternal victory."
+                        },
+                        {
+                            "verse": 69,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:69",
+                            "text": "What more could my enemy take away from me? You have abrogated my decrees, which so far he who took up arms against me did not do."
+                        },
+                        {
+                            "verse": 70,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:70",
+                            "text": "Now do I receive a more terrible wound in that my decrees are condemned by my  brother."
+                        },
+                        {
+                            "verse": 71,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:71",
+                            "text": "My better part is endangered by you, that was but the death of my body, this of my reputation."
+                        },
+                        {
+                            "verse": 72,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:72",
+                            "text": "Now is my power annulled, and what is harder, annulled by my own family, and that is annulled, which even my enemies spoke well of in me."
+                        },
+                        {
+                            "verse": 73,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:73",
+                            "text": "If you consented of your own free will, you have condemned the faith which was mine; if you yielded unwillingly, you have betrayed your own."
+                        },
+                        {
+                            "verse": 74,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:74",
+                            "text": "So, too, which is more serious, I am in danger in your person\"."
+                        },
+                        {
+                            "verse": 75,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:75",
+                            "text": "16."
+                        },
+                        {
+                            "verse": 76,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:76",
+                            "text": "What will you answer your father also? who with greater grief will address you, saying, \"You judged very ill of me, my son, when you supposed that I could have connived at the heathen."
+                        },
+                        {
+                            "verse": 77,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:77",
+                            "text": "No one ever told me that there was an altar in the Roman Senate House, I never believed such wickedness as that the heathen sacrificed in the common assembly of Christians and heathen, that is to say that the Gentiles should insult the Christians who were present, and that Christians should be compelled against their will to be present at the sacrifices."
+                        },
+                        {
+                            "verse": 78,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:78",
+                            "text": "Many and various crimes were committed whilst I was Emperor."
+                        },
+                        {
+                            "verse": 79,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:79",
+                            "text": "I punished such as were detected; if any one then escaped notice, ought one to say that I approved of that of which no one informed me? You have judged very ill of me, if a foreign superstition and not my own faith preserved the empire\"."
+                        },
+                        {
+                            "verse": 80,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:80",
+                            "text": "17."
+                        },
+                        {
+                            "verse": 81,
+                            "chapter": 1,
+                            "name": "Ambrose: Epistle XVII 1:81",
+                            "text": "Wherefore, O Emperor, since you see that if you decree anything of that kind, injury will be done, first to God, and then to your father and brother, I implore you to do that which you know will be profitable to your salvation before God."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

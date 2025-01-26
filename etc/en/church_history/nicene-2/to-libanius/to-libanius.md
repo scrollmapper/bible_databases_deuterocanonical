@@ -1,0 +1,34 @@
+# To Libanius
+
+**[1:1]** Letter X.
+
+**[1:2]** —To Libanius.
+
+**[1:3]** I once heard a medical man tell of a wonderful freak of nature.
+
+**[1:4]** And this was his story.
+
+**[1:5]** A man was ill of an unmanageable complaint, and began to find fault with the medical faculty, as being able to do far less than it professed; for everything that was devised for his cure was ineffectual.
+
+**[1:6]** Afterwards when some good news beyond his hopes was brought him, the occurrence did the work of the healing art, by putting an end to his disease.
+
+**[1:7]** Whether it were that the soul by the overflowing sense of release from anxiety, and by a sudden rebound, disposed the body to be in the same condition as itself, or in some other way, I cannot say: for I have no leisure to enter upon such disquisitions, and the person who told me did not specify the cause.
+
+**[1:8]** But I have just called to mind the story very seasonably, as I think: for when I was not as well as I could wish—now I need not tell you exactly the causes of all the worries which befel me from the time I was with you to the present,—after some one told me all at once of the letter which had arrived from your unparalleled Erudition, as soon as I got the epistle and ran over what you had written, forthwith, first my soul was affected in the same way as though I had been proclaimed before all the world as the hero of most glorious achievements—so highly did I value the testimony which you favoured me with in your letter,—and then also my bodily health immediately began to improve: and I afford an example of the same marvel as the story which I told you just now, in that I was ill when I read one half of the letter, and well when I read the other half of the same.
+
+**[1:9]** Thus much for those matters.
+
+**[1:10]** But now, since Cynegius was the occasion of that favour, you are able, in the overflowing abundance of your ability to do good, not only to benefit us, but also our benefactors; and he is a benefactor of ours, as has been said before, by having been the cause and occasion of our having a letter from you; and for this reason he well deserves both our good offices.
+
+**[1:11]** But if you ask who are our teachers,—if indeed we are thought to have learned anything,—you will find that they are Paul and John, and the rest of the Apostles and Prophets; if I do not seem to speak too boldly in claiming any knowledge of that art in which you so excel, that competent judges declare that the rules of oratory stream down from you, as from an overflowing spring, upon all who have any pretensions to excellence in that department.
+
+**[1:12]** This I have heard the admirable Basil say to everybody, Basil, who was your disciple, but my father and teacher.
+
+**[1:13]** But be assured, first, that I found no rich nourishment in the precepts of my teachers, inasmuch as I enjoyed my brother's society only for a short time, and got only just enough polish from his diviner tongue to be able to discern the ignorance of those who are uninitiated in oratory; next, however, that whenever I had leisure, I devoted my time and energies to this study, and so became enamoured of your beauty, though I never yet obtained the object of my passion.
+
+**[1:14]** If, then, on the one side we never had a teacher, which I deem to have been our case, and if on the other it is improper to suppose that the opinion which you entertain of us is other than the true one—nay, you are correct in your statement, and we are not quite contemptible in your judgment,—give me leave to presume to attribute to you the cause of such proficiency as we may have attained.
+
+**[1:15]** For if Basil was the author of our oratory, and if his wealth came from your treasures, then what we possess is yours, even though we received it through others.
+
+**[1:16]** But if our attainments are scanty, so is the water in a jar; still it comes from the Nile.
+

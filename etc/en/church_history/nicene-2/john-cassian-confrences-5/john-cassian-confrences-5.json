@@ -1,0 +1,1767 @@
+{
+    "books": [
+        {
+            "name": "John Cassian: Confrences V",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "John Cassian: Confrences V 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "John Cassian: Confrences V 1:1",
+                            "text": "V."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "John Cassian: Confrences V 1:2",
+                            "text": "Conference of Abbot Serapion."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "John Cassian: Confrences V 1:3",
+                            "text": "On the Eight Principal Faults."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "John Cassian: Confrences V 1:4",
+                            "text": "Chapter I."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "John Cassian: Confrences V 1:5",
+                            "text": "Our arrival at Abbot Serapion's cell, and inquiry on the different kinds of faults and the way to overcome them."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "John Cassian: Confrences V 1:6",
+                            "text": "In that assembly of Ancients and Elders was a man named Serapion, especially endowed with the grace of discretion, whose Conference I think it is worth while to set down in writing."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "John Cassian: Confrences V 1:7",
+                            "text": "For when we entreated him to discourse of the way to overcome our faults, so that their origin and cause might be made clearer to us, he thus began."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 2,
+                    "name": "John Cassian: Confrences V 2",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 2,
+                            "name": "John Cassian: Confrences V 2:1",
+                            "text": "Chapter II."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 2,
+                            "name": "John Cassian: Confrences V 2:2",
+                            "text": "Abbot Serapion's enumeration of eight principal faults."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 2,
+                            "name": "John Cassian: Confrences V 2:3",
+                            "text": "There are eight principal faults which attack mankind; viz."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 2,
+                            "name": "John Cassian: Confrences V 2:4",
+                            "text": ", first gastrimargia, which means gluttony, secondly fornication, thirdly philargyria, i-e:, avarice or the love of money, fourthly anger, fifthly dejection, sixthly acedia, i-e:, listlessness or low spirits, seventhly cenodoxia, i-e:, boasting or vain glory; and eighthly pride."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 3,
+                    "name": "John Cassian: Confrences V 3",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 3,
+                            "name": "John Cassian: Confrences V 3:1",
+                            "text": "Chapter III."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 3,
+                            "name": "John Cassian: Confrences V 3:2",
+                            "text": "Of the two classes of faults and their fourfold manner of acting on us."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 3,
+                            "name": "John Cassian: Confrences V 3:3",
+                            "text": "Of these faults then there are two classes."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 3,
+                            "name": "John Cassian: Confrences V 3:4",
+                            "text": "For they are either natural to us as gluttony, or arise outside of nature as covetousness."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 3,
+                            "name": "John Cassian: Confrences V 3:5",
+                            "text": "But their manner of acting on us is fourfold."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 3,
+                            "name": "John Cassian: Confrences V 3:6",
+                            "text": "For some cannot be consummated without an act on the part of the flesh, as gluttony and fornication, while some can be completed without any bodily act, as pride and vainglory."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 3,
+                            "name": "John Cassian: Confrences V 3:7",
+                            "text": "Some find the reasons for their being excited outside us, as covetousness and anger; others are aroused by internal feelings, as accidie and dejection."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 4,
+                    "name": "John Cassian: Confrences V 4",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 4,
+                            "name": "John Cassian: Confrences V 4:1",
+                            "text": "Chapter IV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 4,
+                            "name": "John Cassian: Confrences V 4:2",
+                            "text": "A review of the passions of gluttony and fornication and their remedies."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 4,
+                            "name": "John Cassian: Confrences V 4:3",
+                            "text": "And to make this clearer not only by a short discussion to the best of my ability, but by Scripture proof as well, gluttony and fornication, though they exist in us naturally (for sometimes they spring up without any incitement from the mind, and simply at the motion and allurement of the flesh) yet if they are to be consummated, must find an external object, and thus take effect only through bodily acts."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 4,
+                            "name": "John Cassian: Confrences V 4:4",
+                            "text": "For \"every man is tempted of his own lust."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 4,
+                            "name": "John Cassian: Confrences V 4:5",
+                            "text": "Then lust when it has conceived beareth sin, and sin when it is consummated begets death\"."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 4,
+                            "name": "John Cassian: Confrences V 4:6",
+                            "text": "For the first Adam could not have fallen a victim to gluttony unless he had had material food at hand, and had used it wrongly, nor could the second Adam be tempted without the enticement of some object, when it was said to Him: \"If Thou art the Son of God, command that these stones be made bread\"."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 4,
+                            "name": "John Cassian: Confrences V 4:7",
+                            "text": "And it is clear to everybody that fornication also is only completed by a bodily act, as God says of this spirit to the blessed Job: \"And his force is in his loins, and his strength in the navel of his belly\"."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 4,
+                            "name": "John Cassian: Confrences V 4:8",
+                            "text": "And so these two faults in particular, which are carried into effect by the aid of the flesh, especially require bodily abstinence as well as spiritual care of the soul; since the determination of the mind is not in itself enough to resist their attacks (as is sometimes the case with anger or gloominess or the other passions, which an effort of the mind alone can overcome without any mortification of the flesh); but bodily chastisement must be used as well, and be carried out by means of fasting and vigils and acts of contrition; and to this must be added change of scene, because since these sins are the results of faults of both mind and body, so they can only be overcome by the united efforts of both."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 4,
+                            "name": "John Cassian: Confrences V 4:9",
+                            "text": "And although the blessed Apostle says generally that all faults are carnal, since he enumerates enmities and anger and heresies among other works of the flesh, yet in order to cure them and to discover their nature more exactly we make a twofold division of them: for we call some of them carnal, and some spiritual."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 4,
+                            "name": "John Cassian: Confrences V 4:10",
+                            "text": "And those we call carnal, which specially have to do with pampering the appetites of the flesh, and with which it is so charmed and satisfied, that sometimes it excites the mind when at rest and even drags it against its will to consent to its desire."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 4,
+                            "name": "John Cassian: Confrences V 4:11",
+                            "text": "Of which the blessed Apostle says: \"In which also we all walked in time past in the desires of our flesh, fulfilling the will of the flesh and of our thoughts, and were by nature children of wrath even as the rest\"."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 4,
+                            "name": "John Cassian: Confrences V 4:12",
+                            "text": "But we call those spiritual which spring only from the impulse of the mind and not merely contribute no pleasure to the flesh, but actually bring on it a weakness that is harmful to it, and only feed a diseased mind with the food of a most miserable pleasure."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 4,
+                            "name": "John Cassian: Confrences V 4:13",
+                            "text": "And therefore these need a single medicine for the heart: but those which are carnal can only be cured, as we said, by a double remedy."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 4,
+                            "name": "John Cassian: Confrences V 4:14",
+                            "text": "Whence it is extremely useful for those who aspire to purity, to begin by withdrawing from themselves the material which feeds these carnal passions, through which opportunity for or recollection of these same desires can arise in a soul that is still affected by the evil."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 4,
+                            "name": "John Cassian: Confrences V 4:15",
+                            "text": "For a complicated disease needs a complicated remedy."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 4,
+                            "name": "John Cassian: Confrences V 4:16",
+                            "text": "For from the body the object and material which would allure it must be withdrawn, for fear lest the lust should endeavour to break out into act; and before the mind we should no less carefully place diligent meditation on Scripture and watchful anxiety and the withdrawal into solitude, lest it should give birth to desire even in thought."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 4,
+                            "name": "John Cassian: Confrences V 4:17",
+                            "text": "But as regards other faults intercourse with our fellows is no obstacle, or rather it is of the greatest possible use, to those who truly desire to get rid of them, because in mixing with others they more often meet with rebuke, and while they are more frequently provoked the existence of the faults is made evident, and so they are cured with speedy remedies."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 5,
+                    "name": "John Cassian: Confrences V 5",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 5,
+                            "name": "John Cassian: Confrences V 5:1",
+                            "text": "Chapter V."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 5,
+                            "name": "John Cassian: Confrences V 5:2",
+                            "text": "How our Lord alone was tempted without sin."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 5,
+                            "name": "John Cassian: Confrences V 5:3",
+                            "text": "And so our Lord Jesus Christ, though declared by the Apostle's word to have been tempted in all points like as we are, is yet said to have been \"without sin,\" i-e:, without the infection of this appetite, as He knew nothing of incitements of carnal lust, with which we are sure to be troubled even against our will and without our knowledge; for the archangel thus describes the manner of His conception: \"The Holy Ghost shall come upon thee and the power of the Most High  shall overshadow thee: therefore that which shall be born of thee shall be called holy, the Son of God\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 6,
+                    "name": "John Cassian: Confrences V 6",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 6,
+                            "name": "John Cassian: Confrences V 6:1",
+                            "text": "Chapter VI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 6,
+                            "name": "John Cassian: Confrences V 6:2",
+                            "text": "Of the manner of the temptation in which our Lord was attacked by the devil."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 6,
+                            "name": "John Cassian: Confrences V 6:3",
+                            "text": "For it was right that He who was in possession of the perfect image and likeness of God should be Himself tempted through those passions, through which Adam also was tempted while he still retained the image of God unbroken, that is, through gluttony, vainglory, pride; and not through those in which he was by his own fault entangled and involved after the transgression of the commandment, when the image and likeness of God was marred."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 6,
+                            "name": "John Cassian: Confrences V 6:4",
+                            "text": "For it was gluttony through which he took the fruit of the forbidden tree, vainglory through which it was said \"Your eyes shall be opened,\" and pride through which it was said \"Ye shall be as gods, knowing good and evil\"."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 6,
+                            "name": "John Cassian: Confrences V 6:5",
+                            "text": "With these three sins then we read that the Lord our Saviour was also tempted; with gluttony when the devil said to Him: \"Command these stones that they be made bread:\" with vainglory: \"If Thou art the Son of God cast Thyself down:\" with pride, when he showed him all the kingdoms of the world and the glory of them and said: \"All this will I give to Thee if Thou wilt fall down and worship me:\" in order that He might by His example teach us how we ought to vanquish the tempter when we are attacked on the same lines of temptation as He was."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 6,
+                            "name": "John Cassian: Confrences V 6:6",
+                            "text": "And so both the former and the latter are spoken of as Adam; the one being the first for destruction and death, and the other the first for resurrection and life."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 6,
+                            "name": "John Cassian: Confrences V 6:7",
+                            "text": "Through the one the whole race of mankind is brought into condemnation, through the other the whole race of mankind is set free."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 6,
+                            "name": "John Cassian: Confrences V 6:8",
+                            "text": "The one was fashioned out of raw and unformed earth, the other was born of the Virgin Mary."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 6,
+                            "name": "John Cassian: Confrences V 6:9",
+                            "text": "In His case then though it was fitting that He should undergo temptation, yet it was not necessary that He should fail under it."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 6,
+                            "name": "John Cassian: Confrences V 6:10",
+                            "text": "Nor could He who had vanquished gluttony be tempted by fornication, which springs from superfluity and gluttony as its root, with which even the first Adam would not have been destroyed unless before its birth he had been deceived by the wiles of the devil and fallen a victim to passion."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 6,
+                            "name": "John Cassian: Confrences V 6:11",
+                            "text": "And therefore the Son of God is not said absolutely to have come \"in the flesh of sin,\" but \"in the likeness of the flesh of sin,\" because though His was true flesh and He ate and drank and slept, and truly received the prints of the nails, there was in Him no true sin inherited from the fall, but only what was something like it."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 6,
+                            "name": "John Cassian: Confrences V 6:12",
+                            "text": "For He had no experience of the fiery darts of carnal lust, which in our case arise even against our will, from the constitution of our natures, but He took upon Him something like this, by sharing in our nature."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 6,
+                            "name": "John Cassian: Confrences V 6:13",
+                            "text": "For as He truly fulfilled every function which belongs to us, and bore all human infirmities, He has consequently been considered to have been subject to this feeling also, that He might appear through these infirmities to bear in His own flesh the state even of this fault and sin."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 6,
+                            "name": "John Cassian: Confrences V 6:14",
+                            "text": "Lastly the devil only tempted Him to those sins, by which he had deceived the first Adam, inferring that He as man would similarly be deceived in other matters if he found that He was overcome by those temptations by which he had overthrown His predecessor."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 6,
+                            "name": "John Cassian: Confrences V 6:15",
+                            "text": "But as he was overthrown in the first encounter he was not able to bring upon Him the second infirmity which had shot up as from the root of the first fault."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 6,
+                            "name": "John Cassian: Confrences V 6:16",
+                            "text": "For he saw that He had not even admitted anything from which this infirmity might take its rise, and it was idle to hope for the fruit of sin from Him, as he saw that He in no sort of way received into Himself seeds or roots of it."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 6,
+                            "name": "John Cassian: Confrences V 6:17",
+                            "text": "Yet according to Luke, who places last that temptation in which he uses the words \"If Thou art the Son of God, cast Thyself down,\" we can understand this of the feeling of pride, so that that earlier one, which Matthew places third, in which, as Luke the evangelist says, the devil showed Him all the kingdoms of the world in a moment of time and promised them to Him, may be taken of the feeling of covetousness, because after His victory over gluttony, he did not venture to tempt Him to fornication, but passed on to covetousness, which he knew to be the root of all evils, and when again vanquished in this, he did not dare attack Him with any of those sins which follow, which, as he knew full well, spring from this as a root and source; and so he passed on to the last passion; viz."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 6,
+                            "name": "John Cassian: Confrences V 6:18",
+                            "text": ", pride, by which he knew that those who are perfect and have overcome all other sins, can be affected, and owing to which he remembered that he himself in his character of Lucifer, and many others too, had fallen from their heavenly estate, without temptation from any of the preceding passions."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 6,
+                            "name": "John Cassian: Confrences V 6:19",
+                            "text": "In this order then which we have mentioned, which is the one given by the evangelist Luke,  there is an exact agreement between the allurements and forms of the temptations by which that most crafty foe attacked both the first and the second Adam."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 6,
+                            "name": "John Cassian: Confrences V 6:20",
+                            "text": "For to the one he said \"Your eyes shall be opened;\" to the other \"he showed all the kingdoms of the world and the glory of them\"."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 6,
+                            "name": "John Cassian: Confrences V 6:21",
+                            "text": "In the one case he said \"Ye shall be as gods;\" in the other, \"If Thou art the Son of God\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 7,
+                    "name": "John Cassian: Confrences V 7",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 7,
+                            "name": "John Cassian: Confrences V 7:1",
+                            "text": "Chapter VII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 7,
+                            "name": "John Cassian: Confrences V 7:2",
+                            "text": "How vainglory and pride can be consummated without any assistance from the body."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 7,
+                            "name": "John Cassian: Confrences V 7:3",
+                            "text": "And to go on in the order which we proposed, with our account of the way in which the other passions act (our analysis of which was obliged to be interrupted by this account of gluttony and of the Lord's temptation) vainglory and pride can be consummated even without the slightest assistance from the body."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 7,
+                            "name": "John Cassian: Confrences V 7:4",
+                            "text": "For in what way do those passions need any action of the flesh, which bring ample destruction on the soul they take captive simply by its assent and wish to gain praise and glory from men? Or what act on the part of the body was there in that pride of old in the case of the above mentioned Lucifer; as he only conceived it in his heart and mind, as the prophet tells us: \"Who saidst in thine heart: I will ascend into heaven, I will set my throne above the stars of God."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 7,
+                            "name": "John Cassian: Confrences V 7:5",
+                            "text": "I will ascend above the heights of the clouds, I will be like the most High\"."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 7,
+                            "name": "John Cassian: Confrences V 7:6",
+                            "text": "And just as he had no one to stir him up to this pride, so his thoughts alone were the authors of the sin when complete and of his eternal fall; especially as no exercise of the dominion at which he aimed followed."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 8,
+                    "name": "John Cassian: Confrences V 8",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 8,
+                            "name": "John Cassian: Confrences V 8:1",
+                            "text": "Chapter VIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 8,
+                            "name": "John Cassian: Confrences V 8:2",
+                            "text": "Of covetousness, which is something outside our nature, and of the difference between it and those faults which are natural to us."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 8,
+                            "name": "John Cassian: Confrences V 8:3",
+                            "text": "Covetousness and anger, although they are not of the same character (for the former is something outside our nature, while the latter seems to have as it were its seed plot within us) yet they spring up in the same way, as in most instances they find the reasons for their being stirred in something outside of us."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 8,
+                            "name": "John Cassian: Confrences V 8:4",
+                            "text": "For often men who are still rather weak complain that they have fallen into these sins through irritation and the instigation of others, and are plunged headlong into the passions of anger and covetousness by the provocation of other people."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 8,
+                            "name": "John Cassian: Confrences V 8:5",
+                            "text": "But that covetousness is something outside our nature, we can clearly see from this; viz."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 8,
+                            "name": "John Cassian: Confrences V 8:6",
+                            "text": ", that it is proved not to have its first starting point inside us, nor does it originate in what contributes to keeping body and soul together, and to the existence of life."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 8,
+                            "name": "John Cassian: Confrences V 8:7",
+                            "text": "For it is plain that nothing belongs to the actual needs and necessities of our common life except our daily meat and drink: but everything else, with whatever zeal and care we preserve it, is shown to be something distinct from the wants of man by the needs of life itself."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 8,
+                            "name": "John Cassian: Confrences V 8:8",
+                            "text": "And so this temptation, as being something outside our nature, only attacks those monks who are but lukewarm and built on a bad foundation, whereas those which are natural to us do not cease from troubling even the best of monks and those who dwell in solitude."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 8,
+                            "name": "John Cassian: Confrences V 8:9",
+                            "text": "And so far is this shown to be true, that we find that there are some nations who are altogether free from this passion of covetousness, because they have never by use and custom received into themselves this fault and infirmity."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 8,
+                            "name": "John Cassian: Confrences V 8:10",
+                            "text": "And we believe that the old world before the flood was for long ages ignorant of the madness of this desire."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 8,
+                            "name": "John Cassian: Confrences V 8:11",
+                            "text": "And in the case of each one of us who makes his renunciation of the world a thorough one, we know that it is extirpated without any difficulty, if, that is, a man gives up all his property, and seeks the monastic discipline in such a way as not to allow himself to keep a single farthing."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 8,
+                            "name": "John Cassian: Confrences V 8:12",
+                            "text": "And we can find thousands of men to bear witness to this, who in a single moment have given up all their property, and have so thoroughly eradicated this passion as not to be in the slightest degree troubled by it afterwards, though all their life long they have to fight against gluttony, and cannot be safe from it without striving with the utmost watchfulness of heart and bodily abstinence."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 9,
+                    "name": "John Cassian: Confrences V 9",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 9,
+                            "name": "John Cassian: Confrences V 9:1",
+                            "text": "Chapter IX."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 9,
+                            "name": "John Cassian: Confrences V 9:2",
+                            "text": "How dejection and accidie generally arise without any external provocation, as in the case of other faults."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 9,
+                            "name": "John Cassian: Confrences V 9:3",
+                            "text": "Dejection and accidie generally arise without any external provocation, like those others of which we have been speaking: for we are well aware that they often harass solitaries, and those who have settled themselves in the desert without any intercourse with  other men, and this in the most distressing way."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 9,
+                            "name": "John Cassian: Confrences V 9:4",
+                            "text": "And the truth of this any one who has lived in the desert and made trial of the conflicts of the inner man, can easily prove by experience."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 10,
+                    "name": "John Cassian: Confrences V 10",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 10,
+                            "name": "John Cassian: Confrences V 10:1",
+                            "text": "Chapter X."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 10,
+                            "name": "John Cassian: Confrences V 10:2",
+                            "text": "How six of these faults are related, and the two which differ from them are akin to one another."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 10,
+                            "name": "John Cassian: Confrences V 10:3",
+                            "text": "Of these eight faults then, although they are different in their origin and in their way of affecting us, yet the six former; viz."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 10,
+                            "name": "John Cassian: Confrences V 10:4",
+                            "text": ", gluttony, fornication, covetousness, anger, dejection, accidie, have a sort of connexion with each other, and are, so to speak, linked together in a chain, so that any excess of the one forms a starting point for the next."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 10,
+                            "name": "John Cassian: Confrences V 10:5",
+                            "text": "For from superfluity of gluttony fornication is sure to spring, and from fornication covetousness, from covetousness anger, from anger, dejection, and from dejection, accidie."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 10,
+                            "name": "John Cassian: Confrences V 10:6",
+                            "text": "And so we must fight against them in the same way, and with the same methods: and having overcome one, we ought always to enter the lists against the next."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 10,
+                            "name": "John Cassian: Confrences V 10:7",
+                            "text": "For a tall and spreading tree of a noxious kind will the more easily be made to wither if the roots on which it depends have first been laid bare or cut; and a pond of water which is dangerous will be dried up at once if the spring and flowing channel which produce it are carefully stopped up."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 10,
+                            "name": "John Cassian: Confrences V 10:8",
+                            "text": "Wherefore in order to overcome accidie, you must first get the better of dejection: in order to get rid of dejection, anger must first be expelled: in order to quell anger, covetousness must be trampled under foot: in order to root out covetousness, fornication must be checked: and in order to destroy fornication, you must chastise the sin of gluttony."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 10,
+                            "name": "John Cassian: Confrences V 10:9",
+                            "text": "But the two remaining faults; viz."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 10,
+                            "name": "John Cassian: Confrences V 10:10",
+                            "text": ", vainglory and pride, are connected together in a somewhat similar way as the others of which we have spoken, so that the growth of the one makes a starting point for the other (for superfluity of vainglory produces an incentive to pride); but they are altogether different from the six former faults, and are not joined in the same category with them, since not only is there no opportunity given for them to spring up from these, but they are actually aroused in an entirely different way and manner."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 10,
+                            "name": "John Cassian: Confrences V 10:11",
+                            "text": "For when these others have been eradicated these latter flourish the more vigorously, and from the death of the others they shoot forth and grow up all the stronger: and therefore we are attacked by these two faults in quite a different way."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 10,
+                            "name": "John Cassian: Confrences V 10:12",
+                            "text": "For we fall into each one of those six faults at the moment when we have been overcome by the ones that went before them; but into these two we are in danger of falling when we have proved victorious, and above all after some splendid triumph."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 10,
+                            "name": "John Cassian: Confrences V 10:13",
+                            "text": "In the cases then of all faults just as they spring up from the growth of those that go before them, so are they eradicated by getting rid of the earlier ones."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 10,
+                            "name": "John Cassian: Confrences V 10:14",
+                            "text": "And in this way in order that pride may be driven out vainglory must be stifled, and so if we always overcome the earlier ones, the later ones will be checked; and through the extermination of those that lead the way, the rest of our passions will die down without difficulty."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 10,
+                            "name": "John Cassian: Confrences V 10:15",
+                            "text": "And though these eight faults of which we have spoken are connected and joined together in the way which we have shown, yet they may be more exactly divided into four groups and sub-divisions."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 10,
+                            "name": "John Cassian: Confrences V 10:16",
+                            "text": "For to gluttony fornication is linked by a special tie: to covetousness anger, to dejection accidie, and to vainglory pride is closely allied."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 11,
+                    "name": "John Cassian: Confrences V 11",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 11,
+                            "name": "John Cassian: Confrences V 11:1",
+                            "text": "Chapter XI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 11,
+                            "name": "John Cassian: Confrences V 11:2",
+                            "text": "Of the origin and character of each of these faults."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 11,
+                            "name": "John Cassian: Confrences V 11:3",
+                            "text": "And now, to speak about each kind of fault separately: of gluttony there are three sorts: (1) that which drives a monk to eat before the proper and stated times; (2) that which cares about filling the belly and gorging it with all kinds of food, and (3) that which is on the lookout for dainties and delicacies."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 11,
+                            "name": "John Cassian: Confrences V 11:4",
+                            "text": "And these three sorts give a monk no little trouble, unless he tries to free himself from all of them with the same care and scrupulousness."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 11,
+                            "name": "John Cassian: Confrences V 11:5",
+                            "text": "For just as one should never venture to break one's fast before the right time so we must utterly avoid all greediness in eating, and the choice and dainty preparation of our food: for from these three causes different but extremely dangerous conditions of the soul arise."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 11,
+                            "name": "John Cassian: Confrences V 11:6",
+                            "text": "For from the first there springs up dislike of the monastery, and thence there grows up disgust and intolerance of the life there, and this is sure to be soon followed by withdrawal and speedy departure from it."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 11,
+                            "name": "John Cassian: Confrences V 11:7",
+                            "text": "By the second there are kindled the fiery darts of luxury and lasciviousness."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 11,
+                            "name": "John Cassian: Confrences V 11:8",
+                            "text": "The third also weaves the entangling meshes of covetousness for the nets of its prisoners, and ever hinders monks from following the perfect self-abnegation of Christ."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 11,
+                            "name": "John Cassian: Confrences V 11:9",
+                            "text": "And when there are traces of this passion in us we can recognize them by this; viz."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 11,
+                            "name": "John Cassian: Confrences V 11:10",
+                            "text": ", if we are kept to dine by one of the brethren we are not content to eat our food with the relish which he has prepared and offers to us, but take the unpardonable liberty of asking to have something else poured over it or added to it, a thing which we should never do for three reasons: (1) because the monastic mind ought always to be accustomed to practise endurance and abstinence, and like the Apostle, to learn to be content in whatever state he is."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 11,
+                            "name": "John Cassian: Confrences V 11:11",
+                            "text": "For one who is upset by taking an unsavoury morsel once and in a way, and who cannot even for a short time overcome the delicacy of his appetite will never succeed in curbing the secret and more important desires of the body; (2) because it sometimes happens that at the time our host is out of that particular thing which we ask for, and we make him feel ashamed of the wants and bareness of his table, by exposing his poverty which he would rather was only known to God; (3) because sometimes other people do not care about the relish which we ask for, and so it turns out that we are annoying most of them while intent on satisfying the desires of our own palate."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 11,
+                            "name": "John Cassian: Confrences V 11:12",
+                            "text": "And on this account we must by all means avoid such a liberty."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 11,
+                            "name": "John Cassian: Confrences V 11:13",
+                            "text": "Of fornication there are three sorts: (1) that which is accomplished by sexual intercourse; (2) that which takes place without touching a woman, for which we read that Onan the son of the patriarch Judah was smitten by the Lord; and which is termed by Scripture uncleanness: of which the Apostle says: \"But I say to the unmarried and to widows, that it is good for them if they abide even as I."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 11,
+                            "name": "John Cassian: Confrences V 11:14",
+                            "text": "But if they do not contain let them marry: for it is better to marry than to burn;\" (3) that which is conceived in heart and mind, of which the Lord says in the gospel: \"Whosoever looketh on a woman to lust after her hath already committed adultery with her in his heart\"."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 11,
+                            "name": "John Cassian: Confrences V 11:15",
+                            "text": "And these three kinds the blessed Apostle tells us must be stamped out in one and the same way."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 11,
+                            "name": "John Cassian: Confrences V 11:16",
+                            "text": "\"Mortify,\" says he, \"your members which are upon the earth, fornication, uncleanness, lust, etc\"."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 11,
+                            "name": "John Cassian: Confrences V 11:17",
+                            "text": "And again of two of them he says to the Ephesians: \"Let fornication and uncleanness be not so much as named among you:\" and once more: \"But know this that no fornicator or unclean person, or covetous person who is an idolater hath inheritance in the kingdom of Christ and of God\"."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 11,
+                            "name": "John Cassian: Confrences V 11:18",
+                            "text": "And just as these three must be avoided by us with equal care, so they one and all shut us out and exclude us equally from the kingdom of Christ."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 11,
+                            "name": "John Cassian: Confrences V 11:19",
+                            "text": "Of covetousness there are three kinds: (1) That which hinders renunciants from allowing themselves of be stripped of their goods and property; (2) that which draws us to resume with excessive eagerness the possession of those things which we have given away and distributed to the poor; (3) that which leads a man to covet and procure what he never previously possessed."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 11,
+                            "name": "John Cassian: Confrences V 11:20",
+                            "text": "Of anger there are three kinds: one which rages within, which is called in Greek θυμός; another which breaks out in word and deed and action, which they term ὀργή: of which the Apostle speaks, saying \"But now do ye lay aside all anger and indignation;\" the third, which is not like those in boiling over and being done with in an hour, but which lasts for days and long periods, which is called μῆνις."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 11,
+                            "name": "John Cassian: Confrences V 11:21",
+                            "text": "And all these three must be condemned by us with equal horror."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 11,
+                            "name": "John Cassian: Confrences V 11:22",
+                            "text": "Of dejection there are two kinds: one, that which springs up when anger has died down, or is the result of some loss we have incurred or of some purpose which has been hindered and interfered with; the other, that which comes from unreasonable anxiety of mind or from despair."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 11,
+                            "name": "John Cassian: Confrences V 11:23",
+                            "text": "Of accidie there are two kinds: one of which sends those affected by it to sleep; while the other makes them forsake their cell and flee away."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 11,
+                            "name": "John Cassian: Confrences V 11:24",
+                            "text": "Of vainglory, although it takes various forms and shapes, and is divided into different classes, yet there are two main kinds: (1) when we are puffed up about carnal things and things visible, and (2) when we are inflamed with the desire of vain praise for things spiritual and unseen."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 12,
+                    "name": "John Cassian: Confrences V 12",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 12,
+                            "name": "John Cassian: Confrences V 12:1",
+                            "text": "Chapter XII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 12,
+                            "name": "John Cassian: Confrences V 12:2",
+                            "text": "How vainglory may be useful to us."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 12,
+                            "name": "John Cassian: Confrences V 12:3",
+                            "text": "But in one matter vainglory is found to be a useful thing for beginners."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 12,
+                            "name": "John Cassian: Confrences V 12:4",
+                            "text": "I mean by those who are still troubled by carnal sins, as for instance, if, when they are troubled by the spirit of fornication, they formed an idea of the dignity of the priesthood, or of reputation among all men, by which they may be thought saints and immaculate: and so with these considerations they repell the unclean suggestions of lust, as deeming them base and at least unworthy of their rank and reputation; and so by means of a smaller evil they overcome a greater one."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 12,
+                            "name": "John Cassian: Confrences V 12:5",
+                            "text": "For it is better for a man to be troubled by the sin of vainglory than for him to fall into the desire for fornication, from which he either cannot recover at all or only with great difficulty after he has fallen."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 12,
+                            "name": "John Cassian: Confrences V 12:6",
+                            "text": "And this thought is admirably expressed by one of the prophets speaking in the person of God, and saying: \"For My name's sake I will remove My wrath afar off: and with My praise I will bridle thee lest thou shouldest perish,\" i-e:, while you are enchained by the praises of vainglory, you cannot possibly rush on into the depths of hell, or plunge irrevocably into the commission of deadly sins."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 12,
+                            "name": "John Cassian: Confrences V 12:7",
+                            "text": "Nor need we wonder that this passion has the power of checking anyone from rushing into the sin of fornication, since it has been again and again proved by many examples that when once a man has been affected by its poison and plague, it makes him utterly indefatigable, so that he scarcely feels a fast of even two or three days."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 12,
+                            "name": "John Cassian: Confrences V 12:8",
+                            "text": "And we have often known some who are living in this desert, confessing that when their home was in the monasteries of Syria they could without difficulty go for five days without food, while now they are so overcome with hunger even by the third hour, that they can scarcely keep on their daily fast to the ninth hour."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 12,
+                            "name": "John Cassian: Confrences V 12:9",
+                            "text": "And on this subject there is a very neat answer of Abbot Macarius to one who asked him why he was troubled with hunger as early as the third hour in the desert, when in the monastery he had often scorned food for a whole week, without feeling hungry."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 12,
+                            "name": "John Cassian: Confrences V 12:10",
+                            "text": "\"Because,\" said he, \"here there is nobody to see your fast, and feed and support you with his praise of you: but there you grew fat on the notice of others and the food of vainglory\"."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 12,
+                            "name": "John Cassian: Confrences V 12:11",
+                            "text": "And of the way in which, as we said, the sin of fornication is prevented by an attack of vainglory, there is an excellent and significant figure in the book of Kings, where, when the children of Israel had been taken captive by Necho, King of Egypt, Nebuchadnezzar, King of Assyria, came up and brought them back from the borders of Egypt to their own country, not indeed meaning to restore them to their former liberty and their native land, but meaning to carry them off to his own land and to transport them to a still more distant country than the land of Egypt in which they had been prisoners."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 12,
+                            "name": "John Cassian: Confrences V 12:12",
+                            "text": "And this illustration exactly applies to the case before us."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 12,
+                            "name": "John Cassian: Confrences V 12:13",
+                            "text": "For though there is less harm in yielding to the sin of vainglory than to fornication, yet it is more difficult to escape from the dominion of vainglory."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 12,
+                            "name": "John Cassian: Confrences V 12:14",
+                            "text": "For somehow or other the prisoner who is carried off to a greater distance, will have more difficulty in returning to his native land and the freedom of his fathers, and the prophet's rebuke will be deservedly aimed at him: \"Wherefore art thou grown old in a strange country? since a man is rightly said to have grown old in a strange country, if he has not broken up the ground of his faults."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 12,
+                            "name": "John Cassian: Confrences V 12:15",
+                            "text": "Of pride there are two kinds: (1) carnal, and (2) spiritual, which is the worse."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 12,
+                            "name": "John Cassian: Confrences V 12:16",
+                            "text": "For it especially attacks those who are seen to have made progress in some good qualities."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 13,
+                    "name": "John Cassian: Confrences V 13",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 13,
+                            "name": "John Cassian: Confrences V 13:1",
+                            "text": "Chapter XIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 13,
+                            "name": "John Cassian: Confrences V 13:2",
+                            "text": "Of the different ways in which all these faults assault us."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 13,
+                            "name": "John Cassian: Confrences V 13:3",
+                            "text": "Although then these eight faults trouble all sorts of men, yet they do not attack them all in the same way."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 13,
+                            "name": "John Cassian: Confrences V 13:4",
+                            "text": "For in one man the spirit of fornication holds the chief place: wrath rides rough shod over another: over another vainglory claims dominion: in an other pride holds the field: and though it is clear that we are all attacked by all of them, yet the difficulties come to each of us in very different ways and manners."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 14,
+                    "name": "John Cassian: Confrences V 14",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 14,
+                            "name": "John Cassian: Confrences V 14:1",
+                            "text": "Chapter XIV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 14,
+                            "name": "John Cassian: Confrences V 14:2",
+                            "text": "Of the struggle into which we must enter against our faults, when they attack us."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 14,
+                            "name": "John Cassian: Confrences V 14:3",
+                            "text": "Wherefore we must enter the lists against these faults in such a way that every one should discover his besetting sin, and direct his main attack against it, directing all his care and watchfulness of mind to guard against its assault, directing against it daily the weapons of fasting, and at all times hurling against it the constant darts of sighs and groanings from the heart, and employing against it the labours of vigils and the meditation of the heart, and further pouring forth to God constant tears and prayers and continually and expressly praying to be delivered from its attack."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 14,
+                            "name": "John Cassian: Confrences V 14:4",
+                            "text": "For it is impossible for a man to win a triumph over any kind of passion, unless he has first clearly understood that he cannot possibly gain the victory in the struggle with it by his own strength and efforts, although in order that he may be rendered pure he must night and day persist in the utmost care and watchfulness."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 14,
+                            "name": "John Cassian: Confrences V 14:5",
+                            "text": "And even when he feels that he has got rid of this fault, he should still search the inmost recesses of his heart with the same purpose, and single out the worst fault which he can see among those still there, and bring all the forces of the Spirit to bear against it in particular, and  so by always overcoming the stronger passions, he will gain a quick and easy victory over the rest, because by a course of triumphs the soul is made more vigorous, and the fact that the next conflict is with weaker passion insures him a readier success in the struggle: as is generally the case with those who are wont to face all kinds of wild beasts in the presence of the kings of this world, out of consideration for the rewards—a kind of spectacle which is generally called \"pancarpus\"."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 14,
+                            "name": "John Cassian: Confrences V 14:6",
+                            "text": "Such men, I say, direct their first assault against whatever beasts they see to be the strongest and fiercest, and when they have despatched these, then they can more easily lay low the remaining ones, which are not so terrible and powerful."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 14,
+                            "name": "John Cassian: Confrences V 14:7",
+                            "text": "So too, by always overcoming the stronger passions, as weaker ones take their place, a perfect victory will be secured for us without any risk."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 14,
+                            "name": "John Cassian: Confrences V 14:8",
+                            "text": "Nor need we imagine that if any one grapples with one fault in particular, and seems too careless about guarding against the attacks of others, he will be easily wounded by a sudden assault, for this cannot possibly happen."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 14,
+                            "name": "John Cassian: Confrences V 14:9",
+                            "text": "For where a man is anxious to cleanse his heart, and has steeled his heart's purpose against the attack of any one fault, it is impossible for him not to have a general dread of all other faults as well, and take similar care of them."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 14,
+                            "name": "John Cassian: Confrences V 14:10",
+                            "text": "For if a man renders himself unworthy of the prize of purity by contaminating himself with other faults, how can he possibly succeed in gaining the victory over that one passion from which he is longing to be freed? But when the main purpose of our heart has singled out one passion as the special object of its attack, we shall pray about it more earnestly, and with special anxiety and fervour shall entreat that we may be more especially on our guard against it and so succeed in gaining a speedy victory."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 14,
+                            "name": "John Cassian: Confrences V 14:11",
+                            "text": "For the giver of the law himself teaches us that we ought to follow this plan in our conflicts and not to trust in our own power; as he says: \"Thou shalt not fear them because the Lord thy God is in the midst of thee, a God mighty and terrible: He will consume these nations in thy sight by little and little and by degrees."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 14,
+                            "name": "John Cassian: Confrences V 14:12",
+                            "text": "Thou wilt not be able to destroy them altogether: lest perhaps the beasts of the earth should increase upon thee."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 14,
+                            "name": "John Cassian: Confrences V 14:13",
+                            "text": "But the Lord thy God shall deliver them in thy sight; and shall slay them until they be utterly destroyed\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 15,
+                    "name": "John Cassian: Confrences V 15",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 15,
+                            "name": "John Cassian: Confrences V 15:1",
+                            "text": "Chapter XV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 15,
+                            "name": "John Cassian: Confrences V 15:2",
+                            "text": "How we can do nothing against our faults without the help of God, and how we should not be puffed up by victories over them."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 15,
+                            "name": "John Cassian: Confrences V 15:3",
+                            "text": "And that we ought not to be puffed up by victories over them he likewise charges us; saying, \"Lest after thou hast eaten and art filled, hast built goodly houses and dwelt in them, and shalt have herds of oxen and flocks of sheep, and plenty of gold and of silver, and of all things, thy heart be lifted up and thou remember not the Lord thy God, who brought thee out of the land of Egypt, out of the house of bondage; and was thy leader in the great and terrible wilderness\"."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 15,
+                            "name": "John Cassian: Confrences V 15:4",
+                            "text": "Solomon also says in Proverbs: \"When thine enemy shall fall be not glad, and in his ruin be not lifted up, lest the Lord see and it displease Him, and He turn away His wrath from him,\" i-e:, lest He see thy pride of heart, and cease from attacking him, and thou begin to be forsaken by Him and so once more to be troubled by that passion which by God's grace thou hadst previously overcome."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 15,
+                            "name": "John Cassian: Confrences V 15:5",
+                            "text": "For the prophet would not have prayed in these words, \"Deliver not up to beasts, O Lord, the soul that confesseth to Thee,\" unless he had known that because of their pride of heart some were given over again to those faults which they had overcome, in order that they might be humbled."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 15,
+                            "name": "John Cassian: Confrences V 15:6",
+                            "text": "Wherefore it is well for us both to be certified by actual experience, and also to be instructed by countless passages of Scripture, that we cannot possibly overcome such mighty foes in our own strength, and unless supported by the aid of God alone; and that we ought always to refer the whole of our victory each day to God Himself, as the Lord Himself also gives us instruction by Moses on this very point: \"Say not in thine heart when the Lord thy God shall have destroyed them in thy sight: For my  righteousness hath the Lord brought me in to possess this land, whereas these nations are destroyed for their wickedness."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 15,
+                            "name": "John Cassian: Confrences V 15:7",
+                            "text": "For it is not for thy righteousness, and the uprightness of thine heart, that thou shalt go in to possess their lands: but because they have done wickedly they are destroyed at thy coming in\"."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 15,
+                            "name": "John Cassian: Confrences V 15:8",
+                            "text": "I ask what could be said clearer in opposition to that impious notion and impertinence of ours, in which we want to ascribe everything that we do to our own free will and our own exertions? \"Say not,\" he tells us, \"in thine heart, when the Lord thy God shall have destroyed them in thy sight: For my righteousness the Lord hath brought me in to possess this land\"."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 15,
+                            "name": "John Cassian: Confrences V 15:9",
+                            "text": "To those who have their eyes opened and their ears ready to hearken does not this plainly say: When your struggle with carnal faults has gone well for you, and you see that you are free from the filth of them, and from the fashions of this world, do not be puffed up by the success of the conflict and victory and ascribe it to your own power and wisdom, nor fancy that you have gained the victory over spiritual wickedness and carnal sins through your own exertions and energy, and free will? For there is no doubt that in all this you could not possibly have succeeded, unless you had been fortified and protected by the help of the Lord."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 16,
+                    "name": "John Cassian: Confrences V 16",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 16,
+                            "name": "John Cassian: Confrences V 16:1",
+                            "text": "Chapter XVI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 16,
+                            "name": "John Cassian: Confrences V 16:2",
+                            "text": "Of the meaning of the seven nations of whose lands Israel took possession, and the reason why they are sometimes spoken of as \"seven,\" and sometimes as \"many\"."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 16,
+                            "name": "John Cassian: Confrences V 16:3",
+                            "text": "These are the seven nations whose lands the Lord promised to give to the children of Israel when they came out of Egypt."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 16,
+                            "name": "John Cassian: Confrences V 16:4",
+                            "text": "And everything which, as the Apostle says, happened to them \"in a figure\" we ought to take as written for our correction."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 16,
+                            "name": "John Cassian: Confrences V 16:5",
+                            "text": "For so we read: \"When the Lord thy God shall have brought thee into the land, which thou art going in to possess, and shall have destroyed many nations before thee, the Hittite, and the Girgashites, and the Amorite, the Canaanite, and the Perizzite, and the Hivite, and the Jebusite, seven nations much more numerous than thou art and much stronger than thou: and the Lord thy God shall have delivered them to thee, thou shalt utterly destroy them\"."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 16,
+                            "name": "John Cassian: Confrences V 16:6",
+                            "text": "And the reason that they are said to be much more numerous, is that faults are many more in number than virtues and so in the list of them the nations are reckoned as seven in number, but when the attack upon them is spoken of they are set down without their number being given, for thus we read \"And shall have destroyed many nations before thee\"."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 16,
+                            "name": "John Cassian: Confrences V 16:7",
+                            "text": "For the race of carnal passions which springs from this sevenfold incentive and root of sin, is more numerous than that of Israel."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 16,
+                            "name": "John Cassian: Confrences V 16:8",
+                            "text": "For thence spring up murders, strifes, heresies, thefts, false witness, blasphemy, surfeiting, drunkenness, back-biting, buffoonery, filthy conversation, lies, perjury, foolish talking, scurrility, restlessness, greediness, bitterness, clamour, wrath, contempt, murmuring, temptation, despair, and many other faults, which it would take too long to describe."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 16,
+                            "name": "John Cassian: Confrences V 16:9",
+                            "text": "And if we are inclined to think these small matters, let us hear what the Apostle thought about them, and what was his opinion of them: \"Neither murmur ye,\" says he, \"as some of them murmured, and were destroyed of the destroyer:\" and of temptation: \"Neither let us tempt Christ as some of them tempted and perished by the serpents\"."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 16,
+                            "name": "John Cassian: Confrences V 16:10",
+                            "text": "Of backbiting: \"Love not backbiting lest thou be rooted out\"."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 16,
+                            "name": "John Cassian: Confrences V 16:11",
+                            "text": "And of despair: \"Who despairing have given themselves up to lasciviousness unto the working of all error, in uncleanness\"."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 16,
+                            "name": "John Cassian: Confrences V 16:12",
+                            "text": "And that clamour is condemned as well as anger and indignation and blasphemy, the words of the same Apostle teach us as clearly as possible when he thus charges us: \"Let all bitterness, and anger, and indignation, and clamour, and blasphemy be put away from you with all malice,\" and many more things like these."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 16,
+                            "name": "John Cassian: Confrences V 16:13",
+                            "text": "And though these are far more numerous than the virtues are, yet if those eight principal sins, from which we know that these naturally proceed, are first overcome, all these at once sink down, and are destroyed together with them with a lasting destruction."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 16,
+                            "name": "John Cassian: Confrences V 16:14",
+                            "text": "For from gluttony proceed surfeiting and drunkenness."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 16,
+                            "name": "John Cassian: Confrences V 16:15",
+                            "text": "From fornication filthy conversation, scurrility, buffoonery and foolish talking."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 16,
+                            "name": "John Cassian: Confrences V 16:16",
+                            "text": "From covetousness, lying, deceit, theft, perjury, the desire of filthy lucre, false witness, violence, inhumanity, and greed."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 16,
+                            "name": "John Cassian: Confrences V 16:17",
+                            "text": "From anger, murders, clamour and indignation."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 16,
+                            "name": "John Cassian: Confrences V 16:18",
+                            "text": "From dejection, rancor, cowardice, bitterness, despair."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 16,
+                            "name": "John Cassian: Confrences V 16:19",
+                            "text": "From accidie, laziness, sleepiness, rudeness, restlessness, wandering about, instability both of mind and body, chattering, inquisitiveness."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 16,
+                            "name": "John Cassian: Confrences V 16:20",
+                            "text": "From vainglory, contention, heresies, boasting and confidence in novelties."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 16,
+                            "name": "John Cassian: Confrences V 16:21",
+                            "text": "From pride, contempt, envy, disobedience, blasphemy, murmuring, backbiting."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 16,
+                            "name": "John Cassian: Confrences V 16:22",
+                            "text": "And that all these plagues are stronger than we, we can tell very plainly from the way in which they attack us."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 16,
+                            "name": "John Cassian: Confrences V 16:23",
+                            "text": "For the delight in carnal passions wars more powerfully in our members than does the desire for virtue, which is only gained with the greatest contrition of heart and body."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 16,
+                            "name": "John Cassian: Confrences V 16:24",
+                            "text": "But if you will only gaze with the eyes of the spirit on those countless hosts of our foes, which the Apostle enumerates where he says: \"For we wrestle not against flesh and blood, but against principalities, against powers, against the world-rulers of this darkness, against spiritual wickedness in heavenly places,\" and this which we find of the righteous  man in the nineteenth Psalm: \"A thousand shall fall beside thee and ten thousand at thy right hand,\" then you will clearly see that they are far more numerous and more powerful than are we, carnal and earthly creatures as we are, while to them is given a substance which is spiritual and incorporeal."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 17,
+                    "name": "John Cassian: Confrences V 17",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 17,
+                            "name": "John Cassian: Confrences V 17:1",
+                            "text": "Chapter XVII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 17,
+                            "name": "John Cassian: Confrences V 17:2",
+                            "text": "A question with regard to the comparison of seven nations with eight faults."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 17,
+                            "name": "John Cassian: Confrences V 17:3",
+                            "text": "Germanus: How then is it that there are eight faults which assault us, when Moses reckons the nations opposed to the people of Israel as seven, and how is it well for us to take possession of the territory of our faults?."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 18,
+                    "name": "John Cassian: Confrences V 18",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 18,
+                            "name": "John Cassian: Confrences V 18:1",
+                            "text": "Chapter XVIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 18,
+                            "name": "John Cassian: Confrences V 18:2",
+                            "text": "Serapion: Everybody is perfectly agreed that there are eight principal faults which affect a monk."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 18,
+                            "name": "John Cassian: Confrences V 18:3",
+                            "text": "And all of them are not included in the figure of the nations for this reason, because in Deuteronomy Moses, or rather the Lord through him, was speaking to those who had already gone forth from Egypt and been set free from one most powerful nation, I mean that of the Egyptians."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 18,
+                            "name": "John Cassian: Confrences V 18:4",
+                            "text": "And we find that this figure holds good also in our case, as when we have got clear of the snares of this world we are found to be free from gluttony, i-e:, the sin of the belly and palate; and like them we have a conflict against these seven remaining nations, without taking account at all of the one which has been already overcome."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 18,
+                            "name": "John Cassian: Confrences V 18:5",
+                            "text": "And the land of this nation was not given to Israel for a possession, but the command of the Lord ordained that they should at once forsake it and go forth from it."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 18,
+                            "name": "John Cassian: Confrences V 18:6",
+                            "text": "And for this cause our fasts ought to be made moderate, that there may be no need for us through excessive abstinence, which results from weakness of the flesh and infirmity, to return again to the land of Egypt, i-e:, to our former greed and carnal lust which we forsook when we made our renunciation of this world."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 18,
+                            "name": "John Cassian: Confrences V 18:7",
+                            "text": "And this has happened in a figure, in those who after having gone forth into the desert of virtue again hanker after the flesh pots over which they sat in Egypt."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 19,
+                    "name": "John Cassian: Confrences V 19",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 19,
+                            "name": "John Cassian: Confrences V 19:1",
+                            "text": "Chapter XIX."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 19,
+                            "name": "John Cassian: Confrences V 19:2",
+                            "text": "The reason why one nation is to be forsaken, while seven are commanded to be destroyed."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 19,
+                            "name": "John Cassian: Confrences V 19:3",
+                            "text": "But the reason why that nation in which the children of Israel were born, was bidden not to be utterly destroyed but only to have its land forsaken, while it was commanded that these seven nations were to be completely destroyed, is this: because however great may be the ardour of spirit, inspired by which we have entered on the desert of virtues, yet we cannot possibly free ourselves entirely from the neighbourhood of gluttony or from its service and, so to speak, from daily intercourse with it."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 19,
+                            "name": "John Cassian: Confrences V 19:4",
+                            "text": "For the liking for delicacies and dainties will live on as something natural and innate in us, even though we take pains to cut off all superfluous appetites and desires, which, as they cannot be altogether destroyed, ought to be shunned and avoided."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 19,
+                            "name": "John Cassian: Confrences V 19:5",
+                            "text": "For of these we read \"Take no care for the flesh with its desires\"."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 19,
+                            "name": "John Cassian: Confrences V 19:6",
+                            "text": "While then we still retain the feeling for this care, which we are bidden not altogether to cut off, but to keep without its desires, it is clear that we do not destroy the Egyptian nation but separate ourselves in a sort of way from it, not thinking anything about luxuries and delicate feasts, but, as the Apostle says, being \"content with our daily food and clothing\"."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 19,
+                            "name": "John Cassian: Confrences V 19:7",
+                            "text": "And this is commanded in a figure in the law, in this way: \"Thou shalt not abhor the Egyptian, because thou wast a stranger in his land\"."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 19,
+                            "name": "John Cassian: Confrences V 19:8",
+                            "text": "For necessary food is not refused to the body without danger to it and sinfulness in the soul."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 19,
+                            "name": "John Cassian: Confrences V 19:9",
+                            "text": "But of those seven troublesome faults we must in every possible way root out the affections from the inmost recesses of our souls."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 19,
+                            "name": "John Cassian: Confrences V 19:10",
+                            "text": "For of them we read: \"Let all bitterness and anger and indignation and clamour and blasphemy be put away from you with all malice:\" and again: \"But fornication and all uncleanness and covetousness let it not so much as be named among you, or obscenity or foolish talking or scurrility\"."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 19,
+                            "name": "John Cassian: Confrences V 19:11",
+                            "text": "We can then cut out the roots of these faults which are grafted into our nature from without while we cannot possibly cut off occasions of gluttony."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 19,
+                            "name": "John Cassian: Confrences V 19:12",
+                            "text": "For however far we have advanced, we cannot help being what we were born."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 19,
+                            "name": "John Cassian: Confrences V 19:13",
+                            "text": "And that this is so we can show not only from the lives of little people like ourselves but from the lives and customs of all who have attained perfection, who even when they have  got rid of incentives to all other passions, and are retiring to the desert with perfect fervour of spirit and bodily abnegation, yet still cannot do without thought for their daily meal and the preparation of their food from year to year."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 20,
+                    "name": "John Cassian: Confrences V 20",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 20,
+                            "name": "John Cassian: Confrences V 20:1",
+                            "text": "Chapter XX."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 20,
+                            "name": "John Cassian: Confrences V 20:2",
+                            "text": "Of the nature of gluttony, which may be illustrated by the simile of the eagle."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 20,
+                            "name": "John Cassian: Confrences V 20:3",
+                            "text": "An admirable illustration of this passion, with which a monk, however spiritual and excellent, is sure to be hampered, is found in the simile of the eagle."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 20,
+                            "name": "John Cassian: Confrences V 20:4",
+                            "text": "For this bird when in its flight on high it has soared above the highest clouds, and has withdrawn itself from the eyes of all mortals and from the face of the whole earth, is yet compelled by the needs of the belly to drop down and descend to the earth and feed upon carrion and dead bodies."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 20,
+                            "name": "John Cassian: Confrences V 20:5",
+                            "text": "And this clearly shows that the spirit of gluttony cannot be altogether extirpated like all other faults, nor be entirely destroyed like them, but that we can only hold down and check by the power of the mind all incentives to it and all superfluous appetites."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 21,
+                    "name": "John Cassian: Confrences V 21",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 21,
+                            "name": "John Cassian: Confrences V 21:1",
+                            "text": "Chapter XXI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 21,
+                            "name": "John Cassian: Confrences V 21:2",
+                            "text": "Of the lasting character of gluttony as described to some philosophers."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 21,
+                            "name": "John Cassian: Confrences V 21:3",
+                            "text": "For the nature of this fault was admirably expressed under cover of the following puzzle by one of the Elders in a discussion with some philosophers, who thought that they might chaff him like a country bumpkin because of his Christian simplicity."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 21,
+                            "name": "John Cassian: Confrences V 21:4",
+                            "text": "\"My father,\" said he, \"left me in the clutches of a great many creditors."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 21,
+                            "name": "John Cassian: Confrences V 21:5",
+                            "text": "All the others I have paid in full, and have freed myself from all their pressing claims; but one I cannot satisfy even by a daily payment\"."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 21,
+                            "name": "John Cassian: Confrences V 21:6",
+                            "text": "And when they could not see the meaning of the puzzle, and urgently begged him to explain it: \"I was,\" said he, \"in my natural condition, encompassed by a great many faults."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 21,
+                            "name": "John Cassian: Confrences V 21:7",
+                            "text": "But when God inspired me with the longing to be free, I renounced this world, and at the same time gave up all my property which I had inherited from my father, and so I satisfied them all like pressing creditors, and freed myself entirely from them."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 21,
+                            "name": "John Cassian: Confrences V 21:8",
+                            "text": "But I was never able altogether to get rid of the incentives to gluttony."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 21,
+                            "name": "John Cassian: Confrences V 21:9",
+                            "text": "For though I reduce the quantity of food which I take to the smallest possible amount, yet I cannot avoid the force of its daily solicitations, but must be perpetually 'dunned' by it, and be making as it were interminable payments by continually satisfying it, and pay never ending toll at its demand\"."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 21,
+                            "name": "John Cassian: Confrences V 21:10",
+                            "text": "Then they declared that this man, whom they had till now despised as a booby and a country bumpkin, had thoroughly grasped the first principles of philosophy, i-e:, training in ethics, and they marvelled that he could by the light of nature have learnt that which no schooling in this world could have taught him, while they themselves with all their efforts and long course of training had not learnt this."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 21,
+                            "name": "John Cassian: Confrences V 21:11",
+                            "text": "This is enough on gluttony in particular."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 21,
+                            "name": "John Cassian: Confrences V 21:12",
+                            "text": "Now let us return to the discourse in which we had begun to consider the general relation of our faults to each other."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 22,
+                    "name": "John Cassian: Confrences V 22",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 22,
+                            "name": "John Cassian: Confrences V 22:1",
+                            "text": "Chapter XXII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 22,
+                            "name": "John Cassian: Confrences V 22:2",
+                            "text": "How it was that God foretold to Abraham that Israel would have to drive out ten nations."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 22,
+                            "name": "John Cassian: Confrences V 22:3",
+                            "text": "When the Lord was speaking with Abraham about the future (a point which you did not ask about) we find that He did not enumerate seven nations, but ten, whose land He promised to give to his seed."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 22,
+                            "name": "John Cassian: Confrences V 22:4",
+                            "text": "And this number is plainly made up by adding idolatry, and blasphemy, to whose dominion, before the knowledge of God and the grace of Baptism, both the irreligious hosts of the Gentiles and blasphemous ones of the Jews were subject, while they dwelt in a spiritual Egypt."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 22,
+                            "name": "John Cassian: Confrences V 22:5",
+                            "text": "But when a man has made his renunciation and come forth from thence, and having by God's grace conquered gluttony, has come into the spiritual wilderness, then he is free from the attacks of these three, and will only have to wage war against those seven which Moses enumerates."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 23,
+                    "name": "John Cassian: Confrences V 23",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 23,
+                            "name": "John Cassian: Confrences V 23:1",
+                            "text": "Chapter XXIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 23,
+                            "name": "John Cassian: Confrences V 23:2",
+                            "text": "How it is useful for us to take possession of their lands."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 23,
+                            "name": "John Cassian: Confrences V 23:3",
+                            "text": "But the fact that we are bidden for our good to take possession of the countries of those most wicked nations, may be understood in this way."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 23,
+                            "name": "John Cassian: Confrences V 23:4",
+                            "text": "Each fault has its own especial corner in the heart, which it claims for itself in the recesses of the soul, and drives out Israel, i-e:, the contemplation of holy and heavenly things, and never ceases to oppose them."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 23,
+                            "name": "John Cassian: Confrences V 23:5",
+                            "text": "For virtues cannot possibly live side by side with faults."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 23,
+                            "name": "John Cassian: Confrences V 23:6",
+                            "text": "\"For what participation hath righteousness with unrighteousness? Or what fellowship hath light with darkness?\" But as  soon as these faults have been overcome by the people of Israel, i-e:, by those virtues which war against them, then at once the place in our heart which the spirit of concupiscence and fornication had occupied, will be filled by chastity."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 23,
+                            "name": "John Cassian: Confrences V 23:7",
+                            "text": "That which wrath had held, will be claimed by patience."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 23,
+                            "name": "John Cassian: Confrences V 23:8",
+                            "text": "That which had been occupied by a sorrow that worketh death, will be taken by a godly sorrow and one full of joy."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 23,
+                            "name": "John Cassian: Confrences V 23:9",
+                            "text": "That which had been wasted by accidie, will at once be tilled by courage."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 23,
+                            "name": "John Cassian: Confrences V 23:10",
+                            "text": "That which pride had trodden down will be ennobled by humility: and so when each of these faults has been expelled, their places (that is the tendency towards them) will be filled by the opposite virtues which are aptly termed the children of Israel, that is, of the soul that seeth God: and when these have expelled all passions from the heart we may believe that they have recovered their own possessions rather than invaded those of others."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 24,
+                    "name": "John Cassian: Confrences V 24",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 24,
+                            "name": "John Cassian: Confrences V 24:1",
+                            "text": "Chapter XXIV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 24,
+                            "name": "John Cassian: Confrences V 24:2",
+                            "text": "How the lands from which the Canaanites were expelled, had been assigned to the seed of Shem."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 24,
+                            "name": "John Cassian: Confrences V 24:3",
+                            "text": "For, as an ancient tradition tells us, these same lands of the Canaanites into which the children of Israel were brought, had been formerly allotted to the children of Shem at the division of the world, and afterward the descendants of Ham wickedly invading them with force and violence took possession of them."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 24,
+                            "name": "John Cassian: Confrences V 24:4",
+                            "text": "And in this the righteous judgment of God is shown, as He expelled from the land of others these who had wrongfully taken possession of them, and restored to those others the ancient property of their fathers which had been assigned to their ancestors at the division of the world."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 24,
+                            "name": "John Cassian: Confrences V 24:5",
+                            "text": "And we can perfectly well see that this figure holds good in our own case."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 24,
+                            "name": "John Cassian: Confrences V 24:6",
+                            "text": "For by nature God's will assigned the possession of our heart not to vices but to virtues, which, after the fall of Adam were driven out from their own country by the sins which grew up, i-e:, by the Canaanites; and so when by God's grace they are by our efforts and labour restored again to it, we may hold that they have not occupied the territory of another, but rather have recovered their own country."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 25,
+                    "name": "John Cassian: Confrences V 25",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 25,
+                            "name": "John Cassian: Confrences V 25:1",
+                            "text": "Chapter XXV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 25,
+                            "name": "John Cassian: Confrences V 25:2",
+                            "text": "Different passages of Scripture on the meaning of the eight faults."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 25,
+                            "name": "John Cassian: Confrences V 25:3",
+                            "text": "And in reference to these eight faults we also have the following in the gospel: \"But when the unclean spirit is gone out from a man, he walketh through dry places seeking rest and findeth none."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 25,
+                            "name": "John Cassian: Confrences V 25:4",
+                            "text": "Then he saith, I will return to my house from whence I came out: and coming he findeth it empty, swept, and garnished: then he goeth and taketh seven other spirits worse than himself, and they enter in and dwell there: and the last state of that man is made worse than the first\"."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 25,
+                            "name": "John Cassian: Confrences V 25:5",
+                            "text": "Lo, just as in the former passages we read of seven nations besides that of the Egyptians from which the children of Israel had gone forth, so here too seven unclean spirits are said to return beside that one which we first hear of as going forth from the man."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 25,
+                            "name": "John Cassian: Confrences V 25:6",
+                            "text": "And of this sevenfold incentive of sins Solomon gives the following account in Proverbs: \"If thine enemy speak loud to thee, do not agree to him because there are seven mischiefs in his heart;\" i-e:, if the spirit of gluttony is overcome and begins to flatter you with having humiliated it, asking in a sort of way that you would relax something of the fervour with which you began, and yield to it something beyond what the due limits of abstinence, and measure of strict severity would allow, do not you be overcome by its submission, nor return in fancied security from its assaults, as you seem to have become for a time freed from carnal desires, to your previous state of carelessness or former liking for good things."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 25,
+                            "name": "John Cassian: Confrences V 25:7",
+                            "text": "For through this the spirit whom you have vanquished is saying \"I will return to my house from whence I came out,\" and forthwith the seven spirits of sins which proceed from it will prove to you more injurious than that passion which in the first instance you overcame, and will presently drag you down to worse kinds of sins."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 26,
+                    "name": "John Cassian: Confrences V 26",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 26,
+                            "name": "John Cassian: Confrences V 26:1",
+                            "text": "Chapter XXVI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 26,
+                            "name": "John Cassian: Confrences V 26:2",
+                            "text": "How when we have got the better of the passion of gluttony we must take pains to gain all the other virtues."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 26,
+                            "name": "John Cassian: Confrences V 26:3",
+                            "text": "Wherefore while we are practising fasting and abstinence, we must be careful when we have got the better of the passion of gluttony never to allow our mind to remain empty of the virtues of which we stand in need; but  we should the more earnestly fill the inmost recesses of our heart with them for fear lest the spirit of concupiscence should return and find us empty and void of them, and should not be content to secure an entrance there for himself alone, but should bring in with him into our heart this sevenfold incentive of sins and make our last state worse than the first."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 26,
+                            "name": "John Cassian: Confrences V 26:4",
+                            "text": "For the soul which boasts that it has renounced this world with the eight faults that hold sway over it, will afterwards be fouler and more unclean and visited with severer punishments, than it was when formerly it was at home in the world, when it had taken upon itself neither the rules nor the name of monk."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 26,
+                            "name": "John Cassian: Confrences V 26:5",
+                            "text": "For these seven spirits are said to be worse than the first which went forth, for this reason; because the love of good things, i-e:, gluttony would not be in itself harmful, were it not that it opened the door to other passions; viz, to fornication, covetousness, anger, dejection, and pride, which are clearly hurtful in themselves to the soul, and domineering over it."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 26,
+                            "name": "John Cassian: Confrences V 26:6",
+                            "text": "And therefore a man will never be able to gain perfect purity, if he hopes to secure it by means of abstinence alone, i-e:, bodily fasting, unless he knows that he ought to practise it for this reason that when the flesh is brought low by means of fasting, he may with greater ease enter the lists against other faults, as the flesh has not been habituated to gluttony and surfeiting."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 27,
+                    "name": "John Cassian: Confrences V 27",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 27,
+                            "name": "John Cassian: Confrences V 27:1",
+                            "text": "Chapter XXVII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 27,
+                            "name": "John Cassian: Confrences V 27:2",
+                            "text": "That our battles are not fought with our faults in the same order as that in which they stand in the list."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 27,
+                            "name": "John Cassian: Confrences V 27:3",
+                            "text": "But you must know that our battles are not all fought in the same order, because, as we mentioned that the attacks are not always made on us in the same way, each one of us ought also to begin the battle with due regard to the character of the attack which is especially made on him so that one man will have to fight his first battle against the fault which stands third on the list, another against that which is fourth or fifth."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 27,
+                            "name": "John Cassian: Confrences V 27:4",
+                            "text": "And in proportion as faults hold sway over us, and the character of their attack may demand, so we too ought to regulate the order of our conflict, in such a way that the happy result of a victory and triumph succeeding may insure our attainment of purity of heart and complete perfection."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 27,
+                            "name": "John Cassian: Confrences V 27:5",
+                            "text": "Thus far did Abbot Serapion discourse to us of the nature of the eight principal faults, and so clearly did he expound the different sorts of passions which are latent within us—the origin and connexion of which, though we were daily tormented by them, we could never before thoroughly understand and perceive—that we seemed almost to see them spread out before our eyes as in a mirror."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

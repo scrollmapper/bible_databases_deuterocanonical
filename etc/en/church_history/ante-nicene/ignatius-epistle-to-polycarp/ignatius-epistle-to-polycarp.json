@@ -1,0 +1,861 @@
+{
+    "books": [
+        {
+            "name": "Ignatius: Epistle to Polycarp",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Ignatius: Epistle to Polycarp 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Ignatius: Epistle to Polycarp 1:1",
+                            "text": "The Epistle of Ignatius to Polycarp Shorter and Longer Versions  Ignatius, who is also called Theophorus, to Polycarp, Bishop of the Church of the Smyrnaeans, or rather, who has, as his own bishop, God the Father, and the Lord Jesus Christ: wishes abundance of happiness."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Ignatius: Epistle to Polycarp 1:2",
+                            "text": "Ignatius, bishop of Antioch, and a witness for Jesus Christ, to Polycarp, Bishop of the Church of the Smyrnaeans, or rather, who has, as his own bishop, God the Father, and Jesus Christ: wishes abundance of happiness."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Ignatius: Epistle to Polycarp 1:3",
+                            "text": "Chapter 1 — Commendation and exhortation."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Ignatius: Epistle to Polycarp 1:4",
+                            "text": "Having obtained good proof that thy mind is fixed in God as upon an immoveable rock, I loudly glorify His name that I have been thought worthy to behold thy blameless face, which may I ever enjoy in God! I entreat thee, by the grace with which thou art clothed, to press forward in thy course, and to exhort all that they may be saved."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Ignatius: Epistle to Polycarp 1:5",
+                            "text": "Maintain thy position with all care, both in the flesh and spirit."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Ignatius: Epistle to Polycarp 1:6",
+                            "text": "Have a regard to preserve unity, than which nothing is better."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "Ignatius: Epistle to Polycarp 1:7",
+                            "text": "Bear with all, even as the Lord does with thee."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 1,
+                            "name": "Ignatius: Epistle to Polycarp 1:8",
+                            "text": "Support all in love, as also thou doest."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 1,
+                            "name": "Ignatius: Epistle to Polycarp 1:9",
+                            "text": "Give thyself to prayer without ceasing."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 1,
+                            "name": "Ignatius: Epistle to Polycarp 1:10",
+                            "text": "Implore additional understanding to what thou already hast."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 1,
+                            "name": "Ignatius: Epistle to Polycarp 1:11",
+                            "text": "Be watchful, possessing a sleepless spirit."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 1,
+                            "name": "Ignatius: Epistle to Polycarp 1:12",
+                            "text": "Speak to every man separately, as God enables thee."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 1,
+                            "name": "Ignatius: Epistle to Polycarp 1:13",
+                            "text": "Bear the infirmities of all, as being a perfect athlete in the Christian life: where the labour is great, the gain is all the more."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 1,
+                            "name": "Ignatius: Epistle to Polycarp 1:14",
+                            "text": "Having obtained good proof that thy mind is fixed in God as upon an immoveable rock, I loudly glorify His name that I have been thought worthy to behold thy blameless face, which may I ever enjoy in God! I entreat thee, by the grace with which thou art clothed, to press forward in thy course, and to exhort all that they may be saved."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 1,
+                            "name": "Ignatius: Epistle to Polycarp 1:15",
+                            "text": "Maintain thy position with all care, both in the flesh and spirit."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 1,
+                            "name": "Ignatius: Epistle to Polycarp 1:16",
+                            "text": "Have a regard to preserve unity, than which nothing is better."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 1,
+                            "name": "Ignatius: Epistle to Polycarp 1:17",
+                            "text": "Bear with all even as the Lord does with thee."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 1,
+                            "name": "Ignatius: Epistle to Polycarp 1:18",
+                            "text": "Support all in love, as also thou doest."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 1,
+                            "name": "Ignatius: Epistle to Polycarp 1:19",
+                            "text": "Give thyself to prayer without ceasing."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 1,
+                            "name": "Ignatius: Epistle to Polycarp 1:20",
+                            "text": "Implore additional understanding to what thou already hast."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 1,
+                            "name": "Ignatius: Epistle to Polycarp 1:21",
+                            "text": "Be watchful, possessing a sleepless spirit."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 1,
+                            "name": "Ignatius: Epistle to Polycarp 1:22",
+                            "text": "Speak to every man separately, as God enables thee."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 1,
+                            "name": "Ignatius: Epistle to Polycarp 1:23",
+                            "text": "Bear the infirmities of all, as being a perfect athlete in the Christian life, even as does the Lord of all."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 1,
+                            "name": "Ignatius: Epistle to Polycarp 1:24",
+                            "text": "For says the Scripture, \"He Himself took our infirmities, and bare our sicknesses\"."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 1,
+                            "name": "Ignatius: Epistle to Polycarp 1:25",
+                            "text": "Where the labour is great, the gain is all the more."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 2,
+                    "name": "Ignatius: Epistle to Polycarp 2",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 2,
+                            "name": "Ignatius: Epistle to Polycarp 2:1",
+                            "text": "Chapter 2 — Exhortations."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 2,
+                            "name": "Ignatius: Epistle to Polycarp 2:2",
+                            "text": "If thou lovest the good disciples, no thanks are due to thee on that account; but rather seek by meekness to subdue the more troublesome."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 2,
+                            "name": "Ignatius: Epistle to Polycarp 2:3",
+                            "text": "Every kind of wound is not healed with the same plaster."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 2,
+                            "name": "Ignatius: Epistle to Polycarp 2:4",
+                            "text": "Mitigate violent attacks of disease by gentle applications."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 2,
+                            "name": "Ignatius: Epistle to Polycarp 2:5",
+                            "text": "Be in all things \"wise as a serpent, and harmless as a dove\"."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 2,
+                            "name": "Ignatius: Epistle to Polycarp 2:6",
+                            "text": "For this purpose thou art composed of both flesh and spirit, that thou mayest deal tenderly with those evils that present themselves visibly before thee."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 2,
+                            "name": "Ignatius: Epistle to Polycarp 2:7",
+                            "text": "And as respects those that are not seen, pray that God would reveal them unto thee, in order that thou mayest be wanting in nothing, but mayest abound in every gift."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 2,
+                            "name": "Ignatius: Epistle to Polycarp 2:8",
+                            "text": "The times call for thee, as pilots do for the winds, and as one tossed with tempest seeks for the haven, so that both thou and those under thy care may attain to God."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 2,
+                            "name": "Ignatius: Epistle to Polycarp 2:9",
+                            "text": "Be sober as an athlete of God: the prize set before thee is immortality and eternal life, of which thou art also persuaded."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 2,
+                            "name": "Ignatius: Epistle to Polycarp 2:10",
+                            "text": "In all things may my soul be for thine, and my bonds also, which thou hast loved."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 2,
+                            "name": "Ignatius: Epistle to Polycarp 2:11",
+                            "text": "If thou lovest the good disciples, no thanks are due to thee on that account; but rather seek by meekness to subdue the more troublesome."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 2,
+                            "name": "Ignatius: Epistle to Polycarp 2:12",
+                            "text": "Every kind of wound is not healed with the same plaster."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 2,
+                            "name": "Ignatius: Epistle to Polycarp 2:13",
+                            "text": "Mitigate violent attacks of disease by gentle applications."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 2,
+                            "name": "Ignatius: Epistle to Polycarp 2:14",
+                            "text": "Be in all things \"wise as a serpent, and harmless always as a dove\"."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 2,
+                            "name": "Ignatius: Epistle to Polycarp 2:15",
+                            "text": "For this purpose thou art composed of both soul and body, art both fleshly and spiritual, that thou mayest correct those evils that present themselves visibly before thee; and as respects those that are not seen, mayest pray that these should be revealed to thee, so that thou mayest be wanting in nothing, but mayest abound in every gift."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 2,
+                            "name": "Ignatius: Epistle to Polycarp 2:16",
+                            "text": "The times call upon thee to pray."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 2,
+                            "name": "Ignatius: Epistle to Polycarp 2:17",
+                            "text": "For as the wind aids the pilot of a ship, and as havens are advantageous for safety to a tempest-tossed vessel, so is also prayer to thee, in order that thou mayest attain to God."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 2,
+                            "name": "Ignatius: Epistle to Polycarp 2:18",
+                            "text": "Be sober as an athlete of God, whose will is immortality and eternal life; of which thou art also persuaded."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 2,
+                            "name": "Ignatius: Epistle to Polycarp 2:19",
+                            "text": "In all things may my soul be for thine, and my bonds also, which thou hast loved."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 3,
+                    "name": "Ignatius: Epistle to Polycarp 3",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 3,
+                            "name": "Ignatius: Epistle to Polycarp 3:1",
+                            "text": "Chapter 3 — Exhortations."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 3,
+                            "name": "Ignatius: Epistle to Polycarp 3:2",
+                            "text": "Let not those who seem worthy of credit, but teach strange doctrines, fill thee with apprehension."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 3,
+                            "name": "Ignatius: Epistle to Polycarp 3:3",
+                            "text": "Stand firm, as does an anvil which is beaten."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 3,
+                            "name": "Ignatius: Epistle to Polycarp 3:4",
+                            "text": "It is the part of a noble athlete to be wounded, and yet to conquer."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 3,
+                            "name": "Ignatius: Epistle to Polycarp 3:5",
+                            "text": "And especially, we ought to bear all things for the sake of God, that He also may bear with us."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 3,
+                            "name": "Ignatius: Epistle to Polycarp 3:6",
+                            "text": "Be ever becoming more zealous than what thou art."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 3,
+                            "name": "Ignatius: Epistle to Polycarp 3:7",
+                            "text": "Weigh carefully the times."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 3,
+                            "name": "Ignatius: Epistle to Polycarp 3:8",
+                            "text": "Look for Him who is above all time, eternal and invisible, yet who became visible for our sakes; impalpable and impassible, yet who became passible on our account; and who in every kind of way suffered for our sakes."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 3,
+                            "name": "Ignatius: Epistle to Polycarp 3:9",
+                            "text": "Let not those who seem worthy of credit, but teach strange doctrines, fill thee with apprehension."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 3,
+                            "name": "Ignatius: Epistle to Polycarp 3:10",
+                            "text": "Stand firm, as does an anvil which is beaten."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 3,
+                            "name": "Ignatius: Epistle to Polycarp 3:11",
+                            "text": "It is the part of a noble athlete to be wounded, and yet to conquer."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 3,
+                            "name": "Ignatius: Epistle to Polycarp 3:12",
+                            "text": "And especially we ought to bear all things for the sake of God, that He also may bear with us, and bring us into His kingdom."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 3,
+                            "name": "Ignatius: Epistle to Polycarp 3:13",
+                            "text": "Add more and more to thy diligence; run thy race with increasing energy; weigh carefully the times."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 3,
+                            "name": "Ignatius: Epistle to Polycarp 3:14",
+                            "text": "Whilst thou art here, be a conqueror; for here is the course, and there are the crowns."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 3,
+                            "name": "Ignatius: Epistle to Polycarp 3:15",
+                            "text": "Look for Christ, the Son of God; who was before time, yet appeared in time; who was invisible by nature, yet visible in the flesh; who was impalpable, and could not be touched, as being without a body, but for our sakes became such, might be touched and handled in the body; who was impassible as God, but became passible for our sakes as man; and who in every kind of way suffered for our sakes."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 4,
+                    "name": "Ignatius: Epistle to Polycarp 4",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 4,
+                            "name": "Ignatius: Epistle to Polycarp 4:1",
+                            "text": "Chapter 4 — Exhortations."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 4,
+                            "name": "Ignatius: Epistle to Polycarp 4:2",
+                            "text": "Let not widows be neglected."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 4,
+                            "name": "Ignatius: Epistle to Polycarp 4:3",
+                            "text": "Be thou, after the Lord, their protector and friend."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 4,
+                            "name": "Ignatius: Epistle to Polycarp 4:4",
+                            "text": "Let nothing be done without thy consent; neither do thou anything without the approval of God, which indeed thou dost not, inasmuch as thou art stedfast."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 4,
+                            "name": "Ignatius: Epistle to Polycarp 4:5",
+                            "text": "Let your assembling together be of frequent occurrence: seek after all by name."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 4,
+                            "name": "Ignatius: Epistle to Polycarp 4:6",
+                            "text": "Do not despise either male or female slaves, yet neither let them be puffed up with conceit, but rather let them submit themselves the more, for the glory of God, that they may obtain from God a better liberty."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 4,
+                            "name": "Ignatius: Epistle to Polycarp 4:7",
+                            "text": "Let them not long to be set free from slavery at the public expense, that they be not found slaves to their own desires."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 4,
+                            "name": "Ignatius: Epistle to Polycarp 4:8",
+                            "text": "Let not the widows be neglected."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 4,
+                            "name": "Ignatius: Epistle to Polycarp 4:9",
+                            "text": "Be thou, after the Lord, their protector and friend."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 4,
+                            "name": "Ignatius: Epistle to Polycarp 4:10",
+                            "text": "Let nothing be done without thy consent; neither do thou anything without the approval of God, which indeed thou doest not."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 4,
+                            "name": "Ignatius: Epistle to Polycarp 4:11",
+                            "text": "Be thou stedfast."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 4,
+                            "name": "Ignatius: Epistle to Polycarp 4:12",
+                            "text": "Let your assembling together be of frequent occurrence: seek after all by name."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 4,
+                            "name": "Ignatius: Epistle to Polycarp 4:13",
+                            "text": "Do not despise either male or female slaves, yet neither let them be puffed up with conceit, but rather let them submit themselves the more, for the glory of God, that they may obtain from God a better liberty."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 4,
+                            "name": "Ignatius: Epistle to Polycarp 4:14",
+                            "text": "Let them not wish to be set free from slavery at the public expense, that they be not found slaves to their own desires."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 5,
+                    "name": "Ignatius: Epistle to Polycarp 5",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 5,
+                            "name": "Ignatius: Epistle to Polycarp 5:1",
+                            "text": "Chapter 5 — The duties of husbands and wives."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 5,
+                            "name": "Ignatius: Epistle to Polycarp 5:2",
+                            "text": "Flee evil arts; but all the more discourse in public regarding them."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 5,
+                            "name": "Ignatius: Epistle to Polycarp 5:3",
+                            "text": "Speak to my sisters, that they love the Lord, and be satisfied with their husbands both in the flesh and spirit."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 5,
+                            "name": "Ignatius: Epistle to Polycarp 5:4",
+                            "text": "In like manner also, exhort my brethren, in the name of Jesus Christ, that they love their wives, even as the Lord the Church."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 5,
+                            "name": "Ignatius: Epistle to Polycarp 5:5",
+                            "text": "If any one can continue in a state of purity, to the honour of Him who is Lord of the flesh, let him so remain without boasting."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 5,
+                            "name": "Ignatius: Epistle to Polycarp 5:6",
+                            "text": "If he begins to boast, he is undone; and if he reckon himself greater than the bishop, he is ruined."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 5,
+                            "name": "Ignatius: Epistle to Polycarp 5:7",
+                            "text": "But it becomes both men and women who marry, to form their union with the approval of the bishop, that their marriage may be according to God, and not after their own lust."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 5,
+                            "name": "Ignatius: Epistle to Polycarp 5:8",
+                            "text": "Let all things be done to the honour of God."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 5,
+                            "name": "Ignatius: Epistle to Polycarp 5:9",
+                            "text": "Flee evil arts; but all the more discourse in public regarding them."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 5,
+                            "name": "Ignatius: Epistle to Polycarp 5:10",
+                            "text": "Speak to my sisters, that they love the Lord, and be satisfied with their husbands both in the flesh and spirit."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 5,
+                            "name": "Ignatius: Epistle to Polycarp 5:11",
+                            "text": "In like manner also, exhort my brethren, in the name of Jesus Christ, that they love their wives, even as the Lord the Church."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 5,
+                            "name": "Ignatius: Epistle to Polycarp 5:12",
+                            "text": "If any one can continue in a state of purity, to the honour of the flesh of the Lord, let him so remain without boasting."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 5,
+                            "name": "Ignatius: Epistle to Polycarp 5:13",
+                            "text": "If he shall boast, he is undone; and if he seeks to be more prominent than the bishop, he is ruined."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 5,
+                            "name": "Ignatius: Epistle to Polycarp 5:14",
+                            "text": "But it becomes both men and women who marry, to form their union with the approval of the bishop, that their marriage may be according to the Lord, and not after their own lust."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 5,
+                            "name": "Ignatius: Epistle to Polycarp 5:15",
+                            "text": "Let all things be done to the honour of God."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 6,
+                    "name": "Ignatius: Epistle to Polycarp 6",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 6,
+                            "name": "Ignatius: Epistle to Polycarp 6:1",
+                            "text": "Chapter 6 — The duties of the Christian flock."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 6,
+                            "name": "Ignatius: Epistle to Polycarp 6:2",
+                            "text": "Give ye heed to the bishop, that God also may give heed to you."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 6,
+                            "name": "Ignatius: Epistle to Polycarp 6:3",
+                            "text": "My soul be for theirs that are submissive to the bishop, to the presbyters, and to the deacons, and may my portion be along with them in God! Labour together with one another; strive in company together; run together; suffer together; sleep together; and awake together, as the stewards, and associates, and servants of God."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 6,
+                            "name": "Ignatius: Epistle to Polycarp 6:4",
+                            "text": "Please ye Him under whom ye fight, and from whom ye receive your wages."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 6,
+                            "name": "Ignatius: Epistle to Polycarp 6:5",
+                            "text": "Let none of you be found a deserter."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 6,
+                            "name": "Ignatius: Epistle to Polycarp 6:6",
+                            "text": "Let your baptism endure as your arms; your faith as your helmet; your love as your spear; your patience as a complete panoply."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 6,
+                            "name": "Ignatius: Epistle to Polycarp 6:7",
+                            "text": "Let your works be the charge assigned to you, that ye may receive a worthy recompense."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 6,
+                            "name": "Ignatius: Epistle to Polycarp 6:8",
+                            "text": "Be long-suffering, therefore, with one another, in meekness, as God is towards you."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 6,
+                            "name": "Ignatius: Epistle to Polycarp 6:9",
+                            "text": "May I have joy of you for ever!  Give ye heed to the bishop, that God also may give heed to you."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 6,
+                            "name": "Ignatius: Epistle to Polycarp 6:10",
+                            "text": "My soul be for theirs that are submissive to the bishop, to the presbytery, and to the deacons: may I have my portion with them from God! Labour together with one another; strive in company together; run together; suffer together; sleep together; and awake together, as the stewards, and associates, and servants of God."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 6,
+                            "name": "Ignatius: Epistle to Polycarp 6:11",
+                            "text": "Please ye Him under whom ye fight, and from whom ye shall receive your wages."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 6,
+                            "name": "Ignatius: Epistle to Polycarp 6:12",
+                            "text": "Let none of you be found a deserter."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 6,
+                            "name": "Ignatius: Epistle to Polycarp 6:13",
+                            "text": "Let your baptism endure as your arms; your faith as your helmet; your love as your spear; your patience as a complete panoply."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 6,
+                            "name": "Ignatius: Epistle to Polycarp 6:14",
+                            "text": "Let your works be the charge assigned to you, that you may obtain for them a most worthy recompense."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 6,
+                            "name": "Ignatius: Epistle to Polycarp 6:15",
+                            "text": "Be long-suffering, therefore, with one another, in meekness, and God shall be so with you."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 6,
+                            "name": "Ignatius: Epistle to Polycarp 6:16",
+                            "text": "May I have joy of you for ever!."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 7,
+                    "name": "Ignatius: Epistle to Polycarp 7",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 7,
+                            "name": "Ignatius: Epistle to Polycarp 7:1",
+                            "text": "Chapter 7 — Request that Polycarp would send a messenger to Antioch."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 7,
+                            "name": "Ignatius: Epistle to Polycarp 7:2",
+                            "text": "Seeing that the Church which is at Antioch in Syria is, as report has informed me, at peace, through your prayers, I also am the more encouraged, resting without anxiety in God, if indeed by means of suffering I may attain to God, so that, through your prayers, I may be found a disciple of Christ."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 7,
+                            "name": "Ignatius: Epistle to Polycarp 7:3",
+                            "text": "It is fitting, O Polycarp, most blessed in God, to assemble a very solemn council, and to elect one whom you greatly love, and know to be a man of activity, who may be designated the messenger of God; and to bestow on him this honour that he may go into Syria, and glorify your ever active love to the praise of Christ."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 7,
+                            "name": "Ignatius: Epistle to Polycarp 7:4",
+                            "text": "A Christian has not power over himself, but must always be ready for the service of God."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 7,
+                            "name": "Ignatius: Epistle to Polycarp 7:5",
+                            "text": "Now, this work is both God's and yours, when ye shall have completed it to His glory."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 7,
+                            "name": "Ignatius: Epistle to Polycarp 7:6",
+                            "text": "For I trust that, through grace, ye are prepared for every good work pertaining to God."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 7,
+                            "name": "Ignatius: Epistle to Polycarp 7:7",
+                            "text": "Knowing, therefore, your energetic love of the truth, I have exhorted you by this brief Epistle."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 7,
+                            "name": "Ignatius: Epistle to Polycarp 7:8",
+                            "text": "Seeing that the Church which is at Antioch in Syria is, as report has informed me, at peace, through your prayers, I also am the more encouraged, resting without anxiety in God, if indeed by means of suffering I may attain to God, so that, through your prayers, I may be found a disciple of Christ."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 7,
+                            "name": "Ignatius: Epistle to Polycarp 7:9",
+                            "text": "It is fitting, O Polycarp, most blessed in God, to assemble a very solemn council, and to elect one whom you greatly love, and know to be a man of activity, who may be designated the messenger of God; and to bestow on him the honour of going into Syria, so that, going into Syria, he may glorify your ever active love to the praise of God."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 7,
+                            "name": "Ignatius: Epistle to Polycarp 7:10",
+                            "text": "A Christian has not power over himself, but must always be ready for the service of God."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 7,
+                            "name": "Ignatius: Epistle to Polycarp 7:11",
+                            "text": "Now, this work is both God's and yours, when ye shall have completed it."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 7,
+                            "name": "Ignatius: Epistle to Polycarp 7:12",
+                            "text": "For I trust that, through grace, ye are prepared for every good work pertaining to God."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 7,
+                            "name": "Ignatius: Epistle to Polycarp 7:13",
+                            "text": "Knowing your energetic love of the truth, I have exhorted you by this brief Epistle."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 8,
+                    "name": "Ignatius: Epistle to Polycarp 8",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 8,
+                            "name": "Ignatius: Epistle to Polycarp 8:1",
+                            "text": "Chapter 8 — Let other churches also send to Antioch."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 8,
+                            "name": "Ignatius: Epistle to Polycarp 8:2",
+                            "text": "Inasmuch as I have not been able to write to all the Churches, because I must suddenly sail from Troas to Neapolis, as the will of the emperor enjoins, I beg that thou, as being acquainted with the purpose of God, wilt write to the adjacent Churches, that they also may act in like manner, such as are able to do so sending messengers, and the others transmitting letters through those persons who are sent by thee, that thou mayest be glorified by a work which shall be remembered for ever, as indeed thou art worthy to be."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 8,
+                            "name": "Ignatius: Epistle to Polycarp 8:3",
+                            "text": "I salute all by name, and in particular the wife of Epitropus, with all her house and children."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 8,
+                            "name": "Ignatius: Epistle to Polycarp 8:4",
+                            "text": "I salute Attalus, my beloved."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 8,
+                            "name": "Ignatius: Epistle to Polycarp 8:5",
+                            "text": "I salute him who shall be deemed worthy to go from you into Syria."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 8,
+                            "name": "Ignatius: Epistle to Polycarp 8:6",
+                            "text": "Grace shall be with him for ever, and with Polycarp that sends him."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 8,
+                            "name": "Ignatius: Epistle to Polycarp 8:7",
+                            "text": "I pray for your happiness for ever in our God, Jesus Christ, by whom continue ye in the unity and under the protection of God, I salute Alce, my dearly beloved."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 8,
+                            "name": "Ignatius: Epistle to Polycarp 8:8",
+                            "text": "Fare ye well in the Lord."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 8,
+                            "name": "Ignatius: Epistle to Polycarp 8:9",
+                            "text": "Inasmuch, therefore, as I have not been able to write to all Churches, because I must suddenly sail from Troas to Neapolis, as the will of the emperor enjoins, I beg that thou, as being acquainted with the purpose of God, wilt write to the adjacent Churches, that they also may act in like manner, such as are able to do so sending messenger, and the others transmitting letters through those persons who are sent by thee, that thou mayest be glorified by a work which shall be remembered for ever, as indeed thou art worthy to be."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 8,
+                            "name": "Ignatius: Epistle to Polycarp 8:10",
+                            "text": "I salute all by name, and in particular the wife of Epitropus, with all her house and children."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 8,
+                            "name": "Ignatius: Epistle to Polycarp 8:11",
+                            "text": "I salute Attalus, my beloved."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 8,
+                            "name": "Ignatius: Epistle to Polycarp 8:12",
+                            "text": "I salute him who shall be deemed worthy to go from you into Syria."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 8,
+                            "name": "Ignatius: Epistle to Polycarp 8:13",
+                            "text": "Grace shall be with him for ever, and with Polycarp that sends him."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 8,
+                            "name": "Ignatius: Epistle to Polycarp 8:14",
+                            "text": "I pray for your happiness for ever in our God, Jesus Christ, by whom continue ye in the unity and under the protection of God."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 8,
+                            "name": "Ignatius: Epistle to Polycarp 8:15",
+                            "text": "I salute Alce, my dearly beloved, Amen."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 8,
+                            "name": "Ignatius: Epistle to Polycarp 8:16",
+                            "text": "Grace be with you."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 8,
+                            "name": "Ignatius: Epistle to Polycarp 8:17",
+                            "text": "Fare ye well in the Lord."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,909 @@
+{
+    "books": [
+        {
+            "name": "Augustine: On the Trinity Book VI",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Augustine: On the Trinity Book VI 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Augustine: On the Trinity Book VI 1:1",
+                            "text": "Book VI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Augustine: On the Trinity Book VI 1:2",
+                            "text": "The question is proposed, how the apostle calls Christ \"the power of God, and the wisdom of God\"."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Augustine: On the Trinity Book VI 1:3",
+                            "text": "And an argument is raised, whether the Father is not wisdom Himself, but only the Father of wisdom; or whether Wisdom begat Wisdom."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Augustine: On the Trinity Book VI 1:4",
+                            "text": "But the answer to this is deferred for a little, while the unity and equality of the Father, and of the Son, and of the Holy Ghost, are proved; and that we ought to believe in a Trinity, not in a threefold (triplicem) god."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Augustine: On the Trinity Book VI 1:5",
+                            "text": "Lastly, that saying of Hilary is explained, eternity in the Father, appearance in the image, use in the gift."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Augustine: On the Trinity Book VI 1:6",
+                            "text": "Chapter 1 —The Son, According to the Apostle, is the Power and Wisdom of the Father."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "Augustine: On the Trinity Book VI 1:7",
+                            "text": "Hence the Reasoning of the Catholics Against the Earlier Arians."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 1,
+                            "name": "Augustine: On the Trinity Book VI 1:8",
+                            "text": "A Difficulty is Raised, Whether the Father is Not Wisdom Himself, But Only the Father of Wisdom."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 1,
+                            "name": "Augustine: On the Trinity Book VI 1:9",
+                            "text": "1  Somethink themselves hindered from admitting the equality of the Father, Son, and Holy Spirit, because it is written, \"Christ, the power of God, and the wisdom of God;\" in that, on this ground, there does not appear to be equality; because the Father is not Himself power and wisdom, but the begetter of power and wisdom."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 1,
+                            "name": "Augustine: On the Trinity Book VI 1:10",
+                            "text": "And, in truth, the question is usually asked with no common earnestness, in what way God can be called the Father of power and wisdom."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 1,
+                            "name": "Augustine: On the Trinity Book VI 1:11",
+                            "text": "For the apostle says, \"Christ the power of God, and the wisdom of God\"."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 1,
+                            "name": "Augustine: On the Trinity Book VI 1:12",
+                            "text": "And hence some on our side have reasoned in this way against the Arians, at least against those who at first set themselves up against the Catholic faith."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 1,
+                            "name": "Augustine: On the Trinity Book VI 1:13",
+                            "text": "For Arius himself is reported to have said, that if He is a Son, then He was born; if He was born, there was a time when the Son was not: not understanding that even to be born is, to God, from all eternity; so that the Son is co-eternal with the Father, as the brightness which is produced and is spread around by fire is co-eval with it, and would be co-eternal, if fire were eternal."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 1,
+                            "name": "Augustine: On the Trinity Book VI 1:14",
+                            "text": "And therefore some of the later Arians have abandoned that opinion, and have confessed that the Son of God did not begin to be in time."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 1,
+                            "name": "Augustine: On the Trinity Book VI 1:15",
+                            "text": "But among the arguments which those on our side used to hold against them who said that there was a time when the Son was not, some were wont to introduce such an argument as this: If the Son of God is the power and wisdom of God, and God was never without power and wisdom, then the Son is co-eternal with God the Father; but the apostle says, \"Christ the power of God, and the wisdom of God;\" and a man must be senseless to say that God at any time had not power or wisdom; therefore there was no time when the Son was not."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 1,
+                            "name": "Augustine: On the Trinity Book VI 1:16",
+                            "text": "2  Now this argument compels us to say that God the Father is not wise, except by having the wisdom which He begat, not by the Father in Himself being wisdom itself."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 1,
+                            "name": "Augustine: On the Trinity Book VI 1:17",
+                            "text": "Further, if it be so, just as the Son also Himself is called God of God, Light of Light, we must consider whether He can be called wisdom of wisdom, if God the Father is not wisdom itself, but only the begetter of wisdom."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 1,
+                            "name": "Augustine: On the Trinity Book VI 1:18",
+                            "text": "And if we hold this, why is He not the begetter also of His own greatness, and of His own goodness, and of His own eternity, and of His own omnipotence; so that He is not Himself His own greatness, and His own goodness, and His own eternity, and His own omnipotence; but is great with that greatness which He begat, and good with that goodness, and eternal with that eternity, and omnipotent with that omnipotence, which was born of Him; just as He Himself is not His own wisdom, but is wise with that wisdom which was born of Him? For we need not be afraid of being compelled to say that there are many sons of God, over and above the adoption of the creature, co-eternal with the Father, if He be the begetter of His own greatness, and goodness, and eternity, and omnipotence."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 1,
+                            "name": "Augustine: On the Trinity Book VI 1:19",
+                            "text": "Because it is easy to reply to this cavil, that it does not at all follow, because many things are named, that He should be the Father of many co-eternal sons; just as it does not follow that He is the Father of two sons, because Christ is said to be the power of God, and the wisdom of God."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 1,
+                            "name": "Augustine: On the Trinity Book VI 1:20",
+                            "text": "For that certainly is the power which is the wisdom, and that is the wisdom which is the power; and in like manner, therefore, of the rest also; so that that is the greatness which is the power, or any other of those things which either have been mentioned above, or may hereafter be mentioned."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 2,
+                    "name": "Augustine: On the Trinity Book VI 2",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 2,
+                            "name": "Augustine: On the Trinity Book VI 2:1",
+                            "text": "Chapter 2."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 2,
+                            "name": "Augustine: On the Trinity Book VI 2:2",
+                            "text": "—What is Said of the Father and Son Together, and What Not."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 2,
+                            "name": "Augustine: On the Trinity Book VI 2:3",
+                            "text": "3  But if nothing is spoken of the Father as such, except that which is spoken of Him in relation to the Son, that is, that He is His father, or begetter, or beginning; and if also the begetter is by consequence a beginning to that which he begets of himself; but whatever else is spoken of Him is so spoken as with the Son, or rather in the Son; whether that He is great with that greatness which He begat, or just with that justice which He begat, or good with that goodness which He begat, or powerful with that force or power which He begat, or wise with that wisdom which He begat: yet the Father is not said to be greatness itself, but the begetter of greatness; but the Son, as He is called the Son as such, is not so called with the Father but in relation to the Father, so is not great in and by himself, but with the Father, of whom He is the greatness; and so also is called wise with the Father, of whom He Himself is the wisdom; just as the Father is called wise with the Son, because He is wise with that wisdom which He begat; therefore the one is not called without the other, whatever they are called in respect to themselves; that is, whatever they are called that manifests their essential nature, both are so called together;—if these things are so, then the Father is not God without the Son, nor the Son God without the Father, but both together are God."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 2,
+                            "name": "Augustine: On the Trinity Book VI 2:4",
+                            "text": "And that which is said, \"In the beginning was the Word,\" means that the Word was in the Father."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 2,
+                            "name": "Augustine: On the Trinity Book VI 2:5",
+                            "text": "Or if \"In the beginning\" is intended to mean, Before all things; then in that which follows, \"And the Word was with God,\" the Son alone is understood to be the Word, not the Father and Son together, as though both were one Word (for He is the Word in the same way as He is the Image, but the Father and Son are not both together the Image, but the Son alone is the Image of the Father: just as He is also the Son of the Father, for both together are not the Son)."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 2,
+                            "name": "Augustine: On the Trinity Book VI 2:6",
+                            "text": "But in that which is added, \"And the Word was with God,\" there is much reason to understand thus: \"The Word,\" which is the Son alone, \"was with God,\" which is not the Father alone, but God the Father and the Son together."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 2,
+                            "name": "Augustine: On the Trinity Book VI 2:7",
+                            "text": "But what wonder is there, if this can be said in the case of some twofold things widely different from each other? For what are so different as soul and body? Yet we can say the soul was with a man, that is, in a man; although the soul is not the body, and man is both soul and body together."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 2,
+                            "name": "Augustine: On the Trinity Book VI 2:8",
+                            "text": "So that what follows in the Scripture, \"And the Word was God,\" may be understood thus: The Word, which is not the Father, was God together with the Father."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 2,
+                            "name": "Augustine: On the Trinity Book VI 2:9",
+                            "text": "Are we then to say thus, that the Father is the begetter of His own greatness, that is, the begetter of His own power, or the begetter of His own wisdom; and that the Son is greatness, and power, and wisdom; but that the great, omnipotent, and wise God, is both together? How then God of God, Light of Light? For not both together are God of God, but only the Son is of God, that is to say, of the Father; nor are both together Light of Light, but the Son only is of Light, that is, of the Father."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 2,
+                            "name": "Augustine: On the Trinity Book VI 2:10",
+                            "text": "Unless, perhaps, it was in order to intimate and inculcate briefly that the Son is co-eternal with the Father, that it is said, God of God, and Light of Light, or anything else of the like kind: as if to say, This which is not the Son without the Father, of this which is not the Father without the Son; that is, this Light which is not Light without the Father, of that Light, viz."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 2,
+                            "name": "Augustine: On the Trinity Book VI 2:11",
+                            "text": "the Father, which is not Light without the Son; so that, when it is said, God which is not the Son without the Father, and of God which is not the Father without the Son, it may be perfectly understood that the Begetter did not precede that which He begot."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 2,
+                            "name": "Augustine: On the Trinity Book VI 2:12",
+                            "text": "And if this be so, then this alone cannot be said of them, namely, this or that of this or that, which they are not both together."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 2,
+                            "name": "Augustine: On the Trinity Book VI 2:13",
+                            "text": "Just as the Word cannot be said to be of the Word, because both are not the Word together, but only the Son; nor image of image, since they are not both together the image; nor Son of Son, since both together are not the Son, according to that which is said, \"I and my Father are one\"."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 2,
+                            "name": "Augustine: On the Trinity Book VI 2:14",
+                            "text": "For \"we are one\" means, what He is, that am I also; according to essence, not according to relation."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 3,
+                    "name": "Augustine: On the Trinity Book VI 3",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 3,
+                            "name": "Augustine: On the Trinity Book VI 3:1",
+                            "text": "Chapter 3 —That the Unity of the Essence of the Father and the Son is to Be Gathered from the Words, \"We are One\"."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 3,
+                            "name": "Augustine: On the Trinity Book VI 3:2",
+                            "text": "The Son is Equal to the Father Both in Wisdom and in All Other Things."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 3,
+                            "name": "Augustine: On the Trinity Book VI 3:3",
+                            "text": "4  And I know not whether the words, \"They are one,\" are ever found in Scripture as spoken of things of which the nature is different."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 3,
+                            "name": "Augustine: On the Trinity Book VI 3:4",
+                            "text": "But if there are more things than one of the same nature, and they differ in sentiment, they are not one, and that so far as they differ in sentiment."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 3,
+                            "name": "Augustine: On the Trinity Book VI 3:5",
+                            "text": "For if the disciples were already one by the fact of being men, He would not say, \"That they may be one, as we are one,\" when commending them to the Father."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 3,
+                            "name": "Augustine: On the Trinity Book VI 3:6",
+                            "text": "But because Paul and Apollos were both alike men, and also of like sentiments, \"He that planteth,\" he says, \"and he that watereth are one\"."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 3,
+                            "name": "Augustine: On the Trinity Book VI 3:7",
+                            "text": "When, therefore, anything is so called one, that it is not added in what it is one, and yet more things than one are called one, then the same essence and nature is signified, not differing nor disagreeing."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 3,
+                            "name": "Augustine: On the Trinity Book VI 3:8",
+                            "text": "But when it is added in what it is one, it may be meant that something is made one out of things more than one, though they are different in nature."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 3,
+                            "name": "Augustine: On the Trinity Book VI 3:9",
+                            "text": "As soul and body are assuredly not one; for, what are so different? unless there be added, or understood in what they are one, that is, one man, or one animal [person]."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 3,
+                            "name": "Augustine: On the Trinity Book VI 3:10",
+                            "text": "Thence the apostle says, \"He who is joined to a harlot, is one body;\" he does not say, they are one or he is one; but he has added \"body,\" as though it were one body composed by being joined together of two different bodies, masculine and feminine."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 3,
+                            "name": "Augustine: On the Trinity Book VI 3:11",
+                            "text": "And, \"He that is joined unto the Lord,\" he says,\" is one spirit:\" he did not say, he that is joined unto the Lord is one, or they are one; but he added, \"spirit\"."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 3,
+                            "name": "Augustine: On the Trinity Book VI 3:12",
+                            "text": "For the spirit of man and the Spirit of God are different in nature; but by being joined they become one spirit of two different spirits, so that the Spirit of God is blessed and perfect without the human spirit, but the spirit of man cannot be blessed without God."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 3,
+                            "name": "Augustine: On the Trinity Book VI 3:13",
+                            "text": "Nor is it without cause, I think, that when the Lord said so much in the Gospel according to John, and so often, of unity itself, whether of His own with the Father, or of ours interchangeably with ourselves; He has nowhere said, that we are also one with Himself, but, \"that they maybe one as we also are one\"."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 3,
+                            "name": "Augustine: On the Trinity Book VI 3:14",
+                            "text": "Therefore the Father and the Son are one, undoubtedly according to unity of substance; and there is one God, and one great, and one wise, as we have argued."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 3,
+                            "name": "Augustine: On the Trinity Book VI 3:15",
+                            "text": "5  Whence then is the Father greater? For if greater, He is greater by greatness; but whereas the Son is His greatness, neither assuredly is the Son greater than He who begat Him, nor is the Father greater than that greatness, whereby He is great; therefore they are equal."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 3,
+                            "name": "Augustine: On the Trinity Book VI 3:16",
+                            "text": "For whence is He equal, if not in that which He is, to whom it is not one thing to be, and another to be great? Or if the Father is greater in eternity, the Son is not equal in anything whatsoever."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 3,
+                            "name": "Augustine: On the Trinity Book VI 3:17",
+                            "text": "For whence equal? If you say in greatness, that greatness is not equal which is less eternal, and so of all things else."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 3,
+                            "name": "Augustine: On the Trinity Book VI 3:18",
+                            "text": "Or is He perhaps equal in power, but not equal in wisdom? But how is that power which is less wise, equal? Or is He equal in wisdom, but not equal in power? But how is that wisdom equal which is less powerful? It remains, therefore, that if He is not equal in anything, He is not equal in all."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 3,
+                            "name": "Augustine: On the Trinity Book VI 3:19",
+                            "text": "But Scripture proclaims, that \"He thought it not robbery to be equal with God\"."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 3,
+                            "name": "Augustine: On the Trinity Book VI 3:20",
+                            "text": "Therefore any adversary of the truth whatever, provided he feels bound by apostolical authority, must needs confess that the Son is equal with God in each one thing whatsoever."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 3,
+                            "name": "Augustine: On the Trinity Book VI 3:21",
+                            "text": "Let him choose that which he will; from it he will be shown, that He is equal in all things which are said of His substance."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 4,
+                    "name": "Augustine: On the Trinity Book VI 4",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 4,
+                            "name": "Augustine: On the Trinity Book VI 4:1",
+                            "text": "Chapter 4 —The Same Argument Continued."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 4,
+                            "name": "Augustine: On the Trinity Book VI 4:2",
+                            "text": "6  For in like manner the virtues which are in the human mind, although each has its own several and different meaning, yet are in no way mutually separable; so that, for instance, whosoever were equal in courage, are equal also in prudence, and temperance, and justice."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 4,
+                            "name": "Augustine: On the Trinity Book VI 4:3",
+                            "text": "For if you say that such and such men are equal in courage, but that one of them is greater in prudence, it follows that the courage of the other is less prudent, and so neither are they equal in courage, since the courage of the former is more prudent."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 4,
+                            "name": "Augustine: On the Trinity Book VI 4:4",
+                            "text": "And so you will find it to be the case with the other virtues, if you consider them one by one."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 4,
+                            "name": "Augustine: On the Trinity Book VI 4:5",
+                            "text": "For the question is not of the strength of the body, but of the courage of the mind."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 4,
+                            "name": "Augustine: On the Trinity Book VI 4:6",
+                            "text": "How much more therefore is this the case in that unchangeable and eternal substance, which is incomparably more simple than the human mind is? Since, in the human mind, to be is not the same as to be strong, or prudent, or just, or temperate; for a mind can exist, and yet have none of these virtues."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 4,
+                            "name": "Augustine: On the Trinity Book VI 4:7",
+                            "text": "But in God to be is the same as to be strong, or to be just, or to be wise, or whatever is said of that simple multiplicity, or multifold simplicity, whereby to signify His substance."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 4,
+                            "name": "Augustine: On the Trinity Book VI 4:8",
+                            "text": "Wherefore, whether we say God of God in such way that this name belongs to each, yet not so that both together are two Gods, but one God; for they are in such way united with each other, as according to the apostle's testimony may take place even in diverse and differing substances; for both the Lord alone is a Spirit, and the spirit of a man alone is assuredly a spirit; yet, if it cleave to the Lord, \"it is one spirit:\" how much more there, where there is an absolutely inseparable and eternal union, so that He may not seem absurdly to be called as it were the Son of both, when He is called the Son of God, if that which is called God is only said of both together."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 4,
+                            "name": "Augustine: On the Trinity Book VI 4:9",
+                            "text": "Or perhaps it is, that whatever is said of God so as to indicate His substance, is not said except of both together, nay of the Trinity itself together? Whether therefore it be this or that (which needs a closer inquiry), it is enough for the present to see from what has been said, that the Son is in no respect equal with the Father, if He is found to be unequal in anything which has to do with signifying His substance, as we have already shown."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 4,
+                            "name": "Augustine: On the Trinity Book VI 4:10",
+                            "text": "But the apostle has said that He is equal."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 4,
+                            "name": "Augustine: On the Trinity Book VI 4:11",
+                            "text": "Therefore the Son is equal with the Father in all things, and is of one and the same substance."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 5,
+                    "name": "Augustine: On the Trinity Book VI 5",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 5,
+                            "name": "Augustine: On the Trinity Book VI 5:1",
+                            "text": "Chapter 5 —The Holy Spirit Also is Equal to the Father and the Son in All Things."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 5,
+                            "name": "Augustine: On the Trinity Book VI 5:2",
+                            "text": "7  Wherefore also the Holy Spirit consists in the same unity of substance, and in the same equality."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 5,
+                            "name": "Augustine: On the Trinity Book VI 5:3",
+                            "text": "For whether He is the unity of both, or the holiness, or the love, or therefore the unity because the love, and therefore the love because the holiness, it is manifest that He is not one of the two, through whom the two are joined, through whom the Begotten is loved by the Begetter, and loves Him that begat Him, and through whom, not by participation, but by their own essence, neither by the gift of any superior, but by their own, they are \"keeping the unity of the Spirit in the bond of peace;\" which we are commanded to imitate by grace, both towards God and towards ourselves."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 5,
+                            "name": "Augustine: On the Trinity Book VI 5:4",
+                            "text": "\"On which two commandments hang all the law and the prophets\"."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 5,
+                            "name": "Augustine: On the Trinity Book VI 5:5",
+                            "text": "So those three are God, one, alone, great, wise, holy, blessed."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 5,
+                            "name": "Augustine: On the Trinity Book VI 5:6",
+                            "text": "But we are blessed from Him, and through Him, and in Him; because we ourselves are one by His gift, and one spirit with Him, because our soul cleaves to Him so as to follow Him."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 5,
+                            "name": "Augustine: On the Trinity Book VI 5:7",
+                            "text": "And it is good for us to cleave to God, since He will destroy every man who is estranged from Him."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 5,
+                            "name": "Augustine: On the Trinity Book VI 5:8",
+                            "text": "Therefore the Holy Spirit, whatever it is, is something common both to the Father and Son."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 5,
+                            "name": "Augustine: On the Trinity Book VI 5:9",
+                            "text": "But that communion itself is consubstantial and co-eternal; and if it may fitly be called friendship, let it be so called; but it is more aptly called love."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 5,
+                            "name": "Augustine: On the Trinity Book VI 5:10",
+                            "text": "And this is also a substance, since God is a substance, and \"God is love,\" as it is written."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 5,
+                            "name": "Augustine: On the Trinity Book VI 5:11",
+                            "text": "But as He is a substance together with the Father and the Son, so that substance is together with them great, and together with them good, and together with them holy, and whatsoever else is said in reference to substance; since it is not one thing to God to be, and another to be great or to be good, and the rest, as we have shown above."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 5,
+                            "name": "Augustine: On the Trinity Book VI 5:12",
+                            "text": "For if love is less great therein [i-e: in God] than wisdom, then wisdom is loved in less degree than according to what it is; love is therefore equal, in order that wisdom may be loved according to its being; but wisdom is equal with the Father, as we have proved above; therefore also the Holy Spirit is equal; and if equal, equal in all things, on account of the absolute simplicity which is in that substance."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 5,
+                            "name": "Augustine: On the Trinity Book VI 5:13",
+                            "text": "And therefore they are not more than three: One who loves Him who is from Himself, and One who loves Him from whom He is, and Love itself."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 5,
+                            "name": "Augustine: On the Trinity Book VI 5:14",
+                            "text": "And if this last is nothing, how is \"God love\"? If it is not substance, how is God substance?."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 6,
+                    "name": "Augustine: On the Trinity Book VI 6",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 6,
+                            "name": "Augustine: On the Trinity Book VI 6:1",
+                            "text": "Chapter 6 —How God is a Substance Both Simple and Manifold."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 6,
+                            "name": "Augustine: On the Trinity Book VI 6:2",
+                            "text": "8  But if it is asked how that substance is both simple and manifold: consider, first, why the creature is manifold, but in no way really simple."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 6,
+                            "name": "Augustine: On the Trinity Book VI 6:3",
+                            "text": "And first, all that is body is composed certainly of parts; so that therein one part is greater, another less, and the whole is greater than any part whatever or how great soever."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 6,
+                            "name": "Augustine: On the Trinity Book VI 6:4",
+                            "text": "For the heaven and the earth are parts of the whole bulk of the world; and the earth alone, and the heaven alone, is composed of innumerable parts; and its third part is less than the remainder, and the half of it is less than the whole; and the whole body of the world, which is usually called by its two parts, viz."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 6,
+                            "name": "Augustine: On the Trinity Book VI 6:5",
+                            "text": "the heaven and the earth, is certainly greater than the heaven alone or the earth alone."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 6,
+                            "name": "Augustine: On the Trinity Book VI 6:6",
+                            "text": "And in each several body, size is one thing, color another, shape another; for the same color and the same shape may remain with diminished size; and the same shape and the same size may remain with the color changed; and the same shape not remaining, yet the thing may be just as great, and of the same color."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 6,
+                            "name": "Augustine: On the Trinity Book VI 6:7",
+                            "text": "And whatever other things are predicated together of body can be changed either all together, or the larger part of them without the rest."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 6,
+                            "name": "Augustine: On the Trinity Book VI 6:8",
+                            "text": "And hence the nature of body is conclusively proved to be manifold, and in no respect simple."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 6,
+                            "name": "Augustine: On the Trinity Book VI 6:9",
+                            "text": "The spiritual creature also, that is, the soul, is indeed the more simple of the two if compared with the body; but if we omit the comparison with the body, it is manifold, and itself also not simple."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 6,
+                            "name": "Augustine: On the Trinity Book VI 6:10",
+                            "text": "For it is on this account more simple than the body, because it is not diffused in bulk through extension of place, but in each body, it is both whole in the whole, and whole in each several part of it; and, therefore, when anything takes place in any small particle whatever of the body, such as the soul can feel, although it does not take place in the whole body, yet the whole soul feels it, since the whole soul is not unconscious of it."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 6,
+                            "name": "Augustine: On the Trinity Book VI 6:11",
+                            "text": "But, nevertheless, since in the soul also it is one thing to be skillful, another to be indolent, another to be intelligent, another to be of retentive memory; since cupidity is one thing, fear another, joy another, sadness another; and since things innumerable, and in innumerable ways, are to be found in the nature of the soul, some without others, and some more, some less; it is manifest that its nature is not simple, but manifold."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 6,
+                            "name": "Augustine: On the Trinity Book VI 6:12",
+                            "text": "For nothing simple is changeable, but every creature is changeable."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 7,
+                    "name": "Augustine: On the Trinity Book VI 7",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 7,
+                            "name": "Augustine: On the Trinity Book VI 7:1",
+                            "text": "Chapter 7 —God is a Trinity, But Not Triple (Triplex)."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 7,
+                            "name": "Augustine: On the Trinity Book VI 7:2",
+                            "text": "But God is truly called in manifold ways, great, good, wise, blessed, true, and whatsoever other thing seems to be said of Him not unworthily: but His greatness is the same as His wisdom; for He is not great by bulk, but by power; and His goodness is the same as His wisdom and greatness, and His truth the same as all those things; and in Him it is not one thing to be blessed, and another to be great, or wise, or true, or good, or in a word to be Himself."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 7,
+                            "name": "Augustine: On the Trinity Book VI 7:3",
+                            "text": "9  Neither, since He is a Trinity, is He therefore to be thought triple (triplex) otherwise the Father alone, or the Son alone, will be less than the Father and Son together."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 7,
+                            "name": "Augustine: On the Trinity Book VI 7:4",
+                            "text": "Although, indeed, it is hard to see how we can say, either the Father alone, or the Son alone; since both the Father is with the Son, and the Son with the Father, always and inseparably: not that both are the Father, or both are the Son; but because they are always one in relation to the other, and neither the one nor the other alone."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 7,
+                            "name": "Augustine: On the Trinity Book VI 7:5",
+                            "text": "But because we call even the Trinity itself God alone, although He is always with holy spirits and souls, but say that He only is God, because they are not also God with Him; so we call the Father the Father alone, not because He is separate from the Son, but because they are not both together the Father."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 8,
+                    "name": "Augustine: On the Trinity Book VI 8",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 8,
+                            "name": "Augustine: On the Trinity Book VI 8:1",
+                            "text": "Chapter 8 —No Addition Can Be Made to the Nature of God."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 8,
+                            "name": "Augustine: On the Trinity Book VI 8:2",
+                            "text": "Since, therefore, the Father alone, or the Son alone, or the Holy Spirit alone, is as great as is the Father and the Son and the Holy Spirit together, in no manner is He to be called threefold."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 8,
+                            "name": "Augustine: On the Trinity Book VI 8:3",
+                            "text": "Forasmuch as bodies increase by union of themselves."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 8,
+                            "name": "Augustine: On the Trinity Book VI 8:4",
+                            "text": "For although he who cleaves to his wife is one body; yet it is a greater body than if it were that of the husband alone, or of the wife alone."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 8,
+                            "name": "Augustine: On the Trinity Book VI 8:5",
+                            "text": "But in spiritual things, when the less adheres to the greater, as the creature to the Creator, the former becomes greater than it was, not the latter."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 8,
+                            "name": "Augustine: On the Trinity Book VI 8:6",
+                            "text": "For in those things which are not great by bulk, to be greater is to be better."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 8,
+                            "name": "Augustine: On the Trinity Book VI 8:7",
+                            "text": "And the spirit of any creature becomes better, when it cleaves to the Creator, than if it did not so cleave; and therefore also greater because better."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 8,
+                            "name": "Augustine: On the Trinity Book VI 8:8",
+                            "text": "\"He,\" then, that is joined unto the Lord is one spirit:\" but yet the Lord does not therefore become greater, although he who is joined to the Lord does so."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 8,
+                            "name": "Augustine: On the Trinity Book VI 8:9",
+                            "text": "In God Himself, therefore when the equal Son, or the Holy Spirit equal to the Father and the Son, is joined to the equal Father, God does not become greater than each of them severally; because that perfectness cannot increase."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 8,
+                            "name": "Augustine: On the Trinity Book VI 8:10",
+                            "text": "But whether it be the Father, or the Son, or the Holy Spirit, He is perfect, and God the Father the Son and the Holy Spirit is perfect; and therefore He is a Trinity rather than triple."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 9,
+                    "name": "Augustine: On the Trinity Book VI 9",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 9,
+                            "name": "Augustine: On the Trinity Book VI 9:1",
+                            "text": "Chapter 9 —Whether One or the Three Persons Together are Called the Only God."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 9,
+                            "name": "Augustine: On the Trinity Book VI 9:2",
+                            "text": "10  And since we are showing how we can say the Father alone, because there is no Father in the Godhead except Himself, we must consider also the opinion which holds that the only true God is not the Father alone, but the Father and the Son and the Holy Spirit."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 9,
+                            "name": "Augustine: On the Trinity Book VI 9:3",
+                            "text": "For if any one should ask whether the Father alone is God, how can it be replied that He is not, unless perhaps we were to say that the Father indeed is God, but that He is not God alone, but that the Father, Son, and Holy Spirit are God alone? But then what shall we do with that testimony of the Lord? For He was speaking to the Father, and had named the Father as Him to whom He was speaking, when He says, \"And this is life eternal, that they may know Thee the one true God\"."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 9,
+                            "name": "Augustine: On the Trinity Book VI 9:4",
+                            "text": "And this the Arians indeed usually take, as if the Son were not true God."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 9,
+                            "name": "Augustine: On the Trinity Book VI 9:5",
+                            "text": "Passing them by, however, we must see whether, when it is said to the Father, \"That they may know Thee the one true God,\" we are forced to understand it as if He wished to intimate that the Father alone is the true God; lest we should not understand any to be God, except the three together, the Father, Son, and Holy Spirit."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 9,
+                            "name": "Augustine: On the Trinity Book VI 9:6",
+                            "text": "Are we therefore, from the testimony of the Lord, both to call the Father the one true God, and the Son the one true God, and the Holy Spirit the one true God, and the Father, the Son, and the Holy Spirit together, that is, the Trinity itself together, not three true Gods but one true God? Or because He added, \"And Jesus Christ whom Thou hast sent,\" are we to supply \"the one true God;\" so that the order of the words is this, \"That they may know Thee, and Jesus Christ whom Thou hast sent, the one true God?\" Why then did He omit to mention the Holy Spirit? Is it because it follows, that whenever we name One who cleaves to One by a harmony so great that through this harmony both are one, this harmony itself must be understood, although it is not mentioned? For in that place, too, the apostle seems as it were to pass over the Holy Spirit; and yet there, too, He is understood, where he says, \"All are yours, and ye are Christ's, and Christ is God's\"."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 9,
+                            "name": "Augustine: On the Trinity Book VI 9:7",
+                            "text": "And again, \"The head of the woman is the man, the head of the man is Christ, and the head of Christ is God\"."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 9,
+                            "name": "Augustine: On the Trinity Book VI 9:8",
+                            "text": "But again, if God is only all three together, how can God be the head of Christ, that is, the Trinity the head of Christ, since Christ is in the Trinity in order that it may be the Trinity? Is that which is the Father with the Son, the head of that which is the Son alone? For the Father with the Son is God, but the Son alone is Christ: especially since it is the Word already made flesh that speaks; and according to this His humiliation also, the Father is greater than He, as He says, \"for my Father is greater than I;\" so that the very being of God, which is one to Him with the Father, is itself the head of the man who is mediator, which He is alone."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 9,
+                            "name": "Augustine: On the Trinity Book VI 9:9",
+                            "text": "For if we rightly call the mind the chief thing of man, that is, as it were the head of the human substance, although the man himself together with the mind is man; why is not the Word with the Father, which together is God, much more suitably and much more the head of Christ, although Christ as man cannot be understood except with the Word which was made flesh? But this, as we have already said, we shall consider somewhat more carefully hereafter."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 9,
+                            "name": "Augustine: On the Trinity Book VI 9:10",
+                            "text": "At present the equality and one and the same substance of the Trinity has been demonstrated as briefly as possible, that in whatever way that other question be determined, the more rigorous discussion of which we have deferred, nothing may hinder us from confessing the absolute equality of the Father, Son, and Holy Spirit."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 10,
+                    "name": "Augustine: On the Trinity Book VI 10",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 10,
+                            "name": "Augustine: On the Trinity Book VI 10:1",
+                            "text": "Chapter 10 —Of the Attributes Assigned by Hilary to Each Person."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 10,
+                            "name": "Augustine: On the Trinity Book VI 10:2",
+                            "text": "The Trinity is Represented in Things that are Made."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 10,
+                            "name": "Augustine: On the Trinity Book VI 10:3",
+                            "text": "11  A certain writer, when he would briefly intimate the special attributes of each of the persons in the Trinity, tells us that \"Eternity is in the Father, form in the Image, use in the Gift\"."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 10,
+                            "name": "Augustine: On the Trinity Book VI 10:4",
+                            "text": "And since he was a man of no mean authority in handling the Scriptures, and in the assertion of the faith, for it is Hilary who put this in his book (On the Trinity, ii."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 10,
+                            "name": "Augustine: On the Trinity Book VI 10:5",
+                            "text": "); I have searched into the hidden meaning of these words as far as I can, that is, of the Father, and the Image, and the Gift, of eternity, and of form, and of use."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 10,
+                            "name": "Augustine: On the Trinity Book VI 10:6",
+                            "text": "And I do not think that he intended more by the word eternity, than that the Father has not a father from whom He is; but the Son is from the Father, so as to be, and so as to be co-eternal with Him."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 10,
+                            "name": "Augustine: On the Trinity Book VI 10:7",
+                            "text": "For if an image perfectly fills the measure of that of which it is the image, then the image is made equal to that of which it is the image, not the latter to its own image."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 10,
+                            "name": "Augustine: On the Trinity Book VI 10:8",
+                            "text": "And in respect to this image he has named form, I believe on account of the quality of beauty, where there is at once such great fitness, and prime equality, and prime likeness, differing in nothing, and unequal in no respect, and in no part unlike, but answering exactly to Him whose image it is: where there is prime and absolute life, to whom it is not one thing to live, and another to be, but the same thing to be and to live; and prime and absolute intellect, to whom it is not one thing to live, another to understand, but to understand is to live, and is to be, and all things are one: as though a perfect Word (John i."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 10,
+                            "name": "Augustine: On the Trinity Book VI 10:9",
+                            "text": "1), to which nothing is wanting, and a certain skill of the omnipotent and wise God, full of all living, unchangeable sciences, and all one in it, as itself is one from one, with whom it is one."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 10,
+                            "name": "Augustine: On the Trinity Book VI 10:10",
+                            "text": "Therein God knew all things which He made by it; and therefore, while times pass away and succeed, nothing passes away or succeeds to the knowledge of God."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 10,
+                            "name": "Augustine: On the Trinity Book VI 10:11",
+                            "text": "For things which are created are not therefore known by God, because they have been made; and not rather have been therefore made, even although changeable, because they are known unchangeably by Him."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 10,
+                            "name": "Augustine: On the Trinity Book VI 10:12",
+                            "text": "Therefore that unspeakable conjunction of the Father and His image is not without fruition, without love, without joy."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 10,
+                            "name": "Augustine: On the Trinity Book VI 10:13",
+                            "text": "Therefore that love, delight, felicity, or blessedness, if indeed it can be worthily expressed by any human word, is called by him, in short, Use; and is the Holy Spirit in the Trinity, not begotten, but the sweetness of the begetter and of the begotten, filling all creatures according to their capacity with abundant bountifulness and copiousness, that they may keep their proper order and rest satisfied in their proper place."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 10,
+                            "name": "Augustine: On the Trinity Book VI 10:14",
+                            "text": "12  Therefore all these things which are made by divine skill, show in themselves a certain unity, and form, and order; for each of them is both some one thing, as are the several natures of bodies and dispositions of souls; and is fashioned in some form, as are the figures or qualities of bodies, and the various learning or skill of souls; and seeks or preserves a certain order, as are the several weights or combinations of bodies and the loves or delights of souls."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 10,
+                            "name": "Augustine: On the Trinity Book VI 10:15",
+                            "text": "When therefore we regard the Creator, who is understood by the things that are made we must needs understand the Trinity of whom there appear traces in the creature, as is fitting."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 10,
+                            "name": "Augustine: On the Trinity Book VI 10:16",
+                            "text": "For in that Trinity is the supreme source of all things, and the most perfect beauty, and the most blessed delight."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 10,
+                            "name": "Augustine: On the Trinity Book VI 10:17",
+                            "text": "Those three, therefore, both seem to be mutually determined to each other, and are in themselves infinite."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 10,
+                            "name": "Augustine: On the Trinity Book VI 10:18",
+                            "text": "But here in corporeal things, one thing alone is not as much as three together, and two are something more than one; but in that highest Trinity one is as much as the three together, nor are two anything more than one."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 10,
+                            "name": "Augustine: On the Trinity Book VI 10:19",
+                            "text": "And They are infinite in themselves."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 10,
+                            "name": "Augustine: On the Trinity Book VI 10:20",
+                            "text": "So both each are in each, and all in each, and each in all, and all in all, and all are one."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 10,
+                            "name": "Augustine: On the Trinity Book VI 10:21",
+                            "text": "Let him who sees this, whether in part, or \"through a glass and in an enigma,\" rejoice in knowing God; and let him honor Him as God, and give thanks; but let him who does not see it, strive to see it through piety, not to cavil at it through blindness."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 10,
+                            "name": "Augustine: On the Trinity Book VI 10:22",
+                            "text": "Since God is one, but yet is a Trinity."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 10,
+                            "name": "Augustine: On the Trinity Book VI 10:23",
+                            "text": "Neither are we to take the words, \"of whom, and through whom, and to whom are all things,\" as used indiscriminately [i-e:, to denote a unity without distinctions]; nor yet to denote many gods, for \"to Him, be glory for ever and ever, Amen\"."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

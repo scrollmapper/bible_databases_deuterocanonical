@@ -1,0 +1,543 @@
+{
+    "books": [
+        {
+            "name": "Dionysius: Epistle to Dionysius",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Dionysius: Epistle to Dionysius 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Dionysius: Epistle to Dionysius 1:1",
+                            "text": "Epistle to Dionysius Bishop of Rome: From the First Book."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Dionysius: Epistle to Dionysius 1:2",
+                            "text": "There certainly was not a time when God was not the Father."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Dionysius: Epistle to Dionysius 1:3",
+                            "text": "Neither, indeed, as though He had not brought forth these things, did God afterwards beget the Son, but because the Son has existence not from Himself, but from the Father."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Dionysius: Epistle to Dionysius 1:4",
+                            "text": "And after a few words he says of the Son Himself:—."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Dionysius: Epistle to Dionysius 1:5",
+                            "text": "Being the brightness of the eternal Light, He Himself also is absolutely eternal."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Dionysius: Epistle to Dionysius 1:6",
+                            "text": "For since light is always in existence, it is manifest that its brightness also exists, because light is perceived to exist from the fact that it shines, and it is impossible that light should not shine."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "Dionysius: Epistle to Dionysius 1:7",
+                            "text": "And let us once more come to illustrations."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 1,
+                            "name": "Dionysius: Epistle to Dionysius 1:8",
+                            "text": "If the sun exists, there is also day; if nothing of this be manifest, it is impossible that the sun should be there."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 1,
+                            "name": "Dionysius: Epistle to Dionysius 1:9",
+                            "text": "If then the sun were eternal, the day would never end; but now, for such is not really the state of the case, the day begins with the beginning of the sun, and ends with its ending."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 1,
+                            "name": "Dionysius: Epistle to Dionysius 1:10",
+                            "text": "But God is the eternal Light, which has neither had a beginning, nor shall ever fail."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 1,
+                            "name": "Dionysius: Epistle to Dionysius 1:11",
+                            "text": "Therefore the eternal brightness shines forth before Him, and co-exists with Him, in that, existing without a beginning, and always begotten, He always shines before Him; and He is that Wisdom which says, \"I was that wherein He delighted, and I was daily His delight before His face at all times\"."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 1,
+                            "name": "Dionysius: Epistle to Dionysius 1:12",
+                            "text": "And a little after he thus pursues his discourse from the same point:—."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 1,
+                            "name": "Dionysius: Epistle to Dionysius 1:13",
+                            "text": "Since, therefore, the Father is eternal, the Son also is eternal, Light of Light."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 1,
+                            "name": "Dionysius: Epistle to Dionysius 1:14",
+                            "text": "For where there is the begetter, there is also the offspring."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 1,
+                            "name": "Dionysius: Epistle to Dionysius 1:15",
+                            "text": "And if there is no offspring, how and of what can He be the begetter? But both are, and always are."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 1,
+                            "name": "Dionysius: Epistle to Dionysius 1:16",
+                            "text": "Since, then, God is the Light, Christ is the Brightness."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 1,
+                            "name": "Dionysius: Epistle to Dionysius 1:17",
+                            "text": "And since He is a Spirit—for says He, \"God is a Spirit\"—fittingly again is Christ called Breath; for \"He,\" saith He, \"is the breath of God's power\"."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 1,
+                            "name": "Dionysius: Epistle to Dionysius 1:18",
+                            "text": "And again he says:—."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 1,
+                            "name": "Dionysius: Epistle to Dionysius 1:19",
+                            "text": "Moreover, the Son alone, always co-existing with the Father, and filled with Him who is, Himself also is, since He is of the Father."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 2,
+                    "name": "Dionysius: Epistle to Dionysius 2",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 2,
+                            "name": "Dionysius: Epistle to Dionysius 2:1",
+                            "text": "From the Same First Book."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 2,
+                            "name": "Dionysius: Epistle to Dionysius 2:2",
+                            "text": "But when I spoke of things created, and certain works to be considered, I hastily put forward illustrations of such things, as it were little appropriate, when I said neither is the plant the same as the husbandman, nor the boat the same as the boatbuilder."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 2,
+                            "name": "Dionysius: Epistle to Dionysius 2:3",
+                            "text": "But then I lingered rather upon things suitable and more adapted to the nature of the thing, and I unfolded in many words, by various carefully considered arguments, what things were more true; which things, moreover, I have set forth to you in another letter."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 2,
+                            "name": "Dionysius: Epistle to Dionysius 2:4",
+                            "text": "And in these things I have also proved the falsehood of the charge which they bring against me—to wit, that I do not maintain that Christ is consubstantial with God."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 2,
+                            "name": "Dionysius: Epistle to Dionysius 2:5",
+                            "text": "For although I say that I have never either found or read this word in the sacred Scriptures, yet other reasonings, which I immediately subjoined, are in no wise discrepant from this view, because I brought forward as an illustration human offspring, which assuredly is of the same kind as the begetter; and I said that parents are absolutely distinguished from their children by the fact alone that they themselves are not their children, or that it would assuredly be a matter of necessity that there would neither be parents nor children."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 2,
+                            "name": "Dionysius: Epistle to Dionysius 2:6",
+                            "text": "But, as I said before, I have not the letter in my possession, on account of the present condition of affairs; otherwise I would have sent you the very words that I then wrote, yea, and a copy of the whole letter, and I will send it if at any time I shall have the opportunity."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 2,
+                            "name": "Dionysius: Epistle to Dionysius 2:7",
+                            "text": "I remember, further, that I added many similitudes from things kindred to one another."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 2,
+                            "name": "Dionysius: Epistle to Dionysius 2:8",
+                            "text": "For I said that the plant, whether it grows up from seed or from a root, is different from that whence it sprouted, although it is absolutely of the same nature; and similarly, that a river flowing from a spring takes another form and name: for that neither is the spring called the river, nor the river the spring, but that these are two things, and that the spring indeed is, as it were, the father, while the river is the water from the spring."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 2,
+                            "name": "Dionysius: Epistle to Dionysius 2:9",
+                            "text": "But they feign that they do not see these things and the like to them which are written, as if they were blind; but they endeavour to assail me from a distance with expressions too carelessly used, as if they were stones, not observing that on things of which they are ignorant, and which require interpretation to be understood, illustrations that are not only remote, but even contrary, will often throw light."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 3,
+                    "name": "Dionysius: Epistle to Dionysius 3",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 3,
+                            "name": "Dionysius: Epistle to Dionysius 3:1",
+                            "text": "From the Same First Book."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 3,
+                            "name": "Dionysius: Epistle to Dionysius 3:2",
+                            "text": "It was said above that God is the spring of all good things, but the Son was called the river flowing from Him; because the word is an emanation of the mind, and—to speak after human fashion—is emitted from the heart by the mouth."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 3,
+                            "name": "Dionysius: Epistle to Dionysius 3:3",
+                            "text": "But the mind which springs forth by the tongue is different from the word which exists in the heart."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 3,
+                            "name": "Dionysius: Epistle to Dionysius 3:4",
+                            "text": "For this latter, after it has emitted the former, remains and is what it was before; but the mind sent forth flies away, and is carried everywhere around, and thus each is in each although one is from the other, and they are one although they are two."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 3,
+                            "name": "Dionysius: Epistle to Dionysius 3:5",
+                            "text": "And it is thus that the Father and the Son are said to be one, and to be in one another."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 4,
+                    "name": "Dionysius: Epistle to Dionysius 4",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 4,
+                            "name": "Dionysius: Epistle to Dionysius 4:1",
+                            "text": "From the Second Book."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 4,
+                            "name": "Dionysius: Epistle to Dionysius 4:2",
+                            "text": "The individual names uttered by me can neither be separated from one another, nor parted."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 4,
+                            "name": "Dionysius: Epistle to Dionysius 4:3",
+                            "text": "I spoke of the Father, and before I made mention of the Son I already signified Him in the Father."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 4,
+                            "name": "Dionysius: Epistle to Dionysius 4:4",
+                            "text": "I added the Son; and the Father, even although I had not previously named Him, had already been absolutely comprehended in the Son."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 4,
+                            "name": "Dionysius: Epistle to Dionysius 4:5",
+                            "text": "I added the Holy Spirit; but, at the same time, I conveyed under the name whence and by whom He proceeded."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 4,
+                            "name": "Dionysius: Epistle to Dionysius 4:6",
+                            "text": "But they are ignorant that neither the Father, in that He is Father, can be separated from the Son, for that name is the evident ground of coherence and conjunction; nor can the Son be separated from the Father, for this word Father indicates association between them."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 4,
+                            "name": "Dionysius: Epistle to Dionysius 4:7",
+                            "text": "And there is, moreover, evident a Spirit who can neither be disjoined from Him who sends, nor from Him who brings Him."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 4,
+                            "name": "Dionysius: Epistle to Dionysius 4:8",
+                            "text": "How, then, should I who use such names think that these are absolutely divided and separated the one from the other?  After a few words he adds:—."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 4,
+                            "name": "Dionysius: Epistle to Dionysius 4:9",
+                            "text": "Thus, indeed, we expand the indivisible Unity into a Trinity; and again we contract the Trinity, which cannot be diminished, into a Unity."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 5,
+                    "name": "Dionysius: Epistle to Dionysius 5",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 5,
+                            "name": "Dionysius: Epistle to Dionysius 5:1",
+                            "text": "From the Same Second Book."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 5,
+                            "name": "Dionysius: Epistle to Dionysius 5:2",
+                            "text": "But if any quibbler, from the fact that I said that God is the Maker and Creator of all things, thinks that I said that He is also Creator of Christ, let him observe that I first called Him Father, in which word the Son also is at the same time expressed."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 5,
+                            "name": "Dionysius: Epistle to Dionysius 5:3",
+                            "text": "For after I called the Father the Creator, I added, Neither is He the Father of those things whereof He is Creator, if He who begot is properly understood to be a Father (for we will consider the latitude of this word Father in what follows)."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 5,
+                            "name": "Dionysius: Epistle to Dionysius 5:4",
+                            "text": "Nor is a maker a father, if it is only a framer who is called a maker."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 5,
+                            "name": "Dionysius: Epistle to Dionysius 5:5",
+                            "text": "For among the Greeks, they who are wise are said to be makers of their books."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 5,
+                            "name": "Dionysius: Epistle to Dionysius 5:6",
+                            "text": "The apostle also says, \"a doer (scil."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 5,
+                            "name": "Dionysius: Epistle to Dionysius 5:7",
+                            "text": "maker) of the law\"."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 5,
+                            "name": "Dionysius: Epistle to Dionysius 5:8",
+                            "text": "Moreover, of matters of the heart, of which kind are virtue and vice, men are called doers (scil."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 5,
+                            "name": "Dionysius: Epistle to Dionysius 5:9",
+                            "text": "makers); after which manner God said, \"I expected that it should make judgment, but it made iniquity\"."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 5,
+                            "name": "Dionysius: Epistle to Dionysius 5:10",
+                            "text": "That neither must this saying be thus blamed; for he says that he used the name of Maker on account of the flesh which the Word had assumed, and which certainly was made."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 5,
+                            "name": "Dionysius: Epistle to Dionysius 5:11",
+                            "text": "But if any one should suspect that that had been said of the Word, even this also was to be heard without contentiousness."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 5,
+                            "name": "Dionysius: Epistle to Dionysius 5:12",
+                            "text": "For as I do not think that the Word was a thing made, so I do not say that God was its Maker, but its Father."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 5,
+                            "name": "Dionysius: Epistle to Dionysius 5:13",
+                            "text": "Yet still, if at any time, discoursing of the Son, I may have casually said that God was His Maker, even this mode of speaking would not be without defence."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 5,
+                            "name": "Dionysius: Epistle to Dionysius 5:14",
+                            "text": "For the wise men among the Greeks call themselves the makers of their books, although the same are fathers of their books."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 5,
+                            "name": "Dionysius: Epistle to Dionysius 5:15",
+                            "text": "Moreover, divine Scripture calls us makers of those motions which proceed from the heart, when it calls us doers of the law of judgment and of justice."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 6,
+                    "name": "Dionysius: Epistle to Dionysius 6",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 6,
+                            "name": "Dionysius: Epistle to Dionysius 6:1",
+                            "text": "From the Same Second Book."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 6,
+                            "name": "Dionysius: Epistle to Dionysius 6:2",
+                            "text": "In the beginning was the Word."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 6,
+                            "name": "Dionysius: Epistle to Dionysius 6:3",
+                            "text": "But that was not the Word which produced the Word."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 6,
+                            "name": "Dionysius: Epistle to Dionysius 6:4",
+                            "text": "For \"the Word was with God\"."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 6,
+                            "name": "Dionysius: Epistle to Dionysius 6:5",
+                            "text": "The Lord is Wisdom; it was not therefore Wisdom that produced Wisdom; for \"I was that\" says He, \"wherein He delighted\"."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 6,
+                            "name": "Dionysius: Epistle to Dionysius 6:6",
+                            "text": "Christ is truth; but \"blessed,\" says He, \"is the God of truth\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 7,
+                    "name": "Dionysius: Epistle to Dionysius 7",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 7,
+                            "name": "Dionysius: Epistle to Dionysius 7:1",
+                            "text": "From the Third Book."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 7,
+                            "name": "Dionysius: Epistle to Dionysius 7:2",
+                            "text": "Life is begotten of life in the same way as the river has flowed forth from the spring, and the brilliant light is ignited from the inextinguishable light."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 8,
+                    "name": "Dionysius: Epistle to Dionysius 8",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 8,
+                            "name": "Dionysius: Epistle to Dionysius 8:1",
+                            "text": "From the Fourth Book."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 8,
+                            "name": "Dionysius: Epistle to Dionysius 8:2",
+                            "text": "Even as our mind emits from itself a word,—as says the prophet, \"My heart hath uttered forth a good word,\"—and each of the two is distinct the one from the other, and maintaining a peculiar place, and one that is distinguished from the other; since the former indeed abides and is stirred in the heart, while the latter has its place in the tongue and in the mouth."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 8,
+                            "name": "Dionysius: Epistle to Dionysius 8:3",
+                            "text": "And yet they are not apart from one another, nor deprived of one another; neither is the mind without the word, nor is the word without the mind; but the mind makes the word and appears in the word, and the word exhibits the mind wherein it was made."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 8,
+                            "name": "Dionysius: Epistle to Dionysius 8:4",
+                            "text": "And the mind indeed is, as it were, the word immanent, while the word is the mind breaking forth."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 8,
+                            "name": "Dionysius: Epistle to Dionysius 8:5",
+                            "text": "The mind passes into the word, and the word transmits the mind to the surrounding hearers; and thus the mind by means of the word takes its place in the souls of the hearers, entering in at the same time as the word."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 8,
+                            "name": "Dionysius: Epistle to Dionysius 8:6",
+                            "text": "And indeed the mind is, as it were, the father of the word, existing in itself; but the word is as the son of the mind, and cannot be made before it nor without it, but exists with it, whence it has taken its seed and origin."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 8,
+                            "name": "Dionysius: Epistle to Dionysius 8:7",
+                            "text": "In the same manner, also, the Almighty Father and Universal Mind has before all things the Son, the Word, and the discourse, as the interpreter and messenger of Himself."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 9,
+                    "name": "Dionysius: Epistle to Dionysius 9",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 9,
+                            "name": "Dionysius: Epistle to Dionysius 9:1",
+                            "text": "About the Middle of the Treatise."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 9,
+                            "name": "Dionysius: Epistle to Dionysius 9:2",
+                            "text": "If, from the fact that there are three hypostases, they say that they are divided, there are three whether they like it or no, or else let them get rid of the divine Trinity altogether."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 10,
+                    "name": "Dionysius: Epistle to Dionysius 10",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 10,
+                            "name": "Dionysius: Epistle to Dionysius 10:1",
+                            "text": "And Again:  For on this account after the Unity there is also the most divine Trinity."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 11,
+                    "name": "Dionysius: Epistle to Dionysius 11",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 11,
+                            "name": "Dionysius: Epistle to Dionysius 11:1",
+                            "text": "The Conclusion of the Entire Treatise."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 11,
+                            "name": "Dionysius: Epistle to Dionysius 11:2",
+                            "text": "In accordance with all these things, the form, moreover, and rule being received from the elders who have lived before us, we also, with a voice in accordance with them, will both acquit ourselves of thanks to you, and of the letter which we are now writing."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 11,
+                            "name": "Dionysius: Epistle to Dionysius 11:3",
+                            "text": "And to God the Father, and His Son our Lord Jesus Christ, with the Holy Spirit, be glory and dominion for ever and ever, Amen."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

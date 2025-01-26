@@ -1,0 +1,561 @@
+{
+    "books": [
+        {
+            "name": "Athanasius: Statement of Faith",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Athanasius: Statement of Faith 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Athanasius: Statement of Faith 1:1",
+                            "text": "Statement of Faith."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Athanasius: Statement of Faith 1:2",
+                            "text": "1."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Athanasius: Statement of Faith 1:3",
+                            "text": "We believe in one Unbegotten God, Father Almighty, maker of all things both visible and invisible, that hath His being from Himself."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Athanasius: Statement of Faith 1:4",
+                            "text": "And in one Only-begotten Word, Wisdom, Son, begotten of the Father without beginning and eternally; word not pronounced nor mental, nor an effluence of the Perfect, nor a dividing of the impassible Essence, nor an issue; but absolutely perfect Son, living and powerful (Heb."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Athanasius: Statement of Faith 1:5",
+                            "text": "iv."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Athanasius: Statement of Faith 1:6",
+                            "text": "12), the true Image of the Father, equal in honour and glory."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "Athanasius: Statement of Faith 1:7",
+                            "text": "For this, he says, 'is the will of the Father, that as they honour the Father, so they may honour the Son also' (Joh."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 1,
+                            "name": "Athanasius: Statement of Faith 1:8",
+                            "text": "v."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 1,
+                            "name": "Athanasius: Statement of Faith 1:9",
+                            "text": "23): very God of very God, as John says in his general Epistles, 'And we are in Him that is true, even in His Son Jesus Christ: this is the true God and everlasting life' (1 Joh."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 1,
+                            "name": "Athanasius: Statement of Faith 1:10",
+                            "text": "v."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 1,
+                            "name": "Athanasius: Statement of Faith 1:11",
+                            "text": "20): Almighty of Almighty."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 1,
+                            "name": "Athanasius: Statement of Faith 1:12",
+                            "text": "For all things which the Father rules and sways, the Son rules and sways likewise: wholly from the Whole, being like the Father as the Lord says, 'he that hath seen Me hath seen the Father' (Joh."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 1,
+                            "name": "Athanasius: Statement of Faith 1:13",
+                            "text": "xiv."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 1,
+                            "name": "Athanasius: Statement of Faith 1:14",
+                            "text": "9)."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 1,
+                            "name": "Athanasius: Statement of Faith 1:15",
+                            "text": "But He was begotten ineffably and incomprehensibly, for 'who shall declare his generation?' (Isa."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 1,
+                            "name": "Athanasius: Statement of Faith 1:16",
+                            "text": "liii."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 1,
+                            "name": "Athanasius: Statement of Faith 1:17",
+                            "text": "8), in other words, no one can."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 1,
+                            "name": "Athanasius: Statement of Faith 1:18",
+                            "text": "Who, when at the consummation of the ages (Heb."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 1,
+                            "name": "Athanasius: Statement of Faith 1:19",
+                            "text": "ix."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 1,
+                            "name": "Athanasius: Statement of Faith 1:20",
+                            "text": "26), He had descended from the bosom of the Father, took from the undefiled Virgin Mary our humanity (ἄνθρωπον), Christ Jesus, whom He delivered of His own will to suffer for us, as the Lord saith: 'No man taketh My life from Me."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 1,
+                            "name": "Athanasius: Statement of Faith 1:21",
+                            "text": "I have power to lay it down, and have power to take it again' (Joh."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 1,
+                            "name": "Athanasius: Statement of Faith 1:22",
+                            "text": "x."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 1,
+                            "name": "Athanasius: Statement of Faith 1:23",
+                            "text": "18)."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 1,
+                            "name": "Athanasius: Statement of Faith 1:24",
+                            "text": "In which humanity He was crucified and died for us, and rose from the dead, and was taken up into the heavens, having been created as the beginning of ways for us (Prov."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 1,
+                            "name": "Athanasius: Statement of Faith 1:25",
+                            "text": "viii."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 1,
+                            "name": "Athanasius: Statement of Faith 1:26",
+                            "text": "22), when on earth He shewed us light from out of darkness, salvation from error, life from the dead, an entrance to paradise, from which Adam was cast out, and into which he again entered by means of the thief, as the Lord said, 'This day shalt thou be with Me in paradise' (Luke xxiii."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 1,
+                            "name": "Athanasius: Statement of Faith 1:27",
+                            "text": "43), into which Paul also once entered."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 1,
+                            "name": "Athanasius: Statement of Faith 1:28",
+                            "text": "[He shewed us] also a way up to the heavens, whither the humanity of the Lord, in which He will judge the quick and the dead, entered as precursor for us."
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 1,
+                            "name": "Athanasius: Statement of Faith 1:29",
+                            "text": "We believe, likewise, also in the Holy Spirit that searcheth all things, even the deep things of God (1 Cor."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 1,
+                            "name": "Athanasius: Statement of Faith 1:30",
+                            "text": "ii."
+                        },
+                        {
+                            "verse": 31,
+                            "chapter": 1,
+                            "name": "Athanasius: Statement of Faith 1:31",
+                            "text": "10), and we anathematise doctrines contrary to this."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 2,
+                    "name": "Athanasius: Statement of Faith 2",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 2,
+                            "name": "Athanasius: Statement of Faith 2:1",
+                            "text": "2."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 2,
+                            "name": "Athanasius: Statement of Faith 2:2",
+                            "text": "For neither do we hold a Son-Father, as do the Sabellians, calling Him of one but not of the same essence, and thus destroying the existence of the Son."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 2,
+                            "name": "Athanasius: Statement of Faith 2:3",
+                            "text": "Neither do we ascribe the passible body which He bore for the salvation of the whole world to the Father."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 2,
+                            "name": "Athanasius: Statement of Faith 2:4",
+                            "text": "Neither can we imagine three Subsistences separated from each other, as results from their bodily nature in the case of men, lest we hold a plurality of gods like the heathen."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 2,
+                            "name": "Athanasius: Statement of Faith 2:5",
+                            "text": "But just as a river, produced from a well, is not separate, and yet there are in fact two visible objects and two names."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 2,
+                            "name": "Athanasius: Statement of Faith 2:6",
+                            "text": "For neither is the Father the Son, nor the Son the Father."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 2,
+                            "name": "Athanasius: Statement of Faith 2:7",
+                            "text": "For the Father is Father of the Son, and the Son, Son of the Father."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 2,
+                            "name": "Athanasius: Statement of Faith 2:8",
+                            "text": "For like as the well is not a river, nor the river a well, but both are one and the same water which is conveyed in a channel from the well to the river, so the Father's deity passes into the Son without flow and without division."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 2,
+                            "name": "Athanasius: Statement of Faith 2:9",
+                            "text": "For the Lord says, 'I came out from the Father and am come' (Joh."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 2,
+                            "name": "Athanasius: Statement of Faith 2:10",
+                            "text": "xvi."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 2,
+                            "name": "Athanasius: Statement of Faith 2:11",
+                            "text": "28)."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 2,
+                            "name": "Athanasius: Statement of Faith 2:12",
+                            "text": "But He is ever with the Father, for He is in the bosom of the Father, nor was ever the bosom of the Father void of the deity of the Son."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 2,
+                            "name": "Athanasius: Statement of Faith 2:13",
+                            "text": "For He says, 'I was by Him as one setting in order' (Prov."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 2,
+                            "name": "Athanasius: Statement of Faith 2:14",
+                            "text": "viii."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 2,
+                            "name": "Athanasius: Statement of Faith 2:15",
+                            "text": "30)."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 2,
+                            "name": "Athanasius: Statement of Faith 2:16",
+                            "text": "But we do not regard God the Creator of all, the Son of God, as a creature, or thing made, or as made out of nothing, for He is truly existent from Him who exists, alone existing from Him who alone exists, in as much as the like glory and power was eternally and conjointly begotten of the Father."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 2,
+                            "name": "Athanasius: Statement of Faith 2:17",
+                            "text": "For 'He that hath seen' the Son 'hath seen the Father (Joh."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 2,
+                            "name": "Athanasius: Statement of Faith 2:18",
+                            "text": "xiv."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 2,
+                            "name": "Athanasius: Statement of Faith 2:19",
+                            "text": "9)."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 2,
+                            "name": "Athanasius: Statement of Faith 2:20",
+                            "text": "All things to wit were made through the Son; but He Himself is not a creature, as Paul says of the Lord: 'In Him were all things created, and He is before all' (Col."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 2,
+                            "name": "Athanasius: Statement of Faith 2:21",
+                            "text": "i."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 2,
+                            "name": "Athanasius: Statement of Faith 2:22",
+                            "text": "16)."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 2,
+                            "name": "Athanasius: Statement of Faith 2:23",
+                            "text": "Now He says not, 'was created' before all things, but 'is' before all things."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 2,
+                            "name": "Athanasius: Statement of Faith 2:24",
+                            "text": "To be created, namely, is applicable to all things, but 'is before all' applies to the Son only."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 3,
+                    "name": "Athanasius: Statement of Faith 3",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 3,
+                            "name": "Athanasius: Statement of Faith 3:1",
+                            "text": "3."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 3,
+                            "name": "Athanasius: Statement of Faith 3:2",
+                            "text": "He is then by nature an Offspring, perfect from the Perfect, begotten before all the hills (Prov."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 3,
+                            "name": "Athanasius: Statement of Faith 3:3",
+                            "text": "viii."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 3,
+                            "name": "Athanasius: Statement of Faith 3:4",
+                            "text": "25), that is before every rational and intelligent essence, as Paul also in another place calls Him 'first-born of all creation' (Col."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 3,
+                            "name": "Athanasius: Statement of Faith 3:5",
+                            "text": "i."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 3,
+                            "name": "Athanasius: Statement of Faith 3:6",
+                            "text": "15)."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 3,
+                            "name": "Athanasius: Statement of Faith 3:7",
+                            "text": "But by calling Him First-born, He shews that He is not a Creature, but Offspring of the Father."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 3,
+                            "name": "Athanasius: Statement of Faith 3:8",
+                            "text": "For it would be inconsistent with His deity for Him to be called a creature."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 3,
+                            "name": "Athanasius: Statement of Faith 3:9",
+                            "text": "For all things were created by the Father through the Son, but the Son alone was eternally begotten from the Father, whence God the Word is 'first-born of all creation,' unchangeable from unchangeable."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 3,
+                            "name": "Athanasius: Statement of Faith 3:10",
+                            "text": "However, the body which He wore for our sakes is a creature: concerning which Jeremiah says, according to the edition of the seventy translators (Jer."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 3,
+                            "name": "Athanasius: Statement of Faith 3:11",
+                            "text": "xxxi."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 3,
+                            "name": "Athanasius: Statement of Faith 3:12",
+                            "text": "22): 'The Lord created for us for a planting a new salvation, in which salvation men shall go about:' but according to Aquila the same text runs: 'The Lord created a new thing in woman."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 3,
+                            "name": "Athanasius: Statement of Faith 3:13",
+                            "text": "' Now the salvation created for us for a planting, which is new, not old, and for us, not before us, is Jesus, Who in respect of the Saviour was made man, and whose name is translated in one place Salvation, in another Saviour."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 3,
+                            "name": "Athanasius: Statement of Faith 3:14",
+                            "text": "But salvation proceeds from the Saviour, just as illumination does from the light."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 3,
+                            "name": "Athanasius: Statement of Faith 3:15",
+                            "text": "The salvation, then, which was from the Saviour, being created new, did, as Jeremiah says, 'create for us a new salvation,' and as Aquila renders: 'The Lord created a new thing in woman,' that is in Mary."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 3,
+                            "name": "Athanasius: Statement of Faith 3:16",
+                            "text": "For nothing new was created in woman, save the Lord's body, born of the Virgin Mary without intercourse, as also it says in the Proverbs in the person of Jesus: 'The Lord created me, a beginning of His ways for His works' (Prov."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 3,
+                            "name": "Athanasius: Statement of Faith 3:17",
+                            "text": "viii."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 3,
+                            "name": "Athanasius: Statement of Faith 3:18",
+                            "text": "22)."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 3,
+                            "name": "Athanasius: Statement of Faith 3:19",
+                            "text": "Now He does not say, 'created me before His works,' lest any should take the text of the deity of the Word."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 4,
+                    "name": "Athanasius: Statement of Faith 4",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 4,
+                            "name": "Athanasius: Statement of Faith 4:1",
+                            "text": "4."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 4,
+                            "name": "Athanasius: Statement of Faith 4:2",
+                            "text": "Each text then which refers to the creature is written with reference to Jesus in a bodily sense."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 4,
+                            "name": "Athanasius: Statement of Faith 4:3",
+                            "text": "For the Lord's Humanity was created as 'a beginning of ways,' and He manifested it to us for our salvation."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 4,
+                            "name": "Athanasius: Statement of Faith 4:4",
+                            "text": "For by it we have our access to the Father."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 4,
+                            "name": "Athanasius: Statement of Faith 4:5",
+                            "text": "For He is the way (Joh."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 4,
+                            "name": "Athanasius: Statement of Faith 4:6",
+                            "text": "xiv."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 4,
+                            "name": "Athanasius: Statement of Faith 4:7",
+                            "text": "6) which leads us back to the Father."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 4,
+                            "name": "Athanasius: Statement of Faith 4:8",
+                            "text": "And a way is a corporeal visible thing, such as is the Lord's humanity."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 4,
+                            "name": "Athanasius: Statement of Faith 4:9",
+                            "text": "Well, then, the Word of God created all things, not being a creature, but an offspring."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 4,
+                            "name": "Athanasius: Statement of Faith 4:10",
+                            "text": "For He created none of the created things equal or like unto Himself."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 4,
+                            "name": "Athanasius: Statement of Faith 4:11",
+                            "text": "But it is the part of a Father to beget, while it is a workman's part to create."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 4,
+                            "name": "Athanasius: Statement of Faith 4:12",
+                            "text": "Accordingly, that body is a thing made and created, which the Lord bore for us, which was begotten for us, as Paul says, 'wisdom from God, and sanctification and righteousness, and redemption;' while yet the Word was before us and before all Creation, and is, the Wisdom of the Father."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 4,
+                            "name": "Athanasius: Statement of Faith 4:13",
+                            "text": "But the Holy Spirit, being that which proceeds from the Father, is ever in the hands of the Father Who sends and of the Son Who conveys Him, by Whose means He filled all things."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 4,
+                            "name": "Athanasius: Statement of Faith 4:14",
+                            "text": "The Father, possessing His existence from Himself, begat the Son, as we said, and did not create Him, as a river from a well and as a branch from a root, and as brightness from a light, things which nature knows to be indivisible; through whom to the Father be glory and power and greatness before all ages, and unto all the ages of the ages, Amen."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

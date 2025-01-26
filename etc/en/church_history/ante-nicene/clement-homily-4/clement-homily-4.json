@@ -1,0 +1,1149 @@
+{
+    "books": [
+        {
+            "name": "Clement: Homily IV",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Clement: Homily IV 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Clement: Homily IV 1:1",
+                            "text": "Homily IV: Chapter I."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Clement: Homily IV 1:2",
+                            "text": "—Bernice's Hospitality."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Clement: Homily IV 1:3",
+                            "text": "Thus I Clement, departing from Caesarea Stratonis, together with Nicetas and Aquila, entered into Tyre of Phoenicia; and according to the injunction of Peter, who sent us, we lodged with Bernice, the daughter of Justa the Canaanitess."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Clement: Homily IV 1:4",
+                            "text": "She received us most joyfully; and striving with much honour towards me, and with affection towards Aquila and Nicetas, and speaking freely as a friend, through joy she treated us courteously, and hospitably urged us to take bodily refreshment."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Clement: Homily IV 1:5",
+                            "text": "Perceiving, therefore, that she was endeavouring to impose a short delay upon us, I said:  \"You do well, indeed, to busy yourself in fulfilling the part of love; but the fear of our God must take the precedence of this."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Clement: Homily IV 1:6",
+                            "text": "For, having a combat on hand on behalf of many souls, we are afraid of preferring our own ease before their salvation."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 2,
+                    "name": "Clement: Homily IV 2",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 2,
+                            "name": "Clement: Homily IV 2:1",
+                            "text": "Chapter II."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 2,
+                            "name": "Clement: Homily IV 2:2",
+                            "text": "—Simon's Practices."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 2,
+                            "name": "Clement: Homily IV 2:3",
+                            "text": "\"For we hear that Simon the magician, being worsted at Caesarea in the discussion with our lord Peter, immediately hastened hither, and is doing much mischief."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 2,
+                            "name": "Clement: Homily IV 2:4",
+                            "text": "For he is slandering Peter, in opposition to truth, to all the adversaries, and stealing away the souls of the multitude."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 2,
+                            "name": "Clement: Homily IV 2:5",
+                            "text": "For he being a magician, calls him a magician; and he being a deceiver, proclaims him as a deceiver."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 2,
+                            "name": "Clement: Homily IV 2:6",
+                            "text": "And although in the discussions he was beaten in all points, and fled, yet he says that he was victorious; and he constantly charges them that they ought not to listen to Peter,—as if, forsooth, he were anxious that they may not be fascinated by a terrible magician."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 3,
+                    "name": "Clement: Homily IV 3",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 3,
+                            "name": "Clement: Homily IV 3:1",
+                            "text": "Chapter III."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 3,
+                            "name": "Clement: Homily IV 3:2",
+                            "text": "—Object of the Mission."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 3,
+                            "name": "Clement: Homily IV 3:3",
+                            "text": "\"Therefore our lord Peter, having learned these things, has sent us to be investigators of the things that have been told him; that if they be so, we may write to him and let him know, so that he may come and convict him face to face of the accusations that he has uttered against him."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 3,
+                            "name": "Clement: Homily IV 3:4",
+                            "text": "Since, therefore, danger on the part of many souls lies before us, on this account we must neglect bodily rest for a short time; and we would learn truly from you who live here, whether the things which we have heard be true."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 3,
+                            "name": "Clement: Homily IV 3:5",
+                            "text": "Now tell us particularly\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 4,
+                    "name": "Clement: Homily IV 4",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 4,
+                            "name": "Clement: Homily IV 4:1",
+                            "text": "Chapter IV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 4,
+                            "name": "Clement: Homily IV 4:2",
+                            "text": "—Simon's Doings."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 4,
+                            "name": "Clement: Homily IV 4:3",
+                            "text": "But Bernice, being asked, said:  \"These things are indeed as you have heard; and I will tell you other things respecting this same Simon, which perhaps you do not know."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 4,
+                            "name": "Clement: Homily IV 4:4",
+                            "text": "For he astonishes the whole city every day, by making spectres and ghosts appear in the midst of the market-place; and when he walks abroad, statues move, and many shadows go before him, which, he says, are souls of the dead."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 4,
+                            "name": "Clement: Homily IV 4:5",
+                            "text": "And many who attempted to prove him an impostor he speedily reconciled to him; and afterwards, under pretence of a banquet, having slain an ox, and given them to eat of it, he infected them with various diseases, and subjected them to demons."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 4,
+                            "name": "Clement: Homily IV 4:6",
+                            "text": "And in a word, having injured many, and being supposed to be a god, he is both feared and honoured\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 5,
+                    "name": "Clement: Homily IV 5",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 5,
+                            "name": "Clement: Homily IV 5:1",
+                            "text": "Chapter V."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 5,
+                            "name": "Clement: Homily IV 5:2",
+                            "text": "—Discretion the Better Part of Valour."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 5,
+                            "name": "Clement: Homily IV 5:3",
+                            "text": "\"Wherefore I do not think that any one will be able to quench such a fire as has been kindled."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 5,
+                            "name": "Clement: Homily IV 5:4",
+                            "text": "For no one doubts his promises; but every one affirms that this is so."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 5,
+                            "name": "Clement: Homily IV 5:5",
+                            "text": "Wherefore, lest you should expose yourselves to danger, I advise you not to attempt anything against him until Peter come, who alone shall be able to resist such a power, being the most esteemed disciple of our Lord Jesus Christ."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 5,
+                            "name": "Clement: Homily IV 5:6",
+                            "text": "For so much do I fear this man, that if he had not elsewhere been vanquished in disputing with my lord Peter, I should counsel you to persuade even Peter himself not to attempt to oppose Simon\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 6,
+                    "name": "Clement: Homily IV 6",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 6,
+                            "name": "Clement: Homily IV 6:1",
+                            "text": "Chapter VI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 6,
+                            "name": "Clement: Homily IV 6:2",
+                            "text": "—Simon's Departure."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 6,
+                            "name": "Clement: Homily IV 6:3",
+                            "text": "Then I said:  \"If our lord Peter did not know that he himself alone can prevail against this power, he would not have sent us before him with orders to get information secretly concerning Simon, and to write to him\"."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 6,
+                            "name": "Clement: Homily IV 6:4",
+                            "text": "Then, as evening had come on, we took supper, and went to sleep."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 6,
+                            "name": "Clement: Homily IV 6:5",
+                            "text": "But in the morning, one of Bernice's friends came and said that Simon had set sail for Sidon, and that he had left behind him Appion Pleistonices,—a man of Alexandria, a grammarian by profession, whom I knew as being a friend of my father; and a certain astrologer, Annubion the Diospolitan, and Athenodorus the Athenian, attached to the doctrine of Epicurus."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 6,
+                            "name": "Clement: Homily IV 6:6",
+                            "text": "And we, having learned these things concerning Simon, in the morning wrote and despatched a letter to Peter, and went to take a walk."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 7,
+                    "name": "Clement: Homily IV 7",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 7,
+                            "name": "Clement: Homily IV 7:1",
+                            "text": "Chapter VII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 7,
+                            "name": "Clement: Homily IV 7:2",
+                            "text": "—Appion's Salutation."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 7,
+                            "name": "Clement: Homily IV 7:3",
+                            "text": "And Appion met us, not only with the two companions just named, but with about thirty other men."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 7,
+                            "name": "Clement: Homily IV 7:4",
+                            "text": "And as soon as he saw me, he saluted and kissed me, and said, \"This is Clement, of whose noble birth and liberal education I have often told you; for he, being related to the family of Tiberius Caesar, and equipped with all Grecian learning, has been seduced by a certain barbarian called Peter to speak and act after the manner of the Jews."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 7,
+                            "name": "Clement: Homily IV 7:5",
+                            "text": "Wherefore I beg of you to strive together with me for the setting of him right."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 7,
+                            "name": "Clement: Homily IV 7:6",
+                            "text": "And in your presence I now ask him."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 7,
+                            "name": "Clement: Homily IV 7:7",
+                            "text": "Let him tell me, since he thinks that he has devoted himself to piety, whether he is not acting most impiously, in forsaking the customs of his country, and falling away to those of the barbarians\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 8,
+                    "name": "Clement: Homily IV 8",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 8,
+                            "name": "Clement: Homily IV 8:1",
+                            "text": "Chapter VIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 8,
+                            "name": "Clement: Homily IV 8:2",
+                            "text": "—A Challenge."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 8,
+                            "name": "Clement: Homily IV 8:3",
+                            "text": "I answered:  \"I accept, indeed, your kindly affection towards me, but I take exception to your ignorance."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 8,
+                            "name": "Clement: Homily IV 8:4",
+                            "text": "For your affection is kindly, because you wish to continue in those customs which you consider to be good."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 8,
+                            "name": "Clement: Homily IV 8:5",
+                            "text": "But your inaccurate knowledge strives to lay a snare for me, under the guise of friendship\"."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 8,
+                            "name": "Clement: Homily IV 8:6",
+                            "text": "Then said Appion:  \"Does it seem to you to be ignorance, that one should observe the customs of his fathers, and judge after the manner of the Greeks?\"  Then I answered:  \"It behoves one who desires to be pious not altogether to observe the customs of his fathers; but to observe them if they be pious, and to shake them off if they be impious."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 8,
+                            "name": "Clement: Homily IV 8:7",
+                            "text": "For it is possible that one who is the son of an impious father, if he wishes to be pious, should not desire to follow the religion of his father\"."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 8,
+                            "name": "Clement: Homily IV 8:8",
+                            "text": "Then answered Appion:  \"What then?  Do you say that your father was a man of an evil life?\"  Then said I:  \"He was not of an evil life, but of an evil opinion\"."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 8,
+                            "name": "Clement: Homily IV 8:9",
+                            "text": "Then Appion:  \"I should like to know what was his evil apprehension\"."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 8,
+                            "name": "Clement: Homily IV 8:10",
+                            "text": "Then said I:  \"Because he believed the false and wicked myths of the Greeks\"."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 8,
+                            "name": "Clement: Homily IV 8:11",
+                            "text": "Then Appion asked:  \"What are these false and evil myths of the Greeks?\"  Then I said:  \"The wrong opinion concerning the gods, which, if you will bear with me, you shall hear, with those who are desirous to learn."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 9,
+                    "name": "Clement: Homily IV 9",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 9,
+                            "name": "Clement: Homily IV 9:1",
+                            "text": "Chapter IX."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 9,
+                            "name": "Clement: Homily IV 9:2",
+                            "text": "—Unworthy Ends of Philosophers."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 9,
+                            "name": "Clement: Homily IV 9:3",
+                            "text": "\"Wherefore, before beginning our conversation, let us now withdraw into some quieter place, and there I shall converse with you."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 9,
+                            "name": "Clement: Homily IV 9:4",
+                            "text": "And the reason why I wish to speak privately is this, because neither the multitude, nor even all the philosophers, approach honestly to the judgment of things as they are."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 9,
+                            "name": "Clement: Homily IV 9:5",
+                            "text": "For we know many, even of those who pride themselves on their philosophy, who are vainglorious, or who have put on the philosopher's robe for the sake of gain, and not for the sake of virtue itself; and they, if they do not find that for which they take to philosophy, turn to mockery."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 9,
+                            "name": "Clement: Homily IV 9:6",
+                            "text": "Therefore, on account of such as these, let us choose some place fit for private conference\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 10,
+                    "name": "Clement: Homily IV 10",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 10,
+                            "name": "Clement: Homily IV 10:1",
+                            "text": "Chapter X."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 10,
+                            "name": "Clement: Homily IV 10:2",
+                            "text": "—A Cool Retreat."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 10,
+                            "name": "Clement: Homily IV 10:3",
+                            "text": "And a certain one amongst them—a rich man, and possessing a garden of evergreen plants—said:  \"Since it is very hot, let us retire for a little from the city to my gardens\"."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 10,
+                            "name": "Clement: Homily IV 10:4",
+                            "text": "Accordingly they went forth, and sat down in a place where there were pure streams of cool water, and a green shade of all sorts of trees."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 10,
+                            "name": "Clement: Homily IV 10:5",
+                            "text": "There I sat pleasantly, and the others round about me; and they being silent, instead of a verbal request made to me, showed by their eager looks to me that they required the proof of my assertion."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 10,
+                            "name": "Clement: Homily IV 10:6",
+                            "text": "And therefore I proceeded to speak thus:—."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 11,
+                    "name": "Clement: Homily IV 11",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 11,
+                            "name": "Clement: Homily IV 11:1",
+                            "text": "Chapter XI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 11,
+                            "name": "Clement: Homily IV 11:2",
+                            "text": "—Truth and Custom."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 11,
+                            "name": "Clement: Homily IV 11:3",
+                            "text": "\"There is a certain great difference, O men of Greece, between truth and custom."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 11,
+                            "name": "Clement: Homily IV 11:4",
+                            "text": "For truth is found when it is honestly sought; but custom, whatsoever be the character of the custom received, whether true or false, is strengthened by itself without the exercise of judgment; and he who has received it is neither pleased with it as being true, nor grieved with it as false."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 11,
+                            "name": "Clement: Homily IV 11:5",
+                            "text": "For such an one has believed not by judgment, but by prejudice, resting his own hope on the opinion of those who have lived before him on a mere peradventure."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 11,
+                            "name": "Clement: Homily IV 11:6",
+                            "text": "And it is not easy to cast off the ancestral garment, though it be shown to himself to be wholly foolish and ridiculous."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 12,
+                    "name": "Clement: Homily IV 12",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 12,
+                            "name": "Clement: Homily IV 12:1",
+                            "text": "Chapter XII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 12,
+                            "name": "Clement: Homily IV 12:2",
+                            "text": "—Genesis."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 12,
+                            "name": "Clement: Homily IV 12:3",
+                            "text": "\"Therefore I say that the whole learning of the Greeks is a most dreadful fabrication of a wicked demon."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 12,
+                            "name": "Clement: Homily IV 12:4",
+                            "text": "For they have introduced many gods of their own, and these wicked, and subject to all kinds of passion; so that he who wishes to do the like things may not be ashamed, which belongs to a man, having as an example the wicked and unquiet lives of the mythological gods."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 12,
+                            "name": "Clement: Homily IV 12:5",
+                            "text": "And through his not being ashamed, such an one affords no hope of his repenting."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 12,
+                            "name": "Clement: Homily IV 12:6",
+                            "text": "And others have introduced fate, which is called genesis, contrary to which no one can suffer or do anything."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 12,
+                            "name": "Clement: Homily IV 12:7",
+                            "text": "This, therefore, also is like to the first."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 12,
+                            "name": "Clement: Homily IV 12:8",
+                            "text": "For any one who thinks that no one has aught to do or suffer contrary to genesis easily falls into sin; and having sinned, he does not repent of his impiety, holding it as his apology that he was borne on by genesis to do these things."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 12,
+                            "name": "Clement: Homily IV 12:9",
+                            "text": "And as he cannot rectify genesis, he has no reason to be ashamed of the sins he commits."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 13,
+                    "name": "Clement: Homily IV 13",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 13,
+                            "name": "Clement: Homily IV 13:1",
+                            "text": "Chapter XIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 13,
+                            "name": "Clement: Homily IV 13:2",
+                            "text": "—Destiny."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 13,
+                            "name": "Clement: Homily IV 13:3",
+                            "text": "\"And others introduce an unforeseeing destiny, as if all things revolved of their own accord, without the superintendence of any master."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 13,
+                            "name": "Clement: Homily IV 13:4",
+                            "text": "But thus to think these things is, as we have said, the most grievous of all opinions."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 13,
+                            "name": "Clement: Homily IV 13:5",
+                            "text": "For, as if there were no one superintending and fore-judging and distributing to every one according to his deserving, they easily do everything as they can through fearlessness."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 13,
+                            "name": "Clement: Homily IV 13:6",
+                            "text": "Therefore those who have such opinions do not easily, or perhaps do not at all, live virtuously; for they do not foresee the danger which might have the effect of converting them."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 13,
+                            "name": "Clement: Homily IV 13:7",
+                            "text": "But the doctrine of the barbarous Jews, as you call them, is most pious, introducing One as the Father and Creator of all this world, by nature good and righteous; good, indeed, as pardoning sins to those who repent; but righteous, as visiting to every one after repentance according to the worthiness of his doings."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 14,
+                    "name": "Clement: Homily IV 14",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 14,
+                            "name": "Clement: Homily IV 14:1",
+                            "text": "Chapter XIV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 14,
+                            "name": "Clement: Homily IV 14:2",
+                            "text": "—\"Doctrine According to Godliness\"."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 14,
+                            "name": "Clement: Homily IV 14:3",
+                            "text": "\"This doctrine, even if it also be mythical, being pious, would not be without advantage for this life."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 14,
+                            "name": "Clement: Homily IV 14:4",
+                            "text": "For every one, in expectation of being judged by the all-seeing God, receives the greater impulse towards virtue."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 14,
+                            "name": "Clement: Homily IV 14:5",
+                            "text": "But if the doctrine be also true, it withdraws him who has lived virtuously from eternal punishment, and endows him with eternal and unspeakable blessings from God."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 15,
+                    "name": "Clement: Homily IV 15",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 15,
+                            "name": "Clement: Homily IV 15:1",
+                            "text": "Chapter XV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 15,
+                            "name": "Clement: Homily IV 15:2",
+                            "text": "—Wickedness of the Gods."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 15,
+                            "name": "Clement: Homily IV 15:3",
+                            "text": "\"But I return to the foremost doctrine of the Greeks, that which states in stories that there are gods many, and subject to all kinds of passions."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 15,
+                            "name": "Clement: Homily IV 15:4",
+                            "text": "And not to spend much time upon things that are clear, referring to the impious deeds of every one of those who are called gods, I could not tell all their amours; those of Zeus and Poseidon, of Pluto and Apollo, of Dionysus and Hercules, and of them all singly."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 15,
+                            "name": "Clement: Homily IV 15:5",
+                            "text": "And of these you are yourselves not ignorant, and have been taught their manners of life, being instructed in the Grecian learning, that, as competitors with the gods, you might do like things."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 16,
+                    "name": "Clement: Homily IV 16",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 16,
+                            "name": "Clement: Homily IV 16:1",
+                            "text": "Chapter XVI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 16,
+                            "name": "Clement: Homily IV 16:2",
+                            "text": "—Wickedness of Jupiter."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 16,
+                            "name": "Clement: Homily IV 16:3",
+                            "text": "\"But I shall begin with the most royal Zeus, whose father Kronos, having, as you say, devoured his own children, and having shorn off the members of his father Uranus with a sickle of adamant, showed to those who are zealous for the mysteries of the gods an example of piety towards parents and of love towards children."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 16,
+                            "name": "Clement: Homily IV 16:4",
+                            "text": "And Jupiter himself bound his own father, and imprisoned him in Tartarus; and he also punishes the other gods."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 16,
+                            "name": "Clement: Homily IV 16:5",
+                            "text": "And for those who wish to do things not to be spoken of, he begat Metis, and devoured her."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 16,
+                            "name": "Clement: Homily IV 16:6",
+                            "text": "But Metis was seed; for it is impossible to devour a child."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 16,
+                            "name": "Clement: Homily IV 16:7",
+                            "text": "And for an excuse to abusers of themselves with mankind, he carries away Ganymedes."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 16,
+                            "name": "Clement: Homily IV 16:8",
+                            "text": "And as a helper of adulterers in their adultery, he is often found an adulterer."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 16,
+                            "name": "Clement: Homily IV 16:9",
+                            "text": "And to those who wish to commit incest with sisters, he sets the example in his intercourse with his sisters Hera and Demeter, and the heavenly Aphrodite, whom some call Dodona."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 16,
+                            "name": "Clement: Homily IV 16:10",
+                            "text": "And to those who wish to commit incest with their daughters, there is a wicked example from his story, in his committing incest with Persephone."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 16,
+                            "name": "Clement: Homily IV 16:11",
+                            "text": "But in myriads of instances he acted impiously, that by reason of his excessive wickedness the fable of his being a god might be received by impious men."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 17,
+                    "name": "Clement: Homily IV 17",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 17,
+                            "name": "Clement: Homily IV 17:1",
+                            "text": "Chapter XVII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 17,
+                            "name": "Clement: Homily IV 17:2",
+                            "text": "—\"Their Makers are Like Unto Them\"."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 17,
+                            "name": "Clement: Homily IV 17:3",
+                            "text": "\"You will hold it reasonable for ignorant men to be moderately indignant at these fancies."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 17,
+                            "name": "Clement: Homily IV 17:4",
+                            "text": "But what must we say to the learned, some of whom, professing themselves to be grammarians and sophists, affirm that these acts are worthy of gods?  For, being themselves incontinent, they lay hold of this mythical pretext; and as imitators of the gods, they practise unseemly things with freedom."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 18,
+                    "name": "Clement: Homily IV 18",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 18,
+                            "name": "Clement: Homily IV 18:1",
+                            "text": "Chapter XVIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 18,
+                            "name": "Clement: Homily IV 18:2",
+                            "text": "—Second Nature."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 18,
+                            "name": "Clement: Homily IV 18:3",
+                            "text": "\"On this account, they who live in the country sin much less than they do, not having been indoctrinated in those things in which they have been indoctrinated who dare do these things, having learned from evil instruction to be impious."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 18,
+                            "name": "Clement: Homily IV 18:4",
+                            "text": "For they who from their childhood learn letters by means of such fables, while their soul is yet pliant, engraft the impious deeds of those who are called gods into their own minds; whence, when they are grown up, they ripen fruit, like evil seeds cast into the soul."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 18,
+                            "name": "Clement: Homily IV 18:5",
+                            "text": "And what is worst of all, the rooted impurities cannot be easily cut down, when they are perceived to be bitter by them when they have attained to manhood."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 18,
+                            "name": "Clement: Homily IV 18:6",
+                            "text": "For every one is pleased to remain in those habits which he forms in childhood; and thus, since custom is not much less powerful than nature, they become difficult to be converted to those good things which were not sown in their souls from the beginning."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 19,
+                    "name": "Clement: Homily IV 19",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 19,
+                            "name": "Clement: Homily IV 19:1",
+                            "text": "Chapter XIX."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 19,
+                            "name": "Clement: Homily IV 19:2",
+                            "text": "—\"Where Ignorance is Bliss\"."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 19,
+                            "name": "Clement: Homily IV 19:3",
+                            "text": "\"Wherefore it behoves the young not to be satisfied with those corrupting lessons, and those who are in their prime should carefully avoid listening to the mythologies of the Greeks."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 19,
+                            "name": "Clement: Homily IV 19:4",
+                            "text": "For lessons about their gods are much worse than ignorance, as we have shown from the case of those dwelling in the country, who sin less through their not having been instructed by Greeks."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 19,
+                            "name": "Clement: Homily IV 19:5",
+                            "text": "Truly, such fables of theirs, and spectacles, and books, ought to be shunned, and if it were possible, even their cities."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 19,
+                            "name": "Clement: Homily IV 19:6",
+                            "text": "For those who are full of evil learning, even with their breath infect as with madness those who associate with them, with their own passions."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 19,
+                            "name": "Clement: Homily IV 19:7",
+                            "text": "And what is worst, whoever is most instructed among them, is so much the more turned from the judgment which is according to nature."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 20,
+                    "name": "Clement: Homily IV 20",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 20,
+                            "name": "Clement: Homily IV 20:1",
+                            "text": "Chapter XX."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 20,
+                            "name": "Clement: Homily IV 20:2",
+                            "text": "—False Theories of Philosophers."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 20,
+                            "name": "Clement: Homily IV 20:3",
+                            "text": "\"And some of those amongst them who even profess to be philosophers, assert that such sins are indifferent, and say that those who are indignant at such practices are senseless."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 20,
+                            "name": "Clement: Homily IV 20:4",
+                            "text": "For they say that such things are not sins by nature, but have been proscribed by laws made by wise men in early times, through their knowing that men, through the instability of their minds, being greatly agitated on these accounts, wage war with one another; for which reason, wise men have made laws to proscribe such things as sins."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 20,
+                            "name": "Clement: Homily IV 20:5",
+                            "text": "But this is a ridiculous supposition."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 20,
+                            "name": "Clement: Homily IV 20:6",
+                            "text": "For how can they be other than sins, which are the cause of tumults, and murders, and every confusion?  For do not shortcomings of life and many more evils proceed from adultery?."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 21,
+                    "name": "Clement: Homily IV 21",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 21,
+                            "name": "Clement: Homily IV 21:1",
+                            "text": "Chapter XXI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 21,
+                            "name": "Clement: Homily IV 21:2",
+                            "text": "—Evils of Adultery."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 21,
+                            "name": "Clement: Homily IV 21:3",
+                            "text": "\"But why, it is said, if a man is ignorant of his wife's being an adulteress, is he not indignant, enraged, distracted? why does he not make war?  Thus these things are not evil by nature, but the unreasonable opinion of men make them terrible."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 21,
+                            "name": "Clement: Homily IV 21:4",
+                            "text": "But I say, that even if these dreadful things do not occur, it is usual for a woman, through association with an adulterer, either to forsake her husband, or if she continue to live with him, to plot against him, or to bestow upon the adulterer the goods procured by the labour of her husband; and having conceived by the adulterer while her husband is absent, to attempt the destruction of that which is in her womb, through shame of conviction, and so to become a child-murderer; or even, while destroying it, to be destroyed along with it."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 21,
+                            "name": "Clement: Homily IV 21:5",
+                            "text": "But if while her husband is at home she conceives by the adulterer and bears a child, the child when he grows up does not know his father, and thinks that he is his father who is not; and thus he who is not the father, at his death leaves his substance to the child of another."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 21,
+                            "name": "Clement: Homily IV 21:6",
+                            "text": "And how many other evils naturally spring from adultery!  And the secret evils we do not know."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 21,
+                            "name": "Clement: Homily IV 21:7",
+                            "text": "For as the mad dog destroys all that he touches, infecting them with the unseen madness, so also the hidden evil of adultery, though it be not known, effects the cutting off of posterity."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 22,
+                    "name": "Clement: Homily IV 22",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 22,
+                            "name": "Clement: Homily IV 22:1",
+                            "text": "Chapter XXII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 22,
+                            "name": "Clement: Homily IV 22:2",
+                            "text": "—A More Excellent Way."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 22,
+                            "name": "Clement: Homily IV 22:3",
+                            "text": "\"But let us pass over this now."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 22,
+                            "name": "Clement: Homily IV 22:4",
+                            "text": "But this we all know, that universally men are beyond measure enraged on account of it, that wars have been waged, that there have been overthrows of houses, and captures of cities, and myriads of other evils."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 22,
+                            "name": "Clement: Homily IV 22:5",
+                            "text": "On this account I betook myself to the holy God and law of the Jews, putting my faith in the well-assured conclusion that the law has been assigned by the righteous judgment of God, and that the soul must at some time receive according to the desert of its deeds\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 23,
+                    "name": "Clement: Homily IV 23",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 23,
+                            "name": "Clement: Homily IV 23:1",
+                            "text": "Chapter XXIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 23,
+                            "name": "Clement: Homily IV 23:2",
+                            "text": "—\"Whither Shall I Go from Thy Presence?\"  When I had thus spoken, Appion broke in upon my discourse."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 23,
+                            "name": "Clement: Homily IV 23:3",
+                            "text": "\"What!\" said he; \"do not the laws of the Greeks also forbid wickedness, and punish adulterers?\"  Then said I:  \"Then the gods of the Greeks, who acted contrary to the laws, deserve punishment."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 23,
+                            "name": "Clement: Homily IV 23:4",
+                            "text": "But how shall I be able to restrain myself, if I suppose that the gods themselves first practised all wickednesses as well as adultery, and did not suffer punishment; whereas they ought the rather to have suffered, as not being slaves to lust?  But if they were subject to it, how were they gods?\"  Then Appion said:  \"Let us have in our eye not the gods, but the judges; and looking to them, we shall be afraid to sin\"."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 23,
+                            "name": "Clement: Homily IV 23:5",
+                            "text": "Then I said:  \"This is not fitting, O Appion:  for he who has his eye upon men will dare to sin, in hope of escaping detection; but he who sets before his soul the all-seeing God, knowing that he cannot escape His notice, will refrain from sinning even in secret\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 24,
+                    "name": "Clement: Homily IV 24",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 24,
+                            "name": "Clement: Homily IV 24:1",
+                            "text": "Chapter XXIV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 24,
+                            "name": "Clement: Homily IV 24:2",
+                            "text": "—Allegory."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 24,
+                            "name": "Clement: Homily IV 24:3",
+                            "text": "When Appion heard this, he said:  \"I knew, ever since I heard that you were consorting with Jews, that you had alienated your judgment."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 24,
+                            "name": "Clement: Homily IV 24:4",
+                            "text": "For it has been well said by some one, 'Evil communications corrupt good manners."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 24,
+                            "name": "Clement: Homily IV 24:5",
+                            "text": "'\"  Then said I:  \"Therefore good communications correct evil manners\"."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 24,
+                            "name": "Clement: Homily IV 24:6",
+                            "text": "And Appion said:  \"Today I am fully satisfied to have learned your position; therefore I permitted you to speak first."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 24,
+                            "name": "Clement: Homily IV 24:7",
+                            "text": "But to-morrow, in this place, if it is agreeable to you, I will show, in the presence of these friends when they meet, that our gods are neither adulterers, nor murderers, nor corrupters of children, nor guilty of incest with sisters or daughters."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 24,
+                            "name": "Clement: Homily IV 24:8",
+                            "text": "But the ancients, wishing that only lovers of learning should know the mysteries, veiled them with those fables of which you have spoken."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 24,
+                            "name": "Clement: Homily IV 24:9",
+                            "text": "For they speak physiologically of boiling substance under the name of Zen, and of time under that of Kronos, and of the ever-flowing nature of water under that of Rhea."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 24,
+                            "name": "Clement: Homily IV 24:10",
+                            "text": "However, as I have promised, I shall to-morrow exhibit the truth of things, explaining them one by one to you when you come together in the morning\"."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 24,
+                            "name": "Clement: Homily IV 24:11",
+                            "text": "In reply to this I said:  \"To-morrow, as you have promised, so do."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 24,
+                            "name": "Clement: Homily IV 24:12",
+                            "text": "But now hear something in opposition to what you are going to say."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 25,
+                    "name": "Clement: Homily IV 25",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 25,
+                            "name": "Clement: Homily IV 25:1",
+                            "text": "Chapter XXV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 25,
+                            "name": "Clement: Homily IV 25:2",
+                            "text": "—An Engagement for To-Morrow."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 25,
+                            "name": "Clement: Homily IV 25:3",
+                            "text": "\"If the doings of the gods, being good, have been veiled with evil fables, the wickedness of him who wove the veil is shown to have been great, because he concealed noble things with evil narratives, that no one imitate them."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 25,
+                            "name": "Clement: Homily IV 25:4",
+                            "text": "But if they really did things impious, they ought, on the contrary, to have veiled them with good narratives, lest men, regarding them as their superiors, should set about sinning in like manner\"."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 25,
+                            "name": "Clement: Homily IV 25:5",
+                            "text": "As I spoke thus, those present were evidently beginning to be well-disposed towards the words spoken by me; for they repeatedly and earnestly asked me to come on the following day, and departed."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

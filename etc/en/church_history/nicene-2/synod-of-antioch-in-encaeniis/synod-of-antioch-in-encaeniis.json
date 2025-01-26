@@ -1,0 +1,693 @@
+{
+    "books": [
+        {
+            "name": "Synod of Antioch in Encaeniis",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Synod of Antioch in Encaeniis 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Synod of Antioch in Encaeniis 1:1",
+                            "text": "The Synod of Antioch in Encaeniis:  The Synodal Letter."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Synod of Antioch in Encaeniis 1:2",
+                            "text": "(Found in Labbe and Cossart, Concilia, Tom."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Synod of Antioch in Encaeniis 1:3",
+                            "text": "II."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Synod of Antioch in Encaeniis 1:4",
+                            "text": ", col."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Synod of Antioch in Encaeniis 1:5",
+                            "text": "559."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Synod of Antioch in Encaeniis 1:6",
+                            "text": "It really is no part of the canons, but I have placed it here, because, as Labbe notes, \"it is usually prefixed to the canons in the Greek\"."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "Synod of Antioch in Encaeniis 1:7",
+                            "text": ")  The holy and most peaceful Synod which has been gathered together in Antioch from the provinces of Coele-Syria, Phoenicia, Palestine, Arabia, Mesopotamia, Cilicia, and Isauria; to our like-minded and holy fellow Ministers in every Province, health in the Lord."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 1,
+                            "name": "Synod of Antioch in Encaeniis 1:8",
+                            "text": "The grace and truth of our Lord and Saviour Jesus Christ hath regarded the holy Church of the Antiochians, and, by joining it together with unity of mind and concord and the Spirit of Peace, hath likewise bettered many other things; and in them all this betterment is wrought by the assistance of the holy and peace-giving Spirit."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 1,
+                            "name": "Synod of Antioch in Encaeniis 1:9",
+                            "text": "Wherefore, that which after much examination and investigation, was unanimously agreed upon by us bishops, who coming out of various Provinces have met together in Antioch, we have now brought to your knowledge; trusting in the grace of Christ and in the Holy Spirit of Peace, that ye also will agree with us and stand by us as far as in you lies, striving with us in prayers, and being even more united with us, following the Holy Spirit, uniting in our definitions, and decreeing the same things as we; ye, in the concord which proceedeth of the Holy Spirit, sealing and confirming what has been determined."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 1,
+                            "name": "Synod of Antioch in Encaeniis 1:10",
+                            "text": "Now the Canons of the Church which have been settled are hereto appended."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 2,
+                    "name": "Synod of Antioch in Encaeniis 2",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 2,
+                            "name": "Synod of Antioch in Encaeniis 2:1",
+                            "text": "Canon I."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 2,
+                            "name": "Synod of Antioch in Encaeniis 2:2",
+                            "text": "Whosoever shall presume to set aside the decree of the holy and great Synod which was assembled at Nice in the presence of the pious Emperor Constantine, beloved of God, concerning the holy and salutary feast of Easter; if they shall obstinately persist in opposing what was [then] rightly ordained, let them be excommunicated and cast out of the Church; this is said concerning the laity."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 2,
+                            "name": "Synod of Antioch in Encaeniis 2:3",
+                            "text": "But if any one of those who preside in the Church, whether he be bishop, presbyter, or deacon, shall presume, after this decree, to exercise his own private judgment to the subversion of the people and to the disturbance of the churches, by observing Easter [at the same time] with the Jews, the holy Synod decrees that he shall thenceforth be an alien from the Church, as one who not only heaps sins upon himself, but who is also the cause of destruction and subversion to many; and it deposes not only such persons themselves from their ministry, but those also who after their deposition shall presume to communicate with them."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 2,
+                            "name": "Synod of Antioch in Encaeniis 2:4",
+                            "text": "And the deposed shall be deprived even of that external honour, of which the holy Canon and God's priesthood partake."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 3,
+                    "name": "Synod of Antioch in Encaeniis 3",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 3,
+                            "name": "Synod of Antioch in Encaeniis 3:1",
+                            "text": "Canon II."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 3,
+                            "name": "Synod of Antioch in Encaeniis 3:2",
+                            "text": "All who enter the church of God and hear the Holy Scriptures, but do not communicate with the people in prayers, or who turn away, by reason of some disorder, from the holy partaking of the Eucharist, are to be cast out of the Church, until, after they shall have made confession, and having brought forth the fruits of penance, and made earnest entreaty, they shall have obtained forgiveness; and it is unlawful to communicate with excommunicated persons, or to assemble in private houses and pray with those who do not pray in the Church; or to receive in one Church those who do not assemble with another Church."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 3,
+                            "name": "Synod of Antioch in Encaeniis 3:3",
+                            "text": "And, if any one of the bishops, presbyters, or deacons, or any one in the Canon shall be found communicating with excommunicated persons, let him also be excommunicated, as one who brings confusion on the order of the Church."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 4,
+                    "name": "Synod of Antioch in Encaeniis 4",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 4,
+                            "name": "Synod of Antioch in Encaeniis 4:1",
+                            "text": "Canon III."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 4,
+                            "name": "Synod of Antioch in Encaeniis 4:2",
+                            "text": "If any presbyter or deacon, or any one whatever belonging to the priesthood, shall forsake his own parish, and shall depart, and, having wholly changed his residence, shall set himself to remain for a long time in another parish, let him no longer officiate; especially if his own bishop shall summon and urge him to return to his own parish and he shall disobey."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 4,
+                            "name": "Synod of Antioch in Encaeniis 4:3",
+                            "text": "And if he persist in his disorder, let him be wholly deposed from his ministry, so that no further room be left for his restoration."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 4,
+                            "name": "Synod of Antioch in Encaeniis 4:4",
+                            "text": "And if another bishop shall receive a man deposed for this cause, let him be punished by the Common Synod as one who nullifies the ecclesiastical laws."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 5,
+                    "name": "Synod of Antioch in Encaeniis 5",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 5,
+                            "name": "Synod of Antioch in Encaeniis 5:1",
+                            "text": "Canon IV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 5,
+                            "name": "Synod of Antioch in Encaeniis 5:2",
+                            "text": "If any bishop who has been deposed by a synod, or any presbyter or deacon who has been deposed by his bishop shall presume to execute any part of the ministry, whether it be a bishop according to his former custom, or a presbyter, or a deacon, he shall no longer have any prospect of restoration in another Synod; nor any opportunity of making his defence; but they who communicate with him shall all be cast out of the Church, and particularly if they have presumed to communicate with the persons aforementioned, knowing the sentence pronounced against them."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 6,
+                    "name": "Synod of Antioch in Encaeniis 6",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 6,
+                            "name": "Synod of Antioch in Encaeniis 6:1",
+                            "text": "Canon V."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 6,
+                            "name": "Synod of Antioch in Encaeniis 6:2",
+                            "text": "If any presbyter or deacon, despising this own bishop, has separated himself from the Church, and gathered a private assembly, and set up an altar; and if, when summoned by his bishop, he shall refuse to be persuaded and will not obey, even though he summon him a first and a second time, let such an one be wholly deposed and have no further remedy, neither be capable of regaining his rank."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 6,
+                            "name": "Synod of Antioch in Encaeniis 6:3",
+                            "text": "And if he persist in troubling and disturbing the Church, let him be corrected, as a seditious person, by the civil power."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 7,
+                    "name": "Synod of Antioch in Encaeniis 7",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 7,
+                            "name": "Synod of Antioch in Encaeniis 7:1",
+                            "text": "Canon VI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 7,
+                            "name": "Synod of Antioch in Encaeniis 7:2",
+                            "text": "If any one has been excommunicated by his own bishop, let him not be received by others until he has either been restored by his own bishop, or until, when a synod is held, he shall have appeared and made his defence, and, having convinced the synod, shall have received a different sentence."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 7,
+                            "name": "Synod of Antioch in Encaeniis 7:3",
+                            "text": "And let this decree apply to the laity, and to presbyters and deacons, and all who are enrolled in the clergy-list."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 8,
+                    "name": "Synod of Antioch in Encaeniis 8",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 8,
+                            "name": "Synod of Antioch in Encaeniis 8:1",
+                            "text": "Canon VII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 8,
+                            "name": "Synod of Antioch in Encaeniis 8:2",
+                            "text": "No stranger shall be received without letters pacifical."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 9,
+                    "name": "Synod of Antioch in Encaeniis 9",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 9,
+                            "name": "Synod of Antioch in Encaeniis 9:1",
+                            "text": "Canon VIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 9,
+                            "name": "Synod of Antioch in Encaeniis 9:2",
+                            "text": "Let not country presbyters give letters canonical, or let them send such letters only to the neighbouring bishops."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 9,
+                            "name": "Synod of Antioch in Encaeniis 9:3",
+                            "text": "But the chorepiscopi of good report may give letters pacifical."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 10,
+                    "name": "Synod of Antioch in Encaeniis 10",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 10,
+                            "name": "Synod of Antioch in Encaeniis 10:1",
+                            "text": "Canon IX."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 10,
+                            "name": "Synod of Antioch in Encaeniis 10:2",
+                            "text": "It behoves the bishops in every province to acknowledge the bishop who presides in the metropolis, and who has to take thought for the whole province; because all men of business come together from every quarter to the metropolis."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 10,
+                            "name": "Synod of Antioch in Encaeniis 10:3",
+                            "text": "Wherefore it is decreed that he have precedence in rank, and that the other bishops do nothing extraordinary without him, (according to the ancient canon which prevailed from [the times of] our Fathers) or such things only as pertain to their own particular parishes and the districts subject to them."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 10,
+                            "name": "Synod of Antioch in Encaeniis 10:4",
+                            "text": "For each bishop has authority over his own parish, both to manage it with the piety which is incumbent on every one, and to make provision for the whole district which is dependent on his city; to ordain presbyters and deacons; and to settle everything with judgment."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 10,
+                            "name": "Synod of Antioch in Encaeniis 10:5",
+                            "text": "But let him undertake nothing further without the bishop of the metropolis; neither the latter without the consent of the others."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 11,
+                    "name": "Synod of Antioch in Encaeniis 11",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 11,
+                            "name": "Synod of Antioch in Encaeniis 11:1",
+                            "text": "Canon X."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 11,
+                            "name": "Synod of Antioch in Encaeniis 11:2",
+                            "text": "The Holy Synod decrees that persons in villages and districts, or those who are called chorepiscopi, even though they may have received ordination to the Episcopate, shall regard their own limits and manage the churches subject to them, and be content with the care and administration of these; but they may ordain readers, sub-deacons and exorcists, and shall be content with promoting these, but shall not presume to ordain either a presbyter or a deacon, without the consent of bishop of the city to which he and his district are subject."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 11,
+                            "name": "Synod of Antioch in Encaeniis 11:3",
+                            "text": "And if he shall dare to transgress [these] decrees, he shall be deposed from the rank which he enjoys."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 11,
+                            "name": "Synod of Antioch in Encaeniis 11:4",
+                            "text": "And a chorepiscopus is to be appointed by the bishop of the city to which he is subject."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 12,
+                    "name": "Synod of Antioch in Encaeniis 12",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 12,
+                            "name": "Synod of Antioch in Encaeniis 12:1",
+                            "text": "Canon XI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 12,
+                            "name": "Synod of Antioch in Encaeniis 12:2",
+                            "text": "If any bishop, or presbyter, or any one whatever of the canon shall presume to betake himself to the Emperor without the consent and letters of the bishop of the province, and particularly of the bishop of the metropolis, such a one shall be publicly deposed and cast out, not only from communion, but also from the rank which he happens to have; inasmuch as he dares to trouble the ears of our Emperor beloved of God, contrary to the law of the Church."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 12,
+                            "name": "Synod of Antioch in Encaeniis 12:3",
+                            "text": "But, if necessary business shall require any one to go to the Emperor, let him do it with the advice and consent of the metropolitan and other bishops in the province, and let him undertake his journey with letters from them."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 13,
+                    "name": "Synod of Antioch in Encaeniis 13",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 13,
+                            "name": "Synod of Antioch in Encaeniis 13:1",
+                            "text": "Canon XII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 13,
+                            "name": "Synod of Antioch in Encaeniis 13:2",
+                            "text": "If any presbyter or deacon deposed by his own bishop, or any bishop deposed by a synod, shall dare to trouble the ears of the Emperor, when it is his duty to submit his case to a greater synod of bishops, and to refer to more bishops the things which he thinks right, and to abide by the examination and decision made by them; if, despising these, he shall trouble the Emperor, he shall be entitled to no pardon, neither shall he have an opportunity of defence, nor any hope of future restoration."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 14,
+                    "name": "Synod of Antioch in Encaeniis 14",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 14,
+                            "name": "Synod of Antioch in Encaeniis 14:1",
+                            "text": "Canon XIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 14,
+                            "name": "Synod of Antioch in Encaeniis 14:2",
+                            "text": "No bishop shall presume to pass from one province to another, and ordain persons to the dignity of the ministry in the Church, not even should he have others with him, unless he should go at the written invitation of the metropolitan and bishops into whose country he goes."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 14,
+                            "name": "Synod of Antioch in Encaeniis 14:3",
+                            "text": "But if he should, without invitation, proceed irregularly to the ordination of any, or to the regulation of ecclesiastical affairs which do not concern him, the things done by him are null, and he himself shall suffer the due punishment of his irregularity and his unreasonable undertaking, by being forthwith deposed by the holy Synod."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 15,
+                    "name": "Synod of Antioch in Encaeniis 15",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 15,
+                            "name": "Synod of Antioch in Encaeniis 15:1",
+                            "text": "Canon XIV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 15,
+                            "name": "Synod of Antioch in Encaeniis 15:2",
+                            "text": "If a bishop shall be tried on any accusations, and it should then happen that the bishops of the province disagree concerning him, some pronouncing the accused innocent, and others guilty; for the settlement of all disputes, the holy Synod decrees that the metropolitan call on some others belonging to the neighbouring province, who shall add their judgment and resolve the dispute, and thus, with those of the province, confirm what is determined."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 16,
+                    "name": "Synod of Antioch in Encaeniis 16",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 16,
+                            "name": "Synod of Antioch in Encaeniis 16:1",
+                            "text": "Canon XV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 16,
+                            "name": "Synod of Antioch in Encaeniis 16:2",
+                            "text": "If any bishop, lying under any accusation, shall be judged by all the bishops in the province, and all shall unanimously deliver the same verdict concerning him, he shall not be again judged by others, but the unanimous sentence of the bishops of the province shall stand firm."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 17,
+                    "name": "Synod of Antioch in Encaeniis 17",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 17,
+                            "name": "Synod of Antioch in Encaeniis 17:1",
+                            "text": "Canon XVI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 17,
+                            "name": "Synod of Antioch in Encaeniis 17:2",
+                            "text": "If any bishop without a see shall throw himself upon a vacant church and seize its throne, without a full synod, he shall be cast out, even if all the people over whom he has usurped jurisdiction should choose him."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 17,
+                            "name": "Synod of Antioch in Encaeniis 17:3",
+                            "text": "And that shall be [accounted] a full synod, in which the metropolitan is present."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 18,
+                    "name": "Synod of Antioch in Encaeniis 18",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 18,
+                            "name": "Synod of Antioch in Encaeniis 18:1",
+                            "text": "Canon XVII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 18,
+                            "name": "Synod of Antioch in Encaeniis 18:2",
+                            "text": "If any one having received the ordination of a bishop, and having been appointed to preside over a people, shall not accept his ministry, and will not be persuaded to proceed to the Church entrusted to him, he shall be excommunicated until he, being constrained, accept it, or until a full synod of the bishops of the province shall have determined concerning him."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 19,
+                    "name": "Synod of Antioch in Encaeniis 19",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 19,
+                            "name": "Synod of Antioch in Encaeniis 19:1",
+                            "text": "Canon XVIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 19,
+                            "name": "Synod of Antioch in Encaeniis 19:2",
+                            "text": "If any bishop ordained to a parish shall not proceed to the parish to which he has been ordained, not through any fault of his own, but either because of the rejection of the people, or for any other reason not arising from himself, let him enjoy his rank and ministry; only he shall not disturb the affairs of the Church which he joins; and he shall abide by whatever the full synod of the province shall determine, after judging the case."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 20,
+                    "name": "Synod of Antioch in Encaeniis 20",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 20,
+                            "name": "Synod of Antioch in Encaeniis 20:1",
+                            "text": "Canon XIX."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 20,
+                            "name": "Synod of Antioch in Encaeniis 20:2",
+                            "text": "A bishop shall not be ordained without a synod and the presence of the metropolitan of the province."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 20,
+                            "name": "Synod of Antioch in Encaeniis 20:3",
+                            "text": "And when he is present, it is by all means better that all his brethren in the ministry of the Province should assemble together with him; and these the metropolitan ought to invite by letter."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 20,
+                            "name": "Synod of Antioch in Encaeniis 20:4",
+                            "text": "And it were better that all should meet; but if this be difficult, it is indispensable that a majority should either be present or take part by letter in the election, and that thus the appointment should be made in the presence, or with the consent, of the majority; but if it should be done contrary to these decrees, the ordination shall be of no force."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 20,
+                            "name": "Synod of Antioch in Encaeniis 20:5",
+                            "text": "And if the appointment shall be made according to the prescribed canon, and any should object through natural love of contradiction, the decision of the majority shall prevail."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 21,
+                    "name": "Synod of Antioch in Encaeniis 21",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 21,
+                            "name": "Synod of Antioch in Encaeniis 21:1",
+                            "text": "Canon XX."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 21,
+                            "name": "Synod of Antioch in Encaeniis 21:2",
+                            "text": "With a view to the good of the Church and the settlement of disputes, it is decreed to be well that synods of the bishops, (of which the metropolitan shall give notice to the provincials), should be held in every province twice a year, one after the third week of the feast of Easter, so that the synod may be ended in the fourth week of the Pentecost; and the second on the ides of October which is the tenth [or fifteenth] day of the month Hyperberetaeus; so that presbyters and deacons, and all who think themselves unjustly dealt with, may resort to these synods and obtain the judgment of the synod."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 21,
+                            "name": "Synod of Antioch in Encaeniis 21:3",
+                            "text": "But it shall be unlawful for any to hold synods by themselves without those who are entrusted with the Metropolitan Sees."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 22,
+                    "name": "Synod of Antioch in Encaeniis 22",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 22,
+                            "name": "Synod of Antioch in Encaeniis 22:1",
+                            "text": "Canon XXI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 22,
+                            "name": "Synod of Antioch in Encaeniis 22:2",
+                            "text": "A bishop may not be translated from one parish to another, either intruding himself of his own suggestion, or under compulsion by the people, or by constraint of the bishops; but he shall remain in the Church to which he was allotted by God from the beginning, and shall not be translated from it, according to the decree formerly passed on the subject."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 23,
+                    "name": "Synod of Antioch in Encaeniis 23",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 23,
+                            "name": "Synod of Antioch in Encaeniis 23:1",
+                            "text": "Canon XXII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 23,
+                            "name": "Synod of Antioch in Encaeniis 23:2",
+                            "text": "Let not a bishop go to a strange city, which is not subject to himself, nor into a district which does not belong to him, either to ordain any one, or to appoint presbyters or deacons to places within the jurisdiction of another bishop, unless with the consent of the proper bishop of the place."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 23,
+                            "name": "Synod of Antioch in Encaeniis 23:3",
+                            "text": "And if any one shall presume to do any such thing, the ordination shall be void, and he himself shall be punished by the synod."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 24,
+                    "name": "Synod of Antioch in Encaeniis 24",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 24,
+                            "name": "Synod of Antioch in Encaeniis 24:1",
+                            "text": "Canon XXIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 24,
+                            "name": "Synod of Antioch in Encaeniis 24:2",
+                            "text": "It shall not be lawful for a bishop, even at the close of life, to appoint another as successor to himself; and if any such thing should be done, the appointment shall be void."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 24,
+                            "name": "Synod of Antioch in Encaeniis 24:3",
+                            "text": "But the ecclesiastical law must be observed, that a bishop must not be appointed otherwise than by a synod and with the judgment of the bishops, who have the authority to promote the man who is worthy, after the falling asleep of him who has ceased from his labours."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 25,
+                    "name": "Synod of Antioch in Encaeniis 25",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 25,
+                            "name": "Synod of Antioch in Encaeniis 25:1",
+                            "text": "Canon XXIV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 25,
+                            "name": "Synod of Antioch in Encaeniis 25:2",
+                            "text": "It is right that what belongs to the Church be preserved with all care to the Church, with a good conscience and faith in God, the inspector and judge of all."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 25,
+                            "name": "Synod of Antioch in Encaeniis 25:3",
+                            "text": "And these things ought to be administered under the judgment and authority of the bishop, who is entrusted with the whole people and with the souls of the congregation."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 25,
+                            "name": "Synod of Antioch in Encaeniis 25:4",
+                            "text": "But it should be manifest what is church property, with the knowledge of the presbyters and deacons about him; so that these may know assuredly what things belong to the Church, and that nothing be concealed from them, in order that, when the bishop may happen to depart this life, the property belonging to the Church being well known, may not be embezzled nor lost, and in order that the private property of the bishop may not be disturbed on a pretence that it is part of the ecclesiastical goods."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 25,
+                            "name": "Synod of Antioch in Encaeniis 25:5",
+                            "text": "For it is just and well-pleasing to God and man that the private property of the bishop be bequeathed to whomsoever he will, but that for the Church be kept whatever belongs to the Church; so that neither the Church may suffer loss, nor the bishop be injured under pretext of the Church's interest, nor those who belong to him fall into lawsuits, and himself, after his death, be brought under reproach."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 26,
+                    "name": "Synod of Antioch in Encaeniis 26",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 26,
+                            "name": "Synod of Antioch in Encaeniis 26:1",
+                            "text": "Canon XXV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 26,
+                            "name": "Synod of Antioch in Encaeniis 26:2",
+                            "text": "Let the bishop have power over the funds of the Church, so as to dispense them with all piety and in the fear of God to all who need."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 26,
+                            "name": "Synod of Antioch in Encaeniis 26:3",
+                            "text": "And if there be occasion, let him take what he requires for his own necessary uses and those of his brethren sojourning with him, so that they may in no way lack, according to the divine Apostle, who says, \"Having food and raiment, let us therewith be content\"."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 26,
+                            "name": "Synod of Antioch in Encaeniis 26:4",
+                            "text": "And if he shall not be content with these, but shall apply the funds to his own private uses, and not manage the revenues of the Church, or the rent of the farms, with the consent of the presbyters and deacons, but shall give the authority to his own domestics and kinsmen, or brothers, or sons, so that the accounts of the Church are secretly injured, he himself shall submit to an investigation by the synod of the province."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 26,
+                            "name": "Synod of Antioch in Encaeniis 26:5",
+                            "text": "But if, on the other hand, the bishop or his presbyters shall be defamed as appropriating to themselves what belongs to the Church, (whether from lands or any other ecclesiastical resources), so that the poor are oppressed, and accusation and infamy are brought upon the account and on those who so administer it, let them also be subject to correction, the holy synod determining what is right."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

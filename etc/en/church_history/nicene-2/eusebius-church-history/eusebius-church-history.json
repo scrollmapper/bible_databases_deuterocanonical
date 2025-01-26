@@ -1,0 +1,2679 @@
+{
+    "books": [
+        {
+            "name": "Eusebius: Church History",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Eusebius: Church History 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:1",
+                            "text": "Chapter III  Eusebius' Church History."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:2",
+                            "text": "§."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:3",
+                            "text": "Date of its Composition  The work with which we are especially concerned at this time is the Church History, the original Greek of which is still extant in numerous mss."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:4",
+                            "text": "It consists of ten books, to which is added in most of the mss."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:5",
+                            "text": "the shorter form of the Martyrs of Palestine (see above, p."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:6",
+                            "text": ")."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:7",
+                            "text": "The date of the work can be determined with considerable exactness."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:8",
+                            "text": "It closes with a eulogy of Constantine and his son Crispus; and since the latter was put to death by his father in the summer of , the History must have been completed before that time."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:9",
+                            "text": "On the other hand, in the same chapter Eusebius refers to the defeat of Licinius, which took place in the year  a."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:10",
+                            "text": "d."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:11",
+                            "text": "This gives a fixed terminus a quo."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:12",
+                            "text": "It is not quite certain from Eusebius' words whether the death of Licinius had already taken place at the time he wrote, but it seems probable that it had, and if so, the completion of the work must be put as late as the summer of."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:13",
+                            "text": "On the other hand, not the slightest reference is made to the Council of Nicaea, which met in the summer of ; and still further the tenth book is dedicated to Paulinus, at one time bishop of Tyre and afterward bishop of Antioch (see Euseb."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:14",
+                            "text": "Contra Marc."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:15",
+                            "text": "I."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:16",
+                            "text": ", and Philost."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:17",
+                            "text": "H."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:18",
+                            "text": "E."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:19",
+                            "text": "III."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:20",
+                            "text": "), who was already dead in the summer of : for at the Nicene Council, Zeno appears as bishop of Tyre, and Eustathius as bishop of Antioch (see for further particulars Lightfoot, p."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:21",
+                            "text": ")."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:22",
+                            "text": "We are thus led to place the completion of the History in the year , or, to give the widest possible limits, between the latter part of  and the early part of  a."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:23",
+                            "text": "d."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:24",
+                            "text": "But the question has been raised whether the earlier books may not have been composed some years before this."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:25",
+                            "text": "Lightfoot (following Westcott) supposes that the first nine books were completed not long after the edict of Milan and before the outbreak of the quarrel between Constantine and Licinius in."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:26",
+                            "text": "There is considerable to be said in favor of this theory."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:27",
+                            "text": "The language used in the dedication of the tenth book seems to imply that the nine books had been completed some time before, and that the tenth is added as a sort of postscript."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:28",
+                            "text": "The close of the ninth book strengthens that conclusion."
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:29",
+                            "text": "Moreover, it would seem from the last sentences of that book that Constantine and Licinius were in perfect harmony at the time it was written, a state of affairs which did not exist after."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:30",
+                            "text": "On the other hand, it must be noticed that in Book IX."
+                        },
+                        {
+                            "verse": 31,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:31",
+                            "text": "chap."
+                        },
+                        {
+                            "verse": 32,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:32",
+                            "text": "Licinius' \"madness\" is twice referred to as having \"not yet\" seized him (in § οὔπω μανέντος τοτε, and in § οὔπω τότε ἐφ᾽ ἣν ὕστερον ἐκπέπτωκε μανίαν, τὴν δι€νοιαν ἐκτραπείς)."
+                        },
+                        {
+                            "verse": 33,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:33",
+                            "text": "It is necessary either to interpret both these clauses as later insertions (possibly by Eusebius' own hand at the time when he added the tenth book; cf."
+                        },
+                        {
+                            "verse": 34,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:34",
+                            "text": "also p."
+                        },
+                        {
+                            "verse": 35,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:35",
+                            "text": ", above), or to throw the composition of the ninth book down to the year  or later."
+                        },
+                        {
+                            "verse": 36,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:36",
+                            "text": "It is difficult to decide between these alternatives, but I am inclined on the whole to think that Westcott's theory is probably correct, and that the two clauses can best be interpreted as later insertions."
+                        },
+                        {
+                            "verse": 37,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:37",
+                            "text": "The very nature of his History would at any rate lead us to think that Eusebius spent some years in the composition of it, and that the earlier books, if not published, were at least completed long before the issue of the ten books as a whole."
+                        },
+                        {
+                            "verse": 38,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:38",
+                            "text": "The Chronicle is referred to as already written in I."
+                        },
+                        {
+                            "verse": 39,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:39",
+                            "text": "; the Eclogae Proph."
+                        },
+                        {
+                            "verse": 40,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:40",
+                            "text": "(? see below, p."
+                        },
+                        {
+                            "verse": 41,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:41",
+                            "text": ") in I."
+                        },
+                        {
+                            "verse": 42,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:42",
+                            "text": "and ; the Collection of Ancient Martyrdoms in IV."
+                        },
+                        {
+                            "verse": 43,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:43",
+                            "text": ", V."
+                        },
+                        {
+                            "verse": 44,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:44",
+                            "text": "preface, , and ; the Defense of Origen in VI."
+                        },
+                        {
+                            "verse": 45,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:45",
+                            "text": ", , and ; the Life of Pamphilus in VI."
+                        },
+                        {
+                            "verse": 46,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:46",
+                            "text": ", VII."
+                        },
+                        {
+                            "verse": 47,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:47",
+                            "text": ", and VIII."
+                        },
+                        {
+                            "verse": 48,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:48",
+                            "text": "In VIII."
+                        },
+                        {
+                            "verse": 49,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:49",
+                            "text": "Eusebius speaks also of his intention of relating the sufferings of the martyrs in another work (but see above, p."
+                        },
+                        {
+                            "verse": 50,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:50",
+                            "text": ")."
+                        },
+                        {
+                            "verse": 51,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:51",
+                            "text": "§."
+                        },
+                        {
+                            "verse": 52,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:52",
+                            "text": "The Author's Design."
+                        },
+                        {
+                            "verse": 53,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:53",
+                            "text": "That the composition of a history of the Church was Eusebius' own idea, and was not due to any suggestion from without, seems clear, both from the absence of reference to any one else as prompting it, and from the lack of a dedication at the beginning of the work."
+                        },
+                        {
+                            "verse": 54,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:54",
+                            "text": "The reasons which led him to undertake its composition seem to have been both scientific and apologetic."
+                        },
+                        {
+                            "verse": 55,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:55",
+                            "text": "He lived, and he must have realized the fact, at the opening of a new age in the history of the Church."
+                        },
+                        {
+                            "verse": 56,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:56",
+                            "text": "He believed, as he frequently tells us, that the period of struggle had come to an end, and that the Church was now about entering upon a new era of prosperity."
+                        },
+                        {
+                            "verse": 57,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:57",
+                            "text": "He must have seen that it was a peculiarly fitting time to put on record for the benefit of posterity the great events which had taken place within the Church during the generations that were past, to sum up in one narrative all the trials and triumphs which had now emerged in this final and greatest triumph, which he was witnessing."
+                        },
+                        {
+                            "verse": 58,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:58",
+                            "text": "He wrote, as any historian of the present day would write, for the information and instruction of his contemporaries and of those who should come after, and yet there was in his mind all the time the apologetic purpose, the desire to exhibit to the world the history of Christianity as a proof of its divine origin and efficacy."
+                        },
+                        {
+                            "verse": 59,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:59",
+                            "text": "The plan which he proposed to himself is stated at the very beginning of his work: \"It is my purpose to write an account of the successions of the holy apostles, as well as of the times which have elapsed from the days of our Saviour to our own; and to relate how many and how important events are said to have occurred in the history of the Church; and to mention those who have governed and presided over the Church in the most prominent parishes, and those who in each generation have proclaimed the divine word either orally or in writing."
+                        },
+                        {
+                            "verse": 60,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:60",
+                            "text": "It is my purpose also to give the names and the number and the times of those who through love of innovation have run into the greatest errors, and proclaiming themselves discoverers of knowledge, falsely so-called, have, like fierce wolves, unmercifully devastated the flock of Christ."
+                        },
+                        {
+                            "verse": 61,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:61",
+                            "text": "It is my intention, moreover, to recount the misfortunes which immediately came upon the whole Jewish nation in consequence of their plots against our Saviour, and to record the ways and the times in which the divine word has been attacked by the Gentiles, and to describe the character of those who at various periods have contended for it in the face of blood and tortures, as well as the confessions which have been made in our own days, and finally the gracious and kindly succour which our Saviour afforded them all\"."
+                        },
+                        {
+                            "verse": 62,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:62",
+                            "text": "It will be seen that Eusebius had a very comprehensive idea of what a history of the Church should comprise, and that he was fully alive to its importance."
+                        },
+                        {
+                            "verse": 63,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:63",
+                            "text": "§."
+                        },
+                        {
+                            "verse": 64,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:64",
+                            "text": "Eusebius as a Historian."
+                        },
+                        {
+                            "verse": 65,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:65",
+                            "text": "The Merits and Defects of his History."
+                        },
+                        {
+                            "verse": 66,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:66",
+                            "text": "The whole Christian world has reason to be thankful that there lived at the opening of the fourth century a man who, with his life spanning one of the greatest epochs that has occurred in the history of the Church, with an intimate experimental knowledge of the old and of the new condition of things, was able to conceive so grand a plan and possessed the means and the ability to carry it out."
+                        },
+                        {
+                            "verse": 67,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:67",
+                            "text": "Had he written nothing else, Eusebius' Church History would have made him immortal; for if immortality be a fitting reward for large and lasting services, few possess a clearer title to it than the author of that work."
+                        },
+                        {
+                            "verse": 68,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:68",
+                            "text": "The value of the History to us lies not in its literary merit, but in the wealth of the materials which it furnishes for a knowledge of the early Church."
+                        },
+                        {
+                            "verse": 69,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:69",
+                            "text": "How many prominent figures of the first three centuries are known to us only from the pages of Eusebius; how many fragments, priceless on account of the light which they shed upon movements of momentous and far-reaching consequence, have been preserved by him alone; how often a hint dropped, a casual statement made in passing, or the mention of some apparently trifling event, gives the clue which enables us to unravel some perplexing labyrinth, or to fit into one whole various disconnected and apparently unrelated elements, and thus to trace the steps in the development of some important historical movement whose rise and whose bearing must otherwise remain an unsolved riddle."
+                        },
+                        {
+                            "verse": 70,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:70",
+                            "text": "The work reveals no sympathy with Ebionism, Gnosticism, and Montanism, and little appreciation of their real nature, and yet our knowledge of their true significance and of their place in history is due in considerable part to facts respecting the movements or their leaders which Eusebius alone has recorded or preserved."
+                        },
+                        {
+                            "verse": 71,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:71",
+                            "text": "To understand the development of the Logos Christology we must comprehend the significance of the teaching of Paul of Samosata, and how inadequate would our knowledge of the nature of that teaching be without the epistle quoted in Book VII."
+                        },
+                        {
+                            "verse": 72,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:72",
+                            "text": "chap."
+                        },
+                        {
+                            "verse": 73,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:73",
+                            "text": "How momentous were the consequences of the paschal controversies, and how dark would they be were it not for the light shed upon them by our author."
+                        },
+                        {
+                            "verse": 74,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:74",
+                            "text": "How important, in spite of their tantalizing brevity and obscurity, the fragments of Papias' writings; how interesting the extracts from the memoirs of Hegesippus; how suggestive the meager notices from Dionysius of Corinth, from Victor of Rome, from Melito, from Caius; how instructive the long and numerous quotations from the epistles of Dionysius of Alexandria! He may often fail to appreciate the significance of the events which he records, he may in many cases draw unwarranted conclusions from the premises which he states, he may sometimes misinterpret his documents and misunderstand men and movements, but in the majority of cases he presents us with the material upon which to form our own judgments, and if we differ with him we must at the same time thank him for the data which have enabled us independently to reach other results."
+                        },
+                        {
+                            "verse": 75,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:75",
+                            "text": "But the value of Eusebius' Church History does not lie solely in the fact that it contains so many original sources which would be otherwise unknown to us."
+                        },
+                        {
+                            "verse": 76,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:76",
+                            "text": "It is not merely a thesaurus, it is a history in the truest sense, and it possesses an intrinsic value of its own, independent of its quotations from other works."
+                        },
+                        {
+                            "verse": 77,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:77",
+                            "text": "Eusebius possessed extensive sources of knowledge no longer accessible to us."
+                        },
+                        {
+                            "verse": 78,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:78",
+                            "text": "His History contains the results of his extended perusal of many works which are now irrecoverably lost, of his wide acquaintance with the current traditions of his day, of his familiar intercourse with many of the chief men of the age."
+                        },
+                        {
+                            "verse": 79,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:79",
+                            "text": "If we cut out all the documents which he quotes, there still remains an extensive history whose loss would leave an irreparable blank in our knowledge of the early Church."
+                        },
+                        {
+                            "verse": 80,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:80",
+                            "text": "How invaluable, for instance, to mention but one matter, are the researches of our author in regard to the circulation of the books of the New Testament: his testimony to the condition of the canon in his own time, and to the more or less widespread use of particular writings by the Fathers of preceding centuries."
+                        },
+                        {
+                            "verse": 81,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:81",
+                            "text": "Great as is the value of the sources which Eusebius quotes, those that he does not give are still more extensive, and it is the knowledge gained from them which he has transmitted to us."
+                        },
+                        {
+                            "verse": 82,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:82",
+                            "text": "The worth of these portions of his History must depend in the first place upon the extent and reliability of his sources, and in the second place upon the use which he made of them."
+                        },
+                        {
+                            "verse": 83,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:83",
+                            "text": "A glance at the list of his authorities given in the index, reveals at once the immense range of his materials."
+                        },
+                        {
+                            "verse": 84,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:84",
+                            "text": "The number of books which he either quotes or refers to as read is enormous."
+                        },
+                        {
+                            "verse": 85,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:85",
+                            "text": "When to these are added the works employed by him in the composition of his Praep."
+                        },
+                        {
+                            "verse": 86,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:86",
+                            "text": "Evang."
+                        },
+                        {
+                            "verse": 87,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:87",
+                            "text": ", as well as the great number which he must have perused, but does not mention, we are amazed at the extent of his reading."
+                        },
+                        {
+                            "verse": 88,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:88",
+                            "text": "He must have been a voracious reader from his earliest years, and he must have possessed extraordinary acquisitive powers."
+                        },
+                        {
+                            "verse": 89,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:89",
+                            "text": "It is safe to say that there was among the Fathers, with the possible exception of Origen, no more learned man than he."
+                        },
+                        {
+                            "verse": 90,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:90",
+                            "text": "He thus possessed one of the primary qualifications of the historian."
+                        },
+                        {
+                            "verse": 91,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:91",
+                            "text": "And yet even in this respect he had his limitations."
+                        },
+                        {
+                            "verse": 92,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:92",
+                            "text": "He seems to have taken no pains to acquaint himself with the works of heretics, but to have been content to take his knowledge of them at second hand."
+                        },
+                        {
+                            "verse": 93,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:93",
+                            "text": "And still further, he was sadly ignorant of Latin literature and of the Latin Church in general (see below, p."
+                        },
+                        {
+                            "verse": 94,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:94",
+                            "text": "); in fact, we must not expect to glean from his History a very thorough or extended knowledge of western Christendom."
+                        },
+                        {
+                            "verse": 95,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:95",
+                            "text": "But his sources were not confined to literary productions."
+                        },
+                        {
+                            "verse": 96,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:96",
+                            "text": "He had a wide acquaintance with the world, and he was enabled to pick up much from his intercourse with other men and with different peoples that he could not have found upon the shelves of the Caesarean or of any other library."
+                        },
+                        {
+                            "verse": 97,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:97",
+                            "text": "Moreover, he had access to the archives of state and gathered from them much information quite inaccessible to most men."
+                        },
+                        {
+                            "verse": 98,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:98",
+                            "text": "He was thus peculiarly fitted, both by nature and by circumstances, for the task of acquiring material, the first task of the genuine historian."
+                        },
+                        {
+                            "verse": 99,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:99",
+                            "text": "But the value of his work must depend in the second place upon the wisdom and honesty with which he used his sources, and upon the faithfulness and accuracy with which he reproduced the results thus reached."
+                        },
+                        {
+                            "verse": 100,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:100",
+                            "text": "We are therefore led to enquire as to his qualifications for this part of his work."
+                        },
+                        {
+                            "verse": 101,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:101",
+                            "text": "We notice, in the first place, that he was very diligent in the use of his sources."
+                        },
+                        {
+                            "verse": 102,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:102",
+                            "text": "Nothing seems to have escaped him that might in any way bear upon the particular subject in hand."
+                        },
+                        {
+                            "verse": 103,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:103",
+                            "text": "When he informs us that a certain author nowhere mentions a book or an event, he is, so far as I am aware, never mistaken."
+                        },
+                        {
+                            "verse": 104,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:104",
+                            "text": "When we realize how many works he read entirely through for the sake of securing a single historical notice, and how many more he must have read without finding anything to his purpose, we are impressed with his untiring diligence."
+                        },
+                        {
+                            "verse": 105,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:105",
+                            "text": "To-day, with our convenient indexes, and with the references at hand which have been made by many other men who have studied the writings of the ancients, we hardly comprehend what an amount of labor the production of a History like Eusebius' must have cost him, a pioneer in that kind of work."
+                        },
+                        {
+                            "verse": 106,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:106",
+                            "text": "In the second place, we are compelled to admire the sagacity which our author displays in the selection of his materials."
+                        },
+                        {
+                            "verse": 107,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:107",
+                            "text": "He possessed the true instinct of the historian, which enabled him to pick out the salient points and to present to the reader just that information which he most desires."
+                        },
+                        {
+                            "verse": 108,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:108",
+                            "text": "We shall be surprised upon examining his work to see how little it contains which it is not of the utmost importance for the student of early Church history to know, and how shrewdly the author has anticipated most of the questions which such a student must ask."
+                        },
+                        {
+                            "verse": 109,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:109",
+                            "text": "He saw what it was in the history of the first three centuries of the Church which posterity would most desire to know, and he told them."
+                        },
+                        {
+                            "verse": 110,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:110",
+                            "text": "His wisdom in this respect is all the more remarkable when compared with the unwisdom of most of his successors, who filled their works with legends of saints and martyrs, which, however fascinating they may have been to the readers of that age, possess little either of interest or of value for us."
+                        },
+                        {
+                            "verse": 111,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:111",
+                            "text": "When he wishes to give us a glimpse of the persecutions of those early days, his historical and literary instinct leads him to dwell especially upon two thoroughly representative cases,—the martyrdom of Polycarp and the sufferings of the churches of Lyons and Vienne,—and to preserve for posterity two of the noblest specimens of martyrological literature which the ancient Church produced."
+                        },
+                        {
+                            "verse": 112,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:112",
+                            "text": "It is true that he sometimes erred in his judgment as to the wants of future readers; we could wish that he had been somewhat fuller and clearer on many points, and that he had not so entirely neglected some others; but on the whole I am of the opinion that few historical works, ancient or modern, have in the same compass better fulfilled their mission in this respect."
+                        },
+                        {
+                            "verse": 113,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:113",
+                            "text": "In the third place, we can hardly fail to be impressed by the wisdom with which Eusebius discriminated between reliable and unreliable sources."
+                        },
+                        {
+                            "verse": 114,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:114",
+                            "text": "Judged by the modern standard he may fall short as a literary critic, but judged by the standard of antiquity he must be given a very high rank."
+                        },
+                        {
+                            "verse": 115,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:115",
+                            "text": "Few indeed are the historians of ancient times, secular or ecclesiastical, who can compare with Eusebius for sound judgment in this matter."
+                        },
+                        {
+                            "verse": 116,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:116",
+                            "text": "The general freedom of his work from the fables and prodigies, and other improbable or impossible tales which disfigure the pages of the great majority even of the soberest of ancient historians, is one of its most marked features."
+                        },
+                        {
+                            "verse": 117,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:117",
+                            "text": "He shows himself uncommonly particular in demanding good evidence for the circumstances which he records, and uncommonly shrewd in detecting spurious and unreliable sources."
+                        },
+                        {
+                            "verse": 118,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:118",
+                            "text": "When we remember the great number of pseudonymous works which were current in his day we are compelled to admire his care and his discrimination."
+                        },
+                        {
+                            "verse": 119,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:119",
+                            "text": "Not that he always succeeded in detecting the false."
+                        },
+                        {
+                            "verse": 120,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:120",
+                            "text": "More than once he was sadly at fault (as for instance in regard to the Abgarus correspondence and Josephus' testimony to Christ), and has in consequence been severely denounced or held up to unsparing ridicule by many modern writers."
+                        },
+                        {
+                            "verse": 121,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:121",
+                            "text": "But the wonder certainly is not that he erred as often as he did, but that he did not err oftener; not that he was sometimes careless in regard to the reliability of his sources, but that he was ever as careful as, in the majority of cases, he has proved himself to be."
+                        },
+                        {
+                            "verse": 122,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:122",
+                            "text": "In fact, comparing him with other writers of antiquity, we cannot commend too highly the care and the skill with which he usually discriminated between the true and the false."
+                        },
+                        {
+                            "verse": 123,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:123",
+                            "text": "In the fourth place, he deserves all praise for his constant sincerity and unfailing honesty."
+                        },
+                        {
+                            "verse": 124,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:124",
+                            "text": "I believe that emphasis should be laid upon this point for the reason that Eusebius' reputation has often suffered sadly in consequence of the unjust imputations, and the violent accusations, which it was for a long time the fashion to make against him, and which lead many still to treat his statements with distrust, and his character with contempt."
+                        },
+                        {
+                            "verse": 125,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:125",
+                            "text": "Gibbon's estimate of his honesty is well known and has been unquestioningly accepted in many quarters, but it is none the less unjust, and in its implications quite untrue to the facts."
+                        },
+                        {
+                            "verse": 126,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:126",
+                            "text": "Eusebius does dwell with greater fullness upon the virtues than upon the vices of the early Church, upon its glory than upon its shame, and he tells us directly that it is his intention so to do (H."
+                        },
+                        {
+                            "verse": 127,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:127",
+                            "text": "E."
+                        },
+                        {
+                            "verse": 128,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:128",
+                            "text": "VIII."
+                        },
+                        {
+                            "verse": 129,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:129",
+                            "text": "), but he never undertakes to conceal the sins of the Christians, and the chapter immediately preceding contains a denunciation of their corruptness and wickedness uttered in no faint terms."
+                        },
+                        {
+                            "verse": 130,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:130",
+                            "text": "In fact, in the face of these and other candid passages in his work, it is the sheerest injustice to charge him with dishonesty and unfairness because he prefers, as almost any Christian historian must, to dwell with greater fullness of detail upon the bright than upon the dark side of the picture."
+                        },
+                        {
+                            "verse": 131,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:131",
+                            "text": "Scientific, Eusebius' method, in this respect, doubtless is not; but dishonest, no one has a right to call it."
+                        },
+                        {
+                            "verse": 132,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:132",
+                            "text": "The most severe attack which has been made upon Eusebius in recent years is found in an article by Jachmann (see below, p."
+                        },
+                        {
+                            "verse": 133,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:133",
+                            "text": ")."
+                        },
+                        {
+                            "verse": 134,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:134",
+                            "text": "The evident animus which runs through his entire paper is very unpleasant; the conclusions which he draws are, to say the least, strained."
+                        },
+                        {
+                            "verse": 135,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:135",
+                            "text": "I cannot enter here into a consideration of his positions; most of them are examined below in the notes upon the various passages which he discusses."
+                        },
+                        {
+                            "verse": 136,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:136",
+                            "text": "The whole article, like most similar attacks, proceeds upon the supposition that our author is guilty, and then undertakes simply to find evidence of that which is already presupposed."
+                        },
+                        {
+                            "verse": 137,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:137",
+                            "text": "I submit that few writers could endure such an ordeal."
+                        },
+                        {
+                            "verse": 138,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:138",
+                            "text": "If Eusebius is tried according to the principles of common justice, and of sound literary criticism, I am convinced, after long and careful study, that his sincerity and honesty of purpose cannot be impeached."
+                        },
+                        {
+                            "verse": 139,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:139",
+                            "text": "The particular instances which have been urged as proving his dishonesty will be discussed below in the notes upon the respective passages, and to those the reader is referred (compare especially pp."
+                        },
+                        {
+                            "verse": 140,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:140",
+                            "text": ", , , , , , , )."
+                        },
+                        {
+                            "verse": 141,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:141",
+                            "text": "Eusebius' critics are wont to condemn him severely for what they are pleased to call the dishonesty displayed by him in his Vita Constantini."
+                        },
+                        {
+                            "verse": 142,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:142",
+                            "text": "Such critics forget, apparently, that that work pretends to be, not a history, but a panegyric."
+                        },
+                        {
+                            "verse": 143,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:143",
+                            "text": "Judging it as such, I am unable to find anything in it which leads me to entertain for a moment a suspicion of the author's honesty."
+                        },
+                        {
+                            "verse": 144,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:144",
+                            "text": "It is true that Eusebius emphasizes the Emperor's good qualities, and fails to mention the darker spots in his character; but so far as I am aware he misstates no facts, and does only what those who eulogize deceased friends are accustomed to do the world over."
+                        },
+                        {
+                            "verse": 145,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:145",
+                            "text": "For a discussion of this matter the reader is referred to the prolegomena of Dr."
+                        },
+                        {
+                            "verse": 146,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:146",
+                            "text": "Richardson, pp."
+                        },
+                        {
+                            "verse": 147,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:147",
+                            "text": "sq."
+                        },
+                        {
+                            "verse": 148,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:148",
+                            "text": "of this volume."
+                        },
+                        {
+                            "verse": 149,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:149",
+                            "text": "I am pleased to learn from him that his study of the Vita has shown him nothing which justifies the charge of dishonesty brought against Eusebius."
+                        },
+                        {
+                            "verse": 150,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:150",
+                            "text": "One of the most decisive marks of veracity upon the part of our author is the frankness with which he confesses his lack of knowledge upon any subject (cf."
+                        },
+                        {
+                            "verse": 151,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:151",
+                            "text": "IV."
+                        },
+                        {
+                            "verse": 152,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:152",
+                            "text": "), and the care with which he distinguishes between the different kinds of evidence upon which he bases his statements."
+                        },
+                        {
+                            "verse": 153,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:153",
+                            "text": "How frequently the phrases λόγος žχει, φασί, λέγεται, &c."
+                        },
+                        {
+                            "verse": 154,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:154",
+                            "text": ", occur in connection with accounts which a less scrupulous historian would not hesitate to record as undoubted fact."
+                        },
+                        {
+                            "verse": 155,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:155",
+                            "text": "How particular he is to mention his sources for any unusual or startling event."
+                        },
+                        {
+                            "verse": 156,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:156",
+                            "text": "If the authorities seem to him quite inadequate, he simply omits all reference to an occurrence which most of his contemporaries and successors would have related with the greatest gusto; if the testimony seems to him strong, he records the circumstance and expressly mentions his authority, whether oral tradition, the testimony of eye-witnesses, or written accounts, and we are thus furnished the material from which to form our own judgments."
+                        },
+                        {
+                            "verse": 157,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:157",
+                            "text": "He is often blamed by modern writers for what they are pleased to call his excessive credulity."
+                        },
+                        {
+                            "verse": 158,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:158",
+                            "text": "Those who accuse him thus seem to forget that he lived in the fourth, not in the nineteenth century."
+                        },
+                        {
+                            "verse": 159,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:159",
+                            "text": "That he believed many things which we now declare to be incredible is perfectly true, but that he believed things that other Christians of his day pronounced incredible is not true."
+                        },
+                        {
+                            "verse": 160,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:160",
+                            "text": "Judged, in fact, according to the standard of his age—and indeed of eleven succeeding centuries—he must be pronounced remarkably free from the fault of over-credulity, in truth uncommonly skeptical in his attitude toward the marvelous."
+                        },
+                        {
+                            "verse": 161,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:161",
+                            "text": "Not that he denies the occurrence of prodigies and wonders in his own and other ages, but that he always demands the strongest testimony before he allows himself to be convinced of their truth."
+                        },
+                        {
+                            "verse": 162,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:162",
+                            "text": "Compare, e."
+                        },
+                        {
+                            "verse": 163,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:163",
+                            "text": "g."
+                        },
+                        {
+                            "verse": 164,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:164",
+                            "text": ", the care with which he gives his authorities for the anecdote in regard to the Thundering Legion (V."
+                        },
+                        {
+                            "verse": 165,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:165",
+                            "text": "), and his final suspension of judgment in the matter; compare also the emphasis which he lays upon the personal testimony of the Emperor in the matter of the appearance of the sign of the cross in the sky (Vita Const."
+                        },
+                        {
+                            "verse": 166,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:166",
+                            "text": "I."
+                        },
+                        {
+                            "verse": 167,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:167",
+                            "text": "sq."
+                        },
+                        {
+                            "verse": 168,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:168",
+                            "text": "), a phenomenon which he himself tells us that he would have believed upon no ordinary evidence."
+                        },
+                        {
+                            "verse": 169,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:169",
+                            "text": "His conduct in this matter is a sign rather of a skepticism uncommon in his age than of an excessive and unusual credulity."
+                        },
+                        {
+                            "verse": 170,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:170",
+                            "text": "Gibbon himself gives our author due credit in this respect, when he speaks of his character as \"less tinctured with credulity, and more practiced in the arts of courts, than that of almost any of his contemporaries\" (Decline and Fall, chap."
+                        },
+                        {
+                            "verse": 171,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:171",
+                            "text": "XVI."
+                        },
+                        {
+                            "verse": 172,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:172",
+                            "text": ")."
+                        },
+                        {
+                            "verse": 173,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:173",
+                            "text": "On the other hand, Eusebius as an historian had many very grave faults which it is not my wish in the least to palliate or conceal."
+                        },
+                        {
+                            "verse": 174,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:174",
+                            "text": "One of the most noticeable of these is his complete lack of any conception of historiography as a fine art."
+                        },
+                        {
+                            "verse": 175,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:175",
+                            "text": "His work is interesting and instructive because of the facts which it records, but that interest is seldom if ever enhanced by his mode of presentation."
+                        },
+                        {
+                            "verse": 176,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:176",
+                            "text": "There is little effective grouping, almost no sense of perspective, utter ignorance of the art of suggesting by a single line or phrase a finished picture of a man or of a movement."
+                        },
+                        {
+                            "verse": 177,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:177",
+                            "text": "He was not, in other words, a Thucydides or a Tacitus; but the world has seen not many such as they."
+                        },
+                        {
+                            "verse": 178,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:178",
+                            "text": "A second and still more serious fault is our author's want of depth, if I may so express myself, his failure to look beneath the surface and to grasp the real significance of things, to trace the influence of opinions and events."
+                        },
+                        {
+                            "verse": 179,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:179",
+                            "text": "We feel this defect upon every page."
+                        },
+                        {
+                            "verse": 180,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:180",
+                            "text": "We read the annals, but we are conscious of no masterful mind behind them, digesting and comprehending them into one organic and imposing whole."
+                        },
+                        {
+                            "verse": 181,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:181",
+                            "text": "This radical weakness in our author's method is revealed perhaps most clearly in his superficial and transcendental treatment of heretics and heresies, his failure to appreciate their origin and their bearing upon the progress of Christian thought."
+                        },
+                        {
+                            "verse": 182,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:182",
+                            "text": "Of a development in theology, in fact, he knows nothing, and hence his work lacks utterly that which we now look upon as the most instructive part of Church history,—the history of doctrine."
+                        },
+                        {
+                            "verse": 183,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:183",
+                            "text": "In the third place, severe censure must be passed upon our author for his carelessness and inaccuracy in matters of chronology."
+                        },
+                        {
+                            "verse": 184,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:184",
+                            "text": "We should expect that one who had produced the most extensive chronological work that had ever been given to the world, would be thoroughly at home in that province, but in truth his chronology is the most defective feature of his work."
+                        },
+                        {
+                            "verse": 185,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:185",
+                            "text": "The difficulty is chiefly due to his inexcusable carelessness, we might almost say slovenliness, in the use of different and often contradictory sources of information."
+                        },
+                        {
+                            "verse": 186,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:186",
+                            "text": "Instead of applying himself to the discrepancies, and endeavoring to reach the truth by carefully weighing the respective merits of the sources, or by testing their conclusions in so far as tests are possible, he adopts in many cases the results of both, apparently quite unsuspicious of the confusion consequent upon such a course."
+                        },
+                        {
+                            "verse": 187,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:187",
+                            "text": "In fact, the critical spirit which actuates him in dealing with many other matters seems to leave him entirely when he is concerned with chronology; and instead of proceeding with the care and circumspection of an historian, he accepts what he finds with the unquestioning faith of a child."
+                        },
+                        {
+                            "verse": 188,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:188",
+                            "text": "There is no case in which he can be convicted of disingenuousness, but at times his obtuseness is almost beyond belief."
+                        },
+                        {
+                            "verse": 189,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:189",
+                            "text": "An identity of names, or a resemblance between events recorded by different authors, will often be enough to lead him all unconsciously to himself into the most absurd and contradictory conclusions."
+                        },
+                        {
+                            "verse": 190,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:190",
+                            "text": "Instances of this may be seen in Book I."
+                        },
+                        {
+                            "verse": 191,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:191",
+                            "text": "chap."
+                        },
+                        {
+                            "verse": 192,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:192",
+                            "text": ", and in II."
+                        },
+                        {
+                            "verse": 193,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:193",
+                            "text": "His confusion in regard to the various Antonines (see especially the note on the preface to Book V."
+                        },
+                        {
+                            "verse": 194,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:194",
+                            "text": ") is not at all unusual among the writers of his day, and in view of the frequent and perplexing use of the same names by the different emperors, might be quite excusable in a less scholarly man than Eusebius, but in his case it is evidence of unpardonable want of care."
+                        },
+                        {
+                            "verse": 195,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:195",
+                            "text": "This serious defect in our author's method is not peculiar to him."
+                        },
+                        {
+                            "verse": 196,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:196",
+                            "text": "Many historians, critical almost to a fault in most matters, accept the received chronology without question, and build upon it as if it were the surest of foundations."
+                        },
+                        {
+                            "verse": 197,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:197",
+                            "text": "Such a consideration does not excuse Eusebius; it relieves him, however, of the stigma of peculiarity."
+                        },
+                        {
+                            "verse": 198,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:198",
+                            "text": "Finally, the character of the History is greatly impaired by our author's desultory method."
+                        },
+                        {
+                            "verse": 199,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:199",
+                            "text": "This is a characteristic of his literary work in general, and was referred to in the previous chapter."
+                        },
+                        {
+                            "verse": 200,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:200",
+                            "text": "All his works are marred by it, but few suffer more noticeably than the History."
+                        },
+                        {
+                            "verse": 201,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:201",
+                            "text": "The author does not confine himself as strictly as he should to the logical limits of the subject which he is treating, but allows himself to be led away from the main point by the suggestions that pour in upon him from all sides."
+                        },
+                        {
+                            "verse": 202,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:202",
+                            "text": "As Lightfoot remarks, \"We have not unfrequently to pick out from various parts of his work the notices bearing on one definite and limited subject."
+                        },
+                        {
+                            "verse": 203,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:203",
+                            "text": "He relates a fact, or quotes an authority bearing upon it, in season or out of season, according as it is recalled to his memory by some accidental connexion\"."
+                        },
+                        {
+                            "verse": 204,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:204",
+                            "text": "This unfortunate habit of Eusebius' is one into which men of wide learning are very apt to fall."
+                        },
+                        {
+                            "verse": 205,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:205",
+                            "text": "The richness of their acquisitions embarrasses them, and the immense number of facts in their possession renders a comprehension of them all into one logical whole very difficult; and yet unless the facts be thus comprehended, unless they be thoroughly digested and arranged, the result is confusion and obscurity."
+                        },
+                        {
+                            "verse": 206,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:206",
+                            "text": "To exclude is as necessary as to include, if one would write history with the highest measure of success; to exclude rigidly at one time what it is just as necessary to include at another."
+                        },
+                        {
+                            "verse": 207,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:207",
+                            "text": "To men like Eusebius there is perhaps nothing more difficult than this."
+                        },
+                        {
+                            "verse": 208,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:208",
+                            "text": "Only a mind as intensive as it is extensive, with a grasp as strong as its reach is wide, can accomplish it, and few are the minds that are blessed with both qualities."
+                        },
+                        {
+                            "verse": 209,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:209",
+                            "text": "Few are the writers whose histories stand upon our shelves that fail not sadly in the one or in the other; and in few perhaps does the failure seem more marked than in our author."
+                        },
+                        {
+                            "verse": 210,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:210",
+                            "text": "And yet, though it is apparent that the value of Eusebius' work is greatly impaired by its desultory method of treatment, I am confident that the defect is commonly exaggerated."
+                        },
+                        {
+                            "verse": 211,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:211",
+                            "text": "The paragraph which Lightfoot quotes from Westcott on this subject leaves a false impression."
+                        },
+                        {
+                            "verse": 212,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:212",
+                            "text": "Altogether too often our author introduces irrelevant matters, and repeats himself when repetition \"mars the symmetry of his work\"; and yet on the whole he follows a fairly well ordered plan with fairly good success."
+                        },
+                        {
+                            "verse": 213,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:213",
+                            "text": "He endeavors to preserve a strictly chronological sequence in his arrangement of the books, and he adheres for the most part to his purpose."
+                        },
+                        {
+                            "verse": 214,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:214",
+                            "text": "Though there may be disorder and confusion within the various periods, for instance within the apostolic age, the age of Trajan, of Hadrian, of the Antonines, &c."
+                        },
+                        {
+                            "verse": 215,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:215",
+                            "text": ", yet the periods themselves are kept reasonably distinct from one another, and having finished his account of one of them the author seldom returns to it."
+                        },
+                        {
+                            "verse": 216,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:216",
+                            "text": "Even in his treatment of the New Testament canon, which is especially desultory, he says most of what he has to say about it in connection with the apostles themselves, and before passing on to the second century."
+                        },
+                        {
+                            "verse": 217,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:217",
+                            "text": "I would not overlook the exceeding flagrancy of his desultoriness and repetitiousness in his accounts of the writings of many of the Fathers, especially of the two Clements, and yet I would emphasize the fact that he certainly had an outline plan which he designed to follow, and for which due credit should be given him."
+                        },
+                        {
+                            "verse": 218,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:218",
+                            "text": "He compares favorably in this respect with at least most of the writers of antiquity."
+                        },
+                        {
+                            "verse": 219,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:219",
+                            "text": "Only with our modern method of dividing history into periods, separated by natural boundary lines, and of handling it under clearly defined rubrics, have we become able wholly to avoid the confused and illogical treatment of Eusebius and of others like him."
+                        },
+                        {
+                            "verse": 220,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:220",
+                            "text": "§."
+                        },
+                        {
+                            "verse": 221,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:221",
+                            "text": "Editions and Versions."
+                        },
+                        {
+                            "verse": 222,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:222",
+                            "text": "The original Greek of Eusebius' History has been published in many editions."
+                        },
+                        {
+                            "verse": 223,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:223",
+                            "text": "The editio princeps is that of Robert Stephanus, which appeared at Paris in , and again, with a few changes, and with the Latin translation of Christophorsonus and the notes of Suffridus Petrus, at Geneva in."
+                        },
+                        {
+                            "verse": 224,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:224",
+                            "text": "Henr."
+                        },
+                        {
+                            "verse": 225,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:225",
+                            "text": "Valesius (de Valois) published his first edition of the Greek text, with a new Latin translation and with copious critical and explanatory notes, at Paris in."
+                        },
+                        {
+                            "verse": 226,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:226",
+                            "text": "His edition was reprinted at Mainz in , but the reprint is full of errors."
+                        },
+                        {
+                            "verse": 227,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:227",
+                            "text": "In , after Valesius' death, a revised edition was issued at Paris, which in  was reprinted with some corrections at Amsterdam."
+                        },
+                        {
+                            "verse": 228,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:228",
+                            "text": "In  Valesius' edition of Eusebius, together with his edition of Socrates, Sozomen, and the other Greek historians, was republished at Cambridge by William Reading, in three folio volumes."
+                        },
+                        {
+                            "verse": 229,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:229",
+                            "text": "This is the best edition of Valesius, the commentary being supplemented by ms."
+                        },
+                        {
+                            "verse": 230,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:230",
+                            "text": "notes which he had left among his papers, and increased by large additions from other writers under the head of Variorum."
+                        },
+                        {
+                            "verse": 231,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:231",
+                            "text": "A reprint of Reading's edition was issued in –, but according to Heinichen it is not as accurate as that of."
+                        },
+                        {
+                            "verse": 232,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:232",
+                            "text": "For the elucidation of Eusebius' History we owe more to Valesius than to any other man."
+                        },
+                        {
+                            "verse": 233,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:233",
+                            "text": "His edition of the text was an immense advance upon that of Stephanus, and has formed the basis of all subsequent editions, while his notes are a perfect storehouse of information from which all annotators of Eusebius have extensively drawn."
+                        },
+                        {
+                            "verse": 234,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:234",
+                            "text": "Migne's edition (Opera, II."
+                        },
+                        {
+                            "verse": 235,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:235",
+                            "text": "–) is a reprint of Valesius' edition of."
+                        },
+                        {
+                            "verse": 236,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:236",
+                            "text": "F."
+                        },
+                        {
+                            "verse": 237,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:237",
+                            "text": "A."
+                        },
+                        {
+                            "verse": 238,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:238",
+                            "text": "Stroth (Halle, )."
+                        },
+                        {
+                            "verse": 239,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:239",
+                            "text": "A new edition of the Greek text, of which, however, only the first volume appeared, comprising Books I."
+                        },
+                        {
+                            "verse": 240,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:240",
+                            "text": "-VII."
+                        },
+                        {
+                            "verse": 241,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:241",
+                            "text": "E."
+                        },
+                        {
+                            "verse": 242,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:242",
+                            "text": "Zimmermann (Frankfort-on-the-Main, )."
+                        },
+                        {
+                            "verse": 243,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:243",
+                            "text": "A new edition of the Greek text, containing also the Latin translation of Valesius, and a few critical notes."
+                        },
+                        {
+                            "verse": 244,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:244",
+                            "text": "F."
+                        },
+                        {
+                            "verse": 245,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:245",
+                            "text": "A."
+                        },
+                        {
+                            "verse": 246,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:246",
+                            "text": "Heinichen (Leipzig,  and )."
+                        },
+                        {
+                            "verse": 247,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:247",
+                            "text": "An edition of the Greek text in three volumes, with a reprint of the entire commentary of Valesius, and with the addition of Variorum notes."
+                        },
+                        {
+                            "verse": 248,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:248",
+                            "text": "The critical apparatus, printed in the third volume, is very meager."
+                        },
+                        {
+                            "verse": 249,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:249",
+                            "text": "A few valuable excursuses close the work."
+                        },
+                        {
+                            "verse": 250,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:250",
+                            "text": "Forty years later Heinichen published a second edition of the History in his Eusebii Pamphili Scripta Historica (Lips."
+                        },
+                        {
+                            "verse": 251,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:251",
+                            "text": "–,  vols."
+                        },
+                        {
+                            "verse": 252,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:252",
+                            "text": ")."
+                        },
+                        {
+                            "verse": 253,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:253",
+                            "text": "The first volume contains the Greek text of the History, with valuable prolegomena, copious critical apparatus and very useful indices; the second volume contains the Vita Constantini, the Panegyricus or De laudibus Constantini, and Constantine's Oratio ad Sanctorum coetum, also accompanied with critical apparatus and indices; the third volume contains an extensive commentary upon the works included in the first two volumes, together with twenty-nine valuable excursuses."
+                        },
+                        {
+                            "verse": 254,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:254",
+                            "text": "This entirely supersedes the first, and is on the whole the most complete and useful edition of the History which we have."
+                        },
+                        {
+                            "verse": 255,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:255",
+                            "text": "The editor made diligent use of the labors of his predecessors, especially of Laemmer's."
+                        },
+                        {
+                            "verse": 256,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:256",
+                            "text": "He did no independent work, however, in the way of collecting material for the criticism of the text, and was deficient in critical judgment."
+                        },
+                        {
+                            "verse": 257,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:257",
+                            "text": "As a consequence his text has often to be amended on the basis of the variant readings, which he gives with great fullness."
+                        },
+                        {
+                            "verse": 258,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:258",
+                            "text": "His commentary is made up largely of quotations from Valesius and other writers, and is valuable for the material it thus contains as well as for its references to other works."
+                        },
+                        {
+                            "verse": 259,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:259",
+                            "text": "It labors under the same incompleteness, however, that mars Valesius' commentary, and, moreover, contains almost nothing of independent value."
+                        },
+                        {
+                            "verse": 260,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:260",
+                            "text": "E."
+                        },
+                        {
+                            "verse": 261,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:261",
+                            "text": "Burton (Oxford, )."
+                        },
+                        {
+                            "verse": 262,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:262",
+                            "text": "The Greek text in two volumes, with the translation of Valesius and with critical apparatus; and again in , with the critical apparatus omitted, but with the notes of Valesius, Heinichen and others added."
+                        },
+                        {
+                            "verse": 263,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:263",
+                            "text": "Burton made large contributions to the criticism of the text, and had he lived to superintend the issue of the second edition, would perhaps have succeeded in giving us a better text than any which we now possess, for he was a far more sagacious critic than Heinichen."
+                        },
+                        {
+                            "verse": 264,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:264",
+                            "text": "As it is, his edition is marred by numerous imperfections, largely caused by the inaccuracy of those who collated mss."
+                        },
+                        {
+                            "verse": 265,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:265",
+                            "text": "for him."
+                        },
+                        {
+                            "verse": 266,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:266",
+                            "text": "His text, with the translation, notes, and critical apparatus omitted, was reprinted by Bright at Oxford in , and again in , in a single volume."
+                        },
+                        {
+                            "verse": 267,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:267",
+                            "text": "This is a very handy edition, and for school use is unsurpassed."
+                        },
+                        {
+                            "verse": 268,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:268",
+                            "text": "The typography is superb, and the admirable plan is followed of discarding quotation marks and printing all citations in smaller type, thus making plain to the eye at a glance what is Eusebius' own and what is another's."
+                        },
+                        {
+                            "verse": 269,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:269",
+                            "text": "The text is preceded by a very interesting and graphic life of the historian."
+                        },
+                        {
+                            "verse": 270,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:270",
+                            "text": "Schwegler (Tübingen, , in one volume)."
+                        },
+                        {
+                            "verse": 271,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:271",
+                            "text": "The Greek text with critical apparatus, but without translation and notes."
+                        },
+                        {
+                            "verse": 272,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:272",
+                            "text": "An accurate and useful edition."
+                        },
+                        {
+                            "verse": 273,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:273",
+                            "text": "Laemmer (Schaffhausen, –)."
+                        },
+                        {
+                            "verse": 274,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:274",
+                            "text": "The Greek text in one volume, with extensive critical apparatus, but without explanatory notes."
+                        },
+                        {
+                            "verse": 275,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:275",
+                            "text": "Laemmer had unusual opportunities for collecting material, and has made larger additions to the critical apparatus than any one else."
+                        },
+                        {
+                            "verse": 276,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:276",
+                            "text": "His edition was issued, however, in a most slovenly manner, and swarms with mistakes."
+                        },
+                        {
+                            "verse": 277,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:277",
+                            "text": "Great care should therefore be exercised in the use of it."
+                        },
+                        {
+                            "verse": 278,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:278",
+                            "text": "Finally must be mentioned the text of Dindorf (Lips."
+                        },
+                        {
+                            "verse": 279,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:279",
+                            "text": "), which is published in the Teubner series, and like most of the volumes of that series is handy and convenient, but of little value to the critical student."
+                        },
+                        {
+                            "verse": 280,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:280",
+                            "text": "There are few writings of the Fathers which more sadly need and more richly deserve a new critical edition than the History of Eusebius."
+                        },
+                        {
+                            "verse": 281,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:281",
+                            "text": "The material for the formation of a reliable text is extensive and accessible, but editors have contented themselves too much in the past with the results of their predecessors' labors, and unfortunately those labors have not always been accurate and thorough."
+                        },
+                        {
+                            "verse": 282,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:282",
+                            "text": "As a consequence a new and more careful collation of most of the mss."
+                        },
+                        {
+                            "verse": 283,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:283",
+                            "text": "of the original, together with those of Rufinus' translation, must lie at the foundation of any new work which is to be done in this line."
+                        },
+                        {
+                            "verse": 284,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:284",
+                            "text": "The publication of the Syriac version will doubtless furnish much valuable material which the next editor of the History will be able to use to advantage."
+                        },
+                        {
+                            "verse": 285,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:285",
+                            "text": "Anything less than such a thorough work as I have indicated will be of little worth."
+                        },
+                        {
+                            "verse": 286,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:286",
+                            "text": "Unless the new edition be based upon extensive and independent labors, it will be little if any improvement upon that of Heinichen."
+                        },
+                        {
+                            "verse": 287,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:287",
+                            "text": "It is to be hoped that a critical text, up to the standard of those of some other patristic works which we already possess, may yet be issued, which shall give us this, one of the noblest productions of the ancient Church, in a fitting and satisfactory form."
+                        },
+                        {
+                            "verse": 288,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:288",
+                            "text": "Translations of Eusebius' History are very numerous."
+                        },
+                        {
+                            "verse": 289,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:289",
+                            "text": "Probably the earliest of all is the ancient Syriac version which is preserved in great part in two mss."
+                        },
+                        {
+                            "verse": 290,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:290",
+                            "text": ", one of which is at St."
+                        },
+                        {
+                            "verse": 291,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:291",
+                            "text": "Petersburg and contains the entire History with the exception of Book VI."
+                        },
+                        {
+                            "verse": 292,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:292",
+                            "text": "and large portions of Books V."
+                        },
+                        {
+                            "verse": 293,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:293",
+                            "text": "and VII."
+                        },
+                        {
+                            "verse": 294,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:294",
+                            "text": "The ms."
+                        },
+                        {
+                            "verse": 295,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:295",
+                            "text": "is dated  a."
+                        },
+                        {
+                            "verse": 296,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:296",
+                            "text": "d."
+                        },
+                        {
+                            "verse": 297,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:297",
+                            "text": "(see Wright's description of it in his Catalogue of the Syriac mss."
+                        },
+                        {
+                            "verse": 298,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:298",
+                            "text": "in the British Museum acquired since the year , Part III."
+                        },
+                        {
+                            "verse": 299,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:299",
+                            "text": "p."
+                        },
+                        {
+                            "verse": 300,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:300",
+                            "text": "xv."
+                        },
+                        {
+                            "verse": 301,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:301",
+                            "text": "sq."
+                        },
+                        {
+                            "verse": 302,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:302",
+                            "text": ")."
+                        },
+                        {
+                            "verse": 303,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:303",
+                            "text": "The second ms."
+                        },
+                        {
+                            "verse": 304,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:304",
+                            "text": "is in the British Museum, and contains Books I."
+                        },
+                        {
+                            "verse": 305,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:305",
+                            "text": "–V."
+                        },
+                        {
+                            "verse": 306,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:306",
+                            "text": ", with some mutilations at the beginning of the first book."
+                        },
+                        {
+                            "verse": 307,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:307",
+                            "text": "The ms."
+                        },
+                        {
+                            "verse": 308,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:308",
+                            "text": "dates from the sixth century (see Wright's description of it in his Catalogue, p."
+                        },
+                        {
+                            "verse": 309,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:309",
+                            "text": ")."
+                        },
+                        {
+                            "verse": 310,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:310",
+                            "text": "From these mss."
+                        },
+                        {
+                            "verse": 311,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:311",
+                            "text": "Wright was engaged in preparing an edition of the Syriac, which remained unfinished at the time of his death."
+                        },
+                        {
+                            "verse": 312,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:312",
+                            "text": "Whether he left his work in such shape that it can soon be issued by some one else I have not yet learned."
+                        },
+                        {
+                            "verse": 313,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:313",
+                            "text": "The version was probably made at a very early date, possibly within the lifetime of Eusebius himself, though of that we can have no assurance."
+                        },
+                        {
+                            "verse": 314,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:314",
+                            "text": "I understand that it confirms in the main the Greek text as now printed in our best editions."
+                        },
+                        {
+                            "verse": 315,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:315",
+                            "text": "The original Latin version was made by Rufinus in the early years of the fifth century."
+                        },
+                        {
+                            "verse": 316,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:316",
+                            "text": "He translated only nine books, and added to them two of his own, in which he brought the history down to the death of Theodosius the Great."
+                        },
+                        {
+                            "verse": 317,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:317",
+                            "text": "He allowed himself his customary license in translating, and yet, although his version is by no means exact, it is one of our best sources for a knowledge of the true text of Eusebius, for it is possible, in many doubtful cases where our mss."
+                        },
+                        {
+                            "verse": 318,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:318",
+                            "text": "are hopelessly divided, to ascertain from his rendering what stood in the original Greek."
+                        },
+                        {
+                            "verse": 319,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:319",
+                            "text": "The version of Rufinus had a large circulation, and became in the Western Church a substitute for the original throughout the Middle Ages."
+                        },
+                        {
+                            "verse": 320,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:320",
+                            "text": "It was first printed, according to Fabricius (ib."
+                        },
+                        {
+                            "verse": 321,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:321",
+                            "text": "p."
+                        },
+                        {
+                            "verse": 322,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:322",
+                            "text": "), in  at Rome, afterward a great many times there and elsewhere."
+                        },
+                        {
+                            "verse": 323,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:323",
+                            "text": "The first critical edition, which still remains the best, is that of Cacciari (Rome, ), which has become rare, and is very difficult to find."
+                        },
+                        {
+                            "verse": 324,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:324",
+                            "text": "A new edition is a great desideratum."
+                        },
+                        {
+                            "verse": 325,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:325",
+                            "text": "An important work upon Rufinus' version is Kimmel's De Rufino Eusebii Interprete, Gerae,."
+                        },
+                        {
+                            "verse": 326,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:326",
+                            "text": "A new Latin translation, by Wolfgang Musculus, was published in Basle, in , and again in , , and , according to Fabricius (Bibl."
+                        },
+                        {
+                            "verse": 327,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:327",
+                            "text": "Gr."
+                        },
+                        {
+                            "verse": 328,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:328",
+                            "text": "VI."
+                        },
+                        {
+                            "verse": 329,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:329",
+                            "text": "p."
+                        },
+                        {
+                            "verse": 330,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:330",
+                            "text": ")."
+                        },
+                        {
+                            "verse": 331,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:331",
+                            "text": "I have myself seen only the edition of."
+                        },
+                        {
+                            "verse": 332,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:332",
+                            "text": "Still another Latin version, from the hand of Christophorsonus, was published at Louvain in."
+                        },
+                        {
+                            "verse": 333,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:333",
+                            "text": "This is the only edition of Christophorsonus which I have seen, but I have notices of Cologne editions of ,  and , and of a Paris edition of."
+                        },
+                        {
+                            "verse": 334,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:334",
+                            "text": "According to Fabricius the Paris edition, and according to Brunnet the Cologne edition of , contain the notes of Suffridus Petrus."
+                        },
+                        {
+                            "verse": 335,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:335",
+                            "text": "A revision of Christophorsonus' version is said by Crusè to have been published by Curterius, but I have not seen it, nor am I aware of its date."
+                        },
+                        {
+                            "verse": 336,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:336",
+                            "text": "Another translation, by Grynaeus, was published at Basle in."
+                        },
+                        {
+                            "verse": 337,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:337",
+                            "text": "This is the only edition of Grynaeus' version which I have seen, and I find in it no reference to an earlier one."
+                        },
+                        {
+                            "verse": 338,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:338",
+                            "text": "I have been informed, however, that an edition appeared in."
+                        },
+                        {
+                            "verse": 339,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:339",
+                            "text": "Hanmer seems to imply, in his preface, that Grynaeus' version is only a revision of that of Musculus, and if that were so we should have to identify the  edition with the  edition of Musculus mentioned by Fabricius (see above)."
+                        },
+                        {
+                            "verse": 340,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:340",
+                            "text": "I am able, however, to find no hint in Grynaeus' edition itself that his version is a revision of that of Musculus."
+                        },
+                        {
+                            "verse": 341,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:341",
+                            "text": "The translation of Valesius, which was first published in  (see above), was a great improvement upon all that had preceded it, and has been many times reprinted in other editions of Eusebius, as well as in his own."
+                        },
+                        {
+                            "verse": 342,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:342",
+                            "text": "The first German translation was published by Caspar Hedio."
+                        },
+                        {
+                            "verse": 343,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:343",
+                            "text": "The date of publication is given by Fabricius as , but the copy which I have seen is dated , and contains no reference to an earlier edition."
+                        },
+                        {
+                            "verse": 344,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:344",
+                            "text": "It comprises only nine books of Eusebius, supplemented by the two of Rufinus."
+                        },
+                        {
+                            "verse": 345,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:345",
+                            "text": "The title runs as follows: Chronica, das ist: wahrhaftige Beschreibunge aller alten Christlichen Kirchen; zum ersten, die hist."
+                        },
+                        {
+                            "verse": 346,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:346",
+                            "text": "eccles."
+                        },
+                        {
+                            "verse": 347,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:347",
+                            "text": "Eusebii Pamphili Caesariensis, Eilff Bücher; zum andern, die hist."
+                        },
+                        {
+                            "verse": 348,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:348",
+                            "text": "eccles."
+                        },
+                        {
+                            "verse": 349,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:349",
+                            "text": "tripartita Sozomeni, Socratis und Theodoreti, Zwölff Bücher; zum dritten die hist."
+                        },
+                        {
+                            "verse": 350,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:350",
+                            "text": "eccles."
+                        },
+                        {
+                            "verse": 351,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:351",
+                            "text": "sampt andern treffenlichen Geschichten, die zuvor in Teutschef Sprache wenig gelesen sind, auch Zwölff Bücher."
+                        },
+                        {
+                            "verse": 352,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:352",
+                            "text": "Von der Zeit an da die hist."
+                        },
+                        {
+                            "verse": 353,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:353",
+                            "text": "eccles."
+                        },
+                        {
+                            "verse": 354,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:354",
+                            "text": "tripartita aufhöret: das ist, von der jarzal an, vierhundert nach Christi geburt, biss auff das jar MDXLV, durch D."
+                        },
+                        {
+                            "verse": 355,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:355",
+                            "text": "Caspar Hedion zu Strassburg verteutscht und zusamen getragen."
+                        },
+                        {
+                            "verse": 356,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:356",
+                            "text": "Getruckt zu Franckfurt am Mayn, im jar."
+                        },
+                        {
+                            "verse": 357,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:357",
+                            "text": "A second German translation of the entire History (with the exception of the Martyrs of Palestine, and the Oration on the Building of the Churches, X."
+                        },
+                        {
+                            "verse": 358,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:358",
+                            "text": "), together with the Life of Constantine, was published by F."
+                        },
+                        {
+                            "verse": 359,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:359",
+                            "text": "A."
+                        },
+                        {
+                            "verse": 360,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:360",
+                            "text": "Stroth in Quedlinburg in , in two volumes."
+                        },
+                        {
+                            "verse": 361,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:361",
+                            "text": "Stroth prefaced the translation with a very valuable Life of Eusebius, and added a number of excellent notes of his own."
+                        },
+                        {
+                            "verse": 362,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:362",
+                            "text": "The translation is reasonably accurate."
+                        },
+                        {
+                            "verse": 363,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:363",
+                            "text": "A much more elegant German version (including the Oration, but omitting the Martyrs of Palestine) was published by Closs in Stuttgart in , in one volume."
+                        },
+                        {
+                            "verse": 364,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:364",
+                            "text": "This is in my opinion the best translation of the History that exists."
+                        },
+                        {
+                            "verse": 365,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:365",
+                            "text": "Its style is admirable, but pure German idiom is sometimes secured at the expense of faithfulness."
+                        },
+                        {
+                            "verse": 366,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:366",
+                            "text": "In fact the author has aimed to produce a free, rather than a literal translation, and has occasionally allowed himself to depart too far from the original."
+                        },
+                        {
+                            "verse": 367,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:367",
+                            "text": "A few brief notes, most of them taken from Valesius or Stroth, accompany the translation."
+                        },
+                        {
+                            "verse": 368,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:368",
+                            "text": "More recently a German translation has been published by Stigloher (Kempten, ) in the Kempten Bibliothek der Kirchenväter."
+                        },
+                        {
+                            "verse": 369,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:369",
+                            "text": "It purports to be a new translation, but is practically nothing more than a poorly revised edition of Closs' version."
+                        },
+                        {
+                            "verse": 370,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:370",
+                            "text": "The changes which are made are seldom improvements."
+                        },
+                        {
+                            "verse": 371,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:371",
+                            "text": "Fabricius mentions a French translation by Claudius Seysselius, but does not give the date of it, and I have not myself seen it."
+                        },
+                        {
+                            "verse": 372,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:372",
+                            "text": "Dr."
+                        },
+                        {
+                            "verse": 373,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:373",
+                            "text": "Richardson, however, informs me that he has a copy of this translation (which is from the Latin, not from the Greek) bearing the following title: L'Histoire ecclesiastique translatie de Latin au Français, par M."
+                        },
+                        {
+                            "verse": 374,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:374",
+                            "text": "Claude de Seyssel, evesque lors de Marseille, et depuis archevesque de Thurin."
+                        },
+                        {
+                            "verse": 375,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:375",
+                            "text": "Paris,  [or '], fº."
+                        },
+                        {
+                            "verse": 376,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:376",
+                            "text": "He informs me also that there exist editions of the years  and."
+                        },
+                        {
+                            "verse": 377,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:377",
+                            "text": "More than a century later appeared a new French translation by Louis Cousin, bearing the following title: Histoire de l'Eglise écrité par Eusèbe Césarée, Socrate, Sozomène, Theodoret et Evagre, avec l'abrégé de Philostorge par Photius, et de Théodore par Nicephore Calliste."
+                        },
+                        {
+                            "verse": 378,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:378",
+                            "text": "Paris, –."
+                        },
+                        {
+                            "verse": 379,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:379",
+                            "text": "vol."
+                        },
+                        {
+                            "verse": 380,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:380",
+                            "text": "º."
+                        },
+                        {
+                            "verse": 381,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:381",
+                            "text": "Another edition appeared in Holland in ,  vol."
+                        },
+                        {
+                            "verse": 382,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:382",
+                            "text": "º."
+                        },
+                        {
+                            "verse": 383,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:383",
+                            "text": "The first English translation was made by Hanmer, and was issued in , and, according to Crusè, passed through five editions."
+                        },
+                        {
+                            "verse": 384,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:384",
+                            "text": "The fourth edition, which lies before me, was published in London in."
+                        },
+                        {
+                            "verse": 385,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:385",
+                            "text": "The volume contains the Histories of Eusebius, of Socrates, and of Evagrius; Dorotheus' Lives, and Eusebius' Life of Constantine."
+                        },
+                        {
+                            "verse": 386,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:386",
+                            "text": "Another translation is said by Crusè to have been published about a century later by T."
+                        },
+                        {
+                            "verse": 387,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:387",
+                            "text": "Shorting, and to be a decided improvement upon that of Hanmer."
+                        },
+                        {
+                            "verse": 388,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:388",
+                            "text": "I have seen no copy bearing Shorting's name, but have examined an anonymous translation which bears the following title: The Ecclesiastical History of Eusebius Pamphilus in ten books."
+                        },
+                        {
+                            "verse": 389,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:389",
+                            "text": "Made into English from that edition set forth by Valesius, and printed at Paris in the year ; together with Valesius' notes on the said historian, which are done into English and set at their proper place in the margin."
+                        },
+                        {
+                            "verse": 390,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:390",
+                            "text": "Hereto also is annexed an account of the life and writings of the aforesaid historian, collected by Valesius and rendered into English."
+                        },
+                        {
+                            "verse": 391,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:391",
+                            "text": "Cambridge: John Hayes,."
+                        },
+                        {
+                            "verse": 392,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:392",
+                            "text": "This is evidently the translation of Shorting referred to by Crusè, for it answers perfectly the description which he gives of it."
+                        },
+                        {
+                            "verse": 393,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:393",
+                            "text": "An abridgment of this version, made by Parker, is mentioned both by Fabricius (ib."
+                        },
+                        {
+                            "verse": 394,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:394",
+                            "text": "p."
+                        },
+                        {
+                            "verse": 395,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:395",
+                            "text": ") and by Crusè, but I have not myself seen it."
+                        },
+                        {
+                            "verse": 396,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:396",
+                            "text": "Fabricius gives its date as , and Dr."
+                        },
+                        {
+                            "verse": 397,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:397",
+                            "text": "Richardson informs me that he has seen an edition bearing the date , and that he has a note of another published in  or."
+                        },
+                        {
+                            "verse": 398,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:398",
+                            "text": "The latest English translation was made by the Rev."
+                        },
+                        {
+                            "verse": 399,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:399",
+                            "text": "C."
+                        },
+                        {
+                            "verse": 400,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:400",
+                            "text": "F."
+                        },
+                        {
+                            "verse": 401,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:401",
+                            "text": "Crusè, an American Episcopalian of German descent, and was published first in Philadelphia in , with a translation, by Parker, of Valesius' Life of Eusebius prefixed."
+                        },
+                        {
+                            "verse": 402,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:402",
+                            "text": "It has been reprinted a great many times both in England and America, and is included in Bohn's Ecclesiastical Library."
+                        },
+                        {
+                            "verse": 403,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:403",
+                            "text": "In Bohn's edition are printed a few scattered notes from Valesius' commentary, and in some other editions an historical account of the Council of Nicaea, by Isaac Boyle, is added."
+                        },
+                        {
+                            "verse": 404,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:404",
+                            "text": "The translation is an improvement upon its predecessors, but is nevertheless very faulty and unsatisfactory."
+                        },
+                        {
+                            "verse": 405,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:405",
+                            "text": "The translator is not thoroughly at home in the English, and, moreover, his version is marred by many serious omissions and interpolations which reveal an inexcusable degree of carelessness on his part."
+                        },
+                        {
+                            "verse": 406,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:406",
+                            "text": "§."
+                        },
+                        {
+                            "verse": 407,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:407",
+                            "text": "Literature."
+                        },
+                        {
+                            "verse": 408,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:408",
+                            "text": "The literature upon Eusebius' History is very extensive."
+                        },
+                        {
+                            "verse": 409,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:409",
+                            "text": "Many of the editions already mentioned discuss, in their prolegomena, the History itself and Eusebius' character as a historian, as do also all the lives of Eusebius referred to above, and all the larger histories of the Church."
+                        },
+                        {
+                            "verse": 410,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:410",
+                            "text": "In addition to these we have numerous important monographs and essays, of which the following may be mentioned here: Möller, de Fide Eusebii in rebus christianis enarrandis, Havn."
+                        },
+                        {
+                            "verse": 411,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:411",
+                            "text": "; Danz, de Eusebio Caesariensi Hist."
+                        },
+                        {
+                            "verse": 412,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:412",
+                            "text": "Ecclesiasticae Scriptore, Jenae,."
+                        },
+                        {
+                            "verse": 413,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:413",
+                            "text": "This was mentioned in Chapter I."
+                        },
+                        {
+                            "verse": 414,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:414",
+                            "text": "as containing a valuable discussion of the life of Eusebius."
+                        },
+                        {
+                            "verse": 415,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:415",
+                            "text": "Its chief importance lies in its treatment of the sources of the Church History, to which the author devotes the whole of Chap."
+                        },
+                        {
+                            "verse": 416,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:416",
+                            "text": "III."
+                        },
+                        {
+                            "verse": 417,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:417",
+                            "text": "which bears the title, de fontibus, quibus usus, historiam ecclesiasticam conscripsit Eusebius, pp."
+                        },
+                        {
+                            "verse": 418,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:418",
+                            "text": "–."
+                        },
+                        {
+                            "verse": 419,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:419",
+                            "text": "Kestner, de Eusebii Historiae Eccles."
+                        },
+                        {
+                            "verse": 420,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:420",
+                            "text": "conditoris auctoritate, et fide diplomatica, sive de ejus Fontibus et Ratione qua eis usus est, Gottingae, ; and by the same author, Ueber die Einseitigkeit und Partheiligkeit des Eusebius als Geschichtschreibers, Jenae, ; Reuterdahl, de Fontibus Historiae Eccles."
+                        },
+                        {
+                            "verse": 421,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:421",
+                            "text": "Eusebianae, Londini Gothorum, ; Reinstra, de Fontibus, ex quibus Historiae Eccles."
+                        },
+                        {
+                            "verse": 422,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:422",
+                            "text": "opus hausit Eusebius Pamphili, et de Ratione, qua iis usus est, Trajecti ad Rhenum, ; F."
+                        },
+                        {
+                            "verse": 423,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:423",
+                            "text": "C."
+                        },
+                        {
+                            "verse": 424,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:424",
+                            "text": "Baur, Comparatur Eusebius Historiae Eccles."
+                        },
+                        {
+                            "verse": 425,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:425",
+                            "text": "Parens cum Parente Historiae Herodoto, Tüb."
+                        },
+                        {
+                            "verse": 426,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:426",
+                            "text": "; and pp."
+                        },
+                        {
+                            "verse": 427,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:427",
+                            "text": "– of the same author's Epochen der kirchlichen Geschichtschreibung, Tüb."
+                        },
+                        {
+                            "verse": 428,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:428",
+                            "text": "; Dowling, Introduction to the Critical Study of Eccles."
+                        },
+                        {
+                            "verse": 429,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:429",
+                            "text": "History, London, , pp."
+                        },
+                        {
+                            "verse": 430,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:430",
+                            "text": "–; Hély, Eusèbe de Césarée, premier Historien de l'Église, Paris, ; J."
+                        },
+                        {
+                            "verse": 431,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:431",
+                            "text": "Burckhardt, Zeit Constantins, d ed."
+                        },
+                        {
+                            "verse": 432,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:432",
+                            "text": ", pp."
+                        },
+                        {
+                            "verse": 433,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:433",
+                            "text": "sq."
+                        },
+                        {
+                            "verse": 434,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:434",
+                            "text": "Burckhardt depreciates Eusebius' value and questions his veracity."
+                        },
+                        {
+                            "verse": 435,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:435",
+                            "text": "The review articles that have been written on Eusebius' History are legion."
+                        },
+                        {
+                            "verse": 436,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:436",
+                            "text": "I shall mention only Engelhardt's Eusebius als Kirchengeschichtschreiber, in the Zeitschrift für hist."
+                        },
+                        {
+                            "verse": 437,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:437",
+                            "text": "Theol."
+                        },
+                        {
+                            "verse": 438,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:438",
+                            "text": ", pp."
+                        },
+                        {
+                            "verse": 439,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:439",
+                            "text": "–; and Jachmann's Bemerkungen über die Kirchengeschichte des Eusebius, ib."
+                        },
+                        {
+                            "verse": 440,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:440",
+                            "text": ", II."
+                        },
+                        {
+                            "verse": 441,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:441",
+                            "text": "pp."
+                        },
+                        {
+                            "verse": 442,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:442",
+                            "text": "–."
+                        },
+                        {
+                            "verse": 443,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:443",
+                            "text": "The latter contains one of the most unsparing attacks upon Eusebius' honesty that has ever been made (see above, p."
+                        },
+                        {
+                            "verse": 444,
+                            "chapter": 1,
+                            "name": "Eusebius: Church History 1:444",
+                            "text": ")."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

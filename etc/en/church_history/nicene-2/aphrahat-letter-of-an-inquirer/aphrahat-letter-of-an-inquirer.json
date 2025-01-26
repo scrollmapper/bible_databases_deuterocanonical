@@ -1,0 +1,111 @@
+{
+    "books": [
+        {
+            "name": "Aphrahat: Letter of an Inquirer",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Aphrahat: Letter of an Inquirer 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Aphrahat: Letter of an Inquirer 1:1",
+                            "text": "Aphrahat."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Aphrahat: Letter of an Inquirer 1:2",
+                            "text": "Letter of an Inquirer."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Aphrahat: Letter of an Inquirer 1:3",
+                            "text": "1."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Aphrahat: Letter of an Inquirer 1:4",
+                            "text": "Beloved, I send thee inquiries and questions, for I am compelled to seek further instruction of thee on many points."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Aphrahat: Letter of an Inquirer 1:5",
+                            "text": "Do not thou refuse to hear me."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Aphrahat: Letter of an Inquirer 1:6",
+                            "text": "My spirit urges me to warn thee about many topics that thou mayest unfold for me the spiritual perceptions of thy mind, and mayest show me of all that thou hast apprehended from the holy books, that so my deficiency may be supplied by thee and my hunger satisfied by thy doctrine, and that thou mayest assuage my thirst from the fountain of thine instruction."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "Aphrahat: Letter of an Inquirer 1:7",
+                            "text": "Yet though many things are set in my thought to ask thee, they all are notwithstanding reserved with me, that when I come to thee, thou mayest instruct me on all subjects."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 1,
+                            "name": "Aphrahat: Letter of an Inquirer 1:8",
+                            "text": "2."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 1,
+                            "name": "Aphrahat: Letter of an Inquirer 1:9",
+                            "text": "But before all things I desire that thou wouldst write and instruct me concerning this that straitens me, namely, concerning our faith; how it is, and what its foundation is, and on what structure it rises, on what it rests, and in what way is its fulfilment and consummation, and what are the works required for it."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 1,
+                            "name": "Aphrahat: Letter of an Inquirer 1:10",
+                            "text": "For I of myself firmly believe that God is one, Who made the heavens and the earth from the beginning; that He adorned the world by His handiwork; that He made man in His image; He it is that accepted the offering of Abel."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 1,
+                            "name": "Aphrahat: Letter of an Inquirer 1:11",
+                            "text": "He translated Enoch because of his excellence."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 1,
+                            "name": "Aphrahat: Letter of an Inquirer 1:12",
+                            "text": "He preserved Noah because of his righteousness."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 1,
+                            "name": "Aphrahat: Letter of an Inquirer 1:13",
+                            "text": "He chose Abraham because of his faith."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 1,
+                            "name": "Aphrahat: Letter of an Inquirer 1:14",
+                            "text": "He spake with Moses on account of his meekness."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 1,
+                            "name": "Aphrahat: Letter of an Inquirer 1:15",
+                            "text": "He it is that spake in all the prophets, and furthermore He sent His Christ into the world."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 1,
+                            "name": "Aphrahat: Letter of an Inquirer 1:16",
+                            "text": "Since then, my brother, I thus believe in these things that so they are, I therefore, brother, request of thee that thou wouldest write and show me what are the works required for this our faith, that so thou mayest set me at rest."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

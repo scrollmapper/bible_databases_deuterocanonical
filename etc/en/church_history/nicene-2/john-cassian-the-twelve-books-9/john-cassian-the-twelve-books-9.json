@@ -1,0 +1,411 @@
+{
+    "books": [
+        {
+            "name": "John Cassian: The Twelve Books IX",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "John Cassian: The Twelve Books IX 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "John Cassian: The Twelve Books IX 1:1",
+                            "text": "Book IX."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "John Cassian: The Twelve Books IX 1:2",
+                            "text": "Of the Spirit of Dejection."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "John Cassian: The Twelve Books IX 1:3",
+                            "text": "Chapter I."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "John Cassian: The Twelve Books IX 1:4",
+                            "text": "How our fifth combat is against the spirit of dejection, and of the harm which it inflicts upon the soul."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "John Cassian: The Twelve Books IX 1:5",
+                            "text": "In our fifth combat we have to resist the pangs of gnawing dejection: for if this, through separate attacks made at random, and by haphazard and casual changes, has secured an opportunity of gaining possession of our mind it keeps us back at all times from all insight in divine contemplation, and utterly ruins and depresses the mind that has fallen away from its complete state of purity."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "John Cassian: The Twelve Books IX 1:6",
+                            "text": "It does not allow it to say its prayers with its usual gladness of heart, nor permit it to rely on the comfort of reading the sacred writings, nor suffer it to be quiet and gentle with the brethren; it makes it impatient and rough in all the duties of work and devotion: and, as all wholesome counsel is lost, and steadfastness of heart destroyed, it makes the feelings almost mad and drunk, and crushes and overwhelms them with penal despair."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 2,
+                    "name": "John Cassian: The Twelve Books IX 2",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 2,
+                            "name": "John Cassian: The Twelve Books IX 2:1",
+                            "text": "Chapter II."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 2,
+                            "name": "John Cassian: The Twelve Books IX 2:2",
+                            "text": "Of the care with which the malady of dejection must be healed."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 2,
+                            "name": "John Cassian: The Twelve Books IX 2:3",
+                            "text": "Wherefore if we are anxious to exert ourselves lawfully in the struggle of our spiritual combat we ought with no less care to set about healing this malady also."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 2,
+                            "name": "John Cassian: The Twelve Books IX 2:4",
+                            "text": "For \"as the moth injures the garment, and the worm the wood, so dejection the heart of man\"."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 2,
+                            "name": "John Cassian: The Twelve Books IX 2:5",
+                            "text": "With sufficient clearness and appropriateness has the Divine Spirit expressed the force of this dangerous and most injurious fault."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 3,
+                    "name": "John Cassian: The Twelve Books IX 3",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 3,
+                            "name": "John Cassian: The Twelve Books IX 3:1",
+                            "text": "Chapter III."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 3,
+                            "name": "John Cassian: The Twelve Books IX 3:2",
+                            "text": "To what the soul may be compared which is a prey to the attacks of dejection."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 3,
+                            "name": "John Cassian: The Twelve Books IX 3:3",
+                            "text": "For the garment that is moth-eaten has no longer any commercial value or good use to which it can be put; and in the same way the wood that is worm-eaten is no longer worth anything for ornamenting even an ordinary building, but is destined to be burnt in the fire."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 3,
+                            "name": "John Cassian: The Twelve Books IX 3:4",
+                            "text": "So therefore the soul also which is a prey to the attacks of gnawing dejection will be useless for that priestly garment which, according to the prophecy of the holy David, the ointment of the Holy Spirit coming down from heaven, first on Aaron's beard, then on his skirts, is wont to assume: as it is said, \"It is like the ointment upon the head which ran down upon Aaron's beard, which ran down to the skirts of his clothing\"."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 3,
+                            "name": "John Cassian: The Twelve Books IX 3:5",
+                            "text": "Nor can it have anything to do with the building or ornamentation of that spiritual temple of which Paul as a wise master builder laid the foundations, saying, \"Ye are the temple of God, and the Spirit of God dwelleth in you:\" and what the beams of this are like the bride tells us in the Song of Songs: \"Our rafters are of cypress: the beams of our houses are of cedar\"."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 3,
+                            "name": "John Cassian: The Twelve Books IX 3:6",
+                            "text": "And therefore those sorts of wood are chosen for the temple of God which are fragrant and not liable to rot, and which are not subject to decay from age nor to be worm-eaten."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 4,
+                    "name": "John Cassian: The Twelve Books IX 4",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 4,
+                            "name": "John Cassian: The Twelve Books IX 4:1",
+                            "text": "Chapter IV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 4,
+                            "name": "John Cassian: The Twelve Books IX 4:2",
+                            "text": "Whence and in what way dejection arises."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 4,
+                            "name": "John Cassian: The Twelve Books IX 4:3",
+                            "text": "But sometimes it is found to result from the fault of previous anger, or to spring from the desire of some gain which has not been realized, when a man has found that he has failed in his hope of securing those things which he had planned."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 4,
+                            "name": "John Cassian: The Twelve Books IX 4:4",
+                            "text": "But sometimes without any apparent reason for our being driven to fall into this misfortune, we are by the instigation of our crafty enemy suddenly depressed with so great a gloom that we cannot receive with ordinary civility the visits of those who are near and dear to us; and whatever subject of conversation is started by them, we regard it as ill-timed and out of place; and we can give them no civil answer, as the gall of bitterness is in possession of every corner of our heart."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 5,
+                    "name": "John Cassian: The Twelve Books IX 5",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 5,
+                            "name": "John Cassian: The Twelve Books IX 5:1",
+                            "text": "Chapter V."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 5,
+                            "name": "John Cassian: The Twelve Books IX 5:2",
+                            "text": "That disturbances are caused in us not by the faults of other people, but by our own."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 5,
+                            "name": "John Cassian: The Twelve Books IX 5:3",
+                            "text": "Whence it is clearly proved that the pains of disturbances are not always caused in us by other people's faults, but rather by our own, as we have stored up in ourselves the causes of offence, and the seeds of faults, which, as soon as a shower of temptation waters our soul, at once burst forth into shoots and fruits."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 6,
+                    "name": "John Cassian: The Twelve Books IX 6",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 6,
+                            "name": "John Cassian: The Twelve Books IX 6:1",
+                            "text": "Chapter VI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 6,
+                            "name": "John Cassian: The Twelve Books IX 6:2",
+                            "text": "That no one comes to grief by a sudden fall, but is destroyed by falling through a long course of carelessness."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 6,
+                            "name": "John Cassian: The Twelve Books IX 6:3",
+                            "text": "For no one is ever driven to sin by being provoked through another's fault, unless he has the fuel of evil stored up in his own heart."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 6,
+                            "name": "John Cassian: The Twelve Books IX 6:4",
+                            "text": "Nor should we imagine that a man has been deceived suddenly when he has looked on a woman and fallen into the abyss of shameful lust: but rather that, owing to the opportunity of looking on her, the symptoms of disease which were hidden and concealed in his inmost soul have been brought to the surface."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 7,
+                    "name": "John Cassian: The Twelve Books IX 7",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 7,
+                            "name": "John Cassian: The Twelve Books IX 7:1",
+                            "text": "Chapter VII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 7,
+                            "name": "John Cassian: The Twelve Books IX 7:2",
+                            "text": "That we ought not to give up intercourse with our brethren in order to seek after perfection, but should rather constantly cultivate the virtue of patience."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 7,
+                            "name": "John Cassian: The Twelve Books IX 7:3",
+                            "text": "And so God, the creator of all things, having regard above everything to the amendment of His own work, and because the roots and causes of our falls are found not in others, but in ourselves, commands that we should not give up intercourse with our brethren, nor avoid those who we think have been hurt by us, or by whom we have been offended, but bids us pacify them, knowing that perfection of heart is not secured by separating from men so much as by the virtue of patience."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 7,
+                            "name": "John Cassian: The Twelve Books IX 7:4",
+                            "text": "Which when it is securely held, as it can keep us at peace even with those who hate peace, so, if it has not been acquired, it makes us perpetually differ from those who are perfect and better than we are: for opportunities for disturbance, on account of which we are eager to get away from those with whom we are connected, will not be wanting so long as we are living among men; and therefore we shall not escape altogether, but only change the causes of dejection on account of which we separated from our former friends."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 8,
+                    "name": "John Cassian: The Twelve Books IX 8",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 8,
+                            "name": "John Cassian: The Twelve Books IX 8:1",
+                            "text": "Chapter VIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 8,
+                            "name": "John Cassian: The Twelve Books IX 8:2",
+                            "text": "That if we have improved our character it is possible for us to get on with everybody."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 8,
+                            "name": "John Cassian: The Twelve Books IX 8:3",
+                            "text": "We must then do our best to endeavour to amend our faults and correct our manners."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 8,
+                            "name": "John Cassian: The Twelve Books IX 8:4",
+                            "text": "And if we succeed in correcting them we shall certainly be at peace, I will not say with men, but even with beasts and the brute creation, according to what is said in the book of the blessed Job: \"For the beasts of the field will be at peace with thee;\" for we shall not fear offences coming from without, nor will any occasion of falling trouble us from outside, if the roots of such are not admitted and implanted within in our own selves: for \"they have great peace who love thy law, O God; and they have no occasion of falling\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 9,
+                    "name": "John Cassian: The Twelve Books IX 9",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 9,
+                            "name": "John Cassian: The Twelve Books IX 9:1",
+                            "text": "Chapter IX."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 9,
+                            "name": "John Cassian: The Twelve Books IX 9:2",
+                            "text": "Of another sort of dejection which produces despair of salvation."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 9,
+                            "name": "John Cassian: The Twelve Books IX 9:3",
+                            "text": "There is, too, another still more objectionable sort of dejection, which produces in the guilty soul no amendment of life or correction of faults, but the most destructive despair: which did not make Cain repent after the murder of his brother, or Judas, after the betrayal, hasten to relieve himself by making amends, but drove him to hang himself in despair."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 10,
+                    "name": "John Cassian: The Twelve Books IX 10",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 10,
+                            "name": "John Cassian: The Twelve Books IX 10:1",
+                            "text": "Chapter X."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 10,
+                            "name": "John Cassian: The Twelve Books IX 10:2",
+                            "text": "Of the only thing in which dejection is useful to us."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 10,
+                            "name": "John Cassian: The Twelve Books IX 10:3",
+                            "text": "And so we must see that dejection is only useful to us in one case, when we yield to it either in penitence for sin, or through being inflamed with the desire of perfection, or the contemplation of future blessedness."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 10,
+                            "name": "John Cassian: The Twelve Books IX 10:4",
+                            "text": "And of this the blessed Apostle says: \"The sorrow which is according to God worketh repentance steadfast unto salvation: but the sorrow of the world worketh death\"."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 11,
+                    "name": "John Cassian: The Twelve Books IX 11",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 11,
+                            "name": "John Cassian: The Twelve Books IX 11:1",
+                            "text": "Chapter XI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 11,
+                            "name": "John Cassian: The Twelve Books IX 11:2",
+                            "text": "How we can decide what is useful and the sorrow according to God, and what is devilish and deadly."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 11,
+                            "name": "John Cassian: The Twelve Books IX 11:3",
+                            "text": "But that dejection and sorrow which \"worketh repentance steadfast unto salvation\" is obedient, civil, humble, kindly, gentle, and patient, as it springs from the love of God, and unweariedly extends itself from desire of perfection to every bodily grief and sorrow of spirit; and somehow or other rejoicing and feeding on hope of its own profit preserves all the gentleness of courtesy and forbearance, as it has in itself all the fruits of the Holy Spirit of which the same Apostle gives the list: \"But the fruit of the Spirit is love, joy, peace, forbearance, goodness, benignity, faith, mildness, modesty\"."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 11,
+                            "name": "John Cassian: The Twelve Books IX 11:4",
+                            "text": "But the other kind is rough, impatient, hard, full of rancour and useless grief and penal despair, and breaks down the man on whom it has fastened, and hinders him from energy and wholesome sorrow, as it is unreasonable, and not only hampers the efficacy of his prayers, but actually destroys all those fruits of the Spirit of which we spoke, which that other sorrow knows how to produce."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 12,
+                    "name": "John Cassian: The Twelve Books IX 12",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 12,
+                            "name": "John Cassian: The Twelve Books IX 12:1",
+                            "text": "Chapter XII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 12,
+                            "name": "John Cassian: The Twelve Books IX 12:2",
+                            "text": "That except that wholesome sorrow, which springs up in three ways, all sorrow and dejection should be resisted as hurtful."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 12,
+                            "name": "John Cassian: The Twelve Books IX 12:3",
+                            "text": "Wherefore except that sorrow which is endured either for the sake of saving penitence, or for the sake of aiming at perfection, or for the desire of the future, all sorrow and dejection must equally be resisted, as belonging to this world, and being that which \"worketh death,\" and must be entirely expelled from our hearts like the spirit of fornication and covetousness and anger."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 13,
+                    "name": "John Cassian: The Twelve Books IX 13",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 13,
+                            "name": "John Cassian: The Twelve Books IX 13:1",
+                            "text": "Chapter XIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 13,
+                            "name": "John Cassian: The Twelve Books IX 13:2",
+                            "text": "The means by which we can root out dejection from our hearts."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 13,
+                            "name": "John Cassian: The Twelve Books IX 13:3",
+                            "text": "We should then be able to expel this most injurious passion from our hearts, so that by spiritual meditation we may keep our mind constantly occupied with hope of the future and contemplation of the promised blessedness."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 13,
+                            "name": "John Cassian: The Twelve Books IX 13:4",
+                            "text": "For in this way we shall be able to get the better of all those sorts of dejection, whether those which flow from previous anger or those which come to us from disappointment of gain, or from some loss, or those which spring from a wrong done to us, or those which arise from an unreasonable disturbance of mind, or those which bring on us a deadly despair, if, ever joyful with an insight into things eternal and future, and continuing immovable, we are not depressed by present accidents, or over-elated by prosperity, but look on each condition as uncertain and likely soon to pass away."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

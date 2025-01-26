@@ -1,0 +1,308 @@
+# John Cassian: Confrences X
+
+**[1:1]** X.
+
+**[1:2]** The Second Conference of Abbot Isaac.
+
+**[1:3]** On Prayer.
+
+**[1:4]** Chapter I.
+
+**[1:5]** Introduction.
+
+**[1:6]** Among the sublime customs of the anchorites which by God's help have been set forth although in plain and unadorned style, the course of our narration compels us to insert and find a place for something, which may seem so to speak to cause a blemish on a fair body: although I have no doubt that by it no small instruction on the image of Almighty God of which we read in Genesis will be conferred on some of the simpler sort, especially when the grounds are considered of a doctrine so important that men cannot be ignorant of it without terrible blasphemy and serious harm to the Catholic faith.
+
+**[2:1]** Chapter II.
+
+**[2:2]** Of the custom which is kept up in the Province of Egypt for signifying the time of Easter.
+
+**[2:3]** In the country of Egypt this custom is by ancient tradition observed that—when Epiphany is past, which the priests of that province regard as the time, both of our Lord's baptism and also of His birth in the flesh, and so celebrate the commemoration of either mystery not separately as in the Western provinces but on the single festival of this day,—letters are sent from the Bishop of Alexandria through all the Churches of Egypt, by which the beginning of Lent, and the day of Easter are pointed out not only in all the cities but also in all the monasteries.
+
+**[2:4]** In accordance then with this custom, a very few days after the previous conference had been held with Abbot Isaac, there arrived the festal letters of Theophilus the Bishop of the aforesaid city, in which together with the announcement of Easter he considered as well the foolish heresy of the Anthropomorphites at great length, and abundantly refuted it.
+
+**[2:5]** And this was received by almost all the body of monks residing in the whole province of Egypt with such bitterness owing to their simplicity and error, that the greater part of the Elders decreed that on the contrary the aforesaid Bishop ought to be abhorred by the whole body of the brethren as tainted with heresy of the worst kind, because he seemed to impugn the teaching of holy Scripture by the denial that Almighty God was formed in the fashion of a human  figure, though Scripture teaches with perfect clearness that Adam was created in His image.
+
+**[2:6]** Lastly this letter was rejected also by those who were living in the desert of Scete and who excelled all who were in the monasteries of Egypt, in perfection and in knowledge, so that except Abbot Paphnutius the presbyter of our congregation, not one of the other presbyters, who presided over the other three churches in the same desert, would suffer it to be even read or repeated at all in their meetings.
+
+**[3:1]** Chapter III.
+
+**[3:2]** Of Abbot Sarapion and the heresy of the Anthropomorphites into which he fell in the error of simplicity.
+
+**[3:3]** Among those then who were caught by this mistaken notion was one named Sarapion, a man of long-standing strictness of life, and one who was altogether perfect in actual discipline, whose ignorance with regard to the view of the doctrine first mentioned was so far a stumbling block to all who held the true faith, as he himself outstripped almost all the monks both in the merits of his life and in the length of time (he had been there).
+
+**[3:4]** And when this man could not be brought back to the way of the right faith by many exhortations of the holy presbyter Paphnutius, because this view seemed to him a novelty, and one that was not ever known to or handed down by his predecessors, it chanced that a certain deacon, a man of very great learning, named Photinus, arrived from the region of Cappadocia with the desire of visiting the brethren living in the same desert: whom the blessed Paphnutius received with the warmest welcome, and in order to confirm the faith which had been stated in the letters of the aforesaid Bishop, placed him in the midst and asked him before all the brethren how the Catholic Churches throughout the East interpreted the passage in Genesis where it says "Let us make man after our image and likeness".
+
+**[3:5]** And when he explained that the image and likeness of God was taken by all the leaders of the churches not according to the base sound of the letters, but spiritually, and supported this very fully and by many passages of Scripture, and showed that nothing of this sort could happen to that infinite and incomprehensible and invisible glory, so that it could be comprised in a human form and likeness, since its nature is incorporeal and uncompounded and simple, and what can neither be apprehended by the eyes nor conceived by the mind, at length the old man was shaken by the numerous and very weighty assertions of this most learned man, and was drawn to the faith of the Catholic tradition.
+
+**[3:6]** And when both Abbot Paphnutius and all of us were filled with intense delight at his adhesion, for this reason; viz.
+
+**[3:7]** , that the Lord had not permitted a man of such age and crowned with such virtues, and one who erred only from ignorance and rustic simplicity, to wander from the path of the right faith up to the very last, and when we arose to give thanks, and were all together offering up our prayers to the Lord, the old man was so bewildered in mind during his prayer because he felt that the Anthropomorphic image of the Godhead which he used to set before himself in prayer, was banished from his heart, that on a sudden he burst into a flood of bitter tears and continual sobs, and cast himself down on the ground and exclaimed with strong groanings: "Alas! wretched man that I am! they have taken away my God from me, and I have now none to lay hold of; and whom to worship and address I know not".
+
+**[3:8]** By which scene we were terribly disturbed, and moreover with the effect of the former Conference still remaining in our hearts, we returned to Abbot Isaac, whom when we saw close at hand, we addressed with these words.
+
+**[4:1]** Chapter IV.
+
+**[4:2]** Of our return to Abbot Isaac and question concerning the error into which the aforesaid old man had fallen.
+
+**[4:3]** Although even besides the fresh matter which has lately arisen, our delight in the former conference which was held on the character of prayer would summon us to postpone everything else and return to your holiness, yet this grievous error of Abbot Sarapion, conceived, as we fancy, by the craft of most vile demons, adds somewhat to this desire of ours.
+
+**[4:4]** For it is no small despair by which we are cast down when we consider that through the fault of this ignorance he has not only utterly lost all those labours which he has performed in so praiseworthy a manner for fifty years in this desert, but has also incurred the risk of eternal death.
+
+**[4:5]** And so we want first to know why and wherefore so grievous an error has crept into him.
+
+**[4:6]** And next we should like to be taught how we can arrive at that condition in prayer, of which you discoursed some time back not only fully but splendidly.
+
+**[4:7]** For that admirable Conference has had this effect upon us, that it has only dazzled our minds and has not shown us how to perform or secure it.
+
+**[5:1]** Chapter V.
+
+**[5:2]** The answer on the heresy described above.
+
+**[5:3]** Isaac: We need not be surprised that a really simple man who had never received any instruction on the substance and nature of the Godhead could still be entangled and deceived by an error of simplicity and the habit of a longstanding mistake, and (to speak more truly) continue in the original error which is brought about, not as you suppose by a new illusion of the demons, but by the ignorance of the ancient heathen world, while in accordance with the custom of that erroneous notion, by which they used to worship devils formed in the figure of men, they even now think that the incomprehensible and ineffable glory of the true Deity should be worshipped under the limitations of some figure, as they believe that they can grasp and hold nothing if they have not some image set before them, which they can continually address while they are at their devotions, and which they can carry about in their mind and have always fixed before their eyes.
+
+**[5:4]** And against this mistake of theirs this text may be used: "And they changed the glory of the incorruptible God into the likeness of the image of corruptible man".
+
+**[5:5]** Jeremiah also says: "My people have changed their glory for an idol.
+
+**[5:6]** Which error although by this its origin, of which we have spoken, it is engrained in the notions of some, yet none the less is it contracted in the hearts also of those who have never been stained with the superstition of the heathen world, under the colour of this passage where it is said "Let us make man after our image and our likeness," ignorance and simplicity being its authors, so that actually there has arisen owing to this hateful interpretation a heresy called that of the Anthropomorphites, which maintains with obstinate perverseness that the infinite and simple substance of the Godhead is fashioned in our lineaments and human configuration.
+
+**[5:7]** Which however any one who has been taught the Catholic doctrine will abhor as heathenish blasphemy, and so will arrive at that perfectly pure condition in prayer which will not only not connect with its prayers any figure of the Godhead or bodily lineaments (which it is a sin even to speak of), but will not even allow in itself even the memory of a name, or the appearance of an action, or an outline of any character.
+
+**[6:1]** Chapter VI.
+
+**[6:2]** Of the reasons why Jesus Christ appears to each one of us either in His humility or in His glorified condition.
+
+**[6:3]** For according to the measure of its purity, as I said in the former Conference, each mind is both raised and moulded in its prayers if it forsakes the consideration of earthly and material things so far as the condition of its purity may carry it forward, and enable it with the inner eyes of the soul to see Jesus either still in His humility and in the flesh, or glorified and coming in the glory of His Majesty: for those cannot see Jesus coming in His Kingdom who are still kept back in a sort of state of Jewish weakness, and cannot say with the Apostle: "And if we have known Christ after the flesh, yet now we know Him so no more;" but only those can look with purest eyes on His Godhead, who rise with Him from low and earthly works and thoughts and go apart in the lofty mountain of solitude which is free from the disturbance of all earthly thoughts and troubles, and secure from the interference of all sins, and being exalted by pure faith and the heights of virtue reveals the glory of His Face and the image of His splendour to those who are able to look on Him with pure eyes of the soul.
+
+**[6:4]** But Jesus is seen as well by those who live in towns and villages and hamlets, i-e:, who are occupied in practical affairs and works, but not with the same brightness with which He appeared to those who can go up with Him into the aforesaid mount of virtues, i-e:, Peter, James, and John.
+
+**[6:5]** For so in solitude He appeared to Moses and spoke with Elias.
+
+**[6:6]** And as our Lord wished to establish this and to leave us examples of perfect purity, although He Himself, the very fount of inviolable sanctity, had no need of external help and the assistance of solitude in order to secure it (for the fulness of purity could not be soiled by any stain from crowds, nor could He be contaminated by intercourse with men, who cleanses and sanctifies all things that are polluted) yet still He retired into the mountain alone to pray, thus teaching us by the example of His retirement that if we too wish to approach God with a pure and spotless affection of heart, we should also retire from all the disturbance and confusion of crowds, so that while still living in the body we may manage in some degree to adapt ourselves to some likeness of that bliss which is promised hereafter to the saints, and that "God may be" to us "all in all".
+
+**[7:1]** Chapter VII.
+
+**[7:2]** What constitutes our end and perfect bliss.
+
+**[7:3]** For then will be perfectly fulfilled in our case that prayer of our Saviour in which He prayed for His disciples to the Father saying "that the love wherewith Thou lovedst Me may be in them and they in us;" and again: "that they all may be one as Thou, Father, in Me and I in Thee, that they also may be one in us," when that perfect love of God, wherewith "He first loved us" has passed into the feelings of our heart as well, by the fulfilment of this prayer of the Lord which we believe cannot possibly be ineffectual.
+
+**[7:4]** And this will come to pass when God shall be all our love, and every desire and wish and effort, every thought of ours, and all our life and words and breath, and that unity which already exists between the Father and the Son, and the Son and the Father, has been shed abroad in our hearts and minds, so that as He loves us with a pure and unfeigned and indissoluble love, so we also may be joined to Him by a lasting and inseparable affection, since we are so united to Him that whatever we breathe or think, or speak is God, since, as I say, we attain to that end of which we spoke before, which the same Lord in His prayer hopes may be fulfilled in us: "that they all may be one as we are one, I in them and Thou in Me, that they also may be made perfect in one;" and again: "Father, those whom Thou hast given Me, I will that where I am, they may also be with Me".
+
+**[7:5]** This then ought to be the destination of the solitary, this should be all his aim that it may be vouchsafed to him to possess even in the body an image of future bliss, and that he may begin in this world to have a foretaste of a sort of earnest of that celestial life and glory.
+
+**[7:6]** This, I say, is the end of all perfection, that the mind purged from all carnal desires may daily be lifted towards spiritual things, until the whole life and all the thoughts of the heart become one continuous prayer.
+
+**[8:1]** Chapter VIII.
+
+**[8:2]** A question on the training in perfection by which we can arrive at perpetual recollection of God.
+
+**[8:3]** Germanus: The extent of our bewilderment at our wondering awe at the former Conference, because of which we came back again, increases still more.
+
+**[8:4]** For in proportion as by the incitements of this teaching we are fired with the desire of perfect bliss, so do we fall back into greater despair, as we know not how to seek or obtain training for such lofty heights.
+
+**[8:5]** Wherefore we entreat that you will patiently allow us (for it must perhaps be set forth and unfolded with a good deal of talk) to explain what while sitting in the cell we had begun to revolve in a lengthy meditation, although we know that your holiness is not at all troubled by the infirmities of the weak, which even for this reason should be openly set forth, that what is out of place in them may receive correction.
+
+**[8:6]** Our notion then is that the perfection of any art or system of training must begin with some simple rudiments, and grow accustomed first to somewhat easy and tender beginnings, so that being nourished and trained little by little by a sort of reasonable milk, it may grow up and so by degrees and step by step mount up from the lowest depths to the heights: and when by these means it has entered on the plainer principles and so to speak passed the gates of the entrance of the profession, it will consequently arrive without difficulty at the inmost shrine and lofty heights of perfection.
+
+**[8:7]** For how could any boy manage to pronounce the simplest union of syllables unless he had first carefully learnt the letters of the alphabet? Or how can any one learn to read quickly, who is still unfit to connect together short and simple sentences? But by what means will one who is ill instructed in the science of grammar attain eloquence in rhetoric or the knowledge of philosophy? Wherefore for this highest learning also, by which we are taught even to cleave to God, I have no doubt that there are some foundations of the system, which must first be firmly laid and afterwards the towering heights of perfection may be placed and raised upon them.
+
+**[8:8]** And we have a slight idea that these are its first principles; viz.
+
+**[8:9]** , that we should first learn by what meditations God may be grasped and contemplated, and next that we should manage to keep a very firm hold of this topic whatever it is which we do not doubt is the height of all perfection.
+
+**[8:10]** And therefore we want you to show us some material for this recollection, by which we may conceive and ever keep the idea of God in the mind, so that by always keeping it before our eyes, when we find that we have dropped away from Him, we may at once be able to recover ourselves and return thither and may succeed in laying hold of it again without any delay from wandering around the subject and searching for it.
+
+**[8:11]** For it happens that when we have wandered away from our spiritual speculations and have come back to ourselves as if waking from  a deadly sleep, and, being thoroughly roused, look for the subject matter, by which we may be able to revive that spiritual recollection which has been destroyed, we are hindered by the delay of the actual search before we find it, and are once more drawn aside from our endeavour, and before the spiritual insight is brought about, the purpose of heart which had been conceived, has disappeared.
+
+**[8:12]** And this trouble is certain to happen to us for this reason because we do not keep something special firmly set before our eyes like some principle to which the wandering thoughts may be recalled after many digressions and varied excursions; and, if I may use the expression, after long storms enter a quiet haven.
+
+**[8:13]** And so it comes to pass that as the mind is constantly hindered by this want of knowledge and difficulty, and is always tossed about vaguely, and as if intoxicated, among various matters, and cannot even retain firm hold for any length of time of anything spiritual which has occurred to it by chance rather than of set purpose: while, as it is always receiving one thing after another, it does not notice either their beginning and origin or even their end.
+
+**[9:1]** Chapter IX.
+
+**[9:2]** The answer on the efficacy of understanding, which is gained by experience.
+
+**[9:3]** Isaac: Your minute and subtle inquiry affords an indication of purity being very nearly reached.
+
+**[9:4]** For no one would be able even to make inquiries on these matters, I will not say to look within and discriminate,—except one who had been urged to sound the depths of such questions by careful and effectual diligence of mind, and watchful anxiety, and one whom the constant aim after a well controlled life had taught by practical experience to attempt the entrance to this purity and to knock at its doors.
+
+**[9:5]** And therefore as I see you, I will not say, standing before the doors of that true prayer of which we have been speaking, but touching its inner chambers and inward parts as it were with the hands of experience, and already laying hold of some parts of it, I do not think that I shall find any difficulty in introducing you now within what I may call its hall, for you to roam about its recesses, as the Lord may direct; nor do I think that you will be hindered from investigating what is to be shown you by any obstacles or difficulties.
+
+**[9:6]** For he is next door to understanding who carefully recognizes what he ought to ask about, nor is he far from knowledge, who begins to understand how ignorant he is.
+
+**[9:7]** And therefore I am not afraid of the charge of betraying secrets, and of levity, if I divulge what when speaking in my former discourse on the perfection of prayer I had kept back from discussing, as I think that its force was to be explained to us who are occupied with this subject and interest even without the aid of my words, by the grace of God.
+
+**[10:1]** Chapter X.
+
+**[10:2]** Of the method of continual prayer.
+
+**[10:3]** Wherefore in accordance with that system, which you admirably compared to teaching children (who can only take in the first lessons on the alphabet and recognize the shapes of the letters, and trace out their characters with a steady hand if they have, by means of some copies and shapes carefully impressed on wax, got accustomed to express their figures, by constantly looking at them and imitating them daily), we must give you also the form of this spiritual contemplation, on which you may always fix your gaze with the utmost steadiness, and both learn to consider it to your profit in unbroken continuance, and also manage by the practice of it and by meditation to climb to a still loftier insight.
+
+**[10:4]** This formula then shall be proposed to you of this system, which you want, and of prayer, which every monk in his progress towards continual recollection of God, is accustomed to ponder, ceaselessly revolving it in his heart, having got rid of all kinds of other thoughts; for he cannot possibly keep his hold over it unless he has freed himself from all bodily cares and anxieties.
+
+**[10:5]** And as this was delivered to us by a few of those who were left of the oldest fathers, so it is only divulged by us to a very few and to those who are really keen.
+
+**[10:6]** And so for keeping up continual recollection of God this pious formula is to be ever set before you.
+
+**[10:7]** "O God, make speed to save me: O Lord, make haste to help me," for this verse has not unreasonably been picked out from the whole of Scripture for this purpose.
+
+**[10:8]** For it embraces all the feelings which can be implanted in human nature, and can be fitly and satisfactorily adapted to every condition, and all assaults.
+
+**[10:9]** Since it contains an invocation of God against every danger, it contains humble and pious confession, it contains the watchfulness of anxiety and continual fear, it contains the thought of one's own weakness, confidence in the answer, and the assurance of a present and ever ready help.
+
+**[10:10]** For one who is constantly calling on his protector, is certain that He is always at hand.
+
+**[10:11]** It contains the glow of love and charity, it contains a view of the plots, and a dread of the enemies, from which one, who sees himself day and night hemmed in by them, confesses that he cannot be set free without the aid of his defender.
+
+**[10:12]** This verse is an impregnable wall for all who are labouring under the attacks of demons, as well as impenetrable coat of mail and a strong shield.
+
+**[10:13]** It does not suffer those who are in a state of moroseness and anxiety of mind, or depressed by sadness or all kinds of thoughts to despair of saving remedies, as it shows that He, who is invoked, is ever looking on at our struggles and is not far from His suppliants.
+
+**[10:14]** It warns us whose lot is spiritual success and delight of heart that we ought not to be at all elated or puffed up by our happy condition, which it assures us cannot last without God as our protector, while it implores Him not only always but even speedily to help us.
+
+**[10:15]** This verse, I say, will be found helpful and useful to every one of us in whatever condition we may be.
+
+**[10:16]** For one who always and in all matters wants to be helped, shows that he needs the assistance of God not only in sorrowful or hard matters but also equally in prosperous and happy ones, that he may be delivered from the one and also made to continue in the other, as he knows that in both of them human weakness is unable to endure without His assistance.
+
+**[10:17]** I am affected by the passion of gluttony.
+
+**[10:18]** I ask for food of which the desert knows nothing, and in the squalid desert there are wafted to me odours of royal dainties and I find that even against my will I am drawn to long for them.
+
+**[10:19]** I must at once say: "O God, make speed to save me: O Lord, make haste to help me".
+
+**[10:20]** I am incited to anticipate the hour fixed for supper, or I am trying with great sorrow of heart to keep to the limits of the right and regular meagre fare.
+
+**[10:21]** I must cry out with groans: "O God, make speed to save me: O Lord, make haste to help me".
+
+**[10:22]** Weakness of the stomach hinders me when wanting severer fasts, on account of the assaults of the flesh, or dryness of the belly and constipation frightens me.
+
+**[10:23]** In order that effect may be given to my wishes, or else that the fire of carnal lust may be quenched without the remedy of a stricter fast, I must pray: "O God, make speed to save me: O Lord, make haste to help me".
+
+**[10:24]** When I come to supper, at the bidding of the proper hour I loathe taking food and am prevented from eating anything to satisfy the requirements of nature: I must cry with a sigh: "O God, make speed to save me: O Lord, make haste to help me".
+
+**[10:25]** When I want for the sake of steadfastness of heart to apply myself to reading a headache interferes and stops me, and at the third hour sleep glues my head to the sacred page, and I am forced either to overstep or to anticipate the time assigned to rest; and finally an overpowering desire to sleep forces me to cut short the canonical rule for service in the Psalms: in the same way I must cry out: "O God, make speed to save me: O Lord, make haste to help me".
+
+**[10:26]** Sleep is withdrawn from my eyes, and for many nights I find myself wearied out with sleeplessness caused by the devil, and all repose and rest by night is kept away from my eyelids; I must sigh and pray: "O God, make speed to save me: O Lord, make haste to help me".
+
+**[10:27]** While I am still in the midst of a struggle with sin suddenly an irritation of the flesh affects me and tries by a pleasant sensation to draw me to consent while in my sleep.
+
+**[10:28]** In order that a raging fire from without may not burn up the fragrant blossoms of chastity, I must cry out: "O God, make speed to save me: O Lord, make haste to help me".
+
+**[10:29]** I feel that the incentive to lust is removed, and that the heat of passion has died away in my members: In order that this good condition acquired, or rather that this grace of God may continue still longer or forever with me, I must earnestly say: "O God, make speed to save me: O Lord, make haste to help me".
+
+**[10:30]** I am disturbed by the pangs of anger, covetousness, gloominess, and driven to disturb the peaceful state in which I was, and which was dear to me: In order that I may not be carried away by raging passion into the bitterness of gall, I must cry out with deep groans: "O God, make speed to save me: O Lord, make haste to help me".
+
+**[10:31]** I am tried by being puffed up by accidie, vainglory, and pride, and my mind with subtle thoughts flatters itself somewhat on account of the coldness and carelessness of others: In order that this dangerous suggestion of the enemy may not get the mastery over me, I must pray with all contrition of heart: "O God, make speed to save me: O Lord, make haste to help me".
+
+**[10:32]** I have gained the grace of humility and simplicity, and by continually mortifying my spirit have got rid of the swellings of pride: In order that the "foot of pride" may not again "come against me," and "the hand of the sinner disturb me," and that I may not be more seriously damaged by elation at my success, I must cry with all my might, "O God, make speed to save me: O Lord, make haste to help me".
+
+**[10:33]** I am on fire with innumerable and various wanderings of soul and shiftiness of heart, and cannot collect my scattered thoughts, nor can I even pour forth my prayer without interruption and images  of vain figures, and the recollection of conversations and actions, and I feel myself tied down by such dryness and barrenness that I feel I cannot give birth to any offspring in the shape of spiritual ideas: In order that it may be vouchsafed to me to be set free from this wretched state of mind, from which I cannot extricate myself by any number of sighs and groans, I must full surely cry out: "O God, make speed to save me: O Lord, make haste to help me".
+
+**[10:34]** Again, I feel that by the visitation of the Holy Spirit I have gained purpose of soul, steadfastness of thought, keenness of heart, together with an ineffable joy and transport of mind, and in the exuberance of spiritual feelings I have perceived by a sudden illumination from the Lord an abounding revelation of most holy ideas which were formerly altogether hidden from me: In order that it may be vouchsafed to me to linger for a longer time in them I must often and anxiously exclaim: "O God, make speed to save me: O Lord, make haste to help me".
+
+**[10:35]** Encompassed by nightly horrors of devils I am agitated, and am disturbed by the appearances of unclean spirits, my very hope of life and salvation is withdrawn by the horror of fear.
+
+**[10:36]** Flying to the safe refuge of this verse, I will cry out with all my might: "O God, make speed to save me: O Lord, make haste to help me".
+
+**[10:37]** Again, when I have been restored by the Lord's consolation, and, cheered by His coming, feel myself encompassed as if by countless thousands of angels, so that all of a sudden I can venture to seek the conflict and provoke a battle with those whom a while ago I dreaded worse than death, and whose touch or even approach I felt with a shudder both of mind and body: In order that the vigour of this courage may, by God's grace, continue in me still longer, I must cry out with all my powers: "O God, make speed to save me: O Lord, make haste to help me".
+
+**[10:38]** We must then ceaselessly and continuously pour forth the prayer of this verse, in adversity that we may be delivered, in prosperity that we may be preserved and not puffed up.
+
+**[10:39]** Let the thought of this verse, I tell you, be conned over in your breast without ceasing.
+
+**[10:40]** Whatever work you are doing, or office you are holding, or journey you are going, do not cease to chant this.
+
+**[10:41]** When you are going to bed, or eating, and in the last necessities of nature, think on this.
+
+**[10:42]** This thought in your heart maybe to you a saving formula, and not only keep you unharmed by all attacks of devils, but also purify you from all faults and earthly stains, and lead you to that invisible and celestial contemplation, and carry you on to that ineffable glow of prayer, of which so few have any experience.
+
+**[10:43]** Let sleep come upon you still considering this verse, till having been moulded by the constant use of it, you grow accustomed to repeat it even in your sleep.
+
+**[10:44]** When you wake let it be the first thing to come into your mind, let it anticipate all your waking thoughts, let it when you rise from your bed send you down on your knees, and thence send you forth to all your work and business, and let it follow you about all day long.
+
+**[10:45]** This you should think about, according to the Lawgiver's charge, "at home and walking forth on a journey," sleeping and waking.
+
+**[10:46]** This you should write on the threshold and door of your mouth, this you should place on the walls of your house and in the recesses of your heart so that when you fall on your knees in prayer this may be your chant as you kneel, and when you rise up from it to go forth to all the necessary business of life it may be your constant prayer as you stand.
+
+**[11:1]** Chapter XI.
+
+**[11:2]** Of the perfection of prayer to which we can rise by the system described.
+
+**[11:3]** This, this is the formula which the mind should unceasingly cling to until, strengthened by the constant use of it and by continual meditation, it casts off and rejects the rich and full material of all manner of thoughts and restricts itself to the poverty of this one verse, and so arrives with ready ease at that beatitude of the gospel, which holds the first place among the other beatitudes: for He says "Blessed are the poor in spirit, for theirs is the kingdom of heaven".
+
+**[11:4]** And so one who becomes grandly poor by a poverty of this sort will fulfil this saying of the prophet: "The poor and needy shall praise the name of the Lord".
+
+**[11:5]** And indeed what greater or holier poverty can there be than that of one who knowing that he has no defence and no strength of his own, asks for daily help from another's bounty, and as he is aware that every single moment his life and substance depend on Divine assistance, professes himself not without reason the Lord's bedesman, and cries to Him daily in prayer: "But I am poor and needy: the Lord helpeth me".
+
+**[11:6]** And so by the illumination of God Himself he mounts to that manifold knowledge of Him and begins henceforward to be nourished on sublimer and still more sacred mysteries, in accordance with these words of the prophet: "The high hills are a refuge for the stags, the rocks for the  hedgehogs," which is very fairly applied in the sense we have given, because whosoever continues in simplicity and innocence is not injurious or offensive to any one, but being content with his own simple condition endeavours simply to defend himself from being spoiled by his foes, and becomes a sort of spiritual hedgehog and is protected by the continual shield of that rock of the gospel, i-e:, being sheltered by the recollection of the Lord's passion and by ceaseless meditation on the verse given above he escapes the snares of his opposing enemies.
+
+**[11:7]** And of these spiritual hedgehogs we read in Proverbs as follows: "And the hedgehogs are a feeble folk, who have made their homes in the rocks".
+
+**[11:8]** And indeed what is feebler than a Christian, what is weaker than a monk, who is not only not permitted any vengeance for wrongs done to him but is actually not allowed to suffer even a slight and silent feeling of irritation to spring up within? But whoever advances from this condition and not only secures the simplicity of innocence, but is also shielded by the virtue of discretion, becomes an exterminator of deadly serpents, and has Satan crushed beneath his feet, and by his quickness of mind answers to the figure of the reasonable stag, this man will feed on the mountains of the prophets and Apostles, i-e:, on their highest and loftiest mysteries.
+
+**[11:9]** And thriving on this pasture continually, he will take in to himself all the thoughts of the Psalms and will begin to sing them in such a way that he will utter them with the deepest emotion of heart not as if they were the compositions of the Psalmist, but rather as if they were his own utterances and his very own prayer; and will certainly take them as aimed at himself, and will recognize that their words were not only fulfilled formerly by or in the person of the prophet, but that they are fulfilled and carried out daily in his own case.
+
+**[11:10]** For then the Holy Scriptures lie open to us with greater clearness and as it were their very veins and marrow are exposed, when our experience not only perceives but actually anticipates their meaning, and the sense of the words is revealed to us not by an exposition of them but by practical proof.
+
+**[11:11]** For if we have experience of the very state of mind in which each Psalm was sung and written, we become like their authors and anticipate the meaning rather than follow it, i-e:, gathering the force of the words before we really know them, we remember what has happened to us, and what is happening in daily assaults when the thoughts of them come over us, and while we sing them we call to mind all that our carelessness has brought upon us, or our earnestness has secured, or Divine Providence has granted or the promptings of the foe have deprived us of, or slippery and subtle forgetfulness has carried off, or human weakness has brought about, or thoughtless ignorance has cheated us of.
+
+**[11:12]** For all these feelings we find expressed in the Psalms so that by seeing whatever happens as in a very clear mirror we understand it better, and so instructed by our feelings as our teachers we lay hold of it as something not merely heard but actually seen, and, as if it were not committed to memory, but implanted in the very nature of things, we are affected from the very bottom of the heart, so that we get at its meaning not by reading the text but by experience anticipating it.
+
+**[11:13]** And so our mind will reach that incorruptible prayer to which in our former treatise, as the Lord vouchsafed to grant, the scheme of our Conference mounted, and this is not merely not engaged in gazing on any image, but is actually distinguished by the use of no words or utterances; but with the purpose of the mind all on fire, is produced through ecstasy of heart by some unaccountable keenness of spirit, and the mind being thus affected without the aid of the senses or any visible material pours it forth to God with groanings and sighs that cannot be uttered.
+
+**[12:1]** Chapter XII.
+
+**[12:2]** A question as to how spiritual thoughts can be retained without losing them.
+
+**[12:3]** Germanus: We think that you have described to us not only the system of this spiritual discipline for which we asked, but perfection itself; and this with great clearness and openness.
+
+**[12:4]** For what can be more perfect and sublime than for the recollection of God to be embraced in so brief a meditation, and for it, dwelling on a single verse, to escape from all the limitations of things visible, and to comprise in one short word the thoughts of all our prayers.
+
+**[12:5]** And therefore we beg you to explain to us one thing which still remains; viz.
+
+**[12:6]** , how we can keep firm hold of this verse which you have given us as a formula, in such a way that, as we have been by God's grace set free from the trifles of worldly thoughts, so we may also keep a steady grasp on all spiritual ones.
+
+**[13:1]** Chapter XIII.
+
+**[13:2]** On the lightness of thoughts.
+
+**[13:3]** For when the mind has taken in the meaning of a passage in any Psalm, this insensibly slips away from it, and ignorantly and thoughtlessly it passes on to a text of some other Scripture.
+
+**[13:4]** And when it has begun to consider this with itself, while it is still not thoroughly explored, the recollection of some other passage springs up, and shuts out the consideration of the former subject.
+
+**[13:5]** From this too it is transferred to some other, by the entrance of some fresh consideration, and the soul always turns about from Psalm to Psalm and jumps from a passage in the Gospels to read one in the Epistles, and from this passes on to the prophetic writings, and thence is carried to some spiritual history, and so it wanders about vaguely and uncertainly through the whole body of the Scriptures, unable, as it may choose, either to reject or keep hold of anything, or to finish anything by fully considering and examining it, and so becomes only a toucher or taster of spiritual meanings, not an author and possessor of them.
+
+**[13:6]** And so the mind, as it is always light and wandering, is distracted even in time of service by all sorts of things, as if it were intoxicated, and does not perform any office properly.
+
+**[13:7]** For instance, while it is praying, it is recalling some Psalm or passage of Scripture.
+
+**[13:8]** While it is chanting, it is thinking about something else besides what the text of the Psalm itself contains.
+
+**[13:9]** When it repeats a passage of Scripture, it is thinking about something that has to be done, or remembering something that has been done.
+
+**[13:10]** And in this way it takes in and rejects nothing in a disciplined and proper way, and seems to be driven about by random incursions, without the power either of retaining what it likes or lingering over it.
+
+**[13:11]** It is then well for us before everything else to know how we can properly perform these spiritual offices, and keep firm hold of this particular verse which you have given us as a formula, so that the rise and fall of our feelings may not be in a state of fluctuation from their own lightness, but may lie under our own control.
+
+**[14:1]** Chapter XIV.
+
+**[14:2]** The answer how we can gain stability of heart or of thoughts.
+
+**[14:3]** Isaac: Although, in our former discussion on the character of prayer, enough was, as I think, said on this subject, yet as you want it repeated to you again, I will give you a brief instruction on steadfastness of heart.
+
+**[14:4]** There are three things which make a shifting heart steadfast, watchings, meditation, and prayer, diligence in which and constant attention will produce steadfast firmness of mind.
+
+**[14:5]** But this cannot be secured in any other way unless all cares and anxieties of this present life have been first got rid of by indefatigable persistence in work dedicated not to covetousness but to the sacred uses of the monastery, that we may thus be able to fulfil the Apostle's command: "Pray without ceasing".
+
+**[14:6]** For he prays too little, who is accustomed only to pray at the times when he bends his knees.
+
+**[14:7]** But he never prays, who even while on his bended knees is distracted by all kinds of wanderings of heart.
+
+**[14:8]** And therefore what we would be found when at our prayers, that we ought to be before the time of prayer.
+
+**[14:9]** For at the time of its prayers the mind cannot help being affected by its previous condition, and while it is praying, will be either transported to things heavenly, or dragged down to earthly things by those thoughts in which it had been lingering before prayer.
+
+**[14:10]** Thus far did Abbot Isaac carry on his Second Conference on the character of Prayer to us astonished hearers; whose instruction on the consideration of that verse quoted above (which he gave as a sort of outline for beginners to hold) we greatly admired, and wished to follow very closely, as we fancied that it would be a short and easy method; but we have found it even harder to observe than that system of ours by which we used formerly to wander here and there in varied meditations through the whole body of the Scriptures without being tied by any chains of perseverance.
+
+**[14:11]** It is then certain that no one is kept away from perfection of heart by not being able to read, nor is rustic simplicity any hindrance to the possession of purity of heart and mind, which lies close at hand for all, if only they will by constant meditation on this verse keep the thoughts of the mind safe and sound towards God.
+

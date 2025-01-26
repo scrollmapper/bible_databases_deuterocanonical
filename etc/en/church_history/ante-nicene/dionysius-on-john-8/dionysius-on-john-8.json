@@ -1,0 +1,93 @@
+{
+    "books": [
+        {
+            "name": "Dionysius: On John VIII",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Dionysius: On John VIII 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Dionysius: On John VIII 1:1",
+                            "text": "On John: V."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Dionysius: On John VIII 1:2",
+                            "text": "—On John VIII."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Dionysius: On John VIII 1:3",
+                            "text": "Now this word \"I am\" expresses His eternal subsistence."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Dionysius: On John VIII 1:4",
+                            "text": "For if He is the reflection of the eternal light, He must also be eternal Himself."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Dionysius: On John VIII 1:5",
+                            "text": "For if the light subsists for ever, it is evident that the reflection also subsists for ever."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Dionysius: On John VIII 1:6",
+                            "text": "And that this light subsists, is known only by its shining; neither can there be a light that does not give light."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "Dionysius: On John VIII 1:7",
+                            "text": "We come back, therefore, to our illustrations."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 1,
+                            "name": "Dionysius: On John VIII 1:8",
+                            "text": "If there is day, there is light; and if there is no such thing, the sun certainly cannot be present."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 1,
+                            "name": "Dionysius: On John VIII 1:9",
+                            "text": "If, therefore, the sun had been eternal, there would also have been endless day."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 1,
+                            "name": "Dionysius: On John VIII 1:10",
+                            "text": "Now, however, as it is not so, the day begins when the sun rises, and it ends when the sun sets."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 1,
+                            "name": "Dionysius: On John VIII 1:11",
+                            "text": "But God is eternal light, having neither beginning nor end."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 1,
+                            "name": "Dionysius: On John VIII 1:12",
+                            "text": "And along with Him there is the reflection, also without beginning, and everlasting."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 1,
+                            "name": "Dionysius: On John VIII 1:13",
+                            "text": "The Father, then, being eternal, the Son is also eternal, being light of light; and if God is the light, Christ is the reflection; and if God is also a Spirit, as it is written, \"God is a Spirit,\" Christ, again, is called analogously Spirit."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

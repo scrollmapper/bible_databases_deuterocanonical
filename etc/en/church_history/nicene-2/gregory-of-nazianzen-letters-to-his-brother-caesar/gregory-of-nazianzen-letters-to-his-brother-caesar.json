@@ -1,0 +1,423 @@
+{
+    "books": [
+        {
+            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:1",
+                            "text": "1."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:2",
+                            "text": "Letters to His Brother Caesarius."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:3",
+                            "text": "Ep."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:4",
+                            "text": "VII."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:5",
+                            "text": "(On the death of the Emperor Constantius the undisputed succession devolved on his cousin Julian the Apostate, who at once began to employ all the power of the Empire to discourage, while not absolutely persecuting, Christianity, and to restore the supremacy of the ancient Paganism."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:6",
+                            "text": "One of his first acts was to dismiss all the men who had held high dignities under his predecessor."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:7",
+                            "text": "S."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:8",
+                            "text": "Caesarius, Gregory's brother, was however to be excepted; Julian, who had perhaps known and esteemed him at Athens, did all that he could to keep him at Court, and to attach him to himself."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:9",
+                            "text": "This caused much anxiety to Gregory and other friends of Caesarius, who foresaw that Julian would do his utmost to shake the young man's faith, and could not feel sure that he would have courage to resist such assaults."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:10",
+                            "text": "In his trouble Gregory wrote him the following letter."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:11",
+                            "text": "Shortly afterwards the expected attempt was made."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:12",
+                            "text": "S."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:13",
+                            "text": "Caesarius bravely held his ground against the Emperor, and after declaring his unalterable determination to hold firm to his faith, resigned his office at Court and withdrew to Nazianzus."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:14",
+                            "text": ")  I have had enough to blush for in you; that I was grieved, it is hardly necessary to say to him who of all men knows me best."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:15",
+                            "text": "But, not to speak of my own feelings, or of the distress with which the rumour about you filled me (and let me say also the fear), I should have liked you, had it been possible, to have heard what was said by others, both relations and outsiders, who are any way acquainted with us (Christians I mean, of course,) about you and me; and not only some of them, but everyone in turn alike; for men are always more ready to philosophize about strangers than about their own relations."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:16",
+                            "text": "Such speeches as the following have become a sort of exercise among them: Now a Bishop's son takes service in the army; now he covets exterior power and fame; now he is a slave of money, when the fire is being rekindled for all, and men are running the race for life; and he does not deem the one only glory and safety and wealth to be to stand nobly against the times, and to place himself as far as possible out of reach of every abomination and defilement."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:17",
+                            "text": "How then can the Bishop exhort others not to be carried along with the times, or to be mixed up with idols? How can he rebuke those who do wrong in other ways, seeing his own home takes away his right to speak freely? We have every day to hear this, and even more severe things, some of the speakers perhaps saying them from a motive of friendship, and others with unfriendly feelings."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:18",
+                            "text": "How do you think we feel, and what is the state of mind with which we, men professing to serve God, and to deem the only good to be to look forward to the hopes of the future, hear such things as these? Our venerable Father is very much distressed by all that he hears, which even disgusts him with life."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:19",
+                            "text": "I console and comfort him as best I can, by making myself surety for your mind, and assuring him that you will not continue thus to grieve us."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:20",
+                            "text": "But if our dear Mother were to hear about you (so far we have kept her in the dark by various devices), I think she would be altogether inconsolable; being, as a woman, of a weak mind, and besides unable, through her great piety, to control her feelings on such matters."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:21",
+                            "text": "If then you care at all for yourself and us, try some better and safer course."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:22",
+                            "text": "Our means are certainly enough for an independent life, at least for a man of moderate desires, who is not insatiable in his lust for more."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:23",
+                            "text": "Moreover, I do not see what occasion for your settling down we are to wait for, if we let this one pass."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:24",
+                            "text": "But if you cling to the same opinion, and every thing seems to you of small account in comparison with your own desires, I do not wish to say anything else that may vex you, but this I foretell and protest, that one of two things must happen; either you, remaining a genuine Christian, will be ranked among the lowest, and will be in a position unworthy of yourself and your hopes; or in grasping at honours you will injure yourself in what is more important, and will have a share in the smoke, if not actually in the fire."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:25",
+                            "text": "Ep."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:26",
+                            "text": "XIV."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:27",
+                            "text": "and XXIII."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:28",
+                            "text": "(Under the Emperor Valens Caesarius returned to public life and was made Quaestor of Bithynia."
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:29",
+                            "text": "While he was in this office the following letters were written to him by his brother on behalf of two cousins, Eulalius, who afterwards succeeded Gregory in the Bishopric of Nazianzus, and with whom Gregory was on terms of intimate friendship, and Amphilochius, who, through the roguery of a partner, had got into some trouble at Constantinople about money matters, and for whom he asks aid and advice."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:30",
+                            "text": "Some however think that this letter is not addressed to his brother (who may have been at Constantinople at the time), but to some other officer of high rank at the Imperial Court."
+                        },
+                        {
+                            "verse": 31,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:31",
+                            "text": "Amphilochius soon after retired from the world, and by a."
+                        },
+                        {
+                            "verse": 32,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:32",
+                            "text": "d."
+                        },
+                        {
+                            "verse": 33,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:33",
+                            "text": "347 was already bishop of the important See of Iconium."
+                        },
+                        {
+                            "verse": 34,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:34",
+                            "text": "Gregory's letters to him are given later in this division."
+                        },
+                        {
+                            "verse": 35,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:35",
+                            "text": ")  Do a kindness to yourself and to me, of a kind that you will not often have an opportunity of doing, because opportunities for such kindnesses do not often occur."
+                        },
+                        {
+                            "verse": 36,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:36",
+                            "text": "Undertake a most righteous protection of my dear cousins, who are worried more than enough about a property which they bought as suitable for retirement, and capable of providing them with some means of living; but after having completed the purchase they have fallen into many troubles, partly through finding the vendors dishonest, and partly through being plundered and robbed by their neighbours, so that it would be a gain to them to get rid of their acquisition for the price they gave for it, plus the not small sum they have spent on it besides."
+                        },
+                        {
+                            "verse": 37,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:37",
+                            "text": "If, then, you would like to transfer the business to yourself, after examining the contract to see how it may be best and most securely done, this course would be most acceptable both to them and me; but if you would rather not, the next best course would be to oppose yourself to the officiousness and dishonesty of the man, that he may not succeed in gaining one advantage over their want of business habits, either by wronging them if they retain their property, or by inflicting loss upon them if they part with it."
+                        },
+                        {
+                            "verse": 38,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:38",
+                            "text": "I am really ashamed to write to you on such a subject."
+                        },
+                        {
+                            "verse": 39,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:39",
+                            "text": "All the same, since we owe it to them, on account both of their relationship and of their profession (for of whom would one rather take care than of such, or what would one be more ashamed of than of being unwilling to confer such a benefit?) do you either for your own sake, or for mine, or for the sake of the men themselves, or for all these sakes put together, by all means do them this kindness."
+                        },
+                        {
+                            "verse": 40,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:40",
+                            "text": "Ep."
+                        },
+                        {
+                            "verse": 41,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:41",
+                            "text": "XXIII."
+                        },
+                        {
+                            "verse": 42,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:42",
+                            "text": "Do not be surprized if I ask of you a great favour; for it is from a great man that I am asking it, and the request must be measured by him of whom it is made; for it is equally absurd to ask great things from a small man, and small things from a great man, the one being unseasonable, and the other mean."
+                        },
+                        {
+                            "verse": 43,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:43",
+                            "text": "I therefore present to you with my own hand my most precious son Amphilochius, a man so famous (even beyond his years) for his gentlemanly bearing, that I myself, though an old man, and a Priest, and your friend, would be quite content to be as much esteemed."
+                        },
+                        {
+                            "verse": 44,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:44",
+                            "text": "What wonder is it if he was cheated by a man's pretended friendship, and did not suspect the swindle? For not being himself a rogue, he did not suspect roguery, but thought that correction of language rather than of character was what was wanted, and therefore entered into partnership with him in business."
+                        },
+                        {
+                            "verse": 45,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:45",
+                            "text": "What blame can attach to him for this with honest men? Do not then allow wickedness to get the better of virtue; and do not dishonour my grey hairs, but do honour to my testimony, and add your kindness to my benedictions, which are perhaps of some account with God before Whom we stand."
+                        },
+                        {
+                            "verse": 46,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:46",
+                            "text": "Ep."
+                        },
+                        {
+                            "verse": 47,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:47",
+                            "text": "XX."
+                        },
+                        {
+                            "verse": 48,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:48",
+                            "text": "(In a."
+                        },
+                        {
+                            "verse": 49,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:49",
+                            "text": "d."
+                        },
+                        {
+                            "verse": 50,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:50",
+                            "text": "368 the City of Nicaea in Bithynia was almost entirely destroyed by a terrible earthquake."
+                        },
+                        {
+                            "verse": 51,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:51",
+                            "text": "Caesarius lost his house, and his personal escape was almost miraculous."
+                        },
+                        {
+                            "verse": 52,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:52",
+                            "text": "Gregory writes (as also did Basil) to congratulate him on his escape, and profits by the occasion to urge upon him retirement from his secular avocations."
+                        },
+                        {
+                            "verse": 53,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:53",
+                            "text": "Caesarius soon resolved to follow this advice, and was taking steps to carry this resolution into effect, when he died suddenly, early in a."
+                        },
+                        {
+                            "verse": 54,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:54",
+                            "text": "d."
+                        },
+                        {
+                            "verse": 55,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:55",
+                            "text": "369, aged only 40."
+                        },
+                        {
+                            "verse": 56,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:56",
+                            "text": "He left the whole of his large property to the poor, but it fell for a time into the hands of designing persons, and Gregory, who was his brother's executor, had much difficulty in recovering it for the purpose for which it had been intended."
+                        },
+                        {
+                            "verse": 57,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:57",
+                            "text": "(See the letter to Sophronius, Prefect of Constantinople on this subject."
+                        },
+                        {
+                            "verse": 58,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:58",
+                            "text": ") He was buried at Nazianzus in the Church of the Martyrs, in a vault which his parents had prepared for themselves."
+                        },
+                        {
+                            "verse": 59,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:59",
+                            "text": "Gregory preached the funeral sermon, which is given in the former part of this volume."
+                        },
+                        {
+                            "verse": 60,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:60",
+                            "text": "These four are the only letters known to have passed between the brothers."
+                        },
+                        {
+                            "verse": 61,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:61",
+                            "text": ")  Even frights are not without use to the wise; or, as I should say, they are very valuable and salutary."
+                        },
+                        {
+                            "verse": 62,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:62",
+                            "text": "For, although we pray that they may not happen, yet when they do they instruct us."
+                        },
+                        {
+                            "verse": 63,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:63",
+                            "text": "For the afflicted soul, as Peter somewhere admirably says, is near to God; and every man who escapes a danger is brought into nearer relation to Him Who preserved him."
+                        },
+                        {
+                            "verse": 64,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:64",
+                            "text": "Let us not then be vexed that we had a share in the calamity, but let us give thanks that we were delivered."
+                        },
+                        {
+                            "verse": 65,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:65",
+                            "text": "And let us not shew ourselves one thing to God in the time of peril, and another when the danger is over, but let us resolve, whether at home or abroad, whether in private life or in public office (for I must say this and may not omit it), to follow Him Who has preserved us, and to attach ourselves to His side, thinking little of the little concerns of earth; and let us furnish a tale to those who come after us, great for our glory and the benefit of our soul, and at the same time a very useful lesson to all, that danger is better than security, and that misfortune is preferable to success, at least if before our fears we belonged to the world, but after them we belong to God."
+                        },
+                        {
+                            "verse": 66,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:66",
+                            "text": "Perhaps I seem to you somewhat of a bore, by writing to you so often on the same subject, and you will think my letter a piece not of exhortation but of ostentation, so enough of this."
+                        },
+                        {
+                            "verse": 67,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:67",
+                            "text": "You will know that I desire and wish especially that I might be with you and share your joy at your preservation, and to talk over these matters later on."
+                        },
+                        {
+                            "verse": 68,
+                            "chapter": 1,
+                            "name": "Gregory of Nazianzen: Letters to His Brother Caesarius 1:68",
+                            "text": "But since that cannot be, I hope to receive you here as soon as may be, and to celebrate our thanksgiving together."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

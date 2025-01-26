@@ -1,0 +1,1167 @@
+{
+    "books": [
+        {
+            "name": "Synod of Laodicea",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Synod of Laodicea 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Synod of Laodicea 1:1",
+                            "text": "Canonos of The Synod of Laodicea:  Canon I."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Synod of Laodicea 1:2",
+                            "text": "It is right, according to the ecclesiastical Canon, that the Communion should by indulgence be given to those who have freely and lawfully joined in second marriages, not having previously made a secret marriage; after a short space, which is to be spent by them in prayer and fasting."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 2,
+                    "name": "Synod of Laodicea 2",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 2,
+                            "name": "Synod of Laodicea 2:1",
+                            "text": "Canon II."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 2,
+                            "name": "Synod of Laodicea 2:2",
+                            "text": "They who have sinned in divers particulars, if they have persevered in the prayer of confession and penance, and are wholly converted from their faults, shall be received again to communion, through the mercy and goodness of God, after a time of penance appointed to them, in proportion to the nature of their offence."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 3,
+                    "name": "Synod of Laodicea 3",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 3,
+                            "name": "Synod of Laodicea 3:1",
+                            "text": "Canon III."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 3,
+                            "name": "Synod of Laodicea 3:2",
+                            "text": "He who has been recently baptized ought not to be promoted to the sacerdotal order."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 4,
+                    "name": "Synod of Laodicea 4",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 4,
+                            "name": "Synod of Laodicea 4:1",
+                            "text": "Canon IV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 4,
+                            "name": "Synod of Laodicea 4:2",
+                            "text": "They who are of the sacerdotal order ought not to lend and receive usury, nor what is called hemioliae."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 5,
+                    "name": "Synod of Laodicea 5",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 5,
+                            "name": "Synod of Laodicea 5:1",
+                            "text": "Canon V."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 5,
+                            "name": "Synod of Laodicea 5:2",
+                            "text": "Ordinations are not to be held in the presence of hearers."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 6,
+                    "name": "Synod of Laodicea 6",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 6,
+                            "name": "Synod of Laodicea 6:1",
+                            "text": "Canon VI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 6,
+                            "name": "Synod of Laodicea 6:2",
+                            "text": "It is not permitted to heretics to enter the house of God while they continue in heresy."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 7,
+                    "name": "Synod of Laodicea 7",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 7,
+                            "name": "Synod of Laodicea 7:1",
+                            "text": "Canon VII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 7,
+                            "name": "Synod of Laodicea 7:2",
+                            "text": "Persons converted from heresies, that is, of the Novatians, Photinians, and Quartodecimans, whether they were catechumens or communicants among them, shall not be received until they shall have anathematized every heresy, and particularly that in which they were held; and afterwards those who among them were called communicants, having thoroughly learned the symbols of the faith, and having been anointed with the holy chrism, shall so communicate in the holy Mysteries."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 8,
+                    "name": "Synod of Laodicea 8",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 8,
+                            "name": "Synod of Laodicea 8:1",
+                            "text": "Canon VIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 8,
+                            "name": "Synod of Laodicea 8:2",
+                            "text": "Persons converted from the heresy of those who are called Phrygians, even should they be among those reputed by them as clergymen, and even should they be called the very chiefest, are with all care to be both instructed and baptized by the bishops and presbyters of the Church."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 9,
+                    "name": "Synod of Laodicea 9",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 9,
+                            "name": "Synod of Laodicea 9:1",
+                            "text": "Canon IX."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 9,
+                            "name": "Synod of Laodicea 9:2",
+                            "text": "The members of the Church are not allowed to meet in the cemeteries, nor attend the so-called martyries of any of the heretics, for prayer or service; but such as so do, if they be communicants, shall be excommunicated for a time; but if they repent and confess that they have sinned they shall be received."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 10,
+                    "name": "Synod of Laodicea 10",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 10,
+                            "name": "Synod of Laodicea 10:1",
+                            "text": "Canon X."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 10,
+                            "name": "Synod of Laodicea 10:2",
+                            "text": "The members of the Church shall not indiscriminately marry their children to heretics."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 11,
+                    "name": "Synod of Laodicea 11",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 11,
+                            "name": "Synod of Laodicea 11:1",
+                            "text": "Canon XI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 11,
+                            "name": "Synod of Laodicea 11:2",
+                            "text": "Presbytides, as they are called, or female presidents, are not to be appointed in the Church."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 12,
+                    "name": "Synod of Laodicea 12",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 12,
+                            "name": "Synod of Laodicea 12:1",
+                            "text": "Canon XII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 12,
+                            "name": "Synod of Laodicea 12:2",
+                            "text": "Bishops are to be appointed to the ecclesiastical government by the judgment of the metropolitans and neighbouring bishops, after having been long proved both in the foundation of their faith and in the conversation of an honest life."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 13,
+                    "name": "Synod of Laodicea 13",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 13,
+                            "name": "Synod of Laodicea 13:1",
+                            "text": "Canon XIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 13,
+                            "name": "Synod of Laodicea 13:2",
+                            "text": "The election of those who are to be appointed to the priesthood is not to be committed to the multitude."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 14,
+                    "name": "Synod of Laodicea 14",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 14,
+                            "name": "Synod of Laodicea 14:1",
+                            "text": "Canon XIV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 14,
+                            "name": "Synod of Laodicea 14:2",
+                            "text": "The holy things are not to be sent into other dioceses at the feast of Easter by way of eulogiae."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 15,
+                    "name": "Synod of Laodicea 15",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 15,
+                            "name": "Synod of Laodicea 15:1",
+                            "text": "Canon XV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 15,
+                            "name": "Synod of Laodicea 15:2",
+                            "text": "No others shall sing in the Church, save only the canonical singers, who go up into the ambo and sing from a book."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 16,
+                    "name": "Synod of Laodicea 16",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 16,
+                            "name": "Synod of Laodicea 16:1",
+                            "text": "Canon XVI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 16,
+                            "name": "Synod of Laodicea 16:2",
+                            "text": "The Gospels are to be read on the Sabbath [i-e: Saturday], with the other Scriptures."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 17,
+                    "name": "Synod of Laodicea 17",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 17,
+                            "name": "Synod of Laodicea 17:1",
+                            "text": "Canon XVII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 17,
+                            "name": "Synod of Laodicea 17:2",
+                            "text": "The Psalms are not to be joined together in the congregations, but a lesson shall intervene after every psalm."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 18,
+                    "name": "Synod of Laodicea 18",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 18,
+                            "name": "Synod of Laodicea 18:1",
+                            "text": "Canon XVIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 18,
+                            "name": "Synod of Laodicea 18:2",
+                            "text": "The same service of prayers is to be said always both at nones and at vespers."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 19,
+                    "name": "Synod of Laodicea 19",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 19,
+                            "name": "Synod of Laodicea 19:1",
+                            "text": "Canon XIX."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 19,
+                            "name": "Synod of Laodicea 19:2",
+                            "text": "After the sermons of the Bishops, the prayer for the catechumens is to be made first by itself; and after the catechumens have gone out, the prayer for those who are under penance; and, after these have passed under the hand [of the Bishop] and departed, there should then be offered the three prayers of the faithful, the first to be said entirely in silence, the second and third aloud, and then the [kiss of] peace is to be given."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 19,
+                            "name": "Synod of Laodicea 19:3",
+                            "text": "And, after the presbyters have given the [kiss of] peace to the Bishop, then the laity are to give it [to one another], and so the Holy Oblation is to be completed."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 19,
+                            "name": "Synod of Laodicea 19:4",
+                            "text": "And it is lawful to the priesthood alone to go to the Altar and [there] communicate."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 20,
+                    "name": "Synod of Laodicea 20",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 20,
+                            "name": "Synod of Laodicea 20:1",
+                            "text": "Canon XX."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 20,
+                            "name": "Synod of Laodicea 20:2",
+                            "text": "It is not right for a deacon to sit in the presence of a presbyter, unless he be bidden by the presbyter to sit down."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 20,
+                            "name": "Synod of Laodicea 20:3",
+                            "text": "Likewise the deacons shall have worship of the subdeacons and all the [inferior] clergy."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 21,
+                    "name": "Synod of Laodicea 21",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 21,
+                            "name": "Synod of Laodicea 21:1",
+                            "text": "Canon XXI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 21,
+                            "name": "Synod of Laodicea 21:2",
+                            "text": "The subdeacons have no right to a place in the Diaconicum, nor to touch the Lord's vessels."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 22,
+                    "name": "Synod of Laodicea 22",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 22,
+                            "name": "Synod of Laodicea 22:1",
+                            "text": "Canon XXII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 22,
+                            "name": "Synod of Laodicea 22:2",
+                            "text": "The subdeacon has no right to wear an orarium [i-e:, stole], nor to leave the doors."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 23,
+                    "name": "Synod of Laodicea 23",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 23,
+                            "name": "Synod of Laodicea 23:1",
+                            "text": "Canon XXIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 23,
+                            "name": "Synod of Laodicea 23:2",
+                            "text": "The readers and singers have no right to wear an orarium, and to read or sing thus [habited]."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 24,
+                    "name": "Synod of Laodicea 24",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 24,
+                            "name": "Synod of Laodicea 24:1",
+                            "text": "Canon XXIV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 24,
+                            "name": "Synod of Laodicea 24:2",
+                            "text": "No one of the priesthood, from presbyters to deacons, and so on in the ecclesiastical order to subdeacons, readers, singers, exorcists, door-keepers, or any of the class of the Ascetics, ought to enter a tavern."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 25,
+                    "name": "Synod of Laodicea 25",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 25,
+                            "name": "Synod of Laodicea 25:1",
+                            "text": "Canon XXV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 25,
+                            "name": "Synod of Laodicea 25:2",
+                            "text": "A subdeacon must not give the Bread, nor bless the Cup."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 26,
+                    "name": "Synod of Laodicea 26",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 26,
+                            "name": "Synod of Laodicea 26:1",
+                            "text": "Canon XXVI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 26,
+                            "name": "Synod of Laodicea 26:2",
+                            "text": "They who have not been promoted [to that office] by the bishop, ought not to adjure, either in churches or in private houses."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 27,
+                    "name": "Synod of Laodicea 27",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 27,
+                            "name": "Synod of Laodicea 27:1",
+                            "text": "Canon XXVII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 27,
+                            "name": "Synod of Laodicea 27:2",
+                            "text": "Neither they of the priesthood, nor clergymen, nor laymen, who are invited to a love feast, may take away their portions, for this is to cast reproach on the ecclesiastical order."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 28,
+                    "name": "Synod of Laodicea 28",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 28,
+                            "name": "Synod of Laodicea 28:1",
+                            "text": "Canon XXVIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 28,
+                            "name": "Synod of Laodicea 28:2",
+                            "text": "It is not permitted to hold love feasts, as they are called, in the Lord's Houses, or Churches, nor to eat and to spread couches in the house of God."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 29,
+                    "name": "Synod of Laodicea 29",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 29,
+                            "name": "Synod of Laodicea 29:1",
+                            "text": "Canon XXIX."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 29,
+                            "name": "Synod of Laodicea 29:2",
+                            "text": "Christians must not judaize by resting on the Sabbath, but must work on that day, rather honouring the Lord's Day; and, if they can, resting then as Christians."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 29,
+                            "name": "Synod of Laodicea 29:3",
+                            "text": "But if any shall be found to be judaizers, let them be anathema from Christ."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 30,
+                    "name": "Synod of Laodicea 30",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 30,
+                            "name": "Synod of Laodicea 30:1",
+                            "text": "Canon XXX."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 30,
+                            "name": "Synod of Laodicea 30:2",
+                            "text": "None of the priesthood, nor clerics [of lower rank] nor ascetics, nor any Christian or layman, shall wash in a bath with women; for this is the greatest reproach among the heathen."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 31,
+                    "name": "Synod of Laodicea 31",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 31,
+                            "name": "Synod of Laodicea 31:1",
+                            "text": "Canon XXXI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 31,
+                            "name": "Synod of Laodicea 31:2",
+                            "text": "It is not lawful to make marriages with all [sorts of] heretics, nor to give our sons and daughters to them; but rather to take of them, if they promise to become Christians."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 32,
+                    "name": "Synod of Laodicea 32",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 32,
+                            "name": "Synod of Laodicea 32:1",
+                            "text": "Canon XXXII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 32,
+                            "name": "Synod of Laodicea 32:2",
+                            "text": "It is unlawful to receive the eulogiae of heretics, for they are rather ἀλογίαι [i-e:, follies], than eulogiae [i-e:, blessings]."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 33,
+                    "name": "Synod of Laodicea 33",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 33,
+                            "name": "Synod of Laodicea 33:1",
+                            "text": "Canon XXXIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 33,
+                            "name": "Synod of Laodicea 33:2",
+                            "text": "No one shall join in prayers with heretics or schismatics."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 34,
+                    "name": "Synod of Laodicea 34",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 34,
+                            "name": "Synod of Laodicea 34:1",
+                            "text": "Canon XXXIV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 34,
+                            "name": "Synod of Laodicea 34:2",
+                            "text": "No Christian shall forsake the martyrs of Christ, and turn to false martyrs, that is, to those of the heretics, or those who formerly were heretics; for they are aliens from God."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 34,
+                            "name": "Synod of Laodicea 34:3",
+                            "text": "Let those, therefore, who go after them, be anathema."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 35,
+                    "name": "Synod of Laodicea 35",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 35,
+                            "name": "Synod of Laodicea 35:1",
+                            "text": "Canon XXXV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 35,
+                            "name": "Synod of Laodicea 35:2",
+                            "text": "Christians must not forsake the Church of God, and go away and invoke angels and gather assemblies, which things are forbidden."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 35,
+                            "name": "Synod of Laodicea 35:3",
+                            "text": "If, therefore, any one shall be found engaged in this covert idolatry, let him be anathema; for he has forsaken our Lord Jesus Christ, the Son of God, and has gone over to idolatry."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 36,
+                    "name": "Synod of Laodicea 36",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 36,
+                            "name": "Synod of Laodicea 36:1",
+                            "text": "Canon XXXVI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 36,
+                            "name": "Synod of Laodicea 36:2",
+                            "text": "They who are of the priesthood, or of the clergy, shall not be magicians, enchanters, mathematicians, or astrologers; nor shall they make what are called amulets, which are chains for their own souls."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 36,
+                            "name": "Synod of Laodicea 36:3",
+                            "text": "And those who wear such, we command to be cast out of the Church."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 37,
+                    "name": "Synod of Laodicea 37",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 37,
+                            "name": "Synod of Laodicea 37:1",
+                            "text": "Canon XXXVII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 37,
+                            "name": "Synod of Laodicea 37:2",
+                            "text": "It is not lawful to receive portions sent from the feasts of Jews or heretics, nor to feast together with them."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 38,
+                    "name": "Synod of Laodicea 38",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 38,
+                            "name": "Synod of Laodicea 38:1",
+                            "text": "Canon XXXVIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 38,
+                            "name": "Synod of Laodicea 38:2",
+                            "text": "It is not lawful to receive unleavened bread from the Jews, nor to be partakers of their impiety."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 39,
+                    "name": "Synod of Laodicea 39",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 39,
+                            "name": "Synod of Laodicea 39:1",
+                            "text": "Canon XXXIX."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 39,
+                            "name": "Synod of Laodicea 39:2",
+                            "text": "It is not lawful to feast together with the heathen, and to be partakers of their godlessness."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 40,
+                    "name": "Synod of Laodicea 40",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 40,
+                            "name": "Synod of Laodicea 40:1",
+                            "text": "Canon XL."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 40,
+                            "name": "Synod of Laodicea 40:2",
+                            "text": "Bishops called to a synod must not be guilty of contempt, but must attend, and either teach, or be taught, for the reformation of the Church and of others."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 40,
+                            "name": "Synod of Laodicea 40:3",
+                            "text": "And if such an one shall be guilty of contempt, he will condemn himself, unless he be detained by ill health."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 41,
+                    "name": "Synod of Laodicea 41",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 41,
+                            "name": "Synod of Laodicea 41:1",
+                            "text": "Canon XLI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 41,
+                            "name": "Synod of Laodicea 41:2",
+                            "text": "None of the priesthood nor of the clergy may go on a journey, without the bidding of the Bishop."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 42,
+                    "name": "Synod of Laodicea 42",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 42,
+                            "name": "Synod of Laodicea 42:1",
+                            "text": "Canon XLII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 42,
+                            "name": "Synod of Laodicea 42:2",
+                            "text": "None of the priesthood nor of the clergy may travel without letters canonical."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 43,
+                    "name": "Synod of Laodicea 43",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 43,
+                            "name": "Synod of Laodicea 43:1",
+                            "text": "Canon XLIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 43,
+                            "name": "Synod of Laodicea 43:2",
+                            "text": "The subdeacons may not leave the doors to engage in the prayer, even for a short time."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 44,
+                    "name": "Synod of Laodicea 44",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 44,
+                            "name": "Synod of Laodicea 44:1",
+                            "text": "Canon XLIV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 44,
+                            "name": "Synod of Laodicea 44:2",
+                            "text": "Women may not go to the altar."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 45,
+                    "name": "Synod of Laodicea 45",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 45,
+                            "name": "Synod of Laodicea 45:1",
+                            "text": "Canon XLV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 45,
+                            "name": "Synod of Laodicea 45:2",
+                            "text": "[Candidates] for baptism are not to be received after the second week in Lent."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 46,
+                    "name": "Synod of Laodicea 46",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 46,
+                            "name": "Synod of Laodicea 46:1",
+                            "text": "Canon XLVI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 46,
+                            "name": "Synod of Laodicea 46:2",
+                            "text": "They who are to be baptized must learn the faith [Creed] by heart, and recite it to the bishop, or to the presbyters, on the fifth day of the week."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 47,
+                    "name": "Synod of Laodicea 47",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 47,
+                            "name": "Synod of Laodicea 47:1",
+                            "text": "Canon XLVII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 47,
+                            "name": "Synod of Laodicea 47:2",
+                            "text": "They who are baptized in sickness and afterwards recover, must learn the Creed by heart and know that the Divine gifts have been vouchsafed them."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 48,
+                    "name": "Synod of Laodicea 48",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 48,
+                            "name": "Synod of Laodicea 48:1",
+                            "text": "Canon XLVIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 48,
+                            "name": "Synod of Laodicea 48:2",
+                            "text": "They who are baptized must after Baptism be anointed with the heavenly chrism, and be partakers of the Kingdom of Christ."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 49,
+                    "name": "Synod of Laodicea 49",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 49,
+                            "name": "Synod of Laodicea 49:1",
+                            "text": "Canon XLIX."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 49,
+                            "name": "Synod of Laodicea 49:2",
+                            "text": "During Lent the Bread must not be offered except on the Sabbath Day and on the Lord's Day only."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 50,
+                    "name": "Synod of Laodicea 50",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 50,
+                            "name": "Synod of Laodicea 50:1",
+                            "text": "Canon L."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 50,
+                            "name": "Synod of Laodicea 50:2",
+                            "text": "The fast must not be broken on the fifth day of the last week in Lent [i-e:, on Maunday Thursday], and the whole of Lent be dishonoured; but it is necessary to fast during all the Lenten season by eating only dry meats."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 51,
+                    "name": "Synod of Laodicea 51",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 51,
+                            "name": "Synod of Laodicea 51:1",
+                            "text": "Canon LI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 51,
+                            "name": "Synod of Laodicea 51:2",
+                            "text": "The nativities of Martyrs are not to be celebrated in Lent, but commemorations of the holy Martyrs are to be made on the Sabbaths and Lord's days."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 52,
+                    "name": "Synod of Laodicea 52",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 52,
+                            "name": "Synod of Laodicea 52:1",
+                            "text": "Canon LII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 52,
+                            "name": "Synod of Laodicea 52:2",
+                            "text": "Marriages and birthday feasts are not to be celebrated in Lent."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 53,
+                    "name": "Synod of Laodicea 53",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 53,
+                            "name": "Synod of Laodicea 53:1",
+                            "text": "Canon LIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 53,
+                            "name": "Synod of Laodicea 53:2",
+                            "text": "Christians, when they attend weddings, must not join in wanton dances, but modestly dine or breakfast, as is becoming to Christians."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 54,
+                    "name": "Synod of Laodicea 54",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 54,
+                            "name": "Synod of Laodicea 54:1",
+                            "text": "Canon LIV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 54,
+                            "name": "Synod of Laodicea 54:2",
+                            "text": "Members of the priesthood and of the clergy must not witness the plays at weddings or banquets; but, before the players enter, they must rise and depart."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 55,
+                    "name": "Synod of Laodicea 55",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 55,
+                            "name": "Synod of Laodicea 55:1",
+                            "text": "Canon LV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 55,
+                            "name": "Synod of Laodicea 55:2",
+                            "text": "Neither members of the priesthood nor of the clergy, nor yet laymen, may club together for drinking entertainments."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 56,
+                    "name": "Synod of Laodicea 56",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 56,
+                            "name": "Synod of Laodicea 56:1",
+                            "text": "Canon LVI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 56,
+                            "name": "Synod of Laodicea 56:2",
+                            "text": "Presbyters may not enter and take their seats in the bema before the entrance of the Bishop: but they must enter with the Bishop, unless he be at home sick, or absent."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 57,
+                    "name": "Synod of Laodicea 57",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 57,
+                            "name": "Synod of Laodicea 57:1",
+                            "text": "Canon LVII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 57,
+                            "name": "Synod of Laodicea 57:2",
+                            "text": "Bishops must not be appointed in villages or country districts, but visitors; and those who have been already appointed must do nothing without the consent of the bishop of the city."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 57,
+                            "name": "Synod of Laodicea 57:3",
+                            "text": "Presbyters, in like manner, must do nothing without the consent of the bishop."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 58,
+                    "name": "Synod of Laodicea 58",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 58,
+                            "name": "Synod of Laodicea 58:1",
+                            "text": "Canon LVIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 58,
+                            "name": "Synod of Laodicea 58:2",
+                            "text": "The Oblation must not be made by bishops or presbyters in any private houses."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 59,
+                    "name": "Synod of Laodicea 59",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 59,
+                            "name": "Synod of Laodicea 59:1",
+                            "text": "Canon LIX."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 59,
+                            "name": "Synod of Laodicea 59:2",
+                            "text": "No psalms composed by private individuals nor any uncanonical books may be read in the church, but only the Canonical Books of the Old and New Testaments."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 60,
+                    "name": "Synod of Laodicea 60",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 60,
+                            "name": "Synod of Laodicea 60:1",
+                            "text": "Canon LX."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 60,
+                            "name": "Synod of Laodicea 60:2",
+                            "text": "[N."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 60,
+                            "name": "Synod of Laodicea 60:3",
+                            "text": "B."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 60,
+                            "name": "Synod of Laodicea 60:4",
+                            "text": "—This Canon is of most questionable genuineness."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 60,
+                            "name": "Synod of Laodicea 60:5",
+                            "text": "]  These are all the books of Old Testament appointed to be read: 1, Genesis of the world; 2, The Exodus from Egypt; 3, Leviticus; 4, Numbers; 5, Deuteronomy; 6, Joshua, the son of Nun; 7, Judges, Ruth; 8, Esther; 9, Of the Kings, First and Second; 10, Of the Kings, Third and Fourth; 11, Chronicles, First and Second; 12, Esdras, First and Second; 13, The Book of Psalms; 14, The Proverbs of Solomon; 15, Ecclesiastes; 16, The Song of Songs; 17, Job; 18, The Twelve Prophets; 19, Isaiah; 20, Jeremiah, and Baruch, the Lamentations, and the Epistle; 21, Ezekiel; 22, Daniel."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 60,
+                            "name": "Synod of Laodicea 60:6",
+                            "text": "And these are the books of the New Testament: Four Gospels, according to Matthew, Mark, Luke and John; The Acts of the Apostles; Seven Catholic Epistles, to wit, one of James, two of Peter, three of John, one of Jude; Fourteen Epistles of Paul, one to the Romans, two to the Corinthians, one to the Galatians, one to the Ephesians, one to the Philippians, one to the Colossians, two to the Thessalonians, one to the Hebrews, two to Timothy, one to Titus, and one to Philemon."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

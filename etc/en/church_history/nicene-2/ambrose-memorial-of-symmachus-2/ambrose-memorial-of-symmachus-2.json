@@ -1,0 +1,639 @@
+{
+    "books": [
+        {
+            "name": "Ambrose: Memorial of Symmachus II",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Ambrose: Memorial of Symmachus II 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:1",
+                            "text": "The Memorial of Symmachus, Prefect of the City."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:2",
+                            "text": "Symmachus addresses his memorial in the name of the Senate, nominally to the three Emperors, Valentinian, Theodosius, and Arcadius, though really to the first of these alone, who was sole Emperor of the West."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:3",
+                            "text": "The memorial sets forth a request that the old religion should be restored, and the Altar of Victory again erected in the Senate House, that the ancient customs might be observed."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:4",
+                            "text": "The example of the late emperors should be followed in what they maintained, not in what they did away."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:5",
+                            "text": "The treasury would suffer no loss, whilst it is unjust that the Vestal Virgins and priests should be deprived of ancient legacies, a sacrilege which the gods punished by a famine."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:6",
+                            "text": "The memorial is drawn up with consummate skill, both in what is brought forward and in what is left unsaid."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:7",
+                            "text": "1."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:8",
+                            "text": "As soon as the most honourable Senate, always devoted to you, knew that crimes were made amenable to law, and that the reputation of late times was being purified by pious princes, it, following the example of a more favourable time, gave utterance to its long suppressed grief, and bade me be once again the delegate to utter its complaints."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:9",
+                            "text": "But through wicked men audience was refused me by the divine Emperor, otherwise justice would not have been wanting, my lords and emperors, of great renown, Valentinian, Theodosius, and Arcadius, victorious and triumphant, ever august."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:10",
+                            "text": "2."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:11",
+                            "text": "In the exercise, therefore, of a twofold office, as your Prefect I attend to public business, and as delegate I recommend to your notice the charge laid on me by the citizens."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:12",
+                            "text": "Here is no disagreement of wills, for men have now ceased to believe that they excel in courtly zeal, if they disagree."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:13",
+                            "text": "To be loved, to be reverenced, to be esteemed is more than imperial sway."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:14",
+                            "text": "Who could endure that private disagreement should injure the state? Rightly does the Senate censure those who have preferred their own power to the reputation of the prince."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:15",
+                            "text": "3."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:16",
+                            "text": "But it is our task to watch on behalf of your Graces."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:17",
+                            "text": "For to what is it more suitable that we defend the institutions of our ancestors, and the rights and destiny of our country, than to the glory of these times, which is all the greater when you understand that you may not do anything contrary to the custom of your ancestors? We demand then the restoration of that condition of religious affairs which was so long advantageous to the state."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:18",
+                            "text": "Let the rulers of each sect and of each opinion be counted up; a late one practised the ceremonies of his ancestors, a later did not put them away."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:19",
+                            "text": "If the religion of old times does not make a precedent, let the connivance of the last do so."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:20",
+                            "text": "4."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:21",
+                            "text": "Who is so friendly with the barbarians as not to require an Altar of Victory? We will be careful henceforth, and avoid a show of such things."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:22",
+                            "text": "But at least let that honour be paid to the name which is refused to the goddess—your fame, which will last for ever, owes much and will owe still more to victory."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:23",
+                            "text": "Let those be averse to this power, whom it has never benefited."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:24",
+                            "text": "Do you refuse to desert a patronage which is friendly to your triumphs? That power is wished for by all, let no one deny that what he acknowledges is to be desired should also be venerated."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:25",
+                            "text": "5."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:26",
+                            "text": "But even if the avoidance of such an omen were not sufficient, it would at least have been seemly to abstain from injuring the ornaments of the Senate House."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:27",
+                            "text": "Allow us, we beseech you, as old men to leave to posterity what we received as boys."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:28",
+                            "text": "The love of custom is great."
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:29",
+                            "text": "Justly did the act of the divine Constantius last but for a short time."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:30",
+                            "text": "All precedents ought to be avoided by you, which you know were soon abolished."
+                        },
+                        {
+                            "verse": 31,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:31",
+                            "text": "We are anxious for the permanence of your glory and your name, that the time to come may find nothing which needs correction."
+                        },
+                        {
+                            "verse": 32,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:32",
+                            "text": "6."
+                        },
+                        {
+                            "verse": 33,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:33",
+                            "text": "Where shall we swear to obey your laws and commands? by what religious sanction shall the false mind be terrified, so as not to lie in bearing witness? All things are indeed filled with God, and no place is safe for the perjured, but to be urged in the very presence of religious forms has great power in producing a fear of sinning."
+                        },
+                        {
+                            "verse": 34,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:34",
+                            "text": "That altar preserves the concord of all, that altar appeals to the good faith of each, and nothing gives more authority to our decrees than that the whole of our order issues every decree as it were under the sanction of an oath."
+                        },
+                        {
+                            "verse": 35,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:35",
+                            "text": "So that a place will be opened to perjury, and this will be determined by my illustrious Princes, whose honour is defended by a public oath."
+                        },
+                        {
+                            "verse": 36,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:36",
+                            "text": "7."
+                        },
+                        {
+                            "verse": 37,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:37",
+                            "text": "But the divine Constantius is said to have done the same."
+                        },
+                        {
+                            "verse": 38,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:38",
+                            "text": "Let us rather imitate the other actions of that Prince, who would have undertaken nothing of the kind, if any one else had committed such an error before him."
+                        },
+                        {
+                            "verse": 39,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:39",
+                            "text": "For the fall of the earlier sets his successor right, and amendment results from the censure of a previous example."
+                        },
+                        {
+                            "verse": 40,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:40",
+                            "text": "It was pardonable for your Grace's ancestor in so novel a matter to fail in guarding against blame."
+                        },
+                        {
+                            "verse": 41,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:41",
+                            "text": "Can the same excuse avail us if we imitate what we know to have been disapproved?  8."
+                        },
+                        {
+                            "verse": 42,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:42",
+                            "text": "Will your Majesties listen to other actions of this same Prince, which you may more worthily imitate? He diminished none of the privileges of the sacred virgins, he filled the priestly offices with nobles, he did not refuse the cost of the Roman ceremonies, and following the rejoicing Senate through all the streets of the eternal city, he contentedly beheld the shrines with unmoved countenance, he read the names of the gods inscribed on the pediments, he enquired about the origin of the temples, and expressed admiration for their builders."
+                        },
+                        {
+                            "verse": 43,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:43",
+                            "text": "Although he himself followed another religion, he maintained its own for the empire, for everyone has his own customs, everyone his own rites."
+                        },
+                        {
+                            "verse": 44,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:44",
+                            "text": "The divine Mind has distributed different guardians and different cults to different cities."
+                        },
+                        {
+                            "verse": 45,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:45",
+                            "text": "As souls are separately given to infants as they are born, so to peoples the genius of their destiny."
+                        },
+                        {
+                            "verse": 46,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:46",
+                            "text": "Here comes in the proof from advantage, which most of all vouches to man for the gods."
+                        },
+                        {
+                            "verse": 47,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:47",
+                            "text": "For, since our reason is wholly clouded, whence does the knowledge of the gods more rightly come to us, than from the memory and evidence of prosperity? Now if a long period gives authority to religious customs, we ought to keep faith with so many centuries, and to follow our ancestors, as they happily followed theirs."
+                        },
+                        {
+                            "verse": 48,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:48",
+                            "text": "9."
+                        },
+                        {
+                            "verse": 49,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:49",
+                            "text": "Let us now suppose that Rome is present and addresses you in these words: \"Excellent princes, fathers of your country, respect my years to which pious rites have brought me."
+                        },
+                        {
+                            "verse": 50,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:50",
+                            "text": "Let me use the ancestral ceremonies, for I do not repent of them."
+                        },
+                        {
+                            "verse": 51,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:51",
+                            "text": "Let me live after my own fashion, for I am free."
+                        },
+                        {
+                            "verse": 52,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:52",
+                            "text": "This worship subdued the world to my laws, these sacred rites repelled Hannibal from the walls, and the Senones from the capitol."
+                        },
+                        {
+                            "verse": 53,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:53",
+                            "text": "Have I been reserved for this, that in my old age I should be blamed? I will consider what it is thought should be set in order, but tardy and discreditable is the reformation of old age\"."
+                        },
+                        {
+                            "verse": 54,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:54",
+                            "text": "10."
+                        },
+                        {
+                            "verse": 55,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:55",
+                            "text": "We ask, then, for peace for the gods of our fathers and of our country."
+                        },
+                        {
+                            "verse": 56,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:56",
+                            "text": "It is just that all worship should be considered as one."
+                        },
+                        {
+                            "verse": 57,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:57",
+                            "text": "We look on the same stars, the sky is common, the same world surrounds us."
+                        },
+                        {
+                            "verse": 58,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:58",
+                            "text": "What difference does it make by what pains each seeks the truth? We cannot attain to so great a secret by one road; but this discussion is rather for persons at ease, we offer now prayers, not conflict."
+                        },
+                        {
+                            "verse": 59,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:59",
+                            "text": "11."
+                        },
+                        {
+                            "verse": 60,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:60",
+                            "text": "With what advantage to your treasury are the prerogatives of the Vestal Virgins diminished? Is that refused under the most bountiful emperors which the most parsimonious have granted? Their sole honour consists in that, so to call it, wage of chastity."
+                        },
+                        {
+                            "verse": 61,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:61",
+                            "text": "As fillets are the ornament of their heads, so is their distinction drawn from their leisure to attend to the offices of sacrifice."
+                        },
+                        {
+                            "verse": 62,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:62",
+                            "text": "They seek for in a measure the empty name of immunity, since by their poverty they are exempt from payment."
+                        },
+                        {
+                            "verse": 63,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:63",
+                            "text": "And so they who diminish anything of their substance increase their praise, inasmuch as virginity dedicated to the public good increases in merit when it is without reward."
+                        },
+                        {
+                            "verse": 64,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:64",
+                            "text": "12."
+                        },
+                        {
+                            "verse": 65,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:65",
+                            "text": "Let such gains as these be far from the purity of your treasury."
+                        },
+                        {
+                            "verse": 66,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:66",
+                            "text": "Let the revenue of good princes be increased not by the losses of priests, but by the spoils of enemies."
+                        },
+                        {
+                            "verse": 67,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:67",
+                            "text": "Does any gain compensate for the odium? And because no charge of avarice falls upon your characters, they are the more wretched whose ancient revenues are diminished."
+                        },
+                        {
+                            "verse": 68,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:68",
+                            "text": "For under emperors who abstain from what belongs to others, and resist avarice, that which does not move the desire of him who takes it, is taken solely to injure the loser."
+                        },
+                        {
+                            "verse": 69,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:69",
+                            "text": "13."
+                        },
+                        {
+                            "verse": 70,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:70",
+                            "text": "The treasury also retains lands bequeathed to virgins and ministers by the will of dying persons."
+                        },
+                        {
+                            "verse": 71,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:71",
+                            "text": "I entreat you, priests of justice, let the lost right of succession be restored to the sacred persons and places of your city."
+                        },
+                        {
+                            "verse": 72,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:72",
+                            "text": "Let men dictate their wills without anxiety, and know that what has been written will be undisturbed under princes who are not avaricious."
+                        },
+                        {
+                            "verse": 73,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:73",
+                            "text": "Let the happiness in this point of all men give pleasure to you, for precedents in this matter have begun to trouble the dying."
+                        },
+                        {
+                            "verse": 74,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:74",
+                            "text": "Does not then the religion of Rome appertain to Roman law? What name shall be given to the taking away of property which no law nor accident has made to fail."
+                        },
+                        {
+                            "verse": 75,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:75",
+                            "text": "Freedmen take legacies, slaves are not denied the just privilege of making wills; only noble virgins and the ministers of sacred rites are excluded from property sought by inheritance."
+                        },
+                        {
+                            "verse": 76,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:76",
+                            "text": "What does it profit the public safety to dedicate the body to chastity, and to support the duration of the empire with heavenly guardianship, to attach the friendly powers to your arms and to your eagles, to take upon oneself vows efficacious for all, and not to have common rights with all? So, then, slavery is a better condition, which is a service rendered to men."
+                        },
+                        {
+                            "verse": 77,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:77",
+                            "text": "We injure the State, whose interest it never is to be ungrateful."
+                        },
+                        {
+                            "verse": 78,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:78",
+                            "text": "14."
+                        },
+                        {
+                            "verse": 79,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:79",
+                            "text": "And let no one think that I am defending the cause of religion only, for from deeds of this kind have arisen all the misfortunes of the Roman race."
+                        },
+                        {
+                            "verse": 80,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:80",
+                            "text": "The law of our ancestors honoured the Vestal Virgins and the ministers of the gods with a moderate maintenance and just privileges."
+                        },
+                        {
+                            "verse": 81,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:81",
+                            "text": "This grant remained unassailed till the time of the degenerate money-changers, who turned the fund for the support of sacred chastity into hire for common porters."
+                        },
+                        {
+                            "verse": 82,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:82",
+                            "text": "A general famine followed upon this, and a poor harvest disappointed the hopes of all the provinces."
+                        },
+                        {
+                            "verse": 83,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:83",
+                            "text": "This was not the fault of the earth, we impute no evil influence to the stars."
+                        },
+                        {
+                            "verse": 84,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:84",
+                            "text": "Mildew did not injure the crops, nor wild oats destroy the corn; the year failed through the sacrilege, for it was necessary that what was refused to religion should be denied to all."
+                        },
+                        {
+                            "verse": 85,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:85",
+                            "text": "15."
+                        },
+                        {
+                            "verse": 86,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:86",
+                            "text": "Certainly, if there be any instance of this evil, let us impute such a famine to the power of the season."
+                        },
+                        {
+                            "verse": 87,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:87",
+                            "text": "A deadly wind has been the cause of this barrenness, life is sustained by trees and shrubs, and the need of the country folk has betaken itself once more to the oaks of Dodona."
+                        },
+                        {
+                            "verse": 88,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:88",
+                            "text": "What similar evil did the provinces suffer, so long as the public charge sustained the ministers of religion? When were the oaks shaken for the use of men, when were the roots of plants torn up, when did fertility on all sides forsake the various lands, when supplies were in common for the people and for the sacred virgins? For the support of the priests was a blessing to the produce of the earth, and was rather an insurance than a bounty."
+                        },
+                        {
+                            "verse": 89,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:89",
+                            "text": "Is there any doubt that what was given was for the benefit of all, seeing that the want of all has made this plain?  16."
+                        },
+                        {
+                            "verse": 90,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:90",
+                            "text": "But some one will say that public support is only refused to the cost of foreign religions."
+                        },
+                        {
+                            "verse": 91,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:91",
+                            "text": "Far be it from good princes to suppose that what has been given to certain persons from the common property can be in the power of the treasury."
+                        },
+                        {
+                            "verse": 92,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:92",
+                            "text": "For as the State consists of individuals, that which goes out from it becomes again the property of individuals."
+                        },
+                        {
+                            "verse": 93,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:93",
+                            "text": "You rule over all; but you preserve his own for each individual; and justice has more weight with you than arbitrary will."
+                        },
+                        {
+                            "verse": 94,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:94",
+                            "text": "Take counsel with your own liberality whether that which you have conferred on others ought to be considered public property."
+                        },
+                        {
+                            "verse": 95,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:95",
+                            "text": "Sums once given to the honour of the city cease to be the property of those who have given them, and that which at the commencement was a gift, by custom and time becomes a debt."
+                        },
+                        {
+                            "verse": 96,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:96",
+                            "text": "Any one is therefore endeavouring to impress upon your minds a vain fear, who asserts that you share the responsibility of the givers unless you incur the odium of withdrawing the gifts."
+                        },
+                        {
+                            "verse": 97,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:97",
+                            "text": "17."
+                        },
+                        {
+                            "verse": 98,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:98",
+                            "text": "May the unseen guardians of all sects be favourable to your Graces, and may they especially, who in old time assisted your ancestors, defend you and be worshipped by us."
+                        },
+                        {
+                            "verse": 99,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:99",
+                            "text": "We ask for that state of religious matters which preserved the empire for the divine parent of your Highnesses, and  furnished that blessed prince with lawful heirs."
+                        },
+                        {
+                            "verse": 100,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:100",
+                            "text": "That venerable father beholds from the starry height the tears of the priests, and considers himself censured by the violation of that custom which he willingly observed."
+                        },
+                        {
+                            "verse": 101,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:101",
+                            "text": "18."
+                        },
+                        {
+                            "verse": 102,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:102",
+                            "text": "Amend also for your divine brother that which he did by the counsel of others, cover over the deed which he knew not to be displeasing to the Senate."
+                        },
+                        {
+                            "verse": 103,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:103",
+                            "text": "For it is allowed that that legation was denied access to him, lest public opinion should reach him."
+                        },
+                        {
+                            "verse": 104,
+                            "chapter": 1,
+                            "name": "Ambrose: Memorial of Symmachus II 1:104",
+                            "text": "It is for the credit of former times, that you should not hesitate to abolish that which is proved not to have been the doing of the prince."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

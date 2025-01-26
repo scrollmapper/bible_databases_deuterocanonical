@@ -1,0 +1,699 @@
+{
+    "books": [
+        {
+            "name": "Decretal: Epistle of Pope Pontianus",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Decretal: Epistle of Pope Pontianus 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Decretal: Epistle of Pope Pontianus 1:1",
+                            "text": "The Epistles of Pope Pontianus: The First Epistle."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Decretal: Epistle of Pope Pontianus 1:2",
+                            "text": "To Felix Subscribonius."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Decretal: Epistle of Pope Pontianus 1:3",
+                            "text": "On the honour to be bestowed on priests."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Decretal: Epistle of Pope Pontianus 1:4",
+                            "text": "Pontianus, bishop, to Felix Subscribonius, greeting."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Decretal: Epistle of Pope Pontianus 1:5",
+                            "text": "Our heart is exceedingly rejoiced with your goodness, in that you strive by all means in your power to carry out the practice of holy religion, and strengthen sad and destitute brethren in faith and religion."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Decretal: Epistle of Pope Pontianus 1:6",
+                            "text": "Wherefore we implore the mercy of our Redeemer, that His grace may support us in all things, and that He may grant us to carry out in effect what He has given us to aspire after."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "Decretal: Epistle of Pope Pontianus 1:7",
+                            "text": "In this good thing, therefore, the benefits of recompense are multiplied just in proportion as our zeal for the work increases."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 1,
+                            "name": "Decretal: Epistle of Pope Pontianus 1:8",
+                            "text": "And because in all these things we need the assistance of divine grace, we implore with constant prayers the clemency of Omnipotent God, that He may both grant us the desire for these good works which should ever be wrought by us, and give us power also to perform them, and direct us in that way, for the fruit of well-doing—which way the Pastor of pastors declared Himself to be—so that ye may be able to carry out through Him, without whom nothing can be done, those good works which you have begun."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 1,
+                            "name": "Decretal: Epistle of Pope Pontianus 1:9",
+                            "text": "Moreover, with respect to the priests of the Lord whom we have heard you aid against the plots of wicked men, and whose cause you sustain, know ye that in so doing ye please God greatly, who has called them to the service of Himself, and has honoured them with so intimate a fellowship with Him, that through them He accepts the oblations of others, and pardons their sins, and reconciles them with Him."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 1,
+                            "name": "Decretal: Epistle of Pope Pontianus 1:10",
+                            "text": "They also make the body of the Lord with their own mouth (proprio ore corpus Domini conficiunt), and give it to the people."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 1,
+                            "name": "Decretal: Epistle of Pope Pontianus 1:11",
+                            "text": "For of them it is said:  He that hurteth you, hurteth me; and he that doeth you an injury, shall receive again that which he hath done unrighteously."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 1,
+                            "name": "Decretal: Epistle of Pope Pontianus 1:12",
+                            "text": "And elsewhere:  He that heareth you, heareth me; and he that despiseth you, despiseth me; and he that despiseth me, despiseth Him that sent me."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 1,
+                            "name": "Decretal: Epistle of Pope Pontianus 1:13",
+                            "text": "Hence they are not to be molested, but honoured."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 1,
+                            "name": "Decretal: Epistle of Pope Pontianus 1:14",
+                            "text": "And in them the Lord Himself is honoured, whose commission they execute."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 1,
+                            "name": "Decretal: Epistle of Pope Pontianus 1:15",
+                            "text": "They accordingly, if they happen to fall, are to be raised up and sustained by the faithful."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 1,
+                            "name": "Decretal: Epistle of Pope Pontianus 1:16",
+                            "text": "And again, they are not to be accused by the infamous, or the wicked, or the hostile, or by the members of another sect or religion."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 1,
+                            "name": "Decretal: Epistle of Pope Pontianus 1:17",
+                            "text": "If they sin, they are to be arraigned by the other priests; further, they are to be held in check (constringantur) by the chief pontiffs, and they are not to be arraigned or restrained by seculars or by men of evil life."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 1,
+                            "name": "Decretal: Epistle of Pope Pontianus 1:18",
+                            "text": "Not slight, therefore, is our grief in hearing that you have to sorrow for your brother's passing away (transitu)."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 1,
+                            "name": "Decretal: Epistle of Pope Pontianus 1:19",
+                            "text": "For which reason we beseech Almighty God to console you by the breathing (aspiratione) of His grace, and keep you with heavenly guardianship from evil spirits and perverse men."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 1,
+                            "name": "Decretal: Epistle of Pope Pontianus 1:20",
+                            "text": "For if ye have to bear any turmoil of certain adversaries after his disease, do not think it strange though ye, who seek to enjoy good in your own country—that is, in the land of the living—have to bear evil things at the hands of men in a strange country."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 1,
+                            "name": "Decretal: Epistle of Pope Pontianus 1:21",
+                            "text": "For the present life is a sojourning; and to him who sighs after the true fatherland, the place of his sojourning is a trial, however pleasant it may seem."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 1,
+                            "name": "Decretal: Epistle of Pope Pontianus 1:22",
+                            "text": "And as to you who seek the fatherland, among the sighs which ye heave I hear the groans also of human oppression rising."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 1,
+                            "name": "Decretal: Epistle of Pope Pontianus 1:23",
+                            "text": "And this happens by the wonderful dispensation of Almighty God, in order that, while the truth calls you in love, this present world may cast back your affection from itself through the tribulations which it brings on, and that the mind may be so much the more easily delivered from the love of this world, as it is also impelled while it is called."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 1,
+                            "name": "Decretal: Epistle of Pope Pontianus 1:24",
+                            "text": "Therefore, as you have begun, give heed to the duty of hospitality; labour most urgently in prayer and tears; devote yourselves more liberally and freely now to those almsgivings which you have ever loved, in order that in the recompense the profit to you for your work may be greater in proportion as your zeal for the labour has risen to higher degrees here."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 1,
+                            "name": "Decretal: Epistle of Pope Pontianus 1:25",
+                            "text": "Furthermore, hailing your goodness with paternal pleasantness, we beg you not to fail in the good works which ye have begun."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 1,
+                            "name": "Decretal: Epistle of Pope Pontianus 1:26",
+                            "text": "And may no one be able to turn you from them; but may the clergy and servants of God, and all Christians who sojourn in those parts, fully discover by the love of Christ and Saint Peter the disposition of your charity in all things, and obtain the comforts of your favour in every necessity that may arise; to the end that all may be defended and helped by your aid, and that we, too, may owe you thanks, and that our Lord Jesus Christ may make good to you eternal glory, and that the blessed Apostle Peter, the chief of the apostles, in whose cause you spend yourselves, may open the gate of that same glory."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 1,
+                            "name": "Decretal: Epistle of Pope Pontianus 1:27",
+                            "text": "—Given on the th day before the kalends of February (the d of January), in the consulship of the most illustrious Severus and Quintianus."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 2,
+                    "name": "Decretal: Epistle of Pope Pontianus 2",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:1",
+                            "text": "The Second Epistle."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:2",
+                            "text": "To All Bishops."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:3",
+                            "text": "On brotherly love, and on avoiding the evil."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:4",
+                            "text": "Pontianus, bishop of the holy and universal Church, to all who worship the Lord aright, and love the divine worship, greeting."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:5",
+                            "text": "Glory to God in the highest, and on earth peace to men of good will."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:6",
+                            "text": "These words, most beloved, are not the words of men, but of angels; and they were not devised by human sense, but were uttered by angels at the birth of the Saviour."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:7",
+                            "text": "And from these words it can be understood without doubt by all that peace is given by the Lord, not to men of evil will, but to men of good will."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:8",
+                            "text": "Whence the Lord, speaking by the prophet, says:  \"How good is God to Israel, even to such as are of a clean heart!  But as for me, my feet were almost gone; my steps had well-nigh slipped:  for I was envious at the unrighteous, when I saw the prosperity of the wicked\"."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:9",
+                            "text": "Of the good, however, the Truth says in His own person, \"Blessed are the pure in heart, for they shall see God\"."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:10",
+                            "text": "And they are not the pure in heart who think evil things, or things hurtful to their brethren; for he who is the faithful man devises nothing evil."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:11",
+                            "text": "The faithful man, accordingly, loves rather to hear things which are becoming, than to speak things which are not becoming."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:12",
+                            "text": "And if any one is faithful, let him see to it that he speak no evil, and lay no snares in the way of any one."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:13",
+                            "text": "In this, then, are the children of God distinguished from the children of the devil."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:14",
+                            "text": "For the children of God always think and strive to do things which are of God, and give help unceasingly to their brethren, and wish to injure no one."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:15",
+                            "text": "But, on the other hand, the children of the devil are always meditating things evil and hurtful, because their deeds are evil."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:16",
+                            "text": "And of them the Lord, speaking by the prophet Jeremiah, says:  \"I will utter my judgments against them touching all their wickedness\"."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:17",
+                            "text": "\"Wherefore I will yet plead with you, saith the Lord; and with your children's children will I plead\"."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:18",
+                            "text": "\"Behold, I frame evil against you, and devise a device against you\"."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:19",
+                            "text": "These things, brethren, are greatly to be feared, and to be guarded against by all; for the man on whom the judgment of God may fall will not depart unhurt."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:20",
+                            "text": "And therefore let every one see to it carefully that he neither contrive nor do against a brother what he would not wish to have to endure himself."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:21",
+                            "text": "And let not the man of faith come under the suspicion even of saying or doing what he would not wish to have to endure himself."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:22",
+                            "text": "Wherefore persons suspected, or hostile or litigious, and those who are not of good conversation, or whose life is reprehensible, and those who do not hold and teach the right faith, have been debarred from being either accusers or witnesses by our predecessors with apostolic authority; and we too remove them from that function, and exclude them from it in times to come, lest those lapse wilfully whom we ought to keep in and save; lest not only (which may God forbid!) the predicted judgment of God should fall upon both, but we also should perish (which may God forbid!) through their fault."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:23",
+                            "text": "For it is written, \"Have they made thee the master of a feast?  Take care for them, that thou mayst be merry on their account, and receive as thy crown the ornament of esteem, and find approbation of thine election\"."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:24",
+                            "text": "For the evil word affects the heart, out of which proceed these four objects, good and evil, life and death; and the tongue in its assiduous action is what determines these."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:25",
+                            "text": "Wherefore the before-named parties are altogether to be avoided; and until the before-noted matters are investigated, and the parties are found to be clear of such, they are not to be received:  for the right sacrifice is to give heed to the commandments, and to depart from all iniquity."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:26",
+                            "text": "\"To depart from wickedness is a thing pleasing to the Lord, and to forsake unrighteousness is a sacrifice of praise\"."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:27",
+                            "text": "For it is written, \"Love thy friend, and be faithful unto him."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:28",
+                            "text": "But if thou bewrayest his secrets, follow no more after him."
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:29",
+                            "text": "For as a man who destroyeth his friend, so is he who destroys (loseth) the friendship of his neighbour."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:30",
+                            "text": "And as one that letteth a bird go out of his hand, so art thou that has let thy neighbour go and shalt not get him again."
+                        },
+                        {
+                            "verse": 31,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:31",
+                            "text": "Follow after him no more, for he is far off."
+                        },
+                        {
+                            "verse": 32,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:32",
+                            "text": "For he has escaped like a roe out of the snare, because his soul is wounded."
+                        },
+                        {
+                            "verse": 33,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:33",
+                            "text": "Thou wilt not be able to bind him any more, and there is reconciliation for the reviled."
+                        },
+                        {
+                            "verse": 34,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:34",
+                            "text": "But to betray the secrets of a friend is the desperation of a wretched soul."
+                        },
+                        {
+                            "verse": 35,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:35",
+                            "text": "He that winketh with the eye worketh evil, and no one will cast him off."
+                        },
+                        {
+                            "verse": 36,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:36",
+                            "text": "When thou art present, he will despise his own mouth, and express his wonder at thy discourse; but at the last he will writhe his mouth, and slander thy sayings."
+                        },
+                        {
+                            "verse": 37,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:37",
+                            "text": "I have hated many things, but nothing like him; and the Lord will hate him."
+                        },
+                        {
+                            "verse": 38,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:38",
+                            "text": "Whoso casteth a stone on high, it will fall upon his own head, and a deceitful stroke of the deceitful will make wounds."
+                        },
+                        {
+                            "verse": 39,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:39",
+                            "text": "Whoso diggeth a pit shall fall therein; and he that setteth a stone in his neighbour's way will fall thereon; and he that placeth a snare for another will perish therein."
+                        },
+                        {
+                            "verse": 40,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:40",
+                            "text": "He that worketh mischief, it shall fall upon him, and he shall not know whence it cometh on him."
+                        },
+                        {
+                            "verse": 41,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:41",
+                            "text": "Mockery and reproach are from the proud; and vengeance, as a lion, shall be in wait for them."
+                        },
+                        {
+                            "verse": 42,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:42",
+                            "text": "They that rejoice at the fall of the righteous shall perish in the snare, and anguish shall consume them before they die."
+                        },
+                        {
+                            "verse": 43,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:43",
+                            "text": "Anger and wrath are both abominations, and the sinful man shall have them both\"."
+                        },
+                        {
+                            "verse": 44,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:44",
+                            "text": "\"He that will be avenged shall find vengeance from the Lord, and he will surely keep his sins."
+                        },
+                        {
+                            "verse": 45,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:45",
+                            "text": "Forgive thy neighbour the hurt that he hath done unto thee, and then shall thy sins be forgiven thee when thou prayest."
+                        },
+                        {
+                            "verse": 46,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:46",
+                            "text": "One man beareth hatred against another; and doth he ask redress of God?  He showeth no mercy to a man which is like himself; and doth he ask forgiveness of the Most High for his own sins?  He, though he is flesh, nourisheth hatred; and doth he ask pardon of God?  Who will entreat for his sins?  Remember thy end, and let enmity cease; for corruption and death impend on commandments."
+                        },
+                        {
+                            "verse": 47,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:47",
+                            "text": "Remember the fear of God, and bear no malice to thy neighbour."
+                        },
+                        {
+                            "verse": 48,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:48",
+                            "text": "Remember the covenant of the Highest, and look down upon (despice) the ignorance of thy neighbour."
+                        },
+                        {
+                            "verse": 49,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:49",
+                            "text": "Abstain from strife, and thou shalt diminish thy sins."
+                        },
+                        {
+                            "verse": 50,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:50",
+                            "text": "For a furious man kindleth strife; and a sinful man will disquiet friends, and make enmity among them that be at peace."
+                        },
+                        {
+                            "verse": 51,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:51",
+                            "text": "For even as the trees of the wood are, so will the fire burn; and as a man's strength is, so will his anger be; and as his riches are, so will he make his anger rise."
+                        },
+                        {
+                            "verse": 52,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:52",
+                            "text": "An hastened contention will kindle a fire, and an hastening quarrel will shed blood, and a testifying (testificans) tongue will bring death."
+                        },
+                        {
+                            "verse": 53,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:53",
+                            "text": "If thou blow upon the spark, it will burn like a fire; and if thou spit upon it, it will be extinguished:  and both these come out of the mouth."
+                        },
+                        {
+                            "verse": 54,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:54",
+                            "text": "Cursed be the whisperer and doubled-tongued, for such have troubled many that were at peace."
+                        },
+                        {
+                            "verse": 55,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:55",
+                            "text": "A third (tertia) tongue hath disquieted many, and driven them from nation to nation:  the fortified cities of the rich it hath pulled down, and overthrown the houses of great men."
+                        },
+                        {
+                            "verse": 56,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:56",
+                            "text": "It has subverted the virtues of peoples, and has destroyed strong nations."
+                        },
+                        {
+                            "verse": 57,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:57",
+                            "text": "A third tongue hath cast out truthful women, and deprived them of their labours."
+                        },
+                        {
+                            "verse": 58,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:58",
+                            "text": "Whoso hearkeneth unto it shall never find rest, and never dwell quietly."
+                        },
+                        {
+                            "verse": 59,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:59",
+                            "text": "The stroke of the whip maketh marks in the flesh, but the stroke of the tongue will break bones."
+                        },
+                        {
+                            "verse": 60,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:60",
+                            "text": "Many have fallen by the edge of the sword, but not in such manner as those who have perished by their tongue."
+                        },
+                        {
+                            "verse": 61,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:61",
+                            "text": "Well is he that is defended from the evil tongue, who hath not passed into the anger thereof, and who hath not drawn the yoke thereof, nor hath been bound with the bands of it; for the yoke thereof is a yoke of iron, and the band thereof is a band of brass."
+                        },
+                        {
+                            "verse": 62,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:62",
+                            "text": "The death thereof is the vilest death, and the grave were better than it."
+                        },
+                        {
+                            "verse": 63,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:63",
+                            "text": "The perseverance thereof shall not abide; but it shall hold the ways of the unrighteous, and its flame shall not burn the righteous."
+                        },
+                        {
+                            "verse": 64,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:64",
+                            "text": "Such as forsake the Lord shall fall into it, and it shall burn in them, and not be quenched; and it shall be sent upon them as a lion, and hurt them as a leopard."
+                        },
+                        {
+                            "verse": 65,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:65",
+                            "text": "Hedge thine ears about with thorns, and listen not to the evil tongue; and make a door for thy mouth, and bars for thine ears."
+                        },
+                        {
+                            "verse": 66,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:66",
+                            "text": "Smelt (confla) thy gold and silver, and make a balance for thy words, and right curbs for thy mouth."
+                        },
+                        {
+                            "verse": 67,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:67",
+                            "text": "And beware that thou slide not perchance in thy tongue, and fall before thine enemies that lie in wait for thee, and thy fall be irremediable even to death\"."
+                        },
+                        {
+                            "verse": 68,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:68",
+                            "text": "\"Make no tarrying to turn to the Lord, and put not off from day to day."
+                        },
+                        {
+                            "verse": 69,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:69",
+                            "text": "For suddenly shall His wrath come, and in the time of vengeance He will destroy thee."
+                        },
+                        {
+                            "verse": 70,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:70",
+                            "text": "Set not thine heart upon goods unjustly gotten, for they shall not profit thee in the day of veiling (for execution, obductionis) and vengeance."
+                        },
+                        {
+                            "verse": 71,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:71",
+                            "text": "Move not with every wind, and go not into every way; for so is the sinner proved with the double-tongue."
+                        },
+                        {
+                            "verse": 72,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:72",
+                            "text": "Be stedfast in the way of the Lord, and in the truth of thine understanding, and in knowledge; and let the word of peace and righteousness attend thee."
+                        },
+                        {
+                            "verse": 73,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:73",
+                            "text": "Be courteous in hearing the word, that thou mayest understand it, and with wisdom give a true answer."
+                        },
+                        {
+                            "verse": 74,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:74",
+                            "text": "If thou hast understanding, answer thy neighbour; if not, lay thy hand upon thy mouth, lest thou be caught in a word of folly, and be confounded."
+                        },
+                        {
+                            "verse": 75,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:75",
+                            "text": "Honour and glory are in the talk of the intelligent man; the tongue of the unwise is his fall."
+                        },
+                        {
+                            "verse": 76,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:76",
+                            "text": "Be not called a whisperer, and be not caught in thy tongue, and confounded."
+                        },
+                        {
+                            "verse": 77,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:77",
+                            "text": "For confusion and penitence are upon the thief, and the worst condemnation upon the double-tongued."
+                        },
+                        {
+                            "verse": 78,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:78",
+                            "text": "Moreover, for the whisperer there is hatred, and enmity, and shame."
+                        },
+                        {
+                            "verse": 79,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:79",
+                            "text": "Justify the small and the great alike\"."
+                        },
+                        {
+                            "verse": 80,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:80",
+                            "text": "Instead of a friend, become not an enemy to thy neighbour."
+                        },
+                        {
+                            "verse": 81,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:81",
+                            "text": "For the evil man shall inherit reproach and shame, and every sinner in like manner that is envious and double-tongued."
+                        },
+                        {
+                            "verse": 82,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:82",
+                            "text": "Extol not thyself in the counsel of thine own heart as a bull, lest perchance thy virtue be shattered in folly, and it consume thy leaves, and destroy thy fruits, and thou be left as a dry tree in the desert."
+                        },
+                        {
+                            "verse": 83,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:83",
+                            "text": "For a wicked soul shall destroy him that hath it, and makes him to be laughed to scorn by his enemies, and shall bring him down to the lot of the impious\"."
+                        },
+                        {
+                            "verse": 84,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:84",
+                            "text": "Most dearly beloved, study to lift up the oppressed, and always help the necessitous; for if a man relieves an afflicted brother, delivers a captive, or consoles a mourner, let him have no doubt that that will be recompensed to him by Him on whom he bestows it all, and who says:  \"Inasmuch as ye have done it unto one of the least of my brethren, ye have done it unto me\"."
+                        },
+                        {
+                            "verse": 85,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:85",
+                            "text": "Strive, then, unceasingly to do what is good in such wise that ye may both obtain the fruit of good works here, and enjoy the favour of God in the future, to the intent that hereafter ye may be worthy to enter the court of the heavenly kingdom."
+                        },
+                        {
+                            "verse": 86,
+                            "chapter": 2,
+                            "name": "Decretal: Epistle of Pope Pontianus 2:86",
+                            "text": "—Given on the fourth day before the kalends of May (the th of April), in the consulship of the most illustrious Severus and Quintianus."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

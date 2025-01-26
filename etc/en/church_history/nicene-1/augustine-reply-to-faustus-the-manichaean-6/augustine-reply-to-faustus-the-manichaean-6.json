@@ -1,0 +1,123 @@
+{
+    "books": [
+        {
+            "name": "Augustine: Reply to Faustus the Manichaean VI",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Augustine: Reply to Faustus the Manichaean VI 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Augustine: Reply to Faustus the Manichaean VI 1:1",
+                            "text": "Book XXVII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Augustine: Reply to Faustus the Manichaean VI 1:2",
+                            "text": "Faustus warns against pressing too far the argument, that if Jesus was not born He cannot have suffered."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Augustine: Reply to Faustus the Manichaean VI 1:3",
+                            "text": "Augustin accepts the birth and death alike on the testimony of the Gospel narrative, which is higher authority than the falsehood of Manich aeus."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Augustine: Reply to Faustus the Manichaean VI 1:4",
+                            "text": "1."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Augustine: Reply to Faustus the Manichaean VI 1:5",
+                            "text": "Faustus said: If Jesus was not born, He cannot have suffered; but since He did suffer, He must have been born."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Augustine: Reply to Faustus the Manichaean VI 1:6",
+                            "text": "I advise you not to have recourse to logical inference in these matters, or else your whole faith will be shaken."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "Augustine: Reply to Faustus the Manichaean VI 1:7",
+                            "text": "For, even according to you, Jesus was born miraculously of a virgin; which the argument from consequents to antecedents shows to be false."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 1,
+                            "name": "Augustine: Reply to Faustus the Manichaean VI 1:8",
+                            "text": "For your argument might thus be turned against you: If Jesus was born of a woman, He must have been begotten by a man; but He was not begotten by a man, therefore He was not born of a woman."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 1,
+                            "name": "Augustine: Reply to Faustus the Manichaean VI 1:9",
+                            "text": "If, as you believe, He could be born without being begotten, why could He not also suffer without being brought forth?  2."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 1,
+                            "name": "Augustine: Reply to Faustus the Manichaean VI 1:10",
+                            "text": "Augustin replied: The argument which you here reply to is one which could be used only by such ignorant people as you succeed in misleading, not by those who know enough to refute you."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 1,
+                            "name": "Augustine: Reply to Faustus the Manichaean VI 1:11",
+                            "text": "Jesus could both be born without being begotten and suffer without being brought forth."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 1,
+                            "name": "Augustine: Reply to Faustus the Manichaean VI 1:12",
+                            "text": "His being one and not the other was the effect of His own will."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 1,
+                            "name": "Augustine: Reply to Faustus the Manichaean VI 1:13",
+                            "text": "He chose to be born without being begotten, and not to suffer without being brought forth."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 1,
+                            "name": "Augustine: Reply to Faustus the Manichaean VI 1:14",
+                            "text": "And if you ask how I know that He was brought forth, and that He suffered, I read this in the faithful Gospel narrative."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 1,
+                            "name": "Augustine: Reply to Faustus the Manichaean VI 1:15",
+                            "text": "If I ask how you know what you state, you bring forward the authority of Manich aeus, and charge the Gospel with falsehood."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 1,
+                            "name": "Augustine: Reply to Faustus the Manichaean VI 1:16",
+                            "text": "Even if Manich aeus did not set forth falsehood as an excellence in Christ, I should not believe his statements."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 1,
+                            "name": "Augustine: Reply to Faustus the Manichaean VI 1:17",
+                            "text": "His praise of falsehood comes from nothing that he found in Christ, but from his own moral character."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 1,
+                            "name": "Augustine: Reply to Faustus the Manichaean VI 1:18",
+                            "text": "."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

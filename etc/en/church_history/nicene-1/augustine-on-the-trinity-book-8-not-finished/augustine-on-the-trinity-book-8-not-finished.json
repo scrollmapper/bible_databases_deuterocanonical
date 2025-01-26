@@ -1,0 +1,21 @@
+{
+    "books": [
+        {
+            "name": "Augustine: On the Trinity Book VIII (Not Finished)",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Augustine: On the Trinity Book VIII (Not Finished) 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Augustine: On the Trinity Book VIII (Not Finished) 1:1",
+                            "text": "Book VIII is still in progress."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

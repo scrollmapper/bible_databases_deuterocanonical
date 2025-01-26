@@ -1,0 +1,308 @@
+# On the Baptism of Christ
+
+**[1:1]** On the Baptism of Christ.
+
+**[1:2]**   A Sermon for the Day of the Lights.
+
+**[1:3]** Now I recognize my own flock: to-day I behold the wonted figure of the Church, when, turning with aversion from the occupation even of the cares of the flesh, you come together in your undiminished numbers for the service of God—when the people crowds the house, coming within the sacred sanctuary, and when the multitude that can find no place within fills the space outside in the precincts like bees.
+
+**[1:4]** For of them some are at their labours within, while others outside hum around the hive.
+
+**[1:5]** So do, my children: and never abandon this zeal.
+
+**[1:6]** For I confess that I feel a shepherd's affections, and I wish, when I am set upon this watch-tower, to see the flock gathered round about the mountain's foot: and when it so happens to me, I am filled with wonderful earnestness, and work with pleasure at my sermon, as the shepherds do at their rustic strains.
+
+**[1:7]** But when things are otherwise, and you are straying in distant wanderings, as you did but lately, the last Lord's Day, I am much troubled, and glad to be silent; and I consider the question of flight from hence, and seek for the Carmel of the prophet Elijah, or for some rock without inhabitant; for men in depression naturally choose loneliness and solitude.
+
+**[1:8]** But now, when I see you thronging here with all your families, I am reminded of the prophetic saying, which Isaiah proclaimed from afar off, addressing by anticipation the Church with her fair and numerous children:—"Who are these that fly as a cloud, and as doves with their young to me"? Yes, and he adds moreover this also, "The place is too strait for me; give place that I may dwell".
+
+**[1:9]** For these predictions the power of the Spirit made with reference to the populous Church of God, which was afterwards to fill the whole world from end to end of the earth.
+
+**[1:10]** The time, then, has come, and bears in its course the remembrance of holy mysteries, purifying man,—mysteries which purge out from soul and body even that sin which is hard to cleanse away, and which bring us back to that fairness of our first estate which God, the best of artificers, impressed upon us.
+
+**[1:11]** Therefore it is that you, the initiated people, are gathered together; and you bring also that people who have not made trial of them, leading, like good fathers, by careful guidance, the uninitiated to the perfect reception of the faith.
+
+**[1:12]** I for my part rejoice over both;—over you that are initiated, because you are enriched with a great gift: over you that are uninitiated, because you have a fair expectation of hope—remission of what is to be accounted for, release from bondage, close relation to God, free boldness of speech, and in place of servile subjection equality with the angels.
+
+**[1:13]** For these things, and all that follow from them, the grace of Baptism secures and conveys to us.
+
+**[1:14]** Therefore let us leave the other matters of the Scriptures for other occasions, and abide by the topic set before us, offering, as far as we may, the gifts that are proper and fitting for the feast: for each festival demands its own treatment.
+
+**[1:15]** So we welcome a marriage with wedding songs; for mourning we bring the due offering with funeral strains; in times of business we speak seriously, at times of festivity we relax the concentration and strain of our minds; but each time we keep free from disturbance by things that are alien to its character.
+
+**[1:16]** Christ, then, was born as it were a few days ago—He Whose generation was before all things, sensible and intellectual.
+
+**[1:17]** To-day He is baptized by John that He might cleanse him who was defiled, that He might bring the Spirit from above, and exalt man to heaven, that he who had fallen might be raised up and he who had cast him down might be put to shame.
+
+**[1:18]** And marvel not if God showed so great earnestness in our cause: for it was with care on the part of him who did us wrong that the plot was laid against us; it is with forethought on the part of our Maker that we are saved.
+
+**[1:19]** And he, that evil charmer, framing his new device of sin against our race, drew along his serpent train, a disguise worthy of his own intent, entering in his impurity into what was like himself,—dwelling, earthly and mundane as he was in will, in that creeping thing.
+
+**[1:20]** But Christ, the repairer of his evil-doing, assumes manhood in its fulness, and saves man, and becomes the type and figure of us all, to sanctify the first-fruits of every action, and leave to His servants no doubt in their zeal for the tradition.
+
+**[1:21]** Baptism, then, is a purification from sins, a remission of trespasses, a cause of renovation and regeneration.
+
+**[1:22]** By regeneration, understand regeneration conceived in thought, not discerned by bodily sight.
+
+**[1:23]** For we shall not, according to the Jew Nicodemus and his somewhat dull intelligence, change the old man into a child, nor shall we form anew him who is wrinkled and gray-headed to tenderness and youth, if we bring back the man again into his mother's womb: but we do bring back, by royal grace, him who bears the scars of sin, and has grown old in evil habits, to the innocence of the babe.
+
+**[1:24]** For as the child new-born is free from accusations and from penalties, so too the child of regeneration has nothing for which to answer, being released by royal bounty from accountability.
+
+**[1:25]** And this gift it is not the water that bestows (for in that case it were a thing more exalted than all creation), but the command of God, and the visitation of the Spirit that comes sacramentally to set us free.
+
+**[1:26]** But water serves to express the cleansing.
+
+**[1:27]** For since we are wont by washing in water to render our body clean when it is soiled by dirt or mud, we therefore apply it also in the sacramental action, and display the spiritual brightness by that which is subject to our senses.
+
+**[1:28]** Let us however, if it seems well, persevere in enquiring more fully and more minutely concerning Baptism, starting, as from the fountain-head, from the Scriptural declaration, "Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God".
+
+**[1:29]** Why are both named, and why is not the Spirit alone accounted sufficient for the completion of Baptism? Man, as we know full well, is compound, not simple: and therefore the cognate and similar medicines are assigned for healing to him who is twofold and conglomerate:—for his visible body, water, the sensible element,—for his soul, which we cannot see, the Spirit invisible, invoked by faith, present unspeakably.
+
+**[1:30]** For "the Spirit breathes where He wills, and thou hearest His voice, but canst not tell whence He cometh or whither He goeth".
+
+**[1:31]** He blesses the body that is baptized, and the water that baptizes.
+
+**[1:32]** Despise not, therefore, the Divine laver, nor think lightly of it, as a common thing, on account of the use of water.
+
+**[1:33]** For the power that operates is mighty, and wonderful are the things that are wrought thereby.
+
+**[1:34]** For this holy altar, too, by which I stand, is stone, ordinary in its nature, nowise different from the other slabs of stone that build our houses and adorn our pavements; but seeing that it was consecrated to the service of God, and received the benediction, it is a holy table, an altar undefiled, no longer touched by the hands of all, but of the priests alone, and that with reverence.
+
+**[1:35]** The bread again is at first common bread, but when the sacramental action consecrates it, it is called, and becomes, the Body of Christ.
+
+**[1:36]** So with the sacramental oil; so with the wine: though before the benediction they are of little value, each of them, after the sanctification bestowed by the Spirit, has its several operation.
+
+**[1:37]** The same power of the word, again, also makes the priest venerable and honourable, separated, by the new blessing bestowed upon him, from his community with the mass of men.
+
+**[1:38]** While but yesterday he was one of the mass, one of the people, he is suddenly rendered a guide, a president, a teacher of righteousness, an instructor in hidden mysteries; and this he does without being at all changed in body or in form; but, while continuing to be in all appearance the man he was before, being, by some unseen power and grace, transformed in respect of his unseen soul to the higher condition.
+
+**[1:39]** And so there are many things, which if you consider you will see that their appearance is contemptible, but the things they accomplish are mighty: and this is especially the case when you collect from the ancient history instances cognate and similar to the subject of our inquiry.
+
+**[1:40]** The rod of Moses was a hazel wand.
+
+**[1:41]** And what is that, but common wood that every hand cuts and carries, and fashions to what use it chooses, and casts as it will into the fire? But when God was pleased to accomplish by that rod those wonders, lofty, and passing the power of language to express, the wood was changed into a serpent.
+
+**[1:42]** And again, at another time, he smote the waters, and now made the water blood, now made to issue forth a countless brood of frogs: and again he divided the sea, severed to its depths without flowing together again.
+
+**[1:43]** Likewise the mantle of one of the prophets, though it was but a goat's skin, made Elisha renowned in the whole world.
+
+**[1:44]** And the wood of the Cross is of saving efficacy for all men, though it is, as I am informed, a piece of a poor tree, less valuable than most trees are.
+
+**[1:45]** So a bramble bush showed to Moses the manifestation of the presence of God: so the remains of Elisha raised a dead man to life; so clay gave sight to him that was blind from the womb.
+
+**[1:46]** And all these things, though they were matter without soul or sense, were made the means for the performance of the great marvels wrought by them, when they received the power of God.
+
+**[1:47]** Now by a similar train of reasoning, water also, though it is nothing else than water, renews the man to spiritual regeneration, when the grace from above hallows it.
+
+**[1:48]** And if any one answers me again by raising a difficulty, with his questions and doubts, continually asking and inquiring how water and the sacramental act that is performed therein regenerate, I most justly reply to him, "Show me the mode of that generation which is after the flesh, and I will explain to you the power of regeneration in the soul".
+
+**[1:49]** You will say perhaps, by way of giving an account of the matter, "It is the cause of the seed which makes the man".
+
+**[1:50]** Learn then from us in return, that hallowed water cleanses and illuminates the man.
+
+**[1:51]** And if you again object to me your "How?" I shall more vehemently cry in answer, "How does the fluid and formless substance become a man?" and so the argument as it advances will be exercised on everything through all creation.
+
+**[1:52]** How does heaven exist? how earth? how sea? how every single thing? For everywhere men's reasoning, perplexed in the attempt at discovery, falls back upon this syllable "how," as those who cannot walk fall back upon a seat.
+
+**[1:53]** To speak concisely, everywhere the power of God and His operation are incomprehensible and incapable of being reduced to rule, easily producing whatever He wills, while concealing from us the minute knowledge of His operation.
+
+**[1:54]** Hence also the blessed David, applying his mind to the magnificence of creation, and filled with perplexed wonder in his soul, spake that verse which is sung by all, "O Lord, how manifold are Thy works: in wisdom hast Thou made them all".
+
+**[1:55]** The wisdom he perceived: but the art of the wisdom he could not discover.
+
+**[1:56]** Let us then leave the task of searching into what is beyond human power, and seek rather that which shows signs of being partly within our comprehension:—what is the reason why the cleansing is effected by water? and to what purpose are the three immersions received? That which the fathers taught, and which our mind has received and assented to, is as follows:—We recognize four elements, of which the world is composed, which every one knows even if their names are not spoken; but if it is well, for the sake of the more simple, to tell you their names, they are fire and air, earth and water.
+
+**[1:57]** Now our God and Saviour, in fulfilling the Dispensation for our sakes, went beneath the fourth of these, the earth, that He might raise up life from thence.
+
+**[1:58]** And we in receiving Baptism, in imitation of our Lord and Teacher and Guide, are not indeed buried in the earth (for this is the shelter of the body that is entirely dead, covering the infirmity and decay of our nature), but coming to the element akin to earth, to water, we conceal ourselves in that as the Saviour did in the earth: and by doing this thrice we represent for ourselves that grace of the Resurrection which was wrought in three days: and this we do, not receiving the sacrament in silence, but while there are spoken over us the Names of the Three Sacred Persons on Whom we believed, in Whom we also hope, from Whom comes to us both the fact of our present and the fact of our future existence.
+
+**[1:59]** It may be thou art offended, thou who contendest boldly against the glory of the Spirit, and that thou grudgest to the Spirit that veneration wherewith He is reverenced by the godly.
+
+**[1:60]** Leave off contending with me: resist, if thou canst, those words of the Lord which gave to men the rule of the Baptismal invocation.
+
+**[1:61]** What says the Lord's command? "Baptizing them in the Name of the Father and of the Son and of the Holy Ghost".
+
+**[1:62]** How in the Name of the Father? Because He is the primal cause of all things.
+
+**[1:63]** How in the Name of the Son? Because He is the Maker of the Creation.
+
+**[1:64]** How in the Name of the Holy Ghost? Because He is the power perfecting all.
+
+**[1:65]** We bow ourselves therefore before the Father, that we may be sanctified: before the Son also we bow, that the same end may be fulfilled: we bow also before the Holy Ghost, that we may be made what He is in fact and in Name.
+
+**[1:66]** There is not a distinction in the sanctification, in the sense that the Father sanctifies more, the Son less, the Holy Spirit in a less degree than the other Two.
+
+**[1:67]** Why then dost thou divide the Three Persons into fragments of different natures, and make Three Gods, unlike one to another, whilst from all thou dost receive one and the same grace?  As, however, examples always render an argument more vivid to the hearers, I propose to instruct the mind of the blasphemers by an illustration, explaining, by means of earthly and lowly matters, those matters which are great, and invisible to the senses.
+
+**[1:68]** If it befel thee to be enduring the misfortune of captivity among enemies, to be in bondage and in misery, to be groaning for that ancient freedom which thou once hadst—and if all at once three men, who were notable men and citizens in the country of thy tyrannical masters, set thee free from the constraint that lay upon thee, giving thy ransom equally, and dividing the charges of the money in equal shares among themselves, wouldst thou not then, meeting with this favour, look upon the three alike as benefactors, and make repayment of the ransom to them in equal shares, as the trouble and the cost on thy behalf was common to them all—if, that is, thou wert a fair judge of the benefit done to thee? This we may see, so far as illustration goes, for our aim at present is not to render a strict account of the Faith.
+
+**[1:69]** Let us return to the present season, and to the subject it sets before us.
+
+**[1:70]** I find that not only do the Gospels, written after the Crucifixion, proclaim the grace of Baptism, but, even before the Incarnation of our Lord, the ancient Scripture everywhere prefigured the likeness of our regeneration; not clearly manifesting its form, but fore-showing, in dark sayings, the love of God to man.
+
+**[1:71]** And as the Lamb was proclaimed by anticipation, and the Cross was foretold by anticipation, so, too, was Baptism shown forth by action and by word.
+
+**[1:72]** Let us recall its types to those who love good thoughts—for the festival season of necessity demands their recollection.
+
+**[1:73]** Hagar, the handmaid of Abraham (whom Paul treats allegorically in reasoning with the Galatians), being sent forth from her master's house by the anger of Sarah—for a servant suspected in regard to her master is a hard thing for lawful wives to bear—was wandering in desolation to a desolate land with her babe Ishmael at her breast.
+
+**[1:74]** And when she was in straits for the needs of life, and was herself nigh unto death, and her child yet more sore for the water in the skin was spent (since it was not possible that the Synagogue, she who once dwelt among the figures of the perennial Fountain, should have all that was needed to support life), an angel unexpectedly appears, and shows her a well of living water, and drawing thence, she saves Ishmael.
+
+**[1:75]** Behold, then, a sacramental type: how from the very first it is by the means of living water that salvation comes to him that was perishing—water that was not before, but was given as a boon by an angel's means.
+
+**[1:76]** Again, at a later time, Isaac—the same for whose sake Ishmael was driven with his mother from his father's home—was to be wedded.
+
+**[1:77]** Abraham's servant is sent to make the match, so as to secure a bride for his master, and finds Rebekah at the well: and a marriage that was to produce the race of Christ had its beginning and its first covenant in water.
+
+**[1:78]** Yes, and Isaac himself also, when he was ruling his flocks, digged wells at all parts of the desert, which the aliens stopped and filled up, for a type of all those impious men of later days who hindered the grace of Baptism, and talked loudly in their struggle against the truth.
+
+**[1:79]** Yet the martyrs and the priests overcame them by digging the wells, and the gift of Baptism over-flowed the whole world.
+
+**[1:80]** According to the same force of the text, Jacob also, hastening to seek a bride, met Rachel unexpectedly at the well.
+
+**[1:81]** And a great stone lay upon the well, which a multitude of shepherds were wont to roll away when they came together, and then gave water to themselves and to their flocks.
+
+**[1:82]** But Jacob alone rolls away the stone, and waters the flocks of his spouse.
+
+**[1:83]** The thing is, I think, a dark saying, a shadow of what should come.
+
+**[1:84]** For what is the stone that is laid but Christ Himself? for of Him Isaiah says, "And I will lay in the foundations of Sion a costly stone, precious, elect:" and Daniel likewise, "A stone was cut out without hands," that is, Christ was born without a man.
+
+**[1:85]** For as it is a new and marvellous thing that a stone should be cut out of the rock without a hewer or stone-cutting tools, so it is a thing beyond all wonder that an offspring should appear from an unwedded Virgin.
+
+**[1:86]** There was lying, then, upon the well the spiritual stone, Christ, concealing in the deep and in mystery the laver of regeneration which needed much time—as it were a long rope—to bring it to light.
+
+**[1:87]** And none rolled away the stone save Israel, who is mind seeing God.
+
+**[1:88]** But he both draws up the water and gives drink to the sheep of Rachel; that is, he reveals the hidden mystery, and gives living water to the flock of the Church.
+
+**[1:89]** Add to this also the history of the three rods of Jacob.
+
+**[1:90]** For from the time when the three rods were laid by the well, Laban the polytheist thenceforth became poor, and Jacob became rich and wealthy in herds.
+
+**[1:91]** Now let Laban be interpreted of the devil, and Jacob of Christ.
+
+**[1:92]** For after the institution of Baptism Christ took away all the flock of Satan and Himself grew rich.
+
+**[1:93]** Again, the great Moses, when he was a goodly child, and yet at the breast, falling under the general and cruel decree which the hard-hearted Pharaoh made against the men-children, was exposed on the banks of the river—not naked, but laid in an ark, for it was fitting that the Law should typically be enclosed in a coffer.
+
+**[1:94]** And he was laid near the water; for the Law, and those daily sprinklings of the Hebrews which were a little later to be made plain in the perfect and marvellous Baptism, are near to grace.
+
+**[1:95]** Again, according to the view of the inspired Paul, the people itself, by passing through the Red Sea, proclaimed the good tidings of salvation by water.
+
+**[1:96]** The people passed over, and the Egyptian king with his host was engulfed, and by these actions this Sacrament was foretold.
+
+**[1:97]** For even now, whensoever the people is in the water of regeneration, fleeing from Egypt, from the burden of sin, it is set free and saved; but the devil with his own servants (I mean, of course, the spirits of evil), is choked with grief, and perishes, deeming the salvation of men to be his own misfortune.
+
+**[1:98]** Even these instances might be enough to confirm our present position; but the lover of good thoughts must yet not neglect what follows.
+
+**[1:99]** The people of the Hebrews, as we learn, after many sufferings, and after accomplishing their weary course in the desert, did not enter the land of promise until it had first been brought, with Joshua for its guide and the pilot of its life, to the passage of the Jordan.
+
+**[1:100]** But it is clear that Joshua also, who set up the twelve stones in the stream, was anticipating the coming of the twelve disciples, the ministers of Baptism.
+
+**[1:101]** Again, that marvellous sacrifice of the old Tishbite, that passes all human understanding, what else does it do but prefigure in action the Faith in the Father, the Son, and the Holy Ghost, and redemption? For when all the people of the Hebrews had trodden underfoot the religion of their fathers, and fallen into the error of polytheism, and their king Ahab was deluded by idolatry, with Jezebel, of ill-omened name, as the wicked partner of his life, and the vile prompter of his impiety, the prophet, filled with the grace of the Spirit, coming to a meeting with Ahab, withstood the priests of Baal in a marvellous and wondrous contest in the sight of the king and all the people; and by proposing to them the task of sacrificing the bullock without fire, he displayed them in a ridiculous and wretched plight, vainly praying and crying aloud to gods that were not.
+
+**[1:102]** At last, himself invoking his own and the true God, he accomplished the test proposed with further exaggerations and additions.
+
+**[1:103]** For he did not simply by prayer bring down the fire from heaven upon the wood when it was dry, but exhorted and enjoined the attendants to bring abundance of water.
+
+**[1:104]** And when he had thrice poured out the barrels upon the cleft wood, he kindled at his prayer the fire from out of the water, that by the contrariety of the elements, so concurring in friendly cooperation, he might show with superabundant force the power of his own God.
+
+**[1:105]** Now herein, by that wondrous sacrifice, Elijah clearly proclaimed to us the sacramental rite of Baptism that should afterwards be instituted.
+
+**[1:106]** For the fire was kindled by water thrice poured upon it, so that it is clearly shown that where the mystic water is, there is the kindling, warm, and fiery Spirit, that burns up the ungodly, and illuminates the faithful.
+
+**[1:107]** Yes, and yet again his disciple Elisha, when Naaman the Syrian, who was diseased with leprosy, had come to him as a suppliant, cleanses the sick man by washing him in Jordan, clearly indicating what should come, both by the use of water generally, and by the dipping in the river in particular.
+
+**[1:108]** For Jordan alone of rivers, receiving in itself the first-fruits of sanctification and benediction, conveyed in its channel to the whole world, as it were from some fount in the type afforded by itself, the grace of Baptism.
+
+**[1:109]** These then are indications in deed and act of regeneration by Baptism.
+
+**[1:110]** Let us for the rest consider the prophecies of it in words and language.
+
+**[1:111]** Isaiah cried saying, "Wash you, make you clean, put away evil from your souls;" and David, "Draw nigh to Him and be enlightened, and your faces shall not be ashamed".
+
+**[1:112]** And Ezekiel, writing more clearly and plainly than them both, says, "And I will sprinkle clean water upon you, and ye shall be cleansed: from all your filthiness, and from all your idols, will I cleanse you.
+
+**[1:113]** A new heart also will I give you, and a new spirit will I give you: and I will take away the stony heart out of your flesh, and I will give you an heart of flesh, and my Spirit will I put within you".
+
+**[1:114]** Most manifestly also does Zechariah prophesy of Joshua, who was clothed with the filthy garment (to wit, the flesh of a servant, even ours), and stripping him of his ill-favoured raiment adorns him with the clean and fair apparel; teaching us by the figurative illustration that verily in the Baptism of Jesus all we, putting off our sins like some poor and patched garment, are clothed in the holy and most fair garment of regeneration.
+
+**[1:115]** And where shall we place that oracle of Isaiah, which cries to the wilderness, "Be glad, O thirsty wilderness: let the desert rejoice and blossom as a lily: and the desolate places of Jordan shall blossom and shall rejoice"? For it is clear that it is not to places without soul or sense that he proclaims the good tidings of joy: but he speaks, by the figure of the desert, of the soul that is parched and unadorned, even as David also, when he says, "My soul is unto Thee as a thirsty land," and, "My soul is athirst for the mighty, for the living God".
+
+**[1:116]** So again the Lord says in the Gospels, "If any man thirst, let him come unto Me and drink;" and to the woman of Samaria, "Whosoever drinketh of this water shall thirst again: but whosoever drinketh of the water that I shall give him shall never thirst".
+
+**[1:117]** And "the excellency of Carmel" is given to the soul that bears the likeness to the desert, that is, the grace bestowed through the Spirit.
+
+**[1:118]** For since Elijah dwelt in Carmel, and the mountain became famous and renowned by the virtue of him who dwelt there, and since moreover John the Baptist, illustrious in the spirit of Elijah, sanctified the Jordan, therefore the prophet foretold that "the excellency of Carmel" should be given to the river.
+
+**[1:119]** And "the glory of Lebanon," from the similitude of its lofty trees, he transfers to the river.
+
+**[1:120]** For as great Lebanon presents a sufficient cause of wonder in the very trees which it brings forth and nourishes, so is the Jordan glorified by regenerating men and planting them in the Paradise of God: and of them, as the words of the Psalmist say, ever blooming and bearing the foliage of virtues, "the leaf shall not wither," and God shall be glad, receiving their fruit in due season, rejoicing, like a good planter, in his own works.
+
+**[1:121]** And the inspired David, foretelling also the voice which the Father uttered from heaven upon the Son at His Baptism, that He might lead the hearers, who till then had looked upon that low estate of His Humanity which was perceptible by their senses, to the dignity of nature that belongs to the Godhead, wrote in his book that passage, "The voice of the Lord is upon the waters, the voice of the Lord in majesty".
+
+**[1:122]** But here we must make an end of the testimonies from the Divine Scriptures: for the discourse would extend to an infinite length if one should seek to select every passage in detail, and set them forth in a single book.
+
+**[1:123]** But do ye all, as many as are made glad, by the gift of regeneration, and make your boast of that saving renewal, show me, after the sacramental grace, the change in your ways that should follow it, and make known by the purity of your conversation the difference effected by your transformation for the better.
+
+**[1:124]** For of those things which are before our eyes nothing is altered: the characteristics of the body remain unchanged, and the mould of the visible nature is nowise different.
+
+**[1:125]** But there is certainly need of some manifest proof, by which we may recognize the new-born man, discerning by clear tokens the new from the old.
+
+**[1:126]** And these I think are to be found in the intentional motions of the soul, whereby it separates itself from its old customary life, and enters on a newer way of conversation, and will clearly teach those acquainted with it that it has become something different from its former self, bearing in it no token by which the old self was recognized.
+
+**[1:127]** This, if you be persuaded by me, and keep my words as a law, is the mode of the transformation.
+
+**[1:128]** The man that was before Baptism was wanton, covetous, grasping at the goods of others, a reviler, a liar, a slanderer, and all that is kindred with these things, and consequent from them.
+
+**[1:129]** Let him now become orderly, sober, content with his own possessions, and imparting from them to those in poverty, truthful, courteous, affable—in a word, following every laudable course of conduct.
+
+**[1:130]** For as darkness is dispelled by light, and black disappears as whiteness is spread over it, so the old man also disappears when adorned with the works of righteousness.
+
+**[1:131]** Thou seest how Zacchus also by the change of his life slew the publican, making fourfold restitution to those whom he had unjustly damaged, and the rest he divided with the poor—the treasure which he had before got by ill means from the poor whom he oppressed.
+
+**[1:132]** The Evangelist Matthew, another publican, of the same business with Zacchus, at once after his call changed his life as if it had been a mask.
+
+**[1:133]** Paul was a persecutor, but after the grace bestowed on him an Apostle, bearing the weight of his fetters for Christ's sake, as an act of amends and repentance for those unjust bonds which he once received from the Law, and bore for use against the Gospel.
+
+**[1:134]** Such ought you to be in your regeneration: so ought you to blot out your habits that tend to sin; so ought the sons of God to have their conversation: for after the grace bestowed we are called His children.
+
+**[1:135]** And therefore we ought narrowly to scrutinize our Father's characteristics, that by fashioning and framing ourselves to the likeness of our Father, we may appear true children of Him Who calls us to the adoption according to grace.
+
+**[1:136]** For the bastard and the supposititious son, who belies his father's nobility in his deeds, is a sad reproach.
+
+**[1:137]** Therefore also, methinks, it is that the Lord Himself, laying down for us in the Gospels the rules of our life, uses these words to His disciples, "Do good to them that hate you, pray for them that despitefully use you and persecute you; that ye may be the children of your Father which is in heaven: for He maketh His sun to rise on the evil and on the good, and sendeth rain on the just and on the unjust".
+
+**[1:138]** For then He says they are sons when in their own modes of thought they are fashioned in loving kindness towards their kindred, after the likeness of the Father's goodness.
+
+**[1:139]** Therefore, also, it is that after the dignity of adoption the devil plots more vehemently against us, pining away with envious glance, when he beholds the beauty of the new-born man, earnestly tending towards that heavenly city, from which he fell: and he raises up against us fiery temptations, seeking earnestly to despoil us of that second adornment, as he did of our former array.
+
+**[1:140]** But when we are aware of his attacks, we ought to repeat to ourselves the apostolic words, "As many of us as were baptized into Christ were baptized into His death".
+
+**[1:141]** Now if we have been conformed to His death, sin henceforth in us is surely a corpse, pierced through by the javelin of Baptism, as that fornicator was thrust through by the zealous Phinehas.
+
+**[1:142]** Flee therefore from us, ill-omened one! for it is a corpse thou seekest to despoil, one long ago joined to thee, one who long since lost his senses for pleasures.
+
+**[1:143]** A corpse is not enamoured of bodies, a corpse is not captivated by wealth, a corpse slanders not, a corpse lies not, snatches not at what is not its own, reviles not those who encounter it.
+
+**[1:144]** My way of living is regulated for another life: I have learnt to despise the things that are in the world, to pass by the things of earth, to hasten to the things of heaven, even as Paul expressly testifies, that the world is crucified to him, and he to the world.
+
+**[1:145]** These are the words of a soul truly regenerated: these are the utterances of the newly-baptized man, who remembers his own profession, which he made to God when the sacrament was administered to him, promising that he would despise for the sake of love towards Him all torment and all pleasure alike.
+
+**[1:146]** And now we have spoken sufficiently for the holy subject of the day, which the circling year brings to us at appointed periods.
+
+**[1:147]** We shall do well in what remains to end our discourse by turning it to the loving Giver of so great a boon, offering to Him a few words as the requital of great things.
+
+**[1:148]** For Thou verily, O Lord, art the pure and eternal fount of goodness, Who didst justly turn away from us, and in loving kindness didst have mercy upon us.
+
+**[1:149]** Thou didst hate, and wert reconciled; Thou didst curse, and didst bless; Thou didst banish us from Paradise, and didst recall us; Thou didst strip off the fig-tree leaves, an unseemly covering, and put upon us a costly garment; Thou didst open the prison, and didst release the condemned; Thou didst sprinkle us with clean water, and cleanse us from our filthiness.
+
+**[1:150]** No longer shall Adam be confounded when called by Thee, nor hide himself, convicted by his conscience, cowering in the thicket of Paradise.
+
+**[1:151]** Nor shall the flaming sword encircle Paradise around, and make the entrance inaccessible to those that draw near; but all is turned to joy for us that were the heirs of sin: Paradise, yea, heaven itself may be trodden by man: and the creation, in the world and above the world, that once was at variance with itself, is knit together in friendship: and we men are made to join in the angels' song, offering the worship of their praise to God.
+
+**[1:152]** For all these things then let us sing to God that hymn of joy, which lips touched by the Spirit long ago sang loudly: "Let my soul be joyful in the Lord: for He hath clothed me with a garment of salvation, and hath put upon me a robe of gladness: as on a bridegroom He hath set a mitre upon me, and as a bride hath He adorned me with fair array".
+
+**[1:153]** And verily the Adorner of the bride is Christ, Who is, and was, and shall be, blessed now and for evermore, Amen.
+

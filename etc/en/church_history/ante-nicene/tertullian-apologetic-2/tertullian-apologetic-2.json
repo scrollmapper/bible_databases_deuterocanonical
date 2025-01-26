@@ -1,0 +1,801 @@
+{
+    "books": [
+        {
+            "name": "Tertullian: Apologetic II",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Tertullian: Apologetic II 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:1",
+                            "text": "The arrangement I have adopted in editing these Edinburgh Translations of Tertullian is a practical one."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:2",
+                            "text": "It will be found logical and helpful to the student, who is referred to the Prefatory pages of this volume for an Elucidation of the difficulties, with which any arrangement of these treatises is encumbered."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:3",
+                            "text": "For, first, an attempt to place them in chronological order is out of the question; and, second, all efforts to separate precisely the Orthodox from the Montanistic or Montanist works of our author have hitherto defied the acumen of critics."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:4",
+                            "text": "It would be mere empiricism for me to attempt an original classification in the face of questions which even experts have been unable to determine."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:5",
+                            "text": "If we bear in mind, however, a few guiding facts, we shall see that difficulties are less than might appear, assuming our object to be a practical one."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:6",
+                            "text": "Only four of these essays were written against Orthodoxy;  five more are reckoned as wholly uncertain, which amounts to saying that they are not positively heretical."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:7",
+                            "text": "Again, five are colourless, as to Montanism, and hence should be reputed Orthodox."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:8",
+                            "text": "Of others, written after the influences of Montanism had, more or less, tainted his doctrine, the whole are yet valuable and some are noble defences of the Catholic Faith."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:9",
+                            "text": "Finally eight or ten of his treatises were written while he was a Catholic, and are precious contributions to the testimony of the Primitive Church."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:10",
+                            "text": "From these facts, we may readily conclude that the mass of Tertullian's writings is Orthodox."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:11",
+                            "text": "Some of them are to be read with caution; others, again, must be rejected for their heresy; but yet all are most instructive historically, and as defining even by errors \"the faith once delivered to the Saints\"."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:12",
+                            "text": "I propose to note those which require caution as we pass them in review."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:13",
+                            "text": "Those written against the Church are classed by themselves, at the end of the list, and all the rest may be read with confidence."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:14",
+                            "text": "A most interesting inquiry arises in connection with the quotations from Scripture to be found in our author."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:15",
+                            "text": "Did a Latin version exist in his day, or does he translate from the Greek of the New Testament and the LXX? A paradoxical writer (Semler) contends that Tertullian \"never used a Greek ms\"."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:16",
+                            "text": "(see Kaye, p."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:17",
+                            "text": ") But Tertullian's rugged Latin betrays everywhere his familiarity with Greek idioms and forms of thought."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:18",
+                            "text": "He wrote, also, in Greek, and there is no reason to doubt that he knew the Greek Scriptures primarily, if he knew any Greek whatever."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:19",
+                            "text": "Possibly we owe to Tertullian the primordia of the Old African Latin Versions, some of which seem to have contained the disputed text  John v."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:20",
+                            "text": "; of which more when we come to the Praxeas."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:21",
+                            "text": "For the present in the absence of definite evidence we must infer that Tertullian usually translated from the LXX, and from the originals of the New Testament."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:22",
+                            "text": "But Mosheim thinks the progress of the Gospel in the West was now facilitated by the existence of Latin Versions."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:23",
+                            "text": "Observe, also, Kaye's important note, p."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:24",
+                            "text": ", and his reference to Lardner, Cred."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:25",
+                            "text": "xxvii."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:26",
+                            "text": "The Apology comes first in order, on logical grounds."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:27",
+                            "text": "It is classed with our author's orthodox works by Neander, and pronounced colourless by Kaye."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:28",
+                            "text": "It is the noblest of his productions in its purpose and spirit, and it falls in with the Primitive System of Apologetics."
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:29",
+                            "text": "I have placed next in order to it several treatises, mostly unblemished, which are of the same character; which defend the cause of Christians against Paganism, against Gentile Philosophy, and against Judaism; closing this portion by the two books Ad Nationes, which may be regarded as a recapitulation of the author's arguments, especially those to be found in the Apology."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:30",
+                            "text": "In these successive works, as compared with those of Justin Martyr, we obtain a fair view of the progressive relations of the Church with the Roman Empire and with divers antagonistic systems in the East and West."
+                        },
+                        {
+                            "verse": 31,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:31",
+                            "text": "The following Chronological outline borrowed from the Benedictines and from Bishop Kaye, will prove serviceable here."
+                        },
+                        {
+                            "verse": 32,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:32",
+                            "text": "Tertullian born (circa) a."
+                        },
+                        {
+                            "verse": 33,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:33",
+                            "text": "d."
+                        },
+                        {
+                            "verse": 34,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:34",
+                            "text": "Tertullian converted (surmise)."
+                        },
+                        {
+                            "verse": 35,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:35",
+                            "text": "Tertullian married (say)."
+                        },
+                        {
+                            "verse": 36,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:36",
+                            "text": "Tertullian ordained presbyter (circa)."
+                        },
+                        {
+                            "verse": 37,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:37",
+                            "text": "Tertullian lapsed (circa)."
+                        },
+                        {
+                            "verse": 38,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:38",
+                            "text": "Tertullian deceased (extreme surmise)."
+                        },
+                        {
+                            "verse": 39,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:39",
+                            "text": "The Imperial history of his period may be thus arranged:  Birth of Caracalla a."
+                        },
+                        {
+                            "verse": 40,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:40",
+                            "text": "d."
+                        },
+                        {
+                            "verse": 41,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:41",
+                            "text": "Birth of Geta."
+                        },
+                        {
+                            "verse": 42,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:42",
+                            "text": "Reign of Severus."
+                        },
+                        {
+                            "verse": 43,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:43",
+                            "text": "Defeat of Niger."
+                        },
+                        {
+                            "verse": 44,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:44",
+                            "text": "Caracalla made a Caesar."
+                        },
+                        {
+                            "verse": 45,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:45",
+                            "text": "Capture of Byzantium."
+                        },
+                        {
+                            "verse": 46,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:46",
+                            "text": "Defeat of Albinus."
+                        },
+                        {
+                            "verse": 47,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:47",
+                            "text": "Geta made a Caesar."
+                        },
+                        {
+                            "verse": 48,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:48",
+                            "text": "Caracalla called Augustus."
+                        },
+                        {
+                            "verse": 49,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:49",
+                            "text": "Caracalla associated in the Empire."
+                        },
+                        {
+                            "verse": 50,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:50",
+                            "text": "War against the Parthians."
+                        },
+                        {
+                            "verse": 51,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:51",
+                            "text": "Severus returns from the war."
+                        },
+                        {
+                            "verse": 52,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:52",
+                            "text": "Celebration of the Secular Games."
+                        },
+                        {
+                            "verse": 53,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:53",
+                            "text": "Plautianus put to death (circa)."
+                        },
+                        {
+                            "verse": 54,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:54",
+                            "text": "Geta called Augustus."
+                        },
+                        {
+                            "verse": 55,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:55",
+                            "text": "War in Britain."
+                        },
+                        {
+                            "verse": 56,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:56",
+                            "text": "Wall of Severus."
+                        },
+                        {
+                            "verse": 57,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:57",
+                            "text": "Death of Severus."
+                        },
+                        {
+                            "verse": 58,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:58",
+                            "text": "A fair examination of what has been said on this subject, pro and con, may be found in Kaye's Tertullian, pp."
+                        },
+                        {
+                            "verse": 59,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:59",
+                            "text": "–."
+                        },
+                        {
+                            "verse": 60,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:60",
+                            "text": "In his abundant candour this author leans to the doubters, but in stating the case he seems to me to fortify the position of Lardner and Mosheim."
+                        },
+                        {
+                            "verse": 61,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:61",
+                            "text": "What the brutal Tiberius may have thought or done with respect to Pilate's report concerning the holy victim of his judicial injustice is of little importance to the believer."
+                        },
+                        {
+                            "verse": 62,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:62",
+                            "text": "Nevertheless, as matter of history it deserves attention."
+                        },
+                        {
+                            "verse": 63,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:63",
+                            "text": "Great stress is to be placed on the fact that Tertullian was probably a jurisconsult, familiar with the Roman archives, and influenced by them in his own acceptance of Divine Truth."
+                        },
+                        {
+                            "verse": 64,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:64",
+                            "text": "It is not supposable that such a man would have hazarded his bold appeal to the records, in remonstrating with the Senate and in the very faces of the Emperor and his colleagues, had he not known that the evidence was irrefragable."
+                        },
+                        {
+                            "verse": 65,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:65",
+                            "text": "Kaye disappoints us (p."
+                        },
+                        {
+                            "verse": 66,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:66",
+                            "text": ") in his slight notice of this most interesting subject."
+                        },
+                        {
+                            "verse": 67,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:67",
+                            "text": "Without attempting to discuss the story of Phlegon and other points which afford Gibbon an opportunity for misplaced sneering, such as even a Pilate would have rebuked, while it may be well to recall the exposition of Milman, at the close of Gibbon's fifteenth chapter, I must express my own preference for another view."
+                        },
+                        {
+                            "verse": 68,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:68",
+                            "text": "This will be found candidly summed up and stated, in the Speaker's Commentary, in the concise note on St."
+                        },
+                        {
+                            "verse": 69,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:69",
+                            "text": "Matt."
+                        },
+                        {
+                            "verse": 70,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:70",
+                            "text": "xxvii."
+                        },
+                        {
+                            "verse": 71,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:71",
+                            "text": "Kaye, as usual, gives this vexed question a candid survey."
+                        },
+                        {
+                            "verse": 72,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:72",
+                            "text": "Making all allowances, however, I accept the conjecture of some reputable authorities, that there were ,, of Christians, in the bounds of the Roman Empire at the close of the Second Century."
+                        },
+                        {
+                            "verse": 73,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:73",
+                            "text": "So mightily grew the testimony of Jesus and prevailed."
+                        },
+                        {
+                            "verse": 74,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:74",
+                            "text": "When we reflect that only a century intervened between the times of Tertullian and the conversion of the Roman Emperor, it is not easy to regard our author's language as merely that of fervid genius and of rhetorical hyperbole."
+                        },
+                        {
+                            "verse": 75,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:75",
+                            "text": "He could not have ventured upon exaggeration without courting scorn as well as defeat."
+                        },
+                        {
+                            "verse": 76,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:76",
+                            "text": "What he affirms is probable in the nature of the case."
+                        },
+                        {
+                            "verse": 77,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:77",
+                            "text": "Were it otherwise, then the conditions, which, in a single century rendered it possible for Constantine to effect the greatest revolution in mind and manners that has ever been known among men, would be a miracle compared with which that of his alleged Vision of the Cross sinks into insignificance."
+                        },
+                        {
+                            "verse": 78,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:78",
+                            "text": "To this subject it will be necessary to recur hereafter."
+                        },
+                        {
+                            "verse": 79,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:79",
+                            "text": "A candid review of the matters discussed in this chapter will be found in Kaye (pp."
+                        },
+                        {
+                            "verse": 80,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:80",
+                            "text": ",."
+                        },
+                        {
+                            "verse": 81,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:81",
+                            "text": ") The important fact is there clearly stated that \"the primitive Christians scrupulously complied with the decree pronounced by the Apostles at Jerusalem in abstaining from things strangled and from blood\" (Acts xv."
+                        },
+                        {
+                            "verse": 82,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:82",
+                            "text": ")."
+                        },
+                        {
+                            "verse": 83,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:83",
+                            "text": "On this subject consult the references given in the Speaker's Commentary, ad locum."
+                        },
+                        {
+                            "verse": 84,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:84",
+                            "text": "The Greeks, to their honour, still maintain this prohibition, but St."
+                        },
+                        {
+                            "verse": 85,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:85",
+                            "text": "Augustine's great authority relaxed the Western scruples on this matter, for he regarded it as a decree of temporary obligation, while the Hebrew and Gentile Christians were in peril of misunderstanding and estrangement."
+                        },
+                        {
+                            "verse": 86,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:86",
+                            "text": "On the important question as to the cessation of miracles Kaye takes a somewhat original position."
+                        },
+                        {
+                            "verse": 87,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:87",
+                            "text": "But see his interesting discussion and that of the late Professor Hey, in Kaye's Tertullian, pp."
+                        },
+                        {
+                            "verse": 88,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:88",
+                            "text": "–, –."
+                        },
+                        {
+                            "verse": 89,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:89",
+                            "text": "I do not think writers on these subjects have sufficiently distinguished between miracles properly so called, and providences vouchsafed in answer to prayer."
+                        },
+                        {
+                            "verse": 90,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:90",
+                            "text": "There was no miracle in the case of the Thundering Legion, assuming the story to be true; and I dare to affirm that marked answers to prayer, by providential interpositions, but wholly distinct from miraculous agencies, have never ceased among those who \"ask in the Son's Name\"."
+                        },
+                        {
+                            "verse": 91,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:91",
+                            "text": "Such interpositions are often preternatural only; that is, they economize certain powers which, though natural in themselves, lie outside of the System of Nature with which we happen to be familiar."
+                        },
+                        {
+                            "verse": 92,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:92",
+                            "text": "This distinction has been overlooked."
+                        },
+                        {
+                            "verse": 93,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:93",
+                            "text": "Note the words—\"multitudes to a single beast\"."
+                        },
+                        {
+                            "verse": 94,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:94",
+                            "text": "Can it be possible that Tertullian would use such language to the magistrates, if he knew that such sentences were of rare occurrence? The disposition of our times to minimize the persecutions of our Christian forefathers calls upon us to note such references, all the more important because occurring obiter and mentioned as notorious."
+                        },
+                        {
+                            "verse": 95,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:95",
+                            "text": "Note also, the closing chapter of this Apology, and reference to the outcries of the populace, in Cap."
+                        },
+                        {
+                            "verse": 96,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:96",
+                            "text": "xxxv."
+                        },
+                        {
+                            "verse": 97,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:97",
+                            "text": "See admirable remarks on the benefits derived by the Church from the sufferings of Christian martyrs, with direct reference to Tertullian, Wordsworth, Church Hist."
+                        },
+                        {
+                            "verse": 98,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:98",
+                            "text": "to Council of Nicaea, cap."
+                        },
+                        {
+                            "verse": 99,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:99",
+                            "text": "xxiv."
+                        },
+                        {
+                            "verse": 100,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:100",
+                            "text": ", p."
+                        },
+                        {
+                            "verse": 101,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:101",
+                            "text": "A study of the manners of Christians, in the Ante-Nicene Age, as sketched by the unsparing hand of Tertullian, will convince any unprejudiced mind of the mighty power of the Holy Ghost, in framing such characters out of heathen originals."
+                        },
+                        {
+                            "verse": 102,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:102",
+                            "text": "When, under Montanistic influences our severely ascetic author complains of the Church's corruptions, and turns inside-out the whole estate of the faithful, we see all that can be pressed on the other side; but, this very important chapter must be borne in mind, together with the closing sentence of chap."
+                        },
+                        {
+                            "verse": 103,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:103",
+                            "text": "xliv."
+                        },
+                        {
+                            "verse": 104,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:104",
+                            "text": ", as evidence that whatever might be said by a rigid disciplinarian, the Church, as compared with our day, was still a living embodiment of Philippians iv."
+                        },
+                        {
+                            "verse": 105,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:105",
+                            "text": "See Kaye, p."
+                        },
+                        {
+                            "verse": 106,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:106",
+                            "text": "Our author seems not always consistent with himself in his references to the Places of departed spirits."
+                        },
+                        {
+                            "verse": 107,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:107",
+                            "text": "Kaye thinks he identifies Paradise with the Heaven of the Most High, in one place (the De Exhort."
+                        },
+                        {
+                            "verse": 108,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:108",
+                            "text": "Cast."
+                        },
+                        {
+                            "verse": 109,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:109",
+                            "text": ", xiii."
+                        },
+                        {
+                            "verse": 110,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:110",
+                            "text": ") where he probably confuses the Apostle's ideas, in Galatians v."
+                        },
+                        {
+                            "verse": 111,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:111",
+                            "text": ", and Ephesians v."
+                        },
+                        {
+                            "verse": 112,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:112",
+                            "text": "Commonly, however, though he is not consistent with himself, this would be his scheme:—   The Inferi, or Hades, where the soul of Dives was in one continent and that of Lazarus in another, with a gulf between."
+                        },
+                        {
+                            "verse": 113,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:113",
+                            "text": "Our author places \"Abraham's bosom\" in Hades."
+                        },
+                        {
+                            "verse": 114,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:114",
+                            "text": "Paradise."
+                        },
+                        {
+                            "verse": 115,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:115",
+                            "text": "In Hades, but in a superior and more glorious region."
+                        },
+                        {
+                            "verse": 116,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:116",
+                            "text": "This more blessed abode was opened to the souls of the martyrs and other greater saints, at our Lord's descent into the place of the dead."
+                        },
+                        {
+                            "verse": 117,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:117",
+                            "text": "After the General Resurrection and Judgment, there remain:   Gehenna, for the lost, prepared for the devil and his angels."
+                        },
+                        {
+                            "verse": 118,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:118",
+                            "text": "The Heaven of Heavens, the eternal abode of the righteous, in the vision of the Lord and His Eternal Joy."
+                        },
+                        {
+                            "verse": 119,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:119",
+                            "text": "Tertullian's variations on this subject will force us to recur to it hereafter; but, here it may be noted that the confusions of Latin Christianity received their character in this particular, from the genius of our author."
+                        },
+                        {
+                            "verse": 120,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:120",
+                            "text": "Augustine caught from him a certain indecision about the terms and places connected with the state of the departed which has continued, to this day, to perplex theologians in the West."
+                        },
+                        {
+                            "verse": 121,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:121",
+                            "text": "Taking advantage of such confusions, the stupendous Roman system of \"Purgatory\" was fabricated in the middle ages; but the Greeks never accepted it, and it differs fundamentally from what the earlier Latin Fathers, including Tertullian, have given us as speculations."
+                        },
+                        {
+                            "verse": 122,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:122",
+                            "text": "Here we find the alliterative and epigrammatic genius of Tertullian anticipating a similar poetic charm in Augustine."
+                        },
+                        {
+                            "verse": 123,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:123",
+                            "text": "The Christian maid or matron preferred the Leo to the leno; to be devoured rather than to be debauched."
+                        },
+                        {
+                            "verse": 124,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:124",
+                            "text": "Our author wrests a tribute to the chastity of Christian women from the cruelty of their judges, who recognizing this fact, were accustomed as a refinement of their injustice to give sentence against them, refusing the mercy of a horrible death, by committing them to the ravisher: \"damnando Christianam ad lenonem potius quam ad leonem\"."
+                        },
+                        {
+                            "verse": 125,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:125",
+                            "text": "Kaye has devoted a number of his pages to the elucidation of this subject, not only showing the constancy of the martyrs, but illustrating the fact that Christians, like St."
+                        },
+                        {
+                            "verse": 126,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:126",
+                            "text": "Paul, were forced to \"die daily,\" even when they were not subjected to the fiery trial."
+                        },
+                        {
+                            "verse": 127,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:127",
+                            "text": "He who confessed himself a Christian made himself a social outcast."
+                        },
+                        {
+                            "verse": 128,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:128",
+                            "text": "All manner of outrages and wrongs could be committed against him with impunity."
+                        },
+                        {
+                            "verse": 129,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:129",
+                            "text": "Rich men, who had joined themselves to Christ, were forced to accept \"the spoiling of their goods\"."
+                        },
+                        {
+                            "verse": 130,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:130",
+                            "text": "Brothers denounced brothers, and husbands their wives; \"a man's foes were they of his own household\"."
+                        },
+                        {
+                            "verse": 131,
+                            "chapter": 1,
+                            "name": "Tertullian: Apologetic II 1:131",
+                            "text": "But the Church triumphed through suffering, and \"out of weakness was made strong\"."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

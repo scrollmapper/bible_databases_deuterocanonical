@@ -1,0 +1,3321 @@
+{
+    "books": [
+        {
+            "name": "Chrysostom: On Philemon",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Chrysostom: On Philemon 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:1",
+                            "text": "Homilies of St."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:2",
+                            "text": "John Chrysostom,  archbishop of constantinople,  on the  epistle of St."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:3",
+                            "text": "paul the apostle  to  Philemon."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:4",
+                            "text": "Argument."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:5",
+                            "text": "First, it is necessary to state the argument of the Epistle, then also the matters that are questioned respecting it."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:6",
+                            "text": "What then is the argument? Philemon was a man of admirable and noble character."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:7",
+                            "text": "That he was an admirable man is evident from the fact, that his whole household was of believers, and of such believers as even to be called a Church: therefore he says in this Epistle, \"And to the Church that is in thy house\"."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:8",
+                            "text": "(v."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:9",
+                            "text": ") He bears witness also to his great obedience, and that \"the bowels of the Saints are refreshed in him\"."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:10",
+                            "text": "(v."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:11",
+                            "text": ") And he himself in this Epistle commanded him to prepare him a lodging."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:12",
+                            "text": "(v."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:13",
+                            "text": ") It seems to me therefore that his house was altogether a lodging for the Saints."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:14",
+                            "text": "This excellent man, then, had a certain slave named Onesimus."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:15",
+                            "text": "This Onesimus, having stolen something from his master, had run away."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:16",
+                            "text": "For that he had stolen, hear what he says: \"If he hath wronged thee, or oweth thee aught, I will repay thee\"."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:17",
+                            "text": "(v."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:18",
+                            "text": ",."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:19",
+                            "text": ") Coming therefore to Paul at Rome, and having found him in prison, and having enjoyed the benefit of his teaching, he there also received Baptism."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:20",
+                            "text": "For that he obtained there the gift of Baptism is manifest from his saying, \"Whom I have begotten in my bonds\"."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:21",
+                            "text": "(v."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:22",
+                            "text": ") Paul therefore writes, recommending him to his master, that on every account he should forgive him, and receive him as one now regenerate."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:23",
+                            "text": "But because some say, that it was superfluous that this Epistle should be annexed, since he is making a request about a small matter in behalf of one man, let them learn who make these objections, that they are themselves deserving of very many censures."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:24",
+                            "text": "For it was not only proper that these small Epistles, in behalf of things so necessary, should have been inscribed, but I wish that it were possible to meet with one who could deliver to us the history of the Apostles, not only all they wrote and spoke of, but of the rest of their conversation, even what they ate, and when they ate, when they walked, and where they sat, what they did every day, in what parts they were, into what house they entered, and where they lodged—to relate everything with minute exactness, so replete with advantage is all that was done by them."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:25",
+                            "text": "But the greater part, not knowing the benefit that would result thence, proceed to censure it."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:26",
+                            "text": "For if only seeing those places where they sat or where they were imprisoned, mere lifeless spots, we often transport our minds thither, and imagine their virtue, and are excited by it, and become more zealous, much more would this be the case, if we heard their words and their other actions."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:27",
+                            "text": "But concerning a friend a man enquires, where he lives, what he is doing, whither he is going: and say, should we not make these enquiries about these the general instructors of the world? For when a man leads a spiritual life, the habit, the walk, the words and the actions of such an one, in short, all that relates to him, profits the hearers, and nothing is a hindrance or impediment."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:28",
+                            "text": "But it is useful for you to learn that this Epistle was sent upon necessary matters."
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:29",
+                            "text": "Observe therefore how many things are rectified thereby."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:30",
+                            "text": "We have this one thing first, that in all things it becomes one to be earnest."
+                        },
+                        {
+                            "verse": 31,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:31",
+                            "text": "For if Paul bestows so much concern upon a runaway, a thief, and a robber, and does not refuse nor is ashamed to send him back with such commendations; much more does it become us not to be negligent in such matters."
+                        },
+                        {
+                            "verse": 32,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:32",
+                            "text": "Secondly, that we ought not to abandon the race of slaves, even if they have proceeded to extreme wickedness."
+                        },
+                        {
+                            "verse": 33,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:33",
+                            "text": "For if a thief and a runaway become so virtuous that Paul was willing to make him a companion, and says in this Epistle, \"that in thy stead he might have ministered unto me\" (v."
+                        },
+                        {
+                            "verse": 34,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:34",
+                            "text": "), much more ought we not to abandon the free."
+                        },
+                        {
+                            "verse": 35,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:35",
+                            "text": "Thirdly, that we ought not to withdraw slaves from the service of their masters."
+                        },
+                        {
+                            "verse": 36,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:36",
+                            "text": "For if Paul, who had such confidence in Philemon, was unwilling to detain Onesimus, so useful and serviceable to minister to himself, without the consent of his master, much less ought we so to act."
+                        },
+                        {
+                            "verse": 37,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:37",
+                            "text": "For if the servant is so excellent, he ought by all means to continue in that service, and to acknowledge the authority of his master, that he may be the occasion of benefit to all in that house."
+                        },
+                        {
+                            "verse": 38,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:38",
+                            "text": "Why dost thou take the candle from the candlestick to place it in the bushel?  I wish it were possible to bring into the cities those (servants) who are without."
+                        },
+                        {
+                            "verse": 39,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:39",
+                            "text": "\"What,\" say you, \"if he also should become corrupt\"."
+                        },
+                        {
+                            "verse": 40,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:40",
+                            "text": "And why should he, I beseech you? Because he has come into the city? But consider, that being without he will be much more corrupt."
+                        },
+                        {
+                            "verse": 41,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:41",
+                            "text": "For he who is corrupt being within, will be much more so being without."
+                        },
+                        {
+                            "verse": 42,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:42",
+                            "text": "For here he will be delivered from necessary care, his master taking that care upon himself; but there the concern about those things will draw him off perhaps even from things more necessary, and more spiritual."
+                        },
+                        {
+                            "verse": 43,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:43",
+                            "text": "On this account the blessed Paul, when giving them the best counsel, said, \"Art thou called, being a servant? care not for it: but if even thou mayest be made free, use it rather\" ( Cor."
+                        },
+                        {
+                            "verse": 44,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:44",
+                            "text": "vii."
+                        },
+                        {
+                            "verse": 45,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:45",
+                            "text": "); that is, abide in slavery."
+                        },
+                        {
+                            "verse": 46,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:46",
+                            "text": "But what is more important than all, that the word of God be not blasphemed, as he himself says in one of his Epistles."
+                        },
+                        {
+                            "verse": 47,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:47",
+                            "text": "\"Let as many servants as are under the yoke count their own masters worthy of all honor, that the name of God and His doctrine be not blasphemed\"."
+                        },
+                        {
+                            "verse": 48,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:48",
+                            "text": "( Tim."
+                        },
+                        {
+                            "verse": 49,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:49",
+                            "text": "vi."
+                        },
+                        {
+                            "verse": 50,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:50",
+                            "text": ") For the Gentiles also will say, that even one who is a slave can be well pleasing to God."
+                        },
+                        {
+                            "verse": 51,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:51",
+                            "text": "But now many are reduced to the necessity of blasphemy, and of saying Christianity has been introduced into life for the subversion of everything, masters having their servants taken from them, and it is a matter of violence."
+                        },
+                        {
+                            "verse": 52,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:52",
+                            "text": "Let me also say one other thing."
+                        },
+                        {
+                            "verse": 53,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:53",
+                            "text": "He teaches us not to be ashamed of our domestics, if they are virtuous."
+                        },
+                        {
+                            "verse": 54,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:54",
+                            "text": "For if Paul, the most admirable of men, speaks thus much in favor of this one, much more should we speak favorably of ours."
+                        },
+                        {
+                            "verse": 55,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:55",
+                            "text": "There being then so many good effects—and yet we have not mentioned all—does any one think it superfluous that this Epistle was inserted? And would not this be extreme folly? Let us then, I beseech you, apply to the Epistle written by the Apostle."
+                        },
+                        {
+                            "verse": 56,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:56",
+                            "text": "For having gained already so many advantages from it, we shall gain more from the text."
+                        },
+                        {
+                            "verse": 57,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:57",
+                            "text": "Note."
+                        },
+                        {
+                            "verse": 58,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:58",
+                            "text": "—The views of the Fathers on Slavery and Emancipation were very conservative, as slavery was interwoven with the whole structure of the Roman empire and could not be suddenly abolished without a radical social revolution."
+                        },
+                        {
+                            "verse": 59,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:59",
+                            "text": "But the spirit of Christianity always suggested and encouraged individual emancipation and the ultimate abolition of the institution by teaching the universal love of God, the common redemption and brotherhood of men, and the sacredness of personality."
+                        },
+                        {
+                            "verse": 60,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:60",
+                            "text": "Comp."
+                        },
+                        {
+                            "verse": 61,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:61",
+                            "text": "Bishop Lightfoot's Commentary on Colossians and Philemon, and Schaff's Church History, I."
+                        },
+                        {
+                            "verse": 62,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:62",
+                            "text": "–; II."
+                        },
+                        {
+                            "verse": 63,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:63",
+                            "text": "–; III."
+                        },
+                        {
+                            "verse": 64,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:64",
+                            "text": "–."
+                        },
+                        {
+                            "verse": 65,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:65",
+                            "text": "Möhler, in his Vermischte Schriften, II."
+                        },
+                        {
+                            "verse": 66,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:66",
+                            "text": "sqq."
+                        },
+                        {
+                            "verse": 67,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:67",
+                            "text": ", has collected the views of St."
+                        },
+                        {
+                            "verse": 68,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:68",
+                            "text": "Chrysostom on slavery, and says that since the time of the Apostle Paul no one has done more valuable service to slaves than St."
+                        },
+                        {
+                            "verse": 69,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:69",
+                            "text": "Chrysostom."
+                        },
+                        {
+                            "verse": 70,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:70",
+                            "text": "—P."
+                        },
+                        {
+                            "verse": 71,
+                            "chapter": 1,
+                            "name": "Chrysostom: On Philemon 1:71",
+                            "text": "S."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 2,
+                    "name": "Chrysostom: On Philemon 2",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:1",
+                            "text": "Homily I."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:2",
+                            "text": "Philemon i."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:3",
+                            "text": "–  \"Paul, a prisoner of Jesus Christ, and Timothy our brother, unto Philemon our dearly beloved, and fellow-laborer, And to our beloved Apphia, and Archippus our fellow-soldier, and to the Church in thy house: Grace to you, and peace, from God our Father and the Lord Jesus Christ\"."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:4",
+                            "text": "These things are said to a master in behalf of a servant."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:5",
+                            "text": "Immediately at the outset, he has pulled down his spirit, and not suffered him to be ashamed, he has quenched his anger; calling himself a prisoner, he strikes him with compunction, and makes him collect himself, and makes it appear that present things are nothing."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:6",
+                            "text": "For if a chain for Christ's sake is not a shame but a boast, much more is slavery not to be considered a reproach."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:7",
+                            "text": "And this he says, not exalting himself, but for a good purpose doing this, showing thence that he was worthy of credit; and this he does not for his own sake, but that he may more readily obtain the favor."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:8",
+                            "text": "As if he had said, \"It is on your account that I am invested with this chain\"."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:9",
+                            "text": "As he also has said elsewhere, there indeed showing his concern, but here his trustworthiness."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:10",
+                            "text": "Nothing is greater than this boast, to be called \"the stigmatized of Christ\"."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:11",
+                            "text": "\"For I bear in my body the marks of the Lord Jesus\"."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:12",
+                            "text": "(Gal."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:13",
+                            "text": "vi."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:14",
+                            "text": ")  \"The prisoner of the Lord\"."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:15",
+                            "text": "For he had been bound on His account."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:16",
+                            "text": "Who would not be struck with awe, who would not be humbled when he hears of the chains of Christ? Who would not be ready to give up even his own life, much less one domestic?  \"And Timothy our brother\"."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:17",
+                            "text": "He joins another also with himself, that he, being entreated by many, may the more readily yield and grant the favor."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:18",
+                            "text": "\"Unto Philemon our dearly beloved, and fellow-laborer\"."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:19",
+                            "text": "If \"beloved,\" then his confidence is not boldness nor forwardness, but a proof of much affection."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:20",
+                            "text": "If a \"fellow-laborer,\" then not only may he be instructed in such a matter, but he ought to acknowledge it as a favor."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:21",
+                            "text": "For he is gratifying himself, he is building up the same work."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:22",
+                            "text": "So that apart from any request, he says, thou hast another necessity for granting the favor."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:23",
+                            "text": "For if he is profitable to the Gospel, and thou art anxious to promote the Gospel, then oughtest thou not to be entreated, but to entreat."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:24",
+                            "text": "Ver."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:25",
+                            "text": "\"And to our beloved Apphia\"."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:26",
+                            "text": "It seems to me that she was his partner in life."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:27",
+                            "text": "Observe the humility of Paul; he both joins Timothy with him in his request, and asks not only the husband, but the wife also, and some one else, perhaps a friend."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:28",
+                            "text": "\"And Archippus,\" he says, \"our fellow-soldier\"."
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:29",
+                            "text": "Not wishing to effect such things by command, and not taking it ill, if he did not immediately comply with his request; but he begs them to do what a stranger might have done to aid his request."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:30",
+                            "text": "For not only the being requested by many, but the petition being urged to many, contributes to its being granted."
+                        },
+                        {
+                            "verse": 31,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:31",
+                            "text": "And on this account he says, \"And Archippus our fellow-soldier\"."
+                        },
+                        {
+                            "verse": 32,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:32",
+                            "text": "If thou art a fellow-soldier, thou oughtest also to take a concern in these things."
+                        },
+                        {
+                            "verse": 33,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:33",
+                            "text": "But this is the Archippus, about whom he says in his Epistle to the Colossians, \"Say to Archippus, Take heed to the ministry which thou hast received in the Lord, that thou fulfill it\"."
+                        },
+                        {
+                            "verse": 34,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:34",
+                            "text": "(Col."
+                        },
+                        {
+                            "verse": 35,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:35",
+                            "text": "iv."
+                        },
+                        {
+                            "verse": 36,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:36",
+                            "text": ") It seems to me too, that he, whom he joins with him in this request, was also one of the Clergy."
+                        },
+                        {
+                            "verse": 37,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:37",
+                            "text": "And he calls him his fellow-soldier, that he may by all means cooperate with him."
+                        },
+                        {
+                            "verse": 38,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:38",
+                            "text": "\"And to the Church in thy house\"."
+                        },
+                        {
+                            "verse": 39,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:39",
+                            "text": "Here he has not omitted even the slaves."
+                        },
+                        {
+                            "verse": 40,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:40",
+                            "text": "For he knew that often even the words of slaves have power to overthrow their master; and more especially when his request was in behalf of a slave."
+                        },
+                        {
+                            "verse": 41,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:41",
+                            "text": "And perhaps it was they particularly who exasperated him."
+                        },
+                        {
+                            "verse": 42,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:42",
+                            "text": "He does not suffer them therefore to fall into envy, having honored them by including them in a salutation with their masters."
+                        },
+                        {
+                            "verse": 43,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:43",
+                            "text": "And neither does he allow the master to take offense."
+                        },
+                        {
+                            "verse": 44,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:44",
+                            "text": "For if he had made mention of them by name, perhaps he would have been angry."
+                        },
+                        {
+                            "verse": 45,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:45",
+                            "text": "And if he had not mentioned them at all, he might have been displeased."
+                        },
+                        {
+                            "verse": 46,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:46",
+                            "text": "Observe therefore how prudently he has found a way by his manner of mentioning them, both to honor them by his mention of them, and not to wound him."
+                        },
+                        {
+                            "verse": 47,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:47",
+                            "text": "For the name of the \"Church\" does not suffer masters to be angry, even though they are reckoned together with their servants."
+                        },
+                        {
+                            "verse": 48,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:48",
+                            "text": "For the Church knows not the distinction of master and servant."
+                        },
+                        {
+                            "verse": 49,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:49",
+                            "text": "By good actions and by sins she defines the one and the other."
+                        },
+                        {
+                            "verse": 50,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:50",
+                            "text": "If then it is a Church, be not displeased that thy slave is saluted with thee."
+                        },
+                        {
+                            "verse": 51,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:51",
+                            "text": "\"For in Christ Jesus there is neither bond nor free\"."
+                        },
+                        {
+                            "verse": 52,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:52",
+                            "text": "(Gal."
+                        },
+                        {
+                            "verse": 53,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:53",
+                            "text": "iii."
+                        },
+                        {
+                            "verse": 54,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:54",
+                            "text": ")  \"Grace to you, and peace\"."
+                        },
+                        {
+                            "verse": 55,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:55",
+                            "text": "By mentioning \"grace,\" he brings his own sins to his remembrance."
+                        },
+                        {
+                            "verse": 56,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:56",
+                            "text": "Consider, he says, how great things God has pardoned in thee, how by grace thou art saved."
+                        },
+                        {
+                            "verse": 57,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:57",
+                            "text": "Imitate thy Lord."
+                        },
+                        {
+                            "verse": 58,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:58",
+                            "text": "And he prays for \"peace\" to him; and naturally: for it comes then when we imitate Him, then grace abides."
+                        },
+                        {
+                            "verse": 59,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:59",
+                            "text": "Since even that servant who was unmerciful to his fellow-servants, until he demanded the hundred pence, had the grace of his master abiding on him."
+                        },
+                        {
+                            "verse": 60,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:60",
+                            "text": "But when he made that demand, it was taken from him, and he was delivered to the tormentors."
+                        },
+                        {
+                            "verse": 61,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:61",
+                            "text": "Moral."
+                        },
+                        {
+                            "verse": 62,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:62",
+                            "text": "Considering these things, then, let us also be merciful and forgiving towards those who have trespassed against us."
+                        },
+                        {
+                            "verse": 63,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:63",
+                            "text": "The offenses against us here are a hundred pence, but those from us against God are ten thousand talents."
+                        },
+                        {
+                            "verse": 64,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:64",
+                            "text": "But you know that offenses are also judged by the quality of the persons: for instance, he who has insulted a private person has done wrong, but not so much as he who has insulted a magistrate, and he who has offended a greater magistrate offends in a higher degree, and he who offends an inferior one in a lower degree; but he who insults the king offends much more."
+                        },
+                        {
+                            "verse": 65,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:65",
+                            "text": "The injury indeed is the same, but it becomes greater by the excellence of the person."
+                        },
+                        {
+                            "verse": 66,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:66",
+                            "text": "And if he who insults a king receives intolerable punishment, on account of the superiority of the person; for how many talents will he be answerable who insults God? so that even if we should commit the same offenses against God, that we do against men, even so it is not an equal thing: but as great as is the difference between God and men, so great is that between the offenses against Him and them."
+                        },
+                        {
+                            "verse": 67,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:67",
+                            "text": "But now I find also that the offenses exceed, not only in that they become great by the eminence of the person, but by their very nature."
+                        },
+                        {
+                            "verse": 68,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:68",
+                            "text": "And it is a horrible saying that I am about to utter, and truly awful, but it is necessary to be said, that it may even so shake our minds and strike them with terror, showing that we fear men much more than God, and we honor men much more than God."
+                        },
+                        {
+                            "verse": 69,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:69",
+                            "text": "For consider, he that commits adultery knows that God sees him, yet he disregards Him; but if a man see him, he restrains his lust."
+                        },
+                        {
+                            "verse": 70,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:70",
+                            "text": "Does not such a one not only honor men above God, not only insult God, but, which is even much more dreadful, whilst he fears them, despise Him? For if he sees them, he restrains the flame of lust, but rather what flame? it is not a flame, but a willfulness."
+                        },
+                        {
+                            "verse": 71,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:71",
+                            "text": "For if indeed it was not lawful to have intercourse with a woman, the matter perhaps would be a flame, but now it is insult and wantonness."
+                        },
+                        {
+                            "verse": 72,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:72",
+                            "text": "For if he should see men, he desists from his mad passion, but for the longsuffering of God he has less regard."
+                        },
+                        {
+                            "verse": 73,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:73",
+                            "text": "Again, another who steals, is conscious that he is committing robbery, and endeavors to deceive men, and defends himself against those who accuse him, and clothes his apology with a fair show; but though he cannot thus prevail with God, he does not regard Him, nor stand in awe of Him, nor honor Him."
+                        },
+                        {
+                            "verse": 74,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:74",
+                            "text": "And if the king indeed commands us to abstain from other men's goods, or even to give away our own, all readily contribute, but when God commands not to rob, not to gather other men's goods, we do not forbear."
+                        },
+                        {
+                            "verse": 75,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:75",
+                            "text": "Do you see then that we honor men more than God? It is a sad and grievous saying, a heavy charge."
+                        },
+                        {
+                            "verse": 76,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:76",
+                            "text": "But show that it is grievous; flee from the fact! But if you fear not the fact, how can I believe you when you say, We fear your words, you lay a burden on us! It is you that by the deed lay a burden on yourselves, and not our words."
+                        },
+                        {
+                            "verse": 77,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:77",
+                            "text": "And if I but name the words of which you do the deeds, you are offended."
+                        },
+                        {
+                            "verse": 78,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:78",
+                            "text": "And is not this absurd?  May the thing spoken by me prove false! I would rather myself in That Day bear the imputation of ill language, as having vainly and causelessly reproached you, than see you accused of such things."
+                        },
+                        {
+                            "verse": 79,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:79",
+                            "text": "But not only do you honor men more than God, but you compel others to do so likewise."
+                        },
+                        {
+                            "verse": 80,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:80",
+                            "text": "Many have thus compelled their domestics and slaves."
+                        },
+                        {
+                            "verse": 81,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:81",
+                            "text": "Some have drawn them into marriage against their will, and others have forced them to minister to disgraceful services, to infamous love, to acts of rapine, and fraud, and violence: so that the accusation is twofold, and neither can they obtain pardon upon the plea of necessity."
+                        },
+                        {
+                            "verse": 82,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:82",
+                            "text": "For if you yourself do wrong things unwillingly, and on account of the command of the ruler, not even so is it by any means a sufficient excuse: but the offense becomes heavier, when you compel them also to fall into the same sins."
+                        },
+                        {
+                            "verse": 83,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:83",
+                            "text": "For what pardon can there be any more for such an one?  These things I have said, not from a wish to condemn you, but to show in how many things we are debtors to God."
+                        },
+                        {
+                            "verse": 84,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:84",
+                            "text": "For if by honoring men even equally with God, we insult God, how much more, when we honor men above Him? But if those offenses that are committed against men are shown to be much greater against God; how much more when the actual offense is greater and more grievous in its own quality."
+                        },
+                        {
+                            "verse": 85,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:85",
+                            "text": "Let any one examine himself, and he will see that he does everything on account of men."
+                        },
+                        {
+                            "verse": 86,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:86",
+                            "text": "Exceedingly blessed we should be, if we did as many things for the sake of God, as we do for the sake of men, and of the opinion of men, and for the dread or the respect of men."
+                        },
+                        {
+                            "verse": 87,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:87",
+                            "text": "If then we have so many things to answer for, we ought with all alacrity to forgive those who injure us, who defraud us, and not to bear malice."
+                        },
+                        {
+                            "verse": 88,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:88",
+                            "text": "For there is a way to the forgiveness of our sins that needs no labors, nor expense of wealth, nor any other things, but merely our own choice."
+                        },
+                        {
+                            "verse": 89,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:89",
+                            "text": "We have no need to set out upon our travels, nor go beyond the boundaries of our country, nor submit to dangers and toils, but only to will."
+                        },
+                        {
+                            "verse": 90,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:90",
+                            "text": "What excuse, tell me, shall we have in things that appear difficult, when we do not do even a light thing, attended too with so much gain and so much benefit, and no trouble? Canst thou not despise wealth? Canst thou not spend thy substance on the needy? Canst thou not will anything that is good? Canst thou not forgive him that has injured thee? For if thou hadst not so many things to answer for, and God had only commanded thee to forgive, oughtest thou not to do it? But now having so many things to answer for, dost thou not forgive? and that too, knowing that thou art required to do it on account of things which thou hast from Him? If indeed we go to our debtor, he knowing it, receives us courteously, and shows us honor, and pays us every attention in a liberal way; and that though he is not paying off his debt, but because he wishes to render us merciful in our demand of payment: and thou, who owest so much to God, and art commanded to forgive that thou mayest receive in return, dost not thou forgive? And wherefore not, I beseech you? Woe is me! How much of goodness do we receive, and what wickedness do we show in return! What sleepiness! what indolence! How easy a thing is virtue, attended too with much advantage; and how laborious a thing is vice! But we, flying from that which is so light, pursue that which is heavier than lead."
+                        },
+                        {
+                            "verse": 91,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:91",
+                            "text": "Here there is no need of bodily strength, nor of wealth, nor possessions, nor of power, nor of friendship, nor of any other thing; but it is sufficient only to will, and all is accomplished."
+                        },
+                        {
+                            "verse": 92,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:92",
+                            "text": "Hath some one grieved thee, and insulted thee, and mocked thee? But consider, how often thou hast done such things to others, and even to the Lord Himself; and forbear, and forgive him it."
+                        },
+                        {
+                            "verse": 93,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:93",
+                            "text": "Consider that thou sayest, \"Forgive us our debts, as we also forgive our debtors\"."
+                        },
+                        {
+                            "verse": 94,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:94",
+                            "text": "(Matt."
+                        },
+                        {
+                            "verse": 95,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:95",
+                            "text": "vi."
+                        },
+                        {
+                            "verse": 96,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:96",
+                            "text": ") Consider, that if thou dost not forgive, thou wilt not be able to say this with confidence: but if thou forgivest, thou demandest the matter as a debt, not by reason of the nature of the thing, but on account of the lovingkindness of Him that hath granted it."
+                        },
+                        {
+                            "verse": 97,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:97",
+                            "text": "And wherein is it equal, that one who forgives his fellow-servants should receive remission of the sins committed against the Lord? but nevertheless we do receive such great lovingkindness, because He is rich in mercy and pity."
+                        },
+                        {
+                            "verse": 98,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:98",
+                            "text": "And that I may show that even without these things, and without the remission, thou art a gainer by forgiving, consider how many friends such a person has, how the praises of such an one are everywhere sounded by men who go about saying, \"This is a good man, he is easily reconciled, he knows not to bear malice, he is no sooner stricken than he is healed\"."
+                        },
+                        {
+                            "verse": 99,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:99",
+                            "text": "When such an one falls into any misfortune, who will not pity him? when he has offended, who will not pardon him? When he asks a favor of others, who will not grant it to him? Who will not be willing to be the friend and servant of so good a soul? Yea, I entreat you, let us do all things for Him, not to our friends, not to our relations only, but even to our domestics."
+                        },
+                        {
+                            "verse": 100,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:100",
+                            "text": "For He says, \"Forbearing threatening, knowing that your Master also is in heaven\"."
+                        },
+                        {
+                            "verse": 101,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:101",
+                            "text": "(Eph."
+                        },
+                        {
+                            "verse": 102,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:102",
+                            "text": "vi."
+                        },
+                        {
+                            "verse": 103,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:103",
+                            "text": ")  If we forgive our neighbors their trespasses, ours will be forgiven to us, if we bestow alms, if we be humble."
+                        },
+                        {
+                            "verse": 104,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:104",
+                            "text": "For this also taketh away sins."
+                        },
+                        {
+                            "verse": 105,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:105",
+                            "text": "For if the publican, only for saying, \"God be merciful to me a sinner\" (Luke xviii."
+                        },
+                        {
+                            "verse": 106,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:106",
+                            "text": "), went down justified, much more we also, if we be humble and contrite, shall be able to obtain abundant lovingkindness."
+                        },
+                        {
+                            "verse": 107,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:107",
+                            "text": "If we confess our own sins and condemn ourselves, we shall be cleansed from the most of our defilement."
+                        },
+                        {
+                            "verse": 108,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:108",
+                            "text": "For there are many ways that purify."
+                        },
+                        {
+                            "verse": 109,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:109",
+                            "text": "Let us therefore in every way war against the devil."
+                        },
+                        {
+                            "verse": 110,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:110",
+                            "text": "I have said nothing difficult, nothing burdensome."
+                        },
+                        {
+                            "verse": 111,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:111",
+                            "text": "Forgive him that has injured thee, have pity on the needy, humble thy soul, and though thou be a grievous sinner, thou wilt be able to obtain the kingdom, by these means purging off thy sins themselves, and wiping off their stain."
+                        },
+                        {
+                            "verse": 112,
+                            "chapter": 2,
+                            "name": "Chrysostom: On Philemon 2:112",
+                            "text": "And God grant that we all, having purified ourselves here by confession from all the filth of our sins, may there obtain the blessings promised in Christ Jesus our Lord, &c."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 3,
+                    "name": "Chrysostom: On Philemon 3",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:1",
+                            "text": "Homily II."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:2",
+                            "text": "Philemon i."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:3",
+                            "text": "–  \"I thank my God, making mention of thee always in my prayers, Hearing of thy love and faith, which thou hast towards the Lord Jesus, and toward all saints."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:4",
+                            "text": "That the communication of thy faith may become effectual by the acknowledging in the knowledge of every good thing which is in us,in Christ Jesus\"."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:5",
+                            "text": "He does not immediately at the commencement ask the favor, but having first admired the man, and having praised him for his good actions, and having shown no small proof of his love, that he always made mention of him in his prayers, and having said that many are refreshed by him, and that he is obedient and complying in all things; then he puts it last of all, by this particularly putting him to the blush."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:6",
+                            "text": "For if others obtain the things which they ask, much more Paul."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:7",
+                            "text": "If coming before others, he was worthy to obtain, much more when he comes after others, and asks a thing not pertaining to himself, but in behalf of another."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:8",
+                            "text": "Then, that he may not seem to have written on this account only, and that no one may say, \"If it were not for Onesimus thou wouldest not have written,\" see how he assigns other causes also of his Epistle."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:9",
+                            "text": "In the first place manifesting his love, then also desiring that a lodging may be prepared for him."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:10",
+                            "text": "\"Hearing,\" he says, \"of thy love\"."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:11",
+                            "text": "This is wonderful, and much greater than if being present he had seen it when he was present."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:12",
+                            "text": "For it is plain that from its being excessive it had become manifest, and had reached even to Paul."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:13",
+                            "text": "And yet the distance between Rome and Phrygia was not small."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:14",
+                            "text": "For he seems to have been there from the mention of Archippus."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:15",
+                            "text": "For the Colossians were of Phrygia, writing to whom he said, \"When this Epistle is read among you, cause that it be read also in the Church of the Laodiceans, and that ye likewise read the Epistle from Laodicea\"."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:16",
+                            "text": "(Col."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:17",
+                            "text": "iv."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:18",
+                            "text": ") And this is a city of Phrygia."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:19",
+                            "text": "I pray, he says, \"that the communication of thy faith may become effectual in the knowledge of every good thing which is in Christ Jesus\"."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:20",
+                            "text": "Dost thou see him first giving, before he receives, and before he asks a favor himself bestowing a much greater one of his own? \"That the communication of thy faith,\" he says, \"may become effectual by the acknowledging of every good thing which is in you in Christ Jesus\"; that is, that thou mayest attain all virtue, that nothing may be deficient."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:21",
+                            "text": "For so faith becomes effectual, when it is accompanied with works."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:22",
+                            "text": "For \"without works faith is dead\"."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:23",
+                            "text": "(Jas."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:24",
+                            "text": "ii."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:25",
+                            "text": ") And he has not said, \"Thy faith,\" but \"the communication of thy faith,\" connecting it with himself, and showing that it is one body, and by this particularly making him ashamed to refuse."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:26",
+                            "text": "If thou art a partaker, he says, with respect to the faith, thou oughtest to communicate also with respect to other things."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:27",
+                            "text": "Ver."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:28",
+                            "text": "\"For we have I had great joy and consolation in thy love, because the bowels hearts of the Saints are refreshed by thee, brother\"."
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:29",
+                            "text": "Nothing so shames us into giving, as to bring forward the kindnesses bestowed on others, and particularly when a man is more entitled to respect than they."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:30",
+                            "text": "And he has not said, \"If you do it to others, much more to me\"; but he has insinuated the same thing, though he has contrived to do it in another and a more gracious manner."
+                        },
+                        {
+                            "verse": 31,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:31",
+                            "text": "\"I had joy,\" that is, thou hast given me confidence from the things which thou hast done to others."
+                        },
+                        {
+                            "verse": 32,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:32",
+                            "text": "\"And consolation,\" that is, we are not only gratified, but we are also comforted."
+                        },
+                        {
+                            "verse": 33,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:33",
+                            "text": "For they are members of us."
+                        },
+                        {
+                            "verse": 34,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:34",
+                            "text": "If then there ought to be such an agreement, that in the refreshing of any others who are in affliction, though we obtain nothing, we should be delighted on their account, as if it were one body that was benefited; much more if you shall refresh us also."
+                        },
+                        {
+                            "verse": 35,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:35",
+                            "text": "And he has not said, \"Because thou yieldest, and compliest,\" but even more vehemently and emphatically, \"because the bowels of the Saints,\" as if it were for a darling child fondly loved by its parents, so that this love and affection shows that he also is exceedingly beloved by them."
+                        },
+                        {
+                            "verse": 36,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:36",
+                            "text": "Ver."
+                        },
+                        {
+                            "verse": 37,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:37",
+                            "text": "\"Wherefore, though I might be much bold in Christ to enjoin thee that which is convenient befitting\"."
+                        },
+                        {
+                            "verse": 38,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:38",
+                            "text": "Observe how cautious he is, lest any of the things which were spoken even from exceeding love should so strike the hearer, as that he should be hurt."
+                        },
+                        {
+                            "verse": 39,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:39",
+                            "text": "For this reason before he says, \"to enjoin thee,\" since it was offensive, although, as spoken out of love, it was more proper to soothe him, yet nevertheless from an excess of delicacy, he as it were corrects it by saying, \"Having confidence,\" by which he implies that Philemon was a great man, that is \"Thou hast given confidence to us\"."
+                        },
+                        {
+                            "verse": 40,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:40",
+                            "text": "And not only that, but adding the expression \"in Christ,\" by which he shows that it was not that he was more illustrious in the world, not that he was more powerful, but it was on account of his faith in Christ,—then he also adds, \"to enjoin thee,\" and not that only, but \"that which is convenient,\" that is, a reasonable action."
+                        },
+                        {
+                            "verse": 41,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:41",
+                            "text": "And see out of how many things he brings proof for this."
+                        },
+                        {
+                            "verse": 42,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:42",
+                            "text": "Thou doest good to others, he says, and to me, and for Christ's sake, and that the thing is reasonable, and that love giveth, wherefore also he adds,  Ver."
+                        },
+                        {
+                            "verse": 43,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:43",
+                            "text": "\"Yet for love's sake, I rather beseech thee\"."
+                        },
+                        {
+                            "verse": 44,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:44",
+                            "text": "As if he had said, I know indeed that I can effect it by commanding with much authority, from things which have already taken place."
+                        },
+                        {
+                            "verse": 45,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:45",
+                            "text": "But because I am very solicitous about this matter, \"I beseech thee\"."
+                        },
+                        {
+                            "verse": 46,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:46",
+                            "text": "He shows both these things at once; that he has confidence in him, for he commands him; and that he is exceedingly concerned about the matter, wherefore he beseeches him."
+                        },
+                        {
+                            "verse": 47,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:47",
+                            "text": "\"Being such an one,\" he says, \"as Paul the aged\"."
+                        },
+                        {
+                            "verse": 48,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:48",
+                            "text": "Strange! how many things are here to shame him into compliance! Paul, from the quality of his person, from his age, because he was old, and from what was more just than all, because he was also \"a prisoner of Jesus Christ\"."
+                        },
+                        {
+                            "verse": 49,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:49",
+                            "text": "For who would not receive with open arms a combatant who had been crowned? Who seeing him bound for Christ's sake, would not have granted him ten thousand favors? By so many considerations having previously soothed his mind, he has not immediately introduced the name, but defers making so great a request."
+                        },
+                        {
+                            "verse": 50,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:50",
+                            "text": "For you know what are the minds of masters towards slaves that have run away; and particularly when they have done this with robbery, even if they have good masters, how their anger is increased."
+                        },
+                        {
+                            "verse": 51,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:51",
+                            "text": "This anger then having taken all these pains to soothe, and having first persuaded him readily to serve him in anything whatever, and having prepared his soul to all obedience, then he introduces his request, and says, \"I beseech thee,\" and with the addition of praises, \"for my son whom I have begotten in my bonds\"."
+                        },
+                        {
+                            "verse": 52,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:52",
+                            "text": "Again the chains are mentioned to shame him into compliance, and then the name."
+                        },
+                        {
+                            "verse": 53,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:53",
+                            "text": "For he has not only extinguished his anger, but has caused him to be delighted."
+                        },
+                        {
+                            "verse": 54,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:54",
+                            "text": "For I would not have called him my son, he says, if he were not especially profitable."
+                        },
+                        {
+                            "verse": 55,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:55",
+                            "text": "What I called Timothy, that I call him also."
+                        },
+                        {
+                            "verse": 56,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:56",
+                            "text": "And repeatedly showing his affection, he urges him by the very period of his new birth, \"I have begotten him in my bonds,\" he says, so that on this account also he was worthy to obtain much honor, because he was begotten in his very conflicts, in his trials in the cause of Christ."
+                        },
+                        {
+                            "verse": 57,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:57",
+                            "text": "\"Onesimus,\"  Ver."
+                        },
+                        {
+                            "verse": 58,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:58",
+                            "text": "\"Which in time past was to thee unprofitable\"."
+                        },
+                        {
+                            "verse": 59,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:59",
+                            "text": "See how great is his prudence, how he confesses the man's faults, and thereby extinguishes his anger."
+                        },
+                        {
+                            "verse": 60,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:60",
+                            "text": "I know, he says, that he was unprofitable."
+                        },
+                        {
+                            "verse": 61,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:61",
+                            "text": "\"But now\" he will be \"profitable to thee and to me\"."
+                        },
+                        {
+                            "verse": 62,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:62",
+                            "text": "He has not said he will be useful to thee, lest he should contradict it, but he has introduced his own person, that his hopes may seem worthy of credit, \"But now,\" he says, \"profitable to thee and to me\"."
+                        },
+                        {
+                            "verse": 63,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:63",
+                            "text": "For if he was profitable to Paul, who required so great strictness, much more would he be so to his master."
+                        },
+                        {
+                            "verse": 64,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:64",
+                            "text": "Ver."
+                        },
+                        {
+                            "verse": 65,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:65",
+                            "text": "\"Whom I have sent again to thee\"."
+                        },
+                        {
+                            "verse": 66,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:66",
+                            "text": "By this also he has quenched his anger, by delivering him up."
+                        },
+                        {
+                            "verse": 67,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:67",
+                            "text": "For masters are then most enraged, when they are entreated for the absent, so that by this very act he mollified him the more."
+                        },
+                        {
+                            "verse": 68,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:68",
+                            "text": "Ver."
+                        },
+                        {
+                            "verse": 69,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:69",
+                            "text": "\"Thou therefore receive him, that is mine own bowels\"."
+                        },
+                        {
+                            "verse": 70,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:70",
+                            "text": "And again he has not given the bare name, but uses with it a word that might move him, which is more affectionate than son."
+                        },
+                        {
+                            "verse": 71,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:71",
+                            "text": "He has said, \"son,\" he has said, \"I have begotten\" him, so that it was probable he would love him much, because he begot him in his trials."
+                        },
+                        {
+                            "verse": 72,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:72",
+                            "text": "For it is manifest that we are most inflamed with affection for those children, who have been born to us in dangers which we have escaped, as when the Scripture saith, \"Woe, Barochabel!\" and again when Rachel names Benjamin, \"the son of my sorrow\"."
+                        },
+                        {
+                            "verse": 73,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:73",
+                            "text": "(Gen."
+                        },
+                        {
+                            "verse": 74,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:74",
+                            "text": "xxxv."
+                        },
+                        {
+                            "verse": 75,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:75",
+                            "text": ")  \"Thou therefore,\" he says, \"receive him, that is mine own bowels\"."
+                        },
+                        {
+                            "verse": 76,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:76",
+                            "text": "He shows the greatness of his affection."
+                        },
+                        {
+                            "verse": 77,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:77",
+                            "text": "He has not said, Take him back, he has not said, Be not angry, but \"receive him\"; that is, he is worthy not only of pardon, but of honor."
+                        },
+                        {
+                            "verse": 78,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:78",
+                            "text": "Why? Because he is become the son of Paul."
+                        },
+                        {
+                            "verse": 79,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:79",
+                            "text": "Ver."
+                        },
+                        {
+                            "verse": 80,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:80",
+                            "text": "\"Whom I would have retained with me, that in thy stead he might have ministered unto me in the bonds of the Gospel\"."
+                        },
+                        {
+                            "verse": 81,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:81",
+                            "text": "Dost thou see after how much previous preparation, he has at length brought him honorably before his master, and observe with how much wisdom he has done this."
+                        },
+                        {
+                            "verse": 82,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:82",
+                            "text": "See for how much he makes him answerable, and how much he honors the other."
+                        },
+                        {
+                            "verse": 83,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:83",
+                            "text": "Thou hast found, he says, a way by which thou mayest through him repay thy service to me."
+                        },
+                        {
+                            "verse": 84,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:84",
+                            "text": "Here he shows that he has considered his advantage more than that of his slave, and that he respects him exceedingly."
+                        },
+                        {
+                            "verse": 85,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:85",
+                            "text": "Ver."
+                        },
+                        {
+                            "verse": 86,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:86",
+                            "text": "\"But without thy mind,\" he says, \"would I do nothing; that thy benefit should not be, as it were, of necessity, but willingly\"."
+                        },
+                        {
+                            "verse": 87,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:87",
+                            "text": "This particularly flatters the person asked, when the thing being profitable in itself, it is brought out with his concurrence."
+                        },
+                        {
+                            "verse": 88,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:88",
+                            "text": "For two good effects are produced thence, the one person gains, and the other is rendered more secure."
+                        },
+                        {
+                            "verse": 89,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:89",
+                            "text": "And he has not said, That it should not be of necessity, but \"as it were of necessity\"."
+                        },
+                        {
+                            "verse": 90,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:90",
+                            "text": "For I knew, he says, that not having learnt it, but coming to know it at once, thou wouldest not have been angry, but nevertheless out of an excess of consideration, that it should \"not be as it were of necessity\"."
+                        },
+                        {
+                            "verse": 91,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:91",
+                            "text": "Ver."
+                        },
+                        {
+                            "verse": 92,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:92",
+                            "text": ",."
+                        },
+                        {
+                            "verse": 93,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:93",
+                            "text": "\"For perhaps he was therefore parted from thee for a season that thou shouldest have him for ever; no longer as a bond-servant\"."
+                        },
+                        {
+                            "verse": 94,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:94",
+                            "text": "He has well said, \"perhaps,\" that the master may yield."
+                        },
+                        {
+                            "verse": 95,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:95",
+                            "text": "For since the flight arose from perverseness, and a corrupt mind, and not from such intention, he has said, \"perhaps\"."
+                        },
+                        {
+                            "verse": 96,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:96",
+                            "text": "And he has not said, therefore he fled, but, therefore he was \"separated,\" by a more fair sounding expression softening him the more."
+                        },
+                        {
+                            "verse": 97,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:97",
+                            "text": "And he has not said, He separated himself, but, \"he was separated\"."
+                        },
+                        {
+                            "verse": 98,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:98",
+                            "text": "For it was not his own arrangement that he should depart either for this purpose or for that."
+                        },
+                        {
+                            "verse": 99,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:99",
+                            "text": "Which also Joseph says, in making excuse for his brethren, \"For God did send me hither\" (Gen."
+                        },
+                        {
+                            "verse": 100,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:100",
+                            "text": "xlv."
+                        },
+                        {
+                            "verse": 101,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:101",
+                            "text": "), that is, He made use of their wickedness for a good end."
+                        },
+                        {
+                            "verse": 102,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:102",
+                            "text": "\"Therefore,\" he says, \"he was parted for a season\"."
+                        },
+                        {
+                            "verse": 103,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:103",
+                            "text": "Thus he contracts the time, acknowledges the offense, and turns it all to a providence."
+                        },
+                        {
+                            "verse": 104,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:104",
+                            "text": "\"That thou shouldest receive him,\" he says, \"for ever,\" not for the present season only, but even for the future, that thou mightest always have him, no longer a slave, but more honorable than a slave."
+                        },
+                        {
+                            "verse": 105,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:105",
+                            "text": "For thou wilt have a slave abiding with thee, more well-disposed than a brother, so that thou hast gained both in time, and in the quality of thy slave."
+                        },
+                        {
+                            "verse": 106,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:106",
+                            "text": "For hereafter he will not run away."
+                        },
+                        {
+                            "verse": 107,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:107",
+                            "text": "\"That thou shouldest receive him,\" he says, \"for ever,\" that is, have him again."
+                        },
+                        {
+                            "verse": 108,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:108",
+                            "text": "\"No longer as a bond-servant, but more than a bond-servant, a brother beloved, especially to me\"."
+                        },
+                        {
+                            "verse": 109,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:109",
+                            "text": "Thou hast lost a slave for a short time, but thou wilt find a brother for ever, not only thy brother, but mine also."
+                        },
+                        {
+                            "verse": 110,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:110",
+                            "text": "Here also there is much virtue."
+                        },
+                        {
+                            "verse": 111,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:111",
+                            "text": "But if he is my brother, thou also wilt not be ashamed of him."
+                        },
+                        {
+                            "verse": 112,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:112",
+                            "text": "By calling him his son, he hath shown his natural affection; and by calling him his brother, his great good will for him, and his equality in honor."
+                        },
+                        {
+                            "verse": 113,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:113",
+                            "text": "Moral."
+                        },
+                        {
+                            "verse": 114,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:114",
+                            "text": "These things are not written without an object, but that we masters may not despair of our servants, nor press too hard on them, but may learn to pardon the offenses of such servants, that we may not be always severe, that we may not from their servitude be ashamed to make them partakers with us in all things when they are good."
+                        },
+                        {
+                            "verse": 115,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:115",
+                            "text": "For if Paul was not ashamed to call one \"his son, his own bowels, his brother, his beloved,\" surely we ought not to be ashamed."
+                        },
+                        {
+                            "verse": 116,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:116",
+                            "text": "And why do I say Paul? The Master of Paul is not ashamed to call our servants His own brethren; and are we ashamed? See how He honors us; He calls our servants His own brethren, friends, and fellow-heirs."
+                        },
+                        {
+                            "verse": 117,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:117",
+                            "text": "See to what He has descended! What therefore having done, shall we have accomplished our whole duty? We shall never in any wise do it; but to whatever degree of humility we have come, the greater part of it is still left behind."
+                        },
+                        {
+                            "verse": 118,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:118",
+                            "text": "For consider, whatever thou doest, thou doest to a fellow-servant, but thy Master hath done it to thy servants."
+                        },
+                        {
+                            "verse": 119,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:119",
+                            "text": "Hear and shudder! Never be elated at thy humility!  Perhaps you laugh at the expression, as if humility could puff up."
+                        },
+                        {
+                            "verse": 120,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:120",
+                            "text": "But be not surprised at it, it puffs up, when it is not genuine."
+                        },
+                        {
+                            "verse": 121,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:121",
+                            "text": "How, and in what manner? When it is practiced to gain the favor of men, and not of God, that we may be praised, and be high-minded."
+                        },
+                        {
+                            "verse": 122,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:122",
+                            "text": "For this also is diabolical."
+                        },
+                        {
+                            "verse": 123,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:123",
+                            "text": "For as many are vainglorious on account of their not being vainglorious, so are they elated on account of their humbling themselves, by reason of their being high-minded."
+                        },
+                        {
+                            "verse": 124,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:124",
+                            "text": "For instance, a brother has come, or even a servant thou hast received him, thou hast washed his feet; immediately thou thinkest highly of thyself."
+                        },
+                        {
+                            "verse": 125,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:125",
+                            "text": "I have done, thou sayest, what no other has done."
+                        },
+                        {
+                            "verse": 126,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:126",
+                            "text": "I have achieved humility."
+                        },
+                        {
+                            "verse": 127,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:127",
+                            "text": "How then may any one continue in humility? If he remembers the command of Christ, which says, \"When ye shall have done all things, say, We are unprofitable servants\"."
+                        },
+                        {
+                            "verse": 128,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:128",
+                            "text": "(Luke xvii."
+                        },
+                        {
+                            "verse": 129,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:129",
+                            "text": ") And again the Teacher of the world, saying, \"I count not myself to have apprehended\"."
+                        },
+                        {
+                            "verse": 130,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:130",
+                            "text": "(Philip."
+                        },
+                        {
+                            "verse": 131,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:131",
+                            "text": "iii."
+                        },
+                        {
+                            "verse": 132,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:132",
+                            "text": ") He who has persuaded himself that he has done no great thing, however many things he may have done, he alone can be humble-minded, he who thinks that he has not reached perfection."
+                        },
+                        {
+                            "verse": 133,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:133",
+                            "text": "Many are elated on account of their humility; but let not us be so affected."
+                        },
+                        {
+                            "verse": 134,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:134",
+                            "text": "Hast thou done any act of humility? be not proud of it, otherwise all the merit of it is lost."
+                        },
+                        {
+                            "verse": 135,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:135",
+                            "text": "Such was the Pharisee, he was puffed up because he gave his tythes to the poor, and he lost all the merit of it."
+                        },
+                        {
+                            "verse": 136,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:136",
+                            "text": "(Luke xviii."
+                        },
+                        {
+                            "verse": 137,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:137",
+                            "text": ") But not so the publican."
+                        },
+                        {
+                            "verse": 138,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:138",
+                            "text": "Hear Paul again saying, \"I know nothing by myself, yet am I not hereby justified\"."
+                        },
+                        {
+                            "verse": 139,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:139",
+                            "text": "( Cor."
+                        },
+                        {
+                            "verse": 140,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:140",
+                            "text": "iv."
+                        },
+                        {
+                            "verse": 141,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:141",
+                            "text": ") Seest thou that he does not exalt himself, but by every means abases and humbles himself, and that too when he had arrived at the very summit."
+                        },
+                        {
+                            "verse": 142,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:142",
+                            "text": "And the Three Children were in the fire, and in the midst of the furnace, and what said they? \"We have sinned and committed iniquity with our fathers\"."
+                        },
+                        {
+                            "verse": 143,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:143",
+                            "text": "(Song, v."
+                        },
+                        {
+                            "verse": 144,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:144",
+                            "text": ", in Sept."
+                        },
+                        {
+                            "verse": 145,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:145",
+                            "text": "; Dan."
+                        },
+                        {
+                            "verse": 146,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:146",
+                            "text": "iii."
+                        },
+                        {
+                            "verse": 147,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:147",
+                            "text": ", ; v."
+                        },
+                        {
+                            "verse": 148,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:148",
+                            "text": ") This it is to have a contrite heart; on this account they could say, \"Nevertheless in a contrite heart and a humble spirit let us be accepted\"."
+                        },
+                        {
+                            "verse": 149,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:149",
+                            "text": "Thus even after they had fallen into the furnace they were exceedingly humbled, even more so than they were before."
+                        },
+                        {
+                            "verse": 150,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:150",
+                            "text": "For when they saw the miracle that was wrought, thinking themselves unworthy of that deliverance, they were brought lower in humility."
+                        },
+                        {
+                            "verse": 151,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:151",
+                            "text": "For when we are persuaded that we have received great benefits beyond our desert, then we are particularly grieved."
+                        },
+                        {
+                            "verse": 152,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:152",
+                            "text": "And yet what benefit had they received beyond their desert? They had given themselves up to the furnace; they had been taken captive for the sins of others; for they were still young; and they murmured not, nor were indignant, nor did they say, What good is it to us that we serve God, or what advantage have we in worshiping Him? This man is impious, and is become our lord."
+                        },
+                        {
+                            "verse": 153,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:153",
+                            "text": "We are punished with the idolatrous by an idolatrous king."
+                        },
+                        {
+                            "verse": 154,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:154",
+                            "text": "We have been led into captivity."
+                        },
+                        {
+                            "verse": 155,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:155",
+                            "text": "We are deprived of our country, our freedom, all our paternal goods, we are become prisoners and slaves, we are enslaved to a barbarous king."
+                        },
+                        {
+                            "verse": 156,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:156",
+                            "text": "None of these things did they say."
+                        },
+                        {
+                            "verse": 157,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:157",
+                            "text": "But what? \"We have sinned and committed iniquity\"."
+                        },
+                        {
+                            "verse": 158,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:158",
+                            "text": "And not for themselves but for others they offer prayers."
+                        },
+                        {
+                            "verse": 159,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:159",
+                            "text": "Because, say they, \"Thou hast delivered us to a hateful and a wicked king\"."
+                        },
+                        {
+                            "verse": 160,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:160",
+                            "text": "Again, Daniel, being a second time cast into the pit, said, \"For God hath remembered me\"."
+                        },
+                        {
+                            "verse": 161,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:161",
+                            "text": "Wherefore should He not remember thee, O Daniel, when thou didst glorify Him before the king, saying, \"Not for any wisdom that I have\"? (Dan."
+                        },
+                        {
+                            "verse": 162,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:162",
+                            "text": "ii."
+                        },
+                        {
+                            "verse": 163,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:163",
+                            "text": ") But when thou wast cast into the den of lions, because thou didst not obey that most wicked decree, wherefore should He not remember thee? For this very reason surely should He."
+                        },
+                        {
+                            "verse": 164,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:164",
+                            "text": "Wast thou not cast into it on His account? \"Yea truly,\" he says, \"but I am a debtor for many things\"."
+                        },
+                        {
+                            "verse": 165,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:165",
+                            "text": "And if he said such things after having displayed so great virtue, what should we say after this? But hear what David says, \"If He thus say, I have no delight in thee, behold here am I, let Him do to me as seemeth good unto Him\"."
+                        },
+                        {
+                            "verse": 166,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:166",
+                            "text": "( Sam."
+                        },
+                        {
+                            "verse": 167,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:167",
+                            "text": "xv."
+                        },
+                        {
+                            "verse": 168,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:168",
+                            "text": ") And yet he had an infinite number of good things to speak of."
+                        },
+                        {
+                            "verse": 169,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:169",
+                            "text": "And Eli also says, \"It is the Lord: let Him do what seemeth Him good\"."
+                        },
+                        {
+                            "verse": 170,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:170",
+                            "text": "( Sam."
+                        },
+                        {
+                            "verse": 171,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:171",
+                            "text": "iii."
+                        },
+                        {
+                            "verse": 172,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:172",
+                            "text": ")  This is the part of well-disposed servants, not only in His mercies, but in His corrections, and in punishments wholly to submit to Him."
+                        },
+                        {
+                            "verse": 173,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:173",
+                            "text": "For how is it not absurd, if we bear with masters beating their servants, knowing that they will spare them, because they are their own; and yet suppose that God in punishing will not spare? This also Paul has intimated, saying, \"Whether we live or die, we are the Lord's\"."
+                        },
+                        {
+                            "verse": 174,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:174",
+                            "text": "(Rom."
+                        },
+                        {
+                            "verse": 175,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:175",
+                            "text": "xiv."
+                        },
+                        {
+                            "verse": 176,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:176",
+                            "text": ") A man, we say, wishes not his property to be diminished, he knows how he punishes, he is punishing his own servants."
+                        },
+                        {
+                            "verse": 177,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:177",
+                            "text": "But surely no one of us spares more than He Who brought us into being out of nothing, Who maketh the sun to rise, Who causeth rain; Who breathed our life into us, Who gave His own Son for us."
+                        },
+                        {
+                            "verse": 178,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:178",
+                            "text": "But as I said before, and on which account I have said all that I have said, let us be humble-minded as we ought, let us be moderate as we ought."
+                        },
+                        {
+                            "verse": 179,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:179",
+                            "text": "Let it not be to us an occasion of being puffed up."
+                        },
+                        {
+                            "verse": 180,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:180",
+                            "text": "Art thou humble, and humbler than all men? Be not high-minded on that account, neither reproach others, lest thou lose thy boast."
+                        },
+                        {
+                            "verse": 181,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:181",
+                            "text": "For this very cause thou art humble, that thou mayest be delivered from the madness of pride; if therefore through thy humility thou fallest into that madness, it were better for thee not to be humble."
+                        },
+                        {
+                            "verse": 182,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:182",
+                            "text": "For hear Paul saying, \"Sin worketh death in me by that which is good, that sin by the commandment might become exceeding sinful\"."
+                        },
+                        {
+                            "verse": 183,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:183",
+                            "text": "(Rom."
+                        },
+                        {
+                            "verse": 184,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:184",
+                            "text": "vii."
+                        },
+                        {
+                            "verse": 185,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:185",
+                            "text": ") When it enters into thy thought to admire thyself because thou art humble, consider thy Master, to what He descended, and thou wilt no longer admire thyself, nor praise thyself, but wilt deride thyself as having done nothing."
+                        },
+                        {
+                            "verse": 186,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:186",
+                            "text": "Consider thyself altogether to be a debtor."
+                        },
+                        {
+                            "verse": 187,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:187",
+                            "text": "Whatever thou hast done, remember that parable, \"Which of you having a servant…will say unto him, when he is come in, Sit down to meat?…I say unto you, Nay…but stay and serve me\"."
+                        },
+                        {
+                            "verse": 188,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:188",
+                            "text": "(From Luke xvii."
+                        },
+                        {
+                            "verse": 189,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:189",
+                            "text": ",."
+                        },
+                        {
+                            "verse": 190,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:190",
+                            "text": ") Do we return thanks to our servants, for waiting upon us? By no means."
+                        },
+                        {
+                            "verse": 191,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:191",
+                            "text": "Yet God is thankful to us, who serve not Him, but do that which is expedient for ourselves."
+                        },
+                        {
+                            "verse": 192,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:192",
+                            "text": "But let not us be so affected, as if He owed us thanks, that He may owe us the more, but as if we were discharging a debt."
+                        },
+                        {
+                            "verse": 193,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:193",
+                            "text": "For the matter truly is a debt, and all that we do is of debt."
+                        },
+                        {
+                            "verse": 194,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:194",
+                            "text": "For if when we purchase slaves with our money, we wish them to live altogether for us, and whatever they have to have it for ourselves, how much more must it be so with Him, who brought us out of nothing into being, who after this bought us with His precious Blood, who paid down such a price for us as no one would endure to pay for his own son, who shed His own Blood for us? If therefore we had ten thousand souls, and should lay them all down for Him, should we make Him an equal return? By no means."
+                        },
+                        {
+                            "verse": 195,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:195",
+                            "text": "And why? Because He did this, owing us nothing, but the whole was a matter of grace."
+                        },
+                        {
+                            "verse": 196,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:196",
+                            "text": "But we henceforth are debtors: and being God Himself, He became a servant, and not being subject to death, subjected Himself to death in the flesh."
+                        },
+                        {
+                            "verse": 197,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:197",
+                            "text": "We, if we do not lay down our lives for Him, by the law of nature must certainly lay them down, and a little later shall be separated from it, however unwillingly."
+                        },
+                        {
+                            "verse": 198,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:198",
+                            "text": "So also in the case of riches, if we do not bestow them for His sake, we shall render them up from necessity at our end."
+                        },
+                        {
+                            "verse": 199,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:199",
+                            "text": "So it is also with humility."
+                        },
+                        {
+                            "verse": 200,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:200",
+                            "text": "Although we are not humble for His sake, we shall be made humble by tribulations, by calamities, by over-ruling powers."
+                        },
+                        {
+                            "verse": 201,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:201",
+                            "text": "Seest thou therefore how great is the grace! He hath not said, \"What great things do the Martyrs do? Although they die not for Me, they certainly will die\"."
+                        },
+                        {
+                            "verse": 202,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:202",
+                            "text": "But He owns Himself much indebted to them, because they voluntarily resign that which in the course of nature they were about to resign shortly against their will."
+                        },
+                        {
+                            "verse": 203,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:203",
+                            "text": "He hath not said, \"What great thing do they, who give away their riches? Even against their will they will have to surrender them\"."
+                        },
+                        {
+                            "verse": 204,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:204",
+                            "text": "But He owns Himself much indebted to them too, and is not ashamed to confess before all that He, the Master, is nourished by His slaves."
+                        },
+                        {
+                            "verse": 205,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:205",
+                            "text": "For this also is the glory of a Master, to have grateful slaves."
+                        },
+                        {
+                            "verse": 206,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:206",
+                            "text": "And this is the glory of a Master, that He should thus love His slaves."
+                        },
+                        {
+                            "verse": 207,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:207",
+                            "text": "And this is the glory of a Master, to claim for His own what is theirs."
+                        },
+                        {
+                            "verse": 208,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:208",
+                            "text": "And this is the glory of a Master, not to be ashamed to confess them before all."
+                        },
+                        {
+                            "verse": 209,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:209",
+                            "text": "Let us therefore be stricken with awe at this so great love of Christ."
+                        },
+                        {
+                            "verse": 210,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:210",
+                            "text": "Let us be inflamed with this love-potion."
+                        },
+                        {
+                            "verse": 211,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:211",
+                            "text": "Though a man be low and mean, yet if we hear that he loves us, we are above all things warmed with love towards him, and honor him exceedingly."
+                        },
+                        {
+                            "verse": 212,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:212",
+                            "text": "And do we then love? and when our Master loveth us so much, we are not excited? Let us not, I beseech you, let us not be so indifferent with regard to the salvation of our souls, but let us love Him according to our power, and let us spend all upon His love, our life, our riches, our glory, everything, with delight, with joy, with alacrity, not as rendering anything to Him, but to ourselves."
+                        },
+                        {
+                            "verse": 213,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:213",
+                            "text": "For such is the law of those who love."
+                        },
+                        {
+                            "verse": 214,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:214",
+                            "text": "They think that they are receiving favors, when they are suffering wrong for the sake of their beloved."
+                        },
+                        {
+                            "verse": 215,
+                            "chapter": 3,
+                            "name": "Chrysostom: On Philemon 3:215",
+                            "text": "Therefore let us be so affected towards our Lord, that we also may partake of the good things to come in Christ Jesus our Lord."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 4,
+                    "name": "Chrysostom: On Philemon 4",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:1",
+                            "text": "Homily III."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:2",
+                            "text": "Philemon i."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:3",
+                            "text": "–  \"If thou count me therefore a partner, receive him as myself."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:4",
+                            "text": "If he hath wronged thee at all, or oweth thee aught, put that to mine account; I Paul write it with mine own hand, I will repay it: that I say not to thee how thou owest unto me even thine own self besides\"."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:5",
+                            "text": "No procedure is so apt to gain a hearing, as not to ask for everything at once."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:6",
+                            "text": "For see after how many praises, after how much preparation he hath introduced this great matter."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:7",
+                            "text": "After having said that he is \"my son,\" that he is a partaker of the Gospel, that he is \"my bowels,\" that thou receivest him back \"as a brother,\" and \"hold him as a brother,\" then he has added \"as myself\"."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:8",
+                            "text": "And Paul was not ashamed to do this."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:9",
+                            "text": "For he who was not ashamed to be called the servant of the faithful, but confesses that he was such, much more would he not refuse this."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:10",
+                            "text": "But what he says is to this effect."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:11",
+                            "text": "If thou art of the same mind with me, if thou runnest upon the same terms, if thou considerest me a friend, receive him as myself."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:12",
+                            "text": "\"If he hath wronged thee at all\"."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:13",
+                            "text": "See where and when he has introduced the mention of the injury; last, after having said so many things in his behalf."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:14",
+                            "text": "For since the loss of money is particularly apt to annoy men, that he might not accuse him of this, (for it was most likely that it was spent,) then he brings in this, and says, \"If he hath wronged thee\"."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:15",
+                            "text": "He does not say, If he has stolen anything; but what? \"If he hath wronged thee\"."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:16",
+                            "text": "At the same time he both confessed the offense, and not as if it were the offense of a servant, but of a friend against a friend, making use of the expression of \"wrong\" rather than of theft."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:17",
+                            "text": "\"Put that to mine account,\" he says, that is, reckon the debt to me, \"I will repay it\"."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:18",
+                            "text": "Then also with that spiritual pleasantry,  \"I Paul write it with mine own hand\"."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:19",
+                            "text": "At once movingly and pleasantly; if when Paul did not refuse to execute a bond for him, he should refuse to receive him! This would both shame Philemon into compliance, and bring Onesimus out of trouble."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:20",
+                            "text": "\"I write it,\" he says, \"with mine own hand\"."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:21",
+                            "text": "Nothing is more affectionate than these \"bowels,\" nothing more earnest, nothing more zealous."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:22",
+                            "text": "See what great concern he bestows in behalf of one man."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:23",
+                            "text": "\"Albeit I do not say to thee how thou owest unto me even thine own self besides\"."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:24",
+                            "text": "Then that it might not appear insulting to him, whom he requests, if he had not the confidence to ask and obtain in behalf of a theft, he in some measure relieves this, saying, \"That I say not unto thee how thou owest to me even thine own self besides\"."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:25",
+                            "text": "Not only thine own things, but thyself also."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:26",
+                            "text": "And this proceeded from love, and was according to the rule of friendship, and was a proof of his great confidence."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:27",
+                            "text": "See how he everywhere provides for both, that he may ask with great security, and that this may not seem a sign of too little confidence in him."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:28",
+                            "text": "Ver."
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:29",
+                            "text": "\"Yea, brother\"."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:30",
+                            "text": "What is, \"Yea, brother\"? Receive him, he says."
+                        },
+                        {
+                            "verse": 31,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:31",
+                            "text": "For this we must understand though unexpressed."
+                        },
+                        {
+                            "verse": 32,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:32",
+                            "text": "For dismissing all pleasantry, he again pursues his former considerations, that is, serious ones."
+                        },
+                        {
+                            "verse": 33,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:33",
+                            "text": "And yet even these are serious."
+                        },
+                        {
+                            "verse": 34,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:34",
+                            "text": "For the things that proceed from Saints are of themselves serious, even when they are pleasantry."
+                        },
+                        {
+                            "verse": 35,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:35",
+                            "text": "\"Yea, brother, let me have joy of thee in the Lord, refresh my heart in Christ\"."
+                        },
+                        {
+                            "verse": 36,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:36",
+                            "text": "That is, thou grantest the favor to the Lord, not to me."
+                        },
+                        {
+                            "verse": 37,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:37",
+                            "text": "\"My heart,\" that is, toward thyself."
+                        },
+                        {
+                            "verse": 38,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:38",
+                            "text": "Ver."
+                        },
+                        {
+                            "verse": 39,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:39",
+                            "text": "\"Having confidence in thy obedience, I write unto thee\"."
+                        },
+                        {
+                            "verse": 40,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:40",
+                            "text": "What stone would not these things have softened? What wild beast would not these things have rendered mild, and prepared to receive him heartily? After having borne witness to him by so many great testimonies of his goodness, he is not ashamed again to excuse himself."
+                        },
+                        {
+                            "verse": 41,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:41",
+                            "text": "He says, Not barely requesting it, nor as commanding it, nor arbitrarily, but \"having confidence in thy obedience I wrote unto thee\"."
+                        },
+                        {
+                            "verse": 42,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:42",
+                            "text": "What he had said at the beginning, \"having confidence,\" that he also says here in the sealing up of his letter."
+                        },
+                        {
+                            "verse": 43,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:43",
+                            "text": "\"Knowing that thou wilt also do more than I say\"."
+                        },
+                        {
+                            "verse": 44,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:44",
+                            "text": "At the same time in saying this he excited him."
+                        },
+                        {
+                            "verse": 45,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:45",
+                            "text": "For he would have been ashamed, though for nothing else, if having such credit with him as this, that he would do more than he said,—he should not do so much."
+                        },
+                        {
+                            "verse": 46,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:46",
+                            "text": "Ver."
+                        },
+                        {
+                            "verse": 47,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:47",
+                            "text": "\"But withal prepare me also a lodging: for I trust that through your prayers I shall be given unto you\"."
+                        },
+                        {
+                            "verse": 48,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:48",
+                            "text": "This also was the part of one who was exceedingly confident—or rather this too was in behalf of Onesimus, that not being indifferent, but knowing that he upon his return would know the things relating to him, they might lay aside all remembrance of the wrong, and might the rather grant the favor."
+                        },
+                        {
+                            "verse": 49,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:49",
+                            "text": "For great was the influence and the honor of Paul residing among them, of Paul in his age, of Paul after imprisonment."
+                        },
+                        {
+                            "verse": 50,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:50",
+                            "text": "Again, it is a proof of their love that he says that they pray; and to attribute to them so much as that they pray for \"him\"."
+                        },
+                        {
+                            "verse": 51,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:51",
+                            "text": "For although I be now in danger, yet nevertheless you will see me if ye pray for it."
+                        },
+                        {
+                            "verse": 52,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:52",
+                            "text": "Ver."
+                        },
+                        {
+                            "verse": 53,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:53",
+                            "text": "\"Epaphras, my fellow-prisoner in Christ Jesus, saluteth thee\"."
+                        },
+                        {
+                            "verse": 54,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:54",
+                            "text": "He was sent by the Colossians, so that from this it appears that Philemon was also at Colossae."
+                        },
+                        {
+                            "verse": 55,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:55",
+                            "text": "And he calls him his \"fellow-prisoner,\" showing that he also was in much tribulation, so that if not on his own account, yet on account of the other, it was right that he should be heard."
+                        },
+                        {
+                            "verse": 56,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:56",
+                            "text": "For he that is in tribulation, and overlooks himself, and is concerned for others, deserves to be heard."
+                        },
+                        {
+                            "verse": 57,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:57",
+                            "text": "And he puts him to shame from another consideration, if his countryman is a fellow-prisoner with Paul and suffers affliction with him, and he himself does not grant him a favor in behalf of his own servant."
+                        },
+                        {
+                            "verse": 58,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:58",
+                            "text": "And he has added, \"my fellow-prisoner in Christ Jesus,\" instead of on account of Christ."
+                        },
+                        {
+                            "verse": 59,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:59",
+                            "text": "Ver."
+                        },
+                        {
+                            "verse": 60,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:60",
+                            "text": "\"Mark, Aristarchus, Demas, Luke, my fellow-workers\"."
+                        },
+                        {
+                            "verse": 61,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:61",
+                            "text": "Why then does he put Luke last? And yet he elsewhere says, \"Only Luke is with me\" ( Tim."
+                        },
+                        {
+                            "verse": 62,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:62",
+                            "text": "iv."
+                        },
+                        {
+                            "verse": 63,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:63",
+                            "text": "), and \"Demas,\" he says, was one of those who \"forsook him, having loved the present world\"."
+                        },
+                        {
+                            "verse": 64,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:64",
+                            "text": "( Tim."
+                        },
+                        {
+                            "verse": 65,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:65",
+                            "text": "iv."
+                        },
+                        {
+                            "verse": 66,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:66",
+                            "text": ") All these things, although they are mentioned elsewhere, yet nevertheless ought not to be passed over here without enquiry, nor ought we merely to hear them as things of course."
+                        },
+                        {
+                            "verse": 67,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:67",
+                            "text": "But how comes he to say that he who forsook him salutes them? For \"Erastus,\" he says, \"abode at Corinth\"."
+                        },
+                        {
+                            "verse": 68,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:68",
+                            "text": "( Tim."
+                        },
+                        {
+                            "verse": 69,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:69",
+                            "text": "iv."
+                        },
+                        {
+                            "verse": 70,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:70",
+                            "text": ") He adds Epaphras, both as known to them, and being of their country."
+                        },
+                        {
+                            "verse": 71,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:71",
+                            "text": "And Mark, as being himself also an admirable man."
+                        },
+                        {
+                            "verse": 72,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:72",
+                            "text": "Why then does he number Demas with these? Perhaps it was after this that he became more remiss, when he saw the dangers multiplied."
+                        },
+                        {
+                            "verse": 73,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:73",
+                            "text": "But Luke being last became first."
+                        },
+                        {
+                            "verse": 74,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:74",
+                            "text": "And from these indeed he salutes him, urging him the more to obedience, and calls them his fellow-laborers, and in this way shames him into granting the request."
+                        },
+                        {
+                            "verse": 75,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:75",
+                            "text": "Ver."
+                        },
+                        {
+                            "verse": 76,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:76",
+                            "text": "\"The grace of our Lord Jesus Christ be with your spirit, Amen\"."
+                        },
+                        {
+                            "verse": 77,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:77",
+                            "text": "Moral."
+                        },
+                        {
+                            "verse": 78,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:78",
+                            "text": "He hath closed his Epistle with a prayer."
+                        },
+                        {
+                            "verse": 79,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:79",
+                            "text": "And indeed prayer is a great good, salutary, and preservative of our souls."
+                        },
+                        {
+                            "verse": 80,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:80",
+                            "text": "But it is great when we do things worthy of it, and do not render ourselves unworthy."
+                        },
+                        {
+                            "verse": 81,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:81",
+                            "text": "And thou too, therefore, when thou goest to the priest, and he shall say to thee, \"The Lord will have mercy on thee, my son,\" do not confide in the word only, but add also works."
+                        },
+                        {
+                            "verse": 82,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:82",
+                            "text": "Do acts worthy of mercy, God will bless thee, my son, if indeed thou doest things worthy of blessing."
+                        },
+                        {
+                            "verse": 83,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:83",
+                            "text": "He will bless thee, if thou showest mercy to thy neighbor."
+                        },
+                        {
+                            "verse": 84,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:84",
+                            "text": "For the things which we wish to obtain from God, of those we ought first to impart to our neighbors."
+                        },
+                        {
+                            "verse": 85,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:85",
+                            "text": "But if we deprive our neighbors of them, how can we wish to obtain them? \"Blessed,\" He says, \"are the merciful: for they shall obtain mercy\"."
+                        },
+                        {
+                            "verse": 86,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:86",
+                            "text": "(Matt."
+                        },
+                        {
+                            "verse": 87,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:87",
+                            "text": "v."
+                        },
+                        {
+                            "verse": 88,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:88",
+                            "text": ") For if men show mercy to such, much more will God, but to the unmerciful by no means."
+                        },
+                        {
+                            "verse": 89,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:89",
+                            "text": "\"For he shall have judgment without mercy to him that hath showed no mercy\"."
+                        },
+                        {
+                            "verse": 90,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:90",
+                            "text": "(Jas."
+                        },
+                        {
+                            "verse": 91,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:91",
+                            "text": "ii."
+                        },
+                        {
+                            "verse": 92,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:92",
+                            "text": ")  An excellent thing is mercy! Why then hast thou not done it to another? Dost thou wish to be pardoned, when thou offendest? why then dost thou not thyself pardon him who has offended thee? But thou comest to God, asking of Him the kingdom of heaven, and thou thyself dost not give money when it is begged of thee."
+                        },
+                        {
+                            "verse": 93,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:93",
+                            "text": "For this cause we do not obtain mercy, because we do not show mercy."
+                        },
+                        {
+                            "verse": 94,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:94",
+                            "text": "But why? you say."
+                        },
+                        {
+                            "verse": 95,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:95",
+                            "text": "Is not this also a part of mercy, to show mercy to the unmerciful? Nay! For he that treated with the greatest kindness the hard-hearted cruel man, that had done numberless ills to his neighbor, how should he be merciful? What then, say you? Hath not the Laver saved us, who had committed infinite evils? It hath delivered us from them, not that we should commit them again, but that we may not commit them."
+                        },
+                        {
+                            "verse": 96,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:96",
+                            "text": "For \"how shall we,\" it is said, \"that are dead to sin, live any longer therein\"? (Rom."
+                        },
+                        {
+                            "verse": 97,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:97",
+                            "text": "vi."
+                        },
+                        {
+                            "verse": 98,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:98",
+                            "text": ")  \"What then? shall we sin because we are not under the law? God forbid\"."
+                        },
+                        {
+                            "verse": 99,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:99",
+                            "text": "(v."
+                        },
+                        {
+                            "verse": 100,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:100",
+                            "text": ") For this cause God hath delivered thee from those sins that thou mightest no more run back to that dishonor."
+                        },
+                        {
+                            "verse": 101,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:101",
+                            "text": "Since even physicians relieve their feverish patients from their heat, not that they may abuse their health to their injury and disorder, (since it would be better to be sick, if one was about to use his health only that he might confine himself again to his bed,) but having learnt the evils that arise from sickness, they may no longer fall into the same, that they may the more securely preserve their health, that they may do everything that conduces to its preservation."
+                        },
+                        {
+                            "verse": 102,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:102",
+                            "text": "How then? you say: what is the lovingkindness of God, if He is not about to save the bad? For oftentimes I hear many talking in this way, that He is the Friend of man, and will by all means save all."
+                        },
+                        {
+                            "verse": 103,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:103",
+                            "text": "That we may not therefore vainly deceive ourselves, (for I remember that I made a promise of this kind to you,) come let us to-day move this argument."
+                        },
+                        {
+                            "verse": 104,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:104",
+                            "text": "I lately discoursed with you about Hell, and I deferred my argument upon the lovingkindness of God."
+                        },
+                        {
+                            "verse": 105,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:105",
+                            "text": "It is proper therefore to-day to resume it."
+                        },
+                        {
+                            "verse": 106,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:106",
+                            "text": "That there will, then, be a hell, we have, as I think, sufficiently proved, bringing forward the deluge, and former evils, and arguing that it is not possible that He who performed these things should leave the men of the present age unpunished."
+                        },
+                        {
+                            "verse": 107,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:107",
+                            "text": "For if thus He chastised those who sinned before the Law, He will not let those go unpunished who after grace have committed greater wickedness."
+                        },
+                        {
+                            "verse": 108,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:108",
+                            "text": "It has been questioned therefore how is He good? how merciful to man, if at least He punishes? and we have deferred the argument, that we might not overwhelm your ears with a multitude of words."
+                        },
+                        {
+                            "verse": 109,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:109",
+                            "text": "Come, to-day let us discharge the debt, and show how good is God, even in punishing."
+                        },
+                        {
+                            "verse": 110,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:110",
+                            "text": "For this discourse would be suitable for us in opposition to the heretics."
+                        },
+                        {
+                            "verse": 111,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:111",
+                            "text": "Let us therefore pay earnest heed to it."
+                        },
+                        {
+                            "verse": 112,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:112",
+                            "text": "God, standing in no need of anything from us, yet created us."
+                        },
+                        {
+                            "verse": 113,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:113",
+                            "text": "For that He stood in need of us, is manifest from His having made us after a long time."
+                        },
+                        {
+                            "verse": 114,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:114",
+                            "text": "For He might have made us long ago, if He had needed us."
+                        },
+                        {
+                            "verse": 115,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:115",
+                            "text": "For if He Himself was, even without us, and we were made in later times, He made us, not needing us."
+                        },
+                        {
+                            "verse": 116,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:116",
+                            "text": "He made the Heaven, the earth, the sea, all things that exist, for our sake."
+                        },
+                        {
+                            "verse": 117,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:117",
+                            "text": "Tell me, are not these marks of goodness? And many things one might mention."
+                        },
+                        {
+                            "verse": 118,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:118",
+                            "text": "But to cut short the matter, \"He maketh the sun to rise on the evil and the good, and sendeth rain on the just and on the unjust\"."
+                        },
+                        {
+                            "verse": 119,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:119",
+                            "text": "(Matt."
+                        },
+                        {
+                            "verse": 120,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:120",
+                            "text": "v."
+                        },
+                        {
+                            "verse": 121,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:121",
+                            "text": ") Is not this a mark of goodness? No, you say."
+                        },
+                        {
+                            "verse": 122,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:122",
+                            "text": "For I said once in conversing with a Marcionite, Are not these things a mark of goodness? and he answered, If He did not call men to account for their sins, it were a mark of goodness."
+                        },
+                        {
+                            "verse": 123,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:123",
+                            "text": "But if He calls them to account, it is not goodness."
+                        },
+                        {
+                            "verse": 124,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:124",
+                            "text": "That man, however, is not now present."
+                        },
+                        {
+                            "verse": 125,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:125",
+                            "text": "But come, let us repeat what was then said, and more beside."
+                        },
+                        {
+                            "verse": 126,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:126",
+                            "text": "For I, out of my superfluity, show that if He did not call men to account, He would not be good; but because He does call them to account, therefore He is good."
+                        },
+                        {
+                            "verse": 127,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:127",
+                            "text": "For, say, if He did not call us to account, would human life then have endured? Should we not then have fallen into the state of beasts? For if when there is this fear impending over us, and the giving account, and judgments, we have gone beyond fishes in devouring one another, we have thrown wolves and lions into the shade in ravaging one another's possessions; if He did not call us to account, and we were persuaded of this, with how great tumult and confusion would life be filled? What would be the fabled labyrinth after this, compared with the perplexities of the world? Would you not see numberless indecencies and disorders? For who then would have respected his father any more? Or who would have spared his mother? Who would have left unattempted any pleasure, any wickedness? And that the matter is so, I will endeavor to show you from one house only."
+                        },
+                        {
+                            "verse": 128,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:128",
+                            "text": "How? You who raise these questions and who have servants; if I could make it manifest to these, that if they should destroy the family of their masters, if they should insult their persons, if they should plunder everything, if they should turn things upside down, if they should treat them as enemies, they would not threaten them, nor correct them, nor punish them, nor even grieve them with a word, would this be any proof of goodness? I maintain that this is the extreme of cruelty, not only because the wife and children are betrayed by this unreasonable kindness, but because the slaves themselves are destroyed before them."
+                        },
+                        {
+                            "verse": 129,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:129",
+                            "text": "For they will be drunkards, wanton, dissolute, and more irrational than any beasts."
+                        },
+                        {
+                            "verse": 130,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:130",
+                            "text": "Is this, tell me, a proof of goodness, to trample upon the noble nature of the soul, and to destroy both themselves and others beside? Seest thou that to call men to account is a proof of great goodness? But why do I speak of slaves, who more readily fall into these sins? But let a man have sons, and let him permit them to do everything they will, and let him not punish them; will they not be worse than anything? tell me."
+                        },
+                        {
+                            "verse": 131,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:131",
+                            "text": "In the case of men then, it is a mark of goodness to punish, and of cruelty not to punish, and is it not so in the case of God? So that because He is good, therefore He has prepared a hell."
+                        },
+                        {
+                            "verse": 132,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:132",
+                            "text": "And do you wish that I should speak of another instance of God's goodness? It is not only this, but that He does not suffer the good to become bad."
+                        },
+                        {
+                            "verse": 133,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:133",
+                            "text": "For if they were destined to meet with the same things, they would all be bad."
+                        },
+                        {
+                            "verse": 134,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:134",
+                            "text": "But now this also does not a little console the good."
+                        },
+                        {
+                            "verse": 135,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:135",
+                            "text": "For hear the Prophet, saying, \"The righteous shall rejoice when he seeth the vengeance upon the ungodly, he shall wash his hands in the blood of the sinner\"."
+                        },
+                        {
+                            "verse": 136,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:136",
+                            "text": "(Ps."
+                        },
+                        {
+                            "verse": 137,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:137",
+                            "text": "lviii."
+                        },
+                        {
+                            "verse": 138,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:138",
+                            "text": ") Not rejoicing on account of it, God forbid! but fearing lest he should suffer the same things, he will render his own life more pure."
+                        },
+                        {
+                            "verse": 139,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:139",
+                            "text": "This then is a mark of His great care."
+                        },
+                        {
+                            "verse": 140,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:140",
+                            "text": "Yes, you say, but He ought only to threaten, and not to punish also."
+                        },
+                        {
+                            "verse": 141,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:141",
+                            "text": "But if He does punish, and still you say it is a matter of threat, and on that account become more slothful, if it were really but a threat, would you not become more supine? If the Ninevites had known it was a matter of threat, they would not have repented."
+                        },
+                        {
+                            "verse": 142,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:142",
+                            "text": "But because they repented, they cause the threat to stop at words only."
+                        },
+                        {
+                            "verse": 143,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:143",
+                            "text": "Dost thou wish it to be a threat only? Thou hast the disposal of that matter."
+                        },
+                        {
+                            "verse": 144,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:144",
+                            "text": "Become a better man, and it stops only at the threat."
+                        },
+                        {
+                            "verse": 145,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:145",
+                            "text": "But if, which be far from thee! thou despiseth the threat, thou wilt come to the experience of it."
+                        },
+                        {
+                            "verse": 146,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:146",
+                            "text": "The men before the flood, if they had feared the threat, would not have experienced the execution of it."
+                        },
+                        {
+                            "verse": 147,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:147",
+                            "text": "And we, if we fear the threat, shall not expose ourselves to experience the reality."
+                        },
+                        {
+                            "verse": 148,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:148",
+                            "text": "God forbid we should."
+                        },
+                        {
+                            "verse": 149,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:149",
+                            "text": "And may the merciful God grant that we all henceforth, having been brought to sound mind, may obtain those unspeakable blessings."
+                        },
+                        {
+                            "verse": 150,
+                            "chapter": 4,
+                            "name": "Chrysostom: On Philemon 4:150",
+                            "text": "Of which may we all be thought worthy, through the grace and lovingkindness of our Lord Jesus Christ, with whom to the Father, together with the Holy Ghost, be glory, power, and honor, now and for ever and ever, Amen."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,2721 @@
+{
+    "books": [
+        {
+            "name": "Sulpitius Severus: Life of Saint Martin",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Sulpitius Severus: Life of Saint Martin 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:1",
+                            "text": "On the Life of Saint Martin:  Preface to Desiderius."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:2",
+                            "text": "Severus to his dearest brother Desiderius sendeth greeting."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:3",
+                            "text": "I had determined, my like-minded brother, to keep private, and confine within the walls of my own house, the little treatise which I had written concerning the life of St."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:4",
+                            "text": "Martin."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:5",
+                            "text": "I did so, as I am not gifted with much talent, and shrank from the criticisms of the world, lest (as I think will be the case) my somewhat unpolished style should displease my readers, and I should be deemed highly worthy of general reprehension for having too boldly laid hold of a subject which ought to have been reserved for truly eloquent writers."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:6",
+                            "text": "But I have not been able to refuse your request again and again presented."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:7",
+                            "text": "For what could there be which I would not grant in deference to your love, even at the expense of my own modesty? However, I have submitted the work to you on the sure understanding that you will reveal it to no other, having received your promise to that effect."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:8",
+                            "text": "Nevertheless, I have my fears that you will become the means of its publication to the world; and I well know that, once issued, it can never be recalled."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:9",
+                            "text": "If this shall happen, and you come to know that it is read by some others, you will, I trust, kindly ask the readers to attend to the facts related, rather than the language in which they are set forth."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:10",
+                            "text": "You will beg them not to be offended if the style chances unpleasantly to affect their ears, because the kingdom of God consists not of eloquence, but faith."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:11",
+                            "text": "Let them also bear in mind that salvation was preached to the world, not by orators, but by fishermen, although God could certainly have adopted the other course, had it been advantageous."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:12",
+                            "text": "For my part, indeed, when I first applied my mind to writing what follows, because I thought it disgraceful that the excellences of so great a man should remain concealed, I resolved with myself not to feel ashamed on account of solecisms of language."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:13",
+                            "text": "This I did because I had never attained to any great knowledge of such things; or, if I had formerly some taste of studies of the kind, I had lost the whole of that, through having neglected these matters for so long a course of time."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:14",
+                            "text": "But, after all, that I may not have in future to adopt such an irksome mode of self-defense, the best way will be that the book should be published, if you think right, with the author's name suppressed."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:15",
+                            "text": "In order that this may be done, kindly erase the title which the book bears on its front, so that the page may be silent; and (what is quite enough) let the book proclaim its subject-matter, while it tells nothing of the author."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:16",
+                            "text": "Chapter I."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:17",
+                            "text": "Reasons for writing the Life of St."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:18",
+                            "text": "Martin."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:19",
+                            "text": "Most men being vainly devoted to the pursuit of worldly glory, have, as they imagined, acquired a memorial of their own names from this source; viz."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:20",
+                            "text": "devoting their pens to the embellishment of the lives of famous men."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:21",
+                            "text": "This course, although it did not secure for them a lasting reputation, still has undoubtedly brought them some fulfilment of the hope they cherished."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:22",
+                            "text": "It has done so, both by preserving their own memory, though to no purpose, and because, through their having presented to the world the examples of great men, no small emulation has been excited in the bosoms of their readers."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:23",
+                            "text": "Yet, notwithstanding these things, their labors have in no degree borne upon the blessed and never-ending life to which we look forward."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:24",
+                            "text": "For what has a glory, destined to perish with the world, profited those men themselves who have written on mere secular matters? Or what benefit has posterity derived from reading of Hector as a warrior, or Socrates as an expounder of philosophy? There can be no profit in such things, since it is not only folly to imitate the persons referred to, but absolute madness not to assail them with the utmost severity."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:25",
+                            "text": "For, in truth, those persons who estimate human life only by present actions, have consigned their hopes to fables, and their souls to the tomb."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:26",
+                            "text": "In fact, they gave themselves up to be perpetuated simply in the memory of mortals, whereas it is the duty of man rather to  seek after eternal life than an eternal memorial and that, not by writing, or fighting, or philosophizing, but by living a pious, holy, and religious life."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:27",
+                            "text": "This erroneous conduct of mankind, being enshrined in literature, has prevailed to such an extent that it has found many who have been emulous either of the vain philosophy or the foolish excellence which has been celebrated."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:28",
+                            "text": "For this reason, I think I will accomplish something well worth the necessary pains, if I write the life of a most holy man, which shall serve in future as an example to others; by which, indeed, the readers shall be roused to the pursuit of true knowledge, and heavenly warfare, and divine virtue."
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:29",
+                            "text": "In so doing, we have regard also to our own advantage, so that we may look for, not a vain remembrance among men, but an eternal reward from God."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:30",
+                            "text": "For, although we ourselves have not lived in such a manner that we can serve for an example to others, nevertheless, we have made it our endeavor that he should not remain unknown who was a man worthy of imitation."
+                        },
+                        {
+                            "verse": 31,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:31",
+                            "text": "I shall therefore set about writing the life of St."
+                        },
+                        {
+                            "verse": 32,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:32",
+                            "text": "Martin, and shall narrate both what he did previous to his episcopate, and what he performed as a bishop."
+                        },
+                        {
+                            "verse": 33,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:33",
+                            "text": "At the same time, I cannot hope to set forth all that he was or did."
+                        },
+                        {
+                            "verse": 34,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:34",
+                            "text": "Those excellences of which he alone was conscious are completely unknown, because, as he did not seek for honor from men, he desired, as much as he could accomplish it, that his virtues should be concealed."
+                        },
+                        {
+                            "verse": 35,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:35",
+                            "text": "And even of those which had become known to us, we have omitted a great number, because we have judged it enough if only the more striking and eminent should be recorded."
+                        },
+                        {
+                            "verse": 36,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:36",
+                            "text": "At the same time, I had in the interests of readers to see to it that, no undue amount of instances being set before them should make them weary of the subject."
+                        },
+                        {
+                            "verse": 37,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:37",
+                            "text": "But I implore those who are to read what follows to give full faith to the things narrated, and to believe that I have written nothing of which I had not certain knowledge and evidence."
+                        },
+                        {
+                            "verse": 38,
+                            "chapter": 1,
+                            "name": "Sulpitius Severus: Life of Saint Martin 1:38",
+                            "text": "I should, in fact, have preferred to be silent rather than to narrate things which are false."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 2,
+                    "name": "Sulpitius Severus: Life of Saint Martin 2",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 2,
+                            "name": "Sulpitius Severus: Life of Saint Martin 2:1",
+                            "text": "Chapter II."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 2,
+                            "name": "Sulpitius Severus: Life of Saint Martin 2:2",
+                            "text": "Military Service of St."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 2,
+                            "name": "Sulpitius Severus: Life of Saint Martin 2:3",
+                            "text": "Martin."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 2,
+                            "name": "Sulpitius Severus: Life of Saint Martin 2:4",
+                            "text": "Martin, then, was born at Sabaria in Pannonia, but was brought up at Ticinum, which is situated in Italy."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 2,
+                            "name": "Sulpitius Severus: Life of Saint Martin 2:5",
+                            "text": "His parents were, according to the judgment of the world, of no mean rank, but were heathens."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 2,
+                            "name": "Sulpitius Severus: Life of Saint Martin 2:6",
+                            "text": "His father was at first simply a soldier, but afterwards a military tribune."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 2,
+                            "name": "Sulpitius Severus: Life of Saint Martin 2:7",
+                            "text": "He himself in his youth following military pursuits was enrolled in the imperial guard, first under king Constantine, and then under Julian Caesar."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 2,
+                            "name": "Sulpitius Severus: Life of Saint Martin 2:8",
+                            "text": "This, however, was not done of his own free will, for, almost from his earliest years, the holy infancy of the illustrious boy aspired rather to the service of God."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 2,
+                            "name": "Sulpitius Severus: Life of Saint Martin 2:9",
+                            "text": "For, when he was of the age of ten years, he betook himself, against the wish of his parents, to the Church, and begged that he might become a catechumen."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 2,
+                            "name": "Sulpitius Severus: Life of Saint Martin 2:10",
+                            "text": "Soon afterwards, becoming in a wonderful manner completely devoted to the service of God, when he was twelve years old, he desired to enter on the life of a hermit; and he would have followed up that desire with the necessary vows, had not his as yet too youthful age prevented."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 2,
+                            "name": "Sulpitius Severus: Life of Saint Martin 2:11",
+                            "text": "His mind, however, being always engaged on matters pertaining to the monasteries or the Church, already meditated in his boyish years what he afterwards, as a professed servant of  Christ, fulfilled."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 2,
+                            "name": "Sulpitius Severus: Life of Saint Martin 2:12",
+                            "text": "But when an edict was issued by the ruling powers in the state, that the sons of veterans should be enrolled for military service, and he, on the information furnished by his father, (who looked with an evil eye on his blessed actions) having been seized and put in chains, when he was fifteen years old, was compelled to take the military oath, then showed himself content with only one servant as his attendant."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 2,
+                            "name": "Sulpitius Severus: Life of Saint Martin 2:13",
+                            "text": "And even to him, changing places as it were, he often acted as though, while really master, he had been inferior; to such a degree that, for the most part, he drew off his [servant's] boots and cleaned them with his own hand; while they took their meals together, the real master, however, generally acting the part of servant."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 2,
+                            "name": "Sulpitius Severus: Life of Saint Martin 2:14",
+                            "text": "During nearly three years before his baptism, he was engaged in the profession of arms, but he kept completely free from those vices in which that class of men become too frequently involved."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 2,
+                            "name": "Sulpitius Severus: Life of Saint Martin 2:15",
+                            "text": "He showed exceeding kindness towards his fellow-soldiers, and held them in wonderful affection; while his patience and humility surpassed what seemed possible to human nature."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 2,
+                            "name": "Sulpitius Severus: Life of Saint Martin 2:16",
+                            "text": "There is no need to praise the self-denial which he displayed: it was so great that, even at that date, he was regarded not so much as being a soldier as a monk."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 2,
+                            "name": "Sulpitius Severus: Life of Saint Martin 2:17",
+                            "text": "By all these qualities he had so endeared himself to the whole body of his comrades, that they esteemed him while they marvelously loved him."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 2,
+                            "name": "Sulpitius Severus: Life of Saint Martin 2:18",
+                            "text": "Although not yet made a new creature in Christ, he, by his good works, acted the part of a candidate for baptism."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 2,
+                            "name": "Sulpitius Severus: Life of Saint Martin 2:19",
+                            "text": "This he did, for instance, by aiding those who were in trouble, by furnishing assistance to the wretched, by supporting the needy, by clothing the naked, while he reserved nothing for himself from his military pay except what was necessary for his daily sustenance."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 2,
+                            "name": "Sulpitius Severus: Life of Saint Martin 2:20",
+                            "text": "Even then, far from being a senseless hearer of the Gospel, he so far complied with its precepts as to take no thought about the morrow."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 3,
+                    "name": "Sulpitius Severus: Life of Saint Martin 3",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 3,
+                            "name": "Sulpitius Severus: Life of Saint Martin 3:1",
+                            "text": "Chapter III."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 3,
+                            "name": "Sulpitius Severus: Life of Saint Martin 3:2",
+                            "text": "Christ appears to St."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 3,
+                            "name": "Sulpitius Severus: Life of Saint Martin 3:3",
+                            "text": "Martin."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 3,
+                            "name": "Sulpitius Severus: Life of Saint Martin 3:4",
+                            "text": "Accordingly, at a certain period, when he had nothing except his arms and his simple military dress, in the middle of winter, a winter which had shown itself more severe than ordinary, so that the extreme cold was proving fatal to many, he happened to meet at the gate of the city of Amiens a poor man destitute of clothing."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 3,
+                            "name": "Sulpitius Severus: Life of Saint Martin 3:5",
+                            "text": "He was entreating those that passed by to have compassion upon him, but all passed the wretched man without notice, when Martin, that man full of God, recognized that a being to whom others showed no pity, was, in that respect, left to him."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 3,
+                            "name": "Sulpitius Severus: Life of Saint Martin 3:6",
+                            "text": "Yet, what should he do? He had nothing except the cloak in which he was clad, for he had already parted with the rest of his garments for similar purposes."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 3,
+                            "name": "Sulpitius Severus: Life of Saint Martin 3:7",
+                            "text": "Taking, therefore, his sword with which he was girt, he divided his cloak into two equal parts, and gave one part to the poor man, while he again clothed himself with the remainder."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 3,
+                            "name": "Sulpitius Severus: Life of Saint Martin 3:8",
+                            "text": "Upon this, some of the by-standers laughed, because he was now an unsightly object, and stood out as but partly dressed."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 3,
+                            "name": "Sulpitius Severus: Life of Saint Martin 3:9",
+                            "text": "Many, however, who were of sounder understanding, groaned deeply because they themselves had done nothing similar."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 3,
+                            "name": "Sulpitius Severus: Life of Saint Martin 3:10",
+                            "text": "They especially felt this, because, being possessed of more than Martin, they could have clothed the poor man without reducing themselves to nakedness."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 3,
+                            "name": "Sulpitius Severus: Life of Saint Martin 3:11",
+                            "text": "In the following night, when Martin had resigned himself to sleep, he had a vision of Christ arrayed in that part of his cloak with which he had clothed the poor man."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 3,
+                            "name": "Sulpitius Severus: Life of Saint Martin 3:12",
+                            "text": "He contemplated the Lord with the greatest attention, and was told to own as his the robe which he had given."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 3,
+                            "name": "Sulpitius Severus: Life of Saint Martin 3:13",
+                            "text": "Ere long, he heard Jesus saying with a clear voice to the multitude of angels standing round—\"Martin, who is still but a catechumen, clothed me with this robe\"."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 3,
+                            "name": "Sulpitius Severus: Life of Saint Martin 3:14",
+                            "text": "The Lord, truly mindful of his own words (who had said when on earth—\"Inasmuch as ye have done these things to one of the least of these, ye have done them unto me), declared that he himself had been clothed in that poor man; and to confirm the testimony he bore to so good a deed, he condescended to show him himself in that very dress which the poor man had received."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 3,
+                            "name": "Sulpitius Severus: Life of Saint Martin 3:15",
+                            "text": "After this vision the sainted man was not puffed up with human glory, but, acknowledging the goodness of God in what had been done, and being now of the age of twenty years, he hastened to receive baptism."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 3,
+                            "name": "Sulpitius Severus: Life of Saint Martin 3:16",
+                            "text": "He did not, however, all at once, retire from military service, yielding to the entreaties of his tribune, whom he admitted to be his familiar tent-companion."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 3,
+                            "name": "Sulpitius Severus: Life of Saint Martin 3:17",
+                            "text": "For the tribune promised that, after the period of his office had expired, he too would retire from the world."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 3,
+                            "name": "Sulpitius Severus: Life of Saint Martin 3:18",
+                            "text": "Martin, kept back by the expectation of this event, continued, although but in name, to act the part of a soldier, for nearly two years after he had received baptism."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 4,
+                    "name": "Sulpitius Severus: Life of Saint Martin 4",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 4,
+                            "name": "Sulpitius Severus: Life of Saint Martin 4:1",
+                            "text": "Chapter IV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 4,
+                            "name": "Sulpitius Severus: Life of Saint Martin 4:2",
+                            "text": "Martin retires from Military Service."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 4,
+                            "name": "Sulpitius Severus: Life of Saint Martin 4:3",
+                            "text": "In the meantime, as the barbarians were rushing within the two divisions of Gaul, Julian Caesar, bringing an army together at the city of the Vaugiones, began to distribute a donative to the soldiers."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 4,
+                            "name": "Sulpitius Severus: Life of Saint Martin 4:4",
+                            "text": "As was the custom in such a case, they were called forward, one by one, until it came to the turn of Martin."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 4,
+                            "name": "Sulpitius Severus: Life of Saint Martin 4:5",
+                            "text": "Then, indeed, judging it a suitable opportunity for seeking his discharge—for he did not think it would be proper for him, if he were not to continue in the service, to receive a donative—he said to Caesar, \"Hitherto I have served you as a soldier: allow me now to become a soldier to God: let the man who is to serve thee receive thy donative: I am the soldier of Christ: it is not lawful for me to fight\"."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 4,
+                            "name": "Sulpitius Severus: Life of Saint Martin 4:6",
+                            "text": "Then truly the tyrant stormed on hearing such words, declaring that, from fear of the battle, which was to take place on the morrow, and not from any religious feeling, Martin withdrew from the service."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 4,
+                            "name": "Sulpitius Severus: Life of Saint Martin 4:7",
+                            "text": "But Martin, full of courage, yea all the more resolute from the danger that had been set before him, exclaims, \"If this conduct of mine is ascribed to cowardice, and not to faith, I will take my stand unarmed before the line of battle tomorrow, and in the name of the Lord Jesus, protected by the sign of the cross, and not by shield or helmet, I will safely penetrate the ranks of the enemy\"."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 4,
+                            "name": "Sulpitius Severus: Life of Saint Martin 4:8",
+                            "text": "He is ordered, therefore, to be thrust back into prison, determined on proving his words true by exposing himself unarmed to the barbarians."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 4,
+                            "name": "Sulpitius Severus: Life of Saint Martin 4:9",
+                            "text": "But, on the following day, the enemy sent ambassadors to treat about peace and surrendered both themselves and all their possessions."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 4,
+                            "name": "Sulpitius Severus: Life of Saint Martin 4:10",
+                            "text": "In these circumstances who can doubt that this victory was due to the saintly man? It was granted him that he should not be sent unarmed to the fight."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 4,
+                            "name": "Sulpitius Severus: Life of Saint Martin 4:11",
+                            "text": "And although the good Lord could have preserved his own soldier, even amid the swords and darts of the enemy, yet that his blessed eyes might not be pained by witnessing the death of others, he removed all necessity for fighting."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 4,
+                            "name": "Sulpitius Severus: Life of Saint Martin 4:12",
+                            "text": "For Christ did not require to secure any other victory in behalf of his own soldier, than that, the enemy being subdued without bloodshed, no one should suffer death."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 5,
+                    "name": "Sulpitius Severus: Life of Saint Martin 5",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 5,
+                            "name": "Sulpitius Severus: Life of Saint Martin 5:1",
+                            "text": "Chapter V."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 5,
+                            "name": "Sulpitius Severus: Life of Saint Martin 5:2",
+                            "text": "Martin converts a Robber to the Faith."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 5,
+                            "name": "Sulpitius Severus: Life of Saint Martin 5:3",
+                            "text": "From that time quitting military service, Martin earnestly sought after the society of Hilarius, bishop of the city Pictava, whose faith in the things of God was then regarded as of high renown, and in universal esteem."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 5,
+                            "name": "Sulpitius Severus: Life of Saint Martin 5:4",
+                            "text": "For some time Martin made his abode with him."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 5,
+                            "name": "Sulpitius Severus: Life of Saint Martin 5:5",
+                            "text": "Now, this same Hilarius, having instituted him in the office of the diaconate, endeavored still more closely to attach him to himself, and to bind him by leading him to take part in Divine service."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 5,
+                            "name": "Sulpitius Severus: Life of Saint Martin 5:6",
+                            "text": "But when he constantly refused, crying out that he was unworthy, Hilarius, as being a man of deep penetration, perceived that he could only be constrained in this way, if he should lay that sort of office upon him, in discharging which there should seem to be a kind of injury done him."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 5,
+                            "name": "Sulpitius Severus: Life of Saint Martin 5:7",
+                            "text": "He therefore appointed him to be an exorcist."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 5,
+                            "name": "Sulpitius Severus: Life of Saint Martin 5:8",
+                            "text": "Martin did not refuse this appointment, from the fear that he might seem to have looked down upon it as somewhat humble."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 5,
+                            "name": "Sulpitius Severus: Life of Saint Martin 5:9",
+                            "text": "Not long after this, he was warned in a dream that he should visit his native land, and more particularly his parents, who were still involved in heathenism, with a regard for their religious interests."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 5,
+                            "name": "Sulpitius Severus: Life of Saint Martin 5:10",
+                            "text": "He set forth in accordance with the expressed wish of the holy Hilarius, and, after being adjured by him with many prayers and tears, that he would in due time return."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 5,
+                            "name": "Sulpitius Severus: Life of Saint Martin 5:11",
+                            "text": "According to report Martin entered on that journey in a melancholy frame of mind, after calling the brethren to witness that many sufferings lay before him."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 5,
+                            "name": "Sulpitius Severus: Life of Saint Martin 5:12",
+                            "text": "The result fully justified this prediction."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 5,
+                            "name": "Sulpitius Severus: Life of Saint Martin 5:13",
+                            "text": "For, first of all, having followed some devious paths among the Alps, he fell into the hands of robbers."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 5,
+                            "name": "Sulpitius Severus: Life of Saint Martin 5:14",
+                            "text": "And when one of them lifted up his axe and poised it above Martin's head, another of them met with his right hand the blow as it fell; nevertheless, having had his hands bound behind his back, he was handed over to one of them to be guarded and stripped."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 5,
+                            "name": "Sulpitius Severus: Life of Saint Martin 5:15",
+                            "text": "The robber, having led him to a private place apart from the rest, began to enquire of him who he was."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 5,
+                            "name": "Sulpitius Severus: Life of Saint Martin 5:16",
+                            "text": "Upon this, Martin replied that he was a Christian."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 5,
+                            "name": "Sulpitius Severus: Life of Saint Martin 5:17",
+                            "text": "The robber next asked him whether he was afraid."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 5,
+                            "name": "Sulpitius Severus: Life of Saint Martin 5:18",
+                            "text": "Then indeed Martin most courageously replied that he never before had felt so safe, because he knew that the mercy of the Lord would be especially present with him in the midst of trials."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 5,
+                            "name": "Sulpitius Severus: Life of Saint Martin 5:19",
+                            "text": "He added that he grieved rather for the man in whose hands he was, because, by living a life of robbery, he was showing himself unworthy of the mercy of Christ."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 5,
+                            "name": "Sulpitius Severus: Life of Saint Martin 5:20",
+                            "text": "And then entering on a discourse concerning Evangelical truth, he preached the word of God to the robber."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 5,
+                            "name": "Sulpitius Severus: Life of Saint Martin 5:21",
+                            "text": "Why should I delay stating the result? The robber believed; and, after expressing his respect for Martin, he restored him to the way, entreating him to pray the Lord for him."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 5,
+                            "name": "Sulpitius Severus: Life of Saint Martin 5:22",
+                            "text": "That same robber was afterwards  seen leading a religious life; so that, in fact, the narrative I have given above is based upon an account furnished by himself."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 6,
+                    "name": "Sulpitius Severus: Life of Saint Martin 6",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 6,
+                            "name": "Sulpitius Severus: Life of Saint Martin 6:1",
+                            "text": "Chapter VI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 6,
+                            "name": "Sulpitius Severus: Life of Saint Martin 6:2",
+                            "text": "The Devil throws himself in the Way of Martin."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 6,
+                            "name": "Sulpitius Severus: Life of Saint Martin 6:3",
+                            "text": "Martin, then, having gone on from thence, after he had passed Milan, the devil met him in the way, having assumed the form of a man."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 6,
+                            "name": "Sulpitius Severus: Life of Saint Martin 6:4",
+                            "text": "The devil first asked him to what place he was going."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 6,
+                            "name": "Sulpitius Severus: Life of Saint Martin 6:5",
+                            "text": "Martin having answered him to the effect that he was minded to go whithersoever the Lord called him, the devil said to him, \"Wherever you go, or whatever you attempt, the devil will resist you\"."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 6,
+                            "name": "Sulpitius Severus: Life of Saint Martin 6:6",
+                            "text": "Then Martin, replying to him in the prophetical word, said, \"The Lord is my helper; I will not fear what man can do unto me\"."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 6,
+                            "name": "Sulpitius Severus: Life of Saint Martin 6:7",
+                            "text": "Upon this, his enemy immediately vanished out of his sight; and thus, as he had intended in his heart and mind, he set free his mother from the errors of heathenism, though his father continued to cleave to its evils."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 6,
+                            "name": "Sulpitius Severus: Life of Saint Martin 6:8",
+                            "text": "However, he saved many by his example."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 6,
+                            "name": "Sulpitius Severus: Life of Saint Martin 6:9",
+                            "text": "After this, when the Arian heresy had spread through the whole world, and was especially powerful in Illyria, and when he, almost single-handed, was fighting most strenuously against the treachery of the priests, and had been subjected to many punishments (for he was publicly scourged, and at last was compelled to leave the city), again betaking himself to Italy, and having found the Church in the two divisions of Gaul in a distracted condition through the departure also of the holy Hilarius, whom the violence of the heretics had driven into exile, he established a monastery for himself at Milan."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 6,
+                            "name": "Sulpitius Severus: Life of Saint Martin 6:10",
+                            "text": "There, too, Auxentius, the originator and leader of the Arians, bitterly persecuted him; and, after he had assailed him with many injuries, violently expelled him from the city."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 6,
+                            "name": "Sulpitius Severus: Life of Saint Martin 6:11",
+                            "text": "Thinking, therefore, that it was necessary to yield to circumstances, he withdrew to the island Gallinaria, with a certain presbyter as his companion, a man of distinguished excellences."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 6,
+                            "name": "Sulpitius Severus: Life of Saint Martin 6:12",
+                            "text": "Here he subsisted for some time on the roots of plants; and, while doing so, he took for food hellebore, which is, as people say, a poisonous kind of grass."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 6,
+                            "name": "Sulpitius Severus: Life of Saint Martin 6:13",
+                            "text": "But when he perceived the strength of the poison increasing within him, and death now nearly at hand, he warded off the imminent danger by means of prayer, and immediately all his pains were put to flight."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 6,
+                            "name": "Sulpitius Severus: Life of Saint Martin 6:14",
+                            "text": "And not long after having discovered that, through penitence on the part of the king, permission to return had been granted to holy Hilarius, he made an effort to meet him at Rome, and, with this view, set out for that city."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 7,
+                    "name": "Sulpitius Severus: Life of Saint Martin 7",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 7,
+                            "name": "Sulpitius Severus: Life of Saint Martin 7:1",
+                            "text": "Chapter VII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 7,
+                            "name": "Sulpitius Severus: Life of Saint Martin 7:2",
+                            "text": "Martin restores a Catechumen to Life."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 7,
+                            "name": "Sulpitius Severus: Life of Saint Martin 7:3",
+                            "text": "As Hilarius had already gone away, so Martin followed in his footsteps; and having been most joyously welcomed by him, he established for himself a monastery not far from the town."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 7,
+                            "name": "Sulpitius Severus: Life of Saint Martin 7:4",
+                            "text": "At this time a certain catechumen joined him, being desirous of becoming instructed in the doctrines and habits of the most holy man."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 7,
+                            "name": "Sulpitius Severus: Life of Saint Martin 7:5",
+                            "text": "But, after the lapse only of a few days, the catechumen, seized with a languor, began to suffer from a violent fever."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 7,
+                            "name": "Sulpitius Severus: Life of Saint Martin 7:6",
+                            "text": "It so happened that Martin had then left home, and having remained away three days, he found on his return that life had departed from the catechumen; and so suddenly had death occurred, that he had left this world without receiving baptism."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 7,
+                            "name": "Sulpitius Severus: Life of Saint Martin 7:7",
+                            "text": "The body being laid out in public was being honored by the last sad offices on the part of the mourning brethren, when Martin hurries up to them with tears and lamentations."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 7,
+                            "name": "Sulpitius Severus: Life of Saint Martin 7:8",
+                            "text": "But then laying hold, as it were, of the Holy Spirit, with the whole powers of his mind, he orders the others to quit the cell in which the body was lying; and bolting the door, he stretches himself at full length on the dead limbs of the departed brother."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 7,
+                            "name": "Sulpitius Severus: Life of Saint Martin 7:9",
+                            "text": "Having given himself for some time to earnest prayer, and perceiving by means of the Spirit of God that power was present, he then rose up for a little, and gazing on the countenance of the deceased, he waited without misgiving for the result of his prayer and of the mercy of the Lord."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 7,
+                            "name": "Sulpitius Severus: Life of Saint Martin 7:10",
+                            "text": "And scarcely had the space of two hours elapsed, when he saw the dead man begin to move a little in all his members, and to tremble with his eyes opened for the practice of sight."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 7,
+                            "name": "Sulpitius Severus: Life of Saint Martin 7:11",
+                            "text": "Then indeed, turning to the Lord with a loud voice and giving thanks, he filled the cell with his ejaculations."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 7,
+                            "name": "Sulpitius Severus: Life of Saint Martin 7:12",
+                            "text": "Hearing the noise, those who had been standing at the door immediately rush inside."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 7,
+                            "name": "Sulpitius Severus: Life of Saint Martin 7:13",
+                            "text": "And truly a marvelous spectacle met them, for they beheld the man alive whom they had formerly left dead."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 7,
+                            "name": "Sulpitius Severus: Life of Saint Martin 7:14",
+                            "text": "Thus being restored to life, and having immediately obtained baptism, he lived for many years afterwards; and he was the first who offered himself to us both as a subject that had experienced the virtues of Martin, and as a witness to their existence."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 7,
+                            "name": "Sulpitius Severus: Life of Saint Martin 7:15",
+                            "text": "The same man was wont to relate that, when he left the body, he was brought before the tribunal of the Judge, and being assigned to gloomy regions and vulgar crowds, he  received a severe sentence."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 7,
+                            "name": "Sulpitius Severus: Life of Saint Martin 7:16",
+                            "text": "Then, however, he added, it was suggested by two angels of the Judge that he was the man for whom Martin was praying; and that, on this account, he was ordered to be led back by the same angels, and given up to Martin, and restored to his former life."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 7,
+                            "name": "Sulpitius Severus: Life of Saint Martin 7:17",
+                            "text": "From this time forward, the name of the sainted man became illustrious, so that, as being reckoned holy by all, he was also deemed powerful and truly apostolical."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 8,
+                    "name": "Sulpitius Severus: Life of Saint Martin 8",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 8,
+                            "name": "Sulpitius Severus: Life of Saint Martin 8:1",
+                            "text": "Chapter VIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 8,
+                            "name": "Sulpitius Severus: Life of Saint Martin 8:2",
+                            "text": "Martin restores one that had been strangled."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 8,
+                            "name": "Sulpitius Severus: Life of Saint Martin 8:3",
+                            "text": "Not long after these events, while Martin was passing by the estate of a certain man named Lupicinus, who was held in high esteem according to the judgment of the world, he was received with shouting and the lamentations of a wailing crowd."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 8,
+                            "name": "Sulpitius Severus: Life of Saint Martin 8:4",
+                            "text": "Having, in an anxious state of mind gone up to that multitude, and enquired what such weeping meant, he was told that one of the slaves of the family had put an end to his life by hanging."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 8,
+                            "name": "Sulpitius Severus: Life of Saint Martin 8:5",
+                            "text": "Hearing this, Martin entered the cell in which the body was lying, and, excluding all the multitude, he stretched himself upon the body, and spent some little time in prayer."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 8,
+                            "name": "Sulpitius Severus: Life of Saint Martin 8:6",
+                            "text": "Ere long, the deceased, with life beaming in his countenance, and with his drooping eyes fixed on Martin's face, is aroused; and with a gentle effort attempting to rise, he laid hold of the right hand of the saintly man, and by this means stood upon his feet."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 8,
+                            "name": "Sulpitius Severus: Life of Saint Martin 8:7",
+                            "text": "In this manner, while the whole multitude looked on, he walked along with Martin to the porch of the house."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 9,
+                    "name": "Sulpitius Severus: Life of Saint Martin 9",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 9,
+                            "name": "Sulpitius Severus: Life of Saint Martin 9:1",
+                            "text": "Chapter IX."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 9,
+                            "name": "Sulpitius Severus: Life of Saint Martin 9:2",
+                            "text": "High Esteem in which Martin was held."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 9,
+                            "name": "Sulpitius Severus: Life of Saint Martin 9:3",
+                            "text": "Nearly about the same time, Martin was called upon to undertake the episcopate of the church at Tours; but when he could not easily be drawn forth from his monastery, a certain Ruricius, one of the citizens, pretending that his wife was ill, and casting himself down at his knees, prevailed on him to go forth."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 9,
+                            "name": "Sulpitius Severus: Life of Saint Martin 9:4",
+                            "text": "Multitudes of the citizens having previously been posted by the road on which he traveled, he is thus under a kind of guard escorted to the city."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 9,
+                            "name": "Sulpitius Severus: Life of Saint Martin 9:5",
+                            "text": "An incredible number of people not only from that town, but also from the neighboring cities, had, in a wonderful manner, assembled to give their votes."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 9,
+                            "name": "Sulpitius Severus: Life of Saint Martin 9:6",
+                            "text": "There was but one wish among all, there were the same prayers, and there was the same fixed opinion to the effect that Martin was most worthy of the episcopate, and that the church would be happy with such a priest."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 9,
+                            "name": "Sulpitius Severus: Life of Saint Martin 9:7",
+                            "text": "A few persons, however, and among these some of the bishops, who had been summoned to appoint a chief priest, were impiously offering resistance, asserting forsooth that Martin's person was contemptible, that he was unworthy of the episcopate, that he was a man despicable in countenance, that his clothing was mean, and his hair disgusting."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 9,
+                            "name": "Sulpitius Severus: Life of Saint Martin 9:8",
+                            "text": "This madness of theirs was ridiculed by the people of sounder judgment, inasmuch as such objectors only proclaimed the illustrious character of the man, while they sought to slander him."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 9,
+                            "name": "Sulpitius Severus: Life of Saint Martin 9:9",
+                            "text": "Nor truly was it allowed them to do anything else, than what the people, following the Divine will, desired to be accomplished."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 9,
+                            "name": "Sulpitius Severus: Life of Saint Martin 9:10",
+                            "text": "Among the bishops, however, who had been present, a certain one of the name Defensor is said to have specially offered opposition; and on this account it was observed that he was at the time severely censured in the reading from the prophets."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 9,
+                            "name": "Sulpitius Severus: Life of Saint Martin 9:11",
+                            "text": "For when it so happened that the reader, whose duty it was to read in public that day, being blocked out by the people, failed to appear, the officials falling into confusion, while they waited for him who never came, one of those standing by, laying hold of the Psalter, seized upon the first verse which presented itself to him."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 9,
+                            "name": "Sulpitius Severus: Life of Saint Martin 9:12",
+                            "text": "Now, the Psalm ran thus: \"Out of the mouth of babes and sucklings thou hast perfected praise because of thine enemies, that thou mightest destroy the enemy and the avenger\"."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 9,
+                            "name": "Sulpitius Severus: Life of Saint Martin 9:13",
+                            "text": "On these words being read, a shout was raised by the people, and the opposite party were confounded."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 9,
+                            "name": "Sulpitius Severus: Life of Saint Martin 9:14",
+                            "text": "It was believed that this Psalm had been chosen by Divine ordination, that Defensor might hear a testimony to his own work, because the praise of the Lord was perfected out of the mouth of babes and sucklings in the case of Martin, while the enemy was at the same time both pointed out and destroyed."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 10,
+                    "name": "Sulpitius Severus: Life of Saint Martin 10",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 10,
+                            "name": "Sulpitius Severus: Life of Saint Martin 10:1",
+                            "text": "Chapter X."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 10,
+                            "name": "Sulpitius Severus: Life of Saint Martin 10:2",
+                            "text": "Martin as Bishop of Tours."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 10,
+                            "name": "Sulpitius Severus: Life of Saint Martin 10:3",
+                            "text": "And now having entered on the episcopal office, it is beyond my power fully to set forth how Martin distinguished himself in the discharge of its duties."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 10,
+                            "name": "Sulpitius Severus: Life of Saint Martin 10:4",
+                            "text": "For he remained with the utmost constancy, the same as he had been  before."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 10,
+                            "name": "Sulpitius Severus: Life of Saint Martin 10:5",
+                            "text": "There was the same humility in his heart, and the same homeliness in his garments."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 10,
+                            "name": "Sulpitius Severus: Life of Saint Martin 10:6",
+                            "text": "Full alike of dignity and courtesy, he kept up the position of a bishop properly, yet in such a way as not to lay aside the objects and virtues of a monk."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 10,
+                            "name": "Sulpitius Severus: Life of Saint Martin 10:7",
+                            "text": "Accordingly he made use, for some time, of the cell connected with the church; but afterwards, when he felt it impossible to tolerate the disturbance caused by the numbers of those visiting it, he established a monastery for himself about two miles outside the city."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 10,
+                            "name": "Sulpitius Severus: Life of Saint Martin 10:8",
+                            "text": "This spot was so secret and retired that he enjoyed in it the solitude of a hermit."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 10,
+                            "name": "Sulpitius Severus: Life of Saint Martin 10:9",
+                            "text": "For, on one side, it was surrounded by a precipitous rock of a lofty mountain, while the river Loire had shut in the rest of the plain by a bay extending back for a little distance; and the place could be approached only by one, and that a very narrow passage."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 10,
+                            "name": "Sulpitius Severus: Life of Saint Martin 10:10",
+                            "text": "Here, then, he possessed a cell constructed of wood."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 10,
+                            "name": "Sulpitius Severus: Life of Saint Martin 10:11",
+                            "text": "Many also of the brethren had, in the same manner, fashioned retreats for themselves, but most of them had formed these out of the rock of the overhanging mountain, hollowed into caves."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 10,
+                            "name": "Sulpitius Severus: Life of Saint Martin 10:12",
+                            "text": "There were altogether eighty disciples, who were being disciplined after the example of the saintly master."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 10,
+                            "name": "Sulpitius Severus: Life of Saint Martin 10:13",
+                            "text": "No one there had anything which was called his own; all things were possessed in common."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 10,
+                            "name": "Sulpitius Severus: Life of Saint Martin 10:14",
+                            "text": "It was not allowed either to buy or to sell anything, as is the custom among most monks."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 10,
+                            "name": "Sulpitius Severus: Life of Saint Martin 10:15",
+                            "text": "No art was practiced there, except that of transcribers, and even this was assigned to the brethren of younger years, while the elders spent their time in prayer."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 10,
+                            "name": "Sulpitius Severus: Life of Saint Martin 10:16",
+                            "text": "Rarely did any one of them go beyond the cell, unless when they assembled at the place of prayer."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 10,
+                            "name": "Sulpitius Severus: Life of Saint Martin 10:17",
+                            "text": "They all took their food together, after the hour of fasting was past."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 10,
+                            "name": "Sulpitius Severus: Life of Saint Martin 10:18",
+                            "text": "No one used wine, except when illness compelled them to do so."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 10,
+                            "name": "Sulpitius Severus: Life of Saint Martin 10:19",
+                            "text": "Most of them were clothed in garments of camels' hair."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 10,
+                            "name": "Sulpitius Severus: Life of Saint Martin 10:20",
+                            "text": "Any dress approaching to softness was there deemed criminal, and this must be thought the more remarkable, because many among them were such as are deemed of noble rank."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 10,
+                            "name": "Sulpitius Severus: Life of Saint Martin 10:21",
+                            "text": "These, though far differently brought up, had forced themselves down to this degree of humility and patient endurance, and we have seen numbers of these afterwards made bishops."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 10,
+                            "name": "Sulpitius Severus: Life of Saint Martin 10:22",
+                            "text": "For what city or church would there be that would not desire to have its priests from among those in the monastery of Martin?."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 11,
+                    "name": "Sulpitius Severus: Life of Saint Martin 11",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 11,
+                            "name": "Sulpitius Severus: Life of Saint Martin 11:1",
+                            "text": "Chapter XI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 11,
+                            "name": "Sulpitius Severus: Life of Saint Martin 11:2",
+                            "text": "Martin demolishes an Altar consecrated to a Robber."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 11,
+                            "name": "Sulpitius Severus: Life of Saint Martin 11:3",
+                            "text": "But let me proceed to a description of other excellences which Martin displayed as a bishop."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 11,
+                            "name": "Sulpitius Severus: Life of Saint Martin 11:4",
+                            "text": "There was, not far from the town, a place very close to the monastery, which a false human opinion had consecrated, on the supposition that some martyrs had been buried together there."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 11,
+                            "name": "Sulpitius Severus: Life of Saint Martin 11:5",
+                            "text": "For it was also believed that an altar had been placed there by former bishops."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 11,
+                            "name": "Sulpitius Severus: Life of Saint Martin 11:6",
+                            "text": "But Martin, not inclined to give a hasty belief to things uncertain, often asked from those who were his elders, whether among the presbyters or clerics, that the name of the martyr, or the time when he suffered, should be made known to him."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 11,
+                            "name": "Sulpitius Severus: Life of Saint Martin 11:7",
+                            "text": "He did so, he said, because he had great scruples on these points, inasmuch as no steady tradition respecting them had come down from antiquity."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 11,
+                            "name": "Sulpitius Severus: Life of Saint Martin 11:8",
+                            "text": "Having, therefore, for a time kept away from the place, by no means wishing to lessen the religious veneration with which it was regarded, because he was as yet uncertain, but, at the same time not lending his authority to the opinion of the multitude, lest a mere superstition should obtain a firmer footing, he one day went out to the place, taking a few brethren with him as companions."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 11,
+                            "name": "Sulpitius Severus: Life of Saint Martin 11:9",
+                            "text": "There standing above the very sepulchre, Martin prayed to the Lord that he would reveal, who the man in question was, and what was his character or desert."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 11,
+                            "name": "Sulpitius Severus: Life of Saint Martin 11:10",
+                            "text": "Next turning to the left-hand side, he sees standing very near a shade of a mean and cruel appearance."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 11,
+                            "name": "Sulpitius Severus: Life of Saint Martin 11:11",
+                            "text": "Martin commands him to tell his name and character."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 11,
+                            "name": "Sulpitius Severus: Life of Saint Martin 11:12",
+                            "text": "Upon this, he declares his name, and confesses his guilt."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 11,
+                            "name": "Sulpitius Severus: Life of Saint Martin 11:13",
+                            "text": "He says that he had been a robber, and that he was beheaded on account of his crimes; that he had been honored simply by an error of the multitude; that he had nothing in common with the martyrs, since glory was their portion, while punishment exacted its penalties from him."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 11,
+                            "name": "Sulpitius Severus: Life of Saint Martin 11:14",
+                            "text": "Those who stood by heard, in a wonderful way, the voice of the speaker, but they beheld no person."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 11,
+                            "name": "Sulpitius Severus: Life of Saint Martin 11:15",
+                            "text": "Then Martin made known what he had seen, and ordered the altar which had been there to be removed, and thus he delivered the people from the error of that superstition."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 12,
+                    "name": "Sulpitius Severus: Life of Saint Martin 12",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 12,
+                            "name": "Sulpitius Severus: Life of Saint Martin 12:1",
+                            "text": "Chapter XII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 12,
+                            "name": "Sulpitius Severus: Life of Saint Martin 12:2",
+                            "text": "Martin causes the Bearers of a Dead Body to stop."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 12,
+                            "name": "Sulpitius Severus: Life of Saint Martin 12:3",
+                            "text": "Now, it came to pass some time after the above, that while Martin was going a journey, he met the body of a certain heathen, which was being carried to the tomb with superstitious funeral rites."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 12,
+                            "name": "Sulpitius Severus: Life of Saint Martin 12:4",
+                            "text": "Perceiving from a distance the crowd that was approaching, and being ignorant as to what was going on, he stood still for a little while."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 12,
+                            "name": "Sulpitius Severus: Life of Saint Martin 12:5",
+                            "text": "For there was a distance of nearly half a mile between him and the crowd, so that it  was difficult to discover what the spectacle he beheld really was."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 12,
+                            "name": "Sulpitius Severus: Life of Saint Martin 12:6",
+                            "text": "Nevertheless, because he saw it was a rustic gathering, and when the linen clothes spread over the body were blown about by the action of the wind, he believed that some profane rites of sacrifice were being performed."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 12,
+                            "name": "Sulpitius Severus: Life of Saint Martin 12:7",
+                            "text": "This thought occurred to him, because it was the custom of the Gallic rustics in their wretched folly to carry about through the fields the images of demons veiled with a white covering."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 12,
+                            "name": "Sulpitius Severus: Life of Saint Martin 12:8",
+                            "text": "Lifting up, therefore, the sign of the cross opposite to them, he commanded the crowd not to move from the place in which they were, and to set down the burden."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 12,
+                            "name": "Sulpitius Severus: Life of Saint Martin 12:9",
+                            "text": "Upon this, the miserable creatures might have been seen at first to become stiff like rocks."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 12,
+                            "name": "Sulpitius Severus: Life of Saint Martin 12:10",
+                            "text": "Next, as they endeavored, with every possible effort, to move forward, but were not able to take a step farther, they began to whirl themselves about in the most ridiculous fashion, until, not able any longer to sustain the weight, they set down the dead body."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 12,
+                            "name": "Sulpitius Severus: Life of Saint Martin 12:11",
+                            "text": "Thunderstruck, and gazing in bewilderment at each other as not knowing what had happened to them they remained sunk in silent thought."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 12,
+                            "name": "Sulpitius Severus: Life of Saint Martin 12:12",
+                            "text": "But when the saintly man discovered that they were simply a band of peasants celebrating funeral rites, and not sacrifices to the gods, again raising his hand, he gave them the power of going away, and of lifting up the body."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 12,
+                            "name": "Sulpitius Severus: Life of Saint Martin 12:13",
+                            "text": "Thus he both compelled them to stand when he pleased, and permitted them to depart when he thought good."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 13,
+                    "name": "Sulpitius Severus: Life of Saint Martin 13",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 13,
+                            "name": "Sulpitius Severus: Life of Saint Martin 13:1",
+                            "text": "Chapter XIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 13,
+                            "name": "Sulpitius Severus: Life of Saint Martin 13:2",
+                            "text": "Martin escapes from a Falling Pine-tree."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 13,
+                            "name": "Sulpitius Severus: Life of Saint Martin 13:3",
+                            "text": "Again, when in a certain village he had demolished a very ancient temple, and had set about cutting down a pine-tree, which stood close to the temple, the chief priest of that place, and a crowd of other heathens began to oppose him."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 13,
+                            "name": "Sulpitius Severus: Life of Saint Martin 13:4",
+                            "text": "And these people, though, under the influence of the Lord, they had been quiet while the temple was being overthrown, could not patiently allow the tree to be cut down."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 13,
+                            "name": "Sulpitius Severus: Life of Saint Martin 13:5",
+                            "text": "Martin carefully instructed them that there was nothing sacred in the trunk of a tree, and urged them rather to honor God whom he himself served."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 13,
+                            "name": "Sulpitius Severus: Life of Saint Martin 13:6",
+                            "text": "He added that there was a moral necessity why that tree should be cut down, because it had been dedicated to a demon."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 13,
+                            "name": "Sulpitius Severus: Life of Saint Martin 13:7",
+                            "text": "Then one of them who was bolder than the others says, \"If you have any trust in thy God, whom you say you worship, we ourselves will cut down this tree, and be it your part to receive it when falling; for if, as you declare, your Lord is with you, you will escape all injury\"."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 13,
+                            "name": "Sulpitius Severus: Life of Saint Martin 13:8",
+                            "text": "Then Martin, courageously trusting in the Lord, promises that he would do what had been asked."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 13,
+                            "name": "Sulpitius Severus: Life of Saint Martin 13:9",
+                            "text": "Upon this, all that crowd of heathen agreed to the condition named; for they held the loss of their tree a small matter, if only they got the enemy of their religion buried beneath its fall."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 13,
+                            "name": "Sulpitius Severus: Life of Saint Martin 13:10",
+                            "text": "Accordingly, since that pine-tree was hanging over in one direction, so that there was no doubt to what side it would fall on being cut, Martin, having been bound, is, in accordance with the decision of these pagans, placed in that spot where, as no one doubted, the tree was about to fall."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 13,
+                            "name": "Sulpitius Severus: Life of Saint Martin 13:11",
+                            "text": "They began, therefore, to cut down their own tree, with great glee and joyfulness, while there was at some distance a great multitude of wondering spectators."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 13,
+                            "name": "Sulpitius Severus: Life of Saint Martin 13:12",
+                            "text": "And now the pine-tree began to totter, and to threaten its own ruin by falling."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 13,
+                            "name": "Sulpitius Severus: Life of Saint Martin 13:13",
+                            "text": "The monks at a distance grew pale, and, terrified by the danger ever coming nearer, had lost all hope and confidence, expecting only the death of Martin."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 13,
+                            "name": "Sulpitius Severus: Life of Saint Martin 13:14",
+                            "text": "But he, trusting in the Lord, and waiting courageously, when now the falling pine had uttered its expiring crash, while it was now falling, while it was just rushing upon him, simply holding up his hand against it, he put in its way the sign of salvation."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 13,
+                            "name": "Sulpitius Severus: Life of Saint Martin 13:15",
+                            "text": "Then, indeed, after the manner of a spinning-top (one might have thought it driven back), it swept round to the opposite side, to such a degree that it almost crushed the rustics, who had taken their places there in what was deemed a safe spot."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 13,
+                            "name": "Sulpitius Severus: Life of Saint Martin 13:16",
+                            "text": "Then truly, a shout being raised to heaven, the heathen were amazed by the miracle, while the monks wept for joy; and the name of Christ was in common extolled by all."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 13,
+                            "name": "Sulpitius Severus: Life of Saint Martin 13:17",
+                            "text": "The well-known result was that on that day salvation came to that region."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 13,
+                            "name": "Sulpitius Severus: Life of Saint Martin 13:18",
+                            "text": "For there was hardly one of that immense multitude of heathens who did not express a desire for the imposition of hands, and abandoning his impious errors, made a profession of faith in the Lord Jesus."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 13,
+                            "name": "Sulpitius Severus: Life of Saint Martin 13:19",
+                            "text": "Certainly, before the times of Martin, very few, nay, almost none, in those regions had received the name of Christ; but through his virtues and example that name has prevailed to such an extent, that now there is no place thereabouts which is not filled either with very crowded churches or monasteries."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 13,
+                            "name": "Sulpitius Severus: Life of Saint Martin 13:20",
+                            "text": "For wherever he destroyed heathen temples, there he used immediately to build either churches or monasteries."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 14,
+                    "name": "Sulpitius Severus: Life of Saint Martin 14",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 14,
+                            "name": "Sulpitius Severus: Life of Saint Martin 14:1",
+                            "text": "Chapter XIV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 14,
+                            "name": "Sulpitius Severus: Life of Saint Martin 14:2",
+                            "text": "Martin destroys Heathen Temples and Altars."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 14,
+                            "name": "Sulpitius Severus: Life of Saint Martin 14:3",
+                            "text": "Nor did he show less eminence, much about the same time, in other transactions of a like  kind."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 14,
+                            "name": "Sulpitius Severus: Life of Saint Martin 14:4",
+                            "text": "For, having in a certain village set fire to a very ancient and celebrated temple, the circle of flames was carried by the action of the wind upon a house which was very close to, yea, connected with, the temple."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 14,
+                            "name": "Sulpitius Severus: Life of Saint Martin 14:5",
+                            "text": "When Martin perceived this, he climbed by rapid ascent to the roof of the house, presenting himself in front of the advancing flames."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 14,
+                            "name": "Sulpitius Severus: Life of Saint Martin 14:6",
+                            "text": "Then indeed might the fire have been seen thrust back in a wonderful manner against the force of the wind, so that there appeared a sort of conflict of the two elements fighting together."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 14,
+                            "name": "Sulpitius Severus: Life of Saint Martin 14:7",
+                            "text": "Thus, by the influence of Martin, the fire only acted in the place where it was ordered to do so."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 14,
+                            "name": "Sulpitius Severus: Life of Saint Martin 14:8",
+                            "text": "But in a village which was named Leprosum, when he too wished to overthrow a temple which had acquired great wealth through the superstitious ideas entertained of its sanctity, a multitude of the heathen resisted him to such a degree that he was driven back not without bodily injury."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 14,
+                            "name": "Sulpitius Severus: Life of Saint Martin 14:9",
+                            "text": "He, therefore, withdrew to a place in the vicinity, and there for three days, clothed in sackcloth and ashes fasting and praying the whole time, he besought the Lord, that, as he had not been able to overthrow that temple by human effort, Divine power might be exerted to destroy it."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 14,
+                            "name": "Sulpitius Severus: Life of Saint Martin 14:10",
+                            "text": "Then two angels, with spears and shields after the manner of heavenly warriors, suddenly presented themselves to him, saying that they were sent by the Lord to put to flight the rustic multitude, and to furnish protection to Martin, lest, while the temple was being destroyed, any one should offer resistance."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 14,
+                            "name": "Sulpitius Severus: Life of Saint Martin 14:11",
+                            "text": "They told him therefore to return, and complete the blessed work which he had begun."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 14,
+                            "name": "Sulpitius Severus: Life of Saint Martin 14:12",
+                            "text": "Accordingly Martin returned to the village; and while the crowds of heathen looked on in perfect quiet as he razed the pagan temple even to the foundations, he also reduced all the altars and images to dust."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 14,
+                            "name": "Sulpitius Severus: Life of Saint Martin 14:13",
+                            "text": "At this sight the rustics, when they perceived that they had been so astounded and terrified by an intervention of the Divine will, that they might not be found fighting against the bishop, almost all believed in the Lord Jesus."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 14,
+                            "name": "Sulpitius Severus: Life of Saint Martin 14:14",
+                            "text": "They then began to cry out openly and to confess that the God of Martin ought to be worshiped, and that the idols should be despised, which were not able to help them."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 15,
+                    "name": "Sulpitius Severus: Life of Saint Martin 15",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 15,
+                            "name": "Sulpitius Severus: Life of Saint Martin 15:1",
+                            "text": "Chapter XV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 15,
+                            "name": "Sulpitius Severus: Life of Saint Martin 15:2",
+                            "text": "Martin offers his Neck to an Assassin."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 15,
+                            "name": "Sulpitius Severus: Life of Saint Martin 15:3",
+                            "text": "I shall also relate what took place in the village of the aedui."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 15,
+                            "name": "Sulpitius Severus: Life of Saint Martin 15:4",
+                            "text": "When Martin was there overthrowing a temple, a multitude of rustic heathen rushed upon him in a frenzy of rage."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 15,
+                            "name": "Sulpitius Severus: Life of Saint Martin 15:5",
+                            "text": "And when one of them, bolder than the rest, made an attack upon him with a drawn sword, Martin, throwing back his cloak, offered his bare neck to the assassin."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 15,
+                            "name": "Sulpitius Severus: Life of Saint Martin 15:6",
+                            "text": "Nor did the heathen delay to strike, but in the very act of lifting up his right arm, he fell to the ground on his back, and being overwhelmed by the fear of God, he entreated for pardon."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 15,
+                            "name": "Sulpitius Severus: Life of Saint Martin 15:7",
+                            "text": "Not unlike this was that other event which happened to Martin, that when a certain man had resolved to wound him with a knife as he was destroying some idols, at the very moment of fetching the blow, the weapon was struck out of his hands and disappeared."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 15,
+                            "name": "Sulpitius Severus: Life of Saint Martin 15:8",
+                            "text": "Very frequently, too, when the pagans were addressing him to the effect that he would not overthrow their temples, he so soothed and conciliated the minds of the heathen by his holy discourse that, the light of truth having been revealed to them, they themselves overthrew their own temples."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 16,
+                    "name": "Sulpitius Severus: Life of Saint Martin 16",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 16,
+                            "name": "Sulpitius Severus: Life of Saint Martin 16:1",
+                            "text": "Chapter XVI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 16,
+                            "name": "Sulpitius Severus: Life of Saint Martin 16:2",
+                            "text": "Cures effected by St."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 16,
+                            "name": "Sulpitius Severus: Life of Saint Martin 16:3",
+                            "text": "Martin."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 16,
+                            "name": "Sulpitius Severus: Life of Saint Martin 16:4",
+                            "text": "Moreover, the gift of accomplishing cures was so largely possessed by Martin, that scarcely any sick person came to him for assistance without being at once restored to health."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 16,
+                            "name": "Sulpitius Severus: Life of Saint Martin 16:5",
+                            "text": "This will clearly appear from the following example."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 16,
+                            "name": "Sulpitius Severus: Life of Saint Martin 16:6",
+                            "text": "A certain girl at Treves was so completely prostrated by a terrible paralysis that for a long time she had been quite unable to make use of her body for any purpose, and being, as it were, already dead, only the smallest breath of life seemed still to remain in her."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 16,
+                            "name": "Sulpitius Severus: Life of Saint Martin 16:7",
+                            "text": "Her afflicted relatives were standing by, expecting nothing but her death, when it was suddenly announced that Martin had come to that city."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 16,
+                            "name": "Sulpitius Severus: Life of Saint Martin 16:8",
+                            "text": "When the father of the girl found that such was the case, he ran to make a request in behalf of his all but lifeless child."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 16,
+                            "name": "Sulpitius Severus: Life of Saint Martin 16:9",
+                            "text": "It happened that Martin had already entered the church."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 16,
+                            "name": "Sulpitius Severus: Life of Saint Martin 16:10",
+                            "text": "There, while the people were looking on, and in the presence of many other bishops, the old man, uttering a cry of grief, embraced the saint's knees and said: \"My daughter is dying of a miserable kind of infirmity; and, what is more dreadful than death itself, she is now alive only in the spirit, her flesh being already dead before the time."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 16,
+                            "name": "Sulpitius Severus: Life of Saint Martin 16:11",
+                            "text": "I beseech thee to go to her, and give her thy blessing; for I believe that through you she will be restored to health\"."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 16,
+                            "name": "Sulpitius Severus: Life of Saint Martin 16:12",
+                            "text": "Martin, troubled by such an address, was bewildered, and shrank back, saying that this was a matter not in his own hands; that the old man was mistaken in the judgment he  had formed; and that he was not worthy to be the instrument through whom the Lord should make a display of his power."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 16,
+                            "name": "Sulpitius Severus: Life of Saint Martin 16:13",
+                            "text": "The father, in tears, persevered in still more earnestly pressing the case, and entreated Martin to visit the dying girl."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 16,
+                            "name": "Sulpitius Severus: Life of Saint Martin 16:14",
+                            "text": "At last, constrained by the bishops standing by to go as requested, he went down to the home of the girl."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 16,
+                            "name": "Sulpitius Severus: Life of Saint Martin 16:15",
+                            "text": "An immense crowd was waiting at the doors, to see what the servant of the Lord would do."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 16,
+                            "name": "Sulpitius Severus: Life of Saint Martin 16:16",
+                            "text": "And first, betaking himself to his familiar arms in affairs of that kind, he cast himself down on the ground and prayed."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 16,
+                            "name": "Sulpitius Severus: Life of Saint Martin 16:17",
+                            "text": "Then gazing earnestly upon the ailing girl, he requests that oil should be given him."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 16,
+                            "name": "Sulpitius Severus: Life of Saint Martin 16:18",
+                            "text": "After he had received and blessed this, he poured the powerful sacred liquid into the mouth of the girl, and immediately her voice returned to her."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 16,
+                            "name": "Sulpitius Severus: Life of Saint Martin 16:19",
+                            "text": "Then gradually, through contact with him, her limbs began, one by one, to recover life, till, at last, in the presence of the people, she arose with firm steps."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 17,
+                    "name": "Sulpitius Severus: Life of Saint Martin 17",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 17,
+                            "name": "Sulpitius Severus: Life of Saint Martin 17:1",
+                            "text": "Chapter XVII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 17,
+                            "name": "Sulpitius Severus: Life of Saint Martin 17:2",
+                            "text": "Martin casts out Several Devils."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 17,
+                            "name": "Sulpitius Severus: Life of Saint Martin 17:3",
+                            "text": "At the same time the servant of one Tetradius, a man of proconsular rank, having been laid hold of by a demon, was tormented with the most miserable results."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 17,
+                            "name": "Sulpitius Severus: Life of Saint Martin 17:4",
+                            "text": "Martin, therefore, having been asked to lay his hands on him, ordered the servant to be brought to him; but the evil spirit could, in no way, be brought forth from the cell in which he was: he showed himself so fearful, with ferocious teeth, to those who attempted to draw near."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 17,
+                            "name": "Sulpitius Severus: Life of Saint Martin 17:5",
+                            "text": "Then Tetradius throws himself at the feet of the saintly man, imploring that he himself would go down to the house in which the possessed of the devil was kept."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 17,
+                            "name": "Sulpitius Severus: Life of Saint Martin 17:6",
+                            "text": "But Martin then declared that he could not visit the house of an unconverted heathen."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 17,
+                            "name": "Sulpitius Severus: Life of Saint Martin 17:7",
+                            "text": "For Tetradius, at that time, was still involved in the errors of heathenism."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 17,
+                            "name": "Sulpitius Severus: Life of Saint Martin 17:8",
+                            "text": "He, therefore, pledges his word that if the demon were driven out of the boy, he would become a Christian."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 17,
+                            "name": "Sulpitius Severus: Life of Saint Martin 17:9",
+                            "text": "Martin, then, laying his hand upon the boy, cast the evil spirit out of him."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 17,
+                            "name": "Sulpitius Severus: Life of Saint Martin 17:10",
+                            "text": "On seeing this, Tetradius believed in the Lord Jesus, and immediately became a catechumen, while, not long after, he was baptized; and he always regarded Martin with extraordinary affection, as having been the author of his salvation."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 17,
+                            "name": "Sulpitius Severus: Life of Saint Martin 17:11",
+                            "text": "About the same time, having entered the dwelling of a certain householder in the same town, he stopped short at the very threshold, and said, that he perceived a horrible demon in the courtyard of the house."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 17,
+                            "name": "Sulpitius Severus: Life of Saint Martin 17:12",
+                            "text": "When Martin ordered it to depart, it laid hold of a certain member of the family, who was staying in the inner part of the house; and the poor wretch began at once to rage with his teeth, and to lacerate whomsoever he met."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 17,
+                            "name": "Sulpitius Severus: Life of Saint Martin 17:13",
+                            "text": "The house was thrown into disorder; the family was in confusion; and the people present took to flight."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 17,
+                            "name": "Sulpitius Severus: Life of Saint Martin 17:14",
+                            "text": "Martin threw himself in the way of the frenzied creature, and first of all commanded him to stand still."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 17,
+                            "name": "Sulpitius Severus: Life of Saint Martin 17:15",
+                            "text": "But when he continued to gnash with his teeth, and, with gaping mouth, was threatening to bite, Martin inserted his fingers into his mouth, and said, \"If you possess any power, devour these\"."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 17,
+                            "name": "Sulpitius Severus: Life of Saint Martin 17:16",
+                            "text": "But then, as if red-hot iron had entered his jaws, drawing his teeth far away he took care not to touch the fingers of the saintly man; and when he was compelled by punishments and tortures, to flee out of the possessed body, while he had no power of escaping by the mouth, he was cast out by means of a defluxion of the belly, leaving disgusting traces behind him."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 18,
+                    "name": "Sulpitius Severus: Life of Saint Martin 18",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 18,
+                            "name": "Sulpitius Severus: Life of Saint Martin 18:1",
+                            "text": "Chapter XVIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 18,
+                            "name": "Sulpitius Severus: Life of Saint Martin 18:2",
+                            "text": "Martin performs Various Miracles."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 18,
+                            "name": "Sulpitius Severus: Life of Saint Martin 18:3",
+                            "text": "In the meanwhile, as a sudden report had troubled the city as to the movement and inroad of the barbarians, Martin orders a possessed person to be set before him, and commanded him to declare whether this message was true or not."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 18,
+                            "name": "Sulpitius Severus: Life of Saint Martin 18:4",
+                            "text": "Then he confessed that there were sixteen demons who had spread this report among the people, in order that by the fear thus excited, Martin might have to flee from the city, but that, in fact, nothing was less in the minds of the barbarians than to make any inroad."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 18,
+                            "name": "Sulpitius Severus: Life of Saint Martin 18:5",
+                            "text": "When the unclean spirit thus acknowledged these things in the midst of the church, the city was set free from the fear and tumult which had at the time been felt."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 18,
+                            "name": "Sulpitius Severus: Life of Saint Martin 18:6",
+                            "text": "At Paris, again, when Martin was entering the gate of the city, with large crowds attending him, he gave a kiss to a leper, of miserable appearance, while all shuddered at seeing him do so; and Martin blessed him, with the result that he was instantly cleansed from all his misery."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 18,
+                            "name": "Sulpitius Severus: Life of Saint Martin 18:7",
+                            "text": "On the following day, the man appearing in the church with a healthy skin, gave thanks for the soundness of body which he had recovered."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 18,
+                            "name": "Sulpitius Severus: Life of Saint Martin 18:8",
+                            "text": "This fact, too, ought not to be passed over in silence, that threads from Martin's garment, or such as had been plucked from the sackcloth which he wore, wrought frequent miracles upon those who were sick."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 18,
+                            "name": "Sulpitius Severus: Life of Saint Martin 18:9",
+                            "text": "For, by either being tied round the fingers or placed about the neck, they very often drove away diseases from the afflicted."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 19,
+                    "name": "Sulpitius Severus: Life of Saint Martin 19",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 19,
+                            "name": "Sulpitius Severus: Life of Saint Martin 19:1",
+                            "text": "Chapter XIX."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 19,
+                            "name": "Sulpitius Severus: Life of Saint Martin 19:2",
+                            "text": "A Letter of Martin effects a Cure, with Other Miracles."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 19,
+                            "name": "Sulpitius Severus: Life of Saint Martin 19:3",
+                            "text": "Further, Arborius, an ex-prefect, and a man of a very holy and faithful character, while his daughter was in agony from the burning fever of a quartan ague, inserted in the bosom of the girl, at the very paroxysm of the heat, a letter of Martin which happened to have been brought to him, and immediately the fever was dispelled."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 19,
+                            "name": "Sulpitius Severus: Life of Saint Martin 19:4",
+                            "text": "This event had such an influence upon Arborius, that he at once consecrated the girl to God, and devoted her to perpetual virginity."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 19,
+                            "name": "Sulpitius Severus: Life of Saint Martin 19:5",
+                            "text": "Then, proceeding to Martin, he presented the girl to him, as an obvious living example of his power of working miracles, inasmuch as she had been cured by him though absent; and he would not suffer her to be consecrated by any other than Martin, through his placing upon her the dress characteristic of virginity."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 19,
+                            "name": "Sulpitius Severus: Life of Saint Martin 19:6",
+                            "text": "Paulinus, too, a man who was afterwards to furnish a striking example of the age, having begun to suffer grievously in one of his eyes, and when a pretty thick skin having grown over it had already covered up its pupil, Martin touched his eye with a painter's brush, and, all pain being removed, thus restored it to its former soundness."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 19,
+                            "name": "Sulpitius Severus: Life of Saint Martin 19:7",
+                            "text": "He himself also, when, by a certain accident, he had fallen out of an upper room, and tumbling down a broken, uneven stair, had received many wounds, as he lay in his cell at the point of death, and was tortured with grievous sufferings, saw in the night an angel appear to him, who washed his wounds, and applied healing ointment to the bruised members of his body."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 19,
+                            "name": "Sulpitius Severus: Life of Saint Martin 19:8",
+                            "text": "As the effect of this, he found himself on the morrow restored to soundness of health, so that he was not thought to have suffered any harm."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 19,
+                            "name": "Sulpitius Severus: Life of Saint Martin 19:9",
+                            "text": "But because it would be tedious to go through everything of this kind, let these examples suffice, as a few out of a multitude; and let it be enough that we do not in striking cases [of miraculous interposition] detract from the truth, while, having so many to choose from, we avoid exciting weariness in the reader."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 20,
+                    "name": "Sulpitius Severus: Life of Saint Martin 20",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 20,
+                            "name": "Sulpitius Severus: Life of Saint Martin 20:1",
+                            "text": "Chapter XX."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 20,
+                            "name": "Sulpitius Severus: Life of Saint Martin 20:2",
+                            "text": "How Martin acted towards the Emperor Maximus."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 20,
+                            "name": "Sulpitius Severus: Life of Saint Martin 20:3",
+                            "text": "And here to insert some smaller matters among things so great (although such is the nature of our times in which all things have fallen into decay and corruption, it is almost a pre-eminent virtue for priestly firmness not to have yielded to royal flattery), when a number of bishops from various parts had assembled to the Emperor Maximus, a man of fierce character, and at that time elated with the victory he had won in the civil wars, and when the disgraceful flattery of all around the emperor was generally remarked, while the priestly dignity had, with degenerate submissiveness, taken a second place to the royal retinue, in Martin alone, apostolic authority continued to assert itself."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 20,
+                            "name": "Sulpitius Severus: Life of Saint Martin 20:4",
+                            "text": "For even if he had to make suit to the sovereign for some things, he commanded rather than entreated him; and although often invited, he kept away from his entertainments, saying that he could not take a place at the table of one who, out of two emperors, had deprived one of his kingdom, and the other of his life."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 20,
+                            "name": "Sulpitius Severus: Life of Saint Martin 20:5",
+                            "text": "At last, when Maximus maintained that he had not of his own accord assumed the sovereignty, but that he had simply defended by arms the necessary requirements of the empire, regard to which had been imposed upon him by the soldiers, according to the Divine appointment, and that the favor of God did not seem wanting to him who, by an event seemingly so incredible, had secured the victory, adding to that the statement that none of his adversaries had been slain except in the open field of battle, at length, Martin, overcome either by his reasoning or his entreaties, came to the royal banquet."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 20,
+                            "name": "Sulpitius Severus: Life of Saint Martin 20:6",
+                            "text": "The king was wonderfully pleased because he had gained this point."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 20,
+                            "name": "Sulpitius Severus: Life of Saint Martin 20:7",
+                            "text": "Moreover, there were guests present who had been invited as if to a festival; men of the highest and most illustrious rank,—the prefect, who was also consul, named Evodius, one of the most righteous men that ever lived; two courtiers possessed of the greatest power, the brother and uncle of the king, while between these two, the presbyter of Martin had taken his place; but he himself occupied a seat which was set quite close to the king."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 20,
+                            "name": "Sulpitius Severus: Life of Saint Martin 20:8",
+                            "text": "About the middle of the banquet, according to custom, one of the servants presented a goblet to the king."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 20,
+                            "name": "Sulpitius Severus: Life of Saint Martin 20:9",
+                            "text": "He orders it rather to be given to the very holy bishop, expecting and hoping that he should then receive the cup from his right hand."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 20,
+                            "name": "Sulpitius Severus: Life of Saint Martin 20:10",
+                            "text": "But Martin, when he had drunk, handed the goblet to his own presbyter, as thinking no one worthier to drink next to himself, and holding that it would not be right for him to prefer either the king himself, or those who were next the king, to the presbyter."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 20,
+                            "name": "Sulpitius Severus: Life of Saint Martin 20:11",
+                            "text": "And the emperor, as well as all those who were then present, admired this conduct so much, that this very thing, by which they had been undervalued, gave them pleasure."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 20,
+                            "name": "Sulpitius Severus: Life of Saint Martin 20:12",
+                            "text": "The report then ran through the whole palace that Martin had done, at the king's dinner, what no bishop had dared to do  at the banquets of the lowest judges."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 20,
+                            "name": "Sulpitius Severus: Life of Saint Martin 20:13",
+                            "text": "And Martin predicted to the same Maximus long before, that if he went into Italy to which he then desired to go, waging war, against the Emperor Valentinianus, it would come to pass that he should know he would indeed be victorious in the first attack, but would perish a short time afterwards."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 20,
+                            "name": "Sulpitius Severus: Life of Saint Martin 20:14",
+                            "text": "And we have seen that this did in fact take place."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 20,
+                            "name": "Sulpitius Severus: Life of Saint Martin 20:15",
+                            "text": "For, on his first arrival Valentinianus had to betake himself to flight but recovering his strength about a year afterwards, Maximus was taken and slain by him within the walls of Aquileia."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 21,
+                    "name": "Sulpitius Severus: Life of Saint Martin 21",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 21,
+                            "name": "Sulpitius Severus: Life of Saint Martin 21:1",
+                            "text": "Chapter XXI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 21,
+                            "name": "Sulpitius Severus: Life of Saint Martin 21:2",
+                            "text": "Martin has to do both with Angels and Devils."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 21,
+                            "name": "Sulpitius Severus: Life of Saint Martin 21:3",
+                            "text": "It is also well known that angels were very often seen by him, so that they spoke in turns with him in set speech."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 21,
+                            "name": "Sulpitius Severus: Life of Saint Martin 21:4",
+                            "text": "As to the devil, Martin held him so visible and ever under the power of his eyes, that whether he kept himself in his proper form, or changed himself into different shapes of spiritual wickedness, he was perceived by Martin, under whatever guise he appeared."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 21,
+                            "name": "Sulpitius Severus: Life of Saint Martin 21:5",
+                            "text": "The devil knew well that he could not escape discovery, and therefore frequently heaped insults upon Martin, being unable to beguile him by trickery."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 21,
+                            "name": "Sulpitius Severus: Life of Saint Martin 21:6",
+                            "text": "On one occasion the devil, holding in his hand the bloody horn of an ox, rushed into Martin's cell with great noise, and holding out to him his bloody right hand, while at the same time he exulted in the crime he had committed, said: \"Where, O Martin, is thy power? I have just slain one of your people\"."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 21,
+                            "name": "Sulpitius Severus: Life of Saint Martin 21:7",
+                            "text": "Then Martin assembled the brethren, and related to them what the devil had disclosed, while he ordered them carefully to search the several cells in order to discover who had been visited with this calamity."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 21,
+                            "name": "Sulpitius Severus: Life of Saint Martin 21:8",
+                            "text": "They report that no one of the monks was missing, but that one peasant, hired by them, had gone to the forest to bring home wood in his wagon."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 21,
+                            "name": "Sulpitius Severus: Life of Saint Martin 21:9",
+                            "text": "Upon hearing this, Martin instructs some of them to go and meet him."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 21,
+                            "name": "Sulpitius Severus: Life of Saint Martin 21:10",
+                            "text": "On their doing so, the man was found almost dead at no great distance from the monastery."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 21,
+                            "name": "Sulpitius Severus: Life of Saint Martin 21:11",
+                            "text": "Nevertheless, although just drawing his last breath, he made known to the brethren the cause of his wound and death."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 21,
+                            "name": "Sulpitius Severus: Life of Saint Martin 21:12",
+                            "text": "He said that, while he was drawing tighter the thongs which had got loose on the oxen yoked together, one of the oxen, throwing his head free, had wounded him with his horn in the groin."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 21,
+                            "name": "Sulpitius Severus: Life of Saint Martin 21:13",
+                            "text": "And not long after the man expired."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 21,
+                            "name": "Sulpitius Severus: Life of Saint Martin 21:14",
+                            "text": "You see with what judgment of the Lord this power was given to the devil."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 21,
+                            "name": "Sulpitius Severus: Life of Saint Martin 21:15",
+                            "text": "This was a marvelous feature in Martin that not only on this occasion to which I have specially referred, but on many occasions of the same kind, in fact as often as such things occurred, he perceived them long beforehand, and disclosed the things which had been revealed to him to the brethren."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 22,
+                    "name": "Sulpitius Severus: Life of Saint Martin 22",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 22,
+                            "name": "Sulpitius Severus: Life of Saint Martin 22:1",
+                            "text": "Chapter XXII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 22,
+                            "name": "Sulpitius Severus: Life of Saint Martin 22:2",
+                            "text": "Martin preaches Repentance even to the Devil."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 22,
+                            "name": "Sulpitius Severus: Life of Saint Martin 22:3",
+                            "text": "Now, the devil, while he tried to impose upon the holy man by a thousand injurious arts, often thrust himself upon him in a visible form, but in very various shapes."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 22,
+                            "name": "Sulpitius Severus: Life of Saint Martin 22:4",
+                            "text": "For sometimes he presented himself to his view changed into the person of Jupiter, often into that of Mercury and Minerva."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 22,
+                            "name": "Sulpitius Severus: Life of Saint Martin 22:5",
+                            "text": "Often, too, were heard words of reproach, in which the crowd of demons assailed Martin with scurrilous expressions."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 22,
+                            "name": "Sulpitius Severus: Life of Saint Martin 22:6",
+                            "text": "But knowing that all were false and groundless, he was not affected by the charges brought against him."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 22,
+                            "name": "Sulpitius Severus: Life of Saint Martin 22:7",
+                            "text": "Moreover, some of the brethren bore witness that they had heard a demon reproaching Martin in abusive terms, and asking why he had taken back, on their subsequent repentance, certain of the brethren who had, some time previously, lost their baptism by falling into various errors."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 22,
+                            "name": "Sulpitius Severus: Life of Saint Martin 22:8",
+                            "text": "The demon set forth the crimes of each of them; but they added that Martin, resisting the devil firmly, answered him, that by-past sins are cleansed away by the leading of a better life, and that through the mercy of God, those are to be absolved from their sins who have given up their evil ways."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 22,
+                            "name": "Sulpitius Severus: Life of Saint Martin 22:9",
+                            "text": "The devil saying in opposition to this that such guilty men as those referred to did not come within the pale of pardon, and that no mercy was extended by the Lord to those who had once fallen away, Martin is said to have cried out in words to the following effect: \"If thou, thyself, wretched being, wouldst but desist from attacking mankind, and even, at this period, when the day of judgment is at hand, wouldst only repent of your deeds, I, with a true confidence in the Lord, would promise you the mercy of Christ\"."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 22,
+                            "name": "Sulpitius Severus: Life of Saint Martin 22:10",
+                            "text": "O what a holy boldness with respect to the loving-kindness of the Lord, in which, although he could not assert authority, he nevertheless showed the feelings dwelling within him! And since our discourse has here sprung up concerning the devil and his devices, it does not seem away from the point, although the matter does not  bear immediately upon Martin, to relate what took place; both because the virtues of Martin do, to some extent, appear in the transaction, and the incident, which was worthy of a miracle, will properly be put on record, with the view of furnishing a caution, should anything of a similar character subsequently occur."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 23,
+                    "name": "Sulpitius Severus: Life of Saint Martin 23",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 23,
+                            "name": "Sulpitius Severus: Life of Saint Martin 23:1",
+                            "text": "Chapter XXIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 23,
+                            "name": "Sulpitius Severus: Life of Saint Martin 23:2",
+                            "text": "A Case of Diabolic Deception."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 23,
+                            "name": "Sulpitius Severus: Life of Saint Martin 23:3",
+                            "text": "There was a certain man, Clarus by name, a most noble youth, who afterwards became a presbyter, and who is now, through his happy departure from this world, numbered among the saints."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 23,
+                            "name": "Sulpitius Severus: Life of Saint Martin 23:4",
+                            "text": "He, leaving all others, betook himself to Martin, and in a short time became distinguished for the most exalted faith, and for all sorts of excellence."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 23,
+                            "name": "Sulpitius Severus: Life of Saint Martin 23:5",
+                            "text": "Now, it came to pass that, when he had erected an abode for himself not far from the monastery of the bishop, and many brethren were staying with him, a certain youth, Anatolius by name, having, under the profession of a monk, falsely assumed every appearance of humility and innocence, came to him, and lived for some time on the common store along with the rest."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 23,
+                            "name": "Sulpitius Severus: Life of Saint Martin 23:6",
+                            "text": "Then, as time went on, he began to affirm that angels were in the habit of talking with him."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 23,
+                            "name": "Sulpitius Severus: Life of Saint Martin 23:7",
+                            "text": "As no one gave any credit to his words, he urged a number of the brethren to believe by certain signs."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 23,
+                            "name": "Sulpitius Severus: Life of Saint Martin 23:8",
+                            "text": "At length he went to such a length as to declare that angels passed between him and God; and now he wished that he should be regarded as one of the prophets."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 23,
+                            "name": "Sulpitius Severus: Life of Saint Martin 23:9",
+                            "text": "Clarus, however, could by no means be induced to believe."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 23,
+                            "name": "Sulpitius Severus: Life of Saint Martin 23:10",
+                            "text": "He then began to threaten Clarus with the anger of God and present afflictions, because he did not believe one of the saints."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 23,
+                            "name": "Sulpitius Severus: Life of Saint Martin 23:11",
+                            "text": "At the last, he is related to have burst forth with the following declaration: \"Behold, the Lord will this night give me a white robe out of heaven, clothed in which, I will dwell in the midst of you; and that will be to you a sign that I am the Power of God, inasmuch as I have been presented with the garment of God\"."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 23,
+                            "name": "Sulpitius Severus: Life of Saint Martin 23:12",
+                            "text": "Then truly the expectation of all was highly raised by this profession."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 23,
+                            "name": "Sulpitius Severus: Life of Saint Martin 23:13",
+                            "text": "Accordingly, about the middle of the night, it was seen, by the noise of people moving eagerly about, that the whole monastery in the place was excited."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 23,
+                            "name": "Sulpitius Severus: Life of Saint Martin 23:14",
+                            "text": "It might be seen, too, that the cell in which the young man referred to lived was glittering with numerous lights; and the whisperings of those moving about in it, as well as a kind of murmur of many voices, could be heard."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 23,
+                            "name": "Sulpitius Severus: Life of Saint Martin 23:15",
+                            "text": "Then, on silence being secured, the youth coming forth calls one of the brethren, Sabatius by name, to himself, and shows him the robe in which he had been clothed."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 23,
+                            "name": "Sulpitius Severus: Life of Saint Martin 23:16",
+                            "text": "He again, filled with amazement, gathers the rest together, and Clarus himself also runs up; and a light being obtained, they all carefully inspect the garment."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 23,
+                            "name": "Sulpitius Severus: Life of Saint Martin 23:17",
+                            "text": "Now, it was of the utmost softness, of marvelous brightness, and of glittering purple, and yet no one could discover what was its nature, or of what sort of fleece it had been formed."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 23,
+                            "name": "Sulpitius Severus: Life of Saint Martin 23:18",
+                            "text": "However, when it was more minutely examined by the eyes or fingers, it seemed nothing else than a garment."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 23,
+                            "name": "Sulpitius Severus: Life of Saint Martin 23:19",
+                            "text": "In the meantime, Clarus urges upon the brethren to be earnest in prayer, that the Lord would show them more clearly what it really was."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 23,
+                            "name": "Sulpitius Severus: Life of Saint Martin 23:20",
+                            "text": "Accordingly, the rest of the night was spent in singing hymns and psalms."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 23,
+                            "name": "Sulpitius Severus: Life of Saint Martin 23:21",
+                            "text": "But when day broke, Clarus wished to take the young man by the hand, and bring him to Martin, being well aware that he could not be deceived by any arts of the devil."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 23,
+                            "name": "Sulpitius Severus: Life of Saint Martin 23:22",
+                            "text": "Then, indeed, the miserable man began to resist and refuse, and affirmed that he had been forbidden to show himself to Martin."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 23,
+                            "name": "Sulpitius Severus: Life of Saint Martin 23:23",
+                            "text": "And when they compelled him to go against his will, the garment vanished from among the hands of those who were conducting him."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 23,
+                            "name": "Sulpitius Severus: Life of Saint Martin 23:24",
+                            "text": "Wherefore, who can doubt that this, too, was an illustration of the power of Martin, so that the devil could no longer dissemble or conceal his own deception, when it was to be submitted to the eyes of Martin?."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 24,
+                    "name": "Sulpitius Severus: Life of Saint Martin 24",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 24,
+                            "name": "Sulpitius Severus: Life of Saint Martin 24:1",
+                            "text": "Chapter XXIV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 24,
+                            "name": "Sulpitius Severus: Life of Saint Martin 24:2",
+                            "text": "Martin is tempted by the Wiles of the Devil."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 24,
+                            "name": "Sulpitius Severus: Life of Saint Martin 24:3",
+                            "text": "It was found, again, that about the same time there was a young man in Spain, who, having by many signs obtained for himself authority among the people, was puffed up to such a pitch that he gave himself out as being Elias."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 24,
+                            "name": "Sulpitius Severus: Life of Saint Martin 24:4",
+                            "text": "And when multitudes had too readily believed this, he went on to say that he was actually Christ; and he succeeded so well even in this delusion that a certain bishop named Rufus worshiped him as being the Lord."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 24,
+                            "name": "Sulpitius Severus: Life of Saint Martin 24:5",
+                            "text": "For so doing, we have seen this bishop at a later date deprived of his office."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 24,
+                            "name": "Sulpitius Severus: Life of Saint Martin 24:6",
+                            "text": "Many of the brethren have also informed me that at the same time one arose in the East, who boasted that he was John."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 24,
+                            "name": "Sulpitius Severus: Life of Saint Martin 24:7",
+                            "text": "We may infer from this, since false prophets of such a kind have appeared, that the coming of Antichrist is at hand; for he is already practicing in these persons the mystery of iniquity."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 24,
+                            "name": "Sulpitius Severus: Life of Saint Martin 24:8",
+                            "text": "And truly I think this point should not be passed over, with what arts the devil about this very time tempted Martin."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 24,
+                            "name": "Sulpitius Severus: Life of Saint Martin 24:9",
+                            "text": "For, on a certain day, prayer having been previously offered, and the fiend himself being surrounded by a purple light, in order that he might the more easily deceive people by the brilliance of the splendor assumed, clothed also  in a royal robe, and with a crown of precious stones and gold encircling his head, his shoes too being inlaid with gold, while he presented a tranquil countenance, and a generally rejoicing aspect, so that no such thought as that he was the devil might be entertained—he stood by the side of Martin as he was praying in his cell."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 24,
+                            "name": "Sulpitius Severus: Life of Saint Martin 24:10",
+                            "text": "The saint being dazzled by his first appearance, both preserved a long and deep silence."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 24,
+                            "name": "Sulpitius Severus: Life of Saint Martin 24:11",
+                            "text": "This was first broken by the devil, who said: \"Acknowledge, Martin, who it is that you behold."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 24,
+                            "name": "Sulpitius Severus: Life of Saint Martin 24:12",
+                            "text": "I am Christ; and being just about to descend to earth, I wished first to manifest myself to thee\"."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 24,
+                            "name": "Sulpitius Severus: Life of Saint Martin 24:13",
+                            "text": "When Martin kept silence on hearing these words, and gave no answer whatever, the devil dared to repeat his audacious declaration: \"Martin, why do you hesitate to believe, when you see? I am Christ\"."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 24,
+                            "name": "Sulpitius Severus: Life of Saint Martin 24:14",
+                            "text": "Then Martin, the Spirit revealing the truth to him, that he might understand it was the devil, and not God, replied as follows: \"The Lord Jesus did not predict that he would come clothed in purple, and with a glittering crown upon his head."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 24,
+                            "name": "Sulpitius Severus: Life of Saint Martin 24:15",
+                            "text": "I will not believe that Christ has come, unless he appears with that appearance and form in which he suffered, and openly displaying the marks of his wounds upon the cross\"."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 24,
+                            "name": "Sulpitius Severus: Life of Saint Martin 24:16",
+                            "text": "On hearing these words, the devil vanished like smoke, and filled the cell with such a disgusting smell, that he left unmistakable evidences of his real character."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 24,
+                            "name": "Sulpitius Severus: Life of Saint Martin 24:17",
+                            "text": "This event, as I have just related, took place in the way which I have stated, and my information regarding it was derived from the lips of Martin himself; therefore let no one regard it as fabulous."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 25,
+                    "name": "Sulpitius Severus: Life of Saint Martin 25",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 25,
+                            "name": "Sulpitius Severus: Life of Saint Martin 25:1",
+                            "text": "Chapter XXV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 25,
+                            "name": "Sulpitius Severus: Life of Saint Martin 25:2",
+                            "text": "Intercourse of Sulpitius with Martin."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 25,
+                            "name": "Sulpitius Severus: Life of Saint Martin 25:3",
+                            "text": "For since I, having long heard accounts of his faith, life and virtues, burned with a desire of knowing him, I undertook what was to me a pleasant journey for the purpose of seeing him."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 25,
+                            "name": "Sulpitius Severus: Life of Saint Martin 25:4",
+                            "text": "At the same time, because already my mind was inflamed with the desire of writing his life, I obtained my information partly from himself, in so far as I could venture to question him, and partly from those who had lived with him, or well knew the facts of the case."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 25,
+                            "name": "Sulpitius Severus: Life of Saint Martin 25:5",
+                            "text": "And at this time it is scarcely credible with what humility and with what kindness he received me; while he cordially wished me joy, and rejoiced in the Lord that he had been held in such high estimation by me that I had undertaken a journey owing to my desire of seeing him."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 25,
+                            "name": "Sulpitius Severus: Life of Saint Martin 25:6",
+                            "text": "Unworthy me! (in fact, I hardly dare acknowledge it), that he should have deigned to admit me to fellowship with him! He went so far as in person to present me with water to wash my hands, and at eventide he himself washed my feet; nor had I sufficient courage to resist or oppose his doing so."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 25,
+                            "name": "Sulpitius Severus: Life of Saint Martin 25:7",
+                            "text": "In fact, I felt so overcome by the authority he unconsciously exerted, that I deemed it unlawful to do anything but acquiesce in his arrangements."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 25,
+                            "name": "Sulpitius Severus: Life of Saint Martin 25:8",
+                            "text": "His conversation with me was all directed to such points as the following: that the allurements of this world and secular burdens were to be abandoned in order that we might be free and unencumbered in following the Lord Jesus; and he pressed upon me as an admirable example in present circumstances the conduct of that distinguished man Paulinus, of whom I have made mention above."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 25,
+                            "name": "Sulpitius Severus: Life of Saint Martin 25:9",
+                            "text": "Martin declared of him that, by parting with his great possessions and following Christ, as he did, he showed himself almost the only one who in these times had fully obeyed the precepts of the Gospel."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 25,
+                            "name": "Sulpitius Severus: Life of Saint Martin 25:10",
+                            "text": "He insisted strongly that that was the man who should be made the object of our imitation, adding that the present age was fortunate in possessing such a model of faith and virtue."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 25,
+                            "name": "Sulpitius Severus: Life of Saint Martin 25:11",
+                            "text": "For Paulinus, being rich and having many possessions, by selling them all and giving them to the poor according to the expressed will of the Lord, had, he said, made possible by actual proof what appeared impossible of accomplishment."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 25,
+                            "name": "Sulpitius Severus: Life of Saint Martin 25:12",
+                            "text": "What power and dignity there were in Martin's words and conversation! How active he was, how practical, and how prompt and ready in solving questions connected with Scripture! And because I know that many are incredulous on this point,—for indeed I have met with persons who did not believe me when I related such things,—I call to witness Jesus, and our common hope as Christians, that I never heard from any other lips than those of Martin such exhibitions of knowledge and genius, or such specimens of good and pure speech."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 25,
+                            "name": "Sulpitius Severus: Life of Saint Martin 25:13",
+                            "text": "But yet, how insignificant is all such praise when compared with the virtues which he possessed! Still, it is remarkable that in a man who had no claim to be called learned, even this attribute [of high intelligence] was not wanting."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 26,
+                    "name": "Sulpitius Severus: Life of Saint Martin 26",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 26,
+                            "name": "Sulpitius Severus: Life of Saint Martin 26:1",
+                            "text": "Chapter XXVI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 26,
+                            "name": "Sulpitius Severus: Life of Saint Martin 26:2",
+                            "text": "Words cannot describe the Excellences of Martin."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 26,
+                            "name": "Sulpitius Severus: Life of Saint Martin 26:3",
+                            "text": "But now my book must be brought to an end, and my discourse finished."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 26,
+                            "name": "Sulpitius Severus: Life of Saint Martin 26:4",
+                            "text": "This is not because all that was worthy of being said concerning Martin is now exhausted, but because I, just as sluggish poets grow less careful towards the end of their work, give over, being baffled by the immensity of the matter."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 26,
+                            "name": "Sulpitius Severus: Life of Saint Martin 26:5",
+                            "text": "For, although his  outward deeds could in some sort of way be set forth in words, no language, I truly own, can ever be capable of describing his inner life and daily conduct, and his mind always bent upon the things of heaven."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 26,
+                            "name": "Sulpitius Severus: Life of Saint Martin 26:6",
+                            "text": "No one can adequately make known his perseverance and self-mastery in abstinence and fastings, or his power in watchings and prayers, along with the nights, as well as days, which were spent by him, while not a moment was separated from the service of God, either for indulging in ease, or engaging in business."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 26,
+                            "name": "Sulpitius Severus: Life of Saint Martin 26:7",
+                            "text": "But, in fact, he did not indulge either in food or sleep, except in so far as the necessities of nature required."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 26,
+                            "name": "Sulpitius Severus: Life of Saint Martin 26:8",
+                            "text": "I freely confess that, if, as the saying is, Homer himself were to ascend from the shades below, he could not do justice to this subject in words; to such an extent did all excellences surpass in Martin the possibility of being embodied in language."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 26,
+                            "name": "Sulpitius Severus: Life of Saint Martin 26:9",
+                            "text": "Never did a single hour or moment pass in which he was not either actually engaged in prayer; or, if it happened that he was occupied with something else, still he never let his mind loose from prayer."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 26,
+                            "name": "Sulpitius Severus: Life of Saint Martin 26:10",
+                            "text": "In truth, just as it is the custom of blacksmiths, in the midst of their work to beat their own anvil as a sort of relief to the laborer, so Martin even when he appeared to be doing something else, was still engaged in prayer."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 26,
+                            "name": "Sulpitius Severus: Life of Saint Martin 26:11",
+                            "text": "O truly blessed man in whom there was no guile—judging no man, condemning no man, returning evil for evil to no man! He displayed indeed such marvelous patience in the endurance of injuries, that even when he was chief priest, he allowed himself to be wronged by the lowest clerics with impunity; nor did he either remove them from the office on account of such conduct, or, as far as in him lay, repel them from a place in his affection."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 27,
+                    "name": "Sulpitius Severus: Life of Saint Martin 27",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 27,
+                            "name": "Sulpitius Severus: Life of Saint Martin 27:1",
+                            "text": "Chapter XXVII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 27,
+                            "name": "Sulpitius Severus: Life of Saint Martin 27:2",
+                            "text": "Wonderful Piety of Martin."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 27,
+                            "name": "Sulpitius Severus: Life of Saint Martin 27:3",
+                            "text": "No one ever saw him enraged, or excited, or lamenting, or laughing; he was always one and the same: displaying a kind of heavenly happiness in his countenance, he seemed to have passed the ordinary limits of human nature."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 27,
+                            "name": "Sulpitius Severus: Life of Saint Martin 27:4",
+                            "text": "Never was there any word on his lips but Christ, and never was there a feeling in his heart except piety, peace, and tender mercy."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 27,
+                            "name": "Sulpitius Severus: Life of Saint Martin 27:5",
+                            "text": "Frequently, too, he used to weep for the sins of those who showed themselves his revilers—those who, as he led his retired and tranquil life, slandered him with poisoned tongue and a viper's mouth."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 27,
+                            "name": "Sulpitius Severus: Life of Saint Martin 27:6",
+                            "text": "And truly we have had experience of some who were envious of his virtues and his life—who really hated in him what they did not see in themselves, and what they had not power to imitate."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 27,
+                            "name": "Sulpitius Severus: Life of Saint Martin 27:7",
+                            "text": "And—O wickedness worthy of deepest grief and groans!—some of his calumniators, although very few, some of his maligners, I say, were reported to be no others than bishops! Here, however, it is not necessary to name any one, although a good many of these people are still venting their spleen against myself."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 27,
+                            "name": "Sulpitius Severus: Life of Saint Martin 27:8",
+                            "text": "I shall deem it sufficient that, if any one of them reads this account, and perceives that he is himself pointed at, he may have the grace to blush."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 27,
+                            "name": "Sulpitius Severus: Life of Saint Martin 27:9",
+                            "text": "But if, on the other hand, he shows anger, he will, by that very fact, own that he is among those spoken of, though all the time perhaps I have been thinking of some other person."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 27,
+                            "name": "Sulpitius Severus: Life of Saint Martin 27:10",
+                            "text": "I shall, however, by no means feel ashamed if any people of that sort include myself in their hatred along with such a man as Martin."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 27,
+                            "name": "Sulpitius Severus: Life of Saint Martin 27:11",
+                            "text": "I am quite persuaded of this, that the present little work will give pleasure to all truly good men."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 27,
+                            "name": "Sulpitius Severus: Life of Saint Martin 27:12",
+                            "text": "And I shall only say further that, if any one read this narrative in an unbelieving spirit, he himself will fall into sin."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 27,
+                            "name": "Sulpitius Severus: Life of Saint Martin 27:13",
+                            "text": "I am conscious to myself that I have been induced by belief in the facts, and by the love of Christ, to write these things; and that, in doing so, I have set forth what is well known, and recorded what is true; and, as I trust, that man will have a reward prepared by God, not who shall read these things, but who shall believe them."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,321 @@
+{
+    "books": [
+        {
+            "name": "Council of Neocaesarea",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Council of Neocaesarea 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Council of Neocaesarea 1:1",
+                            "text": "The Canons of the Council of Neocaesarea:  Canon I."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Council of Neocaesarea 1:2",
+                            "text": "If a presbyter marry, let him be removed from his order; but if he commit fornication or adultery, let him be altogether cast out [i-e: of communion] and put to penance."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 2,
+                    "name": "Council of Neocaesarea 2",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 2,
+                            "name": "Council of Neocaesarea 2:1",
+                            "text": "Canon II."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 2,
+                            "name": "Council of Neocaesarea 2:2",
+                            "text": "If a woman shall have married two brothers, let her be cast out [i-e: of communion] until her death."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 2,
+                            "name": "Council of Neocaesarea 2:3",
+                            "text": "Nevertheless, at the hour of death she may, as an act of mercy, be received to penance, provided she declare that she will break the marriage, should she recover."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 2,
+                            "name": "Council of Neocaesarea 2:4",
+                            "text": "But if the woman in such a marriage, or the man, die, penance for the survivor shall be very difficult."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 3,
+                    "name": "Council of Neocaesarea 3",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 3,
+                            "name": "Council of Neocaesarea 3:1",
+                            "text": "Canon III."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 3,
+                            "name": "Council of Neocaesarea 3:2",
+                            "text": "Concerning those who fall into many marriages, the appointed time of penance is well known; but their manner of living and faith shortens the time."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 4,
+                    "name": "Council of Neocaesarea 4",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 4,
+                            "name": "Council of Neocaesarea 4:1",
+                            "text": "Canon IV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 4,
+                            "name": "Council of Neocaesarea 4:2",
+                            "text": "If any man lusting after a woman purposes to lie with her, and his design does not come to effect, it is evident that he has been saved by grace."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 5,
+                    "name": "Council of Neocaesarea 5",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 5,
+                            "name": "Council of Neocaesarea 5:1",
+                            "text": "Canon V."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 5,
+                            "name": "Council of Neocaesarea 5:2",
+                            "text": "If a catechumen coming into the Church have taken his place in the order of catechumens, and fall into sin, let him, if a kneeler, become a hearer and sin no more."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 5,
+                            "name": "Council of Neocaesarea 5:3",
+                            "text": "But should he again sin while a hearer, let him be cast out."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 6,
+                    "name": "Council of Neocaesarea 6",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 6,
+                            "name": "Council of Neocaesarea 6:1",
+                            "text": "Canon VI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 6,
+                            "name": "Council of Neocaesarea 6:2",
+                            "text": "Concerning a woman with child, it is determined that she ought to be baptized whensoever she will; for in this the woman communicates nothing to the child, since the bringing forward to profession is evidently the individual [privilege] of every single person."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 7,
+                    "name": "Council of Neocaesarea 7",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 7,
+                            "name": "Council of Neocaesarea 7:1",
+                            "text": "Canon VII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 7,
+                            "name": "Council of Neocaesarea 7:2",
+                            "text": "A presbyter shall not be a guest at the nuptials of persons contracting a second marriage; for, since the digamist is worthy of penance, what kind of a presbyter shall he be, who, by being present at the feast, sanctioned the marriage?."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 8,
+                    "name": "Council of Neocaesarea 8",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 8,
+                            "name": "Council of Neocaesarea 8:1",
+                            "text": "Canon VIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 8,
+                            "name": "Council of Neocaesarea 8:2",
+                            "text": "If the wife of a layman has committed adultery and been clearly convicted, such [a husband] cannot enter the ministry; and if she commit adultery after his ordination, he must put her away; but if he retain her, he can have no part in the ministry committed to him."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 9,
+                    "name": "Council of Neocaesarea 9",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 9,
+                            "name": "Council of Neocaesarea 9:1",
+                            "text": "Canon IX."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 9,
+                            "name": "Council of Neocaesarea 9:2",
+                            "text": "A presbyter who has been promoted after having committed carnal sin, and who shall confess that he had sinned before his ordination, shall not make the oblation, though he may remain in his other functions on account of his zeal in other respects; for the majority have affirmed that ordination blots out other kinds of sins."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 9,
+                            "name": "Council of Neocaesarea 9:3",
+                            "text": "But if he do not confess and cannot be openly convicted, the decision shall depend upon himself."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 10,
+                    "name": "Council of Neocaesarea 10",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 10,
+                            "name": "Council of Neocaesarea 10:1",
+                            "text": "Canon X."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 10,
+                            "name": "Council of Neocaesarea 10:2",
+                            "text": "Likewise, if a deacon have fallen into the same sin, let him have the rank of a minister."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 11,
+                    "name": "Council of Neocaesarea 11",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 11,
+                            "name": "Council of Neocaesarea 11:1",
+                            "text": "Canon XI."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 11,
+                            "name": "Council of Neocaesarea 11:2",
+                            "text": "Let not a presbyter be ordained before he is thirty years of age, even though he be in all respects a worthy man, but let him be made to wait."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 11,
+                            "name": "Council of Neocaesarea 11:3",
+                            "text": "For our Lord Jesus Christ was baptized and began to teach in his thirtieth year."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 12,
+                    "name": "Council of Neocaesarea 12",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 12,
+                            "name": "Council of Neocaesarea 12:1",
+                            "text": "Canon XII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 12,
+                            "name": "Council of Neocaesarea 12:2",
+                            "text": "If any one be baptized when he is ill, forasmuch as his [profession of] faith was not voluntary, but of necessity [i-e: though fear of death] he cannot be promoted to the presbyterate, unless on account of his subsequent [display of] zeal and faith, and because of a lack of men."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 13,
+                    "name": "Council of Neocaesarea 13",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 13,
+                            "name": "Council of Neocaesarea 13:1",
+                            "text": "Canon XIII."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 13,
+                            "name": "Council of Neocaesarea 13:2",
+                            "text": "Country presbyters may not make the oblation in the church of the city when the bishop or presbyters of the city are present; nor may they give the Bread or the Cup with prayer."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 13,
+                            "name": "Council of Neocaesarea 13:3",
+                            "text": "If, however, they be absent, and he [i-e:, a country presbyter] alone be called to prayer, he may give them."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 14,
+                    "name": "Council of Neocaesarea 14",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 14,
+                            "name": "Council of Neocaesarea 14:1",
+                            "text": "Canon XIV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 14,
+                            "name": "Council of Neocaesarea 14:2",
+                            "text": "The chorepiscopi, however, are indeed after the pattern of the Seventy; and as fellow-servants, on account of their devotion to the poor, they have the honour of making the oblation."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 15,
+                    "name": "Council of Neocaesarea 15",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 15,
+                            "name": "Council of Neocaesarea 15:1",
+                            "text": "Canon XV."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 15,
+                            "name": "Council of Neocaesarea 15:2",
+                            "text": "The deacons ought to be seven in number, according to the canon, even if the city be great."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 15,
+                            "name": "Council of Neocaesarea 15:3",
+                            "text": "Of this you will be persuaded from the Book of the Acts."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

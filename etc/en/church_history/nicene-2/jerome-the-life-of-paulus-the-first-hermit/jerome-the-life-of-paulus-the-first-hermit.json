@@ -1,0 +1,987 @@
+{
+    "books": [
+        {
+            "name": "Jerome: The Life of Paulus the First Hermit",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Jerome: The Life of Paulus the First Hermit 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:1",
+                            "text": "The Life of Paulus the First Hermit."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:2",
+                            "text": "The Life of Paulus was written in the year 374 or 375 during Jerome's stay in the desert of Syria, as is seen from c."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:3",
+                            "text": "6, and was dedicated to Paulus of Concordia as stated in Jerome's Ep."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:4",
+                            "text": "x."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:5",
+                            "text": "c."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:6",
+                            "text": "3."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:7",
+                            "text": "1."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:8",
+                            "text": "It has been a subject of wide-spread and frequent discussion what monk was the first to give a signal example of the hermit life."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:9",
+                            "text": "For some going back too far have found a beginning in those holy men Elias and John, of whom the former seems to have been more than a monk and the latter to have begun to prophesy before his birth."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:10",
+                            "text": "Others, and their opinion is that commonly received, maintain that Antony was the originator of this mode of life, which view is partly true."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:11",
+                            "text": "Partly I say, for the fact is not so much that he preceded the rest as that they all derived from him the necessary stimulus."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:12",
+                            "text": "But it is asserted even at the present day by Amathas and Macarius, two of Antony's disciples, the former of whom laid his master in the grave, that a certain Paul of Thebes was the leader in the movement, though not the first to bear the name, and this opinion has my approval also."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:13",
+                            "text": "Some as they think fit circulate stories such as this—that he was a man living in an underground cave with flowing hair down to his feet, and invent many incredible tales which it would be useless to detail."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:14",
+                            "text": "Nor does the opinion of men who lie without any sense of shame seem worthy of refutation."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:15",
+                            "text": "So then inasmuch as both Greek and Roman writers have handed down careful accounts of Antony, I have determined to write a short history of Paul's early and latter days, more because the thing has been passed over than from confidence in my own ability."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:16",
+                            "text": "What his middle life was like, and what snares of Satan he experienced, no man, it is thought, has yet discovered."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:17",
+                            "text": "2."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:18",
+                            "text": "During the persecutions of Decius and Valerian, when Cornelius at Rome and Cyprian at Carthage shed their blood in blessed martyrdom, many churches in Egypt and the Thebaid were laid waste by the fury of the storm."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:19",
+                            "text": "At that time the Christians would often pray that they might be smitten with the sword for the name of Christ."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:20",
+                            "text": "But the desire of the crafty foe was to slay the soul, not the body; and this he did by searching diligently for slow but deadly tortures."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:21",
+                            "text": "In the words of Cyprian himself who suffered at his hands: they who wished to die were not suffered to be slain."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:22",
+                            "text": "We give two illustrations, both as specially noteworthy and to make the cruelty of the enemy better known."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:23",
+                            "text": "3."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:24",
+                            "text": "A martyr, steadfast in faith, who stood fast as a conqueror amidst the racks and burning plates, was ordered by him to be smeared with honey and to be made to lie under a blazing sun with his hands tied behind his back, so that he who had already surmounted the heat of the frying-pan might be vanquished by the stings of flies."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:25",
+                            "text": "Another who was in the bloom of youth was taken by his command to some delightful pleasure gardens, and there amid white lilies and blushing roses, close by a gently murmuring stream, while overhead the soft whisper of the wind played among the leaves of the trees, was laid upon a deep luxurious feather-bed, bound with fetters of sweet garlands to prevent his escape."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:26",
+                            "text": "When all had withdrawn from him a harlot of great beauty drew near and began with voluptuous embrace to throw her arms around his neck, and, wicked even to relate! to handle his person, so that when once the lusts of the flesh were roused, she might accomplish her licentious purpose."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:27",
+                            "text": "What to do, and whither to turn, the soldier of Christ knew not."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:28",
+                            "text": "Unconquered by tortures he was being overcome by pleasure."
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:29",
+                            "text": "At last with an inspiration from heaven he bit off the end of his tongue and spat it in her face as she kissed him."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:30",
+                            "text": "Thus the sensations of lust were subdued by the intense pain which followed."
+                        },
+                        {
+                            "verse": 31,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:31",
+                            "text": "4."
+                        },
+                        {
+                            "verse": 32,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:32",
+                            "text": "While such enormities were being perpetrated in the lower part of the Thebaid, Paul and his newly married sister were bereaved of both their parents, he being about sixteen years of age."
+                        },
+                        {
+                            "verse": 33,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:33",
+                            "text": "He was heir to a rich inheritance, highly skilled in both Greek and Egyptian learning, gifted with a gentle disposition and a deep love for God."
+                        },
+                        {
+                            "verse": 34,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:34",
+                            "text": "Amid the thunders of persecution he retired to a house at a considerable distance and in a more secluded spot."
+                        },
+                        {
+                            "verse": 35,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:35",
+                            "text": "But to what crimes does not the \"accursed thirst for gold\" impel the human heart? His brother-in-law conceived the thought of betraying the youth whom he was bound to conceal."
+                        },
+                        {
+                            "verse": 36,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:36",
+                            "text": "Neither a wife's tears which so often prevail, nor the ties of blood, nor the all-seeing eye of God above him could turn the traitor from his wickedness."
+                        },
+                        {
+                            "verse": 37,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:37",
+                            "text": "\"He came, he was urgent, he acted with cruelty while seeming only to press the claims of affection\"."
+                        },
+                        {
+                            "verse": 38,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:38",
+                            "text": "5."
+                        },
+                        {
+                            "verse": 39,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:39",
+                            "text": "The young man had the tact to understand this, and, conforming his will to the necessity, fled to the mountain wilds to wait for the end of the persecution."
+                        },
+                        {
+                            "verse": 40,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:40",
+                            "text": "He began with easy stages, and repeated halts, to advance into the desert."
+                        },
+                        {
+                            "verse": 41,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:41",
+                            "text": "At length he found a rocky mountain, at the foot of which, closed by a stone, was a cave of no great size."
+                        },
+                        {
+                            "verse": 42,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:42",
+                            "text": "He removed the stone (so eager are men to learn what is hidden), made eager search, and saw within a large hall, open to the sky, but shaded by the wide-spread branches of an ancient palm."
+                        },
+                        {
+                            "verse": 43,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:43",
+                            "text": "The tree, however, did not conceal a fountain of transparent clearness, the waters whereof no sooner gushed forth than the stream was swallowed up in a small opening of the same ground which gave it birth."
+                        },
+                        {
+                            "verse": 44,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:44",
+                            "text": "There were besides in the mountain, which was full of cavities, many habitable places, in which were seen, now rough with rust, anvils and hammers for stamping money."
+                        },
+                        {
+                            "verse": 45,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:45",
+                            "text": "The place, Egyptian writers relate, was a secret mint at the time of Antony's union with Cleopatra."
+                        },
+                        {
+                            "verse": 46,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:46",
+                            "text": "6."
+                        },
+                        {
+                            "verse": 47,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:47",
+                            "text": "Accordingly, regarding his abode as a gift from God, he fell in love with it, and there in prayer and solitude spent all the rest of his life."
+                        },
+                        {
+                            "verse": 48,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:48",
+                            "text": "The palm afforded him food and clothing."
+                        },
+                        {
+                            "verse": 49,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:49",
+                            "text": "And, that no one may deem this impossible, I call to witness Jesus and His holy angels that I have seen and still see in that part of the desert which lies between Syria and the Saracens' country, monks of whom one was shut up for thirty years and lived on barley bread and muddy water, while another in an old cistern (called in the country dialect of Syria Gubba) kept himself alive on five dried figs a day."
+                        },
+                        {
+                            "verse": 50,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:50",
+                            "text": "What I relate then is so strange that it will appear incredible to those who do not believe the words that \"all things are possible to him that believeth\"."
+                        },
+                        {
+                            "verse": 51,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:51",
+                            "text": "7."
+                        },
+                        {
+                            "verse": 52,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:52",
+                            "text": "But to return to the point at which I digressed."
+                        },
+                        {
+                            "verse": 53,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:53",
+                            "text": "The blessed Paul had already lived on earth the life of heaven for a hundred and thirteen years, and Antony at the age of ninety was dwelling in another place of solitude (as he himself was wont to declare), when the thought occurred to the latter, that no monk more perfect than himself had settled in the desert."
+                        },
+                        {
+                            "verse": 54,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:54",
+                            "text": "However, in the stillness of the night it was revealed to him that there was farther in the desert a much better man than he, and that he ought to go and visit him."
+                        },
+                        {
+                            "verse": 55,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:55",
+                            "text": "So then at break of day the venerable old man, supporting and guiding his weak limbs with a staff, started to go: but what direction to choose he knew not."
+                        },
+                        {
+                            "verse": 56,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:56",
+                            "text": "Scorching noontide came, with a broiling sun overhead, but still he did not suffer himself to be turned from the journey he had begun."
+                        },
+                        {
+                            "verse": 57,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:57",
+                            "text": "Said he, \"I believe in my God: some time or other He will shew me the fellow-servant whom He promised me\"."
+                        },
+                        {
+                            "verse": 58,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:58",
+                            "text": "He said no more."
+                        },
+                        {
+                            "verse": 59,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:59",
+                            "text": "All at once he beholds a creature of mingled shape, half horse half man, called by the poets Hippocentaur."
+                        },
+                        {
+                            "verse": 60,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:60",
+                            "text": "At the sight of this he arms himself by making on his forehead the sign of salvation, and then exclaims, \"Holloa! Where in these parts is a servant of God living?\" The monster after gnashing out some kind of outlandish utterance, in words broken rather than spoken through his bristling lips, at length finds a friendly mode of communication, and extending his right hand points out the way desired."
+                        },
+                        {
+                            "verse": 61,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:61",
+                            "text": "Then with swift flight he crosses the spreading plain and vanishes from the sight of his wondering companion."
+                        },
+                        {
+                            "verse": 62,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:62",
+                            "text": "But whether the devil took this shape to terrify him, or whether it be that the desert which is known to abound in monstrous animals engenders that kind of creature also, we cannot decide."
+                        },
+                        {
+                            "verse": 63,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:63",
+                            "text": "8."
+                        },
+                        {
+                            "verse": 64,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:64",
+                            "text": "Antony was amazed, and thinking over what he had seen went on his way."
+                        },
+                        {
+                            "verse": 65,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:65",
+                            "text": "Before long in a small rocky valley shut in on all sides he sees a mannikin with hooked snout, horned forehead, and extremities like goats' feet."
+                        },
+                        {
+                            "verse": 66,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:66",
+                            "text": "When he saw this, Antony like a good soldier seized the shield of faith and the helmet of hope: the creature none the less began to offer to him the fruit of the palm-trees to support him on his journey and as it were pledges of peace."
+                        },
+                        {
+                            "verse": 67,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:67",
+                            "text": "Antony perceiving this stopped and asked who he was."
+                        },
+                        {
+                            "verse": 68,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:68",
+                            "text": "The answer he received from him was this: \"I am a mortal being and one of those inhabitants of the desert whom the Gentiles deluded by various forms of error worship under the names of Fauns, Satyrs, and Incubi."
+                        },
+                        {
+                            "verse": 69,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:69",
+                            "text": "I am sent to represent my tribe."
+                        },
+                        {
+                            "verse": 70,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:70",
+                            "text": "We pray you in our behalf to entreat the favour of your Lord and ours, who, we have learnt, came once to save the world, and 'whose sound has gone forth into all the earth."
+                        },
+                        {
+                            "verse": 71,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:71",
+                            "text": "'\" As he uttered such words as these, the aged traveller's cheeks streamed with tears, the marks of his deep feeling, which he shed in the fulness of his joy."
+                        },
+                        {
+                            "verse": 72,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:72",
+                            "text": "He rejoiced over the Glory of Christ and the destruction of Satan, and marvelling all the while that he could understand the Satyr's language, and striking the ground with his staff, he said, \"Woe to thee, Alexandria, who instead of God worshippest monsters! Woe to thee, harlot city, into which have flowed together the demons of the whole world! What will you say now? Beasts speak of Christ, and you instead of God worship monsters\"."
+                        },
+                        {
+                            "verse": 73,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:73",
+                            "text": "He had not finished speaking when, as if on wings, the wild creature fled away."
+                        },
+                        {
+                            "verse": 74,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:74",
+                            "text": "Let no one scruple to believe this incident; its truth is supported by what took place when Constantine was on the throne, a matter of which the whole world was witness."
+                        },
+                        {
+                            "verse": 75,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:75",
+                            "text": "For a man of that kind was brought alive to Alexandria and shewn as a wonderful sight to the people."
+                        },
+                        {
+                            "verse": 76,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:76",
+                            "text": "Afterwards his lifeless body, to prevent its decay through the summer heat, was preserved in salt and brought to Antioch that the Emperor might see it."
+                        },
+                        {
+                            "verse": 77,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:77",
+                            "text": "9."
+                        },
+                        {
+                            "verse": 78,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:78",
+                            "text": "To pursue my proposed story."
+                        },
+                        {
+                            "verse": 79,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:79",
+                            "text": "Antony traversed the region on which he had entered, seeing only the traces of wild beasts, and the wide waste of the desert."
+                        },
+                        {
+                            "verse": 80,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:80",
+                            "text": "What to do, whither to wend his way, he knew not."
+                        },
+                        {
+                            "verse": 81,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:81",
+                            "text": "Another day had now passed."
+                        },
+                        {
+                            "verse": 82,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:82",
+                            "text": "One thing alone was left him, his confident belief that he could not be forsaken by Christ."
+                        },
+                        {
+                            "verse": 83,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:83",
+                            "text": "The darkness of the second night he wore away in prayer."
+                        },
+                        {
+                            "verse": 84,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:84",
+                            "text": "While it was still twilight, he saw not far away a she-wolf gasping with parching thirst and creeping to the foot of the mountain."
+                        },
+                        {
+                            "verse": 85,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:85",
+                            "text": "He followed it with his eyes; and after the beast had disappeared in a cave he drew near and began to look within."
+                        },
+                        {
+                            "verse": 86,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:86",
+                            "text": "His curiosity profited nothing: the darkness hindered vision."
+                        },
+                        {
+                            "verse": 87,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:87",
+                            "text": "But, as the Scripture saith, perfect love casteth out fear."
+                        },
+                        {
+                            "verse": 88,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:88",
+                            "text": "With halting step and bated breath he entered, carefully feeling his way; he advanced little by little and repeatedly listened for the sound."
+                        },
+                        {
+                            "verse": 89,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:89",
+                            "text": "At length through the fearful midnight darkness a light appeared in the distance."
+                        },
+                        {
+                            "verse": 90,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:90",
+                            "text": "In his eager haste he struck his foot against a stone and roused the echoes; whereupon the blessed Paul closed the open door and made it fast with a bar."
+                        },
+                        {
+                            "verse": 91,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:91",
+                            "text": "Then Antony sank to the ground at the entrance and until the sixth hour or later craved admission, saying, \"Who I am, whence, and why I have come, you know."
+                        },
+                        {
+                            "verse": 92,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:92",
+                            "text": "I know I am not worthy to look upon you: yet unless I see you I will not go away."
+                        },
+                        {
+                            "verse": 93,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:93",
+                            "text": "You welcome beasts: why not a man? I asked and I have found: I knock that it may be opened to me."
+                        },
+                        {
+                            "verse": 94,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:94",
+                            "text": "But if I do not succeed, I will die here on your threshold."
+                        },
+                        {
+                            "verse": 95,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:95",
+                            "text": "You will surely bury me when I am dead\"."
+                        },
+                        {
+                            "verse": 96,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:96",
+                            "text": "\"Such was his constant cry: unmoved he stood."
+                        },
+                        {
+                            "verse": 97,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:97",
+                            "text": "To whom the hero thus brief answer made\"  \"Prayers like these do not mean threats; there is no trickery in tears."
+                        },
+                        {
+                            "verse": 98,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:98",
+                            "text": "Are you surprised at my not welcoming you when you have come here to die?\" Thus with smiles Paul gave him access, and, the door being opened, they threw themselves into each other's arms, greeted one another by name, and joined in thanksgiving to God."
+                        },
+                        {
+                            "verse": 99,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:99",
+                            "text": "10."
+                        },
+                        {
+                            "verse": 100,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:100",
+                            "text": "After the sacred kiss Paul sat down and thus began to address Antony."
+                        },
+                        {
+                            "verse": 101,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:101",
+                            "text": "\"Behold the man whom you have sought with so much toil, his limbs decayed with age, his gray hairs unkempt."
+                        },
+                        {
+                            "verse": 102,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:102",
+                            "text": "You see before you a man who ere long will be dust."
+                        },
+                        {
+                            "verse": 103,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:103",
+                            "text": "But love endures all things."
+                        },
+                        {
+                            "verse": 104,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:104",
+                            "text": "Tell me therefore, I pray you, how fares the human race? Are new homes springing up in the ancient cities? What government directs the world? Are there still some remaining for the demons to carry away by their delusions?\" Thus conversing they noticed with wonder a raven which had settled on the bough of a tree, and was then flying gently down till it came and laid a whole loaf of bread before them."
+                        },
+                        {
+                            "verse": 105,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:105",
+                            "text": "They were astonished, and when it had gone, \"See,\" said Paul, \"the Lord truly loving, truly merciful, has sent us a meal."
+                        },
+                        {
+                            "verse": 106,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:106",
+                            "text": "For the last sixty years I have always received half a loaf: but at your coming Christ has doubled his soldier's rations\"."
+                        },
+                        {
+                            "verse": 107,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:107",
+                            "text": "11."
+                        },
+                        {
+                            "verse": 108,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:108",
+                            "text": "Accordingly, having returned thanks to the Lord, they sat down together on the brink of the glassy spring."
+                        },
+                        {
+                            "verse": 109,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:109",
+                            "text": "At this point a dispute arose as to who should break the bread, and nearly the whole day until eventide was spent in the discussion."
+                        },
+                        {
+                            "verse": 110,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:110",
+                            "text": "Paul urged in support of his view the rites of hospitality, Antony pleaded age."
+                        },
+                        {
+                            "verse": 111,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:111",
+                            "text": "At length it was arranged that each should seize the loaf on the side nearest to himself, pull towards him, and keep for his own the part left in his hands."
+                        },
+                        {
+                            "verse": 112,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:112",
+                            "text": "Then on hands and knees they drank a little water from the spring, and offering to God the sacrifice of praise passed the night in vigil."
+                        },
+                        {
+                            "verse": 113,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:113",
+                            "text": "At the return of day the blessed Paul thus spoke to Antony: \"I knew long since, brother, that you were dwelling in those parts: long ago God promised you to me for a fellow-servant; but the time of my falling asleep now draws nigh; I have always longed to be dissolved and to be with Christ; my course is finished, and there remains for me a crown of righteousness."
+                        },
+                        {
+                            "verse": 114,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:114",
+                            "text": "Therefore you have been sent by the Lord to lay my poor body in the ground, yea to return earth to earth\"."
+                        },
+                        {
+                            "verse": 115,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:115",
+                            "text": "12."
+                        },
+                        {
+                            "verse": 116,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:116",
+                            "text": "On hearing this Antony with tears and groans began to pray that he would not desert him, but would take him for a companion on that journey."
+                        },
+                        {
+                            "verse": 117,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:117",
+                            "text": "His friend replied: \"You ought not to seek your own, but another man's good."
+                        },
+                        {
+                            "verse": 118,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:118",
+                            "text": "It is expedient for you to lay aside the burden of the flesh and to follow the Lamb; but it is expedient for the rest of the brethren to be trained by your example."
+                        },
+                        {
+                            "verse": 119,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:119",
+                            "text": "Wherefore be so good as to go and fetch the cloak Bishop Athanasius gave you, to wrap my poor body in\"."
+                        },
+                        {
+                            "verse": 120,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:120",
+                            "text": "The blessed Paul asked this favour not because he cared much whether his corpse when it decayed were clothed or naked (why should he indeed, when he had so long worn a garment of palm-leaves stitched together?); but that he might soften his friend's regrets at his decease."
+                        },
+                        {
+                            "verse": 121,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:121",
+                            "text": "Antony was astonished to find Paul had heard of Athanasius and his cloak; and, seeing as it were Christ Himself in him, he mentally worshipped God without venturing to add a single word; then silently weeping he once more kissed his eyes and hands, and set out on his return to the monastery which was afterwards seized by the Saracens."
+                        },
+                        {
+                            "verse": 122,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:122",
+                            "text": "His steps lagged behind his will."
+                        },
+                        {
+                            "verse": 123,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:123",
+                            "text": "Yet, exhausted as he was with fasting and broken by age, his courage proved victorious over his years."
+                        },
+                        {
+                            "verse": 124,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:124",
+                            "text": "13."
+                        },
+                        {
+                            "verse": 125,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:125",
+                            "text": "At last wearied and panting for breath he completed his journey and reached his little dwelling."
+                        },
+                        {
+                            "verse": 126,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:126",
+                            "text": "Here he was met by two disciples who had begun to wait upon him in his advanced age."
+                        },
+                        {
+                            "verse": 127,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:127",
+                            "text": "Said they, \"Where have you stayed so long, father?\" He replied, \"Woe to me a sinner! I do not deserve the name of monk."
+                        },
+                        {
+                            "verse": 128,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:128",
+                            "text": "I have seen Elias, I have seen John in the desert, and I have really seen Paul in Paradise\"."
+                        },
+                        {
+                            "verse": 129,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:129",
+                            "text": "He then closed his lips, beat upon his breast, and brought out the cloak from his cell."
+                        },
+                        {
+                            "verse": 130,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:130",
+                            "text": "When his disciples asked him to explain the matter somewhat more fully he said, \"There is a time to keep silence, and a time to speak\"."
+                        },
+                        {
+                            "verse": 131,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:131",
+                            "text": "14."
+                        },
+                        {
+                            "verse": 132,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:132",
+                            "text": "He then went out, and without taking so much as a morsel of food returned the same way he came, longing for him alone, thirsting to see him, having eyes and thought for none but him."
+                        },
+                        {
+                            "verse": 133,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:133",
+                            "text": "For he was afraid, and the event proved his anticipations correct, that in his absence his friend might yield up his spirit to Christ."
+                        },
+                        {
+                            "verse": 134,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:134",
+                            "text": "And now another day had dawned and a three hours' journey still remained, when he saw Paul in robes of snowy white ascending on high among the bands of angels, and the choirs of prophets and apostles."
+                        },
+                        {
+                            "verse": 135,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:135",
+                            "text": "Immediately he fell on his face, and threw the coarse sand upon his head, weeping and wailing as he cried, \"Why do you cast me from you, Paul? Why go without one farewell? Have you made yourself known so late only to depart so soon?\"  15."
+                        },
+                        {
+                            "verse": 136,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:136",
+                            "text": "The blessed Antony used afterwards to relate that he traversed the rest of the distance at such speed that he flew along like a bird; and not without reason: for on entering the cave he saw the lifeless body in a kneeling attitude, with head erect and hands uplifted."
+                        },
+                        {
+                            "verse": 137,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:137",
+                            "text": "The first thing he did, supposing him to be alive, was to pray by his side."
+                        },
+                        {
+                            "verse": 138,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:138",
+                            "text": "But when he did not hear the sighs which usually come from one in prayer, he fell to kisses and tears, and he then understood that even the dead body of the saint with duteous gestures was praying to God unto whom all things live."
+                        },
+                        {
+                            "verse": 139,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:139",
+                            "text": "16."
+                        },
+                        {
+                            "verse": 140,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:140",
+                            "text": "Then having wrapped up the body and carried it forth, all the while chanting hymns and psalms according to the Christian tradition, Antony began to lament that he had no implement for digging the ground."
+                        },
+                        {
+                            "verse": 141,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:141",
+                            "text": "So in a surging sea of thought and pondering many plans he said: \"If I return to the monastery, there is a four days' journey: if I stay here I shall do no good."
+                        },
+                        {
+                            "verse": 142,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:142",
+                            "text": "I will die then, as is fitting, beside Thy warrior, O Christ, and will quickly breathe my last breath."
+                        },
+                        {
+                            "verse": 143,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:143",
+                            "text": "While he turned these things over in his mind, behold, two lions from the recesses of the desert with manes flying on their necks came rushing along."
+                        },
+                        {
+                            "verse": 144,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:144",
+                            "text": "At first he was horrified at the sight, but again turning his thoughts to God, he waited without alarm, as though they were doves that he saw."
+                        },
+                        {
+                            "verse": 145,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:145",
+                            "text": "They came straight to the corpse of the blessed old man and there stopped, fawned upon it and lay down at its feet, roaring aloud as if to make it known that they were mourning in the only way possible to them."
+                        },
+                        {
+                            "verse": 146,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:146",
+                            "text": "Then they began to paw the ground close by, and vie with one another in excavating the sand, until they dug out a place just large enough to hold a man."
+                        },
+                        {
+                            "verse": 147,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:147",
+                            "text": "And immediately, as if demanding a reward for their work, pricking up their ears while they lowered their heads, they came to Antony and began to lick his hands and feet."
+                        },
+                        {
+                            "verse": 148,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:148",
+                            "text": "He perceived that they were begging a blessing from him, and at once with an outburst of praise to Christ that even dumb animals felt His divinity, he said, \"Lord, without whose command not a leaf drops from the tree, not a sparrow falls to the ground, grant them what thou knowest to be best\"."
+                        },
+                        {
+                            "verse": 149,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:149",
+                            "text": "Then he waved his hand and bade them depart."
+                        },
+                        {
+                            "verse": 150,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:150",
+                            "text": "When they were gone he bent his aged shoulders beneath the burden of the saint's body, laid it in the grave, covered it with the excavated soil, and raised over it the customary mound."
+                        },
+                        {
+                            "verse": 151,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:151",
+                            "text": "Another day dawned, and then, that the affectionate heir might not be without something belonging to the intestate dead, he took for himself the tunic which after the manner of wicker-work the saint had woven out of palm-leaves."
+                        },
+                        {
+                            "verse": 152,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:152",
+                            "text": "And so returning to the monastery he unfolded everything in order to his disciples, and on the feast-days of Easter and Pentecost he always wore Paul's tunic."
+                        },
+                        {
+                            "verse": 153,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:153",
+                            "text": "17."
+                        },
+                        {
+                            "verse": 154,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:154",
+                            "text": "I may be permitted at the end of this little treatise to ask those who do not know the extent of their possessions, who adorn their homes with marble, who string house to house and field to field, what did this old man in his nakedness ever lack? Your drinking vessels are of precious stones; he satisfied his thirst with the hollow of his hand."
+                        },
+                        {
+                            "verse": 155,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:155",
+                            "text": "Your tunics are of wrought gold; he had not the raiment of the meanest of your slaves."
+                        },
+                        {
+                            "verse": 156,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:156",
+                            "text": "But on the other hand, poor though he was, Paradise is open to him; you with all your gold will be received into Gehenna."
+                        },
+                        {
+                            "verse": 157,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:157",
+                            "text": "He though naked yet kept the robe of Christ; you, clad in your silks, have lost the vesture of Christ."
+                        },
+                        {
+                            "verse": 158,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:158",
+                            "text": "Paul lies covered with worthless dust, but will rise again to glory; over you are raised costly tombs, but both you and your wealth are doomed to the burning."
+                        },
+                        {
+                            "verse": 159,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:159",
+                            "text": "Have a care, I pray you, at least have a care for the riches you love."
+                        },
+                        {
+                            "verse": 160,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:160",
+                            "text": "Why are even the grave-clothes of your dead made of gold? Why does not your vaunting cease even amid mourning and tears? Cannot the carcases of rich men decay except in silk?  18."
+                        },
+                        {
+                            "verse": 161,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:161",
+                            "text": "I beseech you, reader, whoever you may be, to remember Jerome the sinner."
+                        },
+                        {
+                            "verse": 162,
+                            "chapter": 1,
+                            "name": "Jerome: The Life of Paulus the First Hermit 1:162",
+                            "text": "He, if God would give him his choice, would much sooner take Paul's tunic with his merits, than the purple of kings with their punishment."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
