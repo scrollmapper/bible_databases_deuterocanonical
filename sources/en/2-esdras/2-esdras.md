@@ -1595,7 +1595,7 @@
 
 **[15:53]** If thou hadst not always slain my chosen, exalting the stroke of thine hands, and saying over their dead, when thou wast drunken,
 
-**[15:54]** Set forth the beauty of thy countenance?
+**[15:54]** Set forth the beauty of thy countenance.
 
 **[15:55]** The reward of thy whoredom shall be in thy bosom, therefore shalt thou receive recompence.
 
