@@ -398,7 +398,7 @@
 
 **[4:4]** While as yet the forces were dispersed from the camp.
 
-**[4:5]** In the mean season came Gorgias by night into the camp of Judas: and when he found no man there, he sought them in the mountains: for said he, These fellows flee from us
+**[4:5]** In the mean season came Gorgias by night into the camp of Judas: and when he found no man there, he sought them in the mountains: for said he, These fellows flee from us.
 
 **[4:6]** But as soon as it was day, Judas shewed himself in the plain with three thousand men, who nevertheless had neither armour nor swords to their minds.
 
