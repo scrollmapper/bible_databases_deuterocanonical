@@ -938,7 +938,9 @@
 
 **[8:32]** If therefore they complain any more against thee, we will do them justice, and fight with thee by sea and by land.
 
-**[9:1]** Furthermore, when Demetrius heard the Nicanor and his host were slain in battle, he sent Bacchides and Alcimus into the land of Judea the second time, and with them the chief strength of his host:
+
+
+**[9:1]** Furthermore, when Demetrius heard that Nicanor and his host were slain in battle, he sent Bacchides and Alcimus into the land of Judea the second time, and with them the chief strength of his host:
 
 **[9:2]** Who went forth by the way that leadeth to Galgala, and pitched their tents before Masaloth, which is in Arbela, and after they had won it, they slew much people.
 
@@ -974,7 +976,7 @@
 
 **[9:18]** Judas also was killed, and the remnant fled.
 
-**[9:19]** THen Jonathan and Simon took Judas their brother, and buried him in the sepulchre of his fathers in Modin.
+**[9:19]** Then Jonathan and Simon took Judas their brother, and buried him in the sepulchre of his fathers in Modin.
 
 **[9:20]** Moreover they bewailed him, and all Israel made great lamentation for him, and mourned many days, saying,
 
@@ -1000,7 +1002,7 @@
 
 **[9:31]** Upon this Jonathan took the governance upon him at that time, and rose up instead of his brother Judas.
 
-**[9:32]** But when Bacchides gat knowledge thereof, he sought for to slay him
+**[9:32]** But when Bacchides gat knowledge thereof, he sought for to slay him.
 
 **[9:33]** Then Jonathan, and Simon his brother, and all that were with him, perceiving that, fled into the wilderness of Thecoe, and pitched their tents by the water of the pool Asphar.
 
@@ -1044,7 +1046,7 @@
 
 **[9:53]** Besides, he took the chief men’s sons in the country for hostages, and put them into the tower at Jerusalem to be kept.
 
-**[9:54]** Moreover in the hundred fifty and third year, in the second month, Alcimus commanded that the wall of the inner court of the sanctuary should be pulled down; he pulled down also the works of the prophets
+**[9:54]** Moreover in the hundred fifty and third year, in the second month, Alcimus commanded that the wall of the inner court of the sanctuary should be pulled down; he pulled down also the works of the prophets.
 
 **[9:55]** And as he began to pull down, even at that time was Alcimus plagued, and his enterprizes hindered: for his mouth was stopped, and he was taken with a palsy, so that he could no more speak any thing, nor give order concerning his house.
 
@@ -1083,6 +1085,7 @@
 **[9:72]** When therefore he had restored unto him the prisoners that he had taken aforetime out of the land of Judea, he returned and went his way into his own land, neither came he any more into their borders.
 
 **[9:73]** Thus the sword ceased from Israel: but Jonathan dwelt at Machmas, and began to govern the people; and he destroyed the ungodly men out of Israel.
+
 
 **[10:1]** In the hundred and sixtieth year Alexander, the son of Antiochus surnamed Epiphanes, went up and took Ptolemais: for the people had received him, by means whereof he reigned there,
 
@@ -1236,7 +1239,7 @@
 
 **[10:76]** Then Jonathan laid siege unto it: whereupon they of the city let him in for fear: and so Jonathan won Joppa.
 
-**[10:77]** Whereof when Apollonius heard, he took three thousand horsemen, with a great host of footmen, and went to Azotus as one that journeyed, and therewithal drew him forth into the plain. because he had a great number of horsemen, in whom he put his trust.
+**[10:77]** Whereof when Apollonius heard, he took three thousand horsemen, with a great host of footmen, and went to Azotus as one that journeyed, and therewithal drew him forth into the plain, because he had a great number of horsemen, in whom he put his trust.
 
 **[10:78]** Then Jonathan followed after him to Azotus, where the armies joined battle.
 
