@@ -1269,6 +1269,7 @@
 
 **[10:89]** And sent him a buckle of gold, as the use is to be given to such as are of the king’s blood: he gave him also Accaron with the borders thereof in possession.
 
+
 **[11:1]** And the king of Egypt gathered together a great host, like the sand that lieth upon the sea shore, and many ships, and went about through deceit to get Alexander’s kingdom, and join it to his own.
 
 **[11:2]** Whereupon he took his journey into Spain in peaceable manner, so as they of the cities opened unto him, and met him: for king Alexander had commanded them so to do, because he was his brother in law.
@@ -1461,7 +1462,7 @@
 
 **[12:22]** Now therefore, since this is come to our knowledge, ye shall do well to write unto us of your prosperity.
 
-**[12:23]** We do write back again to you, that your cattle and goods are our’s, and our’s are your’s We do command therefore our ambassadors to make report unto you on this wise.
+**[12:23]** We do write back again to you, that your cattle and goods are our’s, and our’s are your’s, we do command therefore our ambassadors to make report unto you on this wise.
 
 **[12:24]** Now when Jonathan heard that Demebius’ princes were come to fight against him with a greater host than afore,
 
