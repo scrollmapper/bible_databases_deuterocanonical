@@ -211,7 +211,7 @@
 
 **[2:40]** And one of them said to another, If we all do as our brethren have done, and fight not for our lives and laws against the heathen, they will now quickly root us out of the earth.
 
-**[2:41]** At that time therefore they decreed, saying, Whosoever shall come to make battle with us on the sabbath day, we will fight against him; neither will we die all, as our brethren that were murdered im the secret places.
+**[2:41]** At that time therefore they decreed, saying, Whosoever shall come to make battle with us on the sabbath day, we will fight against him; neither will we die all, as our brethren that were murdered in the secret places.
 
 **[2:42]** Then came there unto him a company of Assideans who were mighty men of Israel, even all such as were voluntarily devoted unto the law.
 
@@ -270,6 +270,7 @@
 **[2:69]** So he blessed them, and was gathered to his fathers.
 
 **[2:70]** And he died in the hundred forty and sixth year, and his sons buried him in the sepulchres of his fathers at Modin, and all Israel made great lamentation for him.
+
 
 **[3:1]** Then his son Judas, called Maccabeus, rose up in his stead.
 
@@ -391,7 +392,6 @@
 
 **[3:60]** Nevertheless, as the will of God is in heaven, so let him do.
 
-
 **[4:1]** Then took Gorgias five thousand footmen, and a thousand of the best horsemen, and removed out of the camp by night;
 
 **[4:2]** To the end he might rush in upon the camp of the Jews, and smite them suddenly. And the men of the fortress were his guides.
@@ -400,7 +400,7 @@
 
 **[4:4]** While as yet the forces were dispersed from the camp.
 
-**[4:5]** In the mean season came Gorgias by night into the camp of Judas: and when he found no man there, he sought them in the mountains: for said he, These fellows flee from us
+**[4:5]** In the mean season came Gorgias by night into the camp of Judas: and when he found no man there, he sought them in the mountains: for said he, These fellows flee from us.
 
 **[4:6]** But as soon as it was day, Judas shewed himself in the plain with three thousand men, who nevertheless had neither armour nor swords to their minds.
 
