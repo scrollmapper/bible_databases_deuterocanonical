@@ -1524,6 +1524,7 @@
 
 **[12:53]** Then all the heathen that were round about then sought to destroy them: for said they, They have no captain, nor any to help them: now therefore let us make war upon them, and take away their memorial from among men.
 
+
 **[13:1]** Now when Simon heard that Tryphon had gathered together a great host to invade the land of Judea, and destroy it,
 
 **[13:2]** And saw that the people was in great trembling and fear, he went up to Jerusalem, and gathered the people together,
