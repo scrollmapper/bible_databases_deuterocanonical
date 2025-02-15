@@ -130,6 +130,7 @@
 
 **[1:64]** And there was very great wrath upon Israel.
 
+
 **[2:1]** In those days arose Mattathias the son of John, the son of Simeon, a priest of the sons of Joarib, from Jerusalem, and dwelt in Modin.
 
 **[2:2]** And he had five sons, Joannan, called Caddis:
@@ -210,7 +211,7 @@
 
 **[2:40]** And one of them said to another, If we all do as our brethren have done, and fight not for our lives and laws against the heathen, they will now quickly root us out of the earth.
 
-**[2:41]** At that time therefore they decreed, saying, Whosoever shall come to make battle with us on the sabbath day, we will fight against him; neither will we die all, as our brethren that were murdered im the secret places.
+**[2:41]** At that time therefore they decreed, saying, Whosoever shall come to make battle with us on the sabbath day, we will fight against him; neither will we die all, as our brethren that were murdered in the secret places.
 
 **[2:42]** Then came there unto him a company of Assideans who were mighty men of Israel, even all such as were voluntarily devoted unto the law.
 
@@ -269,6 +270,7 @@
 **[2:69]** So he blessed them, and was gathered to his fathers.
 
 **[2:70]** And he died in the hundred forty and sixth year, and his sons buried him in the sepulchres of his fathers at Modin, and all Israel made great lamentation for him.
+
 
 **[3:1]** Then his son Judas, called Maccabeus, rose up in his stead.
 
@@ -398,7 +400,7 @@
 
 **[4:4]** While as yet the forces were dispersed from the camp.
 
-**[4:5]** In the mean season came Gorgias by night into the camp of Judas: and when he found no man there, he sought them in the mountains: for said he, These fellows flee from us
+**[4:5]** In the mean season came Gorgias by night into the camp of Judas: and when he found no man there, he sought them in the mountains: for said he, These fellows flee from us.
 
 **[4:6]** But as soon as it was day, Judas shewed himself in the plain with three thousand men, who nevertheless had neither armour nor swords to their minds.
 
@@ -511,6 +513,7 @@
 **[4:60]** At that time also they builded up the mount Sion with high walls and strong towers round about, lest the Gentiles should come and tread it down as they had done before.
 
 **[4:61]** And they set there a garrison to keep it, and fortified Bethsura to preserve it; that the people might have a defence against Idumea.
+
 
 **[5:1]** Now when the nations round about heard that the altar was built and the sanctuary renewed as before, it displeased them very much.
 
@@ -648,6 +651,7 @@
 
 **[5:68]** So Judas turned to Azotus in the land of the Philistines, and when he had pulled down their altars, and burned their carved images with fire, and spoiled their cities, he returned into the land of Judea.
 
+
 **[6:1]** About that time king Antiochus travelling through the high countries heard say, that Elymais in the country of Persia was a city greatly renowned for riches, silver, and gold;
 
 **[6:2]** And that there was in it a very rich temple, wherein were coverings of gold, and breastplates, and shields, which Alexander, son of Philip, the Macedonian king, who reigned first among the Grecians, had left there.
@@ -774,6 +778,7 @@
 
 **[6:63]** Afterward departed he in all haste, and returned unto Antiochia, where he found Philip to be master of the city: so he fought against him, and took the city by force.
 
+
 **[7:1]** In the hundred and one and fiftieth year Demetrius the son of Seleucus departed from Rome, and came up with a few men unto a city of the sea coast, and reigned there.
 
 **[7:2]** And as he entered into the palace of his ancestors, so it was, that his forces had taken Antiochus and Lysias, to bring them unto him.
@@ -802,7 +807,7 @@
 
 **[7:14]** For said they, One that is a priest of the seed of Aaron is come with this army, and he will do us no wrong.
 
-**[7:15]** So he spake unto them, peaceably, and sware unto them, saying, we will procure the harm neither of you nor your friends.
+**[7:15]** So he spake unto them, peaceably, and sware unto them, saying, We will procure the harm neither of you nor your friends.
 
 **[7:16]** Whereupon they believed him: howbeit he took of them threescore men, and slew them in one day, according to the words which he wrote,
 
@@ -874,6 +879,7 @@
 
 **[7:50]** Thus the land of Juda was in rest a little while.
 
+
 **[8:1]** Now Judas had heard of the the Romans, that they were mighty and valiant men, and such as would lovingly accept all that joined themselves unto them, and make a league of amity with all that came unto them;
 
 **[8:2]** And that they were men of great valour. It was told him also of their wars and noble acts which they had done among the Galatians, and how they had conquered them, and brought them under tribute;
@@ -937,8 +943,6 @@
 **[8:31]** And as touching the evils that Demetrius doeth to the Jews, we have written unto him, saying, Wherefore thou made thy yoke heavy upon our friends and confederates the Jews?
 
 **[8:32]** If therefore they complain any more against thee, we will do them justice, and fight with thee by sea and by land.
-
-
 
 **[9:1]** Furthermore, when Demetrius heard that Nicanor and his host were slain in battle, he sent Bacchides and Alcimus into the land of Judea the second time, and with them the chief strength of his host:
 
