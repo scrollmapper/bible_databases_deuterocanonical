@@ -74,6 +74,7 @@
 
 **[1:36]** And Neemias called this thing Naphthar, which is as much as to say, a cleansing: but many men call it Nephi.
 
+
 **[2:1]** It is also found in the records, that Jeremy the prophet commanded them that were carried away to take of the fire, as it hath been signified:
 
 **[2:2]** And how that the prophet, having given them the law, charged them not to forget the commandments of the Lord, and that they should not err in their minds, when they see images of silver and gold, with their ornaments.
@@ -137,6 +138,7 @@
 **[2:31]** But to use brevity, and avoid much labouring of the work, is to be granted to him that will make an abridgment.
 
 **[2:32]** Here then will we begin the story: only adding thus much to that which hath been said, that it is a foolish thing to make a long prologue, and to be short in the story itself.
+
 
 **[3:1]** Now when the holy city was inhabited with all peace, and the laws were kept very well, because of the godliness of Onias the high priest, and his hatred of wickedness,
 
@@ -212,11 +214,12 @@
 
 **[3:37]** And when the king Heliodorus, who might be a fit man to be sent yet once again to Jerusalem, he said,
 
-**[3:38]** If thou hast any enemy or traitor, send him thither, and thou shalt receive him well scourged, if he escape with his life: for in that place, no doubt; there is an especial power of God.
+**[3:38]** If thou hast any enemy or traitor, send him thither, and thou shalt receive him well scourged, if he escape with his life: for in that place, no doubt, there is an especial power of God.
 
 **[3:39]** For he that dwelleth in heaven hath his eye on that place, and defendeth it; and he beateth and destroyeth them that come to hurt it.
 
 **[3:40]** And the things concerning Heliodorus, and the keeping of the treasury, fell out on this sort.
+
 
 **[4:1]** This Simon now, of whom we spake afore, having been a betrayer of the money, and of his country, slandered Onias, as if he ha terrified Heliodorus, and been the worker of these evils.
 
