@@ -434,6 +434,7 @@
 
 **[6:31]** And thus this man died, leaving his death for an example of a noble courage, and a memorial of virtue, not only unto young men, but unto all his nation.
 
+
 **[7:1]** It came to pass also, that seven brethren with their mother were taken, and compelled by the king against the law to taste swine’s flesh, and were tormented with scourges and whips.
 
 **[7:2]** But one of them that spake first said thus, What wouldest thou ask or learn of us? we are ready to die, rather than to transgress the laws of our fathers.
@@ -518,6 +519,7 @@
 
 **[7:42]** Let this be enough now to have spoken concerning the idolatrous feasts, and the extreme tortures.
 
+
 **[8:1]** Then Judas Maccabeus, and they that were with him, went privily into the towns, and called their kinsfolks together, and took unto them all such as continued in the Jews’ religion, and assembled about six thousand men.
 
 **[8:2]** And they called upon the Lord, that he would look upon the people that was trodden down of all; and also pity the temple profaned of ungodly men;
@@ -590,13 +592,14 @@
 
 **[8:36]** Thus he, that took upon him to make good to the Romans their tribute by means of captives in Jerusalem, told abroad, that the Jews had God to fight for them, and therefore they could not be hurt, because they followed the laws that he gave them.
 
-**[9:1]** About that time came Antiochus with dishonour out of the country of Persia
+
+**[9:1]** About that time came Antiochus with dishonour out of the country of Persia.
 
 **[9:2]** For he had entered the city called Persepolis, and went about to rob the temple, and to hold the city; whereupon the multitude running to defend themselves with their weapons put them to flight; and so it happened, that Antiochus being put to flight of the inhabitants returned with shame.
 
 **[9:3]** Now when he came to Ecbatane, news was brought him what had happened unto Nicanor and Timotheus.
 
-**[9:4]** Then swelling with anger. he thought to avenge upon the Jews the disgrace done unto him by those that made him flee. Therefore commanded he his chariotman to drive without ceasing, and to dispatch the journey, the judgment of God now following him. For he had spoken proudly in this sort, That he would come to Jerusalem and make it a common burying place of the Jews.
+**[9:4]** Then swelling with anger, he thought to avenge upon the Jews the disgrace done unto him by those that made him flee. Therefore commanded he his chariotman to drive without ceasing, and to dispatch the journey, the judgment of God now following him. For he had spoken proudly in this sort, That he would come to Jerusalem and make it a common burying place of the Jews.
 
 **[9:5]** But the Lord Almighty, the God of Isreal, smote him with an incurable and invisible plague: or as soon as he had spoken these words, a pain of the bowels that was remediless came upon him, and sore torments of the inner parts;
 
@@ -634,11 +637,11 @@
 
 **[9:22]** Not distrusting mine health, but having great hope to escape this sickness.
 
-**[9:23]** But considering that even my father, at what time he led an army into the high countries. appointed a successor,
+**[9:23]** But considering that even my father, at what time he led an army into the high countries, appointed a successor,
 
 **[9:24]** To the end that, if any thing fell out contrary to expectation, or if any tidings were brought that were grievous, they of the land, knowing to whom the state was left, might not be troubled:
 
-**[9:25]** Again, considering how that the princes that are borderers and neighbours unto my kingdom wait for opportunities, and expect what shall be the event. I have appointed my son Antiochus king, whom I often committed and commended unto many of you, when I went up into the high provinces; to whom I have written as followeth:
+**[9:25]** Again, considering how that the princes that are borderers and neighbours unto my kingdom wait for opportunities, and expect what shall be the event, I have appointed my son Antiochus king, whom I often committed and commended unto many of you, when I went up into the high provinces; to whom I have written as followeth:
 
 **[9:26]** Therefore I pray and request you to remember the benefits that I have done unto you generally, and in special, and that every man will be still faithful to me and my son.
 
@@ -647,6 +650,7 @@
 **[9:28]** Thus the murderer and blasphemer having suffered most grievously, as he entreated other men, so died he a miserable death in a strange country in the mountains.
 
 **[9:29]** And Philip, that was brought up with him, carried away his body, who also fearing the son of Antiochus went into Egypt to Ptolemeus Philometor.
+
 
 **[10:1]** Now Maccabeus and his company, the Lord guiding them, recovered the temple and the city:
 
