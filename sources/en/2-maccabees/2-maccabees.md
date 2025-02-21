@@ -662,7 +662,7 @@
 
 **[10:7]** Therefore they bare branches, and fair boughs, and palms also, and sang psalms unto him that had given them good success in cleansing his place.
 
-**[10:8]** They ordained also by a common statute and decree, That every year those days should be kept of the whole nation of the Jews.
+**[10:8]** They ordained also by a common statute and decree, that every year those days should be kept of the whole nation of the Jews.
 
 **[10:9]** And this was the end of Antiochus, called Epiphanes.
 
@@ -702,7 +702,7 @@
 
 **[10:27]** So after the prayer they took their weapons, and went on further from the city: and when they drew near to their enemies, they kept by themselves.
 
-**[10:28]** Now the sun being newly risen, they joined both together; the one part having together with their virtue their refuge also unto the Lord for a pledge of their success and victory: the other side making their rage leader of their battle
+**[10:28]** Now the sun being newly risen, they joined both together; the one part having together with their virtue their refuge also unto the Lord for a pledge of their success and victory: the other side making their rage leader of their battle.
 
 **[10:29]** But when the battle waxed strong, there appeared unto the enemies from heaven five comely men upon horses, with bridles of gold, and two of them led the Jews,
 
@@ -723,6 +723,7 @@
 **[10:37]** And killed Timotheus, that was hid in a certain pit, and Chereas his brother, with Apollophanes.
 
 **[10:38]** When this was done, they praised the Lord with psalms and thanksgiving, who had done so great things for Israel, and given them the victory.
+
 
 **[11:1]** Not long after the, Lysias the king’s protector and cousin, who also managed the affairs, took sore displeasure for the things that were done.
 
@@ -799,6 +800,7 @@
 **[11:37]** Therefore send some with speed, that we may know what is your mind.
 
 **[11:38]** Farewell. This hundred and eight and fortieth year, the fifteenth day of the month Xanthicus.
+
 
 **[12:1]** When these covenants were made, Lysias went unto the king, and the Jews were about their husbandry.
 
@@ -889,6 +891,7 @@
 **[12:44]** For if he had not hoped that they that were slain should have risen again, it had been superfluous and vain to pray for the dead.
 
 **[12:45]** And also in that he perceived that there was great favour laid up for those that died godly, it was an holy and good thought. Whereupon he made a reconciliation for the dead, that they might be delivered from sin.
+
 
 **[13:1]** In the hundred forty and ninth year it was told Judas, that Antiochus Eupator was coming with a great power into Judea,
 
