@@ -25,9 +25,9 @@ Please note that this project is currently undergoing reconstruction. We invite 
 > *See the 2024 branch for the old version of this repo: https://github.com/scrollmapper/bible_databases_deuterocanonical/tree/2024 *
 
 
-## Texts (973)
+## Texts (974)
 
-### Scrollmapper Main Texts (68)
+### Scrollmapper Main Texts (69)
 - [ I Adam and Eve](sources/en/1-adam-and-eve/1-adam-and-eve.md)
 - [ I Baruch](sources/en/1-baruch/1-baruch.md)
 - [ I Enoch](sources/en/1-enoch/1-enoch.md)
@@ -64,6 +64,7 @@ Please note that this project is currently undergoing reconstruction. We invite 
 - [ Five Psalms of David](sources/en/five-psalms-of-david/five-psalms-of-david.md)
 - [ Gad the Seer](sources/en/gad-the-seer/gad-the-seer.md)
 - [ Genesis Apocryphon](sources/en/genesis-apocryphon/genesis-apocryphon.md)
+- [ Gospel of Nicodemus](sources/en/gospel-of-nicodemus/gospel-of-nicodemus.md)
 - [ Additions to Esther](sources/en/greek-esther/greek-esther.md)
 - [ History of the Rechabites](sources/en/history-of-the-rechabites/history-of-the-rechabites.md)
 - [ Jannes and Jambres](sources/en/jannes-and-jambres/jannes-and-jambres.md)

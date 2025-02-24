@@ -1,0 +1,2751 @@
+{
+    "books": [
+        {
+            "name": "Gospel of Nicodemus",
+            "chapters": [
+                {
+                    "chapter": 1,
+                    "name": "Gospel of Nicodemus 1",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 1,
+                            "name": "Gospel of Nicodemus 1:1",
+                            "text": "Annas and Caiphas, and Summas, and Datam, Gamaliel, Judas, Levi, Nepthalim, Alexander, Cyrus, and other Jews, went to Pilate about Jesus, accusing him with many bad crimes."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 1,
+                            "name": "Gospel of Nicodemus 1:2",
+                            "text": "And said. We are assured that Jesus is the son of Joseph, the carpenter, and born of Mary, and that he declares himself the Son of God, and a king; and not only so, but attempts the dissolution of the Sabbath, and the laws of our fathers."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 1,
+                            "name": "Gospel of Nicodemus 1:3",
+                            "text": "Pilate replied, What is it which he declares? and what is it which he attempts dissolving?"
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 1,
+                            "name": "Gospel of Nicodemus 1:4",
+                            "text": "The Jews told him, We have a law which forbids doing cures on the Sabbath day; but he cures both the lame and the deaf, those afflicted with the palsy, the blind, the lepers, and demoniacs, on that day, by wicked methods."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 1,
+                            "name": "Gospel of Nicodemus 1:5",
+                            "text": "Pilate replied, How can he do this by wicked methods? They answered He is a conjurer, and casts out devils by the prince of the devils; and so all things, become subject to him."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 1,
+                            "name": "Gospel of Nicodemus 1:6",
+                            "text": "Then said Pilate, Casting out devils seems not to be the work of an unclean spirit, but to proceed from the power of God."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 1,
+                            "name": "Gospel of Nicodemus 1:7",
+                            "text": "The Jews replied to Pilate, We entreat your highness to summon him to appear before your tribunal, and hear him yourself."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 1,
+                            "name": "Gospel of Nicodemus 1:8",
+                            "text": "Then Pilate called a messenger, and said to him, By what means will Christ be brought hither?"
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 1,
+                            "name": "Gospel of Nicodemus 1:9",
+                            "text": "Then went the messenger forth, and knowing Christ, worshipped him; and having spread the cloak which he had in his hand upon the ground, he said, Lord, walk upon this, and go in, for the governor calls thee."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 1,
+                            "name": "Gospel of Nicodemus 1:10",
+                            "text": "When the Jews perceived what the messenger had done, they exclaimed (against him) to Pilate, and said, Why did you not give him his summons by a beadle, and not by a messenger?—For the messenger, when he saw him, worshipped him, and spread the cloak which he had in his hand upon the ground before him, and said to him, Lord, the governor calls thee."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 1,
+                            "name": "Gospel of Nicodemus 1:11",
+                            "text": "Then Pilate called the messenger, and said, Why hast thou done thus?"
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 1,
+                            "name": "Gospel of Nicodemus 1:12",
+                            "text": "The messenger replied, When thou sentest me from Jerusalem to Alexander, I saw Jesus sitting in a mean figure upon a she-ass, and the children of the Hebrews cried out, Hosannah, holding boughs of trees in their hands."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 1,
+                            "name": "Gospel of Nicodemus 1:13",
+                            "text": "Others spread their garments in the way, and said. Save us, thou who art in heaven; blessed is he who cometh in the name of the Lord."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 1,
+                            "name": "Gospel of Nicodemus 1:14",
+                            "text": "Then the Jews cried out, against the messenger, and said. The children of the Hebrews made their acclamations in the Hebrew language; and how couldst thou, who art a Greek, understand the Hebrew?"
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 1,
+                            "name": "Gospel of Nicodemus 1:15",
+                            "text": "The messenger answered them and said, I asked one of the Jews and said, What is this which the children do cry out in the Hebrew language?"
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 1,
+                            "name": "Gospel of Nicodemus 1:16",
+                            "text": "And he explained it to me, saying, they cry out, Hosannah, which being interpreted, is, O Lord, save me; or, O Lord, save."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 1,
+                            "name": "Gospel of Nicodemus 1:17",
+                            "text": "Pilate then said to them, Why do you yourselves testify to the words spoken by the children, namely, by your silence? In what has the messenger done amiss? And they were silent."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 1,
+                            "name": "Gospel of Nicodemus 1:18",
+                            "text": "Then the governor said unto the messenger, Go forth and endeavour by any means to bring him in."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 1,
+                            "name": "Gospel of Nicodemus 1:19",
+                            "text": "But the messenger went forth and did as before; and said, Lord come in, for the governor calleth thee."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 1,
+                            "name": "Gospel of Nicodemus 1:20",
+                            "text": "And as Jesus was going in by the ensigns, who carried the standards, the tops of them bowed down and worshipped Jesus."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 1,
+                            "name": "Gospel of Nicodemus 1:21",
+                            "text": "Whereupon the Jews exclaimed more vehemently against the ensigns."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 1,
+                            "name": "Gospel of Nicodemus 1:22",
+                            "text": "But Pilate said to the Jews, I know it is not pleasing to you that the tops of the standards did of themselves bow and worship Jesus; but why do ye exclaim against the ensigns, as if they had bowed and worshipped?"
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 1,
+                            "name": "Gospel of Nicodemus 1:23",
+                            "text": "They replied to Pilate, We saw the ensigns themselves bowing and worshipping Jesus."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 1,
+                            "name": "Gospel of Nicodemus 1:24",
+                            "text": "Then the governor called the ensigns, and said unto them. Why did you do thus?"
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 1,
+                            "name": "Gospel of Nicodemus 1:25",
+                            "text": "The ensigns said to Pilate, We are all Pagans and worship the gods in temples; and how should we think anything about worshipping him? We only held the standards in our hands, and they bowed themselves and worshipped him."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 1,
+                            "name": "Gospel of Nicodemus 1:26",
+                            "text": "Then said Pilate to the rulers of the synagogue, Do ye yourselves choose some strong men, and let them hold the standards, and we shall see whether they will then bend of themselves."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 1,
+                            "name": "Gospel of Nicodemus 1:27",
+                            "text": "So the elders of the Jews sought out twelve of the most strong and able old men, and made them hold the standards, and they stood in the presence of the governor."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 1,
+                            "name": "Gospel of Nicodemus 1:28",
+                            "text": "Then Pilate said to the messenger, Take Jesus out, and by some means bring him in again. And Jesus and the messenger went out of the hall."
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 1,
+                            "name": "Gospel of Nicodemus 1:29",
+                            "text": "And Pilate called the ensigns who before had borne the standards, and swore to them, that if they had not borne the standards in that manner when Jesus before entered in, he would cut off their heads."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 1,
+                            "name": "Gospel of Nicodemus 1:30",
+                            "text": "Then the governor commanded Jesus to come in again."
+                        },
+                        {
+                            "verse": 31,
+                            "chapter": 1,
+                            "name": "Gospel of Nicodemus 1:31",
+                            "text": "And the messenger did as he had done before, and very much entreated Jesus that he would go upon his cloak, and walk on it; and he did walk upon it, and went in."
+                        },
+                        {
+                            "verse": 32,
+                            "chapter": 1,
+                            "name": "Gospel of Nicodemus 1:32",
+                            "text": "And when Jesus went in, the standards bowed themselves as before, and worshipped him."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 2,
+                    "name": "Gospel of Nicodemus 2",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 2,
+                            "name": "Gospel of Nicodemus 2:1",
+                            "text": "Now when Pilate saw this, he was afraid, and was about to rise from his seat."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 2,
+                            "name": "Gospel of Nicodemus 2:2",
+                            "text": "But while he thought to rise, his own wife who stood at a distance, sent to him, saying, Have thou nothing to do with that just man; for I have suffered much concerning him in a vision this night."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 2,
+                            "name": "Gospel of Nicodemus 2:3",
+                            "text": "When the Jews heard this they said to Pilate, Did we not say unto thee, He is a conjuror? Behold, he hath caused thy wife to dream."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 2,
+                            "name": "Gospel of Nicodemus 2:4",
+                            "text": "Pilate then calling Jesus, said, thou hast heard what they testify against thee, and makest no answer?"
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 2,
+                            "name": "Gospel of Nicodemus 2:5",
+                            "text": "Jesus replied. If they had not a power of speaking, they could not have spoke; but because every one has the command of his own tongue, to speak both good and bad, let him look to it."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 2,
+                            "name": "Gospel of Nicodemus 2:6",
+                            "text": "But the elders of the Jews answered, and said to Jesus, What shall we look to?"
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 2,
+                            "name": "Gospel of Nicodemus 2:7",
+                            "text": "In the first place, we know this concerning thee, that thou wast born through fornication; secondly, that upon the account of thy birth the infants were slain in Bethlehem; thirdly, that thy father and mother Mary fled into Egypt, because they could not trust their own people."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 2,
+                            "name": "Gospel of Nicodemus 2:8",
+                            "text": "Some of the Jews who stood by spake more favourably, We cannot say that he was born through fornication; but we know that his mother Mary was betrothed to Joseph, and so he was not born through fornication."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 2,
+                            "name": "Gospel of Nicodemus 2:9",
+                            "text": "Then said Pilate to the Jews who affirmed him to be born through fornication. This your account is not true, seeing there was a betrothment, as they testify who are of your own nation."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 2,
+                            "name": "Gospel of Nicodemus 2:10",
+                            "text": "Annas and Caiphas spake to Pilate, All this multitude of people is to be regarded, who cry out, that he was born through fornication, and is a conjurer; but they who deny him to be born through fornication, are his proselytes and disciples."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 2,
+                            "name": "Gospel of Nicodemus 2:11",
+                            "text": "Pilate answered Annas and Caiphas, Who are the proselytes? They answered, They are those who are the children of Pagans, and are not become Jews, but followers of him."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 2,
+                            "name": "Gospel of Nicodemus 2:12",
+                            "text": "Then replied Eleazer, and Asterius, and Antonius, and James, Caras and Samuel, Isaac and Phinees, Crispus and Agrippa, Annas and Judas, We are not proselytes, but children of Jews, and speak the truth, and were present when Mary was betrothed."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 2,
+                            "name": "Gospel of Nicodemus 2:13",
+                            "text": "Then Pilate addressing himself to the twelve men who spake this, said to them, I conjure you by the life of Caesar, that ye faithfully declare whether he was born through fornication, and those things be true which ye have related."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 2,
+                            "name": "Gospel of Nicodemus 2:14",
+                            "text": "They answered Pilate, We have a law whereby we are forbid to swear, it being a sin: Let them swear by the life of Caesar that it is not as we have said, and we will be contented to be put to death."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 2,
+                            "name": "Gospel of Nicodemus 2:15",
+                            "text": "Then said Annas and Caiphas to Pilate, Those twelve men will not believe that we know him to be basely born, and to be a conjurer, although he pretends that he is the Son of God, and a king: which we are so far from believing, that we tremble to hear."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 2,
+                            "name": "Gospel of Nicodemus 2:16",
+                            "text": "Then Pilate commanded every one to go out except the twelve men who said he was not born through fornication, and Jesus to withdraw to a distance, and said to them, Why have the Jews a mind to kill Jesus?"
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 2,
+                            "name": "Gospel of Nicodemus 2:17",
+                            "text": "They answered him, They are angry because he wrought cures on the sabbath day. Pilate said, Will they kill him for a good work? They say unto him, Yes, Sir."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 3,
+                    "name": "Gospel of Nicodemus 3",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 3,
+                            "name": "Gospel of Nicodemus 3:1",
+                            "text": "Then Pilate, filled with anger, went out of the hall, and said to the Jews, I call the whole world to witness that I find no fault in that man."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 3,
+                            "name": "Gospel of Nicodemus 3:2",
+                            "text": "The Jews replied to Pilate, If he had not been a wicked person, we had not brought him before thee."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 3,
+                            "name": "Gospel of Nicodemus 3:3",
+                            "text": "Pilate said to them, Do ye take him and try him by your law."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 3,
+                            "name": "Gospel of Nicodemus 3:4",
+                            "text": "Then the Jews said, It is not lawful for us to put any one to death."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 3,
+                            "name": "Gospel of Nicodemus 3:5",
+                            "text": "Pilate said to the Jews, The command, therefore, thou shalt not kill, belongs to you, but not to me."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 3,
+                            "name": "Gospel of Nicodemus 3:6",
+                            "text": "And he went again into the hall, and called Jesus by himself, and said to him, Art thou the king of the Jews?"
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 3,
+                            "name": "Gospel of Nicodemus 3:7",
+                            "text": "And Jesus answering, said to Pilate, Dost thou speak this of thyself, or did the Jews tell it thee concerning me?"
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 3,
+                            "name": "Gospel of Nicodemus 3:8",
+                            "text": "Pilate answering, said to Jesus, Am I a Jew? The whole nation and rulers of the Jews have delivered thee up to me. What hast thou done?"
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 3,
+                            "name": "Gospel of Nicodemus 3:9",
+                            "text": "Jesus answering, said, My kingdom is not of this world: if my kingdom were of this world, then would my servants fight, and I should not have been delivered to the Jews: but now my kingdom is not from hence."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 3,
+                            "name": "Gospel of Nicodemus 3:10",
+                            "text": "Pilate said, Art thou a king then? Jesus answered, Thou sayest that I am a king: to this end was I born, and for this end came I into the world; and for this purpose I came, that I should bear witness to the truth; and every one who is of the truth, heareth my voice."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 3,
+                            "name": "Gospel of Nicodemus 3:11",
+                            "text": "Pilate saith to him, What is truth?"
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 3,
+                            "name": "Gospel of Nicodemus 3:12",
+                            "text": "Jesus said, Truth is from heaven."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 3,
+                            "name": "Gospel of Nicodemus 3:13",
+                            "text": "Pilate said, Therefore truth is not on earth."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 3,
+                            "name": "Gospel of Nicodemus 3:14",
+                            "text": "Jesus saith to Pilate, Believe that truth is on earth among those, who when they have the power of judgment, are governed by truth, and form right judgment."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 4,
+                    "name": "Gospel of Nicodemus 4",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 4,
+                            "name": "Gospel of Nicodemus 4:1",
+                            "text": "Then Pilate left Jesus in the hall, and went out to the Jews, and said, I find not any one fault in Jesus."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 4,
+                            "name": "Gospel of Nicodemus 4:2",
+                            "text": "The Jews say unto him, But he said, I can destroy the temple of God, and in three days build it up again."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 4,
+                            "name": "Gospel of Nicodemus 4:3",
+                            "text": "Pilate saith to them, What sort of temple is that of which he speaketh?"
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 4,
+                            "name": "Gospel of Nicodemus 4:4",
+                            "text": "The Jews say unto him, That which Solomon was forty-six years in building, he said he would destroy, and in three days build up."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 4,
+                            "name": "Gospel of Nicodemus 4:5",
+                            "text": "Pilate said to them again, I am innocent from the blood of that man! do ye look to it."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 4,
+                            "name": "Gospel of Nicodemus 4:6",
+                            "text": "The Jews say to him, His blood be upon us and our children. Then Pilate calling together the elders and scribes, priests and Levites, saith to them privately, Do not act thus; I have found nothing in your charge (against him) concerning his curing sick persons, and breaking the sabbath, worthy of death."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 4,
+                            "name": "Gospel of Nicodemus 4:7",
+                            "text": "The priests and Levites replied to Pilate, By the life of Caesar, if any one be a blasphemer, he is worthy of death; but this man hath blasphemed against the Lord."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 4,
+                            "name": "Gospel of Nicodemus 4:8",
+                            "text": "Then the governor again commanded the Jews to depart out of the hall; and calling Jesus, said to him, What shall I do with thee?"
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 4,
+                            "name": "Gospel of Nicodemus 4:9",
+                            "text": "Jesus answered him, Do according as it is written."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 4,
+                            "name": "Gospel of Nicodemus 4:10",
+                            "text": "Pilate said to him, How is it written?"
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 4,
+                            "name": "Gospel of Nicodemus 4:11",
+                            "text": "Jesus saith to him, Moses and the prophets have prophesied concerning my suffering and resurrection."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 4,
+                            "name": "Gospel of Nicodemus 4:12",
+                            "text": "The Jews hearing this, were provoked, and said to Pilate, Why wilt thou any longer hear the blasphemy of that man?"
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 4,
+                            "name": "Gospel of Nicodemus 4:13",
+                            "text": "Pilate saith to them, If these words seem to you blasphemy, do ye take him, bring him to your court, and try him according to your law."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 4,
+                            "name": "Gospel of Nicodemus 4:14",
+                            "text": "The Jews reply to Pilate, Our law saith, he shall be obliged to receive nine and thirty stripes, but if after this manner he shall blaspheme against the Lord, he shall be stoned."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 4,
+                            "name": "Gospel of Nicodemus 4:15",
+                            "text": "Pilate saith unto them, If that speech of his was blasphemy, do ye try him according to your law."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 4,
+                            "name": "Gospel of Nicodemus 4:16",
+                            "text": "The Jews say to Pilate, Our law command us not to put any one to death. We desire that he may be crucified, because he deserves the death of the cross."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 4,
+                            "name": "Gospel of Nicodemus 4:17",
+                            "text": "Pilate saith to them, It is not fit he should be crucified: let him be only whipped and sent away."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 4,
+                            "name": "Gospel of Nicodemus 4:18",
+                            "text": "But when the governor looked upon the people that were present and the Jews, he saw many of the Jews in tears, and said to the chief priests of the Jews, All the people do not desire his death."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 4,
+                            "name": "Gospel of Nicodemus 4:19",
+                            "text": "The elders of the Jews answered to Pilate, We and all the people came hither for this very purpose, that he should die."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 4,
+                            "name": "Gospel of Nicodemus 4:20",
+                            "text": "Pilate saith to them. Why should he die?"
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 4,
+                            "name": "Gospel of Nicodemus 4:21",
+                            "text": "They said to him, Because he declares himself to be the Son of God and a King."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 5,
+                    "name": "Gospel of Nicodemus 5",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:1",
+                            "text": "But Nicodemus, a certain Jew, stood before the governor, and said, I entreat thee, O righteous judge, that thou wouldst favour me with the liberty of speaking a few words."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:2",
+                            "text": "Pilate said to him, Speak on."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:3",
+                            "text": "Nicodemus said, I spake to the elders of the Jews, and the scribes, and priests and Levites, and all the multitude of the Jews, in their assembly; What is it ye would do with this man?"
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:4",
+                            "text": "He is a man who hath wrought many useful and glorious miracles, such as no man on earth ever wrought before, nor will ever work. Let him go, and do him no harm; if he cometh from God, his miracles, (his miraculous cures) will continue; but if from men, they will come to nought."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:5",
+                            "text": "Thus Moses, when he was sent by God into Egypt, wrought the miracles which God commanded him, before Pharaoh king of Egypt; and though the magicians of that country, Jannes and Jambres, wrought by their magic the same miracles which Moses did, yet they could not work all which he did;"
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:6",
+                            "text": "And the miracles which the magicians wrought, were not of God, as ye know, O Scribes and Pharisees; but they who wrought them perished, and all who believed them."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:7",
+                            "text": "And now let this man go; because the very miracles for which ye accuse him, are from God; and he is not worthy of death."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:8",
+                            "text": "The Jews then said to Nicodemus, Art thou become his disciple, and making speeches in his favour?"
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:9",
+                            "text": "Nicodemus said to them, Is the governor become his disciple also, and does he make speeches for him? Did not Caesar place him in that high post?"
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:10",
+                            "text": "When the Jews heard this they trembled, and gnashed their teeth at Nicodemus, and said to him, Mayest thou receive his doctrine for truth, and have thy lot with Christ!"
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:11",
+                            "text": "Nicodemus replied. Amen; I will receive his doctrine, and my lot with him, as ye have said."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:12",
+                            "text": "Then another certain Jew rose up, and desired leave of the governor to hear him a few words."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:13",
+                            "text": "And the governor said, Speak, what thou hast a mind."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:14",
+                            "text": "And he said, I lay for thirty-eight years by the sheep-pool at Jerusalem, labouring under a great infirmity, and waiting for a cure which should be wrought by the coming of an angel, who at a certain time troubled the water: and whosoever first after the troubling of the water stepped in, was made whole of whatsoever disease he had."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:15",
+                            "text": "And when Jesus saw me languishing there, he said to me, Wilt thou be made whole? And I answered, Sir, I have no man, when the water is troubled, to put me into the pool."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:16",
+                            "text": "And he said unto me, Rise, take up thy bed and walk. And I was immediately made whole, and took up my bed and walked."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:17",
+                            "text": "The Jews then said to Pilate, Our Lord Governor, pray ask him what day it was on which he was cured of his infirmity."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:18",
+                            "text": "The infirm person replied, It was on the sabbath."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:19",
+                            "text": "The Jews said to Pilate, Did we not say that he wrought his cures on the sabbath, and cast out devils by the prince of devils?"
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:20",
+                            "text": "Then another certain Jew came forth, and said, I was blind, could hear sounds, but could not see any one; and as Jesus was going along, I heard the multitude passing by, and I asked what was there?"
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:21",
+                            "text": "They told me that Jesus was passing by: then I cried out, saying, Jesus, Son of David, have mercy on me. And he stood still, and commanded that I should be brought to him, and said to me, What wilt thou?"
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:22",
+                            "text": "I said, Lord, that I may receive my sight."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:23",
+                            "text": "He said to me, Receive thy sight: and presently I saw, and followed him, rejoicing and giving thanks."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:24",
+                            "text": "Another Jew also came forth, and said, I was a leper, and he cured me by his word only, saying, I will, be thou clean; and presently I was cleansed from my leprosy."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:25",
+                            "text": "And another Jew came forth, and said I was crooked, and he made me straight by his word."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:26",
+                            "text": "And a certain woman named Veronica, said, I was afflicted with an issue of blood twelve years, and I touched the hem of his garment, and presently the issue of blood stopped."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:27",
+                            "text": "The Jews then said, We have a law, that a woman shall not be allowed as an evidence."
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:28",
+                            "text": "And, after other things, another Jew said, I saw Jesus invited to a wedding with his disciples, and there was a want of wine in Cana of Galilee;"
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:29",
+                            "text": "And when the wine was all drank, he commanded the servants that they should fill six pots which were there with water, and they filled them up to the brim, and he blessed them and turned the water into wine, and all the people drank, being surprised at this miracle."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:30",
+                            "text": "And another Jew stood forth, and said, I saw Jesus teaching in the synagogue at Capernaum; and there was in the synagogue a certain man who had a devil; and he cried out, saying, let me alone; what have we to do with thee, Jesus of Nazareth? Art thou come to destroy us? I know that thou art the Holy One of God."
+                        },
+                        {
+                            "verse": 31,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:31",
+                            "text": "And Jesus rebuked him, saying, Hold thy peace, unclean spirit, and come out of the man; and presently he came out of him, and did not at all hurt him."
+                        },
+                        {
+                            "verse": 32,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:32",
+                            "text": "The following things were also said by a Pharisee: I saw that a great company came to Jesus from Galilee and Judea, and the sea-cost, and many countries about Jordan; and many infirm persons came to him, and he healed them all."
+                        },
+                        {
+                            "verse": 33,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:33",
+                            "text": "And I heard the unclean spirits crying out, and saying. Thou art the Son of God. And Jesus strictly charged them, that they should not make him known."
+                        },
+                        {
+                            "verse": 34,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:34",
+                            "text": "After this another person, whose name was Centurio, said, I saw Jesus in Capernaum, and I entreated him, saying, Lord, my servant lieth at home sick of the palsy."
+                        },
+                        {
+                            "verse": 35,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:35",
+                            "text": "And Jesus said to me, I will come and cure him."
+                        },
+                        {
+                            "verse": 36,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:36",
+                            "text": "But I said, Lord, I am not worthy that thou shouldst come under my roof; but only speak the word, and my servant shall be healed."
+                        },
+                        {
+                            "verse": 37,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:37",
+                            "text": "And Jesus said unto me, Go thy way; and as thou hast believed so be it done unto thee. And my servant was healed from that same hour."
+                        },
+                        {
+                            "verse": 38,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:38",
+                            "text": "Then a certain nobleman said, I had a son in Capernaum, who lay at the point of death; and when I heard that Jesus was come into Galilee, I went and besought him that he would come down to my house, and heal my son, for he was at the point of death."
+                        },
+                        {
+                            "verse": 39,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:39",
+                            "text": "He said to me, Go thy way, thy son liveth."
+                        },
+                        {
+                            "verse": 40,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:40",
+                            "text": "And my son was cured from that hour."
+                        },
+                        {
+                            "verse": 41,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:41",
+                            "text": "Besides these, also many others of the Jews, both men and women, cried out and said, He is truly the Son of God, who cures all diseases only by his word, and to whom the devils are altogether subject."
+                        },
+                        {
+                            "verse": 42,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:42",
+                            "text": "Some of them farther said, This power can proceed from none but God."
+                        },
+                        {
+                            "verse": 43,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:43",
+                            "text": "Pilate said to the Jews, Why are not the devils subject to your doctors?"
+                        },
+                        {
+                            "verse": 44,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:44",
+                            "text": "Some of them said, The power of subjecting devils cannot proceed but from God."
+                        },
+                        {
+                            "verse": 45,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:45",
+                            "text": "But others said to Pilate, That he had raised Lazarus from the dead, after he had been four days in his grave."
+                        },
+                        {
+                            "verse": 46,
+                            "chapter": 5,
+                            "name": "Gospel of Nicodemus 5:46",
+                            "text": "The governor hearing this, trembling, said to the multitude of the Jews, What will it profit you to shed innocent blood?"
+                        }
+                    ]
+                },
+                {
+                    "chapter": 6,
+                    "name": "Gospel of Nicodemus 6",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 6,
+                            "name": "Gospel of Nicodemus 6:1",
+                            "text": "Then Pilate having called together Nicodemus, and the fifteen men who said that Jesus was not born through fornication, said to them, What shall I do, seeing there is like to be a tumult among the people."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 6,
+                            "name": "Gospel of Nicodemus 6:2",
+                            "text": "They say unto him, We know not; let them look to it who raise the tumult."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 6,
+                            "name": "Gospel of Nicodemus 6:3",
+                            "text": "Pilate then called the multitude again, and said to them, Ye know that ye have a custom, that I should release to you one prisoner at the feast of the passover:"
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 6,
+                            "name": "Gospel of Nicodemus 6:4",
+                            "text": "I have a noted prisoner, a murderer, who is called Barabbas, and Jesus who is called Christ, in whom I find nothing that deserves death; which of them, therefore, have you a mind that I should release to you?"
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 6,
+                            "name": "Gospel of Nicodemus 6:5",
+                            "text": "They all cry out, and say, Release to us Barabbas."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 6,
+                            "name": "Gospel of Nicodemus 6:6",
+                            "text": "Pilate saith to them, What then shall I do with Jesus who is called Christ?"
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 6,
+                            "name": "Gospel of Nicodemus 6:7",
+                            "text": "They all answer, Let him be crucified."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 6,
+                            "name": "Gospel of Nicodemus 6:8",
+                            "text": "Again they cry out and say to Pilate, You are not the friend of Caesar, if you release this man; for he hath declared that he is the Son of God, and a king. But are you inclined that he should be king, and not Caesar?"
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 6,
+                            "name": "Gospel of Nicodemus 6:9",
+                            "text": "Then Pilate filled with anger said to them, Your nation hath always been seditious, and you are always against those who have been serviceable to you."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 6,
+                            "name": "Gospel of Nicodemus 6:10",
+                            "text": "The Jews replied, Who are those who have been serviceable to us?"
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 6,
+                            "name": "Gospel of Nicodemus 6:11",
+                            "text": "Pilate answered them, Your God who delivered you from the hard bondage of the Egyptians, and brought you over the Red Sea as though it had been dry land, and fed you in the wilderness with manna and the flesh of quails, and brought water out of the rock, and gave you a law from heaven."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 6,
+                            "name": "Gospel of Nicodemus 6:12",
+                            "text": "Ye provoked him all ways, and desired for yourselves a molten calf, and worshipped it, and sacrificed to it, and said, These are thy Gods, O Israel, which brought thee out of the land of Egypt:"
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 6,
+                            "name": "Gospel of Nicodemus 6:13",
+                            "text": "On account of which your God was inclined to destroy you; but Moses interceded for you, and your God heard him, and forgave your iniquity."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 6,
+                            "name": "Gospel of Nicodemus 6:14",
+                            "text": "Afterwards ye were enraged against, and would have killed your prophets, Moses and Aaron, when they fled to the tabernacle, and ye were always murmuring against God and his prophets."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 6,
+                            "name": "Gospel of Nicodemus 6:15",
+                            "text": "And arising from his judgment seat, he would have gone out; but the Jews all cried out, We acknowledge Caesar to be king, and not Jesus;"
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 6,
+                            "name": "Gospel of Nicodemus 6:16",
+                            "text": "Whereas this person, as soon as he was born, the wise men came and offered gifts unto him; which when Herod heard, he was exceedingly troubled, and would have killed him:"
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 6,
+                            "name": "Gospel of Nicodemus 6:17",
+                            "text": "When his father knew this, he fled with him and his mother Mary into Egypt. Herod, when he heard he was born, would have slain him; and accordingly sent and slew all the children which were in Bethlehem, and in all the coasts thereof, from two years old and under."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 6,
+                            "name": "Gospel of Nicodemus 6:18",
+                            "text": "When Pilate heard this account, he was afraid; and commanding silence among the people, who made a noise, he said to Jesus, Art thou therefore a king?"
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 6,
+                            "name": "Gospel of Nicodemus 6:19",
+                            "text": "All the Jews replied to Pilate, he is the very person whom Herod sought to have slain."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 6,
+                            "name": "Gospel of Nicodemus 6:20",
+                            "text": "Then Pilate taking water, washed his hands before the people and said, I am innocent of the blood of this just person; look ye to it."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 6,
+                            "name": "Gospel of Nicodemus 6:21",
+                            "text": "The Jews answered and said, His blood be upon us and our children."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 6,
+                            "name": "Gospel of Nicodemus 6:22",
+                            "text": "Then Pilate commanded Jesus to be brought before him, and spake to him in the following words;"
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 6,
+                            "name": "Gospel of Nicodemus 6:23",
+                            "text": "Thy own nation hath charged thee as making thyself a king; wherefore I, Pilate, sentence thee to be whipped according to the laws of former governors; and that thou be first bound, then hanged upon a cross in that place where thou art now a prisoner; and also two criminals with thee, whose names are Dimas and Gestas."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 7,
+                    "name": "Gospel of Nicodemus 7",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 7,
+                            "name": "Gospel of Nicodemus 7:1",
+                            "text": "Then Jesus went out of the hall, and the two thieves with him."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 7,
+                            "name": "Gospel of Nicodemus 7:2",
+                            "text": "And when they came to the place which is called Golgotha, they stript him of his raiment, and girt him about with a linen cloth, and put a crown of thorns upon his head, and put a reed in his hand."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 7,
+                            "name": "Gospel of Nicodemus 7:3",
+                            "text": "And in like manner did they to the two thieves who were crucified with him, Dimas on his right hand and Gestas on his left."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 7,
+                            "name": "Gospel of Nicodemus 7:4",
+                            "text": "But Jesus said, My Father, forgive them, For they know not what they do."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 7,
+                            "name": "Gospel of Nicodemus 7:5",
+                            "text": "And they divided his garments, and upon his vesture they cast lots."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 7,
+                            "name": "Gospel of Nicodemus 7:6",
+                            "text": "The people in the mean time stood by, and the chief priests and elders of the Jews mocked him, saying, He saved others, let him now save himself if he can; if he be the son of God, let him now come down from the cross."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 7,
+                            "name": "Gospel of Nicodemus 7:7",
+                            "text": "The soldiers also mocked him, and taking vinegar and gall, offered it to him to drink, and said to him, If thou art king of the Jews, deliver thyself."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 7,
+                            "name": "Gospel of Nicodemus 7:8",
+                            "text": "Then Longinus, a certain soldier, taking a spear,' pierced his side, and presently there came forth blood and water."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 7,
+                            "name": "Gospel of Nicodemus 7:9",
+                            "text": "And Pilate wrote the title upon the cross in Hebrew, Latin, and Greek letters, viz., THIS IS THE KING OF THE JEWS."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 7,
+                            "name": "Gospel of Nicodemus 7:10",
+                            "text": "But one of the two thieves who were crucified with Jesus, whose name was Gestas, said to Jesus, If thou art the Christ, deliver thyself and us."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 7,
+                            "name": "Gospel of Nicodemus 7:11",
+                            "text": "But the thief who was crucified on his right hand, whose name was Dimas, answering, rebuked him, and said, Dost not thou fear God, who art condemned to this punishment? We indeed receive rightly and justly the demerit of our actions; but this Jesus, what evil hath he done."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 7,
+                            "name": "Gospel of Nicodemus 7:12",
+                            "text": "After this, groaning, he said to Jesus, Lord, remember me when thou comest into thy kingdom."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 7,
+                            "name": "Gospel of Nicodemus 7:13",
+                            "text": "Jesus answering, said to him, Verily I say unto thee, that this day thou shalt be with me in Paradise."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 8,
+                    "name": "Gospel of Nicodemus 8",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 8,
+                            "name": "Gospel of Nicodemus 8:1",
+                            "text": "And it was about the sixth hour, and darkness was upon the face of the whole earth until the ninth hour."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 8,
+                            "name": "Gospel of Nicodemus 8:2",
+                            "text": "And while the sun was eclipsed, behold the veil of the temple was rent from the top, to the bottom; and the rocks also were rent, and the graves opened, and many bodies of saints, which slept, arose."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 8,
+                            "name": "Gospel of Nicodemus 8:3",
+                            "text": "And about the ninth hour Jesus cried out with a loud voice, Eli, Eli, lama sabacthani? which being interpreted is, My God, My God, why hast thou forsaken me?"
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 8,
+                            "name": "Gospel of Nicodemus 8:4",
+                            "text": "And after these things, Jesus said, Father, into thy hands I commend my spirit; and having said this, he gave up the ghost."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 8,
+                            "name": "Gospel of Nicodemus 8:5",
+                            "text": "But when the centurion saw that Jesus thus crying out gave up the ghost, he glorified God, and said, Of a truth this was a just man."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 8,
+                            "name": "Gospel of Nicodemus 8:6",
+                            "text": "And all the people who stood by, were exceedingly troubled at the sight; and reflecting upon what had passed, smote upon their breasts, and then returned to the city of Jerusalem."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 8,
+                            "name": "Gospel of Nicodemus 8:7",
+                            "text": "The centurion went to the governor, and related to him all that had passed:"
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 8,
+                            "name": "Gospel of Nicodemus 8:8",
+                            "text": "And when he had heard all these things, he was exceedingly sorrowful;"
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 8,
+                            "name": "Gospel of Nicodemus 8:9",
+                            "text": "And calling the Jews together, said to them, Have ye seen the miracle of the sun's eclipse, and the other things which came to pass, while Jesus was dying?"
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 8,
+                            "name": "Gospel of Nicodemus 8:10",
+                            "text": "Which when the Jews heard, they answered to the governor, The eclipse of the sun happened according to its usual custom."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 8,
+                            "name": "Gospel of Nicodemus 8:11",
+                            "text": "But all those who were the acquaintance of Christ, stood at a distance, as did the women who had followed Jesus from Galilee, observing all these things."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 8,
+                            "name": "Gospel of Nicodemus 8:12",
+                            "text": "And behold a certain man of Arimathaea, named Joseph, who was also a disciple of Jesus, but not openly so, for fear of the Jews, came to the governor, and entreated the governor that he would give him leave to take away the body of Jesus from the cross."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 8,
+                            "name": "Gospel of Nicodemus 8:13",
+                            "text": "And the governor gave him leave."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 8,
+                            "name": "Gospel of Nicodemus 8:14",
+                            "text": "And Nicodemus came, bringing with him a mixture of myrrh and aloes about a hundred pounds weight; and they took down Jesus from the cross with tears, and bound him in linen cloths with spices, according to the custom of burying among the Jews;"
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 8,
+                            "name": "Gospel of Nicodemus 8:15",
+                            "text": "And placed him in a new tomb, which Joseph had built, and caused to be cut out of a rock, in which never any man had been put; and they rolled a great stone to the door of the sepulchre."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 9,
+                    "name": "Gospel of Nicodemus 9",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 9,
+                            "name": "Gospel of Nicodemus 9:1",
+                            "text": "When the unjust Jews heard that Joseph had begged and buried the body of Jesus, they sought after Nicodemus, and those fifteen men who had testified before the governor, that Jesus was not born through fornication, and other good persons who had shown any good actions towards him."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 9,
+                            "name": "Gospel of Nicodemus 9:2",
+                            "text": "But when they all concealed themselves through fear of the Jews, Nicodemus alone showed himself to them, and said, How can such persons as these enter into the synagogue?"
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 9,
+                            "name": "Gospel of Nicodemus 9:3",
+                            "text": "The Jews answered him, But how durst thou enter into the synagogue, who wast a confederate with Christ? Let thy lot be along with him in the other world."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 9,
+                            "name": "Gospel of Nicodemus 9:4",
+                            "text": "Nicodemus answered. Amen; so may it be, that I may have my lot with him in his kingdom."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 9,
+                            "name": "Gospel of Nicodemus 9:5",
+                            "text": "In like manner Joseph, when he came to the Jews, said to them, Why are ye angry with me for desiring the body of Jesus of Pilate? Behold, I have put him in my tomb, and wrapped him up in clean linen, and put a stone at the door of the sepulchre:"
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 9,
+                            "name": "Gospel of Nicodemus 9:6",
+                            "text": "I have acted rightly towards him; but ye have acted unjustly against that just person, in crucifying him, giving him vinegar to drink, crowning him with thorns, tearing his body with whips, and praying down the guilt of his blood upon you."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 9,
+                            "name": "Gospel of Nicodemus 9:7",
+                            "text": "The Jews at the hearing of this were disquieted and troubled; and they seized Joseph, and commanded him to be put in custody before the Sabbath, and kept there till the Sabbath was over."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 9,
+                            "name": "Gospel of Nicodemus 9:8",
+                            "text": "And they said to him, Make confession; for at this time it is not lawful to do thee any harm, till the first day of the week come. But we know that thou wilt not be thought worthy of a burial; but we will give thy flesh to the birds of the air, and the beasts of the earth."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 9,
+                            "name": "Gospel of Nicodemus 9:9",
+                            "text": "Joseph answered, That speech is like the speech of proud Goliath, who reproached the living God in speaking against David. But ye scribes and doctors know that God saith by the prophet, Vengeance is mine, and I will repay to you evil equal to that which ye have threatened to me."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 9,
+                            "name": "Gospel of Nicodemus 9:10",
+                            "text": "The God whom you have hanged upon the cross, is able to deliver me out of your hands. All your wickedness will return upon you."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 9,
+                            "name": "Gospel of Nicodemus 9:11",
+                            "text": "For the governor, when he washed his hands, said, I am clear from the blood of this just person. But ye answered and cried out, His blood be upon us and our children. According as ye have said, may ye perish for ever."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 9,
+                            "name": "Gospel of Nicodemus 9:12",
+                            "text": "The elders of the Jews hearing these words, were exceedingly enraged; and seizing Joseph, they put him into a chamber where there was no window; they fastened the door, and put a seal upon the lock;"
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 9,
+                            "name": "Gospel of Nicodemus 9:13",
+                            "text": "And Annas and Caiaphas placed a guard upon it, and took counsel with the priests and Levites, that they should all meet after the Sabbath, and they contrived to what death they should put Joseph."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 9,
+                            "name": "Gospel of Nicodemus 9:14",
+                            "text": "When they had done this, the rulers, Annas and Caiaphas, ordered Joseph to be brought forth. (In this place there is a portion of the Gospel lost or omitted, which cannot be supplied. It may, nevertheless, be surmised from the occurrence related in the next chapter, that the order of Annas and Caiaphas were rendered unnecessary by Joseph's miraculous escape, and which was announced to an assembly of people.)"
+                        }
+                    ]
+                },
+                {
+                    "chapter": 10,
+                    "name": "Gospel of Nicodemus 10",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 10,
+                            "name": "Gospel of Nicodemus 10:1",
+                            "text": "When all the assembly heard this (about Joseph's escape), they admired and were astonished, because they found the same seal upon the lock of the chamber, and could not find Joseph."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 10,
+                            "name": "Gospel of Nicodemus 10:2",
+                            "text": "Then Annas and Caiaphas went forth, and while they were all admiring at Joseph's being gone, behold one of the soldiers, who kept the sepulchre of Jesus, spake in the assembly,"
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 10,
+                            "name": "Gospel of Nicodemus 10:3",
+                            "text": "That while they were guarding the sepulchre of Jesus, there was an earthquake; and we saw an angel of God roll away the stone of the sepulchre and sit upon it;"
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 10,
+                            "name": "Gospel of Nicodemus 10:4",
+                            "text": "And his countenance was like lightning and his garment like snow; and we became through fear like persons dead."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 10,
+                            "name": "Gospel of Nicodemus 10:5",
+                            "text": "And we heard an angel saying to the women at the sepulchre of Jesus, Do not fear; I know that you seek Jesus who was crucified; he is risen as he foretold;"
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 10,
+                            "name": "Gospel of Nicodemus 10:6",
+                            "text": "Come and see the place where he was laid; and go presently, and tell his disciples that he is risen from the dead; and he will go before you into Galilee; there ye shall see him as he told you."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 10,
+                            "name": "Gospel of Nicodemus 10:7",
+                            "text": "Then the Jews called together all the soldiers who kept the sepulchre of Jesus, and said to them, Who are those women, to whom the angel spoke? Why did ye not seize them."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 10,
+                            "name": "Gospel of Nicodemus 10:8",
+                            "text": "The soldiers answered and said, We know not who the women were; besides we became as dead persons through fear, and how could we seize those women?"
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 10,
+                            "name": "Gospel of Nicodemus 10:9",
+                            "text": "The Jews said to them, As the Lord liveth, we do not believe you;"
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 10,
+                            "name": "Gospel of Nicodemus 10:10",
+                            "text": "The soldiers answering said to the Jews, when ye saw and heard Jesus working so many miracles, and did not believe him, how should ye believe us? Ye well said, As the Lord liveth, for the Lord truly does live."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 10,
+                            "name": "Gospel of Nicodemus 10:11",
+                            "text": "We have heard that ye shut up Joseph, who buried the body of Jesus, in a chamber, under a lock which was sealed; and when ye opened it, found him not there."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 10,
+                            "name": "Gospel of Nicodemus 10:12",
+                            "text": "Do ye then produce Joseph whom ye put under guard in the chamber, and we will produce Jesus whom we guarded in the sepulchre."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 10,
+                            "name": "Gospel of Nicodemus 10:13",
+                            "text": "The Jews answered and said. We will produce Joseph, do ye produce Jesus. But Joseph is in his own city of Arimathaea."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 10,
+                            "name": "Gospel of Nicodemus 10:14",
+                            "text": "The soldiers replied, If Joseph be in Arimathaea, and Jesus in Galilee, we heard the angel inform the women."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 10,
+                            "name": "Gospel of Nicodemus 10:15",
+                            "text": "The Jews hearing this, were afraid, and said among themselves, If by any means these things should become public, then everybody will believe in Jesus."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 10,
+                            "name": "Gospel of Nicodemus 10:16",
+                            "text": "Then they gathered a large sum of money, and gave it to the soldiers, saying, Do ye tell the people that the disciples of Jesus came in the night when ye were asleep, and stole away the body of Jesus; and if Pilate the governor should hear of this, we will satisfy him and secure you."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 10,
+                            "name": "Gospel of Nicodemus 10:17",
+                            "text": "The soldiers accordingly took the money, and said as they were instructed by the Jews; and their report was spread abroad among all the people."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 10,
+                            "name": "Gospel of Nicodemus 10:18",
+                            "text": "But a certain priest Phinees, Ada a schoolmaster, and a Levite, named Ageus, they three came from Galilee to Jerusalem, and told the chief priests and all who were in the synagogues, saying,"
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 10,
+                            "name": "Gospel of Nicodemus 10:19",
+                            "text": "We have seen Jesus, whom ye crucified, talking with his eleven disciples, and sitting in the midst of them in Mount Olivet, and saying to them,"
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 10,
+                            "name": "Gospel of Nicodemus 10:20",
+                            "text": "Go forth into the whole world, preach the Gospel to all nations, baptizing them in the name of the Father, and the Son, and the Holy Ghost; and whosoever shall believe and be baptized, shall be saved."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 10,
+                            "name": "Gospel of Nicodemus 10:21",
+                            "text": "And when he had said these things to his disciples, we saw him ascending up to heaven."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 10,
+                            "name": "Gospel of Nicodemus 10:22",
+                            "text": "When the chief priests and elders, and Levites heard these things, they said to these three men, Give glory to the God of Israel, and make confession to him, whether those things are true, which ye say ye have seen and heard."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 10,
+                            "name": "Gospel of Nicodemus 10:23",
+                            "text": "They answering said. As the Lord of our fathers liveth, the God of Abraham, and the God of Isaac, and the God of Jacob, according as we heard Jesus talking with his disciples, and according as we saw him ascending up to heaven, so we have related the truth to you."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 10,
+                            "name": "Gospel of Nicodemus 10:24",
+                            "text": "And the three men farther answered, and said, adding these words, If we should not own the words which we heard Jesus speak, and that we saw him ascending into heaven, we should be guilty of sin."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 10,
+                            "name": "Gospel of Nicodemus 10:25",
+                            "text": "Then the chief priests immediately rose up, and holding the book of the law in their hands, conjured these men, saying, Ye shall no more hereafter declare those things which ye have spoken concerning Jesus."
+                        },
+                        {
+                            "verse": 26,
+                            "chapter": 10,
+                            "name": "Gospel of Nicodemus 10:26",
+                            "text": "And they gave them a large sum of money, and sent other persons along with them, who should conduct them to their own country, that they might not by any means make any stay at Jerusalem."
+                        },
+                        {
+                            "verse": 27,
+                            "chapter": 10,
+                            "name": "Gospel of Nicodemus 10:27",
+                            "text": "Then the Jews did assemble all together, and having expressed the most lamentable concern said. What is this extraordinary thing which is come to pass in Jerusalem?"
+                        },
+                        {
+                            "verse": 28,
+                            "chapter": 10,
+                            "name": "Gospel of Nicodemus 10:28",
+                            "text": "But Annas and Caiaphas comforted them, saying, Why should we believe the soldiers who guarded the sepulchre of Jesus, in telling us, that an angel rolled away the stone from the door of the sepulchre?"
+                        },
+                        {
+                            "verse": 29,
+                            "chapter": 10,
+                            "name": "Gospel of Nicodemus 10:29",
+                            "text": "Perhaps his own disciples told them this, and gave them money that they should say so, and they themselves took away the body of Jesus."
+                        },
+                        {
+                            "verse": 30,
+                            "chapter": 10,
+                            "name": "Gospel of Nicodemus 10:30",
+                            "text": "Besides, consider this, that there is no credit to be given to foreigners, because they also took a large sum of us, and they have declared to us according to the instructions which we gave them. They must either be faithful to us or to the disciples of Jesus."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 11,
+                    "name": "Gospel of Nicodemus 11",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 11,
+                            "name": "Gospel of Nicodemus 11:1",
+                            "text": "Then Nicodemus arose, and said, Ye say right, O sons of Israel; ye have heard what those three men have sworn by the Law of God, who said, We have seen Jesus speaking with his disciples upon mount Olivet, and we saw him ascending up to heaven."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 11,
+                            "name": "Gospel of Nicodemus 11:2",
+                            "text": "And the scripture teacheth us that the blessed prophet Elijah was taken up to heaven, and Elisha being asked by the sons of the prophets, Where is our father Elijah? He said to them, that he is taken up to heaven."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 11,
+                            "name": "Gospel of Nicodemus 11:3",
+                            "text": "And the sons of the prophets said to him, Perhaps the spirit hath carried him into one of the mountains of Israel, there perhaps we shall find him. And they besought Elisha, and he walked about with them three days, and they could not find him."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 11,
+                            "name": "Gospel of Nicodemus 11:4",
+                            "text": "And now hear me, O sons of Israel, and let us send men into the mountains of Israel, lest perhaps the spirit hath carried away Jesus, and there perhaps we shall find him, and be satisfied."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 11,
+                            "name": "Gospel of Nicodemus 11:5",
+                            "text": "And the counsel of Nicodemus pleased all the people; and they sent forth men who sought for Jesus, but could not find him; and they returning, said, We went all about, but could not find Jesus, but we have found Joseph in his city of Arimathaea."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 11,
+                            "name": "Gospel of Nicodemus 11:6",
+                            "text": "The rulers hearing this, and all the people, were glad, and praised the God of Israel, because Joseph was found, whom they had shut up in a chamber, and could not find."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 11,
+                            "name": "Gospel of Nicodemus 11:7",
+                            "text": "And when they had formed a large assembly, the chief priests said. By what means shall we bring Joseph to us to speak with him?"
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 11,
+                            "name": "Gospel of Nicodemus 11:8",
+                            "text": "And taking a piece of paper, they wrote to him, and said, Peace be with thee, and all thy family, We know that we have offended against God and thee. Be pleased to give a visit to us, your fathers, for we were perfectly surprised at your escape from prison."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 11,
+                            "name": "Gospel of Nicodemus 11:9",
+                            "text": "We know that it was malicious counsel which we took against thee, and that the Lord took care of thee, and the Lord himself delivered thee from our designs. Peace be unto thee, Joseph, who art honourable among all the people."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 11,
+                            "name": "Gospel of Nicodemus 11:10",
+                            "text": "And they chose seven of Joseph's friends, and said to them, When ye come to Joseph, salute him in peace, and give him this letter."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 11,
+                            "name": "Gospel of Nicodemus 11:11",
+                            "text": "Accordingly, when the men came to Joseph, they did salute him in peace, and gave him the letter."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 11,
+                            "name": "Gospel of Nicodemus 11:12",
+                            "text": "And when Joseph had read it, he said, Blessed be the Lord God, who didst deliver me from the Israelites, that they could not shed my blood. Blessed be God, who hast protected me under thy wings."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 11,
+                            "name": "Gospel of Nicodemus 11:13",
+                            "text": "And Joseph kissed them, and took them into his house. And on the morrow, Joseph mounted his ass, and went along with them to Jerusalem."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 11,
+                            "name": "Gospel of Nicodemus 11:14",
+                            "text": "And when all the Jews heard these things, they went out to meet him, and cried out, saying, Peace attend thy coming hither, father Joseph."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 11,
+                            "name": "Gospel of Nicodemus 11:15",
+                            "text": "To which he answered, Prosperity from the Lord attend all the people."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 11,
+                            "name": "Gospel of Nicodemus 11:16",
+                            "text": "And they all kissed him; and Nicodemus took him to his house, having prepared a large entertainment."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 11,
+                            "name": "Gospel of Nicodemus 11:17",
+                            "text": "But on the morrow, being a preparation-day, Annas, and Caiaphas, and Nicodemus, said to Joseph, Make confession to the God of Israel, and answer to us all those questions which we shall ask thee;"
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 11,
+                            "name": "Gospel of Nicodemus 11:18",
+                            "text": "For we have been very much troubled, that thou didst bury the body of Jesus; and that when we had locked thee in a chamber, we could not find thee; and we have been afraid ever since, till this time of thy appearing among us. Tell us therefore before God, all that came to pass."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 11,
+                            "name": "Gospel of Nicodemus 11:19",
+                            "text": "Then Joseph answering, said Ye did indeed put me under confinement, on the day of preparation, till the morning."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 11,
+                            "name": "Gospel of Nicodemus 11:20",
+                            "text": "But while I was standing at prayer in the middle of the night, the house was surrounded with four angels; and I saw Jesus as the brightness of the sun, and fell down upon the earth for fear."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 11,
+                            "name": "Gospel of Nicodemus 11:21",
+                            "text": "But Jesus laying hold on my hand, lifted me from the ground, and the dew was then sprinkled upon me; but he, wiping my face, kissed me, and said unto me, Fear not, Joseph; look upon me for it is I."
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 11,
+                            "name": "Gospel of Nicodemus 11:22",
+                            "text": "Then I looked upon him, and said, Rabboni Elias! He answered me, I am not Elias, but Jesus of Nazareth, whose body thou didst bury."
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 11,
+                            "name": "Gospel of Nicodemus 11:23",
+                            "text": "I said to him, show me the tomb in which I laid thee."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 11,
+                            "name": "Gospel of Nicodemus 11:24",
+                            "text": "Then Jesus, taking me by the hand, led me unto the place where I laid him, and showed me the linen clothes, and napkin which I put round his head. Then I knew that it was Jesus, and worshipped him, and said; Blessed be he who cometh in the name of the Lord."
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 11,
+                            "name": "Gospel of Nicodemus 11:25",
+                            "text": "Jesus again taking me by the hand, led me to Arimathaea, to my own house, and said to me, Peace be to thee; but go not out of thy house till the fortieth day; but I must go to my disciples."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 12,
+                    "name": "Gospel of Nicodemus 12",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 12,
+                            "name": "Gospel of Nicodemus 12:1",
+                            "text": "When the chief priests and Levites heard all these things, they were astonished, and fell down with their faces on the ground as dead men, and crying out to one another, said, What is this extraordinary sign which is come to pass in Jerusalem? We know the father and mother of Jesus."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 12,
+                            "name": "Gospel of Nicodemus 12:2",
+                            "text": "And a certain Levite said, I know many of his relations, religions persons, who are wont to offer sacrifices and burnt-offerings to the God of Israel, in the temple, with prayers."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 12,
+                            "name": "Gospel of Nicodemus 12:3",
+                            "text": "And when the high-priest Simeon took him up in his arms, he said to him, Lord, now lettest thou thy servant depart in peace, according to thy word; for mine eyes have seen thy salvation, which then halt prepared before the face of all people; a light to enlighten the Gentiles, and the glory of thy people Israel."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 12,
+                            "name": "Gospel of Nicodemus 12:4",
+                            "text": "Simeon in like manner blessed Mary the Mother of Jesus, and said to her, I declare to thee concerning that child; He is appointed for the fall and rising again of many, and for a sign which shall be spoken against;"
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 12,
+                            "name": "Gospel of Nicodemus 12:5",
+                            "text": "Yea, a sword shall pierce through thine own soul also, and the thoughts of many hearts shall he revealed."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 12,
+                            "name": "Gospel of Nicodemus 12:6",
+                            "text": "Then said all the Jews, Let us send to those three men, who said they saw him talking with his disciples in mount Olivet."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 12,
+                            "name": "Gospel of Nicodemus 12:7",
+                            "text": "After this, they asked them what they had seen; who answered with one accord, In the presence of the God of Israel we affirm, that we plainly saw Jesus talking with his disciples in Mount Olivet, and ascending up to heaven."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 12,
+                            "name": "Gospel of Nicodemus 12:8",
+                            "text": "Then Annas and Caiaphas took them into separate places, and examined them separately; who unanimously confessed the truth, and said, they had seen Jesus."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 12,
+                            "name": "Gospel of Nicodemus 12:9",
+                            "text": "Then Annas and Caiaphas said \"Our law saith, By the mouth of two or three witnesses every word shall be established.\""
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 12,
+                            "name": "Gospel of Nicodemus 12:10",
+                            "text": "But what have we said? The blessed Enoch pleased God, and was translated by the word of God; and the burying-place of the blessed Moses is known."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 12,
+                            "name": "Gospel of Nicodemus 12:11",
+                            "text": "But Jesus was delivered to Pilate, whipped, crowned with thorns, spit upon, pierced with a spear, crucified, died upon the cross, and was buried, and his body the honourable Joseph buried in a new sepulchre, and he testifies that he saw him alive."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 12,
+                            "name": "Gospel of Nicodemus 12:12",
+                            "text": "And besides, these men have declared, that they saw him talking with his disciples in Mount Olivet, and ascending up to heaven."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 12,
+                            "name": "Gospel of Nicodemus 12:13",
+                            "text": "Then Joseph rising up, said to Annas and Caiaphas, Ye may be justly under a great surprise, that you have been told, that Jesus is alive, and gone up to heaven."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 12,
+                            "name": "Gospel of Nicodemus 12:14",
+                            "text": "It is indeed a thing really surprising, that he should not only himself arise from the dead, but also raise others from their graves, who have been seen by many in Jerusalem."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 12,
+                            "name": "Gospel of Nicodemus 12:15",
+                            "text": "And now hear me a little We all knew the blessed Simeon, the high-priest, who took Jesus when an infant into his arms in the temple."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 12,
+                            "name": "Gospel of Nicodemus 12:16",
+                            "text": "This same Simeon had two sons of his own, and we were all present at their death and funeral."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 12,
+                            "name": "Gospel of Nicodemus 12:17",
+                            "text": "Go therefore and see their tombs, for these are open, and they are risen: and behold, they are in the city of Arimathaea, spending their time together in offices of devotion."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 12,
+                            "name": "Gospel of Nicodemus 12:18",
+                            "text": "Some, indeed, have heard the sound of their voices in prayer, but they will not discourse with anyone, but they continue as mute as dead men."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 12,
+                            "name": "Gospel of Nicodemus 12:19",
+                            "text": "But come, let us go to them, and behave ourselves towards them with all due respect and caution. And if we can bring them to swear, perhaps they will tell us some of the mysteries of their resurrection."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 12,
+                            "name": "Gospel of Nicodemus 12:20",
+                            "text": "When the Jews heard this they were exceedingly rejoiced."
+                        },
+                        {
+                            "verse": 21,
+                            "chapter": 12,
+                            "name": "Gospel of Nicodemus 12:21",
+                            "text": "Then Annas and Caiaphas, Nicodemus, Joseph, and Gamaliel, went to Arimathaea, but did not find them in their graves; but walking about the city, they found them on their bended knees at their devotions:"
+                        },
+                        {
+                            "verse": 22,
+                            "chapter": 12,
+                            "name": "Gospel of Nicodemus 12:22",
+                            "text": "Then saluting them with all respect and deference to God, they brought them to the synagogue at Jerusalem; and having shut the gates, they took the book of the law of the Lord,"
+                        },
+                        {
+                            "verse": 23,
+                            "chapter": 12,
+                            "name": "Gospel of Nicodemus 12:23",
+                            "text": "And putting it in their hands, swore them by God Adonai, and the God of Israel, who spake to our fathers by the law and the prophets, saying, If ye believe him who raised you from the dead, to be Jesus, tell us what ye have seen, and how ye were raised from the dead."
+                        },
+                        {
+                            "verse": 24,
+                            "chapter": 12,
+                            "name": "Gospel of Nicodemus 12:24",
+                            "text": "Charinus and Lenthius, the two sons of Simeon, trembled when they heard these things, and were disturbed, and groaned; and at the same time looking up to heaven, they made the sign of the cross with their fingers on their tongues,"
+                        },
+                        {
+                            "verse": 25,
+                            "chapter": 12,
+                            "name": "Gospel of Nicodemus 12:25",
+                            "text": "And immediately they spake, and said, Give each of us some paper, and we will write down for you all those things which we have seen. And they each sat down and wrote, saying:—"
+                        }
+                    ]
+                },
+                {
+                    "chapter": 13,
+                    "name": "Gospel of Nicodemus 13",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 13,
+                            "name": "Gospel of Nicodemus 13:1",
+                            "text": "O Lord Jesus and Father, who art God, also the resurrection and life of the dead, give us leave to declare thy mysteries, which we saw after death, belonging to thy cross; for we are sworn by thy name."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 13,
+                            "name": "Gospel of Nicodemus 13:2",
+                            "text": "For thou hast forbidden thy servants to declare the secret things, which were wrought by thy divine power in hell."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 13,
+                            "name": "Gospel of Nicodemus 13:3",
+                            "text": "When we were Placed with our fathers in the dept of hell, in the blackness of darkness, on a sudden there appeared the colour of the sun like gold, and a substantial purple-coloured light enlightening the place."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 13,
+                            "name": "Gospel of Nicodemus 13:4",
+                            "text": "Presently upon this, Adam, the father of all mankind, with all the patriarchs and prophets, rejoiced and said, That light is the author of everlasting light, who hath promised to translate us to everlasting light."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 13,
+                            "name": "Gospel of Nicodemus 13:5",
+                            "text": "Then Isaiah the prophet cried out and said, This is the light of the Father, and the Son of God, according to my prophecy, when I was alive upon earth."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 13,
+                            "name": "Gospel of Nicodemus 13:6",
+                            "text": "The land of Zabulon, and the land of Nephthalim, beyond Jordan, a people who walked in darkness, saw a great light; and to them who dwelled in the region of the shadow of death, light is arisen. And now he is come, and hath enlightened us who sat in death."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 13,
+                            "name": "Gospel of Nicodemus 13:7",
+                            "text": "And while we were all rejoicing in the light which shone upon us, our father Simeon came among us, and congratulating all the company, said, Glorify the Lord Jesus Christ the Son of God."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 13,
+                            "name": "Gospel of Nicodemus 13:8",
+                            "text": "Whom I took up in my arms when an infant in the temple, and being moved by the Holy Ghost, said to him, and acknowledged, That now mine eyes have seen thy salvation, which thou hast prepared before the face of all people; a light to enlighten the Gentiles, and the glory of thy people Israel."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 13,
+                            "name": "Gospel of Nicodemus 13:9",
+                            "text": "All the saints who were in the depth of hell, hearing this, rejoiced the more."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 13,
+                            "name": "Gospel of Nicodemus 13:10",
+                            "text": "Afterwards there came forth one like a little hermit, and was asked by every one, Who art thou?"
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 13,
+                            "name": "Gospel of Nicodemus 13:11",
+                            "text": "To which he replied, I am the voice of one crying in the wilderness, John the Baptist, and the prophet of the Most High, who went before his coming to prepare his way, to give the knowledge of salvation to his people for the forgiveness of sins."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 13,
+                            "name": "Gospel of Nicodemus 13:12",
+                            "text": "And I, John, when I saw Jesus coming to me, being moved by the Holy Ghost, I said, Behold the Lamb of God, behold him who takes away the sins of the world."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 13,
+                            "name": "Gospel of Nicodemus 13:13",
+                            "text": "And I baptized him in the river Jordan, and saw the Holy Ghost descending upon him in the form of a dove, and heard a voice from heaven saying, This is my beloved Son, in whom I am well pleased."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 13,
+                            "name": "Gospel of Nicodemus 13:14",
+                            "text": "And now while I was going before him, I came down hither to acquaint you, that the Son of God will next visit us, and, as the day-spring from on high, will come to us, who are in darkness and the shadow of death."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 14,
+                    "name": "Gospel of Nicodemus 14",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 14,
+                            "name": "Gospel of Nicodemus 14:1",
+                            "text": "But when the first man our father Adam heard these things, that Jesus was baptized in Jordan, he called out to his son Seth, and said,"
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 14,
+                            "name": "Gospel of Nicodemus 14:2",
+                            "text": "Declare to your sons, the patriarchs and prophets, all those things, which thou didst hear from Michael, the archangel, when I sent thee to the gates of Paradise, to entreat God that he would annoint my head when I was sick."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 14,
+                            "name": "Gospel of Nicodemus 14:3",
+                            "text": "Then Seth, coming near to the patriarchs and prophets, said, I, Seth, when I was praying to God at the gates of Paradise, beheld the angel of the Lord, Michael, appear unto me, saying, I am sent unto thee from the Lord; I am appointed to preside over human bodies."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 14,
+                            "name": "Gospel of Nicodemus 14:4",
+                            "text": "I tell thee, Seth, do not pray to God in tears, and entreat him for the oil of the tree of mercy wherewith to anoint thy father Adam for his head-ache;"
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 14,
+                            "name": "Gospel of Nicodemus 14:5",
+                            "text": "Because thou canst not by any means obtain it till the last day and times, namely, till five thousand and five hundred years be past."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 14,
+                            "name": "Gospel of Nicodemus 14:6",
+                            "text": "Then will Christ, the most merciful Son of God, come on earth to raise again the human body of Adam, and at the same time to raise the bodies of the dead, and when he cometh he will be baptized in Jordan;"
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 14,
+                            "name": "Gospel of Nicodemus 14:7",
+                            "text": "Then with the oil of his mercyhe will anoint all those who believe in him; and the oil of his mercy will continue to future generations, for those who shall be born of the water and the Holy Ghost unto eternal life."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 14,
+                            "name": "Gospel of Nicodemus 14:8",
+                            "text": "And when at that time the most merciful Son of God, Christ Jesus, shall come down on earth, he will introduce our father Adam into Paradise, to the tree of mercy."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 14,
+                            "name": "Gospel of Nicodemus 14:9",
+                            "text": "When all the patriarchs and prophets heard all these things from Seth, they rejoiced more."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 15,
+                    "name": "Gospel of Nicodemus 15",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 15,
+                            "name": "Gospel of Nicodemus 15:1",
+                            "text": "While all the saints were rejoicing, behold Satan, the prince and captain of death, said to the prince of hell,"
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 15,
+                            "name": "Gospel of Nicodemus 15:2",
+                            "text": "Prepare to receive Jesus of Nazareth himself, who boasted that he was the Son of God, and yet was a man afraid of death, and said, My soul is sorrowful even to death."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 15,
+                            "name": "Gospel of Nicodemus 15:3",
+                            "text": "Besides he did many injuries to me and to many others; for those whom I made blind and lame and those also whom I tormented with several devils, he cured by his word; yea, and those whom I brought dead to thee, he by force takes away from thee."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 15,
+                            "name": "Gospel of Nicodemus 15:4",
+                            "text": "To this the prince of hell replied to Satan, Who is that so powerful prince, and yet a man who is afraid of death?"
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 15,
+                            "name": "Gospel of Nicodemus 15:5",
+                            "text": "For all the potentates of the earth are subject to my power, whom thou broughtest to subjection by thy power."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 15,
+                            "name": "Gospel of Nicodemus 15:6",
+                            "text": "But if he be so powerful in his human nature, I affirm to thee for truth, that he is almighty in his divine nature, and no man can resist his power:"
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 15,
+                            "name": "Gospel of Nicodemus 15:7",
+                            "text": "When therefore he said he was afraid of death, he designed to ensnare thee, and unhappy it will be to thee for everlasting ages,"
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 15,
+                            "name": "Gospel of Nicodemus 15:8",
+                            "text": "Then Satan replying, said to the prince of hell, Why didst thou express a doubt, and wast afraid to receive that Jesus of Nazareth, both thy adversary and mine?"
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 15,
+                            "name": "Gospel of Nicodemus 15:9",
+                            "text": "As for me, I tempted him and stirred up my old people the Jews with zeal and anger against him;"
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 15,
+                            "name": "Gospel of Nicodemus 15:10",
+                            "text": "I sharpened the spear for his suffering; I mixed the gall and vinegar, and commanded that he should drink it; I prepared the cross to crucify him, and the nails to pierce through his hands and feet; and now his death is near at hand, I will bring him hither, subject both to thee and me."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 15,
+                            "name": "Gospel of Nicodemus 15:11",
+                            "text": "Then the prince of hell answering, said, Thou saidst to me just now, that he took away the dead from me by force."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 15,
+                            "name": "Gospel of Nicodemus 15:12",
+                            "text": "They who have been kept here till they should live again upon earth, were taken away hence, not by their own power, but by prayers made to God, and their almighty God took them from me."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 15,
+                            "name": "Gospel of Nicodemus 15:13",
+                            "text": "Who then is that Jesus of Nazareth that by his word hath taken away the dead from me without prayer to God?"
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 15,
+                            "name": "Gospel of Nicodemus 15:14",
+                            "text": "Perhaps it is the same who took away from me Lazarus, after he had been four days dead, and did both stink and was rotten, and of whom I had possession as a dead person, yet he brought him to life again by his power."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 15,
+                            "name": "Gospel of Nicodemus 15:15",
+                            "text": "Satan answering, replied to the prince of hell, It is the very same person, Jesus of Nazareth."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 15,
+                            "name": "Gospel of Nicodemus 15:16",
+                            "text": "Which when the prince of hell heard, he said to him, I adjure thee by the powers which belong to thee and me, that thou bring him not to me."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 15,
+                            "name": "Gospel of Nicodemus 15:17",
+                            "text": "For when I heard of the power of his word, I trembled for fear, and all my impious company were at the same disturbed;"
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 15,
+                            "name": "Gospel of Nicodemus 15:18",
+                            "text": "And we were not able to detain Lazarus, but he gave himself a shake, and with all the signs of malice he immediately went away from us; and the very earth, in which the dead body of Lazarus was lodged, presently turned him out alive."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 15,
+                            "name": "Gospel of Nicodemus 15:19",
+                            "text": "And I know now that he is Almighty God who could perform such things, who is mighty in his dominion, and mighty in his human nature, who is the Saviour of mankind."
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 15,
+                            "name": "Gospel of Nicodemus 15:20",
+                            "text": "Bring not therefore this person hither, for he will set at liberty all those whom I hold in prison under unbelief, and bound with the fetters of their sins, and will conduct them to everlasting life."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 16,
+                    "name": "Gospel of Nicodemus 16",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 16,
+                            "name": "Gospel of Nicodemus 16:1",
+                            "text": "And while Satan and the Prince of hell were discoursing thus to each other, on a sudden there was a voice as of thunder, and the rushing of winds, saying, Lift up your gates, O ye princes; and be ye lift up, O everlasting gates, and the King of Glory shall come in."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 16,
+                            "name": "Gospel of Nicodemus 16:2",
+                            "text": "When the prince of hell heard this, he said to Satan, Depart from me, and begone out of my habitations; if thou art a powerful warrior, fight with the King of Glory. But what hast thou to do with him?"
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 16,
+                            "name": "Gospel of Nicodemus 16:3",
+                            "text": "And he cast him forth from his habitations."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 16,
+                            "name": "Gospel of Nicodemus 16:4",
+                            "text": "And the prince said to his impious officers, Shut the brass gates of cruelty, and make them fast with iron bars, and fight courageously, lest we be taken captives."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 16,
+                            "name": "Gospel of Nicodemus 16:5",
+                            "text": "But when all the company of the saints heard this they spake with a loud voice of anger to the prince of hell,"
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 16,
+                            "name": "Gospel of Nicodemus 16:6",
+                            "text": "Open thy gates, that the King of Glory may come in."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 16,
+                            "name": "Gospel of Nicodemus 16:7",
+                            "text": "And the divine prophet David cried out, saying, Did not I, when on earth, truly prophesy and say, O that men would praise the Lord for his goodness, and for his wonderful works to the children of men!"
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 16,
+                            "name": "Gospel of Nicodemus 16:8",
+                            "text": "For he hath broken the gates of brass, and cut the bars of iron in sunder. He hath taken them because of their iniquity, and because of their unrighteousness they are afflicted."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 16,
+                            "name": "Gospel of Nicodemus 16:9",
+                            "text": "After this, another prophet, namely, holy Isaiah, spake in like manner to all the saints, Did not I rightly prophesy to you when I was alive on earth?"
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 16,
+                            "name": "Gospel of Nicodemus 16:10",
+                            "text": "The dead men shall live, and they shall rise again who are in their graves, and they shall rejoice who are in the earth; for the dew which is from the Lord, shall bring deliverance to them."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 16,
+                            "name": "Gospel of Nicodemus 16:11",
+                            "text": "And I said in another place, O grave, where is thy victory? O death, where is thy sting?"
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 16,
+                            "name": "Gospel of Nicodemus 16:12",
+                            "text": "When all the saints heard these things spoken by Isaiah, they said to the prince of hell. Open now thy gates, and take away thine iron bars; for thou wilt now be bound, and have no power."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 16,
+                            "name": "Gospel of Nicodemus 16:13",
+                            "text": "Then was there a great voice, as of the sound of thunder, saying, Lift up your gates, O princes; and be ye lifted up, ye gates of hell, and the King of Glory will enter in."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 16,
+                            "name": "Gospel of Nicodemus 16:14",
+                            "text": "The prince of hell perceiving the same voice repeated, cried out, as though he had been ignorant, Who is that King of Glory?"
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 16,
+                            "name": "Gospel of Nicodemus 16:15",
+                            "text": "David replied to the prince of hell, and said, I understand the words of that voice, because I spake them in his spirit. And now, as I have before said, I say unto thee, the Lord strong and powerful, the Lord mighty in battle: he is the King of Glory, and he is the Lord in heaven and in earth."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 16,
+                            "name": "Gospel of Nicodemus 16:16",
+                            "text": "He hath looked down to hear the groans of the prisoners, and to set loose those that are appointed to death."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 16,
+                            "name": "Gospel of Nicodemus 16:17",
+                            "text": "And now, thou filthy and stinking prince of hell, open thy gates, that the King of Glory may enter in; for he is the Lord of heaven and earth."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 16,
+                            "name": "Gospel of Nicodemus 16:18",
+                            "text": "While David was saying this, the mighty Lord appeared in the form of a man, and enlightened those places which had ever before been in darkness."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 16,
+                            "name": "Gospel of Nicodemus 16:19",
+                            "text": "And broke asunder the fetters which before could not be broken; and with his invincible power visited those who sate in the deep darkness by iniquity, and the shadow of death by sin."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 17,
+                    "name": "Gospel of Nicodemus 17",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 17,
+                            "name": "Gospel of Nicodemus 17:1",
+                            "text": "Impious death and her cruel officers hearing these things, were seized with fear in their several kingdoms, when they saw the clearness of the light,"
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 17,
+                            "name": "Gospel of Nicodemus 17:2",
+                            "text": "And Christ himself on a sudden appearing in their habitations, they cried out therefore, and said, We are bound by thee; thou seemest to intend our confusion before the Lord."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 17,
+                            "name": "Gospel of Nicodemus 17:3",
+                            "text": "Who art thou, who has no signs of corruption, but that bright appearance which is a full proof of thy greatness, of which yet thou seemest to take no notice?"
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 17,
+                            "name": "Gospel of Nicodemus 17:4",
+                            "text": "Who art thou, so powerful, and so weak, so great and so little; mean, and yet a soldier of the first rank, who can command in the form of a servant and a common soldier?"
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 17,
+                            "name": "Gospel of Nicodemus 17:5",
+                            "text": "The king of Glory, dead and alive, though once slain upon the cross?"
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 17,
+                            "name": "Gospel of Nicodemus 17:6",
+                            "text": "Who layest dead in the grave, and art come down alive to us, and in thy death all the creatures trembled, and all the stars were moved; and now hast thy liberty among the dead, and givest disturbance to our legions?"
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 17,
+                            "name": "Gospel of Nicodemus 17:7",
+                            "text": "Who art thou, who dost release the captives that were held in chains by original sin, and bringest them into their former liberty?"
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 17,
+                            "name": "Gospel of Nicodemus 17:8",
+                            "text": "Who art thou, who dost spread so glorious and divine a light over those who were made blind by the darkness of sin?"
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 17,
+                            "name": "Gospel of Nicodemus 17:9",
+                            "text": "In like manner all the legions of devils were seized with the like horror, and with the most submissive fear cried out, and said,"
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 17,
+                            "name": "Gospel of Nicodemus 17:10",
+                            "text": "Whence comes it, O thou Jesus Christ, that thou art a man so powerful and glorious in majesty so bright as to have no spot, and so pure as to have no crime? For that lower world of earth, which was ever till now subject to us, and from whence we received tribute, never sent us such a dead man before, never sent such presents as these to the princes of hell."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 17,
+                            "name": "Gospel of Nicodemus 17:11",
+                            "text": "Who therefore art thou, who with such courage enterest among our abodes, and art not only not afraid to threaten us with the greatest punishments, but also endeavourest to rescue all others from the chains in which we hold them?"
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 17,
+                            "name": "Gospel of Nicodemus 17:12",
+                            "text": "Perhaps thou art that Jesus, of whom Satan just now spoke to our prince, that by the death of the cross thou wert about to receive the power of death."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 17,
+                            "name": "Gospel of Nicodemus 17:13",
+                            "text": "Then the King of Glory trampling upon death, seized the prince of hell, deprived him of all his power, and took our earthly father Adam with him to his glory."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 18,
+                    "name": "Gospel of Nicodemus 18",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 18,
+                            "name": "Gospel of Nicodemus 18:1",
+                            "text": "Then the prince of hell took Satan, and with great indignation said to him, O thou prince of destruction, author of Beelzebub's defeat and banishment, the scorn of God's angels and loathed by all righteous persons! What inclined thee to act thus?"
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 18,
+                            "name": "Gospel of Nicodemus 18:2",
+                            "text": "Thou wouldst crucify the King of Glory, and by his destruction, hast made us promises of very large advantages, but as a fool wert ignorant of what thou wast about."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 18,
+                            "name": "Gospel of Nicodemus 18:3",
+                            "text": "For behold now that Jesus of Nazareth, with the brightness of his glorious divinity, puts to flight all the horrid powers of darkness and death;"
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 18,
+                            "name": "Gospel of Nicodemus 18:4",
+                            "text": "He has broke down our prisons from top to bottom, dismissed all the captives, released all who were bound, and all who were wont formerly to groan under the weight of their torments, have now insulted us, and we are like to be defeated by their prayers."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 18,
+                            "name": "Gospel of Nicodemus 18:5",
+                            "text": "Our impious dominions are subdued, and no part of mankind is now left in our subjection, but on the other hand, they all boldly defy us;"
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 18,
+                            "name": "Gospel of Nicodemus 18:6",
+                            "text": "Though, before, the dead never durst behave themselves insolently towards us, nor being prisoners, could ever on any occasion be merry."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 18,
+                            "name": "Gospel of Nicodemus 18:7",
+                            "text": "O Satan, thou prince of all the wicked, father of the impious and abandoned, why wouldest thou attempt this exploit, seeing our prisoners were hitherto always without the least hope of salvation and life?"
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 18,
+                            "name": "Gospel of Nicodemus 18:8",
+                            "text": "But now there is not one of them does ever groan, nor is there the least appearance of a tear in any of their faces."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 18,
+                            "name": "Gospel of Nicodemus 18:9",
+                            "text": "O prince Satan, thou great keeper of the infernal regions, all thy advantages which thou didst acquire by the forbidden tree, and the loss of Paradise, thou hast now lost by the wood of the cross;"
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 18,
+                            "name": "Gospel of Nicodemus 18:10",
+                            "text": "And thy happiness all then expired, when thou didst crucify Jesus Christ the King of Glory."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 18,
+                            "name": "Gospel of Nicodemus 18:11",
+                            "text": "Thou hast acted against thine own interest and mine, as thou wilt presently perceive by those large torments and infinite punishments which thou art about to suffer."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 18,
+                            "name": "Gospel of Nicodemus 18:12",
+                            "text": "O Satan, prince of all evil, author of death, and source of all pride, thou shouldest first have inquired into the evil crimes of Jesus of Nazareth, and then thou wouldest have found that he was guilty of no fault worthy of death."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 18,
+                            "name": "Gospel of Nicodemus 18:13",
+                            "text": "Why didst thou venture, without either reason or justice, to crucify him, and hast brought down to our regions a person innocent and righteous, and thereby hast lost all the sinners, impious and unrighteous persons in the whole world?"
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 18,
+                            "name": "Gospel of Nicodemus 18:14",
+                            "text": "While the prince of hell was thus speaking to Satan, the King of Glory said to Beelzebub the prince of hell, Satan the prince shall he subject to thy dominions for ever, in the room of Adam and his righteous sons, who are mine."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 19,
+                    "name": "Gospel of Nicodemus 19",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 19,
+                            "name": "Gospel of Nicodemus 19:1",
+                            "text": "Then Jesus stretched forth his hand, and said. Come to me, all ye my saints, who were created in my image, who were condemned by the tree of the forbidden fruit, and by the devil and death;"
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 19,
+                            "name": "Gospel of Nicodemus 19:2",
+                            "text": "Live now by the wood of my cross; the devil, the prince of this world, is overcome, and death is conquered,"
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 19,
+                            "name": "Gospel of Nicodemus 19:3",
+                            "text": "Then presently all the saints were joined together under the hand of the most high God; and the Lord Jesus laid hold on Adam's hand, and said to him, Peace be to thee, and all thy righteous posterity, which is mine."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 19,
+                            "name": "Gospel of Nicodemus 19:4",
+                            "text": "Then Adam, casting himself at the feet of Jesus, addressed himself to him with tears, in humble language, and a loud voice, saying,"
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 19,
+                            "name": "Gospel of Nicodemus 19:5",
+                            "text": "\"I will extol thee, O Lord, for thou halt lifted me up, and hast not made my foes to rejoice over me. O Lord my God, I cried unto thee, and thou hast healed me.\""
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 19,
+                            "name": "Gospel of Nicodemus 19:6",
+                            "text": "\"O Lord thou hast brought up my soul from the grave; thou hast kept me alive, that I should not go down to the pit.\""
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 19,
+                            "name": "Gospel of Nicodemus 19:7",
+                            "text": "\"Sing unto the Lord, all ye saints of his, and give thanks at the remembrance of his holiness, for his anger endureth but for a moment; in his favour is life.\""
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 19,
+                            "name": "Gospel of Nicodemus 19:8",
+                            "text": "In like manner all the saints, prostrate at the feet of Jesus, said with one voice, Thou art come, O Redeemer of the world, and hast actually accomplished all things, which thou didst foretell by the law and thy holy prophets."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 19,
+                            "name": "Gospel of Nicodemus 19:9",
+                            "text": "Thou hast redeemed the living by thy cross, and art come down to us, that by the death of the cross thou mightest deliver us from hell, and by thy power from death."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 19,
+                            "name": "Gospel of Nicodemus 19:10",
+                            "text": "O Lord, as thou hast put the ensigns of thy glory in heaven, and hast set up the sign of thy redemption, even thy cross on earth; so, Lord, set the sign of the victory of thy cross in hell, that death may have dominion no longer."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 19,
+                            "name": "Gospel of Nicodemus 19:11",
+                            "text": "Then the Lord stretching forth his hand, made the sign of the cross upon Adam, and upon all his saints."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 19,
+                            "name": "Gospel of Nicodemus 19:12",
+                            "text": "And taking hold of Adam by his right hand, he ascended from hell, and all the saints of God followed him."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 19,
+                            "name": "Gospel of Nicodemus 19:13",
+                            "text": "Then the royal prophet, David, boldly cried, and said, O sing unto the Lord a new song, for he hath done marvellous things; his right hand and his holy arm have gotten him the victory."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 19,
+                            "name": "Gospel of Nicodemus 19:14",
+                            "text": "The Lord hath made known his salvation, his righteousness hath he openly shewn in the sight of the heathen."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 19,
+                            "name": "Gospel of Nicodemus 19:15",
+                            "text": "And the whole multitude of saints answered, saying, This honour have all his saints, Amen, Praise ye the Lord."
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 19,
+                            "name": "Gospel of Nicodemus 19:16",
+                            "text": "Afterwards, the prophet Habbakuk cried out, and said, Thou wentest forth for the salvation of thy people, even for salvation with thine anointed."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 19,
+                            "name": "Gospel of Nicodemus 19:17",
+                            "text": "And all the saints said, Blessed is he who cometh in the name of the Lord; for the Lord hath enlightened us. This is our God for ever and ever; he shall reign over us to everlasting ages. Amen."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 19,
+                            "name": "Gospel of Nicodemus 19:18",
+                            "text": "In like manner all the prophets spake the sacred things of his praise, and followed the Lord."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 20,
+                    "name": "Gospel of Nicodemus 20",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 20,
+                            "name": "Gospel of Nicodemus 20:1",
+                            "text": "Then the Lord, holding Adam by the hand, delivered him to Michael the archangel; and he led them into Paradise, filled with mercy and glory;"
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 20,
+                            "name": "Gospel of Nicodemus 20:2",
+                            "text": "And two very ancient men met them, and were asked by the saints, Who are ye, who have not yet been with us in hell, and have had your bodies placed in Paradise?"
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 20,
+                            "name": "Gospel of Nicodemus 20:3",
+                            "text": "One of them answering, said, I am Enoch, who was translated by the word of God: and this man who is with me, is Elijah the Tishbite, who was translated in a fiery chariot."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 20,
+                            "name": "Gospel of Nicodemus 20:4",
+                            "text": "Here we have hitherto been, and have not tasted death, but are now about to return at the coming of Antichrist, being armed with divine signs and miracles, to engage with him in battle, and to be slain by him at Jerusalem, and to be taken up alive again into the clouds, after three days and a half."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 20,
+                            "name": "Gospel of Nicodemus 20:5",
+                            "text": "And while the holy Enoch and Elias were relating this, behold there came another man in a miserable figure, carrying the sign of the cross upon his shoulders."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 20,
+                            "name": "Gospel of Nicodemus 20:6",
+                            "text": "And when all the saints saw him, they said to him, Who art thou? For thy countenance is like a thief's; and why dost thou carry a cross upon thy shoulders?"
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 20,
+                            "name": "Gospel of Nicodemus 20:7",
+                            "text": "To which he answering, said, Ye say right, for I was a thief, who committed all sorts of wickedness upon earth."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 20,
+                            "name": "Gospel of Nicodemus 20:8",
+                            "text": "And the Jews crucified me with Jesus; and I observed the surprising things which happened in the creation at the crucifixion of the Lord Jesus."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 20,
+                            "name": "Gospel of Nicodemus 20:9",
+                            "text": "And I believed him to be the Creator of all things, and the Almighty King; and I prayed to him, saying. Lord remember me, when thou contest into thy kingdom."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 20,
+                            "name": "Gospel of Nicodemus 20:10",
+                            "text": "He presently regarded my supplication, and said to me, Verily I say unto thee, this day thou shalt be with me in Paradise."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 20,
+                            "name": "Gospel of Nicodemus 20:11",
+                            "text": "And he gave me this sign of the cross, saying, Carry this, and go to Paradise; and if the angel who is the guard of Paradise will not admit thee, show him the sign of the cross, and say unto him Jesus Christ who is now crucified, hath sent me hither to thee."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 20,
+                            "name": "Gospel of Nicodemus 20:12",
+                            "text": "When I did this and told the angel who is the guard of Paradise all these things, and he heard them, he presently opened the gates, introduced me, and placed me on the right hand in Paradise,"
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 20,
+                            "name": "Gospel of Nicodemus 20:13",
+                            "text": "Saying, Stay here a little time, till Adam, the father of all mankind, shall enter in, with all his sons, who are the holy and righteous servants of Jesus Christ, who was crucified."
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 20,
+                            "name": "Gospel of Nicodemus 20:14",
+                            "text": "When they heard all this account from the thief, all the patriarchs said with one voice, Blessed be thou, O Almighty God, the Father of everlasting goodness, and the Father of mercies, who hast shown such favour to those who were sinners against him, and hast brought them to the mercy of Paradise, and hast placed them amidst thy large and spiritual provisions, in a spiritual and holy life. Amen."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 21,
+                    "name": "Gospel of Nicodemus 21",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 21,
+                            "name": "Gospel of Nicodemus 21:1",
+                            "text": "These are the divine and sacred mysteries which we saw and heard. We, Charinus and Lenthius are not allowed to declare the other mysteries of God, as the archangel Michael ordered us,"
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 21,
+                            "name": "Gospel of Nicodemus 21:2",
+                            "text": "Saying, ye shall go with my brethren to Jerusalem, and shall continue in prayers, declaring and glorifying the resurrection of Jesus Christ, seeing he hath raised you from the dead at the same time with himself."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 21,
+                            "name": "Gospel of Nicodemus 21:3",
+                            "text": "And ye shall not talk with any man, but sit as dumb persons till the time come when the Lord will allow you to relate the mysteries of his divinity."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 21,
+                            "name": "Gospel of Nicodemus 21:4",
+                            "text": "The archangel Michael farther commanded us to go beyond Jordan, to an excellent and fat country, where there are many who rose from the dead along with us for the proof of the resurrection of Christ."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 21,
+                            "name": "Gospel of Nicodemus 21:5",
+                            "text": "For we have only three days allowed us from the dead, who arose to celebrate the passover of our Lord with our parents, and to bear our testimony for Christ the Lord, and we have been baptized in the holy river of Jordan. And now they are not seen by any one."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 21,
+                            "name": "Gospel of Nicodemus 21:6",
+                            "text": "This is as much as God allowed us to relate to you; give ye therefore praise and honour to him, and repent, and he will have mercy upon you. Peace be to you from the Lord God Jesus Christ, and the Saviour of us all. Amen, Amen, Amen."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 21,
+                            "name": "Gospel of Nicodemus 21:7",
+                            "text": "And after they had made an end of writing, and had written on two distinct pieces of paper, Charinus gave what he wrote into the hands of Annas, and Caiaphas, and Gamaliel."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 21,
+                            "name": "Gospel of Nicodemus 21:8",
+                            "text": "Lenthius likewise gave what be wrote into the hands of Nicodemus and Joseph; and immediately they were changed into exceeding white forms and were seen no more."
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 21,
+                            "name": "Gospel of Nicodemus 21:9",
+                            "text": "But what they had written was found perfectly to agree, the one not containing one letter more or less than the other."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 21,
+                            "name": "Gospel of Nicodemus 21:10",
+                            "text": "When all the assembly of the Jews heard all these surprising relations of Charinus and Lenthius, they said to each other, Truly all these things were wrought by God, and blessed be the Lord Jesus for ever and ever, Amen."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 21,
+                            "name": "Gospel of Nicodemus 21:11",
+                            "text": "And they went all out with great concern, and fear, and trembling, and smote upon their breasts and went away every one to his home."
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 21,
+                            "name": "Gospel of Nicodemus 21:12",
+                            "text": "But immediately all these things which were related by the Jews in their synagogues concerning Jesus, were presently told by Joseph and Nicodemus to the governor."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 21,
+                            "name": "Gospel of Nicodemus 21:13",
+                            "text": "And Pilate wrote down all these transactions, and placed all these accounts in the public records of his hall."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 22,
+                    "name": "Gospel of Nicodemus 22",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 22,
+                            "name": "Gospel of Nicodemus 22:1",
+                            "text": "After these things Pilate went to the temple of the Jews, and called together all the rulers and scribes, and doctors of the law, and went with them into a chapel of the temple."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 22,
+                            "name": "Gospel of Nicodemus 22:2",
+                            "text": "And commanding that all the gates should be shut, said to them, I have heard that ye have a certain large book in this temple; I desire you, therefore, that it may be brought before me."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 22,
+                            "name": "Gospel of Nicodemus 22:3",
+                            "text": "And when the great book, carried by four ministers of the temple, and adorned with gold and precious stones, was brought, Pilate said to them all, I adjure you by the God of your Fathers, who made and commanded this temple to be built, that ye conceal not the truth from me."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 22,
+                            "name": "Gospel of Nicodemus 22:4",
+                            "text": "Ye know all the things which are written in that book; tell me therefore now, if ye in the Scriptures have found any thing of that Jesus whom ye crucified, and at what time of the world he, ought to have come: show it me."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 22,
+                            "name": "Gospel of Nicodemus 22:5",
+                            "text": "Then having sworn Annas and Caiaphas, they commanded all the rest who were with them to go out of the chapel."
+                        },
+                        {
+                            "verse": 6,
+                            "chapter": 22,
+                            "name": "Gospel of Nicodemus 22:6",
+                            "text": "And they shut the gates of the temple and of the chapel, and said to Pilate, Thou hast made us to swear, O judge, by the building of this temple, to declare to thee that which is true and right."
+                        },
+                        {
+                            "verse": 7,
+                            "chapter": 22,
+                            "name": "Gospel of Nicodemus 22:7",
+                            "text": "After we had crucified Jesus, not knowing that he was the Son of God, but supposing he wrought his miracles by some magical arts, we summoned a large assembly in this temple."
+                        },
+                        {
+                            "verse": 8,
+                            "chapter": 22,
+                            "name": "Gospel of Nicodemus 22:8",
+                            "text": "And when we were deliberating among one another about the miracles which Jesus had wrought, we found many witnesses of our own country, who declared that they had seen him alive after his death, and that they heard him discoursing with his disciples, and saw him ascending into the height of the heavens, and entering into them;"
+                        },
+                        {
+                            "verse": 9,
+                            "chapter": 22,
+                            "name": "Gospel of Nicodemus 22:9",
+                            "text": "And we saw two witnesses, whose bodies Jesus raised from the dead, who told us of many strange things which Jesus did among the dead, of which we have a written account in our hands."
+                        },
+                        {
+                            "verse": 10,
+                            "chapter": 22,
+                            "name": "Gospel of Nicodemus 22:10",
+                            "text": "And it is our custom annually to open this holy book before an assembly, and to search there for the counsel of God."
+                        },
+                        {
+                            "verse": 11,
+                            "chapter": 22,
+                            "name": "Gospel of Nicodemus 22:11",
+                            "text": "And we found in the first of the seventy books, where Michael the archangel is speaking to the third son of Adam the first man, an account that after five thousand five hundred years, Christ the most beloved son of God was to come on earth,"
+                        },
+                        {
+                            "verse": 12,
+                            "chapter": 22,
+                            "name": "Gospel of Nicodemus 22:12",
+                            "text": "And we further considered, that perhaps he was the very God of Israel who spoke to Moses, Thou shalt make the ark of the testimony; two cubits and a half shall be the length thereof, and a cubit and a half the breadth thereof, and a cubit and a half the height thereof."
+                        },
+                        {
+                            "verse": 13,
+                            "chapter": 22,
+                            "name": "Gospel of Nicodemus 22:13",
+                            "text": "By these five cubits and a half for the building of the ark of the Old Testament, we perceived and knew that in five thousand years and half (one thousand) years, Jesus Christ was to come in the ark or tabernacle of a body;"
+                        },
+                        {
+                            "verse": 14,
+                            "chapter": 22,
+                            "name": "Gospel of Nicodemus 22:14",
+                            "text": "And so our Scriptures testify that he is the Son of God, and the Lord and King of Israel."
+                        },
+                        {
+                            "verse": 15,
+                            "chapter": 22,
+                            "name": "Gospel of Nicodemus 22:15",
+                            "text": "And because after his suffering, our chief priests were surprised at the signs which were wrought by his means, we opened that book to search all the generations down to the generation of Joseph and Mary the mother of Jesus, supposing him to be of the seed of David;"
+                        },
+                        {
+                            "verse": 16,
+                            "chapter": 22,
+                            "name": "Gospel of Nicodemus 22:16",
+                            "text": "And we found the account of the creation, and at what time he made the heaven and the earth, and the first man Adam, and that from thence to the flood, were two thousand seven hundred and forty- eight years."
+                        },
+                        {
+                            "verse": 17,
+                            "chapter": 22,
+                            "name": "Gospel of Nicodemus 22:17",
+                            "text": "And from the flood to Abraham, nine hundred and twelve. And from Abraham to Moses, four hundred and thirty. And from Moses to David the King, five hundred and ten."
+                        },
+                        {
+                            "verse": 18,
+                            "chapter": 22,
+                            "name": "Gospel of Nicodemus 22:18",
+                            "text": "And from David to the Babylonish captivity five hundred years. And from the Babylonish captivity to the incarnation of Christ, four hundred years."
+                        },
+                        {
+                            "verse": 19,
+                            "chapter": 22,
+                            "name": "Gospel of Nicodemus 22:19",
+                            "text": "The sum of all which amounts to five thousand and half (a thousand.)"
+                        },
+                        {
+                            "verse": 20,
+                            "chapter": 22,
+                            "name": "Gospel of Nicodemus 22:20",
+                            "text": "And so it appears, that Jesus whom we crucified, is Jesus Christ the Son of God, and true Almighty God. Amen."
+                        }
+                    ]
+                },
+                {
+                    "chapter": 23,
+                    "name": "Gospel of Nicodemus 23",
+                    "verses": [
+                        {
+                            "verse": 1,
+                            "chapter": 23,
+                            "name": "Gospel of Nicodemus 23:1",
+                            "text": "In the name of the Holy Trinity, thus end the acts of our Saviour Jesus Christ."
+                        },
+                        {
+                            "verse": 2,
+                            "chapter": 23,
+                            "name": "Gospel of Nicodemus 23:2",
+                            "text": "The Emperor Theodosius the Great found these acts at Jerusalem, in the hall of Pontius Pilate, among the public records."
+                        },
+                        {
+                            "verse": 3,
+                            "chapter": 23,
+                            "name": "Gospel of Nicodemus 23:3",
+                            "text": "These things were acted in the nineteenth year of Tiberius Caesar, Emperor of the Romans, and in the seventeenth year of the government of Herod, the son of Herod and of Galilee."
+                        },
+                        {
+                            "verse": 4,
+                            "chapter": 23,
+                            "name": "Gospel of Nicodemus 23:4",
+                            "text": "This occurred on the eighth of the calends of April, which is the twenty-third day of the month of March, in the CCIId Olympiad, when Joseph and Caiaphas were rulers of the Jews."
+                        },
+                        {
+                            "verse": 5,
+                            "chapter": 23,
+                            "name": "Gospel of Nicodemus 23:5",
+                            "text": "This is a History written in Hebrew by Nicodemus, of what happened after our Saviour's crucifixion."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

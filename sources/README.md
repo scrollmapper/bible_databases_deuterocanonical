@@ -14,6 +14,7 @@
 - [Gad the Seer](en/gad-the-seer/)
 - [General Epistle of Barnabas](en/epistle-of-barnabas/)
 - [Genesis Apocryphon](en/genesis-apocryphon/)
+- [Gospel of Nicodemus](en/gospel-of-nicodemus/)
 - [History of the Rechabites](en/history-of-the-rechabites/)
 - [I Adam and Eve](en/1-adam-and-eve/)
 - [I Baruch](en/1-baruch/)
