@@ -220,8 +220,7 @@
 
 **[3:40]** And the things concerning Heliodorus, and the keeping of the treasury, fell out on this sort.
 
-
-**[4:1]** This Simon now, of whom we spake afore, having been a betrayer of the money, and of his country, slandered Onias, as if he ha terrified Heliodorus, and been the worker of these evils.
+**[4:1]** This Simon now, of whom we spake afore, having been a betrayer of the money, and of his country, slandered Onias, as if he had terrified Heliodorus, and been the worker of these evils.
 
 **[4:2]** Thus was he bold to call him a traitor, that had deserved well of the city, and tendered his own nation, and was so zealous of the laws.
 
@@ -321,6 +320,7 @@
 
 **[4:50]** And so through the covetousness of them that were of power Menelaus remained still in authority, increasing in malice, and being a great traitor to the citizens.
 
+
 **[5:1]** About the same time Antiochus prepared his second voyage into Egypt:
 
 **[5:2]** And then it happened, that through all the city, for the space almost of forty days, there were seen horsemen running in the air, in cloth of gold, and armed with lances, like a band of soldiers,
@@ -374,6 +374,7 @@
 **[5:26]** And so he slew all them that were gone to the celebrating of the sabbath, and running through the city with weapons slew great multitudes.
 
 **[5:27]** But Judas Maccabeus with nine others, or thereabout, withdrew himself into the wilderness, and lived in the mountains after the manner of beasts, with his company, who fed on herbs continually, lest they should be partakers of the pollution.
+
 
 **[6:1]** Not long after this the king sent an old man of Athens to compel the Jews to depart from the laws of their fathers, and not to live after the laws of God:
 
