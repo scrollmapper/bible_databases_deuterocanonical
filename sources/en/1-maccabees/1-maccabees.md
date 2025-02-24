@@ -1633,6 +1633,7 @@
 
 **[14:1]** Now in the hundred threescore and twelfth year king Demetrius gathered his forces together, and went into Media to get him help to fight against Tryphone.
 
+
 **[14:2]** But when Arsaces, the king of Persia and Media, heard that Demetrius was entered within his borders, he sent one of his princes to take him alive:
 
 **[14:3]** Who went and smote the host of Demetrius, and took him, and brought him to Arsaces, by whom he was put in ward.
@@ -1729,6 +1730,7 @@
 
 **[14:49]** Also that the copies thereof should be laid up in the treasury, to the end that Simon and his sons might have them.
 
+
 **[15:1]** Moreover Antiochus son of Demetrius the king sent letters from the isles of the sea unto Simon the priest and prince of the Jews, and to all the people;
 
 **[15:2]** The contents whereof were these: King Antiochus to Simon the high priest and prince of his nation, and to the people of the Jews, greeting:
@@ -1810,6 +1812,7 @@
 **[15:40]** So Cendebeus came to Jamnia and began to provoke the people and to invade Judea, and to take the people prisoners, and slay them.
 
 **[15:41]** And when he had built up Cedrou, he set horsemen there, and an host of footmen, to the end that issuing out they might make outroads upon the ways of Judea, as the king had commanded him.
+
 
 **[16:1]** Then came up John from Gazera, and told Simon his father what Cendebeus had done.
 
