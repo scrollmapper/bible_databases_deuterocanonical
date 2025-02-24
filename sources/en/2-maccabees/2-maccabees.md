@@ -593,7 +593,7 @@
 
 **[8:36]** Thus he, that took upon him to make good to the Romans their tribute by means of captives in Jerusalem, told abroad, that the Jews had God to fight for them, and therefore they could not be hurt, because they followed the laws that he gave them.
 
-**[9:1]** About that time came Antiochus with dishonour out of the country of Persia
+**[9:1]** About that time came Antiochus with dishonour out of the country of Persia,
 
 **[9:2]** For he had entered the city called Persepolis, and went about to rob the temple, and to hold the city; whereupon the multitude running to defend themselves with their weapons put them to flight; and so it happened, that Antiochus being put to flight of the inhabitants returned with shame.
 
@@ -637,11 +637,11 @@
 
 **[9:22]** Not distrusting mine health, but having great hope to escape this sickness.
 
-**[9:23]** But considering that even my father, at what time he led an army into the high countries. appointed a successor,
+**[9:23]** But considering that even my father, at what time he led an army into the high countries, appointed a successor,
 
 **[9:24]** To the end that, if any thing fell out contrary to expectation, or if any tidings were brought that were grievous, they of the land, knowing to whom the state was left, might not be troubled:
 
-**[9:25]** Again, considering how that the princes that are borderers and neighbours unto my kingdom wait for opportunities, and expect what shall be the event. I have appointed my son Antiochus king, whom I often committed and commended unto many of you, when I went up into the high provinces; to whom I have written as followeth:
+**[9:25]** Again, considering how that the princes that are borderers and neighbours unto my kingdom wait for opportunities, and expect what shall be the event, I have appointed my son Antiochus king, whom I often committed and commended unto many of you, when I went up into the high provinces; to whom I have written as followeth:
 
 **[9:26]** Therefore I pray and request you to remember the benefits that I have done unto you generally, and in special, and that every man will be still faithful to me and my son.
 
@@ -650,6 +650,7 @@
 **[9:28]** Thus the murderer and blasphemer having suffered most grievously, as he entreated other men, so died he a miserable death in a strange country in the mountains.
 
 **[9:29]** And Philip, that was brought up with him, carried away his body, who also fearing the son of Antiochus went into Egypt to Ptolemeus Philometor.
+
 
 **[10:1]** Now Maccabeus and his company, the Lord guiding them, recovered the temple and the city:
 
@@ -705,7 +706,7 @@
 
 **[10:27]** So after the prayer they took their weapons, and went on further from the city: and when they drew near to their enemies, they kept by themselves.
 
-**[10:28]** Now the sun being newly risen, they joined both together; the one part having together with their virtue their refuge also unto the Lord for a pledge of their success and victory: the other side making their rage leader of their battle
+**[10:28]** Now the sun being newly risen, they joined both together; the one part having together with their virtue their refuge also unto the Lord for a pledge of their success and victory: the other side making their rage leader of their battle.
 
 **[10:29]** But when the battle waxed strong, there appeared unto the enemies from heaven five comely men upon horses, with bridles of gold, and two of them led the Jews,
 
@@ -727,6 +728,7 @@
 
 **[10:38]** When this was done, they praised the Lord with psalms and thanksgiving, who had done so great things for Israel, and given them the victory.
 
+
 **[11:1]** Not long after the, Lysias the king’s protector and cousin, who also managed the affairs, took sore displeasure for the things that were done.
 
 **[11:2]** And when he had gathered about fourscore thousand with all the horsemen, he came against the Jews, thinking to make the city an habitation of the Gentiles,
@@ -745,7 +747,7 @@
 
 **[11:9]** Then they praised the merciful God all together, and took heart, insomuch that they were ready not only to fight with men, but with most cruel beasts, and to pierce through walls of iron.
 
-**[11:10]** Thus they marched forward in their armour, having an helper from heaven: for the Lord was merciful unto them
+**[11:10]** Thus they marched forward in their armour, having an helper from heaven: for the Lord was merciful unto them.
 
 **[11:11]** And giving a charge upon their enemies like lions, they slew eleven thousand footmen, and sixteen hundred horsemen, and put all the other to flight.
 
@@ -802,6 +804,7 @@
 **[11:37]** Therefore send some with speed, that we may know what is your mind.
 
 **[11:38]** Farewell. This hundred and eight and fortieth year, the fifteenth day of the month Xanthicus.
+
 
 **[12:1]** When these covenants were made, Lysias went unto the king, and the Jews were about their husbandry.
 
@@ -892,6 +895,7 @@
 **[12:44]** For if he had not hoped that they that were slain should have risen again, it had been superfluous and vain to pray for the dead.
 
 **[12:45]** And also in that he perceived that there was great favour laid up for those that died godly, it was an holy and good thought. Whereupon he made a reconciliation for the dead, that they might be delivered from sin.
+
 
 **[13:1]** In the hundred forty and ninth year it was told Judas, that Antiochus Eupator was coming with a great power into Judea,
 
