@@ -666,7 +666,7 @@
 
 **[10:7]** Therefore they bare branches, and fair boughs, and palms also, and sang psalms unto him that had given them good success in cleansing his place.
 
-**[10:8]** They ordained also by a common statute and decree, That every year those days should be kept of the whole nation of the Jews.
+**[10:8]** They ordained also by a common statute and decree, that every year those days should be kept of the whole nation of the Jews.
 
 **[10:9]** And this was the end of Antiochus, called Epiphanes.
 
