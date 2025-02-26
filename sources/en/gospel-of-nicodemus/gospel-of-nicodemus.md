@@ -2,13 +2,13 @@
 
 **[1:1]** Annas and Caiphas, and Summas, and Datam, Gamaliel, Judas, Levi, Nepthalim, Alexander, Cyrus, and other Jews, went to Pilate about Jesus, accusing him with many bad crimes.
 
-**[1:2]** And said, We are assured that Jesus is the son of Joseph, the carpenter, and born of Mary, and that he declares himself the Son of God, and a king; and not only so, but attempts the dissolution of the Sabbath, and the laws of our fathers.
+**[1:2]** And said. We are assured that Jesus is the son of Joseph, the carpenter, and born of Mary, and that he declares himself the Son of God, and a king; and not only so, but attempts the dissolution of the Sabbath, and the laws of our fathers.
 
 **[1:3]** Pilate replied, What is it which he declares? and what is it which he attempts dissolving?
 
 **[1:4]** The Jews told him, We have a law which forbids doing cures on the Sabbath day; but he cures both the lame and the deaf, those afflicted with the palsy, the blind, the lepers, and demoniacs, on that day, by wicked methods.
 
-**[1:5]** Pilate replied, How can he do this by wicked methods? They answered, He is a conjurer, and casts out devils by the prince of the devils; and so all things become subject to him.
+**[1:5]** Pilate replied, How can he do this by wicked methods? They answered He is a conjurer, and casts out devils by the prince of the devils; and so all things, become subject to him.
 
 **[1:6]** Then said Pilate, Casting out devils seems not to be the work of an unclean spirit, but to proceed from the power of God.
 
@@ -18,7 +18,7 @@
 
 **[1:9]** Then went the messenger forth, and knowing Christ, worshipped him; and having spread the cloak which he had in his hand upon the ground, he said, Lord, walk upon this, and go in, for the governor calls thee.
 
-**[1:10]** When the Jews perceived what the messenger had done, they exclaimed (against him) to Pilate, and said, Why did you not give him his summons by a beadle, and not by a messenger? For the messenger, when he saw him, worshipped him, and spread the cloak which he had in his hand upon the ground before him, and said to him, Lord, the governor calls thee.
+**[1:10]** When the Jews perceived what the messenger had done, they exclaimed (against him) to Pilate, and said, Why did you not give him his summons by a beadle, and not by a messenger?—For the messenger, when he saw him, worshipped him, and spread the cloak which he had in his hand upon the ground before him, and said to him, Lord, the governor calls thee.
 
 **[1:11]** Then Pilate called the messenger, and said, Why hast thou done thus?
 
@@ -30,7 +30,7 @@
 
 **[1:15]** The messenger answered them and said, I asked one of the Jews and said, What is this which the children do cry out in the Hebrew language?
 
-**[1:16]** And he explained it to me, saying, They cry out, Hosannah, which being interpreted, is, O Lord, save me; or, O Lord, save.
+**[1:16]** And he explained it to me, saying, they cry out, Hosannah, which being interpreted, is, O Lord, save me; or, O Lord, save.
 
 **[1:17]** Pilate then said to them, Why do you yourselves testify to the words spoken by the children, namely, by your silence? In what has the messenger done amiss? And they were silent.
 
@@ -46,7 +46,7 @@
 
 **[1:23]** They replied to Pilate, We saw the ensigns themselves bowing and worshipping Jesus.
 
-**[1:24]** Then the governor called the ensigns, and said unto them, Why did you do thus?
+**[1:24]** Then the governor called the ensigns, and said unto them. Why did you do thus?
 
 **[1:25]** The ensigns said to Pilate, We are all Pagans and worship the gods in temples; and how should we think anything about worshipping him? We only held the standards in our hands, and they bowed themselves and worshipped him.
 
@@ -64,14 +64,13 @@
 
 **[1:32]** And when Jesus went in, the standards bowed themselves as before, and worshipped him.
 
-
 **[2:1]** Now when Pilate saw this, he was afraid, and was about to rise from his seat.
 
 **[2:2]** But while he thought to rise, his own wife who stood at a distance, sent to him, saying, Have thou nothing to do with that just man; for I have suffered much concerning him in a vision this night.
 
 **[2:3]** When the Jews heard this they said to Pilate, Did we not say unto thee, He is a conjuror? Behold, he hath caused thy wife to dream.
 
-**[2:4]** Pilate then calling Jesus, said, Thou hast heard what they testify against thee, and makest no answer?
+**[2:4]** Pilate then calling Jesus, said, thou hast heard what they testify against thee, and makest no answer?
 
 **[2:5]** Jesus replied. If they had not a power of speaking, they could not have spoke; but because every one has the command of his own tongue, to speak both good and bad, let him look to it.
 
@@ -81,7 +80,7 @@
 
 **[2:8]** Some of the Jews who stood by spake more favourably, We cannot say that he was born through fornication; but we know that his mother Mary was betrothed to Joseph, and so he was not born through fornication.
 
-**[2:9]** Then said Pilate to the Jews who affirmed him to be born through fornication, This your account is not true, seeing there was a betrothment, as they testify who are of your own nation.
+**[2:9]** Then said Pilate to the Jews who affirmed him to be born through fornication. This your account is not true, seeing there was a betrothment, as they testify who are of your own nation.
 
 **[2:10]** Annas and Caiphas spake to Pilate, All this multitude of people is to be regarded, who cry out, that he was born through fornication, and is a conjurer; but they who deny him to be born through fornication, are his proselytes and disciples.
 
@@ -98,7 +97,6 @@
 **[2:16]** Then Pilate commanded every one to go out except the twelve men who said he was not born through fornication, and Jesus to withdraw to a distance, and said to them, Why have the Jews a mind to kill Jesus?
 
 **[2:17]** They answered him, They are angry because he wrought cures on the sabbath day. Pilate said, Will they kill him for a good work? They say unto him, Yes, Sir.
-
 
 **[3:1]** Then Pilate, filled with anger, went out of the hall, and said to the Jews, I call the whole world to witness that I find no fault in that man.
 
@@ -127,7 +125,6 @@
 **[3:13]** Pilate said, Therefore truth is not on earth.
 
 **[3:14]** Jesus saith to Pilate, Believe that truth is on earth among those, who when they have the power of judgment, are governed by truth, and form right judgment.
-
 
 **[4:1]** Then Pilate left Jesus in the hall, and went out to the Jews, and said, I find not any one fault in Jesus.
 
@@ -171,7 +168,6 @@
 
 **[4:21]** They said to him, Because he declares himself to be the Son of God and a King.
 
-
 **[5:1]** But Nicodemus, a certain Jew, stood before the governor, and said, I entreat thee, O righteous judge, that thou wouldst favour me with the liberty of speaking a few words.
 
 **[5:2]** Pilate said to him, Speak on.
@@ -210,7 +206,7 @@
 
 **[5:19]** The Jews said to Pilate, Did we not say that he wrought his cures on the sabbath, and cast out devils by the prince of devils?
 
-**[5:20]** Then another certain Jew came forth, and said, I was blind, could hear sounds, but could not see any one; and as Jesus was going along, I heard the multitude passing by, and I asked what was there.
+**[5:20]** Then another certain Jew came forth, and said, I was blind, could hear sounds, but could not see any one; and as Jesus was going along, I heard the multitude passing by, and I asked what was there?
 
 **[5:21]** They told me that Jesus was passing by: then I cried out, saying, Jesus, Son of David, have mercy on me. And he stood still, and commanded that I should be brought to him, and said to me, What wilt thou?
 
@@ -220,7 +216,7 @@
 
 **[5:24]** Another Jew also came forth, and said, I was a leper, and he cured me by his word only, saying, I will, be thou clean; and presently I was cleansed from my leprosy.
 
-**[5:25]** And another Jew came forth, and said, I was crooked, and he made me straight by his word.
+**[5:25]** And another Jew came forth, and said I was crooked, and he made me straight by his word.
 
 **[5:26]** And a certain woman named Veronica, said, I was afflicted with an issue of blood twelve years, and I touched the hem of his garment, and presently the issue of blood stopped.
 
@@ -230,13 +226,13 @@
 
 **[5:29]** And when the wine was all drank, he commanded the servants that they should fill six pots which were there with water, and they filled them up to the brim, and he blessed them and turned the water into wine, and all the people drank, being surprised at this miracle.
 
-**[5:30]** And another Jew stood forth, and said, I saw Jesus teaching in the synagogue at Capernaum; and there was in the synagogue a certain man who had a devil; and he cried out, saying, Let me alone; what have we to do with thee, Jesus of Nazareth? Art thou come to destroy us? I know that thou art the Holy One of God.
+**[5:30]** And another Jew stood forth, and said, I saw Jesus teaching in the synagogue at Capernaum; and there was in the synagogue a certain man who had a devil; and he cried out, saying, let me alone; what have we to do with thee, Jesus of Nazareth? Art thou come to destroy us? I know that thou art the Holy One of God.
 
 **[5:31]** And Jesus rebuked him, saying, Hold thy peace, unclean spirit, and come out of the man; and presently he came out of him, and did not at all hurt him.
 
 **[5:32]** The following things were also said by a Pharisee: I saw that a great company came to Jesus from Galilee and Judea, and the sea-cost, and many countries about Jordan; and many infirm persons came to him, and he healed them all.
 
-**[5:33]** And I heard the unclean spirits crying out, and saying, Thou art the Son of God. And Jesus strictly charged them, that they should not make him known.
+**[5:33]** And I heard the unclean spirits crying out, and saying. Thou art the Son of God. And Jesus strictly charged them, that they should not make him known.
 
 **[5:34]** After this another person, whose name was Centurio, said, I saw Jesus in Capernaum, and I entreated him, saying, Lord, my servant lieth at home sick of the palsy.
 
@@ -263,7 +259,6 @@
 **[5:45]** But others said to Pilate, That he had raised Lazarus from the dead, after he had been four days in his grave.
 
 **[5:46]** The governor hearing this, trembling, said to the multitude of the Jews, What will it profit you to shed innocent blood?
-
 
 **[6:1]** Then Pilate having called together Nicodemus, and the fifteen men who said that Jesus was not born through fornication, said to them, What shall I do, seeing there is like to be a tumult among the people.
 
@@ -301,7 +296,7 @@
 
 **[6:18]** When Pilate heard this account, he was afraid; and commanding silence among the people, who made a noise, he said to Jesus, Art thou therefore a king?
 
-**[6:19]** All the Jews replied to Pilate, He is the very person whom Herod sought to have slain.
+**[6:19]** All the Jews replied to Pilate, he is the very person whom Herod sought to have slain.
 
 **[6:20]** Then Pilate taking water, washed his hands before the people and said, I am innocent of the blood of this just person; look ye to it.
 
@@ -325,17 +320,18 @@
 
 **[7:7]** The soldiers also mocked him, and taking vinegar and gall, offered it to him to drink, and said to him, If thou art king of the Jews, deliver thyself.
 
-**[7:8]** Then Longinus, a certain soldier, taking a spear,' pierced his side, and presently there came forth blood and water.
+**[7:8]** Then Longinus, a certain soldier, taking a spear, pierced his side, and presently there came forth blood and water.
 
-**[7:9]** And Pilate wrote the title upon the cross in Hebrew, Latin, and Greek letters, viz., THIS IS THE KING OF THE JEWS.
+**[7:9]** And Pilate wrote the title upon the cross in Hebrew, Latin, and Greek letters, THIS IS THE KING OF THE JEWS.
 
 **[7:10]** But one of the two thieves who were crucified with Jesus, whose name was Gestas, said to Jesus, If thou art the Christ, deliver thyself and us.
 
-**[7:11]** But the thief who was crucified on his right hand, whose name was Dimas, answering, rebuked him, and said, Dost not thou fear God, who art condemned to this punishment? We indeed receive rightly and justly the demerit of our actions; but this Jesus, what evil hath he done.
+**[7:11]** But the thief who was crucified on his right hand, whose name was Dimas, answering, rebuked him, and said, Dost not thou fear God, who art condemned to this punishment? We indeed receive rightly and justly the demerit of our actions; but this Jesus, what evil hath he done?
 
 **[7:12]** After this, groaning, he said to Jesus, Lord, remember me when thou comest into thy kingdom.
 
 **[7:13]** Jesus answering, said to him, Verily I say unto thee, that this day thou shalt be with me in Paradise.
+
 
 **[8:1]** And it was about the sixth hour, and darkness was upon the face of the whole earth until the ninth hour.
 
@@ -367,6 +363,7 @@
 
 **[8:15]** And placed him in a new tomb, which Joseph had built, and caused to be cut out of a rock, in which never any man had been put; and they rolled a great stone to the door of the sepulchre.
 
+
 **[9:1]** When the unjust Jews heard that Joseph had begged and buried the body of Jesus, they sought after Nicodemus, and those fifteen men who had testified before the governor, that Jesus was not born through fornication, and other good persons who had shown any good actions towards him.
 
 **[9:2]** But when they all concealed themselves through fear of the Jews, Nicodemus alone showed himself to them, and said, How can such persons as these enter into the synagogue?
@@ -395,6 +392,7 @@
 
 **[9:14]** When they had done this, the rulers, Annas and Caiaphas, ordered Joseph to be brought forth. (In this place there is a portion of the Gospel lost or omitted, which cannot be supplied. It may, nevertheless, be surmised from the occurrence related in the next chapter, that the order of Annas and Caiaphas were rendered unnecessary by Joseph's miraculous escape, and which was announced to an assembly of people.)
 
+
 **[10:1]** When all the assembly heard this (about Joseph's escape), they admired and were astonished, because they found the same seal upon the lock of the chamber, and could not find Joseph.
 
 **[10:2]** Then Annas and Caiaphas went forth, and while they were all admiring at Joseph's being gone, behold one of the soldiers, who kept the sepulchre of Jesus, spake in the assembly,
@@ -407,17 +405,17 @@
 
 **[10:6]** Come and see the place where he was laid; and go presently, and tell his disciples that he is risen from the dead; and he will go before you into Galilee; there ye shall see him as he told you.
 
-**[10:7]** Then the Jews called together all the soldiers who kept the sepulchre of Jesus, and said to them, Who are those women, to whom the angel spoke? Why did ye not seize them.
+**[10:7]** Then the Jews called together all the soldiers who kept the sepulchre of Jesus, and said to them, Who are those women, to whom the angel spoke? Why did ye not seize them?
 
 **[10:8]** The soldiers answered and said, We know not who the women were; besides we became as dead persons through fear, and how could we seize those women?
 
 **[10:9]** The Jews said to them, As the Lord liveth, we do not believe you;
 
-**[10:10]** The soldiers answering said to the Jews, when ye saw and heard Jesus working so many miracles, and did not believe him, how should ye believe us? Ye well said, As the Lord liveth, for the Lord truly does live.
+**[10:10]** The soldiers answering said to the Jews, When ye saw and heard Jesus working so many miracles, and did not believe him, how should ye believe us? Ye well said, As the Lord liveth, for the Lord truly does live.
 
 **[10:11]** We have heard that ye shut up Joseph, who buried the body of Jesus, in a chamber, under a lock which was sealed; and when ye opened it, found him not there.
 
-**[10:12]** Do ye then produce Joseph whom ye put under guard in the chamber, and we will produce Jesus whom we guarded in the sepulchre.
+**[10:12]** Do ye then produce Joseph whom ye put under guard in the chamber, and we will produce Jesus whom we guarded in the sepulchre?
 
 **[10:13]** The Jews answered and said. We will produce Joseph, do ye produce Jesus. But Joseph is in his own city of Arimathaea.
 
@@ -447,7 +445,7 @@
 
 **[10:26]** And they gave them a large sum of money, and sent other persons along with them, who should conduct them to their own country, that they might not by any means make any stay at Jerusalem.
 
-**[10:27]** Then the Jews did assemble all together, and having expressed the most lamentable concern said. What is this extraordinary thing which is come to pass in Jerusalem?
+**[10:27]** Then the Jews did assemble all together, and having expressed the most lamentable concern said, What is this extraordinary thing which is come to pass in Jerusalem?
 
 **[10:28]** But Annas and Caiaphas comforted them, saying, Why should we believe the soldiers who guarded the sepulchre of Jesus, in telling us, that an angel rolled away the stone from the door of the sepulchre?
 
@@ -469,7 +467,7 @@
 
 **[11:7]** And when they had formed a large assembly, the chief priests said. By what means shall we bring Joseph to us to speak with him?
 
-**[11:8]** And taking a piece of paper, they wrote to him, and said, Peace be with thee, and all thy family, We know that we have offended against God and thee. Be pleased to give a visit to us, your fathers, for we were perfectly surprised at your escape from prison.
+**[11:8]** And taking a piece of paper, they wrote to him, and said, Peace be with thee, and all thy family. We know that we have offended against God and thee. Be pleased to give a visit to us, your fathers, for we were perfectly surprised at your escape from prison.
 
 **[11:9]** We know that it was malicious counsel which we took against thee, and that the Lord took care of thee, and the Lord himself delivered thee from our designs. Peace be unto thee, Joseph, who art honourable among all the people.
 
@@ -491,7 +489,7 @@
 
 **[11:18]** For we have been very much troubled, that thou didst bury the body of Jesus; and that when we had locked thee in a chamber, we could not find thee; and we have been afraid ever since, till this time of thy appearing among us. Tell us therefore before God, all that came to pass.
 
-**[11:19]** Then Joseph answering, said Ye did indeed put me under confinement, on the day of preparation, till the morning.
+**[11:19]** Then Joseph answering, said, Ye did indeed put me under confinement, on the day of preparation, till the morning.
 
 **[11:20]** But while I was standing at prayer in the middle of the night, the house was surrounded with four angels; and I saw Jesus as the brightness of the sun, and fell down upon the earth for fear.
 
@@ -499,11 +497,12 @@
 
 **[11:22]** Then I looked upon him, and said, Rabboni Elias! He answered me, I am not Elias, but Jesus of Nazareth, whose body thou didst bury.
 
-**[11:23]** I said to him, show me the tomb in which I laid thee.
+**[11:23]** I said to him, Show me the tomb in which I laid thee.
 
 **[11:24]** Then Jesus, taking me by the hand, led me unto the place where I laid him, and showed me the linen clothes, and napkin which I put round his head. Then I knew that it was Jesus, and worshipped him, and said; Blessed be he who cometh in the name of the Lord.
 
 **[11:25]** Jesus again taking me by the hand, led me to Arimathaea, to my own house, and said to me, Peace be to thee; but go not out of thy house till the fortieth day; but I must go to my disciples.
+
 
 **[12:1]** When the chief priests and Levites heard all these things, they were astonished, and fell down with their faces on the ground as dead men, and crying out to one another, said, What is this extraordinary sign which is come to pass in Jerusalem? We know the father and mother of Jesus.
 
