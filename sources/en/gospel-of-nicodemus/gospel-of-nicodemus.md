@@ -555,11 +555,12 @@
 
 **[12:25]** And immediately they spake, and said, Give each of us some paper, and we will write down for you all those things which we have seen. And they each sat down and wrote, saying:—
 
+
 **[13:1]** O Lord Jesus and Father, who art God, also the resurrection and life of the dead, give us leave to declare thy mysteries, which we saw after death, belonging to thy cross; for we are sworn by thy name.
 
 **[13:2]** For thou hast forbidden thy servants to declare the secret things, which were wrought by thy divine power in hell.
 
-**[13:3]** When we were Placed with our fathers in the dept of hell, in the blackness of darkness, on a sudden there appeared the colour of the sun like gold, and a substantial purple-coloured light enlightening the place.
+**[13:3]** When we were placed with our fathers in the depth of hell, in the blackness of darkness, on a sudden there appeared the colour of the sun like gold, and a substantial purple-coloured light enlightening the place.
 
 **[13:4]** Presently upon this, Adam, the father of all mankind, with all the patriarchs and prophets, rejoiced and said, That light is the author of everlasting light, who hath promised to translate us to everlasting light.
 
@@ -583,6 +584,7 @@
 
 **[13:14]** And now while I was going before him, I came down hither to acquaint you, that the Son of God will next visit us, and, as the day-spring from on high, will come to us, who are in darkness and the shadow of death.
 
+
 **[14:1]** But when the first man our father Adam heard these things, that Jesus was baptized in Jordan, he called out to his son Seth, and said,
 
 **[14:2]** Declare to your sons, the patriarchs and prophets, all those things, which thou didst hear from Michael, the archangel, when I sent thee to the gates of Paradise, to entreat God that he would annoint my head when I was sick.
@@ -595,11 +597,12 @@
 
 **[14:6]** Then will Christ, the most merciful Son of God, come on earth to raise again the human body of Adam, and at the same time to raise the bodies of the dead, and when he cometh he will be baptized in Jordan;
 
-**[14:7]** Then with the oil of his mercyhe will anoint all those who believe in him; and the oil of his mercy will continue to future generations, for those who shall be born of the water and the Holy Ghost unto eternal life.
+**[14:7]** Then with the oil of his mercy he will anoint all those who believe in him; and the oil of his mercy will continue to future generations, for those who shall be born of the water and the Holy Ghost unto eternal life.
 
 **[14:8]** And when at that time the most merciful Son of God, Christ Jesus, shall come down on earth, he will introduce our father Adam into Paradise, to the tree of mercy.
 
 **[14:9]** When all the patriarchs and prophets heard all these things from Seth, they rejoiced more.
+
 
 **[15:1]** While all the saints were rejoicing, behold Satan, the prince and captain of death, said to the prince of hell,
 
@@ -641,6 +644,7 @@
 
 **[15:20]** Bring not therefore this person hither, for he will set at liberty all those whom I hold in prison under unbelief, and bound with the fetters of their sins, and will conduct them to everlasting life.
 
+
 **[16:1]** And while Satan and the Prince of hell were discoursing thus to each other, on a sudden there was a voice as of thunder, and the rushing of winds, saying, Lift up your gates, O ye princes; and be ye lift up, O everlasting gates, and the King of Glory shall come in.
 
 **[16:2]** When the prince of hell heard this, he said to Satan, Depart from me, and begone out of my habitations; if thou art a powerful warrior, fight with the King of Glory. But what hast thou to do with him?
@@ -679,6 +683,7 @@
 
 **[16:19]** And broke asunder the fetters which before could not be broken; and with his invincible power visited those who sate in the deep darkness by iniquity, and the shadow of death by sin.
 
+
 **[17:1]** Impious death and her cruel officers hearing these things, were seized with fear in their several kingdoms, when they saw the clearness of the light,
 
 **[17:2]** And Christ himself on a sudden appearing in their habitations, they cried out therefore, and said, We are bound by thee; thou seemest to intend our confusion before the Lord.
@@ -704,6 +709,7 @@
 **[17:12]** Perhaps thou art that Jesus, of whom Satan just now spoke to our prince, that by the death of the cross thou wert about to receive the power of death.
 
 **[17:13]** Then the King of Glory trampling upon death, seized the prince of hell, deprived him of all his power, and took our earthly father Adam with him to his glory.
+
 
 **[18:1]** Then the prince of hell took Satan, and with great indignation said to him, O thou prince of destruction, author of Beelzebub's defeat and banishment, the scorn of God's angels and loathed by all righteous persons! What inclined thee to act thus?
 
@@ -732,6 +738,7 @@
 **[18:13]** Why didst thou venture, without either reason or justice, to crucify him, and hast brought down to our regions a person innocent and righteous, and thereby hast lost all the sinners, impious and unrighteous persons in the whole world?
 
 **[18:14]** While the prince of hell was thus speaking to Satan, the King of Glory said to Beelzebub the prince of hell, Satan the prince shall he subject to thy dominions for ever, in the room of Adam and his righteous sons, who are mine.
+
 
 **[19:1]** Then Jesus stretched forth his hand, and said. Come to me, all ye my saints, who were created in my image, who were condemned by the tree of the forbidden fruit, and by the devil and death;
 
@@ -769,6 +776,7 @@
 
 **[19:18]** In like manner all the prophets spake the sacred things of his praise, and followed the Lord.
 
+
 **[20:1]** Then the Lord, holding Adam by the hand, delivered him to Michael the archangel; and he led them into Paradise, filled with mercy and glory;
 
 **[20:2]** And two very ancient men met them, and were asked by the saints, Who are ye, who have not yet been with us in hell, and have had your bodies placed in Paradise?
@@ -797,6 +805,7 @@
 
 **[20:14]** When they heard all this account from the thief, all the patriarchs said with one voice, Blessed be thou, O Almighty God, the Father of everlasting goodness, and the Father of mercies, who hast shown such favour to those who were sinners against him, and hast brought them to the mercy of Paradise, and hast placed them amidst thy large and spiritual provisions, in a spiritual and holy life. Amen.
 
+
 **[21:1]** These are the divine and sacred mysteries which we saw and heard. We, Charinus and Lenthius are not allowed to declare the other mysteries of God, as the archangel Michael ordered us,
 
 **[21:2]** Saying, ye shall go with my brethren to Jerusalem, and shall continue in prayers, declaring and glorifying the resurrection of Jesus Christ, seeing he hath raised you from the dead at the same time with himself.
@@ -822,6 +831,7 @@
 **[21:12]** But immediately all these things which were related by the Jews in their synagogues concerning Jesus, were presently told by Joseph and Nicodemus to the governor.
 
 **[21:13]** And Pilate wrote down all these transactions, and placed all these accounts in the public records of his hall.
+
 
 **[22:1]** After these things Pilate went to the temple of the Jews, and called together all the rulers and scribes, and doctors of the law, and went with them into a chapel of the temple.
 
@@ -853,7 +863,7 @@
 
 **[22:15]** And because after his suffering, our chief priests were surprised at the signs which were wrought by his means, we opened that book to search all the generations down to the generation of Joseph and Mary the mother of Jesus, supposing him to be of the seed of David;
 
-**[22:16]** And we found the account of the creation, and at what time he made the heaven and the earth, and the first man Adam, and that from thence to the flood, were two thousand seven hundred and forty- eight years.
+**[22:16]** And we found the account of the creation, and at what time he made the heaven and the earth, and the first man Adam, and that from thence to the flood, were two thousand seven hundred and forty-eight years.
 
 **[22:17]** And from the flood to Abraham, nine hundred and twelve. And from Abraham to Moses, four hundred and thirty. And from Moses to David the King, five hundred and ten.
 
@@ -863,8 +873,13 @@
 
 **[22:20]** And so it appears, that Jesus whom we crucified, is Jesus Christ the Son of God, and true Almighty God. Amen.
 
+
 **[23:1]** In the name of the Holy Trinity, thus end the acts of our Saviour Jesus Christ.
+
 **[23:2]** The Emperor Theodosius the Great found these acts at Jerusalem, in the hall of Pontius Pilate, among the public records.
+
 **[23:3]** These things were acted in the nineteenth year of Tiberius Caesar, Emperor of the Romans, and in the seventeenth year of the government of Herod, the son of Herod and of Galilee.
+
 **[23:4]** This occurred on the eighth of the calends of April, which is the twenty-third day of the month of March, in the CCIId Olympiad, when Joseph and Caiaphas were rulers of the Jews.
+
 **[23:5]** This is a History written in Hebrew by Nicodemus, of what happened after our Saviour's crucifixion.
