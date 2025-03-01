@@ -1044,6 +1044,7 @@
 
 **[14:46]** When as his blood was now quite gone, he plucked out his bowels, and taking them in both his hands, he cast them upon the throng, and calling upon the Lord of life and spirit to restore him those again, he thus died.
 
+
 **[15:1]** But Nicanor, hearing that Judas and his company were in the strong places about Samaria, resolved without any danger to set upon them on the sabbath day.
 
 **[15:2]** Nevertheless the Jews that were compelled to go with him said, O destroy not so cruelly and barbarously, but give honour to that day, which he, that seeth all things, hath honoured with holiness above all other days.
