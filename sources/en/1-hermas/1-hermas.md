@@ -410,7 +410,7 @@
 
 **[3:133]** But if any thing is to be revealed, it shall be made manifest unto you.
 
-**[4:1]** Saw a vision brethren, twenty days after the former vision; a representation of the tribulation that is at hand. I was walking in the field way. 
+**[4:1]** I saw a vision brethren, twenty days after the former vision; a representation of the tribulation that is at hand. I was walking in the field way. 
 
 **[4:2]** Now from the public way to the place whither I went is about ten furlongs; it is a way very little frequented: 
 
@@ -420,7 +420,7 @@
 
 **[4:5]** And behold somewhat like a voice answered me; Doubt not, Hermas. Wherefore I began to think, and say within myself, why should I doubt, seeing I am thus settled by the Lord, and have seen such glorious things? 
 
-**[4:6]** I had gone but a little farther, brethren, when behold I saw a dust rise up to heaven. I began to say within myself, is there a drove of cattle coming, that rises such a dust? 
+**[4:6]** I had gone but a little farther, brethren, when behold I saw a dust rise up to heaven. I began to say within myself, Is there a drove of cattle coming, that rises such a dust? 
 
 **[4:7]** It was about a furlong off from me. And behold I saw the dust rise more and more, insomuch that I began to suspect that there was somewhat extraordinary in it. 
 
@@ -440,11 +440,11 @@
 
 **[4:15]** Now I knew by my former visions that it was the church, and thereupon grew the more cheerful. She saluted me, saying, Hail, O Man! I returned the salutation, saying, Lady, Hail! 
 
-**[4:16]** She answering said unto me, Did nothing meet you, O man! I replied, Lady, there met me such a beast, as seemed able to devour a whole people; but by the power of God, and through his singular mercy, I escaped it. 
+**[4:16]** She answering said unto me, Did nothing meet you, O man? I replied, Lady, there met me such a beast, as seemed able to devour a whole people; but by the power of God, and through his singular mercy, I escaped it. 
 
 **[4:17]** Thou didst escape it well, said she, because thou didst cast thy whole care upon God, and opened thy heart unto him, believing that thou couldst be safe by no other than by his great and honourable name. 
 
-**[4:18]** For this cause the Lord sent his angel, who is over the beast, whose name is Hegrin, and stopped his mouth, that he should not devour thee, Thou hast escaped a great trial through thy faith, and because thou didst not doubt for such a terrible beast. 
+**[4:18]** For this cause the Lord sent his angel, who is over the beast, whose name is Hegrin, and stopped his mouth, that he should not devour thee. Thou hast escaped a great trial through thy faith, and because thou didst not doubt for such a terrible beast. 
 
 **[4:19]** Go, therefore, and relate to the elect of God the great things that he hath done for thee. And thou shalt say unto them, that this beast is the figure of the trial that is about to come. 
 
@@ -454,7 +454,7 @@
 
 **[4:22]** Woe to the doubtful, to those who shall hear these words, and shall despise them: it had been better for them that they had not been born. 
 
-**[4:23]** Then I asked her concerning the four colours which the beast had upon its head. But she answered me saying; Again thou art curious in that thou asketh concerning these things. But I said to her, Lady, chew me what they are? 
+**[4:23]** Then I asked her concerning the four colours which the beast had upon its head. But she answered me saying; Again thou art curious in that thou asketh concerning these things. But I said to her, Lady, shew me what they are.
 
 **[4:24]** Hear, said she; The black which thou sawest denotes the world in which you dwell. The fiery and bloody colour signifies that this age must be destroyed by fire and blood. 
 
