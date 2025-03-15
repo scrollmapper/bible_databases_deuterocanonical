@@ -802,7 +802,7 @@
 
 **[9:156]** And I said, Why then, sir, did these forty stones also ascend with them out of the deep, having already received that seal? 
 
-**[9:157]** He answered, Because these Apostles and teachers, who preached the name of the Son of God, dying after they had received his faith and power, preached to them who were dead before: and they gave this seal to them. 
+**[9:157]** He answered, Because these apostles and teachers, who preached the name of the Son of God, dying after they had received his faith and power, preached to them who were dead before: and they gave this seal to them. 
 
 **[9:158]** They went down therefore into the water with them, and again came up. But these went down whilst they were alive, and came up again alive: whereas those who were before dead, went down dead, but came up alive; 
 
@@ -828,11 +828,11 @@
 
 **[9:169]** But after that they had thus agreed in one mind, there began to be one body of them all; howbeit some of them polluted themselves, and were cast off from those of the righteous, and again returned to their former state, and became even worse than they were before. 
 
-**[9:170]** How, air, said I, were they worse who knew the Lord? He answered: If he who knows not the Lord liveth wickedly, the punishment of his wickedness attends him; 
+**[9:170]** How, Sir, said I, were they worse who knew the Lord? He answered: If he who knows not the Lord liveth wickedly, the punishment of his wickedness attends him; 
 
 **[9:171]** But he who has known the Lord, ought to abstain altogether from all wickedness, and more and more to be the servant of righteousness. 
 
-**[9:172]** And does not he then seem to thee to sin more who ought to follow goodness, if he shall prefer the part of sin; than he who offends without knowing the power of God? 
+**[9:172]** And does not he then seem to thee to sin more who ought to follow goodness, if he shall prefer the part of sin, than he who offends without knowing the power of God? 
 
 **[9:173]** Wherefore these are indeed ordained unto death; but they who have known the Lord, and have seen his wonderful works, if they shall live wickedly, they shall be doubly punished, and shall die for ever. 
 
@@ -846,7 +846,7 @@
 
 **[9:178]** Hear, said he, the variety of these mountains, that is, of the twelve nations. 
 
-**[9:179]** They who have believed of the first mountain, which is black, are those who have revolted from the faith, and spoken wicked things against the Lord; and betrayed the servants of God. 
+**[9:179]** They who have believed of the first mountain, which is black, are those who have revolted from the faith, and spoken wicked things against the Lord, and betrayed the servants of God. 
 
 **[9:180]** These are condemned to death; there is no repentance for them: and therefore they are black, because their kind is wicked. 
 
@@ -856,7 +856,7 @@
 
 **[9:183]** Nevertheless there is room left to them of repentance, if they shall speedily pursue it; but if they shall delay, they also shall be partakers of death with the foregoing kind. 
 
-**[9:184]** I said, air, why is there room left to those for repentance, and not to the foregoing kind, seeing their sins are well nigh the same? 
+**[9:184]** I said, Sir, why is there room left to those for repentance, and not to the foregoing kind, seeing their sins are well nigh the same? 
 
 **[9:185]** There is therefore, said he, to these a return unto life by repentance, because they have not blasphemed against their Lord, nor betrayed the servants of God: but by their desire of gain have deceived men, leading them according to the lusts of sinners; wherefore they shall suffer for this thing. 
 
@@ -920,11 +920,11 @@
 
 **[9:215]** As concerning the eighth mountain in which were a great many springs, by which every kind of all the creatures of God was watered; they are such as have believed the Apostles which the Lord sent into all the world to preach; 
 
-**[9:216]** And some of them being teachers have preached and taught purely and sincerely, and have not in the least yielded to any evil, desires, but have constantly walked in righteousness and truth. 
+**[9:216]** And some of them being teachers have preached and taught purely and sincerely, and have not in the least yielded to any evil desires, but have constantly walked in righteousness and truth. 
 
 **[9:217]** These therefore have their conversations among the angels. 
 
-**[9:218]** Again; as for what concerns the ninth mountain which is a desert, and full of serpents; they are such as have believed, but had many stains: 
+**[9:218]** Again, as for what concerns the ninth mountain which is a desert, and full of serpents; they are such as have believed, but had many stains: 
 
 **[9:219]** These are such ministers as discharge their ministry amiss; ravishing away the goods of the widows and fatherless; and serve themselves, not others, out of those things which they have received. 
 
@@ -944,7 +944,7 @@
 
 **[9:227]** For as the poison of serpents is deadly unto men, so the words of such persons infect and destroy men. They are therefore maimed in their faith, by reason of that kind of life which they lead. 
 
-**[9:228]** Howbeit some of them, having repented, have been saved; and so shall others of the same kind be also saved, if they shall repent; but if not, they shall die by those women who power and force posses, 
+**[9:228]** Howbeit some of them, having repented, have been saved; and so shall others of the same kind be also saved, if they shall repent; but if not, they shall die by those women who power and force possess. 
 
 **[9:229]** For what concerns the tenth mountain, in which were the trees covering the cattle, they are such as have believed; and some of them have been bishops, that is, governors of the churches. 
 
@@ -956,7 +956,7 @@
 
 **[9:233]** As to the eleventh mountain in which were trees loaded with several sorts of fruit; they are such as have believed, and suffered death, for the name of the Lord; and have endured with a heavy mind, and have given up their lives with all their hearts. 
 
-**[9:234]** And I said, Why then, sir, have all these fruit indeed, but yet some fairer than others? 
+**[9:234]** And I said, Why then, Sir, have all these fruit indeed, but yet some fairer than others? 
 
 **[9:235]** Hearken, said he: Whosoever have suffered for the name of the Lord are esteemed honourable by the Lord; and all their offences are blotted out, because they have suffered death for the name of the Son of God. 
 
@@ -982,7 +982,7 @@
 
 **[9:246]** Whosoever therefore, said he, shall continue as children without malice; shall be more honourable than all those of whom I have yet spoken: for all such children are honoured by the Lord, and esteemed the first of all. 
 
-**[9:247]** Happy therefore are ye who shall remove all malice from you, and put on innocence; be. cause ye shall first see the Lord. 
+**[9:247]** Happy therefore are ye who shall remove all malice from you, and put on innocence; because ye shall first see the Lord. 
 
 **[9:248]** And after he had thus ended his explication of all the mountains, I said unto him, Sir, show me now also what concerns the stones that were brought out of the plain, and put into the tower in the room of those that were rejected. 
 
@@ -1008,7 +1008,7 @@
 
 **[9:259]** Therefore was there little cut off from them, and so they were put into the building of this tower. 
 
-**[9:260]** As for the rest which continued still round, and were not found fit for the building of this tower, be cause they have not yet received the seal; they were carried back to their place, be. cause they were found very round. 
+**[9:260]** As for the rest which continued still round, and were not found fit for the building of this tower, be cause they have not yet received the seal; they were carried back to their place, because they were found very round. 
 
 **[9:261]** But this present world must be cut away from them, and the vanities of their riches; and then they will be fit for the kingdom of God. For they must enter into the kingdom of God, because God has blessed this innocent kind. 
 
@@ -1036,7 +1036,7 @@
 
 **[9:273]** Will not therefore the Lord do the same concerning his Spirit, by reason of thy deed? Undoubtedly, said I, he will do the same to all those whom he shall find to continue in the remembrance of injuries. 
 
-**[9:274]** Tread not then under foot he said, his mercy; but rather honour him, because he is so patient with respect to your offences, and not like one of you; but repent, for it will be profitable for you. 
+**[9:274]** Tread not then under foot, he said, his mercy; but rather honour him, because he is so patient with respect to your offences, and not like one of you; but repent, for it will be profitable for you. 
 
 **[9:275]** All these things which are above written, I the shepherd and angel of repentance, have shown and spoken to the servants of God. 
 
