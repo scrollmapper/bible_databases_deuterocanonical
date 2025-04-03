@@ -333,19 +333,17 @@ came and entreated him. And he comforted him and wished his deliverance.
 and the astrologers, and every one who was in his country, and read them the letter and said to them,
 Who amongst you will go to Pharaoh king of Egypt and answer him his questions?'
 
-**[4:6]** And they said to him, '0 our lord the king! know thou that there is none in thy kingdom who is acquainted with
+**[4:6]** And they said to him, 'O our lord the king! know thou that there is none in thy kingdom who is acquainted with
 these questions except Haiqar, thy vizier and secretary.
 
 **[4:7]** But as for us, we have no skill in this, unless it be Nadan, his sister's son for he taught him all his wisdom and
 learning and knowledge. Call him to thee, perchance he may untie this hard knot.'
 
-**[4:8]** Then the king called Nadan and said to him, 'Look at this letter and understand what is in it.' And when Nadan read it, he said, '0 my lord! who is able to build a castle between the heaven and the earth?'
+**[4:8]** Then the king called Nadan and said to him, 'Look at this letter and understand what is in it.' And when Nadan read it, he said, 'O my lord! who is able to build a castle between the heaven and the earth?'
 
-**[4:9]** And when the king heard the speech of Nadan he sorrowed with a great and sore sorrow, snd stepped down from his throne and sat in the ashes, and began to weep and wail over Haiqar
+**[4:9]** And when the king heard the speech of Nadan he sorrowed with a great and sore sorrow, and stepped down from his throne and sat in the ashes, and began to weep and wail over Haiqar
 
-**[4:10]** Saying, '0 my grief! 0 Haiqar, who didst know the secrets and the riddles! woe is me for thee, 0 Haiqar!
-0 teacher of my country and ruler of my kingdom, where shall I find thy like? 0 Haiqar, 0 teacher of my country,
-where shall I turn for thee? woe is me for thee! how did I destroy thee! and I listened to the talk of a stupid, ignorant boy without knowledge, without religion, without manliness.
+**[4:10]** Saying, 'O my grief! O Haiqar, who didst know the secrets and the riddles! woe is me for thee, O Haiqar! O teacher of my country and ruler of my kingdom, where shall I find thy like? 0 Haiqar, O teacher of my country, where shall I turn for thee? woe is me for thee! how did I destroy thee! and I listened to the talk of a stupid, ignorant boy without knowledge, without religion, without manliness.
 
 **[4:11]** Ah! and again Ah for myself! who can give thee to me just for once, or bring me word that Haiqar is alive?
 and I would give him the half of my kingdom.
@@ -353,12 +351,12 @@ and I would give him the half of my kingdom.
 **[4:12]** Whence is this to me? Ah, Haiqar! that I might see thee just for once, that I might take my fill of gazing at thee,
 and delighting in thee.
 
-**[4:13]** Ah! 0 my grief for thee to all time! 0 Haiqar, how have I killed thee! and I tarried not in thy case till I had seen the end of the matter.'
+**[4:13]** Ah! O my grief for thee to all time! 0 Haiqar, how have I killed thee! and I tarried not in thy case till I had seen the end of the matter.'
 
 **[4:14]** And the king went on weeping night and day. Now when the swordsman saw the wrath of the king and his
 sorrow for Haiqar, his heart was softened towards him, and he approached into his presence and said to him:
 
-**[4:15]** '0 my lord! command thy servants to cut off my head.' Then said the king to him: 'Woe to thee, Abu Samik, 'what is thy fault?'
+**[4:15]** 'O my lord! command thy servants to cut off my head.' Then said the king to him: 'Woe to thee, Abu Samik, 'what is thy fault?'
 
 **[4:16]** And the swordsman said unto him, 'O my master! every slave who acts contrary to the word of his master is killed, and I have acted contrary to thy command.'
 
@@ -369,8 +367,6 @@ sorrow for Haiqar, his heart was softened towards him, and he approached into hi
 **[4:19]** And the king said unto him. 'Woe to thee, O Abu Samik! thou hast mocked me and I am thy lord.'
 
 **[4:20]** And the swordsman said unto him, 'Nay, but by the life of thy head, O my lord! Haiqar is safe and alive.'
-
-**[4:21]** And when the king heard that saying, he felt sure of the matter, and his head swam, and he
 
 **[4:21]** And when the king heard that saying, he felt sure of the matter, and his head swam, and he fainted from joy, and he commanded them to bring Haiqar.
 
@@ -388,15 +384,16 @@ sorrow for Haiqar, his heart was softened towards him, and he approached into hi
 
 **[4:28]** Then he consoled him and comforted him. And he stripped off his robe, and put it on the swordsman, and was very gracious to him, and gave him great wealth, and made Haiqar rest.
 
-**[4:29]** Then said Haiqar to the king, 'Let my lord the king live for ever! These be the deeds of the children of the world. I have reared me a palm - tree that I might lean on it, and it bent sideways, and threw me down.
+**[4:29]** Then said Haiqar to the king, 'Let my lord the king live for ever! These be the deeds of the children of the world. I have reared me a palm-tree that I might lean on it, and it bent sideways, and threw me down.
 
-**[4:30]** But, 0 my lord! since I have appeared before thee, let not care oppress thee.' And the king said to him: 'Blessed be God, who showed thee mercy, and knew that thou wast wronged, and saved thee and delivered thee from being slain.
+**[4:30]** But, O my lord! since I have appeared before thee, let not care oppress thee.' And the king said to him: 'Blessed be God, who showed thee mercy, and knew that thou wast wronged, and saved thee and delivered thee from being slain.
 
 **[4:31]** But go to the warm bath, and shave thy head, and cut thy nails, and change thy clothes and amuse thyself for the space of forty days, that thou mayst do good to thyself and improve thy condition and the colour of thy face may come back to thee.
 
 **[4:32]** Then the king stripped off his costly robe, and put it on Haiqar, and Haiqar thanked God and did obeisance to the king, and departed to his dwelling glad and happy, praising the Most High God.
 
 **[4:33]** And the people of his household rejoiced with him, and his friends and every one who heard that he was alive rejoiced also.
+
 
 **[5:1]** And he did as the king commanded him, and took a rest for forty days.
 
@@ -511,6 +508,7 @@ sorrow for Haiqar, his heart was softened towards him, and he approached into hi
 **[5:56]** And Haiqar said to him, 'Yes, so it was, but praise be to God, who knoweth what is hidden, for my lord the king commanded me to be killed, and he believed the word of profligate men, but the Lord delivered me, and blessed is he who trusteth in Him.'
 
 **[5:57]** And Pharaoh said to Haiqar, 'Go, and to-morrow be thou here, and tell me a word that I have never heard from my nobles nor from the people of my kingdom and my country.'
+
 
 **[6:1]** And Haiqar went to his dwelling, and wrote a letter, saying in it on this wise:
 
