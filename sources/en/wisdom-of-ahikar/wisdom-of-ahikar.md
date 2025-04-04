@@ -512,6 +512,7 @@ sorrow for Haiqar, his heart was softened towards him, and he approached into hi
 
 **[5:57]** And Pharaoh said to Haiqar, 'Go, and to-morrow be thou here, and tell me a word that I have never heard from my nobles nor from the people of my kingdom and my country.'
 
+
 **[6:1]** And Haiqar went to his dwelling, and wrote a letter, saying in it on this wise:
 
 **[6:2]** 'From Sennacherib king of Assyria and Nineveh to Pharaoh king of Egypt.
