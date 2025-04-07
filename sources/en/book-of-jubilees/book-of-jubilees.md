@@ -400,9 +400,10 @@
 
 **[6:38]** For this reason I command and testify to thee that thou mayst testify to them; for after thy death thy children will disturb (them), so that they will not make the year three hundred and sixty-four days only, and for this reason they will go wrong as to the new moons and seasons and sabbaths and festivals, and they will eat all kinds of blood with all kinds of flesh.
 
-**[7:1]** And in the seventh week in the first year [1317 A.M.] thereof, in this jubilee, Noah planted vines on the mountain on which the ark had rested, named Lubar, one of the Ararat Mountains, and they produced fruit in the fourth year, [1320 A.M.] and he guarded their fruit, and gathered it in this year in the seventh month.
 
-**[7:2]** And he made wine therefrom and put it into a vessel, and kept it until the fifth year, [1321 A.M.] until the first day, on the new moon of the first month.
+**[7:1]** And in the seventh week in the first year thereof, in this jubilee, Noah planted vines on the mountain on which the ark had rested, named Lubar, one of the Ararat Mountains, and they produced fruit in the fourth year, and he guarded their fruit, and gathered it in this year in the seventh month.
+
+**[7:2]** And he made wine therefrom and put it into a vessel, and kept it until the fifth year, until the first day, on the new moon of the first month.
 
 **[7:3]** And he celebrated with joy the day of this feast, and he made a burnt sacrifice unto the Lord, one young ox and one ram, and seven sheep, each a year old, and a kid of the goats, that he might make atonement thereby for himself and his sons.
 
@@ -434,11 +435,11 @@
 
 **[7:17]** And behold these three cities are near Mount Lubar; Sedeqetelebab fronting the mountain on its east; and Na'eltama'uk on the south; 'Adatan'eses towards the west.
 
-**[7:18]** And these are the sons of Shem: Elam, and Asshur, and Arpachshad -this (son) was born two years after the flood- and Lud, and Aram.
+**[7:18]** And these are the sons of Shem: Elam, and Asshur, and Arpachshad - this (son) was born two years after the flood - and Lud, and Aram.
 
 **[7:19]** The sons of Japheth: Gomer and Magog and Madai and Javan, Tubal and Meshech and Tiras: these are the sons of Noah.
 
-**[7:20]** And in the twenty-eighth jubilee [1324-1372 A.M.] Noah began to enjoin upon his sons' sons the ordinances and commandments, and all the judgments that he knew, and he exhorted his sons to observe righteousness, and to cover the shame of their flesh, and to bless their Creator, and honour father and mother, and love their neighbour, and guard their souls from fornication and uncleanness and all iniquity.
+**[7:20]** And in the twenty-eighth jubilee Noah began to enjoin upon his sons' sons the ordinances and commandments, and all the judgments that he knew, and he exhorted his sons to observe righteousness, and to cover the shame of their flesh, and to bless their Creator, and honour father and mother, and love their neighbour, and guard their souls from fornication and uncleanness and all iniquity.
 
 **[7:21]** For owing to these three things came the flood upon the earth, namely, owing to the fornication wherein the Watchers against the law of their ordinances went a whoring after the daughters of men, and took themselves wives of all which they chose: and they made the beginning of uncleanness.
 
@@ -456,7 +457,7 @@
 
 **[7:28]** For whoso sheddeth man's blood, and whoso eateth the blood of any flesh, shall all be destroyed from the earth.
 
-**[7:29]** And there shall not be left any man that eateth blood, or that sheddeth the blood of man on the earth, Nor shall there be left to him any seed or descendants living under heaven; For into Sheol shall they go, And into the place of condemnation shall they descend, And into the darkness of the deep shall they all be removed by a violent death.
+**[7:29]** And there shall not be left any man that eateth blood, or that sheddeth the blood of man on the earth, nor shall there be left to him any seed or descendants living under heaven; for into Sheol shall they go, and into the place of condemnation shall they descend, and into the darkness of the deep shall they all be removed by a violent death.
 
 **[7:30]** There shall be no blood seen upon you of all the blood there shall be all the days in which ye have killed any beasts or cattle or whatever flies upon the earth, and work ye a good work to your souls by covering that which has been shed on the face of the earth.
 
@@ -466,11 +467,11 @@
 
 **[7:33]** For the earth will not be clean from the blood which has been shed upon it; for (only) through the blood of him that shed it will the earth be purified throughout all its generations.
 
-**[7:34]** And now, my children, harken: work judgment and righteousness that ye maybe planted in righteousness over the face of the whole earth, and your glory lifted up before my God, who saved me from the waters of the flood.
+**[7:34]** And now, my children, hearken: work judgment and righteousness that ye may be planted in righteousness over the face of the whole earth, and your glory lifted up before my God, who saved me from the waters of the flood.
 
 **[7:35]** And behold, ye will go and build for yourselves cities, and plant in them all the plants that are upon the earth, and moreover all fruit-bearing trees.
 
-**[7:36]** For three years the fruit of everything that is eaten will not be gathered: and in the fourth year its fruit will be accounted holy [and they will offer the first-fruits], acceptable before the Most High God, who created heaven and earth and all things. Let them offer in abundance the first of the wine and oil (as) first-fruits on the altar of the Lord, who receives it, and what is left let the servants of the house of the Lord eat before the altar which receives (it).
+**[7:36]** For three years the fruit of everything that is eaten will not be gathered: and in the fourth year its fruit will be accounted holy, and they will offer the first-fruits, acceptable before the Most High God, who created heaven and earth and all things. Let them offer in abundance the first of the wine and oil (as) first-fruits on the altar of the Lord, who receives it, and what is left let the servants of the house of the Lord eat before the altar which receives (it).
 
 **[7:37]** And in the fifth year make ye the release so that ye release it in righteousness and uprightness, and ye shall be righteous, and all that you plant shall prosper.
 
@@ -478,7 +479,8 @@
 
 **[7:39]** And I also will give you commandment, my sons, as Enoch commanded his son in the first jubilees: whilst still living, the seventh in his generation, he commanded and testified to his son and to his son's sons until the day of his death.'
 
-**[8:1]** In the twenty-ninth jubilee, in the first week, [1373 A.M.] in the beginning thereof Arpachshad took to himself a wife and her name was Rasu'eja, the daughter of Susan, the daughter of Elam, and she bare him a son in the third year in this week, [1375 A.M.] and he called his name Kainam.
+
+**[8:1]** In the twenty-ninth jubilee, in the first week, in the beginning thereof Arpachshad took to himself a wife and her name was Rasu'eja, the daughter of Susan, the daughter of Elam, and she bare him a son in the third year in this week, and he called his name Kainam.
 
 **[8:2]** And the son grew, and his father taught him writing, and he went to seek for himself a place where he might seize for himself a city.
 
@@ -486,17 +488,17 @@
 
 **[8:4]** And he wrote it down and said nothing regarding it; for he was afraid to speak to Noah about it lest he should be angry with him on account of it.
 
-**[8:5]** And in the thirtieth jubilee, [1429 A.M.] in the second week, in the first year thereof, he took to himself a wife, and her name was Melka, the daughter of Madai, the son of Japheth, and in the fourth year [1432 A.M.] he begat a son, and called his name Shelah; for he said: 'Truly I have been sent.'
+**[8:5]** And in the thirtieth jubilee, in the second week, in the first year thereof, he took to himself a wife, and her name was Melka, the daughter of Madai, the son of Japheth, and in the fourth year he begat a son, and called his name Shelah; for he said: 'Truly I have been sent.'
 
-**[8:6]** [And in the fourth year he was born], and Shelah grew up and took to himself a wife, and her name was Mu'ak, the daughter of Kesed, his father's brother, in the one and thirtieth jubilee, in the fifth week, in the first year [1499 A.M.] thereof.
+**[8:6]** And in the fourth year he was born, and Shelah grew up and took to himself a wife, and her name was Mu'ak, the daughter of Kesed, his father's brother, in the one and thirtieth jubilee, in the fifth week, in the first year thereof.
 
-**[8:7]** And she bare him a son in the fifth year [1503 A.M.] thereof, and he called his name Eber: and he took unto himself a wife, and her name was 'Azûrâd, the daughter of Nebrod, in the thirty-second jubilee, in the seventh week, in the third year thereof. [1564 A.M.]
+**[8:7]** And she bare him a son in the fifth year thereof, and he called his name Eber: and he took unto himself a wife, and her name was 'Azûrâd, the daughter of Nebrod, in the thirty-second jubilee, in the seventh week, in the third year thereof.
 
-**[8:8]** And in the sixth year [1567 A.M.] thereof, she bare him son, and he called his name Peleg; for in the days when he was born the children of Noah began to divide the earth amongst themselves: for this reason he called his name Peleg.
+**[8:8]** And in the sixth year thereof, she bare him son, and he called his name Peleg; for in the days when he was born the children of Noah began to divide the earth amongst themselves: for this reason he called his name Peleg.
 
 **[8:9]** And they divided (it) secretly amongst themselves, and told it to Noah.
 
-**[8:10]** And it came to pass in the beginning of the thirty-third jubilee [1569 A.M.] that they divided the earth into three parts, for Shem and Ham and Japheth, according to the inheritance of each, in the first year in the first week, when one of us who had been sent, was with them.
+**[8:10]** And it came to pass in the beginning of the thirty-third jubilee that they divided the earth into three parts, for Shem and Ham and Japheth, according to the inheritance of each, in the first year in the first week, when one of us who had been sent, was with them.
 
 **[8:11]** And he called his sons, and they drew nigh to him, they and their children, and he divided the earth into the lots, which his three sons were to take in possession, and they reached forth their hands, and took the writing out of the bosom of Noah, their father.
 
@@ -508,7 +510,7 @@
 
 **[8:15]** And it turns from here towards the south towards the mouth of the great sea on the shore of (its) waters, and it extends to the west to 'Afra, and it extends till it reaches the waters of the river Gihon, and to the south of the waters of Gihon, to the banks of this river.
 
-**[8:16]** And it extends towards the east, till it reaches the Garden of Eden, to the south thereof, [to the south] and from the east of the whole land of Eden and of the whole east, it turns to the east and proceeds till it reaches the east of the mountain named Rafa, and it descends to the bank of the mouth of the river Tina.
+**[8:16]** And it extends towards the east, till it reaches the Garden of Eden, to the south thereof, [o the south and from the east of the whole land of Eden and of the whole east, it turns to the east and proceeds till it reaches the east of the mountain named Rafa, and it descends to the bank of the mouth of the river Tina.
 
 **[8:17]** This portion came forth by lot for Shem and his sons, that they should possess it for ever unto his generations for evermore.
 
@@ -520,13 +522,13 @@
 
 **[8:21]** And he knew that a blessed portion and a blessing had come to Shem and his sons unto the generations for ever -the whole land of Eden and the whole land of the Red Sea, and the whole land of the east and India, and on the Red Sea and the mountains thereof, and all the land of Bashan, and all the land of Lebanon and the islands of Kaftur, and all the mountains of Sanir and 'Amana, and the mountains of Asshur in the north, and all the land of Elam, Asshur, and Babel, and Susan and Ma'edai, and all the mountains of Ararat, and all the region beyond the sea, which is beyond the mountains of Asshur towards the north, a blessed and spacious land, and all that is in it is very good.
 
-**[8:22]** And for Ham came forth the second portion, beyond the Gihon towards the south to the right of the Garden, and it extends towards the south and it extends to all the mountains of fire, and it extends towards the west to the sea of 'Atel and it extends towards the west till it reaches the sea of Ma'uk -that (sea) into which everything which is not destroyed descends.
+**[8:22]** And for Ham came forth the second portion, beyond the Gihon towards the south to the right of the Garden, and it extends towards the south and it extends to all the mountains of fire, and it extends towards the west to the sea of 'Atel and it extends towards the west till it reaches the sea of Ma'uk - that (sea) into which everything which is not destroyed descends.
 
 **[8:23]** And it goes forth towards the north to the limits of Gadir, and it goes forth to the coast of the waters of the sea to the waters of the great sea till it draws near to the river Gihon, and goes along the river Gihon till it reaches the right of the Garden of Eden.
 
 **[8:24]** And this is the land which came forth for Ham as the portion which he was to occupy for ever for himself and his sons unto their generations for ever.
 
-**[8:25]** And for Japheth came forth the third portion beyond the river Tina to the north of the outflow of its waters, and it extends north- easterly to the whole region of Gog, and to all the country east thereof.
+**[8:25]** And for Japheth came forth the third portion beyond the river Tina to the north of the outflow of its waters, and it extends north-easterly to the whole region of Gog, and to all the country east thereof.
 
 **[8:26]** And it extends northerly to the north, and it extends to the mountains of Qelt towards the north, and towards the sea of Ma'uk, and it goes forth to the east of Gadir as far as the region of the waters of the sea.
 
@@ -537,6 +539,7 @@
 **[8:29]** This is the land which came forth for Japheth and his sons as the portion of his inheritance which he should possess for himself and his sons, for their generations for ever; five great islands, and a great land in the north.
 
 **[8:30]** But it is cold, and the land of Ham is hot, and the land of Shem is neither hot nor cold, but it is of blended cold and heat.
+
 
 **[9:1]** And Ham divided amongst his sons, and the first portion came forth for Cush towards the east, and to the west of him for Mizraim, and to the west of him for Put, and to the west of him [and to the west thereof] on the sea for Canaan.
 
