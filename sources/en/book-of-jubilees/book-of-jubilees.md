@@ -538,7 +538,7 @@
 
 **[8:30]** But it is cold, and the land of Ham is hot, and the land of Shem is neither hot nor cold, but it is of blended cold and heat.
 
-**[9:1]** And Ham divided amongst his sons, and the first portion came forth for Cush towards the east, and to the west of him for Mizraim, and to the west of him for Put, and to the west of him [and to the west thereof] on the sea for Canaan.
+**[9:1]** And Ham divided amongst his sons, and the first portion came forth for Cush towards the east, and to the west of him for Mizraim, and to the west of him for Put, and to the west of him and to the west thereof on the sea for Canaan.
 
 **[9:2]** And Shem also divided amongst his sons, and the first portion came forth for Ham and his sons, to the east of the river Tigris till it approachcs the east, the whole land of India, and on the Red Sea on its coast, and the waters of Dedan, and all the mountains of Mebri and Ela, and all the land of Susan and all that is on the side of Pharnak to the Red Sea and the river Tina.
 
@@ -562,19 +562,20 @@
 
 **[9:12]** And for Meshech came forth the sixth portion, all the region beyond the third tongue till it approaches the east of Gadir.
 
-**[9:13]** And for Tiras there came forth the seventh portion, four great islands in the midst of the sea, which reach to the portion of Ham [and the islands of Kamaturi came out by lot for the sons of Arpachshad as his inheritance].
+**[9:13]** And for Tiras there came forth the seventh portion, four great islands in the midst of the sea, which reach to the portion of Ham and the islands of Kamaturi came out by lot for the sons of Arpachshad as his inheritance.
 
 **[9:14]** And thus the sons of Noah divided unto their sons in the presence of Noah their father, and he bound them all by an oath, imprecating a curse on every one that sought to seize the portion which had not fallen (to him) by his lot.
 
 **[9:15]** And they all said, 'So be it; so be it ' for themselves and their sons for ever throughout their generations till the day of judgment, on which the Lord God shall judge them with a sword and with fire for all the unclean wickedness of their errors, wherewith they have filled the earth with transgression and uncleanness and fornication and sin.
 
+
 **[10:1]** And in the third week of this jubilee the unclean demons began to lead astray the children of the sons of Noah, and to make to err and destroy them.
 
 **[10:2]** And the sons of Noah came to Noah their father, and they told him concerning the demons which were leading astray and blinding and slaying his sons' sons.
 
-**[10:3]** And he prayed before the Lord his God, and said: 'God of the spirits of all flesh, who hast shown mercy unto me And hast saved me and my sons from the waters of the flood, And hast not caused me to perish as Thou didst the sons of perdition; For Thy grace has been great towards me, And great has been Thy mercy to my soul; Let Thy grace be lift up upon my sons, And let not wicked spirits rule over them Lest they should destroy them from the earth.
+**[10:3]** And he prayed before the Lord his God, and said: 'God of the spirits of all flesh, who hast shown mercy unto me and hast saved me and my sons from the waters of the flood, and hast not caused me to perish as Thou didst the sons of perdition; For Thy grace has been great towards me, and great has been Thy mercy to my soul; Let Thy grace be lift up upon my sons, and let not wicked spirits rule over them Lest they should destroy them from the earth.
 
-**[10:4]** But do Thou bless me and my sons, that we may increase and Multiply and replenish the earth.
+**[10:4]** But do Thou bless me and my sons, that we may increase and multiply and replenish the earth.
 
 **[10:5]** And Thou knowest how Thy Watchers, the fathers of these spirits, acted in my day: and as for these spirits which are living, imprison them and hold them fast in the place of condemnation, and let them not bring destruction on the sons of thy servant, my God; for these are malignant, and created in order to destroy.
 
@@ -582,7 +583,7 @@
 
 **[10:7]** And the Lord our God bade us to bind all.
 
-**[10:8]** And the chief of the spirits, Mastêmâ, came and said: 'Lord, Creator, let some of them remain before me, and let them harken to my voice, and do all that I shall say unto them; for if some of them are not left to me, I shall not be able to execute the power of my will on the sons of men; for these are for corruption and leading astray before my judgment, for great is the wickedness of the sons of men.'
+**[10:8]** And the chief of the spirits, Mastêmâ, came and said: 'Lord, Creator, let some of them remain before me, and let them hearken to my voice, and do all that I shall say unto them; for if some of them are not left to me, I shall not be able to execute the power of my will on the sons of men; for these are for corruption and leading astray before my judgment, for great is the wickedness of the sons of men.'
 
 **[10:9]** And He said: 'Let the tenth part of them remain before him, and let nine parts descend into the place of condemnation.'
 
@@ -598,7 +599,7 @@
 
 **[10:15]** And Noah slept with his fathers, and was buried on Mount Lubar in the land of Ararat.
 
-**[10:16]** Nine hundred and fifty years he completed in his life, nineteen jubilees and two weeks and five years. [1659 A.M.]
+**[10:16]** Nine hundred and fifty years he completed in his life, nineteen jubilees and two weeks and five years. 
 
 **[10:17]** And in his life on earth he excelled the children of men save Enoch because of the righteousness, wherein he was perfect. For Enoch's office was ordained for a testimony to the generations of the world, so that he should recount all the deeds of generation unto generation, till the day of judgment.
 
@@ -608,7 +609,7 @@
 
 **[10:20]** And they began to build, and in the fourth week they made brick with fire, and the bricks served them for stone, and the clay with which they cemented them together was asphalt which comes out of the sea, and out of the fountains of water in the land of Shinar.
 
-**[10:21]** And they built it: forty and three years [1645-1688 A.M.] were they building it; its breadth was 203 bricks, and the height (of a brick) was the third of one; its height amounted to 5433 cubits and 2 palms, and (the extent of one wall was) thirteen stades (and of the other thirty stades).
+**[10:21]** And they built it: forty and three years were they building it; its breadth was 203 bricks, and the height (of a brick) was the third of one; its height amounted to 5433 cubits and 2 palms, and (the extent of one wall was) thirteen stades (and of the other thirty stades).
 
 **[10:22]** And the Lord our God said unto us: 'Behold, they are one people, and (this) they begin to do, and now nothing will be withholden from them. Go to, let us go down and confound their language, that they may not understand one another's speech, and they may be dispersed into cities and nations, and one purpose will no longer abide with them till the day of judgment.'
 
@@ -620,7 +621,7 @@
 
 **[10:26]** And the Lord sent a mighty wind against the tower and overthrew it upon the earth, and behold it was between Asshur and Babylon in the land of Shinar, and they called its name 'Overthrow'.
 
-**[10:27]** In the fourth week in the first year [1688 A.M.] in the beginning thereof in the four and thirtieth jubilee, were they dispersed from the land of Shinar.
+**[10:27]** In the fourth week in the first year in the beginning thereof in the four and thirtieth jubilee, were they dispersed from the land of Shinar.
 
 **[10:28]** And Ham and his sons went into the land which he was to occupy, which he acquired as his portion in the land of the south.
 
@@ -632,7 +633,7 @@
 
 **[10:32]** Cursed art thou, and cursed shalt thou be beyond all the sons of Noah, by the curse by which we bound ourselves by an oath in the presence of the holy judge, and in the presence of Noah our father.'
 
-**[10:33]** But he did not harken unto them, and dwelt in the land of Lebanon from Hamath to the entering of Egypt, he and his sons until this day.
+**[10:33]** But he did not hearken unto them, and dwelt in the land of Lebanon from Hamath to the entering of Egypt, he and his sons until this day.
 
 **[10:34]** And for this reason that land is named Canaan.
 
@@ -640,7 +641,8 @@
 
 **[10:36]** And he called his dwelling-place, and the dwelling-place of his sons, Media, after the name of their father Madai.
 
-**[11:1]** And in the thirty-fifth jubilee, in the third week, in the first year [1681 A.M.] thereof, Reu took to himself a wife, and her name was 'Ôrâ, the daughter of 'Ûr, the son of Kesed, and she bare him a son, and he called his name Sêrôh, in the seventh year of this week in this jubilee. [1687 A.M.]
+
+**[11:1]** And in the thirty-fifth jubilee, in the third week, in the first year thereof, Reu took to himself a wife, and her name was 'Ôrâ, the daughter of 'Ûr, the son of Kesed, and she bare him a son, and he called his name Sêrôh, in the seventh year of this week in this jubilee. 
 
 **[11:2]** And the sons of Noah began to war on each other, to take captive and to slay each other, and to shed the blood of men on the earth, and to eat blood, and to build strong cities, and walls, and towers, and individuals (began) to exalt themselves above the nation, and to found the beginnings of kingdoms, and to go to war people against people, and nation against nation, and city against city, and all (began) to do evil, and to acquire arms, and to teach their sons war, and they began to capture cities, and to sell male and female slaves.
 
