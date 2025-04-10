@@ -830,7 +830,7 @@
 
 **[14:12]** And birds came down upon the pieces, and Abram drove them away, and did not suffer the birds to touch them.
 
-**[14:13]** And it came to pass, when the sun had set, that an ecstasy fell upon Abram, and lo ! an horror of great darkness fell upon him, and it was said unto Abram: 'Know of a surety that thy seed shall be a stranger in a land (that is) not theirs, and they shall bring them into bondage, and afflict them four hundred years.
+**[14:13]** And it came to pass, when the sun had set, that an ecstasy fell upon Abram, and lo! an horror of great darkness fell upon him, and it was said unto Abram: 'Know of a surety that thy seed shall be a stranger in a land (that is) not theirs, and they shall bring them into bondage, and afflict them four hundred years.
 
 **[14:14]** And the nation also to whom they will be in bondage will I judge, and after that they shall come forth thence with much substance.
 
@@ -838,7 +838,7 @@
 
 **[14:16]** But in the fourth generation they shall return hither; for the iniquity of the Amorites is not yet full.'
 
-**[14:17]** And he awoke from his sleep, and he arose, and the sun had set; and there was a flame, and behold ! a furnace was smoking, and a flame of fire passed between the pieces.
+**[14:17]** And he awoke from his sleep, and he arose, and the sun had set; and there was a flame, and behold \! a furnace was smoking, and a flame of fire passed between the pieces.
 
 **[14:18]** And on that day the Lord made a covenant with Abram, saying: 'To thy seed will I give this land, from the river of Egypt unto the great river, the river Euphrates, the Kenites, the Kenizzites, the Kadmonites, the Perizzites, and the Rephaim, the Phakorites, and the Hivites, and the Amorites, and the Canaanites, and the Girgashites, and the Jebusites.
 
@@ -852,9 +852,10 @@
 
 **[14:23]** And Abram harkened unto the voice of Sarai his wife, and said unto her, 'Do (so).' And Sarai took Hagar, her maid, the Egyptian, and gave her to Abram, her husband, to be his wife.
 
-**[14:24]** And he went in unto her, and she conceived and bare him a son, and he called his name Ishmael, in the fifth year of this week [1965 A.M.]; and this was the eighty-sixth year in the life of Abram.
+**[14:24]** And he went in unto her, and she conceived and bare him a son, and he called his name Ishmael, in the fifth year of this week; and this was the eighty-sixth year in the life of Abram.
 
-**[15:1]** And in the fifth year of the fourth week of this jubilee, [1979 A.M.] in the third month, in the middle of the month, Abram celebrated the feast of the first-fruits of the grain harvest.
+
+**[15:1]** And in the fifth year of the fourth week of this jubilee, in the third month, in the middle of the month, Abram celebrated the feast of the first-fruits of the grain harvest.
 
 **[15:2]** And he offered new offerings on the altar, the first-fruits of the produce, unto the Lord, an heifer and a goat and a sheep on the altar as a burnt sacrifice unto the Lord; their fruit offerings and their drink offerings he offered upon the altar with frankincense.
 
@@ -872,7 +873,7 @@
 
 **[15:9]** And I shall establish My covenant between Me and thee, and thy seed after thee, throughout their generations, for an eternal covenant, so that I may be a God unto thee, and to thy seed after thee.
 
-**[15:10]** <And I will give to thee and to thy seed after thee> the land where thou hast been a sojourner, the land of Canaan, that thou mayst possess it for ever, and I will be their God.'
+**[15:10]** And I will give to thee and to thy seed after thee the land where thou hast been a sojourner, the land of Canaan, that thou mayst possess it for ever, and I will be their God.'
 
 **[15:11]** And the Lord said unto Abraham: 'And as for thee, do thou keep my covenant, thou and thy seed after thee: and circumcise ye every male among you, and circumcise your foreskins, and it shall be a token of an eternal covenant between Me and you.
 
@@ -900,7 +901,7 @@
 
 **[15:23]** And Abraham did according as God had said unto him, and he took Ishmael his son, and all that were born in his house, and whom he had bought with his money, every male in his house, and circumcised the flesh of their foreskin.
 
-**[15:24]** And on the selfsame day was Abraham circumcised, and all the men of his house, <and those born in the house>, and all those, whom he had bought with money from the children of the stranger, were circumcised with him.
+**[15:24]** And on the selfsame day was Abraham circumcised, and all the men of his house, and those born in the house, and all those, whom he had bought with money from the children of the stranger, were circumcised with him.
 
 **[15:25]** This law is for all the generations for ever, and there is no circumcision of the days, and no omission of one day out of the eight days; for it is an eternal ordinance, ordained and written on the heavenly tablets.
 
@@ -920,7 +921,8 @@
 
 **[15:33]** And now I announce unto thee that the children of Israel will not keep true to this ordinance, and they will not circumcise their sons according to all this law; for in the flesh of their circumcision they will omit this circumcision of their sons, and all of them, sons of Beliar, will leave their sons uncircumcised as they were born.
 
-**[15:34]** And there will be great wrath from the Lord against the children of Israel. because they have forsaken His covenant and turned aside from His word, and provoked and blasphemed, inasmuch as they do not observe the ordinance of this law; for they have treated their members like the Gentiles, so that they may be removed and rooted out of the land. And there will no more be pardon or forgiveness unto them [so that there should be forgiveness and pardon] for all the sin of this eternal error.
+**[15:34]** And there will be great wrath from the Lord against the children of Israel. because they have forsaken His covenant and turned aside from His word, and provoked and blasphemed, inasmuch as they do not observe the ordinance of this law; for they have treated their members like the Gentiles, so that they may be removed and rooted out of the land. And there will no more be pardon or forgiveness unto them so that there should be forgiveness and pardon for all the sin of this eternal error.
+
 
 **[16:1]** And on the new moon of the fourth month we appeared unto Abraham, at the oak of Mamre, and we talked with him, and we announced to him that a son would be given to him by Sarah his wife.
 
