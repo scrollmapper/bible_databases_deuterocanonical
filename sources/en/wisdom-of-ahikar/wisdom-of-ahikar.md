@@ -16,11 +16,11 @@
 
 **[1:8]** And they answered him not one word. And he went away sorrowful and dejected, departing with a pain at his heart.
 
-**[1:9]** And he returned, and implored the Most High God, and believed, beseeching Him with a burning in his heart, saying, '0 Most High God, 0 Creator of the Heavens and of the earth, o Creator of all created things!
+**[1:9]** And he returned, and implored the Most High God, and believed, beseeching Him with a burning in his heart, saying, 'O Most High God, O Creator of the Heavens and of the earth, O Creator of all created things!
 
 **[1:10]** I beseech Thee to give me a boy, that I may be consoled by him, that he may be present at my death, that he may close my eyes, and that he may bury me.'
 
-**[1:11]** Then there came to him a voice saying, 'Inasmuch as thou hast relied first of all on graven images, and hast offered sacrifices to them, for this reason thou Shalt remain childless thy life long.
+**[1:11]** Then there came to him a voice saying, 'Inasmuch as thou hast relied first of all on graven images, and hast offered sacrifices to them, for this reason thou shalt remain childless thy life long.
 
 **[1:12]** But take Nadan thy sister's son, and make him thy child and teach him thy learning and thy good breeding, and at thy death he shall bury thee.'
 
@@ -32,23 +32,24 @@
 
 **[1:16]** And after many days King Sennacherib looked at Haiqar and saw that he had grown very old, and moreover he said to him.
 
-**[1:17]** '0 my honoured friend, the skilful, the trusty, the wise, the governor, my secretary, my vizier, my Chancellor and director; verily thou art grown very old and weighted with years; and thy departure from this world must be near.
+**[1:17]** 'O my honoured friend, the skilful, the trusty, the wise, the governor, my secretary, my vizier, my Chancellor and director; verily thou art grown very old and weighted with years; and thy departure from this world must be near.
 
-**[1:18]** Tell me who shall have a place in my service after thee.' And Haiqar said to him, '0 my lord, may thy head live for ever! There is Nadan my sister's son, I have made him my child.
+**[1:18]** Tell me who shall have a place in my service after thee.' And Haiqar said to him, 'O my lord, may thy head live for ever! There is Nadan my sister's son, I have made him my child.
 
 **[1:19]** And I have brought him up and taught him my wisdom and my knowledge.'
 
-**[1:20]** And the king said to him, '0 Haiqar ! bring him to my presence, that I may see him, and if I find him suitable, put him in thy place; and thou shalt go thy way, to take a rest and to live the remainder of thy life in sweet repose.'
+**[1:20]** And the king said to him, 'O Haiqar! bring him to my presence, that I may see him, and if I find him suitable, put him in thy place; and thou shalt go thy way, to take a rest and to live the remainder of thy life in sweet repose.'
 
 **[1:21]** Then Haiqar went and presented Nadan his sister's son. And he did homage and wished him power and honour.
 
-**[1:22]** And he looked at him and admired him and rejoiced in him and said to Haiqar: 'Is this thy son, 0 Haiqar? I pray that God may preserve him. And as thou hast served me and my father Sarhadum so may this boy of thine serve me and fulfil my undertakings, my needs, and my business, so that I may honour him and make him powerful for thy sake.'
+**[1:22]** And he looked at him and admired him and rejoiced in him and said to Haiqar: 'Is this thy son, O Haiqar? I pray that God may preserve him. And as thou hast served me and my father Sarhadum so may this boy of thine serve me and fulfil my undertakings, my needs, and my business, so that I may honour him and make him powerful for thy sake.'
 
-**[1:23]** And Haiqar did obeisance to the king and said to him 'May thy head live, 0 my lord the king, for ever! I seek from thee that thou mayst be patient with my boy Nadan and forgive his mistakes that he may serve thee as it is fitting.'
+**[1:23]** And Haiqar did obeisance to the king and said to him 'May thy head live, O my lord the king, for ever! I seek from thee that thou mayst be patient with my boy Nadan and forgive his mistakes that he may serve thee as it is fitting.'
 
 **[1:24]** Then the king swore to him that he would make him the greatest of his favourites, and the most powerful of his friends, and that he should be with him in all honour and respect. And he kissed his hands and bade him farewell.
 
 **[1:25]** And he took Nadan his sister's son with him and seated him in a parlour and set about teaching him night and day till he had crammed him with wisdom and knowledge more than with bread and water.
+
 
 **[2:1]** Thus he taught him, saying: '0 my son! hear my speech and follow my advice and remember what I say.
 
@@ -68,7 +69,7 @@
 
 **[2:9]** O my son! desire not a woman bedizened with dress and with ointments, who is despicable and silly in her soul. Woe to thee if thou bestow on her anything that is thine, or commit to her what is in thine hand and, she entice thee into sin, and God be wroth with thee.
 
-**[2:10]** O my son! be not like the almond-tree, for it brings forth leaves before all the trees, and edible fruit after them all, but be like the mulberry - tree, which brings forth edible fruit before all the trees, and leaves after them all.
+**[2:10]** O my son! be not like the almond-tree, for it brings forth leaves before all the trees, and edible fruit after them all, but be like the mulberry-tree, which brings forth edible fruit before all the trees, and leaves after them all.
 
 **[2:11]** O my son! bend thy head low down, and soften thy voice, and be courteous, and walk in the straight path, and be not foolish. And raise not thy voice when thou laughest, for if it were by a loud voice that a house was built, the ass would build many houses every day; and if it were by dint of strength that the plough were driven, the plough would never be removed from under the shoulders of the camels.
 
@@ -86,7 +87,7 @@
 
 **[2:18]** O my son! be content with thy daily bread and thy goods, and covet not what is another's.
 
-**[2:19]** O my son! be not neighbour to the fool, and eat not bread with him, and rejoice not in the calamities of thy neighbours. (Psalms CXLI. 4) If thine enemy wrong thee, show him kindness.
+**[2:19]** O my son! be not neighbour to the fool, and eat not bread with him, and rejoice not in the calamities of thy neighbours. If thine enemy wrong thee, show him kindness.
 
 **[2:20]** O my son! a man who fears God do thou fear him and honour him.
 
@@ -106,7 +107,7 @@
 
 **[2:28]** O my son! be not like a bare, leafless tree that doth not grow, but be like a tree covered with its leaves and its boughs; for the man who has neither wife nor children is disgraced in the world and is hated by them, like a leafless and fruitless tree.
 
-**[2:29]** O my son! be like a fruitful tree on the roadside, whost fruit is eaten by all who pass by, and the beasts of the desert rest under its shade and eat of its leaves.
+**[2:29]** O my son! be like a fruitful tree on the roadside, whose fruit is eaten by all who pass by, and the beasts of the desert rest under its shade and eat of its leaves.
 
 **[2:30]** O my son! every sheep that wanders from its path and its companions becomes food for the wolf.
 
@@ -120,9 +121,9 @@
 
 **[2:35]** O my son! make thy speech fair and sweeten thy tongue; and permit not thy companion to tread on thy foot, lest he tread at another time on thy breast.
 
-**[2:36]** O my son! if thou beat a wise man with a word of wisdom, it will lurk in his breast like a subtle sense of shame; but if thou drub the ignorant with a stick he will neither understand nor hear,
+**[2:36]** O my son! if thou beat a wise man with a word of wisdom, it will lurk in his breast like a subtle sense of shame; but if thou drub the ignorant with a stick he will neither understand nor hear.
 
-**[2:37]** O my son! if thou send a wise man for thy needs, do not give him many orders, for he will do thy business as thou desirest: and if thou send a fool, do not order him, but go thyself and do thy business, for if thou order him, he will not do what thou desirest. If they send thee on business, hasten to fulfil it quickly,
+**[2:37]** O my son! if thou send a wise man for thy needs, do not give him many orders, for he will do thy business as thou desirest: and if thou send a fool, do not order him, but go thyself and do thy business, for if thou order him, he will not do what thou desirest. If they send thee on business, hasten to fulfil it quickly.
 
 **[2:38]** O my son! make not an enemy of a man stronger than thyself, for he will take thy measure, and his revenge on thee.
 
@@ -146,7 +147,7 @@
 
 **[2:48]** O my son! the man who hath no rest, his death were better than his life; and the sound of weeping is better than the sound of singing; for sorrow and weeping, if the fear of God be in them, are better than the sound of singing and rejoicing.
 
-**[2:49]** O my child! the thigh of a frog in thy hand is better than a goose in the pot of thy neighbour; and a sheep near thee is better than an ox far away; and a sparrow in thy hand is better than a thousand sparrows flying; and poverty which gathers is better than the scattering of much provision; and a living fox is better than a dead lion; and a pound of wool is better than a pound of wealth, I mean of gold and silver; for the gold and the silver are hidden and covered up in the earth, and are not seen; but the wool stays. in the markets and it is seen, and it is a beauty to him who wears it.
+**[2:49]** O my child! the thigh of a frog in thy hand is better than a goose in the pot of thy neighbour; and a sheep near thee is better than an ox far away; and a sparrow in thy hand is better than a thousand sparrows flying; and poverty which gathers is better than the scattering of much provision; and a living fox is better than a dead lion; and a pound of wool is better than a pound of wealth, I mean of gold and silver; for the gold and the silver are hidden and covered up in the earth, and are not seen; but the wool stays in the markets and it is seen, and it is a beauty to him who wears it.
 
 **[2:50]** O my son! a small fortune is better than a scattered fortune.
 
@@ -178,7 +179,7 @@
 
 **[2:64]** O my son! whosoever is elegant in his dress, he is the same in his speech; and he who has a mean appearance in his dress, he also is the same in his speech.
 
-**[2:65]** O my son! if thou hast committcd a theft, make it known to the Sultan, and give him a share of it, that thou rnayst be delivered from him, for otherwise thou wilt endure bitterness.
+**[2:65]** O my son! if thou hast committcd a theft, make it known to the Sultan, and give him a share of it, that thou mayst be delivered from him, for otherwise thou wilt endure bitterness.
 
 **[2:66]** O my son! make a friend of the man whose hand is satisfied and filled, and make no friend of the man whose hand is closed and hungry.
 
