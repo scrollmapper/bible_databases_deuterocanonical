@@ -2,7 +2,7 @@
 
 
 
-**[1:1]** THE copy of, the testament of Naphtali, which he ordained at the time of his death in the hundred and thirtieth year of his life.
+**[1:1]** THE copy of the testament of Naphtali, which he ordained at the time of his death in the hundred and thirtieth year of his life.
 
 **[1:2]** When his sons were gathered together in the seventh month, on the first day of the month, while still in good health, he made them a feast of food and wine.
 
