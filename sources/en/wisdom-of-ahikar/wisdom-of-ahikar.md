@@ -209,11 +209,11 @@
 
 **[3:12]** And Nadan continued to meditate as to the stumblingblock he might contrive for him. And after a while Nadan turned it over in his mind, and wrote a letter to Achish, son of Shah the Wise, king of Persia, saying thus:
 
-**[3:13]** 'Peace and health and might and honour from Sennacherib king of Assyria and Nineveh, and from his vizier and his secretary Haiqar unto thee, 0 great king! Let there be peace between thee and me.
+**[3:13]** 'Peace and health and might and honour from Sennacherib king of Assyria and Nineveh, and from his vizier and his secretary Haiqar unto thee, O great king! Let there be peace between thee and me.
 
 **[3:14]** And when this letter reaches thee, if thou wilt arise and go quickly to the plain of Nisrin, and to Assyria and Nineveh, I will deliver up the kingdom to thee without war and without battle-array.'
 
-**[3:15]** And he wrote also another letter in the name of Haiqar to Pharaoh king of Egypt. 'Let there be peace between thee and me, 0 mighty king!
+**[3:15]** And he wrote also another letter in the name of Haiqar to Pharaoh king of Egypt. 'Let there be peace between thee and me, O mighty king!
 
 **[3:16]** If at the time of this letter reaching thee thou wilt arise and go to Assyria and Nineveh to the plain of Nisrin, I will deliver up to thee the kingdom without war and without fighting.'
 
@@ -223,7 +223,7 @@
 
 **[3:19]** Then he went and wrote a letter likewise from the king to his uncle Haiqar: 'Peace and health to my Vizier, my Secretary, my Chancellor, Haiqar.
 
-**[3:20]** 0 Haiqar, when this letter reaches thee, assemble all the soldiers who are with thee, and let them be perfect in clothing and in numbers, and bring them to me on the fifth day in the plain of Nisrin.
+**[3:20]** O Haiqar, when this letter reaches thee, assemble all the soldiers who are with thee, and let them be perfect in clothing and in numbers, and bring them to me on the fifth day in the plain of Nisrin.
 
 **[3:21]** And when thou shalt see me there coming towards thee, haste and make the army move against me as an enemy who would fight with me, for I have with me the ambassadors of Pharaoh king of Egypt, that they may see the strength of our army and may fear us, for they are our enemies and they hate us.'
 
@@ -255,18 +255,17 @@
 
 **[3:35]** And when the king saw this, he felt certain that the thing was from him, and he straightway arose and commanded them to kill Haiqar, and to strike his neck with the sword outside of the city.
 
-**[3:36]** Thus says the story-teller. And the name of the swordsman was Abu Samik. And the king said to him, '0 swordsman! arise go, cleave the neck of Haiqar at the door of his house, and cast away his head from his body a hundred cubits.'
+**[3:36]** Thus says the story-teller. And the name of the swordsman was Abu Samik. And the king said to him, 'O swordsman! arise, go, cleave the neck of Haiqar at the door of his house, and cast away his head from his body a hundred cubits.'
 
 **[3:38]** Then Haiqar knelt before the king, and said, 'Let my lord the king live for ever! and if thou desire to slay me,
-let thy wish be fulfilled; and I know that I am not guilty, but the wicked man has to give an account of his wickedness; nevertheless, 0 my lord the king! I beg of thee and of thy friendship, permit the swordsman to give my body to my slaves, that they may bury me, and let thy slave be thy sacrifice.'
+let thy wish be fulfilled; and I know that I am not guilty, but the wicked man has to give an account of his wickedness; nevertheless, O my lord the king! I beg of thee and of thy friendship, permit the swordsman to give my body to my slaves, that they may bury me, and let thy slave be thy sacrifice.'
 
 **[3:39]** The king arose and commanded the swordsman to do with him according to his desire.
 
 **[3:40]** And he straightway commanded his servants to take Haiqar and the swordsman and go with him naked that
 they might slay him.
 
-**[3:41]** And when Haiqar knew for certain that he was to be slain he sent to his wife, and said to her, 'Come out and meet me, and let there be with thee a thousand young virgins, and dress them in gowns of purple and silk
-that they may weep for me fore my death.
+**[3:41]** And when Haiqar knew for certain that he was to be slain he sent to his wife, and said to her, 'Come out and meet me, and let there be with thee a thousand young virgins, and dress them in gowns of purple and silk that they may weep for me before my death.
 
 **[3:42]** And prepare a table for the swordsman and for his servants. And mingle plenty of wine, that they may drink.'
 
@@ -276,7 +275,7 @@ courtesy and learning.
 **[3:44]** And when the army of the king and the swordsman arrived they found the table set in order,
 and the wine and the luxurious viands, and they began eating and drinking till they were gorged and drunken.
 
-**[3:45]** Then Haiqar took the swordsman aside apart from the company and said, '0 Abu Samik, dost thou not know
+**[3:45]** Then Haiqar took the swordsman aside apart from the company and said, 'O Abu Samik, dost thou not know
 that when Sarhadum the king, the father of Sennacherib, wanted to kill thee, I took thee and hid thee in a certain
 place till the king's anger subsided and he asked for thee?
 
@@ -299,9 +298,7 @@ place till the king's anger subsided and he asked for thee?
 
 **[3:54]** And the story was reported and repeated and spread abroad in every place of how Haiqar the Sage had been slain and was dead, and all the people of that city mourned for him.
 
-**[3:55]** And they wept and said:
-'Alas for thee, 0 Haiqar! and for thy learning and thy courtesy! How sad about thee and about thy knowledge!
-Where can another like thee be found? and where can there be a man so intelligent, so learned, so skilled in ruling as to resemble thee that he may fill thy place?'
+**[3:55]** And they wept and said: 'Alas for thee, O Haiqar! and for thy learning and thy courtesy! How sad about thee and about thy knowledge! Where can another like thee be found? and where can there be a man so intelligent, so learned, so skilled in ruling as to resemble thee that he may fill thy place?'
 
 **[3:56]** But the king was repenting about Haiqar, and his repentance availed him naught.
 
@@ -320,6 +317,7 @@ sorrowed nor wailed, but assembled heartless and dissolute people and set about 
 came and entreated him. And he comforted him and wished his deliverance.
 
 **[3:63]** And when the story was reported in other countries that Haiqar the Sage had been slain all the kings were grieved and despised king Sennacherib, and they lamented over Haiqar the solver of riddles.
+
 
 **[4:1]** When the king of Egypt had made sure that Haiqar was slain, he arose straightway and wrote a letter to king Sennacherib, reminding him in it 'of the peace and the health and the might and the honour which we wish specially for thee, my beloved brother, king Sennacherib.
 
