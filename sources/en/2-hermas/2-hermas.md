@@ -164,9 +164,10 @@
 
 **[5:19]** Wherefore strengthen thyself now in these commands, that then mayest live unto God. And whosoever shall observe these commandments shall live unto God.
 
+
 **[6:1]** I commanded thee, said he, in my first commandments, that thou shouldst keep faith and fear, and repentance. Yes, sir, said I. 
 
-**[6:2]** He continued. But now I will shew thee the virtues of these commands, that then mayest know their effects; how they are prescribed alike to the just and unjust. 
+**[6:2]** He continued, But now I will shew thee the virtues of these commands, that then mayest know their effects; how they are prescribed alike to the just and unjust. 
 
 **[6:3]** Do thou therefore believe the righteous, but give no credit to the unrighteous. For righteousness keepeth the right way, but unrighteousness the wicked way. 
 
@@ -200,9 +201,10 @@
 
 **[6:18]** Thou seest therefore how it is good to follow the angel of righteousness. If therefore thou shall follow him, and submit to his works, thou shalt live unto God. And as many as shall submit to his work shall live also unto God.
 
+
 **[7:1]** Fear God, says he, and keep his commandments. For if thou keepest his commandments thou shalt be powerful in every work, and all thy works shall be excellent. For by fearing God, thou shalt do everything well. 
 
-**[7:2]** This is that tear with which thou must be affected that thou mayest be saved. But fear not the Devil: for if thou fearest the Lord, thou shalt have dominion over him; because there is no power in him. 
+**[7:2]** This is that fear with which thou must be affected that thou mayest be saved. But fear not the Devil: for if thou fearest the Lord, thou shalt have dominion over him; because there is no power in him. 
 
 **[7:3]** Now if there be no power in him, then neither is he to be feared: for every one that has power, is to be feared. But he that has no power is despised by every one. 
 
@@ -211,6 +213,7 @@
 **[7:5]** There is therefore a twofold fear; if thou wilt not do evil, fear the Lord and thou shalt not do it. But if thou wilt do good, the fear of the Lord is strong, and great and glorious. 
 
 **[7:6]** Wherefore, fear God and thou shalt live: and whosoever shall fear him, and keep his commandments, their life is with the Lord. But they who keep them not, neither is there life in them.
+
 
 **[8:1]** I have told thee, said he, that there are two kinds of creatures of the Lord, and that there is a two-fold abstinence. From some things therefore thou must abstain, and from others not. 
 
@@ -222,7 +225,7 @@
 
 **[8:5]** But hear, said he, what follows of these kind of things: for indeed many more there are from which the servant of God must abstain. From theft, and cheating; from false witness, from covetousness, from boasting, and all other things of the like nature. 
 
-**[8:6]** Do these things seem to thee to be evil or not? Indeed they are very evil to the servants of God, Wherefore the servant of God must abstain from all these works. 
+**[8:6]** Do these things seem to thee to be evil or not? Indeed they are very evil to the servants of God, wherefore the servant of God must abstain from all these works. 
 
 **[8:7]** Keep thyself therefore from them, that thou mayest live unto God, and be written among those that abstain from them. And thus have I shown thee what things thou must avoid: now learn from what thou must not abstain. 
 
@@ -236,9 +239,10 @@
 
 **[8:12]** Do these things seem to thee to be good or not? And I said, What can be better than these words? Live then, said he, in these commandments, and do not depart from them. For if thou shalt keep all these commandments, thou shalt live unto God. And all they that shall keep these commandments shall live unto God.
 
-**[9:1]** Again he said unto me; remove from thee all doubting; and question nothing at all when thou askest any thing of the Lord; saying within thyself, how shall I be able to ask any thing of the Lord and receive it, seeing I have so greatly sinned against him? 
 
-**[9:2]** Do not think thus, but turn unto the Lord with all thy heart, and ask of him without doubting, and thou shalt know the mercy of the Lord; bow that he will not forsake thee, but will fulfil the request of thy soul. 
+**[9:1]** Again he said unto me; remove from thee all doubting; and question nothing at all when thou askest any thing of the Lord; saying within thyself, How shall I be able to ask any thing of the Lord and receive it, seeing I have so greatly sinned against him? 
+
+**[9:2]** Do not think thus, but turn unto the Lord with all thy heart, and ask of him without doubting, and thou shalt know the mercy of the Lord; how that he will not forsake thee, but will fulfil the request of thy soul. 
 
 **[9:3]** For God is not as men, mindful of the injuries he has received; but he forgets injuries, and has compassion upon his creature. 
 
@@ -252,9 +256,12 @@
 
 **[9:8]** Consider therefore this doubting how cruel and pernicious it is; and how it utterly roots out many from the faith, who were very faithful and firm. For this doubting is the daughter of the Devil, and deals very wickedly with the servants of God. 
 
-**[9:9]** Despise it therefore, and thou shalt rule over it on every occasion. Put on a firm and powerful faith: for faith promises all things and perfects all things. But doubting will not believe that it shall obtain any thing by all that it can do. 10. Thou seest therefore, says he, how faith cometh from above from God; and hath great power. But doubting is an earthly spirit, and proceedeth from the Devil, and has no strength. 
+**[9:9]** Despise it therefore, and thou shalt rule over it on every occasion. Put on a firm and powerful faith: for faith promises all things and perfects all things. But doubting will not believe that it shall obtain any thing by all that it can do. 
+
+**[9*10]**. Thou seest therefore, says he, how faith cometh from above from God; and hath great power. But doubting is an earthly spirit, and proceedeth from the Devil, and has no strength. 
 
 **[9:11]** Do thou therefore keep the virtue of faith, and depart from doubting, in which is no virtue, and thou shalt live unto God. And all shall live unto God, as many as do these things.
+
 
 **[10:1]** Put all sadness far from thee; for it is the sister of doubting and of anger. How, sir, said I is it the sister of these? For sadness, and anger, and doubting, seem to me to be very different from one another. 
 
@@ -299,6 +306,7 @@
 **[10:22]** When therefore a man's prayer shall be accompanied with sadness, it will not suffer his requests to ascend pure to the altar of God. For as wine when it is mingled with vinegar, has not the sweetness it had before; so sadness being mixed with the Holy Spirit, suffers not a man's prayer to be the same as it would be otherwise. 
 
 **[10:23]** Wherefore cleanse thyself from sadness, which is evil, and thou shalt live unto God. And all others shall live unto God, as many as shall lay aside sadness, and put on cheerfulness.
+
 
 **[11:1]** He showed me certain men sitting upon benches, and one sitting in a chair: and he said unto me; Seest thou those who sit upon the benches? Sir, said I, I see them. He answered, They are the faithful; and he who sits in the chair is an earthly spirit. 
 
