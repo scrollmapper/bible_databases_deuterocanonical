@@ -1120,25 +1120,25 @@
 
 **[19:31]** And Rebecca loved Jacob, with all her heart and with all her soul, very much more than Esau; but Isaac loved Esau much more than Jacob.
 
-**[20:1]** And in the forty-second jubilee, in the first year of the seventh week, Abraham called Ishmael, [2052 (2045?) A.M.] and his twelve sons, and Isaac and his two sons, and the six sons of Keturah, and their sons.
+**[20:1]** And in the forty-second jubilee, in the first year of the seventh week, Abraham called Ishmael, and his twelve sons, and Isaac and his two sons, and the six sons of Keturah, and their sons.
 
 **[20:2]** And he commanded them that they should observe the way of the Lord; that they should work righteousness, and love each his neighbour, and act on this manner amongst all men; that they should each so walk with regard to them as to do judgment and righteousness on the earth.
 
-**[20:3]** That they should circumcise their sons, according to the covenant which He had made with them, and not deviate to the right hand or the left of all the paths which the Lord had commanded us; and that we should keep ourselves from all fornication and uncleanness, [and renounce from amongst us all fornication and uncleanness].
+**[20:3]** That they should circumcise their sons, according to the covenant which He had made with them, and not deviate to the right hand or the left of all the paths which the Lord had commanded us; and that we should keep ourselves from all fornication and uncleanness, and renounce from amongst us all fornication and uncleanness.
 
 **[20:4]** And if any woman or maid commit fornication amongst you, burn her with fire and let them not commit fornication with her after their eyes and their heart; and let them not take to themselves wives from the daughters of Canaan; for the seed of Canaan will be rooted out of the land.
 
 **[20:5]** And he told them of the judgment of the giants, and the judgment of the Sodomites, how they had been judged on account of their wickedness, and had died on account of their fornication, and uncleanness, and mutual corruption through fornication.
 
-**[20:6]** 'And guard yourselves from all fornication and uncleanness, And from all pollution of sin, Lest ye make our name a curse, And your whole life a hissing, And all your sons to be destroyed by the sword, And ye become accursed like Sodom, And all your remnant as the sons of Gomorrah.
+**[20:6]** 'And guard yourselves from all fornication and uncleanness, and from all pollution of sin, lest ye make our name a curse, and your whole life a hissing, and all your sons to be destroyed by the sword, and ye become accursed like Sodom, and all your remnant as the sons of Gomorrah.
 
-**[20:7]** I implore you, my sons, love the God of heaven And cleave ye to all His commandments. And walk not after their idols, and after their uncleannesses,
+**[20:7]** I implore you, my sons, love the God of heaven and cleave ye to all His commandments. And walk not after their idols, and after their uncleannesses,
 
-**[20:8]** And make not for yourselves molten or graven gods; For they are vanity, And there is no spirit in them; For they are work of (men's) hands, And all who trust in them, trust in nothing.
+**[20:8]** And make not for yourselves molten or graven gods; For they are vanity, and there is no spirit in them; for they are work of (men's) hands, and all who trust in them, trust in nothing.
 
-**[20:9]** Serve them not, nor worship them, But serve ye the most high God, and worship Him continually: And hope for His countenance always, And work uprightness and righteousness before Him, That He may have pleasure in you and grant you His mercy, And send rain upon you morning and evening, And bless all your works which ye have wrought upon the earth, And bless thy bread and thy water, And bless the fruit of thy womb and the fruit of thy land, And the herds of thy cattle, and the flocks of thy sheep.
+**[20:9]** Serve them not, nor worship them, but serve ye the most high God, and worship Him continually: And hope for His countenance always, and work uprightness and righteousness before Him, that He may have pleasure in you and grant you His mercy, and send rain upon you morning and evening, and bless all your works which ye have wrought upon the earth, and bless thy bread and thy water, and bless the fruit of thy womb and the fruit of thy land, and the herds of thy cattle, and the flocks of thy sheep.
 
-**[20:10]** And ye will be for a blessing on the earth, And all nations of the earth will desire you, And bless your sons in my name, That they may be blessed as I am.
+**[20:10]** And ye will be for a blessing on the earth, and all nations of the earth will desire you, and bless your sons in my name, that they may be blessed as I am.
 
 **[20:11]** And he gave to Ishmael and to his sons, and to the sons of Keturah, gifts, and sent them away from Isaac his son, and he gave everything to Isaac his son.
 
@@ -1146,11 +1146,12 @@
 
 **[20:13]** And these mingled with each other, and their name was called Arabs, and Ishmaelites.
 
-**[21:1]** And in the sixth year of the seventh week of this jubilee Abraham called Isaac his son, and [2057 (2050?) A.M.] commanded him: saying, 'I am become old, and know not the day of my death, and am full of my days.
+
+**[21:1]** And in the sixth year of the seventh week of this jubilee Abraham called Isaac his son, and commanded him: saying, 'I am become old, and know not the day of my death, and am full of my days.
 
 **[21:2]** And behold, I am one hundred and seventy-five years old, and throughout all the days of my life I have remembered the Lord, and sought with all my heart to do His will, and to walk uprightly in all His ways.
 
-**[21:3]** My soul has hated idols, <and I have despised those that served them, and I have given my heart and spirit> that I might observe to do the will of Him who created me.
+**[21:3]** My soul has hated idols, and I have despised those that served them, and I have given my heart and spirit that I might observe to do the will of Him who created me.
 
 **[21:4]** For He is the living God, and He is holy and faithful, and He is righteous beyond all, and there is with Him no accepting of (men's) persons and no accepting of gifts; for God is righteous, and executeth judgment on all those who transgress His commandments and despise His covenant.
 
@@ -1162,15 +1163,15 @@
 
 **[21:8]** And thou wilt offer the fat of the sacrifice of thank offerings on the fire which is upon the altar, and the fat which is on the belly, and all the fat on the inwards and the two kidneys, and all the fat that is upon them, and upon the loins and liver thou shalt remove, together with the kidneys.
 
-**[21:9]** And offer all these for a sweet savour acceptable before the Lord, with its meat-offering and with its drink- offering, for a sweet savour, the bread of the offering unto the Lord.
+**[21:9]** And offer all these for a sweet savour acceptable before the Lord, with its meat-offering and with its drink-offering, for a sweet savour, the bread of the offering unto the Lord.
 
-**[21:10]** And eat its meat on that day and on the second day, and let not the sun on the second day go down upon it till it is eaten, and let nothing be left over for the third day; for it is not acceptable [for it is not approved] and let it no longer be eaten, and all who eat thereof will bring sin upon themselves; for thus I have found it written in the books of my forefathers, and in the words of Enoch, and in the words of Noah.
+**[21:10]** And eat its meat on that day and on the second day, and let not the sun on the second day go down upon it till it is eaten, and let nothing be left over for the third day; for it is not acceptable for it is not approved and let it no longer be eaten, and all who eat thereof will bring sin upon themselves; for thus I have found it written in the books of my forefathers, and in the words of Enoch, and in the words of Noah.
 
 **[21:11]** And on all thy oblations thou shalt strew salt, and let not the salt of the covenant be lacking in all thy oblations before the Lord.
 
 **[21:12]** And as regards the wood of the sacrifices, beware lest thou bring (other) wood for the altar in addition to these: cypress, bay, almond, fir, pine, cedar, savin, fig, olive, myrrh, laurel, aspalathus.
 
-**[21:13]** And of these kinds of wood lay upon the altar under the sacrifice, such as have been tested as to their appearance, and do not lay (thereon) any split or dark wood, (but) hard and clean, without fault, a sound and new growth; and do not lay (thereon) old wood, [for its fragrance is gone] for there is no longer fragrance in it as before.
+**[21:13]** And of these kinds of wood lay upon the altar under the sacrifice, such as have been tested as to their appearance, and do not lay (thereon) any split or dark wood, (but) hard and clean, without fault, a sound and new growth; and do not lay (thereon) old wood, for its fragrance is gone for there is no longer fragrance in it as before.
 
 **[21:14]** Besides these kinds of wood there is none other that thou shalt place (on the altar), for the fragrance is dispersed, and the smell of its fragrance goes not up to heaven.
 
@@ -1186,17 +1187,18 @@
 
 **[21:20]** And take no present or gift for the blood of man: blood for blood, that thou mayest be accepted before the Lord, the Most High God; for He is the defence of the good: and that thou mayest be preserved from all evil, and that He may save thee from every kind of death.
 
-**[21:21]** I see, my son, That all the works of the children of men are sin and wickedness, And all their deeds are uncleanness and an abomination and a pollution, And there is no righteousness with them.
+**[21:21]** I see, my son, that all the works of the children of men are sin and wickedness, and all their deeds are uncleanness and an abomination and a pollution, and there is no righteousness with them.
 
-**[21:22]** Beware, lest thou shouldest walk in their ways And tread in their paths, And sin a sin unto death before the Most High God. Else He will [hide His face from thee And] give thee back into the hands of thy transgression, And root thee out of the land, and thy seed likewise from under heaven, And thy name and thy seed shall perish from the whole earth.
+**[21:22]** Beware, lest thou shouldest walk in their ways and tread in their paths, and sin a sin unto death before the Most High God. Else He will hide His face from thee and give thee back into the hands of thy transgression, and root thee out of the land, and thy seed likewise from under heaven, and thy name and thy seed shall perish from the whole earth.
 
-**[21:23]** Turn away from all their deeds and all their uncleanness, And observe the ordinance of the Most High God, And do His will and be upright in all things.
+**[21:23]** Turn away from all their deeds and all their uncleanness, and observe the ordinance of the Most High God, and do His will and be upright in all things.
 
-**[21:24]** And He will bless thee in all thy deeds, And will raise up from thee a plant of righteousness through all the earth, throughout all generations of the earth, And my name and thy name shall not be forgotten under heaven for ever.
+**[21:24]** And He will bless thee in all thy deeds, and will raise up from thee a plant of righteousness through all the earth, throughout all generations of the earth, and my name and thy name shall not be forgotten under heaven for ever.
 
-**[21:25]** Go, my son in peace. May the Most High God, my God and thy God, strengthen thee to do His will, And may He bless all thy seed and the residue of thy seed for the generations for ever, with all righteous blessings, That thou mayest be a blessing on all the earth.'
+**[21:25]** Go, my son in peace. May the Most High God, my God and thy God, strengthen thee to do His will, and may He bless all thy seed and the residue of thy seed for the generations for ever, with all righteous blessings, that thou mayest be a blessing on all the earth.'
 
 **[21:26]** And he went out from him rejoicing.
+
 
 **[22:1]** And it came to pass in the first week in the forty-fourth jubilee, in the second year, that is, the year in which Abraham died, that Isaac and Ishmael came from the Well of the Oath to celebrate the feast of weeks -that is, the feast of the first fruits of the harvest-to Abraham, their father, and Abraham rejoiced because his two sons had come.
 
