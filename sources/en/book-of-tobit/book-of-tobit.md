@@ -46,6 +46,7 @@
 
 **[1:22]** And Achiacharus intreating for me, I returned to Nineve. Now Achiacharus was cupbearer, and keeper of the signet, and steward, and overseer of the accounts: and Sarchedonus appointed him next unto him: and he was my brother’s son.
 
+
 **[2:1]** Now when I was come home again, and my wife Anna was restored unto me, with my son Tobias, in the feast of Pentecost, which is the holy feast of the seven weeks, there was a good dinner prepared me, in the which I sat down to eat.
 
 **[2:2]** And when I saw abundance of meat, I said to my son, Go and bring what poor man soever thou shalt find out of our brethren, who is mindful of the Lord; and, lo, I tarry for thee.
@@ -60,9 +61,9 @@
 
 **[2:7]** Therefore I wept: and after the going down of the sun I went and made a grave, and buried him.
 
-**[2:8]** But my neighbours mocked me, and said, This man is not yet afraid to be put to death for this matter: who fled away; and yet, lo, he burieth the dead again.
+**[2:8]** But my neighbours mocked me, and said, This man is not yet afraid to be put to death for this matter, who fled away; and yet, lo, he burieth the dead again.
 
-**[2:9]** The same night also I returned from the burial, and slept by the wall of my courtyard, being polluted and my face was uncovered:
+**[2:9]** The same night also I returned from the burial, and slept by the wall of my courtyard, being polluted, and my face was uncovered:
 
 **[2:10]** And I knew not that there were sparrows in the wall, and mine eyes being open, the sparrows muted warm dung into mine eyes, and a whiteness came in mine eyes: and I went to the physicians, but they helped me not: moreover Achiacharus did nourish me, until I went into Elymais.
 
@@ -73,6 +74,7 @@
 **[2:13]** And when it was in my house, and began to cry, I said unto her, From whence is this kid? is it not stolen? render it to the owners; for it is not lawful to eat any thing that is stolen.
 
 **[2:14]** But she replied upon me, It was given for a gift more than the wages. Howbeit I did not believe her, but bade her render it to the owners: and I was abashed at her. But she replied upon me, Where are thine alms and thy righteous deeds? behold, thou and all thy works are known.
+
 
 **[3:1]** Then I being grieved did weep, and in my sorrow prayed, saying,
 
@@ -107,6 +109,7 @@
 **[3:16]** So the prayers of them both were heard before the majesty of the great God.
 
 **[3:17]** And Raphael was sent to heal them both, that is, to scale away the whiteness of Tobit’s eyes, and to give Sara the daughter of Raguel for a wife to Tobias the son of Tobit; and to bind Asmodeus the evil spirit; because she belonged to Tobias by right of inheritance. The selfsame time came Tobit home, and entered into his house, and Sara the daughter of Raguel came down from her upper chamber.
+
 
 **[4:1]** In that day Tobit remembered the money which he had committed to Gabael in Rages of Media,
 
@@ -149,6 +152,7 @@
 **[4:20]** And now I signify this to they that I committed ten talents to Gabael the son of Gabrias at Rages in Media.
 
 **[4:21]** And fear not, my son, that we are made poor: for thou hast much wealth, if thou fear God, and depart from all sin, and do that which is pleasing in his sight.
+
 
 **[5:1]** Tobias then answered and said, Father, I will do all things which thou hast commanded me:
 
