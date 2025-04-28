@@ -1558,17 +1558,18 @@
 
 **[27:27]** And Jacob vowed a vow unto the Lord, saying: 'If the Lord will be with me, and will keep me in this way that I go, and give me bread to eat and raiment to put on, so that I come again to my father's house in peace, then shall the Lord be my God, and this stone which I have set up as a pillar for a sign in this place, shall be the Lord's house, and of all that thou givest me, I shall give the tenth to thee, my God.'
 
+
 **[28:1]** And he went on his journey, and came to the land of the east, to Laban, the brother of Rebecca, and he was with him, and served him for Rachel his daughter one week.
 
-**[28:2]** And in the first year of the third week [2122 A.M.] he said unto him: 'Give me my wife, for whom I have served thee seven years '; and Laban said unto Jacob: 'I will give thee thy wife.'
+**[28:2]** And in the first year of the third week he said unto him: 'Give me my wife, for whom I have served thee seven years', and Laban said unto Jacob: 'I will give thee thy wife.'
 
-**[28:3]** And Laban made a feast, and took Leah his elder daughter, and gave (her) to Jacob as a wife, and gave her Zilpah his handmaid for an hand- maid; and Jacob did not know, for he thought that she was Rachel.
+**[28:3]** And Laban made a feast, and took Leah his elder daughter, and gave (her) to Jacob as a wife, and gave her Zilpah his handmaid for an handmaid; and Jacob did not know, for he thought that she was Rachel.
 
 **[28:4]** And he went in unto her, and behold, she was Leah; and Jacob was angry with Laban, and said unto him: 'Why hast thou dealt thus with me? Did not I serve thee for Rachel and not for Leah? Why hast thou wronged me?
 
 **[28:5]** Take thy daughter, and I will go; for thou hast done evil to me.' For Jacob loved Rachel more than Leah; for Leah's eyes were weak, but her form was very handsome; but Rachel had beautiful eyes and a beautiful and very handsome form.
 
-**[28:6]** And Laban said to Jacob: 'It is not so done in our country, to give the younger before the elder.' And it is not right to do this; for thus it is ordained and written in the heavenly tablets, that no one should give his younger daughter before the elder; but the elder, one gives first and after her the younger -and the man who does so, they set down guilt against him in heaven, and none is righteous that does this thing, for this deed is evil before the Lord.
+**[28:6]** And Laban said to Jacob: 'It is not so done in our country, to give the younger before the elder.' And it is not right to do this; for thus it is ordained and written in the heavenly tablets, that no one should give his younger daughter before the elder; but the elder, one gives first and after her the younger - and the man who does so, they set down guilt against him in heaven, and none is righteous that does this thing, for this deed is evil before the Lord.
 
 **[28:7]** And command thou the children of Israel that they do not this thing; let them neither take nor give the younger before they have given the elder, for it is very wicked.
 
@@ -1578,33 +1579,33 @@
 
 **[28:10]** And he served yet other seven years for Rachel, for Leah had been given to him for nothing.
 
-**[28:11]** And the Lord opened the womb of Leah, and she conceived and bare Jacob a son, and he called his name Reuben, on the fourteenth day of the ninth month, in the first year of the third week. [2122 A.M.]
+**[28:11]** And the Lord opened the womb of Leah, and she conceived and bare Jacob a son, and he called his name Reuben, on the fourteenth day of the ninth month, in the first year of the third week.
 
 **[28:12]** But the womb of Rachel was closed, for the Lord saw that Leah was hated and Rachel loved.
 
-**[28:13]** And again Jacob went in unto Leah, and she conceived, and bare Jacob a second son, and he called his name Simeon, on the twenty-first of the tenth month, and in the third year of this week. [2124 A.M.]
+**[28:13]** And again Jacob went in unto Leah, and she conceived, and bare Jacob a second son, and he called his name Simeon, on the twenty-first of the tenth month, and in the third year of this week.
 
-**[28:14]** And again Jacob went in unto Leah, and she conceived, and bare him a third son, and he called his name Levi, in the new moon of the first month in the sixth year of this week. [2127 A.M.]
+**[28:14]** And again Jacob went in unto Leah, and she conceived, and bare him a third son, and he called his name Levi, in the new moon of the first month in the sixth year of this week.
 
-**[28:15]** And again Jacob went in unto her, and she conceived, and bare him a fourth son, and he called his name Judah, on the fifteenth of the third month, in the first year of the fourth week. [2129 A.M.]
+**[28:15]** And again Jacob went in unto her, and she conceived, and bare him a fourth son, and he called his name Judah, on the fifteenth of the third month, in the first year of the fourth week. 
 
-**[28:16]** And on account of all this Rachel envied Leah, for she did not bear, and she said to Jacob: 'Give me children'; and Jacob said: 'Have I withheld from thee the fruits of thy womb? Have I forsaken thee?'
+**[28:16]** And on account of all this Rachel envied Leah, for she did not bear, and she said to Jacob: 'Give me children', and Jacob said: 'Have I withheld from thee the fruits of thy womb? Have I forsaken thee?'
 
 **[28:17]** And when Rachel saw that Leah had borne four sons to Jacob, Reuben and Simeon and Levi and Judah, she said unto him: 'Go in unto Bilhah my handmaid, and she will conceive, and bear a son unto me.' (And she gave (him) Bilhah her handmaid to wife).
 
-**[28:18]** And he went in unto her, and she conceived, and bare him a son, and he called his name Dan, on the ninth of the sixth month, in the sixth year of the third week. [2127 A.M.]
+**[28:18]** And he went in unto her, and she conceived, and bare him a son, and he called his name Dan, on the ninth of the sixth month, in the sixth year of the third week.
 
-**[28:19]** And Jacob went in again unto Bilhah a second time, and she conceived, and bare Jacob another son, and Rachel called his name Napthali, on the fifth of the seventh month, in the second year of the fourth week. [2130 A.M.]
+**[28:19]** And Jacob went in again unto Bilhah a second time, and she conceived, and bare Jacob another son, and Rachel called his name Napthali, on the fifth of the seventh month, in the second year of the fourth week. 
 
-**[28:20]** And when Leah saw that she had become sterile and did not bear, she envied Rachel, and she also gave her handmaid Zilpah to Jacob to wife, and she conceived, and bare a son, and Leah called his name Gad, on the twelfth of the eighth month, in the third year of the fourth week. [2131 A.M.]
+**[28:20]** And when Leah saw that she had become sterile and did not bear, she envied Rachel, and she also gave her handmaid Zilpah to Jacob to wife, and she conceived, and bare a son, and Leah called his name Gad, on the twelfth of the eighth month, in the third year of the fourth week.
 
-**[28:21]** And he went in again unto her, and she conceived, and bare him a second son, and Leah called his name Asher, on the second of the eleventh month, in the fifth year of the fourth week. [2133 A.M.]
+**[28:21]** And he went in again unto her, and she conceived, and bare him a second son, and Leah called his name Asher, on the second of the eleventh month, in the fifth year of the fourth week.
 
-**[28:22]** And Jacob went in unto Leah, and she conceived, and bare a son, and she called his name Issachar, on the fourth of the fifth month, in the fourth year of the fourth week,[2132 A.M.] and she gave him to a nurse.
+**[28:22]** And Jacob went in unto Leah, and she conceived, and bare a son, and she called his name Issachar, on the fourth of the fifth month, in the fourth year of the fourth week, and she gave him to a nurse.
 
-**[28:23]** And Jacob went in again unto her, and she conceived, and bare two (children), a son and a daughter, and she called the name of the son Zabulon, and the name of the daughter Dinah, in the seventh of the seventh month, in the sixth year of the fourth week. [2134 A.M.]
+**[28:23]** And Jacob went in again unto her, and she conceived, and bare two (children), a son and a daughter, and she called the name of the son Zabulon, and the name of the daughter Dinah, in the seventh of the seventh month, in the sixth year of the fourth week.
 
-**[28:24]** And the Lord was gracious to Rachel, and opened her womb, and she conceived, and bare a son, and she called his name Joseph, on the new moon of the fourth month, in the sixth year in this fourth week. [2134 A.M.]
+**[28:24]** And the Lord was gracious to Rachel, and opened her womb, and she conceived, and bare a son, and she called his name Joseph, on the new moon of the fourth month, in the sixth year in this fourth week.
 
 **[28:25]** And in the days when Joseph was born, Jacob said to Laban: 'Give me my wives and sons, and let me go to my father Isaac, and let me make me an house; for I have completed the years in which I have served thee for thy two daughters, and I will go to the house of my father.'
 
@@ -1618,6 +1619,7 @@
 
 **[28:30]** And Laban and his sons envied Jacob, and Laban took back his sheep from him, and he observed him with evil intent.
 
+
 **[29:1]** And it came to pass when Rachel had borne Joseph, that Laban went to shear his sheep; for they were distant from him a three days' journey.
 
 **[29:2]** And Jacob saw that Laban was going to shear his sheep, and Jacob called Leah and Rachel, and spake kindly unto them that they should come with him to the land of Canaan.
@@ -1626,7 +1628,7 @@
 
 **[29:4]** And Jacob blessed the God of Isaac his father, and the God of Abraham his father's father, and he arose and mounted his wives and his children, and took all his possessions and crossed the river, and came to the land of Gilead, and Jacob hid his intention from Laban and told him not.
 
-**[29:5]** And in the seventh year of the fourth week Jacob turned (his face) toward Gilead in the first month, on the twenty-first thereof. [2135 A.M.] And Laban pursued after him and overtook Jacob in the mountain of Gilead in the third month, on the thirteenth thereof.
+**[29:5]** And in the seventh year of the fourth week Jacob turned (his face) toward Gilead in the first month, on the twenty-first thereof. And Laban pursued after him and overtook Jacob in the mountain of Gilead in the third month, on the thirteenth thereof.
 
 **[29:6]** And the Lord did not suffer him to injure Jacob; for he appeared to him in a dream by night. And Laban spake to Jacob.
 
@@ -1644,7 +1646,7 @@
 
 **[29:13]** And he passed over the Jabbok in the ninth month, on the eleventh thereof. And on that day Esau, his brother, came to him, and he was reconciled to him, and departed from him unto the land of Seir, but Jacob dwelt in tents.
 
-**[29:14]** And in the first year of the fifth week in this jubilee [2136 A.M.] he crossed the Jordan, and dwelt beyond the Jordan, and he pastured his sheep from the sea of the heap unto Bethshan, and unto Dothan and unto the forest of Akrabbim.
+**[29:14]** And in the first year of the fifth week in this jubilee he crossed the Jordan, and dwelt beyond the Jordan, and he pastured his sheep from the sea of the heap unto Bethshan, and unto Dothan and unto the forest of Akrabbim.
 
 **[29:15]** And he sent to his father Isaac of all his substance, clothing, and food, and meat, and drink, and milk, and butter, and cheese, and some dates of the valley.
 
@@ -1652,11 +1654,12 @@
 
 **[29:17]** For Isaac had returned from the Well of the Oath and gone up to the tower of his father Abraham, and he dwelt there apart from his son Esau.
 
-**[29:18]** For in the days when Jacob went to Mesopotamia, Esau took to himself a wife Mahalath, the daughter of Ishmael, and he gathered together all the flocks of his father and his wives, and went Up and dwelt on Mount Seir, and left Isaac his father at the Well of the Oath alone.
+**[29:18]** For in the days when Jacob went to Mesopotamia, Esau took to himself a wife Mahalath, the daughter of Ishmael, and he gathered together all the flocks of his father and his wives, and went up and dwelt on Mount Seir, and left Isaac his father at the Well of the Oath alone.
 
 **[29:19]** And Isaac went up from the Well of the Oath and dwelt in the tower of Abraham his father on the mountains of Hebron,
 
 **[29:20]** And thither Jacob sent all that he did send to his father and his mother from time to time, all they needed, and they blessed Jacob with all their heart and with all their soul.
+
 
 **[30:1]** And in the first year of the sixth week [2143 A.M.] he went up to Salem, to the east of Shechem, in peace, in the fourth month.
 
