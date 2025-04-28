@@ -44,7 +44,7 @@
 
 **[1:21]** Wherefore it is the last in order of creation, and the first in that of youth, because it is filled with ignorance, and leadeth the youth as a blind man to a pit, and as a beast to a precipice.
 
-**[1:22]** Besides all these there is an eighth spirit of sleep, with which is brought about the trance of nature and the of death.
+**[1:22]** Besides all these there is an eighth spirit of sleep, with which is brought about the trance of nature and the image of death.
 
 **[1:23]** With these spirits are mingled the spirits of error.
 
@@ -90,7 +90,7 @@
 
 
 
-**[2:1]** PAY no heed, therefore, my children, to the beauty of women, nor set your mind--on their affairs; but walk in singleness of heart in the fear of the Lord, and expend labour on good works, and on study and on your flocks, until the Lord give you a wife, whom He will, that ye suffer not as I did.
+**[2:1]** PAY no heed, therefore, my children, to the beauty of women, nor set your mind on their affairs; but walk in singleness of heart in the fear of the Lord, and expend labour on good works, and on study and on your flocks, until the Lord give you a wife, whom He will, that ye suffer not as I did.
 
 **[2:2]** For until my father's death I had not boldness to look in his face, or to speak to any of my brethren, because of the reproach.
 
@@ -122,9 +122,9 @@
 
 **[2:16]** For a woman cannot force a man openly, but by a harlot's bearing she beguiles him.
 
-**[2:17]** Flee, therefore, fornication, my children, and command your wives and your daughters, that they adorn not their heads and faces to deceive the mind: because every woman who useth these wiles bath been reserved for eternal punishment.
+**[2:17]** Flee, therefore, fornication, my children, and command your wives and your daughters, that they adorn not their heads and faces to deceive the mind: because every woman who useth these wiles hath been reserved for eternal punishment.
 
-**[2:18]** For thus they allured the Watchers 1 who were before the flood; for as these continually beheld them, they lusted after them, and they conceived the act in their mind; for they changed themselves into the shape of men, and appeared to them when they were with their husbands.
+**[2:18]** For thus they allured the Watchers who were before the flood; for as these continually beheld them, they lusted after them, and they conceived the act in their mind; for they changed themselves into the shape of men, and appeared to them when they were with their husbands.
 
 **[2:19]** And the women lusting in their minds after their forms, gave birth to giants, for the Watchers appeared to them as reaching even unto heaven.
 
