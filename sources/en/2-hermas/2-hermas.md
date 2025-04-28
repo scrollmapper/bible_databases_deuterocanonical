@@ -300,6 +300,7 @@
 
 **[10:23]** Wherefore cleanse thyself from sadness, which is evil, and thou shalt live unto God. And all others shall live unto God, as many as shall lay aside sadness, and put on cheerfulness.
 
+
 **[11:1]** He showed me certain men sitting upon benches, and one sitting in a chair: and he said unto me; Seest thou those who sit upon the benches? Sir, said I, I see them. He answered, They are the faithful; and he who sits in the chair is an earthly spirit. 
 
 **[11:2]** For he cometh not into the assembly of the faithful, but avoids it. But he joins himself to the doubtful and empty; and prophesies to them in corners and hidden places; and pleases them by speaking according to all the desires of their hearts. 
@@ -322,7 +323,7 @@
 
 **[11:11]** Should the Spirit of God receive reward, and divine? It doth not become a prophet of God so to do. 
 
-**[11:12]** Thus you seethe life of each of these kind of prophets. Wherefore prove that man by his life and works, who says that he hath the Holy Spirit. And believe the Spirit which comes from God, and has power as such. But believe not the earthly and empty spirit, which is from the devil, in whom there is no faith nor virtue. 
+**[11:12]** Thus you see the life of each of these kind of prophets. Wherefore prove that man by his life and works, who says that he hath the Holy Spirit. And believe the Spirit which comes from God, and has power as such. But believe not the earthly and empty spirit, which is from the devil, in whom there is no faith nor virtue. 
 
 **[11:13]** Hear now the similitude which I am about to speak unto thee. Take a stone, and throw it up towards heaven; or take a spout of water, and mount it up thitherward; and see if thou canst reach unto heaven. 
 
@@ -333,6 +334,7 @@
 **[11:16]** And again, consider, the droppings of a house; how the little drops falling upon the earth, work a hollow in the stones. 
 
 **[11:17]** So in like manner the least things which come from above, and fall upon the earth, have great force. Wherefore join thyself to this spirit, which has the power; and depart from the other which is empty.
+
 
 **[12:1]** Again he said unto me; remove from thee all evil desires, and put on good and holy desires. For having put on a good desire, thou shalt hate that which is evil, and bridle it as thou wilt. But an evil desire is dreadful, and hard to be tamed. 
 
@@ -360,7 +362,7 @@
 
 **[12:13]** And fulfil diligently this ministry which I commit to thee, and thou shalt receive great advantage by it, and find favour with all such as shall repent and believe thy words. For I am with thee, and will force them to believe. 
 
-**[12:14]** And I said unto him, Sir, these commands are great and excellent, and able to cheer the heart of that man that shall be able to keep them. But, Sir, I cannot tell, whether they can be observed by any man? 
+**[12:14]** And I said unto him, Sir, these commands are great and excellent, and able to cheer the heart of that man that shall be able to keep them. But, Sir, I cannot tell, whether they can be observed by any man.
 
 **[12:15]** He answered, Thou shalt easily keep these commands, and they shall not be hard: howbeit, if thou shalt suffer it once to enter into thine heart that they cannot be kept by any one, thou shalt not fulfil them. 
 
@@ -394,7 +396,7 @@
 
 **[12:30]** But I, the messenger of repentance, say unto you, fear not the devil, for I am sent unto you, that I may be with you, as many as shall repent with your whole heart, and that I may confirm you in the faith. 
 
-**[12:31]** Believe therefore, ye who by reason of your transgressions have forgot God. and your own salvation; and adding to your sins have made your life very heavy. 
+**[12:31]** Believe therefore, ye who by reason of your transgressions have forgot God and your own salvation; and adding to your sins have made your life very heavy. 
 
 **[12:32]** That if ye shall turn to the Lord with your whole hearts, and shall serve him according to his will; he will heal you of your former sins, and ye shall have dominion over all the works of the devil. 
 
