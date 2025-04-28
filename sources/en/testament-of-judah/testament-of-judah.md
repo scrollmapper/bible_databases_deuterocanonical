@@ -28,7 +28,7 @@
 
 **[1:13]** I outran the wild boar, and seizing it as I ran, I tore it in sunder.
 
-**[1:14]** A leopard in Hebron leaped upon my dog, and I caught it by the tail, and hurled it on the rocks, and it was broken in twain
+**[1:14]** A leopard in Hebron leaped upon my dog, and I caught it by the tail, and hurled it on the rocks, and it was broken in twain.
 
 **[1:15]** I found a wild ox feeding in the fields, and seizing it by the horns, and whirling it round and stunning it, I cast it from me and slew it.
 
@@ -68,11 +68,11 @@
 
 **[1:33]** And we took it with the edge of the sword.
 
-**[1:34]** And as for those who had taken refuge in the tower, we set fire to the tower and took both it and, them.
+**[1:34]** And as for those who had taken refuge in the tower, we set fire to the tower and took both it and them.
 
 **[1:35]** And as we were departing the men of Tappuah seized our spoil, and seeing this we fought with them.
 
-**[1:36]** And we slew them. all and recovered our spoil.
+**[1:36]** And we slew them all and recovered our spoil.
 
 **[1:37]** And when I was at the waters of Kozeba, the men of Jobel came against us to battle.
 
@@ -84,7 +84,7 @@
 
 **[1:41]** And I and Simeon had ourselves behind the town, and seized upon the heights, and destroyed this city also.
 
-**[1:42]** And the next day it was told us that the king of the city of Gaash with. a mighty host was coming against us.
+**[1:42]** And the next day it was told us that the king of the city of Gaash with a mighty host was coming against us.
 
 **[1:43]** I, therefore, and Dan feigned ourselves to be Amorites, and as allies went into their city.
 
@@ -96,7 +96,7 @@
 
 **[1:47]** And had not Dan my brother aided me, they would have slain me.
 
-**[1:48]** We came upon them, therefore, with wrath, and they all fled; and passing by another way, they fought my father, and he made peace with them.
+**[1:48]** We came upon them, therefore, with wrath, and they all fled; and passing by another way, they besought my father, and he made peace with them.
 
 **[1:49]** And we did to them no hurt, and they became tributary to us, and we restored to them their spoil.
 
@@ -266,7 +266,7 @@
 
 **[3:37]** Beware, therefore, my children, of fornication, and the love of money, and hearken to Judah your father.
 
-**[3:38]** For these things withdraw au from the law of God, and blind the inclination of the soul, and teach arrogance, and suffer not a man to have compassion upon his neighbour.
+**[3:38]** For these things withdraw from the law of God, and blind the inclination of the soul, and teach arrogance, and suffer not a man to have compassion upon his neighbour.
 
 **[3:39]** They rob his soul of all goodness, and oppress him with toils and troubles, and drive away sleep from him, and devour his flesh.
 
