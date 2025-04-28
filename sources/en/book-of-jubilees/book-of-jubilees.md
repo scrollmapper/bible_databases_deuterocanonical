@@ -640,7 +640,7 @@
 
 **[10:36]** And he called his dwelling-place, and the dwelling-place of his sons, Media, after the name of their father Madai.
 
-**[11:1]** And in the thirty-fifth jubilee, in the third week, in the first year [1681 A.M.] thereof, Reu took to himself a wife, and her name was 'Ôrâ, the daughter of 'Ûr, the son of Kesed, and she bare him a son, and he called his name Sêrôh, in the seventh year of this week in this jubilee. [1687 A.M.]
+**[11:1]** And in the thirty-fifth jubilee, in the third week, in the first year thereof, Reu took to himself a wife, and her name was 'Ôrâ, the daughter of 'Ûr, the son of Kesed, and she bare him a son, and he called his name Sêrôh, in the seventh year of this week in this jubilee.
 
 **[11:2]** And the sons of Noah began to war on each other, to take captive and to slay each other, and to shed the blood of men on the earth, and to eat blood, and to build strong cities, and walls, and towers, and individuals (began) to exalt themselves above the nation, and to found the beginnings of kingdoms, and to go to war people against people, and nation against nation, and city against city, and all (began) to do evil, and to acquire arms, and to teach their sons war, and they began to capture cities, and to sell male and female slaves.
 
@@ -650,13 +650,13 @@
 
 **[11:5]** For this reason he called the name of Sêrôh, Serug, for every one turned to do all manner of sin and transgression.
 
-**[11:6]** And he grew up, and dwelt in Ur of the Chaldees, near to the father of his wife's mother, and he worshipped idols, and he took to himself a wife in the thirty-sixth jubilee, in the fifth week, in the first year thereof, [1744 A.M.] and her name was Melka, the daughter of Kaber, the daughter of his father's brother.
+**[11:6]** And he grew up, and dwelt in Ur of the Chaldees, near to the father of his wife's mother, and he worshipped idols, and he took to himself a wife in the thirty-sixth jubilee, in the fifth week, in the first year thereof, and her name was Melka, the daughter of Kaber, the daughter of his father's brother.
 
 **[11:7]** And she bare him Nahor, in the first year of this week, and he grew and dwelt in Ur of the Chaldees, and his father taught him the researches of the Chaldees to divine and augur, according to the signs of heaven.
 
-**[11:8]** And in the thirty-seventh jubilee in the sixth week, in the first year thereof, [1800 A.M.] he took to himself a wife, and her name was 'Ijaska, the daughter of Nestag of the Chaldees.
+**[11:8]** And in the thirty-seventh jubilee in the sixth week, in the first year thereof, he took to himself a wife, and her name was 'Ijaska, the daughter of Nestag of the Chaldees.
 
-**[11:9]** And she bare him Terah in the seventh year of this week. [1806 A.M.]
+**[11:9]** And she bare him Terah in the seventh year of this week.
 
 **[11:10]** And the prince Mastêmâ sent ravens and birds to devour the seed which was sown in the land, in order to destroy the land, and rob the children of men of their labours. Before they could plough in the seed, the ravens picked (it) from the surface of the ground.
 
@@ -664,17 +664,17 @@
 
 **[11:12]** And the years began to be barren, owing to the birds, and they devoured all the fruit of the trees from the trees: it was only with great effort that they could save a little of all the fruit of the earth in their days.
 
-**[11:13]** And in this thirty-ninth jubilee, in the second week in the first year, [1870 A.M.] Terah took to himself a wife, and her name was 'Edna, the daughter of 'Abram, the daughter of his father's sister. And in the seventh year of this week [1876 A.M.] she bare him a son, and he called his name Abram, by the name of the father of his mother;
+**[11:13]** And in this thirty-ninth jubilee, in the second week in the first year, Terah took to himself a wife, and her name was 'Edna, the daughter of 'Abram, the daughter of his father's sister. And in the seventh year of this week she bare him a son, and he called his name Abram, by the name of the father of his mother;
 
 **[11:14]** for he had died before his daughter had conceived a son.
 
-**[11:15]** And the child began to understand the errors of the earth that all went astray after graven images and after uncleanness, and his father taught him writing, and he was two weeks of years old, [1890 A.M.] and he separated himself from his father, that he might not worship idols with him.
+**[11:15]** And the child began to understand the errors of the earth that all went astray after graven images and after uncleanness, and his father taught him writing, and he was two weeks of years old, and he separated himself from his father, that he might not worship idols with him.
 
 **[11:16]** And he began to pray to the Creator of all things that He might save him from the errors of the children of men, and that his portion should not fall into error after uncleanness and vileness.
 
 **[11:17]** And the seed time came for the sowing of seed upon the land, and they all went forth together to protect their seed against the ravens, and Abram went forth with those that went, and the child was a lad of fourteen years.
 
-**[11:18]** And a cloud of ravens came to devour the seed, and Abram ran to meet them before they settled on the ground, and cried to them before they settled on the ground to devour the seed, and said, ' Descend not: return to the place whence ye came,' and they proceeded to turn back.
+**[11:18]** And a cloud of ravens came to devour the seed, and Abram ran to meet them before they settled on the ground, and cried to them before they settled on the ground to devour the seed, and said, 'Descend not: return to the place whence ye came,' and they proceeded to turn back.
 
 **[11:19]** And he caused the clouds of ravens to turn back that day seventy times, and of all the ravens throughout all the land where Abram was there settled there not so much as one.
 
@@ -682,19 +682,20 @@
 
 **[11:21]** And there came to him this year all those that wished to sow, and he went with them until the time of sowing ceased: and they sowed their land, and that year they brought enough grain home and eat and were satisfied.
 
-**[11:22]** And in the first year of the fifth week [1891 A.M.] Abram taught those who made implements for oxen, the artificers in wood, and they made a vessel above the ground, facing the frame of the plough, in order to put the seed thereon, and the seed fell down therefrom upon the share of the plough, and was hidden in the earth, and they no longer feared the ravens.
+**[11:22]** And in the first year of the fifth week Abram taught those who made implements for oxen, the artificers in wood, and they made a vessel above the ground, facing the frame of the plough, in order to put the seed thereon, and the seed fell down therefrom upon the share of the plough, and was hidden in the earth, and they no longer feared the ravens.
 
 **[11:23]** And after this manner they made (vessels) above the ground on all the frames of the ploughs, and they sowed and tilled all the land, according as Abram commanded them, and they no longer feared the birds.
 
-**[12:1]** And it came to pass in the sixth week, in the seventh year thereof, [1904 A.M.] that Abram said to Terah his father, saying, 'Father!'
 
-**[12:2]** And he said, 'Behold, here am I, my son.' And he said, 'What help and profit have we from those idols which thou dost worship, And before which thou dost bow thyself?
+**[12:1]** And it came to pass in the sixth week, in the seventh year thereof, that Abram said to Terah his father, saying, 'Father!'
+
+**[12:2]** And he said, 'Behold, here am I, my son.' And he said, 'What help and profit have we from those idols which thou dost worship, and before which thou dost bow thyself?
 
 **[12:3]** For there is no spirit in them, For they are dumb forms, and a misleading of the heart. Worship them not:
 
-**[12:4]** Worship the God of heaven, Who causes the rain and the dew to descend on the earth And does everything upon the earth, And has created everything by His word, And all life is from before His face.
+**[12:4]** Worship the God of heaven, Who causes the rain and the dew to descend on the earth and does everything upon the earth, and has created everything by His word, and all life is from before His face.
 
-**[12:5]** Why do ye worship things that have no spirit in them? For they are the work of (men's) hands, And on your shoulders do ye bear them, And ye have no help from them, But they are a great cause of shame to those who make them, And a misleading of the heart to those who worship them: Worship them not.'
+**[12:5]** Why do ye worship things that have no spirit in them? For they are the work of (men's) hands, and on your shoulders do ye bear them, and ye have no help from them, but they are a great cause of shame to those who make them, and a misleading of the heart to those who worship them: Worship them not.'
 
 **[12:6]** And his father said unto him, 'I also know it, my son, but what shall I do with a people who have made me to serve before them?
 
@@ -702,13 +703,13 @@
 
 **[12:8]** Keep silent, my son, lest they slay thee.' And these words he spake to his two brothers, and they were angry with him and he kept silent.
 
-**[12:9]** And in the fortieth jubilee, in the second week, in the seventh year thereof, [1925 A.M.] Abram took to himself a wife, and her name was Sarai, the daughter of his father, and she became his wife.
+**[12:9]** And in the fortieth jubilee, in the second week, in the seventh year thereof, Abram took to himself a wife, and her name was Sarai, the daughter of his father, and she became his wife.
 
-**[12:10]** And Haran, his brother, took to himself a wife in the third year of the third week, [1928 A.M.] and she bare him a son in the seventh year of this week, [1932 A.M.] and he called his name Lot.
+**[12:10]** And Haran, his brother, took to himself a wife in the third year of the third week, and she bare him a son in the seventh year of this week, and he called his name Lot.
 
 **[12:11]** And Nahor, his brother, took to himself a wife.
 
-**[12:12]** And in the sixtieth year of the life of Abram, that is, in the fourth week, in the fourth year thereof, [1936 A.M.] Abram arose by night, and burned the house of the idols, and he burned all that was in the house and no man knew it.
+**[12:12]** And in the sixtieth year of the life of Abram, that is, in the fourth week, in the fourth year thereof, Abram arose by night, and burned the house of the idols, and he burned all that was in the house and no man knew it.
 
 **[12:13]** And they arose in the night and sought to save their gods from the midst of the fire.
 
@@ -716,21 +717,21 @@
 
 **[12:15]** And Terah went forth from Ur of the Chaldees, he and his sons, to go into the land of Lebanon and into the land of Canaan, and he dwelt in the land of Haran, and Abram dwelt with Terah his father in Haran two weeks of years.
 
-**[12:16]** And in the sixth week, in the fifth year thereof, [1951 A.M.] Abram sat up throughout the night on the new moon of the seventh month to observe the stars from the evening to the morning, in order to see what would be the character of the year with regard to the rains, and he was alone as he sat and observed.
+**[12:16]** And in the sixth week, in the fifth year thereof, Abram sat up throughout the night on the new moon of the seventh month to observe the stars from the evening to the morning, in order to see what would be the character of the year with regard to the rains, and he was alone as he sat and observed.
 
 **[12:17]** And a word came into his heart and he said: 'All the signs of the stars, and the signs of the moon and of the sun are all in the hand of the Lord. Why do I search (them) out?
 
-**[12:18]** If He desires, He causes it to rain, morning and evening; And if He desires, He withholds it, And all things are in his hand.'
+**[12:18]** If He desires, He causes it to rain, morning and evening; And if He desires, He withholds it, and all things are in his hand.'
 
-**[12:19]** And he prayed that night and said, 'My God, God Most High, Thou alone art my God, And Thee and Thy dominion have I chosen. And Thou hast created all things, And all things that are the work of thy hands.
+**[12:19]** And he prayed that night and said, 'My God, God Most High, Thou alone art my God, and Thee and Thy dominion have I chosen. And Thou hast created all things, and all things that are the work of thy hands.
 
-**[12:20]** Deliver me from the hands of evil spirits who have dominion over the thoughts of men's hearts, And let them not lead me astray from Thee, my God. And stablish Thou me and my seed for ever That we go not astray from henceforth and for evermore.'
+**[12:20]** Deliver me from the hands of evil spirits who have dominion over the thoughts of men's hearts, and let them not lead me astray from Thee, my God. And stablish Thou me and my seed for ever That we go not astray from henceforth and for evermore.'
 
 **[12:21]** And he said, 'Shall I return unto Ur of the Chaldees who seek my face that I may return to them, am I to remain here in this place? The right path before Thee prosper it in the hands of Thy servant that he may fulfil (it) and that I may not walk in the deceitfulness of my heart, O my God.'
 
 **[12:22]** And he made an end of speaking and praying, and behold the word of the Lord was sent to him through me, saying: 'Get thee up from thy country, and from thy kindred and from the house of thy father unto a land which I will show thee, and I shall make thee a great and numerous nation.
 
-**[12:23]** And I will bless thee And I will make thy name great, And thou shalt be blessed in the earth, And in Thee shall all families of the earth be blessed, And I will bless them that bless thee, And curse them that curse thee.
+**[12:23]** And I will bless thee and I will make thy name great, and thou shalt be blessed in the earth, and in Thee shall all families of the earth be blessed, and I will bless them that bless thee, and curse them that curse thee.
 
 **[12:24]** And I will be a God to thee and thy son, and to thy son's son, and to all thy seed: fear not, from henceforth and unto all generations of the earth I am thy God.'
 
@@ -740,13 +741,14 @@
 
 **[12:27]** And he took the books of his fathers, and these were written in Hebrew, and he transcribed them, and he began from henceforth to study them, and I made known to him that which he could not (understand), and he studied them during the six rainy months.
 
-**[12:28]** And it came to pass in the seventh year of the sixth week [1953 A.M.] that he spoke to his father and informed him, that he would leave Haran to go into the land of Canaan to see it and return to him.
+**[12:28]** And it came to pass in the seventh year of the sixth week that he spoke to his father and informed him, that he would leave Haran to go into the land of Canaan to see it and return to him.
 
-**[12:29]** And Terah his father said unto him; 'Go in peace: May the eternal God make thy path straight. And the Lord [(be) with thee, and] protect thee from all evil, And grant unto thee grace, mercy and favour before those who see thee, And may none of the children of men have power over thee to harm thee; Go in peace.
+**[12:29]** And Terah his father said unto him; 'Go in peace: May the eternal God make thy path straight. And the Lord (be) with thee, and protect thee from all evil, and grant unto thee grace, mercy and favour before those who see thee, and may none of the children of men have power over thee to harm thee; Go in peace.
 
 **[12:30]** And if thou seest a land pleasant to thy eyes to dwell in, then arise and take me to thee and take Lot with thee, the son of Haran thy brother as thine own son: the Lord be with thee.
 
 **[12:31]** And Nahor thy brother leave with me till thou returnest in peace, and we go with thee all together.'
+
 
 **[13:1]** And Abram journeyed from Haran, and he took Sarai, his wife, and Lot, his brother Haran's son, to the land of Canaan, and he came into Asshur, and proceeded to Shechem, and dwelt near a lofty oak.
 
@@ -758,11 +760,11 @@
 
 **[13:5]** And he removed from thence unto the mountain . . . Bethel on the west and Ai on the east, and pitched his tent there.
 
-**[13:6]** And he saw and behold, the land was very wide and good, and everything grew thereon -vines and figs and pomegranates, oaks and ilexes, and terebinths and oil trees, and cedars and cypresses and date trees, and all trees of the field, and there was water on the mountains.
+**[13:6]** And he saw and behold, the land was very wide and good, and everything grew thereon - vines and figs and pomegranates, oaks and ilexes, and terebinths and oil trees, and cedars and cypresses and date trees, and all trees of the field, and there was water on the mountains.
 
 **[13:7]** And he blessed the Lord who had led him out of Ur of the Chaldees, and had brought him to this land.
 
-**[13:8]** And it came to pass in the first year, in the seventh week, on the new moon of the first month, 1954 A.M.] that he built an altar on this mountain, and called on the name of the Lord: 'Thou, the eternal God, art my God.'
+**[13:8]** And it came to pass in the first year, in the seventh week, on the new moon of the first month, that he built an altar on this mountain, and called on the name of the Lord: 'Thou, the eternal God, art my God.'
 
 **[13:9]** And he offered on the altar a burnt sacrifice unto the Lord that He should be with him and not forsake him all the days of his life.
 
@@ -770,7 +772,7 @@
 
 **[13:11]** And Abram went into Egypt in the third year of the week, and he dwelt in Egypt five years before his wife was torn away from him.
 
-**[13:12]** Now Tanais in Egypt was at that time built- seven years after Hebron.
+**[13:12]** Now Tanais in Egypt was at that time built - seven years after Hebron.
 
 **[13:13]** And it came to pass when Pharaoh seized Sarai, the wife of Abram that the Lord plagued Pharaoh and his house with great plagues because of Sarai, Abram's wife.
 
@@ -778,9 +780,9 @@
 
 **[13:15]** And Pharaoh gave back Sarai, the wife of Abram, and he sent him out of the land of Egypt, and he journeyed to the place where he had pitched his tent at the beginning, to the place of the altar, with Ai on the east, and Bethel on the west, and he blessed the Lord his God who had brought him back in peace.
 
-**[13:16]** And it came to pass in the forty-first jubilee in the third year of the first week, [1963 A.M.] that he returned to this place and offered thereon a burnt sacrifice, and called on the name of the Lord, and said: 'Thou, the most high God, art my God for ever and ever.'
+**[13:16]** And it came to pass in the forty-first jubilee in the third year of the first week, that he returned to this place and offered thereon a burnt sacrifice, and called on the name of the Lord, and said: 'Thou, the most high God, art my God for ever and ever.'
 
-**[13:17]** And in the fourth year of this week [1964 A.M.] Lot parted from him, and Lot dwelt in Sodom, and the men of Sodom were sinners exceedingly.
+**[13:17]** And in the fourth year of this week Lot parted from him, and Lot dwelt in Sodom, and the men of Sodom were sinners exceedingly.
 
 **[13:18]** And it grieved him in his heart that his brother's son had parted from him; for he had no children.
 
@@ -804,7 +806,7 @@
 
 **[13:28]** And the king of Sodom came to him and bowed himself before him, and said: 'Our Lord Abram, give unto us the souls which thou hast rescued, but let the booty be thine.'
 
-**[13:29]** And Abram said unto him: 'I lift up my hands to the Most High God, that from a thread to a shoe-latchet I shall not take aught that is thine lest thou shouldst say, I have made Abram rich; save only what the young men have eaten, and the portion of the men who went with me -Aner, Eschol, and Mamre. These shall take their portion.'
+**[13:29]** And Abram said unto him: 'I lift up my hands to the Most High God, that from a thread to a shoe-latchet I shall not take aught that is thine lest thou shouldst say, I have made Abram rich; save only what the young men have eaten, and the portion of the men who went with me - Aner, Eschol, and Mamre. These shall take their portion.'
 
 **[14:1]** After these things, in the fourth year of this week, on the new moon of the third month, the word of the Lord came to Abram in a dream, saying: 'Fear not, Abram; I am thy defender, and thy reward will be exceeding great.'
 
