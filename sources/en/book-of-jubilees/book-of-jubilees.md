@@ -854,7 +854,7 @@
 
 **[14:24]** And he went in unto her, and she conceived and bare him a son, and he called his name Ishmael, in the fifth year of this week [1965 A.M.]; and this was the eighty-sixth year in the life of Abram.
 
-**[15:1]** And in the fifth year of the fourth week of this jubilee, [1979 A.M.] in the third month, in the middle of the month, Abram celebrated the feast of the first-fruits of the grain harvest.
+**[15:1]** And in the fifth year of the fourth week of this jubilee, in the third month, in the middle of the month, Abram celebrated the feast of the first-fruits of the grain harvest.
 
 **[15:2]** And he offered new offerings on the altar, the first-fruits of the produce, unto the Lord, an heifer and a goat and a sheep on the altar as a burnt sacrifice unto the Lord; their fruit offerings and their drink offerings he offered upon the altar with frankincense.
 
@@ -864,15 +864,15 @@
 
 **[15:5]** And Abram fell on his face, and God talked with him, and said:
 
-**[15:6]** 'Behold my ordinance is with thee, And thou shalt be the father of many nations.
+**[15:6]** 'Behold my ordinance is with thee, and thou shalt be the father of many nations.
 
-**[15:7]** Neither shall thy name any more be called Abram, But thy name from henceforth, even for ever, shall be Abraham. For the father of many nations have I made thee.
+**[15:7]** Neither shall thy name any more be called Abram, buut thy name from henceforth, even for ever, shall be Abraham. For the father of many nations have I made thee.
 
-**[15:8]** And I will make thee very great, And I will make thee into nations, And kings shall come forth from thee.
+**[15:8]** And I will make thee very great, and I will make thee into nations, and kings shall come forth from thee.
 
 **[15:9]** And I shall establish My covenant between Me and thee, and thy seed after thee, throughout their generations, for an eternal covenant, so that I may be a God unto thee, and to thy seed after thee.
 
-**[15:10]** <And I will give to thee and to thy seed after thee> the land where thou hast been a sojourner, the land of Canaan, that thou mayst possess it for ever, and I will be their God.'
+**[15:10]** And I will give to thee and to thy seed after thee the land where thou hast been a sojourner, the land of Canaan, that thou mayst possess it for ever, and I will be their God.'
 
 **[15:11]** And the Lord said unto Abraham: 'And as for thee, do thou keep my covenant, thou and thy seed after thee: and circumcise ye every male among you, and circumcise your foreskins, and it shall be a token of an eternal covenant between Me and you.
 
@@ -900,7 +900,7 @@
 
 **[15:23]** And Abraham did according as God had said unto him, and he took Ishmael his son, and all that were born in his house, and whom he had bought with his money, every male in his house, and circumcised the flesh of their foreskin.
 
-**[15:24]** And on the selfsame day was Abraham circumcised, and all the men of his house, <and those born in the house>, and all those, whom he had bought with money from the children of the stranger, were circumcised with him.
+**[15:24]** And on the selfsame day was Abraham circumcised, and all the men of his house, and those born in the house, and all those, whom he had bought with money from the children of the stranger, were circumcised with him.
 
 **[15:25]** This law is for all the generations for ever, and there is no circumcision of the days, and no omission of one day out of the eight days; for it is an eternal ordinance, ordained and written on the heavenly tablets.
 
@@ -920,17 +920,18 @@
 
 **[15:33]** And now I announce unto thee that the children of Israel will not keep true to this ordinance, and they will not circumcise their sons according to all this law; for in the flesh of their circumcision they will omit this circumcision of their sons, and all of them, sons of Beliar, will leave their sons uncircumcised as they were born.
 
-**[15:34]** And there will be great wrath from the Lord against the children of Israel. because they have forsaken His covenant and turned aside from His word, and provoked and blasphemed, inasmuch as they do not observe the ordinance of this law; for they have treated their members like the Gentiles, so that they may be removed and rooted out of the land. And there will no more be pardon or forgiveness unto them [so that there should be forgiveness and pardon] for all the sin of this eternal error.
+**[15:34]** And there will be great wrath from the Lord against the children of Israel. because they have forsaken His covenant and turned aside from His word, and provoked and blasphemed, inasmuch as they do not observe the ordinance of this law; for they have treated their members like the Gentiles, so that they may be removed and rooted out of the land. And there will no more be pardon or forgiveness unto them so that there should be forgiveness and pardon for all the sin of this eternal error.
+
 
 **[16:1]** And on the new moon of the fourth month we appeared unto Abraham, at the oak of Mamre, and we talked with him, and we announced to him that a son would be given to him by Sarah his wife.
 
 **[16:2]** And Sarah laughed, for she heard that we had spoken these words with Abraham, and we admonished her, and she became afraid, and denied that she had laughed on account of the words.
 
-**[16:3]** And we told her the name of her son, as his name is ordained and written in the heavenly tablets (i.e.) Isaac,
+**[16:3]** And we told her the name of her son, as his name is ordained and written in the heavenly tablets, Isaac,
 
 **[16:4]** And (that) when we returned to her at a set time, she would have conceived a son.
 
-**[16:5]** And in this month the Lord executed his judgments on Sodom, and Gomorrah, and Zeboim, and all the region of the Jordan, and He burned them with fire and brimstone, and destroyed them until this day, even as [lo] I have declared unto thee all their works, that they are wicked and sinners exceedingly, and that they defile themselves and commit fornication in their flesh, and work uncleanness on the earth.
+**[16:5]** And in this month the Lord executed his judgments on Sodom, and Gomorrah, and Zeboim, and all the region of the Jordan, and He burned them with fire and brimstone, and destroyed them until this day, even as I have declared unto thee all their works, that they are wicked and sinners exceedingly, and that they defile themselves and commit fornication in their flesh, and work uncleanness on the earth.
 
 **[16:6]** And, in like manner, God will execute judgment on the places where they have done according to the uncleanness of the Sodomites, like unto the judgment of Sodom.
 
@@ -950,9 +951,9 @@
 
 **[16:14]** And Abraham circumcised his son on the eighth day: he was the first that was circumcised according to the covenant which is ordained for ever.
 
-**[16:15]** And in the sixth year of the fourth week we came to Abraham, to the Well of the Oath, and we appeared unto him [as we had told Sarah that we should return to her, and she would have conceived a son.
+**[16:15]** And in the sixth year of the fourth week we came to Abraham, to the Well of the Oath, and we appeared unto him as we had told Sarah that we should return to her, and she would have conceived a son.
 
-**[16:16]** And we returned in the seventh month, and found Sarah with child before us] and we blessed him, and we announced to him all the things which had been decreed concerning him, that he should not die till he should beget six sons more, and should see (them) before he died; but (that) in Isaac should his name and seed be called:
+**[16:16]** And we returned in the seventh month, and found Sarah with child before us and we blessed him, and we announced to him all the things which had been decreed concerning him, that he should not die till he should beget six sons more, and should see (them) before he died; but (that) in Isaac should his name and seed be called:
 
 **[16:17]** And (that) all the seed of his sons should be Gentiles, and be reckoned with the Gentiles; but from the sons of Isaac one should become a holy seed, and should not be reckoned among the Gentiles.
 
@@ -978,11 +979,12 @@
 
 **[16:28]** And we blessed him for ever, and all his seed after him throughout all the generations of the earth, because he celebrated this festival in its season, according to the testimony of the heavenly tablets.
 
-**[16:29]** For this reason it is ordained on the heavenly tablets concerning Israel, that they shall celebrate the feast of tabernacles seven days with joy, in the seventh month, acceptable before the Lord -a statute for ever throughout their generations every year.
+**[16:29]** For this reason it is ordained on the heavenly tablets concerning Israel, that they shall celebrate the feast of tabernacles seven days with joy, in the seventh month, acceptable before the Lord - a statute for ever throughout their generations every year.
 
 **[16:30]** And to this there is no limit of days; for it is ordained for ever regarding Israel that they should celebrate it and dwell in booths, and set wreaths upon their heads, and take leafy boughs, and willows from the brook.
 
-**[16:31]** And Abraham took branches of palm trees, and the fruit of goodly trees, and every day going round the altar with the branches seven times [a day] in the morning, he praised and gave thanks to his God for all things in joy.
+**[16:31]** And Abraham took branches of palm trees, and the fruit of goodly trees, and every day going round the altar with the branches seven times in the morning, he praised and gave thanks to his God for all things in joy.
+
 
 **[17:1]** And in the first year of the fifth week Isaac was weaned in this jubilee, [1982 A.M.] and Abraham made a great banquet in the third month, on the day his son Isaac was weaned.
 
