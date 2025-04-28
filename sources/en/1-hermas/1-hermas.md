@@ -2,9 +2,9 @@
 
 
 
-**[1:1]** He who had bred me up sold a certain young maid at Rome; whom when I saw many years after, I remembered her, and began to love her as a sister. It happened some time afterwards, that I saw her washing in the river. Tyber; and I reached out my hand unto her, and brought her out of the river, 
+**[1:1]** He who had bred me up sold a certain young maid at Rome; whom when I saw many years after, I remembered her, and began to love her as a sister. It happened some time afterwards, that I saw her washing in the river Tyber; and I reached out my hand unto her, and brought her out of the river, 
 
-**[1:2]** And when I saw her I thought with myself, saying, How happy should I be if I had such a wife, both for beauty and manners. This I thought with myself; nor did I think any thing more. But not long after, as I was walking, and musing on these thoughts, I began to honour this creature of God, thinking with myself; how noble and beautiful she was. 
+**[1:2]** And when I saw her I thought with myself, saying, How happy should I be if I had such a wife, both for beauty and manners. This I thought with myself; nor did I think any thing more. But not long after, as I was walking, and musing on these thoughts, I began to honour this creature of God, thinking with myself how noble and beautiful she was. 
 
 **[1:3]** And when I had walked a little, I fell asleep; and the spirit caught me away, and carried me through a certain place towards the right hand, through which no man could pass. It was a place among rocks, very steep, and unpassable for water. 
 
@@ -12,13 +12,13 @@
 
 **[1:5]** And as I was praying, the heaven was opened, and I saw the woman which I had coveted, saluting me from heaven, and saying, Hermas, hail! and I looking upon her, answered, Lady, what dost thou do here? She answered me, I am taken up hither to accuse thee of sin before the Lord. 
 
-**[1:6]** Lady, said I, wilt thou convince me? No, said she: but hear the words which I am about to speak unto thee. God who dwelleth in heaven, and hath made all things out of nothing, and hath multiplied them for his holy church's sake, is angry with thee because thou hast sinned against me. 
+**[1:6]** Lady, said I, wilt thou convict me? No, said she: but hear the words which I am about to speak unto thee. God who dwelleth in heaven, and hath made all things out of nothing, and hath multiplied them for his holy church's sake, is angry with thee because thou hast sinned against me. 
 
 **[1:7]** And I answering said unto her, Lady, if I have sinned against thee, tell me where, or in what place, or when did I ever speak an unseemly or dishonest word unto thee? 
 
 **[1:8]** Have I not always esteemed thee as a lady? Have I not always reverenced thee as a sister? Why then dost thou imagine these wicked things against me? 
 
-**[1:9]** Then she, smiling upon me, said: the desire of naughtiness has risen up in thy heart. Does it not seem to thee to be an ill thing for a righteous man to have an evil desire rise up in his heart. 
+**[1:9]** Then she, smiling upon me, said, The desire of naughtiness has risen up in thy heart. Does it not seem to thee to be an ill thing for a righteous man to have an evil desire rise up in his heart?
 
 **[1:10]** It is indeed a sin, and that a very great sin, to such a one; for a righteous man thinketh that which is righteous. And whilst he does so, and walketh uprightly, he shall have the Lord in heaven favourable unto him in all his business. 
 
@@ -28,7 +28,7 @@
 
 **[1:13]** But do thou pray unto the Lord, and he will heal thy sins, and the sins of thy whole house, and of all his saints. 
 
-**[1:14]** As soon as she had spoken these words the heaven were shut, and I remained utterly swallowed up with sadness and fear: and said within myself, if this be laid against me for sin, how can I be saved. 
+**[1:14]** As soon as she had spoken these words the heaven were shut, and I remained utterly swallowed up with sadness and fear: and said within myself, If this be laid against me for sin, how can I be saved?
 
 **[1:15]** Or how should I ever be able to entreat the Lord for my many and great sins? With what words shall I beseech him to be merciful unto me? 
 
@@ -38,7 +38,7 @@
 
 **[1:18]** And she said unto me, Why art thou sad, Hermas, who wert wont to be patient, and modest, and always cheerful? I answered, and said to her, Lady, a reproach has been laid to my charge by an excellent woman, who tells me that I have sinned against her. 
 
-**[1:19]** She replied, Far be any such thing from the servant of God. But it may be the desire of her has risen up in thy heart? For indeed such a thought maketh the servants of God guilty of sin. 
+**[1:19]** She replied, Far be any such thing from the servant of God. But it may be the desire of her has risen up in thy heart. For indeed such a thought maketh the servants of God guilty of sin. 
 
 **[1:20]** Nor ought such a detestable thought to be in the servant of God: nor should he who is approved by the Spirit desire that which is evil; but especially Hermas, who contains himself from all wicked lusts, and is full of all simplicity, and of great innocence. 
 
@@ -64,11 +64,12 @@
 
 **[1:31]** And she called me unto her, and touched my breast, and said unto me, Did my reading please thee? I answered, Lady, these last things please me; but what went before was severe and hard. 
 
-**[1:32]** She said unto me, these last things are for the righteous, but the foregoing for the revolters and heathen. 
+**[1:32]** She said unto me, These last things are for the righteous, but the foregoing for the revolters and heathen. 
 
 **[1:33]** And as she was talking with me, two men appeared, and took her upon their shoulders, and went to the east where the chair was. 
 
 **[1:34]** And she went cheerfully away; and as she was going, said unto me, Hermas, be of good cheer.
+
 
 **[2:1]** As I was on the way to Cuma, about the same time that I went the year before, I began to call to mind the vision I formerly had. And again the spirit carried me away, and brought me into the same place, in which I had been the year before. 
 
@@ -136,13 +137,14 @@
 
 **[2:33]** And I said unto him, Why then does she appear old? She is therefore, said he, an old woman, because she was the first of all the creation, and the world was made for her. 
 
-**[2:34]** After this I saw a vision at home in my own house, and the old woman, whom I had seen before, came to me and asked me whether I had yet delivered her book to the elders of the church? And I answered, that I had not yet. 
+**[2:34]** After this I saw a vision at home in my own house, and the old woman, whom I had seen before, came to me and asked me whether I had yet delivered her book to the elders of the church. And I answered, that I had not yet. 
 
 **[2:35]** She replied, Thou hast well done, for I have certain words more to tell thee. But when I shall have finished all the words, they shall be clearly understood by the elect. 
 
 **[2:36]** And thou shalt write two books, and send one to Clement and one to Grapte. For Clement shall send it to the foreign cities, because it is permitted to him so to do: but Grapte shall admonish the widows and orphans. 
 
 **[2:37]** But thou shalt read in this city with the elders of the church.
+
 
 **[3:1]** The vision which I saw, brethren, was this. 
 
