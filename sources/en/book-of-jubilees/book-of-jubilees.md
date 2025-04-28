@@ -1774,6 +1774,7 @@
 
 **[31:32]** And he said: 'Now I know that I have an eternal hope, and my sons also, before the God of all'; and thus is it ordained concerning the two; and they record it as an eternal testimony unto them on the heavenly tablets how Isaac blessed them.
 
+
 **[32:1]** And he abode that night at Bethel, and Levi dreamed that they had ordained and made him the priest of the Most High God, him and his sons for ever; and he awoke from his sleep and blessed the Lord.
 
 **[32:2]** And Jacob rose early in the morning, on the fourteenth of this month, and he gave a tithe of all that came with him, both of men and cattle, both of gold and every vessel and garment, yea, he gave tithes of all.
@@ -1838,7 +1839,7 @@
 
 **[32:32]** And he went after his mother till he came to the land of Kabratan, and he dwelt there.
 
-**[32:33]** And Rachel bare a son in the night, and called his name 'Son of my sorrow '; for she suffered in giving him birth: but his father called his name Benjamin, on the eleventh of the eighth month in the first of the sixth week of this jubilee. [2143 A.M.]
+**[32:33]** And Rachel bare a son in the night, and called his name 'Son of my sorrow '; for she suffered in giving him birth: but his father called his name Benjamin, on the eleventh of the eighth month in the first of the sixth week of this jubilee. 
 
 **[32:34]** And Rachel died there and she was buried in the land of Ephrath, the same is Bethlehem, and Jacob built a pillar on the grave of Rachel, on the road above her grave.
 
@@ -1846,7 +1847,7 @@
 
 **[33:2]** And Reuben saw Bilhah, Rachel's maid, the concubine of his father, bathing in water in a secret place, and he loved her.
 
-**[33:3]** And he hid himself at night, and he entered the house of Bilhah [at night], and he found her sleeping alone on a bed in her house.
+**[33:3]** And he hid himself at night, and he entered the house of Bilhah at night, and he found her sleeping alone on a bed in her house.
 
 **[33:4]** And he lay with her, and she awoke and saw, and behold Reuben was lying with her in the bed, and she uncovered the border of her covering and seized him, and cried out, and discovered that it was Reuben.
 
@@ -1882,11 +1883,12 @@
 
 **[33:20]** And there is no greater sin than the fornication which they commit on earth; for Israel is a holy nation unto the Lord its God, and a nation of inheritance, and a priestly and royal nation and for (His own) possession; and there shall no such uncleanness appear in the midst of the holy nation.
 
-**[33:21]** And in the third year of this sixth week [2145 A.M.] Jacob and all his sons went and dwelt in the house of Abraham, near Isaac his father and Rebecca his mother.
+**[33:21]** And in the third year of this sixth week Jacob and all his sons went and dwelt in the house of Abraham, near Isaac his father and Rebecca his mother.
 
 **[33:22]** And these were the names of the sons of Jacob: the first-born Reuben, Simeon, Levi, Judah, Issachar, Zebulon, the sons of Leah; and the sons of Rachel, Joseph and Benjamin; and the sons of Bilhah, Dan and Naphtali; and the sons of Zilpah, Gad and Asher; and Dinah, the daughter of Leah, the only daughter of Jacob.
 
 **[33:23]** And they came and bowed themselves to Isaac and Rebecca, and when they saw them they blessed Jacob and all his sons, and Isaac rejoiced exceedingly, for he saw the sons of Jacob, his younger son and he blessed them.
+
 
 **[34:1]** And in the sixth year of this week of this forty-fourth jubilee [2148 A.M.] Jacob sent his sons to pasture their sheep, and his servants with them to the pastures of Shechem.
 
