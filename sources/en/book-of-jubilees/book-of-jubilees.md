@@ -1984,7 +1984,8 @@
 
 **[35:27]** And they eat and drank, she and her sons that night, and she died, three jubilees and one week and one year old, on that night, and her two sons, Esau and Jacob, buried her in the double cave near Sarah, their father's mother.
 
-**[36:1]** And in the sixth year of this week [2162 A.M.] Isaac called his two sons Esau and Jacob, and they came to him, and he said unto them: 'My sons, I am going the way of my fathers, to the eternal house where my fathers are.
+
+**[36:1]** And in the sixth year of this week Isaac called his two sons Esau and Jacob, and they came to him, and he said unto them: 'My sons, I am going the way of my fathers, to the eternal house where my fathers are.
 
 **[36:2]** Wherefore bury me near Abraham my father, in the double cave in the field of Ephron the Hittite, where Abraham purchased a sepulchre to bury in; in the sepulchre which I digged for myself, there bury me.
 
@@ -1996,7 +1997,7 @@
 
 **[36:6]** Remember ye, my sons, the Lord God of Abraham your father, and how I too worshipped Him and served Him in righteousness and in joy, that He might multiply you and increase your seed as the stars of heaven in multitude, and establish you on the earth as the plant of righteousness which will not be rooted out unto all the generations for ever.
 
-**[36:7]** And now I shall make you swear a great oath -for there is no oath which is greater than it by the name glorious and honoured and great and splendid and wonderful and mighty, which created the heavens and the earth and all things together- that ye will fear Him and worship Him.
+**[36:7]** And now I shall make you swear a great oath - for there is no oath which is greater than it by the name glorious and honoured and great and splendid and wonderful and mighty, which created the heavens and the earth and all things together - that ye will fear Him and worship Him.
 
 **[36:8]** And that each will love his brother with affection and righteousness, and that neither will desire evil against his brother from henceforth for ever all the days of your life so that ye may prosper in all your deeds and not be destroyed.
 
@@ -2024,7 +2025,7 @@
 
 **[36:20]** And Jacob dwelt in the mountains of Hebron, in the tower of the land of the sojournings of his father Abraham, and he worshipped the Lord with all his heart and according to the visible commands according as He had divided the days of his generations.
 
-**[36:21]** And Leah his wife died in the fourth year of the second week of the forty-fifth jubilee, [2167 A.M.] and he buried her in the double cave near Rebecca his mother to the left of the grave of Sarah, his father's mother
+**[36:21]** And Leah his wife died in the fourth year of the second week of the forty-fifth jubilee, and he buried her in the double cave near Rebecca his mother to the left of the grave of Sarah, his father's mother
 
 **[36:22]** and all her sons and his sons came to mourn over Leah his wife with him and to comfort him regarding her, for he was lamenting her for he loved her exceedingly after Rachel her sister died;
 
@@ -2032,7 +2033,8 @@
 
 **[36:24]** And he remembered all her deeds which she had done during her life and he lamented her exceedingly; for he loved her with all his heart and with all his soul.
 
-**[37:1]** And on the day that Isaac the father of Jacob and Esau died, [2162 A.M.] the sons of Esau heard that Isaac had given the portion of the elder to his younger son Jacob and they were very angry.
+
+**[37:1]** And on the day that Isaac the father of Jacob and Esau died, the sons of Esau heard that Isaac had given the portion of the elder to his younger son Jacob and they were very angry.
 
 **[37:2]** And they strove with their father, saying 'Why has thy father given Jacob the portion of the elder and passed over thee, although thou art the elder and Jacob the younger?'
 
@@ -2070,17 +2072,18 @@
 
 **[37:19]** And thou dost hate me and my children for ever. And there is no observing the tie of brotherhood with thee.
 
-**[37:20]** Hear these words which I declare unto thee, If the boar can change its skin and make its bristles as soft as wool, Or if it can cause horns to sprout forth on its head like the horns of a stag or of a sheep, Then will I observe the tie of brotherhood with thee And if the breasts separated themselves from their mother, for thou hast not been a brother to me.
+**[37:20]** Hear these words which I declare unto thee, If the boar can change its skin and make its bristles as soft as wool, or if it can cause horns to sprout forth on its head like the horns of a stag or of a sheep, then will I observe the tie of brotherhood with thee. And if the breasts separated themselves from their mother, for thou hast not been a brother to me.
 
-**[37:21]** And if the wolves make peace with the lambs so as not to devour or do them violence, And if their hearts are towards them for good, Then there shall be peace in my heart towards thee
+**[37:21]** And if the wolves make peace with the lambs so as not to devour or do them violence, and if their hearts are towards them for good, then there shall be peace in my heart towards thee.
 
-**[37:22]** And if the lion becomes the friend of the ox and makes peace with him And if he is bound under one yoke with him and ploughs with him, Then will I make peace with thee.
+**[37:22]** And if the lion becomes the friend of the ox and makes peace with him and if he is bound under one yoke with him and ploughs with him, then will I make peace with thee.
 
-**[37:23]** And when the raven becomes white as the raza, Then know that I have loved thee And shall make peace with thee Thou shalt be rooted out, And thy sons shall be rooted out, And there shall be no peace for thee'
+**[37:23]** And when the raven becomes white as the raza, then know that I have loved thee and shall make peace with thee thou shalt be rooted out, and thy sons shall be rooted out, and there shall be no peace for thee'
 
 **[37:24]** And when Jacob saw that he was (so) evilly disposed towards him with his heart, and with all his soul as to slay him, and that he had come springing like the wild boar which comes upon the spear that pierces and kills it, and recoils not from it;
 
 **[37:25]** then he spake to his own and to his servants that they should attack him and all his companions.
+
 
 **[38:1]** And after that Judah spake to Jacob, his father, and said unto him: 'Bend thy bow, father, and send forth thy arrows and cast down the adversary and slay the enemy; and mayst thou have the power, for we shall not slay thy brother, for he is such as thou, and he is like thee let us give him (this) honour.'
 
