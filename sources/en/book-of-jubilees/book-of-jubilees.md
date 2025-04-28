@@ -1198,7 +1198,7 @@
 
 **[21:26]** And he went out from him rejoicing.
 
-**[22:1]** And it came to pass in the first week in the forty-fourth jubilee, in the second year, that is, the year in which Abraham died, that Isaac and Ishmael came from the Well of the Oath to celebrate the feast of weeks -that is, the feast of the first fruits of the harvest-to Abraham, their father, and Abraham rejoiced because his two sons had come.
+**[22:1]** And it came to pass in the first week in the forty-fourth jubilee, in the second year, that is, the year in which Abraham died, that Isaac and Ishmael came from the Well of the Oath to celebrate the feast of weeks - that is, the feast of the first fruits of the harvest-to Abraham, their father, and Abraham rejoiced because his two sons had come.
 
 **[22:2]** For Isaac had many possessions in Beersheba, and Isaac was wont to go and see his possessions and to return to his father.
 
@@ -1208,7 +1208,7 @@
 
 **[22:5]** And Isaac, too, sent by the hand of Jacob to Abraham a best thank offering, that he might eat and drink.
 
-**[22:6]** And he eat and drank, and blessed the Most High God, Who hath created heaven and earth, Who hath made all the fat things of the earth, And given them to the children of men That they might eat and drink and bless their Creator.
+**[22:6]** And he eat and drank, and blessed the Most High God, Who hath created heaven and earth, who hath made all the fat things of the earth, and given them to the children of men that they might eat and drink and bless their Creator.
 
 **[22:7]** 'And now I give thanks unto Thee, my God, because thou hast caused me to see this day: behold, I am one hundred three score and fifteen years, an old man and full of days, and all my days have been unto me peace.
 
@@ -1218,33 +1218,33 @@
 
 **[22:10]** And he called Jacob and said: 'My son Jacob, may the God of all bless thee and strengthen thee to do righteousness, and His will before Him, and may He choose thee and thy seed that ye may become a people for His inheritance according to His will alway.
 
-**[22:11]** And do thou, my son, Jacob, draw near and kiss me.' And he drew near and kissed him, and he said: 'Blessed be my son Jacob And all the sons of God Most High, unto all the ages: May God give unto thee a seed of righteousness; And some of thy sons may He sanctify in the midst of the whole earth; May nations serve thee, And all the nations bow themselves before thy seed.
+**[22:11]** And do thou, my son, Jacob, draw near and kiss me.' And he drew near and kissed him, and he said: 'Blessed be my son Jacob And all the sons of God Most High, unto all the ages: May God give unto thee a seed of righteousness; and some of thy sons may He sanctify in the midst of the whole earth; may nations serve thee, and all the nations bow themselves before thy seed.
 
-**[22:12]** Be strong in the presence of men, And exercise authority over all the seed of Seth. Then thy ways and the ways of thy sons will be justified, So that they shall become a holy nation.
+**[22:12]** Be strong in the presence of men, and exercise authority over all the seed of Seth. Then thy ways and the ways of thy sons will be justified, so that they shall become a holy nation.
 
-**[22:13]** May the Most High God give thee all the blessings Wherewith He has blessed me And wherewith He blessed Noah and Adam; May they rest on the sacred head of thy seed from generation to generation for ever.
+**[22:13]** May the Most High God give thee all the blessings Wherewith He has blessed me and wherewith He blessed Noah and Adam; may they rest on the sacred head of thy seed from generation to generation for ever.
 
-**[22:14]** And may He cleanse thee from all unrighteousness and impurity, That thou mayest be forgiven all the transgressions; which thou hast committed ignorantly. And may He strengthen thee, And bless thee. And mayest thou inherit the whole earth,
+**[22:14]** And may He cleanse thee from all unrighteousness and impurity, that thou mayest be forgiven all the transgressions; which thou hast committed ignorantly. And may He strengthen thee, and bless thee. And mayest thou inherit the whole earth,
 
-**[22:15]** And may He renew His covenant with thee. That thou mayest be to Him a nation for His inheritance for all the ages, And that He may be to thee and to thy seed a God in truth and righteousness throughout all the days of the earth.
+**[22:15]** And may He renew His covenant with thee. That thou mayest be to Him a nation for His inheritance for all the ages, and that He may be to thee and to thy seed a God in truth and righteousness throughout all the days of the earth.
 
-**[22:16]** And do thou, my son Jacob, remember my words, And observe the commandments of Abraham, thy father: Separate thyself from the nations, And eat not with them: And do not according to their works, And become not their associate; For their works are unclean, And all their ways are a Pollution and an abomination and uncleanness.
+**[22:16]** And do thou, my son Jacob, remember my words, and observe the commandments of Abraham, thy father: Separate thyself from the nations, and eat not with them: And do not according to their works, and become not their associate; for their works are unclean, and all their ways are a Pollution and an abomination and uncleanness.
 
-**[22:17]** They offer their sacrifices to the dead And they worship evil spirits, And they eat over the graves, And all their works are vanity and nothingness.
+**[22:17]** They offer their sacrifices to the dead and they worship evil spirits, and they eat over the graves, and all their works are vanity and nothingness.
 
-**[22:18]** They have no heart to understand And their eyes do not see what their works are, And how they err in saying to a piece of wood: 'Thou art my God,' And to a stone: 'Thou art my Lord and thou art my deliverer.' [And they have no heart.]
+**[22:18]** They have no heart to understand and their eyes do not see what their works are, and how they err in saying to a piece of wood: 'Thou art my God,' and to a stone: 'Thou art my Lord and thou art my deliverer.' And they have no heart.
 
-**[22:19]** And as for thee, my son Jacob, May the Most High God help thee And the God of heaven bless thee And remove thee from their uncleanness and from all their error.
+**[22:19]** And as for thee, my son Jacob, may the Most High God help thee and the God of heaven bless thee and remove thee from their uncleanness and from all their error.
 
-**[22:20]** Be thou ware, my son Jacob, of taking a wife from any seed of the daughters of Canaan; For all his seed is to be rooted out of the earth.
+**[22:20]** Be thou ware, my son Jacob, of taking a wife from any seed of the daughters of Canaan; for all his seed is to be rooted out of the earth.
 
-**[22:21]** For, owing to the transgression of Ham, Canaan erred, And all his seed shall be destroyed from off the earth and all the residue thereof, And none springing from him shall be saved on the day of judgment.
+**[22:21]** For, owing to the transgression of Ham, Canaan erred, and all his seed shall be destroyed from off the earth and all the residue thereof, and none springing from him shall be saved on the day of judgment.
 
-**[22:22]** And as for all the worshippers of idols and the profane (b) There shall be no hope for them in the land of the living; (c) And there shall be no remembrance of them on the earth; (c) For they shall descend into Sheol, (d) And into the place of condemnation shall they go, As the children of Sodom were taken away from the earth So will all those who worship idols be taken away.
+**[22:22]** And as for all the worshippers of idols and the profane there shall be no hope for them in the land of the living; and there shall be no remembrance of them on the earth; for they shall descend into Sheol, and into the place of condemnation shall they go, as the children of Sodom were taken away from the earth so will all those who worship idols be taken away.
 
-**[22:23]** Fear not, my son Jacob, And be not dismayed, O son of Abraham: May the Most High God preserve thee from destruction, And from all the paths of error may he deliver thee.
+**[22:23]** Fear not, my son Jacob, and be not dismayed, O son of Abraham: May the Most High God preserve thee from destruction, and from all the paths of error may he deliver thee.
 
-**[22:24]** This house have I built for myself that I might put my name upon it in the earth: [it is given to thee and to thy seed for ever], and it will be named the house of Abraham; it is given to thee and to thy seed for ever; for thou wilt build my house and establish my name before God for ever: thy seed and thy name will stand throughout all generations of the earth.'
+**[22:24]** This house have I built for myself that I might put my name upon it in the earth: it is given to thee and to thy seed for ever, and it will be named the house of Abraham; it is given to thee and to thy seed for ever; for thou wilt build my house and establish my name before God for ever: thy seed and thy name will stand throughout all generations of the earth.'
 
 **[22:25]** And he ceased commanding him and blessing him.
 
@@ -1254,9 +1254,10 @@
 
 **[22:28]** And he blessed Jacob and said: 'My son, over whom with all my heart and my affection I rejoice, may Thy grace and Thy mercy be lift up upon him and upon his seed alway.
 
-**[22:29]** And do not forsake him, nor set him at nought from henceforth unto the days of eternity, and may Thine eyes be opened upon him and upon his seed, that Thou mayst preserve him, and bless him, and mayest sanctify him as a nation for Thine inheritance;
+**[22:29]** And do not forsake him, nor set him at nought from henceforth unto the days of eternity, and may Thine eyes be opened upon him and upon his seed, that Thou mayest preserve him, and bless him, and mayest sanctify him as a nation for Thine inheritance;
 
 **[22:30]** And bless him with all Thy blessings from henceforth unto all the days of eternity, and renew Thy covenant and Thy grace with him and with his seed according to all Thy good pleasure unto all the generations of the earth.'
+
 
 **[23:1]** And he placed two fingers of Jacob on his eyes, and he blessed the God of gods, and he covered his face and stretched out his feet and slept the sleep of eternity, and was gathered to his fathers.
 
@@ -1278,9 +1279,9 @@
 
 **[23:10]** For Abraham was perfect in all his deeds with the Lord, and well-pleasing in righteousness all the days of his life; and behold, he did not complete four jubilees in his life, when he had grown old by reason of the wickedness, and was full of his days.
 
-**[23:11]** And all the generations which shall arise from this time until the day of the great judgment shall grow old quickly, before they complete two jubilees, and their knowledge shall forsake them by reason of their old age Land all their know- ledge shall vanish away].
+**[23:11]** And all the generations which shall arise from this time until the day of the great judgment shall grow old quickly, before they complete two jubilees, and their knowledge shall forsake them by reason of their old age Land all their know- ledge shall vanish away.
 
-**[23:12]** And in those days, if a man live a jubilee and a-half of years, they shall say regarding him: 'He has lived long, and the greater part of his days are pain and sorrow and tribulation, and there is no peace:
+**[23:12]** And in those days, if a man live a jubilee and a half of years, they shall say regarding him: 'He has lived long, and the greater part of his days are pain and sorrow and tribulation, and there is no peace:
 
 **[23:13]** For calamity follows on calamity, and wound on wound, and tribulation on tribulation, and evil tidings on evil tidings, and illness on illness, and all evil judgments such as these, one with another, illness and overthrow, and snow and frost and ice, and fever, and chills, and torpor, and famine, and death, and sword, and captivity, and all kinds of calamities and pains.'
 
@@ -1296,31 +1297,32 @@
 
 **[23:19]** And they shall strive one with another, the young with the old, and the old with the young, the poor with the rich, the lowly with the great, and the beggar with the prince, on account of the law and the covenant; for they have forgotten commandment, and covenant, and feasts, and months, and Sabbaths, and jubilees, and all judgments.
 
-**[23:20]** And they shall stand <with bows and> swords and war to turn them back into the way; but they shall not return until much blood has been shed on the earth, one by another.
+**[23:20]** And they shall stand with bows and swords and war to turn them back into the way; but they shall not return until much blood has been shed on the earth, one by another.
 
 **[23:21]** And those who have escaped shall not return from their wickedness to the way of righteousness, but they shall all exalt themselves to deceit and wealth, that they may each take all that is his neighbour's, and they shall name the great name, but not in truth and not in righteousness, and they shall defile the holy of holies with their uncleanness and the corruption of their pollution.
 
 **[23:22]** And a great punishment shall befall the deeds of this generation from the Lord, and He will give them over to the sword and to judgment and to captivity, and to be plundered and devoured.
 
-**[23:23]** And He will wake up against them the sinners of the Gentiles, who have neither mercy nor compassion, and who shall respect the person of none, neither old nor young, nor any one, for they are more wicked and strong to do evil than all the children of men. And they shall use violence against Israel and transgression against Jacob, And much blood shall be shed upon the earth, And there shall be none to gather and none to bury.
+**[23:23]** And He will wake up against them the sinners of the Gentiles, who have neither mercy nor compassion, and who shall respect the person of none, neither old nor young, nor any one, for they are more wicked and strong to do evil than all the children of men. And they shall use violence against Israel and transgression against Jacob, and much blood shall be shed upon the earth, and there shall be none to gather and none to bury.
 
-**[23:24]** In those days they shall cry aloud, And call and pray that they may be saved from the hand of the sinners, the Gentiles; But none shall be saved.
+**[23:24]** In those days they shall cry aloud, and call and pray that they may be saved from the hand of the sinners, the Gentiles; But none shall be saved.
 
-**[23:25]** And the heads of the children shall be white with grey hair, And a child of three weeks shall appear old like a man of one hundred years, And their stature shall be destroyed by tribulation and oppression.
+**[23:25]** And the heads of the children shall be white with grey hair, and a child of three weeks shall appear old like a man of one hundred years, and their stature shall be destroyed by tribulation and oppression.
 
-**[23:26]** And in those days the children shall begin to study the laws, And to seek the commandments, And to return to the path of righteousness.
+**[23:26]** And in those days the children shall begin to study the laws, and to seek the commandments, and to return to the path of righteousness.
 
-**[23:27]** And the days shall begin to grow many and increase amongst those children of men Till their days draw nigh to one thousand years. And to a greater number of years than (before) was the number of the days.
+**[23:27]** And the days shall begin to grow many and increase amongst those children of men till their days draw nigh to one thousand years. And to a greater number of years than (before) was the number of the days.
 
-**[23:28]** And there shall be no old man Nor one who is <not> satisfied with his days, For all shall be (as) children and youths.
+**[23:28]** And there shall be no old man nor one who is not satisfied with his days, for all shall be (as) children and youths.
 
-**[23:29]** And all their days they shall complete and live in peace and in joy, And there shall be no Satan nor any evil destroyer; For all their days shall be days of blessing and healing.
+**[23:29]** And all their days they shall complete and live in peace and in joy, and there shall be no Satan nor any evil destroyer; for all their days shall be days of blessing and healing.
 
-**[23:30]** And at that time the Lord will heal His servants, And they shall rise up and see great peace, And drive out their adversaries. And the righteous shall see and be thankful, And rejoice with joy for ever and ever, And shall see all their judgments and all their curses on their enemies.
+**[23:30]** And at that time the Lord will heal His servants, and they shall rise up and see great peace, and drive out their adversaries. And the righteous shall see and be thankful, and rejoice with joy for ever and ever, and shall see all their judgments and all their curses on their enemies.
 
-**[23:31]** And their bones shall rest in the earth, And their spirits shall have much joy, And they shall know that it is the Lord who executes judgment, And shows mercy to hundreds and thousands and to all that love Him
+**[23:31]** And their bones shall rest in the earth, and their spirits shall have much joy, and they shall know that it is the Lord who executes judgment, and shows mercy to hundreds and thousands and to all that love Him
 
 **[23:32]** And do thou, Moses, write down these words; for thus are they written, and they record (them) on the heavenly tablets for a testimony for the generations for ever.
+
 
 **[24:1]** And it came to pass after the death of Abraham, that the Lord blessed Isaac his son, and he arose from Hebron and went and dwelt at the Well of the Vision in the first year of the third week [2073 A.M.] of this jubilee, seven years.
 
