@@ -2,7 +2,7 @@
 
 
 
-**[1:1]** And it came to pass in the first year of the exodus of the children of Israel out of Egypt, in the third month, on the sixteenth day of the month, [2450 Anno Mundi] that God spake to Moses, saying: 'Come up to Me on the Mount, and I will give thee two tables of stone of the law and of the commandment, which I have written, that thou mayst teach them.'
+**[1:1]** And it came to pass in the first year of the exodus of the children of Israel out of Egypt, in the third month, on the sixteenth day of the month, that God spake to Moses, saying: 'Come up to Me on the Mount, and I will give thee two tables of stone of the law and of the commandment, which I have written, that thou mayst teach them.'
 
 **[1:2]** And Moses went up into the mount of God, and the glory of the Lord abode on Mount Sinai, and a cloud overshadowed it six days.
 
@@ -56,11 +56,12 @@
 
 **[1:27]** And the Lord will appear to the eyes of all, and all shall know that I am the God of Israel and the Father of all the children of Jacob, and King on Mount Zion for all eternity. And Zion and Jerusalem shall be holy.'
 
-**[1:28]** And the angel of the presence who went before the camp of Israel took the tables of the divisions of the years -from the time of the creation- of the law and of the testimony of the weeks of the jubilees, according to the individual years, according to all the number of the jubilees [according, to the individual years], from the day of the [new] creation when the heavens and the earth shall be renewed and all their creation according to the powers of the heaven, and according to all the creation of the earth, until the sanctuary of the Lord shall be made in Jerusalem on Mount Zion, and all the luminaries be renewed for healing and for peace and for blessing for all the elect of Israel, and that thus it may be from that day and unto all the days of the earth.
+**[1:28]** And the angel of the presence who went before the camp of Israel took the tables of the divisions of the years -from the time of the creation- of the law and of the testimony of the weeks of the jubilees, according to the individual years, according to all the number of the jubilees according, to the individual years, from the day of the new creation when the heavens and the earth shall be renewed and all their creation according to the powers of the heaven, and according to all the creation of the earth, until the sanctuary of the Lord shall be made in Jerusalem on Mount Zion, and all the luminaries be renewed for healing and for peace and for blessing for all the elect of Israel, and that thus it may be from that day and unto all the days of the earth.
+
 
 **[2:1]** And the angel of the presence spake to Moses according to the word of the Lord, saying: Write the complete history of the creation, how in six days the Lord God finished all His works and all that He created, and kept Sabbath on the seventh day and hallowed it for all ages, and appointed it as a sign for all His works.
 
-**[2:2]** For on the first day He created the heavens which are above and the earth and the waters and all the spirits which serve before him -the angels of the presence, and the angels of sanctification, and the angels [of the spirit of fire and the angels] of the spirit of the winds, and the angels of the spirit of the clouds, and of darkness, and of snow and of hail and of hoar frost, and the angels of the voices and of the thunder and of the lightning, and the angels of the spirits of cold and of heat, and of winter and of spring and of autumn and of summer and of all the spirits of his creatures which are in the heavens and on the earth, (He created) the abysses and the darkness, eventide <and night>, and the light, dawn and day, which He hath prepared in the knowledge of his heart.
+**[2:2]** For on the first day He created the heavens which are above and the earth and the waters and all the spirits which serve before him -the angels of the presence, and the angels of sanctification, and the angels of the spirit of fire and the angels of the spirit of the winds, and the angels of the spirit of the clouds, and of darkness, and of snow and of hail and of hoar frost, and the angels of the voices and of the thunder and of the lightning, and the angels of the spirits of cold and of heat, and of winter and of spring and of autumn and of summer and of all the spirits of his creatures which are in the heavens and on the earth, (He created) the abysses and the darkness, eventide and night, and the light, dawn and day, which He hath prepared in the knowledge of his heart.
 
 **[2:3]** And thereupon we saw His works, and praised Him, and lauded before Him on account of all His works; for seven great works did He create on the first day.
 
@@ -76,7 +77,7 @@
 
 **[2:9]** And God appointed the sun to be a great sign on the earth for days and for sabbaths and for months and for feasts and for years and for sabbaths of years and for jubilees and for all seasons of the years.
 
-**[2:10]** And it divideth the light from the darkness [and] for prosperity, that all things may prosper which shoot and grow on the earth.
+**[2:10]** And it divideth the light from the darkness and for prosperity, that all things may prosper which shoot and grow on the earth.
 
 **[2:11]** These three kinds He made on the fourth day. And on the fifth day He created great sea monsters in the depths of the waters, for these were the first things of flesh that were created by his hands, the fish and everything that moves in the waters, and everything that flies, the birds and all their kind.
 
@@ -123,6 +124,7 @@
 **[2:32]** And the Creator of all things blessed this day which He had created for blessing and holiness and glory above all days.
 
 **[2:33]** This law and testimony was given to the children of Israel as a law for ever unto their generations.
+
 
 **[3:1]** And on the six days of the second week we brought, according to the word of God, unto Adam all the beasts, and all the cattle, and all the birds, and everything that moves on the earth, and everything that moves in the water, according to their kinds, and according to their types: the beasts on the first day; the cattle on the second day; the birds on the third day; and all that which moves on the earth on the fourth day; and that which moves in the water on the fifth day.
 
