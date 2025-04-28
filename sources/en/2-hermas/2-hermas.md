@@ -50,9 +50,9 @@
 
 **[2:9]** For he has fulfilled his duty as he received it from God; not making any choice to whom he should give, and to whom not. And this service he did with simplicity and to the glory of God. 
 
-**[2:10]** Keep therefore this command according as I have delivered it into thee: that thy repentance nay be found to be sincere, and that good may come to thy house; and have a pure heart.
+**[2:10]** Keep therefore this command according as I have delivered it into thee: that thy repentance may be found to be sincere, and that good may come to thy house; and have a pure heart.
 
-**[3:1]** Moreover he said unto me love truth; and let all the speech be true which proceeds out of thy mouth. 
+**[3:1]** Moreover he said unto me, Love truth; and let all the speech be true which proceeds out of thy mouth. 
 
 **[3:2]** That the spirit which the Lord hath given to dwell in thy flesh may be found true towards all men; and the Lord be glorified, who hath given such a spirit unto thee: because God is true in all his words, and in him there is no lie. 
 
@@ -80,7 +80,7 @@
 
 **[4:4]** And I said unto him, Sir, suffer me to speak a little to you. He bade me say on. And I answered, Sir, if a man that is faithful in the Lord shall have a wife, and shall catch her in adultery; doth a man sin that continues to live still with her? 
 
-**[4:5]** And he said unto me, As long as he is ignorant of her sin, he commits no fault in living with her; but if a man shall know his wife to, have offended, and she shall not repent of her sin, but go on still in her fornication, and a man shall continue nevertheless to live with her, he shall become guilty of her sin, and partake with her in her adultery. 
+**[4:5]** And he said unto me, As long as he is ignorant of her sin, he commits no fault in living with her; but if a man shall know his wife to have offended, and she shall not repent of her sin, but go on still in her fornication, and a man shall continue nevertheless to live with her, he shall become guilty of her sin, and partake with her in her adultery. 
 
 **[4:6]** And I said unto him, What therefore is to be done, if the woman continues on in her sin? He answered, Let her husband put her away, and let him continue by himself; but if he shall put away his wife and marry another, he also doth commit adultery. 
 
@@ -160,7 +160,9 @@
 
 **[5:16]** When, therefore, it is departed from the man in whom it dwelt, that man becomes destitute of the Holy Spirit, and is afterwards filled with wicked spirits, and is blinded with evil thoughts. Thus doth it happen to all angry men. 
 
-**[5:17]** Wherefore depart then from anger, and put on equanimity, and resist: wrath; so then shalt be found with modesty and chastity by God. Take good heed, therefore, that thou neglect not this commandment. 18. For if thou shalt obey this command, then thou shalt also be able to observe the other commandments which I shall command thee. 
+**[5:17]** Wherefore depart then from anger, and put on equanimity, and resist wrath; so then shalt thou be found with modesty and chastity by God. Take good heed, therefore, that thou neglect not this commandment.
+
+**[5:18]** For if thou shalt obey this command, then thou shalt also be able to observe the other commandments which I shall command thee. 
 
 **[5:19]** Wherefore strengthen thyself now in these commands, that then mayest live unto God. And whosoever shall observe these commandments shall live unto God.
 
