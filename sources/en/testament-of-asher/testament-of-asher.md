@@ -2,7 +2,7 @@
 
 
 
-**[1:1]** THE copy of the Testament To Asher, what things he spake to his sons in the hundred and twenty-fifth year of his life.
+**[1:1]** THE copy of the testament of Asher, what things he spake to his sons in the hundred and twenty-fifth year of his life.
 
 **[1:2]** For while he was still in health, he said to them: Hearken, ye children of Asher, to your father, and I will declare to you all that is upright in the sight of the Lord.
 
@@ -22,21 +22,21 @@
 
 **[1:10]** A person then may with words help the good for the sake of the evil, yet the issue of the action leadeth to mischief.
 
-**[1:11]** There is a man who showeth no compassion upon him who serveth his turn in evil; and this thing bath two aspects, but the whole is evil.
+**[1:11]** There is a man who showeth no compassion upon him who serveth his turn in evil; and this thing hath two aspects, but the whole is evil.
 
-**[1:12]** And there is a man that loveth him that worketh evil, because he would prefer even to die in evil for his sake; and concerning this it is clear that it bath two aspects, but the whole is an evil work.
+**[1:12]** And there is a man that loveth him that worketh evil, because he would prefer even to die in evil for his sake; and concerning this it is clear that it hath two aspects, but the whole is an evil work.
 
 **[1:13]** Though indeed he have love, yet is he wicked who concealeth what is evil for the sake of the good name, but the end of the action tendeth unto evil.
 
-**[1:14]** Another stealeth, doeth unjustly, plundereth, defraudeth, and withal pitieth the poor: this too bath a twofold aspect, but the whole is evil.
+**[1:14]** Another stealeth, doeth unjustly, plundereth, defraudeth, and withal pitieth the poor: this too hath a twofold aspect, but the whole is evil.
 
 **[1:15]** He who defraudeth his neighbour provoketh God, and sweareth falsely against the Most High, and yet pitieth the poor: the Lord who commanded the law he setteth at nought and provoketh, and yet he refresheth the poor.
 
-**[1:16]** He defileth the soul, and maketh gay the body; he killeth many, and pitieth a few: this, too, bath a twofold aspect, but the whole is evil.
+**[1:16]** He defileth the soul, and maketh gay the body; he killeth many, and pitieth a few: this, too, hath a twofold aspect, but the whole is evil.
 
 **[1:17]** Another committeth adultery and fornication, and abstaineth from meats, and when he fasteth he doeth evil, and by the power of his wealth overwhelmeth many; and notwithstanding his excessive wickedness he doeth the commandments: this, too, hath a twofold aspect, but the whole is evil.
 
-**[1:18]** Such men are hares; clean,--like those that divide the hoof, but in very deed are unclean.
+**[1:18]** Such men are hares; clean, like those that divide the hoof, but in very deed are unclean.
 
 **[1:19]** For God in the tables of the commandments hath thus declared.
 
@@ -50,7 +50,7 @@
 
 **[1:24]** One man hateth the merciful and unjust man, and the man who committeth adultery and fasteth: this, too, hath a twofold aspect, but the whole work is good, because he followeth the Lord's example, in that he accepteth not the seeming good as the genuine good.
 
-**[1:25]** Another desireth not to see good day with them that not, lest be defile his body and pollute his soul; this, too, is double-faced, but the whole is good.
+**[1:25]** Another desireth not to see good day with them that riot, lest he defile his body and pollute his soul; this, too, is double-faced, but the whole is good.
 
 **[1:26]** For such men are like to stags and to hinds, because in the manner of wild animals they seem to be unclean, but they are altogether clean; because they walk in zeal for the Lord and abstain from what God also hateth and forbiddeth by His commandments, warding off the evil from the good.
 
@@ -70,7 +70,7 @@
 
 **[1:34]** For the latter ends of men do show their righteousness or unrighteousness, when they meet the angels of the Lord and of Satan.
 
-**[1:35]** for when the soul departs troubled, it is tormented by the evil spirit which also it served in lusts and evil works.
+**[1:35]** For when the soul departs troubled, it is tormented by the evil spirit which also it served in lusts and evil works.
 
 **[1:36]** But if he is peaceful with joy he meeteth the angel of peace, and he leadeth him into eternal life.
 
