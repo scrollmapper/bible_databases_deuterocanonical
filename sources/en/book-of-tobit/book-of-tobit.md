@@ -194,6 +194,7 @@
 
 **[5:22]** Then she made an end of weeping.
 
+
 **[6:1]** And as they went on their journey, they came in the evening to the river Tigris, and they lodged there.
 
 **[6:2]** And when the young man went down to wash himself, a fish leaped out of the river, and would have devoured him.
@@ -204,7 +205,7 @@
 
 **[6:5]** So the young man did as the angel commanded him; and when they had roasted the fish, they did eat it: then they both went on their way, till they drew near to Ecbatane.
 
-**[6:6]** Then the young man said to the angel, Brother Azarias, to what use is the heart and the liver and the gal of the fish?
+**[6:6]** Then the young man said to the angel, Brother Azarias, to what use is the heart and the liver and the gall of the fish?
 
 **[6:7]** And he said unto him, Touching the heart and the liver, if a devil or an evil spirit trouble any, we must make a smoke thereof before the man or the woman, and the party shall be no more vexed.
 
@@ -227,6 +228,7 @@
 **[6:16]** And when thou shalt come into the marriage chamber, thou shalt take the ashes of perfume, and shalt lay upon them some of the heart and liver of the fish, and shalt make a smoke with it:
 
 **[6:17]** And the devil shall smell it, and flee away, and never come again any more: but when thou shalt come to her, rise up both of you, and pray to God which is merciful, who will have pity on you, and save you: fear not, for she is appointed unto thee from the beginning; and thou shalt preserve her, and she shall go with thee. Moreover I suppose that she shall bear thee children. Now when Tobias had heard these things, he loved her, and his heart was effectually joined to her.
+
 
 **[7:1]** And when they were come to Ecbatane, they came to the house of Raguel, and Sara met them: and after they had saluted one another, she brought them into the house.
 
@@ -263,6 +265,7 @@
 **[7:17]** Which when she had done as he had bidden her, she brought her thither: and she wept, and she received the tears of her daughter, and said unto her,
 
 **[7:18]** Be of good comfort, my daughter; the Lord of heaven and earth give thee joy for this thy sorrow: be of good comfort, my daughter.
+
 
 **[8:1]** And when they had supped, they brought Tobias in unto her.
 
@@ -306,6 +309,7 @@
 
 **[8:21]** And then he should take the half of his goods, and go in safety to his father; and should have the rest when I and my wife be dead.
 
+
 **[9:1]** Then Tobias called Raphael, and said unto him,
 
 **[9:2]** Brother Azarias, take with thee a servant, and two camels, and go to Rages of Media to Gabael, and bring me the money, and bring him to the wedding.
@@ -317,6 +321,7 @@
 **[9:5]** So Raphael went out, and lodged with Gabael, and gave him the handwriting: who brought forth bags which were sealed up, and gave them to him.
 
 **[9:6]** And early in the morning they went forth both together, and came to the wedding: and Tobias blessed his wife.
+
 
 **[10:1]** Now Tobit his father counted every day: and when the days of the journey were expired, and they came not,
 
