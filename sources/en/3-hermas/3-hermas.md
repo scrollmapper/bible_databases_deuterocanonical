@@ -490,6 +490,7 @@
 
 **[8:84]** And having showed me all these things, he said; I will show thee the rest in a few days.
 
+
 **[9:1]** After I had Written the Commands and similitudes of the Shepherd, the Angel of Repentance came unto me, and said to me, I will show thee all those things which the Spirit spake with thee under the figure of the church. For that Spirit is the Son of God. 
 
 **[9:2]** And because thou wert weak in body, it was not declared unto thee by the angel, until thou wert strengthened by the Spirit, and increased in force, that thou mightest also see the angel: 
@@ -506,7 +507,7 @@
 
 **[9:8]** The seventh mountain had delightful pasture, and was wholly fruitful; and all kinds of cattle, and of the birds of heaven; fed upon it; and the more they fed on it, the more and better did the grass grow. 
 
-**[9:9]** The eighth mountain was full of fountains, and from those fountains were watered all kinds of the creatures of Cod. The ninth mountain had no water at all, but was wholly destitute of it; and nourished deadly serpents, very destructive to men. 
+**[9:9]** The eighth mountain was full of fountains, and from those fountains were watered all kinds of the creatures of God. The ninth mountain had no water at all, but was wholly destitute of it; and nourished deadly serpents, very destructive to men. 
 
 **[9:10]** The tenth mountain was full of tall trees, and altogether shady; and under the shade of them lay cattle resting and chewing the cud. 
 
@@ -524,9 +525,9 @@
 
 **[9:17]** When I saw this, I wondered with myself to see such great and noble things. And again I admired upon the account of those virgins, that they were so handsome and delicate; and stood with such firmness and constancy, as if they would carry the whole heaven. 
 
-**[9:18]** And as I was thinking thus within myself, the shepherd said unto me; What thickest thou within thyself? Why art thou disquieted, and fillest thyself with care? 
+**[9:18]** And as I was thinking thus within myself, the shepherd said unto me; What thinkest thou within thyself? Why art thou disquieted, and fillest thyself with care? 
 
-**[9:19]** Do not seem to consider, as if thou wert wise, what thou doest not understand, but pray unto the Lord, that thou mayest have ability to understand it. What is to come thou canst not understand, but thou seest that which is before thee. 
+**[9:19]** Do not seem to consider, as if thou wert wise, what thou dost not understand, but pray unto the Lord, that thou mayest have ability to understand it. What is to come thou canst not understand, but thou seest that which is before thee. 
 
 **[9:20]** Be not therefore disquieted at those things which thou canst not see; but get the understanding of those which thou seest. 
 
