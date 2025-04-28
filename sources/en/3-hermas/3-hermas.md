@@ -4,7 +4,7 @@
 
 **[1:1]** And he said onto me; Ye know that ye who are the servants of the Lord, live here as in a pilgrimage; for your city is far off from this city. 
 
-**[1:2]** If, therefore, ye know your city in which ye are to dwell, why do ye here buy estates, and provide yourselves with delicacies, and stately buildings, and supurfluous houses? For he that provides himself these things in this city, does not think of returning into his own city. 
+**[1:2]** If, therefore, ye know your city in which ye are to dwell, why do ye here buy estates, and provide yourselves with delicacies, and stately buildings, and superfluous houses? For he that provides himself these things in this city, does not think of returning into his own city. 
 
 **[1:3]** O foolish, and doubtful, and wretched man; who understandest not that all these things belong to other men, and are under the power of another. For the Lord of this city saith unto thee; Either obey my laws, or depart out of my city. 
 
@@ -24,6 +24,7 @@
 
 **[1:11]** And do not commit adultery, nor touch any other man's wife, nor desire her; but covet that which is thy own business, and thou shalt be saved.
 
+
 **[2:1]** As I was walking into the field, and considered the elm and the vine, and thought with myself of their fruits, an angel appeared unto me, and said unto me; What is it that thou thinkest upon thus long within thyself? 
 
 **[2:2]** And I said unto him, Sir, I think of this vine and this elm because their fruits are fair. And he said unto me; These two trees are set for a pattern to the servants of God. 
@@ -38,7 +39,7 @@
 
 **[2:7]** When therefore, the rich man reaches out to the poor those things which he wants, the poor man prays unto the Lord for the rich; and God grants unto the rich man all good things, because the poor man is rich in prayer; and his requests have great power with the Lord. 
 
-**[2:8]** Then the rich man ministers all thing to the poor, because he perceives that he is heard by the Lord; and he the more willingly and without doubting, affords him what he wants, and takes care that nothing be lacking to him. 
+**[2:8]** Then the rich man ministers all things to the poor, because he perceives that he is heard by the Lord; and he the more willingly and without doubting, affords him what he wants, and takes care that nothing be lacking to him. 
 
 **[2:9]** And the poor man gives thanks unto the Lord for the rich; because they both do their work from the Lord. 
 
@@ -50,6 +51,7 @@
 
 **[2:13]** Happy are they who are rich, and perceive themselves to be increased: for he that is sensible of this, will be able to minister somewhat to others.
 
+
 **[3:1]** Again he showed me many trees whose leaves were shed, and which seemed to me to be withered, for they were all alike. And he said unto me, Seest thou these trees? I said, Sir, I see that they look like dry trees. 
 
 **[3:2]** He answering, said unto me; These trees are like unto the men who live in the present world. I replied: Sir, why are they like unto dried trees? Because, said he, neither the righteous, nor unrighteous, are known from one another; but all are alike in this present world. 
@@ -58,9 +60,10 @@
 
 **[3:4]** As in the winter all the trees having lost their leaves, are like dry trees; nor can it be discerned which are dry and which are green: so in this present world neither the righteous, nor wicked are discerned from each other; but they are all alike.
 
+
 **[4:1]** Again he showed me many other trees, of which some had leaves, and others appeared dry and withered. And he said unto me, Seest thou these trees I answered, Sir, I see them; some are dry, and others full of leaves. 
 
-**[4:2]** These trees, saith be, which are green, are the righteous, who shall possess the world to come. For the world to come, is the summer to the righteous; but to sinners it is the winter. 
+**[4:2]** These trees, saith he, which are green, are the righteous, who shall possess the world to come. For the world to come, is the summer to the righteous; but to sinners it is the winter. 
 
 **[4:3]** When, therefore, the mercy of the Lord shall shine forth, then they who serve God shall be made manifest, and plain unto all. For as in the summer the fruit of every tree is shown and made manifest, so also the works of the righteous shall be declared and made manifest, and they shall all be restored in that world merry and joyful. 
 
@@ -76,9 +79,10 @@
 
 **[4:9]** If, therefore, thou shalt do this, thou mayest have fruit in the world to come; and as many as shall do in like manner, shall bring forth fruit.
 
+
 **[5:1]** As I was fasting, and sitting down in a certain mountain, and giving thanks unto God for all the things that he had done unto me; behold, I saw the Shepherd, who was wont to converse with me, sitting by me, and saying unto me: What has brought thee hither thus early in the morning? I answered, Sir, to-day I keep a station. 
 
-**[5:2]** He answered, What is a station; I replied, it is a fast. He said, What is that fast? I answered, I fast as I have been wont to do. Ye know not, said he, what it is to fast unto God; nor is this a fast which ye keep, profiting nothing with God. 
+**[5:2]** He answered, What is a station? I replied, It is a fast. He said, What is that fast? I answered, I fast as I have been wont to do. Ye know not, said he, what it is to fast unto God; nor is this a fast which ye keep, profiting nothing with God. 
 
 **[5:3]** Sir, said I, what makes you speak thus? He replied, I speak it, because it is not the true fast which you think that you keep; but I will show you what that is which is a complete fast, and acceptable unto God. 
 
@@ -122,13 +126,13 @@
 
 **[5:23]** They therefore so much the more assented to the master of the household; and he ought to make that servant his heir together with his son. 
 
-**[5:24]** I said unto him, sir, I know not these similitudes, neither can I understand them, unless you expound them unto me. I will, says he, expound, all things unto thee whatsoever I have talked with thee, or shown unto thee. 
+**[5:24]** I said unto him, Sir, I know not these similitudes, neither can I understand them, unless you expound them unto me. I will, says he, expound, all things unto thee whatsoever I have talked with thee, or shown unto thee. 
 
 **[5:25]** Keep the commandments of the Lord and thou shalt be approved, and shall be written in the number of those that keep his commandments. But if besides those things which the Lord hath commanded, thou shalt add some good thing; thou shall purchase to thyself a greater dignity, and be in more favour with the Lord than thou shouldst otherwise have been. 
 
 **[5:26]** If therefore thou shalt keep the commandments of the Lord, and shalt add to them these stations, thou shall rejoice; but especially if thou shalt keep them according to my commands. 
 
-**[5:27]** I said unto him, sir, whatsoever thou shah command me, I will observe; for I know that thou wilt be with me. I will, said he, be with thee who hast taken up such a resolution; and I will be with all those who purpose in like manner. 
+**[5:27]** I said unto him, sir, whatsoever thou shalt command me, I will observe; for I know that thou wilt be with me. I will, said he, be with thee who hast taken up such a resolution; and I will be with all those who purpose in like manner. 
 
 **[5:28]** This fast, saith he, whilst thou dost also observe the commandments of the Lord, is exceeding good; therefore thus shalt thou keep it. 
 
@@ -156,9 +160,9 @@
 
 **[5:40]** Thou therefore who art strengthened by that venerable messenger, and hast received such a powerful gift of prayer; seeing thou art not slothful, why dost thou not now ask understanding of the Lord, and receive it? 
 
-**[5:41]** I said unto him; seeing I have thee present, it is necessary that I should seek it of thee, and ask thee; for thou shewest all things unto me, and speakest to me when thou art present. 
+**[5:41]** I said unto him, Seeing I have thee present, it is necessary that I should seek it of thee, and ask thee; for thou shewest all things unto me, and speakest to me when thou art present. 
 
-**[5:42]** But if I should see or hear these things when thou wert not present, I would then ask the Lord that he would chew them unto me. 
+**[5:42]** But if I should see or hear these things when thou wert not present, I would then ask the Lord that he would shew them unto me. 
 
 **[5:43]** And he replied, I said a little before that thou wert subtle and bold, in that thou asketh the meaning of these similitudes. 
 
@@ -172,9 +176,9 @@
 
 **[5:48]** I said unto him, Sir, all these things are very excellent, and wonderful, and good. But, continued I, could I or any other man besides, though never so wise, have understood these things? 
 
-**[5:49]** Wherefore now, sir, tell me, what I ask. He replied, ask me what thou wilt. Why, said I, is the Son of God in this parable, put in the place of a servant. 
+**[5:49]** Wherefore now, sir, tell me, what I ask. He replied, Ask me what thou wilt. Why, said I, is the Son of God in this parable, put in the place of a servant?
 
-**[5:50]** Hearken, he said: the Son of God is not put in the condition of a servant, but in great power and authority. I said unto him, how, sir? I understand it not. 
+**[5:50]** Hearken, he said: the Son of God is not put in the condition of a servant, but in great power and authority. I said unto him, How, Sir? I understand it not. 
 
 **[5:51]** Because, said he, the Son set his messengers over those whom the Father delivered unto him, to keep every one of them; but he himself laboured very much, and suffered much, that he might blot out their offences. 
 
@@ -201,6 +205,7 @@
 **[5:62]** But now guard thyself; and seeing God is almighty and merciful, he will grant a remedy to what thou hast formerly done amiss, if for the time, to come thou shalt not defile thy body and spirit: 
 
 **[5:63]** For they are companions together, and the one cannot be defiled but the other will be so too. Keep there fore both of them pure, and thou shalt live unto God.
+
 
 **[6:1]** As I was sitting at home, and praising God for all the things which I had seen; and was thinking concerning the commands, that they were exceedingly good, and great, and honest, and pleasant, and such as were able to bring a man to salvation; I said thus within myself, I shall be happy if I walk according to these commands; and whosoever shall walk in them shall live unto God. 
 
