@@ -4,7 +4,7 @@
 
 **[1:1]** And it came to pass in the twenty-fifth year of Jeconiah king of Judah, that the word of the Lord came to Baruch, the son of Neriah, and said to him:
 
-**[1:2]** 'Hast thou seen all that this people are doing to Me, that the evils which these two tribes which remained have done are greater than (those of) the ten tribes which were carried away captive?
+**[1:2]** 'Hast thou seen all that this people are doing to Me; that the evils which these two tribes which remained have done are greater than (those of) the ten tribes which were carried away captive?
 
 **[1:3]** For the former tribes were forced by their kings to commit sin, but these two of themselves have been forcing and compelling their kings to commit sin.
 
@@ -12,7 +12,9 @@
 
 **[1:5]** And My people shall be chastened, and the time shall come when they will seek for the prosperity of their times.
 
+
 **[2:1]** For I have said these things to thee that thou mayst say (them) to Jeremiah, and to all those who are like you, in order that ye may retire from this city. Because your works are to this city as a firm pillar, and your prayers as a strong wall.'
+
 
 **[3:1]** And I said: 'O Lord, my Lord, have I come into the world for this purpose that I might see the evils of my mother? not (so) my Lord.
 
@@ -32,11 +34,12 @@
 
 **[3:9]** And where is all that which thou didst say to Moses regarding us?'
 
+
 **[4:1]** And the Lord said unto me: 'This city shall be delivered up for a time, and the people will be chastened during a time, and the world will not be given over to oblivion.
 
-**[4:2]** [Dost thou think that this is that city of which I said: "On the palms of My hands have I graven thee"?
+**[4:2]** [Dost thou think that this is that city of which I said: 'On the palms of My hands have I graven thee'?
 
-**[4:3]** It is not this building which is now built in your midst; (it is) that which will be revealed with Me, that which was prepared beforehand from the time when I took counsel to make Paradise, and showed it to Adam berfore he sinned, but when he transgressed the commandment, it was removed from him, as also Paradise.
+**[4:3]** It is not this building which is now built in your midst; (it is) that which will be revealed with Me, that which was prepared beforehand here from the time when I took counsel to make Paradise, and showed it to Adam before he sinned, but when he transgressed the commandment, it was removed from him, as also Paradise.
 
 **[4:4]** And after these things I showed it to My servant Abraham by night among the portions of the victims.
 
@@ -44,21 +47,23 @@
 
 **[4:6]** And now, behold, it is preserved with Me, as also Paradise. 
 
-**[4:7]** Go, therefore, and do as I command thee.']
+**[4:7]** Go, therefore, and do as I command thee."]
 
-**[5:1]** And I answered and said: I shall, therefore, be in great straits in Zion, because Thine enemies will come to that place and pollute Thy sanctuary, and lead Thine inheritance into captivity, and will lord it over those whom Thou hast loved, and they will depart again to the place of their idols, and will boast before them. And what wilt Thou do for Thy great name?'
 
-**[5:2]** And the Lord said unto me: My name and My glory have an eternal duration; My judgement, moreover, will preserve its right in its own time.
+**[5:1]** And I answered and said: "I shall, therefore, be in great straits in Zion, because Thine enemies will come to that place and pollute Thy sanctuary, and lead Thine inheritance into captivity, and will lord it over those whom Thou hast loved, and they will depart again to the place of their idols, and will boast before them. And what wilt Thou do for Thy great name?"
 
-**[5:3]** And thou wilt see with thine eyes that the enemy will not overthrow Zion, nor burn Jerusalem, but be subservient to the judge for the time.
+**[5:2]** And the Lord said unto me: "My name and My glory have an eternal duration; My judgement, moreover, will preserve its right in its own time.
 
-**[5:4]** But do thou go and do whatsoever I have said unto thee.'
+**[5:3]** And thou wilt see with thine eyes that the enemy will not overthrow Zion, nor burn Jerusalem, but be subservient to the judge for a time.
+
+**[5:4]** But do thou go and do whatsoever I have said unto thee."
 
 **[5:5]** And I went and took Jeremiah, and Adu, and Seriah, and Jabish, and Gedaliah, and all the honourable men of the people, and I led them to the valley of Cedron, and I narrated to them all that had been said to me.
 
 **[5:6]** And they lifted up their voice, and they all wept.
 
 **[5:7]** And we sat there and fasted until the evening.
+
 
 **[6:1]** And it came to pass on the morrow that, lo! the army of the Chaldees surrounded the city, and at the time of the evening I, Baruch, left the people, and I went forth and stood by the oak.
 
@@ -68,21 +73,23 @@
 
 **[6:4]** And I beheld, and lo! four angels standing at the four angles of the city, each of them holding a lamp of fire in his hands. 
 
-**[6:5]** And another angel began to descend from heaven, and said unto them: 'Hold your lamps, and do not light them till I tell you. 
+**[6:5]** And another angel began to descend from heaven, and said unto them: "Hold your lamps, and do not light them till I tell you. 
 
 **[6:6]** For I am first sent to speak a word to the earth, and to place in it what the Lord the Most High has commanded me." 
 
-**[6:7]** And I saw him descend into the Holy of Holies, and take from thence the veil, and the holy ephod, and the mercy-seat, and the two tables, and the holy raiment of the priests, and the altar of incense, and the forty-eight precious stones, wherewith the priest was adorned, and all the holy vessels of the tabernacle. 
+**[6:7]** And I saw him descend into the Holy of Holies, and take from thence the veil, and the holy ephod, and the mercy-seat, and the two tables, and the holy raiment of the priests, and the altar of incense, and the forty-eight precious stones, wherewith the priest was adorned, and all the holy vessels of the tabernacle."
 
 **[6:8]** And he spake to the earth with a loud voice: "Earth, earth, earth, hear the word of the mighty God, and receive what I commit to thee, and guard them until the last times, so that, when thou art ordered, thou mayst restore them, so that strangers may not get possession of them.
 
-**[6:9]** For the time comes when Jerusalem also will be delivered for a time, until it is said, that it is again restored for ever.
+**[6:9]** For the time comes when Jerusalem also will be delivered for a time, until it is said, that it is again restored for ever."
 
-**[6:10]** And the earth opened its mouth and swallowed them up."
+**[6:10]** And the earth opened its mouth and swallowed them up.
+
 
 **[7:1]** And after these things I heard that angel saying unto those angels who held the lamps: "Destroy, therefore, and overthrow its wall to its foundations, lest the enemy should boast and say: 'We have overthrown the wall of Zion, and we have burnt the place of the mighty God.'" 
 
 **[7:2]** And the Spirit restored me to the place where I had been standing before.
+
 
 **[8:1]** Now the angels did as he had commanded them, and when they had broken up the angles of the walls, a voice was heard from the interior of the temple, after the wall had fallen, saying:
 
@@ -94,21 +101,23 @@
 
 **[8:5]** And they led the people away captive, and slew some of them, and bound Zedekiah the king, and sent him to the king of Babylon.
 
+
 **[9:1]** And I, Baruch, came, and Jeremiah, whose heart was found pure from sins, who had not been captured in the seizure of the city.
 
 **[9:2]** And we rent our garments, and wept, and mourned, and fasted seven days.
+
 
 **[10:1]** And it came to pass after seven days, that the word of the Lord was upon me, and said unto me: 
 
 **[10:2]** "Tell Jeremiah to go and confirm the captivity of the people unto Babylon.
 
-**[10:3]** But do thou remain here amid the desolation of Zion, and I will show to thee after these days what will befall at the end of days.'
+**[10:3]** But do thou remain here amid the desolation of Zion, and I will show to thee after these days what will befall at the end of days."
 
 **[10:4]** And I said to Jeremiah as the Lord commanded me. 
 
 **[10:5]** And he, indeed, departed with the people, but I, Baruch, returned and sat before the gates of the temple, and I lamented with that lamentation over Zion and said:
 
-**[10:6]** 'Blessed is he who was not born, or being born, has died.
+**[10:6]** "Blessed is he who was not born, or being born, has died.
 
 **[10:7]** But as for us who live, woe unto us, because we see the afflictions of Zion, and what has befallen Jerusalem.
 
@@ -134,45 +143,47 @@
 
 **[10:18]** Moreover, ye priests, take ye the keys of the sanctuary and cast them into the height of heaven, and give them to the Lord and say: 'Guard Thy house Thyself, for lo! we are found false stewards.'
 
-**[10:19]** And you, ye virgins; who spin fine linen and silk with gold of Ophir, hasten and take all things and cast (them) into the fire, that it may bear them to Him who made them, and the flame send them to Him who created them, lest the enemy get possession of them.'
+**[10:19]** And you, ye virgins; who spin fine linen and silk with gold of Ophir, hasten and take all things and cast (them) into the fire, that it may bear them to Him who made them, and the flame send them to Him who created them, lest the enemy get possession of them."
 
-**[11:1]** Moreover, I, Baruch, say this against thee, Babylon: If thou hadst prospered, And Zion had dwelt in her glory, it would have been a great grief to us that thou shouldst be equal to Zion.
+
+**[11:1]** Moreover, I, Baruch, say this against thee, Babylon: "If thou hadst prospered, and Zion had dwelt in her glory, it would have been a great grief to us that thou shouldst be equal to Zion.
 
 **[11:2]** But now, lo! the grief is infinite, and the lamentation measureless, for lo! thou art prospered and Zion desolate.
 
 **[11:3]** Who will be judge regarding these things? or to whom shall we complain regarding that which has befallen us?
 
-**[11:4]** O Lord, how hast Thou borne (it)? Our fathers went to rest without grief and lo! the righteous sleep in the earth in tranquillity;
+**[11:4]** O Lord, how hast Thou borne (it)? Our fathers went to rest without grief, and lo! the righteous sleep in the earth in tranquillity;
 
 **[11:5]** For they knew not this anguish, nor yet had they heard of that which had befallen us.
 
-**[11:6]** Would that thou hadst ears, O earth, nd that thou hadst a heart, O dust, that ye might go and announce in Sheol, and say to the dead,
+**[11:6]** Would that thou hadst ears, O earth, and that thou hadst a heart, O dust, that ye might go and announce in Sheol, and say to the dead,
 
-**[11:7]** "Blessed are ye more than we who are living."
+**[11:7]** 'Blessed are ye more than we who are living.'"
 
-**[12:1]** But I will say this as I think, and I will speak against thee, O land, which art prospering.
+**[12:1]** "But I will say this as I think, and I will speak against thee, O land, which art prospering.
 
-**[12:2]** The noonday does not always burn, nor do the rays of the sun (always) give light.
+**[12:2]** The noonday does not always burn, nor do the constant rays of the sun (always) give light.
 
 **[12:3]** Do not conclude or expect that thou wilt always be prosperous and rejoicing, and be not greatly uplifted and boastful.
 
-**[12:4]** For assuredly in its own season wrath awake against thee, which now in long-suffering is held in as it were by reins.
+**[12:4]** For assuredly in its own season wrath awake against thee, which now in long-suffering is held in as it were by reins."
 
 **[12:5]** And when I had said these things, I fasted seven days.
 
+
 **[13:1]** And it came to pass after these things, that I, Baruch, was standing upon Mount Zion, and lo! a voice came from the height and said unto me:
 
-**[13:2]** 'Stand upon thy feet, Baruch, and hear the word of the mighty God.'
+**[13:2]** "Stand upon thy feet, Baruch, and hear the word of the mighty God.'
 
 **[13:3]** Because thou hast been astonied at what has befallen Zion, thou shalt therefore be assuredly preserved to the consummation of the times, that thou mayst be for a testimony.
 
 **[13:4]** So that, if ever those prosperous cities say: 'Why hath the mighty God brought upon us this retribution?'
 
-**[13:5]** Thou and those like thee may say to them (even) ye who have seen: 'This (evil) and these retributions which are coming upon you and upon your people (are sent) in its time that the nations may be perfectly chastened.
+**[13:5]** Thou and those like thee may say to them (even) ye who have seen: 'This evil and (these) retributions which are coming upon you and upon your people (are sent) in its time that the nations may be perfectly chastened.
 
 **[13:6]** And then they will expect.
 
-**[13:7]** And if they say at that time: When? 
+**[13:7]** And if they say at that time: 'When?' 
 
 **[13:8]** Thou wilt say to them: 'Ye who have drunk the strained wine, drink ye also of its dregs, the judgement of the Lofty One who has no respect of persons.'
 
@@ -184,7 +195,8 @@
 
 **[13:12]** For I have always benefited you, and ye have always been denied the beneficence."
 
-**[14:1]** And I answered and said: 'Lo! Thou hast shown me the method of the times, and that which shall be alter these things
+
+**[14:1]** And I answered and said: "Lo! Thou hast shown me the method of the times, and that which shall be after these things,
 and Thou hast said unto me, that the retribution, which has been spoken of by Thee, will be of advantage to the nations. 
 
 **[14:2]** And now I know that those who have sinned are many, and they have lived in prosperity, and departed from the world, but that few nations will be left in those times, to whom those words shall be said which Thou didst say.
@@ -193,19 +205,19 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[14:4]** But again I will speak in Thy presence:
 
-**[14:5]** What have they profited who had knowledge before Thee, and have not walked in vanity as the rest of the nations, and have not said to the dead: "Give us life," but always feared Thee, and have not left Thy ways?
+**[14:5]** What have they profited who confessed before Thee, and have not walked in vanity as the rest of the nations, and have not said to the dead: 'Give us life,' but always feared Thee, and have not left Thy ways?
 
 **[14:6]** And lo! they have been carried off, nor on their account hast Thou had mercy on Zion.
 
 **[14:7]** And if others did evil, it was due to Zion, that on account of the works of those who wrought good works she should be forgiven, and should not be overwhelmed on account of the works of those who wrought unrighteousness.
 
-**[14:8]** But who, O Lord, my Lord, will comprehend Thy judgement, Or who will search out the profoundness of Thy way? or who will think out the gravity of Thy way?
+**[14:8]** But who, O Lord, my Lord, will comprehend Thy judgement, or who will search out the profoundness of Thy path? or who will think out the gravity of Thy way?
 
-**[14:9]** Or who will be able to think out Thy incomprehensible counsel? or who of those that are born has ever found The beginning or end of Thy wisdom?
+**[14:9]** Or who will be able to think out Thy incomprehensible counsel? or who of those that are born has ever found the beginning or end of Thy wisdom?
 
 **[14:10]** For we have all been made like a breath.
 
-**[14:11]** For as the breath ascends from the heart, and returning not is extinguished, so it is with the nature of men, who depart not according to their own will, and know not what will befall them in the end.
+**[14:11]** For as the breath ascends from the heart, and returning not is extinguished, such is the nature of men, who depart not according to their own will, and know not what will befall them in the end.
 
 **[14:12]** For the righteous justly hope for the end, and without fear depart from this habitation, because they have with Thee a store of works preserved in treasuries.
 
@@ -221,7 +233,7 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[14:18]** And Thou didst say that Thou wouldst make for Thy world man as the administrator of Thy works, that it might be known that he was by no means made on account of the world, but the world on account of him.
 
-**[14:19]** And now I see that as for the world which was made on account of us, lo! it abides, but we, on account of whom it was made, depart.'
+**[14:19]** And now I see that as for the world which was made on account of us, lo! it abides, but we, on account of whom it was made, depart."
 
 **[15:1]** And the Lord answered and said unto me: 'Thou art rightly astonied regarding the departure of man, but thou hast not judged well regarding the evils which befall those who sin.
 
