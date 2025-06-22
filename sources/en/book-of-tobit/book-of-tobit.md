@@ -351,6 +351,7 @@
 
 **[10:12]** And he said to his daughter, Honour thy father and thy mother in law, which are now thy parents, that I may hear good report of thee. And he kissed her. Edna also said to Tobias, The Lord of heaven restore thee, my dear brother, and grant that I may see thy children of my daughter Sara before I die, that I may rejoice before the Lord: behold, I commit my daughter unto thee of special trust; where are do not entreat her evil.
 
+
 **[11:1]** After these things Tobias went his way, praising God that he had given him a prosperous journey, and blessed Raguel and Edna his wife, and went on his way till they drew near unto Nineve.
 
 **[11:2]** Then Raphael said to Tobias, Thou knowest, brother, how thou didst leave thy father:
@@ -388,6 +389,7 @@
 **[11:18]** And Achiacharus, and Nasbas his brother’s son, came:
 
 **[11:19]** And Tobias’ wedding was kept seven days with great joy.
+
 
 **[12:1]** Then Tobit called his son Tobias, and said unto him, My son, see that the man have his wages, which went with thee, and thou must give him more.
 
@@ -433,6 +435,7 @@
 
 **[12:22]** Then they confessed the great and wonderful works of God, and how the angel of the Lord had appeared unto them.
 
+
 **[13:1]** Then Tobit wrote a prayer of rejoicing, and said, Blessed be God that liveth for ever, and blessed be his kingdom.
 
 **[13:2]** For he doth scourge, and hath mercy: he leadeth down to hell, and bringeth up again: neither is there any that can avoid his hand.
@@ -468,6 +471,7 @@
 **[13:17]** And the streets of Jerusalem shall be paved with beryl and carbuncle and stones of Ophir.
 
 **[13:18]** And all her streets shall say, Alleluia; and they shall praise him, saying, Blessed be God, which hath extolled it for ever.
+
 
 **[14:1]** So Tobit made an end of praising God.
 
