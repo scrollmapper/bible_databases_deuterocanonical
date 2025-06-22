@@ -20,7 +20,7 @@
 
 **[1:9]** For Simeon and Gad came against Joseph to kill him, and he said unto them with tears: Pity me, my brethren, have mercy upon the bowels of Jacob our father: lay not upon me your hands to shed innocent blood, for I have not sinned against you.
 
-**[1:10]** And if indeed I have sinned, with chastening chastise me, my brethren, but lay not upon me your hand, for the sake of Jacob our father,
+**[1:10]** And if indeed I have sinned, with chastening chastise me, my brethren, but lay not upon me your hand, for the sake of Jacob our father.
 
 **[1:11]** And as he spoke these words, wailing as he did so, I was unable to bear his lamentations, and began to weep, and my liver was poured out, and all the substance of my bowels was loosened.
 
@@ -46,7 +46,7 @@
 
 **[1:22]** For when they came into Egypt they were unloosed by the servants of Joseph outside the gate, and so they made obeisance to Joseph after the fashion of King Pharaoh.
 
-**[1:23]** And not only did they make obeisance to him, but were spit upon also, falling down before him forthwith, and so they were put to shame before. the Egyptians.
+**[1:23]** And not only did they make obeisance to him, but were spit upon also, falling down before him forthwith, and so they were put to shame before the Egyptians.
 
 **[1:24]** For after this the Egyptians heard all the evils that they had done to Joseph.
 
@@ -58,7 +58,7 @@
 
 **[1:28]** And when Reuben came and heard that while he was away Joseph had been sold, he rent his garments, and mourning, said:
 
-**[1:29]** How shall I look on the face of my father Jacob? And he took the money and ran after the merchants but as he failed to find them he returned grieving.
+**[1:29]** How shall I look on the face of my father Jacob? And he took the money and ran after the merchants but as he failed to find them, he returned grieving.
 
 **[1:30]** But the merchants had left the broad road and marched through the Troglodytes by a short cut.
 
@@ -120,7 +120,7 @@
 
 **[2:19]** Have, therefore, yourselves also, my children, compassion towards every man with mercy, that the Lord also may have compassion and mercy upon you.
 
-**[2:20]** Because also in, the last days God will send His compassion on the earth, and wheresoever He findeth bowels of mercy He dwelleth in him.
+**[2:20]** Because also in the last days God will send His compassion on the earth, and wheresoever He findeth bowels of mercy He dwelleth in him.
 
 **[2:21]** For in the degree in which a man hath compassion upon his neighbours, in the same degree hath the Lord also upon him.
 
@@ -134,7 +134,7 @@
 
 **[2:26]** But if they are divided into many streams, the earth swalloweth them up, and they vanish away.
 
-**[2:27]** So shall ye also be if ye be divided. Be not Ye, therefore, divided into two heads for everything which the Lord made .hath but one head, and two shoulders, two hands, two feet, and all the remaining members.
+**[2:27]** So shall ye also be if ye be divided. Be not ye, therefore, divided into two heads, for everything which the Lord made hath but one head, and two shoulders, two hands, two feet, and all the remaining members.
 
 **[2:28]** For I have learnt in the writing of my fathers, that ye shall be divided in Israel, and ye shall follow two kings, and shall work every abomination.
 
