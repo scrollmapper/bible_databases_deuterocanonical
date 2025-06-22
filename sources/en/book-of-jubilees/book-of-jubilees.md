@@ -1455,7 +1455,8 @@
 **[25:23]** And she kissed him, and said to him; 'May the Lord of the world love thee as the heart of thy mother and her affection rejoice in thee and bless thee.' And she ceased from blessing.
 
 
-**[26:1]** And in the seventh year of this week Isaac called Esau, his elder Son, and said unto him: ' I am [2114 A.M.] old, my son, and behold my eyes are dim in seeing, and I know not the day of my death.
+
+**[26:1]** And in the seventh year of this week Isaac called Esau, his elder Son, and said unto him: ' I am old, my son, and behold my eyes are dim in seeing, and I know not the day of my death.
 
 **[26:2]** And now take thy hunting weapons thy quiver and thy bow, and go out to the field, and hunt and catch me (venison), my son, and make me savoury meat, such as my soul loveth, and bring it to me that I may eat, and that my soul may bless thee before I die.'
 
@@ -1473,7 +1474,7 @@
 
 **[26:9]** And Rebecca, his mother, said unto him: 'Upon me be thy curse, my son, only obey my voice.'
 
-**[26:10]** And Jacob obeyed the voice of Rebecca, his mother, and went and fetched two good and fat kids of the goats, and brought them to his mother, and his mother made them ~savoury meat~ such as he loved.
+**[26:10]** And Jacob obeyed the voice of Rebecca, his mother, and went and fetched two good and fat kids of the goats, and brought them to his mother, and his mother made them savoury meat such as he loved.
 
 **[26:11]** And Rebecca took the goodly rainment of Esau, her elder son, which was with her in the house, and she clothed Jacob, her younger son, (with them), and she put the skins of the kids upon his hands and on the exposed parts of his neck.
 
@@ -1481,9 +1482,9 @@
 
 **[26:13]** And Jacob went in to his father and said: 'I am thy son: I have done according as thou badest me: arise and sit and eat of that which I have caught, father, that thy soul may bless me.'
 
-**[26:14]** And Isaac said to his son: 'How hast thou found so quickly, my son?
+**[26:14]** And Isaac said to his son: 'How hast thou found so quickly, my son?'
 
-**[26:15]** 'And Jacob said: 'Because <the Lord> thy God caused me to find.'
+**[26:15]** 'And Jacob said: 'Because the Lord thy God caused me to find.'
 
 **[26:16]** And Isaac said unto him: 'Come near, that I may feel thee, my son, if thou art my son Esau or not.'
 
@@ -1497,11 +1498,11 @@
 
 **[26:21]** And Isaac, his father, said unto him: 'Come near and kiss me, my son.
 
-**[26:22]** And he came near and kissed him. And he smelled the smell of his raiment, and he blessed him and said: 'Behold, the smell of my son is as the smell of a <full> field which the Lord hath blessed.
+**[26:22]** And he came near and kissed him. And he smelled the smell of his raiment, and he blessed him and said: 'Behold, the smell of my son is as the smell of a full field which the Lord hath blessed.
 
-**[26:23]** And may the Lord give thee of the dew of heaven And of the dew of the earth, and plenty of corn and oil: Let nations serve thee, And peoples bow down to thee.
+**[26:23]** And may the Lord give thee of the dew of heaven and of the dew of the earth, and plenty of corn and oil: let nations serve thee, and peoples bow down to thee.
 
-**[26:24]** Be lord over thy brethren, And let thy mother's sons bow down to thee; And may all the blessings wherewith the Lord hath blessed me and blessed Abraham, my father; Be imparted to thee and to thy seed for ever: Cursed be he that curseth thee, And blessed be he that blesseth thee.'
+**[26:24]** Be lord over thy brethren, and let thy mother's sons bow down to thee; and may all the blessings wherewith the Lord hath blessed me and blessed Abraham, my father, be imparted to thee and to thy seed for ever: cursed be he that curseth thee, and blessed be he that blesseth thee.'
 
 **[26:25]** And it came to pass as soon as Isaac had made an end of blessing his son Jacob, and Jacob had gone forth from Isaac his father he hid himself and Esau, his brother, came in from his hunting.
 
@@ -1513,17 +1514,18 @@
 
 **[26:29]** And it came to pass when Esau heard the words of his father Isaac that he cried with an exceeding great and bitter cry, and said unto his father: 'Bless me, (even) me also, father.'
 
-**[26:30]** And he said unto him: 'Thy brother came with guile, and hath taken away thy blessing.' And he said: 'Now I know why his name is named Jacob: behold, he hath supplanted me these two times: he took away my birth-right, and now he hath taken away my blessing.'
+**[26:30]** And he said unto him: 'Thy brother came with guile, and hath taken away thy blessing.' And he said: 'Now I know why his name is named Jacob: behold, he hath supplanted me these two times: he took away my birthright, and now he hath taken away my blessing.'
 
-**[26:31]** And he said: 'Hast thou not reserved a blessing for me, father?' and Isaac answered and said unto Esau: 'Behold, I have made him thy lord, And all his brethren have I given to him for servants, And with plenty of corn and wine and oil have I strengthened him: And what now shall I do for thee, my son?'
+**[26:31]** And he said: 'Hast thou not reserved a blessing for me, father?' and Isaac answered and said unto Esau: 'Behold, I have made him thy lord, and all his brethren have I given to him for servants, and with plenty of corn and wine and oil have I strengthened him: and what now shall I do for thee, my son?'
 
 **[26:32]** And Esau said to Isaac, his father: 'Hast thou but one blessing, O father? Bless me, (even) me also, father: '
 
-**[26:33]** And Esau lifted up his voice and wept. And Isaac answered and said unto him: 'Behold, far from the dew of the earth shall be thy dwelling, And far from the dew of heaven from above.
+**[26:33]** And Esau lifted up his voice and wept. And Isaac answered and said unto him: 'Behold, far from the dew of the earth shall be thy dwelling, and far from the dew of heaven from above.
 
-**[26:34]** And by thy sword wilt thou live, And thou wilt serve thy brother. And it shall come to pass when thou becomest great, And dost shake his yoke from off thy neck, Thou shalt sin a complete sin unto death, And thy seed shall be rooted out from under heaven.'
+**[26:34]** And by thy sword wilt thou live, and thou wilt serve thy brother. and it shall come to pass when thou becomest great, and dost shake his yoke from off thy neck, thou shalt sin a complete sin unto death, and thy seed shall be rooted out from under heaven.'
 
 **[26:35]** And Esau kept threatening Jacob because of the blessing wherewith his father blessed him, and he: said in his heart: 'May the days of mourning for my father now come, so that I may slay my brother Jacob.'
+
 
 **[27:1]** And the words of Esau, her elder son, were told to Rebecca in a dream, and Rebecca sent and called Jacob her younger son,
 
@@ -1543,7 +1545,7 @@
 
 **[27:9]** And Isaac called Jacob and blessed him, and admonished him and said unto him: 'Do not take thee a wife of any of the daughters of Canaan;
 
-**[27:10]** arise and go to Mesopotamia, to the house of Bethuel, thy mother's father, and take thee a wife from thence of the daughters of Laban, thy mother's brother.
+**[27:10]** Arise and go to Mesopotamia, to the house of Bethuel, thy mother's father, and take thee a wife from thence of the daughters of Laban, thy mother's brother.
 
 **[27:11]** And God Almighty bless thee and increase and multiply thee that thou mayest become a company of nations, and give thee the blessings of my father Abraham, to thee and to thy seed after thee, that thou mayest inherit the land of thy sojournings and all the land which God gave to Abraham: go, my son, in peace.'
 
@@ -1561,9 +1563,9 @@
 
 **[27:18]** And Isaac comforted Rebecca on account of her son Jacob, and blessed him.
 
-**[27:19]** And Jacob went from the Well of the Oath to go to Haran on the first year of the second week in the forty-fourth jubilee, and he came to Luz on the mountains, that is, Bethel, on the new moon of the first month of this week, [2115 A.M.] and he came to the place at even and turned from the way to the west of the road that night: and he slept there; for the sun had set.
+**[27:19]** And Jacob went from the Well of the Oath to go to Haran on the first year of the second week in the forty-fourth jubilee, and he came to Luz on the mountains, that is, Bethel, on the new moon of the first month of this week, and he came to the place at even and turned from the way to the west of the road that night: and he slept there; for the sun had set.
 
-**[27:20]** And he took one of the stones of that place and laid <it at his head> under the tree, and he was journeying alone, and he slept.
+**[27:20]** And he took one of the stones of that place and laid it at his head under the tree, and he was journeying alone, and he slept.
 
 **[27:21]** And he dreamt that night, and behold a ladder set up on the earth, and the top of it reached to heaven, and behold, the angels of the Lord ascended and descended on it: and behold, the Lord stood upon it.
 
