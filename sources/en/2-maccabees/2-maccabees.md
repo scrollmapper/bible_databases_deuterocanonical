@@ -491,7 +491,7 @@
 
 **[7:26]** And when he had exhorted her with many words, she promised him that she would counsel her son.
 
-**[7:27]** But she bowing herself toward him, laughing the cruel tyrant to scorn, spake in her country language on this manner; O my son, have pity upon me that bare thee nine months in my womb, and gave thee such three years, and nourished thee, and brought thee up unto this age, and endured the troubles of education.
+**[7:27]** But she bowing herself toward him, laughing the cruel tyrant to scorn, spake in her country language on this manner; O my son, have pity upon me that bare thee nine months in my womb, and gave thee suck three years, and nourished thee, and brought thee up unto this age, and endured the troubles of education.
 
 **[7:28]** I beseech thee, my son, look upon the heaven and the earth, and all that is therein, and consider that God made them of things that were not; and so was mankind made likewise.
 
@@ -952,6 +952,7 @@
 
 **[13:26]** Lysias went up to the judgment seat, said as much as could be in defence of the cause, persuaded, pacified, made them well affected, returned to Antioch. Thus it went touching the king’s coming and departing.
 
+
 **[14:1]** After three years was Judas informed, that Demetrius the son of Seleucus, having entered by the haven of Tripolis with a great power and navy,
 
 **[14:2]** Had taken the country, and killed Antiochus, and Lysias his protector.
@@ -998,7 +999,7 @@
 
 **[14:23]** Now Nicanor abode in Jerusalem, and did no hurt, but sent away the people that came flocking unto him.
 
-**[14:24]** And he would not willingly have Judas out of his sight: for he love the man from his heart
+**[14:24]** And he would not willingly have Judas out of his sight: for he love the man from his heart,.
 
 **[14:25]** He prayed him also to take a wife, and to beget children: so he married, was quiet, and took part of this life.
 
@@ -1043,6 +1044,7 @@
 **[14:45]** Nevertheless, while there was yet breath within him, being inflamed with anger, he rose up; and though his blood gushed out like spouts of water, and his wounds were grievous, yet he ran through the midst of the throng; and standing upon a steep rock,
 
 **[14:46]** When as his blood was now quite gone, he plucked out his bowels, and taking them in both his hands, he cast them upon the throng, and calling upon the Lord of life and spirit to restore him those again, he thus died.
+
 
 **[15:1]** But Nicanor, hearing that Judas and his company were in the strong places about Samaria, resolved without any danger to set upon them on the sabbath day.
 
