@@ -219,19 +219,19 @@
 
 **[6:6]** For if ye shall keep yourselves from sin for the time to come, ye shall cut off a great deal of your former sins. Walk in my commands, and ye shall live unto God: These things have I spoken unto you. 
 
-**[6:7]** And when he, had said this, he added; let us go into the field, and I will show thee shepherds of sheep. I replied, sir, let us go. 
+**[6:7]** And when he had said this, he added, Let us go into the field, and I will show thee shepherds of sheep. I replied, Sir, let us go. 
 
 **[6:8]** And we came into a certain field, and there he showed me a young shepherd, finely arrayed, with his garments of a purple colour. And he fed large flocks; and his sheep were full of pleasure, and in much delight and cheerfulness; and they skipping, ran here and there. 
 
 **[6:9]** And the shepherd took very great satisfaction in his flock; and the countenance of that shepherd was cheerful, running up and down among his flock. 
 
-**[6:10]** Then the angel said unto me, Seest then this shepherd? I answered, sir, I see him. He said unto me, this is the messenger of delight and pleasure. He therefore corrupts the minds of the servants of God, and turns them from the truth, delighting them with many pleasures, and they perish. 
+**[6:10]** Then the angel said unto me, Seest thou this shepherd? I answered, sir, I see him. He said unto me, This is the messenger of delight and pleasure. He therefore corrupts the minds of the servants of God, and turns them from the truth, delighting them with many pleasures, and they perish. 
 
 **[6:11]** For they forget the commands of the living God, and live in luxury and in vain pleasures, and are corrupted by the evil angel, some of them even unto death; and others to a falling away. 
 
-**[6:12]** I replied; I understand not what you mean, by saying unto death, and to a falling away. Hear, says he; all those sheep which thou sawest exceeding joyful, are such as have for ever departed from God, and given selves up to the lusts of this present time. 
+**[6:12]** I replied, I understand not what you mean, by saying unto death, and to a falling away. Hear, says he, all those sheep which thou sawest exceeding joyful, are such as have for ever departed from God, and given themselves up to the lusts of this present time. 
 
-**[6:13]** To these therefore there is no return, by repentance, unto life; because, to their other sins they have added this, that they have blasphemed the name of the lord: These kind of men are ordained unto death. 
+**[6:13]** To these therefore there is no return, by repentance, unto life; because, to their other sins they have added this, that they have blasphemed the name of the Lord: These kind of men are ordained unto death. 
 
 **[6:14]** But those sheep which thou sawest not leaping, but feeding in one place; are such as have indeed given themselves up to pleasure and delights; but have not spoken anything wickedly against the Lord. 
 
@@ -239,7 +239,7 @@
 
 **[6:16]** Again we went a little farther forward, and he showed me a great shepherd, who had as it were a rustic figure; clad with a white goat's skin, having his bag upon his shoulder, and in his hand a stick full of knots, and very hard, and a whip in his other hand; and his countenance was stern and sour, enough to affright a man; such was his look. 
 
-**[6:17]** He took from that young shepherd such sheep as lived in pleasures, but did not skip up and down; and drove them into a certain steep craggy place fall of thorns and briars, insomuch that they could not get themselves free from them: 
+**[6:17]** He took from that young shepherd such sheep as lived in pleasures, but did not skip up and down; and drove them into a certain steep craggy place full of thorns and briars, insomuch that they could not get themselves free from them: 
 
 **[6:18]** But being entangled in them, fed upon thorns and briars, and were grievously tormented with his whipping. For he still drove them on, and afforded them not any place, or time, to stand still. 
 
@@ -253,7 +253,7 @@
 
 **[6:23]** For many with an unsettled design at many things, and it profiteth them not; and they say that they have not success in their undertakings. 
 
-**[6:24]** They do not call to their mind what they have done amiss, and they complain of the Lord. When therefore they shall have undergone all kind of vexation and inconvenience; then they are delivered over to me for good instruction, and are confirmed in the Faith of the Lord, and serve the Lord all the rest of their days with a pure mind. 
+**[6:24]** They do not call to their mind what they have done amiss, and they complain of the Lord. When therefore they shall have undergone all kind of vexation and inconvenience, then they are delivered over to me for good instruction, and are confirmed in the Faith of the Lord, and serve the Lord all the rest of their days with a pure mind. 
 
 **[6:25]** And when they begin to repent of their sins, then they call to mind their works which they have done amiss, and give honour to God, saying, that he is a just Judge, and they have deservedly suffered all things according to their deeds. 
 
@@ -267,11 +267,13 @@
 
 **[6:30]** He answered me; Thou art foolish, neither understandest thou the efficacy of this punishment. I said unto him; Sir, if I understood it, I would not desire you to tell me. 
 
-**[6:31]** Hearken, said he, and learn what the force of both is, both of the pleasure and of the punishment. An hour of pleasure is terminated within its own space: but one hour of punishment has the efficacy of thirty days, a Whosoever therefore enjoys his false pleasure for one day, and is one day, tormented; that one day of punishment is equivalent to a whole year's space. 
+**[6:31]** Hearken, said he, and learn what the force of both is, both of the pleasure and of the punishment. An hour of pleasure is terminated within its own space: but one hour of punishment has the efficacy of thirty days. Whosoever therefore enjoys his false pleasure for one day, and is one day tormented; that one day of punishment is equivalent to a whole year's space. 
 
 **[6:32]** Thus look how many days any one pursues his pleasures, so many years is he punished for it. You see therefore how that the time of worldly enjoyments is but short; but that of pain and torments, a great deal more. 
 
-**[6:33]** I replied; Sir, forasmuch as I do not understand at all these times of pleasure and pain; I entreat you that you would explain yourself more clearly concerning them. He answered me, saying; Thy foolishness still sticks unto thee. 34. Shouldst thou not rather purify thy mind, and serve God? Take heed, lest when thy time is fulfilled, thou be found still unwise. Hear then, as thou desirest, that thou mayest the more easily understand. 
+**[6:33]** I replied; Sir, forasmuch as I do not understand at all these times of pleasure and pain, I entreat you that you would explain yourself more clearly concerning them. He answered me, saying; Thy foolishness still sticks unto thee. 
+
+**[6:34]** Shouldst thou not rather purify thy mind, and serve God? Take heed, lest when thy time is fulfilled, thou be found still unwise. Hear then, as thou desirest, that thou mayest the more easily understand. 
 
 **[6:35]** He that gives himself up one day to his pleasures and delights, and does whatsoever his soul desires, is full of great folly, nor understands what he does, but the day following forgets what he did the day before. 
 
@@ -293,11 +295,12 @@
 
 **[6:44]** And whosoever shall continue in them, and shall not repent of what they have done, shall bring death upon themselves.
 
-**[7:1]** After a few days I saw the same person that before talked with me, in the same field, in which I had seen those shepherds, And he said unto me; What seekest thou? Sir, said I, I came to entreat you that You would command the shepherd, who is the minister of punishment, to depart out of my house, because he greatly afflicts me. 
+
+**[7:1]** After a few days I saw the same person that before talked with me, in the same field, in which I had seen those shepherds, And he said unto me; What seekest thou? Sir, said I, I came to entreat you that you would command the shepherd, who is the minister of punishment, to depart out of my house, because he greatly afflicts me. 
 
 **[7:3]** And he answered, It is necessary for thee to endure inconveniencies and vexations; for so that good angel hath commanded concerning thee, because he would try thee. 
 
-**[7:4]** Sir, said I; What so great offence have I committed, that I should be delivered to this messenger? Hearken, said he: Thou art indeed guilty of many sins, yet not so many that thou shouldest be delivered to this messenger. 
+**[7:4]** Sir, said I, What so great offence have I committed, that I should be delivered to this messenger? Hearken, said he: Thou art indeed guilty of many sins, yet not so many that thou shouldest be delivered to this messenger. 
 
 **[7:5]** But thy house hath committed many sins and offences, and therefore that good messenger being grieved at their doings commanded that for some time thou shouldst suffer affliction; that they may both repent of what they have done, and may wash themselves from all the lusts of this present world. 
 
@@ -311,21 +314,22 @@
 
 **[7:10]** No, they are not presently; but he that repents must afflict his soul and show himself humble in all his affairs, and undergo many and divers vexations. 
 
-**[7:11]** And when he shall have suffered all things that were appointed for him; then perhaps HE that made him, and formed all things besides, will be moved with compassion towards him, and afford him some remedy; and especially if HE shall perceive his heart who repents, to be free from every evil work. 
+**[7:11]** And when he shall have suffered all things that were appointed for him; then perhaps He that made him, and formed all things besides, will be moved with compassion towards him, and afford him some remedy; and especially if He shall perceive his heart who repents, to be free from every evil work. 
 
 **[7:12]** But at present it is expedient for thee, and for thy house, to be grieved; and it is needful that thou shoudest endure much vexation, as the angel of the Lord who committed thee unto me, has commanded. 
 
-**[7:13]** Rather give thanks unto the Lord, that knowing what was to come he thought thee worthy, to whom he should foretel that trouble was coming upon thee, who art able to bear it. 
+**[7:13]** Rather give thanks unto the Lord, that knowing what was to come he thought thee worthy, to whom he should foretell that trouble was coming upon thee, who art able to bear it. 
 
 **[7:14]** I said unto him; Sir, but be thou also with me, and I shall easily undergo any trouble. I will, said he, be with thee; and I will entreat the messenger who is set over thy punishment, that he would moderate his afflictions towards thee. 
 
 **[7:15]** And moreover thou shalt suffer adversity but for a little time; and then thou shalt again be restored to thy former state; only continue on in the humility of thy mind. 
 
-**[7:16]** Obey the Lord with a pure heart; thou, and thy house, and thy children; and. walk in the commands which I have delivered unto thee; and then thy repentance may be firm and pure. 
+**[7:16]** Obey the Lord with a pure heart; thou, and thy house, and thy children; and walk in the commands which I have delivered unto thee; and then thy repentance may be firm and pure. 
 
 **[7:17]** And if thou shalt keep these things with thy house, thy inconveniencies shall depart from thee. 
 
 **[7:18]** And all vexation shall in like manner depart from those, whosoever shall walk according to these commands.
+
 
 **[8:1]** Again he showed me a willow which covered the fields and the mountains, under whose shadow came all such as were called by the name of the Lord. 
 
