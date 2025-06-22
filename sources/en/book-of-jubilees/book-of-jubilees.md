@@ -1339,18 +1339,19 @@
 
 **[23:32]** And do thou, Moses, write down these words; for thus are they written, and they record (them) on the heavenly tablets for a testimony for the generations for ever.
 
-
 **[24:1]** And it came to pass after the death of Abraham, that the Lord blessed Isaac his son, and he arose from Hebron and went and dwelt at the Well of the Vision in the first year of the third week [2073 A.M.] of this jubilee, seven years.
 
-**[24:2]** And in the first year of the fourth week a famine began in the land, [2080 A.M.] besides the first famine, which had been in the days of Abraham.
+**[24:1]** And it came to pass after the death of Abraham, that the Lord blessed Isaac his son, and he arose from Hebron and went and dwelt at the Well of the Vision in the first year of the third week of this jubilee, seven years.
 
-**[24:3]** And Jacob sod lentil pottage, and Esau came from the field hungry. And he said to Jacob his brother: 'Give me of this red pottage.' And Jacob said to him: 'Sell to me thy [primogeniture, this] birthright and I will give thee bread, and also some of this lentil pottage.'
+**[24:2]** And in the first year of the fourth week a famine began in the land, besides the first famine, which had been in the days of Abraham.
+
+**[24:3]** And Jacob sod lentil pottage, and Esau came from the field hungry. And he said to Jacob his brother: 'Give me of this red pottage.' And Jacob said to him: 'Sell to me thy primogeniture, this birthright and I will give thee bread, and also some of this lentil pottage.'
 
 **[24:4]** And Esau said in his heart: 'I shall die; of what profit to me is this birthright?
 
 **[24:5]** 'And he said to Jacob: 'I give it to thee.' And Jacob said: 'Swear to me, this day,' and he sware unto him.
 
-**[24:6]** And Jacob gave his brother Esau bread and pottage, and he eat till he was satisfied, and Esau despised his birthright; for this reason was Esau's name called Edom, on account of the red pottage which Jacob gave him for his birthright.
+**[24:6]** And Jacob gave his brother Esau bread and pottage, and he ate till he was satisfied, and Esau despised his birthright; for this reason was Esau's name called Edom, on account of the red pottage which Jacob gave him for his birthright.
 
 **[24:7]** And Jacob became the elder, and Esau was brought down from his dignity.
 
@@ -1364,7 +1365,7 @@
 
 **[24:12]** And he dwelt in Gelar three weeks of years.
 
-**[24:13]** And Abimelech charged concerning him, [2080-2101 A.M.] and concerning all that was his, saying: 'Any man that shall touch him or aught that is his shall surely die.'
+**[24:13]** And Abimelech charged concerning him, and concerning all that was his, saying: 'Any man that shall touch him or aught that is his shall surely die.'
 
 **[24:14]** And Isaac waxed strong among the Philistines, and he got many possessions, oxen and sheep and camels and asses and a great household.
 
@@ -1380,7 +1381,7 @@
 
 **[24:20]** And they dug a second well, and they strove for that also, and he called its name 'Enmity'. And he arose from thence and they digged another well, and for that they strove not, and he called the name of it 'Room', and Isaac said: 'Now the Lord hath made room for us, and we have increased in the land.'
 
-**[24:21]** And he went up from thence to the Well of the Oath in the first year of the first week in the [2108 A.M.] forty-fourth jubilee.
+**[24:21]** And he went up from thence to the Well of the Oath in the first year of the first week in the forty-fourth jubilee.
 
 **[24:22]** And the Lord appeared to him that night, on the new moon of the first month, and said unto him: 'I am the God of Abraham thy father; fear not, for I am with thee, and shall bless thee and shall surely multiply thy seed as the sand of the earth, for the sake of Abraham my servant.'
 
@@ -1398,15 +1399,16 @@
 
 **[24:29]** And whoever escapes the sword of the enemy and the Kittim, may the righteous nation root out in judgment from under heaven; for they shall be the enemies and foes of my children throughout their generations upon the earth.
 
-**[24:30]** And no remnant shall be left to them, Nor one that shall be saved on the day of the wrath of judgment; For destruction and rooting out and expulsion from the earth is the whole seed of the Philistines (reserved), And there shall no longer be left for these Caphtorim a name or a seed on the earth.
+**[24:30]** And no remnant shall be left to them, nor one that shall be saved on the day of the wrath of judgment; for destruction and rooting out and expulsion from the earth is the whole seed of the Philistines (reserved), and there shall no longer be left for these Caphtorim a name or a seed on the earth.
 
-**[24:31]** For though he ascend unto heaven, Thence shall he be brought down, And though he make himself strong on earth, Thence shall he be dragged forth, And though he hide himself amongst the nations, Even from thence shall he be rooted out; And though he descend into Sheol, There also shall his condemnation be great, And there also he shall have no peace.
+**[24:31]** For though he ascend unto heaven, thence shall he be brought down, and though he make himself strong on earth, thence shall he be dragged forth, and though he hide himself amongst the nations, even from thence shall he be rooted out; and though he descend into Sheol, there also shall his condemnation be great, and there also he shall have no peace.
 
-**[24:32]** And if he go into captivity, By the hands of those that seek his life shall they slay him on the way, And neither name nor seed shall be left to him on all the earth; For into eternal malediction shall he depart.'
+**[24:32]** And if he go into captivity, by the hands of those that seek his life shall they slay him on the way, and neither name nor seed shall be left to him on all the earth; for into eternal malediction shall he depart.'
 
 **[24:33]** And thus is it written and engraved concerning him on the heavenly tablets, to do unto him on the day of judgment, so that he may be rooted out of the earth.
 
-**[25:1]** And in the second year of this week in this jubilee, Rebecca called Jacob her son, and spake unto [2109 A.M.] him, saying: 'My son, do not take thee a wife of the daughters of Canaan, as Esau, thy brother, who took him two wives of the daughters of Canaan, and they have embittered my soul with all their unclean deeds: for all their deeds are fornication and lust, and there is no righteousness with them, for (their deeds) are evil.
+
+**[25:1]** And in the second year of this week in this jubilee, Rebecca called Jacob her son, and spake unto him, saying: 'My son, do not take thee a wife of the daughters of Canaan, as Esau, thy brother, who took him two wives of the daughters of Canaan, and they have embittered my soul with all their unclean deeds: for all their deeds are fornication and lust, and there is no righteousness with them, for (their deeds) are evil.
 
 **[25:2]** And I, my son, love thee exceedingly, and my heart and my affection bless thee every hour of the day and watch of the night.
 
@@ -1434,23 +1436,24 @@
 
 **[25:14]** And at that hour, when the spirit of righteousness descended into her mouth, she placed both her hands on the head of Jacob, and said:
 
-**[25:15]** 'Blessed art thou, Lord of righteousness and God of the ages And may He bless thee beyond all the generations of men. May He give thee, my Son, the path of righteousness, And reveal righteousness to thy seed.
+**[25:15]** 'Blessed art thou, Lord of righteousness and God of the ages and may He bless thee beyond all the generations of men. May He give thee, my Son, the path of righteousness, and reveal righteousness to thy seed.
 
-**[25:16]** And may He make thy sons many during thy life, And may they arise according to the number of the months of the year. And may their sons become many and great beyond the stars of heaven, And their numbers be more than the sand of the sea.
+**[25:16]** And may He make thy sons many during thy life, and may they arise according to the number of the months of the year. And may their sons become many and great beyond the stars of heaven, and their numbers be more than the sand of the sea.
 
-**[25:17]** And may He give them this goodly land -as He said He would give it to Abraham and to his seed after him alway- And may they hold it as a possession for ever.
+**[25:17]** And may He give them this goodly land - as He said He would give it to Abraham and to his seed after him alway - and may they hold it as a possession for ever.
 
-**[25:18]** And may I see (born) unto thee, my son, blessed children during my life, And a blessed and holy seed may all thy seed be.
+**[25:18]** And may I see (born) unto thee, my son, blessed children during my life, and a blessed and holy seed may all thy seed be.
 
-**[25:19]** And as thou hast refreshed thy mother's spirit during her life, The womb of her that bare thee blesses thee thus, [My affection] and my breasts bless thee And my mouth and my tongue praise thee greatly.
+**[25:19]** And as thou hast refreshed thy mother's spirit during her life, the womb of her that bare thee blesses thee thus, my affection and my breasts bless thee and my mouth and my tongue praise thee greatly.
 
-**[25:20]** Increase and spread over the earth, And may thy seed be perfect in the joy of heaven and earth for ever; And may thy seed rejoice, And on the great day of peace may it have peace.
+**[25:20]** Increase and spread over the earth, and may thy seed be perfect in the joy of heaven and earth for ever; and may thy seed rejoice, and on the great day of peace may it have peace.
 
-**[25:21]** And may thy name and thy seed endure to all the ages, And may the Most High God be their God, And may the God of righteousness dwell with them, And by them may His sanctuary be built unto all the ages.
+**[25:21]** And may thy name and thy seed endure to all the ages, and may the Most High God be their God, and may the God of righteousness dwell with them, and by them may His sanctuary be built unto all the ages.
 
-**[25:22]** Blessed be he that blesseth thee, And all flesh that curseth thee falsely, may it be cursed.'
+**[25:22]** Blessed be he that blesseth thee, and all flesh that curseth thee falsely, may it be cursed.'
 
-**[25:23]** And she kissed him, and said to him; 'May the Lord of the world love thee As the heart of thy mother and her affection rejoice in thee and bless thee.' And she ceased from blessing.
+**[25:23]** And she kissed him, and said to him; 'May the Lord of the world love thee as the heart of thy mother and her affection rejoice in thee and bless thee.' And she ceased from blessing.
+
 
 **[26:1]** And in the seventh year of this week Isaac called Esau, his elder Son, and said unto him: ' I am [2114 A.M.] old, my son, and behold my eyes are dim in seeing, and I know not the day of my death.
 
