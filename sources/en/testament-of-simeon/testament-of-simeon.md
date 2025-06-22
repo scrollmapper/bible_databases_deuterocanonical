@@ -4,7 +4,7 @@
 
 **[1:1]** THE copy of the words of Simeon, the things which he spake to his sons before he died, in the hundred and twentieth year of his life, at which time Joseph, his brother, died.
 
-**[1:2]** For when Simeon was sick, his sons came to visit him. and he strengthened himself and sat up and kissed them, and said:--
+**[1:2]** For when Simeon was sick, his sons came to visit him. And he strengthened himself and sat up and kissed them, and said:--
 
 **[1:3]** Hearken, my children, to Simeon your father and I will declare unto you what things I have in my heart.
 
@@ -86,7 +86,7 @@
 
 **[3:1]** BEHOLD I have told you all things, that I may be acquitted of your sin.
 
-**[3:2]** Now, if ye remove from you your envy and all stiff-neckedness, is a rose shall my bones flourish in Israel, and as a lily my flesh in Jacob, and my odour shall be as the odour of Libanus; and as cedars shall holy ones be multiplied from me for ever, and their branches shall stretch afar off.
+**[3:2]** Now, if ye remove from you your envy and all stiff-neckedness, as a rose shall my bones flourish in Israel, and as a lily my flesh in Jacob, and my odour shall be as the odour of Libanus; and as cedars shall holy ones be multiplied from me for ever, and their branches shall stretch afar off.
 
 **[3:3]** Then shall perish the seed of Canaan, and a remnant shall not be unto Amalek, and all the Cappadocians shall perish, and all Hittites shall be utterly destroyed.
 
@@ -100,7 +100,7 @@
 
 **[3:8]** Then shall all the spirits of deceit be given to be trodden under foot, and men shall, rule over wicked spirits.
 
-**[3:9]** Then shall I arise in Joy and will bless the Most High because of his marvellous works, because God hath taken a body and eaten with men and saved men.
+**[3:9]** Then shall I arise in joy and will bless the Most High because of his marvellous works, because God hath taken a body and eaten with men and saved men.
 
 **[3:10]** And now, my children,, and Judah, and obey Levi and Judah, and be not lifted up against these two tribes, for from them shall arise unto you the salvation of God.
 

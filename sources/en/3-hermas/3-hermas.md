@@ -4,7 +4,7 @@
 
 **[1:1]** And he said onto me; Ye know that ye who are the servants of the Lord, live here as in a pilgrimage; for your city is far off from this city. 
 
-**[1:2]** If, therefore, ye know your city in which ye are to dwell, why do ye here buy estates, and provide yourselves with delicacies, and stately buildings, and supurfluous houses? For he that provides himself these things in this city, does not think of returning into his own city. 
+**[1:2]** If, therefore, ye know your city in which ye are to dwell, why do ye here buy estates, and provide yourselves with delicacies, and stately buildings, and superfluous houses? For he that provides himself these things in this city, does not think of returning into his own city. 
 
 **[1:3]** O foolish, and doubtful, and wretched man; who understandest not that all these things belong to other men, and are under the power of another. For the Lord of this city saith unto thee; Either obey my laws, or depart out of my city. 
 
@@ -24,6 +24,7 @@
 
 **[1:11]** And do not commit adultery, nor touch any other man's wife, nor desire her; but covet that which is thy own business, and thou shalt be saved.
 
+
 **[2:1]** As I was walking into the field, and considered the elm and the vine, and thought with myself of their fruits, an angel appeared unto me, and said unto me; What is it that thou thinkest upon thus long within thyself? 
 
 **[2:2]** And I said unto him, Sir, I think of this vine and this elm because their fruits are fair. And he said unto me; These two trees are set for a pattern to the servants of God. 
@@ -38,7 +39,7 @@
 
 **[2:7]** When therefore, the rich man reaches out to the poor those things which he wants, the poor man prays unto the Lord for the rich; and God grants unto the rich man all good things, because the poor man is rich in prayer; and his requests have great power with the Lord. 
 
-**[2:8]** Then the rich man ministers all thing to the poor, because he perceives that he is heard by the Lord; and he the more willingly and without doubting, affords him what he wants, and takes care that nothing be lacking to him. 
+**[2:8]** Then the rich man ministers all things to the poor, because he perceives that he is heard by the Lord; and he the more willingly and without doubting, affords him what he wants, and takes care that nothing be lacking to him. 
 
 **[2:9]** And the poor man gives thanks unto the Lord for the rich; because they both do their work from the Lord. 
 
@@ -50,6 +51,7 @@
 
 **[2:13]** Happy are they who are rich, and perceive themselves to be increased: for he that is sensible of this, will be able to minister somewhat to others.
 
+
 **[3:1]** Again he showed me many trees whose leaves were shed, and which seemed to me to be withered, for they were all alike. And he said unto me, Seest thou these trees? I said, Sir, I see that they look like dry trees. 
 
 **[3:2]** He answering, said unto me; These trees are like unto the men who live in the present world. I replied: Sir, why are they like unto dried trees? Because, said he, neither the righteous, nor unrighteous, are known from one another; but all are alike in this present world. 
@@ -58,9 +60,10 @@
 
 **[3:4]** As in the winter all the trees having lost their leaves, are like dry trees; nor can it be discerned which are dry and which are green: so in this present world neither the righteous, nor wicked are discerned from each other; but they are all alike.
 
+
 **[4:1]** Again he showed me many other trees, of which some had leaves, and others appeared dry and withered. And he said unto me, Seest thou these trees I answered, Sir, I see them; some are dry, and others full of leaves. 
 
-**[4:2]** These trees, saith be, which are green, are the righteous, who shall possess the world to come. For the world to come, is the summer to the righteous; but to sinners it is the winter. 
+**[4:2]** These trees, saith he, which are green, are the righteous, who shall possess the world to come. For the world to come, is the summer to the righteous; but to sinners it is the winter. 
 
 **[4:3]** When, therefore, the mercy of the Lord shall shine forth, then they who serve God shall be made manifest, and plain unto all. For as in the summer the fruit of every tree is shown and made manifest, so also the works of the righteous shall be declared and made manifest, and they shall all be restored in that world merry and joyful. 
 
@@ -76,9 +79,10 @@
 
 **[4:9]** If, therefore, thou shalt do this, thou mayest have fruit in the world to come; and as many as shall do in like manner, shall bring forth fruit.
 
+
 **[5:1]** As I was fasting, and sitting down in a certain mountain, and giving thanks unto God for all the things that he had done unto me; behold, I saw the Shepherd, who was wont to converse with me, sitting by me, and saying unto me: What has brought thee hither thus early in the morning? I answered, Sir, to-day I keep a station. 
 
-**[5:2]** He answered, What is a station; I replied, it is a fast. He said, What is that fast? I answered, I fast as I have been wont to do. Ye know not, said he, what it is to fast unto God; nor is this a fast which ye keep, profiting nothing with God. 
+**[5:2]** He answered, What is a station? I replied, It is a fast. He said, What is that fast? I answered, I fast as I have been wont to do. Ye know not, said he, what it is to fast unto God; nor is this a fast which ye keep, profiting nothing with God. 
 
 **[5:3]** Sir, said I, what makes you speak thus? He replied, I speak it, because it is not the true fast which you think that you keep; but I will show you what that is which is a complete fast, and acceptable unto God. 
 
@@ -122,13 +126,13 @@
 
 **[5:23]** They therefore so much the more assented to the master of the household; and he ought to make that servant his heir together with his son. 
 
-**[5:24]** I said unto him, sir, I know not these similitudes, neither can I understand them, unless you expound them unto me. I will, says he, expound, all things unto thee whatsoever I have talked with thee, or shown unto thee. 
+**[5:24]** I said unto him, Sir, I know not these similitudes, neither can I understand them, unless you expound them unto me. I will, says he, expound, all things unto thee whatsoever I have talked with thee, or shown unto thee. 
 
 **[5:25]** Keep the commandments of the Lord and thou shalt be approved, and shall be written in the number of those that keep his commandments. But if besides those things which the Lord hath commanded, thou shalt add some good thing; thou shall purchase to thyself a greater dignity, and be in more favour with the Lord than thou shouldst otherwise have been. 
 
 **[5:26]** If therefore thou shalt keep the commandments of the Lord, and shalt add to them these stations, thou shall rejoice; but especially if thou shalt keep them according to my commands. 
 
-**[5:27]** I said unto him, sir, whatsoever thou shah command me, I will observe; for I know that thou wilt be with me. I will, said he, be with thee who hast taken up such a resolution; and I will be with all those who purpose in like manner. 
+**[5:27]** I said unto him, sir, whatsoever thou shalt command me, I will observe; for I know that thou wilt be with me. I will, said he, be with thee who hast taken up such a resolution; and I will be with all those who purpose in like manner. 
 
 **[5:28]** This fast, saith he, whilst thou dost also observe the commandments of the Lord, is exceeding good; therefore thus shalt thou keep it. 
 
@@ -156,9 +160,9 @@
 
 **[5:40]** Thou therefore who art strengthened by that venerable messenger, and hast received such a powerful gift of prayer; seeing thou art not slothful, why dost thou not now ask understanding of the Lord, and receive it? 
 
-**[5:41]** I said unto him; seeing I have thee present, it is necessary that I should seek it of thee, and ask thee; for thou shewest all things unto me, and speakest to me when thou art present. 
+**[5:41]** I said unto him, Seeing I have thee present, it is necessary that I should seek it of thee, and ask thee; for thou shewest all things unto me, and speakest to me when thou art present. 
 
-**[5:42]** But if I should see or hear these things when thou wert not present, I would then ask the Lord that he would chew them unto me. 
+**[5:42]** But if I should see or hear these things when thou wert not present, I would then ask the Lord that he would shew them unto me. 
 
 **[5:43]** And he replied, I said a little before that thou wert subtle and bold, in that thou asketh the meaning of these similitudes. 
 
@@ -172,9 +176,9 @@
 
 **[5:48]** I said unto him, Sir, all these things are very excellent, and wonderful, and good. But, continued I, could I or any other man besides, though never so wise, have understood these things? 
 
-**[5:49]** Wherefore now, sir, tell me, what I ask. He replied, ask me what thou wilt. Why, said I, is the Son of God in this parable, put in the place of a servant. 
+**[5:49]** Wherefore now, sir, tell me, what I ask. He replied, Ask me what thou wilt. Why, said I, is the Son of God in this parable, put in the place of a servant?
 
-**[5:50]** Hearken, he said: the Son of God is not put in the condition of a servant, but in great power and authority. I said unto him, how, sir? I understand it not. 
+**[5:50]** Hearken, he said: the Son of God is not put in the condition of a servant, but in great power and authority. I said unto him, How, Sir? I understand it not. 
 
 **[5:51]** Because, said he, the Son set his messengers over those whom the Father delivered unto him, to keep every one of them; but he himself laboured very much, and suffered much, that he might blot out their offences. 
 
@@ -202,6 +206,7 @@
 
 **[5:63]** For they are companions together, and the one cannot be defiled but the other will be so too. Keep there fore both of them pure, and thou shalt live unto God.
 
+
 **[6:1]** As I was sitting at home, and praising God for all the things which I had seen; and was thinking concerning the commands, that they were exceedingly good, and great, and honest, and pleasant, and such as were able to bring a man to salvation; I said thus within myself, I shall be happy if I walk according to these commands; and whosoever shall walk in them shall live unto God. 
 
 **[6:2]** Whilst I was speaking on this wise within myself, I saw him whom I had before been wont to see, sitting by me; and he spake thus unto me: 
@@ -214,19 +219,19 @@
 
 **[6:6]** For if ye shall keep yourselves from sin for the time to come, ye shall cut off a great deal of your former sins. Walk in my commands, and ye shall live unto God: These things have I spoken unto you. 
 
-**[6:7]** And when he, had said this, he added; let us go into the field, and I will show thee shepherds of sheep. I replied, sir, let us go. 
+**[6:7]** And when he had said this, he added, Let us go into the field, and I will show thee shepherds of sheep. I replied, Sir, let us go. 
 
 **[6:8]** And we came into a certain field, and there he showed me a young shepherd, finely arrayed, with his garments of a purple colour. And he fed large flocks; and his sheep were full of pleasure, and in much delight and cheerfulness; and they skipping, ran here and there. 
 
 **[6:9]** And the shepherd took very great satisfaction in his flock; and the countenance of that shepherd was cheerful, running up and down among his flock. 
 
-**[6:10]** Then the angel said unto me, Seest then this shepherd? I answered, sir, I see him. He said unto me, this is the messenger of delight and pleasure. He therefore corrupts the minds of the servants of God, and turns them from the truth, delighting them with many pleasures, and they perish. 
+**[6:10]** Then the angel said unto me, Seest thou this shepherd? I answered, sir, I see him. He said unto me, This is the messenger of delight and pleasure. He therefore corrupts the minds of the servants of God, and turns them from the truth, delighting them with many pleasures, and they perish. 
 
 **[6:11]** For they forget the commands of the living God, and live in luxury and in vain pleasures, and are corrupted by the evil angel, some of them even unto death; and others to a falling away. 
 
-**[6:12]** I replied; I understand not what you mean, by saying unto death, and to a falling away. Hear, says he; all those sheep which thou sawest exceeding joyful, are such as have for ever departed from God, and given selves up to the lusts of this present time. 
+**[6:12]** I replied, I understand not what you mean, by saying unto death, and to a falling away. Hear, says he, all those sheep which thou sawest exceeding joyful, are such as have for ever departed from God, and given themselves up to the lusts of this present time. 
 
-**[6:13]** To these therefore there is no return, by repentance, unto life; because, to their other sins they have added this, that they have blasphemed the name of the lord: These kind of men are ordained unto death. 
+**[6:13]** To these therefore there is no return, by repentance, unto life; because, to their other sins they have added this, that they have blasphemed the name of the Lord: These kind of men are ordained unto death. 
 
 **[6:14]** But those sheep which thou sawest not leaping, but feeding in one place; are such as have indeed given themselves up to pleasure and delights; but have not spoken anything wickedly against the Lord. 
 
@@ -234,7 +239,7 @@
 
 **[6:16]** Again we went a little farther forward, and he showed me a great shepherd, who had as it were a rustic figure; clad with a white goat's skin, having his bag upon his shoulder, and in his hand a stick full of knots, and very hard, and a whip in his other hand; and his countenance was stern and sour, enough to affright a man; such was his look. 
 
-**[6:17]** He took from that young shepherd such sheep as lived in pleasures, but did not skip up and down; and drove them into a certain steep craggy place fall of thorns and briars, insomuch that they could not get themselves free from them: 
+**[6:17]** He took from that young shepherd such sheep as lived in pleasures, but did not skip up and down; and drove them into a certain steep craggy place full of thorns and briars, insomuch that they could not get themselves free from them: 
 
 **[6:18]** But being entangled in them, fed upon thorns and briars, and were grievously tormented with his whipping. For he still drove them on, and afforded them not any place, or time, to stand still. 
 
@@ -248,7 +253,7 @@
 
 **[6:23]** For many with an unsettled design at many things, and it profiteth them not; and they say that they have not success in their undertakings. 
 
-**[6:24]** They do not call to their mind what they have done amiss, and they complain of the Lord. When therefore they shall have undergone all kind of vexation and inconvenience; then they are delivered over to me for good instruction, and are confirmed in the Faith of the Lord, and serve the Lord all the rest of their days with a pure mind. 
+**[6:24]** They do not call to their mind what they have done amiss, and they complain of the Lord. When therefore they shall have undergone all kind of vexation and inconvenience, then they are delivered over to me for good instruction, and are confirmed in the Faith of the Lord, and serve the Lord all the rest of their days with a pure mind. 
 
 **[6:25]** And when they begin to repent of their sins, then they call to mind their works which they have done amiss, and give honour to God, saying, that he is a just Judge, and they have deservedly suffered all things according to their deeds. 
 
@@ -262,11 +267,13 @@
 
 **[6:30]** He answered me; Thou art foolish, neither understandest thou the efficacy of this punishment. I said unto him; Sir, if I understood it, I would not desire you to tell me. 
 
-**[6:31]** Hearken, said he, and learn what the force of both is, both of the pleasure and of the punishment. An hour of pleasure is terminated within its own space: but one hour of punishment has the efficacy of thirty days, a Whosoever therefore enjoys his false pleasure for one day, and is one day, tormented; that one day of punishment is equivalent to a whole year's space. 
+**[6:31]** Hearken, said he, and learn what the force of both is, both of the pleasure and of the punishment. An hour of pleasure is terminated within its own space: but one hour of punishment has the efficacy of thirty days. Whosoever therefore enjoys his false pleasure for one day, and is one day tormented; that one day of punishment is equivalent to a whole year's space. 
 
 **[6:32]** Thus look how many days any one pursues his pleasures, so many years is he punished for it. You see therefore how that the time of worldly enjoyments is but short; but that of pain and torments, a great deal more. 
 
-**[6:33]** I replied; Sir, forasmuch as I do not understand at all these times of pleasure and pain; I entreat you that you would explain yourself more clearly concerning them. He answered me, saying; Thy foolishness still sticks unto thee. 34. Shouldst thou not rather purify thy mind, and serve God? Take heed, lest when thy time is fulfilled, thou be found still unwise. Hear then, as thou desirest, that thou mayest the more easily understand. 
+**[6:33]** I replied; Sir, forasmuch as I do not understand at all these times of pleasure and pain, I entreat you that you would explain yourself more clearly concerning them. He answered me, saying; Thy foolishness still sticks unto thee. 
+
+**[6:34]** Shouldst thou not rather purify thy mind, and serve God? Take heed, lest when thy time is fulfilled, thou be found still unwise. Hear then, as thou desirest, that thou mayest the more easily understand. 
 
 **[6:35]** He that gives himself up one day to his pleasures and delights, and does whatsoever his soul desires, is full of great folly, nor understands what he does, but the day following forgets what he did the day before. 
 
@@ -288,11 +295,12 @@
 
 **[6:44]** And whosoever shall continue in them, and shall not repent of what they have done, shall bring death upon themselves.
 
-**[7:1]** After a few days I saw the same person that before talked with me, in the same field, in which I had seen those shepherds, And he said unto me; What seekest thou? Sir, said I, I came to entreat you that You would command the shepherd, who is the minister of punishment, to depart out of my house, because he greatly afflicts me. 
+
+**[7:1]** After a few days I saw the same person that before talked with me, in the same field, in which I had seen those shepherds, And he said unto me; What seekest thou? Sir, said I, I came to entreat you that you would command the shepherd, who is the minister of punishment, to depart out of my house, because he greatly afflicts me. 
 
 **[7:3]** And he answered, It is necessary for thee to endure inconveniencies and vexations; for so that good angel hath commanded concerning thee, because he would try thee. 
 
-**[7:4]** Sir, said I; What so great offence have I committed, that I should be delivered to this messenger? Hearken, said he: Thou art indeed guilty of many sins, yet not so many that thou shouldest be delivered to this messenger. 
+**[7:4]** Sir, said I, What so great offence have I committed, that I should be delivered to this messenger? Hearken, said he: Thou art indeed guilty of many sins, yet not so many that thou shouldest be delivered to this messenger. 
 
 **[7:5]** But thy house hath committed many sins and offences, and therefore that good messenger being grieved at their doings commanded that for some time thou shouldst suffer affliction; that they may both repent of what they have done, and may wash themselves from all the lusts of this present world. 
 
@@ -306,35 +314,36 @@
 
 **[7:10]** No, they are not presently; but he that repents must afflict his soul and show himself humble in all his affairs, and undergo many and divers vexations. 
 
-**[7:11]** And when he shall have suffered all things that were appointed for him; then perhaps HE that made him, and formed all things besides, will be moved with compassion towards him, and afford him some remedy; and especially if HE shall perceive his heart who repents, to be free from every evil work. 
+**[7:11]** And when he shall have suffered all things that were appointed for him; then perhaps He that made him, and formed all things besides, will be moved with compassion towards him, and afford him some remedy; and especially if He shall perceive his heart who repents, to be free from every evil work. 
 
 **[7:12]** But at present it is expedient for thee, and for thy house, to be grieved; and it is needful that thou shoudest endure much vexation, as the angel of the Lord who committed thee unto me, has commanded. 
 
-**[7:13]** Rather give thanks unto the Lord, that knowing what was to come he thought thee worthy, to whom he should foretel that trouble was coming upon thee, who art able to bear it. 
+**[7:13]** Rather give thanks unto the Lord, that knowing what was to come he thought thee worthy, to whom he should foretell that trouble was coming upon thee, who art able to bear it. 
 
 **[7:14]** I said unto him; Sir, but be thou also with me, and I shall easily undergo any trouble. I will, said he, be with thee; and I will entreat the messenger who is set over thy punishment, that he would moderate his afflictions towards thee. 
 
 **[7:15]** And moreover thou shalt suffer adversity but for a little time; and then thou shalt again be restored to thy former state; only continue on in the humility of thy mind. 
 
-**[7:16]** Obey the Lord with a pure heart; thou, and thy house, and thy children; and. walk in the commands which I have delivered unto thee; and then thy repentance may be firm and pure. 
+**[7:16]** Obey the Lord with a pure heart; thou, and thy house, and thy children; and walk in the commands which I have delivered unto thee; and then thy repentance may be firm and pure. 
 
 **[7:17]** And if thou shalt keep these things with thy house, thy inconveniencies shall depart from thee. 
 
 **[7:18]** And all vexation shall in like manner depart from those, whosoever shall walk according to these commands.
 
+
 **[8:1]** Again he showed me a willow which covered the fields and the mountains, under whose shadow came all such as were called by the name of the Lord. 
 
-**[8:2]** And by that willow stood an. angel of the Lord very excellent and lofty, and did cut down bows from the willow with a great hook; and reached out to the people that were under the shadow of the willow, little rods, as it were about a foot long. 
+**[8:2]** And by that willow stood an angel of the Lord very excellent and lofty, and did cut down boughs from the willow with a great hook; and reached out to the people that were under the shadow of the willow, little rods, as it were about a foot long. 
 
 **[8:3]** And when all of them had taken them, he laid aside his hook, and the tree continued entire, as I had before seen it; at which I wondered, and mused within myself. 
 
-**[8:4]** Then that shepherd said unto me; Forbear to wonder that the tree continues whole, not-with-standing so many boughs have been cut off from it: but stay a little, for now it shall be shown thee, what that angel means, who gave those rods to the people. 
+**[8:4]** Then that shepherd said unto me; Forbear to wonder that the tree continues whole, notwithstanding so many boughs have been cut off from it: but stay a little, for now it shall be shown thee, what that angel means, who gave those rods to the people. 
 
 **[8:5]** So he again demanded the rods of them; and in the same order that every one had received them, was he called to him, and restored his rod; which when he had received, he examined them. 
 
 **[8:6]** From some he received them dry and rotten, and as it were touched with the moth; those he commanded to be separated from the rest, and placed by themselves. Others gave in their rods dry indeed, but not touched with the moth: these also he ordered to be set by themselves. 
 
-**[8:7]** Others gave in their rods half dry; these also were set apart, Others gave in their rods half dry and cleft; these too were set by themselves. Others brought in their rods half dry and half green, and these were in like manner placed by themselves. 
+**[8:7]** Others gave in their rods half dry; these also were set apart. Others gave in their rods half dry and cleft; these too were set by themselves. Others brought in their rods half dry and half green, and these were in like manner placed by themselves. 
 
 **[8:8]** Others delivered up their rods two parts green, and the third dry; and they too were set apart. Others brought their rods two parts dry, and the third green; and were also placed by themselves. 
 
@@ -348,7 +357,7 @@
 
 **[8:13]** Then the angel of the Lord commanded crowns to be brought, and the crowns were brought made of palms; and the angel crowned those men in whose rods he found the young branches with fruit, and commanded them to go into the tower. 
 
-**[8:14]** He also sent those into the tower, in whose hands he found branches without fruit, giving a seal unto them. For they had the same garment, that is, one white as snow; with which he bade them go into the tower And so he did to those who returned their rods green as they had received them; giving them a white garment, and so sent them away to go into the tower. 
+**[8:14]** He also sent those into the tower, in whose hands he found branches without fruit, giving a seal unto them. For they had the same garment, that is, one white as snow; with which he bade them go into the tower. And so he did to those who returned their rods green as they had received them; giving them a white garment, and so sent them away to go into the tower. 
 
 **[8:15]** Having done this, he said to the shepherd that was with me, I go my way; but do thou send these within the walls, every one into the place in which he has deserved to dwell; examining first their rods, but examine them diligently that no one deceive thee; and if any one shall escape thee, I will try them upon the altar. Having said this to the shepherd, he departed. 
 
@@ -374,9 +383,9 @@
 
 **[8:26]** And he examines every one's rod; and of those, many that are weakened: for those rods are the law of the Lord. Then he discerns all those who have not kept the law, knowing the place of every one of them. 
 
-**[8:27]** I said unto him, Sir, why did he send away some to the tower, and left others here to you? He replied, those who have transgressed the law, which they received from him, are left in my power, that they may repent of their sins: but they who fulfilled this law and kept it, are under his power. 
+**[8:27]** I said unto him, Sir, why did he send away some to the tower, and left others here to you? He replied, Those who have transgressed the law, which they received from him, are left in my power, that they may repent of their sins: but they who fulfilled this law and kept it, are under his power. 
 
-**[8:28]** But who then, said I, are those, who went into the tower crowned? He replied, all such as having striven with the devil, have overcome him, are crowned: and they are those, who have suffered hard things, that they might keep the law. 
+**[8:28]** But who then, said I, are those, who went into the tower crowned? He replied, All such as having striven with the devil, have overcome him, are crowned: and they are those, who have suffered hard things, that they might keep the law. 
 
 **[8:29]** But they who gave up their rods green, and with young branches, but without fruit, have indeed endured trouble for the same law, but have not suffered death; neither have they denied their holy law. 
 
@@ -388,7 +397,7 @@
 
 **[8:33]** And I girded myself with a clean towel, which was made of coarse cloth. And when he saw me girded, and ready to minister unto him, he said, Call those men whose rods have been planted, every one in his order as he gave them. 
 
-**[8:34]** And he brought me into the field, and I called them all, and they all stood ready in their several ranks. Then he said unto them; let every one pluck up his rod, and bring it unto me. And first they delivered theirs, whose rods had been dry and rotten. 
+**[8:34]** And he brought me into the field, and I called them all, and they all stood ready in their several ranks. Then he said unto them, Let every one pluck up his rod, and bring it unto me. And first they delivered theirs, whose rods had been dry and rotten. 
 
 **[8:35]** And those whose rods still continued so, he commanded to stand apart. Then they came whose rods had been dry but not rotten. Some of these delivered, in their rods green; others dry and rotten, as if they had been touched by the moth. 
 
@@ -402,7 +411,7 @@
 
 **[8:40]** Then they gave in their rods, who had them half green and half dry. Of these some were found wholly green, others half dry: others green, with young shoots. And all these were sent away, every one to his proper rank. 
 
-**[8:41]** Then they gave up their rods, who had them before two parts green, and the third dry. Many of those gave in their rods green; many half dry; the rest dry but not rotten. So these were sent away, each to his proper place. 
+**[8:41]** Then they gave up their rods, who had them before two parts green, and the third dry. Many of those gave in their rods green, many half dry, the rest dry but not rotten. So these were sent away, each to his proper place. 
 
 **[8:42]** Then came they who before had their rods two parts dry and the third green; many of these delivered up their rods half dry, others dry and rotten; others half dry and cleft: but few green. And all these were set every one in his own rank. 
 
@@ -410,15 +419,15 @@
 
 **[8:44]** And the shepherd upon sight of these rejoiced exceedingly, because he had found them thus; and they also went to their proper orders. 
 
-**[8:45]** Now after he had examined all their rods, he said unto me, I told thee that this tree loved life thou seest how many have repented, and attained unto salvation. Sir, said I, I see it. 
+**[8:45]** Now after he had examined all their rods, he said unto me, I told thee that this tree loved life; thou seest how many have repented, and attained unto salvation. Sir, said I, I see it. 
 
-**[8:46]** That thou mightest know saith he, that the goodness and mercy of the Lord is great, and to be had in honour; who gave his spirit to them that were found worthy of repentance. 
+**[8:46]** That thou mightest know, saith he, that the goodness and mercy of the Lord is great, and to be had in honour; who gave his spirit to them that were found worthy of repentance. 
 
 **[8:47]** I answered, Sir, why then did not all of them repent? He replied, Those whose minds the Lords foresaw would be pure, and that they would serve him with all their hearts, to them he gave repentance. 
 
 **[8:48]** But for those whose deceit and wickedness he beheld, and perceived that they would not truly return unto him; to them he denied any return unto repentance, lest they should again blaspheme his law with wicked words. 
 
-**[8:49]** I said unto him; Now, Sir, make known unto me, what is the place of every one of those, who have given up their rods, and what their portion; that when they may have not kept their seal entire, but have wasted the seal which they received, shall hear and believe these thins, and may acknowledge their evil deeds and repent; 
+**[8:49]** I said unto him; Now, Sir, make known unto me, what is the place of every one of those, who have given up their rods, and what their portion; that when they may have not kept their seal entire, but have wasted the seal which they received, shall hear and believe these things, and may acknowledge their evil deeds and repent; 
 
 **[8:50]** And receiving again their seal from you, may give glory to God, that he was moved with compassion towards them, and sent you to renew their spirits. 
 
@@ -428,7 +437,7 @@
 
 **[8:53]** They also who have delivered up their rods dry, but not rotten, have not been far from them. For they have been counterfeits, and brought in evil doctrines, and have perverted the servants of God, especially those who had sinned; not suffering them to return unto repentance, but keeping them back by their false doctrines. 
 
-**[8:54]** These therefore have hope; and thou seest that many of them have repented, since the time that thou hast laid my commands before them; and many more will yet repent. But they, that shall not repent; shall lose both repentance and life. 
+**[8:54]** These therefore have hope; and thou seest that many of them have repented, since the time that thou hast laid my commands before them; and many more will yet repent. But they that shall not repent, shall lose both repentance and life. 
 
 **[8:55]** But they that have repented, their place is begun to be within the first walls, and some of them are even gone into the tower. Thou seest therefore, said he, that in the repentance of sinners there is life; but for those who repent not, death is prepared. 
 
@@ -446,7 +455,7 @@
 
 **[8:62]** Nevertheless, seeing they are otherwise good, if when they shall hear these commands they shall amend themselves, and shall at my persuasion suddenly repent; they shall at last dwell in the tower, like those who have truly and worthily repented. 
 
-**[8:63]** But if any one shall again return to his dissension; he shall be shut out from the tower, and shall lose his life. For the life of those who keep the commandments of the Lord, consists in doing what they are commanded; not in principality, or in any other dignity. 
+**[8:63]** But if any one shall again return to his dissension, he shall be shut out from the tower, and shall lose his life. For the life of those who keep the commandments of the Lord, consists in doing what they are commanded; not in principality, or in any other dignity. 
 
 **[8:64]** For by forbearance and humility of mind, men shall attain unto life; but by seditions and contempt of the law, they shall purchase death unto themselves. 
 
@@ -458,7 +467,7 @@
 
 **[8:68]** As for those who had two parts of their rods green, and the third dry; they have by manifold ways denied the Lord. Of these many have repented, and found a place in the tower: and many have altogether departed from God. These have utterly lost life. 
 
-**[8:69]** And some being in a doubtful state, have raise up dissensions: these may yet return, if they shall suddenly repent and not continue in their lusts; but if they shall continue in their evil-doing they shall die. 
+**[8:69]** And some being in a doubtful state, have raise up dissensions: these may yet return, if they shall suddenly repent and not continue in their lusts; but if they shall continue in their evil-doing, they shall die. 
 
 **[8:70]** They who gave in their rods two parts dry, and the other been, are those who have indeed been faithful, but withal rich and full of good things; and thereupon upon have desired to be famous among the heathen which are without, and have thereby fallen into great pride, and begun to aim at high matters, and to forsake the truth. 
 
@@ -478,17 +487,18 @@
 
 **[8:78]** Wherefore hearing these things they returned, and without delay repented, and lived in all righteousness. And some of them suffered death: others readily underwent many trials, being mindful of their evil doings. 
 
-**[8:79]** If And when he had ended his explications of all the rods, he said unto me, Go, and say unto all men that they repent, and they shall live unto God; because the Lord being moved with great clemency hath sent me to preach repentance unto all: 
+**[8:79]**  And when he had ended his explications of all the rods, he said unto me, Go, and say unto all men that they repent, and they shall live unto God; because the Lord being moved with great clemency hath sent me to preach repentance unto all: 
 
 **[8:80]** Even unto those who by reason of their evil doings, deserve not to attain unto salvation. But the Lord will by patient, and keep the invitation that was made by his Son. 
 
-**[8:81]** I said unto him, sir, I hope that all when they shall hear these things, will repent. For I trust that everyone acknowledging his crimes, and taking up the fear of the Lord, will return unto repentance. 
+**[8:81]** I said unto him, Sir, I hope that all when they shall hear these things, will repent. For I trust that everyone acknowledging his crimes, and taking up the fear of the Lord, will return unto repentance. 
 
 **[8:82]** He said unto me, Whosoever shall repent with all their hearts, and cleanse themselves from all the evils that I have before mentioned, and not add anything more to their sins, shall receive from the Lord cure of their former iniquities, if they do not make any doubt of these commands, and shall live unto God. 
 
-**[8:83]** But they that shall continue to add to their transgressions, and still converse with the lusts of the present world, shall condemn themselves unto death. But do thou walk in these commands, and whosoever shall Walk in these, and exercise them rightly, shall live unto God. 
+**[8:83]** But they that shall continue to add to their transgressions, and still converse with the lusts of the present world, shall condemn themselves unto death. But do thou walk in these commands, and whosoever shall walk in these, and exercise them rightly, shall live unto God. 
 
 **[8:84]** And having showed me all these things, he said; I will show thee the rest in a few days.
+
 
 **[9:1]** After I had Written the Commands and similitudes of the Shepherd, the Angel of Repentance came unto me, and said to me, I will show thee all those things which the Spirit spake with thee under the figure of the church. For that Spirit is the Son of God. 
 
@@ -506,7 +516,7 @@
 
 **[9:8]** The seventh mountain had delightful pasture, and was wholly fruitful; and all kinds of cattle, and of the birds of heaven; fed upon it; and the more they fed on it, the more and better did the grass grow. 
 
-**[9:9]** The eighth mountain was full of fountains, and from those fountains were watered all kinds of the creatures of Cod. The ninth mountain had no water at all, but was wholly destitute of it; and nourished deadly serpents, very destructive to men. 
+**[9:9]** The eighth mountain was full of fountains, and from those fountains were watered all kinds of the creatures of God. The ninth mountain had no water at all, but was wholly destitute of it; and nourished deadly serpents, very destructive to men. 
 
 **[9:10]** The tenth mountain was full of tall trees, and altogether shady; and under the shade of them lay cattle resting and chewing the cud. 
 
@@ -524,9 +534,9 @@
 
 **[9:17]** When I saw this, I wondered with myself to see such great and noble things. And again I admired upon the account of those virgins, that they were so handsome and delicate; and stood with such firmness and constancy, as if they would carry the whole heaven. 
 
-**[9:18]** And as I was thinking thus within myself, the shepherd said unto me; What thickest thou within thyself? Why art thou disquieted, and fillest thyself with care? 
+**[9:18]** And as I was thinking thus within myself, the shepherd said unto me; What thinkest thou within thyself? Why art thou disquieted, and fillest thyself with care? 
 
-**[9:19]** Do not seem to consider, as if thou wert wise, what thou doest not understand, but pray unto the Lord, that thou mayest have ability to understand it. What is to come thou canst not understand, but thou seest that which is before thee. 
+**[9:19]** Do not seem to consider, as if thou wert wise, what thou dost not understand, but pray unto the Lord, that thou mayest have ability to understand it. What is to come thou canst not understand, but thou seest that which is before thee. 
 
 **[9:20]** Be not therefore disquieted at those things which thou canst not see; but get the understanding of those which thou seest. 
 
@@ -802,7 +812,7 @@
 
 **[9:156]** And I said, Why then, sir, did these forty stones also ascend with them out of the deep, having already received that seal? 
 
-**[9:157]** He answered, Because these Apostles and teachers, who preached the name of the Son of God, dying after they had received his faith and power, preached to them who were dead before: and they gave this seal to them. 
+**[9:157]** He answered, Because these apostles and teachers, who preached the name of the Son of God, dying after they had received his faith and power, preached to them who were dead before: and they gave this seal to them. 
 
 **[9:158]** They went down therefore into the water with them, and again came up. But these went down whilst they were alive, and came up again alive: whereas those who were before dead, went down dead, but came up alive; 
 
@@ -828,11 +838,11 @@
 
 **[9:169]** But after that they had thus agreed in one mind, there began to be one body of them all; howbeit some of them polluted themselves, and were cast off from those of the righteous, and again returned to their former state, and became even worse than they were before. 
 
-**[9:170]** How, air, said I, were they worse who knew the Lord? He answered: If he who knows not the Lord liveth wickedly, the punishment of his wickedness attends him; 
+**[9:170]** How, Sir, said I, were they worse who knew the Lord? He answered: If he who knows not the Lord liveth wickedly, the punishment of his wickedness attends him; 
 
 **[9:171]** But he who has known the Lord, ought to abstain altogether from all wickedness, and more and more to be the servant of righteousness. 
 
-**[9:172]** And does not he then seem to thee to sin more who ought to follow goodness, if he shall prefer the part of sin; than he who offends without knowing the power of God? 
+**[9:172]** And does not he then seem to thee to sin more who ought to follow goodness, if he shall prefer the part of sin, than he who offends without knowing the power of God? 
 
 **[9:173]** Wherefore these are indeed ordained unto death; but they who have known the Lord, and have seen his wonderful works, if they shall live wickedly, they shall be doubly punished, and shall die for ever. 
 
@@ -846,7 +856,7 @@
 
 **[9:178]** Hear, said he, the variety of these mountains, that is, of the twelve nations. 
 
-**[9:179]** They who have believed of the first mountain, which is black, are those who have revolted from the faith, and spoken wicked things against the Lord; and betrayed the servants of God. 
+**[9:179]** They who have believed of the first mountain, which is black, are those who have revolted from the faith, and spoken wicked things against the Lord, and betrayed the servants of God. 
 
 **[9:180]** These are condemned to death; there is no repentance for them: and therefore they are black, because their kind is wicked. 
 
@@ -856,7 +866,7 @@
 
 **[9:183]** Nevertheless there is room left to them of repentance, if they shall speedily pursue it; but if they shall delay, they also shall be partakers of death with the foregoing kind. 
 
-**[9:184]** I said, air, why is there room left to those for repentance, and not to the foregoing kind, seeing their sins are well nigh the same? 
+**[9:184]** I said, Sir, why is there room left to those for repentance, and not to the foregoing kind, seeing their sins are well nigh the same? 
 
 **[9:185]** There is therefore, said he, to these a return unto life by repentance, because they have not blasphemed against their Lord, nor betrayed the servants of God: but by their desire of gain have deceived men, leading them according to the lusts of sinners; wherefore they shall suffer for this thing. 
 
@@ -920,11 +930,11 @@
 
 **[9:215]** As concerning the eighth mountain in which were a great many springs, by which every kind of all the creatures of God was watered; they are such as have believed the Apostles which the Lord sent into all the world to preach; 
 
-**[9:216]** And some of them being teachers have preached and taught purely and sincerely, and have not in the least yielded to any evil, desires, but have constantly walked in righteousness and truth. 
+**[9:216]** And some of them being teachers have preached and taught purely and sincerely, and have not in the least yielded to any evil desires, but have constantly walked in righteousness and truth. 
 
 **[9:217]** These therefore have their conversations among the angels. 
 
-**[9:218]** Again; as for what concerns the ninth mountain which is a desert, and full of serpents; they are such as have believed, but had many stains: 
+**[9:218]** Again, as for what concerns the ninth mountain which is a desert, and full of serpents; they are such as have believed, but had many stains: 
 
 **[9:219]** These are such ministers as discharge their ministry amiss; ravishing away the goods of the widows and fatherless; and serve themselves, not others, out of those things which they have received. 
 
@@ -944,7 +954,7 @@
 
 **[9:227]** For as the poison of serpents is deadly unto men, so the words of such persons infect and destroy men. They are therefore maimed in their faith, by reason of that kind of life which they lead. 
 
-**[9:228]** Howbeit some of them, having repented, have been saved; and so shall others of the same kind be also saved, if they shall repent; but if not, they shall die by those women who power and force posses, 
+**[9:228]** Howbeit some of them, having repented, have been saved; and so shall others of the same kind be also saved, if they shall repent; but if not, they shall die by those women who power and force possess. 
 
 **[9:229]** For what concerns the tenth mountain, in which were the trees covering the cattle, they are such as have believed; and some of them have been bishops, that is, governors of the churches. 
 
@@ -956,7 +966,7 @@
 
 **[9:233]** As to the eleventh mountain in which were trees loaded with several sorts of fruit; they are such as have believed, and suffered death, for the name of the Lord; and have endured with a heavy mind, and have given up their lives with all their hearts. 
 
-**[9:234]** And I said, Why then, sir, have all these fruit indeed, but yet some fairer than others? 
+**[9:234]** And I said, Why then, Sir, have all these fruit indeed, but yet some fairer than others? 
 
 **[9:235]** Hearken, said he: Whosoever have suffered for the name of the Lord are esteemed honourable by the Lord; and all their offences are blotted out, because they have suffered death for the name of the Son of God. 
 
@@ -982,7 +992,7 @@
 
 **[9:246]** Whosoever therefore, said he, shall continue as children without malice; shall be more honourable than all those of whom I have yet spoken: for all such children are honoured by the Lord, and esteemed the first of all. 
 
-**[9:247]** Happy therefore are ye who shall remove all malice from you, and put on innocence; be. cause ye shall first see the Lord. 
+**[9:247]** Happy therefore are ye who shall remove all malice from you, and put on innocence; because ye shall first see the Lord. 
 
 **[9:248]** And after he had thus ended his explication of all the mountains, I said unto him, Sir, show me now also what concerns the stones that were brought out of the plain, and put into the tower in the room of those that were rejected. 
 
@@ -1008,7 +1018,7 @@
 
 **[9:259]** Therefore was there little cut off from them, and so they were put into the building of this tower. 
 
-**[9:260]** As for the rest which continued still round, and were not found fit for the building of this tower, be cause they have not yet received the seal; they were carried back to their place, be. cause they were found very round. 
+**[9:260]** As for the rest which continued still round, and were not found fit for the building of this tower, be cause they have not yet received the seal; they were carried back to their place, because they were found very round. 
 
 **[9:261]** But this present world must be cut away from them, and the vanities of their riches; and then they will be fit for the kingdom of God. For they must enter into the kingdom of God, because God has blessed this innocent kind. 
 
@@ -1036,7 +1046,7 @@
 
 **[9:273]** Will not therefore the Lord do the same concerning his Spirit, by reason of thy deed? Undoubtedly, said I, he will do the same to all those whom he shall find to continue in the remembrance of injuries. 
 
-**[9:274]** Tread not then under foot he said, his mercy; but rather honour him, because he is so patient with respect to your offences, and not like one of you; but repent, for it will be profitable for you. 
+**[9:274]** Tread not then under foot, he said, his mercy; but rather honour him, because he is so patient with respect to your offences, and not like one of you; but repent, for it will be profitable for you. 
 
 **[9:275]** All these things which are above written, I the shepherd and angel of repentance, have shown and spoken to the servants of God. 
 

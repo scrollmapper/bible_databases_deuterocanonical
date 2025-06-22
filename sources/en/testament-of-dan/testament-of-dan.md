@@ -4,11 +4,11 @@
 
 **[1:1]** THE copy of the words of Dan, which he spake to his sons in his last days, in the hundred and twenty-fifth year of his life.
 
-**[1:2]** For he called together his I family, and said: Hearken to my words, ye sons of Dan; and give heed to the words of your father.
+**[1:2]** For he called together his family, and said: Hearken to my words, ye sons of Dan; and give heed to the words of your father.
 
 **[1:3]** I have proved in my heart, and in my whole life, that truth with just dealing is good and well pleasing to God, and that lying and anger are evil, because they teach man all wickedness.
 
-**[1:4]** I confess, therefore, this day to you, my children, that in my heart I resolved on the death of Joseph my brother, the true and good man. .
+**[1:4]** I confess, therefore, this day to you, my children, that in my heart I resolved on the death of Joseph my brother, the true and good man.
 
 **[1:5]** And I rejoiced that he was sold, because his father loved him more than us.
 
@@ -46,7 +46,7 @@
 
 **[1:22]** For it first of all giveth provocation by word; then by deeds it strengtheneth him who is angry, and with sharp losses disturbeth his mind, and so stirreth up with great wrath his soul.
 
-**[1:23]** Therefore, when any one. speaketh against you, be not ye moved to anger, and if any man praiseth you as holy men, be not uplifted: be not moved either to delight or to disgust.
+**[1:23]** Therefore, when any one speaketh against you, be not ye moved to anger, and if any man praiseth you as holy men, be not uplifted: be not moved either to delight or to disgust.
 
 **[1:24]** For first it pleaseth the hearing, and so maketh the mind keen to perceive the grounds for provocation; and then being enraged, he thinketh that he is justly angry.
 
@@ -86,7 +86,7 @@
 
 **[2:12]** And the saints shall rest in Eden, and in the New Jerusalem shall the righteous rejoice, and it shall be unto the glory of God for ever.
 
-**[2:13]** And no longer shall Jerusalem endure desolation, nor Israel be led captive; for the Lord shall be in the midst of it [living amongst men], and the Holy One of Israel shall reign over it in humility and in poverty; and he who believeth on Him shall reign amongst men in truth.
+**[2:13]** And no longer shall Jerusalem endure desolation, nor Israel be led captive; for the Lord shall be in the midst of it living amongst men, and the Holy One of Israel shall reign over it in humility and in poverty; and he who believeth on Him shall reign amongst men in truth.
 
 **[2:14]** And now, fear the Lord, my children, and beware of Satan and his spirits.
 
