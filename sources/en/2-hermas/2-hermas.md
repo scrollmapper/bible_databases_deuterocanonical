@@ -50,9 +50,9 @@
 
 **[2:9]** For he has fulfilled his duty as he received it from God; not making any choice to whom he should give, and to whom not. And this service he did with simplicity and to the glory of God. 
 
-**[2:10]** Keep therefore this command according as I have delivered it into thee: that thy repentance nay be found to be sincere, and that good may come to thy house; and have a pure heart.
+**[2:10]** Keep therefore this command according as I have delivered it into thee: that thy repentance may be found to be sincere, and that good may come to thy house; and have a pure heart.
 
-**[3:1]** Moreover he said unto me love truth; and let all the speech be true which proceeds out of thy mouth. 
+**[3:1]** Moreover he said unto me, Love truth; and let all the speech be true which proceeds out of thy mouth. 
 
 **[3:2]** That the spirit which the Lord hath given to dwell in thy flesh may be found true towards all men; and the Lord be glorified, who hath given such a spirit unto thee: because God is true in all his words, and in him there is no lie. 
 
@@ -80,7 +80,7 @@
 
 **[4:4]** And I said unto him, Sir, suffer me to speak a little to you. He bade me say on. And I answered, Sir, if a man that is faithful in the Lord shall have a wife, and shall catch her in adultery; doth a man sin that continues to live still with her? 
 
-**[4:5]** And he said unto me, As long as he is ignorant of her sin, he commits no fault in living with her; but if a man shall know his wife to, have offended, and she shall not repent of her sin, but go on still in her fornication, and a man shall continue nevertheless to live with her, he shall become guilty of her sin, and partake with her in her adultery. 
+**[4:5]** And he said unto me, As long as he is ignorant of her sin, he commits no fault in living with her; but if a man shall know his wife to have offended, and she shall not repent of her sin, but go on still in her fornication, and a man shall continue nevertheless to live with her, he shall become guilty of her sin, and partake with her in her adultery. 
 
 **[4:6]** And I said unto him, What therefore is to be done, if the woman continues on in her sin? He answered, Let her husband put her away, and let him continue by himself; but if he shall put away his wife and marry another, he also doth commit adultery. 
 
@@ -160,13 +160,16 @@
 
 **[5:16]** When, therefore, it is departed from the man in whom it dwelt, that man becomes destitute of the Holy Spirit, and is afterwards filled with wicked spirits, and is blinded with evil thoughts. Thus doth it happen to all angry men. 
 
-**[5:17]** Wherefore depart then from anger, and put on equanimity, and resist: wrath; so then shalt be found with modesty and chastity by God. Take good heed, therefore, that thou neglect not this commandment. 18. For if thou shalt obey this command, then thou shalt also be able to observe the other commandments which I shall command thee. 
+**[5:17]** Wherefore depart then from anger, and put on equanimity, and resist wrath; so then shalt thou be found with modesty and chastity by God. Take good heed, therefore, that thou neglect not this commandment.
+
+**[5:18]** For if thou shalt obey this command, then thou shalt also be able to observe the other commandments which I shall command thee. 
 
 **[5:19]** Wherefore strengthen thyself now in these commands, that then mayest live unto God. And whosoever shall observe these commandments shall live unto God.
 
+
 **[6:1]** I commanded thee, said he, in my first commandments, that thou shouldst keep faith and fear, and repentance. Yes, sir, said I. 
 
-**[6:2]** He continued. But now I will shew thee the virtues of these commands, that then mayest know their effects; how they are prescribed alike to the just and unjust. 
+**[6:2]** He continued, But now I will shew thee the virtues of these commands, that then mayest know their effects; how they are prescribed alike to the just and unjust. 
 
 **[6:3]** Do thou therefore believe the righteous, but give no credit to the unrighteous. For righteousness keepeth the right way, but unrighteousness the wicked way. 
 
@@ -200,9 +203,10 @@
 
 **[6:18]** Thou seest therefore how it is good to follow the angel of righteousness. If therefore thou shall follow him, and submit to his works, thou shalt live unto God. And as many as shall submit to his work shall live also unto God.
 
+
 **[7:1]** Fear God, says he, and keep his commandments. For if thou keepest his commandments thou shalt be powerful in every work, and all thy works shall be excellent. For by fearing God, thou shalt do everything well. 
 
-**[7:2]** This is that tear with which thou must be affected that thou mayest be saved. But fear not the Devil: for if thou fearest the Lord, thou shalt have dominion over him; because there is no power in him. 
+**[7:2]** This is that fear with which thou must be affected that thou mayest be saved. But fear not the Devil: for if thou fearest the Lord, thou shalt have dominion over him; because there is no power in him. 
 
 **[7:3]** Now if there be no power in him, then neither is he to be feared: for every one that has power, is to be feared. But he that has no power is despised by every one. 
 
@@ -211,6 +215,7 @@
 **[7:5]** There is therefore a twofold fear; if thou wilt not do evil, fear the Lord and thou shalt not do it. But if thou wilt do good, the fear of the Lord is strong, and great and glorious. 
 
 **[7:6]** Wherefore, fear God and thou shalt live: and whosoever shall fear him, and keep his commandments, their life is with the Lord. But they who keep them not, neither is there life in them.
+
 
 **[8:1]** I have told thee, said he, that there are two kinds of creatures of the Lord, and that there is a two-fold abstinence. From some things therefore thou must abstain, and from others not. 
 
@@ -222,7 +227,7 @@
 
 **[8:5]** But hear, said he, what follows of these kind of things: for indeed many more there are from which the servant of God must abstain. From theft, and cheating; from false witness, from covetousness, from boasting, and all other things of the like nature. 
 
-**[8:6]** Do these things seem to thee to be evil or not? Indeed they are very evil to the servants of God, Wherefore the servant of God must abstain from all these works. 
+**[8:6]** Do these things seem to thee to be evil or not? Indeed they are very evil to the servants of God, wherefore the servant of God must abstain from all these works. 
 
 **[8:7]** Keep thyself therefore from them, that thou mayest live unto God, and be written among those that abstain from them. And thus have I shown thee what things thou must avoid: now learn from what thou must not abstain. 
 
@@ -236,9 +241,10 @@
 
 **[8:12]** Do these things seem to thee to be good or not? And I said, What can be better than these words? Live then, said he, in these commandments, and do not depart from them. For if thou shalt keep all these commandments, thou shalt live unto God. And all they that shall keep these commandments shall live unto God.
 
-**[9:1]** Again he said unto me; remove from thee all doubting; and question nothing at all when thou askest any thing of the Lord; saying within thyself, how shall I be able to ask any thing of the Lord and receive it, seeing I have so greatly sinned against him? 
 
-**[9:2]** Do not think thus, but turn unto the Lord with all thy heart, and ask of him without doubting, and thou shalt know the mercy of the Lord; bow that he will not forsake thee, but will fulfil the request of thy soul. 
+**[9:1]** Again he said unto me; remove from thee all doubting; and question nothing at all when thou askest any thing of the Lord; saying within thyself, How shall I be able to ask any thing of the Lord and receive it, seeing I have so greatly sinned against him? 
+
+**[9:2]** Do not think thus, but turn unto the Lord with all thy heart, and ask of him without doubting, and thou shalt know the mercy of the Lord; how that he will not forsake thee, but will fulfil the request of thy soul. 
 
 **[9:3]** For God is not as men, mindful of the injuries he has received; but he forgets injuries, and has compassion upon his creature. 
 
@@ -252,9 +258,12 @@
 
 **[9:8]** Consider therefore this doubting how cruel and pernicious it is; and how it utterly roots out many from the faith, who were very faithful and firm. For this doubting is the daughter of the Devil, and deals very wickedly with the servants of God. 
 
-**[9:9]** Despise it therefore, and thou shalt rule over it on every occasion. Put on a firm and powerful faith: for faith promises all things and perfects all things. But doubting will not believe that it shall obtain any thing by all that it can do. 10. Thou seest therefore, says he, how faith cometh from above from God; and hath great power. But doubting is an earthly spirit, and proceedeth from the Devil, and has no strength. 
+**[9:9]** Despise it therefore, and thou shalt rule over it on every occasion. Put on a firm and powerful faith: for faith promises all things and perfects all things. But doubting will not believe that it shall obtain any thing by all that it can do. 
+
+**[9*10]**. Thou seest therefore, says he, how faith cometh from above from God; and hath great power. But doubting is an earthly spirit, and proceedeth from the Devil, and has no strength. 
 
 **[9:11]** Do thou therefore keep the virtue of faith, and depart from doubting, in which is no virtue, and thou shalt live unto God. And all shall live unto God, as many as do these things.
+
 
 **[10:1]** Put all sadness far from thee; for it is the sister of doubting and of anger. How, sir, said I is it the sister of these? For sadness, and anger, and doubting, seem to me to be very different from one another. 
 
@@ -300,6 +309,7 @@
 
 **[10:23]** Wherefore cleanse thyself from sadness, which is evil, and thou shalt live unto God. And all others shall live unto God, as many as shall lay aside sadness, and put on cheerfulness.
 
+
 **[11:1]** He showed me certain men sitting upon benches, and one sitting in a chair: and he said unto me; Seest thou those who sit upon the benches? Sir, said I, I see them. He answered, They are the faithful; and he who sits in the chair is an earthly spirit. 
 
 **[11:2]** For he cometh not into the assembly of the faithful, but avoids it. But he joins himself to the doubtful and empty; and prophesies to them in corners and hidden places; and pleases them by speaking according to all the desires of their hearts. 
@@ -322,7 +332,7 @@
 
 **[11:11]** Should the Spirit of God receive reward, and divine? It doth not become a prophet of God so to do. 
 
-**[11:12]** Thus you seethe life of each of these kind of prophets. Wherefore prove that man by his life and works, who says that he hath the Holy Spirit. And believe the Spirit which comes from God, and has power as such. But believe not the earthly and empty spirit, which is from the devil, in whom there is no faith nor virtue. 
+**[11:12]** Thus you see the life of each of these kind of prophets. Wherefore prove that man by his life and works, who says that he hath the Holy Spirit. And believe the Spirit which comes from God, and has power as such. But believe not the earthly and empty spirit, which is from the devil, in whom there is no faith nor virtue. 
 
 **[11:13]** Hear now the similitude which I am about to speak unto thee. Take a stone, and throw it up towards heaven; or take a spout of water, and mount it up thitherward; and see if thou canst reach unto heaven. 
 
@@ -333,6 +343,7 @@
 **[11:16]** And again, consider, the droppings of a house; how the little drops falling upon the earth, work a hollow in the stones. 
 
 **[11:17]** So in like manner the least things which come from above, and fall upon the earth, have great force. Wherefore join thyself to this spirit, which has the power; and depart from the other which is empty.
+
 
 **[12:1]** Again he said unto me; remove from thee all evil desires, and put on good and holy desires. For having put on a good desire, thou shalt hate that which is evil, and bridle it as thou wilt. But an evil desire is dreadful, and hard to be tamed. 
 
@@ -360,7 +371,7 @@
 
 **[12:13]** And fulfil diligently this ministry which I commit to thee, and thou shalt receive great advantage by it, and find favour with all such as shall repent and believe thy words. For I am with thee, and will force them to believe. 
 
-**[12:14]** And I said unto him, Sir, these commands are great and excellent, and able to cheer the heart of that man that shall be able to keep them. But, Sir, I cannot tell, whether they can be observed by any man? 
+**[12:14]** And I said unto him, Sir, these commands are great and excellent, and able to cheer the heart of that man that shall be able to keep them. But, Sir, I cannot tell, whether they can be observed by any man.
 
 **[12:15]** He answered, Thou shalt easily keep these commands, and they shall not be hard: howbeit, if thou shalt suffer it once to enter into thine heart that they cannot be kept by any one, thou shalt not fulfil them. 
 
@@ -394,7 +405,7 @@
 
 **[12:30]** But I, the messenger of repentance, say unto you, fear not the devil, for I am sent unto you, that I may be with you, as many as shall repent with your whole heart, and that I may confirm you in the faith. 
 
-**[12:31]** Believe therefore, ye who by reason of your transgressions have forgot God. and your own salvation; and adding to your sins have made your life very heavy. 
+**[12:31]** Believe therefore, ye who by reason of your transgressions have forgot God and your own salvation; and adding to your sins have made your life very heavy. 
 
 **[12:32]** That if ye shall turn to the Lord with your whole hearts, and shall serve him according to his will; he will heal you of your former sins, and ye shall have dominion over all the works of the devil. 
 

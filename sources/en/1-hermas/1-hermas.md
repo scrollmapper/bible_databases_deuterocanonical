@@ -2,9 +2,9 @@
 
 
 
-**[1:1]** He who had bred me up sold a certain young maid at Rome; whom when I saw many years after, I remembered her, and began to love her as a sister. It happened some time afterwards, that I saw her washing in the river. Tyber; and I reached out my hand unto her, and brought her out of the river, 
+**[1:1]** He who had bred me up sold a certain young maid at Rome; whom when I saw many years after, I remembered her, and began to love her as a sister. It happened some time afterwards, that I saw her washing in the river Tyber; and I reached out my hand unto her, and brought her out of the river, 
 
-**[1:2]** And when I saw her I thought with myself, saying, How happy should I be if I had such a wife, both for beauty and manners. This I thought with myself; nor did I think any thing more. But not long after, as I was walking, and musing on these thoughts, I began to honour this creature of God, thinking with myself; how noble and beautiful she was. 
+**[1:2]** And when I saw her I thought with myself, saying, How happy should I be if I had such a wife, both for beauty and manners. This I thought with myself; nor did I think any thing more. But not long after, as I was walking, and musing on these thoughts, I began to honour this creature of God, thinking with myself how noble and beautiful she was. 
 
 **[1:3]** And when I had walked a little, I fell asleep; and the spirit caught me away, and carried me through a certain place towards the right hand, through which no man could pass. It was a place among rocks, very steep, and unpassable for water. 
 
@@ -12,13 +12,13 @@
 
 **[1:5]** And as I was praying, the heaven was opened, and I saw the woman which I had coveted, saluting me from heaven, and saying, Hermas, hail! and I looking upon her, answered, Lady, what dost thou do here? She answered me, I am taken up hither to accuse thee of sin before the Lord. 
 
-**[1:6]** Lady, said I, wilt thou convince me? No, said she: but hear the words which I am about to speak unto thee. God who dwelleth in heaven, and hath made all things out of nothing, and hath multiplied them for his holy church's sake, is angry with thee because thou hast sinned against me. 
+**[1:6]** Lady, said I, wilt thou convict me? No, said she: but hear the words which I am about to speak unto thee. God who dwelleth in heaven, and hath made all things out of nothing, and hath multiplied them for his holy church's sake, is angry with thee because thou hast sinned against me. 
 
 **[1:7]** And I answering said unto her, Lady, if I have sinned against thee, tell me where, or in what place, or when did I ever speak an unseemly or dishonest word unto thee? 
 
 **[1:8]** Have I not always esteemed thee as a lady? Have I not always reverenced thee as a sister? Why then dost thou imagine these wicked things against me? 
 
-**[1:9]** Then she, smiling upon me, said: the desire of naughtiness has risen up in thy heart. Does it not seem to thee to be an ill thing for a righteous man to have an evil desire rise up in his heart. 
+**[1:9]** Then she, smiling upon me, said, The desire of naughtiness has risen up in thy heart. Does it not seem to thee to be an ill thing for a righteous man to have an evil desire rise up in his heart?
 
 **[1:10]** It is indeed a sin, and that a very great sin, to such a one; for a righteous man thinketh that which is righteous. And whilst he does so, and walketh uprightly, he shall have the Lord in heaven favourable unto him in all his business. 
 
@@ -28,7 +28,7 @@
 
 **[1:13]** But do thou pray unto the Lord, and he will heal thy sins, and the sins of thy whole house, and of all his saints. 
 
-**[1:14]** As soon as she had spoken these words the heaven were shut, and I remained utterly swallowed up with sadness and fear: and said within myself, if this be laid against me for sin, how can I be saved. 
+**[1:14]** As soon as she had spoken these words the heaven were shut, and I remained utterly swallowed up with sadness and fear: and said within myself, If this be laid against me for sin, how can I be saved?
 
 **[1:15]** Or how should I ever be able to entreat the Lord for my many and great sins? With what words shall I beseech him to be merciful unto me? 
 
@@ -38,7 +38,7 @@
 
 **[1:18]** And she said unto me, Why art thou sad, Hermas, who wert wont to be patient, and modest, and always cheerful? I answered, and said to her, Lady, a reproach has been laid to my charge by an excellent woman, who tells me that I have sinned against her. 
 
-**[1:19]** She replied, Far be any such thing from the servant of God. But it may be the desire of her has risen up in thy heart? For indeed such a thought maketh the servants of God guilty of sin. 
+**[1:19]** She replied, Far be any such thing from the servant of God. But it may be the desire of her has risen up in thy heart. For indeed such a thought maketh the servants of God guilty of sin. 
 
 **[1:20]** Nor ought such a detestable thought to be in the servant of God: nor should he who is approved by the Spirit desire that which is evil; but especially Hermas, who contains himself from all wicked lusts, and is full of all simplicity, and of great innocence. 
 
@@ -64,11 +64,12 @@
 
 **[1:31]** And she called me unto her, and touched my breast, and said unto me, Did my reading please thee? I answered, Lady, these last things please me; but what went before was severe and hard. 
 
-**[1:32]** She said unto me, these last things are for the righteous, but the foregoing for the revolters and heathen. 
+**[1:32]** She said unto me, These last things are for the righteous, but the foregoing for the revolters and heathen. 
 
 **[1:33]** And as she was talking with me, two men appeared, and took her upon their shoulders, and went to the east where the chair was. 
 
 **[1:34]** And she went cheerfully away; and as she was going, said unto me, Hermas, be of good cheer.
+
 
 **[2:1]** As I was on the way to Cuma, about the same time that I went the year before, I began to call to mind the vision I formerly had. And again the spirit carried me away, and brought me into the same place, in which I had been the year before. 
 
@@ -136,7 +137,7 @@
 
 **[2:33]** And I said unto him, Why then does she appear old? She is therefore, said he, an old woman, because she was the first of all the creation, and the world was made for her. 
 
-**[2:34]** After this I saw a vision at home in my own house, and the old woman, whom I had seen before, came to me and asked me whether I had yet delivered her book to the elders of the church? And I answered, that I had not yet. 
+**[2:34]** After this I saw a vision at home in my own house, and the old woman, whom I had seen before, came to me and asked me whether I had yet delivered her book to the elders of the church. And I answered, that I had not yet. 
 
 **[2:35]** She replied, Thou hast well done, for I have certain words more to tell thee. But when I shall have finished all the words, they shall be clearly understood by the elect. 
 
@@ -144,19 +145,20 @@
 
 **[2:37]** But thou shalt read in this city with the elders of the church.
 
+
 **[3:1]** The vision which I saw, brethren, was this. 
 
 **[3:2]** When I had often fasted and prayed unto the Lord, that he would manifest unto me the revelation, which he had promised by the old woman to show unto me; the same night she appeared unto me, and said unto me, 
 
 **[3:3]** Because thou dost thus afflict thyself, and art so desirous to know all things, come into the field, where thou wilt, and about the sixth hour, I will appear unto thee, and show thee what thou must see. 
 
-**[3:4]** I asked her, saying; Lady, into what part of the field? She answered, wherever thou wilt, only choose a good and a private place. And before I began to speak and tell her the place, she said unto me; I will come where thou wilt. 
+**[3:4]** I asked her, saying; Lady, into what part of the field? She answered, Wherever thou wilt, only choose a good and a private place. And before I began to speak and tell her the place, she said unto me; I will come where thou wilt. 
 
 **[3:5]** I was therefore, brethren in the field and I observed the hours, and came into the place where I had appointed her to come. 
 
 **[3:6]** And I beheld a bench placed; it was a linen pillow, and over it spread a covering of fine linen. 
 
-**[3:7]** When I saw these things ordered in this manner, and that there was nobody in the place, I began to be astonished, and my hair stood on end, and a, kind of horror seized me; for I was alone. 
+**[3:7]** When I saw these things ordered in this manner, and that there was nobody in the place, I began to be astonished, and my hair stood on end, and a kind of horror seized me; for I was alone. 
 
 **[3:8]** But being come to myself, and calling to mind the glory of God, and taking courage, I fell down upon my knees and began again to confess my sins as before. 
 
@@ -164,9 +166,9 @@
 
 **[3:10]** And touching me, she said; Leave off praying now only for thy sins; pray also for righteousness, that thou mayest receive a part of it in thy house. 
 
-**[3:11]** And she lifted me up from the place, and took me by the hand, and brought me to the seat; and said to the young men, go, and build. 
+**[3:11]** And she lifted me up from the place, and took me by the hand, and brought me to the seat; and said to the young men, Go, and build. 
 
-**[3:12]** As soon as they were departed, and we were alone, she said unto me; sit here. I answered her; Lady, let those who are elder sit first. She replied, Sit down as I bid you. 
+**[3:12]** As soon as they were departed, and we were alone, she said unto me, Sit here. I answered her; Lady, let those who are elder sit first. She replied, Sit down as I bid you. 
 
 **[3:13]** And when I would have sat on the right side, she suffered me not, but made a sign to me with her hand, that I should sit on the left. 
 
@@ -306,7 +308,7 @@
 
 **[3:81]** But if they shall not have this sense in their hearts, they shall not be saved by reason of the hardness of their hearts. 
 
-**[3:82]** When therefore I had done asking her concerning all these things, she said unto me, Wilt thou see something else? And being desirous of seeing it, I became very cheerful of countenances. 
+**[3:82]** When therefore I had done asking her concerning all these things, she said unto me, Wilt thou see something else? And being desirous of seeing it, I became very cheerful of countenance. 
 
 **[3:83]** She therefore looking back upon me, and smiling a little, said unto me, Seest thou seven women about the tower? Lady, said I, I see them. 
 
@@ -410,7 +412,7 @@
 
 **[3:133]** But if any thing is to be revealed, it shall be made manifest unto you.
 
-**[4:1]** Saw a vision brethren, twenty days after the former vision; a representation of the tribulation that is at hand. I was walking in the field way. 
+**[4:1]** I saw a vision brethren, twenty days after the former vision; a representation of the tribulation that is at hand. I was walking in the field way. 
 
 **[4:2]** Now from the public way to the place whither I went is about ten furlongs; it is a way very little frequented: 
 
@@ -420,7 +422,7 @@
 
 **[4:5]** And behold somewhat like a voice answered me; Doubt not, Hermas. Wherefore I began to think, and say within myself, why should I doubt, seeing I am thus settled by the Lord, and have seen such glorious things? 
 
-**[4:6]** I had gone but a little farther, brethren, when behold I saw a dust rise up to heaven. I began to say within myself, is there a drove of cattle coming, that rises such a dust? 
+**[4:6]** I had gone but a little farther, brethren, when behold I saw a dust rise up to heaven. I began to say within myself, Is there a drove of cattle coming, that rises such a dust? 
 
 **[4:7]** It was about a furlong off from me. And behold I saw the dust rise more and more, insomuch that I began to suspect that there was somewhat extraordinary in it. 
 
@@ -440,11 +442,11 @@
 
 **[4:15]** Now I knew by my former visions that it was the church, and thereupon grew the more cheerful. She saluted me, saying, Hail, O Man! I returned the salutation, saying, Lady, Hail! 
 
-**[4:16]** She answering said unto me, Did nothing meet you, O man! I replied, Lady, there met me such a beast, as seemed able to devour a whole people; but by the power of God, and through his singular mercy, I escaped it. 
+**[4:16]** She answering said unto me, Did nothing meet you, O man? I replied, Lady, there met me such a beast, as seemed able to devour a whole people; but by the power of God, and through his singular mercy, I escaped it. 
 
 **[4:17]** Thou didst escape it well, said she, because thou didst cast thy whole care upon God, and opened thy heart unto him, believing that thou couldst be safe by no other than by his great and honourable name. 
 
-**[4:18]** For this cause the Lord sent his angel, who is over the beast, whose name is Hegrin, and stopped his mouth, that he should not devour thee, Thou hast escaped a great trial through thy faith, and because thou didst not doubt for such a terrible beast. 
+**[4:18]** For this cause the Lord sent his angel, who is over the beast, whose name is Hegrin, and stopped his mouth, that he should not devour thee. Thou hast escaped a great trial through thy faith, and because thou didst not doubt for such a terrible beast. 
 
 **[4:19]** Go, therefore, and relate to the elect of God the great things that he hath done for thee. And thou shalt say unto them, that this beast is the figure of the trial that is about to come. 
 
@@ -454,7 +456,7 @@
 
 **[4:22]** Woe to the doubtful, to those who shall hear these words, and shall despise them: it had been better for them that they had not been born. 
 
-**[4:23]** Then I asked her concerning the four colours which the beast had upon its head. But she answered me saying; Again thou art curious in that thou asketh concerning these things. But I said to her, Lady, chew me what they are? 
+**[4:23]** Then I asked her concerning the four colours which the beast had upon its head. But she answered me saying; Again thou art curious in that thou asketh concerning these things. But I said to her, Lady, shew me what they are.
 
 **[4:24]** Hear, said she; The black which thou sawest denotes the world in which you dwell. The fiery and bloody colour signifies that this age must be destroyed by fire and blood. 
 

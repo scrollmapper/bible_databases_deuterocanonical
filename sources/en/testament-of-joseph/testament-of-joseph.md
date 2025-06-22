@@ -8,7 +8,7 @@
 
 **[1:3]** My brethren and my children, hearken to Joseph the beloved of Israel; give ear, my sons, unto your father.
 
-**[1:4]** I have seen in my life envy and death, yet I went not astray, but persevered in the truth--of the Lord.
+**[1:4]** I have seen in my life envy and death, yet I went not astray, but persevered in the truth of the Lord.
 
 **[1:5]** These my brethren hated me, but the Lord loved me:
 
@@ -82,9 +82,9 @@
 
 **[1:40]** And she said unto me: If thou willest that I should leave my idols, lie with me, and I will persuade my husband to depart from his idols, and we will walk in the law by thy Lord.
 
-**[1:41]** And I said unto her: The Lord willeth not. that those who reverence Him should be in uncleanness, nor doth He take pleasure in them that commit adultery, but in those that approach Him with a pure heart and undefiled lips.
+**[1:41]** And I said unto her: The Lord willeth not that those who reverence Him should be in uncleanness, nor doth He take pleasure in them that commit adultery, but in those that approach Him with a pure heart and undefiled lips.
 
-**[1:42]** But she heed her peace, longing to accomplish her evil desire.
+**[1:42]** But she held her peace, longing to accomplish her evil desire.
 
 **[1:43]** And I gave myself yet more to fasting and prayer, that the Lord might deliver me from her.
 
@@ -106,7 +106,7 @@
 
 **[1:52]** So then after one day she came to me and observed the food, and said unto me: Why is it that thou hast not eaten of the food?
 
-**[1:53]** And I said unto her: It is because thou hast filled it with deadly enchantments; and how saidst thou: I come not near to idols but to the Lord alone.
+**[1:53]** And I said unto her: It is because thou hast filled it with deadly enchantments; and how saidst thou: I come not near to idols but to the Lord alone?
 
 **[1:54]** Now therefore know that the God of my father hath revealed unto me by His angel thy wickedness, and I have kept it to convict thee, if haply thou mayst see and repent.
 
@@ -140,7 +140,7 @@
 
 **[1:69]** I declare, therefore, unto you, my children, that it was about the sixth hour when she departed from me; and I knelt before the Lord all day, and all the night; and about dawn I rose up, weeping the while and praying for a release from her.
 
-**[1:70]** At last, then, she laid hold of my garments, forcibly dragging me to have connexion with her.
+**[1:70]** At last, then, she laid hold of my garments, forcibly dragging me to have connetion with her.
 
 **[1:71]** When, therefore, I saw that in her madness she was holding fast to my garment, I left it behind, and fled away naked.
 
@@ -268,7 +268,7 @@
 
 **[2:49]** For they had heard that he was mighty with God and with men.
 
-**[2:50]** Then said the merchant unto them: Release me from the judgement of Pentiphri.
+**[2:50]** Then said the merchant unto them: Release me from the judgement of Pentiphris.
 
 **[2:51]** And they came and requested me, saying: Say that thou wast bought by us with money, and he will set us free.
 

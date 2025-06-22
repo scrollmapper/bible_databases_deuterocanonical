@@ -46,6 +46,7 @@
 
 **[1:22]** And Achiacharus intreating for me, I returned to Nineve. Now Achiacharus was cupbearer, and keeper of the signet, and steward, and overseer of the accounts: and Sarchedonus appointed him next unto him: and he was my brother’s son.
 
+
 **[2:1]** Now when I was come home again, and my wife Anna was restored unto me, with my son Tobias, in the feast of Pentecost, which is the holy feast of the seven weeks, there was a good dinner prepared me, in the which I sat down to eat.
 
 **[2:2]** And when I saw abundance of meat, I said to my son, Go and bring what poor man soever thou shalt find out of our brethren, who is mindful of the Lord; and, lo, I tarry for thee.
@@ -60,9 +61,9 @@
 
 **[2:7]** Therefore I wept: and after the going down of the sun I went and made a grave, and buried him.
 
-**[2:8]** But my neighbours mocked me, and said, This man is not yet afraid to be put to death for this matter: who fled away; and yet, lo, he burieth the dead again.
+**[2:8]** But my neighbours mocked me, and said, This man is not yet afraid to be put to death for this matter, who fled away; and yet, lo, he burieth the dead again.
 
-**[2:9]** The same night also I returned from the burial, and slept by the wall of my courtyard, being polluted and my face was uncovered:
+**[2:9]** The same night also I returned from the burial, and slept by the wall of my courtyard, being polluted, and my face was uncovered:
 
 **[2:10]** And I knew not that there were sparrows in the wall, and mine eyes being open, the sparrows muted warm dung into mine eyes, and a whiteness came in mine eyes: and I went to the physicians, but they helped me not: moreover Achiacharus did nourish me, until I went into Elymais.
 
@@ -73,6 +74,7 @@
 **[2:13]** And when it was in my house, and began to cry, I said unto her, From whence is this kid? is it not stolen? render it to the owners; for it is not lawful to eat any thing that is stolen.
 
 **[2:14]** But she replied upon me, It was given for a gift more than the wages. Howbeit I did not believe her, but bade her render it to the owners: and I was abashed at her. But she replied upon me, Where are thine alms and thy righteous deeds? behold, thou and all thy works are known.
+
 
 **[3:1]** Then I being grieved did weep, and in my sorrow prayed, saying,
 
@@ -107,6 +109,7 @@
 **[3:16]** So the prayers of them both were heard before the majesty of the great God.
 
 **[3:17]** And Raphael was sent to heal them both, that is, to scale away the whiteness of Tobit’s eyes, and to give Sara the daughter of Raguel for a wife to Tobias the son of Tobit; and to bind Asmodeus the evil spirit; because she belonged to Tobias by right of inheritance. The selfsame time came Tobit home, and entered into his house, and Sara the daughter of Raguel came down from her upper chamber.
+
 
 **[4:1]** In that day Tobit remembered the money which he had committed to Gabael in Rages of Media,
 
@@ -149,6 +152,7 @@
 **[4:20]** And now I signify this to they that I committed ten talents to Gabael the son of Gabrias at Rages in Media.
 
 **[4:21]** And fear not, my son, that we are made poor: for thou hast much wealth, if thou fear God, and depart from all sin, and do that which is pleasing in his sight.
+
 
 **[5:1]** Tobias then answered and said, Father, I will do all things which thou hast commanded me:
 
@@ -194,6 +198,7 @@
 
 **[5:22]** Then she made an end of weeping.
 
+
 **[6:1]** And as they went on their journey, they came in the evening to the river Tigris, and they lodged there.
 
 **[6:2]** And when the young man went down to wash himself, a fish leaped out of the river, and would have devoured him.
@@ -204,7 +209,7 @@
 
 **[6:5]** So the young man did as the angel commanded him; and when they had roasted the fish, they did eat it: then they both went on their way, till they drew near to Ecbatane.
 
-**[6:6]** Then the young man said to the angel, Brother Azarias, to what use is the heart and the liver and the gal of the fish?
+**[6:6]** Then the young man said to the angel, Brother Azarias, to what use is the heart and the liver and the gall of the fish?
 
 **[6:7]** And he said unto him, Touching the heart and the liver, if a devil or an evil spirit trouble any, we must make a smoke thereof before the man or the woman, and the party shall be no more vexed.
 
@@ -227,6 +232,7 @@
 **[6:16]** And when thou shalt come into the marriage chamber, thou shalt take the ashes of perfume, and shalt lay upon them some of the heart and liver of the fish, and shalt make a smoke with it:
 
 **[6:17]** And the devil shall smell it, and flee away, and never come again any more: but when thou shalt come to her, rise up both of you, and pray to God which is merciful, who will have pity on you, and save you: fear not, for she is appointed unto thee from the beginning; and thou shalt preserve her, and she shall go with thee. Moreover I suppose that she shall bear thee children. Now when Tobias had heard these things, he loved her, and his heart was effectually joined to her.
+
 
 **[7:1]** And when they were come to Ecbatane, they came to the house of Raguel, and Sara met them: and after they had saluted one another, she brought them into the house.
 
@@ -263,6 +269,7 @@
 **[7:17]** Which when she had done as he had bidden her, she brought her thither: and she wept, and she received the tears of her daughter, and said unto her,
 
 **[7:18]** Be of good comfort, my daughter; the Lord of heaven and earth give thee joy for this thy sorrow: be of good comfort, my daughter.
+
 
 **[8:1]** And when they had supped, they brought Tobias in unto her.
 
@@ -306,6 +313,7 @@
 
 **[8:21]** And then he should take the half of his goods, and go in safety to his father; and should have the rest when I and my wife be dead.
 
+
 **[9:1]** Then Tobias called Raphael, and said unto him,
 
 **[9:2]** Brother Azarias, take with thee a servant, and two camels, and go to Rages of Media to Gabael, and bring me the money, and bring him to the wedding.
@@ -317,6 +325,7 @@
 **[9:5]** So Raphael went out, and lodged with Gabael, and gave him the handwriting: who brought forth bags which were sealed up, and gave them to him.
 
 **[9:6]** And early in the morning they went forth both together, and came to the wedding: and Tobias blessed his wife.
+
 
 **[10:1]** Now Tobit his father counted every day: and when the days of the journey were expired, and they came not,
 
@@ -341,6 +350,7 @@
 **[10:11]** And he blessed them, and sent them away, saying, The God of heaven give you a prosperous journey, my children.
 
 **[10:12]** And he said to his daughter, Honour thy father and thy mother in law, which are now thy parents, that I may hear good report of thee. And he kissed her. Edna also said to Tobias, The Lord of heaven restore thee, my dear brother, and grant that I may see thy children of my daughter Sara before I die, that I may rejoice before the Lord: behold, I commit my daughter unto thee of special trust; where are do not entreat her evil.
+
 
 **[11:1]** After these things Tobias went his way, praising God that he had given him a prosperous journey, and blessed Raguel and Edna his wife, and went on his way till they drew near unto Nineve.
 
@@ -379,6 +389,7 @@
 **[11:18]** And Achiacharus, and Nasbas his brother’s son, came:
 
 **[11:19]** And Tobias’ wedding was kept seven days with great joy.
+
 
 **[12:1]** Then Tobit called his son Tobias, and said unto him, My son, see that the man have his wages, which went with thee, and thou must give him more.
 
@@ -424,6 +435,7 @@
 
 **[12:22]** Then they confessed the great and wonderful works of God, and how the angel of the Lord had appeared unto them.
 
+
 **[13:1]** Then Tobit wrote a prayer of rejoicing, and said, Blessed be God that liveth for ever, and blessed be his kingdom.
 
 **[13:2]** For he doth scourge, and hath mercy: he leadeth down to hell, and bringeth up again: neither is there any that can avoid his hand.
@@ -459,6 +471,7 @@
 **[13:17]** And the streets of Jerusalem shall be paved with beryl and carbuncle and stones of Ophir.
 
 **[13:18]** And all her streets shall say, Alleluia; and they shall praise him, saying, Blessed be God, which hath extolled it for ever.
+
 
 **[14:1]** So Tobit made an end of praising God.
 
