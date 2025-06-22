@@ -152,13 +152,13 @@
 
 **[3:3]** Because thou dost thus afflict thyself, and art so desirous to know all things, come into the field, where thou wilt, and about the sixth hour, I will appear unto thee, and show thee what thou must see. 
 
-**[3:4]** I asked her, saying; Lady, into what part of the field? She answered, wherever thou wilt, only choose a good and a private place. And before I began to speak and tell her the place, she said unto me; I will come where thou wilt. 
+**[3:4]** I asked her, saying; Lady, into what part of the field? She answered, Wherever thou wilt, only choose a good and a private place. And before I began to speak and tell her the place, she said unto me; I will come where thou wilt. 
 
 **[3:5]** I was therefore, brethren in the field and I observed the hours, and came into the place where I had appointed her to come. 
 
 **[3:6]** And I beheld a bench placed; it was a linen pillow, and over it spread a covering of fine linen. 
 
-**[3:7]** When I saw these things ordered in this manner, and that there was nobody in the place, I began to be astonished, and my hair stood on end, and a, kind of horror seized me; for I was alone. 
+**[3:7]** When I saw these things ordered in this manner, and that there was nobody in the place, I began to be astonished, and my hair stood on end, and a kind of horror seized me; for I was alone. 
 
 **[3:8]** But being come to myself, and calling to mind the glory of God, and taking courage, I fell down upon my knees and began again to confess my sins as before. 
 
@@ -166,9 +166,9 @@
 
 **[3:10]** And touching me, she said; Leave off praying now only for thy sins; pray also for righteousness, that thou mayest receive a part of it in thy house. 
 
-**[3:11]** And she lifted me up from the place, and took me by the hand, and brought me to the seat; and said to the young men, go, and build. 
+**[3:11]** And she lifted me up from the place, and took me by the hand, and brought me to the seat; and said to the young men, Go, and build. 
 
-**[3:12]** As soon as they were departed, and we were alone, she said unto me; sit here. I answered her; Lady, let those who are elder sit first. She replied, Sit down as I bid you. 
+**[3:12]** As soon as they were departed, and we were alone, she said unto me, Sit here. I answered her; Lady, let those who are elder sit first. She replied, Sit down as I bid you. 
 
 **[3:13]** And when I would have sat on the right side, she suffered me not, but made a sign to me with her hand, that I should sit on the left. 
 
@@ -308,7 +308,7 @@
 
 **[3:81]** But if they shall not have this sense in their hearts, they shall not be saved by reason of the hardness of their hearts. 
 
-**[3:82]** When therefore I had done asking her concerning all these things, she said unto me, Wilt thou see something else? And being desirous of seeing it, I became very cheerful of countenances. 
+**[3:82]** When therefore I had done asking her concerning all these things, she said unto me, Wilt thou see something else? And being desirous of seeing it, I became very cheerful of countenance. 
 
 **[3:83]** She therefore looking back upon me, and smiling a little, said unto me, Seest thou seven women about the tower? Lady, said I, I see them. 
 
