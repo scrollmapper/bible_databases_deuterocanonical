@@ -1683,8 +1683,7 @@
 
 **[29:20]** And thither Jacob sent all that he did send to his father and his mother from time to time, all they needed, and they blessed Jacob with all their heart and with all their soul.
 
-
-**[30:1]** And in the first year of the sixth week [2143 A.M.] he went up to Salem, to the east of Shechem, in peace, in the fourth month.
+**[30:1]** And in the first year of the sixth week he went up to Salem, to the east of Shechem, in peace, in the fourth month.
 
 **[30:2]** And there they carried off Dinah, the daughter of Jacob, into the house of Shechem, the son of Hamor, the Hivite, the prince of the land, and he lay with her and defiled her, and she was a little girl, a child of twelve years.
 
@@ -1714,7 +1713,7 @@
 
 **[30:15]** For there will be plague upon plague, and curse upon curse, and every judgment and plague and curse will come upon him: if he do this thing, or hide his eyes from those who commit uncleanness, or those who defile the sanctuary of the Lord, or those who profane His holy name, (then) will the whole nation together be judged for all the uncleanness and profanation of this man.
 
-**[30:16]** And there will be no respect of persons [and no consideration of persons] and no receiving at his hands of fruits and offerings and burnt-offerings and fat, nor the fragrance of sweet savour, so as to accept it: and so fare every man or woman in Israel who defiles the sanctuary.
+**[30:16]** And there will be no respect of persons and no consideration of persons and no receiving at his hands of fruits and offerings and burnt-offerings and fat, nor the fragrance of sweet savour, so as to accept it: and so fare every man or woman in Israel who defiles the sanctuary.
 
 **[30:17]** For this reason I have commanded thee, saying: 'Testify this testimony to Israel: see how the Shechemites fared and their sons: how they were delivered into the hands of two sons of Jacob, and they slew them under tortures, and it was (reckoned) unto them for righteousness, and it is written down to them for righteousness.
 
@@ -1735,6 +1734,7 @@
 **[30:25]** And he reproached them because they had put the city to the sword for he feared those who dwelt in the land, the Canaanites and the Perizzites.
 
 **[30:26]** And the dread of the Lord was upon all the cities which are around about Shechem, and they did not rise to pursue after the sons of Jacob; for terror had fallen upon them.
+
 
 **[31:1]** And on the new moon of the month Jacob spake to all the people of his house. saying: 'Purify yourselves and change your garments, and let us arise and go up to Bethel, where I vowed a vow to Him on the day when I fled from the face of Esau my brother, because he has been with me and brought me into this land in peace, and put ye away the strange gods that arc among you.'
 
@@ -1764,17 +1764,17 @@
 
 **[31:14]** And may the Lord give to thee and to thy seed greatness and great glory, and cause thee and thy seed, from among all flesh, to approach Him to serve in His sanctuary as the angels of the presence and as the holy ones. (Even) as they, shall the seed of thy sons be for glory and greatness and holiness, and may He make them great unto all the ages.
 
-**[31:15]** And they shall be judges and princes, and chiefs of all the seed of the sons of Jacob; They shall speak the word of the Lord in righteousness, And they shall judge all His judgments in righteousness. And they shall declare My ways to Jacob And My paths to Israel. The blessing of the Lord shall be given in their mouths To bless all the seed of the beloved.
+**[31:15]** And they shall be judges and princes, and chiefs of all the seed of the sons of Jacob; they shall speak the word of the Lord in righteousness, and they shall judge all His judgments in righteousness. And they shall declare My ways to Jacob and My paths to Israel. The blessing of the Lord shall be given in their mouths To bless all the seed of the beloved.
 
-**[31:16]** Thy mother has called thy name Levi, And justly has she called thy name; Thou shalt be joined to the Lord And be the companion of all the sons of Jacob; Let His table be thine, And do thou and thy sons eat thereof; And may thy table be full unto all generations, And thy food fail not unto all the ages.
+**[31:16]** Thy mother has called thy name Levi, and justly has she called thy name; thou shalt be joined to the Lord and be the companion of all the sons of Jacob; let His table be thine, and do thou and thy sons eat thereof; and may thy table be full unto all generations, and thy food fail not unto all the ages.
 
-**[31:17]** And let all who hate thee fall down before thee, And let all thy adversaries be rooted out and perish; And blessed be he that blesses thee, And cursed be every nation that curses thee.'
+**[31:17]** And let all who hate thee fall down before thee, and let all thy adversaries be rooted out and perish; and blessed be he that blesses thee, and cursed be every nation that curses thee.'
 
-**[31:18]** And to Judah he said: 'May the Lord give thee strength and power to tread down all that hate thee; A prince shalt thou be, thou and one of thy sons, over the sons of Jacob; May thy name and the name of thy sons go forth and traverse every land and region. Then shall the Gentiles fear before thy face, And all the nations shall quake [And all the peoples shall quake].
+**[31:18]** And to Judah he said: 'May the Lord give thee strength and power to tread down all that hate thee; a prince shalt thou be, thou and one of thy sons, over the sons of Jacob; may thy name and the name of thy sons go forth and traverse every land and region. Then shall the Gentiles fear before thy face, and all the nations shall quake and all the peoples shall quake.
 
-**[31:19]** In thee shall be the help of Jacob, And in thee be found the salvation of Israel.
+**[31:19]** In thee shall be the help of Jacob, and in thee be found the salvation of Israel.
 
-**[31:20]** And when thou sittest on the throne of honour of thy righteousness There shall be great peace for all the seed of the sons of the beloved; Blessed be he that blesseth thee, And all that hate thee and afflict thee and curse thee Shall be rooted out and destroyed from the earth and be accursed.'
+**[31:20]** And when thou sittest on the throne of honour of thy righteousness there shall be great peace for all the seed of the sons of the beloved; blessed be he that blesseth thee, and all that hate thee and afflict thee and curse thee Shall be rooted out and destroyed from the earth and be accursed.'
 
 **[31:21]** And turning he kissed him again and embraced him, and rejoiced greatly; for he had seen the sons of Jacob his son in very truth.
 
@@ -1799,6 +1799,7 @@
 **[31:31]** And Jacob remembered the prayer with which his father had blessed him and his two sons, Levi and Judah, and he rejoiced and blessed the God of his fathers, Abraham and Isaac.
 
 **[31:32]** And he said: 'Now I know that I have an eternal hope, and my sons also, before the God of all'; and thus is it ordained concerning the two; and they record it as an eternal testimony unto them on the heavenly tablets how Isaac blessed them.
+
 
 **[32:1]** And he abode that night at Bethel, and Levi dreamed that they had ordained and made him the priest of the Most High God, him and his sons for ever; and he awoke from his sleep and blessed the Lord.
 
