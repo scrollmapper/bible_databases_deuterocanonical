@@ -29,7 +29,6 @@
 - [II Hermas](en/2-hermas/)
 - [II Maccabees](en/2-maccabees/)
 - [III Baruch](en/3-baruch/)
-- [III Enoch](en/3-enoch/)
 - [III Hermas](en/3-hermas/)
 - [IV Baruch](en/4-baruch/)
 - [Jannes and Jambres](en/jannes-and-jambres/)

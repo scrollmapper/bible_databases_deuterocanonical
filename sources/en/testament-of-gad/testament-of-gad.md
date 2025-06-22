@@ -23,7 +23,7 @@
 
 **[1:11]** I confess now my gin, my children, that oftentimes I wished to kill him, because I hated him from my heart.
 
-**[1:12]** Moreover, I hated him yet more for his dreams; and I wished to lick 1 him out of the land of the living, even as an ox licketh up the grass of the field.
+**[1:12]** Moreover, I hated him yet more for his dreams; and I wished to lick him out of the land of the living, even as an ox licketh up the grass of the field.
 
 **[1:13]** And Judah sold him secretly to the Ishmaelites.
 
@@ -37,7 +37,7 @@
 
 **[1:18]** Beware, therefore, my children of hatred, for it worketh lawlessness even against the Lord Himself.
 
-**[1:19]** For it will not hear the words of His commandments concerning the loving of one's--neighbour, and it sinneth against God.
+**[1:19]** For it will not hear the words of His commandments concerning the loving of one's neighbour, and it sinneth against God.
 
 **[1:20]** For if a brother stumble, it delighteth immediately to proclaim it to all men, and is urgent that he should be judged for it, and be punished and be put to death.
 
@@ -97,7 +97,7 @@
 
 **[2:9]** If a man prospereth more than you, do not be vexed, but pray also for him, that he may have perfect prosperity.
 
-**[2:10]** for so it is expedient for you.
+**[2:10]** For so it is expedient for you.
 
 **[2:11]** And if he be further exalted, be not envious of him, remembering that all flesh shall die; and offer praise to God, who giveth things good and profitable to all men.
 
@@ -113,7 +113,7 @@
 
 **[2:17]** Do ye also therefore tell these things to your children, that they honour Judah and Levi, for from them shall the Lord raise up salvation to Israel.
 
-**[2:18]** For I know that at the last your children shall depart from Him, and shall walk in O wickedness, and affliction and corruption before the Lord.
+**[2:18]** For I know that at the last your children shall depart from Him, and shall walk in wickedness, and affliction and corruption before the Lord.
 
 **[2:19]** And when he had rested for a little while, he said again; My children, obey your father, and bury me near to my fathers.
 

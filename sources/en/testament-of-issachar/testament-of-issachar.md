@@ -20,7 +20,7 @@
 
 **[1:9]** Now there were two apples; and Leah said to Rachel: Let it suffice thee that thou hast taken my husband: wilt thou take these also?
 
-**[1:10]** And Rachel said to her: Thou shalt have Jacob this night for the mandrakes of thy son,
+**[1:10]** And Rachel said to her: Thou shalt have Jacob this night for the mandrakes of thy son.
 
 **[1:11]** And Leah said to her: Jacob is mine, for I am the wife of his youth.
 
@@ -40,13 +40,13 @@
 
 **[1:19]** And had not Leah my mother paid the two apples for the sake of his company, she would have borne eight sons; for this reason she bare six, and Rachel bare the two: for on account of the mandrakes the Lord visited her.
 
-**[1:20]** For He knew that for the sake of children she wished to company with Jacob, and not for lust of pleasure.
+**[1:20]** For He knew that for the sake of children she wished to company with Jacob, and not for lust or pleasure.
 
 **[1:21]** For on the morrow also she again gave up Jacob.
 
 **[1:22]** Because of the mandrakes, therefore, the Lord hearkened to Rachel.
 
-**[1:23]** For though she desired them, she cat them not, but offered them in the house of the Lord, presenting them to the priest of the Most High who was at that time.
+**[1:23]** For though she desired them, she ate them not, but offered them in the house of the Lord, presenting them to the priest of the Most High who was at that time.
 
 **[1:24]** When, therefore, I grew up, my children, I walked in uprightness of heart, and I became a husbandman for my father and my brethren, and I brought in fruits from the field according to their season.
 
@@ -64,7 +64,7 @@
 
 **[1:31]** For on all the poor and oppressed I bestowed the good things of the earth in the singleness of my heart.
 
-**[1:32]** And now, hearken to me, my children, and walk in singleness of your heart, for I have seen in it all that is well-pleasing to the Lord. '
+**[1:32]** And now, hearken to me, my children, and walk in singleness of your heart, for I have seen in it all that is well-pleasing to the Lord. 
 
 **[1:33]** The single-minded man coveteth not gold, he overreacheth not his neighbour, he longeth not after manifold dainties, he delighteth not in varied apparel.
 
