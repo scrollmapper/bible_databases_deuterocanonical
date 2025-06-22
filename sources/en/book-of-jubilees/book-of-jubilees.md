@@ -1,7 +1,5 @@
 # Jubilees
 
-
-
 **[1:1]** And it came to pass in the first year of the exodus of the children of Israel out of Egypt, in the third month, on the sixteenth day of the month, that God spake to Moses, saying: 'Come up to Me on the Mount, and I will give thee two tables of stone of the law and of the commandment, which I have written, that thou mayst teach them.'
 
 **[1:2]** And Moses went up into the mount of God, and the glory of the Lord abode on Mount Sinai, and a cloud overshadowed it six days.
@@ -877,11 +875,11 @@
 
 **[15:5]** And Abram fell on his face, and God talked with him, and said:
 
-**[15:6]** 'Behold my ordinance is with thee, And thou shalt be the father of many nations.
+**[15:6]** 'Behold my ordinance is with thee, and thou shalt be the father of many nations.
 
-**[15:7]** Neither shall thy name any more be called Abram, But thy name from henceforth, even for ever, shall be Abraham. For the father of many nations have I made thee.
+**[15:7]** Neither shall thy name any more be called Abram, buut thy name from henceforth, even for ever, shall be Abraham. For the father of many nations have I made thee.
 
-**[15:8]** And I will make thee very great, And I will make thee into nations, And kings shall come forth from thee.
+**[15:8]** And I will make thee very great, and I will make thee into nations, and kings shall come forth from thee.
 
 **[15:9]** And I shall establish My covenant between Me and thee, and thy seed after thee, throughout their generations, for an eternal covenant, so that I may be a God unto thee, and to thy seed after thee.
 
@@ -940,11 +938,11 @@
 
 **[16:2]** And Sarah laughed, for she heard that we had spoken these words with Abraham, and we admonished her, and she became afraid, and denied that she had laughed on account of the words.
 
-**[16:3]** And we told her the name of her son, as his name is ordained and written in the heavenly tablets (i.e.) Isaac,
+**[16:3]** And we told her the name of her son, as his name is ordained and written in the heavenly tablets, Isaac,
 
 **[16:4]** And (that) when we returned to her at a set time, she would have conceived a son.
 
-**[16:5]** And in this month the Lord executed his judgments on Sodom, and Gomorrah, and Zeboim, and all the region of the Jordan, and He burned them with fire and brimstone, and destroyed them until this day, even as [lo] I have declared unto thee all their works, that they are wicked and sinners exceedingly, and that they defile themselves and commit fornication in their flesh, and work uncleanness on the earth.
+**[16:5]** And in this month the Lord executed his judgments on Sodom, and Gomorrah, and Zeboim, and all the region of the Jordan, and He burned them with fire and brimstone, and destroyed them until this day, even as I have declared unto thee all their works, that they are wicked and sinners exceedingly, and that they defile themselves and commit fornication in their flesh, and work uncleanness on the earth.
 
 **[16:6]** And, in like manner, God will execute judgment on the places where they have done according to the uncleanness of the Sodomites, like unto the judgment of Sodom.
 
@@ -964,9 +962,9 @@
 
 **[16:14]** And Abraham circumcised his son on the eighth day: he was the first that was circumcised according to the covenant which is ordained for ever.
 
-**[16:15]** And in the sixth year of the fourth week we came to Abraham, to the Well of the Oath, and we appeared unto him [as we had told Sarah that we should return to her, and she would have conceived a son.
+**[16:15]** And in the sixth year of the fourth week we came to Abraham, to the Well of the Oath, and we appeared unto him as we had told Sarah that we should return to her, and she would have conceived a son.
 
-**[16:16]** And we returned in the seventh month, and found Sarah with child before us] and we blessed him, and we announced to him all the things which had been decreed concerning him, that he should not die till he should beget six sons more, and should see (them) before he died; but (that) in Isaac should his name and seed be called:
+**[16:16]** And we returned in the seventh month, and found Sarah with child before us and we blessed him, and we announced to him all the things which had been decreed concerning him, that he should not die till he should beget six sons more, and should see (them) before he died; but (that) in Isaac should his name and seed be called:
 
 **[16:17]** And (that) all the seed of his sons should be Gentiles, and be reckoned with the Gentiles; but from the sons of Isaac one should become a holy seed, and should not be reckoned among the Gentiles.
 
@@ -992,11 +990,12 @@
 
 **[16:28]** And we blessed him for ever, and all his seed after him throughout all the generations of the earth, because he celebrated this festival in its season, according to the testimony of the heavenly tablets.
 
-**[16:29]** For this reason it is ordained on the heavenly tablets concerning Israel, that they shall celebrate the feast of tabernacles seven days with joy, in the seventh month, acceptable before the Lord -a statute for ever throughout their generations every year.
+**[16:29]** For this reason it is ordained on the heavenly tablets concerning Israel, that they shall celebrate the feast of tabernacles seven days with joy, in the seventh month, acceptable before the Lord - a statute for ever throughout their generations every year.
 
 **[16:30]** And to this there is no limit of days; for it is ordained for ever regarding Israel that they should celebrate it and dwell in booths, and set wreaths upon their heads, and take leafy boughs, and willows from the brook.
 
-**[16:31]** And Abraham took branches of palm trees, and the fruit of goodly trees, and every day going round the altar with the branches seven times [a day] in the morning, he praised and gave thanks to his God for all things in joy.
+**[16:31]** And Abraham took branches of palm trees, and the fruit of goodly trees, and every day going round the altar with the branches seven times in the morning, he praised and gave thanks to his God for all things in joy.
+
 
 **[17:1]** And in the first year of the fifth week Isaac was weaned in this jubilee, [1982 A.M.] and Abraham made a great banquet in the third month, on the day his son Isaac was weaned.
 
