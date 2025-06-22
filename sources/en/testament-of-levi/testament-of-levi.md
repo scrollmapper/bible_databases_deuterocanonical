@@ -26,7 +26,7 @@
 
 **[1:12]** And I said to the angel, Why is this so? And the angel said to me, Marvel not at this, for thou shalt see another heaven more brilliant and incomparable.
 
-**[1:13]** And when thou hast ascended thither, Thou shalt stand near the Lord, and shalt be His minister, and shalt, declare His mysteries to men, and shalt proclaim concerning Him that shall redeem Israel.
+**[1:13]** And when thou hast ascended thither, thou shalt stand near the Lord, and shalt be His minister, and shalt declare His mysteries to men, and shalt proclaim concerning Him that shall redeem Israel.
 
 **[1:14]** And by thee and Judah shall the Lord appear among men, saving every race of men.
 
@@ -38,7 +38,7 @@
 
 **[1:18]** And it has fire, snow, and ice made ready for the day of judgement, in the righteous judgement of God; for in it are all the spirits of the retributions for vengeance on men.
 
-**[1:19]** And in the second are the hosts Of the armies which are ordained for the day of judgement, to work vengeance on the spirits of deceit and of Beliar.
+**[1:19]** And in the second are the hosts of the armies which are ordained for the day of judgement, to work vengeance on the spirits of deceit and of Beliar.
 
 **[1:20]** And above them are the holy ones.
 
@@ -124,13 +124,13 @@
 
 **[3:13]** And there again I saw a vision as the former, after we had spent there seventy days.
 
-**[3:14]** And I saw seven men in white raiment saying unto me: Arise, put on the robe of the priesthood, and the crown of righteousness, and the breastplate of understanding, and the garment of truth, and the late of faith, and the turban of the head, and the ephod of prophecy.
+**[3:14]** And I saw seven men in white raiment saying unto me: Arise, put on the robe of the priesthood, and the crown of righteousness, and the breastplate of understanding, and the garment of truth, and the plate of faith, and the turban of the head, and the ephod of prophecy.
 
 **[3:15]** And they severally carried these things and put them on me, and said unto me: From henceforth become a priest of the Lord, thou and thy seed for ever.
 
 **[3:16]** And the first anointed me with holy oil, and gave to me the staff of judgement.
 
-**[3:17]** The second washed me with pure. water, and fed me with bread and wine even the most holy things, and clad me with a holy and glorious robe.
+**[3:17]** The second washed me with pure water, and fed me with bread and wine even the most holy things, and clad me with a holy and glorious robe.
 
 **[3:18]** The third clothed me with a linen vestment like an ephod.
 
@@ -206,7 +206,7 @@
 
 **[3:54]** And she bare me a third son, in the fortieth year of my life; and since his mother bare him with difficulty, I called him Merari, that is, 'my bitterness,' because he also was like to die.
 
-**[3:55]** And Jochebed was born. in Egypt, in my sixty-fourth year, for I was renowned then in the midst of my brethren.
+**[3:55]** And Jochebed was born in Egypt, in my sixty-fourth year, for I was renowned then in the midst of my brethren.
 
 **[3:56]** And Gersam took a wife, and she bare to him Lomni and Semei. And the sons of Kohath, Ambram, Issachar, Hebron, and Ozeel. And the sons of Merari, Mooli, and Mouses.
 
@@ -254,7 +254,7 @@
 
 **[4:16]** The offerings of the Lord ye shall rob, and from His portion shall ye steal choice portions, eating them contemptuously with harlots.
 
-**[4:17]** And out of covetousness ye shall teach the commandments of the Lord, wedded women shall ye pollute, and the virgins of Jerusalem shall ye defile; and with harlots and adulteresses shall ye be joined, and the daughters of the Gentiles shall ye take to wife, purifying them with an unlawful purification; and your union shall be like unto Sodom and Gomorrah,
+**[4:17]** And out of covetousness ye shall teach the commandments of the Lord, wedded women shall ye pollute, and the virgins of Jerusalem shall ye defile; and with harlots and adulteresses shall ye be joined, and the daughters of the Gentiles shall ye take to wife, purifying them with an unlawful purification; and your union shall be like unto Sodom and Gomorrah.
 
 **[4:18]** And ye shall be puffed up because of your priesthood, lifting yourselves up against men, and not only so, but also against the commands of God.
 
@@ -346,7 +346,7 @@
 
 **[5:30]** And now, my children, ye have heard all; choose, therefore, for yourselves either the light or the darkness, either the law of the Lord or the works of Beliar.
 
-**[5:31]** And his sons answered him., saying, Before the Lord we will walk according to His law.
+**[5:31]** And his sons answered him, saying, Before the Lord we will walk according to His law.
 
 **[5:32]** And their father said unto them, The Lord is witness, and His angels are witnesses, and ye are witnesses, and I am witness, concerning the word of your mouth.
 
