@@ -506,7 +506,7 @@
 
 **[12:1]** When the chief priests and Levites heard all these things, they were astonished, and fell down with their faces on the ground as dead men, and crying out to one another, said, What is this extraordinary sign which is come to pass in Jerusalem? We know the father and mother of Jesus.
 
-**[12:2]** And a certain Levite said, I know many of his relations, religions persons, who are wont to offer sacrifices and burnt-offerings to the God of Israel, in the temple, with prayers.
+**[12:2]** And a certain Levite said, I know many of his relations, religions persons, who are wont to offer sacrifices and burnt offerings to the God of Israel, in the temple, with prayers.
 
 **[12:3]** And when the high-priest Simeon took him up in his arms, he said to him, Lord, now lettest thou thy servant depart in peace, according to thy word; for mine eyes have seen thy salvation, which then halt prepared before the face of all people; a light to enlighten the Gentiles, and the glory of thy people Israel.
 
@@ -553,6 +553,7 @@
 **[12:24]** Charinus and Lenthius, the two sons of Simeon, trembled when they heard these things, and were disturbed, and groaned; and at the same time looking up to heaven, they made the sign of the cross with their fingers on their tongues,
 
 **[12:25]** And immediately they spake, and said, Give each of us some paper, and we will write down for you all those things which we have seen. And they each sat down and wrote, saying:—
+
 
 **[13:1]** O Lord Jesus and Father, who art God, also the resurrection and life of the dead, give us leave to declare thy mysteries, which we saw after death, belonging to thy cross; for we are sworn by thy name.
 
