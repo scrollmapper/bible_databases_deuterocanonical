@@ -2,7 +2,7 @@
 
 
 
-**[1:1]** And it came to pass in the first year of the exodus of the children of Israel out of Egypt, in the third month, on the sixteenth day of the month, [2450 Anno Mundi] that God spake to Moses, saying: 'Come up to Me on the Mount, and I will give thee two tables of stone of the law and of the commandment, which I have written, that thou mayst teach them.'
+**[1:1]** And it came to pass in the first year of the exodus of the children of Israel out of Egypt, in the third month, on the sixteenth day of the month, that God spake to Moses, saying: 'Come up to Me on the Mount, and I will give thee two tables of stone of the law and of the commandment, which I have written, that thou mayst teach them.'
 
 **[1:2]** And Moses went up into the mount of God, and the glory of the Lord abode on Mount Sinai, and a cloud overshadowed it six days.
 
@@ -56,11 +56,12 @@
 
 **[1:27]** And the Lord will appear to the eyes of all, and all shall know that I am the God of Israel and the Father of all the children of Jacob, and King on Mount Zion for all eternity. And Zion and Jerusalem shall be holy.'
 
-**[1:28]** And the angel of the presence who went before the camp of Israel took the tables of the divisions of the years -from the time of the creation- of the law and of the testimony of the weeks of the jubilees, according to the individual years, according to all the number of the jubilees [according, to the individual years], from the day of the [new] creation when the heavens and the earth shall be renewed and all their creation according to the powers of the heaven, and according to all the creation of the earth, until the sanctuary of the Lord shall be made in Jerusalem on Mount Zion, and all the luminaries be renewed for healing and for peace and for blessing for all the elect of Israel, and that thus it may be from that day and unto all the days of the earth.
+**[1:28]** And the angel of the presence who went before the camp of Israel took the tables of the divisions of the years -from the time of the creation- of the law and of the testimony of the weeks of the jubilees, according to the individual years, according to all the number of the jubilees according, to the individual years, from the day of the new creation when the heavens and the earth shall be renewed and all their creation according to the powers of the heaven, and according to all the creation of the earth, until the sanctuary of the Lord shall be made in Jerusalem on Mount Zion, and all the luminaries be renewed for healing and for peace and for blessing for all the elect of Israel, and that thus it may be from that day and unto all the days of the earth.
+
 
 **[2:1]** And the angel of the presence spake to Moses according to the word of the Lord, saying: Write the complete history of the creation, how in six days the Lord God finished all His works and all that He created, and kept Sabbath on the seventh day and hallowed it for all ages, and appointed it as a sign for all His works.
 
-**[2:2]** For on the first day He created the heavens which are above and the earth and the waters and all the spirits which serve before him -the angels of the presence, and the angels of sanctification, and the angels [of the spirit of fire and the angels] of the spirit of the winds, and the angels of the spirit of the clouds, and of darkness, and of snow and of hail and of hoar frost, and the angels of the voices and of the thunder and of the lightning, and the angels of the spirits of cold and of heat, and of winter and of spring and of autumn and of summer and of all the spirits of his creatures which are in the heavens and on the earth, (He created) the abysses and the darkness, eventide <and night>, and the light, dawn and day, which He hath prepared in the knowledge of his heart.
+**[2:2]** For on the first day He created the heavens which are above and the earth and the waters and all the spirits which serve before him -the angels of the presence, and the angels of sanctification, and the angels of the spirit of fire and the angels of the spirit of the winds, and the angels of the spirit of the clouds, and of darkness, and of snow and of hail and of hoar frost, and the angels of the voices and of the thunder and of the lightning, and the angels of the spirits of cold and of heat, and of winter and of spring and of autumn and of summer and of all the spirits of his creatures which are in the heavens and on the earth, (He created) the abysses and the darkness, eventide and night, and the light, dawn and day, which He hath prepared in the knowledge of his heart.
 
 **[2:3]** And thereupon we saw His works, and praised Him, and lauded before Him on account of all His works; for seven great works did He create on the first day.
 
@@ -76,7 +77,7 @@
 
 **[2:9]** And God appointed the sun to be a great sign on the earth for days and for sabbaths and for months and for feasts and for years and for sabbaths of years and for jubilees and for all seasons of the years.
 
-**[2:10]** And it divideth the light from the darkness [and] for prosperity, that all things may prosper which shoot and grow on the earth.
+**[2:10]** And it divideth the light from the darkness and for prosperity, that all things may prosper which shoot and grow on the earth.
 
 **[2:11]** These three kinds He made on the fourth day. And on the fifth day He created great sea monsters in the depths of the waters, for these were the first things of flesh that were created by his hands, the fish and everything that moves in the waters, and everything that flies, the birds and all their kind.
 
@@ -124,6 +125,7 @@
 
 **[2:33]** This law and testimony was given to the children of Israel as a law for ever unto their generations.
 
+
 **[3:1]** And on the six days of the second week we brought, according to the word of God, unto Adam all the beasts, and all the cattle, and all the birds, and everything that moves on the earth, and everything that moves in the water, according to their kinds, and according to their types: the beasts on the first day; the cattle on the second day; the birds on the third day; and all that which moves on the earth on the fourth day; and that which moves in the water on the fifth day.
 
 **[3:2]** And Adam named them all by their respective names, and as he called them, so was their name.
@@ -134,11 +136,11 @@
 
 **[3:5]** And the Lord our God caused a deep sleep to fall upon him, and he slept, and He took for the woman one rib from amongst his ribs, and this rib was the origin of the woman from amongst his ribs, and He built up the flesh in its stead, and built the woman.
 
-**[3:6]** And He awaked Adam out of his sleep and on awaking he rose on the sixth day, and He brought her to him, and he knew her, and said unto her: 'This is now bone of my bones and flesh of my flesh; she shall be called [my] wife; because she was taken from her husband.'
+**[3:6]** And He awaked Adam out of his sleep and on awaking he rose on the sixth day, and He brought her to him, and he knew her, and said unto her: 'This is now bone of my bones and flesh of my flesh; she shall be called my wife; because she was taken from her husband.'
 
 **[3:7]** Therefore shall man and wife be one and therefore shall a man leave his father and his mother, and cleave unto his wife, and they shall be one flesh.
 
-**[3:8]** In the first week was Adam created, and the rib -his wife: in the second week He showed her unto him: and for this reason the commandment was given to keep in their defilement, for a male seven days, and for a female twice seven days.
+**[3:8]** In the first week was Adam created, and the rib his wife: in the second week He showed her unto him: and for this reason the commandment was given to keep in their defilement, for a male seven days, and for a female twice seven days.
 
 **[3:9]** And after Adam had completed forty days in the land where he had been created, we brought him into the garden of Eden to till and keep it, but his wife they brought in on the eightieth day, and after this she entered into the garden of Eden.
 
@@ -152,11 +154,11 @@
 
 **[3:14]** This is the law and testimony which was written down for Israel, in order that they should observe (it) all the days.
 
-**[3:15]** And in the first week of the first jubilee, [1-7 A.M.] Adam and his wife were in the garden of Eden for seven years tilling and keeping it, and we gave him work and we instructed him to do everything that is suitable for tillage.
+**[3:15]** And in the first week of the first jubilee, Adam and his wife were in the garden of Eden for seven years tilling and keeping it, and we gave him work and we instructed him to do everything that is suitable for tillage.
 
-**[3:16]** And he tilled (the garden), and was naked and knew it not, and was not ashamed, and he protected the garden from the birds and beasts and cattle, and gathered its fruit, and eat, and put aside the residue for himself and for his wife [and put aside that which was being kept].
+**[3:16]** And he tilled (the garden), and was naked and knew it not, and was not ashamed, and he protected the garden from the birds and beasts and cattle, and gathered its fruit, and eat, and put aside the residue for himself and for his wife and put aside that which was being kept.
 
-**[3:17]** And after the completion of the seven years, which he had completed there, seven years exactly, [8 A.M.] and in the second month, on the seventeenth day (of the month), the serpent came and approached the woman, and the serpent said to the woman, 'Hath God commanded you, saying, Ye shall not eat of every tree of the garden?'
+**[3:17]** And after the completion of the seven years, which he had completed there, seven years exactly, and in the second month, on the seventeenth day (of the month), the serpent came and approached the woman, and the serpent said to the woman, 'Hath God commanded you, saying, Ye shall not eat of every tree of the garden?'
 
 **[3:18]** And she said to it, 'Of all the fruit of the trees of the garden God hath said unto us, Eat; but of the fruit of the tree which is in the midst of the garden God hath said unto us, 'Ye shall not eat thereof, neither shall ye touch it, lest ye die.'
 
@@ -166,13 +168,13 @@
 
 **[3:21]** And when she had first covered her shame with figleaves, she gave thereof to Adam and he eat, and his eyes were opened, and he saw that he was naked.
 
-**[3:22]** And he took figleaves and sewed (them) together, and made an apron for himself, and ,covered his shame.
+**[3:22]** And he took figleaves and sewed (them) together, and made an apron for himself, and covered his shame.
 
 **[3:23]** And God cursed the serpent, and was wroth with it for ever . . .
 
 **[3:24]** And He was wroth with the woman, because she harkened to the voice of the serpent, and did eat; and He said unto her: 'I will greatly multiply thy sorrow and thy pains: in sorrow thou shalt bring forth children, and thy return shall be unto thy husband, and he will rule over thee.'
 
-**[3:25]** And to Adam also he said, ' Because thou hast harkened unto the voice of thy wife, and hast eaten of the tree of which I commanded thee that thou shouldst not eat thereof, cursed be the ground for thy sake: thorns and thistles shall it bring forth to thee, and thou shalt eat thy bread in the sweat of thy face, till thou returnest to the earth from whence thou wast taken; for earth thou art, and unto earth shalt thou return.'
+**[3:25]** And to Adam also he said, 'Because thou hast harkened unto the voice of thy wife, and hast eaten of the tree of which I commanded thee that thou shouldst not eat thereof, cursed be the ground for thy sake: thorns and thistles shall it bring forth to thee, and thou shalt eat thy bread in the sweat of thy face, till thou returnest to the earth from whence thou wast taken; for earth thou art, and unto earth shalt thou return.'
 
 **[3:26]** And He made for them coats of skin, and clothed them, and sent them forth from the Garden of Eden.
 
@@ -190,41 +192,42 @@
 
 **[3:33]** And Adam called the name of his wife Eve.
 
-**[3:34]** And they had no son till the first jubilee, [8 A.M.] and after this he knew her.
+**[3:34]** And they had no son till the first jubilee, and after this he knew her.
 
 **[3:35]** Now he tilled the land as he had been instructed in the Garden of Eden.
 
-**[4:1]** And in the third week in the second jubilee [64-70 A.M.] she gave birth to Cain, and in the fourth [71-77 A.M.] she gave birth to Abel, and in the fifth [78-84 A.M.] she gave birth to her daughter Âwân.
 
-**[4:2]** And in the first (year) of the third jubilee [99-105 A.M.], Cain slew Abel because (God) accepted the sacrifice of Abel, and did not accept the offering of Cain.
+**[4:1]** And in the third week in the second jubilee she gave birth to Cain, and in the fourth she gave birth to Abel, and in the fifth she gave birth to her daughter Âwân.
+
+**[4:2]** And in the first (year) of the third jubilee, Cain slew Abel because (God) accepted the sacrifice of Abel, and did not accept the offering of Cain.
 
 **[4:3]** And he slew him in the field: and his blood cried from the ground to heaven, complaining because he had slain him.
 
 **[4:4]** And the Lord reproved Cain because of Abel, because he had slain him, and he made him a fugitive on the earth because of the blood of his brother, and he cursed him upon the earth.
 
-**[4:5]** And on this account it is written on the heavenly tables, 'Cursed is ,he who smites his neighbour treacherously, and let all who have seen and heard say, So be it; and the man who has seen and not declared (it), let him be accursed as the other.'
+**[4:5]** And on this account it is written on the heavenly tables, 'Cursed is he who smites his neighbour treacherously, and let all who have seen and heard say, So be it; and the man who has seen and not declared (it), let him be accursed as the other.'
 
 **[4:6]** And for this reason we announce when we come before the Lord our God all the sin which is committed in heaven and on earth, and in light and in darkness, and everywhere.
 
-**[4:7]** And Adam and his wife mourned for Abel four weeks of years, [99-127 A.M] and in the fourth year of the fifth week [130 A.M.] they became joyful, and Adam knew his wife again, and she bare him a son, and he called his name Seth; for he said 'GOD has raised up a second seed unto us on the earth instead of Abel; for Cain slew him.'
+**[4:7]** And Adam and his wife mourned for Abel four weeks of years, and in the fourth year of the fifth week they became joyful, and Adam knew his wife again, and she bare him a son, and he called his name Seth; for he said 'GOD has raised up a second seed unto us on the earth instead of Abel; for Cain slew him.'
 
-**[4:8]** And in the sixth week [134-40 A.M.] he begat his daughter Azûrâ.
+**[4:8]** And in the sixth week he begat his daughter Azûrâ.
 
-**[4:9]** And Cain took Âwân his sister to be his wife and she bare him Enoch at the close of the fourth jubilee. [190-196 A.M.] And in the first year of the first week of the fifth jubilee, [197 A.M.] houses were built on the earth, and Cain built a city, and called its name after the name of his son Enoch.
+**[4:9]** And Cain took Âwân his sister to be his wife and she bare him Enoch at the close of the fourth jubilee. And in the first year of the first week of the fifth jubilee, houses were built on the earth, and Cain built a city, and called its name after the name of his son Enoch.
 
 **[4:10]** And Adam knew Eve his wife and she bare yet nine sons.
 
-**[4:11]** And in the fifth week of the fifth jubilee [225-31 A.M.] Seth took Azûrâ his sister to be his wife, and in the fourth (year of the sixth week) [235 A.M.] she bare him Enos.
+**[4:11]** And in the fifth week of the fifth jubilee Seth took Azûrâ his sister to be his wife, and in the fourth (year of the sixth week) she bare him Enos.
 
 **[4:12]** He began to call on the name of the Lord on the earth.
 
-**[4:13]** And in the seventh jubilee in the third week [309-15 A.M.] Enos took Nôâm his sister to be his wife, and she bare him a son in the third year of the fifth week, and he called his name Kenan.
+**[4:13]** And in the seventh jubilee in the third week Enos took Nôâm his sister to be his wife, and she bare him a son in the third year of the fifth week, and he called his name Kenan.
 
-**[4:14]** And at the close of the eighth jubilee [325, 386-3992 A.M.] Kenan took Mûalêlêth his sister to be his wife, and she bare him a son in the ninth jubilee, in the first week in the third year of this week, [395 A.M] and he called his name Mahalalel.
+**[4:14]** And at the close of the eighth jubilee Kenan took Mûalêlêth his sister to be his wife, and she bare him a son in the ninth jubilee, in the first week in the third year of this week, and he called his name Mahalalel.
 
-**[4:15]** And in the second week of the tenth jubilee [449-55 A.M.] Mahalalel took unto him to wife DinaH, the daughter of Barakiel the daughter of his father's brother, and she bare him a son in the third week in the sixth year, [461 A.M.] and he called his name Jared, for in his days the angels of the Lord descended on the earth, those who are named the Watchers, that they should instruct the children of men, and that they should do judgment and uprightness on the earth.
+**[4:15]** And in the second week of the tenth jubilee Mahalalel took unto him to wife Dinah, the daughter of Barakiel the daughter of his father's brother, and she bare him a son in the third week in the sixth year, and he called his name Jared, for in his days the angels of the Lord descended on the earth, those who are named the Watchers, that they should instruct the children of men, and that they should do judgment and uprightness on the earth.
 
-**[4:16]** And in the eleventh jubilee [512-18 A.M.] Jared took to himself a wife, and her name was Baraka, the daughter of Râsûjâl, a daughter of his father's brother, in the fourth week of this jubilee, [522 A.M.] and she bare him a son in the fifth week, in the fourth year of the jubilee, and he called his name Enoch.
+**[4:16]** And in the eleventh jubilee Jared took to himself a wife, and her name was Baraka, the daughter of Râsûjâl, a daughter of his father's brother, in the fourth week of this jubilee, and she bare him a son in the fifth week, in the fourth year of the jubilee, and he called his name Enoch.
 
 **[4:17]** And he was the first among men that are born on earth who learnt writing and knowledge and wisdom and who wrote down the signs of heaven according to the order of their months in a book, that men might know the seasons of the years according to the order of their separate months.
 
@@ -232,7 +235,7 @@
 
 **[4:19]** And what was and what will be he saw in a vision of his sleep, as it will happen to the children of men throughout their generations until the day of judgment; he saw and understood everything, and wrote his testimony, and placed the testimony on earth for all the children of men and for their generations.
 
-**[4:20]** And in the twelfth jubilee, [582-88] in the seventh week thereof, he took to himself a wife, and her name was Edna, the daughter of Danel, the daughter of his father's brother, and in the sixth year in this week [587 A.M.] she bare him a son and he called his name Methuselah.
+**[4:20]** And in the twelfth jubilee, in the seventh week thereof, he took to himself a wife, and her name was Edna, the daughter of Danel, the daughter of his father's brother, and in the sixth year in this week she bare him a son and he called his name Methuselah.
 
 **[4:21]** And he was moreover with the angels of God these six jubilees of years, and they showed him everything which is on earth and in the heavens, the rule of the sun, and he wrote down everything.
 
@@ -244,13 +247,13 @@
 
 **[4:25]** And he burnt the incense of the sanctuary, (even) sweet spices acceptable before the Lord on the Mount.
 
-**[4:26]** For the Lord has four places on the earth, the Garden of Eden, and the Mount of the East, and this mountain on which thou art this day, Mount Sinai, and Mount Zion (which) will be sanctified in the new creation for a sanctification of the earth; through it will the earth be sanctified from all (its) guilt and its uncleanness through- out the generations of the world.
+**[4:26]** For the Lord has four places on the earth, the Garden of Eden, and the Mount of the East, and this mountain on which thou art this day, Mount Sinai, and Mount Zion (which) will be sanctified in the new creation for a sanctification of the earth; through it will the earth be sanctified from all (its) guilt and its uncleanness throughout the generations of the world.
 
-**[4:27]** And in the fourteenth jubilee [652 A.M.] Methuselah took unto himself a wife, Edna the daughter of Azrial, the daughter of his father's brother, in the third week, in the first year of this week, [701-7 A.M.] and he begat a son and called his name Lamech.
+**[4:27]** And in the fourteenth jubilee Methuselah took unto himself a wife, Edna the daughter of Azrial, the daughter of his father's brother, in the third week, in the first year of this week, and he begat a son and called his name Lamech.
 
 **[4:28]** And in the fifteenth jubilee in the third week Lamech took to himself a wife, and her name was Betenos the daughter of Baraki'il, the daughter of his father's brother, and in this week she bare him a son and he called his name Noah, saying, 'This one will comfort me for my trouble and all my work, and for the ground which the Lord hath cursed.'
 
-**[4:29]** And at the close of the nineteenth jubilee, in the seventh week in the sixth year [930 A.M.] thereof, Adam died, and all his sons buried him in the land of his creation, and he was the first to be buried in the earth.
+**[4:29]** And at the close of the nineteenth jubilee, in the seventh week in the sixth year thereof, Adam died, and all his sons buried him in the land of his creation, and he was the first to be buried in the earth.
 
 **[4:30]** And he lacked seventy years of one thousand years; for one thousand years are as one day in the testimony of the heavens and therefore was it written concerning the tree of knowledge: 'On the day that ye eat thereof ye shall die.' For this reason he did not complete the years of this day; for he died during it.
 
@@ -258,11 +261,12 @@
 
 **[4:32]** For this reason it was ordained on the heavenly tablets: With the instrument with which a man kills his neighbour with the same shall he be killed; after the manner that he wounded him, in like manner shall they deal with him.'
 
-**[4:33]** And in the twenty-fifth [1205 A.M.] jubilee Noah took to himself a wife, and her name was `Emzârâ, the daughter of Râkê'êl, the daughter of his father's brother, in the first year in the fifth week [1207 A.M.]: and in the third year thereof she bare him Shem, in the fifth year thereof [1209 A.M.] she bare him Ham, and in the first year in the sixth week [1212 A.M.] she bare him Japheth.
+**[4:33]** And in the twenty-fifth jubilee Noah took to himself a wife, and her name was `Emzârâ, the daughter of Râkê'êl, the daughter of his father's brother, in the first year in the fifth week: and in the third year thereof she bare him Shem, in the fifth year thereof she bare him Ham, and in the first year in the sixth week she bare him Japheth.
+
 
 **[5:1]** And it came to pass when the children of men began to multiply on the face of the earth and daughters were born unto them, that the angels of God saw them on a certain year of this jubilee, that they were beautiful to look upon; and they took themselves wives of all whom they chose, and they bare unto them sons and they were giants.
 
-**[5:2]** And lawlessness increased on the earth and all flesh corrupted its way, alike men and cattle and beasts and birds and everything that walks on the earth -all of them corrupted their ways and their orders, and they began to devour each other, and lawlessness increased on the earth and every imagination of the thoughts of all men (was) thus evil continually.
+**[5:2]** And lawlessness increased on the earth and all flesh corrupted its way, alike men and cattle and beasts and birds and everything that walks on the earth - all of them corrupted their ways and their orders, and they began to devour each other, and lawlessness increased on the earth and every imagination of the thoughts of all men (was) thus evil continually.
 
 **[5:3]** And God looked upon the earth, and behold it was corrupt, and all flesh had corrupted its orders, and all that were upon the earth had wrought all manner of evil before His eyes.
 
@@ -284,7 +288,7 @@
 
 **[5:12]** And he made for all his works a new and righteous nature, so that they should not sin in their whole nature for ever, but should be all righteous each in his kind alway.
 
-**[5:13]** And the judgment of all is ordained and written on the heavenly tablets in righteousness -even (the judgment of) all who depart from the path which is ordained for them to walk in; and if they walk not therein, judgment is written down for every creature and for every kind.
+**[5:13]** And the judgment of all is ordained and written on the heavenly tablets in righteousness - even (the judgment of) all who depart from the path which is ordained for them to walk in; and if they walk not therein, judgment is written down for every creature and for every kind.
 
 **[5:14]** And there is nothing in heaven or on earth, or in light or in darkness, or in Sheol or in the depth, or in the place of darkness (which is not judged); and all their judgments are ordained and written and engraved.
 
@@ -292,9 +296,9 @@
 
 **[5:16]** And He is not one who will regard the person (of any), nor is He one who will receive gifts, if He says that He will execute judgment on each: if one gave everything that is on the earth, He will not regard the gifts or the person (of any), nor accept anything at his hands, for He is a righteous judge.
 
-**[5:17]** [And of the children of Israel it has been written and ordained: If they turn to him in righteousness He will forgive all their transgressions and pardon all their sins.
+**[5:17]** And of the children of Israel it has been written and ordained: If they turn to him in righteousness He will forgive all their transgressions and pardon all their sins.
 
-**[5:18]** It is written and ordained that He will show mercy to all who turn from all their guilt once each year.]
+**[5:18]** It is written and ordained that He will show mercy to all who turn from all their guilt once each year.
 
 **[5:19]** And as for all those who corrupted their ways and their thoughts before the flood, no man's person was accepted save that of Noah alone; for his person was accepted in behalf of his sons, whom (God) saved from the waters of the flood on his account; for his heart was righteous in all his ways, according as it was commanded regarding him, and he had not departed from aught that was ordained for him.
 
@@ -302,17 +306,17 @@
 
 **[5:21]** beasts, and fowls of the air, and that which moveth on the earth. And He commanded Noah to make him an ark, that he might save himself from the waters of the flood.
 
-**[5:22]** And Noah made the ark in all respects as He commanded him, in the twenty-seventh jubilee of years, in the fifth week in the fifth year (on the new moon of the first month). [1307 A.M.]
+**[5:22]** And Noah made the ark in all respects as He commanded him, in the twenty-seventh jubilee of years, in the fifth week in the fifth year (on the new moon of the first month).
 
-**[5:23]** And he entered in the sixth (year) thereof, [1308 A.M.] in the second month, on the new moon of the second month, till the sixteenth; and he entered, and all that we brought to him, into the ark, and the Lord closed it from without on the seventeenth evening.
+**[5:23]** And he entered in the sixth (year) thereof, in the second month, on the new moon of the second month, till the sixteenth; and he entered, and all that we brought to him, into the ark, and the Lord closed it from without on the seventeenth evening.
 
-**[5:24]** And the Lord opened seven flood-gates of heaven, And the mouths of the fountains of the great deep, seven mouths in number.
+**[5:24]** And the Lord opened seven flood-gates of heaven, and the mouths of the fountains of the great deep, seven mouths in number.
 
-**[5:25]** And the flood-gates began to pour down water from the heaven forty days and forty nights, And the fountains of the deep also sent up waters, until the whole world was full of water.
+**[5:25]** And the flood-gates began to pour down water from the heaven forty days and forty nights, and the fountains of the deep also sent up waters, until the whole world was full of water.
 
-**[5:26]** And the waters increased upon the earth: Fifteen cubits did the waters rise above all the high mountains, And the ark was lift up above the earth, And it moved upon the face of the waters.
+**[5:26]** And the waters increased upon the earth: Fifteen cubits did the waters rise above all the high mountains, And the ark was lift up above the earth, and it moved upon the face of the waters.
 
-**[5:27]** And the water prevailed on the face of the earth five months -one hundred and fifty days.
+**[5:27]** And the water prevailed on the face of the earth five months - one hundred and fifty days.
 
 **[5:28]** And the ark went and rested on the top of Lubar, one of the mountains of Ararat.
 
@@ -320,9 +324,10 @@
 
 **[5:30]** And on the new moon of the tenth month the tops of the mountains were seen, and on the new moon of the first month the earth became visible.
 
-**[5:31]** And the waters disappeared from above the earth in the fifth week in the seventh year [1309 A.M.] thereof, and on the seventeenth day in the second month the earth was dry.
+**[5:31]** And the waters disappeared from above the earth in the fifth week in the seventh year thereof, and on the seventeenth day in the second month the earth was dry.
 
 **[5:32]** And on the twenty-seventh thereof he opened the ark, and sent forth from it beasts, and cattle, and birds, and every moving thing.
+
 
 **[6:1]** And on the new moon of the third month he went forth from the ark, and built an altar on that mountain.
 
@@ -400,9 +405,10 @@
 
 **[6:38]** For this reason I command and testify to thee that thou mayst testify to them; for after thy death thy children will disturb (them), so that they will not make the year three hundred and sixty-four days only, and for this reason they will go wrong as to the new moons and seasons and sabbaths and festivals, and they will eat all kinds of blood with all kinds of flesh.
 
-**[7:1]** And in the seventh week in the first year [1317 A.M.] thereof, in this jubilee, Noah planted vines on the mountain on which the ark had rested, named Lubar, one of the Ararat Mountains, and they produced fruit in the fourth year, [1320 A.M.] and he guarded their fruit, and gathered it in this year in the seventh month.
 
-**[7:2]** And he made wine therefrom and put it into a vessel, and kept it until the fifth year, [1321 A.M.] until the first day, on the new moon of the first month.
+**[7:1]** And in the seventh week in the first year thereof, in this jubilee, Noah planted vines on the mountain on which the ark had rested, named Lubar, one of the Ararat Mountains, and they produced fruit in the fourth year, and he guarded their fruit, and gathered it in this year in the seventh month.
+
+**[7:2]** And he made wine therefrom and put it into a vessel, and kept it until the fifth year, until the first day, on the new moon of the first month.
 
 **[7:3]** And he celebrated with joy the day of this feast, and he made a burnt sacrifice unto the Lord, one young ox and one ram, and seven sheep, each a year old, and a kid of the goats, that he might make atonement thereby for himself and his sons.
 
@@ -434,11 +440,11 @@
 
 **[7:17]** And behold these three cities are near Mount Lubar; Sedeqetelebab fronting the mountain on its east; and Na'eltama'uk on the south; 'Adatan'eses towards the west.
 
-**[7:18]** And these are the sons of Shem: Elam, and Asshur, and Arpachshad -this (son) was born two years after the flood- and Lud, and Aram.
+**[7:18]** And these are the sons of Shem: Elam, and Asshur, and Arpachshad - this (son) was born two years after the flood - and Lud, and Aram.
 
 **[7:19]** The sons of Japheth: Gomer and Magog and Madai and Javan, Tubal and Meshech and Tiras: these are the sons of Noah.
 
-**[7:20]** And in the twenty-eighth jubilee [1324-1372 A.M.] Noah began to enjoin upon his sons' sons the ordinances and commandments, and all the judgments that he knew, and he exhorted his sons to observe righteousness, and to cover the shame of their flesh, and to bless their Creator, and honour father and mother, and love their neighbour, and guard their souls from fornication and uncleanness and all iniquity.
+**[7:20]** And in the twenty-eighth jubilee Noah began to enjoin upon his sons' sons the ordinances and commandments, and all the judgments that he knew, and he exhorted his sons to observe righteousness, and to cover the shame of their flesh, and to bless their Creator, and honour father and mother, and love their neighbour, and guard their souls from fornication and uncleanness and all iniquity.
 
 **[7:21]** For owing to these three things came the flood upon the earth, namely, owing to the fornication wherein the Watchers against the law of their ordinances went a whoring after the daughters of men, and took themselves wives of all which they chose: and they made the beginning of uncleanness.
 
@@ -456,7 +462,7 @@
 
 **[7:28]** For whoso sheddeth man's blood, and whoso eateth the blood of any flesh, shall all be destroyed from the earth.
 
-**[7:29]** And there shall not be left any man that eateth blood, or that sheddeth the blood of man on the earth, Nor shall there be left to him any seed or descendants living under heaven; For into Sheol shall they go, And into the place of condemnation shall they descend, And into the darkness of the deep shall they all be removed by a violent death.
+**[7:29]** And there shall not be left any man that eateth blood, or that sheddeth the blood of man on the earth, nor shall there be left to him any seed or descendants living under heaven; for into Sheol shall they go, and into the place of condemnation shall they descend, and into the darkness of the deep shall they all be removed by a violent death.
 
 **[7:30]** There shall be no blood seen upon you of all the blood there shall be all the days in which ye have killed any beasts or cattle or whatever flies upon the earth, and work ye a good work to your souls by covering that which has been shed on the face of the earth.
 
@@ -466,11 +472,11 @@
 
 **[7:33]** For the earth will not be clean from the blood which has been shed upon it; for (only) through the blood of him that shed it will the earth be purified throughout all its generations.
 
-**[7:34]** And now, my children, harken: work judgment and righteousness that ye maybe planted in righteousness over the face of the whole earth, and your glory lifted up before my God, who saved me from the waters of the flood.
+**[7:34]** And now, my children, hearken: work judgment and righteousness that ye may be planted in righteousness over the face of the whole earth, and your glory lifted up before my God, who saved me from the waters of the flood.
 
 **[7:35]** And behold, ye will go and build for yourselves cities, and plant in them all the plants that are upon the earth, and moreover all fruit-bearing trees.
 
-**[7:36]** For three years the fruit of everything that is eaten will not be gathered: and in the fourth year its fruit will be accounted holy [and they will offer the first-fruits], acceptable before the Most High God, who created heaven and earth and all things. Let them offer in abundance the first of the wine and oil (as) first-fruits on the altar of the Lord, who receives it, and what is left let the servants of the house of the Lord eat before the altar which receives (it).
+**[7:36]** For three years the fruit of everything that is eaten will not be gathered: and in the fourth year its fruit will be accounted holy, and they will offer the first-fruits, acceptable before the Most High God, who created heaven and earth and all things. Let them offer in abundance the first of the wine and oil (as) first-fruits on the altar of the Lord, who receives it, and what is left let the servants of the house of the Lord eat before the altar which receives (it).
 
 **[7:37]** And in the fifth year make ye the release so that ye release it in righteousness and uprightness, and ye shall be righteous, and all that you plant shall prosper.
 
@@ -478,7 +484,8 @@
 
 **[7:39]** And I also will give you commandment, my sons, as Enoch commanded his son in the first jubilees: whilst still living, the seventh in his generation, he commanded and testified to his son and to his son's sons until the day of his death.'
 
-**[8:1]** In the twenty-ninth jubilee, in the first week, [1373 A.M.] in the beginning thereof Arpachshad took to himself a wife and her name was Rasu'eja, the daughter of Susan, the daughter of Elam, and she bare him a son in the third year in this week, [1375 A.M.] and he called his name Kainam.
+
+**[8:1]** In the twenty-ninth jubilee, in the first week, in the beginning thereof Arpachshad took to himself a wife and her name was Rasu'eja, the daughter of Susan, the daughter of Elam, and she bare him a son in the third year in this week, and he called his name Kainam.
 
 **[8:2]** And the son grew, and his father taught him writing, and he went to seek for himself a place where he might seize for himself a city.
 
@@ -486,17 +493,17 @@
 
 **[8:4]** And he wrote it down and said nothing regarding it; for he was afraid to speak to Noah about it lest he should be angry with him on account of it.
 
-**[8:5]** And in the thirtieth jubilee, [1429 A.M.] in the second week, in the first year thereof, he took to himself a wife, and her name was Melka, the daughter of Madai, the son of Japheth, and in the fourth year [1432 A.M.] he begat a son, and called his name Shelah; for he said: 'Truly I have been sent.'
+**[8:5]** And in the thirtieth jubilee, in the second week, in the first year thereof, he took to himself a wife, and her name was Melka, the daughter of Madai, the son of Japheth, and in the fourth year he begat a son, and called his name Shelah; for he said: 'Truly I have been sent.'
 
-**[8:6]** [And in the fourth year he was born], and Shelah grew up and took to himself a wife, and her name was Mu'ak, the daughter of Kesed, his father's brother, in the one and thirtieth jubilee, in the fifth week, in the first year [1499 A.M.] thereof.
+**[8:6]** And in the fourth year he was born, and Shelah grew up and took to himself a wife, and her name was Mu'ak, the daughter of Kesed, his father's brother, in the one and thirtieth jubilee, in the fifth week, in the first year thereof.
 
-**[8:7]** And she bare him a son in the fifth year [1503 A.M.] thereof, and he called his name Eber: and he took unto himself a wife, and her name was 'Azûrâd, the daughter of Nebrod, in the thirty-second jubilee, in the seventh week, in the third year thereof. [1564 A.M.]
+**[8:7]** And she bare him a son in the fifth year thereof, and he called his name Eber: and he took unto himself a wife, and her name was 'Azûrâd, the daughter of Nebrod, in the thirty-second jubilee, in the seventh week, in the third year thereof.
 
-**[8:8]** And in the sixth year [1567 A.M.] thereof, she bare him son, and he called his name Peleg; for in the days when he was born the children of Noah began to divide the earth amongst themselves: for this reason he called his name Peleg.
+**[8:8]** And in the sixth year thereof, she bare him son, and he called his name Peleg; for in the days when he was born the children of Noah began to divide the earth amongst themselves: for this reason he called his name Peleg.
 
 **[8:9]** And they divided (it) secretly amongst themselves, and told it to Noah.
 
-**[8:10]** And it came to pass in the beginning of the thirty-third jubilee [1569 A.M.] that they divided the earth into three parts, for Shem and Ham and Japheth, according to the inheritance of each, in the first year in the first week, when one of us who had been sent, was with them.
+**[8:10]** And it came to pass in the beginning of the thirty-third jubilee that they divided the earth into three parts, for Shem and Ham and Japheth, according to the inheritance of each, in the first year in the first week, when one of us who had been sent, was with them.
 
 **[8:11]** And he called his sons, and they drew nigh to him, they and their children, and he divided the earth into the lots, which his three sons were to take in possession, and they reached forth their hands, and took the writing out of the bosom of Noah, their father.
 
@@ -508,7 +515,7 @@
 
 **[8:15]** And it turns from here towards the south towards the mouth of the great sea on the shore of (its) waters, and it extends to the west to 'Afra, and it extends till it reaches the waters of the river Gihon, and to the south of the waters of Gihon, to the banks of this river.
 
-**[8:16]** And it extends towards the east, till it reaches the Garden of Eden, to the south thereof, [to the south] and from the east of the whole land of Eden and of the whole east, it turns to the east and proceeds till it reaches the east of the mountain named Rafa, and it descends to the bank of the mouth of the river Tina.
+**[8:16]** And it extends towards the east, till it reaches the Garden of Eden, to the south thereof, [o the south and from the east of the whole land of Eden and of the whole east, it turns to the east and proceeds till it reaches the east of the mountain named Rafa, and it descends to the bank of the mouth of the river Tina.
 
 **[8:17]** This portion came forth by lot for Shem and his sons, that they should possess it for ever unto his generations for evermore.
 
@@ -520,13 +527,13 @@
 
 **[8:21]** And he knew that a blessed portion and a blessing had come to Shem and his sons unto the generations for ever -the whole land of Eden and the whole land of the Red Sea, and the whole land of the east and India, and on the Red Sea and the mountains thereof, and all the land of Bashan, and all the land of Lebanon and the islands of Kaftur, and all the mountains of Sanir and 'Amana, and the mountains of Asshur in the north, and all the land of Elam, Asshur, and Babel, and Susan and Ma'edai, and all the mountains of Ararat, and all the region beyond the sea, which is beyond the mountains of Asshur towards the north, a blessed and spacious land, and all that is in it is very good.
 
-**[8:22]** And for Ham came forth the second portion, beyond the Gihon towards the south to the right of the Garden, and it extends towards the south and it extends to all the mountains of fire, and it extends towards the west to the sea of 'Atel and it extends towards the west till it reaches the sea of Ma'uk -that (sea) into which everything which is not destroyed descends.
+**[8:22]** And for Ham came forth the second portion, beyond the Gihon towards the south to the right of the Garden, and it extends towards the south and it extends to all the mountains of fire, and it extends towards the west to the sea of 'Atel and it extends towards the west till it reaches the sea of Ma'uk - that (sea) into which everything which is not destroyed descends.
 
 **[8:23]** And it goes forth towards the north to the limits of Gadir, and it goes forth to the coast of the waters of the sea to the waters of the great sea till it draws near to the river Gihon, and goes along the river Gihon till it reaches the right of the Garden of Eden.
 
 **[8:24]** And this is the land which came forth for Ham as the portion which he was to occupy for ever for himself and his sons unto their generations for ever.
 
-**[8:25]** And for Japheth came forth the third portion beyond the river Tina to the north of the outflow of its waters, and it extends north- easterly to the whole region of Gog, and to all the country east thereof.
+**[8:25]** And for Japheth came forth the third portion beyond the river Tina to the north of the outflow of its waters, and it extends north-easterly to the whole region of Gog, and to all the country east thereof.
 
 **[8:26]** And it extends northerly to the north, and it extends to the mountains of Qelt towards the north, and towards the sea of Ma'uk, and it goes forth to the east of Gadir as far as the region of the waters of the sea.
 
@@ -538,7 +545,7 @@
 
 **[8:30]** But it is cold, and the land of Ham is hot, and the land of Shem is neither hot nor cold, but it is of blended cold and heat.
 
-**[9:1]** And Ham divided amongst his sons, and the first portion came forth for Cush towards the east, and to the west of him for Mizraim, and to the west of him for Put, and to the west of him [and to the west thereof] on the sea for Canaan.
+**[9:1]** And Ham divided amongst his sons, and the first portion came forth for Cush towards the east, and to the west of him for Mizraim, and to the west of him for Put, and to the west of him and to the west thereof on the sea for Canaa
 
 **[9:2]** And Shem also divided amongst his sons, and the first portion came forth for Ham and his sons, to the east of the river Tigris till it approachcs the east, the whole land of India, and on the Red Sea on its coast, and the waters of Dedan, and all the mountains of Mebri and Ela, and all the land of Susan and all that is on the side of Pharnak to the Red Sea and the river Tina.
 
@@ -562,19 +569,20 @@
 
 **[9:12]** And for Meshech came forth the sixth portion, all the region beyond the third tongue till it approaches the east of Gadir.
 
-**[9:13]** And for Tiras there came forth the seventh portion, four great islands in the midst of the sea, which reach to the portion of Ham [and the islands of Kamaturi came out by lot for the sons of Arpachshad as his inheritance].
+**[9:13]** And for Tiras there came forth the seventh portion, four great islands in the midst of the sea, which reach to the portion of Ham and the islands of Kamaturi came out by lot for the sons of Arpachshad as his inheritance.
 
 **[9:14]** And thus the sons of Noah divided unto their sons in the presence of Noah their father, and he bound them all by an oath, imprecating a curse on every one that sought to seize the portion which had not fallen (to him) by his lot.
 
 **[9:15]** And they all said, 'So be it; so be it ' for themselves and their sons for ever throughout their generations till the day of judgment, on which the Lord God shall judge them with a sword and with fire for all the unclean wickedness of their errors, wherewith they have filled the earth with transgression and uncleanness and fornication and sin.
 
+
 **[10:1]** And in the third week of this jubilee the unclean demons began to lead astray the children of the sons of Noah, and to make to err and destroy them.
 
 **[10:2]** And the sons of Noah came to Noah their father, and they told him concerning the demons which were leading astray and blinding and slaying his sons' sons.
 
-**[10:3]** And he prayed before the Lord his God, and said: 'God of the spirits of all flesh, who hast shown mercy unto me And hast saved me and my sons from the waters of the flood, And hast not caused me to perish as Thou didst the sons of perdition; For Thy grace has been great towards me, And great has been Thy mercy to my soul; Let Thy grace be lift up upon my sons, And let not wicked spirits rule over them Lest they should destroy them from the earth.
+**[10:3]** And he prayed before the Lord his God, and said: 'God of the spirits of all flesh, who hast shown mercy unto me and hast saved me and my sons from the waters of the flood, and hast not caused me to perish as Thou didst the sons of perdition; For Thy grace has been great towards me, and great has been Thy mercy to my soul; Let Thy grace be lift up upon my sons, and let not wicked spirits rule over them Lest they should destroy them from the earth.
 
-**[10:4]** But do Thou bless me and my sons, that we may increase and Multiply and replenish the earth.
+**[10:4]** But do Thou bless me and my sons, that we may increase and multiply and replenish the earth.
 
 **[10:5]** And Thou knowest how Thy Watchers, the fathers of these spirits, acted in my day: and as for these spirits which are living, imprison them and hold them fast in the place of condemnation, and let them not bring destruction on the sons of thy servant, my God; for these are malignant, and created in order to destroy.
 
@@ -582,7 +590,7 @@
 
 **[10:7]** And the Lord our God bade us to bind all.
 
-**[10:8]** And the chief of the spirits, Mastêmâ, came and said: 'Lord, Creator, let some of them remain before me, and let them harken to my voice, and do all that I shall say unto them; for if some of them are not left to me, I shall not be able to execute the power of my will on the sons of men; for these are for corruption and leading astray before my judgment, for great is the wickedness of the sons of men.'
+**[10:8]** And the chief of the spirits, Mastêmâ, came and said: 'Lord, Creator, let some of them remain before me, and let them hearken to my voice, and do all that I shall say unto them; for if some of them are not left to me, I shall not be able to execute the power of my will on the sons of men; for these are for corruption and leading astray before my judgment, for great is the wickedness of the sons of men.'
 
 **[10:9]** And He said: 'Let the tenth part of them remain before him, and let nine parts descend into the place of condemnation.'
 
@@ -598,7 +606,7 @@
 
 **[10:15]** And Noah slept with his fathers, and was buried on Mount Lubar in the land of Ararat.
 
-**[10:16]** Nine hundred and fifty years he completed in his life, nineteen jubilees and two weeks and five years. [1659 A.M.]
+**[10:16]** Nine hundred and fifty years he completed in his life, nineteen jubilees and two weeks and five years. 
 
 **[10:17]** And in his life on earth he excelled the children of men save Enoch because of the righteousness, wherein he was perfect. For Enoch's office was ordained for a testimony to the generations of the world, so that he should recount all the deeds of generation unto generation, till the day of judgment.
 
@@ -608,7 +616,7 @@
 
 **[10:20]** And they began to build, and in the fourth week they made brick with fire, and the bricks served them for stone, and the clay with which they cemented them together was asphalt which comes out of the sea, and out of the fountains of water in the land of Shinar.
 
-**[10:21]** And they built it: forty and three years [1645-1688 A.M.] were they building it; its breadth was 203 bricks, and the height (of a brick) was the third of one; its height amounted to 5433 cubits and 2 palms, and (the extent of one wall was) thirteen stades (and of the other thirty stades).
+**[10:21]** And they built it: forty and three years were they building it; its breadth was 203 bricks, and the height (of a brick) was the third of one; its height amounted to 5433 cubits and 2 palms, and (the extent of one wall was) thirteen stades (and of the other thirty stades).
 
 **[10:22]** And the Lord our God said unto us: 'Behold, they are one people, and (this) they begin to do, and now nothing will be withholden from them. Go to, let us go down and confound their language, that they may not understand one another's speech, and they may be dispersed into cities and nations, and one purpose will no longer abide with them till the day of judgment.'
 
@@ -620,7 +628,7 @@
 
 **[10:26]** And the Lord sent a mighty wind against the tower and overthrew it upon the earth, and behold it was between Asshur and Babylon in the land of Shinar, and they called its name 'Overthrow'.
 
-**[10:27]** In the fourth week in the first year [1688 A.M.] in the beginning thereof in the four and thirtieth jubilee, were they dispersed from the land of Shinar.
+**[10:27]** In the fourth week in the first year in the beginning thereof in the four and thirtieth jubilee, were they dispersed from the land of Shinar.
 
 **[10:28]** And Ham and his sons went into the land which he was to occupy, which he acquired as his portion in the land of the south.
 
@@ -632,7 +640,7 @@
 
 **[10:32]** Cursed art thou, and cursed shalt thou be beyond all the sons of Noah, by the curse by which we bound ourselves by an oath in the presence of the holy judge, and in the presence of Noah our father.'
 
-**[10:33]** But he did not harken unto them, and dwelt in the land of Lebanon from Hamath to the entering of Egypt, he and his sons until this day.
+**[10:33]** But he did not hearken unto them, and dwelt in the land of Lebanon from Hamath to the entering of Egypt, he and his sons until this day.
 
 **[10:34]** And for this reason that land is named Canaan.
 
@@ -640,7 +648,9 @@
 
 **[10:36]** And he called his dwelling-place, and the dwelling-place of his sons, Media, after the name of their father Madai.
 
+
 **[11:1]** And in the thirty-fifth jubilee, in the third week, in the first year thereof, Reu took to himself a wife, and her name was 'Ôrâ, the daughter of 'Ûr, the son of Kesed, and she bare him a son, and he called his name Sêrôh, in the seventh year of this week in this jubilee.
+
 
 **[11:2]** And the sons of Noah began to war on each other, to take captive and to slay each other, and to shed the blood of men on the earth, and to eat blood, and to build strong cities, and walls, and towers, and individuals (began) to exalt themselves above the nation, and to found the beginnings of kingdoms, and to go to war people against people, and nation against nation, and city against city, and all (began) to do evil, and to acquire arms, and to teach their sons war, and they began to capture cities, and to sell male and female slaves.
 

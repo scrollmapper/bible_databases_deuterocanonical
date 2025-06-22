@@ -16,11 +16,11 @@
 
 **[1:8]** And they answered him not one word. And he went away sorrowful and dejected, departing with a pain at his heart.
 
-**[1:9]** And he returned, and implored the Most High God, and believed, beseeching Him with a burning in his heart, saying, '0 Most High God, 0 Creator of the Heavens and of the earth, o Creator of all created things!
+**[1:9]** And he returned, and implored the Most High God, and believed, beseeching Him with a burning in his heart, saying, 'O Most High God, O Creator of the Heavens and of the earth, O Creator of all created things!
 
 **[1:10]** I beseech Thee to give me a boy, that I may be consoled by him, that he may be present at my death, that he may close my eyes, and that he may bury me.'
 
-**[1:11]** Then there came to him a voice saying, 'Inasmuch as thou hast relied first of all on graven images, and hast offered sacrifices to them, for this reason thou Shalt remain childless thy life long.
+**[1:11]** Then there came to him a voice saying, 'Inasmuch as thou hast relied first of all on graven images, and hast offered sacrifices to them, for this reason thou shalt remain childless thy life long.
 
 **[1:12]** But take Nadan thy sister's son, and make him thy child and teach him thy learning and thy good breeding, and at thy death he shall bury thee.'
 
@@ -32,23 +32,24 @@
 
 **[1:16]** And after many days King Sennacherib looked at Haiqar and saw that he had grown very old, and moreover he said to him.
 
-**[1:17]** '0 my honoured friend, the skilful, the trusty, the wise, the governor, my secretary, my vizier, my Chancellor and director; verily thou art grown very old and weighted with years; and thy departure from this world must be near.
+**[1:17]** 'O my honoured friend, the skilful, the trusty, the wise, the governor, my secretary, my vizier, my Chancellor and director; verily thou art grown very old and weighted with years; and thy departure from this world must be near.
 
-**[1:18]** Tell me who shall have a place in my service after thee.' And Haiqar said to him, '0 my lord, may thy head live for ever! There is Nadan my sister's son, I have made him my child.
+**[1:18]** Tell me who shall have a place in my service after thee.' And Haiqar said to him, 'O my lord, may thy head live for ever! There is Nadan my sister's son, I have made him my child.
 
 **[1:19]** And I have brought him up and taught him my wisdom and my knowledge.'
 
-**[1:20]** And the king said to him, '0 Haiqar ! bring him to my presence, that I may see him, and if I find him suitable, put him in thy place; and thou shalt go thy way, to take a rest and to live the remainder of thy life in sweet repose.'
+**[1:20]** And the king said to him, 'O Haiqar! bring him to my presence, that I may see him, and if I find him suitable, put him in thy place; and thou shalt go thy way, to take a rest and to live the remainder of thy life in sweet repose.'
 
 **[1:21]** Then Haiqar went and presented Nadan his sister's son. And he did homage and wished him power and honour.
 
-**[1:22]** And he looked at him and admired him and rejoiced in him and said to Haiqar: 'Is this thy son, 0 Haiqar? I pray that God may preserve him. And as thou hast served me and my father Sarhadum so may this boy of thine serve me and fulfil my undertakings, my needs, and my business, so that I may honour him and make him powerful for thy sake.'
+**[1:22]** And he looked at him and admired him and rejoiced in him and said to Haiqar: 'Is this thy son, O Haiqar? I pray that God may preserve him. And as thou hast served me and my father Sarhadum so may this boy of thine serve me and fulfil my undertakings, my needs, and my business, so that I may honour him and make him powerful for thy sake.'
 
-**[1:23]** And Haiqar did obeisance to the king and said to him 'May thy head live, 0 my lord the king, for ever! I seek from thee that thou mayst be patient with my boy Nadan and forgive his mistakes that he may serve thee as it is fitting.'
+**[1:23]** And Haiqar did obeisance to the king and said to him 'May thy head live, O my lord the king, for ever! I seek from thee that thou mayst be patient with my boy Nadan and forgive his mistakes that he may serve thee as it is fitting.'
 
 **[1:24]** Then the king swore to him that he would make him the greatest of his favourites, and the most powerful of his friends, and that he should be with him in all honour and respect. And he kissed his hands and bade him farewell.
 
 **[1:25]** And he took Nadan his sister's son with him and seated him in a parlour and set about teaching him night and day till he had crammed him with wisdom and knowledge more than with bread and water.
+
 
 **[2:1]** Thus he taught him, saying: '0 my son! hear my speech and follow my advice and remember what I say.
 
@@ -68,7 +69,7 @@
 
 **[2:9]** O my son! desire not a woman bedizened with dress and with ointments, who is despicable and silly in her soul. Woe to thee if thou bestow on her anything that is thine, or commit to her what is in thine hand and, she entice thee into sin, and God be wroth with thee.
 
-**[2:10]** O my son! be not like the almond-tree, for it brings forth leaves before all the trees, and edible fruit after them all, but be like the mulberry - tree, which brings forth edible fruit before all the trees, and leaves after them all.
+**[2:10]** O my son! be not like the almond-tree, for it brings forth leaves before all the trees, and edible fruit after them all, but be like the mulberry-tree, which brings forth edible fruit before all the trees, and leaves after them all.
 
 **[2:11]** O my son! bend thy head low down, and soften thy voice, and be courteous, and walk in the straight path, and be not foolish. And raise not thy voice when thou laughest, for if it were by a loud voice that a house was built, the ass would build many houses every day; and if it were by dint of strength that the plough were driven, the plough would never be removed from under the shoulders of the camels.
 
@@ -86,7 +87,7 @@
 
 **[2:18]** O my son! be content with thy daily bread and thy goods, and covet not what is another's.
 
-**[2:19]** O my son! be not neighbour to the fool, and eat not bread with him, and rejoice not in the calamities of thy neighbours. (Psalms CXLI. 4) If thine enemy wrong thee, show him kindness.
+**[2:19]** O my son! be not neighbour to the fool, and eat not bread with him, and rejoice not in the calamities of thy neighbours. If thine enemy wrong thee, show him kindness.
 
 **[2:20]** O my son! a man who fears God do thou fear him and honour him.
 
@@ -106,7 +107,7 @@
 
 **[2:28]** O my son! be not like a bare, leafless tree that doth not grow, but be like a tree covered with its leaves and its boughs; for the man who has neither wife nor children is disgraced in the world and is hated by them, like a leafless and fruitless tree.
 
-**[2:29]** O my son! be like a fruitful tree on the roadside, whost fruit is eaten by all who pass by, and the beasts of the desert rest under its shade and eat of its leaves.
+**[2:29]** O my son! be like a fruitful tree on the roadside, whose fruit is eaten by all who pass by, and the beasts of the desert rest under its shade and eat of its leaves.
 
 **[2:30]** O my son! every sheep that wanders from its path and its companions becomes food for the wolf.
 
@@ -120,9 +121,9 @@
 
 **[2:35]** O my son! make thy speech fair and sweeten thy tongue; and permit not thy companion to tread on thy foot, lest he tread at another time on thy breast.
 
-**[2:36]** O my son! if thou beat a wise man with a word of wisdom, it will lurk in his breast like a subtle sense of shame; but if thou drub the ignorant with a stick he will neither understand nor hear,
+**[2:36]** O my son! if thou beat a wise man with a word of wisdom, it will lurk in his breast like a subtle sense of shame; but if thou drub the ignorant with a stick he will neither understand nor hear.
 
-**[2:37]** O my son! if thou send a wise man for thy needs, do not give him many orders, for he will do thy business as thou desirest: and if thou send a fool, do not order him, but go thyself and do thy business, for if thou order him, he will not do what thou desirest. If they send thee on business, hasten to fulfil it quickly,
+**[2:37]** O my son! if thou send a wise man for thy needs, do not give him many orders, for he will do thy business as thou desirest: and if thou send a fool, do not order him, but go thyself and do thy business, for if thou order him, he will not do what thou desirest. If they send thee on business, hasten to fulfil it quickly.
 
 **[2:38]** O my son! make not an enemy of a man stronger than thyself, for he will take thy measure, and his revenge on thee.
 
@@ -146,7 +147,7 @@
 
 **[2:48]** O my son! the man who hath no rest, his death were better than his life; and the sound of weeping is better than the sound of singing; for sorrow and weeping, if the fear of God be in them, are better than the sound of singing and rejoicing.
 
-**[2:49]** O my child! the thigh of a frog in thy hand is better than a goose in the pot of thy neighbour; and a sheep near thee is better than an ox far away; and a sparrow in thy hand is better than a thousand sparrows flying; and poverty which gathers is better than the scattering of much provision; and a living fox is better than a dead lion; and a pound of wool is better than a pound of wealth, I mean of gold and silver; for the gold and the silver are hidden and covered up in the earth, and are not seen; but the wool stays. in the markets and it is seen, and it is a beauty to him who wears it.
+**[2:49]** O my child! the thigh of a frog in thy hand is better than a goose in the pot of thy neighbour; and a sheep near thee is better than an ox far away; and a sparrow in thy hand is better than a thousand sparrows flying; and poverty which gathers is better than the scattering of much provision; and a living fox is better than a dead lion; and a pound of wool is better than a pound of wealth, I mean of gold and silver; for the gold and the silver are hidden and covered up in the earth, and are not seen; but the wool stays in the markets and it is seen, and it is a beauty to him who wears it.
 
 **[2:50]** O my son! a small fortune is better than a scattered fortune.
 
@@ -178,7 +179,7 @@
 
 **[2:64]** O my son! whosoever is elegant in his dress, he is the same in his speech; and he who has a mean appearance in his dress, he also is the same in his speech.
 
-**[2:65]** O my son! if thou hast committcd a theft, make it known to the Sultan, and give him a share of it, that thou rnayst be delivered from him, for otherwise thou wilt endure bitterness.
+**[2:65]** O my son! if thou hast committcd a theft, make it known to the Sultan, and give him a share of it, that thou mayst be delivered from him, for otherwise thou wilt endure bitterness.
 
 **[2:66]** O my son! make a friend of the man whose hand is satisfied and filled, and make no friend of the man whose hand is closed and hungry.
 
@@ -209,11 +210,11 @@
 
 **[3:12]** And Nadan continued to meditate as to the stumblingblock he might contrive for him. And after a while Nadan turned it over in his mind, and wrote a letter to Achish, son of Shah the Wise, king of Persia, saying thus:
 
-**[3:13]** 'Peace and health and might and honour from Sennacherib king of Assyria and Nineveh, and from his vizier and his secretary Haiqar unto thee, 0 great king! Let there be peace between thee and me.
+**[3:13]** 'Peace and health and might and honour from Sennacherib king of Assyria and Nineveh, and from his vizier and his secretary Haiqar unto thee, O great king! Let there be peace between thee and me.
 
 **[3:14]** And when this letter reaches thee, if thou wilt arise and go quickly to the plain of Nisrin, and to Assyria and Nineveh, I will deliver up the kingdom to thee without war and without battle-array.'
 
-**[3:15]** And he wrote also another letter in the name of Haiqar to Pharaoh king of Egypt. 'Let there be peace between thee and me, 0 mighty king!
+**[3:15]** And he wrote also another letter in the name of Haiqar to Pharaoh king of Egypt. 'Let there be peace between thee and me, O mighty king!
 
 **[3:16]** If at the time of this letter reaching thee thou wilt arise and go to Assyria and Nineveh to the plain of Nisrin, I will deliver up to thee the kingdom without war and without fighting.'
 
@@ -223,7 +224,7 @@
 
 **[3:19]** Then he went and wrote a letter likewise from the king to his uncle Haiqar: 'Peace and health to my Vizier, my Secretary, my Chancellor, Haiqar.
 
-**[3:20]** 0 Haiqar, when this letter reaches thee, assemble all the soldiers who are with thee, and let them be perfect in clothing and in numbers, and bring them to me on the fifth day in the plain of Nisrin.
+**[3:20]** O Haiqar, when this letter reaches thee, assemble all the soldiers who are with thee, and let them be perfect in clothing and in numbers, and bring them to me on the fifth day in the plain of Nisrin.
 
 **[3:21]** And when thou shalt see me there coming towards thee, haste and make the army move against me as an enemy who would fight with me, for I have with me the ambassadors of Pharaoh king of Egypt, that they may see the strength of our army and may fear us, for they are our enemies and they hate us.'
 
@@ -255,18 +256,17 @@
 
 **[3:35]** And when the king saw this, he felt certain that the thing was from him, and he straightway arose and commanded them to kill Haiqar, and to strike his neck with the sword outside of the city.
 
-**[3:36]** Thus says the story-teller. And the name of the swordsman was Abu Samik. And the king said to him, '0 swordsman! arise go, cleave the neck of Haiqar at the door of his house, and cast away his head from his body a hundred cubits.'
+**[3:36]** Thus says the story-teller. And the name of the swordsman was Abu Samik. And the king said to him, 'O swordsman! arise, go, cleave the neck of Haiqar at the door of his house, and cast away his head from his body a hundred cubits.'
 
 **[3:38]** Then Haiqar knelt before the king, and said, 'Let my lord the king live for ever! and if thou desire to slay me,
-let thy wish be fulfilled; and I know that I am not guilty, but the wicked man has to give an account of his wickedness; nevertheless, 0 my lord the king! I beg of thee and of thy friendship, permit the swordsman to give my body to my slaves, that they may bury me, and let thy slave be thy sacrifice.'
+let thy wish be fulfilled; and I know that I am not guilty, but the wicked man has to give an account of his wickedness; nevertheless, O my lord the king! I beg of thee and of thy friendship, permit the swordsman to give my body to my slaves, that they may bury me, and let thy slave be thy sacrifice.'
 
 **[3:39]** The king arose and commanded the swordsman to do with him according to his desire.
 
 **[3:40]** And he straightway commanded his servants to take Haiqar and the swordsman and go with him naked that
 they might slay him.
 
-**[3:41]** And when Haiqar knew for certain that he was to be slain he sent to his wife, and said to her, 'Come out and meet me, and let there be with thee a thousand young virgins, and dress them in gowns of purple and silk
-that they may weep for me fore my death.
+**[3:41]** And when Haiqar knew for certain that he was to be slain he sent to his wife, and said to her, 'Come out and meet me, and let there be with thee a thousand young virgins, and dress them in gowns of purple and silk that they may weep for me before my death.
 
 **[3:42]** And prepare a table for the swordsman and for his servants. And mingle plenty of wine, that they may drink.'
 
@@ -276,7 +276,7 @@ courtesy and learning.
 **[3:44]** And when the army of the king and the swordsman arrived they found the table set in order,
 and the wine and the luxurious viands, and they began eating and drinking till they were gorged and drunken.
 
-**[3:45]** Then Haiqar took the swordsman aside apart from the company and said, '0 Abu Samik, dost thou not know
+**[3:45]** Then Haiqar took the swordsman aside apart from the company and said, 'O Abu Samik, dost thou not know
 that when Sarhadum the king, the father of Sennacherib, wanted to kill thee, I took thee and hid thee in a certain
 place till the king's anger subsided and he asked for thee?
 
@@ -299,9 +299,7 @@ place till the king's anger subsided and he asked for thee?
 
 **[3:54]** And the story was reported and repeated and spread abroad in every place of how Haiqar the Sage had been slain and was dead, and all the people of that city mourned for him.
 
-**[3:55]** And they wept and said:
-'Alas for thee, 0 Haiqar! and for thy learning and thy courtesy! How sad about thee and about thy knowledge!
-Where can another like thee be found? and where can there be a man so intelligent, so learned, so skilled in ruling as to resemble thee that he may fill thy place?'
+**[3:55]** And they wept and said: 'Alas for thee, O Haiqar! and for thy learning and thy courtesy! How sad about thee and about thy knowledge! Where can another like thee be found? and where can there be a man so intelligent, so learned, so skilled in ruling as to resemble thee that he may fill thy place?'
 
 **[3:56]** But the king was repenting about Haiqar, and his repentance availed him naught.
 
@@ -321,6 +319,7 @@ came and entreated him. And he comforted him and wished his deliverance.
 
 **[3:63]** And when the story was reported in other countries that Haiqar the Sage had been slain all the kings were grieved and despised king Sennacherib, and they lamented over Haiqar the solver of riddles.
 
+
 **[4:1]** When the king of Egypt had made sure that Haiqar was slain, he arose straightway and wrote a letter to king Sennacherib, reminding him in it 'of the peace and the health and the might and the honour which we wish specially for thee, my beloved brother, king Sennacherib.
 
 **[4:2]** I have been desiring to build a castle between the heaven and the earth, and I want thee to send me a wise, clever man from thyself to build it for me, and to answer me all my questions, and that I may have the taxes and the custom duties of Asyria for three years.'
@@ -333,19 +332,17 @@ came and entreated him. And he comforted him and wished his deliverance.
 and the astrologers, and every one who was in his country, and read them the letter and said to them,
 Who amongst you will go to Pharaoh king of Egypt and answer him his questions?'
 
-**[4:6]** And they said to him, '0 our lord the king! know thou that there is none in thy kingdom who is acquainted with
+**[4:6]** And they said to him, 'O our lord the king! know thou that there is none in thy kingdom who is acquainted with
 these questions except Haiqar, thy vizier and secretary.
 
 **[4:7]** But as for us, we have no skill in this, unless it be Nadan, his sister's son for he taught him all his wisdom and
 learning and knowledge. Call him to thee, perchance he may untie this hard knot.'
 
-**[4:8]** Then the king called Nadan and said to him, 'Look at this letter and understand what is in it.' And when Nadan read it, he said, '0 my lord! who is able to build a castle between the heaven and the earth?'
+**[4:8]** Then the king called Nadan and said to him, 'Look at this letter and understand what is in it.' And when Nadan read it, he said, 'O my lord! who is able to build a castle between the heaven and the earth?'
 
-**[4:9]** And when the king heard the speech of Nadan he sorrowed with a great and sore sorrow, snd stepped down from his throne and sat in the ashes, and began to weep and wail over Haiqar
+**[4:9]** And when the king heard the speech of Nadan he sorrowed with a great and sore sorrow, and stepped down from his throne and sat in the ashes, and began to weep and wail over Haiqar
 
-**[4:10]** Saying, '0 my grief! 0 Haiqar, who didst know the secrets and the riddles! woe is me for thee, 0 Haiqar!
-0 teacher of my country and ruler of my kingdom, where shall I find thy like? 0 Haiqar, 0 teacher of my country,
-where shall I turn for thee? woe is me for thee! how did I destroy thee! and I listened to the talk of a stupid, ignorant boy without knowledge, without religion, without manliness.
+**[4:10]** Saying, 'O my grief! O Haiqar, who didst know the secrets and the riddles! woe is me for thee, O Haiqar! O teacher of my country and ruler of my kingdom, where shall I find thy like? 0 Haiqar, O teacher of my country, where shall I turn for thee? woe is me for thee! how did I destroy thee! and I listened to the talk of a stupid, ignorant boy without knowledge, without religion, without manliness.
 
 **[4:11]** Ah! and again Ah for myself! who can give thee to me just for once, or bring me word that Haiqar is alive?
 and I would give him the half of my kingdom.
@@ -353,12 +350,12 @@ and I would give him the half of my kingdom.
 **[4:12]** Whence is this to me? Ah, Haiqar! that I might see thee just for once, that I might take my fill of gazing at thee,
 and delighting in thee.
 
-**[4:13]** Ah! 0 my grief for thee to all time! 0 Haiqar, how have I killed thee! and I tarried not in thy case till I had seen the end of the matter.'
+**[4:13]** Ah! O my grief for thee to all time! 0 Haiqar, how have I killed thee! and I tarried not in thy case till I had seen the end of the matter.'
 
 **[4:14]** And the king went on weeping night and day. Now when the swordsman saw the wrath of the king and his
 sorrow for Haiqar, his heart was softened towards him, and he approached into his presence and said to him:
 
-**[4:15]** '0 my lord! command thy servants to cut off my head.' Then said the king to him: 'Woe to thee, Abu Samik, 'what is thy fault?'
+**[4:15]** 'O my lord! command thy servants to cut off my head.' Then said the king to him: 'Woe to thee, Abu Samik, 'what is thy fault?'
 
 **[4:16]** And the swordsman said unto him, 'O my master! every slave who acts contrary to the word of his master is killed, and I have acted contrary to thy command.'
 
@@ -369,8 +366,6 @@ sorrow for Haiqar, his heart was softened towards him, and he approached into hi
 **[4:19]** And the king said unto him. 'Woe to thee, O Abu Samik! thou hast mocked me and I am thy lord.'
 
 **[4:20]** And the swordsman said unto him, 'Nay, but by the life of thy head, O my lord! Haiqar is safe and alive.'
-
-**[4:21]** And when the king heard that saying, he felt sure of the matter, and his head swam, and he
 
 **[4:21]** And when the king heard that saying, he felt sure of the matter, and his head swam, and he fainted from joy, and he commanded them to bring Haiqar.
 
@@ -388,15 +383,16 @@ sorrow for Haiqar, his heart was softened towards him, and he approached into hi
 
 **[4:28]** Then he consoled him and comforted him. And he stripped off his robe, and put it on the swordsman, and was very gracious to him, and gave him great wealth, and made Haiqar rest.
 
-**[4:29]** Then said Haiqar to the king, 'Let my lord the king live for ever! These be the deeds of the children of the world. I have reared me a palm - tree that I might lean on it, and it bent sideways, and threw me down.
+**[4:29]** Then said Haiqar to the king, 'Let my lord the king live for ever! These be the deeds of the children of the world. I have reared me a palm-tree that I might lean on it, and it bent sideways, and threw me down.
 
-**[4:30]** But, 0 my lord! since I have appeared before thee, let not care oppress thee.' And the king said to him: 'Blessed be God, who showed thee mercy, and knew that thou wast wronged, and saved thee and delivered thee from being slain.
+**[4:30]** But, O my lord! since I have appeared before thee, let not care oppress thee.' And the king said to him: 'Blessed be God, who showed thee mercy, and knew that thou wast wronged, and saved thee and delivered thee from being slain.
 
 **[4:31]** But go to the warm bath, and shave thy head, and cut thy nails, and change thy clothes and amuse thyself for the space of forty days, that thou mayst do good to thyself and improve thy condition and the colour of thy face may come back to thee.
 
 **[4:32]** Then the king stripped off his costly robe, and put it on Haiqar, and Haiqar thanked God and did obeisance to the king, and departed to his dwelling glad and happy, praising the Most High God.
 
 **[4:33]** And the people of his household rejoiced with him, and his friends and every one who heard that he was alive rejoiced also.
+
 
 **[5:1]** And he did as the king commanded him, and took a rest for forty days.
 
@@ -511,6 +507,7 @@ sorrow for Haiqar, his heart was softened towards him, and he approached into hi
 **[5:56]** And Haiqar said to him, 'Yes, so it was, but praise be to God, who knoweth what is hidden, for my lord the king commanded me to be killed, and he believed the word of profligate men, but the Lord delivered me, and blessed is he who trusteth in Him.'
 
 **[5:57]** And Pharaoh said to Haiqar, 'Go, and to-morrow be thou here, and tell me a word that I have never heard from my nobles nor from the people of my kingdom and my country.'
+
 
 **[6:1]** And Haiqar went to his dwelling, and wrote a letter, saying in it on this wise:
 
