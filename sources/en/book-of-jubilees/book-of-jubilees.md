@@ -997,7 +997,7 @@
 **[16:31]** And Abraham took branches of palm trees, and the fruit of goodly trees, and every day going round the altar with the branches seven times in the morning, he praised and gave thanks to his God for all things in joy.
 
 
-**[17:1]** And in the first year of the fifth week Isaac was weaned in this jubilee, [1982 A.M.] and Abraham made a great banquet in the third month, on the day his son Isaac was weaned.
+**[17:1]** And in the first year of the fifth week Isaac was weaned in this jubilee, and Abraham made a great banquet in the third month, on the day his son Isaac was weaned.
 
 **[17:2]** And Ishmael, the son of Hagar, the Egyptian, was before the face of Abraham, his father, in his place, and Abraham rejoiced and blessed God because he had seen his sons and had not died childless.
 
@@ -1007,7 +1007,7 @@
 
 **[17:5]** And the thing was grievous in Abraham's sight, because of his maidservant and because of his son, that he should drive them from him.
 
-**[17:6]** And God said to Abraham 'Let it not be grievous in thy sight, because of the child and because of the bondwoman; in all that Sarah hath said unto thee, harken to her words and do (them); for in Isaac shall thy name and seed be called.
+**[17:6]** And God said to Abraham 'Let it not be grievous in thy sight, because of the child and because of the bondwoman; in all that Sarah hath said unto thee, hearken to her words and do (them); for in Isaac shall thy name and seed be called.
 
 **[17:7]** But as for the son of this bondwoman I will make him a great nation, because he is of thy seed.'
 
@@ -1025,13 +1025,14 @@
 
 **[17:14]** And she bare him a son, and he called his name Nebaioth; for she said, 'The Lord was nigh to me when I called upon him.'
 
-**[17:15]** And it came to pass in the seventh week, in the first year thereof, [2003 A.M.] in the first month in this jubilee, on the twelfth of this month, there were voices in heaven regarding Abraham, that he was faithful in all that He told him, and that he loved the Lord, and that in every affliction he was faithful.
+**[17:15]** And it came to pass in the seventh week, in the first year thereof, in the first month in this jubilee, on the twelfth of this month, there were voices in heaven regarding Abraham, that he was faithful in all that He told him, and that he loved the Lord, and that in every affliction he was faithful.
 
 **[17:16]** And the prince Mastêmâ came and said before God, 'Behold, Abraham loves Isaac his son, and he delights in him above all things else; bid him offer him as a burnt-offering on the altar, and Thou wilt see if he will do this command, and Thou wilt know if he is faithful in everything wherein Thou dost try him.
 
 **[17:17]** And the Lord knew that Abraham was faithful in all his afflictions; for He had tried him through his country and with famine, and had tried him with the wealth of kings, and had tried him again through his wife, when she was torn (from him), and with circumcision; and had tried him through Ishmael and Hagar, his maid-servant, when he sent them away.
 
 **[17:18]** And in everything wherein He had tried him, he was found faithful, and his soul was not impatient, and he was not slow to act; for he was faithful and a lover of the Lord.
+
 
 **[18:1]** And God said to him, 'Abraham, Abraham'; and he said, 'Behold, (here) am I.'
 
@@ -1061,21 +1062,22 @@
 
 **[18:14]** And the Lord called Abraham by his name a second time from heaven, as he caused us to appear to speak to him in the name of the Lord.
 
-**[18:15]** And he said: 'By Myself have I sworn, saith the Lord, Because thou hast done this thing, And hast not withheld thy son, thy beloved son, from Me, That in blessing I will bless thee, And in multiplying I will multiply thy seed As the stars of heaven, And as the sand which is on the seashore. And thy seed shall inherit the cities of its enemies,
+**[18:15]** And he said: 'By Myself have I sworn, saith the Lord, Because thou hast done this thing, and hast not withheld thy son, thy beloved son, from Me, that in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of heaven, and as the sand which is on the seashore. And thy seed shall inherit the cities of its enemies,
 
-**[18:16]** And in thy seed shall all nations of the earth be blessed; Because thou hast obeyed My voice, And I have shown to all that thou art faithful unto Me in all that I have said unto thee: Go in peace.'
+**[18:16]** And in thy seed shall all nations of the earth be blessed; because thou hast obeyed My voice, and I have shown to all that thou art faithful unto Me in all that I have said unto thee: Go in peace.'
 
-**[18:17]** And Abraham went to his young men, and they arose and went together to Beersheba, and Abraham [2010 A.M.] dwelt by the Well of the Oath.
+**[18:17]** And Abraham went to his young men, and they arose and went together to Beersheba, and Abraham dwelt by the Well of the Oath.
 
 **[18:18]** And he celebrated this festival every year, seven days with joy, and he called it the festival of the Lord according to the seven days during which he went and returned in peace.
 
 **[18:19]** And accordingly has it been ordained and written on the heavenly tablets regarding Israel and its seed that they should observe this festival seven days with the joy of festival.
 
+
 **[19:1]** And in the first year of the first week in the forty-second jubilee, Abraham returned and dwelt opposite Hebron, that is Kirjath Arba, two weeks of years.
 
 **[19:2]** And in the first year of the third week of this jubilee the days of the life of Sarah were accomplished, and she died in Hebron.
 
-**[19:3]** And Abraham went to mourn over her and bury her, and we tried him [to see] if his spirit were patient and he were not indignant in the words of his mouth; and he was found patient in this, and was not disturbed.
+**[19:3]** And Abraham went to mourn over her and bury her, and we tried him to see if his spirit were patient and he were not indignant in the words of his mouth; and he was found patient in this, and was not disturbed.
 
 **[19:4]** For in patience of spirit he conversed with the children of Heth, to the intent that they should give him a place in which to bury his dead.
 
@@ -1089,13 +1091,13 @@
 
 **[19:9]** And he said not a single word regarding the rumour in the land how that God had said that He would give it to him and to his seed after him, and he begged a place there to bury his dead; for he was found faithful, and was recorded on the heavenly tablets as the friend of God.
 
-**[19:10]** And in the fourth year thereof he took a wife for his son Isaac and her name was Rebecca [2020 A.M.] [the daughter of Bethuel, the son of Nahor, the brother of Abraham] the sister of Laban and daughter of Bethuel; and Bethuel was the son of Melca, who was the wife of Nahor, the brother of Abraham.
+**[19:10]** And in the fourth year thereof he took a wife for his son Isaac and her name was Rebecca the daughter of Bethuel, the son of Nahor, the brother of Abraham the sister of Laban and daughter of Bethuel; and Bethuel was the son of Melca, who was the wife of Nahor, the brother of Abraham.
 
 **[19:11]** And Abraham took to himself a third wife, and her name was Keturah, from among the daughters of his household servants, for Hagar had died before Sarah. And she bare him six sons, Zimram, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah, in the two weeks of years.
 
 **[19:12]** And in the sixth week, in the second year thereof, Rebecca bare to Isaac two sons, Jacob and Esau,
 
-**[19:13]** and [2046 A.M.] Jacob was a smooth and upright man, and Esau was fierce, a man of the field, and hairy, and Jacob dwelt in tents.
+**[19:13]** and Jacob was a smooth and upright man, and Esau was fierce, a man of the field, and hairy, and Jacob dwelt in tents.
 
 **[19:14]** And the youths grew, and Jacob learned to write; but Esau did not learn, for he was a man of the field and a hunter, and he learnt war, and all his deeds were fierce.
 
@@ -1103,23 +1105,23 @@
 
 **[19:16]** And Abraham saw the deeds of Esau, and he knew that in Jacob should his name and seed be called; and he called Rebecca and gave commandment regarding Jacob, for he knew that she (too) loved Jacob much more than Esau.
 
-**[19:17]** And he said unto her: My daughter, watch over my son Jacob, For he shall be in my stead on the earth, And for a blessing in the midst of the children of men, And for the glory of the whole seed of Shem.
+**[19:17]** And he said unto her: My daughter, watch over my son Jacob, for he shall be in my stead on the earth, and for a blessing in the midst of the children of men, and for the glory of the whole seed of Shem.
 
 **[19:18]** For I know that the Lord will choose him to be a people for possession unto Himself, above all peoples that are upon the face of the earth.
 
 **[19:19]** And behold, Isaac my son loves Esau more than Jacob, but I see that thou truly lovest Jacob.
 
-**[19:20]** Add still further to thy kindness to him, And let thine eyes be upon him in love; For he shall be a blessing unto us on the earth from henceforth unto all generations of the earth.
+**[19:20]** Add still further to thy kindness to him, and let thine eyes be upon him in love; for he shall be a blessing unto us on the earth from henceforth unto all generations of the earth.
 
-**[19:21]** Let thy hands be strong And let thy heart rejoice in thy son Jacob; For I have loved him far beyond all my sons. He shall be blessed for ever, And his seed shall fill the whole earth.
+**[19:21]** Let thy hands be strong And let thy heart rejoice in thy son Jacob; for I have loved him far beyond all my sons. He shall be blessed for ever, and his seed shall fill the whole earth.
 
-**[19:22]** If a man can number the sand of the earth, His seed also shall be numbered.
+**[19:22]** If a man can number the sand of the earth, his seed also shall be numbered.
 
 **[19:23]** And all the blessings wherewith the Lord hath blessed me and my seed shall belong to Jacob and his seed alway.
 
 **[19:24]** And in his seed shall my name be blessed, and the name of my fathers, Shem, and Noab, and Enoch, and Mahalalel, and Enos, and Seth, and Adam.
 
-**[19:25]** And these shall serve To lay the foundations of the heaven, And to strengthen the earth, And to renew all the luminaries which are in the firmament.
+**[19:25]** And these shall serve To lay the foundations of the heaven, and to strengthen the earth, and to renew all the luminaries which are in the firmament.
 
 **[19:26]** And he called Jacob before the eyes of Rebecca his mother, and kissed him, and blessed him, and said:
 
@@ -1133,7 +1135,8 @@
 
 **[19:31]** And Rebecca loved Jacob, with all her heart and with all her soul, very much more than Esau; but Isaac loved Esau much more than Jacob.
 
-**[20:1]** And in the forty-second jubilee, in the first year of the seventh week, Abraham called Ishmael, [2052 (2045?) A.M.] and his twelve sons, and Isaac and his two sons, and the six sons of Keturah, and their sons.
+
+**[20:1]** And in the forty-second jubilee, in the first year of the seventh week, Abraham called Ishmael, and his twelve sons, and Isaac and his two sons, and the six sons of Keturah, and their sons.
 
 **[20:2]** And he commanded them that they should observe the way of the Lord; that they should work righteousness, and love each his neighbour, and act on this manner amongst all men; that they should each so walk with regard to them as to do judgment and righteousness on the earth.
 
