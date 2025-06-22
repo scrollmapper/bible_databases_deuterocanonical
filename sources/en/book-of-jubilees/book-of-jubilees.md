@@ -1915,42 +1915,41 @@
 
 **[33:23]** And they came and bowed themselves to Isaac and Rebecca, and when they saw them they blessed Jacob and all his sons, and Isaac rejoiced exceedingly, for he saw the sons of Jacob, his younger son and he blessed them.
 
-
-**[34:1]** And in the sixth year of this week of this forty-fourth jubilee [2148 A.M.] Jacob sent his sons to pasture their sheep, and his servants with them to the pastures of Shechem.
+**[34:1]** And in the sixth year of this week of this forty-fourth jubilee Jacob sent his sons to pasture their sheep, and his servants with them to the pastures of Shechem.
 
 **[34:2]** And the seven kings of the Amorites assembled themselves together against them, to slay them, hiding themselves under the trees, and to take their cattle as a prey.
 
 **[34:3]** And Jacob and Levi and Judah and Joseph were in the house with Isaac their father; for his spirit was sorrowful, and they could not leave him: and Benjamin was the youngest, and for this reason remained with his father.
 
-**[34:4]** And there came the king[s] of Taphu and the king[s] of 'Aresa, and the king[s] of Seragan, and the king[s] of Selo, and the king[s] of Ga'as, and the king of Bethoron, and the king of Ma'anisakir, and all those who dwell in these mountains (and) who dwell in the woods in the land of Canaan.
+**[34:4]** And there came the kings of Taphu and the kings of 'Aresa, and the kings of Seragan, and the kings of Selo, and the kings of Ga'as, and the king of Bethoron, and the king of Ma'anisakir, and all those who dwell in these mountains (and) who dwell in the woods in the land of Canaan.
 
 **[34:5]** And they announced this to Jacob saying: 'Behold, the kings of the Amorites have surrounded thy sons, and plundered their herds.'
 
 **[34:6]** And he arose from his house, he and his three sons and all the servants of his father, and his own servants, and he went against them with six thousand men, who carried swords.
 
-**[34:7]** And he slew them in the pastures of Shechem, and pursued those who fled, and he slew them with the edge of the sword, and he slew 'Aresa and Taphu and Saregan and Selo and 'Amani- sakir and Ga[ga]'as, and he recovered his herds.
+**[34:7]** And he slew them in the pastures of Shechem, and pursued those who fled, and he slew them with the edge of the sword, and he slew 'Aresa and Taphu and Saregan and Selo and 'Amani-sakir and Gaga'as, and he recovered his herds.
 
 **[34:8]** And he prevailed over them, and imposed tribute on them that they should pay him tribute, five fruit products of their land, and he built Robel and Tamnatares.
 
 **[34:9]** And he returned in peace, and made peace with them, and they became his servants, until the day that he and his sons went down into Egypt.
 
-**[34:10]** And in the seventh year of this week [2149 A.M.] he sent Joseph to learn about the welfare of his brothers from his house to the land of Shechem, and he found them in the land of Dothan.
+**[34:10]** And in the seventh year of this week he sent Joseph to learn about the welfare of his brothers from his house to the land of Shechem, and he found them in the land of Dothan.
 
 **[34:11]** And they dealt treacherously with him, and formed a plot against him to slay him, but changing their minds, they sold him to Ishmaelite merchants, and they brought him down into Egypt, and they sold him to Potiphar, the eunuch of Pharaoh, the chief of the cooks, priest of the city of 'Elew.
 
 **[34:12]** And the sons of Jacob slaughtered a kid, and dipped the coat of Joseph in the blood, and sent (it) to Jacob their father on the tenth of the seventh month.
 
-**[34:13]** And he mourned all that night, for they had brought it to him in the evening, and he became feverish with mourning for his death, and he said: 'An evil beast hath devoured Joseph'; and all the members of his house [mourned with him that day, and they] were grieving and mourning with him all that day.
+**[34:13]** And he mourned all that night, for they had brought it to him in the evening, and he became feverish with mourning for his death, and he said: 'An evil beast hath devoured Joseph'; and all the members of his house mourned with him that day, and they were grieving and mourning with him all that day.
 
 **[34:14]** And his sons and his daughter rose up to comfort him, but he refused to be comforted for his son.
 
 **[34:15]** And on that day Bilhah heard that Joseph had perished, and she died mourning him, and she was living in Qafratef, and Dinah also, his daughter, died after Joseph had perished.
 
-**[34:16]** And there came these three mournings upon Israel in one month. And they buried Bilhah over against the tomb of Rachel, and Dinah also. his daughter, they buried there.
+**[34:16]** And there came these three mournings upon Israel in one month. And they buried Bilhah over against the tomb of Rachel, and Dinah also, his daughter, they buried there.
 
 **[34:17]** And he mourned for Joseph one year, and did not cease, for he said 'Let me go down to the grave mourning for my son'.
 
-**[34:18]** For this reason it is ordained for the children of Israel that they should afflict themselves on the tenth of the seventh month -on the day that the news which made him weep for Joseph came to Jacob his father- that they should make atonement for themselves thereon with a young goat on the tenth of the seventh month, once a year, for their sins; for they had grieved the affection of their father regarding Joseph his son.
+**[34:18]** For this reason it is ordained for the children of Israel that they should afflict themselves on the tenth of the seventh month - on the day that the news which made him weep for Joseph came to Jacob his father - that they should make atonement for themselves thereon with a young goat on the tenth of the seventh month, once a year, for their sins; for they had grieved the affection of their father regarding Joseph his son.
 
 **[34:19]** And this day has been ordained that they should grieve thereon for their sins, and for all their transgressions and for all their errors, so that they might cleanse themselves on that day once a year.
 
@@ -1958,7 +1957,8 @@
 
 **[34:21]** And Simeon repented, and took a second wife from Mesopotamia as his brothers.
 
-**[35:1]** And in the first year of the first week of the forty-fifth jubilee [2157 A.M.] Rebecca called Jacob, her son, and commanded him regarding his father and regarding his brother, that he should honour them all the days of his life.
+
+**[35:1]** And in the first year of the first week of the forty-fifth jubilee Rebecca called Jacob, her son, and commanded him regarding his father and regarding his brother, that he should honour them all the days of his life.
 
 **[35:2]** And Jacob said: 'I will do everything as thou hast commanded me; for this thing will be honour and greatness to me, and righteousness before the Lord, that I should honour them.
 
@@ -1970,7 +1970,7 @@
 
 **[35:6]** And she said unto him: 'My son, I have not seen in thee all my days any perverse but (only) upright deeds. And yet I will tell thee the truth, my son: I shall die this year, and I shall not survive this year in my life; for I have seen in a dream the day of my death, that I should not live beyond a hundred and fifty-five years: and behold I have completed all the days of my life which I am to live.'
 
-**[35:7]** And Jacob laughed at the words of his mother. because his mother had said unto him that she should die; and she was sitting opposite to him in possession of her strength, and she was not infirm in her strength; for she went in and out and saw, and her teeth were strong, and no ailment had touched her all the days of her life.
+**[35:7]** And Jacob laughed at the words of his mother, because his mother had said unto him that she should die; and she was sitting opposite to him in possession of her strength, and she was not infirm in her strength; for she went in and out and saw, and her teeth were strong, and no ailment had touched her all the days of her life.
 
 **[35:8]** And Jacob said unto her: 'Blessed am I, mother, if my days approach the days of thy life, and my strength remain with me thus as thy strength: and thou wilt not die, for thou art jesting idly with me regarding thy death.'
 
@@ -1982,13 +1982,13 @@
 
 **[35:12]** And he is bitter against thee because thou didst bless Jacob thy perfect and upright son; for there is no evil but only goodness in him, and since he came from Haran unto this day he has not robbed us of aught, for he brings us everything in its season always, and rejoices with all his heart when we take at his hands and he blesses us, and has not parted from us since he came from Haran until this day, and he remains with us continually at home honouring us.'
 
-**[35:13]** And Isaac said unto her: 'I, too, know and see the deeds of Jacob who is with us, how that with all his heart he honours us; but I loved Esau formerly more than Jacob, because he was the firstborn; but now I love Jacob more than Esau, for he has done manifold evil deeds, and there is no righteousness in him, for all his ways are unrighteousness and violence, [and there is no righteousness around him.]
+**[35:13]** And Isaac said unto her: 'I, too, know and see the deeds of Jacob who is with us, how that with all his heart he honours us; but I loved Esau formerly more than Jacob, because he was the firstborn; but now I love Jacob more than Esau, for he has done manifold evil deeds, and there is no righteousness in him, for all his ways are unrighteousness and violence, and there is no righteousness around him.
 
 **[35:14]** And now my heart is troubled because of all his deeds, and neither he nor his seed is to be saved, for they are those who will be destroyed from the earth and who will be rooted out from under heaven, for he has forsaken the God of Abraham and gone after his wives and after their uncleanness and after their error, he and his children.
 
 **[35:15]** And thou dost bid me make him swear that he will not slay Jacob his brother; even if he swear he will not abide by his oath, and he will not do good but evil only.
 
-**[35:16]** But if he desires to slay Jacob, his brother, into Jacob's hands will he be given, and he will not escape from his hands, [for he will descend into his hands.]
+**[35:16]** But if he desires to slay Jacob, his brother, into Jacob's hands will he be given, and he will not escape from his hands, for he will descend into his hands.
 
 **[35:17]** And fear thou not on account of Jacob; for the guardian of Jacob is great and powerful and honoured, and praised more than the guardian of Esau.'
 
@@ -2012,7 +2012,8 @@
 
 **[35:27]** And they eat and drank, she and her sons that night, and she died, three jubilees and one week and one year old, on that night, and her two sons, Esau and Jacob, buried her in the double cave near Sarah, their father's mother.
 
-**[36:1]** And in the sixth year of this week [2162 A.M.] Isaac called his two sons Esau and Jacob, and they came to him, and he said unto them: 'My sons, I am going the way of my fathers, to the eternal house where my fathers are.
+
+**[36:1]** And in the sixth year of this week Isaac called his two sons Esau and Jacob, and they came to him, and he said unto them: 'My sons, I am going the way of my fathers, to the eternal house where my fathers are.
 
 **[36:2]** Wherefore bury me near Abraham my father, in the double cave in the field of Ephron the Hittite, where Abraham purchased a sepulchre to bury in; in the sepulchre which I digged for myself, there bury me.
 
