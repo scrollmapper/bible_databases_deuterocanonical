@@ -223,7 +223,8 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[14:19]** And now I see that as for the world which was made on account of us, lo! it abides, but we, on account of whom it was made, depart.'
 
-**[15:1]** And the Lord answered and said unto me: 'Thou art rightly astonied regarding the departure of man, but thou hast not judged well regarding the evils which befall those who sin.
+
+**[15:1]** And the Lord answered and said unto me: "Thou art rightly astonied regarding the departure of man, but thou hast not judged well regarding the evils which befall those who sin.
 
 **[15:2]** And as regards what thou hast said, that the righteous are carried off and the impious are prospered,
 
@@ -231,29 +232,33 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[15:4]** On this account hear, and I will speak to thee, and hearken, and I will cause thee to hear My words.
 
-**[15:5]** Man would not rightly have understood My judgement, if he had not accepted the law, and if his fear had not been rooted in understanding.
+**[15:5]** Man would not rightly have understood My judgement, if he had not accepted the law, and if his fear had not been (rooted) in understanding.
 
 **[15:6]** But now, because he transgressed though he knew, yea, on account of this also, he shall be tormented because he knew.
 
 **[15:7]** And as regards what thou didst say touching the righteous, that on account of them has this world come, nay more, even that which is to come is on their account.
 
-**[15:8]** For this world is to them a trouble and a weariness with much labour; and that accordingly which is to come, a crown with great glory.'
+**[15:8]** For this world is to them a trouble and a weariness with much labour; and that accordingly which is to come, a crown with great glory."
 
-**[16:1]** And I answered and said: 'O LORD, my Lord, lo! the years of this time are few and evil, and who is able in his little (space) to acquire that which is measureless?'
 
-**[17:1]** And the Lord answered and said unto me: 'With the Most High account is not taken of much time nor of a few years.
+**[16:1]** And I answered and said: "O LORD, my Lord, lo! the years of this time are few and evil, and who is able in this little (space) to acquire that which is measureless?"
+
+
+**[17:1]** And the Lord answered and said unto me: "With the Most High account is not taken of much time nor of a few years.
 
 **[17:2]** For what did it profit Adam that he lived nine hundred and thirty years, and transgressed that which he was commanded?
 
 **[17:3]** Therefore the multitude of time that he lived did not profit him, but brought death and cut off the years of those who were born from him.
 
-**[17:4]** Or wherein did Moses suffer loss in that he lived only one hundred and twenty years, and, inasmuch as he was subject to Him who formed him, brought the law to the seed of Jacob, and lighted a lamp for the nation of Israel?'
+**[17:4]** Or wherein did Moses suffer loss in that he lived only one hundred and twenty years, and, inasmuch as he was subject to Him who formed him, brought the law to the seed of Jacob, and lighted a lamp for the nation of Israel."
 
-**[18:1]** And I answered and said: 'He that lighted has taken from the light, and there are but few that have imitated him.
 
-**[18:2]** But those many whom he has lighted have taken from the darkness of Adam and have not rejoiced in the light of the lamp.'
+**[18:1]** And I answered and said: "He that lighted has taken from the light, and there are but few that have imitated him.
 
-**[19:1]** And He answered and said unto me: 'Wherefore at that time he appointed for them a covenant and said: "Behold I have placed before you life and death," And he called heaven and earth to witness against them.
+**[18:2]** But those many whom he has lighted have taken from the darkness of Adam, and have not rejoiced in the light of the lamp."
+
+
+**[19:1]** And He answered and said unto me: "Wherefore at that time he appointed for them a covenant and said: 'Behold I have placed before you life and death,' and he called heaven and earth to witness against them.
 
 **[19:2]** For he knew that his time was but short, but that heaven and earth endure always.
 
@@ -267,9 +272,10 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[19:7]** And again, if a man is shamefully entreated in his beginnings, and at his end is prospered, he remembereth not again his evil entreatment.
 
-**[19:8]** And again hearken: though each one were prospered all that time-- all the time from the day on which death was decreed against those who transgress-- and in his end was destroyed, in vain would have been everything.'
+**[19:8]** And again hearken: though each one were prospered all that time-- all the time from the day on which death was decreed against those who transgress-- and in his end was destroyed, in vain would have been everything."
 
-**[20:1]** Therefore, behold! the days come, and the times shall hasten more than the former, and the seasons will speed on more than those that are past, and the years shall pass more quickly than the present (years).
+
+**[20:1]** "Therefore, behold! the days will come, and the times shall hasten more than the former, and the seasons will speed on more than those that are past, and the years will pass more quickly than the present (years).
 
 **[20:2]** Therefore have I now taken away Zion, in order that I may the more speedily visit the world in its season.
 
@@ -279,7 +285,8 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[20:5]** Go therefore and sanctify thyself seven days, and eat no bread, nor drink water, nor speak to anyone.
 
-**[20:6]** And afterwards come to that place and I will reveal Myself to thee, and speak true things with thee, and I will give thee commandment regarding the method of the times; for they are coming and tarry not.'
+**[20:6]** And afterwards come to that place and I will reveal Myself to thee, and speak true things with thee, and I will give thee commandment regarding the method of the times; for they will come and will not tarry."
+
 
 **[21:1]** And I went thence and sat in the valley of Cedron in a cave of the earth, and I sanctified my soul there, and I eat no bread, yet I was not hungry, and I drank no water, yet I thirsted not, and I was there till the seventh day, as He had commanded me.
 
@@ -291,13 +298,13 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[21:5]** Thou that hast commanded the air by Thy nod, and hast seen those things which are to be as those things which Thou art doing.
 
-**[21:6]** Thou that rulest with great thought the hosts that stand before Thee: (yea) rulest with indignation the holy living creatures, who are without number, which Thou didst make from the beginning, of flame and fire, which stand around Thy throne.
+**[21:6]** Thou that rulest with great thought the powers that stand before Thee: (yea) rulest with indignation the holy living creatures, who are without number, which Thou didst make from the beginning, of flame and fire, which stand around Thy throne.
 
 **[21:7]** To Thee only does this belong that Thou shouldst do forthwith whatsoever Thou dost wish.
 
-**[21:8]** Who causest the drops of rain to rain by number upon the earth, and alone knowest the consummation of the times before they come; have respect unto my prayer.
+**[21:8]** Who causest the drops of rain to rain by number upon the earth, and alone knowest the consummation of the times before they come: have respect unto my prayer.
 
-**[21:9]** For Thou alone art able to sustain all who are, and those who have passed away, and those who are to be, those who sin, and those who are righteous [as living (and) being past finding out].
+**[21:9]** For Thou alone art able to sustain all who are, and those who pass away, and those who are to be, those who sin, and those who are righteous [as living (and) being past finding out].
 
 **[21:10]** For Thou alone dost live immortal and past finding out, and knowest the number of mankind.
 
@@ -311,7 +318,7 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[21:15]** For the nature of man is always changeable.
 
-**[21:16]** For we have by no means been frm the beginning what we now are, and what we now are we shall not afterwards remain.
+**[21:16]** For we have by no means been from the beginning what we now are, and what we now are we shall not afterwards remain.
 
 **[21:17]** For if a consummation had not been prepared for all, in vain would have been their beginning.
 
@@ -319,9 +326,9 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[21:19]** How long will that which is corruptible remain, and how long will the time of mortals be prospered, and until what time will those who transgress in the world be polluted with much wickedness?
 
-**[21:20]** Command therefore in mercy and accomplish all that Thou saidst Thou wouldst bring, that Thy might may be made known to those who think that Thy long-suffering is weakness.
+**[21:20]** Command therefore in mercy, and accomplish all that Thou saidst Thou wouldst bring, that Thy might may be made known to those who think that Thy long-suffering is weakness.
 
-**[21:21]** And show to those who know not, and let them see that it has befallen us and our city until now has been according to the long-suffering of Thy power, because on account of Thy name Thou hast called us a beloved people.
+**[21:21]** And show to those who know not, and let them see that it has befallen us and our city until now according to the long-suffering of Thy power, because on account of Thy name Thou hast called us a beloved people.
 
 **[21:22]** Every nature therefore from this onward is mortal.
 
@@ -329,13 +336,14 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[21:24]** For there have been many years like those that are desolate from the days of Abraham and Isaac and Jacob, and of all those who are like them, who sleep in the earth, on whose account Thou didst say that Thou hadst created the world.
 
-**[21:25]** And now quickly show Thy glory, and do not defer what has been promised by Thee.'
+**[21:25]** And now quickly show Thy glory, and do not defer what has been promised by Thee."
 
-**[21:26]** And it came to pass that when I had completed the words of this prayer I was greatly weakened.
+**[21:26]** And it came to pass that when I had completed the words of this prayer that I was greatly weakened.
+
 
 **[22:1]** And it came to pass after these things that lo! the heavens were opened, and I saw, and power was given to me, and a voice was heard from on high, and it said unto me:
 
-**[22:2]** 'Baruch, Baruch, why art thou troubled?
+**[22:2]** "Baruch, Baruch, why art thou troubled?
 
 **[22:3]** He who travels by a road but does not complete it, or who departs by sea but does not arrive at the port, can he be comforted?
 
@@ -347,13 +355,14 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[22:7]** Or a woman who has conceived, if she bring forth untimely, does she not assuredly slay her infant?
 
-**[22:8]** Or he who builds a house, if he does not roof it and complete it, can it be called a house? Tell me that first.'
+**[22:8]** Or he who builds a house, if he does not roof it and complete it, can it be called a house? Tell me that first."
+
 
 **[23:1]** And I answered and said: 'Not so, O LORD, my Lord.'
 
 **[23:2]** And He answered and said unto me: "Why therefore art thou troubled about that which thou knowest not, and why art thou ill at ease about things in which thou art ignorant?
 
-**[23:3]** For as thou hast not forgotten the people who now are and those who have passed away, so I remember those who are appointed to come.
+**[23:3]** For as thou hast not forgotten the people who now are and those who have passed away, so I remember those who are remembered, and those who are to come.
 
 **[23:4]** Because when Adam sinned and death was decreed against those who should be born, then the multitude of those who should be born was numbered, and for that number a place was prepared where the living might dwell and the dead might be guarded.
 
@@ -363,13 +372,15 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[23:7]** For truly My redemption has drawn nigh, and is not far distant as aforetime.
 
+
 **[24:1]** For behold! the days come and the books will be opened in which are written the sins of all those who have sinned, and again also the treasuries in which the righteousness of all those who have been righteous in creation is gathered.
 
 **[24:2]** For it will come to pass at that time that thou shalt see - and the many that are with thee -the long-suffering of the Most High, which has been throughout all generations, who has been long-suffering towards those born that sin and are righteous."
 
-**[24:3]** And I answered and said: 'But, behold! O Lord, no one knows the number of those things which have passed nor yet of those things which are to come.
+**[24:3]** And I answered and said: "But, behold! O Lord, no one knows the number of those things which have passed nor yet of those things which are to come.
 
-**[24:4]** For I know indeed that which has befallen us, but what will happen to our enemies I know not, and when Thou wilt visit Thy works.'
+**[24:4]** For I know indeed that which has befallen us, but what will happen to our enemies I know not, and when Thou wilt visit Thy works."
+
 
 **[25:1]** And He answered and said unto me: "Thou too shalt be kept safely till that time till that sign which the Most High will work for the inhabitants of the earth in the end of days.
 
@@ -379,7 +390,9 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[25:4]** And it will come to pass when they say in their thoughts by reason of their much tribulation: 'The Mighty One doth no longer remember the earth'-- yea, it will come to pass when they abandon hope, that the time will then awake."
 
-**[26:1]** And I answered and said: 'Will that tribulation which is to be continue a long time, and will that necessity embrace many years?'
+
+**[26:1]** And I answered and said: "Will that tribulation which is to be continue a long time, and will that necessity embrace many years?"
+
 
 **[27:1]** And He answered and said unto me: 'Into twelve parts is that time divided, and each one of them is reserved for that which is appointed for it.
 
@@ -397,25 +410,28 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[27:8]** [Wanting]
 
-**[27:9]** And in the ninth part the fall of fire. 
+**[27:9]** And in the eighth part a multitude of porents and incursions of the Shedim.
 
-**[27:10]** And in the tenth part rapine and much oppression.
+**[27:10]** And in the ninth part the fall of fire.
 
-**[27:11]** And in the eleventh part wickedness and unchastity.
+**[27:11]** And in the tenth part rapine and much oppression. 
 
-**[27:12]** And in the twelfth part confusion from the mingling together of all those things aforesaid.
+**[27:12]** And in the eleventh part wickedness and unchastity.
 
-**[27:13]** For these parts of that time are reserved, and shall be mingled one with another and minister one to another.
+**[27:13]** And in the twelfth part confusion from the mingling together of all those things aforesaid.
 
-**[27:14]** For some will of themselves be of service, and they will receive from others, and from themselves and others they will be perfected, so that those may not understand who are upon the earth in those days of this consummation of the times.
+**[27:14]** For these parts of that time are reserved, and will be mixed one with another and will minister one to another.
 
-**[28:1]** 'Nevertheless, whosoever shall understand will then be wise.
+**[27:15]** For some will of themselves be of service, and they will receive from others, and from themselves and others they will be perfected, so that those may not understand who are upon the earth in those days of this consummation of the times."
 
-**[28:2]** For the measure and reckoning of that time are two parts week of seven weeks.'
+
+**[28:1]** "Nevertheless, whosoever shall understand will then be wise.
+
+**[28:2]** For the measure and reckoning of that time are two parts weeks of seven weeks."
 
 **[28:3]** And I answered and said: "It is good for a man to come and behold, but it is better that he should not come lest he fall.
 
-**[28:4]** [But I will say this also:
+**[28:4]** [But I will say this also.
 
 **[28:5]** 'Will he who is incorruptible despise those things which are corruptible, and whatever befalls in the case of those things which are corruptible, so that he might look only to those things which are not corruptible?']
 
@@ -423,13 +439,14 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[28:7]** Is it in one place or in one of the parts of the earth that those things are come to pass, or will the whole earth experience (them)?"
 
+
 **[29:1]** And He answered and said unto me: "Whatever will then befall will belong the whole earth; therefore all who live will experience (them).
 
 **[29:2]** For at that time I will protect only those who are found in those self-same days in this land.
 
 **[29:3]** And it will come to pass when all is accomplished that was to come to pass in those parts, that the Messiah will then begin to be revealed.
 
-**[29:4]** And Behemoth shall be revealed from his place and Leviathan shall ascend from the sea, those two great monsters which I created on the fifth day of creation, and I kept until that time; and then they will be for food for all that are left.
+**[29:4]** And Behemoth shall be revealed from his place and Leviathan will ascend from the sea, those two great monsters which I created on the fifth day of creation, and I kept until that time; and then they will be for food for all that are left.
 
 **[29:5]** The earth also shall yield its fruit ten thousandfold, and one vine there shall be a thousand branches, and each branch shall produce a thousand clusters, and each cluster produce a thousand grapes, and each grape produce a cor of wine.
 
@@ -437,7 +454,8 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[29:7]** For winds shall go forth from before Me to bring every morning the fragrance of aromatic fruits, and at the close of the day clouds distilling the dew of health.
 
-**[29:8]** And it shall come to pass at that self-same time that the treasury of manna shall again descend from on high, and they will eat of it in those years, because these are they who have come to the consummation of time.
+**[29:8]** And it willcome to pass at that self-same time that the treasury of manna shall again descend from on high, and they will eat of it in those years, because these are they who have come to the consummation of time.
+
 
 **[30:1]** And it will come to pass after these things, when the time of the advent of the Messiah is fulfilled, that He will return in glory, then all who have fallen asleep in hope of Him shall rise again.
 
@@ -448,6 +466,7 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 **[30:4]** But the souls of the wicked, when they behold all these things, shall then waste away the more.
 
 **[30:5]** For they will know that their torment has come and their perdition has arrived."
+
 
 **[31:1]** And it came to pass after these things that I went to the people and said unto them: 'Assemble unto me all your elders and I will speak words unto them.'
 
