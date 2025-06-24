@@ -449,17 +449,18 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[30:5]** For they will know that their torment has come and their perdition has arrived."
 
-**[31:1]** And it came to pass after these things that I went to the people and said unto them: 'Assemble unto me all your elders and I will speak words unto them.'
+**[31:1]** And it came to pass after these things that I went to the people and said unto them: "Assemble unto me all your elders and I will speak words unto them."
 
 **[31:2]** And they all assembled in the valley of the Cedron.
 
-**[31:3]** And I answered and said unto them: "Hear, O Israel, and I will speak to thee, And give ear, O seed of Jacob, and I will instruct thee.
+**[31:3]** And I answered and said unto them: "Hear, O Israel, and I will speak to thee, and give ear, O seed of Jacob, and I will instruct thee.
 
 **[31:4]** Forget not Zion, but hold in remembrance the anguish of Jerusalem.
 
-**[31:5]** For lo! the days come, when everything that exists will become the prey of corruption and be as though it had not been.
+**[31:5]** For lo! the days come, when everything that exists will become the prey of corruption and be as though it had not been."
 
-**[32:1]** 'But ye, if ye prepare your hearts, so as to sow in them the fruits of the law, it will protect you in that time in which the Mighty One is to shake the whole creation.
+
+**[32:1]** "But ye, if ye prepare your hearts, so as to sow in them the fruits of the law, it will protect you in that time in which the Mighty One is to shake the whole creation.
 
 **[32:2]** [Because after a little time the building of Zion will be shaken in order that it may again be built.
 
@@ -475,15 +476,18 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[32:8]** And it came to pass when I had spoken to them all these words, that I, Baruch, went my way, and when the people saw me setting out, they lifted up their voice and lamented and said:
 
-**[32:9]** "Whither departest thou from us, Baruch, and forsakest us as a father who forsakes his orphan children, and departs from them?
+**[32:9]** "Whither departest thou from us, Baruch, and forsakest us as a father who forsakes his orphan children, and departs from them?"
+
 
 **[33:1]** "Are these the commands which thy companion, Jeremiah the prophet, commanded thee, and said unto thee:
 
-**[33:2]** "Look to this people till I go and make ready the rest of the brethren in Babylon, against whom has gone forth the sentence that they should be led into captivity"?
+**[33:2]** "Look to this people till I go and confirm the rest of the brethren in Babylon, against whom has gone forth the sentence that they should be led into captivity'?
 
 **[33:3]** And now if thou also forsakest us, it were good for us all to die before thee, and then that thou shouldst withdraw from us."
 
+
 **[34:4]** And I answered and said unto the people: "Far be it from me to forsake you or to withdraw from you, but I will only go unto the Holy of Holies to inquire of the Mighty One concerning you and concerning Zion, if in some respect I should receive more illumination: and after these things I will return to you."
+
 
 **[35:1]** And I, Baruch, went to the holy place, and sat down upon the ruins and wept, and said:
 
@@ -491,9 +495,10 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[35:3]** For how shall I lament for Zion, and how shall I mourn for Jerusalem?
 
-**[35:4]** Because in that place where I am now prostrate, Of old the high priest used to offer holy sacrifices, and to place thereon the smoke of thea incense of fragrant odours.
+**[35:4]** Because in that place where I am now prostrate, of old the high priest used to offer holy sacrifices, and to place thereon the smoke of thea incense of fragrant odours.
 
-**[35:5]** But now our glorying has been made into dust, and the desire of our soul into sand.'
+**[35:5]** But now our glorying has been made into dust, and the desire of our soul into sand."
+
 
 **[36:1]** And when I had said these things I fell asleep there, and I saw a vision in the night.
 
@@ -513,21 +518,23 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[36:9]** But now thy time has sped and thy hour is come.
 
-**[36:10]** Do thou also therefore depart O cedar, after the forest. which departed before thee, and become dust with it, and let your ashes be mingled together,
+**[36:10]** Do thou also therefore depart O cedar, after the forest, which departed before thee, and become dust with it, and let your ashes be mingled together,
 
 **[36:11]** And now recline in anguish and rest in torment till thy last time come, in which thou wilt come again, and be tormented still more."
 
-**[37:12]** And after these things I saw that cedar burning, and the vine glowing, itself and all around it, the plain full of unfading flowers. 
+**[37:1]** And after these things I saw that cedar burning, and the vine growing, itself and all around it, the plain full of unfading flowers. 
 
-**[37:13]** And I indeed awoke and arose.
+**[37:2]** And I indeed awoke and arose.
 
-**[38:1]** And I prayed and said: 'O LORD, my Lord, Thou dost always enlighten those who are led by understanding.
+
+**[38:1]** And I prayed and said: "O LORD, my Lord, Thou dost always enlighten those who are led by understanding.
 
 **[38:2]** Thy law is life, and Thy wisdom is right guidance.
 
 **[38:3]** Make known to me therefore the interpretation of this vision.
 
-**[38:4]** For Thou knowest that my soul hath always walked in Thy law, and from my (earliest) days I departed not from Thy wisdom.'
+**[38:4]** For Thou knowest that my soul hath always walked in Thy law, and from my (earliest) days I departed not from Thy wisdom."
+
 
 **[39:1]** And He answered and said unto me: "This is the interpretation of the vision which thou hast seen.
 
@@ -541,17 +548,19 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[39:6]** And by it the truth will be hidden, and all those who are polluted with iniquity will flee to it, as evil beasts flee and creep into the forest.
 
-**[39:7]** And it will come to pass when the time of its consummation that he should fall has approached, then the principate of My Messiah will be revealed, which is like the fountain and the vine, and when it is revealed it will root out the multitude of its host.
+**[39:7]** And it will come to pass when the time of his consummation that he should fall has approached, then the principate of My Messiah will be revealed, which is like the fountain and the vine, and when it is revealed it will root out the multitude of its host.
 
-**[39:8]** And that which thou hast seen, the lofty cedar, which was left of that forest, and with regard to this fact, that the vine spoke those words with it which thou didst hear, this is the word.
+**[39:8]** And that which thou hast seen, the lofty cedar, which was left of that forest, and with regard to this fact, that the vine spoke those words with it which thou didst hear, this is the word."
 
-**[40:1]** The last leader of that time will be left alive, when the multitude of his hosts will be put to the sword and be bound, and they will take him up to Mount Zion, and My Messiah will convict him of all his impieties, and will gather and set before him all the works of his hosts.
+
+**[40:1]** "The last leader of that time will be left alive, when the multitude of his hosts will be put to the sword and be bound, and they will take him up to Mount Zion, and My Messiah will convict him of all his impieties, and will gather and set before him all the works of his hosts.
 
 **[40:2]** And afterwards he will put him to death, and protect the rest of My people which shall be found in the place which I have chosen.
 
 **[40:3]** And his principate will stand for ever, until the world of corruption is at an end, and until the times aforesaid are fulfilled.
 
 **[40:4]** This is thy vision, and this is its interpretation."
+
 
 **[41:1]** And I answered and said: "To whom will these things be, or how many (will they be)? or who will be worthy to live at that time?
 
@@ -565,9 +574,10 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[41:6]** Or perhaps the time of these will assuredly be weighed, and as the beam inclines will they be judged accordingly?"
 
-**[42:1]** And He answered and said unto me:
 
-**[42:2]** "These things also will I show unto thee. As for what thou didst say -- 'To whom will these things be, and how many (will they be)?'- to those who have believed there will be the good which was spoken of aforetime, and to those who despise there shall be the contrary of these things.
+**[42:1]** And He answered and said unto me: "These things also I will show unto thee.
+
+**[42:2]** As for what thou didst say -- 'To whom will these things be, and how many (will they be)?'- to those who have believed there will be the good which was spoken of aforetime, and to those who despise there shall be the contrary of these things.
 
 **[42:3]** And as for what thou didst say regarding those who have drawn near and those who have withdrawn, this is the word.
 
@@ -579,19 +589,21 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[42:7]** For corruption will take those that belong to it, and life those that belong to it.
 
-**[42:8]** And the dust will be called, and there will be said to it: "Give back that which is not thine, and raise up all that thou hast kept until its time."
+**[42:8]** And the dust will be called, and there will be said to it: 'Give back that which is not thine, and raise up all that thou hast kept until its time.'"
 
-**[43:1]** 'But, do thou, Baruch, strengthen thy heart to that which has been said to thee, and understand those things which have been shown to thee; For there are many eternal consolations for thee.
+
+**[43:1]** "Moreover, do thou, Baruch, strengthen thy heart for that which has been said to thee, and understand those things which have been shown to thee; For there are many eternal consolations for thee.
 
 **[43:2]** For thou wilt depart from this place, and thou wilt pass from the regions which are now seen by thee, and thou wilt forget whatever is corruptible, and wilt not again recall those things which happen among mortals.
 
 **[43:3]** Go therefore and command thy people, and come to this place, and afterwards fast seven days, and then I will come to thee and speak with thee."
 
+
 **[44:1]** And I, Baruch, went from thence, and came to my people, and I called my first-born son and the Gedaliahs my friends, and seven of the elders of the people, and I said unto them:
 
-**[44:2]** 'Behold, I go unto my fathers according to the way of all the earth.
+**[44:2]** "Behold, I go unto my fathers according to the way of all the earth.
 
-**[44:3]** But withdraw ye not from the way of the law, but guard and admonish the people which remain; Lest they withdraw from the commandments of the Mighty One.
+**[44:3]** But withdraw ye not from the way of the law, but guard and admonish the people which remain, lest they withdraw from the commandments of the Mighty One.
 
 **[44:4]** For ye see that He whom we serve is just, and our Creator is no respecter of persons.
 
@@ -603,11 +615,11 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[44:8]** Because whatever is now is nothing, but that which shall be is very great. 
 
-**[44:9]** For everything that is corruptible will pass away, and everything that dies will depart, and all the present time shall be forgotten, nor shall there be any remembrance of the present time, which is defiled with evils.
+**[44:9]** For everything that is corruptible will pass away, and everything that dies will depart, and all the present time will be forgotten, nor shall there be any remembrance of the present time, which is defiled with evils.
 
-**[44:10]** For that which runs now runs unto vanity, and that which prospers shall quickly fall and be humiliated.
+**[44:10]** For that which runs now runs unto vanity, and that which prospers will quickly fall and be humiliated.
 
-**[44:11]** For that which is to be shall be the object of desire, and on that which comes afterwards do we place hope; for it is a time that passes not away.
+**[44:11]** For that which is to be will be the object of desire, and on that which comes afterwards do we place our hope; for it is a time that passes not away.
 
 **[44:12]** And the hour comes which abides for ever, and the new world which does not turn to corruption those who depart to its blessedness, and has no mercy on those who depart to torment, and will not lead to perdition those who live in it.
 
@@ -615,11 +627,13 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[44:14]** These are they who have acquired for themselves treasures of wisdom, and with them are found stores of understanding, and from mercy have they not withdrawn, and the truth of the law have they preserved.
 
-**[44:15]** For to them shall be given the world to come, but the dwelling of the rest who are many shall be in the fire.'
+**[44:15]** For to them shall be given the world to come, but the dwelling of the rest who are many shall be in the fire."
 
-**[45:1]** 'Do ye therefore so far as ye are able instruct the people, for that labour is ours.
+
+**[45:1]** "Do ye therefore so far as ye are able instruct the people, for that labour is ours.
 
 **[45:2]** For if ye teach them, ye will quicken them."
+
 
 **[46:1]** And my son and the elders of the people answered and said unto me: "Has the Mighty One humiliated us to such a degree as to take thee from us quickly?
 
@@ -631,13 +645,15 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[46:5]** But only prepare ye your hearts, that ye may hear the law, and be subject to those who in fear are wise and understanding; and prepare your souls that ye may not depart from them.
 
-**[46:6]** For if ye do these things, good tidings will come unto you. Which I before told you of; nor shall ye fall into the torment, of which I testified to you before."
+**[46:6]** For if ye do these things, good tidings will come unto you, which I before told you of; nor will ye fall into the torment, of which I testified to you before."
 
 [**[46:7]** But with regard to the word that I was to be taken, I did not make (it) known to them or to my son.]
+
 
 **[47:1]** And when I had gone forth and dismissed them, I went thence and said unto them: "Behold! I go to Hebron: for thither the Mighty One hath sent me."
 
 **[47:2]** And I came to that place where the word had been spoken unto me, and I sat there, and fasted seven days.
+
 
 **[48:1]** And it came to pass after the seventh day, that I prayed before the Mighty One and said:
 
@@ -665,7 +681,7 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[48:13]** But with Thee hours are as a time, and days as generations.
 
-**[48:14]** Be not therefore wroth with man; for he is nothing And take not account of our works; 
+**[48:14]** Be not therefore wroth with man; for he is nothing and take not account of our works; 
 
 **[48:15]** For what are we? For lo! by Thy gift do we come into the world, and we depart not of our own will.
 
@@ -699,23 +715,23 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[48:30]** Therefore thou shalt surely be taken up, as I before told thee.
 
-**[48:31]** For that time shall arise which brings affliction; for it shall come and pass by with quick vehemence, and it will be turbulent coming in the heat of indignation.
+**[48:31]** For that time will arise which brings affliction; for it shall come and pass by with quick vehemence, and it will be turbulent coming in the heat of indignation.
 
-**[48:32]** And it shall come to pass in those days that all the inhabitants of the earth shall be moved one against another, because they know not that My judgement has drawn nigh.
+**[48:32]** And it will come to pass in those days that all the inhabitants of the earth shall be moved one against another, because they know not that My judgement has drawn nigh.
 
 **[48:33]** For there will not be found many wise at that time, and the intelligent will be but a few: moreover, even those who know will most of all be silent.
 
-**[48:34]** And there will be many rumours and tidings not a few, and the works of portents shall be manifest, and promises not a few be recounted, and some of them (will prove) idle, and some of them shall be confirmed.
+**[48:34]** And there will be many rumours and tidings not a few, and the works of portents will be shown, and promises not a few be recounted, and some of them (will prove) idle, and some of them shall be confirmed.
 
-**[48:35]** And honour will be turned into shame, and strength humiliated into contempt, and probity destroyed, And beauty will become a scorn.
+**[48:35]** And honour will be turned into shame, and strength humiliated into contempt, and probity destroyed, and beauty will become a scorn.
 
 **[48:36]** And many will say to many at that time: 'Where hath the multitude of intelligence hidden itself, and whither hath the multitude of wisdom removed itself?'
 
-**[48:37]** And whilst they are meditating these things, then zeal will arise in those of whom they thought not, and passion will seize him who is peaceful, and many shall be roused in anger to injure many, and they shall rouse up armies in order to shed blood, and in the end they shall perish together with them.
+**[48:37]** And whilst they are meditating these things, then zeal will arise in those of whom they thought not, and passion will seize him who is peaceful, and many will be roused in anger to injure many, and they shall rouse up armies in order to shed blood, and in the end they shall perish together with them.
 
 **[48:38]** And it will come to pass at the self-same time, that a change of times shall manifestly appear to every man, by reason of which in all those times they were polluted and practised oppression, and walked every man in his own works, and remembered not the law of the Mighty One.
 
-**[48:39]** Therefore a fire shall consume their thoughts, and in flame shall the meditations of their reins be tried; for the Judge will come and will not tarry.
+**[48:39]** Therefore a fire will consume their thoughts, and in flame will the meditations of their reins be tried; for the Judge will come and will not tarry.
 
 **[48:40]** Because each of the inhabitants of the earth knew when he was commiting iniquty, and they have not known My law by reason of their pride.
 
@@ -731,7 +747,7 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[48:46]** For Thou didst of old command the dust to produce Adam, and Thou knowest the number of those who are born from him, and how far they have sinned before Thee, who have existed and not confessed Thee as their Creator.
 
-**[48:47]** And as regards all these their end shall convict them, and Thy law which they have transgressed shall requite them on Thy day.
+**[48:47]** And as regards all these their end will convict them, and Thy law which they have transgressed shall requite them on Thy day.
 
 [**[48:48]** But now let us dismiss the wicked and enquire about the righteous.
 
@@ -739,19 +755,22 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[48:50]** For assuredly as in a little time in this world which passeth away, in which ye live, ye have endured much labour, so in that world to which there is no end, ye shall receive great light."]
 
-**[49:1]** Nevertheless, I will again ask from Thee, O Mighty One, yea, I will ask mercy from Him who made all things.
+
+**[49:1]** "Nevertheless, I will again ask from Thee, O Mighty One, yea, I will ask mercy from Him who made all things.
 
 **[49:2]** 'In what shape will those live who live in Thy day? or how will the splendour of those who (are) after that time continue?
 
-**[49:3]** Will they then resume this form of the present, and put on these entrammelling members, which are now involved in evils, and in which evils are consummated, or wilt Thou perchance change these things which have been in the world, as also the world?' 
+**[49:3]** Will they then resume this form of the present, and put on these entrammelling members, which are now involved in evils, and in which evils are consummated, or wilt Thou perchance change these things which have been in the world, as also the world?'"
+
 
 **[50:1]** And He answered and said unto me: "Hear, Baruch, this word, and write in the remembrance of thy heart all that thou shalt learn.
 
-**[50:2]** For the earth shall then assuredly restore the dead, which it now receives, in order to preserve them, making no change in their form, but as it has received, so shall it restore them, and as I delivered them unto it, so also shall it raise them.
+**[50:2]** For the earth will then assuredly restore the dead, which it now receives, in order to preserve them, making no change in their form, but as it has received, so shall it restore them, and as I delivered them unto it, so also shall it raise them.
 
 **[50:3]** For then it will be necessary to show to the living that the dead have come to life again, and that those who had departed have returned (again).
 
-**[50:4]** And it shall come to pass, when they have severally recognized those whom they now know, then judgement will grow strong, and those things which before were spoken of will come.
+**[50:4]** And it shall come to pass, when they have severally recognized those whom they now know, then judgement will grow strong, and those things which before were spoken of will come."
+
 
 **[51:1]** "And it will come to pass, when that appointed day has gone by, that then shall the aspect of those who are condemned be afterwards changed, and the glory of those who are justified.
 
@@ -785,6 +804,7 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[51:16]** For then they chose (not) for themselves that time, which, beyond the reach of anguish, could not pass away, and they chose for themselves that time, whose issues are full of lamentations and evils, and they denied the world which ages not those who come to it, and they rejected the time of the glory, so that they shall not come to the honour of which I told thee before."
 
+
 **[52:1]** And I answered and said: "How do those who forget those for whom woe is then reserved?
 
 **[52:2]** And why therefore do we again mourn for those who die? or why do we weep for those who depart to Sheol?
@@ -798,6 +818,7 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 **[52:6]** Rejoice ye in the suffering which ye now suffer: for why do ye look for the decline of your enemies?
 
 **[52:7]** Make ready your soul for that which is reserved for you, and prepare your souls for the reward which is laid up for you."]
+
 
 **[53:1]** And when I had said these things I fell asleep there, and I saw a vision, and lo! a cloud was ascending from a very great sea, and I kept gazing upon it, and lo! it was full of waters white and black, and there were many colours in those self-same waters, and as it were the likeness of great lightning was seen at its summit.
 
@@ -823,7 +844,8 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[53:12]** And by reason of my fear I awoke.
 
-**[54:1]** And I besought the Mighty One, and said: "Thou alone, O Lord, knowest of aforetime the deep things of the world, and the things which befall in their times Thou bringest about by Thy word, And against the works of the inhabitants of the earth Thou dost hasten the beginnings of the times, and the end of the seasons Thou alone knowest.
+
+**[54:1]** And I besought the Mighty One, and said: "Thou alone, O Lord, knowest of aforetime the deep things of the world, and the things which befall in their times Thou bringest about by Thy word, and against the works of the inhabitants of the earth Thou dost hasten the beginnings of the times, and the end of the seasons Thou alone knowest.
 
 **[54:2]** For whom nothing is too hard, but Thou doest everything easily by a nod:
 
@@ -855,9 +877,9 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 [**[54:16]** For assuredly he who believeth will receive reward.
 
-**[54:17]** But now, as for you, ye wicked that now are, turn ye to destruction, because ye will speedily be visited, in that formerly ye rejected the understanding of the Most High.
+**[54:17]** But now, as for you, ye wicked that now are, turn ye to destruction, because ye will speedily be visited, in that from time to time ye rejected the understanding of the Most High.
 
-**[54:18]** For His works have not taught you, Nor has the skill of His creation which is at all times persuaded you.]
+**[54:18]** For His works have not taught you, nor has the skill of His creation which is at all times persuaded you.]
 
 **[54:19]** Adam is therefore not the cause, save only of his own soul, but each of us has been the Adam of his own soul.
 
@@ -865,7 +887,8 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[54:21]** For at the consummation of the world there will be vengeance taken upon those who have done wickedness according to their wickedness, and Thou wilt glorify the faithful according to their faithfulness.
 
-**[54:22]** For those who are amongst Thine own Thou rulest, And those who sin Thou blottest out from amongst Thine own."
+**[54:22]** For those who are amongst Thine own Thou rulest, and those who sin Thou blottest out from amongst Thine own."
+
 
 **[55:1]** And it came to pass when I had finished speaking the words of this prayer, that I sat there under a tree, that I might rest in the shade of the branches.
 
