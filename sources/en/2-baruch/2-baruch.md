@@ -875,7 +875,7 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[55:4]** Why does thy heart trouble thee, Baruch, and why does thy thought disturb thee?
 
-**[55:5]** For if owing to the report which thou hast only heard of judgement thou art so moved, What (wilt thou be) when thou shalt see it manifestly with thine eyes?
+**[55:5]** For if by the hear-say which thou hast heard of judgement thou art so moved, what (wilt thou be) when thou shalt see it manifestly with thine eyes?
 
 **[55:6]** And if with the expectation wherewith thou dost expect the day of the Mighty One thou art so overcome, what (wilt thou be) when thou shalt come to its advent?
 
@@ -883,7 +883,8 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[55:8]** And if thou hast heard tidings of the good and evil things which are then coming and art grieved, what (wilt thou be) when thou shalt behold what the majesty will reveal, which shall convict these and cause those to rejoice?
 
-**[56:1]** Nevertheless, because thou hast besought the Most High to reveal to thee the interpretation of the vision which thou hast seen, I have been sent to tell thee.
+
+**[56:1]** Nevertheless, because thou hast besought the Most High to reveal to thee the interpretation of the vision which thou hast seen, I have been sent to say to thee.
 
 **[56:2]** And the Mighty One hath assuredly made known to thee the methods of the times that have passed, and of those that are destined to pass in His world from the beginning of its creations even unto its consummation, of those things which (are) deceit and of those which (are) in truth.
 
@@ -893,7 +894,7 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[56:5]** And as thou didst previously see on the summit of the cloud black waters which descended previously on the earth, this is the transgression wherewith Adam the first man transgressed.
 
-**[56:6]** For owing to his transgression untimely death came into being, and grief was named and anguish was prepared, and pain was created, and trouble perfected, And boasting began to be established, And Sheol to demand that it should be renewed in blood, and the begetting of children was brought about, and the passion of parents produced, and the greatness of humanity was humiliated, and goodness languished.
+**[56:6]** For owing to his transgression untimely death came into being, and grief was named and anguish was prepared, and pain was created, and trouble perfected, and boasting began to be established, and Sheol to demand that it should be renewed in blood, and the begetting of children was brought about, and the passion of parents produced, and the greatness of humanity was humiliated, and goodness languished.
 
 **[56:7]** What therefore can be blacker or darker than these things?
 
@@ -913,17 +914,20 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[56:15]** And those who dwelt on the earth perished together (with them) through the waters of the deluge.
 
-**[56:16]** These are the black first waters.
+**[56:16]** These are the black first waters."
+
 
 **[57:1]** "And after these (waters) thou didst see bright waters: this is the fount of Abraham, also his generations and advent of his son, and of his son's son, and of those like them.
 
 **[57:2]** Because at that time the unwritten law was named amongst them, and the works of the commandments were then fulfilled, and belief in the coming judgement was then generated, and hope of the world that was to be renewed was then built up, and the promise of the life that should come hereafter was implanted.
 
-**[57:3]** These are the bright waters, which thou hast seen.
+**[57:3]** These are the bright waters, which thou hast seen."
+
 
 **[58:1]** "And the black third waters which thou hast seen, these are the mingling of all sins, which the nations afterwards wrought after the death of those righteous men, and the wickedness of the land of Egypt, wherein they did wickedly in the service wherewith they made their sons to serve.
 
 **[58:2]** Nevertheless, these also perished at last.
+
 
 **[59:1]** "And the bright fourth waters which thou hast seen are the advent of Moses and Aaron and Miriam and Joshua the son of Nun and Caleb and of all those like them.
 
@@ -931,7 +935,7 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[59:3]** But also the heavens at that time were shaken from their place, and those who were under the throne of the Mighty One were perturbed, when He was taking Moses unto Himself.
 
-**[59:4]** For He showed him many admonitions together with the principles of the law and the consummation of time, as also to thee, and likewise the pattern of Zion and its measures, which was made to be in the pattern of the sanctuary of the present time.
+**[59:4]** For He showed him many admonitions together with the principles of the laws and the consummation of time, as also to thee, and likewise the pattern of Zion and its measures, which was made to be in the pattern of the sanctuary of the present time.
 
 **[59:5]** But then also He showed to him the measures of the fire, also the depths of the abyss, and the weight of the winds, and the number of the drops of rain.
 
@@ -947,11 +951,13 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[59:11]** And the likeness of future torment, and the multitude of innumerable angels, and the powers of the flames, and the splendour of the lightnings, and the voice of the thunders, and the orders of the chiefs of the angels, and the treasuries of light, and the changes of the times, and the investigations of the law.
 
-**[59:12]** These are the bright fourth waters which thou hast seen.
+**[59:12]** These are the bright fourth waters which thou hast seen."
+
 
 **[60:1]** "And the black fifth waters which thou hast seen raining are the works which the Amorites wrought, and the spells of their incantations which they wrought, and the wickedness of their mysteries, and the mingling of their pollution.
 
 **[60:2]** But even Israel was then polluted by sins in the days of the judges, though they saw many signs which were from Him who made them.
+
 
 **[61:1]** "And the bright sixth waters which thou didst see, this is the time in which David and Solomon were born.
 
@@ -967,7 +973,8 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[61:7]** And because the land was then beloved at that time, and because its inhabitants sinned not, it was glorified beyond all lands, and the city Zion ruled then over all lands and regions.
 
-**[61:8]** These are the bright waters which thou hast seen.
+**[61:8]** These are the bright waters which thou hast seen."
+
 
 **[62:1]** "And the black seventh waters which thou bast seen, this is the perversion (brought about) by the counsel of Jeroboam, who took counsel to make two calves of gold.
 
@@ -983,7 +990,8 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[62:7]** But regarding the Gentiles it were tedious to tell how they always wrought impiety and wickedness, and never wrought righteousness.
 
-**[62:8]** These are the black seventh waters which thou hast seen.
+**[62:8]** These are the black seventh waters which thou hast seen."
+
 
 **[63:1]** "And the bright eighth waters which thou hast seen, this is the rectitude and uprightness of Hezekiah king of Judah and the benignity which came upon him.
 
@@ -1005,7 +1013,8 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[63:10]** And all those who were in the holy land rejoiced, and the name of the Mighty One was glorified so that it was spoken of.
 
-**[63:11]** These are the bright waters which thou hast seen.
+**[63:11]** These are the bright waters which thou hast seen."
+
 
 **[64:1]** "And the black ninth waters which thou hast seen, this is all the wickedness which was in the days of Manasseh the son of Hezekiah.
 
@@ -1019,17 +1028,19 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[64:6]** And to such a degree did the impiety of Manasseh increase, that it removed the praise of the Most High from the sanctuary.
 
-**[64:7]** On this account Manasseh was at that time named "the impious", and finally his abode was in the fire.
+**[64:7]** On this account Manasseh was at that time named 'the impious', and finally his abode was in the fire.
 
 **[64:8]** For though his prayer was heard with the Most High, finally, when he was cast into the brazen horse and the brazen horse was melted, it served as a sign unto him at the time.
 
 **[64:9]** For he had not lived perfectly, for he was not worthy- but that thenceforward he might know by whom finally he should be tormented.
 
-**[64:10]** For he who is able to benefit is also able to torment.
+**[64:10]** For he who is able to benefit is also able to torment."
 
-**[65:1]** Thus, moreover, did Manasseh act impiously, and thought that in his time the Mighty One would not inquire into these things.
 
-**[65:2]** These are the black ninth waters which thou hast seen.
+**[65:1]** "Thus, moreover, did Manasseh act impiously, and thought that in his time the Mighty One would not inquire into these things.
+
+**[65:2]** These are the black ninth waters which thou hast seen."
+
 
 **[66:1]** "And the bright tenth waters which thou hast seen: this is the purity of the generations of Josiah king of Judah, who was the only one at the time who submitted himself to the Mighty One with all his heart and with all his soul.
 
@@ -1045,13 +1056,14 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[66:7]** For on his account and on account of those who are like him were the inestimable glories, of which thou wast told before, created and prepared.
 
-**[66:8]** These are the bright waters which thou hast seen.
+**[66:8]** These are the bright waters which thou hast seen."
+
 
 **[67:1]** "And the black eleventh waters which thou hast seen: this is the calamity which is now befalling Zion.
 
 **[67:2]** Dost thou think that there is no anguish to the angels in the presence of the Mighty One, that Zion was so delivered up, and that lo! the Gentiles boast in their hearts, and assemble before their idols and say, 'She is trodden down who ofttimes trod down, and she has been reduced to servitude who reduced (others)'?
 
-**[67:3]** Dost thou think that in these things the Most High rejoices, Or that His name is glorified?
+**[67:3]** Dost thou think that in these things the Most High rejoices, or that His name is glorified?
 
 **[67:4]** But how will it serve towards His righteous judgement?
 
@@ -1063,7 +1075,8 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[67:8]** But he also shall fall at last.
 
-**[67:9]** These are the black waters.
+**[67:9]** These are the black waters."
+
 
 **[68:1]** "And the bright twelfth waters which thou hast seen: this is the word.
 
@@ -1079,7 +1092,8 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[68:8]** But it will come to pass after these things that there will be the fall of many nations.
 
-**[68:9]** These are the bright waters which thou hast seen.
+**[68:9]** These are the bright waters which thou hast seen."
+
 
 **[69:1]** "For the last waters which thou hast seen which were darker than all that were before them, those which were after the twelfth number, which were collected together, belong to the whole world.
 
@@ -1089,13 +1103,14 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[69:4]** And of the good works of the righteous which should be accomplished before Him, He foresaw six kinds of them, beyond those which He should work at the consummation of the age.
 
-**[69:5]** On his account there were not black waters with black, nor bright with bright; for it is the consummation.
+**[69:5]** On his account there were not black waters with black, nor bright with bright; for it is the consummation."
+
 
 **[70:1]** 'Hear therefore the interpretation of the last black waters which are to come [after the black]: this is the word.
 
-**[70:2]** Behold! the days come, and it shall be when the time of the age has ripened, and the harvest of its evil and good seeds has come, that the Mighty One will bring upon the earth and its inhabitants and upon its rulers perturbation of spirit and stupor of heart. 
+**[70:2]** Behold! the days come, and it will be when the time of the age has ripened, and the harvest of its evil and good seeds has come, that the Mighty One will bring upon the earth and its inhabitants and upon its rulers perturbation of spirit and stupor of heart. 
 
-*[70:3]** And they will hate one another, and provoke one another to fight, and the mean will rule over the honourable, and those of low degree shall be extolled above the famous.
+**[70:3]** And they will hate one another, and provoke one another to fight, and the mean will rule over the honourable, and those of low degree shall be extolled above the famous.
 
 **[70:4]** And the many will be delivered into the hands of the few, and those who are nothing will rule over the strong, and the poor shall have abundance beyond the rich, and the impious will exalt themselves above the heroic.
 
@@ -1109,13 +1124,15 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 [**[70:9]** And it shall come to pass that whosoever of the victors and the vanquished gets safe out of and escapes all these things aforesaid will be delivered into the hands of My servant Messiah.]
 
-**[70:10]** For all the earth will devour its inhabitants.
+**[70:10]** For all the earth will devour its inhabitants."
+
 
 **[71:1]** "And the holy land will have mercy on its own, and it will protect its inhabiters at that time.
 
 **[71:2]** This is the vision which thou hast seen, and this is the interpretation.
 
-**[71:3]** For I have come to tell thee these things, because thy prayer has been heard with the Most High.
+**[71:3]** For I have come to tell thee these things, because thy prayer has been heard with the Most High."
+
 
 **[72:1]** "Hear now also regarding the bright lightning which is to come at the consummation after these black (waters): this is the word.
 
@@ -1127,7 +1144,8 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[72:5]** And this because some out of every nation shall be subjected to thy people.
 
-**[72:6]** But all those who have ruled over you, or have known you, shall be given up to the sword.
+**[72:6]** But all those who have ruled over you, or have known you, shall be given up to the sword."
+
 
 **[73:1]** "And it will come to pass, when He has brought low everything that is in the world, and has sat down in peace for the age on the throne of His kingdom, that joy shall then be revealed, and rest appear.
 
@@ -1141,15 +1159,17 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[73:6]** And wild beasts will come from the forest and minister unto men, and asps and dragons will come forth from their holes to submit themselves to a little child.
 
-**[73:7]** And women shall no longer then have pain when they bear, nor will they suffer torment when they yield the fruit of the womb.
+**[73:7]** And women shall no longer then have pain when they bear, nor will they suffer torment when they yield the fruit of the womb."
 
-**[74:1]** And it will come to pass in those days that the reapers will not grow weary, nor those that build be toilworn; for the works will of themselves speedily advance with those who do them in much tranquillity.
+
+**[74:1]** "And it will come to pass in those days that the reapers will not grow weary, nor those that build be toilworn; for the works will of themselves speedily advance with those who do them in much tranquillity.
 
 **[74:2]** For that time is the consummation of that which is corruptible, and the beginning of that which is not corruptible.
 
 **[74:3]** Therefore those things which were predicted will belong to it: therefore it is far away from evils, and near to those things which die not.
 
 **[74:4]** This is the bright lightning which came after the last dark waters."
+
 
 **[75:1]** And I answered and said: "Who can understand, O Lord, Thy goodness? For it is incomprehensible.
 
@@ -1167,6 +1187,7 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[75:8]** But if now we know not wherefore we have come, and recognise not the principate of Him who brought us up out of Egypt, we shall come again and seek after those things which were now, and be grieved with pain because of those things which have befallen."
 
+
 **[76:1]** And He answered and said unto me: ["Inasmuch as the revelation of this vision has been interpreted to thee as thou besoughtest], hear the word of the Most High that thou mayest know what is to befall thee after these things.
 
 **[76:2]** For thou shalt surely depart from this earth, nevertheless not unto death but thou shalt be preserved unto the consummation of the times.
@@ -1177,15 +1198,16 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[76:5]** Go now therefore during these days and instruct the people so far as thou art able, that they may learn so as not to die at the last time, but may learn in order that they may live at the last times."
 
+
 **[77:1]** And I, Baruch, went thence and came to the people, and assembled them together from the greatest to the least, and said unto them:
 
 **[77:2]** "Hear, ye children of Israel, behold how many ye are who remain of the twelve tribes of Israel.
 
 **[77:3]** For to you and to your fathers the Lord gave a law beyond peoples.
 
-**[77:4]** And because your brethren transgressed the commandments of the Most High, He brought vengeance upon you and upon them, and He spared not the former, and the latter also He gave into captivity, and left not a residue of them,
+**[77:4]** And because your brethren transgressed the commandments of the Most High, He brought vengeance upon you and upon them, and He spared not the former, and the latter also He gave into captivity, and left not a residue of them.
 
-**[77:5]** But behold! ye are here with me.
+**[77:5]** And behold! ye are here with me.
 
 **[77:6]** If, therefore, ye direct your ways aright, ye also shall not depart as your brethren departed, but they will come to you.
 
@@ -1227,6 +1249,7 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[77:25]** And now let it not weary thee, and turn not to the right hand nor the left, but fly and go by a direct way, that thou mayst preserve the command of the Mighty One, according as I said unto thee."
 
+
 **[78:1]** These are the words of that epistle which Baruch the son of Neriah sent to the nine and a half tribes, which were across the river Euphrates, in which these things were written.
 
 **[78:2]** Thus saith Baruch the son of Neriah to the brethren carried into captivity:
@@ -1241,11 +1264,13 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[78:7]** For if ye so do these things, He will continually remember you, He who alway promised on our behalf to those who were more excellent than we, that He will never forget or forsake us, but with much mercy will gather together again those who were dispersed.
 
+
 **[79:1]** Now, my brethren, learn first what befell Zion: how that Nebuchadnezzar king of Babylon came up against us.
 
 **[79:2]** For we have sinned against Him who made us, and we have not kept the commandments which he commanded us, yet he hath not chastened us as we deserved.
 
 **[79:3]** For what befell you we also suffer in a pre-eminent degree, for it befell us also.
+
 
 **[80:1]** And now, my brethren, I make known unto you that when the enemy had surrounded the city, the angels of the Most High were sent, and they overthrew the fortifications of the strong wall, and they destroyed the firm iron corners, which could not be rooted out.
 
@@ -1261,13 +1286,15 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 
 **[80:7]** For assuredly I know that the habitation of Zion gave you consolation : so far as ye knew that it was prospered (your consolation) was greater than the tribulation which ye endured in having to depart from it.
 
+
 **[81:1]** But regarding consolation, hear ye the word.
 
 **[81:2]** For I was mourning regarding Zion, and I prayed for mercy from the Most High, and I said:
 
-**[81:3]** "How long will these things endure for us? And will these evils come upon us always?"
+**[81:3]** "How long will these things endure for us? and will these evils come upon us always?"
 
 **[81:4]** And the Mighty One did according to the multitude of His mercies, and the Most High according to the greatness of His compassion, and He revealed unto me the word, that I might receive consolation, and He showed me visions that I should not again endure anguish, and He made known to me the mystery of the times, and the advent of the hours He showed me.
+
 
 **[82:1]** Therefore, my brethren, I have written to you, that ye may comfort yourselves regarding the multitude of your tribulations.
 
@@ -1286,6 +1313,7 @@ and Thou hast said unto me, that the retribution, which has been spoken of by Th
 **[82:8]** And we consider the strength of their cruelty, though they remember not the end (thereof), but as a wave that passes will they be broken.
 
 **[82:9]** And we remark the boastfulness of their might, though they deny the beneficence of God, who gave (it) to them, but they will pass away as a passing cloud.
+
 
 [**[83:1]** For the Most High will assuredly hasten His times, and He will assuredly bring on His hours.
 
@@ -1333,7 +1361,8 @@ wi
 
 **[83:23]** But the consummation of all things will come to the truth.]
 
-**[84:1]** Behold! I have therefore made known unto you (these things) whilst I live: for I have said that ye should above all thngs learn the commandments of the Mighty One, wherein I shall instruct you; and I will set before you some of the commandments of His judgement before I die.
+
+**[84:1]** Behold! I have therefore made known unto you (these things) whilst I live: for I have said that ye should above all things learn the commandments of the Mighty One, wherein I shall instruct you; and I will set before you some of the commandments of His judgement before I die.
 
 **[84:2]** Remember that formerly Moses assuredly called heaven and earth to witness against you and said: "if ye transgress the law ye shall be dispersed, but if ye keep it ye shall be kept."
 
@@ -1355,9 +1384,10 @@ wi
 
 **[84:11]** For if He judge us not according to the multitude of His mercies, woe unto all us who are born.
 
-[**[85:1]** Know ye, moreover, that in former times and in the generations of old our fathers had helpers, Righteous men and holy prophets.
 
-**[85:2]** Nay more, we were in our own land and they helped us when we sinned, And they prayed for us with Him who made us, because they trusted in their works, and the Mighty One heard their prayer and was gracious us.
+[**[85:1]** Know ye, moreover, that in former times and in the generations of old our fathers had helpers, righteous men and holy prophets.
+
+**[85:2]** Nay more, we were in our own land and they helped us when we sinned, and they prayed for us with Him who made us, because they trusted in their works, and the Mighty One heard their prayer and was gracious us.
 
 **[85:3]** But now the righteous have been gathered and the prophets have fallen asleep, and we also have gone forth from the land, and Zion has been taken from us, and we have nothing now save the Mighty One and His law.
 
@@ -1385,11 +1415,13 @@ wi
 
 **[85:15]** Then He will preserve those whom He finds he may be gracious, and at the same time destroy those who are polluted with sins.]
 
+
 **[86:1]** When therefore ye receive this my epistle, read it in your congregations with care.
 
 **[86:2]** And meditate thereon, above all on the days of your fasts.
 
 **[86:3]** And bear me in mind by means of this epistle, as I also bear you in mind in it, and always fare ye well.
+
 
 **[87:1]** And it came to pass when I had ended all the words of this epistle, and had written it sedulously to its close, that I folded it, and sealed it carefully, and bound it to the neck of the eagle, and dismissed and sent it.
 
