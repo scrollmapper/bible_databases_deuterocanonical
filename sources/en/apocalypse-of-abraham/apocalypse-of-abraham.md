@@ -1,6 +1,9 @@
 # Apocalypse of Abraham
 
-**[1:1]** On the day when I planed the gods of my father Terah and the gods of Nahor his brother, when I was searching as to who the Mighty God in truth is. "This is the account of Terah. Terah became the father of Abram, Nahor, and Haran."
+ The Book of the Revelation of Abraham, the son of Terah, the son of Nahor, the son of Serug, the son of Roog (Reu), the son of Arphaxad, the son of Shem, the son of Noah, the son of Lamech, the son of Methuselah, the son of Enoch, the son of Jared (Arad). 
+
+
+**[1:1]** On the day when I planed the gods of my father Terah and the gods of Nahor his brother, when I was searching as to who the Mighty God in truth is-
 
 **[1:2]** I, Abraham, at the time when it fell to my lot, when I fulfilled the services (the sacrifices) of my father Terah to his gods of wood and stone, gold and silver, brass and iron;
 
@@ -8,15 +11,16 @@
 
 **[1:4]** And it came to pass, when I saw it, my heart was perplexed, and I considered in my mind that I should not be able to bring him back to his place, I, Abraham, alone, because he was heavy, being of a large stone,
 
-**[1:5]** And I went forth and made it known to my father, and he entered with me,
+**[1:5]** And I went forth and made it known to my father. And he entered with me,
 
-**[1:6]** And when both of us moved him (the god) forward, so that we might bring him back to his place, his head fell from him while I was still holding him by the head.
+**[1:6]** and when both of us moved him (the god) forward, so that we might bring him back to his place, his head fell from him while I was still holding him by the head.
 
 **[1:7]** And it came to pass, when my father saw that the head of Merumath had fallen from him, he said to me: “Abraham!”
 
 **[1:8]** And I said: “Here am I.” And he said to me: “Bring me an axe, of the small ones, from the house.” And I brought it to him.
 
 **[1:9]** And he hewed aright another Merumath out of another stone, without head, and the head which had been thrown down from Merumath he placed upon it, and the rest of Merumath he shattered.
+
 
 **[2:1]** And he made five other gods, and gave them to me [and] commanded me to sell them outside in the street of the town.
 
@@ -36,6 +40,7 @@
 
 **[2:9]** and they sank into the depths, and there was nothing more of them.
 
+
 **[3:1]** When I was still going on the way, my heart was perplexed within me, and my mind was distracted.
 
 **[3:2]** And I said in my heart: [“What evil deed is this that my father is doing?
@@ -46,11 +51,12 @@
 
 **[3:5]** Behold, Merumath fell and could not rise in his own temple, nor could I, by myself, move him until my father came, and the two of us moved him;
 
-**[3:6]** and as we were thus too weak, his head fell from him, and he (my father) set it upon another stone of another god, which he had made without head.
+**[3:6]** and as we were thus too weak, his head fell from him, and he (*i.e* my father) set it upon another stone of another god, which he had made without head.
 
-**[3:7]** And the other five gods were broken in pieces down from the ass, which were able-neither to help themselves, nor to hurt the ass, because it had broken them to pieces; nor did their broken fragments come up out of the river.”
+**[3:7]** And the other five gods were broken in pieces down from the ass, which were able neither to help themselves, nor to hurt the ass, because it had broken them to pieces; nor did their broken fragments come up out of the river.”
 
 **[3:8]** And I said in my heart: “If this be so, how can Merumath, my father’s god, having the head of another stone, and himself being made of another stone, rescue a man, or hear a man’s prayer and reward him?”
+
 
 **[4:1]** And while I cogitated thus, I reached my father’s house; and having watered the ass, and set out hay for it, I brought the silver and gave it into the hand of my father Terah.
 
@@ -64,6 +70,7 @@
 
 **[4:6]** And when he heard my word, he became furiously angry with me, because I had spoken hard words against his gods.
 
+
 **[5:1]** I, however, having thought over my father’s anger, went out;
 
 **[5:2]** [and after I had gone out] my father cried, saying: “Abraham!” And I said: “Here am I.”
@@ -74,7 +81,7 @@
 
 **[5:5]** And I did not inform my father that I had found the wooden god Barisat under the chips.
 
-**[5:6]** And it came to pass, when I had laid the splinters in the fire, in order that I might make ready food for my father—on going out to ask a question regarding the food,
+**[5:6]** And it came to pass, when I had laid the splinters in the fire, in order that I might make ready food for my father — on going out to ask a question regarding the food,
 
 **[5:7]** I placed Barisat before the kindled fire, saying threateningly to him: “Pay careful attention, Barisat, [that] the fire do not die down until I come; if, however, it dieth down, blow on it that it may burn up again.”
 
@@ -84,7 +91,7 @@
 
 **[5:10]** I burst into a fit of laughter, and I said to myself: “Truly, O Barisat, thou canst kindle the fire and cook food!”
 
-**[5:11]** And it came to pass, while I spake thus in my laughter he (Barisat) was gradually burnt up by the fire and reduced to ashes.
+**[5:11]** And it came to pass, while I spake thus in my laughter he (*i.e* Barisat) was gradually burnt up by the fire and reduced to ashes.
 
 **[5:12]** And I brought the food to my father, and he did eat. And I gave him wine and milk, and he was gladdened and blessed his god Merumath.
 
@@ -96,11 +103,12 @@
 
 **[5:16]** And he said: “Great is the power of Barisat! I will make another today, and tomorrow he will prepare my food.”
 
+
 **[6:1]** When I, Abraham, however, heard such words from my father, I laughed in my mind
 
 **[6:2]** and sighed in the grief and in the anger of my soul,
 
-**[6:3]** and said: “How then can that which is made by him—manufactured statues—be a helper of my father?
+**[6:3]** and said: “How then can that which is made by him — manufactured statues — be a helper of my father?
 
 **[6:4]** Or shall the body then be subject to its soul, and the soul to the spirit, and the spirit to folly and ignorance!”
 
@@ -108,13 +116,13 @@
 
 **[6:6]** And I answered and said: “O father Terah, whichever of these thou praisest as a god, thou art foolish in thy mind.
 
-**[6:7]** Behold the gods of my brother Nahor, which stand in the holy temple, are more worthy of honour than these of thine.
+**[6:7]** Behold the gods of thy brother Ora, which stand in the holy temple, are more worthy of honour than these of thine.
 
-**[6:8]** For behold Zucheus, the god of my brother Nahor, is more worthy of honour than thy god Merumath, because he is made of gold which is highly valued by people,
+**[6:8]** For behold Zucheus, the god of thy brother Oron, is more worthy of honour than thy god Merumath, because he is made of gold which is highly valued by people,
 
 **[6:9]** and when he groweth old in years he will be re-modelled; but if your god Merumath is changed or broken, he will not be renewed, because he is a stone;
 
-**[6:10]** the which is also the case with the god Joav on [who standeth with Zucheus over the other gods.
+**[6:10]** the which is also the case with the god Joavon [who standeth with Zucheus over the other gods - 
 
 **[6:11]** How much more worthy of honour is he than the god Barisat, who is made of wood, while he is forged of silver!
 
@@ -128,11 +136,12 @@
 
 **[6:16]** he is fallen from the height to the ground, he hath come from great estate to littleness, and the appearance of his countenance hath vanished,
 
-**[6:17]** and he Barisat himself is burnt up by fire and reduced to ashes and is no more;
+**[6:17]** and he] Barisat himself is burnt up by fire and reduced to ashes and is no more;
 
-**[6:18]** and thou sayest: “Today I will make another which tomorrow shall make ready my food!”
+**[6:18]** and thou sayest: “To-day I will make another which to-morrow shall make ready my food!”
 
 **[6:19]** “He hath perished to utter destruction!”
+
 
 **[7:1]** “Behold, the fire is more worthy of honour than all things formed because even that which is not subjected is subjected unto it, and things easily perishable are mocked by its flames.
 
@@ -144,21 +153,22 @@
 
 **[7:5]** But I call the earth much more worthy of honour, because it overpowereth the nature (and the fulness) of the water.
 
-**[7:6]** Even it (the earth), however, I do not call god, [because]14 it, too, is dried up by the sun, and is apportioned to man to be tilled.
+**[7:6]** Even it (viz. the earth), however, I do not call god, [because] it, too, is dried up by the sun, and is apportioned to man to be tilled.
 
 **[7:7]** I call the sun more worthy of honour than the earth, because it with its rays illumineth the whole world and the different atmospheres.
 
-**[7:8]** Even it I do not call god, because at night and by clouds its course is obscured.
+**[7:8]** But even it I do not call god, because at night and by clouds its course is obscured.
 
 **[7:9]** Nor, again, do I call the moon or the stars god, because they also in their season obscure their light at night.
 
 **[7:10]** But hear this, Terah my father; for I will make known to thee the God who hath made everything, not these we consider as gods.
 
-**[7:11]** Who then is He? or what is He? Who hath crimsoned the heavens, and made the sun golden, And the moon lustrous, and with it the stars; And hath made the earth dry in the midst of many waters, And set thee in and tested me in the confusion of my thoughts
+**[7:11]** Who then is He? or what is He? Who hath crimsoned the heavens, and made the sun golden, and the moon lustrous, and with it the stars; And hath made the earth dry in the midst of many waters, And set thee in.... and tested me in the confusion of my thoughts
 
 **[7:12]** “Yet may God reveal Himself to us through Himself!”
 
-**[8:1]** And it cane to pass as I was thinking things like these with regard to my father Terah in the court of my house, the voice of the Mighty One came down from
+
+**[8:1]** And it came to pass while I spake thus to my father Terah in the court of my house,
 
 **[8:2]** there cometh down the voice of a Mighty One from heaven in a fiery cloud-burst, saying and crying: “Abraham, Abraham!”
 
@@ -172,11 +182,12 @@
 
 **[8:7]** And it came to pass when I went out, that before I succeeded in getting out in front of the door of the court, there came a sound of a great thunder and burnt him and his house, and everything whatsoever in his house, down to the ground, forty cubits.
 
+
 **[9:1]** Then a voice came to me speaking twice: “Abraham, Abraham!”
 
 **[9:2]** And I said: “Here am I!”
 
-**[9:3]** And He said: “Behold, fear not, for I am before the worlds, and a mighty God who hath created the light of the world. I am a shield over thee, and I am thy helper.
+**[9:3]** And He said: “Behold, it is I; fear not, for I am before the worlds, and a mighty God who hath created the light of the world. I am a shield over thee, and I am thy helper.
 
 **[9:4]** Go, take me a young heifer of three years old, and a she-goat of three years old, and a ram of three years old, and a turtledove and a pigeon, and bring me a pure sacrifice.
 
@@ -192,9 +203,10 @@
 
 **[9:10]** and I will make known to thee what shall come to pass in them on those who have done evil and (practised) righteousness in the generation of men.
 
+
 **[10:1]** And it came to pass, when I heard the voice of Him who spake such words to me, (and) I looked hither and thither.
 
-**[10:2]** And lo! there was no breath of a man, and my spirit was affrighted, and my soul fled from me, and I became like a stone, and fell down upon the earth, for I had no more strength to stand on the earth.
+**[10:2]** and lo! there was no breath of a man, and my spirit was affrighted, and my soul fled from me, and I became like a stone, and fell down upon the earth, for I had no more strength to stand on the earth.
 
 **[10:3]** And while I was still lying with my face upon the earth, I heard the voice of the Holy One speaking: “Go, Jaoel, and by means of my ineffable Name raise me yonder man, and strengthen him (so that he recover) from his trembling.”
 
@@ -202,7 +214,7 @@
 
 **[10:5]** and grasped me by my right hand, and set me up upon my feet, and said to me: “Stand up, [Abraham,] Friend of God who loveth thee; let not the trembling of man seize thee!
 
-**[10:6]** For, lo! I have been sent to thee to strengthen thee and bless thee in the name of God—who loveth thee—the Creator of the celestial and terrestrial.
+**[10:6]** For, lo! I have been sent to thee to strengthen thee and bless thee in the name of God — who loveth thee — the Creator of the celestial and terrestrial.
 
 **[10:7]** Be fearless and hasten to Him.
 
@@ -226,6 +238,7 @@
 
 **[10:17]** and with me Michael blesseth thee for ever. Be of good cheer, go!”
 
+
 **[11:1]** And I rose up and saw him who had grasped me by my right hand and set me up upon my feet:
 
 **[11:2]** and the appearance of his body was like sapphire, and the look of his countenance like chrysolite, and the hair of his head like snow, and the turban upon his head like the appearance of the rainbow, and the clothing of his garments like purple;
@@ -238,9 +251,10 @@
 
 **[11:6]** but after the sacrifice, invisible for ever. Be of good cheer, and come!”
 
+
 **[12:1]** And we went, the two of us together, forty days and nights,
 
-**[12:2]** and I ate no bread, and drank no water, because my food was to see the angel who was with me, and his speech—that was my drink.
+**[12:2]** and I ate no bread, and drank no water, because my food was to see the angel who was with me, and his speech — that was my drink.
 
 **[12:3]** And we came to the Mount of God, the glorious Horeb.
 
@@ -248,15 +262,16 @@
 
 **[12:5]** And he said to me: “Look round!”
 
-**[12:6]** And I looked round, and lo! there were following us all the prescribed sacrificial (animals)—the young heifer, and the she-goat, and the ram, and the turtle-dove, and the pigeon.
+**[12:6]** And I looked round, and lo! there were following us all the prescribed sacrificial (animals) — the young heifer, and the she-goat, and the ram, and the turtle-dove, and the pigeon.
 
 **[12:7]** And the angel said to me: “Abraham!” I said: “Here am I.”
 
 **[12:8]** And he said to me: “All these slaughter, and divide the animals into halves, one against the other, but the birds do not sever; and (“but”) give to the men, whom I will shew thee, standing by thee, for these are the altar upon the Mountain, to offer a sacrifice to the Eternal;
 
-**[12:9]** but the turtledove and the pigeon give to me, for I will ascend upon the wings of the bird, in order to shew thee in heaven, and on the earth, and in the sea, and in the abyss, and in the under-world, and in the Garden of Eden, and in its rivers and in the fulness of the whole world and its circle.
+**[12:9]** but the turtledove and the pigeon give to me, for I will ascend upon the wings of the bird, in order to shew thee in heaven, and on the earth, and in the sea, and in the abyss, and in the under-world, and in the Garden of Eden, and in its rivers and in the fulness of the whole world and its circle -
 
-**[12:10]** Thou shalt gaze in (them) all
+**[12:10]** thou shalt gaze in (them) all."
+
 
 **[13:1]** And I did everything according to the commandment of the angel, and gave the angels, who had come to us, the divided animals, but the angel took the birds.
 
@@ -280,13 +295,14 @@
 
 **[13:11]** for God, the Eternal, Mighty One, hath not permitted that the bodies of the righteous should be in thy hand, in order that thereby the life of the righteous and the destruction of the unclean may be assured.
 
-**[13:12]** Hear, begone with shame from me. For it hath not been given to thee to play the tempter in regard to all the righteous.
+**[13:12]** Hear, friend, begone with shame from me. For it hath not been given to thee to play the tempter in regard to all the righteous.
 
 **[13:13]** Depart from this man! Thou canst not lead him astray, because he is an enemy to thee, and of those who follow thee and love what thou willest.
 
 **[13:14]** For, behold, the vesture which in heaven was formerly thine hath been set aside for him, and the mortality which was his hath been transferred to thee.”
 
-**[14:1]** The angel said to me: “Abraham!”
+
+**[14:1]** The angel said to me: [“Abraham!”
 
 **[14:2]** And I said: “Here am I, thy servant.”
 
@@ -294,15 +310,17 @@
 
 **[14:4]** be of good courage and use this authority, so far as I bid thee, against him who slandereth truth;
 
-**[14:5]** should I not be able to put him to shame who hath scattered over the earth the secrets of heaven and hath rebelled against the Mighty One?
+**[14:5]** should I not be able to put him to shame who hath scattered over the earth the secrets of heaven and hath rebelled against the Mighty One?]
 
-**[14:6]** Say to him: ‘Be thou the burning coal of the Furnace of the earth; go, Azazel, into the inaccessible parts of the earth.
+**[14:6]** Say to him: ‘Be thou the burning coal of the Furnace of the earth; go, Azazel, into the inaccessible parts of the earth;
+[for thy heritage is (to be) over those existing with thee being born with the stars and clouds, with the men whose portion thou art, and (who) through thy being exist; and thine emnity is justifiction. On this account by thy perdition disappear from me." And I uttered the words which the angel had taught me. And he said: "Abraham!" And I said, "Here am I, thy servant."]
 
-**[14:7]** And the angel said to me: “Answer him not; for God hath given him power over those who do answer him.”
+**[14:7]** And the angel said to me: “Answer him not; for God hath given him power (lit. will) over those who do answer him.”
 
 **[14:8]** And the angel spake to me a second time and said: “Now rather, however much he speak to thee, answer him not, that his will may have no free course in thee, because the Eternal and Mighty One hath given him weight and will; answer him not.”
 
 **[14:9]** I did what was commanded me by the angel; and however much he spake to me, I answered him nothing whatsoever.
+
 
 **[15:1]** And it came to pass when the sun went down, and lo! a smoke as of a furnace.
 
@@ -316,13 +334,15 @@
 
 **[15:6]** And lo! in this light a fiercely burning fire for people, many people of male appearance, all (constantly) changing in aspect and form, running and being transformed, and worshipping and crying with a sound of words which I knew not.
 
+
 **[16:1]** And I said to the Angel: “Why hast thou brought me up here now, because I cannot now see, for I am already grown weak, and my spirit departeth from me?”
 
-**[16:2]** And he said to me: “Remain by me; fear not! And He whom thou seest come straight towards us with great voice of holiness—that is the Eternal One who Loveth thee;
+**[16:2]** And he said to me: “Remain by me; fear not! And He whom thou seest come straight towards us with great voice of holiness —that is the Eternal One who Loveth thee;
 
 **[16:3]** but Himself thou canst not see.
 
 **[16:4]** But let not thy spirit grow faint on account of the loud crying, for I am with thee, strengthening thee.”
+
 
 **[17:1]** And while he yet spake (and) lo! fire came against us round about,
 
