@@ -4,7 +4,7 @@
 
 **[1:2]** I, Abraham, at the time when it fell to my lot, when I fulfilled the services (the sacrifices) of my father Terah to his gods of wood and stone, gold and silver, brass and iron;
 
-**[1:3]** having entered into their temple for service, I found the god whose name was Merumath (which was) hewn out of stone, fallen forward at the feet of the iron god Nahon.
+**[1:3]** Having entered into their temple for service, I found the god whose name was Merumath (which was) hewn out of stone, fallen forward at the feet of the iron god Nahon.
 
 **[1:4]** And it came to pass, when I saw it, my heart was perplexed, and I considered in my mind that I should not be able to bring him back to his place, I, Abraham, alone, because he was heavy, being of a large stone,
 
@@ -32,9 +32,9 @@
 
 **[2:7]** For I was concerned in my heart as to how I could bring to my father the purchase-price;
 
-**[2:8]** and the three broken ones I cast into the water of the river Gur, which was at that place,
+**[2:8]** And the three broken ones I cast into the water of the river Gur, which was at that place,
 
-**[2:9]** and they sank into the depths, and there was nothing more of them.
+**[2:9]** And they sank into the depths, and there was nothing more of them.
 
 **[3:1]** When I was still going on the way, my heart was perplexed within me, and my mind was distracted.
 
@@ -42,11 +42,11 @@
 
 **[3:3]** Is not he, rather, the god of his gods, since they come into existence through his chisels and lathes, and his wisdom,
 
-**[3:4]** and is it not rather fitting that they should worship my father, since they are his work? What is this delusion of my father in his works?]
+**[3:4]** And is it not rather fitting that they should worship my father, since they are his work? What is this delusion of my father in his works?]
 
 **[3:5]** Behold, Merumath fell and could not rise in his own temple, nor could I, by myself, move him until my father came, and the two of us moved him;
 
-**[3:6]** and as we were thus too weak, his head fell from him, and he (my father) set it upon another stone of another god, which he had made without head.
+**[3:6]** And as we were thus too weak, his head fell from him, and he (my father) set it upon another stone of another god, which he had made without head.
 
 **[3:7]** And the other five gods were broken in pieces down from the ass, which were able-neither to help themselves, nor to hurt the ass, because it had broken them to pieces; nor did their broken fragments come up out of the river.”
 
@@ -58,7 +58,7 @@
 
 **[4:3]** And I answered and said to him: “Hear, O my father, Terah! Blessed are the gods of thee, for thou art their god, since thou hast made them; for their blessing is ruination, and their power is vain;
 
-**[4:4]** they who did not help themselves, how shall they, then, help thee or bless me?
+**[4:4]** They who did not help themselves, how shall they, then, help thee or bless me?
 
 **[4:5]** I have been kind to thee in this affair, because by using my intelligence, I have brought thee the money for the broken gods.”
 
@@ -66,7 +66,7 @@
 
 **[5:1]** I, however, having thought over my father’s anger, went out;
 
-**[5:2]** [and after I had gone out] my father cried, saying: “Abraham!” And I said: “Here am I.”
+**[5:2]** [And after I had gone out] my father cried, saying: “Abraham!” And I said: “Here am I.”
 
 **[5:3]** And he said: “Take and collect the splinters of the wood out of which I made gods of pine-wood before thou camest; and make ready for me the food of the mid-day meal.”
 
@@ -98,9 +98,9 @@
 
 **[6:1]** When I, Abraham, however, heard such words from my father, I laughed in my mind
 
-**[6:2]** and sighed in the grief and in the anger of my soul,
+**[6:2]** And sighed in the grief and in the anger of my soul,
 
-**[6:3]** and said: “How then can that which is made by him—manufactured statues—be a helper of my father?
+**[6:3]** And said: “How then can that which is made by him—manufactured statues—be a helper of my father?
 
 **[6:4]** Or shall the body then be subject to its soul, and the soul to the spirit, and the spirit to folly and ignorance!”
 
@@ -112,9 +112,9 @@
 
 **[6:8]** For behold Zucheus, the god of my brother Nahor, is more worthy of honour than thy god Merumath, because he is made of gold which is highly valued by people,
 
-**[6:9]** and when he groweth old in years he will be re-modelled; but if your god Merumath is changed or broken, he will not be renewed, because he is a stone;
+**[6:9]** And when he groweth old in years he will be re-modelled; but if your god Merumath is changed or broken, he will not be renewed, because he is a stone;
 
-**[6:10]** the which is also the case with the god Joav on [who standeth with Zucheus over the other gods.
+**[6:10]** The which is also the case with the god Joav on [who standeth with Zucheus over the other gods.
 
 **[6:11]** How much more worthy of honour is he than the god Barisat, who is made of wood, while he is forged of silver!
 
@@ -122,15 +122,15 @@
 
 **[6:13]** But thy god Barisat, while he was still, before he had been prepared, rooted up (?) upon the earth and was great and wonderful with the glory of branches and blossom,
 
-**[6:14]** thou didst hew out with the axe, and by means of thy art he hath been made into a god.
+**[6:14]** Thou didst hew out with the axe, and by means of thy art he hath been made into a god.
 
 **[6:15]** And lo! his fatness is already withered and perished,
 
-**[6:16]** he is fallen from the height to the ground, he hath come from great estate to littleness, and the appearance of his countenance hath vanished,
+**[6:16]** He is fallen from the height to the ground, he hath come from great estate to littleness, and the appearance of his countenance hath vanished,
 
-**[6:17]** and he Barisat himself is burnt up by fire and reduced to ashes and is no more;
+**[6:17]** And he Barisat himself is burnt up by fire and reduced to ashes and is no more;
 
-**[6:18]** and thou sayest: “Today I will make another which tomorrow shall make ready my food!”
+**[6:18]** And thou sayest: “Today I will make another which tomorrow shall make ready my food!”
 
 **[6:19]** “He hath perished to utter destruction!”
 
@@ -160,7 +160,7 @@
 
 **[8:1]** And it cane to pass as I was thinking things like these with regard to my father Terah in the court of my house, the voice of the Mighty One came down from
 
-**[8:2]** there cometh down the voice of a Mighty One from heaven in a fiery cloud-burst, saying and crying: “Abraham, Abraham!”
+**[8:2]** There cometh down the voice of a Mighty One from heaven in a fiery cloud-burst, saying and crying: “Abraham, Abraham!”
 
 **[8:3]** And I said: “Here am I.”
 
@@ -182,15 +182,15 @@
 
 **[9:5]** And in this sacrifice I will lay before thee the ages (to come), and make known to thee what is reserved, and thou shalt see great things which thou hast not seen (hitherto);
 
-**[9:6]** because thou hast loved to search me out, and I have named thee my Friend.
+**[9:6]** Because thou hast loved to search me out, and I have named thee my Friend.
 
 **[9:7]** But abstain from every form of food that proceedeth out of the fire, and from the drinking of wine, and from anointing (thyself) with oil, forty days.”
 
 **[9:8]** And then set forth for me the sacrifice which I have commanded thee, in the place which I will shew thee, on a high mountain,
 
-**[9:9]** and there I will shew thee the ages which have been created and established, made and renewed, by my Word,
+**[9:9]** And there I will shew thee the ages which have been created and established, made and renewed, by my Word,
 
-**[9:10]** and I will make known to thee what shall come to pass in them on those who have done evil and (practised) righteousness in the generation of men.
+**[9:10]** And I will make known to thee what shall come to pass in them on those who have done evil and (practised) righteousness in the generation of men.
 
 **[10:1]** And it came to pass, when I heard the voice of Him who spake such words to me, (and) I looked hither and thither.
 
@@ -200,7 +200,7 @@
 
 **[10:4]** And the angel came, whom He had sent to me, in the likeness of a man,
 
-**[10:5]** and grasped me by my right hand, and set me up upon my feet, and said to me: “Stand up, [Abraham,] Friend of God who loveth thee; let not the trembling of man seize thee!
+**[10:5]** And grasped me by my right hand, and set me up upon my feet, and said to me: “Stand up, [Abraham,] Friend of God who loveth thee; let not the trembling of man seize thee!
 
 **[10:6]** For, lo! I have been sent to thee to strengthen thee and bless thee in the name of God—who loveth thee—the Creator of the celestial and terrestrial.
 
@@ -218,29 +218,29 @@
 
 **[10:13]** I have been sent to bless thee now, and the land which the Eternal One, whom thou hast invoked, hath prepared for thee,
 
-**[10:14]** and for thy sake have I wended my way upon the earth.
+**[10:14]** And for thy sake have I wended my way upon the earth.
 
 **[10:15]** Stand up, Abraham! Go without fear; be right glad and rejoice; and I am with thee! For eternal honour hath been prepared for thee by the Eternal One. Go, fulfil the sacrifices commanded.
 
 **[10:16]** For lo! I have been appointed to be with thee and with the generation prepared (to spring) from thee;
 
-**[10:17]** and with me Michael blesseth thee for ever. Be of good cheer, go!”
+**[10:17]** And with me Michael blesseth thee for ever. Be of good cheer, go!”
 
 **[11:1]** And I rose up and saw him who had grasped me by my right hand and set me up upon my feet:
 
-**[11:2]** and the appearance of his body was like sapphire, and the look of his countenance like chrysolite, and the hair of his head like snow, and the turban upon his head like the appearance of the rainbow, and the clothing of his garments like purple;
+**[11:2]** And the appearance of his body was like sapphire, and the look of his countenance like chrysolite, and the hair of his head like snow, and the turban upon his head like the appearance of the rainbow, and the clothing of his garments like purple;
 
-**[11:3]** and a golden sceptre was in his right hand. And he said to me: “Abraham!”
+**[11:3]** And a golden sceptre was in his right hand. And he said to me: “Abraham!”
 
 **[11:4]** And I said: “Here am I, thy servant.”
 
 **[11:5]** And he said: “Let not my look affright thee, nor my speech, that thy soul be not perturbed. Come with me and I will go with thee, visible until the sacrifice,
 
-**[11:6]** but after the sacrifice, invisible for ever. Be of good cheer, and come!”
+**[11:6]** But after the sacrifice, invisible for ever. Be of good cheer, and come!”
 
 **[12:1]** And we went, the two of us together, forty days and nights,
 
-**[12:2]** and I ate no bread, and drank no water, because my food was to see the angel who was with me, and his speech—that was my drink.
+**[12:2]** And I ate no bread, and drank no water, because my food was to see the angel who was with me, and his speech—that was my drink.
 
 **[12:3]** And we came to the Mount of God, the glorious Horeb.
 
@@ -254,7 +254,7 @@
 
 **[12:8]** And he said to me: “All these slaughter, and divide the animals into halves, one against the other, but the birds do not sever; and (“but”) give to the men, whom I will shew thee, standing by thee, for these are the altar upon the Mountain, to offer a sacrifice to the Eternal;
 
-**[12:9]** but the turtledove and the pigeon give to me, for I will ascend upon the wings of the bird, in order to shew thee in heaven, and on the earth, and in the sea, and in the abyss, and in the under-world, and in the Garden of Eden, and in its rivers and in the fulness of the whole world and its circle.
+**[12:9]** But the turtledove and the pigeon give to me, for I will ascend upon the wings of the bird, in order to shew thee in heaven, and on the earth, and in the sea, and in the abyss, and in the under-world, and in the Garden of Eden, and in its rivers and in the fulness of the whole world and its circle.
 
 **[12:10]** Thou shalt gaze in (them) all
 
@@ -276,9 +276,9 @@
 
 **[13:9]** For Abraham’s lot is in heaven, but thine upon the earth. Because thou hast chosen and loved this for the dwelling-(place) of thine uncleanness,
 
-**[13:10]** therefore the eternal mighty Lord made thee a dweller upon the earth and through thee every evil spirit of lies, and through thee wrath and trials for the generations of ungodly men;
+**[13:10]** Therefore the eternal mighty Lord made thee a dweller upon the earth and through thee every evil spirit of lies, and through thee wrath and trials for the generations of ungodly men;
 
-**[13:11]** for God, the Eternal, Mighty One, hath not permitted that the bodies of the righteous should be in thy hand, in order that thereby the life of the righteous and the destruction of the unclean may be assured.
+**[13:11]** For God, the Eternal, Mighty One, hath not permitted that the bodies of the righteous should be in thy hand, in order that thereby the life of the righteous and the destruction of the unclean may be assured.
 
 **[13:12]** Hear, begone with shame from me. For it hath not been given to thee to play the tempter in regard to all the righteous.
 
@@ -292,9 +292,9 @@
 
 **[14:3]** And he said: “Know from henceforth that the Eternal One hath chosen thee, (He) whom thou lovest;
 
-**[14:4]** be of good courage and use this authority, so far as I bid thee, against him who slandereth truth;
+**[14:4]** Be of good courage and use this authority, so far as I bid thee, against him who slandereth truth;
 
-**[14:5]** should I not be able to put him to shame who hath scattered over the earth the secrets of heaven and hath rebelled against the Mighty One?
+**[14:5]** Should I not be able to put him to shame who hath scattered over the earth the secrets of heaven and hath rebelled against the Mighty One?
 
 **[14:6]** Say to him: ‘Be thou the burning coal of the Furnace of the earth; go, Azazel, into the inaccessible parts of the earth.
 
@@ -320,69 +320,74 @@
 
 **[16:2]** And he said to me: “Remain by me; fear not! And He whom thou seest come straight towards us with great voice of holiness—that is the Eternal One who Loveth thee;
 
-**[16:3]** but Himself thou canst not see.
+**[16:3]** But Himself thou canst not see.
 
 **[16:4]** But let not thy spirit grow faint on account of the loud crying, for I am with thee, strengthening thee.”
 
+
 **[17:1]** And while he yet spake (and) lo! fire came against us round about,
 
-**[17:2]** and a voice was in the fire like a voice of many waters, like the sound of the sea in its uproar.
+**[17:2]** And a voice was in the fire like a voice of many waters, like the sound of the sea in its uproar.
 
 **[17:3]** And the angel bent his head with me and worshipped.
 
-**[17:4]** And I desired to fall down there and worship,
+**[17:4]** And I desired to fall down upon the earth, and the high place on which we stood, [at one moment rose upright], but at another rolled downwards.
 
-**[17:5]** and I saw that the angel who was with me bowed his head and worshipped,
+**[17:5]** And he said: “Only worship, Abraham, and utter the song which I have taught thee;” because there was no earth to fall upon.
 
-**[17:6]** but the surface of the high place where I seemed to be standing changed its inclination constantly, rolling as the great waves on the surface of the sea.
+**[17:6]** And I worshipped only, and uttered the song which he had taught me.
 
-**[17:7]** And he said: “Only worship, Abraham, and utter the song which I have taught thee;”
+**[17:7]** And he said: “Recite without ceasing.” And I recited, and he also himself with me recited the song:
 
-**[17:8]** And I worshipped only, and uttered the song which he had taught me.
+**[17:8]** Eternal, mighty, Holy, El,
+God only — Supreme!
 
-**[17:9]** And he said: “Recite without ceasing.” And I recited, and he also himself with me recited the song:
+**[17:9]** Thou who art self-originated, incorruptible, spotless,
+Uncreated, immaculate, immortal, 
+Self-complete, self-illuminating; 
+Without father, without mother, unbegotten, 
+Exalted, fiery One!
 
-**[17:10]** Eternal, mighty, Holy, El,God unique—Supreme!
+**[17:10]** Lover of men, benevolent, bountiful jealous over me and very compassionate;
 
-**[17:11]** Thou who art self-originated, incorruptible, spotless, Uncreate, immaculate, immortal, Self-complete, self-illuminating; Without father, without mother, unbegotten, Exalted, fiery One!
+**[17:11]** Eli, that is, My God — Eternal, mighty holy Sabaoth, very glorious El, El, El, El, Jaoel!
 
-**[17:12]** Lover of men, benevolent, bountiful jealous over me and very compassionate;
+**[17:12]** Thou art He whom my soul hath loved!
 
-**[17:13]** Eli, that is, My God— Eternal, mighty holy Sabaoth, very glorious El, El, El, El, Jaoel!
+**[17:13]** Eternal Protector, shining like fire,
+Whose voice is like the thunder,
 
-**[17:14]** Thou art He whom my soul hath loved!
+**[17:14]** Whose look is like the lightning, all-seeing,
 
-**[17:15]** Eternal Protector, shining like fire, Whose voice is like the thunder,
+**[17:15]** Who receiveth the prayers of such as honour Thee!
 
-**[17:16]** Whose look is like the lightning, all-seeing,
+**[17:16]** And turneth away from the requests of such as embarrass with the embarrassment of their provocations,
 
-**[17:17]** Who receiveth the prayers of such as honour Thee!
+**[17:17]** Who dissolveth the confusions of the world which arise from the ungodly and righteous in the corruptible age, renewing the age of the righteous!
 
-**[17:18]** And turneth away from the requests of such as embarrass with the embarrassment of their provocations,
+**[17:18]** Thou, O Light, shinest before the light of the morning upon Thy creatures, so that it becometh day upon the earth.
 
-**[17:19]** Who dissolveth the confusions of the world which arise from the ungodly and righteous in the corruptible age renewing the age of the righteous!
+**[17:19]** And in Thy heavenly dwelling places there is no need of any other light than (that) of the unspeakable splendour from the lights of Thy countenance.
 
-**[17:20]** Thou, O Light, shinest before the light of the morning upon Thy creatures, so that it becometh day upon the earth.
+**[17:20]** Accept my prayer [and be well-pleased with it], likewise also the sacrifice which Thou hast prepared Thee through me who sought Thee!
 
-**[17:21]** And in Thy heavenly dwelling places there is no need of any other light than (that) of the unspeakable splendour from the lights of Thy countenance.
+**[17:21]** Accept me favourably, and shew me, and teach me,
+And make known to Thy servant as thou hast promised me!
 
-**[17:22]** Accept my prayer and be well-pleased with it, likewise also the sacrifice which Thou hast prepared Thee through me who sought Thee!
-
-**[17:23]** Accept me favourably, and shew me, and teach me, And make known to Thy servant as thou hast promised me!
 
 **[18:1]** And while I still recited the song, the mouth of the fire which was on the surface rose up on high.
 
 **[18:2]** And I heard a voice like the roaring of the sea; nor did it cease on account of the rich abundance of the fire.
 
-**[18:3]** And as the fire raised itself up, ascending into the height, I saw under the fire a throne of fire, and, round about it all-seeing ones, reciting the song, and under the throne four fiery living creatures singing.
+**[18:3]** And as the fire raised itself up, ascending into the height, I saw under the fire a throne of fire, and, round about it all-seeing ones, reciting the song, and under the throne four fiery living creatures singing,
 
-**[18:4]** And their appearance was one, each one of them with four faces. And such was the appearance of their countenances, of a lion, of a man, of an ox, of an eagle:"The form of their faces was that of a man, and each of the four had the face of a lion on the right side, the face of an ox on the left side, and also the face of an eagle."
+**[18:4]** And their appearance was one, each one of them with four faces. And such was the appearance of their countenances, of a lion, of a man, of an ox, of an eagle:
 
 **[18:5]** Four heads were upon their bodies so that the four creatures had sixteen faces;
 
 **[18:6]** And each had six wings; from their shoulders, and their sides and their loins.
 
-**[18:7]** And with the two wings from their shoulders they covered their faces, and with the two wings which sprang from their loins they covered their feet, while the two middle wings they spread out for flying straightforward. "and within it was the form of four living creatures. And this was their appearance: They had a human form, but each had four faces and four wings. Their legs were straight, and the soles of their feet were like the hooves of a calf, gleaming like polished bronze."
+**[18:7]** And with the two wings from their shoulders they covered their faces, and with the two wings which sprang from their loins they covered their feet, while the two middle wings they spread out for flying straightforward.
 
 **[18:8]** And when they had ended the singing, they looked at one another and threatened one another.
 
@@ -390,11 +395,12 @@
 
 **[18:10]** And as I stood alone and looked, I saw behind the living creatures a chariot with fiery wheels.
 
-**[18:11]** Each wheel full of eyes round about; and over the wheels was a throne which I saw,
+**[18:11]** Each wheel full of eyes round about; and over the wheels was a throne; which I saw,
 
-**[18:12]** and this was covered with fire, and fire encircled it round about, and lo! an indescribable fire environed a fiery host.
+**[18:12]** And this was covered with fire, and fire encircled it round about, and lo! an indescribable fire environed a fiery host.
 
 **[18:13]** And I heard its holy voice like the voice of a man.
+
 
 **[19:1]** And a voice came to me out of the midst of the fire, saying: “Abraham, Abraham!”
 
@@ -404,9 +410,9 @@
 
 **[19:4]** And while He was yet speaking (and) lo! the expanses opened, and beneath me the heavens.
 
-**[19:5]** I saw in the seventh heaven, on which I was standing, an outstretched fire, the light which is the treasure of life, the dew with which God will raise the dead, the spirits of the righteous departed, the spirits of the unborn souls, judgment and justice, peace and blessing, a multitude of angels and living creatures, and the Power of the Invisible Glory which was seated above the living creatures; but no other being did I see there.
+**[19:5]** And I saw in the seventh firmament upon which I stood a fire widely extended, and light, and dew, and a multitue of angels and a power of invisible glory over the living creatures which I saw; but no other being did I see there.
 
-**[19:6]** And I looked from the mountain in which I stood downwards to the sixth firmament, and saw there a multitude of angels, of (pure) spirit, without bodies, who carried out the commands of the fiery angels who were upon the seventh firmament, as I was standing suspended over them.
+**[19:6]** And I looked from the mountain in which I stood [downwards] to the sixth firmament, and saw there a multitude of angels, of (pure) spirit, without bodies, who carried out the commands of the fiery angels who were upon the eighth firmament, as I was standing suspended over them.
 
 **[19:7]** And behold, upon this firmament there were no other powers of (any) other form, but only angels of (pure) spirit, like the power which I saw on the seventh firmament.
 
@@ -414,25 +420,27 @@
 
 **[19:9]** And I saw there, on the fifth firmament, the powers of the stars which carry out the commands laid upon them, and the elements of the earth obeyed them.
 
+
 **[20:1]** And the Eternal Mighty One said to me: “Abraham, Abraham!”
 
 **[20:2]** And I said: “Here am I.”
 
-**[20:3]** And He said: “Consider from above the stars which are beneath thee, and number, them for me, and make known to me their number.”
+**[20:3]** And He said: “Consider from above the stars which are beneath thee, and number, them [for me], and make known [to me] their number.”
 
-**[20:4]** And I said: “When can I? For I am but a man of dust and ashes.
+**[20:4]** And I said: “When can I? For I am but a man [of dust and ashes].
 
-**[20:5]** And he said to me: “As the number of the stars and their power, so will I make thy seed a nation and a people, set apart for me in my heritage with Azazel.”
+**[20:5]** And he said to me: “As the number of the stars and their power, (so will) I make thy seed a nation and a people, set apart for me in my heritage with Azazel.”
 
 **[20:6]** And I said: “O Eternal, Mighty One! Let thy servant speak before Thee, and let not Thine anger kindle against Thy chosen one!
 
 **[20:7]** Lo, before Thou leddest me up Azazel inveighed against me. How, then, while he is not now before Thee, hast Thou constituted Thyself with him?”
 
+
 **[21:1]** And He said to me: “Look, now, beneath thy feet at the firmaments and understand the creation foreshadowed in this expanse, the creatures existing on it, and the age prepared according to it.”
 
 **[21:2]** And I saw beneath the surfaces of the feet, and I saw beneath the sixth heaven and what was therein,
 
-**[21:3]** and then the earth and its fruits, and what moved upon it and its animate beings; and the power of its men, and the ungodliness of their souls, and their righteous deeds and the beginnings of their works, and the lower regions and the perdition therein, the Abyss and its torments.
+**[21:3]** And then the earth and its fruits, and what moved upon it and its animate beings; and the power of its men, and the ungodliness of their souls, and their righteous deeds [and the beginnings of their works], and the lower regions and the perdition therein, the Abyss and its torments.
 
 **[21:4]** I saw there the sea and its islands, and its monsters and its fishes, and Leviathan and his dominion, and his camping-ground, and his caves, and the world which lay upon him, and his movements, and the destructions of the world on his account.
 
@@ -440,7 +448,8 @@
 
 **[21:6]** And I saw there the Garden of Eden and its fruits, the source of the stream issuing from it, and its trees and their bloom, and those who behaved righteously. And I saw therein their foods and blessedness.
 
-**[21:7]** And I saw there a great multitude—men and women and children, half of them on the right side of the picture and half of them on the left side of the picture.
+**[21:7]** And I saw there a great multitude — men and women and children, [half of them on the right side of the picture] and half of them on the left side of the picture.
+
 
 **[22:1]** And I said: “O Eternal, Mighty One! What is this picture of the creatures?”
 
@@ -452,9 +461,10 @@
 
 **[22:5]** And He said to me: “These which are on the left side are the multitude of the peoples which have formerly been in existence and which are after thee destined, some for judgement and restoration, and others for vengeance and destruction at the end of the world.
 
-**[22:6]** But these which are on the right side of the picture—they are the people set apart for me of the peoples with Azazel.
+**[22:6]** But these which are on the right side of the picture — they are the people set apart for me of the peoples with Azazel.
 
 **[22:7]** These are they whom I have ordained to be born of thee and to be called My People.
+
 
 **[23:1]** “Now look again in the picture, who it is who seduced Eve and what is the fruit of the tree, [and] thou wilt know what there shall be, and how it shall be to thy seed among the people at the end of the days of the age, and so far as thou canst not understand I will make known to thee, for thou art well-pleasing in my sight, and I will tell thee what is kept in my heart.”
 
@@ -470,11 +480,12 @@
 
 **[23:7]** And I said: “O Eternal, Mighty One! Why hast Thou given to such power to destroy the generation of men in their works upon the earth?”
 
-**[23:8]** And He said to me: “They who will (to do) evil—and how much I hated (it) in those who do it!—over them I gave him power, and to be beloved of them.”
+**[23:8]** And He said to me: “They who will (to do) evil — and how much I hated (it) in those who do it! — over them I gave him power, and to be beloved of them.”
 
 **[23:9]** And I answered and said: “O Eternal, Mighty One! Wherefore hast Thou willed to effect that evil should be desired in the hearts of men, since Thou indeed art angered over that which was willed by Thee, at him who is doing what is unprofitable in thy counsel?”
 
-**[24:1]** And He said to me: “Being angered at the nations on thy account, and on account of the people of thy family who are (to be) separated after thee, as thou seest in the picture the burden (of destiny) that (is laid) upon them—and I will tell thee what shall be, and how much shall be, in the last days.
+
+**[24:1]** And He said to me: “Being angered at the nations on thy account, and on account of the people of thy family who are (to be) separated after thee, as thou seest in the picture the burden (of destiny) that (is laid) upon them — and I will tell thee what shall be, and how much shall be, in the last days.
 
 **[24:2]** Look now at everything in the picture.”
 
@@ -484,11 +495,12 @@
 
 **[24:5]** I saw there also Impurity, and those who lust after it, and its pollution, and their jealousy, and the fire of their corruption in the lowest parts of the earth.
 
-**[24:6]** I saw there Theft, and those who hasten after it, and the arrangement [of their retribution, the judgement of the Great Assize.
+**[24:6]** I saw there Theft, and those who hasten after it, and the arrangement [of their retribution, the judgement of the Great Assize.]
 
 **[24:7]** I saw there naked men, the foreheads against each other, and their disgrace, and their passion which (they had) against each other, and their retribution.
 
 **[24:8]** I saw there Desire, and in her hand the head of every kind of lawlessness [and her scorn and her waste assigned to perdition.
+
 
 **[25:1]** I saw there the likeness of the idol of jealousy, having the likeness of woodwork such as my father was wont to make, and its statue was of glittering bronze.
 
@@ -500,7 +512,8 @@
 
 **[25:5]** But the statue which thou sawest is mine anger wherewith the people anger me who are to proceed for me from thee.
 
-**[25:6]** But the man whom thou sawest slaughtering—that is he who inciteth murderous sacrifices and provokes me to anger, and the sacrifice is the killing of those who are for me the testimony of the last judgment, and their fate was fixed from the beginning of the creation.”
+**[25:6]** But the man whom thou sawest slaughtering — that is he who inciteth, of which are a witness to me of the final judgement, even at the beginning of the creation.'
+
 
 **[26:1]** And I said: “O Eternal, Mighty One! Wherefore hast Thou established that it should be so, and then proclaim the knowledge thereof?”
 
@@ -514,7 +527,8 @@
 
 **[26:6]** How those of thy seed will be, look in the picture.
 
-**[27:1]** And I looked and saw: lo! the picture swayed and from it emerged.
+
+**[27:1]** And I looked and saw: lo! the picture swayed and from it emerged,
 
 **[27:2]** On its left side, a heathen people, and they pillaged those who were on the right side, men and women and children: some they slaughtered, others they retained with themselves.
 
@@ -528,11 +542,13 @@
 
 **[27:7]** And I said: “O Eternal, Mighty One! May the works of evil wrought in ungodliness now pass by, but show me rather those who fulfilled the commandments, even the works of his righteousness. For thou canst do this.”
 
-**[27:8]** And He said to me: “The time of the righteous meeteth them first through the holiness flowing from kings and righteous-dealing rulers whom I at first created in order from such to rule among them. But from these issue men who care for their interests, as I have made known to thee and thou hast seen.”
+**[27:8]** And He said to me: “The time of the righteous meeteth them first through the holiness (flowing) from kings and righteous-dealing rulers whom I at first created in order from such to rule among them. But from these issue men who care for their interests, as I have made known to thee and thou hast seen.”
 
-**[28:1]** And I answered and said: “O Mighty, Eternal One, hallowed by Thy power! Be favourable to my petition, for for this hast Thou brought me up here—and shew m]. As Thou hast brought me up to Thy height, so make this known to me, Thy beloved one, as much as I ask—whether what I saw shall happen to them for long?
 
-**[28:2]** And He showed me a multitude of His people, and said to me: “On their account through four issues, as thou sawest, I shall be provoked by them, and in these my retribution for their deeds shall be accomplished. But in the fourth outgoing of a hundred years and one hour of the age it shall be in misfortune among the heathen [but one hour in mercy and contumely, as among the heathen.
+**[28:1]** And I answered and said: “O Mighty, Eternal One, hallowed by Thy power! Be favourable to my petition, for for this hast Thou brought me up here—and shew m]. As Thou hast brought me up to Thy height, so make this known to me, Thy beloved one, as much as I ask — whether what I saw shall happen to them for long?
+
+**[28:2]** And He showed me a multitude of His people, and said to me: “On their account through four issues, as thou sawest, I shall be provoked by them, and in these my retribution for their deeds shall be accomplished. But in the fourth outgoing of a hundred years and one hour of the age it shall be in misfortune among the heathen [but one hour in mercy and contumely, as among the heathen.]
+
 
 **[29:1]** And I said: “O Eternal Mighty One! And how long a time is an hour of the Age?”
 
@@ -548,52 +564,57 @@
 
 **[29:7]** And I said: “O Eternal, Mighty One! Who is the man insulted and beaten, who is worshipped by the heathen with Azazel?”
 
-**[29:8]** And He answered and said: “Hear, Abraham! The man whom thou sawest insulted and beaten and again worshipped—that is the relief granted by the heathen to the people who proceed from thee, in the last days, in this twelfth hour of the Age of ungodliness. But in the twelfth year of my final Age I will set up this man from thy generation, whom thou sawest (issue)from my people; this one all will follow, and such as are called by me will join, even those who change in their counsels.
+**[29:8]** And He answered and said: “Hear, Abraham! The man whom thou sawest insulted and beaten and again worshipped — that is the relief (granted) by the heathen to the people who proceed from thee, in the last days, in this twelfth hour of the Age of ungodliness. But in the twelfth year of my final Age I will set up this man from thy generation, whom thou sawest (issue) from my people; this one all will follow, and such as are called by me (will) join, (even) those who change in their counsels.
 
-**[29:9]** And those whom thou sawest emerge from the left side of the picture—the meaning is: There shall be many from the heathen who set their hopes upon him; and as for those whom thou sawest from thy seed on the right side, some insulting and striking, others worshipping him—many of them shall be offended at him.
+**[29:9]** And those whom thou sawest emerge from the left side of the picture — the meaning is: There shall be many from the heathen who set their hopes upon him; and as for those whom thou sawest from thy seed on the right side, some insulting and striking, others worshipping him — many of them shall be offended at him.
 
 **[29:10]** He, however, is testing those who have worshipped him of thy seed, in that twelfth hour of the End, with a view to shortening the Age of ungodliness.
 
-**[29:11]** “Before the Age of the righteous beginneth to grow, my judgement shall come upon the lawless heathen through the people of thy seed who have been separated for me. In those days I will bring upon all creatures of the earth ten plagues,10 through misfortune and disease and sighing of the grief of their soul. Thus much will I bring upon the generations of men that be upon it on account of the provocation and the corruption of its creatures, whereby they provoke me.
+**[29:11]** “Before the Age of the righteous beginneth to grow, my judgement shall come upon the lawless heathen through the people of thy seed who have been separated for me. In those days I will bring upon all creatures of the earth ten plagues, through misfortune and disease and sighing of the grief of their soul. Thus much will I bring upon the generations of men that be upon it on account of the provocation and the corruption of its creatures, whereby they provoke me.
 
-**[29:12]** And then shall righteous men of thy seed be left in the number which is kept secret by me, hastening in the glory of My Name to the place prepared beforehand for them, which thou sawest devastated in the picture; and they shall live and be established through sacrifices and gifts of righteousness and truth in the Age of the righteous, and shall rejoice in Me continually; and they shall destroy those who have destroyed them. and shall insult those who have insulted them“
+**[29:12]** And then shall righteous men of thy seed be left in the number which is kept secret by me, hastening in the glory of My Name to the place prepared beforehand for them, which thou sawest devastated in the picture; and they shall live and be established through sacrifices and gifts of righteousness and truth in the Age of the righteous, and shall rejoice in Me continually; and they shall destroy those who have destroyed them,
+And shall insult those who have insulted them“
 
-**[29:13]** And of those who defamed them they shall spit in the face, scorned by Me, while they the righteous shall behold Me full of joy, rejoicing with My people, and receiving those who return to Me in repentance.
+**[29:13]** And of those who defamed them they shall spit in the face, scorned by Me, while they the righteous shall behold Me full of joy, rejoicing with My people, and receiving those who return to Me [in repentance].
 
-**[29:14]** See, Abraham, what thou hast seen, And hear what thou hast heard, And take full knowledge of what thou hast come to know. Go to thy heritage.
+**[29:14]** See, Abraham, what thou hast seen,
+And [hear] what thou hast heard, 
+And [take full knowledge of] what thou hast come to know. 
+Go to thy heritage.
 
 **[29:15]** And lo! I am with you for ever.
 
-**[30:1]** But while He was still speaking, I found myself upon the earth. And I said: “O Eternal, Mighty One, I am no longer in the glory in which I was while on high, and what my soul longed to understand in mine heart I do not understand.”
+
+**[30:1]** But while He was still speaking, I found myself upon the earth. And I said: “O Eternal, [Mighty One], I am no longer in the glory in which I was (while) on high, and what my soul longed to understand in mine heart I do not understand.”
 
 **[30:2]** And He said to me: “What is desired in thine heart I will tell thee, because thou hast sought to see the ten plagues which I have prepared for the heathen, and have prepared beforehand at the passing over of the twelfth hour of the earth.
 
 **[30:3]** Hear what I divulge to thee, so shall it come to pass:
 
-**[30:4]** the first is pain of great distress; the second, conflagration of many cities;
+**[30:4]** The first is pain of great distress; the second, conflagration of many cities;
 
-**[30:5]** the third, destruction and pestilence of animals; the fourth, hunger of the whole world and of its people;
+**[30:5]** The third, destruction and pestilence of animals; the fourth, hunger of the whole world and of its people;
 
 **[30:6]** the fifth by destruction among its rulers, destruction by earthquake and the sword; the sixth, multiplication of hail and snow; the seventh, the wild beasts will be their grave;
 
-**[30:7]** the eighth, hunger and pestilence will alternate with their destruction;
+**[30:7]** The eighth, hunger and pestilence will alternate with their destruction;
 
-**[30:8]** the ninth, punishment by the sword and flight in distress; the tenth, thunder and voices and destructive earthquake.
+**[30:8]** The ninth, punishment by the sword and flight in distress; the tenth, thunder and voices and destructive earthquake.
+
 
 **[31:1]** “And then I will sound the trumpet out of the air, and will send mine Elect One, having in him all my power, one measure; and this one shall summon my despised people from the nations.
 
 **[31:2]** And I will burn with fire those who have insulted them and who have ruled among them in this Age.
 
-**[31:3]** And I will give those who have covered me with mockery to the scorn of the coming Age.
+**[31:3]** And I will give those who have covered me with mockery to the scorn of the coming Age;
 
 **[31:4]** And I have prepared them to be food for the fire of Hades and for ceaseless flight to and fro through the air in the underworld beneath the earth the body filled with worms.
 
-**[31:5]** For on them shall they see the righteousness of the Creator, those, namely, who have chosen to do my will, and those who have openly kept my commandments, and they shall rejoice with joy over the downfall of the men who still remain, who have followed the idols and their murders.
+**[31:5]** For on them shall they see the righteousness of the Creator, those, namely, who have chosen to do my will, and those who have openly kept my commandments, (and) they shall rejoice with joy over the downfall of the men who still remain, who have followed the idols and their murders.
 
-**[31:6]** For they shall putrefy in the body of the evil worm Azazel, and be burnt with the fire of Azazel’s tongue; for I hoped that they would come to me, and not have loved and praised the strange go, and not have adhered to him for whom they were not allotted, but instead they have forsaken the mighty Lord.”
+**[31:6]** For they shall putrefy in the body of the evil worm Azazel, and be burnt with the fire of Azazel’s tongue; for I hoped that they would come to me, and not have loved and praised the strange (god), and not have adhered to him for whom they were not allotted, but (instead) they have forsaken the mighty Lord.”
+
 
 **[32:1]** “Therefore hear, O Abraham, and see; lo! thy seventh generation shall go with thee, and they shall go out into a strange land, and they shall enslave them, and evil-entreat them as it were an hour of the Age of ungodliness but the nation whom they shall serve I will judge.
 
-**[32:2]** And the Lord said this too, "Have you heard, Abraham, what I told you, what your tribe will encounter in the last days?"
 
-**[32:3]** Abraham, having heard, accepted the words of God in his heart.
